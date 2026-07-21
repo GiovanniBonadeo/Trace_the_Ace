@@ -30,10 +30,11 @@ LABELS_PATH = "train_labels.csv"
 TRANSCRIPTS_DIR = "train_transcripts" 
 
 # Pick which template to run. Run with --list-prompts to see all names.
-PROMPT_NAME = "ABCD4_prompt"
+PROMPT_NAME = "ABCD4"
 
 N_SAMPLES = 100
 RANDOM_SEED = 20260721  # fixed seed so the same 100 sessions are picked every run
+STRATIFY_BY_LABEL = True # if True, sample ~50% is_correct=1 and ~50% is_correct=0
 
 OUTPUT_CSV = f"results_{PROMPT_NAME}.csv"                 # full debug output (raw response, timing, errors)
 SUBMISSION_CSV = f"submission_{PROMPT_NAME}.csv"           # competition format: response_id,probability
@@ -104,6 +105,37 @@ def build_conversation_text(transcripts_dir: str, session_id: str) -> str:
     for _, row in df.iterrows():
         lines.append(f"{row['role']}: {row['content']}  [{row['timestamp']}]")
     return "\n".join(lines)
+
+def sample_responses(features: pd.DataFrame, labels_path: str, n_samples: int,
+                      random_state: int, stratify: bool) -> pd.DataFrame:
+    if not stratify:
+        return features.sample(n=min(n_samples, len(features)), random_state=random_state).reset_index(drop=True)
+
+    labels = pd.read_csv(labels_path)
+    merged = features.merge(labels, on="response_id", how="inner")
+
+    n_missing_labels = len(features) - len(merged)
+    if n_missing_labels:
+        print(f"NOTE: {n_missing_labels} responses had no matching label and were excluded from stratified sampling.")
+
+    correct = merged[merged["is_correct"] == 1.0]
+    incorrect = merged[merged["is_correct"] == 0.0]
+
+    n_each = n_samples // 2
+    n_correct = min(n_each, len(correct))
+    n_incorrect = min(n_samples - n_correct, len(incorrect))
+
+    if n_correct < n_each or n_incorrect < n_each:
+        print(f"NOTE: requested {n_each}/{n_each} split but only {len(correct)} correct "
+              f"and {len(incorrect)} incorrect rows available with labels. "
+              f"Using {n_correct} correct + {n_incorrect} incorrect.")
+
+    sample = pd.concat([
+        correct.sample(n=n_correct, random_state=random_state),
+        incorrect.sample(n=n_incorrect, random_state=random_state),
+    ]).sample(frac=1, random_state=random_state)  # shuffle so correct/incorrect aren't grouped in run order
+
+    return sample.drop(columns=["is_correct"]).reset_index(drop=True)
 
 
 # ============================================================
@@ -193,8 +225,8 @@ def main():
         print(f"ERROR: TRANSCRIPTS_DIR '{TRANSCRIPTS_DIR}' does not exist or is not a directory.")
         sys.exit(1)
 
-    # sample N responses (fixed seed -> reproducible sample)
-    sample = features.sample(n=min(N_SAMPLES, len(features)), random_state=RANDOM_SEED).reset_index(drop=True)
+    # sample N responses (fixed seed -> reproducible sample; optionally stratified 50/50 by outcome)
+    sample = sample_responses(features, LABELS_PATH, N_SAMPLES, RANDOM_SEED, STRATIFY_BY_LABEL)
 
     os.makedirs(RENDERED_DIR, exist_ok=True)
     results = []
