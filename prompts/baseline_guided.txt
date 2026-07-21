@@ -1,0 +1,25 @@
+Baseline — Direct Achievement Prediction with Suggestions
+
+Given the target learning objective and educational conversation, predict the probability that the learner answers the next assessment question on the same objective correctly.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Prioritise the learner's latest performance. Consider correctness, consistency, objective coverage, reasoning, errors, progress, required support, prior knowledge, engagement, and responsiveness to instruction.
+
+Return JSON only:
+
+{
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+{{topic}}
+
+CONVERSATION:
+{{conversation}}

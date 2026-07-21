@@ -1,6 +1,6 @@
-ABCD4 — Top Four Dimensions from Every Layer
+A8 — Direct Mastery Evidence
 
-Evaluate the top four dimensions from each layer, then predict the next assessment response.
+Evaluate direct evidence of the learner's capability for the target objective, then predict the next assessment response.
 
 Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
 
@@ -16,31 +16,15 @@ LGC: Learner-generated objective coverage
 
 NTP: Novel transfer performance
 
-SLD: Support level at demonstration
+COC: Cross-opportunity consistency
 
-TAC: Teacher-answer contamination
+SMR: Stable misconception resolution
 
-LOA: Learning-objective alignment
+SEQ: Self-explanation quality
 
-IEO: Independent evidence opportunities
+PC: Procedural completeness
 
-PIT: Performance-improvement trajectory
-
-SFS: Scaffold-fading success
-
-IFU: Immediate feedback uptake
-
-FT: Feedback transfer
-
-EKS: Entry knowledge state
-
-PR: Prerequisite readiness
-
-EPE: Explicit prior exposure
-
-LTD: Learner-relative topic difficulty
-
-Use the four groups as complementary context. Direct learner performance should usually be most influential, while evidence conditions, learning process, and context refine the prediction. Higher scores always mean stronger or more favourable evidence; for SLD, TAC, and LTD, this means lower support dependence, lower contamination, and lower unresolved difficulty.
+Higher scores mean stronger learner capability. Give more weight to recent and increasingly independent performance, while still using supported responses and tutor interaction as context.
 
 Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
 
@@ -80,29 +64,13 @@ LGC: `objective coverage`
 
 NTP: `transfer performance`
 
-SLD: `support independence`
+COC: `performance consistency`
 
-TAC: `answer independence`
+SMR: `misconception resolution`
 
-LOA: `objective alignment`
+SEQ: `explanation quality`
 
-IEO: `evidence opportunities`
-
-PIT: `improvement trajectory`
-
-SFS: `scaffold fading`
-
-IFU: `feedback uptake`
-
-FT: `feedback transfer`
-
-EKS: `entry knowledge`
-
-PR: `prerequisite readiness`
-
-EPE: `prior exposure`
-
-LTD: `topic manageability`
+PC: `procedural completeness`
 
 Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
 
@@ -116,18 +84,10 @@ Return JSON only:
     "IRV": {"score": 0, "label": "minimal reasoning validity"},
     "LGC": {"score": 0, "label": "minimal objective coverage"},
     "NTP": {"score": 0, "label": "minimal transfer performance"},
-    "SLD": {"score": 0, "label": "minimal support independence"},
-    "TAC": {"score": 0, "label": "minimal answer independence"},
-    "LOA": {"score": 0, "label": "minimal objective alignment"},
-    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
-    "PIT": {"score": 0, "label": "minimal improvement trajectory"},
-    "SFS": {"score": 0, "label": "minimal scaffold fading"},
-    "IFU": {"score": 0, "label": "minimal feedback uptake"},
-    "FT": {"score": 0, "label": "minimal feedback transfer"},
-    "EKS": {"score": 0, "label": "minimal entry knowledge"},
-    "PR": {"score": 0, "label": "minimal prerequisite readiness"},
-    "EPE": {"score": 0, "label": "minimal prior exposure"},
-    "LTD": {"score": 0, "label": "minimal topic manageability"}
+    "COC": {"score": 0, "label": "minimal performance consistency"},
+    "SMR": {"score": 0, "label": "minimal misconception resolution"},
+    "SEQ": {"score": 0, "label": "minimal explanation quality"},
+    "PC": {"score": 0, "label": "minimal procedural completeness"}
   },
   "achievement": {
     "probability": 0.0

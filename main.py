@@ -168,7 +168,7 @@ def call_server(user_prompt: str) -> dict:
         "chat_template_kwargs": {"enable_thinking": ENABLE_THINKING},
     }
     headers = {"Content-Type": "application/json"}
-    if LOCAL_API_KEY and LOCAL_API_KEY != "sk-RZSBTkuZYOeXULKBTKupkA":
+    if LOCAL_API_KEY and LOCAL_API_KEY != "your-local-api-key":
         headers["Authorization"] = f"Bearer {LOCAL_API_KEY}"
 
     response = requests.post(url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)

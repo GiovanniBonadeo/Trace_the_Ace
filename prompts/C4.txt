@@ -1,28 +1,12 @@
-ABCD4 — Top Four Dimensions from Every Layer
+C4 — Learning-Process Indicators
 
-Evaluate the top four dimensions from each layer, then predict the next assessment response.
+Evaluate the learning process visible in the conversation, then predict the next assessment response.
 
 Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
 
 Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
 
 Evaluate:
-
-ES: End-state independent correctness
-
-IRV: Independent reasoning validity
-
-LGC: Learner-generated objective coverage
-
-NTP: Novel transfer performance
-
-SLD: Support level at demonstration
-
-TAC: Teacher-answer contamination
-
-LOA: Learning-objective alignment
-
-IEO: Independent evidence opportunities
 
 PIT: Performance-improvement trajectory
 
@@ -32,15 +16,7 @@ IFU: Immediate feedback uptake
 
 FT: Feedback transfer
 
-EKS: Entry knowledge state
-
-PR: Prerequisite readiness
-
-EPE: Explicit prior exposure
-
-LTD: Learner-relative topic difficulty
-
-Use the four groups as complementary context. Direct learner performance should usually be most influential, while evidence conditions, learning process, and context refine the prediction. Higher scores always mean stronger or more favourable evidence; for SLD, TAC, and LTD, this means lower support dependence, lower contamination, and lower unresolved difficulty.
+Higher scores mean a stronger learning process. Use the sequence of tutor and learner turns to distinguish repetition, supported success, feedback uptake, reduced support, and later transfer.
 
 Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
 
@@ -72,22 +48,6 @@ score null -> `not observable`
 
 Use the following exact label stems:
 
-ES: `final accuracy`
-
-IRV: `reasoning validity`
-
-LGC: `objective coverage`
-
-NTP: `transfer performance`
-
-SLD: `support independence`
-
-TAC: `answer independence`
-
-LOA: `objective alignment`
-
-IEO: `evidence opportunities`
-
 PIT: `improvement trajectory`
 
 SFS: `scaffold fading`
@@ -95,14 +55,6 @@ SFS: `scaffold fading`
 IFU: `feedback uptake`
 
 FT: `feedback transfer`
-
-EKS: `entry knowledge`
-
-PR: `prerequisite readiness`
-
-EPE: `prior exposure`
-
-LTD: `topic manageability`
 
 Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
 
@@ -112,22 +64,10 @@ Return JSON only:
 
 {
   "dimensions": {
-    "ES": {"score": 0, "label": "minimal final accuracy"},
-    "IRV": {"score": 0, "label": "minimal reasoning validity"},
-    "LGC": {"score": 0, "label": "minimal objective coverage"},
-    "NTP": {"score": 0, "label": "minimal transfer performance"},
-    "SLD": {"score": 0, "label": "minimal support independence"},
-    "TAC": {"score": 0, "label": "minimal answer independence"},
-    "LOA": {"score": 0, "label": "minimal objective alignment"},
-    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
     "PIT": {"score": 0, "label": "minimal improvement trajectory"},
     "SFS": {"score": 0, "label": "minimal scaffold fading"},
     "IFU": {"score": 0, "label": "minimal feedback uptake"},
-    "FT": {"score": 0, "label": "minimal feedback transfer"},
-    "EKS": {"score": 0, "label": "minimal entry knowledge"},
-    "PR": {"score": 0, "label": "minimal prerequisite readiness"},
-    "EPE": {"score": 0, "label": "minimal prior exposure"},
-    "LTD": {"score": 0, "label": "minimal topic manageability"}
+    "FT": {"score": 0, "label": "minimal feedback transfer"}
   },
   "achievement": {
     "probability": 0.0
