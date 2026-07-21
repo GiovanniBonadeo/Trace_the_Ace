@@ -32,7 +32,7 @@ TRANSCRIPTS_DIR = "train_transcripts"
 # Pick which template to run. Run with --list-prompts to see all names.
 PROMPT_NAME = "ABCD4"
 
-N_SAMPLES = 100
+N_SAMPLES = 1
 RANDOM_SEED = 20260721  # fixed seed so the same 100 sessions are picked every run
 STRATIFY_BY_LABEL = True # if True, sample ~50% is_correct=1 and ~50% is_correct=0
 
@@ -50,7 +50,7 @@ LOCAL_API_KEY = os.getenv("LOCAL_API_KEY", "sk-RZSBTkuZYOeXULKBTKupkA")
 MODEL_NAME = "qwen3.5-256k"
 TEMPERATURE = 0.0
 MAX_TOKENS = 2500
-ENABLE_THINKING = False
+ENABLE_THINKING = True
 REQUEST_TIMEOUT = 120  # seconds, per call
 
 # ============================================================
