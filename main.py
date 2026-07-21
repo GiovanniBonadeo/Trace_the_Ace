@@ -50,7 +50,7 @@ LOCAL_API_KEY = os.getenv("LOCAL_API_KEY", "sk-RZSBTkuZYOeXULKBTKupkA")
 MODEL_NAME = "qwen3.5-256k"
 TEMPERATURE = 0.0
 MAX_TOKENS = 2500
-ENABLE_THINKING = True
+ENABLE_THINKING = False
 REQUEST_TIMEOUT = 120  # seconds, per call
 
 # ============================================================
@@ -168,7 +168,7 @@ def call_server(user_prompt: str) -> dict:
         "chat_template_kwargs": {"enable_thinking": ENABLE_THINKING},
     }
     headers = {"Content-Type": "application/json"}
-    if LOCAL_API_KEY and LOCAL_API_KEY != "your-local-api-key":
+    if LOCAL_API_KEY and LOCAL_API_KEY != "sk-RZSBTkuZYOeXULKBTKupkA":
         headers["Authorization"] = f"Bearer {LOCAL_API_KEY}"
 
     response = requests.post(url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
