@@ -1,0 +1,350 @@
+session_id,utterance_id,role,content,timestamp
+gvyprrc,0,background,[unclear],00:00:00
+gvyprrc,1,tutor,"Yes, I'm fine. How are you?",00:00:00
+gvyprrc,2,student,Hello.,00:00:01
+gvyprrc,3,background,"Hello. Hi, [STUDENT_NAME].",00:00:02
+gvyprrc,4,tutor,Hi. How are you?,00:00:05
+gvyprrc,5,student,I'm good. How are you?,00:00:07
+gvyprrc,6,tutor,"I'm fine, thank you. How's your day, [STUDENT_NAME]?",00:00:09
+gvyprrc,7,student,It's good. How's yours?,00:00:12
+gvyprrc,8,tutor,"Good. What did you learn at school? I did maths, English, spelling test. I went out for lunch and I went out for break.",00:00:14
+gvyprrc,9,tutor,"OK, so how was the spelling test? Did you do it well?",00:00:28
+gvyprrc,10,student,It was good. I got 12 out of 12.,00:00:32
+gvyprrc,11,tutor,"Wow, excellent. And what did you learn at maths?",00:00:35
+gvyprrc,12,student,I think it's [UNCLEAR]. Coordinates.,00:00:43
+gvyprrc,13,student,Yeah.,00:00:48
+gvyprrc,14,tutor,"Ah, okay, coordinates, right. Okay. Right, so shall we start off with the lesson, [STUDENT_NAME]? [unclear]",00:00:48
+gvyprrc,15,student,"Yes, but one second, I'll be back for something.",00:00:56
+gvyprrc,16,tutor,"Right, okay. [unclear]",00:00:58
+gvyprrc,17,student,We did that sled and I couldn't— all we found was 20-something cars and I couldn't find the other one. [unclear],00:01:25
+gvyprrc,18,student,"Okay, hello. [unclear]",00:01:40
+gvyprrc,19,tutor,Hello?,00:02:13
+gvyprrc,20,student,Can I call home?,00:02:13
+gvyprrc,21,tutor,"Yes, [STUDENT_NAME].",00:02:14
+gvyprrc,22,student,I'm back.,00:02:15
+gvyprrc,23,tutor,Okay. So can you remember last week we did adding and subtracting fractions with different denominators? Can you remember?,00:02:15
+gvyprrc,24,student,"Yes, I remember.",00:02:25
+gvyprrc,25,tutor,"Yes, we did the— to add with different denominators, we need to find a common denominator. We found the common denominator. So always you check the, uh, denominator. 4 and 2. Here the denominators are 4 and 2. So always check for the higher number whether it is a multiple of the other number. So if it is a multiple of the other number, you can use it as the common denominator.",00:02:27
+gvyprrc,26,student,Oh yeah.,00:03:01
+gvyprrc,27,tutor,Here Common denominator is 4. Then what are we going to do?,00:03:02
+gvyprrc,28,student,[unclear],00:03:08
+gvyprrc,29,tutor,Then we are going to write all the denominators here as 4.,00:03:08
+gvyprrc,30,student,We look at the hundreds.,00:03:14
+gvyprrc,31,tutor,"So 1/4 we copy as it is because there won't be any change because the denominator is 4. The next one, we change it to a denominator of 4. So then we need to check how did this 2 become a 4.",00:03:15
+gvyprrc,32,tutor,How did it become a 4Kaden? [unclear],00:03:34
+gvyprrc,33,student,I couldn't really hear you because my classmate was being loud.,00:03:41
+gvyprrc,34,tutor,Hello? [unclear],00:03:46
+gvyprrc,35,student,"Okay, can you hear me now?",00:03:47
+gvyprrc,36,tutor,"Yes, I can hear you.",00:03:50
+gvyprrc,37,student,"Okay, here the denominators we changed, right? The denominator we changed it to a 4. Now here this 4 4, this denominator 2 became a 4. How did that happen? This 2 became a 4 by multiplying by which number?",00:03:51
+gvyprrc,38,student,By 2.,00:04:13
+gvyprrc,39,tutor,"2, correct. So if we multiply the denominator by 2, what are we going to do to the numerator? [unclear] What are we going to do to the numerator, [STUDENT_NAME]? We multiply it by the same number, which is 2. So 2 times 1 is how much? [unclear]",00:04:15
+gvyprrc,40,tutor,"Oh, it was good, thank you. How was yours?",00:04:43
+gvyprrc,41,tutor,[STUDENT_NAME]?,00:04:47
+gvyprrc,42,tutor,So let's get started. [unclear],00:04:52
+gvyprrc,43,student,"My headphones are working because they're just me, like I can hear it, but also like [unclear]",00:04:57
+gvyprrc,44,tutor,What do you time it?,00:05:06
+gvyprrc,45,student,Multiple times.,00:05:07
+gvyprrc,46,tutor,"Yes, you need to time it by what? Same number, which is 2. 2 times 1 is? [unclear]",00:05:08
+gvyprrc,47,tutor,2 times 2 is 4. 2 times 1 is?,00:05:22
+gvyprrc,48,student,"Oh, 2 times 1 is 2.",00:05:27
+gvyprrc,49,tutor,"2. So there is a heavy background noise. Is it possible for you to move on to a quieter place, [STUDENT_NAME]? If it's disturbing your lesson, can you focus and do it?",00:05:30
+gvyprrc,50,student,Yeah.,00:05:44
+gvyprrc,51,tutor,"Yeah, right. You can hear me, right?",00:05:46
+gvyprrc,52,student,Yeah.,00:05:49
+gvyprrc,53,tutor,"Okay, right. Okay, so 1/4 plus 2/4. Even now we can add because the denominators are the same. So when you add 1/4 and 2/4, what's the answer? [unclear] Would it be",00:05:50
+gvyprrc,54,tutor,"One-fourth and two-fourths, when you add it, what's the answer? [unclear]",00:06:11
+gvyprrc,55,tutor,"Three-fourths. Correct. So this is what we learned last week. And we managed to do these three questions. Can you go through these three questions and see whether you can understand? And can you refresh your memory by looking at these three questions? Questions. If there's anything that you are not sure, you can ask from me, but can you just go through these 3 questions, A, B, and C, and see whether you are familiar with the questions and whether you remember what you did.",00:06:18
+gvyprrc,56,student,[unclear] [unclear],00:06:59
+gvyprrc,57,tutor,"The first one, was it clear?",00:07:09
+gvyprrc,58,student,"Yeah, the first one was clear.",00:07:11
+gvyprrc,59,tutor,"Okay. Right, the second, the question B?",00:07:14
+gvyprrc,60,student,"Yeah, it was clear as well.",00:07:21
+gvyprrc,61,tutor,And question C?,00:07:23
+gvyprrc,62,student,Mm-hmm. Yeah.,00:07:30
+gvyprrc,63,tutor,"Yeah, right. Okay, so now then try and do Question D. If you don't have any questions, then you'll be able to do Question D. Shall we start Question D? [unclear]",00:07:31
+gvyprrc,64,student,Yes.,00:07:43
+gvyprrc,65,student,"Um, 6.",00:07:55
+gvyprrc,66,tutor,Mm-hmm.,00:07:58
+gvyprrc,67,student,2 months— 2/3 minus 1/6.,00:07:59
+gvyprrc,68,tutor,Mm-hmm. So would you have to make the denominators the same?,00:08:05
+gvyprrc,69,tutor,"Yes, correct.",00:08:28
+gvyprrc,70,student,"So 2/3, I'm gonna keep that the same.",00:08:29
+gvyprrc,71,tutor,What's gonna be the common denominator here? [unclear] The common denominator be 6 or 3.,00:08:37
+gvyprrc,72,tutor,"Correct. But which one? I told you always go for the bigger number. 6, correct. Right, so which number stays the same? Which fraction stays the same?",00:08:50
+gvyprrc,73,student,1/6.,00:09:03
+gvyprrc,74,tutor,"Correct, 1/6. So you can write 1/6 here, which it will stays the same. [unclear]",00:09:04
+gvyprrc,75,tutor,"Okay. Is it going to be 2/6 here, [STUDENT_NAME]?",00:09:18
+gvyprrc,76,student,Yeah.,00:09:22
+gvyprrc,77,tutor,"Okay. Now when you look— you looked at these 2, these 3 questions, right? So when you looked at it, now let's say this one, the first one, 2/5. It has changed it to 4/10. How has it done? How has it changed?",00:09:25
+gvyprrc,78,student,"[unclear] Has it changed by the 4— the 5— no, the 1/10 changed.",00:09:43
+gvyprrc,79,tutor,"The 1/10, it's the same.",00:10:02
+gvyprrc,80,tutor,"It doesn't change. Here, 2/9 didn't change. Here, 7/8 didn't change because the denominator is the same, right? But here, 2/5 changed to 4/10. A half changed to 4/8. One-third changed it to 3/9. How has it changed?",00:10:04
+gvyprrc,81,student,Yeah.,00:10:26
+gvyprrc,82,tutor,What did you do to change these three? Fractions. Any ideas?,00:10:28
+gvyprrc,83,student,"I did for question A to make 5/10. For B, you have to plus. For C, you have to minus.",00:10:40
+gvyprrc,84,tutor,"Yes, but here, this fraction, this 2/5, now this 5 became a 10 by doing what, [STUDENT_NAME]?",00:11:07
+gvyprrc,85,student,"Um, because 5 adds 5 is 10. [unclear]",00:11:18
+gvyprrc,86,tutor,"Oh no, just make—",00:11:26
+gvyprrc,87,student,Denominator is the same.,00:11:27
+gvyprrc,88,tutor,"Yes, so it's always— it's a multiplication. So both numerator and the denominator, we multiplied it by 2. Now can you see here? 5 times 2 became 10. 2 times 2 became 4. So there's a multiplication happened here. That's why this 2/5 changed to 4/10. Now here you check, here 1/3 became 3/9. Can you tell me how and what has happened here? How this 3, denominator 3 became a 9?",00:11:30
+gvyprrc,89,student,"[unclear] I kind of need help. Okay, so how— which— what is the number that you need to multiply 3 to get to 9 in the 3 times table? [unclear]",00:12:13
+gvyprrc,90,tutor,The 3 times table. 3 times what is—,00:12:30
+gvyprrc,91,student,3 times what is—,00:12:41
+gvyprrc,92,tutor,9.,00:12:43
+gvyprrc,93,student,9.,00:12:44
+gvyprrc,94,tutor,9.,00:12:45
+gvyprrc,95,student,20... [unclear],00:12:45
+gvyprrc,96,tutor,"No, no, no.",00:12:45
+gvyprrc,97,student,"The answer is 27, but...",00:12:47
+gvyprrc,98,tutor,"That is 3 times 9 is 27. But now 3 times 1 is 3, 3 times 2 is 6, 3 times 3 is how much?",00:12:49
+gvyprrc,99,student,9.,00:12:59
+gvyprrc,100,tutor,"9. There, did you see? Now when you multiply 3 by 3, you'll be getting the answer 9. So that means here. So if I put it here, that means this has been multiplied by 3, and the numerator also we need to multiply it by 3.",00:13:00
+gvyprrc,101,student,[UNCLEAR],00:13:00
+gvyprrc,102,tutor,"Yeah, so then only this became a 3/9. Did you understand? Here 3 times 3 is 9, 1 times 3 is 3. And here we had to multiply this by— both by 2. I will multiply it by 2. [unclear]",00:13:26
+gvyprrc,103,tutor,"Multiply it by 2. And the second one is also— we need to multiply it by 2. Right. Now see question C. Yeah, question C. Now let me know, how has it multiplied here? So if I put a multiplication sign here and here, can you tell me what is the number that it had been multiplied that you have got 8?",00:13:53
+gvyprrc,104,student,"So, so 4 times [UNCLEAR].",00:14:28
+gvyprrc,105,student,2. It's 8.,00:14:28
+gvyprrc,106,tutor,"Yes, correct. So this has been multiplied by 4. If the denominator has multiplied by 4, what do we do to the numerator? We multiply that also by 4. Right? Was it clear?",00:14:28
+gvyprrc,107,background,"Yes, it was clear.",00:14:51
+gvyprrc,108,tutor,"Yes, right. Excellent. Now here, let's see. Now what is the common denominator here? [unclear]",00:14:52
+gvyprrc,109,student,Common denominator be 9.,00:15:06
+gvyprrc,110,tutor,"Between 3 and 6, I told you between— you check these two numbers, you always go for the higher number.",00:15:16
+gvyprrc,111,student,The common denominator is 6.,00:15:22
+gvyprrc,112,tutor,"Yes, correct. Right. So let's put 6 for both fractions. [unclear] Right. Now you need to check the numerator. Right. So which number will not change— which fraction will not change [STUDENT_NAME]? [unclear]",00:15:25
+gvyprrc,113,student,Which number will not change?,00:16:00
+gvyprrc,114,tutor,"Which fraction. Yes, 1/6. So you can put 1 here because it will not change as the denominator is 6. Right, now let's see how you are going to do the second one. Okay, can I know how— why you put a 2 there? [unclear] Is that wrong too? Yes, because now see, this 3 needs to be a 6, isn't it, [STUDENT_NAME]?",00:16:02
+gvyprrc,115,student,"Yeah, so what is the number that you need to multiply to become— to make it a 6? Can you tell me? [unclear]",00:16:02
+gvyprrc,116,student,3 times 2.,00:17:00
+gvyprrc,117,tutor,"Correct. So both numerator and the denominator, you need to multiply it by Which number?",00:17:04
+gvyprrc,118,student,Um... 2.,00:17:14
+gvyprrc,119,tutor,"2. So here, what would be the numerator value?",00:17:18
+gvyprrc,120,student,Um... 3 times 2... Um... Would the numerator value be... 2?,00:17:24
+gvyprrc,121,tutor,"2 times 2, is it gonna be 2, [STUDENT_NAME]? 2 times 1 is...",00:17:36
+gvyprrc,122,tutor,Mm-hmm. So 2 times 2 is how much?,00:17:43
+gvyprrc,123,student,4.,00:17:49
+gvyprrc,124,tutor,4. So what's the numerator value is going to be?,00:17:49
+gvyprrc,125,student,"Um, would it be...",00:17:54
+gvyprrc,126,tutor,You told me the answer.,00:18:00
+gvyprrc,127,student,"Oh, it's, um, 6. 2 times 2, is it 6?",00:18:03
+gvyprrc,128,student,"No, 3 times 2, I mean, yeah, 2 times 2 is 4.",00:18:08
+gvyprrc,129,tutor,So did you put a 4 here?,00:18:14
+gvyprrc,130,student,"Oh no, I put a 2. [unclear]",00:18:16
+gvyprrc,131,tutor,OK.,00:18:26
+gvyprrc,132,student,4.,00:18:27
+gvyprrc,133,tutor,Right. Now can you solve the fraction?,00:18:29
+gvyprrc,134,student,"Okay, for 4 minus 1 is 3. So the answer be 3— not 3— [unclear] 3/6.",00:18:33
+gvyprrc,135,tutor,"Yes, correct. The answer is going to be 3/6. You can put the answer.",00:18:49
+gvyprrc,136,student,"Oh, it's saying that when you like",00:18:55
+gvyprrc,137,student,"When you're doing an addition with two fractions, if the— I think it's— I'm not sure, but I think it's saying if the numerator is bigger, then the fraction— then the denominator is going to be [UNCLEAR]. Actually, I'm a bit confused. I'm not sure.",00:18:59
+gvyprrc,138,tutor,"OK. When we compare fractions with the same denominator,",00:18:59
+gvyprrc,139,student,"The greater numerator, the greater the fraction.",00:19:27
+gvyprrc,140,tutor,Right. So did you understand what we did here? Is it all clear?,00:19:33
+gvyprrc,141,background,Yeah.,00:19:38
+gvyprrc,142,tutor,Yeah? Right. So... [unclear] Now the go further slide. Can you read it and try to answer it?,00:19:40
+gvyprrc,143,tutor,"Okay, Tara and Rikki both have the same size chocolate bar. Tara has 3/4 left. Rikki has 5/12 left. How much more than Rikki does Tara have? [unclear] [unclear]",00:19:53
+gvyprrc,144,student,I need some help.,00:20:34
+gvyprrc,145,tutor,"Right, okay. So what are the two fractions that they have?",00:20:36
+gvyprrc,146,student,3/4 and 5/12.,00:20:40
+gvyprrc,147,tutor,"Okay, so can you write somewhere here 3/4 and 5/12.",00:20:43
+gvyprrc,148,student,Um... [unclear],00:20:50
+gvyprrc,149,tutor,"Yes, let me write it for you. 3/4 and 5/12, right? Okay, so those are the two fractions. So what do they say? What is this question about?",00:20:54
+gvyprrc,150,student,Um... Sue has...,00:21:10
+gvyprrc,151,student,How much more than Hockey does Tara have left?,00:21:13
+gvyprrc,152,tutor,"So this is about a chocolate bar, right? They say Tara has 3/4 left, Hockey has 5/12 left. So we need to see how much more than Hockey does Tara have left. But can you solve it? How much— what's the difference between these two fractions? Can you solve it? When the denominators are not the same, can you solve it? With different denominators, can you do a subtraction? This is the— we need to find the difference, right? Because they ask how much more. How much more, meaning the difference. So can you solve this question like this, or what are you going to do?",00:21:17
+gvyprrc,153,student,[unclear],00:22:10
+gvyprrc,154,student,You have to make the denominators the same.,00:22:11
+gvyprrc,155,tutor,"Correct, excellent. We need to do the denominators the same. Can you tell me what is the common denominator for these two fractions?",00:22:14
+gvyprrc,156,student,"Um, would it be 12? Oh no, 4.",00:22:24
+gvyprrc,157,tutor,"Okay, so what did I tell you when you checked?",00:22:29
+gvyprrc,158,student,"Oh no, 12, I mean.",00:22:32
+gvyprrc,159,tutor,"Yes, because Why do you select 12?",00:22:34
+gvyprrc,160,student,Because they like to eat the bigger number.,00:22:38
+gvyprrc,161,tutor,"Number, and also not because it's the bigger number, because 4 is a multiple of 12, right? Because 4 times 3 is 12, right? [unclear] That's the reason why we select, right? You check the bigger number and also you check whether it is a multiple of the other number. If it is a multiple of the other number, only then you can select that number. Otherwise, you have to go for another number. [STUDENT_NAME], understand?",00:22:41
+gvyprrc,162,student,Yes.,00:23:17
+gvyprrc,163,tutor,"Yes, okay. So the common denominator is 4. Now can you try to solve it and let me know what are the values for the numerator? [unclear]",00:23:18
+gvyprrc,164,tutor,"or you can tap the white one and ask a question, and then you get your answer.",00:23:18
+gvyprrc,165,student,"Oh. So, I got both 12. Would the denominators stay the same? Well, which denominator stays the same?",00:23:18
+gvyprrc,166,student,"I mean, not denominator, numerator.",00:24:03
+gvyprrc,167,tutor,"Okay, which numerator stays the same?",00:24:06
+gvyprrc,168,student,"Um, 3— no, 5/12.",00:24:09
+gvyprrc,169,tutor,"5/12, yes. The 5 doesn't change. It stays the same. You can put the 5 there.",00:24:13
+gvyprrc,170,student,"Okay, 5—",00:24:19
+gvyprrc,171,tutor,"Yes, you can put 5 there.",00:24:21
+gvyprrc,172,student,Okay.,00:24:24
+gvyprrc,173,student,"Okay, so for the other one, you cannot enumerate it. You have to— [unclear]",00:24:24
+gvyprrc,174,tutor,Times it by?,00:24:36
+gvyprrc,175,student,"Yeah, times it by how much?",00:24:37
+gvyprrc,176,tutor,By?,00:24:41
+gvyprrc,177,student,"5 times 12, 60. So you have to do 12 times— no, not 12 times 5.",00:24:41
+gvyprrc,178,tutor,4 times? What will be [UNCLEAR]?,00:24:49
+gvyprrc,179,student,"4 times 3, which is 12.",00:24:49
+gvyprrc,180,tutor,"Okay, right. And then what are we going to do to the numerator?",00:24:58
+gvyprrc,181,student,Do you make it 12 or—,00:25:03
+gvyprrc,182,tutor,"No, you multiply it by the same number, which is 3. Yeah?",00:25:07
+gvyprrc,183,student,"3. So 3 times 12 is— Is it 3 times 12, [STUDENT_NAME]?",00:25:12
+gvyprrc,184,student,Oh no. 3 times... [unclear],00:25:18
+gvyprrc,185,tutor,"Yeah, I have recorded that on there.",00:25:26
+gvyprrc,186,student,"Oh, 3 times 4.",00:25:29
+gvyprrc,187,tutor,"Yes, 4 times 3 is 12. That is the denominator. For the numerator, what is the value?",00:25:33
+gvyprrc,188,student,What did it be? 4? What are the values? Can you see in the numerator side?,00:25:41
+gvyprrc,189,student,"Um, 4 and 3. Numerator?",00:25:48
+gvyprrc,190,student,"Oh, um, 3. 3. So 3, you multiply it by what?",00:25:53
+gvyprrc,191,student,"3 times 3. [unclear] 3 times 3. Yes, 3 times 3 is how much? [STUDENT_NAME]?",00:26:00
+gvyprrc,192,student,9.,00:26:10
+gvyprrc,193,tutor,"Okay, so where are you going to put that 9?",00:26:11
+gvyprrc,194,student,"Um, above the 12.",00:26:14
+gvyprrc,195,tutor,"Yes, here. Correct. Right, so this is a subtraction, right?",00:26:17
+gvyprrc,196,student,"Um, yes.",00:26:26
+gvyprrc,197,tutor,Yes. So now what's the answer gonna be?,00:26:28
+gvyprrc,198,student,4 [unclear] 12.,00:26:32
+gvyprrc,199,tutor,"4/12, correct. Right, excellent. So did you understand now, [STUDENT_NAME]?",00:26:35
+gvyprrc,200,student,"Yes, I understood.",00:27:04
+gvyprrc,201,tutor,"Right, okay, right. And, uh, we are done with this lesson, but I think you need more revision of this, uh, fraction converting into a common denominator, then adding and subtracting, isn't it, [STUDENT_NAME]?",00:27:07
+gvyprrc,202,student,"Yeah. Yeah, I also think so, because then going forward, the other lessons, it would be really difficult if you don't get this part correctly. So now, was it all clear what we need to do? [unclear]",00:27:25
+gvyprrc,203,student,"Yeah, some bits were.",00:27:43
+gvyprrc,204,tutor,"Okay, which part it's not clear for you so that I can teach you again?",00:27:45
+gvyprrc,205,student,"If you want to go back to the other slide, on the number like, um, D. That's what I got like stuck on, and this one as well.",00:27:51
+gvyprrc,206,tutor,"Okay, so here, so if I erase everything right now, here in this one, uh, right, so are you familiar with how to find a common denominator? [unclear]",00:28:01
+gvyprrc,207,student,"Uh, yeah.",00:28:22
+gvyprrc,208,tutor,"Yes, so what's the common denominator in question D?",00:28:24
+gvyprrc,209,student,6.,00:28:28
+gvyprrc,210,tutor,6. So I'm gonna write 6 as this. So which one doesn't change? Which fraction will not change?,00:28:29
+gvyprrc,211,background,1/6.,00:28:29
+gvyprrc,212,tutor,"Okay, so you are clear up to this part. Then what you should do, [STUDENT_NAME]? What are you going to do?",00:28:29
+gvyprrc,213,student,Then,00:28:48
+gvyprrc,214,student,Just times it.,00:28:49
+gvyprrc,215,tutor,Yes. Why are you timesing it? [unclear],00:28:51
+gvyprrc,216,student,Sir...,00:28:55
+gvyprrc,217,tutor,"Because this 3 has become a 6 now. So we need to see how this happened. For that, we need to see. So I put a multiplication...sign here. We need to see 3, when you multiply it by something, will be— get 6. So what is that? 3 times what will be 6? 3 times— [unclear]",00:28:59
+gvyprrc,218,tutor,What will be 6 here? 3 has become a 6. So 3 times what is gonna be 6? [unclear],00:29:31
+gvyprrc,219,tutor,Hello?,00:29:57
+gvyprrc,220,student,Hello? [STUDENT_NAME]? [unclear],00:30:06
+gvyprrc,221,tutor,I can't hear you.,00:30:29
+gvyprrc,222,tutor,"Can you try to refresh your page and see, [STUDENT_NAME]? Because I can't hear you. Do you know how to refresh your page? [unclear] [unclear]",00:30:35
+gvyprrc,223,student,[unclear] [unclear],00:31:02
+gvyprrc,224,student,[unclear] [unclear],00:31:18
+gvyprrc,225,tutor,"Can you hear me now, [STUDENT_NAME]?",00:31:44
+gvyprrc,226,tutor,Hello?,00:31:54
+gvyprrc,227,student,[unclear],00:31:54
+gvyprrc,228,tutor,"Ah, right. Okay, I can hear you now. Right, so this denominator has become a 6. So 3 times, what do you need to multiply here? That's the number that you need to put.",00:31:54
+gvyprrc,229,student,"Sorry, I— [unclear]",00:32:12
+gvyprrc,230,student,3 times 2 equals 6.,00:32:26
+gvyprrc,231,tutor,"Yes, correct. So 3 times 2 is gonna be 6. So the denominator part is correct, right? So then what are we going to do to the numerator? We multiply by the same number.",00:32:31
+gvyprrc,232,student,Is it?,00:32:47
+gvyprrc,233,tutor,Yeah.,00:32:47
+gvyprrc,234,background,What is the answer going to be for the numerator here?,00:32:49
+gvyprrc,235,student,Um...,00:32:54
+gvyprrc,236,background,14.93.,00:32:55
+gvyprrc,237,tutor,4.,00:32:59
+gvyprrc,238,background,4.,00:33:00
+gvyprrc,239,tutor,"Sure, correct.",00:33:01
+gvyprrc,240,background,Okay.,00:33:03
+gvyprrc,241,tutor,So this is all clear now?,00:33:03
+gvyprrc,242,background,Yes.,00:33:05
+gvyprrc,243,student,"Yes, it's all clear.",00:33:05
+gvyprrc,244,tutor,"Right. Okay, even the— this one now.",00:33:07
+gvyprrc,245,student,"Um, yes, that was clear as well.",00:33:13
+gvyprrc,246,tutor,"Right, okay, excellent. So I'll be moving on to the other lesson. [unclear] Right, now they say next lesson, finding fractions of an amount. Now we need to find a fra— of an amount. Let's see how we are going to do this, the learning goal question. [unclear]",00:33:15
+gvyprrc,247,student,Find 3/8 of 24.,00:33:44
+gvyprrc,248,tutor,Mm-hmm.,00:33:48
+gvyprrc,249,student,"Um, I can't do this one.",00:33:53
+gvyprrc,250,tutor,"Okay, can you try the prior learning question?",00:33:58
+gvyprrc,251,tutor,Okay.,00:34:01
+gvyprrc,252,student,Mm-hmm.,00:34:02
+gvyprrc,253,tutor,Something times— [unclear],00:34:06
+gvyprrc,254,student,"Actually, I need his help.",00:34:08
+gvyprrc,255,tutor,"So, something— wait. I don't get this one. Oh, complete the missing numbers. Oh.",00:34:11
+gvyprrc,256,student,Mm-hmm.,00:34:20
+gvyprrc,257,tutor,"So, something times 12. [unclear]",00:34:22
+gvyprrc,258,tutor,What are you guys doing?,00:34:31
+gvyprrc,259,student,[UNCLEAR],00:34:31
+gvyprrc,260,tutor,"12, 8, no, 12, 24, 36. Yeah, I didn't get this one either.",00:34:40
+gvyprrc,261,tutor,"Okay, so let's see. So here they have shown a multiplication number, right? Sign. So 3 times— when you— 3, when 3, when you multiply it by 6, how much would you be getting? [unclear] 18. 3, when you multiply by something, you'll be getting 12. What is that number?",00:34:57
+gvyprrc,262,student,"Uh, 1 over 10. [unclear]",00:35:23
+gvyprrc,263,tutor,3 times 12 is—,00:35:27
+gvyprrc,264,student,"Uh, not 3 times 12.",00:35:30
+gvyprrc,265,tutor,Oh no.,00:35:31
+gvyprrc,266,student,Um—,00:35:32
+gvyprrc,267,tutor,"3, you need to multiply 3 by some other number to get to 12. What is that number?",00:35:32
+gvyprrc,268,student,3 times 4.,00:35:40
+gvyprrc,269,tutor,"Correct. So here, It's gonna be what?",00:35:42
+gvyprrc,270,student,Which means? Which means that... [unclear],00:35:45
+gvyprrc,271,tutor,You need to put... [unclear],00:35:47
+gvyprrc,272,student,Um... [unclear],00:35:50
+gvyprrc,273,tutor,That's the number that you need to put. [unclear],00:35:51
+gvyprrc,274,student,Would I have to put... [unclear],00:35:57
+gvyprrc,275,tutor,Um... 3 times what will become 12?,00:36:02
+gvyprrc,276,student,3 times 4.,00:36:07
+gvyprrc,277,tutor,"Yeah, so what is the number you need to put here?",00:36:08
+gvyprrc,278,student,4.,00:36:08
+gvyprrc,279,tutor,"Correct, 4. Right. Now let's see what we are going to put here. Okay? So 4, when you multiply by something, you'll be getting 28. 4, when you multiply it by something, that is this number here, we don't know, you'll be getting 28. What is that number? [unclear]",00:36:08
+gvyprrc,280,student,[unclear],00:36:37
+gvyprrc,281,tutor,4 times 7.,00:36:37
+gvyprrc,282,student,All right. So what is the number here that you need to put?,00:36:43
+gvyprrc,283,student,"Yeah, I think that's 7.",00:36:46
+gvyprrc,284,tutor,7. Correct.,00:36:50
+gvyprrc,285,student,Yes. But that's 25.,00:36:55
+gvyprrc,286,tutor,"7, when you multiply it by this number, what is the answer you are going to get?",00:36:58
+gvyprrc,287,tutor,7 times 6.,00:37:04
+gvyprrc,288,student,Mm-hmm.,00:37:08
+gvyprrc,289,tutor,"7, 14, 21, 48, 35, 42, 48. [unclear]",00:37:11
+gvyprrc,290,tutor,36.,00:37:37
+gvyprrc,291,student,36.,00:37:38
+gvyprrc,292,tutor,7 times 6 is gonna be 36. Can you double check again? How much 7 times 5? [unclear],00:37:38
+gvyprrc,293,student,7 times 5 is 35.,00:37:47
+gvyprrc,294,tutor,Mm-hmm. Then 7 times 6?,00:37:51
+gvyprrc,295,student,"Um, 42.",00:38:00
+gvyprrc,296,tutor,Correct.,00:38:04
+gvyprrc,297,student,No.,00:38:05
+gvyprrc,298,tutor,42. You can put the answer as 42. [unclear],00:38:07
+gvyprrc,299,tutor,Correct.,00:38:16
+gvyprrc,300,background,"Actually, let's see how we are going to find 3/8 of 3. 24. So to find that, first you need to find one part of something. To find 1/8, that is one part means 1/8. To find one part of something, you always need to divide the number by the denominator. That means 24, we need to divide it by 8.",00:38:18
+gvyprrc,301,student,"[unclear] then you'll be getting one part. So 24, when you divide by 8, you'll be getting the answer as 3. So then to find 3 parts, you multiply it by 3. Okay, so the answer is gonna be 9, but we'll learn how we are going to do. Okay? Okay.",00:38:48
+gvyprrc,302,student,Okay.,00:39:13
+gvyprrc,303,tutor,"Right, so let's see the prior learning question. Can you read it and",00:39:14
+gvyprrc,304,student,"Oh, they're equal. [unclear]",00:39:19
+gvyprrc,305,tutor,OK. Can you read the green message for me?,00:39:23
+gvyprrc,306,student,"Before finding fractions, our maths, we need to be confident with the multiplication and division facts.",00:39:30
+gvyprrc,307,tutor,Right. So let's see how we are going to do this part. [unclear],00:39:40
+gvyprrc,308,tutor,Okay. You can use that inverse.,00:39:55
+gvyprrc,309,student,Pardon?,00:39:58
+gvyprrc,310,tutor,What does inverse mean?,00:40:00
+gvyprrc,311,background,Inverse means the total opposite. Opposite of multiplication is division. That is what the meaning inverse.,00:40:02
+gvyprrc,312,tutor,Okay.,00:40:14
+gvyprrc,313,student,"Here, can you see? 3 times 5, you multiply, which is 15. Now here we need to find 24. So 3 times, when you multiply it by something, you need to get 24. Here, 3 times, when you multiply it by something, you need to get 24. The inverse is 3 24, when you divide it by 3, what's the answer gonna be? [unclear]",00:40:15
+gvyprrc,314,student,"Um, would it be 8?",00:40:42
+gvyprrc,315,tutor,Correct. The answer is here. You can put 8.,00:40:53
+gvyprrc,316,student,Yes.,00:40:59
+gvyprrc,317,background,Is it a big 5?,00:41:00
+gvyprrc,318,student,[unclear],00:41:06
+gvyprrc,319,tutor,You write it where it says— next to where it says 28.,00:41:06
+gvyprrc,320,student,8.,00:41:10
+gvyprrc,321,tutor,"Oh no, 8.",00:41:10
+gvyprrc,322,student,Oh.,00:41:12
+gvyprrc,323,tutor,It's here.,00:41:12
+gvyprrc,324,student,"Oh, it goes there.",00:41:13
+gvyprrc,325,tutor,"Mm-hmm. 8. So these two you multiply here. See, 3 times 5 became 15. 3 times 8 became 24. Now which one can you use, uh, solve next? You can solve this one, this 45.",00:41:15
+gvyprrc,326,student,"Uh, no, not really. I can't solve.",00:41:38
+gvyprrc,327,tutor,"Why? You, when you have a 5 on top, so on this top one and this blue one, when these— there, can you see 2 blue lines here, rows. So when you multiply those two together, you'll be getting the answer in the white column, right? So now you have a 45 here. So you have a 5 on— when you go up in this column, can you see a 5?",00:41:43
+gvyprrc,328,student,Yeah.,00:42:17
+gvyprrc,329,background,"Um, yes.",00:42:17
+gvyprrc,330,tutor,"Okay, so 5, when you multiply it by something, you will be getting 45. What is the answer? [unclear]",00:42:18
+gvyprrc,331,tutor,"5, when you multiply it by something, you'll be getting 45. What is the answer?",00:42:32
+gvyprrc,332,student,"Oh, 5 times 8, no, 5 times 9.",00:42:38
+gvyprrc,333,tutor,"Yeah, correct. Where would you put this 9 now?",00:42:42
+gvyprrc,334,student,Would you put the 9 next to the 8? [unclear],00:42:49
+gvyprrc,335,tutor,5. 45. 5 is here.,00:42:53
+gvyprrc,336,student,"No, no, no.",00:42:56
+gvyprrc,337,tutor,5 is here.,00:42:58
+gvyprrc,338,student,Under 15.,00:43:00
+gvyprrc,339,tutor,"Oh no, no, you need to put under 3, but the last column here. Correct. So here, see, 3 times 5 is 15. 5 times 9 is 45, right?",00:43:02
+gvyprrc,340,tutor,Yes.,00:43:17
+gvyprrc,341,student,Okay. [unclear],00:43:18
+gvyprrc,342,tutor,"Right. So we are running out of time, [STUDENT_NAME]. We'll start with this next week when we join. Okay, so what do you think about the lessons? Did you learn anything new?",00:43:19
+gvyprrc,343,student,"Yes, I learned a lot.",00:43:31
+gvyprrc,344,tutor,"Yes, right. Excellent. Well done. So don't forget whatever we learned. Keep those in your mind when we meet next week, we can continue with our work. Okay. So have a nice day. And when I end the session, you try to do those questions from the previous lesson. [unclear]",00:43:34
+gvyprrc,345,tutor,Okay.,00:43:56
+gvyprrc,346,student,Bye.,00:43:57
+gvyprrc,347,tutor,Bye.,00:43:59
+gvyprrc,348,background,Thank you.,00:44:01

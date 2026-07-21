@@ -1,0 +1,168 @@
+session_id,utterance_id,role,content,timestamp
+eefndxg,0,student,Hello.,00:00:00
+eefndxg,1,background,[unclear],00:00:00
+eefndxg,2,tutor,Hi.,00:00:01
+eefndxg,3,student,"Hi, Kieran. Welcome back to the session. So how was your day?",00:00:02
+eefndxg,4,tutor,"It was good, thank you.",00:00:06
+eefndxg,5,student,"Okay, so let's get started, shall we?",00:00:08
+eefndxg,6,tutor,Mm-hmm.,00:00:10
+eefndxg,7,student,"Okay, so I hope you could remember we have already started this lesson and then we moved to question 2, and then you had some struggle here, so we moved to the support slide. So shall we start from the support slide?",00:00:11
+eefndxg,8,tutor,Yeah.,00:00:29
+eefndxg,9,student,"Okay, can you read out the question? And then later you can read the things that's on the support slide, and then we can work on one by one.",00:00:30
+eefndxg,10,tutor,"Okay. Amar, Mason, and [unclear] each throw a coin a number of times. The table shows the number of heads and the number of tails of each recorded. How can we tell from their results that the coin is biased?",00:00:39
+eefndxg,11,student,Yes. So maybe you could start working this out using techniques that they have given. Can you read this as well?,00:00:57
+eefndxg,12,tutor,"We can calculate the experimental probability of an event happening using relative frequency. Relative frequency equals frequency of events occurring, total number of trials of the experiment. We can work out whether we think a situation is biased by comparing this to a theoretical probability.",00:01:05
+eefndxg,13,student,"Okay, so we're going to find the probability of [unclear] coin landing on heads. So how can you work this out?",00:01:34
+eefndxg,14,tutor,Would you count up how many times it landed on heads?,00:01:47
+eefndxg,15,student,Mm-hmm. And then divide it by how many times the coin was flipped in total.,00:01:52
+eefndxg,16,student,Okay. [unclear] [unclear],00:02:02
+eefndxg,17,student,Maybe for the first question you can look at the table and then can give the answer.,00:02:44
+eefndxg,18,tutor,"Kieran? So if a coin is fair, how many ways can you get a heads out of the total number of outcomes?",00:02:55
+eefndxg,19,student,345.,00:03:04
+eefndxg,20,tutor,"Okay. If I ask you the probability, it would be half of the times, yes?",00:03:08
+eefndxg,21,student,"Oh, yeah. Okay, so if it is half of the times, looking at this table, does it look like the student had rolled the heads half of the time?",00:03:14
+eefndxg,22,tutor,No.,00:03:25
+eefndxg,23,student,"Looks like he has— oh, this has been biased. Yes, you could see that tails is having a less amount.",00:03:27
+eefndxg,24,tutor,"Yeah, yeah.",00:03:34
+eefndxg,25,student,"So you can say that no, and you can also say it's half.",00:03:36
+eefndxg,26,tutor,Okay.,00:03:43
+eefndxg,27,student,"The probability for the fair coin landing on heads would be 1/2. Okay, so question 2: the more trials there are, the more accurate an experimental probability would become. Okay, now who has conducted the most trials? [unclear]",00:03:43
+eefndxg,28,tutor,Amar.,00:04:07
+eefndxg,29,student,"Yes, it's Amar. So Amar has conducted more trials, 240 trials, compared to other two. You can write that as well. He has conducted 240 trials.",00:04:12
+eefndxg,30,tutor,"All right, moving to the next part of the question. Now they're asking you, calculate the relative frequency flipping a heads or tails using all the information in the table.",00:04:49
+eefndxg,31,tutor,"Okay, well, so the total number of heads would be?",00:05:00
+eefndxg,32,student,Was it— I'll do it again.,00:05:06
+eefndxg,33,tutor,Do you want to go back to the slide?,00:05:12
+eefndxg,34,student,"Oh, 345.",00:05:15
+eefndxg,35,tutor,Yes. Total number of tails?,00:05:17
+eefndxg,36,student,"[unclear] [Speaker:Tutor]...5. [Speaker:Kieran] Yes. Now, what is the total flips?",00:05:19
+eefndxg,37,tutor,Those two added together.,00:05:35
+eefndxg,38,student,"Yes. Okay, now you would find the probability of head separately, probability of getting tails separately. So how would you write the fraction?",00:05:38
+eefndxg,39,tutor,"Um, would it be 345... [unclear] over 390. Yes.",00:05:50
+eefndxg,40,student,And how about for tail? 45,00:05:57
+eefndxg,41,tutor,"over 390. Okay, this would be equal to— you can calculate this, which would be equal to— if you calculate this, this would be equal to—",00:06:02
+eefndxg,42,tutor,0.8.,00:06:35
+eefndxg,43,student,Mm-hmm. And this would be equal to— [unclear],00:06:37
+eefndxg,44,tutor,0.1.,00:06:48
+eefndxg,45,student,"One, two— maybe you could give to the two decimal places, okay?",00:06:51
+eefndxg,46,tutor,Okay.,00:06:55
+eefndxg,47,student,"All right, so— and how about this one?",00:06:57
+eefndxg,48,tutor,Can you also write the answer for this?,00:07:10
+eefndxg,49,student,Yeah.,00:07:12
+eefndxg,50,tutor,"Okay. Now you could place the probability head over tail, and then you can give that how many more you would get compared to the heads. [unclear]",00:07:18
+eefndxg,51,tutor,You do the probability of heads minus— [unclear],00:07:37
+eefndxg,52,student,Yes.,00:07:42
+eefndxg,53,tutor,Okay. So do you understand how to work this out? I think your division is incorrect. [unclear] It should be—,00:08:10
+eefndxg,54,student,7.3.,00:08:21
+eefndxg,55,tutor,Yes. All right. So this says that—,00:08:24
+eefndxg,56,tutor,"Okay, this says that it's going to be a no. We don't agree with the table that's over here because it is about 7 times more likely to get heads, yes, compared to tails.",00:08:29
+eefndxg,57,student,Yeah.,00:08:44
+eefndxg,58,tutor,"Okay, so when you have a [unclear] equation like this, make sure that you work this out in this way. You find relative frequency by the frequency of events occurring. And the total number of trials of the experiment. Sometimes you would have the experimental probability happening, and then you would also have— okay, um, the theoretical probability. So which is, uh, compared— when you're comparing both of these two, which, if it is different, we can say that it's biased. So that's how we found that it's going to be biased over here. It's not a fair coin. When you look at over here, and you also make sure that you try more trials so that it would be more accurate in the experimental probability. Okay, got it?",00:08:46
+eefndxg,59,student,Okay.,00:09:36
+eefndxg,60,tutor,"Okay, let's move to your turn slide. Shall we start working this out?",00:09:37
+eefndxg,61,student,Yeah.,00:09:41
+eefndxg,62,tutor,"Mm-hmm, yes, 30. And then you divide it by?",00:11:10
+eefndxg,63,student,"Um, 79. [unclear]",00:11:18
+eefndxg,64,tutor,Can I know why 79?,00:11:22
+eefndxg,65,student,"Uh, that's the total amount of times a 6 was rolled.",00:11:26
+eefndxg,66,tutor,"Um, you should look at the dice for how many times you had done the trial, not the number of rolls that you do for that slide dice as well. You should look at only dice for the total number of rolls that you have done or the trial that you have taken. [unclear]",00:11:34
+eefndxg,67,tutor,200.,00:11:58
+eefndxg,68,student,Exactly. [unclear] [unclear],00:12:00
+eefndxg,69,tutor,"Yes, Kieran, if you divide 30 by 200, that's going to be equal to?",00:12:36
+eefndxg,70,student,0.15.,00:12:40
+eefndxg,71,tutor,"Yes. All right, now let's move to the next one.",00:12:44
+eefndxg,72,tutor,Okay. [unclear] [unclear],00:12:49
+eefndxg,73,student,"Okay, dice 2 and 4. Can you explain me how you find out that it's 2 and 4?",00:13:23
+eefndxg,74,tutor,"Because with dice 2 and 4, the difference between rolling a 6 and rolling a 1 to 5 is really big compared to the others.",00:13:31
+eefndxg,75,tutor,"Okay, so what is the probability of rolling 6 should be?",00:13:42
+eefndxg,76,student,"Uh, I'm not sure.",00:13:53
+eefndxg,77,tutor,How do you find the probability of rolling 6?,00:13:57
+eefndxg,78,student,"For dice, too?",00:14:02
+eefndxg,79,tutor,The usual probability.,00:14:05
+eefndxg,80,tutor,"Oh, um, 79 divided by the total.",00:14:07
+eefndxg,81,student,"Okay, that would be equal to?",00:14:12
+eefndxg,82,tutor,Uh... 0.18.,00:14:16
+eefndxg,83,student,"Okay. Now, when you take the dice over here,",00:14:28
+eefndxg,84,tutor,Yes?,00:14:34
+eefndxg,85,student,Mm-hmm.,00:14:35
+eefndxg,86,tutor,You have how many dices over here?,00:14:37
+eefndxg,87,student,In which part?,00:14:41
+eefndxg,88,tutor,In the table.,00:14:45
+eefndxg,89,student,"Ah, in total, there is 436.",00:14:47
+eefndxg,90,tutor,"Okay, how about dice 1? Why do you think that— what's the difference between these two? [unclear]",00:14:53
+eefndxg,91,student,"Okay, how about the next one?",00:15:05
+eefndxg,92,tutor,70.,00:15:13
+eefndxg,93,student,And third one?,00:15:14
+eefndxg,94,tutor,0.,00:15:19
+eefndxg,95,student,"Okay, can you have such instance?",00:15:20
+eefndxg,96,tutor,No.,00:15:23
+eefndxg,97,tutor,So why do you think that 3 is not biased?,00:15:26
+eefndxg,98,student,I just thought because the amount of times they were rolled was like close. I'm not— I kind of guessed.,00:15:31
+eefndxg,99,tutor,"Okay. So here, now what is the relative frequency that you got? [unclear]",00:15:41
+eefndxg,100,student,When I did— 79 divided by the total.,00:15:50
+eefndxg,101,student,Okay.,00:15:54
+eefndxg,102,tutor,I got 0.18.,00:15:56
+eefndxg,103,student,"Uh, can you check your division?",00:15:59
+eefndxg,104,tutor,Okay. Do I divide it by 357?,00:16:03
+eefndxg,105,tutor,Mm-hmm.,00:16:20
+eefndxg,106,student,"Uh, 0.22.",00:16:22
+eefndxg,107,tutor,"Yes. Now, for this row, die 6, the relative frequency was 1.15, yes?",00:16:26
+eefndxg,108,student,Yeah.,00:16:36
+eefndxg,109,tutor,"How about for this one? Um, zero.",00:16:37
+eefndxg,110,student,Okay.,00:16:47
+eefndxg,111,tutor,Or would it be one?,00:16:49
+eefndxg,112,student,"Yes, it would be one. And how about this one?",00:16:51
+eefndxg,113,tutor,3.3 recurring.,00:17:02
+eefndxg,114,student,Okay.,00:17:06
+eefndxg,115,tutor,How about dice 1?,00:17:10
+eefndxg,116,student,5.25.,00:17:13
+eefndxg,117,tutor,"5.25. Now, if you take that the probability of rolling 6 should be 1/6, and if you look at over this, It's far away from the dice. 2 is very far away as well as dice 3 is very far away. Yes?",00:17:19
+eefndxg,118,student,Mm-hmm.,00:17:44
+eefndxg,119,tutor,"So that makes this to be a biased one. Yes, 2 is a biased one. But do you think that 4 is biased?",00:17:47
+eefndxg,120,student,No.,00:17:55
+eefndxg,121,tutor,"It's— when you look at over here, it's— 3 and 3. So it seems like this die should be having more trials as well. So it's going to be biased. You can't have one.",00:17:59
+eefndxg,122,tutor,Yeah.,00:18:11
+eefndxg,123,student,"So that's why this makes it to be a biased one. [unclear] Okay. So yes, the next question is like one of these should be tested again. That would be 3.",00:18:12
+eefndxg,124,tutor,Okay.,00:18:31
+eefndxg,125,student,"Because the total number of testing is only 6, yes?",00:18:32
+eefndxg,126,tutor,Mm-hmm.,00:18:35
+eefndxg,127,student,"Okay. So let's— I'm gonna give you a praise card for completing this. Good working out. And we're gonna move to the next exam style question. Yes, can you read this question and give it a try?",00:18:38
+eefndxg,128,tutor,Yeah.,00:18:51
+eefndxg,129,tutor,"Susan has a bag of colour counters. They are white, purple, pink, and silver. The probability of picking a pink counter is double the probability of picking a silver counter. Complete the table. [unclear]",00:18:53
+eefndxg,130,tutor,Yes? What is the probability of getting pink?,00:20:23
+eefndxg,131,student,Um... [unclear] [unclear],00:20:28
+eefndxg,132,student,"Okay, yes. That's a smart work. Very good. Over there, you'll be getting your 2 marks as well. Hello, can you hear me?",00:20:57
+eefndxg,133,student,Yeah.,00:21:05
+eefndxg,134,tutor,Okay. Shall we try question B as well?,00:21:07
+eefndxg,135,student,Yeah. [unclear],00:21:10
+eefndxg,136,tutor,Mm-hmm. Can you simplify this and give the final answer as a decimal?,00:21:25
+eefndxg,137,tutor,Yeah.,00:21:30
+eefndxg,138,student,"Because it's simplifiable. So let's try to find the simplified version. [unclear] Okay, can you explain me how to get 305? [unclear]",00:21:30
+eefndxg,139,tutor,"Okay. I think you can still— yes. I think you can still give the answer in the decimal. Since it's— the probabilities are all given in decimal, you can give the answer in the decimal.",00:22:23
+eefndxg,140,student,Okay. [unclear],00:22:36
+eefndxg,141,tutor,"Hmm. Can you check your division? If you divide 3 over 5, what would you get? Or you can also say— what was the answer? 60 over 100?",00:23:14
+eefndxg,142,student,"Yeah, yeah.",00:23:28
+eefndxg,143,tutor,Okay. You can check this once again. I think there's a small mistake in your division. What happens when you divide a number by 100? How does the decimal point or numbers move when you divide it by 100?,00:23:30
+eefndxg,144,tutor,It goes back a decimal point.,00:23:52
+eefndxg,145,student,Mm-hmm. [unclear] You have 60 and you're dividing it by 100. [unclear] So that's going to be 0.06.,00:23:55
+eefndxg,146,tutor,No.,00:24:21
+eefndxg,147,student,"Oh, as a fraction.",00:24:22
+eefndxg,148,tutor,"No, Kieran, it's not 0.06. You need to check your place values.",00:24:26
+eefndxg,149,tutor,"When you divide any number by 100, how many place values will each of these digits move?",00:24:31
+eefndxg,150,student,One.,00:24:37
+eefndxg,151,tutor,"To the right. No, it would move 2 place values to the right. So each of these digits would move 2 place values to the right. So if you take 60, and then it's in ones, this is in tens, that's a decimal point. You have your— 10th. 1 over 10, let's say. And then you have 1 over 100, which is 100th. Now what happens when you divide it? It would move 1, 2.",00:24:37
+eefndxg,152,tutor,Mm-hmm.,00:25:11
+eefndxg,153,student,"So this would be a 0 here. Again, your 6 would move 1, 2. So you would have your 6 in your 10th. That makes this answer to be— [unclear] 0.6. Not 0.06. Do you understand why it is 0.6?",00:25:15
+eefndxg,154,student,Yeah.,00:25:33
+eefndxg,155,tutor,"And also make sure that you can— if you get stuck with your divisions, use a place value chart to check your numbers.",00:25:35
+eefndxg,156,student,Mm-hmm.,00:25:41
+eefndxg,157,tutor,"Okay. Yes, you can write your answer as 0.6. Right? Fantastic working in [UNCLEAR]. Working this question on your own, but make sure that you work out your answers to the final one so that you'll be getting your full marks. Okay, and be very careful with your division.",00:25:43
+eefndxg,158,tutor,Okay.,00:26:00
+eefndxg,159,student,"Even dividing 3 by 5 is easy, but rather than that, if you have 110, dividing any number by 10, 100, 1000 would be more easier than moving to some other digits. Yes.",00:26:02
+eefndxg,160,student,Yeah.,00:26:15
+eefndxg,161,tutor,"So try to work this out so that you will be able to work out mentally. But you have shown a fantastic performance here, so awesome effort. As we're running out of time, maybe we can look back into a small reflection. What did we try today? What are the questions that you worked out?",00:26:17
+eefndxg,162,student,I had to work out whether or not a dice was biased.,00:26:36
+eefndxg,163,tutor,Yes.,00:26:43
+eefndxg,164,student,"And then I had to see the probability of a dice, a coin either landing on heads or tails.",00:26:43
+eefndxg,165,tutor,"Mm-hmm, yes. And you learned how to find the frequent, I'm sorry, relative frequency and how to compare a relative frequency with the theoretical frequency and decide whether the [unclear] coin is or whether the dice is biased. So make sure to work them out. And also, you worked out this question very well, learnt what was the small mistake that you made here. I hope you would practice them as well. So see you next session. Have a nice day. Bye-bye.",00:26:54
+eefndxg,166,student,Thank you. [unclear],00:27:25

@@ -1,0 +1,215 @@
+session_id,utterance_id,role,content,timestamp
+bwnybps,0,tutor,Hello.,00:00:00
+bwnybps,1,student,Hello.,00:00:03
+bwnybps,2,background,"Hi Desmond, how are you today?",00:00:03
+bwnybps,3,student,"I'm good, thank you.",00:00:06
+bwnybps,4,background,"I'm doing great as well, thank you for asking. All right, so welcome to [UNCLEAR]. End of the term. Yeah, we have a few more sessions to go.",00:00:08
+bwnybps,5,tutor,Yeah.,00:00:19
+bwnybps,6,student,"So, how is your progress with the lessons?",00:00:19
+bwnybps,7,tutor,It's been good. I've been using the words that we've been using here in my lessons.,00:00:25
+bwnybps,8,background,"Mm-hmm. Okay, that's nice to hear. So do you think it's helping you in your lessons?",00:00:31
+bwnybps,9,tutor,Yeah.,00:00:36
+bwnybps,10,background,"All right. Okay, fantastic.",00:00:38
+bwnybps,11,tutor,"Alright Desmond, so before we get started, do you have any questions? [Speaker:Desmond]...No. [Speaker:Tutor] Okay, alright then. So I think we can get started with today's lesson, which will be a continuation of where we stopped last week. Okay, so it was about trigonometry using SOHCAHTOA. Alright, so before we get started with today's question, let's just do a revision about things you already know about. Solving these problems. Okay, so what are the 3 trigonometric ratios we use in this case, Desmond?",00:00:41
+bwnybps,12,student,Hello?,00:01:19
+bwnybps,13,tutor,"Hello, yes, can you hear me?",00:01:21
+bwnybps,14,student,Hello?,00:01:25
+bwnybps,15,tutor,"Hello, Desmond, can you hear me?",00:01:26
+bwnybps,16,student,"What was the question? Sorry, I couldn't hear you.",00:01:28
+bwnybps,17,tutor,"Oh, all right.",00:01:31
+bwnybps,18,student,"Yeah, I can hear you now.",00:01:32
+bwnybps,19,tutor,"All right, okay, so my question was, let's do a bit of a revision before we get to today's question. OK, let's just refresh the memory. So did you remember the trigonometric ratios that we use?",00:01:34
+bwnybps,20,student,"There's SOH, CAH, and TOA.",00:01:50
+bwnybps,21,tutor,"Yes, OK. And in what instance do we use SOH?",00:01:54
+bwnybps,22,student,When you have the opposite and the hypotenuse.,00:02:03
+bwnybps,23,tutor,"Very good. Okay, so if either of them are missing, if the opposite is missing, you can use SOH. And also you can use this ratio in case if either side is missing or even if the [unclear] is missing. Right. And in what instances do we use CAH?",00:02:07
+bwnybps,24,student,When it's the adjacent and the hypotenuse.,00:02:27
+bwnybps,25,tutor,"Very good. And the remaining one? [Speaker:Desmond]...is the opposite and hypotenuse. [Speaker:Tutor] It's not the hypotenuse, it's the opposite and adjacent.",00:02:31
+bwnybps,26,student,"Oh, adjacent. Sorry, adjacent.",00:02:48
+bwnybps,27,tutor,"Yes. Yeah, in TOA we don't consider using hypotenuse. Okay, so that's what makes it special.",00:02:50
+bwnybps,28,tutor,"Right. So using these ratios, let's try doing question number 3. Can you give this a try? [unclear]",00:02:59
+bwnybps,29,student,"It— so, okay. You do 15. 15 squared times 7 squared. 7 squared is 49.",00:03:21
+bwnybps,30,tutor,"Desmond, I think you are confused with the Pythagoras Theorem.",00:03:38
+bwnybps,31,student,Sorry. Yeah.,00:03:44
+bwnybps,32,tutor,"[unclear] Yeah, okay. Right. That's all right. Yeah, we get confused because this is a right angle triangle and yeah, we have two sides. Yes.",00:03:46
+bwnybps,33,tutor,That makes sense. Anyways? Yeah.,00:03:55
+bwnybps,34,student,"It's the opposite and the adjacent, so it's [UNCLEAR]. [Speaker:Tutor] Very good, it's So [UNCLEAR]. Okay. [Speaker:Desmond] [unclear] is opposite over adjacent, which would be 15 divided by 7.",00:04:02
+bwnybps,35,tutor,Which is 15 divided by 7. So I just need to find my calculator.,00:04:21
+bwnybps,36,student,Yeah.,00:04:38
+bwnybps,37,tutor,Which would be— the equation would be tan— [unclear] [unclear],00:04:38
+bwnybps,38,student,No. Do we have the tan angle here?,00:04:57
+bwnybps,39,tutor,"Oh, sorry. No, we don't. Sorry.",00:05:06
+bwnybps,40,student,"Yeah, so we need to figure out what the angle is. Using the two sides that they've given. So the first step that you said is correct. What you need to do is you need to divide the opposite side by the adjacent side. So what's 15 divided by 7?",00:05:09
+bwnybps,41,student,15 divided by 7 is 2.1428.,00:05:27
+bwnybps,42,tutor,2.148 is that right? [unclear],00:05:34
+bwnybps,43,student,"No, 1428.",00:05:39
+bwnybps,44,tutor,"Okay, 1428. All right. So now, Desmond, we need to figure out the tan inverse of this number. [unclear] So do you know how to figure out tan inverse using the calculator?",00:05:43
+bwnybps,45,student,Yeah. It's minus tan.,00:05:59
+bwnybps,46,student,It's minus 10.,00:06:06
+bwnybps,47,tutor,Yeah.,00:06:07
+bwnybps,48,student,Is it 2.1428 times minus 10?,00:06:10
+bwnybps,49,tutor,This is how you do it. You need to press the Shift after you press— use Shift to use the inverse trigonometric function.,00:06:19
+bwnybps,50,tutor,Okay.,00:06:37
+bwnybps,51,student,"Yeah, so what is the number that you get?",00:06:38
+bwnybps,52,tutor,"So, 2.1— excuse me, what was the number that I got down to? 2.14?",00:06:43
+bwnybps,53,student,2.1428. [unclear],00:07:00
+bwnybps,54,background,"Okay, the answer is 64.98.",00:07:04
+bwnybps,55,tutor,"Very good, there you go. 64.98 is the angle. Okay? Right, so that's how you do it. You'll be getting 3 marks for that.",00:07:08
+bwnybps,56,tutor,"Okay, very well done. So shall we try doing another question with the same method?",00:07:21
+bwnybps,57,student,"Yes, okay.",00:07:29
+bwnybps,58,tutor,"Okay, here you go.",00:07:31
+bwnybps,59,student,"So the angle, it is opposite and hypotenuse, so it's [UNCLEAR].",00:07:39
+bwnybps,60,tutor,Yes. [Speaker:Desmond]...is opposite over hypotenuse. So what you do is you do... [UNCLEAR],00:07:51
+bwnybps,61,student,So it'll be sine—,00:08:16
+bwnybps,62,tutor,Mm-hmm. [Speaker:Desmond]...5 divided by 9. Yeah. Which is 0.009— and the answer is 0.009696.,00:08:17
+bwnybps,63,tutor,Mm-hmm. Zero point?,00:08:44
+bwnybps,64,student,Oh.,00:08:46
+bwnybps,65,tutor,"Okay, okay. Yeah, you can type it, Desmond. Yes, please. [unclear]",00:08:47
+bwnybps,66,student,So then you do—,00:09:02
+bwnybps,67,student,"[unclear] 0.0 inverse sine 0.09696. Oh wait, it's showing up— it's not showing up as a number, as a whole number. I think I went wrong somewhere.",00:09:17
+bwnybps,68,tutor,"Okay, so what is 5 divided by 9?",00:09:47
+bwnybps,69,student,"Oh, it's 0.55.",00:09:52
+bwnybps,70,tutor,"Yes, there you go. [unclear]",00:09:54
+bwnybps,71,student,It's because I did sine 5 divided by 9.,00:10:02
+bwnybps,72,tutor,"Ah, okay, all right, that makes sense.",00:10:06
+bwnybps,73,tutor,"Okay, and then now I do inverse sine 0.55. And the answer is 50— is 33.36.",00:10:33
+bwnybps,74,tutor,"Yes, there you go. 33.36, and you need to mention the degrees as well since it's an angle.",00:11:08
+bwnybps,75,student,"Oh, okay.",00:11:17
+bwnybps,76,tutor,"Okay, we can mention the degrees, right. Okay, Desmond, very well done then, completing all 3 questions of this lesson. So shall we just try evaluating all 3 concepts using this slide?",00:11:18
+bwnybps,77,student,Okay.,00:11:34
+bwnybps,78,tutor,"See what to do here, right?",00:11:36
+bwnybps,79,student,Yeah. This one is find x to 1 decimal point.,00:11:39
+bwnybps,80,tutor,Mm-hmm.,00:11:45
+bwnybps,81,student,"That rule is opposite, and you're trying to find the hypotenuse. So you do 10 sin 40. So you do 10 sin 40. And it comes up with— it's not x sin(40)/10. It's x 10 sin(40). OK. So",00:11:47
+bwnybps,82,tutor,what is between 10 and sin(40)? Is it multiplication or is it division? Multiplication.,00:12:28
+bwnybps,83,tutor,Uh-uh.,00:12:38
+bwnybps,84,student,"Wait, so it's division, division.",00:12:39
+bwnybps,85,tutor,"[unclear] Yes, not the opposite side, so it has to be division. OK?",00:12:42
+bwnybps,86,background,"Yeah, and the answer should be 15.55.",00:12:47
+bwnybps,87,tutor,"Yes, there you go. 15.55 is the correct answer. All right, very well done there. Right, what about the next question here?",00:12:52
+bwnybps,88,background,"The next question, it's labeled wrong.",00:13:02
+bwnybps,89,tutor,Mm-hmm.,00:13:07
+bwnybps,90,student,Because where— this should be a—,00:13:08
+bwnybps,91,tutor,"Yes, very good.",00:13:14
+bwnybps,92,student,This should be adjacent.,00:13:16
+bwnybps,93,tutor,"A, yes.",00:13:18
+bwnybps,94,student,"And it is— so it should be [UNCLEAR], which is— it's not sine, it's [UNCLEAR].",00:13:20
+bwnybps,95,tutor,"Yes, very good.",00:13:33
+bwnybps,96,student,"So the answer should be— sorry, the answer should be— [unclear] should be 8 divided by 12.",00:13:37
+bwnybps,97,tutor,Mm-hmm.,00:14:01
+bwnybps,98,student,Which is 0.666. 0.66.,00:14:01
+bwnybps,99,tutor,Mm-hmm. Okay.,00:14:05
+bwnybps,100,student,And then you do cos [unclear] 0.66. I went wrong somewhere.,00:14:07
+bwnybps,101,tutor,"Yes, I think you didn't press the Shift button to get the inverse.",00:14:21
+bwnybps,102,student,Oh.,00:14:25
+bwnybps,103,student,[unclear] 0.66.,00:14:31
+bwnybps,104,tutor,"Yeah, and then it's 48.7.",00:14:33
+bwnybps,105,background,"Yes, very good, it is 48.7.",00:14:37
+bwnybps,106,tutor,"Okay, very well done there, Desmond. Okay, so we have actually completed this lesson on trigonometry. So shall we just revise the things we need to pay attention in this lesson?",00:14:41
+bwnybps,107,student,Okay.,00:14:55
+bwnybps,108,tutor,"Yeah, okay. So now you have actually done these two questions. Very well done. And okay, so in case if you need to figure out the hypotenuse when the angle and the opposite side is given, which formula or which ratio would you use?",00:14:56
+bwnybps,109,student,[unclear] You do [unclear] cos.,00:15:13
+bwnybps,110,tutor,"Wait, you have the opposite and you need to figure out the hypotenuse and the angle is given.",00:15:30
+bwnybps,111,student,"Oh, you saw. Sorry. Yes, you use soap. Okay, all right, that was just to check your memory, but that's all right. I think you've done a very good job. Yeah, so since we have enough time, I think we can move to the next lesson. So shall we? Okay. Yeah, so, so do you have any doubts regarding this [unclear] before we move to the next one? Uh, I",00:15:44
+bwnybps,112,student,I haven't got any questions.,00:16:13
+bwnybps,113,tutor,"Okay, alright. Alright, so the next lesson is about working with probabilities in tables. Okay? So have you worked with probabilities before? [unclear]",00:16:16
+bwnybps,114,student,Yes.,00:16:37
+bwnybps,115,tutor,"Mm-hmm. All right. Okay, then that's great. So we do have a warm-up question here. So can you give that a try, Desmond?",00:16:40
+bwnybps,116,student,Okay. Who do you agree with? Work out the probabilities in the tables. Alice says the missing probability must be 0.8. Hashem says the probability of silver should be 0.2.,00:16:49
+bwnybps,117,tutor,"Priya says the missing value should be 0.1. So what you should do here is you do 0.3 plus 0.3, which is 0.6, and 0.1 plus 0.1, which is 0.2. So you add 0.2 and 0.6 together, and you take that away from 1, which gives you 0.2. So is correct. Yes,",00:17:06
+bwnybps,118,tutor,"spot on, Desmond. Exactly, yes, that's what we do in probabilities. Okay, very well done there. All right, so it looks like you have an idea about the concept when it comes to probabilities. So let's go into the questions, exam-style questions. Okay, so here you go with the first exam-style question. And give it a try.",00:17:38
+bwnybps,119,student,"Okay. A box contains 3 cartons of orange juice, 4 cartons of apple juice, and 2 cartons of pineapple juice. One of these cartons is taken from the box at random. Work out what the probability that the carton is [UNCLEAR].",00:18:00
+bwnybps,120,tutor,"So what you do here is since 3 2 4, that equals 9. Mm-hmm. So",00:18:25
+bwnybps,121,student,you'll,00:18:43
+bwnybps,122,tutor,do— and the probability of orange juice would be,00:18:44
+bwnybps,123,student,"Uh, it would be 3 over 9.",00:18:55
+bwnybps,124,tutor,Mm-hmm.,00:19:05
+bwnybps,125,student,"The probability of apple juice would be 4 over [UNCLEAR]. 9. The probability of pineapple juice would be 2 over 9. Oh, 2 over 9.",00:19:06
+bwnybps,126,tutor,"Yes. Um, okay, if you pay attention to this, does it say pineapple juice?",00:19:29
+bwnybps,127,student,"Oh, sorry, it's not pineapple juice. So you do 4 plus 3, which is 7. Yes, there you go. All right, very well done there, Desmond. So we have 3/9, 4/9, and 7/9. Okay. And do you also know that we can write these probabilities in its simplest form?",00:19:36
+bwnybps,128,student,Yeah.,00:20:00
+bwnybps,129,tutor,Mm-hmm. And what would be the simplest form if it's 3/9?,00:20:02
+bwnybps,130,student,3/9 divided by [UNCLEAR].,00:20:08
+bwnybps,131,student,"3, which would be 1 over 3.",00:20:09
+bwnybps,132,tutor,"Yes, exactly. 1 over 3 would be the [UNCLEAR]. There you go. All right, very well done there. And we can skip the support slides and we can directly move to the next exam style question. Right, can you give this a try? [Speaker:Desmond] Okay, it says, Desmond, Mason, and Cece each threw the coin a number of times, and the table shows the number of heads and the number of tails for each of them recorded. How can you tell from the results that the coin is biased?",00:20:13
+bwnybps,133,student,"Um, they did— they— [unclear] [unclear]",00:20:57
+bwnybps,134,tutor,It didn't flip the coin the same amount of times.,00:21:34
+bwnybps,135,student,Mm-hmm. Okay.,00:21:38
+bwnybps,136,tutor,Wait.,00:21:43
+bwnybps,137,student,I think I went wrong somewhere.,00:21:55
+bwnybps,138,tutor,"Okay, okay. You can try it again. No worries.",00:21:57
+bwnybps,139,student,"Wait, I think I went wrong. Can you show me where I went wrong?",00:22:03
+bwnybps,140,tutor,"Alright, so if you look at the question, Desmond, do you know what bias means? [Speaker:Desmond]...unfair. [Speaker:Tutor] Yes, okay, it's unfair. That means... Now, if you just imagine a coin, okay, let's say you have a coin and you flip it. So what are the probabilities of getting head and tail?",00:22:07
+bwnybps,141,student,50/50. [unclear],00:22:29
+bwnybps,142,tutor,"50/50, okay. But if you look at these results here, okay, it doesn't matter the amount of times they have actually flipped the coin. Can you see that it's more towards the heads and lesser amount towards the tails?",00:22:29
+bwnybps,143,student,Yeah.,00:22:45
+bwnybps,144,tutor,"Okay, so that's the reason. Okay, theoretically it has to be half. Okay, or somewhere closer to being half, 50/50. But in this case, we can clearly say— see that the coin is biased towards the heads. Does that make sense?",00:22:47
+bwnybps,145,student,Yeah.,00:23:03
+bwnybps,146,background,Yeah.,00:23:04
+bwnybps,147,tutor,"Yes, okay. So, so with that, keeping that in mind, can you try doing the second one?",00:23:04
+bwnybps,148,student,Whose result will give the most accurate estimate for the probability that it will land on heads and why? It will be Mason.,00:23:13
+bwnybps,149,tutor,Mm-hmm. Why do you think so?,00:23:28
+bwnybps,150,student,"Because his one is— since he spent the 80— since he flipped it 80 times, it had a 20% chance of being— it had a 20% chance of being tails. But with the others, it's— but with the others, it's less likely to be tails because with— [unclear]",00:23:33
+bwnybps,151,student,"Oh, I think it's Omar.",00:24:11
+bwnybps,152,tutor,"Mm-hmm. Okay. So if you think it's Omar, why do you think so?",00:24:16
+bwnybps,153,student,"It's because he spun it the most times, which gives him the most probability.",00:24:22
+bwnybps,154,tutor,Yes. Yes.,00:24:27
+bwnybps,155,tutor,"Exactly. Yes, Desmond, the one who [UNCLEAR]. Okay, I'm sorry, you can continue. [Speaker:Desmond] And that also shows that his test is more reliable.",00:24:29
+bwnybps,156,tutor,"Yes, exactly. Very well done in choosing the correct keywords when you were explaining the answer, okay? Yes, because he was the one who did the experiment most number of times, okay? So more the number of experiments you do, closer it is to the accuracy. Okay, so based on that, we can say that Amar gives the most accurate estimate. Okay, so you'll be getting 2 marks for that. And now comes to the challenging question. The third one.",00:24:46
+bwnybps,157,tutor,Okay. [unclear] Mason says they are 4 times more likely to get a heads than a tails.,00:25:18
+bwnybps,158,tutor,"When flipping the coin, use all the results in the table. Do you agree?",00:25:25
+bwnybps,159,student,"So what I'll do is, for MR, I will do 22 times 4.",00:25:35
+bwnybps,160,tutor,Which is 88.,00:25:52
+bwnybps,161,student,Yeah. So can you show the working right here so that both of us can see what you're doing?,00:25:54
+bwnybps,162,tutor,"Oh, so 22 times 4 equals 88. And then for this one, 3 times 24.",00:26:00
+bwnybps,163,tutor,Times 4 equals 12.,00:26:17
+bwnybps,164,student,"So, I do not agree because with Mason's one, it's 20... [unclear] times 4 equals 80. I don't know. Mm-hmm.",00:26:28
+bwnybps,165,tutor,"OK, Desmond, that was a very good try. But if you look at the question once again, If you carefully read the question, they say using all the results in the table. So we can't restrict to just Mason's or Omar's results. Okay, you need to consider all the results that they've got after flipping the coin. So shall we try doing it together?",00:27:06
+bwnybps,166,student,Oh.,00:27:28
+bwnybps,167,tutor,It seems confusing. Or do you want to give it a try once again alone?,00:27:29
+bwnybps,168,background,[unclear],00:27:33
+bwnybps,169,student,Can I just get one more try?,00:27:35
+bwnybps,170,tutor,"Yeah, sure, definitely.",00:27:37
+bwnybps,171,student,What just came to my mind is that you could do 218 plus 80 plus 47. [unclear],00:27:43
+bwnybps,172,student,"Which equals 345. And then you could do 22 plus 20 plus 3 equals 45. And then you do, you do, uh, 345 times 3.",00:28:03
+bwnybps,173,tutor,Divided by 45. [unclear] 345 divided by 45.,00:28:29
+bwnybps,174,student,Mm-hmm.,00:28:43
+bwnybps,175,tutor,Which gives you 7.7... 345... [unclear],00:28:45
+bwnybps,176,student,There's no divided sign.,00:29:00
+bwnybps,177,tutor,Okay. Divided by 45. Equals 7.667. [unclear] Is that what we could do?,00:29:14
+bwnybps,178,tutor,"Okay, so this is the thing, Desmond, okay? So this part where you add all the heads together to get 345, that is correct, okay? And then you add all the tails together, you get 45, and that's correct. But when you write down it as a probability, do you write it as 345 over 45, or do you write it as— [unclear]",00:29:35
+bwnybps,179,tutor,"Or do you write the total as the denominator when it comes to probabilities? Because if we take a look at the first question here, you counted all of them together, right? So all of them together makes 9. And then you wrote the probability of orange using orange. So 3/9. Likewise, when it comes to this question here— [unclear] Okay, so in this question, what happens when you add all of them together?",00:29:58
+bwnybps,180,student,Um—,00:30:32
+bwnybps,181,tutor,"So that would be 345 plus 45, right?",00:30:35
+bwnybps,182,student,Yeah.,00:30:39
+bwnybps,183,tutor,"Okay, so what is the answer you get when you—",00:30:41
+bwnybps,184,student,390.,00:30:45
+bwnybps,185,tutor,"Yes, 390. Okay. So now if you need to find the probability of heads, what do you think you have to do?",00:30:47
+bwnybps,186,student,390 divided by 3. [unclear],00:30:56
+bwnybps,187,tutor,"Can you repeat that again, please?",00:31:00
+bwnybps,188,student,Do you find the mean?,00:31:05
+bwnybps,189,tutor,"345. To find the probability of getting heads, what do you have to do? 345",00:31:06
+bwnybps,190,tutor,Divided by 390.,00:31:14
+bwnybps,191,student,Yeah.,00:31:18
+bwnybps,192,tutor,"Okay, does that make sense?",00:31:19
+bwnybps,193,student,[unclear],00:31:21
+bwnybps,194,tutor,"Because when you add all of the heads together, let's just write it here, 345. And when you add all the tails together, you get 45. So the total number of flips that were done was 390, okay? So if you need to figure out the probability of getting heads, you need to do 345 divided by 390. Okay? So can you do the division and give me the answer?",00:31:22
+bwnybps,195,student,"So 345 divided by 319 equals [UNCLEAR]. [Speaker:Tutor] Right. Yes. Okay, Desmond. So can you try doing the same thing to figure out the probability of getting tails? [unclear] It's 45 divided by 390 equals 1.15.",00:31:52
+bwnybps,196,tutor,"Yes, okay. So now we need to see, now this is the probability of getting heads and this is the probability of getting tails. So now we need to see if the probability of getting a head, okay, getting heads, is 4 times than getting tails when you flip the coin. So what do you think you need to do with these 2 answers that you got?",00:32:37
+bwnybps,197,student,You times them.,00:33:00
+bwnybps,198,tutor,"Hmm, okay. [unclear] Yeah, you need to divide them and see if this is 4 times bigger than this number. [unclear]",00:33:04
+bwnybps,199,student,"Sorry, I've got 7.69. Let me just do that again.",00:33:28
+bwnybps,200,tutor,"Yeah, okay. Right, that's the correct answer, 7.69. So let's just say it's 7, okay? So now what do you say? This number is 7 times bigger than this, right? So do you agree with his statement?",00:33:32
+bwnybps,201,student,No. [unclear],00:33:47
+bwnybps,202,tutor,"What is your answer, Desmond? Do you agree or don't you agree with him? He says it's 4 times bigger, but actually it's 7 times bigger.",00:33:52
+bwnybps,203,student,Yeah.,00:34:05
+bwnybps,204,tutor,Okay.,00:34:07
+bwnybps,205,student,"Oh, yeah.",00:34:07
+bwnybps,206,tutor,"All right, so was that clear, or do you want me to explain it once again?",00:34:10
+bwnybps,207,student,"I've just got it, yeah.",00:34:15
+bwnybps,208,tutor,"Okay, okay, cool. All right, so good job done there, and since we are running out of time, I don't think we'll be able to do the next question. Okay, so any doubts about the [UNCLEAR]? The two questions that we did today?",00:34:17
+bwnybps,209,student,No.,00:34:33
+bwnybps,210,tutor,You don't sound sure. Are you confused?,00:34:37
+bwnybps,211,student,"No, I'm okay.",00:34:44
+bwnybps,212,tutor,"Okay, all right Desmond. So you don't have to worry about asking me any questions or any doubts, okay? I'm happy to help you. Right, anyways, it's time for me to end the session. So I'll see you next week Desmond. Have a good day then. Bye.",00:34:47
+bwnybps,213,student,"Okay, bye. [unclear]",00:35:02

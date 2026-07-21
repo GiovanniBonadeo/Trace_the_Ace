@@ -1,0 +1,307 @@
+session_id,utterance_id,role,content,timestamp
+etaorql,0,tutor,"Hello? Hello? Hello, Miss? Hello? [unclear]",00:00:00
+etaorql,1,tutor,"Hi, Gideon, can you hear me? Hello, Gideon, can you hear me? Gideon, can you hear me? Hello?",00:00:37
+etaorql,2,tutor,"Can you hear me, Gideon? Hi, can you hear me? Hello? [unclear] Gideon, can you hear me? Hello, can you hear me, Gideon? Well, are you there? [unclear]",00:00:53
+etaorql,3,student,"Yes, I can hear you.",00:01:34
+etaorql,4,tutor,"Oh, are you there?",00:01:44
+etaorql,5,student,"Yeah, I was just helping a friend. He couldn't knock on.",00:01:45
+etaorql,6,tutor,"Okay. So how are you, Gideon?",00:01:50
+etaorql,7,student,Pardon?,00:01:54
+etaorql,8,tutor,How are you?,00:01:55
+etaorql,9,student,I'm good. How are you?,00:01:57
+etaorql,10,tutor,I'm good too. So how's your day going on?,00:01:58
+etaorql,11,student,Mine was going perfectly fine. How was yours?,00:02:02
+etaorql,12,tutor,Nice. Same here. So what about your weekend? How was it like? Did you go somewhere or you stayed home and relaxed? [unclear],00:02:05
+etaorql,13,student,It was actually very nice. Thank you for asking.,00:02:14
+etaorql,14,tutor,"Okay, all right, Gideon. So now we would have a look on the topic which we are going to discuss today, okay? So actually, we are going to continue this, which is rounding decimals to a nearest whole number, yeah?",00:02:17
+etaorql,15,student,Yeah.,00:02:31
+etaorql,16,tutor,So there would be some decimal numbers. We will discuss that how and to what number we are going to round it. Okay?,00:02:33
+etaorql,17,student,Okay.,00:02:41
+etaorql,18,tutor,"So we are going to continue from this Let's Learn slide, part number B questions. So could you please take a look on it and try it out? [unclear]",00:02:42
+etaorql,19,student,"Okay. When rounding a decimal number to the nearest whole number, we need to know what whole numbers it lies between.",00:02:55
+etaorql,20,tutor,What did you understand by this statement?,00:03:05
+etaorql,21,student,Like what it lies between?,00:03:09
+etaorql,22,tutor,"Lies between, that means in which numbers it comes in, right? So like we have this question, part number B. We have 5.7 here. [unclear] Whole numbers this number comes between or lies between.",00:03:13
+etaorql,23,student,Okay.,00:03:29
+etaorql,24,tutor,Pardon?,00:03:33
+etaorql,25,background,"I'm asking you, the number is 5.7, which is given in part number B. Can you see that?",00:03:35
+etaorql,26,tutor,Yeah.,00:03:41
+etaorql,27,background,"Yes, so tell me, is this a decimal number or a whole number?",00:03:42
+etaorql,28,tutor,It's a decimal number.,00:03:46
+etaorql,29,background,Exactly. So in between which two whole numbers this lies between?,00:03:49
+etaorql,30,tutor,Could be... one second. [unclear],00:03:55
+etaorql,31,background,"One second, I'm just trying to do something.",00:04:05
+etaorql,32,tutor,Okay.,00:04:13
+etaorql,33,background,Right there. Here.,00:04:13
+etaorql,34,student,Do you see it?,00:04:25
+etaorql,35,tutor,"Oh, I think you have made this. Okay, we are not supposed to draw this one. We already have some bars given over here. We can use them. But my question to you was that between which two whole numbers, which whole numbers come exactly before 5.7?",00:04:27
+etaorql,36,student,"Um, 4.7 to— [unclear]",00:04:47
+etaorql,37,tutor,"Is that— okay, the numbers that you are mentioning, are these whole numbers or decimal numbers?",00:04:52
+etaorql,38,student,[unclear],00:04:57
+etaorql,39,tutor,"They are decimal numbers. Whole number is a complete number, for example, 5. So after 5, we have 5.7, right? If you see, between 5 and 6, we have 5.5 and 6 are whole numbers.",00:04:58
+etaorql,40,background,Okay. [unclear] 5 lies here and 6 lies here. Okay?,00:05:22
+etaorql,41,student,Yeah.,00:05:26
+etaorql,42,background,"This would be 5.1, 5.2, 5.3, 5.4, and so on. So where would now this 5.7 lies on this number line?",00:05:27
+etaorql,43,tutor,On which bar would be 5.7?,00:05:54
+etaorql,44,student,"Oh, on which bar? [unclear] Here.",00:05:57
+etaorql,45,tutor,How? How?,00:06:12
+etaorql,46,student,Because it is the closest to [UNCLEAR].,00:06:19
+etaorql,47,tutor,"Gideon, I think you didn't get it. Let me explain you in detail. So this is 5 here, right? Then we have 6 here. In between them we have 10 gaps.",00:06:19
+etaorql,48,tutor,Right. So each of them represents of 5— like one tenth. So it would be 5.1. This would be 5.2. This would be 5.3. This would be 5.4. This exactly in the middle is 5.5. The next one is 5.6. So here we have 5.7. It's here. Here. Okay?,00:06:36
+etaorql,49,student,Okay.,00:07:06
+etaorql,50,tutor,"So at which— this bar, what is the number?",00:07:07
+etaorql,51,student,[unclear] Pardon?,00:07:11
+etaorql,52,tutor,"What is the number at this bar, Gideon?",00:07:14
+etaorql,53,student,5.8.,00:07:19
+etaorql,54,tutor,And here?,00:07:23
+etaorql,55,student,5.9.,00:07:24
+etaorql,56,tutor,And then?,00:07:25
+etaorql,57,student,6 holes.,00:07:27
+etaorql,58,tutor,"Yes. So we have 5.7 here. Tell me, is this closer to 5 or 6?",00:07:29
+etaorql,59,student,Um... which one?,00:07:36
+etaorql,60,tutor,"Is this 5.7 that we are talking about, is this number closer to 6 or 5?",00:07:40
+etaorql,61,student,6.,00:07:49
+etaorql,62,tutor,Exactly. That means it would be rounded up to number 6. That means 5.7 rounded to the nearest whole number is 6. Is this question clear to you or not?,00:07:51
+etaorql,63,student,Yes.,00:08:05
+etaorql,64,tutor,So now I want you to explain me the steps that we have discussed for doing this question. [unclear] [Speaker] One second.,00:08:06
+etaorql,65,tutor,"Okay. [Speaker] What was the thing you said again? What did you say, Tutor?",00:08:24
+etaorql,66,tutor,"I said, can you please explain me back the things we have discussed so far? [Speaker] Oh.",00:08:34
+etaorql,67,tutor,"In this particular question, yeah. [Speaker] That the 5.7 is closer to the 6 [unclear] than the 5.",00:08:40
+etaorql,68,tutor,Okay. And how did we get to know that 5 and 6 are the whole numbers in between which 5.7 lies?,00:08:52
+etaorql,69,background,Pardon?,00:09:03
+etaorql,70,tutor,How did we get to know that 5 and 6 are the whole numbers which are in between which 5.7 comes between?,00:09:05
+etaorql,71,background,"Because we use the number line to do 5.15, 5.25, 5.35, 5.44, 5.55, 5.65, 5.7.",00:09:12
+etaorql,72,tutor,"Yeah, but before—",00:09:19
+etaorql,73,tutor,"How did you— yeah, okay, but that is after that we have spotted 5 and 6, right? But how will you get to know that what are the whole numbers for 5.7 that it comes between? [unclear]",00:09:20
+etaorql,74,background,"Pardon? Sorry, sir, so can— let me just put my volume up.",00:09:41
+etaorql,75,student,Can you please say that again?,00:09:47
+etaorql,76,tutor,"Okay, let's do one thing. Let's move ahead and try some questions, and then you are able to try the questions, okay?",00:09:51
+etaorql,77,background,Okay.,00:09:59
+etaorql,78,tutor,"So thanks for listening to me carefully so far, yeah? Now we'll be discussing this follow me part, and then you are done. Once I'm done with this follow me part, then you can try yours, okay?",00:09:59
+etaorql,79,background,Okay. [unclear],00:10:11
+etaorql,80,tutor,"Gideon, we have discussed our previous question also. And this question also I'm going to do so, okay?",00:10:12
+etaorql,81,student,Okay.,00:10:19
+etaorql,82,tutor,"But I want you to clearly listen to me clearly. I would really appreciate if you will see how I'm attempting it so that you can try your turn side by yourself without any help, okay?",00:10:19
+etaorql,83,student,Okay.,00:10:33
+etaorql,84,tutor,"Because the purpose of these sessions is— yeah, I think you was going to say something.",00:10:34
+etaorql,85,background,Can I please get a tissue?,00:10:39
+etaorql,86,tutor,Sure you can. I'm waiting. Let me know once you're back. [unclear],00:10:41
+etaorql,87,tutor,Are you back? [unclear] Are you back? [unclear],00:11:33
+etaorql,88,tutor,Hello? Can you hear me?,00:12:17
+etaorql,89,student,"Yeah, I'm back.",00:12:22
+etaorql,90,tutor,"Okay, are you all right?",00:12:24
+etaorql,91,background,"Yes, I just want to get a tissue.",00:12:25
+etaorql,92,tutor,"Okay. So I was saying, now as I'm going to attempt the question, so please do listen to me carefully so that you can try your turn side by yourself. Okay?",00:12:28
+etaorql,93,background,Okay.,00:12:38
+etaorql,94,tutor,"Yeah. So here it says, when rounding numbers, it is helpful to think about the halfway point. So you must be thinking, what is this halfway point, right?",00:12:39
+etaorql,95,tutor,"So the halfway point is the middle number between two numbers. For example, we have 0 and 10, right?",00:12:53
+etaorql,96,student,Okay.,00:13:02
+etaorql,97,tutor,"Exactly half of that would be 5, right? So if I ask you, what is half of 10? It would be 5, right? What is half of 20? It is 10. So that means exactly half in the middle which separates the number into same equal parts. Okay?",00:13:03
+etaorql,98,student,Yeah.,00:13:19
+etaorql,99,tutor,"Now, the halfway point between 0 and 1. As we are discussing about decimal numbers and whole numbers, so the number line here is starting from 0 and ending up till 1. Okay? So it's 0 to 1. That means we have a whole number gap of just 1, and half would be 0.5. Okay? Are you getting me?",00:13:20
+etaorql,100,tutor,"Is this point clear that how? Like because zero and then [unclear] 0.1. Oh, are you alright?",00:13:46
+etaorql,101,student,Yeah.,00:13:54
+etaorql,102,tutor,You can have some water if you wish to.,00:13:55
+etaorql,103,student,I don't have any. We're not allowed water in here.,00:13:58
+etaorql,104,tutor,"Oh, okay. Alright. So are you good to continue?",00:14:01
+etaorql,105,student,Yeah.,00:14:05
+etaorql,106,tutor,"Okay. In case you have any issues, do let me know or the adult around you, okay?",00:14:07
+etaorql,107,background,[unclear],00:14:12
+etaorql,108,tutor,"Alright, so it's starting from 0 and ending up till 1, and if you see, the gaps are of 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. So there are 10 gaps. So that means this number has been cut into— number line is cut into 10 equal parts. So that means each thing would be going up in tenths. So it would be 0.1, then it would be 0.2, and so on. Okay, this is 0.1, this is 0.2, this is 0.3, 0.4, and that's how this is 0.5, which is the halfway point. Okay?",00:14:12
+etaorql,109,student,Okay.,00:14:54
+etaorql,110,tutor,Now it says if the 10th digit is more than 5 or exactly 5.,00:14:55
+etaorql,111,student,Okay.,00:15:03
+etaorql,112,tutor,"So the 10th digit here is— the decimal point is here. Just before that is the 10th column. The 10th column, okay?",00:15:04
+etaorql,113,student,Okay.,00:15:12
+etaorql,114,tutor,"If it is 5 or more, then we are going to round it up to the nearest whole number, okay? So as we can see, we have 0.5 and it is 5 here, which is going to be rounded upwards to 1, which is the nearest whole number, okay?",00:15:13
+etaorql,115,background,[unclear],00:15:31
+etaorql,116,tutor,"We have 0.7. So 0.7 comes in here, and it's more than 0.5. So that means it is going to be rounded up to the nearest whole number, which is 1 again. Okay?",00:15:33
+etaorql,117,student,Okay.,00:15:47
+etaorql,118,tutor,And now we have 0.3 here. So it's before 0.5. It's less than— it has the tenths which are less than 5. So that means it will be rounded downwards. And down it is the whole number is 0 only.,00:15:48
+etaorql,119,tutor,Okay. [Speaker] That's why the answer is 0. Is this whole question clear or not?,00:16:04
+etaorql,120,background,"Yes. [Speaker] Yeah. [Speaker] If it is here, right? Still if it is 0.4, the tenth digit is 4 and it's less than 5, so that means we are going to round it down again to 0. Okay? [Speaker] Okay. [Speaker] Any number which is on the halfway point or above that, it would be rounded up. Up. Okay?",00:16:09
+etaorql,121,student,Okay.,00:16:30
+etaorql,122,tutor,Any doubts? Anything that you want me to repeat?,00:16:31
+etaorql,123,student,No.,00:16:35
+etaorql,124,tutor,"All right, so excellent focus from your side, Gideon. Now you can have a look. You're welcome. Now you will have a look on your turn side of the question. Please try it and give your best.",00:16:36
+etaorql,125,student,Okay. [unclear] Okay. [unclear],00:16:48
+etaorql,126,tutor,[UNCLEAR] [unclear],00:16:48
+etaorql,127,tutor,[unclear],00:16:48
+etaorql,128,tutor,Okay.,00:17:26
+etaorql,129,student,"Hello, guys.",00:17:27
+etaorql,130,background,"Yeah, I'm here. Yeah, yeah, I can see that you have attempted the question as well. Okay, so why do you think it would be 6 for 6.3 and 7 for 6.5?",00:17:27
+etaorql,131,student,Because if the round is [unclear],00:17:42
+etaorql,132,tutor,"Wrong way around. Yeah, how did you get it? Like, if we talk about 6.3, where it would lie? You're absolutely right. Why have you changed the answer? Why are you changing it?",00:17:48
+etaorql,133,student,I thought it was the other way around.,00:18:00
+etaorql,134,tutor,I'm just asking you for the explanation. It doesn't mean that you're incorrect. Yeah?,00:18:03
+etaorql,135,student,"Okay, so—",00:18:07
+etaorql,136,tutor,Where would 6.3 lie on the number line?,00:18:09
+etaorql,137,student,"So 6.3 rounded to the nearest whole number, so it's 6.3, so you can't go to 7 because it's a 3, and you go straight to 0 because it's 6. You know what I'm trying to say?",00:18:13
+etaorql,138,tutor,"Yeah, yeah, I got it. So 6.3 is here, right?",00:18:27
+etaorql,139,student,"Yeah, and 5 is bigger, so it goes to 7.",00:18:32
+etaorql,140,tutor,"Hmm, yeah, so somewhere you were right, so just let me know.",00:18:36
+etaorql,141,tutor,"That you know that it's not a 0 here, it's 6, right? So why it was 0? Because 0.5 is between 0 and 1. And 6.5 is between 6 and 7, right?",00:18:40
+etaorql,142,background,Yeah.,00:18:52
+etaorql,143,tutor,"We can't say 5, 4, 3, 2, 1, anywhere here because they are not closer to 6.5, right? The whole numbers which are closer to 6.5 is 6 and 7, okay? So 6.3, like you have said, 3 is less than 5. So [unclear] are less than 5, so we have to round it down backwards. Yeah, here it's 5 or more rounds up. So smiley face created by you, Gideon. Nice, it was a good effort the way you have tried to explain your [unclear] part. Nice, give thumbs up for you. Yeah.",00:18:53
+etaorql,144,student,Thank you.,00:19:22
+etaorql,145,tutor,"You're welcome. So I think I've tried to make a star as well. So, yeah, okay, let me know once you are done, then we'll be discussing the more questions. Okay?",00:19:23
+etaorql,146,student,"Okay, I'm done.",00:19:34
+etaorql,147,tutor,"All right, nice. So we'll be now trying some practice questions here so that you can feel more confident in attempting the the decimal questions thing, rounding it to the nearest whole number easily using a number line too. Okay?",00:19:35
+etaorql,148,student,Okay.,00:19:49
+etaorql,149,tutor,All right. So let's— could you please read this sentence?,00:19:50
+etaorql,150,student,Oh.,00:19:54
+etaorql,151,tutor,Yeah.,00:19:55
+etaorql,152,student,"Oh, are you all right?",00:19:55
+etaorql,153,background,Yeah. Look at the value of 10 or use number line to round each of these numbers to the nearest whole number. Easy.,00:19:57
+etaorql,154,tutor,"Okay, so if you want to use a number line which is down here, you can use it for all the parts. Okay, all right, nice, good job. Last one is perfect, Gideon. How did you get all these answers? I would like to know your understanding and the logics used by you.",00:20:09
+etaorql,155,student,"Because that A, 9.9 rounded to the nearest 10 is 10 because you add 1 and there's a whole, like a 10.",00:20:36
+etaorql,156,tutor,"Okay, rounded to the nearest whole number, not 10. Answer is 10, definitely. So if you're going to round 9.9 to the nearest whole number, it would be 10, right? Okay, what next?",00:20:48
+etaorql,157,student,"And B, 3.4 rounded to the nearest, um, Whole number, it can't be because it's not 3.5 or 3.9, so it's just a 3 because you have to take away, and that's the whole number. And 20.5 is 21 because it has a 5 and is more than the 3. And D is 0.3, so the whole number is going to be 0.",00:20:58
+etaorql,158,tutor,[unclear],00:21:28
+etaorql,159,tutor,"Alright, so as you have mentioned here, it's 3.4, so we have to take away. We haven't taken away anything. We are just moving it down to 3. Yeah?",00:21:29
+etaorql,160,student,Yeah.,00:21:37
+etaorql,161,tutor,"So like 3 and 4 are here, right? So where would be 3.4 on this number line? Can you please let me know? On which bar it would be 3.4? Perfect. Like here, right? And it's less than this midpoint, definitely. So it's closer to definitely— oh, sorry, not this one.",00:21:38
+etaorql,162,student,"Yeah, definitely 3.",00:22:08
+etaorql,163,tutor,"Yeah, definitely 3. That's how. Okay, great. It was an amazing work. So I must say you deserve this sticker too. [unclear] You're welcome.",00:22:10
+etaorql,164,tutor,"So now we'll be moving to the last slide of this topic, which is here.",00:22:20
+etaorql,165,student,"Oh, hi.",00:22:25
+etaorql,166,tutor,"Okay. Yeah, you can read this question carefully and then try to attempt this.",00:22:26
+etaorql,167,background,Sarah is measuring the length of her bracelet. She has rounded it to the nearest centimeters. The round length is 10 centimeters. What could the exact length of her bracelet be? Give two possible [UNCLEAR].,00:22:31
+etaorql,168,tutor,So 2 answers.,00:22:49
+etaorql,169,student,Mm.,00:22:51
+etaorql,170,tutor,Okay. So what do you think about it?,00:22:54
+etaorql,171,student,"Yeah. 9.9 rounded to the nearest nearest 10 is 10 centimeters because you just add 1. And for half of 10 is 5, so it's 9.5. Add the another 5, so it goes to 10.",00:23:05
+etaorql,172,tutor,"Okay, as you mentioned centimeters there while you were speaking and explaining me, so yeah, you have to mention it along with the answers too.",00:23:33
+etaorql,173,tutor,"Right, so as to grab full marks. So Gideon, the way you have attempted and given the correct answers, that's fine, but the explanation that you have given, it can be improvised, okay? Let me tell you how you can say that. So we are not adding 1 to this or 1— adding 5 to this, okay? It's just like we are going to focus on the tenths, which is 9, and if it's more than 5, it is automatically going to move upwards. till 10 centimeters, right? Same is the case for this one also. Okay? Okay.",00:23:42
+etaorql,174,student,"Can I please go get a tissue? Yeah,",00:24:15
+etaorql,175,tutor,"yeah, sure. Go ahead. [unclear]",00:24:17
+etaorql,176,tutor,Are you back?,00:24:35
+etaorql,177,student,Yes. Are you back? [unclear],00:24:51
+etaorql,178,student,"Hello, I'm back. I'm ready to learn.",00:25:10
+etaorql,179,tutor,"Okay, great. Are you all right?",00:25:13
+etaorql,180,student,"Yeah, I just had a cough.",00:25:16
+etaorql,181,tutor,"Oh, that is because of the weather, right? So take care of yourself. Yeah.",00:25:18
+etaorql,182,student,"Just like one second. No, no, not this. How many degrees are outside? 9 degrees. [unclear]",00:25:23
+etaorql,183,tutor,"Oh, okay.",00:25:34
+etaorql,184,student,And in here is chilly too.,00:25:39
+etaorql,185,tutor,"Okay, at my place it's not that cold, but it is cold. It's around 16 degrees here.",00:25:41
+etaorql,186,student,"Oh, you guys are lucky.",00:25:50
+etaorql,187,tutor,"Yeah, that is right.",00:25:52
+etaorql,188,tutor,"Okay, so Gideon, now we would discuss one more thing about it, right? So as you have rounded them up and you have reached your answer 10 centimeters, both the answers are absolutely right, okay? But now I'm going to share a few more possibilities with you that even though if you're going to take any number from this or this or this and this, any number from this. What do you think? Will you round the number up or down?",00:25:55
+etaorql,189,student,Down.,00:26:34
+etaorql,190,tutor,To what number?,00:26:36
+etaorql,191,student,To 9.,00:26:38
+etaorql,192,tutor,How?,00:26:39
+etaorql,193,background,Are you okay?,00:26:40
+etaorql,194,tutor,"Yeah, I'm okay. It was just because of some dryness. Yeah.",00:26:43
+etaorql,195,student,"You can round it to 9 because it goes down. We are not going to take off any number from this. If we have to round it down, it would still be 10 centimeters for all.",00:26:48
+etaorql,196,student,"Oh, 10, 10, 10, 10.",00:27:00
+etaorql,197,tutor,"Yes, 10, 10 for all of them, yes.",00:27:03
+etaorql,198,student,It's just gonna be 10.0.,00:27:05
+etaorql,199,tutor,"Yes, 10.0, yeah. So that means it's still 10 centimeters, right?",00:27:08
+etaorql,200,student,Yeah.,00:27:12
+etaorql,201,tutor,"So that means any answer starting from 9.5 centimeters like 9.5, 9.6, 9.7, 9.8, 9.9, or any number from these, all would end up getting— giving you the answer 10 centimeters, right? So there can be possibility of any answers from these. All would be correct. Is this clear?",00:27:13
+etaorql,202,student,"Yes, Miss.",00:27:35
+etaorql,203,tutor,Any doubts for these parts that we have discussed?,00:27:36
+etaorql,204,background,No.,00:27:39
+etaorql,205,tutor,"Okay. So it was really amazing teaching you this topic. Now we would have Next topic, okay, I'm going to load it in a while. Just a second, I need to recheck that we are going to continue with— okay, let me check what is the next topic which is uploaded over here. Then we have to see whether it's the one. [unclear]",00:27:40
+etaorql,206,background,[unclear],00:28:06
+etaorql,207,tutor,"Yeah, I'm here. Just give me a second. Yes, we haven't— okay, I think this topic has been taught. Not taught yet. Not taught yet. Okay. [unclear] Oh, okay. Shall we continue?",00:28:11
+etaorql,208,student,Yeah.,00:28:29
+etaorql,209,tutor,"Okay, Gideon. So we have only 30 more minutes left, so we are not going to finish this topic. We are going to just discuss few things about it, okay?",00:28:30
+etaorql,210,tutor,"So as you have [unclear] and like you have mentioned, you're not that well, so you can either speak slowly or you can just give a tiny reply, okay, when I ask you. All right?",00:28:40
+etaorql,211,student,Okay.,00:28:53
+etaorql,212,tutor,"Yeah. So the topic is understanding fractions greater than 1. So it is fractions but greater than 1. So just let me know with yes or no if you are aware of fraction, what fractions are. You know that?",00:28:54
+etaorql,213,student,Yeah.,00:29:07
+etaorql,214,tutor,"Okay. So here is a learning goal question. Just take a look on this. Instead of reading it aloud, you can just read it quietly and then attempt it.",00:29:08
+etaorql,215,student,Write 1 whole 3/5 as an improper fraction. Okay. [unclear] How did you get 13 on the top? [Speaker] Improper fraction.,00:29:17
+etaorql,216,tutor,"How did you get 13/50? Like, what calculation did you do? [Speaker] From one whole.",00:29:44
+etaorql,217,tutor,"So how many one wholes are there? [unclear] How did you get 13? Like, have you combined one whole and 3?",00:29:51
+etaorql,218,background,From the doc.,00:30:02
+etaorql,219,student,"Oh, I get it now, what improper fraction is. This is an improper fraction.",00:30:04
+etaorql,220,tutor,"Okay, I would like to know, how did you get this?",00:30:22
+etaorql,221,student,"Miss, I forgot what improper fractions are because we did it a long time ago.",00:30:30
+etaorql,222,tutor,"Don't worry, don't worry. We will be discussing that today, okay? First of all, these are the fractions which are greater than 1. Like you can see, there is 1 whole, but we have this extra part which is 3/5, and that's what make it a— like, that's what— this is a mixed fraction, mixed number. So we have to turn this into an improper fraction. So how How we will do it, we'll be discussing that in a while. Okay. So we'll get back to this question afterwards after discussing it. Now, can you please try this prior learning goal question? [unclear]",00:30:34
+etaorql,223,background,Okay.,00:31:05
+etaorql,224,tutor,"Hmm, so in total they are asking, if there are 6, add on 6 more makes it how many?",00:31:20
+etaorql,225,student,18. [unclear],00:31:26
+etaorql,226,tutor,"Oh, 6 add 6.",00:31:29
+etaorql,227,student,"12, 18.",00:31:32
+etaorql,228,tutor,"Yeah, it would be 12 then here.",00:31:34
+etaorql,229,student,Yeah.,00:31:36
+etaorql,230,tutor,"And then add on more 6 to that would be 18, like you have said. Yeah, so in total it would be 18 like this. Okay. How many cakes are there in total? Count in multiples, they are saying. So that's why we have to continue these 6 to the next 6, then these all to the next one. Okay.",00:31:37
+etaorql,231,student,"Yeah, in total there are 18 cookies.",00:31:56
+etaorql,232,tutor,"Yes, yes, definitely. Okay, so we'll be now discussing about the question that we have skipped for a while. So we'll be discussing that just right here. Have a look on this. Read it, please. [unclear]",00:31:59
+etaorql,233,student,Fractions can be greater than 1 when numerator is greater or equal than denominator and its multiple of the denominator makes it a whole number.,00:32:20
+etaorql,234,tutor,So what did you understand from this now?,00:32:37
+etaorql,235,background,"Uh, it makes it a whole number, the denominator.",00:32:42
+etaorql,236,tutor,"Okay, they are saying— oh yeah, they're saying whenever we have an improper fraction, when we have an improper fraction, it means on that fraction, the top number which is called a numerator, that's greater or equal to the denominator. Okay. Now if it is equal, it would become a whole number. Yeah?",00:32:49
+etaorql,237,student,Yeah.,00:33:10
+etaorql,238,tutor,"And also it says if the denominator is a multiple of denominator, then it makes a whole number. So let's check how. Okay, have a look on these here. How many one-fifths can you see? [unclear]",00:33:11
+etaorql,239,student,"I can see, um,",00:33:27
+etaorql,240,student,[unclear],00:33:36
+etaorql,241,tutor,5/5 equals 1 whole.,00:33:36
+etaorql,242,student,"Yeah, so there are 5/5, that is equal to 1 whole, right? So 5 wholes divided by 5 wholes. Now see, in part number A, 0, starting from 0, then we have 5/5, which is 1 whole. So what would be 10/5 equal to?",00:33:38
+etaorql,243,student,Oh. How many wholes are equivalent to 10/5?,00:33:54
+etaorql,244,student,2 wholes.,00:34:04
+etaorql,245,tutor,"Very good. You can mention it here. What about 15/5? How many wholes are equivalent to? Oh, could you please recheck?",00:34:05
+etaorql,246,background,1 whole. [unclear],00:34:20
+etaorql,247,tutor,We have to tell how many wholes is 1 whole and 1/5 A whole number?,00:34:23
+etaorql,248,student,"No, there's one whole. [unclear] Two wholes and one fifth.",00:34:30
+etaorql,249,tutor,"Okay, see, we are not going to discuss that for now. We are talking about the whole numbers only. How did you get 2 over here?",00:34:39
+etaorql,250,student,"Um, I got 2 because it takes 2 fives to make 10.",00:34:48
+etaorql,251,tutor,"Same way, it takes how many fives to make 15?",00:34:56
+etaorql,252,tutor,"Oh, all right. It's fine, it's fine. I know it happens.",00:35:01
+etaorql,253,student,It takes 2 holes.,00:35:11
+etaorql,254,tutor,How many holes— how many 5 takes gives you 15?,00:35:15
+etaorql,255,student,2 holes.,00:35:23
+etaorql,256,tutor,"How? If 5 times 2 is 10, how can 5 times 2 be 15? 15 as well. [Speaker] Oh, it's 3.",00:35:25
+etaorql,257,tutor,"Hmm. [Speaker] Because 3, uh, 3, 10, no, 5, 10, 15. 5, 10, 15. So it's gonna be 3. [unclear] [unclear]",00:35:38
+etaorql,258,tutor,"Okay. Alright. So now, same way, what is 6/2 equal to?",00:35:59
+etaorql,259,student,"2/4— oh no, 2— 1 whole.",00:36:09
+etaorql,260,tutor,Please check it. We are talking about wholes. We are not talking about fractions or mixed numbers right here.,00:36:16
+etaorql,261,tutor,"Like you have got to know that 3 5s makes it 15, same way 6 divided by 2 is how much?",00:36:23
+etaorql,262,student,6 divided by 2? 6 divided by 2 is 12.,00:36:30
+etaorql,263,tutor,Are you dividing or multiplying?,00:36:36
+etaorql,264,student,It is... [unclear],00:36:40
+etaorql,265,tutor,"If you have 6 cookies and you ate half of them, how many are left?",00:36:43
+etaorql,266,student,3.,00:36:49
+etaorql,267,tutor,"That's how you do it. Same way, if you have 12 cookies, you— [unclear] So if you check it, it's not a half right now, it's 3 down here. So if you have 12 cookies and you have to share equally between 3 of your friends, how many cookies you have shared with them?",00:36:49
+etaorql,268,student,If you have 12 cookies?,00:37:13
+etaorql,269,tutor,"Yes. How many? And you have 3 friends on which you are going to share these cookies because you have eaten so many, so you now you're going to share them.",00:37:16
+etaorql,270,student,So I'm gonna share them. [unclear] How many people?,00:37:27
+etaorql,271,tutor,"3 people, but 12 cookies. You have to share them equally.",00:37:32
+etaorql,272,student,One-third?,00:37:36
+etaorql,273,tutor,"One-third, yeah. So one-third of 12 would be how much?",00:37:36
+etaorql,274,student,One-third of 112.,00:37:42
+etaorql,275,tutor,Not 112. What is one-third of 12?,00:37:45
+etaorql,276,student,12...,00:37:51
+etaorql,277,tutor,"Like, what is 12 divided by 3?",00:37:53
+etaorql,278,student,12/3.,00:37:55
+etaorql,279,tutor,"Yeah, what is 12/3 equal to?",00:37:57
+etaorql,280,student,Huh? [unclear],00:38:02
+etaorql,281,tutor,What is 12/3 equal to? What is 12 divided by 3?,00:38:04
+etaorql,282,student,12 divided by 3 equals 36.,00:38:08
+etaorql,283,tutor,"We are not multiplying. You are multiplying 12 and 3 here, like you multiply 6 and 2 to get 12. When you are dividing, the answer would get smaller. So, okay, I'll make it more easier. How many 3s gives you 12? [unclear]",00:38:14
+etaorql,284,student,4.,00:38:29
+etaorql,285,tutor,That's what 12 divided by 3 is.,00:38:30
+etaorql,286,student,4.,00:38:34
+etaorql,287,tutor,"Lastly, what is 20 divided by 4? [unclear]",00:38:35
+etaorql,288,student,5.,00:38:50
+etaorql,289,tutor,"Yes. So now see, as we have given this down here, that means",00:38:52
+etaorql,290,tutor,"Each one of them is 3 and 3 here. Because one half part is 3, so two halves would be 3 each. That would make a 6, right? Same way, what is one-third of 12? It would be 4. So to complete a bar, it would be 4, 4, and 4. So three-fourths make a 12, right? Same way, one-quarter of 20 is what? It is 5. 5 each. Each quarter would be 5. The value of it would be 5. Altogether it's 20, but actually one part, one quarter of it would be 5 only. [unclear] Are you getting me?",00:38:59
+etaorql,291,student,Yeah.,00:39:39
+etaorql,292,tutor,"Not so many 5s, just 5 ones. Okay, all right. So we'll be getting back to this. Let me tell you about this one here. So when we have a whole and 5 here, So 5 times 1 is 5, add on the 3 makes it 8. So let me just tell you about the answer right now, and we'll be discussing that in detail next time. So it is like denominator is to be multiplied by the whole, and the fractional part is to be added to the amount that we have got. So that means 5 times 1 is 5, add on this 3 makes it 8. So 8/5, denominator is going to be same, so 5 there.",00:39:40
+etaorql,293,tutor,Okay.,00:40:18
+etaorql,294,tutor,"Okay. I know you won't get it right now, you just through this, but we do have some questions to discuss next time. So right now we are running short of time, so we'll be discussing it next week. Would that be fine?",00:40:19
+etaorql,295,student,Yes.,00:40:34
+etaorql,296,tutor,"Okay, Gideon. So first of all, it was excellent focus from your side. Even though you were not well, you were fully into the session. I really appreciate that. Yeah.",00:40:35
+etaorql,297,tutor,Yeah.,00:40:45
+etaorql,298,background,"So now, once we are going to end the session, you would come across some quiz questions on the topic which we have finished already.",00:40:46
+etaorql,299,tutor,Yeah.,00:40:54
+etaorql,300,background,"And then there would be some, like, something like a feedback form that how you felt about the session from my side.",00:40:54
+etaorql,301,tutor,"Yeah, yeah.",00:41:00
+etaorql,302,background,"Like you always do. So get well soon, yeah. Take care of yourself, keep smiling. And I think you're going to put something else. Star. So I haven't given you star today, so this star for you because you put in your all the hard work into the session.",00:41:01
+etaorql,303,student,Thank you.,00:41:22
+etaorql,304,tutor,You're welcome. It was nice teaching you like always. Take care. Bye-bye. Get well soon. Bye-bye. Bye.,00:41:23
+etaorql,305,tutor,"Yeah, [UNCLEAR].",00:41:36

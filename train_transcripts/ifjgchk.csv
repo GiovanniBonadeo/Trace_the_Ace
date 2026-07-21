@@ -1,0 +1,398 @@
+session_id,utterance_id,role,content,timestamp
+ifjgchk,0,tutor,Hello?,00:00:00
+ifjgchk,1,background,[unclear],00:00:00
+ifjgchk,2,student,Hello?,00:00:00
+ifjgchk,3,tutor,Hello?,00:00:00
+ifjgchk,4,student,Hello?,00:00:01
+ifjgchk,5,tutor,Hello?,00:00:02
+ifjgchk,6,student,Hello?,00:00:02
+ifjgchk,7,tutor,"Can you hear me, Bastian?",00:00:04
+ifjgchk,8,student,Yes.,00:00:07
+ifjgchk,9,tutor,"Okay, so good morning.",00:00:07
+ifjgchk,10,student,Good morning.,00:00:09
+ifjgchk,11,tutor,How are you doing today?,00:00:11
+ifjgchk,12,student,Good.,00:00:14
+ifjgchk,13,tutor,And how's the day at school going?,00:00:14
+ifjgchk,14,student,Good.,00:00:17
+ifjgchk,15,tutor,"Okay, that's great. So can you tell me what have you done in school so far?",00:00:21
+ifjgchk,16,student,"We've done English and math, a bit of math.",00:00:25
+ifjgchk,17,tutor,"Okay, and how did you spend the last weekend?",00:00:30
+ifjgchk,18,student,"I spent it, um, [unclear]",00:00:35
+ifjgchk,19,student,[unclear] I completely forgot.,00:00:39
+ifjgchk,20,tutor,"Okay, not a problem. And do you remember what did we do in the last session?",00:00:41
+ifjgchk,21,student,I got stuck with this bit.,00:00:48
+ifjgchk,22,tutor,On the question?,00:00:53
+ifjgchk,23,student,Yeah.,00:00:54
+ifjgchk,24,tutor,"Okay, so as we can see, we have already started with this lesson and we also solved a few questions. Do you remember that?",00:00:55
+ifjgchk,25,student,"Yeah, yeah. I think this was the last question that we did.",00:01:04
+ifjgchk,26,student,Yes.,00:01:11
+ifjgchk,27,tutor,"Okay, that's great. So for today, we'll be continuing with a Go Further question. Can you see it?",00:01:12
+ifjgchk,28,student,Yes.,00:01:19
+ifjgchk,29,tutor,"Okay, so I want you to read out the question, Bastian. Take some time, and if you're able to solve it by yourself, you can go ahead, or if you need explanation or any kind of help, you can ask me as well. Okay?",00:01:20
+ifjgchk,30,tutor,Yeah.,00:01:32
+ifjgchk,31,student,"All right, good luck.",00:01:33
+ifjgchk,32,tutor,Good luck. [unclear] [unclear],00:01:34
+ifjgchk,33,tutor,Okay. [unclear] [Speaker:Bastian]... [unclear],00:01:58
+ifjgchk,34,tutor,That's fine. Have you read the question?,00:02:30
+ifjgchk,35,student,"Tamer is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When it is divided by 8, the remainder is 1.",00:02:33
+ifjgchk,36,student,I don't know what it is.,00:02:51
+ifjgchk,37,tutor,"Okay, not a problem. So what do we need to do is we need to find a 2-digit number that Tara is thinking. And we also need to see that if we divide that 2-digit number by 5, the remainder should be 2. And if we divide the same 2-digit number by 8, the remainder should be 1. Okay?",00:02:54
+ifjgchk,38,student,[unclear],00:03:12
+ifjgchk,39,tutor,So the first thing what we can do is we can list down the multiples of 5 and then add 2 to it. Okay?,00:03:13
+ifjgchk,40,student,"Yes. So can you tell me the multiples of 5, please?",00:03:19
+ifjgchk,41,student,Multiples of 5?,00:03:24
+ifjgchk,42,tutor,Yes.,00:03:28
+ifjgchk,43,student,"Oh, uh, 3?",00:03:28
+ifjgchk,44,tutor,"Multiples of 5, Bastian, the 5 times table. First number will be 5.",00:03:32
+ifjgchk,45,student,"[unclear] 15, 20, 25.",00:03:37
+ifjgchk,46,tutor,"Yes, so we'll, for now, we'll still write till 25, okay?",00:03:42
+ifjgchk,47,student,"Yeah. And what does it say? If we divide the number, the remainder should be 2. So it means the number that we are supposed to get, it should be 2 more than the multiple of 5. Okay.",00:03:47
+ifjgchk,48,student,Uh-huh.,00:04:00
+ifjgchk,49,tutor,So we'll just add 2 to each number. So what is 5 2? 7.,00:04:01
+ifjgchk,50,student,Okay.,00:04:06
+ifjgchk,51,tutor,And then 10 2? 7. 10,00:04:07
+ifjgchk,52,student,2? [unclear],00:04:13
+ifjgchk,53,student,12.,00:04:13
+ifjgchk,54,tutor,"Okay, similarly 15 at 2.",00:04:14
+ifjgchk,55,student,17.,00:04:17
+ifjgchk,56,tutor,And then?,00:04:19
+ifjgchk,57,student,22.,00:04:20
+ifjgchk,58,tutor,"All right, and the last one would be?",00:04:21
+ifjgchk,59,student,[unclear],00:04:24
+ifjgchk,60,tutor,"Yes, so what they are trying to say is if you look at the number 12, 17, 22, and 27, if we divide any of this number by 5, we'll get a remainder as 2, okay?",00:04:24
+ifjgchk,61,student,Success.,00:04:36
+ifjgchk,62,tutor,"So this is the first part of the question. We have written down few multiples of 5 and added 2. Why we have added 2? Because the remainder should be 2. Okay, okay. And then now for the second part, since it says we need to divide it by 8 and the remainder is 1, so now we'll write few multiples of 8 and then 1. Okay?",00:04:38
+ifjgchk,63,student,Yes.,00:05:04
+ifjgchk,64,tutor,So can you tell me few multiples of 8? The first number would be [Speaker] The first number.,00:05:05
+ifjgchk,65,tutor,Yes. [Speaker] That would— [unclear],00:05:11
+ifjgchk,66,tutor,What is 8 times 1? [Speaker] 8 times 1 is 8.,00:05:15
+ifjgchk,67,tutor,"So the first multiple will be 8. [Speaker] 8, 11, 8, 9, 10, 11, 12, 13, 14, 15, 16.",00:05:19
+ifjgchk,68,tutor,"Very good. [Speaker] 17, 18, 19, 20, 21, 22, 23, 24.",00:05:29
+ifjgchk,69,tutor,Okay.,00:05:37
+ifjgchk,70,student,"46, 47, 48.",00:05:37
+ifjgchk,71,tutor,"No, we are counting multiples of 8. I think you have added 4.",00:05:40
+ifjgchk,72,student,Oh.,00:05:45
+ifjgchk,73,tutor,You can give another try. [unclear],00:05:46
+ifjgchk,74,student,32.,00:05:56
+ifjgchk,75,tutor,"Okay, and one more for now.",00:05:57
+ifjgchk,76,tutor,Huh? One more after 32. [unclear],00:06:04
+ifjgchk,77,student,That will be 40.,00:06:08
+ifjgchk,78,tutor,"Yes. So these are the few multiples of 8, and since if we divide a particular number by 8, the remainder should be 1. So what we'll be doing is we'll be adding 1 to all the multiples of 8, okay?",00:06:13
+ifjgchk,79,student,Yes.,00:06:26
+ifjgchk,80,tutor,So what will be 8 1? 8,00:06:27
+ifjgchk,81,student,1 would be 9.,00:06:31
+ifjgchk,82,tutor,"Okay, so 9, and then the next number would be?",00:06:35
+ifjgchk,83,student,17.,00:06:38
+ifjgchk,84,tutor,Mm-hmm.,00:06:38
+ifjgchk,85,student,25.,00:06:40
+ifjgchk,86,tutor,Very good.,00:06:42
+ifjgchk,87,student,"34— 32— 33, sorry.",00:06:43
+ifjgchk,88,tutor,"33, that's okay.",00:06:46
+ifjgchk,89,student,41.,00:06:48
+ifjgchk,90,tutor,"Yes. So as we can see, for multiples of 8, these are the few numbers that we can get. And now what they are telling is both of them should share the same number. Do we have any same number over here after adding the numbers together?",00:06:50
+ifjgchk,91,student,"Yes, we have 17 here. [unclear] And 17 here.",00:07:10
+ifjgchk,92,tutor,"So it means that the number that Tara was thinking was number 70, okay?",00:07:16
+ifjgchk,93,student,Yes.,00:07:22
+ifjgchk,94,tutor,"So we'll write the final answer would be 70. Why? Because if we give it a try and divide the number by 7, divide the number 17 by 5, we'll get a remainder 2. Okay?",00:07:23
+ifjgchk,95,student,Yeah.,00:07:33
+ifjgchk,96,tutor,"And if we divide the same number 17 by 8, we get the remainder as 1. So it means that this is the only number till here which can [unclear] for 2-digit number. Is it clear?",00:07:34
+ifjgchk,97,student,Yes.,00:07:47
+ifjgchk,98,tutor,"All right then. Okay, so what we have done is, in case if we need to find another number, or if we have a similar question, since it says Divided by a particular number, we write few multiples of that number and then add the remainder part. Okay?",00:07:48
+ifjgchk,99,student,Yes.,00:08:08
+ifjgchk,100,tutor,"So since in the first part it says divided by 5, so what we did is we wrote first 5 multiples of 5 and added 2 because the remainder that we needed to have is 2. Similarly— [unclear] Okay?",00:08:09
+ifjgchk,101,student,Yeah.,00:08:22
+ifjgchk,102,tutor,Similarly for the second part—,00:08:23
+ifjgchk,103,background,"Oh no, sorry, I just accidentally logged out. Sorry. [unclear]",00:08:25
+ifjgchk,104,tutor,Can you see the question?,00:08:29
+ifjgchk,105,student,"Yeah. Oh yeah, there's another slide, isn't there? Don't worry, I'm back. I'm back in.",00:08:31
+ifjgchk,106,background,"Okay. So the next part says if you are dividing a number by 8, so we need to write few multiples of number 8 and then add 1. Why the number 1? Because the remainder is 1 over here. Okay?",00:08:44
+ifjgchk,107,student,Yes.,00:08:57
+ifjgchk,108,tutor,"For example, let's say if the remainder would have been 6, so what we needed to do is we needed to add 6. Okay? That's the only difference.",00:08:58
+ifjgchk,109,student,Okay.,00:09:07
+ifjgchk,110,tutor,"All right, so is it clear now?",00:09:08
+ifjgchk,111,student,Yes. [unclear],00:09:11
+ifjgchk,112,tutor,"Okay, then Bastian, so with this we have completed the first lesson for today, which was about solving real-life problems with Do you still have any questions, Corbin?",00:09:13
+ifjgchk,113,background,Can we have a little bit more practice? Because it was a little bit confusing and I [unclear] all that.,00:09:24
+ifjgchk,114,tutor,"Okay. As I mentioned— it's all right, I can understand. So as I completely said, since this was the last question for now, we'll be moving on to a new lesson. Are you ready?",00:09:31
+ifjgchk,115,student,Yeah.,00:09:41
+ifjgchk,116,tutor,All right. So let me know whenever you can see a new lesson. Okay. [unclear],00:09:43
+ifjgchk,117,tutor,Do you know what do we mean by rounding? Absolutely,00:09:57
+ifjgchk,118,student,no idea. And,00:10:02
+ifjgchk,119,tutor,do you know what is a decimal number? Do you know what is a decimal number?,00:10:07
+ifjgchk,120,student,Yes.,00:10:15
+ifjgchk,121,tutor,"Okay, and do you know what is a whole number?",00:10:15
+ifjgchk,122,student,Yeah.,00:10:19
+ifjgchk,123,tutor,"Okay, so to begin with, I want you to give it a try and solve these two questions by yourself. Can you try it?",00:10:21
+ifjgchk,124,student,Yes.,00:10:28
+ifjgchk,125,tutor,Okay. [unclear],00:10:30
+ifjgchk,126,tutor,"And then one times 5 equals 5. So yeah, there are just 4 [unclear] runners at 40.",00:10:41
+ifjgchk,127,student,Yeah.,00:10:58
+ifjgchk,128,student,"Because I remember seeing a poster because I think if you [unclear] a number bigger than 4, maybe like go to the next number if you round.",00:11:13
+ifjgchk,129,tutor,"Okay, great job. And what about the second question over here? Can you try this as well?",00:11:32
+ifjgchk,130,tutor,Also felt 2. [unclear],00:11:38
+ifjgchk,131,tutor,2.,00:12:12
+ifjgchk,132,student,Yes.,00:12:14
+ifjgchk,133,tutor,Yes.,00:12:16
+ifjgchk,134,student,Okay. [unclear],00:12:22
+ifjgchk,135,tutor,8 divided by 10.,00:12:24
+ifjgchk,136,student,84. [unclear],00:12:28
+ifjgchk,137,tutor,"I'm done. [Speaker:Background]...3 pairs of... [Speaker:Tutor] Right, so great job, Bastian. Well done in solving these 2 questions by yourself. And now, What we'll be doing is we'll be understanding more about how do we round decimals to the nearest whole number. Okay? [unclear] All right, so let me know when you can see a Let's Learn slide.",00:12:45
+ifjgchk,138,student,"Yes, I can see a Let's Learn slide.",00:13:11
+ifjgchk,139,tutor,"Okay, so whenever we are learning about rounding a decimal number to the nearest whole number, you need to know what whole number it lies between. For example, can you see the first number line?",00:13:14
+ifjgchk,140,student,Yeah.,00:13:28
+ifjgchk,141,tutor,"Yes, so the number marked over here with an arrow is 12.3. Okay.",00:13:29
+ifjgchk,142,student,This one?,00:13:35
+ifjgchk,143,tutor,"Yeah. So if the number over here is 12.3, what will be the previous and the next whole number?",00:13:36
+ifjgchk,144,student,"[unclear] points. If this is 12.3, can you tell me which will be the number over here?",00:13:41
+ifjgchk,145,student,"I've got a question. Does it go like 12.1, 12.2, 12.3? Is that what it goes like?",00:13:53
+ifjgchk,146,tutor,"Yes, but as you can see, this is a decimal number. So first we need to figure out which is the previous and which is the next whole number. So what will be the whole number that we need to start with? 12. And what will be the next whole number over here?",00:14:02
+ifjgchk,147,tutor,Very good. So that we can say that the number 12.3 lies between the number 12 and 13. Is it correct?,00:14:20
+ifjgchk,148,student,Yes.,00:14:28
+ifjgchk,149,tutor,"Yes. And now if we compare and look at the number line, the number 12.3 is nearest to 12 or 13? [unclear] It is closest to which number on the number line?",00:14:29
+ifjgchk,150,student,Huh?,00:14:44
+ifjgchk,151,tutor,The number 12.13 is closest to 12 or 13?,00:14:46
+ifjgchk,152,student,It is closer to 12. Because... [unclear],00:14:52
+ifjgchk,153,tutor,"Yes, tell me.",00:15:03
+ifjgchk,154,student,Erase that line quickly.,00:15:05
+ifjgchk,155,tutor,"That's alright, you can explain me first.",00:15:07
+ifjgchk,156,student,So basically...,00:15:09
+ifjgchk,157,student,"We had one whole line. [unclear] This is shorter and this is longer. That means this one, 12.3, is closer to 12.",00:15:12
+ifjgchk,158,tutor,"Yes, very good. So it means whenever we are rounding the number 12.3 to the nearest whole number, the final answer over here would be— it will be rounded to number 12.",00:15:27
+ifjgchk,159,tutor,Yeah.,00:15:38
+ifjgchk,160,background,1.3.,00:15:40
+ifjgchk,161,tutor,Right. So that was the first part of the question. Is it clear?,00:15:41
+ifjgchk,162,background,Yeah.,00:15:45
+ifjgchk,163,tutor,"Okay. And then the second part, we have another number line which says the number is 5.7.",00:15:46
+ifjgchk,164,background,Okay.,00:15:54
+ifjgchk,165,tutor,So what will be the previous and the next whole number?,00:15:54
+ifjgchk,166,background,Oh yeah. I can't see it a little bit. So the [unclear] whole number is— where's 5.7 on here?,00:15:57
+ifjgchk,167,student,"1, 2, 3, 4, 5, 6, 7.",00:16:08
+ifjgchk,168,tutor,We start counting one from here.,00:16:10
+ifjgchk,169,student,"Oh, 1, 2, 3, 4, 5, 6, 7.",00:16:14
+ifjgchk,170,tutor,"So I'll just draw an arrow and we can say that this is 5.7. Can you see it? [unclear] Okay, so before we write the final answer, Bastian, we need to first understand what will be the previous and the next whole number.",00:16:20
+ifjgchk,171,tutor,"It's very good, 5. And over here? [unclear] And now the final step is, since we need to round up the decimal number, it is closer to 5 or 6?",00:16:37
+ifjgchk,172,student,[unclear] is closer to 6.,00:16:51
+ifjgchk,173,tutor,"Yes, so the final answer below will be 6. Not 5.7. You need to write a 5.",00:17:02
+ifjgchk,174,student,[unclear],00:17:08
+ifjgchk,175,tutor,"Yes, it's okay. So can you write 6 over here?",00:17:09
+ifjgchk,176,background,8.5.,00:17:15
+ifjgchk,177,tutor,"Very good. So in all the upcoming questions that we will be doing, we need to look at the decimal number and see whether we need to round it to the realest whole number. Okay?",00:17:18
+ifjgchk,178,background,We have more questions like this. Yes. [unclear],00:17:33
+ifjgchk,179,tutor,Were you able to understand this part?,00:17:38
+ifjgchk,180,student,Yes.,00:17:44
+ifjgchk,181,tutor,Great. So let me know if you can see a new slide.,00:17:47
+ifjgchk,182,student,"Yeah, I can see your slide.",00:17:53
+ifjgchk,183,tutor,"Okay. So in the following part, I'll explain you this question step by step. So I want you to pay attention on how do we use the number line over here, okay? [unclear]",00:17:56
+ifjgchk,184,tutor,"All right, when rounding numbers, it is helpful to think about the halfway point.",00:18:05
+ifjgchk,185,student,Yeah.,00:18:14
+ifjgchk,186,tutor,"As we can see, the number line that they have given to us is it starts with 0 and end with 1, and the halfway point will be 0.5 in the middle. Okay, is it clear?",00:18:15
+ifjgchk,187,student,Yes.,00:18:28
+ifjgchk,188,tutor,"All right, and then the next step that we need to remember, and it is very important, is...if the tenth digit is more than 5. Do you know what is a tenth digit? [unclear]",00:18:29
+ifjgchk,189,tutor,"No, the one you're talking about is tens, but over here we are talking about tenths.",00:18:47
+ifjgchk,190,student,"Oh, no, I don't know about it then.",00:18:54
+ifjgchk,191,tutor,"Okay, I'll explain it to you. So yes, can you see a place value chart? Yeah.",00:18:58
+ifjgchk,192,tutor,"Yes, so the number over here, we call it as tenths number, okay?",00:19:05
+ifjgchk,193,student,Yes.,00:19:10
+ifjgchk,194,tutor,"So for example, let us say we have 0 and 0.60 here. So what is the value of the tenths digit?",00:19:11
+ifjgchk,195,background,[unclear],00:19:17
+ifjgchk,196,tutor,The value of the tenths digit?,00:19:18
+ifjgchk,197,tutor,"Yes, which number do we have?",00:19:21
+ifjgchk,198,background,"I think it's the smaller number that goes after it. So say you're counting, I get smaller and—",00:19:23
+ifjgchk,199,tutor,"No, we don't need to count. I just want you to tell me which number is in the tenths digit.",00:19:28
+ifjgchk,200,student,"Yeah, it'd be the second number in the points column.",00:19:32
+ifjgchk,201,tutor,Yes.,00:19:37
+ifjgchk,202,student,"Like 7.7, like that.",00:19:37
+ifjgchk,203,tutor,"Yes, so what number is in the tenths column over here?",00:19:41
+ifjgchk,204,student,7.,00:19:44
+ifjgchk,205,tutor,"Yes, exactly. So we need to keep this in mind while rounding down the numbers, okay?",00:19:45
+ifjgchk,206,student,Yeah.,00:19:51
+ifjgchk,207,tutor,"So if it says, if you are dealing with any decimal number, we only need to look at the tenths digit, okay?",00:19:51
+ifjgchk,208,student,Yes.,00:19:59
+ifjgchk,209,tutor,"If the value of the tenths digit is more than 5 or exactly 5, 5, we need to round up to the nearest whole number. Okay?",00:20:00
+ifjgchk,210,student,Yeah.,00:20:08
+ifjgchk,211,tutor,"And if the value of the tenths digit is less than 5, we need to round it down. Okay?",00:20:09
+ifjgchk,212,student,What did you say? Round it down?,00:20:15
+ifjgchk,213,tutor,"Yes, if the value of the tenths digit is less than 5, we round it down.",00:20:18
+ifjgchk,214,student,"Okay. Yeah. So if it's [unclear] before, I was asked, is it before you would [Speaker:Bastian]...go down. [Speaker:Tutor] Yes.",00:20:23
+ifjgchk,215,student,And then over 5.,00:20:36
+ifjgchk,216,tutor,"5 or over 5, you round it up.",00:20:39
+ifjgchk,217,student,Yeah.,00:20:43
+ifjgchk,218,tutor,Okay.,00:20:45
+ifjgchk,219,background,Yeah.,00:20:45
+ifjgchk,220,tutor,"If the value of the 10th digit is 5 or more than 5, you round it up. If the value of the 10th digit is less than 5, we round it down. Okay?",00:20:46
+ifjgchk,221,background,Yeah.,00:20:56
+ifjgchk,222,tutor,"Okay, so the next question that we have is 0.7 rounded to the nearest whole number. Can you tell me which number is over in the tenths place? [unclear]",00:20:59
+ifjgchk,223,tutor,What did you say?,00:21:11
+ifjgchk,224,student,0.07.,00:21:14
+ifjgchk,225,tutor,"In the number 0.7, which number is in the tenths place? [Speaker:Background]...7. [Speaker:Tutor] Very good. Good working out. And now similarly, If we have 0.3 rounded to the nearest whole number? [unclear]",00:21:16
+ifjgchk,226,tutor,"We need to look at the value 3, 0.0, or we can only write 0 as well since there is only single number. Is it clear?",00:21:34
+ifjgchk,227,student,Yes.,00:21:46
+ifjgchk,228,tutor,"Okay, awesome effort over here, Bastian. So similarly, using the same concept, I want you to try this. Can you try it once?",00:21:47
+ifjgchk,229,tutor,Yes.,00:21:55
+ifjgchk,230,student,"Okay, good luck. [unclear] [unclear]",00:21:56
+ifjgchk,231,tutor,"Have you started reading the question over here, Bastian?",00:22:29
+ifjgchk,232,tutor,Yes.,00:22:51
+ifjgchk,233,background,Okay. [unclear],00:22:52
+ifjgchk,234,tutor,All right. So how did you find this question?,00:23:04
+ifjgchk,235,student,I found it very,00:23:12
+ifjgchk,236,student,A little bit easy.,00:23:14
+ifjgchk,237,tutor,Okay.,00:23:16
+ifjgchk,238,student,I really liked it.,00:23:18
+ifjgchk,239,tutor,"All right, that's great. So well done on getting the correct answer for you once again. Excellent focus, Bastian. Keep up the good work.",00:23:20
+ifjgchk,240,student,Okay.,00:23:28
+ifjgchk,241,tutor,"All right, so can we move on to a new question?",00:23:29
+ifjgchk,242,student,Okay.,00:23:32
+ifjgchk,243,tutor,"Okay, so let me know if you can see a [unclear] slide.",00:23:34
+ifjgchk,244,student,I can see a [unclear] slide.,00:23:39
+ifjgchk,245,tutor,"Okay, so we have 4 different decimal numbers for you. So I want you to take your time and round them to the nearest whole number. Okay?",00:23:41
+ifjgchk,246,student,Yes.,00:23:49
+ifjgchk,247,tutor,"And in case if you need the number line over here, you can take the help of the number line as well. Good luck. [unclear] [unclear]",00:23:50
+ifjgchk,248,tutor,"All right, so we have 10.",00:24:43
+ifjgchk,249,tutor,"Okay, so can you explain me your answer for question C, please?",00:25:08
+ifjgchk,250,student,Huh?,00:25:12
+ifjgchk,251,tutor,"Can you explain me your answer for question C? It is the correct answer, but I want an explanation. Can you explain it?",00:25:12
+ifjgchk,252,student,"Oh, so by [unclear] shapes, so I saw the 5",00:25:20
+ifjgchk,253,tutor,Okay.,00:25:30
+ifjgchk,254,student,"I don't know if it's over or if it's 5 or over. Oh, whoops, that's the wrong tool. [unclear] Anyway, I know if it's 5 or over, you go up. If it's 4 or over,",00:25:32
+ifjgchk,255,student,"If it's 4 or under, you go down.",00:25:56
+ifjgchk,256,tutor,"Alright, that is the correct way to do it. Great explanation. And with this, we have completed the 'You Do' question as well. And now we will be moving on to a 'Go Further' question. Can you see it?",00:25:59
+ifjgchk,257,student,Yes.,00:26:14
+ifjgchk,258,tutor,"Alright, so once again, I want you to read out the question, take some time and try solving it by yourself. And in case if you need help, please let me know. Okay?",00:26:16
+ifjgchk,259,student,"Okay. [unclear] [unclear] [Speaker:Bastian]...greater than the right angle, but it's less than the reflex angle. [Speaker:Tutor] And then, it's very clear [unclear]",00:26:29
+ifjgchk,260,tutor,"Okay. That was pretty quick, Bastian. Is everything all right?",00:27:28
+ifjgchk,261,student,Yeah.,00:27:39
+ifjgchk,262,tutor,Okay. I can hear some weird noise coming from microphone.,00:27:41
+ifjgchk,263,tutor,Can you explain me how did you get this as your answer?,00:27:51
+ifjgchk,264,student,"I was just saying like, so basically I don't [unclear] if it was even to over 4.",00:27:55
+ifjgchk,265,tutor,"So it was over 5. [unclear] If it's any of those numbers, you go up. If it's a— if it's any of these numbers, you go down. I use that to help me by doing this. I do this. So I chose 2 numbers. [unclear] So I use 2 numbers from here.",00:28:13
+ifjgchk,266,tutor,"All right. So that is the correct answer, Bastian?",00:28:55
+ifjgchk,267,student,I chose 5 and 9.,00:28:58
+ifjgchk,268,tutor,"Yes, very good. But as you can see in the question, the length is in centimeters. So after writing down the numbers, you also need to mention centimeters.",00:29:01
+ifjgchk,269,student,"Oh yeah, I forgot to write that.",00:29:09
+ifjgchk,270,tutor,"It's okay, not a problem. So well done on getting the correct answer once again. Congratulations.",00:29:12
+ifjgchk,271,student,Thank you.,00:29:18
+ifjgchk,272,tutor,"You're welcome. So with this, Bastian, we have completed yet another lesson for today, and now we'll be moving on to a new lesson. Are you ready? That's two lessons in one day.",00:29:19
+ifjgchk,273,tutor,"Yes, that's great. Congratulations. So are you ready for another lesson?",00:29:32
+ifjgchk,274,student,Yes.,00:29:40
+ifjgchk,275,tutor,Okay. Can you see a new lesson in front of you?,00:29:42
+ifjgchk,276,student,Yeah.,00:29:52
+ifjgchk,277,tutor,"Okay, so the next lesson that we are going to solve is understanding fractions greater than 1.",00:29:53
+ifjgchk,278,student,[unclear],00:30:00
+ifjgchk,279,tutor,"Okay. So as you can see, the first question says you need to write 1 whole and 3/5 as an improper fraction. Can you give it a try?",00:30:02
+ifjgchk,280,student,What is it? What's an improper fraction?,00:30:11
+ifjgchk,281,tutor,What's an improper fraction? It is a type of fraction where the value is greater than 1.,00:30:17
+ifjgchk,282,tutor,So we can also say an improper fraction is a fraction where the value or the numerator is greater than or equal to the denominator. Okay?,00:30:24
+ifjgchk,283,student,"Okay, so it can still— [unclear] 3.35. Ah, why am I zooming in? Why did it make me zoom in? How do I zoom out?",00:30:35
+ifjgchk,284,tutor,You can ask your teacher to help you out. [unclear],00:30:50
+ifjgchk,285,student,Okay. [unclear],00:30:57
+ifjgchk,286,tutor,Okay. Could it stay as 3.5?,00:31:01
+ifjgchk,287,student,"Oh my God. Now we need to write it as a fraction away, Bastian.",00:31:14
+ifjgchk,288,student,Okay.,00:31:19
+ifjgchk,289,tutor,"In case if you don't know how to solve it, it's totally fine. We'll learn about it.",00:31:21
+ifjgchk,290,student,I don't know how to solve it. Yeah.,00:31:25
+ifjgchk,291,tutor,"Okay, not a problem. Can you try the second question over here?",00:31:27
+ifjgchk,292,student,Okay. [unclear] [unclear],00:31:31
+ifjgchk,293,student,Come on! This app's broken! It's broken! I can't log in. It keeps on glitching out.,00:31:44
+ifjgchk,294,tutor,"Okay, so if you want, you can refresh. [unclear]",00:32:10
+ifjgchk,295,student,Okay.,00:32:12
+ifjgchk,296,tutor,Ask if you can go on again.,00:32:13
+ifjgchk,297,student,"Okay, I have a teacher helping me. Oh, oh yeah, we fixed it. Should we refresh your page, do you think?",00:32:18
+ifjgchk,298,background,You can ask your teacher for that.,00:32:28
+ifjgchk,299,student,"I'm helping. The teacher just helped me. Yeah, it's fixed now. Yeah, that's just disappeared again. That's because the mouse thing disappeared. [unclear] The mouse thing appeared. The laptop disappeared.",00:32:30
+ifjgchk,300,tutor,"Bastian, tell them I am going to restart the laptop.",00:32:47
+ifjgchk,301,student,She's gonna restart the laptop.,00:32:51
+ifjgchk,302,background,"Okay, Bastian, I'll wait for you. You can restart it.",00:32:54
+ifjgchk,303,student,Okay.,00:32:57
+ifjgchk,304,tutor,Hello.,00:36:33
+ifjgchk,305,student,Hello. [unclear],00:36:35
+ifjgchk,306,tutor,Can you hear me clearly?,00:36:36
+ifjgchk,307,student,Yes.,00:36:39
+ifjgchk,308,tutor,"Okay, that's great. And is your mouse fixed now?",00:36:40
+ifjgchk,309,student,"Yes. As you can see, it has not disappeared.",00:36:44
+ifjgchk,310,student,It hasn't disappeared yet.,00:36:49
+ifjgchk,311,tutor,"Okay, so I want you to try the second question over here.",00:36:51
+ifjgchk,312,student,"Okay, this one. Okay. How many cakes are there? Let's try to count in multiples. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18. [unclear] [unclear]",00:36:55
+ifjgchk,313,tutor,"Okay, very good. So as we can see, we— Bastian, in this lesson we'll be understanding how do we write a mixed number. The thing that we can see over here which has a whole number and a fraction, we call this as a mixed number. Okay?",00:37:28
+ifjgchk,314,student,Uh-huh.,00:37:47
+ifjgchk,315,tutor,So we'll be understanding how do we write a mixed number as an improper fraction. Okay?,00:37:48
+ifjgchk,316,student,Okay. Yes.,00:37:52
+ifjgchk,317,tutor,All right. So let me know if you can see the question over here.,00:37:55
+ifjgchk,318,background,[unclear],00:37:58
+ifjgchk,319,student,"Yes, I can see it.",00:38:00
+ifjgchk,320,tutor,"So it says fractions can be greater than 1. So we'll be understanding how and why the fractions can be greater than 1. So when the [unclear] of the numerator is greater or equal to the denominator and also multiple of the denominator, it makes a whole number. Okay?",00:38:03
+ifjgchk,321,student,"Tutor, can you restart from this denominator right here? Because it started glitching out there.",00:38:22
+ifjgchk,322,tutor,"Okay, I'll start from here itself. Okay, are you ready? Okay, so it says fractions can be greater than 1 So when the numerator is greater or equal to the denominator and it is a multiple of the denominator, it makes a whole number.",00:38:28
+ifjgchk,323,student,Okay.,00:38:47
+ifjgchk,324,tutor,So I'll explain it quickly. So can you see the number line?,00:38:47
+ifjgchk,325,student,Yes.,00:38:52
+ifjgchk,326,tutor,"So what does it say? The number line starts at 0 and then we have a fraction. So yes, 5/5 means?",00:38:53
+ifjgchk,327,student,5/5.,00:39:01
+ifjgchk,328,tutor,"Yes, 5 divided by 5 will give us 1, which is a whole number. Okay?",00:39:02
+ifjgchk,329,student,Okay.,00:39:06
+ifjgchk,330,tutor,And then 10/5 means?,00:39:07
+ifjgchk,331,student,10/5.,00:39:09
+ifjgchk,332,tutor,"Yes, so 10/5 means how many 10s, how many 5s do we need to make a 10?",00:39:11
+ifjgchk,333,student,"How many? 2. 2 tens, 2 fives. [unclear]",00:39:18
+ifjgchk,334,tutor,"Yes, so it means the answer over here would be 2, which is a whole number. Okay?",00:39:23
+ifjgchk,335,student,Yes.,00:39:27
+ifjgchk,336,tutor,"And similarly, 15/5 means how many 5s do we need to make 50? Can you tell me?",00:39:28
+ifjgchk,337,student,Huh?,00:39:40
+ifjgchk,338,tutor,How many 5s do we need to make 50?,00:39:41
+ifjgchk,339,student,[unclear],00:39:46
+ifjgchk,340,tutor,"Yes, very good. Now similarly, for the last part, how many 5s do we need to make 20?",00:39:46
+ifjgchk,341,student,4.,00:39:54
+ifjgchk,342,tutor,"Yes, as we can see all the fractions over here 5/5, 10/5, 15/5, and 20/5. These all are fractions which are greater than 1. Okay?",00:39:55
+ifjgchk,343,student,Okay.,00:40:07
+ifjgchk,344,tutor,"So based on this question, we need to answer a few questions over here. Can you see it?",00:40:08
+ifjgchk,345,student,Yes.,00:40:13
+ifjgchk,346,tutor,"Okay, so it says first one is 6/2. So it says— [unclear] Yes. So it means how many 2s do we need to make 6?",00:40:13
+ifjgchk,347,student,3.,00:40:26
+ifjgchk,348,tutor,"Yes, so we write 3 over here. And then similarly, can you tell me the question for— can you tell me the answer for this question over here?",00:40:26
+ifjgchk,349,student,Okay. [unclear],00:40:39
+ifjgchk,350,tutor,Very good. And for the last question as well.,00:40:41
+ifjgchk,351,student,Uh... [unclear] [unclear],00:40:44
+ifjgchk,352,tutor,"5? Yes, very good. So this is how we can understand that when can the value of the fraction can be greater than 1. Is it clear?",00:40:59
+ifjgchk,353,student,Yes.,00:41:08
+ifjgchk,354,tutor,All right then. So this was just a small question that we have done for now. We'll be moving on to a following your turn.,00:41:11
+ifjgchk,355,tutor,Can you see it?,00:41:18
+ifjgchk,356,student,What just happened?,00:41:20
+ifjgchk,357,tutor,Is everything okay?,00:41:30
+ifjgchk,358,student,"Yeah, what just happened?",00:41:31
+ifjgchk,359,tutor,I guess I don't know. I think you got disconnected for a few seconds.,00:41:33
+ifjgchk,360,student,Yeah.,00:41:38
+ifjgchk,361,tutor,Okay. Is everything all right?,00:41:39
+ifjgchk,362,student,"Yes. That scared— that jump scared me. I was like, [UNCLEAR]. [unclear]",00:41:42
+ifjgchk,363,tutor,Can you ask your teacher whether the internet connection is a bit slow or not?,00:41:51
+ifjgchk,364,student,Yeah. [unclear],00:42:01
+ifjgchk,365,tutor,Hello?,00:42:20
+ifjgchk,366,student,"Yes, Bastian?",00:42:21
+ifjgchk,367,tutor,Did it happen again that I was scored?,00:42:22
+ifjgchk,368,student,"No, it didn't happen for now.",00:42:25
+ifjgchk,369,tutor,Oh. Hopefully it's fixed.,00:42:27
+ifjgchk,370,student,"Okay, that's great.",00:42:31
+ifjgchk,371,tutor,Okay.,00:42:33
+ifjgchk,372,background,"Yes, so can you see your Follow Me Autumn slide?",00:42:35
+ifjgchk,373,student,Yes.,00:42:38
+ifjgchk,374,tutor,"Okay, so what we'll be doing is, Bastian, for today we'll be stopping it over here. Would that be okay since you're running out of time?",00:42:39
+ifjgchk,375,student,Of course.,00:42:47
+ifjgchk,376,tutor,"Okay, so before we end the session for today, can you tell me what all different questions have we studied today?",00:42:49
+ifjgchk,377,student,We've [unclear] studied fractured [unclear],00:42:57
+ifjgchk,378,tutor,The first lesson?,00:43:09
+ifjgchk,379,student,Yeah.,00:43:10
+ifjgchk,380,tutor,"Yes, in the first lesson we were solving some real-life problems with remainders.",00:43:12
+ifjgchk,381,student,Yeah.,00:43:19
+ifjgchk,382,tutor,So we solved a few questions where we were looking how to find a 2-digit number with remainders. Do you remember that?,00:43:20
+ifjgchk,383,student,Yes.,00:43:30
+ifjgchk,384,tutor,Okay.,00:43:32
+ifjgchk,385,background,[unclear],00:43:34
+ifjgchk,386,tutor,"So can you tell me how did you like today's session, Bastian, overall?",00:43:37
+ifjgchk,387,student,"It was really fun. Yeah, I think it was the easiest session we've had so far.",00:43:42
+ifjgchk,388,tutor,"Okay, and I must say that you did exceptionally well in today's session, so well done once again. Congratulations, Bastian.",00:43:49
+ifjgchk,389,tutor,"Okay. So far today, Bastian, we have completed two different lessons. The first one was about solving real-life problems with [UNCLEAR]. [Speaker:Bastian] Yeah.",00:43:59
+ifjgchk,390,tutor,"And the second lesson we did was about how do we round decimals to the nearest whole number, okay?",00:44:08
+ifjgchk,391,student,Yes.,00:44:14
+ifjgchk,392,tutor,"Okay. And whenever we have a next session, we'll be understanding how do we deal with or understand some fractions which are greater than 1. Is it okay?",00:44:16
+ifjgchk,393,student,Yeah.,00:44:27
+ifjgchk,394,tutor,"All right. So that's it for today, Bastian. Thank you very much. I'll see you soon once again. Till then, bye-bye. Take care. Have a good week.",00:44:28
+ifjgchk,395,student,Bye.,00:44:36
+ifjgchk,396,tutor,Bye. [Speaker:Bastian]... [UNCLEAR],00:44:38

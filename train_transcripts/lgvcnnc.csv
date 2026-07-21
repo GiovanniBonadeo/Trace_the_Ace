@@ -1,0 +1,440 @@
+session_id,utterance_id,role,content,timestamp
+lgvcnnc,0,tutor,Hello.,00:00:00
+lgvcnnc,1,student,Hello. [unclear],00:00:02
+lgvcnnc,2,tutor,Hello.,00:00:04
+lgvcnnc,3,student,Hello.,00:00:05
+lgvcnnc,4,tutor,How are you?,00:00:07
+lgvcnnc,5,student,Good.,00:00:11
+lgvcnnc,6,tutor,Great. And how was your day?,00:00:12
+lgvcnnc,7,student,Good.,00:00:16
+lgvcnnc,8,tutor,Okay. And what were you doing before joining the session? [unclear],00:00:17
+lgvcnnc,9,student,I don't know what I did.,00:00:25
+lgvcnnc,10,tutor,"Okay, that's fine. And how was the celebration of the birthday? How was your birthday?",00:00:33
+lgvcnnc,11,student,It was great.,00:00:38
+lgvcnnc,12,tutor,"It was great? Okay, that's good to hear. And are you excited for the session?",00:00:41
+lgvcnnc,13,tutor,"Yeah. Okay, so do you remember what did we do last time?",00:00:48
+lgvcnnc,14,student,"Uh, we did easy ways to divide.",00:00:53
+lgvcnnc,15,tutor,"Exactly, we found out some easy ways that are called some mental strategies to divide. So do you remember what were the two main strategies that we discussed?",00:01:00
+lgvcnnc,16,background,"Partition and [UNCLEAR]. 8 times 1 equals 8, and then 6 times 8 equals 128. [unclear]",00:01:12
+lgvcnnc,17,tutor,"Oh, I forgot the second one. That was— and the factors, right?",00:01:23
+lgvcnnc,18,student,Yeah.,00:01:30
+lgvcnnc,19,tutor,"The factors. Well done. So today we'll just do the last slide of this lesson, of this lesson, because we were just left with that. Okay?",00:01:31
+lgvcnnc,20,student,Okay.,00:01:41
+lgvcnnc,21,tutor,"That's it for this slide, and we have a worded problem. Please read it out. To calculate 1,800 divided by 15, I will first divide 1,800 divided by 10 and then divide the answer by 5.",00:01:41
+lgvcnnc,22,tutor,Do you actually explain why and then something? [unclear] [unclear],00:02:00
+lgvcnnc,23,student,I don't agree.,00:02:13
+lgvcnnc,24,tutor,"You don't take 3, okay. And why?",00:02:20
+lgvcnnc,25,student,"Because you have to add the numbers together. Because when you divide it by 10, then, and then divide it by 5, you have to add the numbers together.",00:02:23
+lgvcnnc,26,tutor,"I have to add the numbers. Okay, so what is the method that Cedar is using here?",00:02:40
+lgvcnnc,27,student,She's using the partition.,00:02:46
+lgvcnnc,28,tutor,Partitioning. Do you remember we partitioned what number? [unclear] The mental strategy.,00:02:48
+lgvcnnc,29,student,The second number.,00:02:55
+lgvcnnc,30,tutor,What's the number? Do we partition the second number or the first number?,00:02:57
+lgvcnnc,31,background,[unclear],00:02:57
+lgvcnnc,32,student,The first number.,00:03:09
+lgvcnnc,33,tutor,First number. And do you remember what do we call the first number?,00:03:13
+lgvcnnc,34,student,No.,00:03:19
+lgvcnnc,35,tutor,It's okay. Let me help you out. The first number is called dividend. What do we call?,00:03:20
+lgvcnnc,36,student,Dividend.,00:03:26
+lgvcnnc,37,tutor,And what is the next number called?,00:03:27
+lgvcnnc,38,student,Divisor.,00:03:29
+lgvcnnc,39,tutor,"divisor. Exactly. So we partition, divide, and we find out the factors of divisor, right?",00:03:29
+lgvcnnc,40,student,Yeah.,00:03:29
+lgvcnnc,41,tutor,"Okay, now let's come back to the question. So now what do you think, what's the mistake that [unclear] has done?",00:03:40
+lgvcnnc,42,student,She partitioned the second number instead of the first number.,00:03:46
+lgvcnnc,43,tutor,"Exactly. So if we need to do the second number, If we need to do the second number, that means we need to use divisor. What we need to do with the divisor?",00:03:55
+lgvcnnc,44,student,You need to times it by the— [unclear],00:04:09
+lgvcnnc,45,tutor,"You have to divide it by the— what? The partition of 1,800.",00:04:13
+lgvcnnc,46,background,"Yeah. If we don't partition it, instead of 15, dividing it by 15, what is the— what we can do with the divisor?",00:04:24
+lgvcnnc,47,student,"Uh, you can—",00:04:34
+lgvcnnc,48,tutor,What was the other method? What do we do with the divisor if we don't do the partitioning with divisor?,00:04:38
+lgvcnnc,49,student,"Uh, I forgot.",00:04:44
+lgvcnnc,50,tutor,Factors. What do we do?,00:04:47
+lgvcnnc,51,student,"Oh, factors. Factors. So what do you think? What would be more easy for finding out or doing partitioning of 1,800, finding out the factors of 50? What would be [UNCLEAR]?",00:04:49
+lgvcnnc,52,student,Finding out the factors.,00:04:49
+lgvcnnc,53,tutor,Exactly. Let's do that. Hello? Hello?,00:05:04
+lgvcnnc,54,background,"Oh, I can't hear you.",00:05:13
+lgvcnnc,55,tutor,Hello?,00:05:15
+lgvcnnc,56,background,It's really not clear.,00:05:17
+lgvcnnc,57,tutor,Hello?,00:05:30
+lgvcnnc,58,student,Can you hear me now?,00:05:30
+lgvcnnc,59,tutor,"Yes, I can hear you now.",00:05:32
+lgvcnnc,60,student,Can you find out the factors of 15 using this space here?,00:05:34
+lgvcnnc,61,tutor,Okay. [unclear],00:05:38
+lgvcnnc,62,tutor,So which factor pair are we going to use?,00:05:46
+lgvcnnc,63,student,"We can't use the 1 and 15, so we have to use the 3 and 5.",00:05:56
+lgvcnnc,64,tutor,Exactly. Now what do you think? What would be your first step?,00:06:01
+lgvcnnc,65,student,"You have to divide 1,800 by 3 or 5.",00:06:06
+lgvcnnc,66,tutor,And what do you think? What would be more easy?,00:06:14
+lgvcnnc,67,student,3.,00:06:19
+lgvcnnc,68,tutor,"3, and why?",00:06:19
+lgvcnnc,69,student,Because... [unclear],00:06:21
+lgvcnnc,70,tutor,It is?,00:06:25
+lgvcnnc,71,student,If you look at the number.,00:06:33
+lgvcnnc,72,background,Because there's 8 teams in the 3-town table.,00:06:36
+lgvcnnc,73,tutor,"Well done, let's write the full step there. [unclear]",00:06:40
+lgvcnnc,74,tutor,Well done. For the next step.,00:06:53
+lgvcnnc,75,tutor,To divide the answer by the other number. [unclear],00:07:10
+lgvcnnc,76,student,different ways. [UNCLEAR],00:07:10
+lgvcnnc,77,tutor,8 times... and what?,00:07:15
+lgvcnnc,78,student,8 times 1. [unclear],00:07:24
+lgvcnnc,79,student,"Oh, yes.",00:07:42
+lgvcnnc,80,tutor,120.,00:07:48
+lgvcnnc,81,student,120.,00:07:49
+lgvcnnc,82,tutor,"So what do you think? Exactly, very good job. So what do you think now? What is the answer to the question of 1,800 divided by 15? [unclear]",00:07:51
+lgvcnnc,83,tutor,"Very well done, Callum. And what was the mistake that Cedar did here?",00:08:05
+lgvcnnc,84,student,She partitioned the wrong number.,00:08:11
+lgvcnnc,85,tutor,She partitioned the wrong number. She partitioned the divisor. But what should be partitioned always?,00:08:13
+lgvcnnc,86,student,The dividend.,00:08:20
+lgvcnnc,87,tutor,"The dividend. Very well done, Callum. I'm super proud of you, the way you corrected Cedar and You even solved the question with the right answer, so I want to award you with a good working out sticker. Good job!",00:08:21
+lgvcnnc,88,student,Thank you.,00:08:36
+lgvcnnc,89,tutor,You're working fast and we're done with the lessons. Do you have any doubts? [unclear],00:08:37
+lgvcnnc,90,student,Hello?,00:08:41
+lgvcnnc,91,tutor,"Hello, Callum, are you there?",00:08:56
+lgvcnnc,92,student,Hello?,00:09:01
+lgvcnnc,93,tutor,"Yeah, what happened?",00:09:02
+lgvcnnc,94,student,"Oh, I don't know.",00:09:04
+lgvcnnc,95,tutor,"It's okay. Yeah, I was asking you the question. Do you have any doubts on this lesson now?",00:09:05
+lgvcnnc,96,student,No.,00:09:11
+lgvcnnc,97,tutor,"Okay, so now I want you to quickly sum up whatever you learned in this lesson.",00:09:12
+lgvcnnc,98,student,Okay.,00:09:17
+lgvcnnc,99,tutor,"Go ahead, all the best.",00:09:20
+lgvcnnc,100,student,"So, can you move on the next slide?",00:09:22
+lgvcnnc,101,tutor,"Okay, do you want me to go with this slide?",00:09:26
+lgvcnnc,102,student,Yeah.,00:09:29
+lgvcnnc,103,tutor,Okay.,00:09:30
+lgvcnnc,104,student,"So, I learned here that to partition the— to partition a number, you have to partition the dividend, not the divisor. And then you have to divide it by the number that you're dividing 84 by, and then you have to— [unclear] You have to add them together.",00:09:32
+lgvcnnc,105,tutor,Exactly. And what was the way to partition that number? How did you do that?,00:10:10
+lgvcnnc,106,tutor,Every time.,00:10:15
+lgvcnnc,107,student,We— [unclear],00:10:16
+lgvcnnc,108,tutor,I forgot.,00:10:18
+lgvcnnc,109,background,Multiplication calculation.,00:10:21
+lgvcnnc,110,tutor,"We see we are dividing it by 7, so what is quite easy? 7 times by what?",00:10:23
+lgvcnnc,111,background,7 times 10.,00:10:29
+lgvcnnc,112,tutor,"70. So that's easy, right? So we can write one partition number as 70 so that it would be easy for us to divide that number, right?",00:10:32
+lgvcnnc,113,background,Yeah.,00:10:40
+lgvcnnc,114,tutor,Now are you able to recall that part?,00:10:41
+lgvcnnc,115,tutor,Yeah.,00:10:53
+lgvcnnc,116,student,[unclear],00:10:54
+lgvcnnc,117,tutor,We times 2 and divide by 10.,00:10:55
+lgvcnnc,118,student,So what was the first partition number of 180?,00:10:59
+lgvcnnc,119,tutor,120.,00:11:03
+lgvcnnc,120,background,Exactly. That's the way to partition a number. What did you learn here?,00:11:05
+lgvcnnc,121,student,I learned [unclear],00:11:11
+lgvcnnc,122,tutor,What was the other strategy?,00:11:19
+lgvcnnc,123,student,"Oh, the factors one. So you have to look at the divisor this time, and you have to do the factors of the divisor.",00:11:24
+lgvcnnc,124,tutor,Exactly.,00:11:39
+lgvcnnc,125,student,"And then times it by the first number. And then you divide it by the easiest one. And then after you do that, you find out the answer.",00:11:41
+lgvcnnc,126,tutor,"Yeah, and then we divide by the other one.",00:12:01
+lgvcnnc,127,student,"And we get the answer, right? Well done. What about here? Again, use the factor strategy in this part. What did we discuss here?",00:12:04
+lgvcnnc,128,student,We can't use the factor strategy because there's no factors for 11.,00:12:15
+lgvcnnc,129,tutor,"Yes, exactly. [unclear]",00:12:22
+lgvcnnc,130,student,Except from 1 and 11.,00:12:23
+lgvcnnc,131,tutor,So 11 is— what do we call 11? 11 is what number?,00:12:25
+lgvcnnc,132,student,"I forgot. If it has just two factors, one in itself.",00:12:30
+lgvcnnc,133,student,I forgot.,00:12:35
+lgvcnnc,134,tutor,It's okay. We call them as prime numbers. What do we call?,00:12:36
+lgvcnnc,135,student,A prime number.,00:12:41
+lgvcnnc,136,tutor,A prime number. Well done. And can we use a partition— can we use here a partitioning strategy for the B part? What do you think?,00:12:42
+lgvcnnc,137,background,"Uh, no.",00:12:51
+lgvcnnc,138,tutor,Why?,00:12:54
+lgvcnnc,139,background,Because 15 is a prime number.,00:12:55
+lgvcnnc,140,student,"No, I'm talking about 15. Is 15 a prime number?",00:12:58
+lgvcnnc,141,tutor,"Oh, no. 5 and 3. So you can—",00:13:02
+lgvcnnc,142,student,I'm talking about partitioning method. Can I use partitioning here?,00:13:05
+lgvcnnc,143,tutor,"Uh, no, because— no, because you can't. No, you can't. Yeah, you can. I told you, what's 15 times 10?",00:13:11
+lgvcnnc,144,student,"Oh, 150. So it's above 120, so you can't.",00:13:25
+lgvcnnc,145,tutor,"Yeah, then it would become quite difficult to find two numbers, right? That would be in the 15 times table. So it would not be right to use the partitioning here, right? Good job there. So well done, Cedar. You recalled all of the things that we discussed in all of this lesson. So well done. That was a very good description of the steps that we followed to complete the lesson. So a big thumbs up for explaining out so well. So well and summing up the whole lesson. [unclear]",00:13:28
+lgvcnnc,146,student,Thank you.,00:13:58
+lgvcnnc,147,tutor,"You're welcome, Callum. And now it's time for us to move ahead with the new lesson. So what do you think what it could be?",00:14:00
+lgvcnnc,148,student,Uh... uh...,00:14:07
+lgvcnnc,149,tutor,Any guesses?,00:14:15
+lgvcnnc,150,student,No.,00:14:18
+lgvcnnc,151,tutor,"Okay, let's find out together. [unclear]",00:14:19
+lgvcnnc,152,student,Multiplying 2-digit numbers using long multiplication.,00:14:28
+lgvcnnc,153,tutor,Exactly. Do you know about long multiplication?,00:14:32
+lgvcnnc,154,student,"Uh, yeah.",00:14:36
+lgvcnnc,155,tutor,"Okay, so what do you think? How would you solve this using a long multiplication? How would you solve this question?",00:14:37
+lgvcnnc,156,student,"Uh, you times 7 by 5. And then you times 4, and then you times 2 by 5.",00:14:45
+lgvcnnc,157,tutor,"Okay, let's do that. Go ahead. [unclear]",00:14:54
+lgvcnnc,158,student,Yes.,00:15:05
+lgvcnnc,159,tutor,Okay.,00:15:07
+lgvcnnc,160,student,So 25 is equal to— [unclear],00:15:08
+lgvcnnc,161,student,"I'm done. You're done? Okay, but Callum, before moving to the next question, what is the one thing that we need to do always?",00:15:20
+lgvcnnc,162,student,You need to add a zero when you times it by the 10 number.,00:15:48
+lgvcnnc,163,tutor,"Yeah, when we times the number by 10, we put a zero. And what do we call a zero? [unclear]",00:15:56
+lgvcnnc,164,student,Can you repeat that? What do we call a zero? What is it called? [unclear],00:16:04
+lgvcnnc,165,student,I'm not sure.,00:16:10
+lgvcnnc,166,tutor,Have you heard about the term placeholder?,00:16:13
+lgvcnnc,167,student,No.,00:16:16
+lgvcnnc,168,tutor,Because zero is a placeholder.,00:16:19
+lgvcnnc,169,student,"Placeholder. Oh yeah, I did heard of that before.",00:16:24
+lgvcnnc,170,tutor,Did you heard that before?,00:16:29
+lgvcnnc,171,student,"Yeah. So we call the 0 as a placeholder. But before moving to the next question, what we need to do always for moving forward?",00:16:31
+lgvcnnc,172,student,"Uh, you need to, uh...",00:16:41
+lgvcnnc,173,tutor,"Suppose I did one question, but I will do the next question. But what I'll do first? [unclear]",00:16:46
+lgvcnnc,174,student,I don't know.,00:16:58
+lgvcnnc,175,tutor,Could I recheck once before moving ahead?,00:16:59
+lgvcnnc,176,student,Oh.,00:17:02
+lgvcnnc,177,tutor,"So that I haven't made any mistake, right?",00:17:02
+lgvcnnc,178,student,Yeah.,00:17:05
+lgvcnnc,179,tutor,I haven't made any mistakes. I want you to recheck once and think aloud while rechecking.,00:17:06
+lgvcnnc,180,background,"7, so 7 times 5 is 35. So you put the 3 there and then you do 2 times— no, you do 2 times 5, which is 10. And then 10 add the 3 equals 30.",00:17:12
+lgvcnnc,181,tutor,Exactly.,00:17:29
+lgvcnnc,182,student,"Got the one, I think. No, I didn't. Yeah, and now we add the zero and then we do 1 times 7, which is 7. Oh.",00:17:31
+lgvcnnc,183,tutor,Are you able to figure out what is the mistake done by you?,00:17:47
+lgvcnnc,184,tutor,Yeah.,00:17:58
+lgvcnnc,185,student,So will that affect the final answer?,00:18:00
+lgvcnnc,186,tutor,Yeah.,00:18:05
+lgvcnnc,187,student,Oh. [unclear],00:18:07
+lgvcnnc,188,tutor,Very well done. So what is the important step? To do before moving forward?,00:18:14
+lgvcnnc,189,student,Check your answer.,00:18:21
+lgvcnnc,190,tutor,"Exactly, very good job, Callum. You realized your mistake and corrected it. So a good working out sticker for you. Good job. And as you already know how to solve using the long multiplication method, you know about the concepts, so we'll practice just the questions now, okay?",00:18:23
+lgvcnnc,191,student,Okay. [unclear],00:18:43
+lgvcnnc,192,tutor,"With the first one, you can use the space that's given there.",00:18:45
+lgvcnnc,193,student,Okay. [unclear],00:18:51
+lgvcnnc,194,tutor,"And okay, let's do the question, then I'll ask you a question after the audio.",00:18:54
+lgvcnnc,195,student,Okay.,00:19:01
+lgvcnnc,196,tutor,"You can use the text too, Callum. That would be fine. [unclear]",00:19:04
+lgvcnnc,197,tutor,And try to put each digit in each column underneath so that you don't get mixed up with the numbers. [unclear] [unclear],00:19:17
+lgvcnnc,198,student,"Okay, let's do the calculation. [unclear]",00:19:54
+lgvcnnc,199,tutor,Yes.,00:20:25
+lgvcnnc,200,student,I put the [unclear] [unclear],00:20:25
+lgvcnnc,201,student,"Yeah, because 8 times— hello? 8 times 0, 0 means 8 times 40.",00:20:37
+lgvcnnc,202,tutor,"There, I'm done.",00:20:43
+lgvcnnc,203,background,"Okay, so what is the answer?",00:20:47
+lgvcnnc,204,tutor,440.,00:20:49
+lgvcnnc,205,background,"Well done, Callum. And what is the next step to before we move ahead with the question?",00:20:52
+lgvcnnc,206,student,Check your answer.,00:20:58
+lgvcnnc,207,tutor,Check your answer. So I want you to think aloud and check your answer.,00:20:59
+lgvcnnc,208,student,"So 6 times 5 equals 30. So you put the 0 there and you put the 3 there. Then you do 5 times 3, which is 15, and then add the 3 and 15, which is... [unclear]",00:21:05
+lgvcnnc,209,student,"Which is, uh, which is 18, and then, yeah, and then it's 180.",00:21:21
+lgvcnnc,210,tutor,"Yeah, then what's the next step after going with that? You've checked with adding— we checked when we multiplied by the 5, which was 180. What about the next step?",00:21:35
+lgvcnnc,211,student,"Then you have to add the 0 for the 10, and then You do 6 times 1, which is 6, and then 1 times 3, which is 3.",00:21:45
+lgvcnnc,212,tutor,And then?,00:21:58
+lgvcnnc,213,student,"Then you add it together, which is 440.",00:22:00
+lgvcnnc,214,tutor,Can you tell me how did you add the numbers this way? Do you need to check? [unclear],00:22:05
+lgvcnnc,215,student,"0. So 0 plus 0 equals 0. 8 plus 6 equals 14. Add the 1 there, and then 1 plus 3 equals 4.",00:22:12
+lgvcnnc,216,tutor,But what about the add the 1? Where is that? [unclear],00:22:32
+lgvcnnc,217,tutor,Where did you put the 1 there?,00:22:42
+lgvcnnc,218,student,Because 8... [unclear],00:22:45
+lgvcnnc,219,tutor,Can you repeat that? I didn't hear you.,00:22:46
+lgvcnnc,220,student,What was 5 times 3?,00:22:52
+lgvcnnc,221,tutor,5 times 3 was 15.,00:22:54
+lgvcnnc,222,student,And add the 3.,00:22:58
+lgvcnnc,223,tutor,18.,00:23:01
+lgvcnnc,224,student,"So that's the 1 for that, right?",00:23:02
+lgvcnnc,225,tutor,Yeah.,00:23:05
+lgvcnnc,226,student,But then you added 8 at 6. What was that? 14.,00:23:06
+lgvcnnc,227,tutor,So where would you put the 1? Let's put it underneath there.,00:23:12
+lgvcnnc,228,student,So this is 5.,00:23:16
+lgvcnnc,229,tutor,"Exactly. So whenever you're adding the numbers, put it underneath, okay? So that you remember.",00:23:19
+lgvcnnc,230,student,Okay.,00:23:25
+lgvcnnc,231,tutor,"What's the final answer now, Callum?",00:23:26
+lgvcnnc,232,student,540. [unclear] [unclear],00:23:28
+lgvcnnc,233,tutor,"Very good job, guys. I'm really proud of you that you picked the answer. You were very patient and you didn't give up that fast. So well done. Good job.",00:23:41
+lgvcnnc,234,student,"Okay. Okay, now we'll go ahead with the new part. But before we move, that's the multiplication calculation, right, Callum? [unclear]",00:23:57
+lgvcnnc,235,student,Yes.,00:24:09
+lgvcnnc,236,tutor,You know what is the first number called in a multiplication calculation?,00:24:10
+lgvcnnc,237,student,"Uh, multiplier.",00:24:17
+lgvcnnc,238,tutor,"Oh, that's called the second— that's the second number.",00:24:20
+lgvcnnc,239,student,Oh.,00:24:25
+lgvcnnc,240,tutor,Number is called?...multiplier. I'm going to write the second number first that you've already told me....multiplier. What about the first number?,00:24:25
+lgvcnnc,241,student,"Uh, I forgot.",00:24:35
+lgvcnnc,242,tutor,That's okay. We call that as a multiplicand. What is it called?,00:24:37
+lgvcnnc,243,student,A multipli— a multi— [unclear],00:24:43
+lgvcnnc,244,tutor,"Exactly. The first number that we are multiplying is called multiplicand. The number we are multiplying it by, the second number, Second number is called multiplier. And what about the answer? [unclear]",00:24:45
+lgvcnnc,245,tutor,What did you say?,00:24:56
+lgvcnnc,246,student,It starts from B. I've written the first 3 letters. Can you guess it?...problem.,00:25:12
+lgvcnnc,247,tutor,"Okay, that's not a problem. Now, can you guess?",00:25:23
+lgvcnnc,248,student,produce.,00:25:23
+lgvcnnc,249,tutor,"Okay, product. What is it called?",00:25:23
+lgvcnnc,250,student,Product.,00:25:34
+lgvcnnc,251,tutor,Product. And now what about this 180? What do we call that? What do we call this? [unclear] [unclear],00:25:35
+lgvcnnc,252,tutor,Any idea?,00:25:46
+lgvcnnc,253,student,No.,00:25:50
+lgvcnnc,254,tutor,We call them as partial products. What do we call?,00:25:51
+lgvcnnc,255,student,Partial products.,00:25:56
+lgvcnnc,256,tutor,"So this 180 is a partial product and this 360 is also partial product. Okay? And what about 540? That would be the product. The product. So we can see the final product, right?",00:25:57
+lgvcnnc,257,student,Yeah.,00:26:13
+lgvcnnc,258,tutor,"Because that are the partials, so that's the final, right? When we added the partial products, we got the final product as the answer. Are you clear with all of the terms that we discussed, Callum?",00:26:14
+lgvcnnc,259,student,Yes.,00:26:24
+lgvcnnc,260,tutor,Great. Now let's come to the [UNCLEAR]. Please go ahead.,00:26:26
+lgvcnnc,261,student,Okay. [unclear],00:26:26
+lgvcnnc,262,student,"So right now, all I'm going to do is— that is— [unclear]",00:26:42
+lgvcnnc,263,tutor,Yes.,00:27:03
+lgvcnnc,264,tutor,"Hello, Callum, are you there?",00:27:32
+lgvcnnc,265,student,I can't hear you.,00:27:35
+lgvcnnc,266,tutor,"Hello, can you hear me, Callum? [unclear] [unclear]",00:27:39
+lgvcnnc,267,tutor,Can you hear me?,00:28:13
+lgvcnnc,268,student,Can you hear me? I can hear you now. Were you able to hear me? [unclear],00:28:17
+lgvcnnc,269,student,"No, I couldn't hear you.",00:28:24
+lgvcnnc,270,tutor,"You couldn't hear me? Just give me a moment. Let me open the slides for you, okay?",00:28:27
+lgvcnnc,271,student,Okay.,00:28:34
+lgvcnnc,272,tutor,"Okay, here we go. Yeah, please read out. [unclear]",00:28:36
+lgvcnnc,273,student,"So you put the zero and then 3 times 4 is 8. No, 3 times 4 is 2 and then you put the one there. And then 3 times 6 is 18. And then 18 and 1 is 9.",00:28:48
+lgvcnnc,274,tutor,18 and 1 is?,00:29:19
+lgvcnnc,275,student,"No, wait, what? [unclear]",00:29:21
+lgvcnnc,276,tutor,"18 add 1, right?",00:29:24
+lgvcnnc,277,student,Yeah. No. [unclear],00:29:30
+lgvcnnc,278,tutor,"What happened, Callum?",00:29:43
+lgvcnnc,279,student,Can I do it all again?,00:29:44
+lgvcnnc,280,tutor,"Okay, you want to do it all over again?",00:29:46
+lgvcnnc,281,student,Yes.,00:29:48
+lgvcnnc,282,tutor,"Okay, go ahead. Let me put the digit 2 there.",00:29:49
+lgvcnnc,283,student,"Okay, go ahead.",00:29:54
+lgvcnnc,284,tutor,"Okay, you're done with the first step?",00:30:29
+lgvcnnc,285,student,Yeah.,00:30:32
+lgvcnnc,286,tutor,Can you repeat it to me? How did you get 1928?,00:30:33
+lgvcnnc,287,student,"So you do 4 times 2, which is 8, and then you do 2 times 6, which is 12. So you do the 2 there, and then you add the 1, and then—",00:30:39
+lgvcnnc,288,tutor,But I can see a 9 as well.,00:30:52
+lgvcnnc,289,tutor,Could you repeat that? I didn't hear you.,00:30:59
+lgvcnnc,290,student,I can see a 9 as 12s.,00:31:00
+lgvcnnc,291,tutor,"Oh, 6 times 2 was 12. How did you get the 9 there? [unclear] That's okay. Okay, yeah, let's move ahead.",00:31:04
+lgvcnnc,292,background,"Now we do a 3 times 4, which is 12. [unclear]",00:31:19
+lgvcnnc,293,tutor,"Callum, I can't hear you again. Hello? Hello, Callum, I can't hear you.",00:31:30
+lgvcnnc,294,tutor,"Hi, Callum. [unclear] No, I can't hear you.",00:31:51
+lgvcnnc,295,student,Can you hear me now?,00:32:09
+lgvcnnc,296,tutor,"Yes, I can hear you now.",00:32:11
+lgvcnnc,297,tutor,"Okay, let's come back to the question. Yeah, so let's solve the tens. You've added this, you put the zero as a placeholder. Let's solve further.",00:32:13
+lgvcnnc,298,student,"So 3 times 4 is 12, put the 1 there, and then you do 3 times 6, which is 18, and then you do Wait, yeah, 3. [unclear] Then you do 3 times 6, which is 18. Put the 8 there, and then—",00:32:24
+lgvcnnc,299,student,But what about the 1?,00:32:48
+lgvcnnc,300,tutor,"Oh, 9. 9. Then you add them together.",00:32:51
+lgvcnnc,301,student,"But is it just first 9? 6 times 3, what's 6 times 3? 6 times 3 is 18.",00:32:59
+lgvcnnc,302,tutor,"And if you add the 1 to the 18, will it be just 9? 18 add 1.",00:33:07
+lgvcnnc,303,student,"18, 18 add 1 is 90— oh, 19.",00:33:13
+lgvcnnc,304,tutor,So where would the 1 go?,00:33:17
+lgvcnnc,305,student,Here.,00:33:19
+lgvcnnc,306,tutor,"Here. And if you have added that 1, right? So let's erase that 1 now so that you don't get— oh, you don't remember, you don't add it again. Okay?",00:33:20
+lgvcnnc,307,student,Okay.,00:33:30
+lgvcnnc,308,tutor,"Okay, yeah, let's add them together now. [unclear]",00:33:31
+lgvcnnc,309,student,"4, 10, the 1 there, 2, 2,048.",00:33:34
+lgvcnnc,310,tutor,A very good job. So what is 64 times 32? Go ahead and put your answer there.,00:33:50
+lgvcnnc,311,tutor,Anything that you're missing while writing down that answer there? Did you miss out anything?,00:33:59
+lgvcnnc,312,student,No.,00:34:09
+lgvcnnc,313,tutor,"I think, Callum, you missed out something. Apart from the numbers, the numbers are fine.",00:34:09
+lgvcnnc,314,student,What did I miss out? I don't think I missed out anything.,00:34:17
+lgvcnnc,315,tutor,"Okay, what if I say, what about the commas?",00:34:26
+lgvcnnc,316,student,Oh.,00:34:30
+lgvcnnc,317,tutor,Is it necessary if it's a 4-digit number?,00:34:32
+lgvcnnc,318,student,"So, 2 comma 0 4 8— no, 48.",00:34:37
+lgvcnnc,319,tutor,Exactly. And why do we put the comma in the number first? What's the reason for that?,00:34:45
+lgvcnnc,320,student,To show— to make it easier.,00:34:49
+lgvcnnc,321,tutor,To make it easier. Exactly. But what's the actual reason for putting it down?,00:34:52
+lgvcnnc,322,student,Uh... [unclear] I don't know.,00:34:59
+lgvcnnc,323,tutor,"Okay, shall we discuss that as well?",00:35:08
+lgvcnnc,324,student,Yeah.,00:35:11
+lgvcnnc,325,tutor,"Okay, let me help you out in that. So I'm gonna draw a place value chart, but I need some of your help, okay?",00:35:12
+lgvcnnc,326,student,Okay.,00:35:18
+lgvcnnc,327,tutor,"Okay. So what I'm gonna do, I'm gonna just divide that. So I want you to write down the name of the columns. So I want you to write the name of the ones column. What would be this column?",00:35:19
+lgvcnnc,328,student,"Uh, the, uh, uh, ones.",00:35:33
+lgvcnnc,329,tutor,Ones. Well done. Let's put the ones there. What about this one?,00:35:37
+lgvcnnc,330,student,The tens.,00:35:41
+lgvcnnc,331,tutor,Let's put it down.,00:35:42
+lgvcnnc,332,tutor,"Let's go with the next one. [unclear] That's fine, you don't need to write the complete— you don't need to write the complete one, that's fine. You can just write it. Yeah, what about this one?",00:35:46
+lgvcnnc,333,student,"Uh, thousand.",00:35:58
+lgvcnnc,334,tutor,Great.,00:36:00
+lgvcnnc,335,student,"Uh, ten thousand.",00:36:03
+lgvcnnc,336,tutor,Mm-hmm.,00:36:07
+lgvcnnc,337,student,And,00:36:09
+lgvcnnc,338,student,Hundred thousand.,00:36:11
+lgvcnnc,339,tutor,"What about this one, the last?",00:36:12
+lgvcnnc,340,student,"Uh, million.",00:36:15
+lgvcnnc,341,tutor,"Millions, exactly. Now, do you know one's, tens, and hundreds, that comes under which group?",00:36:17
+lgvcnnc,342,student,Can you repeat that?,00:36:25
+lgvcnnc,343,tutor,"Sure. The ones column, the tens column, and hundreds column, that comes under which group? What is the name of the group? [unclear]",00:36:26
+lgvcnnc,344,student,I'm not sure.,00:36:39
+lgvcnnc,345,tutor,"Okay, let's come to this. The thousands, ten thousands, and hundred thousands. What do you think? What would be the name of their group? Any idea?",00:36:41
+lgvcnnc,346,student,The thousand column.,00:36:50
+lgvcnnc,347,tutor,"The thousands group, we can say that, right?",00:36:51
+lgvcnnc,348,student,Yeah.,00:36:54
+lgvcnnc,349,tutor,"The thousands column, the ten thousands column, and the hundred thousands column come under the name of the group That is the thousands group, right?",00:36:55
+lgvcnnc,350,student,Yes.,00:37:04
+lgvcnnc,351,tutor,"Now what do you think about ones, tens, and hundreds? What would be their name? [unclear]",00:37:05
+lgvcnnc,352,student,I'm not sure.,00:37:11
+lgvcnnc,353,tutor,"Okay, see, this was— this, it started with thousands, right?",00:37:21
+lgvcnnc,354,student,"Oh, so ones group. Exactly, that's the ones group. And now this is million. What would be after million? What would be the next column? [unclear]",00:37:26
+lgvcnnc,355,student,10 million.,00:37:38
+lgvcnnc,356,tutor,And then?,00:37:39
+lgvcnnc,357,student,100 million.,00:37:39
+lgvcnnc,358,tutor,"Now million, 10 million, and 100 million comes into what group?",00:37:41
+lgvcnnc,359,student,The million group.,00:37:47
+lgvcnnc,360,tutor,"The millions group, exactly. So we can write at the top the millions",00:37:48
+lgvcnnc,361,tutor,"So now we have 3 groups. Ones group, the thousands group, and the millions group, right?",00:37:57
+lgvcnnc,362,student,Yeah.,00:38:04
+lgvcnnc,363,tutor,"So now to separate these groups from one another, we put a comma. So see, when the ones group gets over, we put a comma to separate that from the thousands group. Once the thousands group gets over, we put a comma to separate that from the millions group. [unclear] That's the reason for putting a comma, to separate the groups.",00:38:05
+lgvcnnc,364,tutor,Okay.,00:38:25
+lgvcnnc,365,student,Do you understand the reason now? Why do we put a comma?,00:38:26
+lgvcnnc,366,tutor,Yeah.,00:38:30
+lgvcnnc,367,student,Could you give me a reason for that? What's the logical reason behind putting a comma?,00:38:31
+lgvcnnc,368,tutor,To separate them and to make it easier.,00:38:36
+lgvcnnc,369,student,"Yeah, to separate what? What are we separating?",00:38:41
+lgvcnnc,370,tutor,"The groups. The groups. Exactly. Amazing job there. Well done. Okay, so now let's come back to the question. So now can you quickly tell me the terms that you use for all of the three? What is the first one called?",00:38:44
+lgvcnnc,371,student,Can you repeat that? I can't hear you.,00:39:01
+lgvcnnc,372,tutor,What is the first number called in the multiplication calculation?,00:39:04
+lgvcnnc,373,student,[unclear],00:39:09
+lgvcnnc,374,tutor,What about the second?...the multiplier.,00:39:10
+lgvcnnc,375,tutor,And the answer that we get is called?,00:39:15
+lgvcnnc,376,student,The product.,00:39:17
+lgvcnnc,377,tutor,And what about these numbers? [unclear] by the ones and the tens?,00:39:19
+lgvcnnc,378,student,The...,00:39:25
+lgvcnnc,379,tutor,Those are called?,00:39:28
+lgvcnnc,380,student,The partial product.,00:39:29
+lgvcnnc,381,tutor,"The partial product. Very well done. You remembered the terms and you recalled to me. Good job there. And now we'll move ahead with the last slide for today, okay?",00:39:31
+lgvcnnc,382,tutor,"Okay, so it says there is an error and you need to explain that error. So I want you to look at the question very well, okay?",00:39:42
+lgvcnnc,383,student,"Okay. So 3 times 6 is 8— [unclear] No, 3 times 6 is 18, so he put the 1 there and then he did 3 times 6 which is 18, and then added the 9. But he didn't add the 1 here.",00:39:52
+lgvcnnc,384,student,Say it. Say it.,00:40:17
+lgvcnnc,385,tutor,"Because, uh, 3 times 6 equals 18, and then— [unclear]",00:40:20
+lgvcnnc,386,tutor,"It's 90. Oh, never mind.",00:40:27
+lgvcnnc,387,student,"Okay, so the ones column is right, right?",00:40:30
+lgvcnnc,388,tutor,Yes.,00:40:34
+lgvcnnc,389,student,"Right, okay.",00:40:34
+lgvcnnc,390,tutor,What about the next one?,00:40:35
+lgvcnnc,391,student,You didn't add a zero.,00:40:38
+lgvcnnc,392,tutor,You didn't add a zero. And why is it really important to put a zero?,00:40:40
+lgvcnnc,393,student,Because you need to add a placeholder.,00:40:44
+lgvcnnc,394,tutor,A placeholder. But why do you need to add a placeholder?,00:40:50
+lgvcnnc,395,student,Because you need to make the number in the correct order so you can,00:40:56
+lgvcnnc,396,tutor,"Yeah, if I don't put a placeholder, that means I'm— that 3 is in which column actually? If I don't put a placeholder.",00:41:02
+lgvcnnc,397,student,Can you repeat that?,00:41:10
+lgvcnnc,398,tutor,"If I don't put the placeholder, that means the 3 is in which column?",00:41:11
+lgvcnnc,399,background,"Uh, I'm not sure.",00:41:17
+lgvcnnc,400,tutor,"See, the 3, it's just in the ones column. If you don't put the 0, right?",00:41:20
+lgvcnnc,401,background,Yeah. And we are putting a 0 so that we know we are timesing by 30 and not 3. Right? [unclear] Write that statement. 33 times by what?,00:41:27
+lgvcnnc,402,student,"Uh, 1.",00:41:40
+lgvcnnc,403,tutor,"If 33 times by 3, instead of 33 times by 3, what should we write in the bracket?",00:41:41
+lgvcnnc,404,student,33 times 1.,00:41:48
+lgvcnnc,405,tutor,What?,00:41:50
+lgvcnnc,406,student,"I mean— Here, first we times 33 by 6.",00:41:52
+lgvcnnc,407,student,33 times 30.,00:41:59
+lgvcnnc,408,tutor,"Exactly, 33 times 30. We need to times it by 30 so that we get— so if you times that by 30, what would be the answer? Actually, uh, it would be instead of 99, 990. 990, exactly. So then what would be the final answer? [unclear]",00:42:01
+lgvcnnc,409,student,"If it is 919, it's right at a zero. So that would be 8. That would be 18. So put the 8 there and then the 1 here. And that would be 10 and that would be 11. So it's 1,188.",00:42:21
+lgvcnnc,410,tutor,"Well then, and how would you write it down here? Can you show me? How would you put that? 1,188? How would you write that as the final answer? Very well done. You remembered to put the comma and you were able to find out the error in the questions. I will award you with the Good Working Out sticker. Good job.",00:42:56
+lgvcnnc,411,student,Thank you.,00:43:15
+lgvcnnc,412,tutor,"You're welcome, Callum.",00:43:17
+lgvcnnc,413,tutor,"So we're done with the lesson. Let's remember a quick recap, okay? [unclear] What did you learn today in this lesson?",00:43:18
+lgvcnnc,414,student,"I learned that the number that you have to add the zero here, the zero here is called the placeholder.",00:43:33
+lgvcnnc,415,tutor,Exactly.,00:43:44
+lgvcnnc,416,student,"And instead of putting the numbers on the top, you can put it at the bottom to make it easier.",00:43:45
+lgvcnnc,417,tutor,"And when you've already added that number, what we need to do?",00:43:52
+lgvcnnc,418,background,You have to check it.,00:43:56
+lgvcnnc,419,tutor,"Yeah, we need to check it. And if you've already added that number, we can erase that off, right? The extras, so that we don't add it again, right?",00:43:57
+lgvcnnc,420,background,"Okay, yeah.",00:44:06
+lgvcnnc,421,tutor,"Okay, what about this slide? What did you What did you learn here?",00:44:08
+lgvcnnc,422,student,I learned here that the first number means multiplicand and the second one means multiplier. And the answer means product. And I learned that these mean partial products.,00:44:16
+lgvcnnc,423,tutor,"Very well done. So you recall very well all of the things that we discussed in the lesson. So I'm gonna award you with a big thumbs up for explaining out so well. And now it's time for you to close your eyes, right?",00:44:37
+lgvcnnc,424,student,Okay.,00:44:50
+lgvcnnc,425,tutor,"Okay, just give me a few seconds. [unclear]",00:44:51
+lgvcnnc,426,student,"I don't know. You need to wait for some seconds, right? [unclear]",00:44:53
+lgvcnnc,427,tutor,"Okay, on the count of 3, 2, and 1, you can open it.",00:45:15
+lgvcnnc,428,student,Okay.,00:45:27
+lgvcnnc,429,tutor,And it says it's the shining star for the superstar of my session. [unclear],00:45:29
+lgvcnnc,430,student,Thank you.,00:45:36
+lgvcnnc,431,tutor,"You're welcome, Callum. And now it's time to say goodbye, right?",00:45:40
+lgvcnnc,432,student,Yeah.,00:45:44
+lgvcnnc,433,tutor,"As we are ending the session, so I want to wish you all the very best for the quiz questions, and you can let me know how your session went, as you always let me know, right?",00:45:45
+lgvcnnc,434,student,Yeah.,00:45:59
+lgvcnnc,435,tutor,"Okay, Callum, bye-bye, take care. I'll be excited to read out your comments.",00:46:00
+lgvcnnc,436,tutor,"Bye, take care.",00:46:04
+lgvcnnc,437,student,Bye.,00:46:06
+lgvcnnc,438,tutor,"Goodbye, have a lovely day. [unclear] Bye.",00:46:07

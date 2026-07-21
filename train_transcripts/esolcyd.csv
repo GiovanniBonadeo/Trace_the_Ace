@@ -1,0 +1,432 @@
+session_id,utterance_id,role,content,timestamp
+esolcyd,0,background,Welcome to your math journey. [unclear],00:00:00
+esolcyd,1,tutor,Hello.,00:00:02
+esolcyd,2,student,What the hell?,00:00:03
+esolcyd,3,tutor,Hi.,00:00:06
+esolcyd,4,student,Hi. Can you hear me?,00:00:07
+esolcyd,5,tutor,"Yes, can you hear me?",00:00:09
+esolcyd,6,student,My name is Callahan.,00:00:12
+esolcyd,7,tutor,"Nice to meet you, Callahan. My name is [UNCLEAR]. Nice to meet you.",00:00:15
+esolcyd,8,student,Nice to meet you too.,00:00:20
+esolcyd,9,tutor,"How are you feeling? This is your first session with us, if I'm not mistaken.",00:00:21
+esolcyd,10,student,"Yeah, it is.",00:00:25
+esolcyd,11,tutor,How do you feel? Nervous?,00:00:27
+esolcyd,12,student,"Yeah, a little bit, right?",00:00:28
+esolcyd,13,tutor,"Yeah, that's kind of normal when you try to do something for the first time. Yeah, so tell me a little bit about yourself, Callahan.",00:00:31
+esolcyd,14,tutor,Am I pronouncing your name correctly? Is it Callahan?,00:00:40
+esolcyd,15,student,Yeah.,00:00:43
+esolcyd,16,tutor,Brilliant. Tell me a little bit about yourself.,00:00:44
+esolcyd,17,student,So I like playing football and I like maths. [unclear],00:00:47
+esolcyd,18,tutor,That's a good combination.,00:00:56
+esolcyd,19,student,Yeah.,00:00:58
+esolcyd,20,tutor,"Fantastic, fantastic. So I'm sure you must be wondering what this whole thing is about, right? I mean, this is probably the First time you're doing something like this?",00:01:00
+esolcyd,21,student,Yeah.,00:01:09
+esolcyd,22,tutor,"Yeah, so let me explain to you what we are about, shall I? So basically, Callahan, we conduct these sessions— correct me if I'm wrong, but you must have appeared for a quiz before you attended this session, am I correct?",00:01:11
+esolcyd,23,student,"Yeah, you're correct.",00:01:29
+esolcyd,24,tutor,"Yes, what do you think was the purpose of that quiz?",00:01:31
+esolcyd,25,student,So do you know what level to teach me?,00:01:35
+esolcyd,26,tutor,"Very good understanding. Yeah, I like that. Yes, it's basically to find your strengths and weaknesses, right? So for example, I just briefly went through your quiz results, right?",00:01:39
+esolcyd,27,student,Yeah.,00:01:52
+esolcyd,28,tutor,And I identified that there were certain topics that you were really confident in.,00:01:52
+esolcyd,29,student,Yeah.,00:01:57
+esolcyd,30,tutor,"I'm not going to teach you those topics, right? Because you're confident in that, right? There's no— there's no point in teaching that to you. But there are other topics which you do need a little bit more help with. We're going to focus more on those. [unclear]",00:01:58
+esolcyd,31,tutor,"But anyway, the best thing about these sessions is, Callahan, I want you to talk to me, right? It's not about the right answer, it's about talking to me and explaining it to me. And I think you're off to a great start, to be honest.",00:02:14
+esolcyd,32,student,Yeah.,00:02:28
+esolcyd,33,tutor,Now you must be seeing a bunch of tools at the bottom.,00:02:28
+esolcyd,34,student,Yeah.,00:02:33
+esolcyd,35,tutor,How's it say text? [unclear],00:02:34
+esolcyd,36,student,"Text. So I see text, yeah.",00:02:40
+esolcyd,37,tutor,"Yes, could you click on that for me and click over here and type your name?",00:02:44
+esolcyd,38,student,"How do you do that? Oh, text, okay. Wait. Wait, text tool. Text and then—",00:02:49
+esolcyd,39,tutor,You have to click over here and— what do you think the text tool can be used for?,00:02:58
+esolcyd,40,student,Writing.,00:03:06
+esolcyd,41,tutor,"Writing stuff, right? You're going to be writing answers, writing explanations, stuff like that. Yeah. Now I'm sure you can see a bunch of other tools. Don't worry about that. I'll teach you how to use them in due time. Remember to turn up on time. You actually, you You came exactly on time. Good job on that, Callahan. The reason is these sessions are just 45 minutes long, aren't they? Which isn't a lot of time. Yeah? We want to make the best out of these [UNCLEAR]. And I want you to try your best. Don't worry about making mistakes. Don't worry about giving wrong explanations. In fact, making mistakes is a good thing. Why do I say that? Why do I say that it's a good thing to make mistakes?",00:03:08
+esolcyd,42,student,So you can learn. [Speaker:Callahan]... [unclear],00:03:52
+esolcyd,43,tutor,"Exactly, you can learn from your mistakes, right? And the last thing is do your quiz at the end of session. I'll actually come to that at the end, okay?",00:03:57
+esolcyd,44,student,Okay.,00:04:07
+esolcyd,45,tutor,"Before we get started, do you have any questions for me?",00:04:07
+esolcyd,46,student,No.,00:04:11
+esolcyd,47,tutor,"Okay, if you do have any questions, you can ask me at any time, okay?",00:04:12
+esolcyd,48,student,Okay.,00:04:15
+esolcyd,49,tutor,"This is your first lesson, Callahan. Knowing the value of each digit in numbers up to",00:04:16
+esolcyd,50,tutor,What's this number?,00:04:23
+esolcyd,51,student,1 million.,00:04:24
+esolcyd,52,tutor,"1 million, yes. Could you read this question and the learning goal question and tell me how you're going to do it?",00:04:25
+esolcyd,53,student,"So look at the number in the place value chart, write the value of the digit 8. So 8 is in the 10,000s, so it's— so the answer is 80,000. [unclear]",00:04:32
+esolcyd,54,tutor,"Write the number below in numerals. 258,301. So you have to write the number. 258,301. [unclear]",00:04:57
+esolcyd,55,tutor,Is it correct?,00:05:17
+esolcyd,56,background,"Yes, that is correct. Yes, I just double-checked that. Yes, 258,301. Well done, Callahan. So you seem fairly confident with this topic, so what I'm going to be doing is I'm going to be taking you to this slide over here.",00:05:19
+esolcyd,57,student,Okay. Say and write the number shown in numerals.,00:05:35
+esolcyd,58,student,"So, 900,000, 5,721.",00:05:44
+esolcyd,59,tutor,Could you type that?,00:05:58
+esolcyd,60,student,"Do you mind if I can have a little bit of help? 9, 0, 5, 7, 1.",00:06:00
+esolcyd,61,student,"So, I would put—",00:06:08
+esolcyd,62,tutor,Is it correct?,00:06:15
+esolcyd,63,student,"300,000.",00:06:16
+esolcyd,64,tutor,Your number seems to be missing something. What is it?,00:06:18
+esolcyd,65,student,"Oh, um, a comma.",00:06:22
+esolcyd,66,tutor,"Yes, actually your answer isn't wrong without the comma, but why is it better to put the comma?",00:06:25
+esolcyd,67,student,So you can read it easily.,00:06:32
+esolcyd,68,tutor,"There you go, you can read it much more easier. Good job. [unclear]",00:06:34
+esolcyd,69,student,Pardon?,00:06:41
+esolcyd,70,tutor,I can't hear you properly. It keeps on and off.,00:06:42
+esolcyd,71,student,"Oh, really? How about now?",00:06:45
+esolcyd,72,tutor,I can hear you now.,00:06:49
+esolcyd,73,student,"Okay, if it happens again, just let me know, okay?",00:06:51
+esolcyd,74,tutor,Okay.,00:06:54
+esolcyd,75,student,"Okay. Can you read this number for me, Callahan? The number which you've written.",00:06:55
+esolcyd,76,tutor,The number what?,00:07:01
+esolcyd,77,student,The number which you have typed.,00:07:02
+esolcyd,78,student,"905,721.",00:07:09
+esolcyd,79,tutor,And then we would go [UNCLEAR].,00:07:12
+esolcyd,80,background,"That is exactly how you read it. Well done. I want to ask you something, Callahan. You have put a zero here, haven't you? Why?",00:07:13
+esolcyd,81,student,"Yeah, because there's no digit in the ten thousands.",00:07:20
+esolcyd,82,background,"Okay, so can I just ignore that? Like, what's the value of that zero, by the way?",00:07:24
+esolcyd,83,student,It's nothing.,00:07:30
+esolcyd,84,tutor,"It has no value, correct. So can't I just write it like this? Can't I just remove the zero and write the other digits as they are? [unclear]",00:07:32
+esolcyd,85,student,"No, because it needs to hold the place of the 10,000.",00:07:42
+esolcyd,86,tutor,Well done. So what do we call that zero?,00:07:50
+esolcyd,87,student,A placeholding zero.,00:07:52
+esolcyd,88,tutor,"That's a placeholding zero. Well done, Callahan. Really, really good explanation. Yeah. Okay, can you do question number 2, please? In 601,592, what is the value of A, digit 1; B, digit 5; C, digit 6; and D, digit 9? [unclear]",00:07:55
+esolcyd,89,student,So 1 is 1.,00:08:19
+esolcyd,90,background,Thank you. [Speaker:Callahan]...1000.,00:08:23
+esolcyd,91,tutor,Mm-hmm. [Speaker:Callahan]...500 is...,00:08:27
+esolcyd,92,tutor,So ascending is like when you go up. [Speaker:Callahan]...500.,00:08:29
+esolcyd,93,tutor,And descending is like when you go down. [Speaker:Callahan]...600.,00:08:32
+esolcyd,94,tutor,Ascending.,00:08:41
+esolcyd,95,student,Mm-hmm.,00:08:42
+esolcyd,96,tutor,And 9 is...,00:08:43
+esolcyd,97,student,We start from the smallest.,00:08:45
+esolcyd,98,tutor,"9,000. [unclear]",00:08:47
+esolcyd,99,student,And like bigger.,00:08:48
+esolcyd,100,tutor,"90. Yes, well done. So that's what it means to put the values, right?",00:08:50
+esolcyd,101,student,Yeah.,00:08:55
+esolcyd,102,tutor,"Good job there, Callahan. Now this is a very interesting question. Can you read this and tell me what's going on?",00:08:56
+esolcyd,103,student,There is a [unclear] in Zedda's work. He says he drew 20 counters in total. What was Zedda's original number?,00:09:03
+esolcyd,104,student,"Sorry, my [unclear] is talking. I need to listen.",00:09:18
+esolcyd,105,tutor,The thousands group is—,00:09:20
+esolcyd,106,student,"Okay, now we can hear you.",00:09:22
+esolcyd,107,tutor,"And then after that is the hundreds. So the number without the hundreds is 600,000— no, 620,000.",00:09:24
+esolcyd,108,student,"121,034. So, um, he said he's [UNCLEAR]. So I have to count the counters and then draw how many is left.",00:09:48
+esolcyd,109,tutor,Very good. That's a nice strategy.,00:09:58
+esolcyd,110,student,So he needs 4 more because there's 16. Numbers. So yeah.,00:10:01
+esolcyd,111,tutor,"Okay, so the question is, what was Sedar's original number? [unclear]",00:10:12
+esolcyd,112,student,"621,434.",00:10:21
+esolcyd,113,tutor,"Well done, good job there, Callahan. That's what you have to type, yeah? So basically, there are 4 counters here, right?",00:10:27
+esolcyd,114,tutor,"Yeah, well done. Could you type the number over here?",00:10:35
+esolcyd,115,student,The number... [unclear] [Speaker:Tutor]...and then the next column.,00:10:39
+esolcyd,116,student,"Oh, wrong, sorry.",00:10:54
+esolcyd,117,tutor,Is it correct?,00:10:57
+esolcyd,118,background,"That is correct, yes. I just took a moment to check on that. Well done, that's correct, yeah.",00:10:59
+esolcyd,119,tutor,"Nicely done, but also very good strategy in trying to figure this one out, because I noticed you took some time to figure this one out. Why was it confusing, Callahan? Because I realized that you needed maybe 30 seconds to understand it.",00:11:05
+esolcyd,120,student,"Because the first time I didn't understand it, but then I read it again and then I understood it.",00:11:20
+esolcyd,121,tutor,"Okay, so the second time you read it, it made more sense, yeah?",00:11:27
+esolcyd,122,student,"Yeah. That's a good strategy. Normally when you don't understand something the first time around, better read it again, yeah?",00:11:30
+esolcyd,123,student,Yeah.,00:11:38
+esolcyd,124,tutor,"We are done with this first lesson. How do you feel about this one, Callahan?",00:11:38
+esolcyd,125,student,"Alright, it's good. [unclear]",00:11:43
+esolcyd,126,tutor,"Brilliant, I'm glad you enjoyed it. So we'll jump into the next one.",00:11:45
+esolcyd,127,student,Okay.,00:11:49
+esolcyd,128,tutor,"Here we go. Comparing numbers up to 10,000. Okay, comparing numbers, what does it mean to compare numbers, Callahan?",00:11:51
+esolcyd,129,student,"So see which one's bigger and smaller, or if it's equal.",00:12:00
+esolcyd,130,tutor,"Yes, comparing to see which one's bigger, smaller, or equal. Can you do that over here? [unclear]",00:12:06
+esolcyd,131,student,"Wait, how do you do the drawing thing?",00:12:14
+esolcyd,132,background,Good question. You can actually use the symbols tool for that.,00:12:22
+esolcyd,133,student,Yeah.,00:12:26
+esolcyd,134,tutor,"Oh, okay.",00:12:26
+esolcyd,135,student,"So should I do B, question B?",00:12:29
+esolcyd,136,tutor,Yeah.,00:12:33
+esolcyd,137,student,"Okay, so that one's that. Can I do the next question?",00:12:36
+esolcyd,138,background,"Hold on, can you explain to me how you did that one, Callahan? [unclear]",00:12:41
+esolcyd,139,tutor,You see a tool that says point at the bottom?,00:12:46
+esolcyd,140,student,"Oh, good night, Lorcan.",00:12:50
+esolcyd,141,tutor,You click on that and— Get out your pointer tool. There you go. Now you can point at what you're explaining. Can you explain to me how you did that? [unclear],00:12:51
+esolcyd,142,student,"So 3,628 is smaller than 3,816, so that means you have to put the greater symbol towards the 3,816.",00:12:59
+esolcyd,143,tutor,"Well done. That's a good explanation there, Callahan. You don't have to do the next one because the fact that you were able to do this one means This one is not necessary, okay?",00:13:13
+esolcyd,144,student,Okay.,00:13:22
+esolcyd,145,tutor,So here I'm gonna take you to this slide over here.,00:13:23
+esolcyd,146,student,Okay.,00:13:28
+esolcyd,147,tutor,Explain to me how you're gonna do this question.,00:13:28
+esolcyd,148,student,"So it says compare the statement using less than, greater than, or equal to. And then that's A and then some numbers, B and then some numbers, C and then some numbers. So equal.",00:13:30
+esolcyd,149,student,"Yeah, 709,651. So we compare this with the less than sign, the greater than sign. So that one's that, this one is that.",00:13:48
+esolcyd,150,tutor,Okay.,00:14:03
+esolcyd,151,student,And this one is 9. [unclear],00:14:04
+esolcyd,152,tutor,"Okay, just want to ask you, Callahan, this 9 is bigger than this 6, right? So why did you put this one as bigger?",00:14:13
+esolcyd,153,student,Because— [unclear] Because 8 is greater than 6 and they're in the same digit column. They're both in the hundreds column.,00:14:22
+esolcyd,154,tutor,"Very good. You always start comparing from the left, right?",00:14:32
+esolcyd,155,student,Yeah.,00:14:35
+esolcyd,156,tutor,"Good one there, good one. I think you're going to enjoy doing this question, Callahan. I can't explain what's happening.",00:14:36
+esolcyd,157,student,"So, use the digit cards below to correctly complete the comparison by writing one digit in each empty place. So you can only use each digit card once. So I have to make that one bigger than that. [unclear]",00:14:43
+esolcyd,158,student,"No, no, that's not there. That's not there.",00:15:16
+esolcyd,159,tutor,"That's not there. Good job. I was just gonna say that. Yes, 5. You've used 5. Okay.",00:15:18
+esolcyd,160,student,"Yeah. Then 3, 6, and then here.",00:15:23
+esolcyd,161,student,"The number is 4,902, and— okay, I need to erase 6. [unclear]",00:15:31
+esolcyd,162,tutor,"Yeah, okay, let me check. So you put 5,325 is less than 5,331. Yeah, that makes sense because 5 and 3 are the same, so we We can't tell which one's bigger, right?",00:15:48
+esolcyd,163,student,Yeah.,00:16:03
+esolcyd,164,tutor,"But when we come to this 20, that's 20 and that's 30, so automatically this one is bigger. Even though actually this 1 and this 5 doesn't even matter, right?",00:16:03
+esolcyd,165,student,Yeah.,00:16:13
+esolcyd,166,tutor,"Because the 30 is bigger than the 20. Good job there, Callahan.",00:16:14
+esolcyd,167,student,Okay.,00:16:20
+esolcyd,168,tutor,"Let me check the next one. Okay, okay, you put a 4. 4 is bigger than 2. That's all that matters, right? It doesn't matter what this digit is.",00:16:21
+esolcyd,169,tutor,"So, 2,000. Very, very good job there, Callahan. So, we'll go into the next one.",00:16:32
+esolcyd,170,student,Okay.,00:16:40
+esolcyd,171,tutor,"Interesting. So, we are— looks like we're covering a lot of different topics, right? Rounding numbers to the nearest 100 and 1,000. What does it mean to round numbers, Callahan?",00:16:41
+esolcyd,172,student,"To make them to the nearest 100 or 1,000.",00:16:54
+esolcyd,173,tutor,"Good. Now, why would you want to do that?",00:16:59
+esolcyd,174,tutor,Where would you be rounding numbers in real life?,00:17:01
+esolcyd,175,student,"To make it more simple, like if you're doing a long math equation, then if you round it and then work it out, and then after you like do the average, then I know there's more chance of getting it correct.",00:17:08
+esolcyd,176,tutor,"Pardon, sorry, could you repeat that, Callahan?",00:17:23
+esolcyd,177,student,So if you're doing a difficult math equation and,00:17:26
+esolcyd,178,student,"Like 5,391 take away 812.",00:17:30
+esolcyd,179,tutor,Yeah.,00:17:34
+esolcyd,180,student,"And then I use round it to make it more easier. And then after I do the working out, see if it's correct.",00:17:35
+esolcyd,181,tutor,"Okay, but if you round it, do you get the exact answer?",00:17:42
+esolcyd,182,student,"No, you get like similar if you round it correct.",00:17:45
+esolcyd,183,tutor,"Very good. I think I understood you, Callahan. That's a very good explanation. Basically, you can use rounding to guess what the answer should look like, yeah?",00:17:50
+esolcyd,184,tutor,"Yeah, and if your actual answer is very different from your rounded answer, that means something's probably gone wrong.",00:18:00
+esolcyd,185,student,Yeah.,00:18:07
+esolcyd,186,tutor,"Well done. Could you round this number here, Callahan?",00:18:09
+esolcyd,187,student,"Okay, so 5,391 to the nearest hundred is 5,400 because 90 is nearer to 100 than 0. [unclear]",00:18:12
+esolcyd,188,tutor,"Interesting. So you've rounded the 3 up to 4, yeah?",00:18:31
+esolcyd,189,student,Yeah.,00:18:35
+esolcyd,190,tutor,"Why? Because normally I've heard of this, Callahan, I want you to tell me, okay? Have you ever heard of someone say 5 or more you round up, less than 5 you round down?",00:18:36
+esolcyd,191,student,Yeah.,00:18:48
+esolcyd,192,tutor,"Okay. This 3 is less than 5, right? Why did you round it up?",00:18:49
+esolcyd,193,student,"Because it said to the nearest hundredths, I have to go the next one down.",00:18:55
+esolcyd,194,tutor,"Very good. I really like how you're confident with your answers, Callahan. Yeah?",00:18:59
+esolcyd,195,student,Yeah.,00:19:05
+esolcyd,196,tutor,"Excellent focus. Normally when I ask these questions, students tend to think that they are wrong, but you are very confident with your concepts. I really love that. Well done. That's absolutely correct. So I'm gonna jump into this question over here. This is a really interesting one. Okay, trust me, these questions are getting more and more interesting now. Okay?",00:19:05
+esolcyd,197,tutor,Okay.,00:19:26
+esolcyd,198,student,The first one should be easy.,00:19:27
+esolcyd,199,tutor,"Okay, yeah. So round 7, no, 2,715 to the nearest hundredth, that would be 2,700. And that one, this one would be [unclear] [unclear]",00:19:30
+esolcyd,200,student,I changed it because—,00:19:55
+esolcyd,201,tutor,"So, guide you to the next question.",00:19:57
+esolcyd,202,background,"Let me just check that. 100, yes, you've rounded it down. 1,000, yes, well done. Yes, please go to the next question, Callahan.",00:20:01
+esolcyd,203,student,Okay.,00:20:09
+esolcyd,204,background,Question number 2.,00:20:09
+esolcyd,205,student,"So number 2, round 5,325 to the nearest 1,000 and 100.",00:20:12
+esolcyd,206,student,"So to the nearest thousand, it would be 5 and then [UNCLEAR].",00:20:21
+esolcyd,207,tutor,So I just wanted to go like from smallest all the way to the biggest. So I wanted to go backwards.,00:20:27
+esolcyd,208,student,"Yes, that's what it would be. Yep.",00:20:35
+esolcyd,209,tutor,"Then this one, it would— for the nearest hundred, it would be 5, 3, 0. [unclear]",00:20:38
+esolcyd,210,tutor,"Very nicely done, Callahan. Next one's a— question number 3 is a really interesting one. What's happening there?",00:20:51
+esolcyd,211,student,"So which 2 numbers round to 5,601 rounded to the nearest 100? So—",00:20:59
+esolcyd,212,tutor,They're showing 5,00:21:07
+esolcyd,213,background,"A, B, C, D, and E. E. Which 2 numbers, or which 2 letters rather, if you round them to the nearest 100, would you get 5600?",00:21:10
+esolcyd,214,student,I'm going to start with [UNCLEAR]. [Speaker] So all of them would be C and D.,00:21:18
+esolcyd,215,tutor,"Okay, how did you get that? [Speaker] Because C is closer to 5600 than 5500.",00:21:26
+esolcyd,216,tutor,"Yeah. [Speaker] And then D is closer to 5600 than 5700. Fantastic explanation. Well done there, Callahan. Now the next question is a really interesting one, okay? I want to see how you do this. Probably the hardest one we've done so far. It's going to get harder and harder, okay?",00:21:33
+esolcyd,217,student,Okay.,00:21:52
+esolcyd,218,tutor,What's happening here?,00:21:53
+esolcyd,219,student,"A number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? Give two possible answers.",00:21:55
+esolcyd,220,student,This is easy.,00:22:06
+esolcyd,221,tutor,"Okay, I like that attitude.",00:22:08
+esolcyd,222,student,So 499.,00:22:10
+esolcyd,223,tutor,Yeah.,00:22:14
+esolcyd,224,student,And... [unclear],00:22:16
+esolcyd,225,tutor,"Well done. Now those two were kind of easy, right?",00:22:19
+esolcyd,226,student,Yeah.,00:22:26
+esolcyd,227,tutor,"And both those answers are correct, but I'm gonna make it a little bit more challenging for you, okay, Callahan?",00:22:26
+esolcyd,228,student,Okay.,00:22:31
+esolcyd,229,tutor,What is the smallest possible number that you can get and the largest possible number.,00:22:32
+esolcyd,230,student,So the smallest possible number would be— it would be b.,00:22:38
+esolcyd,231,tutor,"5, 0, 5—",00:22:43
+esolcyd,232,student,"Oh, that would be c.",00:22:49
+esolcyd,233,tutor,"5, 0, 5, 0.",00:22:51
+esolcyd,234,background,"Okay, why is that the smallest possible number?",00:22:54
+esolcyd,235,student,"Because if you go above that, you have to round up.",00:22:57
+esolcyd,236,tutor,"I don't think so. Remember, we are rounding to the nearest thousand, not hundred.",00:23:01
+esolcyd,237,student,"Wait, it's bigger than— [unclear]",00:23:05
+esolcyd,238,tutor,"Oh, so it has to be— [unclear] Okay, why is it 5,500?",00:23:07
+esolcyd,239,student,"Because if you have to— if you're halfway, then— so if you're above, like even if it's 5,501, you have to round up.",00:23:15
+esolcyd,240,student,"If it's less than, they have to round down.",00:23:28
+esolcyd,241,tutor,"Okay, what would you— can you round this number to the nearest thousand? 5,500. If you round it to the nearest thousand, what do you get?",00:23:30
+esolcyd,242,student,"Thousand [UNCLEAR], right?",00:23:39
+esolcyd,243,tutor,"Yes, but no, you don't get 5,000. If you round 5,500 to the nearest thousand, you get 6,000, don't you?",00:23:43
+esolcyd,244,student,Oh yeah.,00:23:52
+esolcyd,245,tutor,"So that's not quite right. Yeah, so that can't be the largest number.",00:23:55
+esolcyd,246,student,So the smallest possible number would be 5499.,00:24:00
+esolcyd,247,tutor,"That would be the largest possible. You got that largest one, Callahan. [unclear]",00:24:06
+esolcyd,248,student,"Oh yeah, that's the largest one.",00:24:09
+esolcyd,249,tutor,"That's the largest one, yeah. So what can the smallest number be that will round— if you round it to the nearest thousand, you get 5000.",00:24:12
+esolcyd,250,student,5001.,00:24:22
+esolcyd,251,tutor,"Okay, that works, but that's not the smallest.",00:24:26
+esolcyd,252,student,"Oh, um, no, no, no. [unclear] 4999.",00:24:29
+esolcyd,253,tutor,"Yes, that is smaller, but once again, that's not the smallest. You can go even smaller.",00:24:34
+esolcyd,254,student,450...,00:24:39
+esolcyd,255,tutor,"Okay, you can actually go even smaller than that.",00:24:43
+esolcyd,256,student,"Um, oh, 0.",00:24:46
+esolcyd,257,tutor,"Yes, there you go, Callahan. Why does that work?",00:24:49
+esolcyd,258,student,"Because if you're 5 and above, you round up, and below 5, you round down.",00:24:52
+esolcyd,259,tutor,"Yes, so this number, if you round it to the nearest thousand, you get 5,000, correct?",00:25:00
+esolcyd,260,student,Yeah.,00:25:07
+esolcyd,261,tutor,"Same thing with this one, yeah?",00:25:07
+esolcyd,262,student,Yeah.,00:25:10
+esolcyd,263,tutor,"So this one was an interesting, challenging question, wasn't it, Callahan?",00:25:11
+esolcyd,264,student,"Yeah, yeah.",00:25:15
+esolcyd,265,tutor,"Yeah, so I realized that you found this question really easy, And even this one you found it very, very easy, right? But this question, I wouldn't say you found it difficult because you were able to do it anyway.",00:25:16
+esolcyd,266,student,Yeah.,00:25:31
+esolcyd,267,background,"But it was definitely one of the most interesting ones, right?",00:25:31
+esolcyd,268,student,Yeah.,00:25:36
+esolcyd,269,background,"Glad you enjoyed it, Callahan. So I'll take you to the next one.",00:25:36
+esolcyd,270,background,Okay.,00:25:41
+esolcyd,271,background,Okay. Right. Writing tenths as decimals. Interesting one. What's going on here?,00:25:42
+esolcyd,272,student,"So the first one is write the blue shaded part as a decimal. So the blue part is these 4, and then there's 10 blocks, so it's 0.4. [unclear]",00:25:51
+esolcyd,273,tutor,"Interesting, yeah, 0.4, that's absolutely right, well done. So once again, I feel like you do know this quite well, so I'm gonna take you right on to the next challenging question. Okay?",00:26:10
+esolcyd,274,student,"Okay. So should I— okay, write the shaded part as a decimal. So there's 3— so there's 8 shaded and then there's 2 more.",00:26:23
+esolcyd,275,tutor,"I want to— I want you to do something, Callahan. Can you write it as a fraction first? You can actually use the symbols tool for that.",00:26:39
+esolcyd,276,student,Okay.,00:26:47
+esolcyd,277,tutor,"Yeah, you can click over here and you can select the symbol that says a box on top of another box. There you go. [unclear]",00:26:47
+esolcyd,278,student,"So, 8, wait, is that— and then 10.",00:26:57
+esolcyd,279,background,"Okay, I think it's kind of glitched. Callahan, can you try doing that again? I think you accidentally pressed it twice. Shall we try it again? [unclear]",00:27:09
+esolcyd,280,tutor,"Fantastic! 8/10. So that is how it looks like as a fraction, right? How would it look like as a decimal?",00:27:28
+esolcyd,281,student,"As a decimal, it would be— it's a 10th number.",00:27:35
+esolcyd,282,student,0.8.,00:27:42
+esolcyd,283,tutor,"0.8, that's exactly what it would be. Well done, Callahan. Good job. How would you do the next one? [unclear] And that's a decimal, okay?",00:27:45
+esolcyd,284,student,"So that's not shaded is 7. So as a decimal is 0.7, and then as a fraction [unclear]",00:27:56
+esolcyd,285,tutor,"Yes, that's exactly what I— I'm glad you read the question carefully because it says not shaded, yeah?",00:28:14
+esolcyd,286,student,Yeah.,00:28:23
+esolcyd,287,tutor,Good job.,00:28:24
+esolcyd,288,student,"Yeah, so should I do the next one?",00:28:27
+esolcyd,289,tutor,"Yes, please.",00:28:31
+esolcyd,290,tutor,"How much water is in the jug? Write your answer in liters. So there's one liter there, and then there's 0, 10, 20, 30, 40, 50, 60, 70. [unclear] So I think it's 0.5 liters.",00:28:32
+esolcyd,291,tutor,"Very good. I'm really glad you put that letter L there, Callahan. Why is that really important?",00:28:57
+esolcyd,292,student,So people know what you're referring to.,00:29:04
+esolcyd,293,tutor,Exactly. What happens if you don't put that?,00:29:07
+esolcyd,294,student,People don't know what you're talking about.,00:29:10
+esolcyd,295,tutor,"Yeah, it could be anything, right? 0.5 apples or maybe 0.5 bananas, right? But you're talking about liters of water. Good job. Here's the last",00:29:13
+esolcyd,296,student,"Okay. So it says, how long is the ribbon? And then you have to write it in meters. So it's from 1 to 9. So is it 8? No, no. [unclear]",00:29:24
+esolcyd,297,tutor,"Okay, why did you change it to 0.8?",00:29:48
+esolcyd,298,student,"Because it says meters and there's only 1 meter. There's only 1 meter there, so you have to do it in decimals before that.",00:29:50
+esolcyd,299,tutor,"Correct. But just correct me if I'm wrong, Callahan. This one reaches to 0.9 meters, so why did you put 0.8?",00:30:01
+esolcyd,300,student,"Because it starts at 0.1, so it's 1 less.",00:30:09
+esolcyd,301,tutor,"It is 0.1 less. Very good observation there, Callahan. So we are done with this lesson as well. How is this session going so far?",00:30:14
+esolcyd,302,student,It's good. It's not too difficult.,00:30:25
+esolcyd,303,tutor,"Yeah. Yes, I'm just gonna load up the next lesson, okay?",00:30:30
+esolcyd,304,student,Okay.,00:30:34
+esolcyd,305,tutor,"Okay, hold on. I'm just loading it up. Because it will take a little bit of time, okay?",00:30:35
+esolcyd,306,student,Okay. [unclear],00:30:44
+esolcyd,307,tutor,"There you go. So this is numbers up to 2 decimal places using money. Before we get started with this one, Callahan, I want to ask you, normally lessons regarding money is pretty important. Why?",00:30:46
+esolcyd,308,student,So you know what to do when you're like in the shops or something,00:31:03
+esolcyd,309,tutor,"Yes, very true. I just want to ask you, have you dealt with money? Have you bought anything or have you gone shopping?",00:31:09
+esolcyd,310,student,"Yeah, I have.",00:31:16
+esolcyd,311,tutor,Definitely. And have you faced any problems or issues when it comes to handling money?,00:31:18
+esolcyd,312,student,No.,00:31:23
+esolcyd,313,tutor,"Not yet, yeah? But do you think as you grow older— now you're not earning any money right now, yeah? You're probably using your pocket money, right?",00:31:24
+esolcyd,314,student,Yeah.,00:31:32
+esolcyd,315,tutor,"As you grow older, you're going to be earning your own. If you don't mind me asking, Callahan, what's What's your dream job? What type of— what's the person you're trying to become?",00:31:33
+esolcyd,316,student,A teacher.,00:31:42
+esolcyd,317,tutor,"A teacher? Okay, that's— can I know why?",00:31:43
+esolcyd,318,student,So I can teach little kids.,00:31:46
+esolcyd,319,tutor,"Ah, interesting. Kind of like what I'm doing right now. [unclear]",00:31:50
+esolcyd,320,student,Yeah.,00:31:53
+esolcyd,321,tutor,"Yeah, yeah. I'll tell you something, Callahan. Teaching is a very prestigious job, yeah? Because I find—",00:31:53
+esolcyd,322,tutor,"Not only do you get paid for [UNCLEAR], but you also get to change people's lives, don't you? Don't you think so?",00:32:04
+esolcyd,323,student,Yeah.,00:32:12
+esolcyd,324,tutor,"If you are able to help students learn and make them understand certain concepts that they are going to be using for the rest of their life, wow, that's a great thing. What do you think?",00:32:12
+esolcyd,325,student,Yeah.,00:32:22
+esolcyd,326,tutor,"Definitely, definitely. So yes, money is really important. Can you attempt this learning goal question for me?",00:32:23
+esolcyd,327,student,"So write the correct symbol, less than, greater than, or equals.",00:32:29
+esolcyd,328,tutor,Hold on. Doesn't this look like a face?,00:32:34
+esolcyd,329,student,"Oh yeah, it kind of does.",00:32:39
+esolcyd,330,tutor,"It kind of does look like a face, yeah. I'm sorry, I just got distracted there. Yes, please continue. [unclear]",00:32:41
+esolcyd,331,student,"Okay, so let me get back to the question. So 5.4 is greater than 3.",00:32:47
+esolcyd,332,student,5.25.,00:32:59
+esolcyd,333,tutor,"So you have to— and then the next question. So write the amount shown using pounds. So the— it's £2.06p, so",00:33:03
+esolcyd,334,student,2.6.,00:33:28
+esolcyd,335,tutor,"Very good. Why did you not put 2.6, Callahan?",00:33:29
+esolcyd,336,student,"Because if you want 2.6, it looks like 2.63 because the 0, it represents the tens.",00:33:33
+esolcyd,337,tutor,"Yeah, very true, very true. Good explanation there, Callahan. So hold on a second. Here we go. So here we are basically figuring out which side has more money. Yeah?",00:33:41
+esolcyd,338,student,Yeah.,00:33:57
+esolcyd,339,tutor,Okay.,00:33:57
+esolcyd,340,student,So can I start?,00:33:59
+esolcyd,341,tutor,"Yes, you can. [unclear] Fantastic. [unclear]",00:34:01
+esolcyd,342,tutor,"You actually don't have to explain these, Callahan, because I feel like you already explained this to me before, right? Yeah.",00:34:24
+esolcyd,343,student,So,00:34:32
+esolcyd,344,tutor,you know how it's done. How about this last question for this lesson? So,00:34:32
+esolcyd,345,student,"it says, would you rather have 6 20ps or 23 5ps? Which would give you the greatest amount? Write the two amounts in pound and circle the greatest amount. So 6 times 20 is 120. [unclear]",00:34:37
+esolcyd,346,student,"So then put it over here. And then this, and then 23 5ps. So 23 times 5— one second.",00:35:02
+esolcyd,347,tutor,"Yeah, sure. Take your time.",00:35:15
+esolcyd,348,student,So the answer I got when I calculated is 115.,00:35:22
+esolcyd,349,tutor,Mm-hmm. How did you calculate that?,00:35:26
+esolcyd,350,student,So I did 23 times 5 and then— so [unclear],00:35:30
+esolcyd,351,student,"So let me do it like— so I do 23, and then times 5. So if you do 23 here, and then you go here, and you write 5, and then after, so— [unclear]",00:35:36
+esolcyd,352,tutor,"Yeah, and then so 3 times 5, so 3 times 5 is 15.",00:36:05
+esolcyd,353,student,Uh-huh.,00:36:16
+esolcyd,354,tutor,"So you write 5 there and then keep the 1, and then 5 times [Speaker:Callahan]...is 10, and 10 plus 1 is 11. So you write 11 there. So the answer would be 100 [UNCLEAR].",00:36:20
+esolcyd,355,tutor,"Well done. Good job, good job. Now here's the thing, Callahan. Fantastic, very, very impressive explanation, but they want both your answers in pounds.",00:36:37
+esolcyd,356,student,"Oh, okay. Yeah. So... Text. Text. Oh yes, symbols. [unclear] We do the same thing here.",00:36:47
+esolcyd,357,tutor,"Yeah, but is it £120?",00:37:15
+esolcyd,358,student,"I know, um, so— So it's 1.1 point. And then here it would be— [unclear]",00:37:20
+esolcyd,359,student,It's not letting me write. Can you hear me?,00:37:36
+esolcyd,360,tutor,That's okay. Where do you want to put the decimal point?,00:37:44
+esolcyd,361,student,In the middle of 1 and 1.,00:37:46
+esolcyd,362,tutor,Like that?,00:37:49
+esolcyd,363,student,Yeah.,00:37:51
+esolcyd,364,tutor,"Okay, 1.15. Well done. So which one would you rather have? Would you rather have 6 20ps or 23 5ps?",00:37:51
+esolcyd,365,student,6 20ps. [unclear],00:38:00
+esolcyd,366,tutor,"Yes, because that one's more, right?",00:38:03
+esolcyd,367,student,Yeah.,00:38:06
+esolcyd,368,tutor,"Very, very well done, Callahan. So I think we have 5 minutes, so we can just do one more lesson. Are you ready?",00:38:07
+esolcyd,369,student,Okay.,00:38:13
+esolcyd,370,background,Yeah.,00:38:14
+esolcyd,371,tutor,"Not this one. We've already done this one. We already did this one, right? Unless we want to do it again. Not this one, give me a second.",00:38:15
+esolcyd,372,student,Okay.,00:38:24
+esolcyd,373,tutor,I'm going to load up the next one.,00:38:24
+esolcyd,374,student,"Yeah, yeah. And the one column— [unclear]",00:38:30
+esolcyd,375,tutor,"Okay, one second. [Speaker:Background]...is wanting to put your laptop away and then go into singing assembly. [unclear]",00:38:33
+esolcyd,376,tutor,"Okay, I'm back.",00:38:48
+esolcyd,377,student,"Okay, well, was Marisol just speaking to you?",00:38:51
+esolcyd,378,tutor,"Yes, you're speaking.",00:38:54
+esolcyd,379,student,Okay.,00:39:00
+esolcyd,380,tutor,"Okay, I've selected this.",00:39:04
+esolcyd,381,tutor,This is an interesting one.,00:39:10
+esolcyd,382,student,Adding numbers mentally using the same sum method.,00:39:14
+esolcyd,383,background,So one more question. Mia says 198 plus 662 is the same as 200 plus 660. Is she correct? Explain your thinking.,00:39:19
+esolcyd,384,student,So she's technically,00:39:33
+esolcyd,385,student,"Correct, because she rounded it to the nearest whole number. No, not whole number, but like 10 or 100. And then when you add both of them, like when you add these and you add these, they have a similar answer.",00:39:36
+esolcyd,386,tutor,"Okay, why do they have a similar answer? Because they're not the same question, right?",00:39:55
+esolcyd,387,student,Because there's only from 198 to 200 is only 2 away. [unclear],00:39:59
+esolcyd,388,tutor,"And 662 to 660 is only 2 away, so it's like 4 away.",00:40:05
+esolcyd,389,student,"Ah, right, right. Okay, so they both give the same answer, yeah?",00:40:11
+esolcyd,390,tutor,Yeah.,00:40:15
+esolcyd,391,student,"Okay, so what I'm going to be doing now is, Callahan, I'm going to be doing this first question over here, but I'm going to be doing it in my head, okay? I want you to follow me and tell me if I'm doing the right thing, yeah?",00:40:16
+esolcyd,392,tutor,Okay.,00:40:26
+esolcyd,393,student,"So here's the thing. My question is 299,999 add 582,651. This is a very hard number to work with mentally, right? So what I'm going to do is I'm going to take one from here and put it to this. That would make my first number 300,000. Ah, that's a very nice, easy, and convenient number. [unclear]",00:40:27
+esolcyd,394,student,"Yes, yeah, it's good.",00:40:53
+esolcyd,395,tutor,"But then this number would become 582,651. 650. It doesn't have the 1 because it gave that 1 over there, right?",00:40:55
+esolcyd,396,student,So it makes it easier because—,00:41:03
+esolcyd,397,tutor,"Now it's much easier to do in my head because it's just 5 3, which is 8, and all the other digits stay as they are, right? Yeah.",00:41:05
+esolcyd,398,student,So,00:41:16
+esolcyd,399,tutor,"this is called the same sum rule. The [unclear] same sum method. Can you use the same sum method to do this question over here, Callahan?",00:41:16
+esolcyd,400,student,So which one then? This one or this one?,00:41:27
+esolcyd,401,tutor,This one.,00:41:30
+esolcyd,402,student,"So 38202 add 1998. So when you round it and then— so why you don't need to round this, but the one— [unclear]",00:41:31
+esolcyd,403,background,"It's not rounding. You're just moving digits from one place to another, right?",00:41:46
+esolcyd,404,student,"Yeah, and then— sorry. Take away, see, for example, this one. That is 5 tens in one line.",00:41:52
+esolcyd,405,tutor,"So that would be— wait, no, I did it wrong.",00:42:07
+esolcyd,406,student,Okay.,00:42:12
+esolcyd,407,tutor,So you take away here and then—,00:42:12
+esolcyd,408,student,So is it [UNCLEAR]?,00:42:20
+esolcyd,409,tutor,"And then, so that means it would be 38,200 at [unclear]",00:42:23
+esolcyd,410,tutor,"No, you only have 10 of them in each row.",00:42:46
+esolcyd,411,student,I need a comment there.,00:42:50
+esolcyd,412,tutor,So then the answer would be—,00:42:53
+esolcyd,413,student,"Put the ones here as 0 as a placeholder. Wait, that's so 38 plus 90. So let me work that out really quick. I'll come back.",00:42:55
+esolcyd,414,tutor,I think you can do that in your head.,00:43:06
+esolcyd,415,student,"Oh, I'm sorry.",00:43:09
+esolcyd,416,tutor,"I think you've made a small mistake. [Speaker:Tutor]...small mistake there, Callahan. Doesn't this become 20,000? If you add 2 to this, doesn't this become 20,000?",00:43:10
+esolcyd,417,student,Oh yeah.,00:43:19
+esolcyd,418,tutor,Yeah? [unclear],00:43:22
+esolcyd,419,student,"Okay, so...",00:43:25
+esolcyd,420,tutor,"Because if you add 2, this will become a 0, this will become 10, 10, that'll become a 10, right? That'll become 20,000. There you go. What would your final total answer be?",00:43:28
+esolcyd,421,student,"The answer would be 58,000... [unclear]",00:43:41
+esolcyd,422,tutor,"Well done, there you go. So we are not done with this lesson, Callahan, but we will have to continue this next week on the next class with your next Tutor, right? Because we are running out of time. So tell me, how was your first session with us?",00:43:52
+esolcyd,423,student,It was good. Nothing too difficult. [unclear],00:44:08
+esolcyd,424,tutor,But that's because you were pretty confident with your concepts. Yeah?,00:44:13
+esolcyd,425,student,Yeah.,00:44:17
+esolcyd,426,tutor,"Definitely. Now I just want to ask you one more question, Callahan. Why do you think it's important to do questions mentally in your head?",00:44:18
+esolcyd,427,student,"So because like, and over time",00:44:25
+esolcyd,428,student,When you're in a not good situation and you have to do it quicker and then you can do it in your head.,00:44:28
+esolcyd,429,tutor,"Very good. You don't always have a calculator or a pen and paper with you to work it out, right? So sometimes you'll have to do it in your head. It was a real pleasure working with you today, Callahan. Once I end the session, there will be a few questions. Do answer them. And also [unclear] your feedback will mean a lot to us. Goodbye.",00:44:35
+esolcyd,430,student,Okay. [unclear],00:44:55

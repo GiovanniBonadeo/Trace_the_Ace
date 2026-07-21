@@ -1,0 +1,313 @@
+session_id,utterance_id,role,content,timestamp
+kjnekxq,0,student,Hello?,00:00:00
+kjnekxq,1,background,[unclear],00:00:00
+kjnekxq,2,tutor,Hello?,00:00:01
+kjnekxq,3,student,Hello?,00:00:02
+kjnekxq,4,tutor,Hello?,00:00:04
+kjnekxq,5,student,Hello?,00:00:05
+kjnekxq,6,tutor,"Can you hear me, Callum?",00:00:06
+kjnekxq,7,student,Yeah.,00:00:07
+kjnekxq,8,tutor,"Okay, good morning, Callum.",00:00:09
+kjnekxq,9,student,Morning.,00:00:11
+kjnekxq,10,tutor,How are you doing today?,00:00:12
+kjnekxq,11,student,Good.,00:00:14
+kjnekxq,12,background,Good.,00:00:14
+kjnekxq,13,tutor,That's great. And how's the day at school going?,00:00:15
+kjnekxq,14,student,I'm good.,00:00:19
+kjnekxq,15,tutor,"Okay, so can you tell me what have you done in school so far?",00:00:21
+kjnekxq,16,student,I can't really hear though because like in the background there's something like a bit like [unclear] around.,00:00:25
+kjnekxq,17,tutor,"Okay, can you hear me now?",00:00:31
+kjnekxq,18,student,It sounds a bit like wind or something.,00:00:35
+kjnekxq,19,tutor,"Okay, just a second. Is it okay now?",00:00:40
+kjnekxq,20,student,Yeah. [unclear],00:00:52
+kjnekxq,21,tutor,"All right, that's great. So I was asking, how's the day at school going?",00:00:53
+kjnekxq,22,student,Good.,00:01:00
+kjnekxq,23,tutor,"Okay, and do you remember what did you do in the previous session?",00:01:01
+kjnekxq,24,student,"Um, well, No, I think it was like 12 times 12 factors, something like that.",00:01:06
+kjnekxq,25,tutor,"Yes, so the lesson was using multiplication and division facts up to 12 times 12. And other than that, we also started a lesson which was about multiplying 2-digit numbers. Do you remember this?",00:01:17
+kjnekxq,26,student,"Uh, I think so.",00:01:30
+kjnekxq,27,tutor,"Okay, so for today we'll be continuing with the follow-me [UNCLEAR]. Can you see it? Okay, so over here, as you can see, in the follow-me part, I'll explain you how do we solve this question in the formal method as well as by jottings. Okay? [unclear]",00:01:33
+kjnekxq,28,student,Uh-huh.,00:01:56
+kjnekxq,29,tutor,"Okay, so then when I'm done, I'll ask you to give it a try and solve the your turn question by yourself. Okay? So can I start explaining the follow-me question?",00:01:59
+kjnekxq,30,student,Yeah.,00:02:11
+kjnekxq,31,tutor,"So it says, let's use jottings and then the formal method to solve this calculation. So for the first method— [unclear]",00:02:12
+kjnekxq,32,student,Yes.,00:02:23
+kjnekxq,33,tutor,Can you continue?,00:02:24
+kjnekxq,34,student,Huh?,00:02:29
+kjnekxq,35,tutor,"Okay. So for the jottings method, what we need to do is the number that we can see, the bigger number, we need to partition in two different ways. Okay?",00:02:30
+kjnekxq,36,student,Yeah.,00:02:41
+kjnekxq,37,tutor,"So as you can see, we have 36 multiplied by 2. So we'll be partitioning the number 36 in two ways. So can we write the number 36 as 30 and 6 separately? [unclear] Can you do that?",00:02:42
+kjnekxq,38,student,Uh-huh.,00:03:00
+kjnekxq,39,tutor,"Yes, and after partitioning them separately, since we need to multiply it by 2, so we'll multiply both the numbers separately by 2, okay? So we'll do 30 times 2, which is— can you tell me? [unclear]",00:03:01
+kjnekxq,40,tutor,Give it a try. What is 30 times 2? [unclear],00:03:29
+kjnekxq,41,student,Not sure.,00:03:44
+kjnekxq,42,tutor,It's all right. Give it a try. I'll help you out. How would you solve 30 times 2? [unclear] What is 3 times 2? [unclear] Yes?,00:03:46
+kjnekxq,43,student,6.,00:04:05
+kjnekxq,44,tutor,"6, eh? Yes, exactly. So 30 times 2 is 60, and similarly below we also need to perform 6 times 2, which is?",00:04:07
+kjnekxq,45,student,12.,00:04:19
+kjnekxq,46,tutor,"Yes, so it means after using the jotting methods and multiplying the numbers separately, the final step would be we need to add them together. So we'll do 60 12, which gives us a total of? Yes,",00:04:20
+kjnekxq,47,student,[unclear],00:04:41
+kjnekxq,48,tutor,"very good. So it means if you use the jottings method over here, So the answer for 36 times 2 will be 72. Is it clear? [unclear] And now similarly, we'll be solving the same calculation but with the formal method. Have you ever tried this formal method before?",00:04:42
+kjnekxq,49,student,Yeah.,00:05:00
+kjnekxq,50,tutor,Okay. So the first thing is we always need to start by multiplying the numbers in the ones column. So what will be 2 times 6?,00:05:02
+kjnekxq,51,student,"Um, 12.",00:05:13
+kjnekxq,52,tutor,"12, very good. So we write the 2 over here and 1 below. Is it correct?",00:05:14
+kjnekxq,53,student,Yeah.,00:05:21
+kjnekxq,54,tutor,"Okay, and then we need to multiply the number in the tens column. So what is 2 times 3?",00:05:22
+kjnekxq,55,student,6.,00:05:30
+kjnekxq,56,tutor,"6. And as you can see over here, we have 1 below which we need to add them. So what will be 6 1? [unclear]",00:05:31
+kjnekxq,57,student,70.,00:05:40
+kjnekxq,58,tutor,"70, yes. So as you can see, even if you follow the jottings or the formal method, we are getting the same answer. Just the way of solving them is a bit different. Is it clear?",00:05:42
+kjnekxq,59,student,Yeah.,00:05:53
+kjnekxq,60,tutor,"Alright, Callum, so now I want you to solve this question by yourself, and in case if you need any kind of help, you can ask me as well, okay?",00:05:55
+kjnekxq,61,student,Yeah.,00:06:03
+kjnekxq,62,tutor,Good luck.,00:06:04
+kjnekxq,63,student,"So 4 times 3— no, no, 34 times 3. [unclear] 30. [Speaker:Tutor]...time. [UNCLEAR]",00:06:06
+kjnekxq,64,student,No.,00:06:40
+kjnekxq,65,tutor,Yes. [unclear] [unclear],00:06:41
+kjnekxq,66,student,[unclear] [unclear],00:07:10
+kjnekxq,67,student,[unclear] [unclear],00:07:11
+kjnekxq,68,student,Yes.,00:07:25
+kjnekxq,69,tutor,I can't hear you.,00:07:28
+kjnekxq,70,background,"Yes, you need any help?",00:07:32
+kjnekxq,71,student,No.,00:07:35
+kjnekxq,72,background,"You're doing it correct? Yes. Line, and then a 0 after the number line, which will be?",00:07:36
+kjnekxq,73,student,Non c'è.,00:07:51
+kjnekxq,74,tutor,"Yes, well done. [unclear] [unclear]",00:07:52
+kjnekxq,75,student,12.,00:08:22
+kjnekxq,76,tutor,"Yes, that is the correct answer. Very good once again. And then now what will be the next step to find the final answer?",00:08:24
+kjnekxq,77,student,Add 60 to the end 12. [unclear],00:08:39
+kjnekxq,78,tutor,"Yes, exactly. Excellent focus. So this will give you your final answer as?",00:08:46
+kjnekxq,79,student,90. Oh my God.,00:08:59
+kjnekxq,80,tutor,It's all right.,00:09:01
+kjnekxq,81,student,It's a plus.,00:09:02
+kjnekxq,82,tutor,"Yes, you can use the Shift key and then Press the equal to sign once again. Press the Shift key and then press the equal to sign. So you'll get the addition sign over there. [unclear]",00:09:04
+kjnekxq,83,tutor,Yes. Which will be?,00:09:29
+kjnekxq,84,student,"Um, 103.",00:09:39
+kjnekxq,85,tutor,"Yes, very good. Awesome effort. So that would be the answer when we use the jottings method. And now similarly, I want you to use the formal method and get me the answer as well. Okay? [unclear] Good luck. [unclear] [Speaker:Tutor]...3. [UNCLEAR] [Speaker:Tutor]...4 times 3. [UNCLEAR] [unclear] [unclear] [unclear] [unclear] [Speaker:Tutor]...3. [unclear] [Speaker:Tutor]...4 times 3. [unclear] [unclear] [unclear] [unclear] [unclear] [Speaker:Tutor]...Yes, Callum, you're doing it correct. Come on. What is 3 times 3?",00:09:44
+kjnekxq,86,student,3 times— 4 times 3 is 12.,00:11:07
+kjnekxq,87,tutor,"Yes, that is correct. And then we need to multiply 3 times 3, which is?",00:11:11
+kjnekxq,88,student,"Um, 6.",00:11:18
+kjnekxq,89,tutor,"Now 3 times 2 is 6, Callum. We need to find what is 3 times 3.",00:11:23
+kjnekxq,90,student,9.,00:11:33
+kjnekxq,91,tutor,"Yes, and 9 and the 1 below will give you?",00:11:34
+kjnekxq,92,student,"Um, 10.",00:11:40
+kjnekxq,93,tutor,"Yes, so you need to write 10 over there. And what's your final answer?",00:11:42
+kjnekxq,94,student,"Um, 102.",00:11:47
+kjnekxq,95,tutor,"Exactly. Very well done as well as good working out. I hope you are able to understand how do we solve these two questions. Alright, so before we move on to a new slide, for now please let me know if you would like to ask any questions till here. [unclear]",00:11:50
+kjnekxq,96,tutor,Are you sure?,00:12:13
+kjnekxq,97,student,Mm-hmm.,00:12:14
+kjnekxq,98,tutor,"Okay, so far we have understood how do we multiply two-digit numbers. In the jottings as well as the formal method over here. Okay?",00:12:15
+kjnekxq,99,student,Yeah.,00:12:25
+kjnekxq,100,tutor,"All right, so for now we'll be moving on to a you-do question. Let me know if you can see it.",00:12:27
+kjnekxq,101,student,Yes.,00:12:34
+kjnekxq,102,tutor,"Okay, so we have 4 different calculations for you, Callum. I want you to solve it either with jottings or using a formal method, whichever method you're comfortable with. Okay?",00:12:35
+kjnekxq,103,student,Mm-hmm.,00:12:47
+kjnekxq,104,tutor,"And you can take your time. We don't need to hurry. And in case if you need any kind of help or explanation, I'm there. Okay?",00:12:48
+kjnekxq,105,student,Uh-huh.,00:12:56
+kjnekxq,106,tutor,Good luck. [unclear] [unclear],00:12:57
+kjnekxq,107,tutor,40.,00:13:14
+kjnekxq,108,student,6. [unclear] 46.,00:13:45
+kjnekxq,109,tutor,"Yes, that is the correct answer. Wonderful. [unclear]",00:13:48
+kjnekxq,110,student,[unclear] [unclear],00:14:05
+kjnekxq,111,student,[unclear] [unclear],00:14:15
+kjnekxq,112,student,12.,00:14:36
+kjnekxq,113,background,"But no, not 12.",00:14:39
+kjnekxq,114,tutor,"What you did was a bit correct. You need to do 4 times 3, which is 12, and then you add a 0 after the number 12. [Speaker:Tutor]... [UNCLEAR]",00:14:50
+kjnekxq,115,student,120.,00:15:01
+kjnekxq,116,tutor,"Yes, very good.",00:15:02
+kjnekxq,117,student,123.,00:15:03
+kjnekxq,118,tutor,Yes. So good working out once again. You're doing great. Keep up the good work.,00:15:15
+kjnekxq,119,student,"1, 2, 3, 4, 5, 6, 7, 8. [unclear] [unclear]",00:15:25
+kjnekxq,120,student,18.,00:15:49
+kjnekxq,121,student,78.,00:16:21
+kjnekxq,122,tutor,"Yes, that is the correct answer. Well done once again. [unclear] [unclear]",00:16:21
+kjnekxq,123,tutor,Yes. Okay then.,00:17:10
+kjnekxq,124,tutor,So how did you like these 4 questions? [unclear] How did you like these 4 questions? Was it easier for you to solve?,00:17:33
+kjnekxq,125,student,Yeah.,00:17:42
+kjnekxq,126,tutor,"Okay. So awesome effort once again, Callum. You have done tremendously well in solving all of these questions by yourself. Congratulations.",00:17:44
+kjnekxq,127,student,Thank you.,00:17:55
+kjnekxq,128,tutor,You're welcome. So please let me know if you have any questions till here that you would like to ask.,00:17:56
+kjnekxq,129,student,"Uh, no.",00:18:03
+kjnekxq,130,tutor,"Okay, that's great. So now since we are done with the [unclear] slide, I'll give you one more question which will be in the Go Further slide. Let me know if you can see that.",00:18:06
+kjnekxq,131,student,Yeah.,00:18:18
+kjnekxq,132,tutor,"Okay, so I want you to read out the question. Take your time, and if you're able to solve it, you can go ahead and give it a try as well. OK?",00:18:19
+kjnekxq,133,student,Yep.,00:18:28
+kjnekxq,134,tutor,Good luck.,00:18:29
+kjnekxq,135,student,Pocky's got 3 sets of coloured pencils for his birthday. Each pack contains 27 coloured pencils. How many coloured pencils does he have in total? [unclear] 3 times 27. [unclear],00:18:30
+kjnekxq,136,student,[unclear] [unclear],00:18:54
+kjnekxq,137,student,[unclear],00:19:11
+kjnekxq,138,tutor,Oh. [unclear],00:19:50
+kjnekxq,139,student,81.,00:20:10
+kjnekxq,140,tutor,"Yes, very good. So how many colored pencils does he have in total?",00:20:13
+kjnekxq,141,student,81.,00:20:19
+kjnekxq,142,tutor,"Yes, exactly. All right, so excellent focus and good understanding in identifying that we need to multiply these two questions— these two numbers together so that we can get the final answer, which is 81. Okay. All right then. So with this, Callum, we have completed our first lesson. Okay?",00:20:20
+kjnekxq,143,student,Yeah.,00:20:45
+kjnekxq,144,tutor,"And since we have more amount of time left, we'll be moving on to a new lesson. Are you ready?",00:20:46
+kjnekxq,145,student,Yeah.,00:20:51
+kjnekxq,146,tutor,"Okay, so please let me know if you can see a new lesson.",00:20:53
+kjnekxq,147,student,Mm-hmm. Can you see it?,00:20:57
+kjnekxq,148,student,Yep.,00:21:02
+kjnekxq,149,tutor,"Okay, so the next lesson is about solving real-life problems with bar models. So to begin with, we have two different questions for you. I want you to give it a try. Take your time and get me the answer for these two questions. Can you try it once?",00:21:03
+kjnekxq,150,student,Yep.,00:21:19
+kjnekxq,151,tutor,"Okay, good luck. [unclear] [Speaker:Tutor]...buys 5 jars of sweets. There are 35 sweets in each jar. How many sweets does he buy altogether? [UNCLEAR] [Speaker:Tutor]...buys 5 jars of sweets. There are 35 sweets in each jar. How many sweets does he buy altogether? [unclear] [unclear]",00:21:20
+kjnekxq,152,student,25.,00:22:19
+kjnekxq,153,tutor,"Yes, and now the last step would be?",00:22:44
+kjnekxq,154,student,"700 and [unclear] 107, no, 100.",00:22:51
+kjnekxq,155,tutor,Yes.,00:22:55
+kjnekxq,156,student,775.,00:22:56
+kjnekxq,157,tutor,"Yes, very good. So you can write the answer over here. Okay, so since you have given me the correct answer for the first question, over here. There's no need to solve the second question. We will be directly moving on to a Let's Learn slide. Okay?",00:22:58
+kjnekxq,158,student,Yeah.,00:23:16
+kjnekxq,159,tutor,"Alright, so let me know if you can see a slide which says Let's Learn.",00:23:18
+kjnekxq,160,student,Yeah.,00:23:23
+kjnekxq,161,tutor,"It says, when solving multiplication and division problems, a bar model is a useful tool. So we have a first question which says,",00:23:25
+kjnekxq,162,tutor,"Sam buys 5 packs of football stickers. Each packet contains 15 football stickers. How many football stickers does he buy altogether? [unclear] Alright, so if you look at the question clearly, we have a bar model as well, which denotes that one packet has 15 football stickers. So we need to count how many football stickers does he have in 5 5 packets, okay?",00:23:35
+kjnekxq,163,student,Mm-hmm.,00:24:02
+kjnekxq,164,tutor,"So what we need to do simply over here is since one packet contains 15 football stickers, then we need to find the total of 5 pack of football stickers. So we need to do 15 times 5.",00:24:03
+kjnekxq,165,student,Yeah.,00:24:15
+kjnekxq,166,tutor,"So as you are using the jotting method clearly, so for multiplying or finding 15 times 5, what we can do is We can do 10 times 5, which is— what is 10 times 5, Callum?",00:24:17
+kjnekxq,167,student,[unclear] What's it called again? 50.,00:24:35
+kjnekxq,168,tutor,"Yes, 50. And then we have the 5 left with us, so we need to do 5 times 5, which will give us 25.",00:24:45
+kjnekxq,169,student,Yeah.,00:24:53
+kjnekxq,170,tutor,"And then after adding together, we can see that 50 and 25 will give us 75, which will be the final answer for this question. Is it clear?",00:24:55
+kjnekxq,171,student,Yeah.,00:25:06
+kjnekxq,172,tutor,"And similarly, it says if we have a bar model like this where we have the value of a whole particularly, and it is being divided into, let's say, 3 parts. Or n number of parts depending upon the question. So what do we need to do is we need to find— we know, already know that the value of one part over here is 15. And how many parts do we have in total? 1, 2, 3, 4, 5. So since the value of one part is 15, we need to do 15 times 5, which will give us the answer of whole bar model, which is 75. [unclear]",00:25:07
+kjnekxq,173,tutor,Okay. Here. Okay?,00:25:43
+kjnekxq,174,student,Yeah.,00:25:45
+kjnekxq,175,tutor,"All right, so this was the first part of the question where we were understanding multiplication with the help of bar model. Is it clear? Okay, and the next question says Peter sells 125 flowers. Jane sells 3 times the number of flowers Peter sells. How many flowers does Jane sell? So first of all, in these 3 lines or 3 statements, can you tell me what are the keywords that are important for us to understand?",00:25:46
+kjnekxq,176,student,"Um, 125 flowers and the 3 times [UNCLEAR]. [Speaker:Tutor] Yes, yes, exactly. So 125 flowers and 3 times. And as you can see, if you look at the bar model once again, it says one path has a value of 125 flowers. So we will write it over here. And Jane sells how many times of [unclear] flowers? How many times do we have?",00:26:21
+kjnekxq,177,student,3.,00:26:50
+kjnekxq,178,tutor,Yes. So we need to do 125 times 3. And then can you tell me how can we solve it further?,00:26:50
+kjnekxq,179,student,I couldn't really hear. It was a bit glitchy there.,00:27:04
+kjnekxq,180,tutor,"Okay, not a problem. I asked, can you tell me how can we solve it further after identifying that we need to multiply? How can we solve it further to get the answer? [Speaker:Callum]... [UNCLEAR]",00:27:07
+kjnekxq,181,tutor,"Yes, give it a try. I'll help you out. I just want to know your understanding over here. How would you solve it? [Speaker:Tutor]... Common number, give it a try. I will help you out. No need to worry. [Speaker:Callum] [unclear]",00:27:17
+kjnekxq,182,tutor,"Since we have 100 tens and ones, can we multiply them separately and add them together?",00:27:31
+kjnekxq,183,student,Um...,00:28:04
+kjnekxq,184,tutor,Can we do that?,00:28:07
+kjnekxq,185,student,Yeah.,00:28:09
+kjnekxq,186,tutor,"Okay, so can you tell me how many hundreds do we have for this question?",00:28:10
+kjnekxq,187,student,Um... one. [unclear],00:28:14
+kjnekxq,188,tutor,"We are talking about hundreds, so there is only one hundred over here, okay?",00:28:18
+kjnekxq,189,student,Yeah.,00:28:22
+kjnekxq,190,tutor,"So first what we'll do is we'll do 100 multiplied by 3, which gives us 300. Is it correct?",00:28:23
+kjnekxq,191,student,Yeah.,00:28:30
+kjnekxq,192,tutor,And then how many tens do we have in 125?,00:28:30
+kjnekxq,193,student,2.,00:28:36
+kjnekxq,194,tutor,"2. So it means 20. So we need to do 20 times 3, which will give us?",00:28:37
+kjnekxq,195,student,[unclear] 6.,00:28:42
+kjnekxq,196,tutor,"Yes, 6 and a 0, so 60. And then lastly, how many ones do we have?",00:28:48
+kjnekxq,197,student,5.,00:28:56
+kjnekxq,198,tutor,"5, very good. So we'll write 5 times 3, which is?",00:28:56
+kjnekxq,199,student,15.,00:29:01
+kjnekxq,200,tutor,"15, very good. And lastly, we need to add all of them together. Can you add and let me know what would be the total? [unclear] [unclear]",00:29:03
+kjnekxq,201,tutor,"If you need help, please let me know.",00:29:40
+kjnekxq,202,student,Mm-hmm. So 300. [unclear],00:29:43
+kjnekxq,203,tutor,"If you're adding them, you always need to start with the ones column. So if you see over here, we have 0 add 0, 0 at 5, which is?",00:30:06
+kjnekxq,204,student,"Um, 5.",00:30:17
+kjnekxq,205,tutor,"5, very good. And then in the tens column, we have 0 at 6, which is?",00:30:19
+kjnekxq,206,student,"Um, 6.",00:30:25
+kjnekxq,207,tutor,At 1?,00:30:27
+kjnekxq,208,student,7.,00:30:29
+kjnekxq,209,tutor,"7. And in the hundreds column, we only have number 3. So what is 3 at nothing?",00:30:31
+kjnekxq,210,student,3.,00:30:36
+kjnekxq,211,tutor,3. So the final answer over here would be?,00:30:37
+kjnekxq,212,student,375.,00:30:40
+kjnekxq,213,tutor,"Yes, so Jane sells 375 flowers. Okay, so this is how we can understand and approach different multiplication questions using the bar model. Is it clear?",00:30:42
+kjnekxq,214,student,Yeah.,00:30:57
+kjnekxq,215,tutor,"All right, so what I want you to do is I want you to go through these two questions once again. And in case if you need to ask any questions, please let me know, or else we can move on to the next slide. Okay, take your time and let me know if you want any explanation, or can we move on to the new slide? [Speaker:Callum]... [UNCLEAR]...qualification as scaling, where one quality is a mode Multiple of never stands for 3 times the amount. [unclear]",00:30:59
+kjnekxq,216,tutor,"Yes, Callum, tell me.",00:31:50
+kjnekxq,217,student,"This model shows the concept of...as scaling where quantity is a multiple of [UNCLEAR]. [Speaker:Tutor] Yes, just the question like we did over here. It says the white colored bar model stands for amount, which says it has 125. And since Jane sells 3 times, it will be 125, 125, and 125. So what we have done is we have multiplied it 3 times. Or if we add them to [unclear] as well, we'll get the same answer, which is 375. Okay?",00:31:53
+kjnekxq,218,student,Yeah.,00:32:31
+kjnekxq,219,tutor,"All right, so can we move on to a new slide?",00:32:33
+kjnekxq,220,student,Yep.,00:32:37
+kjnekxq,221,tutor,"Okay, so particularly in this slide, we understood how to use the bar model for multiplication. And now in the next slide, we will be understanding how do we use the bar model for division as well.",00:32:39
+kjnekxq,222,student,Yeah.,00:32:51
+kjnekxq,223,tutor,"Okay, so before we start for the division problem, how confident are you with the division part?",00:32:52
+kjnekxq,224,student,"Uh, I'm like [unclear] not a lot of confidence in that.",00:32:58
+kjnekxq,225,tutor,"Okay, but do you find it easy to understand the division questions?",00:33:05
+kjnekxq,226,student,Yeah.,00:33:10
+kjnekxq,227,tutor,"All right, that's great. So for now, what we'll be doing is I'll explain continue the follow-me part of this question, and then when I'm done, I'll ask you to solve the [unclear] part by yourself. Okay?",00:33:12
+kjnekxq,228,student,Mm-hmm.,00:33:23
+kjnekxq,229,tutor,"All right, so it says let's look at the sharing model for division. So over here, these two questions are based on sharing model for division. So what do we need to do is a farmer picks 525 apples from her field She puts them equally into 5 crates. How many apples does she put in each crate? The first thing is we need to draw a bar model to show the problem. So as we can see, we have a bar model over here already. So it says 525 apples are equally distributed into 5 crates. Okay?",00:33:26
+kjnekxq,230,student,Mm-hmm.,00:34:04
+kjnekxq,231,tutor,And we need to find how many apples does she put in each crate? So can you tell me what are the keywords for this question over here?,00:34:06
+kjnekxq,232,student,"Um, he picks 525 apples. [unclear]",00:34:15
+kjnekxq,233,tutor,"Yes, very good.",00:34:19
+kjnekxq,234,student,And 5 crates.,00:34:21
+kjnekxq,235,tutor,"All right, and other than that, we have one more keyword over here which says each crate. Can you tell me what do you mean by each crate? What do we mean by the word each?",00:34:25
+kjnekxq,236,student,Like...,00:34:43
+kjnekxq,237,tutor,"Yes? It's alright, express your thoughts, Callum.",00:34:46
+kjnekxq,238,student,It's like a group. [unclear],00:34:52
+kjnekxq,239,tutor,"Okay, yes, fair enough. So the word each over here means we need to find How many apples does go in one crate? Okay?",00:34:55
+kjnekxq,240,student,Mm-hmm.,00:35:05
+kjnekxq,241,tutor,"So we are— what we'll be doing is, since we have 525 apples in total and we need to find the value of each or one crate, we need to divide it by 5. Why 5? Because there are 5 crates. Okay?",00:35:06
+kjnekxq,242,student,Yeah.,00:35:21
+kjnekxq,243,tutor,"And other than that, how would you solve this division part? Or do you want me to explain this in the partitioning way?",00:35:22
+kjnekxq,244,tutor,"Tell me, are you comfortable with the bus stop method, or do you want me to explain in the partition way?",00:35:33
+kjnekxq,245,student,"I've learnt about the bus stop method, but not a lot of times, so I'm not really like— I'm not really sure.",00:35:39
+kjnekxq,246,tutor,"Okay, so you're not sure about the bus stop method? [unclear] Okay, not a problem. So what we'll be doing is we will partition the number 525 into 2 different numbers. Okay?",00:35:45
+kjnekxq,247,student,Yeah.,00:35:58
+kjnekxq,248,tutor,"The first number would be, since we have 500s, we will do 500 divided by 5, and the remaining part will be 25 divided by 5. Can you see it?",00:35:58
+kjnekxq,249,student,Yeah.,00:36:12
+kjnekxq,250,tutor,"Okay, so now I want you to tell me, what do we get if we do 500 divided by 5?",00:36:13
+kjnekxq,251,tutor,"Take your time, give it a try. [unclear] [unclear]",00:36:33
+kjnekxq,252,tutor,So 500 divided by 5 means— when do we get the number 500 in the 5 times table?,00:36:56
+kjnekxq,253,student,"Um— 2— no, 5 times 5 is— no, 200 and— [unclear]",00:37:03
+kjnekxq,254,tutor,"All right, so I'll just try explaining you the bus stop method. Would that be okay?",00:37:28
+kjnekxq,255,student,Mm-hmm.,00:37:33
+kjnekxq,256,tutor,"Okay, so let's just say I'll just draw the bus stop method.",00:37:35
+kjnekxq,257,tutor,"So we have 525 over here, and then we need to divide it by 5. So any idea how would you proceed for this bus stop method?",00:37:42
+kjnekxq,258,student,[unclear] 525.,00:37:56
+kjnekxq,259,tutor,Very good. So when do we get the number 5 in the 5 times table?,00:37:59
+kjnekxq,260,student,5. [unclear],00:38:08
+kjnekxq,261,tutor,When we multiply it by which number?,00:38:09
+kjnekxq,262,student,1.,00:38:14
+kjnekxq,263,tutor,"Yes, so we write 1 above, and then since 5 times 1 is 5, this gets cancelled. It has no remainder. So the next number is 2. Do we get the number 2 in the 5 times table?",00:38:15
+kjnekxq,264,student,No.,00:38:29
+kjnekxq,265,tutor,"No. So what we do is we take a 0 Similarly, we cancel out the number 2, so number right next to it becomes 25. Okay?",00:38:30
+kjnekxq,266,student,Mm-hmm.,00:38:39
+kjnekxq,267,tutor,"And now, do we get 25 in the 5 times table?",00:38:40
+kjnekxq,268,student,Yes.,00:38:44
+kjnekxq,269,tutor,Very good. Where do we get that?,00:38:45
+kjnekxq,270,student,Um... [unclear] 5.,00:38:49
+kjnekxq,271,tutor,"Yes, so it means the final answer over here would be",00:38:56
+kjnekxq,272,student,105.,00:39:03
+kjnekxq,273,tutor,"105 in total. If you look at the above number over here, that would be the final answer, which is in each crate she puts 105 apples. Okay, is it clear?",00:39:04
+kjnekxq,274,student,Yeah.,00:39:21
+kjnekxq,275,tutor,"All right, so do you want me to erase this, or do you want me to",00:39:21
+kjnekxq,276,tutor,"Say this over here, the bar model. Sorry, the bus stop method.",00:39:28
+kjnekxq,277,student,"That's it, Gideon.",00:39:34
+kjnekxq,278,tutor,"Okay, so I'll just erase it for now. So similarly, I want you to read out the [unclear] question. Give it a try, and in case if you need help, we'll solve it together, okay?",00:39:36
+kjnekxq,279,student,"3 children share 400— no, 48 stickers",00:39:48
+kjnekxq,280,tutor,How many stickers do they get each? Draw a bar model to show the problem. [unclear],00:39:53
+kjnekxq,281,tutor,How many stickers do you have? [unclear] [unclear],00:40:19
+kjnekxq,282,tutor,So any idea how would you solve this?,00:40:52
+kjnekxq,283,student,Could I draw up my free-tofotables to help?,00:41:04
+kjnekxq,284,tutor,"Yes, you can.",00:41:08
+kjnekxq,285,tutor,"So for now, I'll just write that we need to do 48 divided by 3. [unclear]",00:41:13
+kjnekxq,286,student,"So 3, 6, [unclear]",00:41:21
+kjnekxq,287,tutor,Can I say something?,00:41:43
+kjnekxq,288,student,"Um, 15. 16, 17, 18. Okay,",00:42:03
+kjnekxq,289,tutor,"but if we keep on writing the 3 times table, it might take a lot of time over here, Callum. So can I suggest that we could try the or [unclear] try the burst of method once again? Yeah.",00:42:11
+kjnekxq,290,student,"Okay,",00:42:24
+kjnekxq,291,tutor,"so I'll just try it out for you. Just help me with the multiplication. Can you do that? Yes, we have 48 and then we have— we need to divide it by 3. So do we get the number 4 in the 3 times table?",00:42:25
+kjnekxq,292,student,"Um, no.",00:42:40
+kjnekxq,293,tutor,No. So what is the number that we can take? 3 times? [unclear] Give it a try.,00:42:42
+kjnekxq,294,student,4 is not in the 3 times tables.,00:43:01
+kjnekxq,295,tutor,"Yes, so we need to take a number which is less than 4 and also comes into the 3 times table, which will be 3.",00:43:04
+kjnekxq,296,student,[unclear],00:43:12
+kjnekxq,297,tutor,"Yes, so can we say 3 times 1 is 3?",00:43:13
+kjnekxq,298,student,Yeah.,00:43:17
+kjnekxq,299,tutor,"So 3 times 1 is 3, but we have a 4 over here. So how much more do we have if we do 4 take away 3? [unclear]",00:43:18
+kjnekxq,300,student,1.,00:43:27
+kjnekxq,301,tutor,"1. So we cancel out the 4, and that number 1 goes with the number 8, so this becomes 80. And now do we get 18 in 3 times table?",00:43:28
+kjnekxq,302,student,"Um, yes.",00:43:38
+kjnekxq,303,tutor,Very good. When do we get that?,00:43:42
+kjnekxq,304,student,6.,00:43:47
+kjnekxq,305,tutor,"Exactly. So it means 48 divided by 6— sorry, 3 will give you your answer Answer is 16 stickers. Okay?",00:43:49
+kjnekxq,306,student,Yeah.,00:43:59
+kjnekxq,307,tutor,"Alright, so for today what we'll be doing is, since we are running out of time, we'll be stopping it over here. Is that okay, Callum?",00:44:01
+kjnekxq,308,student,Yeah.,00:44:09
+kjnekxq,309,tutor,"Alright, so you have done exceptionally well in today's session, Callum. Thank you very much for being such a wonderful student. I'll see you soon once again. Till then, bye-bye, take care.",00:44:11
+kjnekxq,310,student,Bye.,00:44:22
+kjnekxq,311,tutor,Bye.,00:44:23

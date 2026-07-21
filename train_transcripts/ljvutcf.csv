@@ -1,0 +1,247 @@
+session_id,utterance_id,role,content,timestamp
+ljvutcf,0,tutor,Hello?,00:00:00
+ljvutcf,1,background,Hello?,00:00:00
+ljvutcf,2,student,Hello?,00:00:00
+ljvutcf,3,tutor,"Hey, Orion, can you hear me?",00:00:01
+ljvutcf,4,student,"Yeah, can you hear me?",00:00:03
+ljvutcf,5,tutor,"Nice, how are we doing today?",00:00:04
+ljvutcf,6,student,Good.,00:00:05
+ljvutcf,7,tutor,"Good, how has school been going?",00:00:06
+ljvutcf,8,student,Good.,00:00:09
+ljvutcf,9,tutor,"Good, what did you do today?",00:00:10
+ljvutcf,10,student,We did an arithmetic [UNCLEAR].,00:00:11
+ljvutcf,11,tutor,Mm-hmm.,00:00:15
+ljvutcf,12,student,And...,00:00:18
+ljvutcf,13,tutor,That's it?,00:00:21
+ljvutcf,14,student,We did a lot more lessons as well.,00:00:25
+ljvutcf,15,tutor,"All right, nice. And how was your weekend? What did you do?",00:00:29
+ljvutcf,16,student,Pardon?,00:00:32
+ljvutcf,17,tutor,How was your weekend?,00:00:33
+ljvutcf,18,student,My what?,00:00:35
+ljvutcf,19,tutor,Your weekend. Your Saturday and Sunday.,00:00:37
+ljvutcf,20,student,"Oh, okay. Yeah, I can. Okay, yeah, good.",00:00:43
+ljvutcf,21,tutor,"Good. All right, nice. Are you— you've been preparing for SATs these days, yeah?",00:00:46
+ljvutcf,22,student,Yeah.,00:00:52
+ljvutcf,23,tutor,How is it going?,00:00:53
+ljvutcf,24,student,Good.,00:00:55
+ljvutcf,25,tutor,Good. Are you prepared enough yet?,00:00:56
+ljvutcf,26,student,A bit more practice.,00:00:59
+ljvutcf,27,tutor,"Okay, are there any lessons you want to work on?",00:01:02
+ljvutcf,28,student,"Maths, definitely.",00:01:06
+ljvutcf,29,tutor,Maths.,00:01:07
+ljvutcf,30,tutor,Just maths?,00:01:07
+ljvutcf,31,student,Um...,00:01:09
+ljvutcf,32,tutor,Like what lessons in maths?,00:01:12
+ljvutcf,33,student,Um...,00:01:15
+ljvutcf,34,tutor,Is it division or is it fractions?,00:01:16
+ljvutcf,35,student,Fractions.,00:01:20
+ljvutcf,36,tutor,"Fractions, okay, alright, we might have some fractions coming up. Oh yeah, we do. So before that, let's start with our first lesson, rounding numbers to the nearest 10,000 and 100,000. So we actually almost finished this last week. We have one more slide to go.",00:01:21
+ljvutcf,37,student,Okay.,00:01:40
+ljvutcf,38,tutor,"How about we jump into this question? I think we tried this last week, but we didn't have time to finish. So you can try this again.",00:01:40
+ljvutcf,39,student,Okay. [unclear] [unclear],00:01:48
+ljvutcf,40,student,When it's not [unclear],00:02:02
+ljvutcf,41,tutor,Why don't you take your best guess and we can work from that? [unclear],00:02:36
+ljvutcf,42,tutor,"All right, good. I love the effort there. Very close. So let's go through the answer.",00:02:46
+ljvutcf,43,tutor,"So here they are saying when rounded to the nearest 10,000, it is 350,000. And to the nearest 100,000, it should be 400,000. So let's take a look at this one. So when you're rounding this number to the nearest 100,000, which column do we look at?",00:02:50
+ljvutcf,44,student,[unclear],00:03:06
+ljvutcf,45,background,"100,000.",00:03:09
+ljvutcf,46,tutor,"We are rounding to the 100,000, which is the 3. Rounding to the 100,000, we look at the number on the right side.",00:03:09
+ljvutcf,47,student,"The 10,000.",00:03:16
+ljvutcf,48,tutor,"So since it's a 6, do we round it up or do we round it down?",00:03:19
+ljvutcf,49,student,Up.,00:03:25
+ljvutcf,50,tutor,"Perfect, you round it up. So when you round the 300,000 up, what would you get?",00:03:25
+ljvutcf,51,student,"400,000.",00:03:33
+ljvutcf,52,tutor,"There you go, very good. So in that case, this one would be correct, but this also should be correct with this number. So how do we need to round to the nearest 10,000? If we were to round to the nearest 10,000, which column are we going to look at?",00:03:35
+ljvutcf,53,student,"The hundred— [unclear] No, wait, the thousands.",00:03:48
+ljvutcf,54,tutor,"Amazing. We look at the thousands. Right now it's a zero. Since it's a zero, what do we do? Do we round it down or up?",00:03:52
+ljvutcf,55,student,Down.,00:04:00
+ljvutcf,56,tutor,"Very good. If you round it down, what do we get?",00:04:01
+ljvutcf,57,student,"350,000. We wouldn't get 350,000. So the thing with rounding down is the number stays the same, so the 6 would stay a 6.",00:04:03
+ljvutcf,58,student,"Oh, so 360,000.",00:04:18
+ljvutcf,59,tutor,"Exactly, it will be 360,000, but we need 350,000. So what should the digit in the ten-thousandth place be?",00:04:20
+ljvutcf,60,student,A 5.,00:04:28
+ljvutcf,61,tutor,"Perfect, it should be a 5. [unclear] And if the 10,000 is a 5, what should the digit in the thousands be?",00:04:30
+ljvutcf,62,student,[unclear],00:04:55
+ljvutcf,63,tutor,Pardon?,00:04:56
+ljvutcf,64,background,What should the digit in the thousands be?,00:04:57
+ljvutcf,65,student,[unclear],00:05:02
+ljvutcf,66,tutor,"It can be a 0, it can be a 1, it can be a 2, a 3, or a 4. It can't be a 5. If it was a 5, so you can pick any number basically. Um, so if I were to give you an example, usually typing something like this, um, I would say would be better than leaving it as 350,000. It's still correct.",00:05:02
+ljvutcf,67,tutor,But you can just put some random digit in as long as it rounds down to this and rounds up to this. Okay. All right. So did you get how we did this question here?,00:05:27
+ljvutcf,68,student,Yeah.,00:05:41
+ljvutcf,69,tutor,"Yeah. All right. So I think that should be it with our rounding lesson. So since we just did this one question, let's move on to our next lesson, which is going to be Comparing numbers with up to 2 decimal places. We're going to be learning with— working with decimals, but we are going to be comparing them. So do you want to try the learning goal first?",00:05:41
+ljvutcf,70,student,Okay. [unclear] [unclear],00:06:05
+ljvutcf,71,tutor,"Nice, very good. Why do you say it's Katie?",00:06:29
+ljvutcf,72,student,Because 2.9 is the biggest number.,00:06:32
+ljvutcf,73,tutor,"Good, there you go. 2.9 would be the biggest number. Do you want to try this as well? [unclear]",00:06:37
+ljvutcf,74,tutor,"Yeah, good.",00:06:44
+ljvutcf,75,student,How do you share the box?,00:06:59
+ljvutcf,76,background,No.,00:07:04
+ljvutcf,77,tutor,"There you go. Amazing. Really good job in doing these two independently enough, so I feel like you have a pretty good idea from this lesson. So I think we can skip to some questions. So how about we try A first? [unclear] I don't think that's too bad. I don't want to move back another load that I don't want.",00:07:09
+ljvutcf,78,tutor,Just a few soon.,00:07:44
+ljvutcf,79,student,"I've got some blue and silver. Yeah, yeah, I've got blue and silver things. Yeah, but you can get more, like, if you go [UNCLEAR], you know, you can hang something.",00:07:45
+ljvutcf,80,tutor,"Why do you say this would be 100? [unclear] Very good, perfect. That would be 1.25. [unclear]",00:08:02
+ljvutcf,81,student,"They need to go up quite high, don't they?",00:08:18
+ljvutcf,82,tutor,"Try that one more time. Check this one again. Very good, 1.05. [unclear]",00:08:30
+ljvutcf,83,student,Yeah.,00:08:58
+ljvutcf,84,tutor,Is that right?,00:08:58
+ljvutcf,85,background,"Exactly. Amazing. Good job in figuring out the digits as well, or the numbers. Now let's try B. [unclear] [unclear]",00:09:01
+ljvutcf,86,tutor,Very good. There you go. Amazing. Can you take me through your working for question B and C?,00:09:29
+ljvutcf,87,student,"So for question B, I know that 2.6 is bigger than 2.06.",00:09:52
+ljvutcf,88,tutor,"Okay, and here?",00:10:03
+ljvutcf,89,student,It had to be a bigger number than 0 because the other one is 0.8.,00:10:07
+ljvutcf,90,tutor,"And there you go, very good. All right, good explanation there, Orion.",00:10:13
+ljvutcf,91,tutor,So I think we can move on to our last question for this lesson. [unclear] [unclear],00:10:19
+ljvutcf,92,tutor,"Okay. So when they say who, they basically want the name of the person.",00:11:02
+ljvutcf,93,student,"Oh, okay. [unclear]",00:11:07
+ljvutcf,94,tutor,Did you say it's Lucy?,00:11:11
+ljvutcf,95,tutor,Why do you say it's Lucy?,00:11:36
+ljvutcf,96,student,Because it's 3.19.,00:11:38
+ljvutcf,97,tutor,"Uh-huh, but there's somebody who has jumped further.",00:11:43
+ljvutcf,98,student,Is it Jamal?,00:11:54
+ljvutcf,99,tutor,No. Jamal has jumped the least. He has jumped the shortest.,00:11:55
+ljvutcf,100,tutor,"No, it's not him either. So Jamal and Ronald, since their ones are 2s, they've automatically jumped the least. Since all the others have, uh, they're over 3 meters. Very good. It would be max. Why do you think it would be max?",00:12:17
+ljvutcf,101,student,Because it's 3.4.,00:12:39
+ljvutcf,102,tutor,"Yep. So, uh, what do you think, uh, you went wrong there? Like, why do you think you went wrong here?",00:12:43
+ljvutcf,103,student,Pardon?,00:12:51
+ljvutcf,104,tutor,"Uh, like, why do you think you went wrong here?",00:12:52
+ljvutcf,105,student,Because the last number is the big— the first and the last is big.,00:12:57
+ljvutcf,106,tutor,"Right, I think that's a common mistake that a lot of people make. I think just because this, it looks like a small number because it has only 2 digits. All of these have 3, so they kind of look larger. So what you can do is you can even put a 0 at the end. Or even here you can put a 0. So that makes them all 3-digit numbers, and it's much easier to compare. So yeah, good job in correcting that error there, Orion. And yeah, we are done with this lesson. So before we move on, could you give me a quick summary of what you learned here? [unclear]",00:13:02
+ljvutcf,107,tutor,What was this lesson about?,00:13:44
+ljvutcf,108,student,I learned that the biggest number isn't always the one with the most numbers.,00:13:46
+ljvutcf,109,tutor,"Right, exactly. There you go. Nice. So let's take a look at lesson number 3, I think. Yeah, 3 for the day. So multiplying and dividing whole numbers and decimals by 10 and 100. All right, so do you want to try the learning goal? [unclear] [unclear]",00:13:50
+ljvutcf,110,tutor,Perfect. Good. Did you work it out in your head?,00:14:51
+ljvutcf,111,student,"Yeah, kind of.",00:14:56
+ljvutcf,112,tutor,"And what was the working you did in your head? The point is here. So you jump 2 times, you jump backwards twice.",00:14:59
+ljvutcf,113,tutor,"Right, good. Okay.",00:15:09
+ljvutcf,114,student,"1, 2. So then the point would go there.",00:15:11
+ljvutcf,115,tutor,Interesting. So is it the point that moves or is it the numbers that move?,00:15:15
+ljvutcf,116,student,The point?,00:15:22
+ljvutcf,117,tutor,"It's actually the numbers. It looks like the point moves. So what actually happens is, Each of these go 2 places to the left. So you can think that the digit doesn't— the point doesn't move, but these go 2 to the left. But it kind of looks like the point moves, but it's actually the numbers that are moving to the left. So that's something to keep in mind. I like the method you did. I think it's easier to remember just to move the decimal place to the left.",00:15:24
+ljvutcf,118,student,"[unclear] decimal point 2 places to the right, but in reality it's the numbers that move. I think we can— we are going to see that using the place value chart. Do you want to try this as well?",00:15:54
+ljvutcf,119,student,[unclear],00:16:06
+ljvutcf,120,student,"Sorry, what was you saying?",00:16:21
+ljvutcf,121,tutor,"Oh, let's try this one. [unclear]",00:16:22
+ljvutcf,122,tutor,"Good. Now divide the number by 10. [unclear] And yeah, good job. Did you use the same method here?",00:16:56
+ljvutcf,123,student,Yeah.,00:17:19
+ljvutcf,124,tutor,"All right, amazing. Okay, so let's take a look at— I think we can just do some questions now again. Have you used the [unclear] chart before?",00:17:20
+ljvutcf,125,student,Pardon?,00:17:34
+ljvutcf,126,tutor,Have you used the [unclear] chart before? Something like this?,00:17:35
+ljvutcf,127,student,"Yeah, sometimes.",00:17:39
+ljvutcf,128,tutor,"All right, okay. So if you want, you can use it, or if you think you can do it in your head, you can work it out that way. [unclear]",00:17:40
+ljvutcf,129,tutor,"Nice, good. Now let's try question 2. [unclear] It. [unclear]",00:18:16
+ljvutcf,130,tutor,Is that divide by 10?,00:19:31
+ljvutcf,131,student,Mm-hmm.,00:19:32
+ljvutcf,132,tutor,"Mm-hmm, yes. You can find the division sign in the symbols tool. [unclear]",00:19:33
+ljvutcf,133,tutor,Okay. The division sign?,00:20:46
+ljvutcf,134,student,Is that the division sign?,00:20:51
+ljvutcf,135,tutor,This one?,00:20:53
+ljvutcf,136,student,Yeah.,00:20:54
+ljvutcf,137,tutor,That could be the percentage sign. So the division is the one to the left. That one.,00:20:55
+ljvutcf,138,student,Exactly.,00:21:00
+ljvutcf,139,tutor,Do you see a tool next to the point that says symbols?,00:21:04
+ljvutcf,140,student,"Yeah, I know what one it is. I'm just— [unclear] There we go.",00:21:11
+ljvutcf,141,tutor,"There you go. So you can type even like while you're in the symbols. There you go. But try that again. It is division, but it's not by 10. [unclear]",00:21:16
+ljvutcf,142,tutor,"Yeah, yeah.",00:21:44
+ljvutcf,143,student,because we can go for a 10-kilometer run.,00:21:44
+ljvutcf,144,tutor,Is that it?,00:21:44
+ljvutcf,145,background,"Yep, that would be divided by 100. Good.",00:21:55
+ljvutcf,146,tutor,But if we could bounce around the back.,00:22:03
+ljvutcf,147,student,Yeah. [unclear],00:22:11
+ljvutcf,148,tutor,"There used to be smokes under there, didn't there? Even if we made a hole in the Mercedes.",00:22:12
+ljvutcf,149,student,"Yeah. Yes, well. [unclear]",00:22:23
+ljvutcf,150,tutor,P is— try that again.,00:22:36
+ljvutcf,151,student,Is it still times?,00:22:40
+ljvutcf,152,tutor,"Yep, it is times. Since the number is getting larger. Yep, that would be 100.",00:22:44
+ljvutcf,153,tutor,Why do you say this would be divided by 10?,00:23:45
+ljvutcf,154,student,I changed my mind one second.,00:23:47
+ljvutcf,155,tutor,Okay.,00:23:49
+ljvutcf,156,student,I just realized that mistake. Would it be times? [unclear],00:23:50
+ljvutcf,157,tutor,"Yes, it would be times since the value or the number gets larger. So 0.12 is smaller than 1.2, so that would be times. [unclear] [unclear]",00:24:09
+ljvutcf,158,tutor,There you go. That would be divide by 10. All right.,00:24:44
+ljvutcf,159,student,Can I do these ones?,00:24:54
+ljvutcf,160,tutor,"Oh, you can do B and C.",00:24:56
+ljvutcf,161,tutor,"All right, good. Nice work in doing question 3 independently. All right, so let's try out one more question. [unclear] [unclear]",00:25:31
+ljvutcf,162,student,I'm a bit confused with that one.,00:26:27
+ljvutcf,163,tutor,All right. So do you want to read the question out loud?,00:26:30
+ljvutcf,164,student,A zookeeper weighs an adult gorilla and its baby. The adult gorilla has a mass of 300 kilograms. 149.3 kg. The baby gorilla has a mass of 1/10 of the size of the adult gorilla. How much does the baby gorilla weigh in kilograms?,00:26:37
+ljvutcf,165,tutor,"So we know the adult weighs 149.3, and the baby weighs 1/10 of the size. So when they say 1/10 of the size, what do we need to do there?",00:26:57
+ljvutcf,166,student,Do one-tenth of the adult size.,00:27:12
+ljvutcf,167,tutor,"Mm-hmm. But when they say one-tenth, is it division or is it multiplication?",00:27:17
+ljvutcf,168,student,Division.,00:27:23
+ljvutcf,169,tutor,"Division, very good. So when they say [UNCLEAR], what do you think it is divided by what?",00:27:24
+ljvutcf,170,student,10.,00:27:24
+ljvutcf,171,tutor,"10, there you go. So you divide 149.3 by 10.",00:27:27
+ljvutcf,172,tutor,Very good. You're missing something here.,00:28:32
+ljvutcf,173,student,Yeah. Oh. [unclear],00:28:35
+ljvutcf,174,tutor,"KG. Very good. Nice. There you go. So now you know what to do when they say one-tenth of something. So they can even say one-hundredth,",00:28:45
+ljvutcf,175,student,Yeah.,00:28:54
+ljvutcf,176,tutor,"Or they can say 10 times smaller, but they all mean the same thing. So good job there, Orion, and nice work in answering this question. And yeah, we are at the end of our third lesson, I think. We might have time for one more. So let's move on. I think it's fractions. So we are going to be writing simple fractions as decimals. So a bit of converting.",00:28:54
+ljvutcf,177,tutor,"Yeah, that.",00:29:23
+ljvutcf,178,background,How's the learning go? Or is this something you want to work on?,00:29:23
+ljvutcf,179,student,Pardon?,00:29:26
+ljvutcf,180,background,Is this something you want to work on?,00:29:29
+ljvutcf,181,student,Yeah.,00:29:30
+ljvutcf,182,background,"All right, nice, good. So let's try the learning go. All right. So it's not really that straightforward. So before we do this, do you want to do this one? [unclear]",00:29:31
+ljvutcf,183,tutor,6/10. Very good. How would you write 6/10 as a decimal?,00:29:57
+ljvutcf,184,student,6.10?,00:30:04
+ljvutcf,185,tutor,Close. So think of it as dividing the 6 by 10.,00:30:07
+ljvutcf,186,tutor,"Divide 6 by 10, what do you get?",00:30:14
+ljvutcf,187,student,Uh... [unclear],00:30:17
+ljvutcf,188,tutor,No. 0 point...,00:30:26
+ljvutcf,189,student,"Oh, 0.6?",00:30:31
+ljvutcf,190,tutor,"0.6. So if you find a tenth of something, It's much easier to write it as a decimal. So that's what we're going to do here. We have 2/5. So step 1 is to convert it into tenths. That's the ugliest 5 I've seen. So 2/5 equals how many tenths?",00:30:33
+ljvutcf,191,student,[unclear] 4 tenths.,00:30:58
+ljvutcf,192,tutor,4 tenths. Very good. And 4 tenths would be what as a decimal?,00:31:04
+ljvutcf,193,student,0.4?,00:31:09
+ljvutcf,194,tutor,"0.4, there you go. Make sense?",00:31:11
+ljvutcf,195,student,Yeah.,00:31:15
+ljvutcf,196,tutor,"Yeah, so this fraction looks nothing like the decimal because there's a small step you need to do in the middle. Okay, so let's jump into, uh, let's jump into this one. So this is an important, um, conversion that we can keep in mind. So before we get to this",00:31:15
+ljvutcf,197,tutor,"Here they are saying, when looking at equivalences between fractions and decimals, 100 grid is a useful diagram to use. So you've worked with 100 grid before?",00:31:35
+ljvutcf,198,student,Yeah.,00:31:47
+ljvutcf,199,tutor,"So here the 100 grid is divided into 4 equal parts. So each color is one part. So that's this. So in this yellow, in this quarter, how many parts do you see? [unclear]",00:31:47
+ljvutcf,200,tutor,"Just insert this one. So that's 5 here, 10, 15, 20, and then 25. So each quarter has 25, which means 1/4 is equal to 25 hundredths. So that's something very important we can keep in mind. Sometimes you might be asked to convert a quarter into a decimal. In that case, we can't really make it into a tenth because 4— we can't multiply 4 by anything to get a tenth. So we can use the hundred grid method. So good job, 1/4 is 25 hundredths.",00:32:13
+ljvutcf,201,tutor,What would 25 hundredths be as a decimal? Basically dividing 25 by 100. [unclear],00:32:51
+ljvutcf,202,tutor,"Perfect. So that would be 0.25. So now let's get to 3/4. So if 1/4 is 25 hundredths, 3/4 would be how many hundredths? [unclear] 3/4 would be 3 of these. So 1 has 25. How many would 3 have?",00:33:19
+ljvutcf,203,tutor,"Yeah, very good. So 7,500 would be what as a decimal? [unclear]",00:33:43
+ljvutcf,204,tutor,"Perfect, amazing. So that would be 0.75. And now let's get to 1/2. So 1/2 is 50 hundredths, 0.5 or 0.50. Did that make sense? [unclear] All right, nice. So when you see These 3 fractions, you already know what the decimals are. A quarter is 0.25, 3/4 is 0.75, 1/2 is 0.5. I think this is the easiest. We already know 1/2 is a [UNCLEAR]. So how about we get into our next slide, which is the follow me and the alternate slide. So I think you know how this works. The follow me part is for me to do. And then next you can try the [unclear] part. Okay?",00:34:09
+ljvutcf,205,student,Yeah.,00:35:02
+ljvutcf,206,tutor,"So let me explain how I do this one. So let's look at a different fraction. So here we have another 100 grid, but it's divided into 5 equal parts. So the 100 grid here has been divided into 5 equal parts since there are 5 colors. So if they're divided into 5 parts, each part shows 1/5. Since it's 1 out of 5. And in each chip, so there are something hundredths found within each shaded part. So let's say one color. So if this is 10, if one row is 10, there are 2 rows, so that will be 20. So there are 20 hundredths within each chip, which means 1/5 is equal to 20 hundredths.",00:35:02
+ljvutcf,207,tutor,"In other words, 1/5 equals— if it's 20 hundredths as a decimal, that would be 0.20. Or we can also write it as, instead of 1/5, we can do 20 hundredths. Make sense?",00:35:51
+ljvutcf,208,student,Yeah.,00:36:10
+ljvutcf,209,tutor,"All right, now it's your turn. [unclear]",00:36:10
+ljvutcf,210,tutor,"Check that part one more time. They're asking about one part. So if you take one of these, each part shows what fraction of the whole? Look at what I did. Would it be 10 over 10? When they say each part, what does each mean?",00:36:33
+ljvutcf,211,student,[UNCLEAR],00:36:33
+ljvutcf,212,tutor,"Each one. Each, exactly. It would be 1. So the numerator would be 1 and the denominator would be 10.",00:37:05
+ljvutcf,213,tutor,Since we are looking at one part out of the 10 parts in total. [unclear] [unclear],00:37:12
+ljvutcf,214,student,[UNCLEAR] [unclear],00:37:12
+ljvutcf,215,student,[unclear] There you go. Very good. That is correct. So can you take me through your working here?,00:37:12
+ljvutcf,216,student,"So for A, there's 10 equal parts. [unclear] Split into 10 colors.",00:39:10
+ljvutcf,217,tutor,Good.,00:39:22
+ljvutcf,218,student,"And for B, the bottom number is how many different colors there are. And at the top... [unclear]",00:39:23
+ljvutcf,219,background,"It's one because they're asking for each part, which is just one.",00:39:39
+ljvutcf,220,student,And then...,00:39:44
+ljvutcf,221,student,There are 10 hundredths found within each shaded part because there's 10 colored in.,00:39:46
+ljvutcf,222,tutor,Right.,00:39:54
+ljvutcf,223,student,So it's 10 times 10.,00:39:56
+ljvutcf,224,tutor,"Okay, so when— this is basically within each color, how many hundredths do you see? So one of these tiny squares is a hundredth. So in each colored part, there's 10 hundredths. That's what that means.",00:39:58
+ljvutcf,225,student,"Mm-hmm. And then for D, there's 10, which is making 100. So it would be 0.10.",00:40:13
+ljvutcf,226,tutor,"It would be 0.10 or 0.10. Good. All right, good explanation there, Orion. So I think we can end it here for today. We have around 2 minutes left. So how about we do a quick summary and let's call it a day. So we did around 3, 3.5 lessons today. Can you tell me a few points that you learned today?",00:40:26
+ljvutcf,227,student,I learned that— so the— [unclear],00:40:55
+ljvutcf,228,tutor,"I think we did rounding first, and then we did comparing decimals, I think.",00:41:07
+ljvutcf,229,student,"Oh yeah, for the rounding the decimals.",00:41:12
+ljvutcf,230,tutor,Mm-hmm.,00:41:15
+ljvutcf,231,student,"I learned that even if the number looks big, it might not be the biggest.",00:41:18
+ljvutcf,232,tutor,"Right, mm-hmm.",00:41:23
+ljvutcf,233,student,"And for this, I learned... [unclear] How to do like fractions.",00:41:27
+ljvutcf,234,tutor,"Right, we are converting fractions into decimals.",00:41:36
+ljvutcf,235,student,"Yeah, yeah, that's what I meant. Yeah.",00:41:39
+ljvutcf,236,background,I have a question. We learned this in the last slide. One quarter would be what as a decimal?,00:41:42
+ljvutcf,237,student,1.4?,00:41:49
+ljvutcf,238,background,"No, you remember the hundred grid where we divided it into 4 parts?",00:41:50
+ljvutcf,239,student,Pardon? You remember where we divided the 100 grid into 4 parts in the previous slide? And one part has how many hundredths? You remember this one?,00:41:57
+ljvutcf,240,student,Oh yeah.,00:42:15
+ljvutcf,241,tutor,So one quarter is what as a decimal?,00:42:16
+ljvutcf,242,student,0.25.,00:42:20
+ljvutcf,243,tutor,"There you go. 3/4 is 0.75. So you can memorize these 3 since they won't change. I think this is something that you do need to memorize unless you have 100 grid. But [unclear] something like this, you can work it out. You can convert it into a tenth and work it out that way. But yeah, I think that should be it for today. And yeah, let's continue this lesson next week. And yeah, good focus and keep up the good work. And I'll see you next week, okay?",00:42:23
+ljvutcf,244,student,"Okay, bye.",00:42:51
+ljvutcf,245,tutor,Bye-bye. [unclear],00:42:52

@@ -1,0 +1,256 @@
+session_id,utterance_id,role,content,timestamp
+alhksfs,0,background,[unclear],00:00:00
+alhksfs,1,tutor,"Hello? Hello? Hello? Can you hear me, Gideon?",00:00:00
+alhksfs,2,student,Yeah. Hello. Could you hear me?,00:00:05
+alhksfs,3,tutor,"Yes, yes, I can. I can. How are you?",00:00:08
+alhksfs,4,student,I'm good. How are you?,00:00:10
+alhksfs,5,tutor,"I'm fine. Thanks for asking. How was your day, Gideon?",00:00:12
+alhksfs,6,student,"Good. Is there anything that you would like to share? Is everything all right? Is everything all right, Gideon?",00:00:15
+alhksfs,7,student,"Yeah, my mic just stopped working.",00:00:29
+alhksfs,8,tutor,"Okay, shall we continue now?",00:00:32
+alhksfs,9,student,Yeah.,00:00:33
+alhksfs,10,tutor,"Okay then. So now today we are going to start this particular topic which we have started in our previous session. Okay, the topic was about solving linear simultaneous equations. So are you confident in this topic, Gideon?",00:00:35
+alhksfs,11,student,"Um, well, I'd say the last time I did it was maybe last year, so it might take a while to get used to them.",00:00:54
+alhksfs,12,tutor,"Yes, yes, so we will spend a lot of sufficient time over here so that you can get used to these questions. Okay, so this is your first exam style question. It is a 3 marks question. Okay, I want you to try out this question. Please go ahead.",00:01:01
+alhksfs,13,tutor,"Right, so 5d 4e. So because these are both 4e, do I keep them? Try [unclear]",00:01:18
+alhksfs,14,student,out the question. Try out the question. So,00:01:32
+alhksfs,15,tutor,you see how it's +4e and -4e? Correct.,00:01:35
+alhksfs,16,student,So,00:01:39
+alhksfs,17,tutor,I have to make them the same. Like symbol.,00:01:39
+alhksfs,18,tutor,Do we need to make them the same?,00:01:42
+alhksfs,19,student,Or you can just leave it as 4a.,00:01:44
+alhksfs,20,tutor,"Correct, you can just leave it like this. So like, just leave it like this, what will happen?",00:01:47
+alhksfs,21,student,"Right, I'll just write down the question just to make it easier. 4a equals 37. 4d minus 4e equals 8. So I'll leave the 4e, so do I subtract 4d from 5d?",00:01:52
+alhksfs,22,tutor,"Will you subtract 4d from 5d, or will you cancel out plus 4e minus 4e?",00:02:18
+alhksfs,23,student,"Oh yeah, oh yeah, because I have to add minus [unclear] to plus [UNCLEAR]. Yeah, so does that just— so is it just 4d equals 37, then 4d equals 8?",00:02:23
+alhksfs,24,student,So over there. [unclear],00:02:37
+alhksfs,25,tutor,So then is it like that? And then you are—,00:02:43
+alhksfs,26,background,"What have you done here, Gideon? Could you please tell me?",00:02:48
+alhksfs,27,student,I've cancelled out the e's.,00:02:51
+alhksfs,28,background,How can you cancel out these two 4 e's and then you can write them down individually?,00:02:53
+alhksfs,29,student,"Because for the +40, I've subtracted 40, and then for the -40, I've added 40. [unclear]",00:03:00
+alhksfs,30,tutor,"Okay, it was a very good try, Gideon. I'm going to give you this slide. I've already given you some hints here, okay? I want you to read out this particular statement, look at the slide, and try out the question one more time.",00:03:11
+alhksfs,31,tutor,"One of the most common methods of solving simultaneous equations is solving by elimination. We either add or subtract the equations in order to eliminate— get rid of— one of the unknowns. Eliminate e from a pair of equations by either adding or subtracting them. [unclear] So if I was to subtract 4e, do I have to subtract 4d from 5d as well? So do I subtract the whole of the bottom one from the top one?",00:03:26
+alhksfs,32,tutor,"You need to look at this as an equation. First of all, look at here. This is your first equation. This is your second equation. See what I have written here? First equation, second equation. Now you need to decide whether you will add these two equations together or whether you will subtract these two equations together. Okay, you have to make the decision for it. Now look at these, look at the terms in these two equations. The first one is +5d, then +4e, and then 37. The second equation is containing 4d 4e 8. Now what do you think? Can you eliminate 4e from both the equations? What you should do? Should you add these two equations or should you subtract these two equations? Already they",00:03:54
+alhksfs,33,student,[unclear],00:04:41
+alhksfs,34,tutor,"are in opposite sign. First equation is containing 4e in plus, Second equation is containing 4E in minus. So should you add these equations or subtract these equations?",00:04:41
+alhksfs,35,student,Should I add them?,00:04:51
+alhksfs,36,tutor,"Yes, because when you will add them, these signs will not change. This 5D will get added to 4D. This +4E will get— [unclear] I'm sorry, will get cancelled from -4E. Then 37 to 8. In this way, you can easily find out the value of D.",00:04:53
+alhksfs,37,tutor,Now you can go ahead.,00:05:10
+alhksfs,38,student,"So it would be 9D— oh, that's a 6— 9D 45. So then if I divide them both by 9, D 5. Absolutely right.",00:05:12
+alhksfs,39,tutor,"Now since you know the value of D now, can you tell me the value of E? Yeah, we",00:05:32
+alhksfs,40,background,"know it is— I'll redo the equation, but I'll substitute 5 in. So it's like 25 4e 37. Correct. Now",00:05:37
+alhksfs,41,tutor,"can you find out the value of e from this? You don't need to write in both [unclear] the equations. You just need to find out the value of e. Ah, yeah.",00:05:52
+alhksfs,42,student,"So because that's a positive 25, I'd subtract it from 37. So that's 4a 8. Then [unclear]",00:06:01
+alhksfs,43,tutor,what is going to be the value of e? And,00:06:16
+alhksfs,44,student,then e 2. Will it,00:06:18
+alhksfs,45,tutor,be 2? So the,00:06:23
+alhksfs,46,background,"law is the sector of a circle with the radius of 2 So I divide 8 by 4. What is 37 take away 25? How much is it? Oh, 12. [unclear]",00:06:29
+alhksfs,47,tutor,"Correct. This is [unclear] that we have done here. So E will be 3, not 2. So I want you to please carefully do the calculations, okay? Otherwise you will end up getting the wrong answers. All right, now there is most— there are two important things here, that by looking at these equations we have to analyze whether we need to add these two equations or subtract these two equations. Since these two equations containing 4E in opposite signs, that is why we have added them. Suppose they were in same sign, suppose— let me write down that quick. [unclear] Just give me a moment.",00:06:45
+alhksfs,48,tutor,"Okay, suppose this is the equation in front of",00:07:28
+alhksfs,49,background,"4d 5e 27. Then 4— sorry, 9d 5e 31. Now how will you solve these two equations? What do you think? So, well, because they're",00:07:34
+alhksfs,50,student,[unclear],00:07:48
+alhksfs,51,tutor,"both plus, correct? We would subtract them to cancel them out.",00:07:48
+alhksfs,52,tutor,"Correct. So when you will subtract them, what will happen to the second equation?",00:07:55
+alhksfs,53,student,[unclear],00:07:59
+alhksfs,54,tutor,"Correct. The signs will change. All the plus signs will change to negative signs. So this 90 will change to -90, this 5V will change to -5V, and this 31 will change to -31. Okay, now you can easily solve this equation. Yeah, this is what you need to be careful of. And one more thing, please be careful with your calculations. Only— there are only two important things that you should take care of. Now you can go ahead, try out this particular question. It is also a 3 marks question. Go ahead.",00:08:00
+alhksfs,55,student,And then for the perimeter... [unclear],00:08:33
+alhksfs,56,tutor,"Right, so I have to add them, which means the bottom becomes a negative, so I'll just write it down now. -9a 3b -45. So now, do I still add them? If you [unclear]",00:08:36
+alhksfs,57,tutor,"have written negative here, it basically means you are subtracting these two equations. Then only you can write down minus here.",00:09:12
+alhksfs,58,tutor,"So, [unclear] how is it possible?",00:09:19
+alhksfs,59,student,So it's like 5a minus minus 9a.,00:09:21
+alhksfs,60,tutor,"Correct, 5a minus 9a. How much will it be? 5a minus 9a.",00:09:25
+alhksfs,61,student,"5a minus 9a, minus 4a.",00:09:32
+alhksfs,62,tutor,Correct. And what is plus 3b minus 3b?,00:09:35
+alhksfs,63,student,Nothing.,00:09:40
+alhksfs,64,tutor,"Nothing, correct. They will cancel out.",00:09:41
+alhksfs,65,student,So then 29 minus 45.,00:09:43
+alhksfs,66,student,"So if I take away 29, that gives me 0... [unclear]",00:09:48
+alhksfs,67,tutor,"-16. Correct. So what is the value of a then? So a 4. Well done. So now what have you done here? Whether you have added these equations or subtracted these two equations, what have we done here? Subtracted.",00:09:53
+alhksfs,68,student,Correct.,00:10:12
+alhksfs,69,tutor,Now you can go ahead and tell me the value of b also.,00:10:12
+alhksfs,70,tutor,"So, if a is 4, so now we're there. So now I know a is 4, do I refer it back to the original equation? What do you think?",00:10:20
+alhksfs,71,student,Yeah.,00:10:33
+alhksfs,72,tutor,Please go ahead then.,00:10:34
+alhksfs,73,student,"Actually, I'll just use the top one because it's there. So that is, you said it was 20. 3b 29. So that is— so 3b 9. b 3. Very good. So this",00:10:35
+alhksfs,74,tutor,"is absolutely the right answer. Now let me tell you how the marks are distributed here, okay? So one mark will be given to you to subtract these two equations, okay? If you are going to subtract these two equations, one mark will be given to you. One— the second mark will be given to you when you will get the value of a correctly, and the third mark will be given to you when you will get the value of b correctly. Okay, that is how all the three marks are distributed here. Okay, yeah. Now since we have understood how to solve these kind of questions, would you like to tell me what is the learning for you here in this particular question? [unclear]",00:10:56
+alhksfs,75,student,"Sir, So when it's two plus signs, I have to change the bottom equation to negatives and then subtract them. But then—",00:11:34
+alhksfs,76,tutor,How can you change the signs to negative? What are you doing basically here?,00:11:47
+alhksfs,77,student,Reversing it.,00:11:52
+alhksfs,78,tutor,Like you are adding or subtracting them? What you are doing here? Either you are adding these two equations or subtracting them? [unclear] Subtracting them correctly.,00:11:53
+alhksfs,79,tutor,Then what you will do?,00:12:03
+alhksfs,80,student,"So once I've got a, I refer it back to the original equation and then I find out what b is equal to.",00:12:05
+alhksfs,81,tutor,"Correct, correct. This is how we should solve these kind of questions. And if you are going to solve your questions like this, you are going to get all the marks in your examination. So let's move on to the next type of question, which is this one. It is a 4 marks question, Gideon. I want you to read out the question very carefully, underline all the important keywords, then please go ahead.",00:12:14
+alhksfs,82,student,"Alessandra bought 3 tins of paint and 4 paint rollers at a cost of £21. Belinda bought 2 tins of paint and 3 paint rollers at a cost of £19. Using an algebraic method, calculate the price of a single tin of paint and a single paint roller.",00:12:37
+alhksfs,83,tutor,"So I'm just going to— for the tins of paint, I'm just going to use them as P. And then for the paint rollers, I'm just going to count them as R. So that's Alessandra. So 2P 3R 19. So",00:12:59
+alhksfs,84,tutor,"That is— so that's the original equation. So I'd subtract them. So it's 3T 4R 27, and then -2T 3R 19. So 3T 2T t is t. 4r minus 3r is r. Oh, I don't know what [UNCLEAR]. Wait, is that right so far?",00:13:24
+alhksfs,85,tutor,"Correct, it is right so far. You have written the equation correctly here. This is the correct equations.",00:13:24
+alhksfs,86,student,Equals 8.,00:14:11
+alhksfs,87,tutor,Now you need to eliminate one of the variable here.,00:14:13
+alhksfs,88,student,Oh yeah. Either eliminate R or eliminate T. How can you do this? [unclear],00:14:15
+alhksfs,89,tutor,"Yes, how can you? First of all, you need to choose which one you are going to make the same, either T or R.",00:14:23
+alhksfs,90,student,I'll make R the same first.,00:14:31
+alhksfs,91,tutor,"Which one you will make the same, whether T or R?",00:14:37
+alhksfs,92,student,R.,00:14:41
+alhksfs,93,tutor,"R? Okay, you can go ahead. Make them same. So what you need to do to make them same? It is 4r, it is 3r.",00:14:41
+alhksfs,94,student,So what times it by each other?,00:14:47
+alhksfs,95,tutor,"Correct, correct, correct. You can go ahead with it.",00:14:50
+alhksfs,96,student,So I'm going to be 3t.,00:14:54
+alhksfs,97,tutor,"But since your time, will you times it only, will you times that by only by r, or will you times it by the entire equation?",00:14:56
+alhksfs,98,student,"Oh, the whole thing. So we're going to times the top one by 3.",00:15:03
+alhksfs,99,tutor,"Correct. So is it 9t? 12r 81. And then we're going to times the bottom one by 4. Go ahead,",00:15:07
+alhksfs,100,tutor,by 360. [UNCLEAR],00:15:07
+alhksfs,101,student,"we will discuss it later. First of all, solve your equations. -8t.",00:15:28
+alhksfs,102,tutor,"Minus 12. Oh, so is that minus 12 or just 12? [unclear] 76. Oh. So now 9T minus 8T is T, plus 12 minus 12 is nothing. So T is equal to 5.",00:15:36
+alhksfs,103,tutor,"Okay, although your answer is correct, but don't you think you missed out a symbol here? Because you have changed the symbol of T. You have seen the symbol of r. Have you changed the symbol of 19 here? [unclear] If you are changing it, do it completely, okay? Because although you got the right answer here, but you might make silly mistake in your examination. So avoid that, okay? Now since you have the value of t, can you give me the value of r as well?",00:16:18
+alhksfs,104,student,"Yeah, so... So that is the same as 45T plus 12R equals 81. But no, I don't have to put the T there, do I? Just 45. So 81 minus 45.",00:16:48
+alhksfs,105,student,[unclear],00:17:14
+alhksfs,106,tutor,So 12R equals 36. [unclear],00:17:18
+alhksfs,107,tutor,"So, r is equal to 3. Very good, Gideon. This is absolutely the correct method and this is absolutely the right answer. Now let me tell you how the marks are distributed here, okay? Since it is of 4 marks, 1 mark will be given to you to write down this equation correctly, which you have already written down here. 1 mark will be given to you to eliminate 1 variable, which you have done it correctly. You multiplied these two equations by 4 and 3 completely, and then you found out one variable, which is 5. Then you put back the value of t in one of the equations and got the value of r. Correct. If you are going to solve your questions like this, you are going to get entire 4 marks in your examination. Okay?",00:17:25
+alhksfs,108,student,Yeah.,00:18:08
+alhksfs,109,tutor,"All right then, let's move on. Before moving on to the next question, I want you to please try out this particular question.",00:18:09
+alhksfs,110,tutor,Simon buys 4 coffees and 3 teas at a cost of £14.80. Henry buys 5 coffees and 6 teas at a cost of £21.20. So 40 plus 3T— a bit better— plus 3T equals 14.8. And then 5C plus 6T equals 21.20.,00:18:17
+alhksfs,111,student,[unclear],00:19:04
+alhksfs,112,tutor,"So now— I'll make them into a negative. So, before I make it into a negative, do I make them both the same sign first?",00:19:05
+alhksfs,113,tutor,"Correct. First of all, make them the same sign. [unclear]",00:19:22
+alhksfs,114,student,"So I'm going to make— oh, actually, I won't have to change the second equation, would I?",00:19:28
+alhksfs,115,student,"Because to make the top one into the same as 60, I times it by 2, but the bottom one's already 60.",00:19:39
+alhksfs,116,tutor,Correct. So what you're going to times it by? The second equation? Just 1? So it will remain the same.,00:19:46
+alhksfs,117,student,Yeah. [unclear] So 6 times 360 is...,00:19:51
+alhksfs,118,tutor,"So now, now look at the calculations one more time. Have you done it correctly? I'm giving you one more minute. Cross-check your new calculations. [unclear] It is 8C, 6D, and then?",00:19:58
+alhksfs,119,student,It's not letting me subtract it.,00:20:12
+alhksfs,120,tutor,What is this? Will it remain the same?,00:20:15
+alhksfs,121,student,It wouldn't let me change it.,00:20:18
+alhksfs,122,tutor,"Okay then. I'm sorry. You can write it down one more time. Unfortunately, it has been erased.",00:20:21
+alhksfs,123,tutor,"It is 29.60. So please don't make such silly mistakes, okay? Whenever you are multiplying something, multiply in the entire equation. Is it negative or equal to here? [unclear] Please don't be in a hurry, Gideon. We have sufficient time to solve these questions. Take your time. Cross-check your equations before moving ahead. [unclear]",00:20:31
+alhksfs,124,tutor,Have you written them correctly?,00:21:12
+alhksfs,125,tutor,Yes.,00:21:21
+alhksfs,126,student,"Yeah. [unclear] So now, I'll find out C first. So 8C minus— so 3C is equal to £8.40 divided by 3 over that.",00:21:22
+alhksfs,127,tutor,Hello?,00:21:52
+alhksfs,128,student,2.80. [unclear],00:21:53
+alhksfs,129,tutor,Hello?,00:21:57
+alhksfs,130,student,So now—,00:22:00
+alhksfs,131,tutor,Is it the value or the price? We're asking you the price.,00:22:02
+alhksfs,132,student,"Oh, the price. I thought, let me text Gideon.",00:22:06
+alhksfs,133,tutor,"Is this a price? We can erase it and write it one more time. Yes, please ensure the symbols. If question is asking you to write down the price, please ensure the symbol of pound there. Okay, now tell me what is the cost of a single tea as well.",00:22:09
+alhksfs,134,student,So... [unclear] So 22.4 6T 29.6. So 6T is equal to 7.2.,00:22:30
+alhksfs,135,tutor,"What was that, sorry?",00:22:46
+alhksfs,136,student,And then T is equal to 1.1 pound 20.,00:22:48
+alhksfs,137,background,[unclear],00:22:58
+alhksfs,138,student,Now this is the right answer and this has been written in the correct form.,00:23:01
+alhksfs,139,tutor,"Let me tell you how the marks are distributed here. Similarly, as well, just like the first equation, one mark will be given to you to write down these two equations correctly. One mark will be given to you to eliminate the variable. One mark will be given to you to put down the value of C in one of the previous equations, and one mark will be given to you to get the right answer, which is 2.8 and 1.2 here. Okay, that's how the marks are distributed here.",00:23:06
+alhksfs,140,student,Yeah.,00:23:36
+alhksfs,141,tutor,"I can see you already understood how to solve these kind of questions. Before moving ahead, I would like to ask you, what are the learnings for you in this particular question that you would like to keep for your upcoming sessions as well? Please tell me what are the learnings for you in this particular question.",00:23:37
+alhksfs,142,background,"Yeah, I was [unclear]",00:23:53
+alhksfs,143,student,"So, but it's important to read the question and just Try and find how to like represent each question with a letter and to make sure I read if it's asking for a price or just like the value. [unclear]",00:23:54
+alhksfs,144,tutor,"Correct. All right, let's move on to the next type of question, which is this one. It is also a 3 marks question. Please go ahead, try out the question.",00:24:14
+alhksfs,145,student,So 3x plus,00:24:22
+alhksfs,146,tutor,"Ooh, 3, ooh. So I'll just write it down. 3x plus— [unclear]",00:24:26
+alhksfs,147,tutor,"For this one, I need to make the subject the same, don't I?",00:24:56
+alhksfs,148,student,"Correct. First of all, rearrange the equation, make them same.",00:25:04
+alhksfs,149,tutor,"So could I just put for the top one— I mean, no, for the second one, could I just put y 2x 4? Why will it remain minus when you bring it to this side?",00:25:09
+alhksfs,150,student,"So y 2x 4. Correct, correct.",00:25:24
+alhksfs,151,tutor,"If you are bringing it to the left side, the sign will change. The negative will change to positive. And one more thing, will you write down y under x or x under x? x under",00:25:28
+alhksfs,152,student,x. Correct. So,00:25:41
+alhksfs,153,tutor,"2x will be written first, then y.",00:25:44
+alhksfs,154,tutor,"Then finally, so very good. Now this is how you should rearrange the equations, okay? In your questions, I want to times them by— sorry, uh, we're times them by 3. So, um, if I'm trying to get the y to the +3 and I'm times it by 3",00:25:48
+alhksfs,155,student,"Do I just— I'll just leave the top one, don't I?",00:26:16
+alhksfs,156,tutor,"Correct, you just leave the top one as it is.",00:26:19
+alhksfs,157,student,So now that is 6x 3y 12. But now I'm going to flip it. So it's -6x 3y 12. 6x minus 3y. So now— [unclear],00:26:23
+alhksfs,158,tutor,So 3x minus 6x minus 3x equals,00:27:01
+alhksfs,159,tutor,Where?,00:27:11
+alhksfs,160,student,Which equals 23.5. [unclear],00:27:13
+alhksfs,161,tutor,"Equals -6. So x is equal to 2. So now over here, I'll just do— so 6 3y 6. 3y 0. Yeah. So— You",00:27:18
+alhksfs,162,student,have,00:28:01
+alhksfs,163,tutor,to [unclear],00:28:02
+alhksfs,164,background,get the equation first. So is y,00:28:02
+alhksfs,165,tutor,not just 0?,00:28:04
+alhksfs,166,student,[unclear],00:28:07
+alhksfs,167,tutor,"Yes, it is. y 0 here. So this is absolutely the correct answer. Now let me tell you how the marks are distributed here. One mark will be given to you to rearrange the equation, which you have done perfectly fine here. Okay, then one mark will be given to you to do this particular step, to get one variable in the same— with the same coefficient as you have done here. And one mark will be given to you to find out these two correct answers. Okay, that's how the marks are distributed here. And I can see that you already understood how to solve these kind of questions. I'm not going to waste your time with the same type of question today. But before moving on to the next topic, we have solved three type of questions here. Okay, this was the first type of question. Just look at the questions. Okay, then I'll ask you.",00:28:07
+alhksfs,168,student,Yeah.,00:28:56
+alhksfs,169,tutor,"This was the second type of question, and this was the third type of question. Could you please spot the difference? What are the difference between these 3 questions? How this question is different from the second question and the third question?",00:28:56
+alhksfs,170,student,"Well, the first question, the equation was like done for me already, so I didn't have to like switch it to anything. The second one, I had to create my own method, like my own equation by reading a bit of information.",00:29:10
+alhksfs,171,student,And then I had to swap some symbols.,00:29:28
+alhksfs,172,tutor,"Correct. And then last one, you need— yes?",00:29:32
+alhksfs,173,student,I had to make the subject of each equation the same. So I had to rearrange the equations.,00:29:34
+alhksfs,174,tutor,"Correct, correct, correct, correct. All right then, let's move on to this particular question and let's see. It is a challenge question and I am definitely sure you can do this. So please go ahead, try out the question.",00:29:42
+alhksfs,175,student,"Here is a graph of 4x 3y 12. Values x to 7. By plotting a second graph, solve 4x 3y 12, 2y x 14. So if I was going to [unclear]",00:29:59
+alhksfs,176,tutor,"make them the same, I would",00:30:18
+alhksfs,177,tutor,"Times, so I'll keep the top one actually.",00:30:27
+alhksfs,178,student,"So I need to [unclear] that, so firstly I need to get—",00:30:34
+alhksfs,179,tutor,"Yeah, well, I'm going to keep the top one. I'm going to do 4x minus— 3y 12 and 4x 8 56. So now, is it 8?",00:30:37
+alhksfs,180,tutor,8y.,00:31:14
+alhksfs,181,student,Yes.,00:31:18
+alhksfs,182,tutor,"So now, so that 4x goes away. Minus 3 plus 8 is 5y equals 12 plus 56 is 68. So am I going to get a decimal? So is that alright to get decimals?",00:31:19
+alhksfs,183,tutor,Because that's giving me 13.6. Y is coming out to be how much?,00:31:42
+alhksfs,184,student,13.6.,00:31:58
+alhksfs,185,tutor,13.68. [unclear] But Y should come out to be 4.,00:32:01
+alhksfs,186,tutor,"Y has to be 4 here. What you've done, what you have done here, you have multiplied this by 4. [unclear]",00:32:10
+alhksfs,187,tutor,"4, 8, and then this is, what is 14 times 4? It is 56. Yeah. Then what you have done here, can you take away 4x? It is plus, it is plus. How can you get rid of them?",00:32:17
+alhksfs,188,student,"This is also plus, this is also plus. How can you get rid of them?",00:32:38
+alhksfs,189,tutor,"Right, so that's that. You need to change the symbols here.",00:32:42
+alhksfs,190,student,"Oh, yeah.",00:32:46
+alhksfs,191,tutor,"Only you can cross-change them. First of all, change the symbols. Subtract the equation, not the— you're not supposed to add the equations here. So it becomes 4x 3y.",00:32:47
+alhksfs,192,student,But is it -4x 8y 56? Correct. -56.,00:33:11
+alhksfs,193,tutor,"Yeah. Now,",00:33:22
+alhksfs,194,student,-3 [unclear],00:33:27
+alhksfs,195,tutor,8. So that gives me -11.,00:33:29
+alhksfs,196,tutor,Correct.,00:33:36
+alhksfs,197,student,"That would give us £15,918.12.",00:33:37
+alhksfs,198,tutor,"Equals -44— oh, [UNCLEAR].",00:33:42
+alhksfs,199,student,"£15,918.12.",00:33:42
+alhksfs,200,tutor,"So that's that. So now, what is the value of x?",00:33:52
+alhksfs,201,student,"Oh, no, there's a— there's a— [unclear]",00:33:56
+alhksfs,202,tutor,So I'll find out now.,00:33:58
+alhksfs,203,student,[unclear],00:34:04
+alhksfs,204,tutor,"So I'm going to use the bottom one just because it's already positive. So 4x 32 Oh wait, no, I go back to the original one, don't I? Yes, yes. So 8 x 14. We have 14.",00:34:04
+alhksfs,205,student,x 6. Correct.,00:34:27
+alhksfs,206,tutor,"So now you have a point. What is this point? x 6, y 4. Can you please tell me what you found out here? This is a coordinate, x 6, y 4. What is it on this graph? 4 across— 6 across, 4",00:34:30
+alhksfs,207,background,"up. 6 [unclear] across, 4 up. And",00:34:48
+alhksfs,208,tutor,what is this point? This is nothing but a point Where these two lines will intersect.,00:34:50
+alhksfs,209,student,[unclear],00:34:56
+alhksfs,210,tutor,"Yeah, correct. So you just need to draw a line from this point. And this is how it will look like. Okay, this is the intersecting point. Alright then, let's move on to the last slide. And there are two questions over here. And I have made some mistakes in these two questions. All you need to do, spot those mistakes. Correct those mistakes and find out the right answers. Start with this particular question. Okay, go ahead.",00:34:57
+alhksfs,211,student,"So the original equation was 2a 3b 18. And then [unclear] 3a b 5. So they've times it by 3. They have 3a 3b. So what's the times for 3a by 3? So that'll be 9, eh? [unclear]",00:35:29
+alhksfs,212,tutor,You could use the text tool and write down your new equation here.,00:35:54
+alhksfs,213,student,"Oh yeah, that's what I'll do actually, it makes it easier.",00:36:08
+alhksfs,214,tutor,"So now, over here, they've got 2a 3b 18, then plus— so they've not changed these signs. But do",00:36:22
+alhksfs,215,student,"they need to change the signs? No, one of them is in plus, one of them is in minus. They don't need to change the signs.",00:36:36
+alhksfs,216,student,5a 3a. But,00:36:46
+alhksfs,217,tutor,"this is not 3a, this is 9a. You found that out. Don't stick that mistake. This is 9a, so it will be 9 2 11a. Then 18 15 33. So what is a? It will come out to be 3. Now similarly, you can put the value of a over here in either of these two equations, whichever is easy for you, and find out the value of b. So 99— [unclear]",00:36:49
+alhksfs,218,tutor,"You can put the equation value in these two equations, whichever is easier for you. So 2a 3b or 3a b 5. 22 3b is equal to 18. 3b equals -4. b equals... [unclear]",00:37:20
+alhksfs,219,tutor,"What is the value of a? Look over here. Will it be 11? 33 divided by 11, which is 3.",00:37:47
+alhksfs,220,student,Oh yeah. [unclear],00:37:55
+alhksfs,221,tutor,"I know there are a lot of calculations happening here. Okay, you don't need to do anything, just tell me. Okay, just spot the mistake and tell me. So because I can understand we can commit silly mistakes because there are a lot of calculations happening here. So if a is 3, what will be b?",00:37:59
+alhksfs,222,student,So 6a plus— should I write it down or just say it?,00:38:16
+alhksfs,223,tutor,"Yes, you can just say it. 6a 3b 18.",00:38:19
+alhksfs,224,student,"Yeah, 3b 12, base 4. Correct.",00:38:22
+alhksfs,225,tutor,So this is your— these are your,00:38:26
+alhksfs,226,background,"A, 3, B, 4. Okay. Similarly, you can spot the mistake here. Just spot it, don't do anything, just tell me what is the mistake. So [unclear]",00:38:28
+alhksfs,227,student,"3b 2a 12, 5a 4b 7. So for some reason they've times them both when you don't need to.",00:38:38
+alhksfs,228,student,So you can just change—,00:38:49
+alhksfs,229,tutor,What is the first thing that you will do here?,00:38:52
+alhksfs,230,student,It is maybe— [unclear],00:38:55
+alhksfs,231,tutor,"Make 2a over 5a, 3b over 4b. So it would be 2a 3b 12, 5a 4b 7. Correct. So the first",00:38:56
+alhksfs,232,background,thing,00:39:05
+alhksfs,233,tutor,"that we will do, we will write down a below a, b below b. This is the mistake that they have not considered here. And then when you will try to change them, you can successfully change them and find out the correct answers. Which will come out to be a 3, b 2 in this case. Okay, so all right then, we have successfully completed this question, this topic as well. You don't [unclear] need to solve it. I was just trying to ask, or ask you to spot the mistake. You have done it correctly, so okay, well done. Now quickly move on. Let's quickly move on to the next topic, which is about finding the arc length and area of sectors.",00:39:05
+alhksfs,234,tutor,"How confident are you in this topic, area of sectors and [UNCLEAR]?",00:39:47
+alhksfs,235,student,"Like, it doesn't look— like, I don't recognize it.",00:39:47
+alhksfs,236,tutor,"Okay, no problem. Then we will discuss each and every question of this. We will discuss it with the concepts also. Okay, you don't need to worry about it. Just look at this particular question. One question has been given to you here.",00:40:00
+alhksfs,237,tutor,"John says we can find the perimeter of the sector by finding a quarter of the circumference of the full circle. Well, isn't perimeter of the circle 2π— wait, π— 2rπ?",00:40:13
+alhksfs,238,student,This is a sector.,00:40:36
+alhksfs,239,tutor,Yeah.,00:40:38
+alhksfs,240,student,What of a full circle? Is that how you find the perimeter?,00:40:39
+alhksfs,241,tutor,"In order to find out the perimeter, a quarter of a circumference of a circle will only give the arc length. Okay, not in— it doesn't include these straight edges also needed for the perimeter. Basically, if you find out the quarter of a circle, that will give you only this, but we need to consider these lengths as well, which will not be considered. If you just take the quarter of the circumference of circle. Okay.",00:40:43
+alhksfs,242,student,Yeah.,00:41:09
+alhksfs,243,tutor,"These two lengths will not be considered there. Only this length will be considered the circumference. So that is why he is incorrect here. We will discuss the sectors, we will discuss the quarters. Don't worry, area of sectors, everything will be discussed in detail. So you don't need to worry about that at all. Now warm-up, uh, just as a warm-up question, you can give You can give it a try.",00:41:10
+alhksfs,244,student,So below is a sector of a circle with a radius of 8. Find the arc length of this sector to 3 significant figures. [unclear] I wouldn't really know where to start finding out the arc length.,00:41:36
+alhksfs,245,tutor,"Okay, no problem. Could you please tell me what do you understand by the radius of this sector? Which is 8 centimeters. [unclear]",00:41:53
+alhksfs,246,tutor,"Correct. So basically it is a circle of diameter which is 16 or radius which is of 8 centimeters. This is a part of a bigger circle. This is just a small part. That is why we are calling it as a sector of a circle. Okay, now what we need to do here, we need to find out the arc length for this particular— okay, length of the sector to",00:42:04
+alhksfs,247,tutor,3.,00:42:29
+alhksfs,248,background,significances.,00:42:29
+alhksfs,249,tutor,"Correct, correct, correct. We are going to do this in our next session. As of now, we don't have sufficient time. We are running short of time. This is what I was going to show you, but I was waiting for the next session. That is why I was not able to show you today. Okay, this is what we need to do in our next session. Yeah, it is very easy. There is a formula to find out the length of a sector. This is a formula that we can directly put and get the answer. There's nothing more here. Learn the formula, put your values, get the answer. This is all you need to do. Okay?",00:42:29
+alhksfs,250,student,Yeah.,00:43:01
+alhksfs,251,tutor,"So don't worry about this topic. It is very easy. We are going to learn this particular topic as well. Now before we move on, or before we wrap up this session, there are a few things that I would like to discuss with you. So once I end this session, Gideon, a warm-up, a quiz will appear on your screen. Please attend that quiz. Okay? There will be [unclear] questions on the topic that we discussed today. So please attempt that quiz. It is very important to check your progress. Okay, after that quiz, a feedback form will appear. Please do give me a feedback. I will see you in the next session, Gideon. Until then, please take care of yourself.",00:43:01
+alhksfs,252,tutor,Bye.,00:43:35
+alhksfs,253,student,[unclear],00:43:35
+alhksfs,254,background,Bye.,00:43:36

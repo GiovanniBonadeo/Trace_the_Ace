@@ -1,0 +1,271 @@
+session_id,utterance_id,role,content,timestamp
+hblrllh,0,tutor,Hello?,00:00:00
+hblrllh,1,background,[unclear],00:00:00
+hblrllh,2,student,Hello?,00:00:01
+hblrllh,3,tutor,Hello?,00:00:05
+hblrllh,4,student,Hello?,00:00:06
+hblrllh,5,tutor,"Hi, Callum, can you hear me?",00:00:08
+hblrllh,6,student,"Yes, I can.",00:00:10
+hblrllh,7,tutor,"Oh, hey, nice. How are you doing today, Callum?",00:00:10
+hblrllh,8,student,"I'm doing good, how about you?",00:00:14
+hblrllh,9,tutor,"Good to hear, Callum, and I'm doing good as well, thanks for asking.",00:00:16
+hblrllh,10,tutor,So how has your weekend been?,00:00:20
+hblrllh,11,student,It's been nice. How about you?,00:00:22
+hblrllh,12,tutor,"Nice to hear, Callum, and mine has been good as well. All right, can you see this slide over here?",00:00:26
+hblrllh,13,background,Yeah.,00:00:32
+hblrllh,14,tutor,"Okay, so we'll be working with solving problems using the order of operations, and you did work this question out in your last session and did a fantastic job in getting your answer, um, The steps correct as well. So can you tell me what is this order of operations all about?",00:00:34
+hblrllh,15,student,The order of [UNCLEAR].,00:00:54
+hblrllh,16,tutor,What does it mean by order of operations? So what is it about?,00:00:54
+hblrllh,17,student,"It's like in what way you do operations. Like for example, you could be told to do this first and then after that. That, in a— like, you have to do questions in a specific order.",00:01:03
+hblrllh,18,tutor,"Very, very true. That's a very good understanding there, Callum. When we have calculations that are more than one operation, you have a certain order to follow, and that's what we call this order of operations. So since we worked out with this one in our last session, let me take you all the way to this slide right here.",00:01:18
+hblrllh,19,tutor,And shall we start working out with these 4 questions?,00:01:37
+hblrllh,20,student,Okay. [unclear] [unclear],00:01:41
+hblrllh,21,tutor,[UNCLEAR] [unclear],00:01:41
+hblrllh,22,tutor,[unclear],00:01:41
+hblrllh,23,tutor,"All right. I see answers over there. And good job working out with it. Can you tell me how do you come up— like, for example, when you have a question like [UNCLEAR], how do you answer that question? Where do you start from? What do you do?",00:02:34
+hblrllh,24,student,"It's— well, you'd need— you'd mostly need to know bit mask. And the first letter in BidMAS is brackets. So you do the question in brackets, no matter if it's even the last letter in BidMAS.",00:02:34
+hblrllh,25,tutor,Mm-hmm.,00:03:12
+hblrllh,26,background,"Then if there's— if, for example, there's only like one question left, you'd work out this first, and then you'd do whatever you have to do here. But since there's squared numbers, which is i from Bidmas indices, you'd have to solve what 3 squared is, which would give you 9. So then you take away whatever you got from here from 9, and then it would give you your answer.",00:03:13
+hblrllh,27,tutor,"Very, very true, and that's an amazing explanation over there, and good job in having an understanding on Bidmas as well. So I think there's just a small miscalculation from your end. Can you just check out your answer one more time for this one?",00:03:44
+hblrllh,28,tutor,Just question E.,00:04:04
+hblrllh,29,student,Okay. [unclear],00:04:12
+hblrllh,30,tutor,There we go. That's going to be a 15. Can you tell me what went wrong before?,00:04:28
+hblrllh,31,student,"I think what I did wrong is when I was figuring out this bit here and I knew it was 9, I was taking it away from 24, which I got from here. And I think I accidentally got mixed up and got 13.",00:04:37
+hblrllh,32,tutor,"Alright, just a miscalculation, yeah?",00:04:56
+hblrllh,33,student,Yeah.,00:05:00
+hblrllh,34,tutor,"Okay, okay, no worries over there, Callum. So just make sure you double-check your answers and that would be fine. Standing on [UNCLEAR].",00:05:01
+hblrllh,35,student,Okay.,00:05:01
+hblrllh,36,tutor,"Question B, good job with that. Good job with question C and D as well. Can you tell me a special tip to answer question D?",00:05:11
+hblrllh,37,tutor,"To answer question D, since you have no brackets, you don't have to start with that. So then you do like— you'd go through BIDMAS, then you'd find out that D is first, which is division. So you do division first, which is 5 divided by 30, which is 6. And then— actually, no, first you'd do what 5— [unclear] what squared is because it's first, even before division.",00:05:22
+hblrllh,38,tutor,Yes.,00:05:53
+hblrllh,39,student,"And then you do the division which gives you 6. So then you know you have to do 5 squared plus 30 divided by 5, which would give you 31.",00:05:53
+hblrllh,40,tutor,There you go. [unclear],00:06:09
+hblrllh,41,student,"Because 5 squared is 25, and 30 divided by 5 is 6. I need to add those two [unclear] together.",00:06:13
+hblrllh,42,tutor,"There you go, and that's how you come up with 31. That was an amazing explanation. And yes, you start with the indices first if you don't have any brackets, and then you go for division, multiplication, and finally addition and subtraction. Okay? Yeah.",00:06:22
+hblrllh,43,tutor,"Alright, any questions you would like to ask, Callum?",00:06:38
+hblrllh,44,student,"Uh, no.",00:06:44
+hblrllh,45,tutor,Okay.,00:06:45
+hblrllh,46,background,"A question from my end. Does it matter if, now for example, in the first question you had the brackets first and then you have the indices anyways, and in question B it's the indices first and the brackets next in the question. So does the order of the question matter when you answer this question, or do you still go with the [UNCLEAR]? [Speaker] To be honest, I mean, it kind of does matter because if you're doing 2 cubed plus— like, you haven't worked out what here is, so you wouldn't know what to do first. So you'd have to use bidmas to work out first, oh, I know I've got 18. Now all I have to do is just work out 2 cubed, which is 8, then I can just add 18 and 8.",00:06:47
+hblrllh,47,tutor,"Yes, very, very true, Callum. Just following BIDMAS would work out with all the questions. Okay then, so with that, moving on to question 6 right here— sorry, slide 6 right here. We have a question. Shall we give it a try?",00:07:38
+hblrllh,48,student,Okay. [unclear] [unclear],00:07:51
+hblrllh,49,tutor,And how did you come up with that number?,00:08:10
+hblrllh,50,student,"Well, first what I did was I divided 33 by 3, which gave me 11. And then I know how to— from 4, I knew how to make 11. And I knew that 7 4 is 11, and then I did the question by itself again. I did 4 7, which is 11, and then I did 11 3, which gave me 33. There we go.",00:08:13
+hblrllh,51,tutor,"That was an amazing explanation once again. Here's a sticker for that. And it's really nice to see that instead of guessing a number, you've tried to solve it to a certain extent before you [UNCLEAR]. Figure it out. That was a fantastic job over there, Callum. So here's a sticker for that one as well and a star. Any questions from this lesson?",00:08:43
+hblrllh,52,student,"Uh, no questions.",00:09:07
+hblrllh,53,tutor,"Okay then, um, we're good to move on to our next lesson for the day. Let me take it out real quick. Give me one minute. [unclear]",00:09:09
+hblrllh,54,tutor,Okay. Can you see this slide over here?,00:09:38
+hblrllh,55,student,Yes.,00:09:40
+hblrllh,56,tutor,Okay. So we'll be learning with finding missing angles. Have you worked out these type of questions before?,00:09:41
+hblrllh,57,tutor,Yeah.,00:09:50
+hblrllh,58,background,"So what are the rules you kind of remember, or what do you think, what kind of rules would you need to work this out?",00:09:52
+hblrllh,59,tutor,To work out the learning goal?,00:10:02
+hblrllh,60,background,Yeah.,00:10:05
+hblrllh,61,tutor,"To work out the learning goal, I think you'd have to know what a half line is, which is 180. [unclear]",00:10:09
+hblrllh,62,student,"Yes, that's what— that's all I can really think of, but you also need to know that the square here means that it's a full 90-degree angle.",00:10:23
+hblrllh,63,tutor,"Very true, very true. And those are enough to answer the questions really. Good job recalling those, Callum. So shall we figure out the answer as well? [unclear] Actually, sorry for interrupting, there's one more rule you have to remember. So straight line is equal to 180, true. This is a 90, that's also true. And one more thing.",00:10:35
+hblrllh,64,tutor,Okay.,00:10:57
+hblrllh,65,background,One more?,00:10:58
+hblrllh,66,tutor,There's one more rule that you will have to use here.,00:11:00
+hblrllh,67,student,A full— and you also need to know that a full circle is 360 degrees.,00:11:04
+hblrllh,68,tutor,"It is 360, but not really necessary for this question. How about this? What about the total sum of the interior angles of a triangle?",00:11:12
+hblrllh,69,student,"Oh, you need to know what degrees there are in a triangle?",00:11:22
+hblrllh,70,tutor,"Mm-hmm, and they add up to give you how much?",00:11:26
+hblrllh,71,student,They add up— [unclear] I'm pretty sure it was 200 and [UNCLEAR]. I can't remember it.,00:11:33
+hblrllh,72,tutor,"That's okay. That's fine, Callum. How about this? You try out the question first. You might recall it while working out. So give it a try with learning goal.",00:11:33
+hblrllh,73,tutor,"Oh, isn't one of these triangles 270 degrees?",00:12:03
+hblrllh,74,student,"Not really 270, no. [unclear]",00:12:08
+hblrllh,75,tutor,"That's okay, don't worry about it for now. We will be working out with it in a while. How about you find the value of x and tell me how we get that?",00:12:12
+hblrllh,76,background,"To get the x, You would— I forgot, I haven't done missing angles in a while.",00:12:24
+hblrllh,77,tutor,That's okay.,00:12:36
+hblrllh,78,student,"To find the missing X, you'd have to find what's inside of the triangle first.",00:12:38
+hblrllh,79,background,You have to find what are the angles inside the triangle first.,00:12:54
+hblrllh,80,tutor,Yes.,00:12:57
+hblrllh,81,background,"And since it's 180 degrees, then whatever you got from here, you could take away from here to find out what— you could take away from 180 to find out what you have here.",00:12:58
+hblrllh,82,tutor,"Yes, very, very true. And good job in remembering all of those. The steps are correct, it's just one small part that you don't recall, isn't it?",00:13:12
+hblrllh,83,tutor,Yeah.,00:13:24
+hblrllh,84,background,"Okay, let me just give it out there then. The sum of the interior angles of a triangle, or the sum of the angles inside the triangle, is equal to 180.",00:13:25
+hblrllh,85,tutor,Yeah.,00:13:35
+hblrllh,86,background,"So if that information is given, do you know how to work it out now? [unclear]",00:13:38
+hblrllh,87,student,"No, I still think I'm a bit stuck.",00:13:50
+hblrllh,88,tutor,"Okay, that's fine, Callum. That's totally fine. I'm here to help you out with it. How about we work up to the prior learning question then?",00:13:52
+hblrllh,89,student,Okay. [unclear] [unclear],00:14:01
+hblrllh,90,tutor,"Why 170? How did you come up with that answer, Callum?",00:14:26
+hblrllh,91,student,"Because since I don't fully remember what like the angles in a triangle, so I don't— like 40, this corner with this corner, they looked a bit similar, so I thought they'd be the same angle.",00:14:33
+hblrllh,92,tutor,And then you added the 80 to the 90?,00:14:52
+hblrllh,93,student,Yeah.,00:14:55
+hblrllh,94,tutor,"Okay, all right, that's one way of figuring it out, but it's not exactly 170. You're very close to it though. It would actually be 180 degrees, okay? Not 170. But that's fine. Let's move on to some questions and see how we can work these out, okay? All right. So before finding missing angles, let's try to understand angles and how they measure in turn and all of that. So before we try out the questions, Callum, can you tell me what do you understand from what's inside the [UNCLEAR]?",00:14:57
+hblrllh,95,student,I understand,00:14:57
+hblrllh,96,student,"And that one quarter turn is 90 degrees, two quarter turns is, well, a half turn is 180 degrees, and then one full turn is 360 degrees.",00:15:37
+hblrllh,97,tutor,"Mm-hmm, very true. And using those information, can you give it a try with question A and B? [unclear]",00:15:53
+hblrllh,98,tutor,"I know what it's called, so I'm going to multiply 4 by 3 because I know that's going to get me to the level. So 4 times 3 is 12, and 3 times 12 is 36. And question B. All right. That's going to be 65. Can you tell me how you came up with the values for x and y?",00:16:04
+hblrllh,99,student,"For x, I knew because it's showing a full circle, I did 360 take away 140, which gave me 220.",00:16:55
+hblrllh,100,tutor,Mm-hmm.,00:17:08
+hblrllh,101,student,"And then for y, I knew it was a 180-degree line.",00:17:10
+hblrllh,102,tutor,Mm-hmm.,00:17:18
+hblrllh,103,student,"And then since I knew I had 115, I did 115 take away 80, which gave me 65.",00:17:21
+hblrllh,104,tutor,"Mm-hmm. 180 take away 115 gives you 65. Alright, that's a good one over there explaining all of that. Any questions from this part, Callum?",00:17:31
+hblrllh,105,student,[unclear],00:17:41
+hblrllh,106,tutor,"Okay. Moving on to the next one. Now let's try working out with having more than one or two angles here. Again, we can use our knowledge on angles and the properties of shapes to find missing angles.",00:17:41
+hblrllh,107,tutor,"So before we go for shapes, shall we give it a try with this A and B right here?",00:17:59
+hblrllh,108,student,Okay. [unclear],00:18:05
+hblrllh,109,tutor,"And question B. That's going to give you 120. Right, now we're moving on to question C. So question— what do we have here?",00:18:28
+hblrllh,110,student,It's a [unclear] triangle.,00:18:45
+hblrllh,111,tutor,Very good. Good job recalling that. What's an isosceles triangle? What's the property of an isosceles triangle?,00:18:49
+hblrllh,112,student,"The properties are— the properties of an isosceles triangle is that two lines— two sides are the same length. not length, degree. How",00:19:00
+hblrllh,113,tutor,"did you identify that this is an isosceles triangle, Callum? Well,",00:19:23
+hblrllh,114,student,"just like the properties, it's because I realized that these two look exactly the same. Very [unclear]",00:19:28
+hblrllh,115,tutor,"true, Callum. So in a triangle, if two sides are equal, If two sides of a triangle are equal, we call them isosceles triangles. And if the two sides are equal, what can you tell about their corresponding angles?",00:19:38
+hblrllh,116,student,[unclear],00:19:53
+hblrllh,117,tutor,"If two sides of a triangle are equal, what can you tell about the angles that are attached to those two sides?",00:19:55
+hblrllh,118,student,That they'll also be the same degree.,00:20:04
+hblrllh,119,student,Which means that they both have 35 degrees.,00:20:09
+hblrllh,120,tutor,"Mm, there you go. That's also going to be a 35. So if this was also 35, can you tell me if you add all of these numbers, what is the total you get?",00:20:12
+hblrllh,121,student,You get— you get 180.,00:20:24
+hblrllh,122,tutor,"180. Always remember, angles in a triangle, the total sum of the angles in a triangle would have to give you 180 degrees. In any triangle, doesn't have to be isosceles. Any triangle, the sum of the angles will be 180. Is that clear to you, Callum?",00:20:32
+hblrllh,123,student,Yes.,00:20:52
+hblrllh,124,tutor,"Alright, so using all of those knowledge over there, can you work out the answer for y?",00:20:53
+hblrllh,125,background,Okay. [unclear],00:20:59
+hblrllh,126,tutor,Okay.,00:21:05
+hblrllh,127,tutor,"For step 2, you're just looking at this part right here, the one with the straight line. You already know the missing angle. Okay, there you go. [unclear] And that's going to be 145. So now can you tell me what is the sum of the angles in a triangle?",00:21:28
+hblrllh,128,student,The sum of angles in a triangle is 180.,00:21:52
+hblrllh,129,tutor,Very true. And can you tell me what are the properties of an isosceles triangle?,00:21:59
+hblrllh,130,student,"The properties of an isosceles triangle is that two sides of the same— the same, which means that both of their angles will be the same as well.",00:22:05
+hblrllh,131,tutor,"Very, very true.",00:22:17
+hblrllh,132,tutor,"Alright, good job in recalling all of that over there as well. And with that, we can move on to the next slide. So we have the [UNCLEAR]. I'll work out this one over here first, and then you can try this on your own. Okay?",00:22:18
+hblrllh,133,student,Okay.,00:22:18
+hblrllh,134,tutor,"Alright, so here we're going to talk about more types of angles. The first one we have is vertically opposite angles. What does it mean by vertically opposite angles, and how do you identify vertically opposite angles, Callum?",00:22:29
+hblrllh,135,student,"I think vertically opposite angles are when like two lines separate those two angles, but they're still equal, which means that they're still the same amount. It's just that they're split. [unclear]",00:22:49
+hblrllh,136,tutor,"Yeah, that's one way of explaining it. Good job. So vertically opposite angles are made by two straight lines, right? When two straight lines or two lines cross against each other, Their opposite angles would be equal, so we call them vertically opposite angles. Is that clear to you, Callum?",00:23:08
+hblrllh,137,student,Yeah.,00:23:26
+hblrllh,138,tutor,"Okay, so let's use this information to work out the missing angles here. So if the top part is 132, can you tell me what would be the value of B?",00:23:27
+hblrllh,139,student,[unclear] 132.,00:23:36
+hblrllh,140,tutor,"132. So once you find the value of B, can you tell me a way of finding the value of A and C?",00:23:40
+hblrllh,141,student,"All you really need to do is find the value of a or c, and then you know that that will also be the same length for the other one.",00:23:48
+hblrllh,142,tutor,Mm-hmm. And what can you do for that? What do you think you can do for that? What's the rule you can use for this?,00:23:59
+hblrllh,143,student,I think you can use— [unclear],00:24:11
+hblrllh,144,student,"I think you can use the straight line rule, like the 180 degrees.",00:24:19
+hblrllh,145,tutor,"Mm-hmm. Very true, Callum. There you go. One way is using the 180. You know, C B or A B would give you 180. So you can take away 132 from 180. And that would give you the value of c, which is 48, and that would be the value of a as well. Is that clear?",00:24:25
+hblrllh,146,student,Yep.,00:24:49
+hblrllh,147,tutor,"Okay. Could you— now, this is a method that you can always use, but just let's explore a bit more. Can you think of any other method that you can use to find the value of a and c? [unclear]",00:24:49
+hblrllh,148,tutor,"To find A and C, I think since like the shape altogether looks a bit like a whole circle, you could work out what 132 degrees in B are, and then you could take it away from 360, which would give you your answer for— not only— well, it will give you the answer for both of them. And then you can divide it by 2 to find one of them, isn't it?",00:25:06
+hblrllh,149,student,Right.,00:25:37
+hblrllh,150,tutor,"Yeah. Alright, that's a really good thinking over there, Callum, and a good explanation as well. As always, I really appreciate the step-by-step explanation you give over here. So, [UNCLEAR], you try with your turn question now.",00:25:38
+hblrllh,151,student,Okay. [unclear],00:25:38
+hblrllh,152,tutor,Can you check your last step? How did the 42 come here? How did you have a 21 here?,00:26:04
+hblrllh,153,student,"Because I thought like the 21 degrees and E added together, I thought that's what you'd have to do from [UNCLEAR].",00:26:27
+hblrllh,154,tutor,"That would be right if you're taking, if you're considering the whole circle. If you're considering the whole circle to be 360, yeah, then you can take away 42 from 360 and divide it by 2. But are we using the full circle or just a straight line?",00:26:27
+hblrllh,155,student,Just a straight line.,00:26:54
+hblrllh,156,tutor,Then what would you do?,00:26:56
+hblrllh,157,student,You do 180 degrees take away 21 degrees.,00:26:58
+hblrllh,158,tutor,"Alright. There you go. That would be your answer. You can always use straight lines. The circle part is a bit longer, but if you want or if there's any [unclear] question where you have to use it, you can use that too.",00:27:07
+hblrllh,159,tutor,Okay.,00:27:25
+hblrllh,160,background,"Any questions you would like to ask here, Callum?",00:27:27
+hblrllh,161,student,"Yeah, how would you know what angles D and F are if they're separate, if like D is small and F is bigger?",00:27:30
+hblrllh,162,background,"Alright, actually D and F are not smaller or bigger. They're actually the same size. I am not sure why they have tried to show this one looking a bit more bigger than D, right? But when two straight lines cross each other, definitely their values are going to be the same. This and this would always be the same, and the two opposite ones over here would also be the same to each other. Is that clear, Callum?",00:27:44
+hblrllh,163,student,Yeah.,00:28:13
+hblrllh,164,tutor,Did that answer your question?,00:28:14
+hblrllh,165,tutor,Yeah.,00:28:16
+hblrllh,166,background,Okay.,00:28:17
+hblrllh,167,tutor,Anything else you would like to ask?,00:28:19
+hblrllh,168,background,"Uh, no.",00:28:21
+hblrllh,169,tutor,"Okay. So if you want, you can try this out on a piece of paper later on. You can take a paper, draw two straight lines crossing each other, and try using a protractor to measure the angles. You will see the opposite ones would be definitely equal to each other. Okay?",00:28:23
+hblrllh,170,tutor,Okay.,00:28:41
+hblrllh,171,background,"All right. Moving on to the next one, we have two set of questions. Shall we give them a try, Callum? [unclear] [unclear]",00:28:42
+hblrllh,172,tutor,"So it says, it says, you know, so— [unclear]",00:29:21
+hblrllh,173,tutor,"Take your time. Try to identify your straight lines. Think of the vertically opposite angles and then work it out, Callum. [unclear]",00:29:41
+hblrllh,174,tutor,There you go.,00:29:59
+hblrllh,175,tutor,"If you use symbols too, you can mark the degree symbol as well if you like.",00:30:27
+hblrllh,176,student,Yeah.,00:30:35
+hblrllh,177,tutor,Okay. [unclear],00:30:36
+hblrllh,178,tutor,I think I'm finished.,00:31:23
+hblrllh,179,student,"Okay, have you written your answer for G?",00:31:40
+hblrllh,180,tutor,Yeah.,00:31:45
+hblrllh,181,background,"What have you written, Callum? I couldn't see it at the moment. [unclear] I might be able to see it there.",00:31:46
+hblrllh,182,student,I wrote 120.,00:31:53
+hblrllh,183,background,"120. Okay, nice work. Shall we start with question A itself? Can you tell me how did you come up with the value for x?",00:31:55
+hblrllh,184,student,"For x, since now I know that a triangle is 120 degrees, 180 degrees. I did 70 plus 90 because that was the most obvious bit, which gave me 160. And I know to get 180 from 160, all I need to do is take away 20. And since I know this is on a straight line, I took away 180 from 160, which gave me 20 for x— [unclear]",00:32:04
+hblrllh,185,tutor,"for x. 180 take away the 20 in this part gives you the 160, yeah?",00:32:04
+hblrllh,186,student,Yeah.,00:32:42
+hblrllh,187,tutor,"Okay, okay, no worries, no worries. Nice work. And question B, how do you come up with E, F, G?",00:32:42
+hblrllh,188,student,"For E, I figured out it was 60 because I did 90 plus 30, which gave me 120, and then I used the straight line And then I did 160— I did 180 take away 120, which gave me E, which is 60.",00:32:50
+hblrllh,189,tutor,And what about F and G?,00:33:17
+hblrllh,190,student,"For F, it was going across, so I thought it would have been the same.",00:33:21
+hblrllh,191,student,"And for g, I got 120 because from the straight line— I also used the straight— I also tried to use the straight line here. And since I had 60 from f, I knew that I had to add 120 to get 180.",00:33:29
+hblrllh,192,tutor,"Hmm, alright, that's good work there. But if I ask you to name a pair of vertically opposite angles in question b using the letters,",00:33:47
+hblrllh,193,tutor,Can you name a pair of vertically opposite angles for me? [unclear],00:33:58
+hblrllh,194,student,"Oh, there aren't any.",00:34:05
+hblrllh,195,tutor,Check again.,00:34:10
+hblrllh,196,student,G and 30 degrees?,00:34:16
+hblrllh,197,tutor,"No, not really. Remember, they should be between two straight lines. [Speaker] Would it be the 90 degrees and F?",00:34:18
+hblrllh,198,tutor,"Are they between two straight lines? This is a straight line, but then the 90— the line forming the 90 and then this is different. They're not straight lines, right? [Speaker] Yeah. [unclear] E and G.",00:34:28
+hblrllh,199,tutor,"E and G, okay. How did you come up with those two?",00:34:41
+hblrllh,200,background,They want— because they look perfectly diagonal to each other and also because the lines are going straight through.,00:34:48
+hblrllh,201,tutor,"Mm, there you go. Your first step would be to identify the straighter lines. So once you get that, you would know that the opposite angles are going to be equal. So E and G would be equal, and then F would be equal to this part right here.",00:35:03
+hblrllh,202,tutor,The 90 plus 30.,00:35:19
+hblrllh,203,background,"Yeah, found it.",00:35:20
+hblrllh,204,tutor,"Is that [UNCLEAR], Callum?",00:35:22
+hblrllh,205,student,Yeah.,00:35:22
+hblrllh,206,tutor,Any questions there?,00:35:25
+hblrllh,207,student,No.,00:35:27
+hblrllh,208,tutor,Okay. And is it clear how to identify vertically opposite angles now?,00:35:28
+hblrllh,209,student,Yes.,00:35:33
+hblrllh,210,tutor,Okay.,00:35:34
+hblrllh,211,student,Okay.,00:35:35
+hblrllh,212,tutor,"Always go for the straight lines and then see what are the angles between the two straight lines. Like, when you do that, it should be the opposite ones. For those two statements. Okay?",00:35:35
+hblrllh,213,student,Yeah.,00:35:47
+hblrllh,214,tutor,Alright. Any other question you would like to ask?,00:35:48
+hblrllh,215,background,All good.,00:35:53
+hblrllh,216,student,"I think, yeah, it's all good.",00:35:53
+hblrllh,217,tutor,"Okay. If there is any questions, you can always let me know. We can work things out together afterwards. Alright. And moving on to another one right here. Shall we give it a try?",00:35:56
+hblrllh,218,tutor,"Take your time. Think of all the rules you know, the theorems you know, and give it a try. [unclear]",00:36:11
+hblrllh,219,tutor,Would angle A be 100 degrees?,00:36:33
+hblrllh,220,student,10 degrees.,00:36:33
+hblrllh,221,tutor,Mm-hmm. And how did you come up with the 110?,00:36:33
+hblrllh,222,student,"Because these two sides are the same, so I did 35 plus 35, which gave me 70. Then I know to get 280 from 70, all I needed to do is add 110.",00:36:41
+hblrllh,223,tutor,Mm-hmm. That is very true. And how did you know that this is also going to be 35?,00:36:55
+hblrllh,224,student,"Because they're the same— because these two gaps are the same, and therefore it obviously means that these two would also be the same.",00:37:03
+hblrllh,225,tutor,"Mm-hmm. Yes, both of them are right-angled triangles, and therefore— and since these two sides are also going to be equal, they would form the same angle. And yes, that's going to be 110 degrees over there. Nice work working out with it. And that's the lesson. Miss Callum?",00:37:13
+hblrllh,226,student,Yeah?,00:37:34
+hblrllh,227,tutor,Anything you would like to say?,00:37:35
+hblrllh,228,student,"Uh, no.",00:37:37
+hblrllh,229,tutor,Okay. So can you tell me what other things we learned throughout these lessons?,00:37:41
+hblrllh,230,student,"Um, well, I've learned that— I mean, I've recapped that a triangle is 180 degrees no matter what type of triangle it is. I've also learned about vertical angles.",00:37:47
+hblrllh,231,tutor,Vertically opposite angles.,00:38:05
+hblrllh,232,student,Vertically opposite angles.,00:38:08
+hblrllh,233,tutor,How do you identify vertically opposite angles?,00:38:12
+hblrllh,234,student,"If two straight lines are [unclear] [unclear] are going diagonal, and then like the angles are on each side, are on one side and are the same length.",00:38:17
+hblrllh,235,tutor,"Same value or same degree, isn't it?",00:38:36
+hblrllh,236,student,Same value of the degree.,00:38:40
+hblrllh,237,tutor,"Yes, the opposite angles would be the same value. So good job recalling all of that. And with that, we can move on to another lesson since we have time for that. Give me one second. One second. We have— [unclear]",00:38:42
+hblrllh,238,tutor,[unclear],00:38:42
+hblrllh,239,tutor,"Okay, can you see this one up here, Callum?",00:39:24
+hblrllh,240,student,Yes.,00:39:30
+hblrllh,241,tutor,"Alright, would you like to give it a try with this learning goal question first? Okay.",00:39:30
+hblrllh,242,tutor,That was quick. And how did you come up with that answer?,00:39:42
+hblrllh,243,student,"Because I know to do— when you do area, you have to times the length by the width. And then I know that 8 times 3 is 24, which gave me my answer. And then I wrote centimetres because that is what was used.",00:39:48
+hblrllh,244,tutor,So would it be just centimetres or centimetres squared? It would be centimeters squared. I just remembered that.,00:40:05
+hblrllh,245,tutor,That's okay. That's totally fine. What does it mean by an area?,00:40:12
+hblrllh,246,student,"To find the area, you find the length and the width across the shape.",00:40:19
+hblrllh,247,tutor,And what does it [unclear] give us?,00:40:28
+hblrllh,248,student,"It gives you the area inside the shape. The space inside the shape, isn't it?",00:40:30
+hblrllh,249,student,Yeah.,00:40:39
+hblrllh,250,tutor,"Very true. Okay, so with that we can go ahead to this one right here. We have a few questions. Shall we give them a try?",00:40:40
+hblrllh,251,student,Okay. [unclear] [unclear],00:40:49
+hblrllh,252,tutor,"So that's 1 to 10. A triangle is 180 degrees no matter what type of triangle it is. I've also learned about vertical angles. Vertically opposite angles, vertically opposite angles. How do you identify Vertically, opposite angles. If two straight lines are",00:41:12
+hblrllh,253,tutor,"How did you come up with that one, Callum?",00:41:52
+hblrllh,254,student,"What I did— oh wait, no, I'm wrong.",00:41:56
+hblrllh,255,tutor,And what do you think we have to do first when working out with a question like this?,00:42:03
+hblrllh,256,student,"You'd like times numbers, then when you got like all of the answers, you'd add them together. But what I did I was— what I was doing, I did 2 times 3, for example, then I times it by 1, then I still had 6, and then I was timesing it by each number around.",00:42:07
+hblrllh,257,tutor,"Very true. That's not the right way. You should divide it into 2 shapes first, isn't it?",00:42:28
+hblrllh,258,student,Yeah.,00:42:34
+hblrllh,259,tutor,"Okay, let's give it a try one more time. I think we'll have enough time for just that. [unclear] [unclear]",00:42:35
+hblrllh,260,tutor,"And how did you come up with the 19, Callum?",00:42:50
+hblrllh,261,student,"Because I did 2 times 5, which gave me 10, then 3 times 1, which gave me 3, so then I added them two together, which gave me 13. Then I did 2 times 3, which gave me 6, which I added to 13, which gave me 19.",00:42:55
+hblrllh,262,tutor,"Alright, that's a nice explanation there, Callum. But here's the thing, you'll have to split it into— now when you have two shapes together, we call them composite figures or compound figures, right? So what you'll have to do first is divide them into two parts. For example, you can either split it like this, then you would multiply the length and the breadth of one and then this separately, and then add them up. Is that clear to you, Callum?",00:43:12
+hblrllh,263,background,Yes.,00:43:40
+hblrllh,264,tutor,"Okay, so the answer would be slightly different than this, but we don't have enough time to work it out today. So let's stop our work right here and work this out in our next session. So before we end it for the day, can you tell me what are the things we worked out with, and do you have any questions you would like to ask?",00:43:40
+hblrllh,265,background,"We worked out with [unclear] We worked out how to do degrees and order of operations, and we just did finding area of shapes.",00:44:00
+hblrllh,266,tutor,"Mm-hmm, very true. Good job recalling that. So keep up the good work. Make sure to answer the questions as soon as the session's over. And have a nice day, Callum. Bye.",00:44:17
+hblrllh,267,student,Bye. [unclear],00:44:29
+hblrllh,268,tutor,[UNCLEAR] [unclear],00:44:29
+hblrllh,269,tutor,[unclear],00:44:29

@@ -1,0 +1,407 @@
+session_id,utterance_id,role,content,timestamp
+adhvvin,0,background,"Hold on, hold on, hold on. Wait. Hi. [unclear]",00:00:00
+adhvvin,1,background,Hello.,00:00:09
+adhvvin,2,background,"Hello, is this Marnie?",00:00:10
+adhvvin,3,background,Yes.,00:00:12
+adhvvin,4,background,"Awesome. So am I pronouncing your name correctly, Marnie?",00:00:13
+adhvvin,5,background,"Oh, I'm so sorry.",00:00:17
+adhvvin,6,background,Yeah.,00:00:19
+adhvvin,7,background,"All right, okay, so I'm [TUTOR_NAME], and I'm going to be your tutor for the day, okay?",00:00:19
+adhvvin,8,tutor,Okay.,00:00:26
+adhvvin,9,background,"Awesome. So how are you doing today, Marnie?",00:00:26
+adhvvin,10,student,I'm good.,00:00:30
+adhvvin,11,background,That's nice to know. And did you do anything interesting this week or today at school?,00:00:31
+adhvvin,12,student,Yeah.,00:00:39
+adhvvin,13,background,"What did you do? I mean, sorry.",00:00:41
+adhvvin,14,student,"I learned about like new digits and stuff, how to like say million. And how to say it properly.",00:00:44
+adhvvin,15,tutor,"That's nice to know. Okay then, so shall we jump straight to the lesson then? Is it okay with you? [unclear]",00:00:56
+adhvvin,16,student,Yeah.,00:01:03
+adhvvin,17,tutor,"Alright, so as I told you, I'm [TUTOR_NAME] and I'm going to be the Tutor for the day. So since this was done for you last week, we're going to continue this lesson since you were not able to complete it last week. Okay?",00:01:04
+adhvvin,18,background,"Okay. So the lesson is all about knowing the value of each digit up to— I'm sorry, each digit in numbers up to 10 million. Shall we do this warm-up question and try to remember what we learned last week?",00:01:17
+adhvvin,19,student,Oh yeah.,00:01:31
+adhvvin,20,tutor,"And if you do that, it's completely fine if you don't remember. It's okay. All right, so let's just give it a try.",00:01:31
+adhvvin,21,student,Okay. [unclear],00:01:38
+adhvvin,22,tutor,Are you ready? Please.,00:01:38
+adhvvin,23,student,"Um, 4 million, 500 4,563,219. [unclear]",00:01:41
+adhvvin,24,tutor,Shall we read the question then? Is it okay?,00:01:48
+adhvvin,25,student,Yeah.,00:01:50
+adhvvin,26,tutor,"Go ahead, please.",00:01:51
+adhvvin,27,student,What is the value of the digit 6 in this number?,00:01:54
+adhvvin,28,tutor,"Okay, so how do we— I mean, when we read this, is it 4,563,219? Is that what you read? Is that right?",00:01:57
+adhvvin,29,student,Yeah.,00:02:06
+adhvvin,30,tutor,"So 563 is what? Is it in— I mean, in which group is it in? Is it in the ones or the thousands or the millions? [unclear]",00:02:08
+adhvvin,31,student,Which number?,00:02:19
+adhvvin,32,tutor,"I was talking about the thousand. I mean the 560,000.",00:02:20
+adhvvin,33,student,Oh. It's in the— [unclear],00:02:25
+adhvvin,34,tutor,Which group would you choose? What do we call that group? Can you say it?,00:02:28
+adhvvin,35,student,"A place....and what do we call the thousand, ten thousand, hundred thousand? What do we call them? What group do we call them? [unclear]",00:02:34
+adhvvin,36,tutor,"Very good. So when you read them, you read like 563,290. Does it make sense?",00:02:44
+adhvvin,37,student,"Oh, yeah.",00:02:54
+adhvvin,38,tutor,Okay. So how would you answer this question then?,00:02:54
+adhvvin,39,student,Should I write it down?,00:03:01
+adhvvin,40,tutor,Yeah.,00:03:02
+adhvvin,41,tutor,"Yeah, go ahead, please.",00:03:02
+adhvvin,42,background,Okay.,00:03:03
+adhvvin,43,student,"It would be 250,000.",00:03:04
+adhvvin,44,background,What? Do I have to write like a number or word?,00:03:08
+adhvvin,45,tutor,In numbers since they're asking the value. Let's focus on numbers.,00:03:12
+adhvvin,46,background,Okay.,00:03:17
+adhvvin,47,tutor,"So the 6 is in tens, is it?",00:03:18
+adhvvin,48,background,"Yeah, look, one— Oh, because last time I did, I had to do like count to the 6th digit, not like on the number digit.",00:03:24
+adhvvin,49,tutor,"Okay. So, I mean, which place value column do you think 6 is in?",00:03:34
+adhvvin,50,student,[unclear],00:03:39
+adhvvin,51,tutor,"Isn't it? So why did you write 2,000, Marnie? It's the correct answer there, but why? How do you know?",00:03:40
+adhvvin,52,student,"I know because I took off the numbers in front of it And then I would take the 3,219 away, so it would become 60,000.",00:03:55
+adhvvin,53,tutor,"Very good, very good understanding. So that's an excellent strategy. Who taught you that method? Who taught you? Is it your teacher? I think that's an amazing method.",00:04:07
+adhvvin,54,student,I think it was on another tutor. [unclear],00:04:19
+adhvvin,55,tutor,"All right, no worries. Last week you completed this and also this. So today we would be starting off with this one. Is that okay?",00:04:24
+adhvvin,56,student,Yeah.,00:04:36
+adhvvin,57,tutor,"Okay, so go ahead then. Would you like to try this on your own?",00:04:37
+adhvvin,58,student,"Yeah. [unclear] Amazing understanding, awesome. So shall we read this again? Try it by yourself. [unclear] Can you read it? I couldn't hear you. Hello?",00:04:40
+adhvvin,59,student,Hi.,00:05:08
+adhvvin,60,tutor,"Yeah, I can hear you. So yeah, would you like to read it for me please?",00:05:09
+adhvvin,61,student,Write a 7-digit number that includes the digit 4 once where that digit has the value of [UNCLEAR]. Value of what in question A?,00:05:15
+adhvvin,62,student,4 million.,00:05:27
+adhvvin,63,tutor,"Okay, so let's say, let's assume now like you are the tutor and I'm your student, okay? I have some doubts, would you like to clear it for me? Tutor?",00:05:28
+adhvvin,64,student,Mm-hmm.,00:05:38
+adhvvin,65,tutor,"Okay, tutor. So what do we mean by a 7-digit number, tutor? [unclear]",00:05:38
+adhvvin,66,student,I don't really know.,00:05:50
+adhvvin,67,tutor,"No worries. Let me ask you then, like, how many digits number is 465? How many digits do you think we have in 465?",00:05:52
+adhvvin,68,student,"Um, 3.",00:06:05
+adhvvin,69,tutor,"Very good. So this is a 3-digit number, isn't it?",00:06:06
+adhvvin,70,student,Yeah.,00:06:11
+adhvvin,71,tutor,So how many digits do you think would have in a 7-digit number?,00:06:12
+adhvvin,72,student,Oh!,00:06:15
+adhvvin,73,tutor,Did you understand that?,00:06:17
+adhvvin,74,student,"Yeah, I think I do.",00:06:18
+adhvvin,75,tutor,"Okay, so you're gonna write a 7-digit number, and how many times can we include 4 in that number?",00:06:21
+adhvvin,76,student,"Um, 4 times?",00:06:28
+adhvvin,77,tutor,"Digit 4 can be included? [unclear] Once. So you can't include 4 many times, I mean more than one time in the number. Does it make sense? Like, for example, like you can't include [unclear] 445, because we have 4 twice here, isn't it? I mean, did you understand that?",00:06:32
+adhvvin,78,student,Yeah.,00:06:51
+adhvvin,79,tutor,"Okay, so, and what should be the value of O according to question 1?",00:06:52
+adhvvin,80,student,"If I don't get this right, I'm sorry.",00:06:59
+adhvvin,81,tutor,"That's all right, that's completely fine. Don't you worry about getting the correct answer. It's completely fine to make mistakes, okay? Don't you worry about that, all right? So shall we try this?",00:07:01
+adhvvin,82,tutor,Yeah. Is it okay if we use the place value chart? I think that's more colorful.,00:07:12
+adhvvin,83,student,Yeah.,00:07:19
+adhvvin,84,tutor,"Okay, so how would you write the 4 in a 7-digit number? In which place value column would you write it so you get the value 4 million?",00:07:20
+adhvvin,85,student,4 million should be here.,00:07:31
+adhvvin,86,tutor,"Where would you write the 4? Go ahead, you can place it in any of the columns to make sure that— very good, go on. You can keep placing the text.",00:07:33
+adhvvin,87,tutor,"So since we are making a 7-digit number, what are the other digits you can place? You can think of any digit you want.",00:07:42
+adhvvin,88,student,Um...,00:07:51
+adhvvin,89,tutor,"So you can choose any digit you want. So go on, go on. And what are you going to write here? Zero. And here? Very good. [unclear]",00:07:52
+adhvvin,90,tutor,"Thousands? Okay, let's try something that doesn't have a zero.",00:08:10
+adhvvin,91,student,I don't know what digit I should choose.,00:08:15
+adhvvin,92,tutor,"You can choose any more, anything like one, two, from 1 to 9, but remember 4 can be only included once, so we already include 4.",00:08:17
+adhvvin,93,student,Okay. [unclear],00:08:27
+adhvvin,94,tutor,"Favorite digit, what's your favorite?",00:08:34
+adhvvin,95,student,Zero.,00:08:35
+adhvvin,96,tutor,"Zero, okay. So how do you read this number?",00:08:38
+adhvvin,97,student,"4 million, 300, 30,000.",00:08:45
+adhvvin,98,tutor,Very good.,00:08:54
+adhvvin,99,student,"250 hundred. 250. Yeah? I mean, after that we don't say anything like, is it ones or hundreds? Does it matter?",00:08:55
+adhvvin,100,student,"Oh, okay. Yeah.",00:09:06
+adhvvin,101,tutor,Okay. Go on. Then you can write that down. I think you got the answer. And we can discuss a little bit more on that.,00:09:07
+adhvvin,102,student,Okay. So... [unclear] Okay.,00:09:13
+adhvvin,103,tutor,"Don't forget the commas. Very good. I mean, was that your answer? I think you got a different answer here. I mean, you got a different answer here, right?",00:09:20
+adhvvin,104,tutor,Yeah. [unclear],00:09:35
+adhvvin,105,tutor,"That's right. [unclear] Okay. So my question is, what's the value of 4 here now?",00:09:37
+adhvvin,106,student,A million?,00:09:46
+adhvvin,107,tutor,"That's right. So since it's 4, the value is 4 million. Did you understand that?",00:09:48
+adhvvin,108,student,"Kind of. It doesn't matter what's the number you are writing. You can write any 7-digit number, but you have to place the 4 correctly. If it's in 4 million, you have to place it in 4 million. If it's in thousand, then you have to place it in thousand. Did you understand that?",00:09:55
+adhvvin,109,student,Yeah.,00:10:10
+adhvvin,110,tutor,"Okay. So now I'm going to be the student and you're going to be the tutor. So can you take out your pointer, please, Tutor? [unclear] Can you see it here?",00:10:11
+adhvvin,111,student,Yeah.,00:10:21
+adhvvin,112,tutor,"Okay, you can take that down. So that's your pointer. So I'm working this question out, Tutor. So you're going to check whether I'm correct or Did I make any mistake? Okay?",00:10:21
+adhvvin,113,student,Okay.,00:10:30
+adhvvin,114,tutor,"So since this is a 7-digit number, that means I have to fill all the digits here because that's 7 digits. Am I right, [UNCLEAR]? [Speaker:Marnie] Yeah.",00:10:31
+adhvvin,115,tutor,"1, 2, 3, 4, 5, 6, 7. Okay. So since it says 4 million, I write 4 million and then I'd go like 5, 6, 7, 8, and 9. And again I'll write 4. So is my answer correct here?",00:10:41
+adhvvin,116,student,"Um, yeah.",00:10:59
+adhvvin,117,tutor,So have I written a 7-digit number?,00:11:02
+adhvvin,118,student,Um...,00:11:05
+adhvvin,119,tutor,Do I have 7 digits?,00:11:06
+adhvvin,120,student,Yeah.,00:11:08
+adhvvin,121,tutor,"Okay, that tick. Okay, did I include digit 4 only once?",00:11:09
+adhvvin,122,student,"Um, yeah.",00:11:14
+adhvvin,123,tutor,Do I have 4 only once here in this number?,00:11:17
+adhvvin,124,student,"Um, no.",00:11:20
+adhvvin,125,tutor,"No, so do you think I have done it correctly then?",00:11:23
+adhvvin,126,student,No.,00:11:26
+adhvvin,127,tutor,"No, so I can't write 4 again. Did you understand that?",00:11:27
+adhvvin,128,student,Yeah.,00:11:32
+adhvvin,129,tutor,"That's the only problem I made there, only mistake I made there. So if I write a 0, that's your favorite number, then it will perfectly fit, isn't it?",00:11:32
+adhvvin,130,student,Yeah.,00:11:42
+adhvvin,131,tutor,"Okay, so in the same way now, would you like to try the next question then?",00:11:43
+adhvvin,132,student,Oh yeah. [unclear],00:11:46
+adhvvin,133,tutor,"Remember, it's a one-digit number, and then you can try to get the 4 in the to show that the value of 4 is hundreds. Okay, perfect. So now you're going to be tutor— I mean, you're going to be student, and then I'll be tutor. Then we will change, like— I think it would be fun.",00:11:47
+adhvvin,134,student,"Yeah, okay. [unclear]",00:12:02
+adhvvin,135,tutor,"How would you do this now, Marnie?",00:12:07
+adhvvin,136,student,"Um, what question again? Sorry.",00:12:10
+adhvvin,137,tutor,"I mean, you're gonna do a 7-digit number. You could include digit 4 once, but this time the value of 4 should be what?",00:12:12
+adhvvin,138,student,400?,00:12:21
+adhvvin,139,tutor,"That's right. So could you like— would you like to include numbers, I mean digits, like you did last time in the place value chart? [unclear] Okay, so remember this time you should place 4 in which place value column? According to this, where would you place the 4? Is it in the millions, hundred thousand, ten thousand, thousand, hundreds, or tens of ones? Very good, in the hundreds, isn't it?",00:12:21
+adhvvin,140,student,Yeah.,00:12:46
+adhvvin,141,tutor,"So you can place any number that you want over there and in the rest of the columns. Go ahead, 7-digit number.",00:12:48
+adhvvin,142,student,Yeah.,00:12:54
+adhvvin,143,tutor,Do we include 4 there?,00:12:57
+adhvvin,144,student,"Oh no, no, no. [unclear] What do I put there?",00:12:59
+adhvvin,145,tutor,Any digit you like. So we can make a 7-digit number.,00:13:05
+adhvvin,146,student,Oh yeah.,00:13:08
+adhvvin,147,tutor,"7-digit number. So in the 100,000, what are we going to place? Any number you like.",00:13:10
+adhvvin,148,tutor,Did you make that dot?,00:13:14
+adhvvin,149,background,"No, I think it's not going— okay, [UNCLEAR]. [Speaker:Tutor] Okay.",00:13:16
+adhvvin,150,background,"Oh, wait.",00:13:30
+adhvvin,151,tutor,Okay.,00:13:34
+adhvvin,152,background,"Oh, wait.",00:13:35
+adhvvin,153,tutor,"Okay, no. Can we include 4 more than once?",00:13:35
+adhvvin,154,background,Yeah.,00:13:39
+adhvvin,155,student,[unclear],00:13:45
+adhvvin,156,tutor,"I have a question, Marnie. Can we include digit 4 more than once?",00:13:45
+adhvvin,157,student,No.,00:13:51
+adhvvin,158,tutor,No? So have you included digit 4 more than once?,00:13:53
+adhvvin,159,student,"Yeah, sorry.",00:13:56
+adhvvin,160,tutor,"No worries. Go ahead, you can change it. 4 should be in which place value column according to the question?",00:13:57
+adhvvin,161,student,"400, so maybe if I can move this",00:14:09
+adhvvin,162,tutor,Do you know how to move it? Using the select tool?,00:14:12
+adhvvin,163,student,Yeah.,00:14:14
+adhvvin,164,tutor,"Very good, awesome. So go ahead, place the 4 in the correct place.",00:14:14
+adhvvin,165,student,"Oh wait, give me one second.",00:14:20
+adhvvin,166,tutor,"No worries, take your time. [unclear]",00:14:22
+adhvvin,167,tutor,"Go ahead, let's write the number over there and try to read it.",00:14:26
+adhvvin,168,student,"OK, so do I have to write the full number?",00:14:38
+adhvvin,169,tutor,That's right. So that's the answer. It's a 7-digit number. You have included 4 ones and the value is— [unclear],00:14:44
+adhvvin,170,tutor,"So now how do you read this, Marnie?",00:14:58
+adhvvin,171,student,"7,310,420.",00:15:03
+adhvvin,172,tutor,"Very good, amazing understanding. So let's check whether our answer is correct, okay? So let me take my pointer. So is this a 7-digit number?",00:15:08
+adhvvin,173,student,[unclear],00:15:20
+adhvvin,174,tutor,Do we have 7 digits?,00:15:22
+adhvvin,175,student,Yeah.,00:15:23
+adhvvin,176,tutor,"Okay, got done. Did we include 4 only once? Did we include 4 only once?",00:15:24
+adhvvin,177,student,Yes.,00:15:31
+adhvvin,178,tutor,"Okay, done. So is the value of 4 is 400?",00:15:32
+adhvvin,179,student,Yeah.,00:15:37
+adhvvin,180,tutor,Very good. How do you know that?,00:15:38
+adhvvin,181,student,I don't know.,00:15:40
+adhvvin,182,tutor,4 is in which place value column? [unclear],00:15:42
+adhvvin,183,student,"I know it's in the hundreds because on the top it says 100, so—",00:15:49
+adhvvin,184,tutor,"So if I circle like this, what would be your answer? Like when they ask what is the value of 4, like in question 1, so what would you write?",00:15:59
+adhvvin,185,student,"Um, 20?",00:16:07
+adhvvin,186,tutor,I mean for 4.,00:16:09
+adhvvin,187,student,10?,00:16:10
+adhvvin,188,tutor,Why did you write 600 here then?,00:16:12
+adhvvin,189,student,"Um, oh, oh.",00:16:15
+adhvvin,190,tutor,So what's the value of 4 then?,00:16:18
+adhvvin,191,student,"Um, the value, which number?",00:16:20
+adhvvin,192,tutor,"For 4, the one I have circled, like here.",00:16:24
+adhvvin,193,student,The 2?,00:16:28
+adhvvin,194,tutor,I mean the 4.,00:16:29
+adhvvin,195,student,"Oh, because it shows that you circled the 2.",00:16:31
+adhvvin,196,tutor,"Okay, I'm sorry. I think there's a problem. So now, how about now?",00:16:34
+adhvvin,197,student,"Ah, 400.",00:16:39
+adhvvin,198,tutor,"That's right. So that's what they are expecting us here. So they are expecting when you circle 4, you should get 400. Did you understand that?",00:16:41
+adhvvin,199,student,Yep.,00:16:50
+adhvvin,200,tutor,"Okay, so I think you don't need any help with the last question. Would you like to try that on your own? [unclear]",00:16:50
+adhvvin,201,background,"So, oh, I did.",00:16:58
+adhvvin,202,tutor,Let me find text. So she does it. [unclear] [unclear],00:17:00
+adhvvin,203,tutor,"So this time, what should be the value of 4?",00:17:37
+adhvvin,204,student,"Oh, wait, I made a mistake. I think because you have to put the 4 in the thousands. Okay, let's do that. And yeah, so now if I circled 4, what would be the value of 4?",00:17:40
+adhvvin,205,student,"4,000.",00:18:01
+adhvvin,206,tutor,But what should be the value of 4? [unclear],00:18:03
+adhvvin,207,student,Oh my gosh.,00:18:07
+adhvvin,208,tutor,Nice.,00:18:08
+adhvvin,209,student,"Uh, wait, maybe, let me check.",00:18:19
+adhvvin,210,tutor,Is this a 7-digit number?,00:18:23
+adhvvin,211,student,Yeah.,00:18:26
+adhvvin,212,tutor,Did we include digit 4 once?,00:18:27
+adhvvin,213,student,Yeah.,00:18:29
+adhvvin,214,student,Yep.,00:18:29
+adhvvin,215,tutor,"And is the value of 4 40,000?",00:18:30
+adhvvin,216,student,"Um, I think.",00:18:34
+adhvvin,217,tutor,"That's right. How do you know that's 40,000?",00:18:37
+adhvvin,218,student,"Um, because it says on the top.",00:18:40
+adhvvin,219,tutor,"Mm-hmm. [Speaker:Marnie]...40,000... 10,000. [Speaker:TUTOR] That's right.",00:18:42
+adhvvin,220,student,But I can also know that the first 2 digit numbers you can make them into 40 and then the rest will also be zeros.,00:18:47
+adhvvin,221,tutor,"That's right. So as you said, as you learned last week, if you make all of them zeros, this would be 40,000, isn't it?",00:18:55
+adhvvin,222,student,Yeah.,00:19:04
+adhvvin,223,tutor,"Okay, go ahead then. So I think you can write your own answer there. I think you did a splendid job there. I'm so proud of you for working things out by yourself. [unclear]",00:19:04
+adhvvin,224,tutor,"So how do we read this, Marnie?",00:19:19
+adhvvin,225,student,"5,342,710.",00:19:25
+adhvvin,226,tutor,Very good. I think you deserve a star for the awesome working out you did today.,00:19:30
+adhvvin,227,student,Yay!,00:19:36
+adhvvin,228,tutor,"So, welcome. So, Marnie, let's say now I am a new student for this lesson. I haven't learned this lesson before. Okay?",00:19:40
+adhvvin,229,student,Yeah.,00:19:51
+adhvvin,230,tutor,"So I'm trying this question for the very first time. Sorry, I mean this question, question 6. [unclear]",00:19:52
+adhvvin,231,background,Yeah.,00:19:58
+adhvvin,232,tutor,"So now since you are experienced with this and since you know already about this, so let's say you are a tutor and you're telling me like, [TUTOR_NAME], please follow these steps, so then it would be really easy for you to get to the answer. So what are those steps you would say, like, Marnie, follow these things and it would be easier for you?",00:19:59
+adhvvin,233,student,Is there more [UNCLEAR]? [Speaker:BACKGROUND] So what was your question again?,00:20:23
+adhvvin,234,tutor,"Sorry, I was saying like, if you are a tutor and if you want me to do this and I have no clue how to do this, So what are the tips or hints you would give to me so that it's easier for me to do this? Like, how would you help me with this?",00:20:31
+adhvvin,235,student,"I would say, I would tell you to like make a 7-digit number with a 4 in, and you can, if you want to, you can make the rest zeros, but then add it back when you can understand it. [unclear] Very good. And if I ever get confused, I can also use a place value chart. Am I right, Tutor?",00:20:48
+adhvvin,236,tutor,Yeah.,00:21:10
+adhvvin,237,background,"Yes, very good. So I think that's it with this slide, and that's an awesome [unclear] from your end. So that's a sticker for you again, and yeah. So if you don't have any questions with this, I can move on to the next slide. I mean, do you have any questions, first of all?",00:21:11
+adhvvin,238,student,No.,00:21:29
+adhvvin,239,background,"All right, so will it be okay with you if I move on to the next slide then? Okay then, so we have one final slide and if we complete that, we can move on to a different lesson, okay?",00:21:29
+adhvvin,240,student,Yeah.,00:21:40
+adhvvin,241,tutor,"So go ahead, give it a try. And when it comes to context question, if you feel like something is important, you can underline that, okay? You use the— [unclear]",00:21:40
+adhvvin,242,student,Okay.,00:21:49
+adhvvin,243,tutor,Sorry.,00:21:50
+adhvvin,244,student,"It's okay. 1, 2, 3, 4, 5, 6, 7. Okay, so—",00:21:51
+adhvvin,245,tutor,Shall we start from here? Is it okay? I'm sorry.,00:21:56
+adhvvin,246,student,"Yeah, Hoki is thinking of a 7-digit number. He says that the thousandth digit is 4 and the tenth digit is 0. The number also includes the digits 5, 6, 7, 8, and 9.",00:21:59
+adhvvin,247,tutor,Very good. So how are we going to use the place value chart and how are we going to work this question out?,00:22:12
+adhvvin,248,student,"So, can I do the first one? [unclear]",00:22:20
+adhvvin,249,tutor,So now would you please actually— can you read the question?,00:22:29
+adhvvin,250,student,Write 2 numbers that he could be thinking of.,00:22:36
+adhvvin,251,tutor,So actually here we're going to have 2 7-digit numbers as our answers. So let's use a place value chart to try to make one number first. So which place value column can we fill first according to the story here?,00:22:38
+adhvvin,252,background,I can fill out the thousands first.,00:22:55
+adhvvin,253,tutor,"Very good, very good understanding. So what would you fill 1,000 with?",00:22:59
+adhvvin,254,student,"And then for the tens, I can add a zero.",00:23:03
+adhvvin,255,tutor,Very good. So how would you fill the rest of the columns? What are the numbers you're going to place?,00:23:06
+adhvvin,256,student,"5, 6, 7, 8, and 9.",00:23:11
+adhvvin,257,tutor,"Very good. Go ahead. So in any order you like, you can place them. [unclear]",00:23:13
+adhvvin,258,tutor,Awesome. Go ahead. So you got your first answer.,00:23:29
+adhvvin,259,student,Thank you.,00:23:31
+adhvvin,260,tutor,The number that you can be thinking of. You can write it down over here. [unclear],00:23:31
+adhvvin,261,student,Is it 4 and 0?,00:23:39
+adhvvin,262,tutor,"Actually, you are writing a 7-digit number. So who is thinking of a 7-digit number, yeah?",00:23:51
+adhvvin,263,tutor,So let me explain the question to you. Sorry. So this is— is this a 7-digit number?,00:23:56
+adhvvin,264,student,Mm-hmm.,00:24:01
+adhvvin,265,tutor,"Did we include thousands digit in— I mean, 4 in thousands digit? I mean, is 4 a thousand digit? Sorry. Okay.",00:24:03
+adhvvin,266,student,Yeah.,00:24:10
+adhvvin,267,tutor,And is 0 a tenths digit?,00:24:10
+adhvvin,268,student,Yeah.,00:24:12
+adhvvin,269,tutor,"Okay. So do we have 5, 6, 7, 8, and 9 in our number?",00:24:13
+adhvvin,270,background,[unclear],00:24:17
+adhvvin,271,student,Yeah.,00:24:20
+adhvvin,272,tutor,"So this is one of the answers. So you can Include that here, then we can try another number.",00:24:21
+adhvvin,273,tutor,"Oh, yeah.",00:24:27
+adhvvin,274,background,Don't forget the commas. Very good. What's the 7-digit number [unclear] can be thinking of?,00:24:30
+adhvvin,275,tutor,Should I say it?,00:24:40
+adhvvin,276,background,How would you read it?,00:24:42
+adhvvin,277,tutor,"Wait, let me move it to the spot.",00:24:45
+adhvvin,278,background,Okay.,00:24:47
+adhvvin,279,tutor,Okay.,00:24:48
+adhvvin,280,student,"5,764,809.",00:24:54
+adhvvin,281,tutor,"Awesome. So now, since we can change the order of some digits, would you like to write another number instead of this? [unclear] Go ahead. So what's the digit we can always place first?",00:24:58
+adhvvin,282,student,4s and 0s in the thousands and tens.,00:25:11
+adhvvin,283,tutor,Done.,00:25:15
+adhvvin,284,tutor,"So this time, what number are you going to make?",00:25:18
+adhvvin,285,student,"Um, 6? No, wait, 7. [unclear] 8.",00:25:20
+adhvvin,286,tutor,"Remember, you should include all the digits. 5, 6, 7, 8, 9.",00:25:26
+adhvvin,287,student,"7, 6, 7, 8.",00:25:35
+adhvvin,288,tutor,And what didn't we include? Very good. So what's the other answer we can come up with? [unclear],00:25:39
+adhvvin,289,tutor,Did you understand how to work these type of questions now?,00:25:56
+adhvvin,290,student,Yeah.,00:25:59
+adhvvin,291,tutor,"It's pretty much easier, I mean, when you get to know what to do.",00:26:00
+adhvvin,292,student,Yeah.,00:26:03
+adhvvin,293,tutor,"Awesome. So last question, go ahead.",00:26:04
+adhvvin,294,student,What's the smallest number Hawkie could have made?,00:26:08
+adhvvin,295,tutor,"So if [unclear] you want to make up the smallest number, so how would you place the 5, 6, 7, 8, and 9?",00:26:11
+adhvvin,296,student,5.,00:26:22
+adhvvin,297,tutor,To make the smallest number.,00:26:23
+adhvvin,298,student,7.,00:26:26
+adhvvin,299,tutor,Mm-hmm.,00:26:27
+adhvvin,300,student,"And I know this because if you put the 5 millions in 5, it'll make it shorter. And if you put 9s in 1s, it won't really matter because it's small.",00:26:29
+adhvvin,301,tutor,"Very good, very good understanding. So I have one more question, but before that, can you write your answer there so that would make it easier?",00:26:41
+adhvvin,302,student,"4 times 1. [Speaker:Background]...yeah. [Speaker:Tutor] Do you think, since this is the second question, do you think we can play— I mean, change the place of 4 and 0, or do we still need to stick to thousands and tens?",00:26:51
+adhvvin,303,student,We still need to stick to thousands and tens.,00:27:07
+adhvvin,304,tutor,"Very good, amazing understanding. Since this is a question based on this context, and [unclear] didn't say anything about 4 and 0, so we still have to go with thousands 4 and 0 in the tens. Did you understand that?",00:27:10
+adhvvin,305,student,Yeah.,00:27:23
+adhvvin,306,background,4.,00:27:24
+adhvvin,307,tutor,"Awesome. So now I'm gonna make things a little bit interesting. So instead, let's say instead of Thinking of a smaller number, smallest number. Let's say he's thinking of the largest number. So now how would you place the numbers?",00:27:24
+adhvvin,308,student,[unclear],00:27:43
+adhvvin,309,tutor,Very good. And that's right. How did you come up with that?,00:27:43
+adhvvin,310,student,"Because 9 is the biggest number, so if I put the 9s in 9 millions, it'll make it the biggest.",00:27:56
+adhvvin,311,tutor,"That's right. Very good understanding, and I'm so proud of you for working things out by yourself again. So actually, we have completed the lesson. So how do you feel about the lesson?",00:28:03
+adhvvin,312,student,Good. [unclear],00:28:14
+adhvvin,313,tutor,So awesome effort from your end for this lesson. So let's do one thing. Let's do a small reflection. Reflection means like going back and seeing what we have learned in this lesson and then move forward to a new lesson. Is that okay with you?,00:28:16
+adhvvin,314,tutor,"Okay, so last week you started off this lesson knowing the value of each digit in numbers up to 10 million. So you might have done this, this, and this last week. So today we started off from here, did this, and this. So my very first question as a part of reflection is, out of all the slides you have done in this lesson, what's the slide you're most proud of yourself for working things out?",00:28:30
+adhvvin,315,student,Yeah.,00:28:57
+adhvvin,316,tutor,What is the slide that you're most proud of?,00:28:59
+adhvvin,317,student,"Probably the first one. This one. No, the other one. The one we did. The first one we did. Yeah, that one.",00:29:03
+adhvvin,318,tutor,You mean this one? Okay. So why this?,00:29:16
+adhvvin,319,student,"Because I learned, like, I mostly learned something from this, and I like how much the place value charts, like, learn. [unclear]",00:29:19
+adhvvin,320,tutor,"And we even used place value chart in many occasions where we were stuck. Yeah, we were able to make use of the place value chart. Awesome. So that's done, and we have completed this lesson. So let's move on to a new lesson. Is that okay?",00:29:31
+adhvvin,321,student,Yeah.,00:29:46
+adhvvin,322,tutor,"Okay, so let's see whether you can see the new slides now. Can you? All right. So rounding numbers to the nearest, 10,000 and 100,000. And before we start, I want to ask you, do you have any difficulty in understanding me?",00:29:47
+adhvvin,323,student,"Um, no.",00:30:06
+adhvvin,324,tutor,"All right. So if you feel like you do not understand me, or if you want me to repeat something, you could always interrupt me. You could always stop me. Marnie, I didn't understand. Can you please repeat it to me? That's completely fine. Okay. So you can always do that. So yeah, so shall we start the next lesson then? Are you ready?",00:30:08
+adhvvin,325,student,Mm-hmm.,00:30:26
+adhvvin,326,tutor,"All right, so rounding numbers to the nearest 10,000 and 100,000. So have you done this before at school?",00:30:27
+adhvvin,327,student,Yeah.,00:30:34
+adhvvin,328,tutor,How confident are you with rounding? Out of 10?,00:30:36
+adhvvin,329,student,"Wait, sorry, repeat it.",00:30:40
+adhvvin,330,tutor,"Out of 10, how would you rate yourself for rounding lessons?",00:30:42
+adhvvin,331,student,Like half and,00:30:46
+adhvvin,332,tutor,"Okay, so you're in the middle, is it?",00:30:49
+adhvvin,333,student,Mm-hmm.,00:30:52
+adhvvin,334,tutor,"No worries, so it's completely fine again if you don't know them. Let's just give it a try and see what— I mean, what and where we're going to start learning from, okay? So would you like to try this question first?",00:30:53
+adhvvin,335,student,Yeah.,00:31:06
+adhvvin,336,tutor,"Can you read it for me, please? Sorry.",00:31:07
+adhvvin,337,background,"Round 250,561 to the nearest 10,000. How do you read this number?",00:31:11
+adhvvin,338,student,[unclear],00:31:19
+adhvvin,339,tutor,"250,000? That's a very good try. Before the comma, what do we have? Do we have 250 or do we have 254?",00:31:20
+adhvvin,340,student,254.,00:31:39
+adhvvin,341,tutor,Very good. So how do you read it?,00:31:41
+adhvvin,342,student,"254,600— 561.",00:31:48
+adhvvin,343,tutor,"That was almost correct. So 254,561.",00:31:50
+adhvvin,344,student,Yeah.,00:31:55
+adhvvin,345,tutor,"So actually, we read the first 3 numbers together and say thousand, and then read the second 3 numbers together. Does it make sense?",00:31:57
+adhvvin,346,student,Okay. Yeah.,00:32:04
+adhvvin,347,tutor,"Yeah? Awesome. [unclear] So how do you write that, round that to nearest 10,000?",00:32:06
+adhvvin,348,student,Let me— so— [unclear],00:32:12
+adhvvin,349,tutor,"So why do you think it's 50,000?",00:32:17
+adhvvin,350,student,"I think it's 50,000 because if you remove— basically, like, if you count up, so that is 5 digits. If you count from the end, 1, 2, 3, 4, 5, you can change it to— you can remove the 2 And then, and if it's under 5, then you can lower it. But if it's over 5, then you can turn it into 60,000.",00:32:22
+adhvvin,351,tutor,"Okay. So which place value column did you look upon to decide whether to round up or down? Like, do you want to go up or down? How do you decide that? Which place value column do you look upon? Do you look at the 1, 6, 5, or 4, or 5? Which one?",00:32:52
+adhvvin,352,student,"I go here because if you start from the 2, which is 1, 2, 3, 4, 5, then it's just 10 [UNCLEAR]. [Speaker:Tutor] That's a very good try. That's an awesome try. Shall we do one thing? Shall we skip this question for now and learn that in the next few slides? Is it okay?",00:33:07
+adhvvin,353,student,Yeah.,00:33:24
+adhvvin,354,tutor,"Okay. So the answer here is 250,000, but don't you worry about that for now. Let's skip that and let's learn about that in the next few slides. Okay?",00:33:25
+adhvvin,355,student,Okay.,00:33:34
+adhvvin,356,tutor,"All right. Go on then. Let's read this question and try this, and it's okay if you don't know this, we can skip it. Okay?",00:33:35
+adhvvin,357,tutor,"Come on, can you read it for me?",00:33:41
+adhvvin,358,student,"Write the multiples of 100,000 that 364,209 lies between.",00:33:46
+adhvvin,359,tutor,"So what do we mean by multiples of 100,000, Marnie? [unclear] Do you know that? It's okay if you don't. Do you know that?",00:33:57
+adhvvin,360,student,"No, I don't.",00:34:07
+adhvvin,361,tutor,"Alright, no worries. So let's start from the prior learning slide, and before we start, I have a question for you. So what do you think multiples of 2 means?",00:34:09
+adhvvin,362,student,Multiples of 2? Can I write it down?,00:34:23
+adhvvin,363,tutor,"Yeah, go ahead. You can write it down below that. [unclear] How much do I— should I— [unclear]",00:34:26
+adhvvin,364,tutor,"I mean, that's enough. Thank you. So each time it's increased by how much?",00:34:36
+adhvvin,365,student,Um—,00:34:42
+adhvvin,366,tutor,Each time?,00:34:43
+adhvvin,367,student,"Each time, 2.",00:34:45
+adhvvin,368,tutor,Very good. So what do you think multiples of 10 would be?,00:34:46
+adhvvin,369,student,"Um, of 10 would be—",00:34:52
+adhvvin,370,tutor,Mm-hmm. Mm-hmm. So each time it's increased by how much?,00:34:55
+adhvvin,371,student,10.,00:35:01
+adhvvin,372,tutor,"Very good. So now just tell me, what would you— what do you think multiples of 100 would be like? How would you think it would go?",00:35:02
+adhvvin,373,student,[unclear],00:35:10
+adhvvin,374,tutor,"I mean, no need to write, you can just tell me. How would you think it would go?",00:35:10
+adhvvin,375,student,"Multiples of 100. 100, 200, 300.",00:35:14
+adhvvin,376,tutor,"Very good. So multiples of 10,000 goes like 10,000, 20,000, 30,000. Did you understand that? It increases by 10,000 each time.",00:35:21
+adhvvin,377,student,Yeah.,00:35:30
+adhvvin,378,tutor,"So multiples of 100,000, how do you think it would go?",00:35:31
+adhvvin,379,student,"Sorry, repeat it.",00:35:37
+adhvvin,380,tutor,"Multiples of 100,000, how do you think it would go?",00:35:39
+adhvvin,381,student,"100,000, 200,000, 300,000.",00:35:42
+adhvvin,382,tutor,Very good. Now do you understand that?,00:35:46
+adhvvin,383,student,"Mm-hmm. [unclear] Before we can round numbers to the nearest 10,000 and 100,000s, we need to be able to identify multiples of 10,000s and 100,000s.",00:35:48
+adhvvin,384,tutor,"Okay, go on. Question 1.",00:36:05
+adhvvin,385,student,"We can count in multiples of 10,000 and 100,000.",00:36:08
+adhvvin,386,tutor,So what's the number here?,00:36:12
+adhvvin,387,student,"Oh, 220,000, 230,000.",00:36:14
+adhvvin,388,tutor,So what do you think it would be next?,00:36:20
+adhvvin,389,background,[unclear],00:36:21
+adhvvin,390,tutor,Next. [Speaker:Background]...,00:36:22
+adhvvin,391,tutor,This is multiple of what? [unclear] Each time it increases by what?,00:36:32
+adhvvin,392,student,"10,000.",00:36:40
+adhvvin,393,tutor,"So it's multiples of 10,000. Did you understand that?",00:36:41
+adhvvin,394,student,Yeah.,00:36:43
+adhvvin,395,tutor,"Okay, next one. I think that's the easiest one. [Speaker:Background]...add into equal 100. One that was 25, so equal to that [UNCLEAR]. [Speaker:Tutor] Is it from 100,000 again?",00:36:44
+adhvvin,396,student,"Yeah, I got [UNCLEAR]. [Speaker:TUTOR] Alright. Last one. So they are multiples of what?",00:36:56
+adhvvin,397,student,"It goes up in 100,000s.",00:37:06
+adhvvin,398,tutor,"So multiples of 100,000. Did you understand that?",00:37:09
+adhvvin,399,student,Yeah.,00:37:12
+adhvvin,400,tutor,"Okay. Is it okay, Marnie, if I stop it over here today and we can continue that next week? Is that alright?",00:37:13
+adhvvin,401,student,Yeah.,00:37:20
+adhvvin,402,tutor,"Okay, I'm sorry about that. To stop you in the middle of a question, in the middle of a slide. So we are coming to the end of our session. Is that all right?",00:37:20
+adhvvin,403,student,Yeah.,00:37:28
+adhvvin,404,tutor,"All right. So as soon as I end the session, there might be some questions for you to do. Please do them. They are really important. And please fill the feedback form and fill like how do you felt about the session. Did you understand it? Was it good? [unclear] And have a very nice day. I really enjoyed today's session. See you next time. Bye-bye. I hope you can too. [unclear]",00:37:29
+adhvvin,405,student,1532 Oceanview Boulevard guy.,00:37:55

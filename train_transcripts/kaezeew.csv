@@ -1,0 +1,388 @@
+session_id,utterance_id,role,content,timestamp
+kaezeew,0,tutor,Hello?,00:00:00
+kaezeew,1,background,[unclear],00:00:00
+kaezeew,2,student,"Hello. Hi, Julianna. How are you?",00:00:00
+kaezeew,3,tutor,Hello. I'm okay.,00:00:02
+kaezeew,4,student,Okay. So how was your day has been so far?,00:00:04
+kaezeew,5,tutor,It's been good.,00:00:07
+kaezeew,6,student,All right. Amazing. So shall we move on to the lesson?,00:00:09
+kaezeew,7,tutor,Okay.,00:00:13
+kaezeew,8,tutor,"Alright, Julianna. So last week we started this lesson finding factors, right?",00:00:14
+kaezeew,9,student,Yes.,00:00:20
+kaezeew,10,tutor,"Okay, so what do you recall from what we did last week?",00:00:21
+kaezeew,11,student,"So we were trying to find factors, so we had to— we could— we used a fact triangle.",00:00:28
+kaezeew,12,tutor,Okay.,00:00:38
+kaezeew,13,student,And so it had to be like 30 divided by 6 or 6 times something. And we are— and factors are like all of the times tables.,00:00:38
+kaezeew,14,tutor,"Okay, amazing. I'm really happy that you can recall, right?",00:00:53
+kaezeew,15,student,Yes.,00:00:58
+kaezeew,16,tutor,"Okay, amazing, Julianna. So today we are going to start from this slide, okay?",00:00:59
+kaezeew,17,student,Okay.,00:01:06
+kaezeew,18,tutor,"Okay, so can you read this sentence?",00:01:07
+kaezeew,19,student,"Okay, two factors can be multiplied together to make a product.",00:01:10
+kaezeew,20,tutor,"Okay, so did you understand this sentence?",00:01:15
+kaezeew,21,student,Yes.,00:01:17
+kaezeew,22,tutor,"Okay, can you explain me?",00:01:18
+kaezeew,23,student,"So what they're trying to say is that, so like 5, that is a factor, and another 5, and times those together add [UNCLEAR].",00:01:22
+kaezeew,24,student,"Then you could get your— then you get your product, which is the answer.",00:01:40
+kaezeew,25,tutor,"Exactly. So you can see an example below, right?",00:01:45
+kaezeew,26,student,Yes.,00:01:51
+kaezeew,27,tutor,Okay. So how can you explain me this?,00:01:51
+kaezeew,28,student,"So— [unclear] So it's one factor is the 3, then they're using times.",00:01:56
+kaezeew,29,student,"Then it's going to be 3 times 5, and the 5 is the other factor. So 3 times 5 is 15, which is the product.",00:02:08
+kaezeew,30,tutor,Exactly. So we can multiply 2 factors to get a product. Am I correct?,00:02:20
+kaezeew,31,student,Yes.,00:02:28
+kaezeew,32,tutor,"Yes. So for example, if the 15 is the product, we can get 15 by timing 3 by 5. 3 and 5 will be the factors of 15. Okay, right. Now here we are going to find out how can we find factors for a given product. Okay.",00:02:29
+kaezeew,33,student,Okay.,00:02:54
+kaezeew,34,tutor,"Okay, so here one method has been shown in this slide. So here we are going to use Arrays. Do you know what are arrays?",00:02:55
+kaezeew,35,student,"Um, rows of [UNCLEAR].",00:03:07
+kaezeew,36,tutor,"Yes, we are going to arrange numbers in different ways, right? Using rows and columns. Those are known as arrays. Am I correct?",00:03:07
+kaezeew,37,student,Yes.,00:03:21
+kaezeew,38,tutor,"So here, this— we have 15 squares. We have made an array. This question A, right? Just [unclear] what does the array show?",00:03:23
+kaezeew,39,student,"Um, 3 by 5.",00:03:37
+kaezeew,40,tutor,"How do you know that, Julianna?",00:03:41
+kaezeew,41,student,Because there's 3 on the top and 5 across.,00:03:44
+kaezeew,42,tutor,Exactly. So from that we can identify the factors. So what are the factors of 15?,00:03:48
+kaezeew,43,student,5 and 3.,00:03:56
+kaezeew,44,tutor,Exactly. So we can use this array to find out two factors of 50. Okay?,00:03:58
+kaezeew,45,student,Okay.,00:04:06
+kaezeew,46,tutor,"Can you complete these blanks? [unclear] Okay, now let's move on to B. So what does this array show?",00:04:07
+kaezeew,47,student,1 by 15.,00:04:21
+kaezeew,48,tutor,"Yes, so what are the factors of 15 according to this one?",00:04:23
+kaezeew,49,student,1 and 15.,00:04:27
+kaezeew,50,tutor,"Yes, amazing. So you can write that. All right, so if I want to make an array, right, I'm going to add 2 rows. Okay, sorry, 2 columns. Okay?",00:04:30
+kaezeew,51,tutor,Yes.,00:04:56
+kaezeew,52,student,Is it possible?,00:04:57
+kaezeew,53,tutor,"Um, can you say again, please?",00:05:01
+kaezeew,54,student,"I'm going to draw another array for this 15, right? Number 15.",00:05:04
+kaezeew,55,tutor,Yes.,00:05:09
+kaezeew,56,student,"So, here I'm going to use only 2 rows. 2 columns. Let's get it 2 columns, okay? Like this. Is it possible to draw 15, an array of 15 with 2 columns?",00:05:09
+kaezeew,57,student,[unclear],00:05:28
+kaezeew,58,tutor,No. Why is it?,00:05:30
+kaezeew,59,student,"Because 15, 2 is not a factor of 15.",00:05:33
+kaezeew,60,tutor,"Exactly, there you go. So only we can draw arrays only for the factors.",00:05:38
+kaezeew,61,tutor,Right?,00:05:45
+kaezeew,62,student,Yes.,00:05:46
+kaezeew,63,tutor,"Okay, so we have find out 4 factors of 15 using this arrays. So can you write this down, all the factors here?",00:05:47
+kaezeew,64,student,"Okay, so there's 3...",00:05:58
+kaezeew,65,tutor,"Yes, and Julianna, when we are writing the listing the factors, usually we list the factors according to the numerical order. Okay?",00:06:04
+kaezeew,66,tutor,Okay.,00:06:15
+kaezeew,67,student,So you can arrange the factors from smallest to largest.,00:06:16
+kaezeew,68,tutor,Okay.,00:06:23
+kaezeew,69,student,Okay.,00:06:27
+kaezeew,70,tutor,"Okay, um, 3, 5, 7, 9. [unclear]",00:06:32
+kaezeew,71,student,"Yes, we have the factors here, right?",00:06:59
+kaezeew,72,tutor,"Yes. Oh. You forgot? Did you forget? No worries. Okay, amazing. So these are the factors of 15. Okay?",00:07:02
+kaezeew,73,student,Yeah.,00:07:15
+kaezeew,74,tutor,"Right, can you read this sentence?",00:07:16
+kaezeew,75,student,"We can't make an array that has 2 in each column or row, so it is not a factor of 15.",00:07:20
+kaezeew,76,tutor,"Yes, so as you already explained, we can't make an array that has 2 columns, right?",00:07:28
+kaezeew,77,tutor,Yes.,00:07:33
+kaezeew,78,student,Because 2 is not a factor of 50.,00:07:33
+kaezeew,79,tutor,Yes.,00:07:36
+kaezeew,80,student,Okay. Yes. So do you have any questions in this slide?,00:07:37
+kaezeew,81,background,"Um, no.",00:07:41
+kaezeew,82,student,"Okay, so we can use arrays to find out factors. Okay?",00:07:43
+kaezeew,83,background,Okay.,00:07:48
+kaezeew,84,student,"Now in this slide, we are going to use another method to find out factors. Okay? What is that method? [unclear]",00:07:49
+kaezeew,85,tutor,What is this method? Do you know about factor box?,00:08:02
+kaezeew,86,student,No.,00:08:07
+kaezeew,87,tutor,"Okay, no worries. So we— there is another method called factor box. Okay, you think this is a bug, right?",00:08:08
+kaezeew,88,student,Yes.,00:08:17
+kaezeew,89,tutor,"So as we are going to find out factors, we call this as a factor bug. Okay?",00:08:17
+kaezeew,90,student,Okay.,00:08:24
+kaezeew,91,tutor,So we can use this factor box to find out the factors of a number. All right?,00:08:24
+kaezeew,92,student,Okay.,00:08:33
+kaezeew,93,tutor,"Okay, so now I am going to find out the factors of 20 using this factor box. Okay?",00:08:34
+kaezeew,94,student,Okay.,00:08:43
+kaezeew,95,tutor,"So we are— usually we are writing this number in the head of the box. Okay, so in this question, I'm going to find out the factors of 20, right?",00:08:44
+kaezeew,96,tutor,Okay.,00:08:56
+kaezeew,97,student,I am writing 20 in the head. Okay?,00:08:58
+kaezeew,98,tutor,Okay.,00:09:01
+kaezeew,99,student,Now around the park we are going to write all the possible factors.,00:09:03
+kaezeew,100,tutor,Okay.,00:09:10
+kaezeew,101,student,"Okay, so here they have written 1. So 1 times something gives you 20. So what would be that something?",00:09:11
+kaezeew,102,tutor,20.,00:09:20
+kaezeew,103,student,It's 20. So we can write 1 here and 20 here.,00:09:21
+kaezeew,104,tutor,Okay.,00:09:26
+kaezeew,105,student,So from that you can see 1 and 20 are the factors of 20. Am I correct?,00:09:27
+kaezeew,106,tutor,Yes.,00:09:34
+kaezeew,107,student,"Okay, right. So now we are going to find out another pair. Okay?",00:09:35
+kaezeew,108,tutor,Okay.,00:09:41
+kaezeew,109,student,Here they have written 2. So 2 times something gives you 20. So what would be that? Be that something?,00:09:42
+kaezeew,110,student,2 times 10.,00:09:52
+kaezeew,111,tutor,"Exactly. So 2 times 10 gives us 20. So again, 2 and 10 are factors of 20. Okay?",00:09:54
+kaezeew,112,student,Okay.,00:10:07
+kaezeew,113,tutor,"Rather than this, I am going to find another pair, right, to find out 2 more factors. Of 20?",00:10:08
+kaezeew,114,student,Yes.,00:10:17
+kaezeew,115,tutor,"Okay, so let me try with 3. So is it possible?",00:10:18
+kaezeew,116,student,3? No.,00:10:24
+kaezeew,117,tutor,"Why? What is the reason, Julianna?",00:10:27
+kaezeew,118,student,Because 3 is not factor of 20.,00:10:29
+kaezeew,119,tutor,"Exactly, so we can't write 3 here. Then I go for 4. Is it possible? [unclear]",00:10:32
+kaezeew,120,tutor,"Yes, that's exactly. So 4 times what gives me 20?",00:10:43
+kaezeew,121,student,5.,00:10:47
+kaezeew,122,tutor,"5. So 4 times 5 gives me 20. Therefore, 4 and 5 are factors of 20. Okay, okay. Now I am going to list the factors of 20 in numerical order, as I said you before, right? Usually we will list the factors in an order, right? So they have mentioned that, right?",00:10:49
+kaezeew,123,tutor,Yes.,00:11:12
+kaezeew,124,student,"So I'm going to list out all the factors, that is 1, 2, 4, 5, 10, and 20. Clear?",00:11:12
+kaezeew,125,tutor,Yes.,00:11:25
+kaezeew,126,student,"Okay, now it's your turn. You can work out, Julianna.",00:11:25
+kaezeew,127,background,"Okay, so... [unclear]",00:11:29
+kaezeew,128,student,[unclear] [unclear],00:11:32
+kaezeew,129,student,[unclear] [unclear],00:11:49
+kaezeew,130,student,So what that equals is— [unclear] [unclear],00:12:11
+kaezeew,131,student,Okay.,00:12:35
+kaezeew,132,tutor,Amazing.,00:12:39
+kaezeew,133,tutor,"Julianna, before writing listing the factors, there is a simple mistake.",00:12:52
+kaezeew,134,student,Yes?,00:12:59
+kaezeew,135,tutor,Can you spot it by your own?,00:13:00
+kaezeew,136,student,Okay. [unclear] [unclear],00:13:02
+kaezeew,137,tutor,Is it 18?,00:13:23
+kaezeew,138,student,Not 18. [unclear],00:13:37
+kaezeew,139,tutor,Or is it 16?,00:13:52
+kaezeew,140,student,"Yes, there you go, it's 16. So what went wrong in your method first?",00:14:01
+kaezeew,141,student,I was doing my times tables wrong.,00:14:08
+kaezeew,142,tutor,"Okay. So Julianna, rather than going for the times table, how can you find this number? If you know one factor and if you want to find the other one, how can you find out? Can you give me another method? Yes, you can use the times table, or else what can you do?",00:14:14
+kaezeew,143,student,I don't know.,00:14:35
+kaezeew,144,tutor,"Okay, no worries. Let me give you a simple hint. For example, you're going to find out 2 times something, right, is going to be 32, right?",00:14:37
+kaezeew,145,student,Yes.,00:14:49
+kaezeew,146,tutor,How can you use inverse to find out this number? [unclear],00:14:49
+kaezeew,147,student,"Um, do you know about inverse?",00:14:55
+kaezeew,148,student,Or 32 divided by 2.,00:15:00
+kaezeew,149,tutor,There you go. So what would be your answer?,00:15:02
+kaezeew,150,student,16.,00:15:07
+kaezeew,151,tutor,16. So you can go in that way as well. Clear?,00:15:07
+kaezeew,152,student,Yes.,00:15:11
+kaezeew,153,tutor,"Okay, so you can list out the factors. [unclear] [unclear]",00:15:12
+kaezeew,154,student,"All right, amazing, and great job, Julianna, because you find out this by your own. Well done. And yes, very good work. So Julianna, do you have any questions?",00:15:31
+kaezeew,155,student,"Um, no.",00:16:01
+kaezeew,156,tutor,"Okay, so what are the two methods we learned to find factors?",00:16:03
+kaezeew,157,student,"Can you say that again, please?",00:16:10
+kaezeew,158,tutor,So what are the two methods we learned to find factors? [unclear] Yes. [unclear],00:16:12
+kaezeew,159,tutor,"Um, I can't hear you properly. Can you please say again?",00:16:22
+kaezeew,160,student,"Okay, so we learned two different methods to find factors.",00:16:28
+kaezeew,161,tutor,Yes.,00:16:34
+kaezeew,162,student,"Okay, I'm asking what are those methods?",00:16:35
+kaezeew,163,tutor,"Oh, factor book.",00:16:39
+kaezeew,164,student,Yeah. And [unclear],00:16:42
+kaezeew,165,student,Yeah?,00:17:03
+kaezeew,166,tutor,"I'm trying to remember, I forgot now.",00:17:04
+kaezeew,167,student,What we did in our last slide? Can you recall? [unclear] We used— we identified the factors of number 15. So can you recall the method now?,00:17:07
+kaezeew,168,student,"Yeah, factor test.",00:17:26
+kaezeew,169,tutor,"We used arrays, right?",00:17:29
+kaezeew,170,student,"Oh, yeah.",00:17:31
+kaezeew,171,tutor,"Yes, so here we used arrays and here we used FactorBox. So you have two different methods. You can use any of these methods to find out the factors. Clear?",00:17:32
+kaezeew,172,student,Yes.,00:17:44
+kaezeew,173,tutor,"Okay, Julianna. So now you have few more questions to practice. So shall we start working these questions?",00:17:45
+kaezeew,174,student,Okay.,00:17:53
+kaezeew,175,tutor,"Okay, go ahead.",00:17:54
+kaezeew,176,student,"Okay, so which of these numbers is not a factor of 14? So 14 and 1 and [UNCLEAR]... Oh!",00:17:56
+kaezeew,177,student,This is the 5.,00:18:04
+kaezeew,178,tutor,"Okay. So how do you know that, Julianna?",00:18:14
+kaezeew,179,student,"Because— so 14 is obviously a factor of 14, so is 1 and so is 2. And so is 7, so— and 5 isn't.",00:18:22
+kaezeew,180,tutor,"Exactly! Amazing, and a good explanation. Well done. [unclear] Right, no worries. So let's move on to question B.",00:18:38
+kaezeew,181,student,Um—,00:18:50
+kaezeew,182,student,9.,00:18:59
+kaezeew,183,tutor,"Alright, once again amazing. So how do you know this answer, Julianna?",00:19:00
+kaezeew,184,student,"Because 1 is always a factor of 26, so it's 13, 26, and 2 and 25, that would just go to 36.",00:19:05
+kaezeew,185,tutor,"You mean 26, right?",00:19:20
+kaezeew,186,student,Yes.,00:19:22
+kaezeew,187,tutor,"Okay, amazing once again.",00:19:23
+kaezeew,188,tutor,"All right, now we are moving on to question C.",00:19:25
+kaezeew,189,student,"Okay, so write the factors of A. 1. [unclear] [unclear]",00:19:29
+kaezeew,190,tutor,"Superb work once again, Julianna. And I like the way you wrote the factors in the numerical order, right?",00:20:00
+kaezeew,191,student,Yes.,00:20:08
+kaezeew,192,tutor,"Yes, amazing workout. All right, so let's move on to question D now.",00:20:09
+kaezeew,193,tutor,"Okay, so write all of the factors of 28. So there's 1, 2, [unclear] [unclear]",00:20:17
+kaezeew,194,student,[UNCLEAR] [unclear],00:20:17
+kaezeew,195,student,[unclear] [unclear],00:20:17
+kaezeew,196,student,"So we did 12 times the release, so we got that. We did 4 times the release, we got 12, 12. And we did... [unclear]",00:21:10
+kaezeew,197,background,Julianna?,00:21:31
+kaezeew,198,tutor,Yes.,00:21:34
+kaezeew,199,student,Yes? Can you try using a method that we learned now?,00:21:35
+kaezeew,200,tutor,"Oh, um, 28 divided by...",00:21:40
+kaezeew,201,background,[UNCLEAR],00:21:40
+kaezeew,202,tutor,"Yes, so we learned two methods, right?",00:21:44
+kaezeew,203,background,Yes.,00:21:49
+kaezeew,204,tutor,"Yes, which method do you like to do for this one? Which one?",00:21:50
+kaezeew,205,background,"Um, I do my",00:21:54
+kaezeew,206,student,I like the arrays better for this one.,00:22:04
+kaezeew,207,tutor,Okay. [unclear],00:22:10
+kaezeew,208,student,So then how are you going to work it? [unclear],00:22:12
+kaezeew,209,tutor,I think that's acceptable. Would be the easiest one.,00:22:23
+kaezeew,210,student,Okay. [unclear],00:22:30
+kaezeew,211,tutor,"Because you know already, you know 3 numbers, right? So you can try to fill the other side of the box. Am I correct?",00:22:32
+kaezeew,212,student,Yes.,00:22:40
+kaezeew,213,tutor,"Okay, so you can draw a factor box here and you can try to fill the blanks.",00:22:41
+kaezeew,214,student,Okay. Should I just— can I draw the lines?,00:22:47
+kaezeew,215,tutor,"Yeah, yeah, no worries. [unclear]",00:22:52
+kaezeew,216,tutor,Okay.,00:22:59
+kaezeew,217,student,"Okay, and so— [unclear]",00:23:17
+kaezeew,218,tutor,One.,00:23:19
+kaezeew,219,student,Mm-hmm.,00:23:24
+kaezeew,220,tutor,Okay.,00:23:28
+kaezeew,221,student,Yeah. [unclear],00:23:33
+kaezeew,222,tutor,So you can try to find out the past now.,00:23:49
+kaezeew,223,student,"Okay, so to— [unclear]",00:24:03
+kaezeew,224,student,1 8 4.,00:24:11
+kaezeew,225,student,7.,00:24:40
+kaezeew,226,tutor,"Yeah, great. So, so 1 match with which number? Matches with which number?",00:24:41
+kaezeew,227,student,4.,00:24:51
+kaezeew,228,tutor,"4, yeah, 4 times. So yeah, that's done. So for the other 2 numbers?",00:24:52
+kaezeew,229,student,"What [unclear] for the How you got that 8, Julianna? [unclear]",00:24:59
+kaezeew,230,student,Is 8 not a factor of 28?,00:25:14
+kaezeew,231,tutor,Yes.,00:25:17
+kaezeew,232,student,I think I know the last number.,00:25:18
+kaezeew,233,tutor,"Yes. Okay, okay. [unclear]",00:25:21
+kaezeew,234,tutor,Done?,00:25:46
+kaezeew,235,student,Yes.,00:25:47
+kaezeew,236,tutor,There is a simple mistake.,00:25:50
+kaezeew,237,student,Is it 8?,00:25:54
+kaezeew,238,tutor,Exactly. It's 8 because why? What? Why is it wrong?,00:25:56
+kaezeew,239,student,"Oh, 8 isn't a factor of 28.",00:26:03
+kaezeew,240,tutor,Exactly. And also 2 times 8 gives you what?,00:26:06
+kaezeew,241,student,"18. No, no. [unclear] 16.",00:26:13
+kaezeew,242,tutor,16. So obviously it's not 16. [unclear],00:26:17
+kaezeew,243,student,Right. [unclear],00:26:19
+kaezeew,244,tutor,So again—,00:26:56
+kaezeew,245,student,Or is it 9?,00:26:58
+kaezeew,246,tutor,"It's not 9. Again, I told you how can you find out the missing number, right? In our previous slide, I gave you a hint. I told you a method to find out the missing number. Can you remember?",00:26:59
+kaezeew,247,student,"Inverse, so—",00:27:16
+kaezeew,248,tutor,"Exactly, yeah. So what would be that number? [unclear] [unclear]",00:27:17
+kaezeew,249,tutor,"Oh, is it not 6?",00:27:52
+kaezeew,250,student,"No, it's not 6 because 2 times 6 is—",00:27:55
+kaezeew,251,tutor,It is 28.,00:28:00
+kaezeew,252,student,"Oh, that's 12. Yes. So in the inverse, what are you going to do there? If you are going to use the inverse, how can you find out that number? [unclear]",00:28:01
+kaezeew,253,student,Or is it 19?,00:28:30
+kaezeew,254,tutor,"It's not 19. Yes, how did you got 19, Julianna?",00:28:34
+kaezeew,255,student,"Um, I did my times tables.",00:28:43
+kaezeew,256,tutor,"Alright, so did you use inverse?",00:28:51
+kaezeew,257,student,"Um, I forgot how to do the inverse.",00:28:57
+kaezeew,258,tutor,"Okay, no worries. So let me remind you. Now you are going to find out the number that is 2 times something gives you 28.",00:29:01
+kaezeew,259,student,So 28 divided by 2.,00:29:12
+kaezeew,260,tutor,"Yes, there you go. So what would be that number?",00:29:15
+kaezeew,261,student,Is it okay if I can do a—,00:29:21
+kaezeew,262,tutor,"Yeah, it's fine. [unclear]",00:29:23
+kaezeew,263,background,"One, two, four, six—",00:29:41
+kaezeew,264,student,"Oh, 14.",00:29:46
+kaezeew,265,tutor,"Exactly, there you go. That's 14. Alright, let's try to rearrange these two numbers. [unclear]",00:29:47
+kaezeew,266,tutor,"Alright. Yes, there you go. Finally got the answer and in the correct order, Julianna. So what do you think went wrong in your method?",00:30:13
+kaezeew,267,student,"Um, try to do the inverse.",00:30:28
+kaezeew,268,tutor,"Exactly. And when you are writing the factors of a given number, how can you identify all the factors? Factors. Which method would be easier? What do you think?",00:30:31
+kaezeew,269,student,Inverse.,00:30:45
+kaezeew,270,tutor,"Inverse. And also you can use a factor bug, right?",00:30:47
+kaezeew,271,student,"Oh yeah, yeah.",00:30:51
+kaezeew,272,tutor,"Because if you find out one side, you can try to complete the other side, right?",00:30:52
+kaezeew,273,student,Yes.,00:30:58
+kaezeew,274,tutor,"Because you got 8 for this question, right?",00:31:00
+kaezeew,275,student,Yes.,00:31:03
+kaezeew,276,tutor,"When you are going to arrange without using a factor bug, You wrote 8. Can you remember?",00:31:04
+kaezeew,277,student,Yeah.,00:31:10
+kaezeew,278,tutor,"Right? So, so that's what I told you to write, draw a factor cloud to spot the factors. Okay, so is it clear now?",00:31:11
+kaezeew,279,student,Yes.,00:31:23
+kaezeew,280,tutor,"Okay, so no worries. Every mistake is a step towards improvement, right? So because of that, only you learn this inverse method, and also you did division, right?",00:31:24
+kaezeew,281,tutor,Yes.,00:31:39
+kaezeew,282,student,"And you draw a [UNCLEAR]. So it's good, right? You learned so many things.",00:31:39
+kaezeew,283,tutor,That's so good.,00:31:39
+kaezeew,284,student,"Yeah? Okay, that's fine. So Julianna, do you have any questions in this slide?",00:31:46
+kaezeew,285,student,"Um, no.",00:31:54
+kaezeew,286,tutor,"Okay, so you have only one question left in this lesson. So can you try this one?",00:31:56
+kaezeew,287,tutor,Taylor says that she has 35— that Taylor says that 35 has more factors than 12 because 35 is a large number. Do you agree? [unclear],00:32:03
+kaezeew,288,student,"Okay, so what do I agree to do? Should I do a factor book?",00:32:21
+kaezeew,289,tutor,"Yeah, sure, you can try. [unclear] [unclear]",00:32:29
+kaezeew,290,student,So we'll do 35 first.,00:33:13
+kaezeew,291,tutor,Okay.,00:33:17
+kaezeew,292,student,So 1......and 35.,00:33:19
+kaezeew,293,tutor,Is it 5 and 7?,00:33:31
+kaezeew,294,student,"Yes, amazing! That's right. So, 1, 2, 3, 4, 5, 7, and... [unclear]",00:33:33
+kaezeew,295,student,Another 2 times 2 balls either.,00:34:25
+kaezeew,296,tutor,"Can I ask some help, please?",00:34:42
+kaezeew,297,student,"Okay, so can you find out any more pairs for 35? [unclear]",00:34:47
+kaezeew,298,tutor,I can't think of any.,00:34:55
+kaezeew,299,student,"Yes, so there are no any other pairs. Only we have 4 factors for 35.",00:35:01
+kaezeew,300,student,Yes. [unclear],00:35:08
+kaezeew,301,tutor,"A number would contain 2, 4, 6, 8, or we don't know, right? The number of factors.",00:35:10
+kaezeew,302,student,Yes.,00:35:22
+kaezeew,303,tutor,"So what you have to do is you have to think. Now if you got 35, you have to think, ah, is there any more pairs That would make 35. If it's no, yeah, then you have only 4 factors for that number. Okay?",00:35:23
+kaezeew,304,student,Yes.,00:35:38
+kaezeew,305,tutor,"Alright, so now let's move on to the other number. So what is that?",00:35:39
+kaezeew,306,student,12.,00:35:45
+kaezeew,307,tutor,"Okay, so you can draw another factor box, Julianna.",00:35:46
+kaezeew,308,student,Can I just do...,00:35:51
+kaezeew,309,tutor,"Yeah, it's fine. [unclear]",00:35:53
+kaezeew,310,tutor,Okay. [unclear],00:36:11
+kaezeew,311,tutor,"All right, amazing.",00:36:23
+kaezeew,312,student,There are 6 here and there are only 4 over here.,00:36:34
+kaezeew,313,tutor,So what is the answer? Do you agree?,00:36:45
+kaezeew,314,student,No.,00:36:49
+kaezeew,315,tutor,No? Why? What is the reason?,00:36:50
+kaezeew,316,student,Because 6 has more factors than 35.,00:36:54
+kaezeew,317,tutor,"Yes, 12, right? 12 has, as you mentioned, 6 factors, and 35 has 4 factors.",00:37:02
+kaezeew,318,student,Yes.,00:37:09
+kaezeew,319,tutor,"Okay, so Julianna, tell me, so do larger number always have Any more factors?",00:37:10
+kaezeew,320,student,No.,00:37:19
+kaezeew,321,tutor,"No, right? So this is an example.",00:37:20
+kaezeew,322,student,Yes.,00:37:24
+kaezeew,323,tutor,"Okay, that was an amazing workout, Julianna. Well done.",00:37:25
+kaezeew,324,student,Thank you.,00:37:30
+kaezeew,325,tutor,"You wrote the factors of 12 without using a factor [UNCLEAR], and it's really amazing. And you find out all the factors of 35. That is also good work. Finally, you did a great job in this question. Okay? [unclear] All right. Do you have any questions, Julianna?",00:37:30
+kaezeew,326,student,"Um, no.",00:37:51
+kaezeew,327,tutor,"All right. So this is the last slide of this lesson. So what are the things we learned in this lesson, Julianna?",00:37:53
+kaezeew,328,student,"We had to learn about factors, And I learned about a factor triangle.",00:38:05
+kaezeew,329,tutor,Yes.,00:38:12
+kaezeew,330,student,And a factor book as well. And [UNCLEAR].,00:38:15
+kaezeew,331,tutor,"Yes. Okay, so do you have any questions?",00:38:15
+kaezeew,332,student,No.,00:38:24
+kaezeew,333,tutor,"Okay, so shall we move on to a new lesson?",00:38:25
+kaezeew,334,student,Okay.,00:38:29
+kaezeew,335,tutor,"All right. So Julianna, make sure to do the post-session quizzes. On this lesson to check your understanding. Okay?",00:38:30
+kaezeew,336,student,Okay.,00:38:39
+kaezeew,337,tutor,Alright. So now our next lesson is finding square numbers. Do you know about square numbers?,00:38:39
+kaezeew,338,student,"Yeah, um, like 2... so I'll just write here. [unclear] 2, and then there's a small— [unclear] 2 2s. And basically it means you have to times 2 by 2, and if it's 3 2s, then you have to do 3 times 3. So you have to double that same number.",00:38:49
+kaezeew,339,tutor,"Exactly. Okay, so as you already know about this one, I think you will for this question. So shall we try this one?",00:39:25
+kaezeew,340,tutor,Okay.,00:39:34
+kaezeew,341,student,16?,00:39:39
+kaezeew,342,tutor,"Oh wait, no, not 16. [unclear]",00:39:41
+kaezeew,343,student,"Can I go get a whiteboard, please?",00:39:44
+kaezeew,344,tutor,Okay.,00:39:49
+kaezeew,345,student,Thank you. I'll be 2 seconds.,00:39:50
+kaezeew,346,tutor,"Okay, okay. [unclear]",00:39:53
+kaezeew,347,tutor,Hello?,00:40:43
+kaezeew,348,student,"Hello, Julianna.",00:40:44
+kaezeew,349,tutor,"Okay, so—",00:40:47
+kaezeew,350,tutor,It comes in... [unclear],00:40:49
+kaezeew,351,tutor,"Enjoyed it, Alicia? Enjoyed yourself? [unclear] [unclear]",00:41:14
+kaezeew,352,tutor,Or 64?,00:41:45
+kaezeew,353,student,"Yes, there you go, it's 64.",00:41:47
+kaezeew,354,tutor,"Amazing, Julianna. So why is it not 16?",00:41:52
+kaezeew,355,student,Because then I was trying to times it by 2.,00:41:59
+kaezeew,356,tutor,"Exactly. Okay, so let me give you another question then. 4 squared, what is your answer?",00:42:04
+kaezeew,357,student,4 squared.,00:42:12
+kaezeew,358,tutor,Yes.,00:42:14
+kaezeew,359,background,16.,00:42:15
+kaezeew,360,tutor,"Yes, so how did you got that answer?",00:42:17
+kaezeew,361,background,"Um, 4 times 4.",00:42:20
+kaezeew,362,tutor,"Amazing. Okay, that was a wonderful start for this lesson. So as you already know about draw numbers, we are directly moving on to the questions. Is that okay with you?",00:42:22
+kaezeew,363,student,Okay.,00:42:35
+kaezeew,364,tutor,"Yes, okay. So let's try to complete this question. So can you work out?",00:42:36
+kaezeew,365,student,What is the value of 7 squared? So... [unclear] [unclear],00:42:41
+kaezeew,366,student,49.,00:43:19
+kaezeew,367,tutor,"Wow, amazing. Yes, you got it. All right.",00:43:20
+kaezeew,368,tutor,So what about question B?,00:43:26
+kaezeew,369,student,What number multiplied by itself gives 100? [unclear],00:43:29
+kaezeew,370,tutor,"Oh wow, amazing. So how do you know that, Julianna?",00:43:41
+kaezeew,371,student,Because 10 times 10 is 100.,00:43:44
+kaezeew,372,tutor,"Okay, amazing. So can you try to complete this one?",00:43:49
+kaezeew,373,student,Is 81 a square number? [unclear],00:43:55
+kaezeew,374,tutor,No.,00:44:22
+kaezeew,375,student,Can you explain me your reason?,00:44:25
+kaezeew,376,tutor,"Um, because it doesn't go into any times tables.",00:44:29
+kaezeew,377,student,"Uh, yeah, it's a simple mistake, something like that. You have to check this number again, but as we are running out of time, we have to end the session now. Okay?",00:44:38
+kaezeew,378,student,"Oh, okay.",00:44:51
+kaezeew,379,tutor,"So, if it's a problem, you can continue from this question next week. Okay? Is that okay?",00:44:52
+kaezeew,380,student,Okay. Okay. [unclear],00:44:59
+kaezeew,381,tutor,"Right. Okay, Julianna. So, those are the things we did today. So, make sure to do the post-session quizzes before you go and also also to reflect on your session. Okay?",00:45:00
+kaezeew,382,student,Okay.,00:45:14
+kaezeew,383,tutor,"Okay, then have a nice day. Bye-bye. See you next week.",00:45:15
+kaezeew,384,background,Bye.,00:45:19
+kaezeew,385,student,Bye.,00:45:20
+kaezeew,386,background,Bye. [unclear],00:45:21

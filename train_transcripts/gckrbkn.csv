@@ -1,0 +1,404 @@
+session_id,utterance_id,role,content,timestamp
+gckrbkn,0,tutor,Hello.,00:00:00
+gckrbkn,1,background,[unclear],00:00:00
+gckrbkn,2,student,Hello.,00:00:00
+gckrbkn,3,tutor,"Yeah, hi Declan, how are you?",00:00:02
+gckrbkn,4,student,I'm alright.,00:00:04
+gckrbkn,5,tutor,Pardon?,00:00:07
+gckrbkn,6,student,I'm alright.,00:00:08
+gckrbkn,7,tutor,"Alright, and how was your break? It was all right.",00:00:09
+gckrbkn,8,tutor,"Okay, refreshing?",00:00:13
+gckrbkn,9,student,Yeah.,00:00:16
+gckrbkn,10,tutor,"Okay, so all set for today's lesson?",00:00:18
+gckrbkn,11,student,Yeah.,00:00:21
+gckrbkn,12,tutor,"Okay, okay, Declan. So last time, I suppose you were doing this lesson, working with probabilities? [unclear] Yeah?",00:00:23
+gckrbkn,13,student,"No, I can't remember.",00:00:37
+gckrbkn,14,tutor,"Alright, so no worries. We'll like just do a quick recap of this, yeah? So what is the probability? Have you heard this word before?",00:00:39
+gckrbkn,15,student,"Yeah, I'm just reading it.",00:00:54
+gckrbkn,16,tutor,Okay. [unclear],00:00:56
+gckrbkn,17,tutor,"Uh, yeah, probability. It's like, yeah or no.",00:01:05
+gckrbkn,18,student,"Yeah, what is probability? Like if I tell you to say—",00:01:11
+gckrbkn,19,tutor,"The probability, it's like the chances.",00:01:14
+gckrbkn,20,student,"Mm-hmm. Yeah, chances that something will happen. Like whatever condition is given to you, okay. Like how likely that event will happen.",00:01:17
+gckrbkn,21,tutor,"Yeah. Okay, now there is a question. Just read it and tell me. [unclear]",00:01:29
+gckrbkn,22,student,"Well, no, I don't know because it might rain, it might not. How do you expect me to answer that? No, she's not correct.",00:01:39
+gckrbkn,23,tutor,"Okay, and why do you think she's not correct?",00:01:51
+gckrbkn,24,student,Because it might rain like 2 days in a row. That doesn't make it 50% rain.,00:01:54
+gckrbkn,25,tutor,"Yeah, see, actually what happens, like, uh, it also depends upon the climate. Yeah, yeah, if, uh, yeah, if a country is raining, then the chance of rain would be like more than 50%, and if it is dry or a desert area, then the chance of rain would be very less, like it would be— [unclear] So that depends upon the climate conditions also. Yeah, all right. So now since you don't remember where that you have done this before, so we we will do these again, yeah?",00:01:58
+gckrbkn,26,tutor,"six-sided dice. Oh yeah, I remember I have to do this now. Yeah, I remember, I remember.",00:01:58
+gckrbkn,27,background,"Okay, so just tell me.",00:01:58
+gckrbkn,28,tutor,Impossible.,00:02:39
+gckrbkn,29,background,"Impossible, and why?",00:02:41
+gckrbkn,30,tutor,"Because it's six-sided dice, you can't roll a 7 on a six-sided dice.",00:02:43
+gckrbkn,31,background,"Yeah, that's correct. All right, okay, now what about this?",00:02:46
+gckrbkn,32,tutor,"Um, uh, [unclear] probability will— she rolled a number between 1 and 6 is equal to 1 if she prepped a 1.",00:02:50
+gckrbkn,33,student,"No, it's one up. It's like chances are 1 to 6.",00:02:58
+gckrbkn,34,tutor,So is she correct?,00:03:04
+gckrbkn,35,student,No. [unclear],00:03:07
+gckrbkn,36,tutor,"What? It's not equal to 1, is it?",00:03:08
+gckrbkn,37,background,"Yeah, is it? This is because this will cover all the possibilities",00:03:19
+gckrbkn,38,tutor,"1/6 is for like one number, yeah. But just read it carefully. They are saying that she wrote the number between 1 and 6, so it could be any number like 1, 2, 3, 4, 5, 6, that way. Yeah, so they are not specific about a number. That means this. [unclear] All right, so this is 1 because then it will cover all the possible outcomes from 1 to 6. Oh, I'm still so confused, but yeah, yeah, there he is.",00:03:29
+gckrbkn,39,tutor,"See, okay, and Declan, tell me, like, the probability of something happening lies between, like, which numbers?",00:03:59
+gckrbkn,40,student,One and six.,00:04:09
+gckrbkn,41,tutor,"No, of something happening. See, [unclear]",00:04:11
+gckrbkn,42,background,"You can't ask what's happening, but you can't tell me the numbers what are happening between what? The total probability will always lie between 0 and 1. Yeah, 0 means something not happening and 1 means that's certainly happening. That way. Okay, so the range of probability is from 0 to 1. Okay, it cannot be more than 1. Is it clear to you?",00:04:15
+gckrbkn,43,student,[unclear],00:04:39
+gckrbkn,44,tutor,"See, like if you are rolling a die, say, so what is the probability of getting 7 So that is 0 because 7 is not there. All right, now when they're saying a number from 1 to 6, that means it will include all the numbers 1 to 3. So then what is the probability? 6 out of 6, so that is 1. Okay, did you get this?",00:04:39
+gckrbkn,45,student,Yeah.,00:05:02
+gckrbkn,46,tutor,"All right, okay. Then how about this one, the C part? [unclear]",00:05:03
+gckrbkn,47,tutor,I'm reading it.,00:05:14
+gckrbkn,48,student,Roll an even number.,00:05:15
+gckrbkn,49,tutor,Even number? [unclear] In the middle.,00:05:17
+gckrbkn,50,student,"Okay, right, and how did you get that?",00:05:21
+gckrbkn,51,tutor,"Because it goes 3, 4, 6.",00:05:24
+gckrbkn,52,student,Yeah.,00:05:29
+gckrbkn,53,tutor,"And then it goes 1, 3, 6— not 6— 1, 3, 5. That's even. It's 50/50.",00:05:30
+gckrbkn,54,student,All right.,00:05:38
+gckrbkn,55,tutor,"50/50, it's in the middle.",00:05:39
+gckrbkn,56,student,"Yeah, so how you calculate is this way, like there are 3 even numbers out of— Total 6, so that is equals to half. All right, this is how you calculate, like, number of favorable outcomes upon total number of outcomes. That's how you do. All right, Declan?",00:05:39
+gckrbkn,57,student,"Yeah, I circled half. [unclear]",00:05:59
+gckrbkn,58,tutor,"All right, now try this exam style question. Yeah, just read it and tell me. [unclear]",00:06:03
+gckrbkn,59,tutor,It'll be 6.,00:06:16
+gckrbkn,60,student,"And I do think so, it's a 6.",00:06:26
+gckrbkn,61,tutor,"No, the probability would be like of how many numbers are there. There's 1, 2, but 2 are B, so it's actually",00:06:28
+gckrbkn,62,tutor,"It's not, but it's like out of 6, 2 was A. So there's 8 all there together, but 2 are basics.",00:06:37
+gckrbkn,63,student,"Very good, yeah.",00:06:48
+gckrbkn,64,tutor,2/6. [unclear],00:06:52
+gckrbkn,65,background,"Why 6? How many, uh, like, uh, numbers are there? How many alphabets are there over here?",00:06:57
+gckrbkn,66,tutor,"There's 8, but 2 are B, that's why the 2 goes [UNCLEAR].",00:07:02
+gckrbkn,67,student,"Yeah, 2 are favorable out of how many outcomes? Like when you spin it, so you can land up in any number. So what are the total number of outcomes?",00:07:02
+gckrbkn,68,tutor,8.,00:07:15
+gckrbkn,69,student,"8. So that should be 2 over 8 then. Yeah, it's, you know, favorable outcome over total number of outcomes. That is how we calculate the probability. Yeah, so then you can simplify it. In the lowest form. Yeah. Two over eight is equal to. This would be six. What is the probability that Spinner does not land on six, Declan. See, I told you in this slide. Yeah. Probability always lies between zero and one all right. It cannot be more than one. Okay. She goes back. How did I go in the middle then?",00:07:16
+gckrbkn,70,tutor,Middle was half.,00:07:57
+gckrbkn,71,student,"Okay, this isn't half, obviously.",00:07:59
+gckrbkn,72,tutor,"This is half. See, 3 were favorable outcomes out of 6, so that gave you a half. All right, now in this case also, I told you to write it in the simplified form, so that would be like 1 over 4. Yeah, if you divide both by 2. [unclear] See, it does not land on C. [unclear] [unclear]",00:08:02
+gckrbkn,73,tutor,"I'm on the wrong slide. This is— yeah, that. Get that one. There's 6.",00:08:27
+gckrbkn,74,student,Mm-hmm.,00:08:39
+gckrbkn,75,tutor,Plus 8.,00:08:41
+gckrbkn,76,student,"Yeah, and then you have to write in the lowest form. Yeah, if you divide both numerator and denominator by 2, what do you get?",00:08:43
+gckrbkn,77,student,One out of nothing. [unclear],00:08:56
+gckrbkn,78,tutor,Divide 6 out of what?,00:09:01
+gckrbkn,79,background,"See, you have to write it in the simplest form. You know what is the simplest form? When you divide both numerator and denominator by a common factor. So what is the common factor between 2 and 8?",00:09:03
+gckrbkn,80,student,"Uh, 2.",00:09:15
+gckrbkn,81,background,"2. So divide both of them by 2. So what you get, that is the simplest form of the fraction.",00:09:16
+gckrbkn,82,student,"Uh, it would be 3 then for",00:09:21
+gckrbkn,83,tutor,"See, yeah, that is correct. And for the top one, it would be 1 by 4. Is it clear?",00:09:27
+gckrbkn,84,student,Yep.,00:09:35
+gckrbkn,85,tutor,"All right. Okay. Now, try this one.",00:09:36
+gckrbkn,86,tutor,Okay. What's the difference between plane and clay?,00:09:53
+gckrbkn,87,background,That is just given in the table so you can— [unclear],00:10:05
+gckrbkn,88,background,How many marbles are there in total?,00:10:15
+gckrbkn,89,tutor,"Oh yeah, my bad. [unclear]",00:10:18
+gckrbkn,90,tutor,The denominator is like the total number of outcomes. So how many marbles are there in total?,00:10:26
+gckrbkn,91,student,13.,00:10:31
+gckrbkn,92,tutor,"Yeah, so it has to be—",00:10:32
+gckrbkn,93,student,3/13.,00:10:35
+gckrbkn,94,tutor,"Yeah, 3/13, that's correct.",00:10:36
+gckrbkn,95,student,"That's what I've done. And there's no common factor of both of them, it would be 1, so it's just [UNCLEAR].",00:10:39
+gckrbkn,96,tutor,"Yeah, there's no common factor, so?",00:10:39
+gckrbkn,97,student,So it'll just be the same.,00:10:56
+gckrbkn,98,tutor,"So, but how many marbles are there? You have to correct this, this is not 10. How many marbles are there in all?",00:10:59
+gckrbkn,99,student,"In all, there's 13.",00:11:05
+gckrbkn,100,tutor,"Yeah, so",00:11:07
+gckrbkn,101,tutor,It says 13.,00:11:09
+gckrbkn,102,student,"Yeah, now you have written 13. Earlier it was 10.",00:11:10
+gckrbkn,103,tutor,"Earlier? About 10 minutes ago, yeah.",00:11:15
+gckrbkn,104,student,"Okay, but on my screen maybe because of some lag. All right, no worries. Okay, now find the probability the marble is not clear.",00:11:18
+gckrbkn,105,background,Probability the marble is not clear would be 11.,00:11:18
+gckrbkn,106,tutor,11. [unclear],00:11:18
+gckrbkn,107,tutor,"It would just be 11, wouldn't it?",00:11:39
+gckrbkn,108,background,"No. Declan, just here. Yeah, go through this. See, probability of an event happening is number of ways it can happen, total number of outcomes. Yeah?",00:11:47
+gckrbkn,109,tutor,Have you got— are you clear with this?,00:12:04
+gckrbkn,110,student,[unclear],00:12:06
+gckrbkn,111,tutor,"Okay, so now the probability the marble is not clear. So how many marbles are not clear? 11, that is correct. Yeah, and then what are the total number of marbles? That will come in the denominator. Not 2. Choose your teacher.",00:12:08
+gckrbkn,112,tutor,"Out of total 13, there are 11 which are not—",00:12:30
+gckrbkn,113,student,"Yes, I've done it.",00:12:33
+gckrbkn,114,tutor,"All right, so maybe in my screen still showing— all right, if you have done it, so yeah, now it's there. All right, okay, I think there is some, uh, like lag or something. All right, so now that's clear to you how do we find the probability of something? [unclear]",00:12:35
+gckrbkn,115,tutor,"All right, okay. Now, yeah, this is a question which you haven't done as for the like last session's report. So try this one, just read it and—",00:12:54
+gckrbkn,116,student,"What is it out of? What is it out of? What is it out of? What's like the max number? So it'll just be like, it'll just be like 90. It'd be like 99.0— no, it'd be like 99.4. Percentage, you're saying? [unclear]",00:13:08
+gckrbkn,117,tutor,"No, it's always between 0 and 1. This is about the percentage you're writing. Yeah?",00:13:32
+gckrbkn,118,student,So what is 0.6 then? What's that about? Is that a percentage?,00:13:38
+gckrbkn,119,tutor,"No, this is a decimal. So?",00:13:43
+gckrbkn,120,student,So what's the max number out of?,00:13:46
+gckrbkn,121,tutor,Total probability of something happening?,00:13:47
+gckrbkn,122,student,1.,00:13:49
+gckrbkn,123,tutor,1. So this is 0.6. So what is the probability of chance of this not happening?,00:13:50
+gckrbkn,124,student,0.4.,00:13:55
+gckrbkn,125,tutor,"Yeah, that's the correct answer. That is how you find it out. Yeah, alright. Now you know if you have given something happening and not happening, how you will find? Take away from 1. Okay, just read this one, then you will be more clear. Just read this line.",00:13:57
+gckrbkn,126,student,"Yes, clear.",00:14:17
+gckrbkn,127,tutor,Clear? Alright.,00:14:19
+gckrbkn,128,student,"Yeah, everything is 1.",00:14:20
+gckrbkn,129,tutor,"Yeah, its total is always 1.",00:14:22
+gckrbkn,130,student,[unclear],00:14:24
+gckrbkn,131,tutor,"Yeah, that's correct. Now you're pretty fast with it. Yeah, okay. So now these questions are like of one mark, so simply you have to write the answer, or you can just show one step that 1 minus 0.8, and then you can write 0.2. That way you'll get your one mark. All right, Declan?",00:14:24
+gckrbkn,132,student,Yeah.,00:14:44
+gckrbkn,133,tutor,"All right, okay. And now if there are like 2, 3 events happening, so what will be the sum of all of them?",00:14:45
+gckrbkn,134,tutor,Hmm?,00:14:55
+gckrbkn,135,background,[UNCLEAR],00:14:55
+gckrbkn,136,tutor,"One second, I'm— yeah, see, now for this question, okay? Now if you have written the probability that a marble is plain, okay? Now what is the probability that the marble is clear?",00:14:57
+gckrbkn,137,student,"Um, can I— The marble is clear. You can write it over here. Hello? [unclear]",00:15:16
+gckrbkn,138,tutor,"Yeah, now can you hear me?",00:15:37
+gckrbkn,139,student,Yeah.,00:15:40
+gckrbkn,140,tutor,Hello?,00:15:41
+gckrbkn,141,student,Hello.,00:15:42
+gckrbkn,142,tutor,Hello.,00:15:57
+gckrbkn,143,student,Hello.,00:15:58
+gckrbkn,144,tutor,Hello. Can you hear me now?,00:15:58
+gckrbkn,145,student,Yes.,00:16:00
+gckrbkn,146,tutor,"All right. Okay, Declan, as I was asking you, what is the probability that the marble is clear? Can you write it over here? [unclear]",00:16:01
+gckrbkn,147,tutor,"No, it's not. It's [UNCLEAR]. [unclear]",00:16:14
+gckrbkn,148,tutor,"Hello, Declan.",00:16:47
+gckrbkn,149,student,Hello.,00:16:47
+gckrbkn,150,tutor,"I'll tell you what, shall I go get you a bit of wood?",00:16:50
+gckrbkn,151,student,Hello.,00:16:57
+gckrbkn,152,tutor,Hello.,00:16:58
+gckrbkn,153,student,"Yeah, but then you've got a base to work off.",00:16:58
+gckrbkn,154,tutor,"You're actually annoying me now, because you're not responding.",00:17:02
+gckrbkn,155,tutor,Hello?,00:17:21
+gckrbkn,156,student,Hello?,00:17:22
+gckrbkn,157,tutor,"Yeah, now can you hear me clearly? [unclear] Yeah, Declan, so can you tell me what's the probability that the marble is clear?",00:17:23
+gckrbkn,158,student,2.,00:17:37
+gckrbkn,159,tutor,"2 over 13, yeah. And what's the probability that the marble is really [UNCLEAR]?",00:17:38
+gckrbkn,160,student,swelling and...,00:17:38
+gckrbkn,161,tutor,"8 over 13, yeah. And if you add all these, you will get 13 over 13, that is 1. Alright, so what I was trying to to tell you that sum of all the probabilities is 1. Got it? Like if there's, uh, 2, 3 events happening, then the probability of all the events, if you add them together, it will be your 1. Is this point clear? [unclear] Yeah?",00:17:38
+gckrbkn,162,student,"Yeah, yeah, it's all right.",00:18:16
+gckrbkn,163,tutor,"All right, now, yeah, we have come to the last slide. So just where you have to correct the mistakes. Yeah. [unclear]",00:18:19
+gckrbkn,164,tutor,"All right, this one is correct, yeah. And how about this question, the first one?",00:18:44
+gckrbkn,165,student,"I don't know, fractions are just like— [unclear]",00:18:50
+gckrbkn,166,tutor,So how many yellow counters are there? [unclear],00:18:52
+gckrbkn,167,tutor,"Actually, I'm not able to hear you properly, Declan.",00:19:23
+gckrbkn,168,student,[UNCLEAR],00:19:23
+gckrbkn,169,tutor,I can't see it on the screen either.,00:19:27
+gckrbkn,170,student,What am I doing? Where's the work?,00:19:35
+gckrbkn,171,background,She's done again.,00:19:42
+gckrbkn,172,tutor,Hello?,00:19:51
+gckrbkn,173,student,Yeah?,00:19:53
+gckrbkn,174,tutor,[unclear],00:19:55
+gckrbkn,175,student,I'm here. I'm not—,00:19:56
+gckrbkn,176,tutor,[unclear],00:20:02
+gckrbkn,177,student,What I'm seeing on my screen is like messages disconnected from your end.,00:20:02
+gckrbkn,178,tutor,"Look, I'm completely fine. [unclear]",00:20:08
+gckrbkn,179,tutor,"Yeah, now can you hear me?",00:20:11
+gckrbkn,180,student,I could hear you the whole time.,00:20:20
+gckrbkn,181,tutor,"Okay, but I was not able to hear you for quite a long time. All right, so now how many yellow counters are there in all?",00:20:23
+gckrbkn,182,student,"Counters in all? I don't know, it doesn't say, does it?",00:20:32
+gckrbkn,183,tutor,Why have you done it?,00:20:36
+gckrbkn,184,student,"How many yellow counters? You haven't written the answer over here, I can't see.",00:20:37
+gckrbkn,185,tutor,Because I don't know the answer.,00:20:40
+gckrbkn,186,student,"Yeah, what is the answer?",00:20:42
+gckrbkn,187,tutor,"Because I don't know it. I haven't read it because I don't know it. I'm clearly asking for some help, mate. [unclear]",00:20:44
+gckrbkn,188,tutor,"I don't know it, I've just said I do not know. You're saying, what is the answer? You know I don't know, do I?",00:20:53
+gckrbkn,189,student,Alright.,00:21:01
+gckrbkn,190,tutor,The answer is dead.,00:21:01
+gckrbkn,191,tutor,"Okay, so how many yellow counters are there? You can tell me this, that is written in the question. How many yellow counters are there?",00:21:03
+gckrbkn,192,student,There are 4 yellow counters.,00:21:10
+gckrbkn,193,tutor,3 yellow counters. And what are the total number of counters?,00:21:11
+gckrbkn,194,student,It's 3 plus [UNCLEAR].,00:21:16
+gckrbkn,195,tutor,Yeah.,00:21:16
+gckrbkn,196,student,That's 11.,00:21:19
+gckrbkn,197,tutor,"Yeah, so the probability of getting a yellow counter is 3 over 11. Yeah, see what the favorable upon the total number. That is how you calculate the probability. All right, Declan?",00:21:21
+gckrbkn,198,student,Yes.,00:21:34
+gckrbkn,199,tutor,"So with this, we have come to end of this lesson. So before we move on to our next, can you summarize what have you learned here in this one? How to calculate the probability of something happening?",00:21:34
+gckrbkn,200,student,"Yeah, yeah, that's it. It's one out of [UNCLEAR]. It's one out of zero every single time.",00:21:46
+gckrbkn,201,tutor,Mm-hmm. And how do you calculate the probability of something happening?,00:21:46
+gckrbkn,202,student,"I don't know. Max number. Yeah, number of ways it can happen upon total number of outcomes. That is how you find the probability of something. Yeah, just remember this one and then you would be able to solve. Okay?",00:21:55
+gckrbkn,203,student,[unclear],00:22:09
+gckrbkn,204,tutor,"Alright, so now we'll move on to the next lesson. Yeah. Okay, now this is about calculating with fractions. So what are fractions?",00:22:13
+gckrbkn,205,tutor,[unclear] your dog's yapping in the background.,00:22:26
+gckrbkn,206,background,"Yeah, what are fractions?",00:22:32
+gckrbkn,207,tutor,What are fractions?,00:22:34
+gckrbkn,208,background,Yeah.,00:22:37
+gckrbkn,209,tutor,There's a number on top and a number on bottom.,00:22:38
+gckrbkn,210,background,All right.,00:22:41
+gckrbkn,211,tutor,And a height.,00:22:42
+gckrbkn,212,background,"Yeah, all right. So this is basically a representation of quantity as a part of wholes. Like this is 2 parts out of 7, 3 parts out of 7, that's all right. Now read this question and tell me who is correct.",00:22:43
+gckrbkn,213,student,I can't because I don't know what a fraction is.,00:22:58
+gckrbkn,214,tutor,"Mm-hmm. Okay, you don't know how to add fractions?",00:22:59
+gckrbkn,215,student,No.,00:23:06
+gckrbkn,216,tutor,"All right, okay, so no worries, we'll be solving these in the next slides. All right, so basically whenever we add fraction, we just add the numerators. Like this is 2 parts out of 7 and this is 3 parts out of 7. So in all, if you add them",00:23:08
+gckrbkn,217,tutor,"Excuse me. Yeah, so there will be like 5 parts out of 7, so poly is correct. All right.",00:23:25
+gckrbkn,218,student,"So I just add the tops, not the bottoms, because it's not 14 out of 5. Okay.",00:23:34
+gckrbkn,219,tutor,"No. Yeah, we just add—",00:23:39
+gckrbkn,220,student,"Yeah, just add the bottoms. Not add the tops, not the bottoms. Add these bits. Yeah.",00:23:40
+gckrbkn,221,tutor,"Yeah, see this way, like you work this way.",00:23:45
+gckrbkn,222,student,"Yeah, I know, I know, I know.",00:23:47
+gckrbkn,223,tutor,You know? All right.,00:23:50
+gckrbkn,224,student,Like here. Yeah. [unclear],00:23:51
+gckrbkn,225,tutor,Okay.,00:23:54
+gckrbkn,226,background,"Yeah, and then you have to add the parts.",00:23:55
+gckrbkn,227,tutor,"Okay, the tops, yeah, the tops, not the bottom.",00:23:57
+gckrbkn,228,background,"Yeah, and what is the condition for this? That the number of parts should be of same size, yeah? Like if this is divided into— first one is divided into 7 parts, so the other one has to be divided into 7 parts, all right? When the number of parts, the size of the parts are same, then and only you can add them, okay?",00:24:00
+gckrbkn,229,tutor,Yeah.,00:24:19
+gckrbkn,230,student,Yes.,00:24:20
+gckrbkn,231,background,"Okay, okay, so now we'll move on to the next one. Yeah, just read this and try answering.",00:24:21
+gckrbkn,232,tutor,"No one has a brick floor upstairs, sir.",00:24:28
+gckrbkn,233,student,"No, I don't.",00:24:32
+gckrbkn,234,tutor,I know.,00:24:34
+gckrbkn,235,student,"Well, Miss might if she lives in a castle.",00:24:35
+gckrbkn,236,tutor,Did she say she lives in a castle?,00:24:37
+gckrbkn,237,student,I think so.,00:24:40
+gckrbkn,238,tutor,So I got a cup of tea earlier.,00:24:41
+gckrbkn,239,student,Did you?,00:24:43
+gckrbkn,240,tutor,"Yeah, very good.",00:24:44
+gckrbkn,241,background,How does that make sense if—,00:24:45
+gckrbkn,242,tutor,"What is not making sense? See, Declan, whenever you've got a [unclear]",00:24:48
+gckrbkn,243,tutor,What is 4?,00:24:55
+gckrbkn,244,student,Students attended the club on Friday.,00:24:56
+gckrbkn,245,tutor,"Just read the question carefully, yeah? So you always make it a point to underline. How many boys are there?",00:25:01
+gckrbkn,246,student,"Oh, no, no, no, no, no. Okay, I get it, I get it, I get it, I get it, I get it.",00:25:05
+gckrbkn,247,tutor,"And yeah, how many girls? Underline the keywords. [unclear] Yeah, there's 1/6 of boys and 3/5 of girls. And then how many students attend the club on Friday? So just always make it a practice to underline the key information, then you would be able to solve it.",00:25:09
+gckrbkn,248,student,6. 21 people attended the club on Friday.,00:25:27
+gckrbkn,249,tutor,"Okay, and how did you get that? And Declan, let me remind you that this is for 3 marks, so you have to show your working. Yeah, just giving the answer—",00:25:31
+gckrbkn,250,background,"I think I've done it completely wrong, but isn't it like 6? Plus 15, because you have to do the—",00:25:39
+gckrbkn,251,tutor,And how did you get this?,00:25:54
+gckrbkn,252,student,Times 5 equals 15. And this equals 21.,00:25:55
+gckrbkn,253,tutor,So from where did you get this 6? How did you get this 6? 6?,00:26:07
+gckrbkn,254,tutor,"Uh, because it's like this is like 1 out of 6. It's like 1/6.",00:26:11
+gckrbkn,255,background,"So say how many boys are there in total? 24. Yeah, 1/6 of the boys. It's not 7. 1/6. Yeah. All right, we'll work this together. [unclear] No, that's not— All right, just read this and then you'll be clear with it. How do we solve this. See, there are how many boys in total? And then you have to find the 1/6 of the number of boys. So how would you find 1/6 of them? [unclear]",00:26:17
+gckrbkn,256,tutor,"Wait, wouldn't it be like 24 divided by—",00:26:58
+gckrbkn,257,background,"Yeah, that's correct. Yeah, so you have to divide it in— yeah, so that's 4. So that means [unclear]",00:27:01
+gckrbkn,258,tutor,So this each block is how much?,00:27:14
+gckrbkn,259,student,4.,00:27:19
+gckrbkn,260,tutor,Yeah.,00:27:21
+gckrbkn,261,student,And then it's 6. And then this equals— this is 6.,00:27:22
+gckrbkn,262,tutor,Yeah.,00:27:28
+gckrbkn,263,student,So then—,00:27:33
+gckrbkn,264,tutor,And then there are 3 parts. So how many girls in all?,00:27:34
+gckrbkn,265,student,6.,00:27:37
+gckrbkn,266,tutor,In all?,00:27:41
+gckrbkn,267,student,6.,00:27:42
+gckrbkn,268,tutor,And 6. So how many in all? [unclear],00:27:44
+gckrbkn,269,student,"So 6 equals 30. Yeah, 6. It's 6 in each bit. There's 6 in each square.",00:27:45
+gckrbkn,270,tutor,Yeah.,00:27:53
+gckrbkn,271,student,So then it will be 18.,00:27:55
+gckrbkn,272,tutor,Very good. That's the correct answer. And for this one?,00:28:01
+gckrbkn,273,tutor,So it'd be 22.,00:28:06
+gckrbkn,274,background,"Yeah, that's the correct answer. But Declan, then you have to work it this way, yeah? And then this is 1/6, so you will like multiply this by 1, and then your answer would be how many boys?",00:28:08
+gckrbkn,275,student,"Uh, 6. [unclear]",00:28:20
+gckrbkn,276,background,Why is it 24 divided by 6 is not 6?,00:28:23
+gckrbkn,277,tutor,"No, it's 4. It's 4. It's 4.",00:28:26
+gckrbkn,278,background,"Yeah, you have to write 4 over here, yeah.",00:28:29
+gckrbkn,279,tutor,Alright.,00:28:33
+gckrbkn,280,background,"And for the girls, like you divide into 5 equal parts, so each party sees this is correct. So you can write it over here.",00:28:34
+gckrbkn,281,tutor,"Uh, a—",00:28:39
+gckrbkn,282,background,Yeah.,00:28:41
+gckrbkn,283,tutor,"Oh, I run out of line.",00:28:42
+gckrbkn,284,background,You can use the text tool so that— [unclear],00:28:43
+gckrbkn,285,tutor,30 divided by—,00:28:46
+gckrbkn,286,background,Divided by 5.,00:28:48
+gckrbkn,287,tutor,5. And then you have to times it by how much?,00:28:51
+gckrbkn,288,background,Times by—,00:28:54
+gckrbkn,289,tutor,"No, see what's in the numerator, 3/5. So you have to times it by 3. See, we have—",00:28:58
+gckrbkn,290,student,"Oh yeah, 3 then.",00:29:04
+gckrbkn,291,tutor,"Yeah, times it by 3 and then your answer will be—",00:29:06
+gckrbkn,292,student,[unclear],00:29:09
+gckrbkn,293,tutor,"Yeah, that's correct. And then when they say total number of boys and girls, so 4 18, that you have to do. Okay.",00:29:09
+gckrbkn,294,student,So,00:29:20
+gckrbkn,295,tutor,"you can write it over there, yeah.",00:29:20
+gckrbkn,296,tutor,[unclear],00:29:30
+gckrbkn,297,background,"All right. So Declan, if you solve it this way, you will get like all your 3 marks. Your first mark would come from finding out the number of boys correctly. Yeah, that is 4. And you will get second mark for finding the number of girls who attended the club. Yeah, correctly, that is 18. And your third mark would come from this one. Okay. Now, you are— yeah, I would like you to try one more like this.",00:29:30
+gckrbkn,298,student,Okay.,00:29:59
+gckrbkn,299,tutor,"This is very similar to the one, and then you have to show your working. [unclear]",00:29:59
+gckrbkn,300,student,12. It's going to be 60 divided by 5.,00:30:06
+gckrbkn,301,tutor,Yeah.,00:30:16
+gckrbkn,302,tutor,"So for this one, yeah, this is how many chocolates.",00:30:18
+gckrbkn,303,student,5.,00:30:21
+gckrbkn,304,tutor,"You can write it over here, Declan.",00:30:24
+gckrbkn,305,student,12.,00:30:28
+gckrbkn,306,tutor,"Mm-hmm. And how about Henry? [unclear] The number of chocolates Henry eats, you have to write that also.",00:30:29
+gckrbkn,307,student,He eats 12.,00:30:42
+gckrbkn,308,tutor,"Yeah, [unclear] has eaten 12.",00:30:46
+gckrbkn,309,student,"Henry ate 12. Oh no, he— no, I do 60. 60 divided by 12 equals 5. He ate 5.",00:30:48
+gckrbkn,310,tutor,"And then he's having 5 parts, not just one. See, he was having one part and he's having 5.",00:31:01
+gckrbkn,311,student,"Yeah, so then 5 times 5. 25.",00:31:07
+gckrbkn,312,tutor,"Yeah, he's eaten 25.",00:31:13
+gckrbkn,313,student,25.,00:31:16
+gckrbkn,314,tutor,"All right, now read this part. How many chocolates are left? So how would you calculate?",00:31:17
+gckrbkn,315,student,"20. [unclear] Um, gonna be plus 20, 25. 25 equals 37.",00:31:27
+gckrbkn,316,tutor,"Yeah, that's correct.",00:31:42
+gckrbkn,317,student,Then it'll be like 23.,00:31:43
+gckrbkn,318,tutor,"Yeah. So how would you— how have you calculated the remaining chocolate, the chocolates that are left?",00:31:50
+gckrbkn,319,student,23.,00:31:57
+gckrbkn,320,tutor,Yeah.,00:31:59
+gckrbkn,321,student,You just do 60 [UNCLEAR].,00:32:01
+gckrbkn,322,student,37 take away 60 equals— not— you do the other way around. You do 60 take away 37 equals 23.,00:32:06
+gckrbkn,323,tutor,"Yeah, so you have to write this also. Yeah, since I told you that this question has 3 marks, so you have to show the working also. Like the chocolate— remaining chocolate is 60 minus 37, that's 23. All right, so now are you clear with it how to solve such questions?",00:32:15
+gckrbkn,324,student,Yeah.,00:32:33
+gckrbkn,325,tutor,"All right, okay, then we will start our next question. Yeah, now here you have to add the fractions.",00:32:34
+gckrbkn,326,student,But how? Because the bottom is not the same.,00:32:42
+gckrbkn,327,tutor,"Yeah, something I told you in the beginning, that you can add only when the number of parts are equal. Like this has 2 parts out of 5, and this is 1 part out of 3. So when you have to add what you have— yeah, so you have to do something. How could you add them? Simplify them.",00:32:45
+gckrbkn,328,tutor,"Yeah, and how would you simplify them? Any idea?",00:33:01
+gckrbkn,329,student,No clue.,00:33:06
+gckrbkn,330,tutor,"Okay, no worries. Yeah, okay, just read this yellow line carefully. [unclear]",00:33:08
+gckrbkn,331,student,So I need to find the lowest common denominator. Isn't Allah the lowest common denominator? Common factor?,00:33:16
+gckrbkn,332,tutor,"Yeah, then isn't it the lowest like number it can be like divided by?",00:33:27
+gckrbkn,333,student,Divided by both of them?,00:33:33
+gckrbkn,334,tutor,Yeah.,00:33:35
+gckrbkn,335,student,Yeah.,00:33:35
+gckrbkn,336,tutor,"Okay, so how would you find that? You have any idea? How do you find the lowest common denominator?",00:33:36
+gckrbkn,337,student,Wouldn't it be 2? [unclear],00:33:41
+gckrbkn,338,tutor,Does 5 come in 2 times tables?,00:33:45
+gckrbkn,339,student,"No, it goes in the 3. No, it doesn't. It goes in—",00:33:48
+gckrbkn,340,tutor,"Yeah, then",00:33:50
+gckrbkn,341,tutor,The 5.,00:33:54
+gckrbkn,342,background,But then 3 won't come in 5 times table.,00:33:55
+gckrbkn,343,tutor,6.,00:34:02
+gckrbkn,344,background,"6 comes in 5 times. So you have to look for a number which is like multiple of both 5 and 3. All right, so, uh, no worries, Declan. I'll tell you how we find the lowest common denominator. All right. See, first you look which denominator is the largest. So which is the largest denominator in this case?",00:34:03
+gckrbkn,345,student,"Uh, 5.",00:34:25
+gckrbkn,346,tutor,"5. All right, so we'll start with writing the multiples of 5. So what are the multiples of 5? 5, 5, 1, 5, 9, 5, 1.",00:34:27
+gckrbkn,347,student,"No, not factors. Don't get confused between factors and multiples. Multiples is like times table. 5 times 1, 5 times 2. 5 times 3, this way. Yeah, what is that? This is multiple. These are multiples of 5. Clear? What? Because you can do 5 times 2 because 2 is there, and then 5 times 3 because 3 is there. 5 times 1 is 5, 5 times 2 is 10, and then 5 times 3 is 15. So I've written like multiples of 5. Okay. [unclear] Okay, now you write the multiples of 3. So first would be 3 and then?",00:34:36
+gckrbkn,348,student,"3, 6, 9.",00:35:15
+gckrbkn,349,tutor,"Yeah, so write it here. Yeah, that's correct. Write them. 3, 6, yeah, 9.",00:35:16
+gckrbkn,350,student,I'll carry on going.,00:35:23
+gckrbkn,351,tutor,"Yeah, keep going.",00:35:26
+gckrbkn,352,student,What if there's only 3 on the other?,00:35:27
+gckrbkn,353,tutor,"3, 6, 9, and what will come after 9?",00:35:31
+gckrbkn,354,student,12.,00:35:34
+gckrbkn,355,tutor,"And then? [unclear] 15. Yeah, so which is the common number in both of them? [unclear] 15. So 15 is the lowest common. Now you know how you calculate the lowest common multiple denominator? Yeah. Okay, just start with the highest denominator. Like, this was 5, 10, 15. Write them, and then write the multiple of the second denominator till the time you find number which is common.",00:35:35
+gckrbkn,356,tutor,"Well, do that with 2 and 1.",00:36:08
+gckrbkn,357,student,Pardon?,00:36:11
+gckrbkn,358,tutor,Do that with 2 and 1.,00:36:12
+gckrbkn,359,student,2 and 1? But we are looking for the lowest one. [unclear],00:36:15
+gckrbkn,360,tutor,"Yeah, so 15 is the lowest, alright?",00:36:18
+gckrbkn,361,student,I'm so confused.,00:36:21
+gckrbkn,362,tutor,"So now what you have to do, you have to convert both these fractions into equivalent fractions. The denominator of 15. [unclear]",00:36:24
+gckrbkn,363,tutor,"All right, Declan, see, whenever you have to add the fractions, you start with finding the denominator.",00:36:38
+gckrbkn,364,student,Then it still goes like 2 up on the top of that.,00:36:48
+gckrbkn,365,tutor,Pardon?,00:36:52
+gckrbkn,366,student,"So like 1 goes there, yeah?",00:36:53
+gckrbkn,367,tutor,"No, see, you have to make 15. Both the denominators 15. So how did you get 15 from 5? What have you done? [unclear]",00:36:56
+gckrbkn,368,tutor,"See, this is 5, yeah, and this is 15. So how do you get 15 from 5? 5 to 15?",00:37:09
+gckrbkn,369,student,Times it by 3.,00:37:19
+gckrbkn,370,tutor,"3, yeah, 5 times 3 is 15. You have to times the numerator with the denominator. [unclear]",00:37:22
+gckrbkn,371,tutor,"Oh, then I can't get rid of it.",00:37:29
+gckrbkn,372,background,"Yeah, this one is correct. 5 times 5 over 15. And how about this?",00:37:32
+gckrbkn,373,student,"It is 2 times 3, so it would be like 6.",00:37:37
+gckrbkn,374,tutor,"Yeah, this would be 6 over 15. So just correct it, 6 over 15. All right, this is how we find the equivalent. Whatever you do to the numerator, you have to do the same to the denominator. 6 over 15. Yeah, now since the denominator is both the same, you can just simply add the numerator to get the sum. So what would be the answer then?",00:37:42
+gckrbkn,375,student,11 over 58.,00:38:03
+gckrbkn,376,tutor,"Yeah, that's the answer. All right. [unclear] [unclear]",00:38:05
+gckrbkn,377,tutor,"Alright. So now can you explain me how have we solved this? Like, can you take me through all the steps we have done to solve this?",00:38:21
+gckrbkn,378,student,"Because the bottoms aren't equal, we need to find the lowest common denominator. You get both the bottom numbers, as we did, and then you just like times it. Times it, times it until you get the same number. [unclear] Then you put that on the bottom, then times what you times on the— because we times it like 3 times here, which times 2 by 3.",00:38:28
+gckrbkn,379,tutor,"Yeah, that's correct. And for this one, like, we have times 3 by 5, so you would times 1 by 5.",00:39:02
+gckrbkn,380,student,1 by 5. 5. Yeah.,00:39:08
+gckrbkn,381,tutor,And then you simply add the—,00:39:10
+gckrbkn,382,student,"Add the numerator, then— [unclear]",00:39:12
+gckrbkn,383,tutor,All right. So now solve one more question like this. Yeah. And this is the subtraction. Here also you have to find the lowest common denominator.,00:39:17
+gckrbkn,384,student,"All right. So basically you do 7 times— 14, then you got 21, 5, 5, 9, then you got plus 7 equals 28, 7 equals 35. So it would be 35 on the bottom.",00:39:27
+gckrbkn,385,tutor,"Yeah, very good. Good job in finding that 35 is the lowest common denominator.",00:39:56
+gckrbkn,386,tutor,So now you have to convert both these fractions with the denominator 35.,00:40:01
+gckrbkn,387,student,But then I times it by 5. [unclear],00:40:08
+gckrbkn,388,tutor,7 times 5.,00:40:13
+gckrbkn,389,student,"It will be 5 times 5, which is 25.",00:40:16
+gckrbkn,390,tutor,"Yeah, that's correct.",00:40:23
+gckrbkn,391,student,"25, and it will be... You'll have to times 1 by 5 will be 5. [unclear]",00:40:24
+gckrbkn,392,tutor,"Right, fine. See, how would you get 35 from 5, Declan?",00:40:39
+gckrbkn,393,student,"Oh, you times it 7 times.",00:40:43
+gckrbkn,394,tutor,"Yeah, so you have to times the numerator also by 7, yeah. So I'm really impressed that you're [unclear]",00:40:45
+gckrbkn,395,tutor,"I can't hear you, can't I? I can't hear you.",00:40:58
+gckrbkn,396,student,"Hello? Yeah, now can you hear me? Yeah, can you hear me? All right. Yeah, yeah. Okay, so I was telling that I'm really impressed the way you have learned this. Yeah, to find the lowest common denominator and then to convert. That's really very nice. All right, so now you have to write the answer. What's the final answer?",00:41:12
+gckrbkn,397,student,"The final answer is, um, could you do divide? So 25 take away 7. Equals 18. 18 over 35.",00:41:37
+gckrbkn,398,tutor,"Very good, that's awesome. Yeah, that's the correct answer. And like, this question is for 2 marks, so your first mark would come from converting both the fractions into this form. Yeah, Declan? And your second would come from writing the correct answer. All right, Declan? Okay, so with this I have to end the session, and we'll work from the slide next time. All right.",00:41:50
+gckrbkn,399,tutor,Okay.,00:42:13
+gckrbkn,400,background,Have a great day and just try solving the quiz on the previous [UNCLEAR].,00:42:14
+gckrbkn,401,tutor,"Okay, thank you.",00:42:14
+gckrbkn,402,background,"All right, bye-bye.",00:42:21

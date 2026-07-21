@@ -1,0 +1,410 @@
+session_id,utterance_id,role,content,timestamp
+guvolef,0,background,[unclear],00:00:00
+guvolef,1,tutor,Hello.,00:00:00
+guvolef,2,background,Hello.,00:00:02
+guvolef,3,tutor,"Hello, can you hear me?",00:00:03
+guvolef,4,background,"Yeah, can you hear me?",00:00:06
+guvolef,5,tutor,"Yes, I can hear you. Can you hear me clearly?",00:00:08
+guvolef,6,tutor,Yeah.,00:00:12
+guvolef,7,background,"Okay, great. Gideon, how are you?",00:00:12
+guvolef,8,student,Good.,00:00:15
+guvolef,9,background,How has your day been so far?,00:00:16
+guvolef,10,student,Good.,00:00:19
+guvolef,11,background,Uh-huh. What happened at school today? [unclear],00:00:20
+guvolef,12,background,What happened at school today?,00:00:25
+guvolef,13,background,"Well, we've only just had break time.",00:00:28
+guvolef,14,background,Okay. Okay. What did you do during the break then?,00:00:31
+guvolef,15,student,"Uh, we just played outside. We played a little bit of football.",00:00:38
+guvolef,16,tutor,"Nice, nice, nice. So Gideon, shall we start our lesson?",00:00:43
+guvolef,17,student,Yeah.,00:00:47
+guvolef,18,tutor,"Right. So we were looking at rounding numbers to the nearest 10,000 and 100,000. And then today we need to— we completed this last week. Today let's learn how to round numbers to the nearest 100,000. Okay?",00:00:48
+guvolef,19,student,Okay.,00:01:06
+guvolef,20,tutor,Right.,00:01:06
+guvolef,21,tutor,"So before we start, if you want to rate rounding numbers out of 5, how much would you rate it?",00:01:09
+guvolef,22,student,How much stars would I rate it?,00:01:20
+guvolef,23,tutor,"Yes, rounding numbers. [unclear]",00:01:24
+guvolef,24,student,I'd say I give it a 3.,00:01:38
+guvolef,25,tutor,"Okay, right. So after like learning about this sport and the latter part, we'll see whether you have any improvement on the rating, okay?",00:01:42
+guvolef,26,student,Okay.,00:01:53
+guvolef,27,tutor,"So look at this very carefully. I will explain you step by step. Let's round 976,532 to the nearest [UNCLEAR]. So we are going to round this number to the nearest hundred thousand. Okay, so for that, the first step is to underline the hundred thousands column. So 9 is in the hundred thousand, so we underline the column first. Is that clear?",00:01:54
+guvolef,28,student,Yeah.,00:02:25
+guvolef,29,tutor,"Right, so that is the first. You need to underline the column of the hundred thousand. Now estimate the position of 976,532 from the number 9. [unclear]",00:02:27
+guvolef,30,tutor,So we have 9 here in the hundred thousand column. We always start with the digit itself. Okay?,00:02:40
+guvolef,31,student,Okay.,00:02:54
+guvolef,32,tutor,"The digit— this number on the first is going to be 900,000 because in the hundred thousand column we have 9. We start with 900,000. Is this clear to you?",00:02:56
+guvolef,33,student,Yeah.,00:03:11
+guvolef,34,tutor,"Okay, great. For an example, if we have this number, this like this, what— the number line starts with which number?",00:03:12
+guvolef,35,student,"500,000, 46,900.",00:03:23
+guvolef,36,tutor,"Yeah, but if— which number would the number line start with?",00:03:28
+guvolef,37,student,The 5.,00:03:34
+guvolef,38,tutor,"Yes, exactly. So that's going to be the hundred thousands column. So the number line would start with 5 [unclear] Is that clear?",00:03:35
+guvolef,39,student,Yeah.,00:03:45
+guvolef,40,tutor,"Yeah, so because it's 9 here— that got erased— because it's 9 here, let's start with 900,000. And what is the 100,000 that comes after 900,000? Like 100,000, 200,000, 300,000. If you count on What comes after 900,000?",00:03:46
+guvolef,41,student,[unclear],00:04:12
+guvolef,42,tutor,1 million? Exactly. So that is the last part of the number line. Okay?,00:04:12
+guvolef,43,student,Okay.,00:04:20
+guvolef,44,tutor,"This number lies somewhere in between them. So where do you think you can place this number on the number line? 576,000.",00:04:22
+guvolef,45,background,"100— what number? 76,000.",00:04:34
+guvolef,46,tutor,"Yeah, 976,000. 9,532. Where can we estimate this on the number line? Where do you think it will lie? [unclear]",00:04:36
+guvolef,47,student,"Here, in the middle.",00:04:48
+guvolef,48,background,"So this is 900,000. This is 1 million. In the middle we have 950,000. So this is 9— [unclear] Is that clear?",00:04:51
+guvolef,49,student,Yeah.,00:05:11
+guvolef,50,tutor,"Gideon, can you tell me the first step we have done here? [unclear]",00:05:13
+guvolef,51,student,"Previous multiple of 100,000 and then we've got—",00:05:25
+guvolef,52,tutor,"Before that, what did we do here? [unclear]",00:05:29
+guvolef,53,tutor,We need to underline the hundred thousands column. Okay?,00:05:37
+guvolef,54,student,Yeah.,00:05:41
+guvolef,55,tutor,The 9 is in the hundred thousands column. Can you see I have underlined it?,00:05:43
+guvolef,56,student,Yeah.,00:05:48
+guvolef,57,tutor,Yeah. And then we need to complete the number line. Is this clear up to this point?,00:05:49
+guvolef,58,student,Yeah.,00:05:55
+guvolef,59,tutor,"Great. Now let us look at the next step. So this is the number 976,532. So I'm going I'm going to teach you an easy method to round this. So be very careful. Listen to me very carefully. So because we round this to the nearest hundred thousand.",00:05:56
+guvolef,60,student,Yeah.,00:06:17
+guvolef,61,tutor,Draw a line after the hundred thousand. You have to draw a line like this. Okay?,00:06:18
+guvolef,62,student,Yeah. [unclear],00:06:25
+guvolef,63,tutor,"Yeah, like after the— this is the hundred thousands column. So after the hundred thousands, you draw a line. Okay?",00:06:27
+guvolef,64,student,Okay.,00:06:36
+guvolef,65,tutor,Okay. And you need to look at the digit next to the line. So what is the digit next to the line?,00:06:37
+guvolef,66,student,"70,000 or [UNCLEAR].",00:06:46
+guvolef,67,tutor,"No. Yeah, just 7. Okay? Just look at the digit next to the line. What is it?",00:06:46
+guvolef,68,student,7.,00:06:53
+guvolef,69,tutor,"7. Very good. So the rule is if it is greater than 5, you round it up. If it is less than 5, you round it down. So if you take the next digit, 7, is it greater or less than 5?",00:06:55
+guvolef,70,student,[unclear],00:07:11
+guvolef,71,tutor,That's greater than 5.,00:07:11
+guvolef,72,background,Exactly.,00:07:14
+guvolef,73,tutor,"Greater than 5, you round it up, which means out of these two, the answer is going to be 1 million, because when you round up, it's 1 million. Okay?",00:07:15
+guvolef,74,student,Yeah.,00:07:27
+guvolef,75,tutor,Right. So the digit in the ten thousands place. What is the digit in the ten thousands place? What's the next place?,00:07:28
+guvolef,76,student,"So, 7.",00:07:36
+guvolef,77,tutor,"7. Good. So when you round this number, the answer has to be 1 million. Any questions, Gideon? [unclear]",00:07:37
+guvolef,78,student,No.,00:07:45
+guvolef,79,tutor,Okay. Why did we round this to 1 million? Can you explain?,00:07:46
+guvolef,80,student,"Because 976,532 is closer to 1 million.",00:07:51
+guvolef,81,tutor,Exactly. Very good. Can you give your turn question a try?,00:07:58
+guvolef,82,student,Okay.,00:08:07
+guvolef,83,tutor,Okay. [unclear] Can you read it out loud?,00:08:09
+guvolef,84,student,"Round 200,000 and 72.",00:08:22
+guvolef,85,student,"272,256 to the nearest 100,000.",00:08:31
+guvolef,86,tutor,Okay. What is the first question?,00:08:35
+guvolef,87,student,"Estimate the position of 272,256 on the number line.",00:08:39
+guvolef,88,tutor,Okay. Give the first question a try. [unclear] [unclear],00:08:47
+guvolef,89,tutor,or one face down?,00:08:47
+guvolef,90,student,Let's just do it in... [unclear],00:08:47
+guvolef,91,tutor,"quite understanding what you're asking us to do, so I'll put her back on.",00:08:47
+guvolef,92,background,Right. [unclear],00:08:47
+guvolef,93,tutor,Okay. And what are the two numbers? What is the first and second last number on the number line?,00:09:26
+guvolef,94,student,"The nearest hundred thousand, so—",00:09:34
+guvolef,95,tutor,What comes first?,00:09:38
+guvolef,96,student,[unclear],00:09:39
+guvolef,97,tutor,"Why do you say it's 300,000?",00:09:44
+guvolef,98,student,"Because 300,000 is closer to 272.",00:09:51
+guvolef,99,tutor,Is that how we decided the first number?,00:09:56
+guvolef,100,student,"No, it's close— because 272,256 is closer to 300,000.",00:10:01
+guvolef,101,tutor,"Okay, yeah, it's closer to 300,000. But this number is not supposed to be here.",00:10:13
+guvolef,102,tutor,So we underline the hundred thousands column. It's— what is the digit in the hundred thousands column?,00:10:22
+guvolef,103,student,[unclear],00:10:33
+guvolef,104,tutor,"2. So we need to start with 200,000. Okay? Because it's 9, we started with 900,000. So just like that, we need to start with the number itself. Okay?",00:10:33
+guvolef,105,background,Okay.,00:10:46
+guvolef,106,tutor,Let's change it. [unclear],00:10:48
+guvolef,107,tutor,"200,000. [unclear]",00:10:53
+guvolef,108,tutor,"200,000. [unclear]",00:11:11
+guvolef,109,tutor,"Okay, fantastic. And what is on there?",00:11:25
+guvolef,110,student,"300,000.",00:11:28
+guvolef,111,tutor,"Yes, because after 200,000, the next 100,000 is going to be 300,000. Very good. So now what is this one? Can you answer this question?",00:11:31
+guvolef,112,tutor,Yeah.,00:11:51
+guvolef,113,student,Okay.,00:11:54
+guvolef,114,tutor,37.,00:11:55
+guvolef,115,background,Yeah.,00:11:58
+guvolef,116,tutor,Good. [unclear],00:11:58
+guvolef,117,background,Oh yes.,00:12:01
+guvolef,118,tutor,Yes.,00:12:03
+guvolef,119,background,Yes.,00:12:05
+guvolef,120,tutor,"Very good. Can you see this line is closer to 300,000 than it's closer to 200,000? This is closer, yeah?",00:12:07
+guvolef,121,student,Yeah.,00:12:18
+guvolef,122,tutor,"Okay, good. So what do you think about this question, Gideon?",00:12:20
+guvolef,123,student,"I'd say it's a little bit hard, but it's kind of easy.",00:12:25
+guvolef,124,tutor,"Okay, right. So when you do more questions, you'll get the hang of it. Don't worry, okay? I'm there to help you.",00:12:30
+guvolef,125,student,Okay.,00:12:37
+guvolef,126,tutor,"Okay, right. So this time, I'm going to give you a question. Like, no clues. [unclear]",00:12:38
+guvolef,127,tutor,"Can you round this number to the nearest 100,000?",00:12:45
+guvolef,128,student,"300,000? No. 346,000? [unclear]",00:13:00
+guvolef,129,student,Why? [unclear],00:13:17
+guvolef,130,student,Because 346 comes after 345. And 780—,00:13:17
+guvolef,131,tutor,"Okay, that's correct. But this is how you need to answer. So what is this asking you to round it to the nearest?",00:13:27
+guvolef,132,student,"Nearest 100,000.",00:13:36
+guvolef,133,tutor,"Yes. Can you show me the 100,000 hundred-thousandths column here. Use your point and show me the hundred-thousandths column. Very good. That's good. So the first step is to draw a line after the hundred-thousandths column. Okay, that's your first step. Is that clear?",00:13:38
+guvolef,134,student,Yeah.,00:14:03
+guvolef,135,tutor,"Okay, let's type this. Draw a line after the [unclear] column. [unclear]",00:14:05
+guvolef,136,tutor,Is the first step clear to you?,00:14:16
+guvolef,137,student,Yeah.,00:14:20
+guvolef,138,tutor,Okay. The second step is to look at the next digit. So let us look at the next digit after the line. What is the next digit after the line?,00:14:21
+guvolef,139,background,4.,00:14:35
+guvolef,140,tutor,"4. So you need to look whether it's greater than 5, greater than 5, or less than 5.",00:14:36
+guvolef,141,student,It's less than 5.,00:14:47
+guvolef,142,tutor,"So when it is less than 5, what do we need to do? Round down or round up?",00:14:50
+guvolef,143,student,Round... or down?,00:14:57
+guvolef,144,tutor,"Yes, exactly. If it's greater than 5, you round up. If it's less than 5, you round... Down. Okay, so round down. I'm going to tell you how to round this down. Can you see the number before the line?",00:15:02
+guvolef,145,student,Yeah.,00:15:18
+guvolef,146,tutor,"Can you see? It's 3, isn't it?",00:15:19
+guvolef,147,student,Yeah.,00:15:23
+guvolef,148,tutor,"You need to write type 3 and to all— to all the digits after the line. How many digits do you have after the line? 1, 2, 3, 4, 5. There are 5 digits after the [UNCLEAR], so you need to add zeros. 5 zeros. This is your answer. Okay?",00:15:23
+guvolef,149,student,Okay.,00:15:23
+guvolef,150,tutor,Is this clear? Shall I give you another question?,00:15:46
+guvolef,151,student,"Yes, please.",00:15:54
+guvolef,152,tutor,"Okay, so this time",00:15:57
+guvolef,153,tutor,"Use the same method. We have 528,680. Can you round this to nearest 100,000? [unclear] Follow the rules. First, draw a line after the 100,000s, and then look at the next digit. [unclear]",00:15:59
+guvolef,154,tutor,That's the hundred thousands aside.,00:16:34
+guvolef,155,background,"This is okay. After the [UNCLEAR]. Watch, Ellie. Okay?",00:16:38
+guvolef,156,background,"Okay, good. So you did the first step. So align, done. What's the next step?",00:16:42
+guvolef,157,background,Look at the next digit.,00:16:50
+guvolef,158,background,"Yeah, what is the next digit?",00:16:53
+guvolef,159,student,"I looked at the hundreds, the tens, and the ones.",00:16:55
+guvolef,160,tutor,"Yeah, it's 2. So what do you know after this?",00:16:58
+guvolef,161,student,"Uh, that's 20,000. [unclear]",00:17:04
+guvolef,162,tutor,"Okay, so after you look at the next digit, this rhymes. 5 or 4, give me more. Have you heard of this?",00:17:11
+guvolef,163,student,No.,00:17:22
+guvolef,164,tutor,"4 or less, give it a rest. [unclear] Okay? 5 or more, give me more. Or less, give me less. So these 2, greater than 5, less than 4.",00:17:23
+guvolef,165,student,"No, I've not heard of that.",00:17:38
+guvolef,166,tutor,"It's less than 5, isn't it?",00:17:43
+guvolef,167,student,Yeah.,00:17:44
+guvolef,168,tutor,So we need to look at the number before the line. What is it?,00:17:46
+guvolef,169,student,5.,00:17:53
+guvolef,170,tutor,"So you put 5 and add zeros to the remaining. [unclear] As simple as that. Okay, look at the previous number, take it down, and add zeros to the remaining number. Is this clear?",00:17:54
+guvolef,171,student,Yeah.,00:18:11
+guvolef,172,tutor,"Okay, but look at this example here. Okay, so let's draw a line after that. [unclear] Thousands column. Okay, like this. Look at the next digit. Next digit.",00:18:12
+guvolef,173,student,6.,00:18:28
+guvolef,174,tutor,"6. It's greater than 5, isn't it?",00:18:29
+guvolef,175,student,Yeah.,00:18:32
+guvolef,176,tutor,"So if it's greater than 5, 5 or more, give me more. So you need to add 1 to 5. So the 5, when you add 1 to 5, it becomes 6. And then you add zeros to the remaining. So it's 600. 100,000. Okay?",00:18:33
+guvolef,177,student,Okay.,00:18:53
+guvolef,178,tutor,"If the next digit is less than 5, you write it as it is. 5, you write it as it is. Okay?",00:18:54
+guvolef,179,student,Okay.,00:19:03
+guvolef,180,tutor,"But if the next digit is greater than 5, what do we do? [unclear]",00:19:04
+guvolef,181,student,Give it more.,00:19:13
+guvolef,182,tutor,"Yeah. So 5. 5 becomes 6. We give 1 more to 5. Any questions, Gideon?",00:19:15
+guvolef,183,student,"Uh, no.",00:19:24
+guvolef,184,tutor,"Okay. So, can you try the first question?",00:19:26
+guvolef,185,student,"It would then be 87,000.",00:19:39
+guvolef,186,student,"nearest 1,000.",00:19:39
+guvolef,187,tutor,"Yeah. So first step, draw a line. Where would you draw a line? [unclear]",00:19:39
+guvolef,188,student,"The nearest 1,000. [unclear]",00:19:58
+guvolef,189,tutor,"Can I just have a guess? Okay. [unclear] What is— yeah, which is the thousands column here? [unclear] 8 or 2? Yes. So you need to draw the line after the 2, okay?",00:20:04
+guvolef,190,student,Okay.,00:20:28
+guvolef,191,tutor,Right.,00:20:30
+guvolef,192,tutor,"Very good. So first step, draw the line. Done. What's the next step?",00:20:38
+guvolef,193,student,"[unclear] nearest 10,000.",00:20:45
+guvolef,194,tutor,No. Draw the line and look at the next digit. What is the next digit?,00:20:49
+guvolef,195,background,Zero.,00:20:56
+guvolef,196,tutor,Zero. It's less than 5. What do we do?,00:20:56
+guvolef,197,background,Sometimes it's the bottom.,00:20:59
+guvolef,198,tutor,"4 or less, give it a rest.",00:21:03
+guvolef,199,student,Yeah. [unclear],00:21:08
+guvolef,200,tutor,So the numbers before the line will not change. What are the numbers before the line?,00:21:14
+guvolef,201,background,What's the number before the line?,00:21:21
+guvolef,202,tutor,"Yeah, what are the 3 numbers before the line?",00:21:25
+guvolef,203,student,782.,00:21:28
+guvolef,204,tutor,So that will not change. You need to give them a rest. You need to write 782 here as well.,00:21:31
+guvolef,205,student,Okay.,00:21:39
+guvolef,206,tutor,Okay. [unclear] And what do you do to the remaining numbers?,00:21:40
+guvolef,207,student,Do you just leave them?,00:21:47
+guvolef,208,tutor,"No, you just add zeros. So we have 3, just add 3 zeros.",00:21:50
+guvolef,209,student,[unclear],00:21:57
+guvolef,210,tutor,"Yeah, that's your answer. So just like this, let's answer this one. How do we round the same number to the nearest 10,000? Where would you draw the line this time?",00:21:57
+guvolef,211,student,We draw it before— after the 8.,00:22:17
+guvolef,212,tutor,"Exactly. Fantastic, Gideon.",00:22:22
+guvolef,213,student,I'll draw the line.,00:22:24
+guvolef,214,tutor,Okay. Very good. What do we do next? [unclear],00:22:30
+guvolef,215,student,So now—,00:22:40
+guvolef,216,tutor,What is the second step?,00:22:47
+guvolef,217,tutor,"No, look at the...",00:22:53
+guvolef,218,student,Number.,00:22:58
+guvolef,219,tutor,Next digit.,00:23:01
+guvolef,220,background,Oh yeah.,00:23:05
+guvolef,221,tutor,That's the second one. Look at the next digit.,00:23:05
+guvolef,222,background,It's less than 5.,00:23:09
+guvolef,223,tutor,"Yeah, what do we do then?",00:23:12
+guvolef,224,background,"Uh, 4... [unclear] or less, give it a rest. Yeah. So how are we going to write the answer? [unclear]",00:23:15
+guvolef,225,student,"82,000.",00:23:31
+guvolef,226,tutor,No. Look at the numbers before the line. They do not change.,00:23:36
+guvolef,227,student,"Oh, 78,000.",00:23:42
+guvolef,228,tutor,Very good. And what have,00:23:45
+guvolef,229,tutor,to the remaining. How many digits do you have after this?,00:23:45
+guvolef,230,student,4.,00:23:45
+guvolef,231,tutor,"1, 2, 3, 4. How many zeros are you supposed to add?",00:23:54
+guvolef,232,background,[unclear],00:23:59
+guvolef,233,tutor,"4. 4, yes.",00:24:00
+guvolef,234,background,[UNCLEAR],00:24:00
+guvolef,235,tutor,"Can you see the numbers before the line do not change, but the numbers after the line. How many digits are there after the line?",00:24:04
+guvolef,236,tutor,4. So we add 4 zeros. Is this clear?,00:24:21
+guvolef,237,student,Yeah.,00:24:25
+guvolef,238,tutor,"Very good. Just like that. Let's try the last one. Gideon, you're almost there. How do we round this to nearest 100,000? [unclear]",00:24:27
+guvolef,239,background,Put a line—,00:24:43
+guvolef,240,tutor,"Okay, good. First step done. [unclear] Wait, wait, wait. Look at the next digit. What is the next digit?",00:24:45
+guvolef,241,student,8. 8 is greater than 5. What do we do then?,00:25:07
+guvolef,242,student,[unclear],00:25:14
+guvolef,243,tutor,5 or more.,00:25:16
+guvolef,244,student,Uh-huh.,00:25:20
+guvolef,245,tutor,Give me more. So the 7 says he wants more. So what can we do?,00:25:24
+guvolef,246,student,[unclear],00:25:30
+guvolef,247,tutor,What comes after 7?,00:25:36
+guvolef,248,tutor,8.,00:25:38
+guvolef,249,background,8.,00:25:41
+guvolef,250,tutor,"Yeah, so we need to change the 7 to an 8 because 5 or more give me more. And what do you do after that? [unclear]",00:25:42
+guvolef,251,tutor,Exactly.,00:25:56
+guvolef,252,student,You add— [unclear],00:25:58
+guvolef,253,tutor,How many zeros?,00:25:58
+guvolef,254,student,5.,00:26:03
+guvolef,255,tutor,"Very good. So I think this is clear to you, Gideon. Is it?",00:26:03
+guvolef,256,student,Yeah.,00:26:10
+guvolef,257,tutor,"Okay. So 5 or more, what do we do?",00:26:12
+guvolef,258,student,"5 or more, give me more.",00:26:17
+guvolef,259,tutor,"Yeah, the 7 wants more. So what did we do to the 7 here?",00:26:20
+guvolef,260,student,We added another number.,00:26:27
+guvolef,261,tutor,Uh-huh.,00:26:32
+guvolef,262,student,We added one more.,00:26:34
+guvolef,263,tutor,"Yeah, we gave him more because he was asking for more. But if the digit is 4 or less, what do we do? [unclear] If it's 4 or less, what do we do?",00:26:37
+guvolef,264,background,Give it a rest.,00:26:53
+guvolef,265,tutor,"Yeah, so just leave it as it is if it's 4 or less. But if it's 5 or more, just add 1 more. Now answer this one. [unclear]",00:26:55
+guvolef,266,student,First we put the line after the 9.,00:27:08
+guvolef,267,tutor,"Looking good. Then we look at the digit next to it. Very good. That's a 9, so—",00:27:16
+guvolef,268,tutor,It's greater than 5.,00:27:31
+guvolef,269,student,"Yeah, yeah.",00:27:34
+guvolef,270,tutor,So what do we do?,00:27:36
+guvolef,271,student,"5 or more, give me more.",00:27:39
+guvolef,272,tutor,"Yeah, so 299 wants more. What do we do now?",00:27:42
+guvolef,273,student,"Does it change to 300,000?",00:27:49
+guvolef,274,tutor,"Exactly, very good. That's fantastic. [unclear]",00:27:52
+guvolef,275,tutor,"Okay, wait. I think you added too many zeros.",00:28:02
+guvolef,276,student,Oh yeah.,00:28:06
+guvolef,277,tutor,There.,00:28:16
+guvolef,278,student,"300,000.",00:28:17
+guvolef,279,tutor,You need to deduct one zero. [unclear],00:28:23
+guvolef,280,student,Okay.,00:28:26
+guvolef,281,tutor,"Okay, good. Let's try the next one. Nearest 10,000.",00:28:29
+guvolef,282,student,Okay. [unclear],00:28:43
+guvolef,283,tutor,That's closest. [unclear],00:28:48
+guvolef,284,tutor,So we look at the digit next to it. So it's gonna be—,00:28:56
+guvolef,285,student,"Okay. 5 or more, give me more.",00:28:59
+guvolef,286,tutor,Uh-huh.,00:29:06
+guvolef,287,student,"So is that gonna change to 300,000s and— no, 30,000s, and then we add",00:29:09
+guvolef,288,student,4 nines. I meant 4 zeros.,00:29:19
+guvolef,289,tutor,"Very good. 29 becomes a 30 and 9s become zeros. [unclear] Yes. Okay, great. You added another. Okay, good. Last one.",00:29:22
+guvolef,290,student,"And if it's over 50, I know that— [unclear]",00:29:38
+guvolef,291,student,9 is bigger than 2.,00:29:52
+guvolef,292,tutor,Okay.,00:30:01
+guvolef,293,student,Where's this number gone?,00:30:07
+guvolef,294,tutor,I'll write it for you. [unclear],00:30:11
+guvolef,295,student,"So it's gonna be at 3,000, but you're adding 5 zeros.",00:30:17
+guvolef,296,tutor,Very good. Let's type it here.,00:30:37
+guvolef,297,tutor,"That's nice, Gideon. Good try. Very good. What do you think about rounding numbers now? Has it got better?",00:30:45
+guvolef,298,student,Yeah.,00:30:57
+guvolef,299,tutor,That's good. [unclear],00:30:59
+guvolef,300,background,What about this number line one?,00:31:02
+guvolef,301,tutor,"Oh, the number line? One, it's not a question, just to get help from it. It's not another question, okay?",00:31:07
+guvolef,302,student,Okay.,00:31:16
+guvolef,303,tutor,Look at this one. [unclear] Can you read the number?,00:31:17
+guvolef,304,student,"467,450.",00:31:32
+guvolef,305,tutor,"Very good. Can you round this number to nearest 100,000, please?",00:31:39
+guvolef,306,student,"[unclear] 500,000.",00:31:47
+guvolef,307,tutor,"Okay, how did you get the answer very quickly?",00:31:52
+guvolef,308,student,"Because 67— because 4,000— yeah, 467,000 is closest to 500,000.",00:31:57
+guvolef,309,tutor,"Okay, very good. What if your number was like this one? Then what is the answer?",00:32:07
+guvolef,310,student,"That will be the closest to 3— 400,000.",00:32:21
+guvolef,311,tutor,"Very good, fantastic. That's excellent. So let's try this one. And you give this a try. [unclear]",00:32:27
+guvolef,312,student,Is that gonna be...,00:32:39
+guvolef,313,tutor,"First, did you understand the question?",00:32:52
+guvolef,314,tutor,"When rounded to the nearest 100,000, it is 350,000. [unclear]",00:33:01
+guvolef,315,student,So it's gonna be— [unclear],00:33:14
+guvolef,316,tutor,"So it's gonna go there, then it'll be—",00:33:36
+guvolef,317,student,But I did 3 zeros.,00:33:40
+guvolef,318,tutor,So do I tap that number?,00:33:47
+guvolef,319,student,Yeah.,00:33:51
+guvolef,320,tutor,Okay.,00:33:52
+guvolef,321,student,"So do I type 350,000 and then do I put the 3 zeros there?",00:33:56
+guvolef,322,tutor,"Okay, I think you have a small confusion in the question. Let me explain you the question, okay?",00:34:05
+guvolef,323,student,Okay.,00:34:12
+guvolef,324,tutor,"Hockey, so this green guy here, what's his name?",00:34:12
+guvolef,325,student,Hockey.,00:34:15
+guvolef,326,tutor,Hockey is thinking of a number. So do we know what number he's thinking of?,00:34:16
+guvolef,327,student,"350,000.",00:34:25
+guvolef,328,tutor,"No, he's not thinking of it. He is thinking of a number. We don't know what he's thinking of, okay? So it's a question mark.",00:34:26
+guvolef,329,student,"Oh yeah, right. [unclear]",00:34:35
+guvolef,330,tutor,"Then he says, when rounded to the nearest 10,000, you would get 350,000. He says when you round this to the nearest 10,000, you would get 350,000.",00:34:37
+guvolef,331,tutor,"So which number, when you round to nearest 10,000, will give you this one? [unclear]",00:34:51
+guvolef,332,student,Or do you put the line after the zero?,00:35:01
+guvolef,333,tutor,"Which number, after you round it to nearest 10,000, you would end up with 350,000?",00:35:09
+guvolef,334,student,Oh yeah. [unclear],00:35:22
+guvolef,335,tutor,Where?,00:35:25
+guvolef,336,student,In the middle of the 0 and 5. There.,00:35:27
+guvolef,337,tutor,"Mm-hmm. But they have already rounded it for you. You don't have to round it. —like in the previous questions, the number was given and you had to round it. But this time, the number is not given, but the rounded number is given. It's already rounded to the nearest 10,000.",00:35:37
+guvolef,338,student,Oh no. [unclear],00:36:00
+guvolef,339,tutor,"So here you rounded this number to the nearest 10,000 and ends up getting 780,000. So you need to find the number you started with. [unclear]",00:36:13
+guvolef,340,student,"Oh, now I see. Okay, great. It might be— would that be 300,000 or 400,000?",00:36:26
+guvolef,341,tutor,"No, it could have digits in between.",00:36:42
+guvolef,342,student,I don't know that.,00:36:48
+guvolef,343,tutor,"Come on, give it a try. It's okay if you go wrong. Just write a random number and let's round it and see. [unclear] [unclear]",00:36:51
+guvolef,344,tutor,"Okay. Shall we round it to nearest 10,000 and see if we get this answer?",00:37:13
+guvolef,345,background,Yeah.,00:37:20
+guvolef,346,tutor,Yeah. Okay.,00:37:21
+guvolef,347,background,"A line here. And we look at the next digit, which is 0. So, always give it a rest. So when you round this to nearest 10,000, it's going to be 30,000. So is this correct? You need to get 350,000.",00:37:22
+guvolef,348,student,No.,00:37:44
+guvolef,349,tutor,"Yeah, so that means it's different. What do you think it could be? [unclear]",00:37:44
+guvolef,350,student,"400,000?",00:37:51
+guvolef,351,tutor,"It's not going to be numbers with like 350,000 or 400,000. They're going to have digits in between. For an example like this, we will have digits in between. [unclear]",00:37:57
+guvolef,352,tutor,"Okay, let me give you an example like this. Let's take the number 315.",00:38:22
+guvolef,353,student,"1,800? Okay. [unclear]",00:38:41
+guvolef,354,tutor,"Could you round this number to the nearest 10,000?",00:38:43
+guvolef,355,student,"Is that gonna be 3,000... 3,500... 3,000... 5... 352,000.",00:38:48
+guvolef,356,tutor,"Now draw the line first. Okay. And look at the next digit, it's 1. So... [unclear]",00:39:05
+guvolef,357,student,"Oh, oh, let's give it a rest.",00:39:28
+guvolef,358,tutor,Okay. So what will your answer be? [unclear],00:39:36
+guvolef,359,student,I don't know.,00:39:44
+guvolef,360,tutor,"The numbers before the line do not change. 35 is same as 35, and you add zeros to the remaining.",00:39:53
+guvolef,361,student,"Uh, okay. [unclear]",00:40:04
+guvolef,362,background,[UNCLEAR],00:40:04
+guvolef,363,student,"Uh, I don't know. Can you see we drew the line here after the 10,000?",00:40:06
+guvolef,364,student,Yeah.,00:40:29
+guvolef,365,tutor,So we look at the next digit. Is it greater than 5 or less than 4?,00:40:30
+guvolef,366,student,Less than 4.,00:40:35
+guvolef,367,tutor,"Yes, 4 or less. Give it a rest. So the number 35, do not change. You write 35 itself. How many digits do you have after the line?",00:40:37
+guvolef,368,student,"1,000.",00:40:51
+guvolef,369,tutor,"No, 4. So we need to add 4. Okay. Yeah, 1, 2, 3, 4. The answer is 350,000. Okay. [unclear] Can you round 351,800 to the nearest",00:40:53
+guvolef,370,tutor,"100,000.",00:41:18
+guvolef,371,background,[unclear],00:41:20
+guvolef,372,tutor,"400,000.",00:41:20
+guvolef,373,background,"400,000.",00:41:22
+guvolef,374,tutor,"Yes, exactly. Correct. This is how we round numbers. Okay, Gideon?",00:41:24
+guvolef,375,student,Okay.,00:41:29
+guvolef,376,tutor,"Right. So at the start of this lesson, you rated this 3 out of 5. But now, what can you say about rounding numbers? Has it improved or still rate 3 out of 5? [unclear]",00:41:31
+guvolef,377,student,Maybe I'll give it a 4.,00:41:45
+guvolef,378,tutor,"Okay, that's a good improvement then. So when you do a couple of more questions, you'll get the hang of it, okay?",00:41:48
+guvolef,379,student,Okay.,00:41:57
+guvolef,380,tutor,"Right, so let's just revise on the steps. So if you want to round a number to the nearest 10,000. Let me write a number for you. All right, what is your first step?",00:41:58
+guvolef,381,student,[unclear],00:42:22
+guvolef,382,tutor,"Put a line. Okay, where do you put the line?",00:42:25
+guvolef,383,background,Between the 4 and 7.,00:42:31
+guvolef,384,tutor,"Very good, that's the first step. Very correct. What's the second step?",00:42:33
+guvolef,385,student,Look at the digit next to it.,00:42:41
+guvolef,386,tutor,Very good. Look at the digit next to it. So it's 7. So what do we do?,00:42:43
+guvolef,387,student,5 or more gives it more.,00:42:51
+guvolef,388,tutor,Okay. So how does the answer come?,00:42:55
+guvolef,389,tutor,It comes— look at the numbers before the line. 34. So 34 says he wants more. So how do we change it?,00:43:04
+guvolef,390,student,"Uh, we, uh— [unclear]",00:43:17
+guvolef,391,tutor,"Yes, say it.",00:43:30
+guvolef,392,student,We add a 1 to the 4.,00:43:32
+guvolef,393,tutor,34 becomes?,00:43:36
+guvolef,394,student,35.,00:43:40
+guvolef,395,tutor,Very nice. And what do you do after that? How many zeros are you supposed to add?,00:43:42
+guvolef,396,student,4.,00:43:51
+guvolef,397,tutor,"Very good. You have 4 digits afterwards, so you So this is your answer, 350,000. Okay?",00:43:52
+guvolef,398,student,Okay.,00:44:00
+guvolef,399,tutor,"Right, that's very good. So I [unclear] last week, I think you like kind of struggled in this lesson, but this time I can see that you are very much improved. So well done, okay?",00:44:02
+guvolef,400,student,Okay.,00:44:17
+guvolef,401,tutor,"Okay, Gideon, so before you go, complete the quiz, all right?",00:44:18
+guvolef,402,tutor,Okay.,00:44:24
+guvolef,403,background,What do you have after this?,00:44:24
+guvolef,404,student,I think we're going to be going to lunch.,00:44:25
+guvolef,405,background,"Lunch? Okay, okay. You should be hungry doing a lot of rounding questions today. See you next week then, okay? Bye.",00:44:32
+guvolef,406,student,Bye.,00:44:39
+guvolef,407,background,Take care. [unclear] [unclear],00:44:40
+guvolef,408,background,[unclear],00:44:48

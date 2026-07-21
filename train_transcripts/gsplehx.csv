@@ -1,0 +1,351 @@
+session_id,utterance_id,role,content,timestamp
+gsplehx,0,tutor,Hello.,00:00:00
+gsplehx,1,background,[unclear],00:00:00
+gsplehx,2,student,Hello.,00:00:00
+gsplehx,3,tutor,"Hello, Elara. How are you?",00:00:01
+gsplehx,4,student,Good. How are you?,00:00:02
+gsplehx,5,tutor,"I'm doing good. Okay, Elara. Thank you for asking. So today we will learn about solving multi-step addition and subtraction problems, which is a new lesson for us, okay?",00:00:04
+gsplehx,6,student,Okay.,00:00:13
+gsplehx,7,tutor,Okay.,00:00:15
+gsplehx,8,tutor,Learning goal question here.,00:00:16
+gsplehx,9,student,"OK. The bookshop has 1,432 books in the morning. They receive a delivery of 737 books and they sell 686 books. How many books are left at the end of the day? [unclear]",00:00:17
+gsplehx,10,tutor,"OK, so first what I will do is add 1,432 32 with 737.",00:00:37
+gsplehx,11,tutor,Okay.,00:00:47
+gsplehx,12,student,"So I'm going to add them up. So 7 add 2, so 7 add 2 gives you 9. 3 add 3 gives you 6. 7 add 4 gives you [unclear] 11. And then 1 add 7 gives you 8. Add the other 1, which will give you 9. So then since they said they were they sold 686 books. Then whatever the answer was, I'm going to subtract 9,169 by 686.",00:00:47
+gsplehx,13,tutor,Uh-huh.,00:01:23
+gsplehx,14,student,"So I'm going to first subtract 9 with 6, which would give me 2. Then since I can't subtract 6 by 8, I'll carry the 1. And add 16— subtract 16 by 8, which would give me 8. Since I can't subtract 0 by 6, I'll take out 1 from 9 and then add it to the 0, which will give me 10. So 10 minus 6 would give me 3 and 8. So then—",00:01:24
+gsplehx,15,tutor,[unclear],00:01:59
+gsplehx,16,student,"So then the answer would give me— 8,382. [unclear]",00:02:00
+gsplehx,17,tutor,"So what— can you tell me what you did, Elara? What are the steps you did?",00:02:13
+gsplehx,18,student,"Yeah, okay. So first what I did was I subtracted 1,432 from 737.",00:02:19
+gsplehx,19,tutor,subtracted?,00:02:19
+gsplehx,20,student,"No, sorry, added.",00:02:19
+gsplehx,21,tutor,Added.,00:02:33
+gsplehx,22,student,"Yeah, I first added 1,432 with 737, which gave me 9,169. And then—",00:02:34
+gsplehx,23,tutor,"Give me one time, not 9,000.",00:02:43
+gsplehx,24,student,"Oh, 9,000, yeah. 9,169. And then since I added both of them up, it gave me 9,169. Then I subtracted that by 686 since they said that they sold 686 from those books, which gave me 8,382. So then the answer would give me 800.",00:02:46
+gsplehx,25,tutor,"Yeah, perfect.",00:03:09
+gsplehx,26,student,"8,382.",00:03:10
+gsplehx,27,tutor,"Okay, your method is correct, Elara. I really appreciate that. Okay, so you understood what you should be doing, but your calculation is incorrect. Okay, because when you add these two, you'll not get 9,000 because this is 1,432 with 736. Okay, so you will not get 1,000 [UNCLEAR]. So, change my discussion over here.",00:03:12
+gsplehx,28,student,"Yeah, there are 185 pencils in a class at the start of the month. By the end of the month, 98 were missing. How many pencils were left? Okay, so first, they said the class started with 185.",00:03:12
+gsplehx,29,tutor,Uh-huh.,00:03:56
+gsplehx,30,student,"And they said 98 were missing, so then you'll subtract 185 by 98.",00:03:57
+gsplehx,31,tutor,Yeah.,00:04:05
+gsplehx,32,student,"But since you can't subtract 5 by 8, you take 1 from the tens value, which would lead me to 7, and then I'd carry the 1, which would give me 15. So then I'd subtract 15 by 9, which would give me... [unclear]",00:04:06
+gsplehx,33,tutor,6. And the 6.,00:04:24
+gsplehx,34,student,"Yeah, I'll [unclear] this out here. Yeah. There.",00:04:25
+gsplehx,35,tutor,"Nice, sweetie.",00:04:33
+gsplehx,36,student,"Yeah. So, first of all, what I'll do is subtract 5 by 8. So since I can't do that, I'll take away the 8, which would give me 7. And then add the 1 to the 5, which would give me 15. Then I'll subtract 15 by 8, which would give me 7.",00:04:36
+gsplehx,37,tutor,Mm-hmm.,00:05:04
+gsplehx,38,student,"And then if I can subtract 7 by 9, I'll take the [unclear] from the 1, which would give me 8. 0, and then I'll add it to 7, which would give me 17. So then 17 minus 9 would give me 8. Then I'll write the 8, and since there's nothing remaining, then it would be 87 pencils that were left.",00:05:08
+gsplehx,39,tutor,Uh-huh.,00:05:36
+gsplehx,40,student,"Yeah, you would have 87 pencils left. Okay?",00:05:38
+gsplehx,41,tutor,Okay.,00:05:41
+gsplehx,42,student,"Okay. Now, yeah. Let's go to the next line part, okay? Can you read this part? [unclear]",00:05:43
+gsplehx,43,tutor,"Yes, let's read that.",00:05:57
+gsplehx,44,student,"Okay. A factory has 154 workers. Boxes in their warehouse. They get 162 more boxes during the morning delivery. In the afternoon, they have 114 boxes taken away. How many boxes do they have at the end of the day?",00:06:02
+gsplehx,45,tutor,"Okay. So to work that out, you need to know the addition of these two to get the number of boxes in the warehouse. Okay?",00:06:24
+gsplehx,46,student,Okay.,00:06:31
+gsplehx,47,tutor,So that would be our first step.,00:06:33
+gsplehx,48,student,Okay.,00:06:35
+gsplehx,49,tutor,Now let's add them both.,00:06:36
+gsplehx,50,student,Okay. So first I would add 154.,00:06:38
+gsplehx,51,tutor,Yeah.,00:06:43
+gsplehx,52,student,And then the symbol would be the add sign since they said that 162 more boxes came.,00:06:44
+gsplehx,53,tutor,Exactly.,00:06:50
+gsplehx,54,student,So then I'd put the add sign. [unclear],00:06:52
+gsplehx,55,tutor,Okay.,00:07:02
+gsplehx,56,student,And then add 162. [unclear],00:07:03
+gsplehx,57,tutor,Okay.,00:07:11
+gsplehx,58,student,"So then to do this calculation, at first put 162, add",00:07:12
+gsplehx,59,student,154.,00:07:28
+gsplehx,60,tutor,Okay.,00:07:31
+gsplehx,61,student,"So first I'll do is add 2 by 4. Since we can do that, since it was addition, it would give me 6. So then I'll add 6, add 5, which would give me 11. So I'll carry the 1. So then 1 add 1 add 1, which would give me 3. So then the answer would be 316.",00:07:33
+gsplehx,62,tutor,Yes.,00:07:57
+gsplehx,63,student,Yeah. [unclear],00:08:00
+gsplehx,64,tutor,Okay. That should be your second step.,00:08:03
+gsplehx,65,student,"Okay, so my second step would be I'd subtract 114",00:08:15
+gsplehx,66,student,by 316.,00:08:15
+gsplehx,67,tutor,Exactly.,00:08:15
+gsplehx,68,student,Because 154 add 162 gives me 316.,00:08:24
+gsplehx,69,tutor,Yes.,00:08:31
+gsplehx,70,student,And then—,00:08:32
+gsplehx,71,tutor,You should be writing that here. That is the total. [unclear],00:08:32
+gsplehx,72,student,Oh yeah.,00:08:35
+gsplehx,73,tutor,Over here.,00:08:36
+gsplehx,74,student,Yeah. Okay.,00:08:37
+gsplehx,75,student,And we need to find—,00:08:42
+gsplehx,76,tutor,So what is left after you have solved 140?,00:08:45
+gsplehx,77,student,"Yeah, okay. And then I'd subtract 316 by 114. So to do this calculation, I'd first— [unclear]",00:08:49
+gsplehx,78,student,I'd first put 316 since that has the greater value than 114.,00:09:15
+gsplehx,79,tutor,Okay.,00:09:25
+gsplehx,80,student,"Yeah, and then I'd subtract by 114. [unclear]",00:09:30
+gsplehx,81,student,"So our first one is 6 by 4, which would give me 2.",00:09:40
+gsplehx,82,tutor,OK.,00:09:47
+gsplehx,83,student,"And then subtract 1 by 1, which would give me 0. And then 3 subtracted by 1, it would give me 2. So then the answer would be 202. [unclear] So then the answer will be 202. [unclear]",00:09:49
+gsplehx,84,tutor,"At the end of the day, yeah?",00:10:13
+gsplehx,85,student,Yeah.,00:10:17
+gsplehx,86,tutor,"Okay, so here we got the following part. So I'm going to do this question, okay? So let's look at this worded problem. On Monday, a shop had 728 books. On Tuesday, 352 books were sold. On Wednesday, 179 more books were delivered to the shop. How many books were in the shop after the delivery? So complete the bar model to show the information we have. So since there are books coming in and going out, they have put the bar model this",00:10:18
+gsplehx,87,background,"books in, books out. Okay?",00:10:46
+gsplehx,88,student,Okay.,00:10:48
+gsplehx,89,tutor,So books in is 728 and books out is 352. Okay? And we know that more books were coming in,00:10:49
+gsplehx,90,student,139.,00:11:06
+gsplehx,91,tutor,"So we're gonna add that here. Okay, okay. Now we need to work out, complete the calculation, to solve the problem. We need to work out how many books might be shop after the delivery. So we need to know the total number of books that we have taken. We're gonna add that first. So, right, 7, 2, 8, 8, 1,",00:11:07
+gsplehx,92,tutor,"7, 9. Okay.",00:11:28
+gsplehx,93,student,Okay.,00:11:33
+gsplehx,94,tutor,"So 7 and— sorry, 8 and 9 would be 17. [unclear] And then 7 and 2 and 3, 10. So regroup that one, and with that it would be 907. Okay, that is the total number of books that is in",00:11:35
+gsplehx,95,tutor,"Now we need to find what's out, the books that went out, and subtract that from the [UNCLEAR].",00:11:54
+gsplehx,96,student,Okay.,00:11:54
+gsplehx,97,tutor,"So 7 take away 2, that will be 5. And 0 take away 5, we can't do, so we need to exchange. And this is actually an 8, so 8 take away 3 is going to be 5. So it will be 555. 5,000— sorry, 555 is the number of books left. [unclear]",00:12:04
+gsplehx,98,student,"Okay, yeah. Okay. Let's check out the [UNCLEAR].",00:12:25
+gsplehx,99,background,"Okay. Leela gets 5,284 points in a game. She then loses 1,259 points. After this, she gets 3,862 more points before finishing the game. How many points did she have at the end of the game?",00:12:25
+gsplehx,100,student,"Okay, so for— so since she scored 5,284 points, you'd first put her on the bigger box. And then since she got— since she lost 1,500 and 1,259 points, it will go here.",00:12:51
+gsplehx,101,tutor,Okay.,00:13:19
+gsplehx,102,student,"And then since she got more points, which was 3,862, it will go here. 862. It would go here. So first what I will do, first what I'll do is add 5,284 by 3,862.",00:13:20
+gsplehx,103,tutor,Okay.,00:13:48
+gsplehx,104,student,So— [unclear],00:13:55
+gsplehx,105,student,"Yeah. And then I'll add them up since those were the total points she actually got without losing. So then 4, 4 add 2, so 4 add 2, so 4 add 2 would give me [unclear] 6. And then 8 add 6 would give me 14.",00:14:11
+gsplehx,106,tutor,Mm-hmm.,00:14:46
+gsplehx,107,student,So then I'll carry the 1. So then 2 add— 2 add 1 would give me 3. So 3 add 8 would give me 12.,00:14:47
+gsplehx,108,tutor,Mm-hmm.,00:14:58
+gsplehx,109,student,"I'll carry the 1. 5 add 1 would give me 6. [unclear] So then her total points she will have is 9,246. So with this calculation, I'm going to subtract 1,259 points since she lost that much.",00:14:59
+gsplehx,110,tutor,"So then I'll subtract that. [unclear] Subtract that. So then since we can't do 6 minus 9, we've got to exchange. So take the 4 and replace it with the b and add the 1 next to the 6. So 16 minus 9 would give 7.",00:15:30
+gsplehx,111,student,Would give me 5? No. 7? [unclear],00:15:56
+gsplehx,112,student,"So since you can't subtract 3 by 5, you've got to exchange again. So then 13 minus 5 would give you 8. [unclear]",00:16:07
+gsplehx,113,student,8.,00:16:25
+gsplehx,114,tutor,8. And then?,00:16:38
+gsplehx,115,student,"8. And then since there's 1, you can't subtract 1 by 2.",00:16:43
+gsplehx,116,tutor,"So then you'll exchange it from the 9, which would leave you to 8 for this one. And then add the 1 here. So 12 minus 2 would give you 10. [unclear] So then you'll put the 0 here and then add the 1 here, which would give you 9. So then 9 minus 8— or 9 minus 1 would give you 8. Okay, awesome effort, Elara. But there is a tiny mistake made in this calculation, which was carried to the second calculation as well. You can spot that?",00:16:47
+gsplehx,117,student,"Sorry, I can't hear you. [unclear]",00:17:31
+gsplehx,118,tutor,"Yeah, there was a mistake made, Elara, in this calculation here, and that was carried to the second one as well. Can you spot that mistake?",00:17:32
+gsplehx,119,student,"Uh, okay. [unclear]",00:17:41
+gsplehx,120,student,"Oh yeah, I did. So for the first one, I got 9,146 when I was supposed to get 7,146. And then for the second one, um... [unclear]",00:18:06
+gsplehx,121,tutor,"It should be 9,146, yeah?",00:18:27
+gsplehx,122,student,Yeah.,00:18:30
+gsplehx,123,tutor,"Yes. So let's do the calculation now, okay?",00:18:33
+gsplehx,124,student,"Okay. [unclear] So then, okay, so first I'll subtract 6 by 9. So since you can't do that,",00:18:40
+gsplehx,125,tutor,"I'll carry from here, which will give me 3. So then add the 1 here, so 16 minus 9 would give me 7. [unclear] And then 3 minus 5, you can't do that, so you exchange again and add the 1 to the 3. So then 13 minus 5 would give you 8.",00:18:59
+gsplehx,126,tutor,8?,00:19:26
+gsplehx,127,student,Huh? [unclear],00:19:28
+gsplehx,128,tutor,Okay.,00:19:29
+gsplehx,129,student,"And since the 0, you can't subtract it by 2, so then you take it from the 9. So then the 9 will turn into an 8, and then you'll add the 1 to the 0. So then 10 minus 2 would give you 8. And then since there's nothing left, it's going to be 0. So then the answer would be 882.",00:19:32
+gsplehx,130,tutor,"You have 8 here, Elara.",00:19:55
+gsplehx,131,student,"Oh yeah, 8. Oh yeah, 8. So then I'll subtract 8 by 1, which would give me 7. So 7,882.",00:19:57
+gsplehx,132,tutor,87. Yeah.,00:19:57
+gsplehx,133,student,"87. Yeah. Oh, okay. [UNCLEAR]",00:19:57
+gsplehx,134,student,"Yeah, let's also not forget the commas that we should place for thousand square pounds.",00:20:23
+gsplehx,135,tutor,Okay.,00:20:29
+gsplehx,136,student,Okay. [unclear],00:20:30
+gsplehx,137,tutor,"Okay, yeah. So, okay, awesome effort, Elara. So you made mistake, you realized your mistake, you answered it also correctly. Okay?",00:20:31
+gsplehx,138,student,Okay.,00:20:42
+gsplehx,139,tutor,Awesome. So let's try more questions.,00:20:43
+gsplehx,140,background,"Okay, draw a bar model to help you solve this problem. There are",00:20:46
+gsplehx,141,tutor,496 cupcakes in a shop. 137 more cupcakes are delivered. 338 cupcakes were sold. How many cupcakes are left?,00:20:52
+gsplehx,142,student,"Okay, how will you do this question? Okay, so first I would do it is I had 496",00:21:05
+gsplehx,143,tutor,Mm-hmm.,00:21:19
+gsplehx,144,student,Add 137 since 137 more cupcakes were delivered.,00:21:21
+gsplehx,145,tutor,Okay.,00:21:28
+gsplehx,146,student,"So then I'd first add 9— 9— 6 and 7, which would give— that which would give me 13.",00:21:28
+gsplehx,147,tutor,Okay.,00:21:43
+gsplehx,148,student,So then I'll carry the 1.,00:21:43
+gsplehx,149,tutor,Okay.,00:21:47
+gsplehx,150,student,Which would give me 10. So 10 add 3 will give me 13. So I'll carry the 1 again. Then 4 add 1 add 1 would give me 6.,00:21:47
+gsplehx,151,tutor,Okay.,00:21:58
+gsplehx,152,student,So then afterwards I'll subtract 600 and— 633.,00:21:59
+gsplehx,153,tutor,Mm-hmm.,00:22:09
+gsplehx,154,student,"With 338. No, sorry, yeah, 338 since 338 was sold.",00:22:13
+gsplehx,155,tutor,Uh-huh.,00:22:23
+gsplehx,156,student,"Was sold. So then since I can't subtract 3 by 8, I'm going to carry. So then 3 will turn into a 2, and then the other 3 will turn into a 13. So 13 minus 8 will give me 5. 5. [unclear]",00:22:25
+gsplehx,157,student,"And then 2— since you can't subtract 2 minus 3, you gotta go to the other column. So the other column will give you one more, and the other column will turn into a 5. So then 12 minus 3 would give me 9.",00:22:45
+gsplehx,158,tutor,9.,00:23:08
+gsplehx,159,student,9. And then 5 minus 3 would give me 2.,00:23:08
+gsplehx,160,tutor,Yeah.,00:23:16
+gsplehx,161,student,"Yeah, so then the answer would be 9— 2,295.",00:23:18
+gsplehx,162,tutor,Yeah. [unclear] Let's try the next one.,00:23:26
+gsplehx,163,student,"OK. A garden— a garden centre— a garden centre has 1,745 plants on Monday morning. 889 plants are sold by lunchtime on Monday. 558 plants are then delivered on Monday afternoon. How many plants are there after the delivery?",00:23:33
+gsplehx,164,tutor,Okay.,00:24:01
+gsplehx,165,student,"Okay. So first what I'll do is— so first what I'll do is add 1,745 by 558.",00:24:01
+gsplehx,166,tutor,Okay. [unclear] [unclear],00:24:20
+gsplehx,167,student,"Okay, so first I'll add 1,745.",00:24:42
+gsplehx,168,tutor,Okay.,00:24:49
+gsplehx,169,student,45.,00:24:50
+gsplehx,170,student,by 558.,00:24:50
+gsplehx,171,tutor,Okay.,00:24:50
+gsplehx,172,student,"So then I'd add— so then I'd add 8 add 5, which would give me 13.",00:25:00
+gsplehx,173,tutor,Uh-huh.,00:25:10
+gsplehx,174,student,"So then I'd add the 1 to the 4, which would give me 5. So 5 add 5 would give me 10. So I place the 0 here and add the 1 onto the 7. So then it would turn into [unclear] 8. So then 8 add 5 would give me 13.",00:25:11
+gsplehx,175,tutor,Okay.,00:25:33
+gsplehx,176,student,"And then I'd add the 1 to the other 1, which would give me— 1 add 1, which would give me 2. So then",00:25:35
+gsplehx,177,student,"My answer would be 2,303. After that, I'm going to subtract 2,303 by 889.",00:25:45
+gsplehx,178,tutor,Okay.,00:26:11
+gsplehx,179,student,"So then I'd subtract 2,303 by 889, which— [unclear] [unclear]",00:26:12
+gsplehx,180,student,"So 889. So since we can't subtract 3 by 9, you'd go to the next column since there's nothing in the zero. So then 3 would turn into a 2, and then you'd carry the 1 to the zero, and then you cross it out, and then the 10 would turn into a 9.",00:26:42
+gsplehx,181,tutor,And then?,00:27:06
+gsplehx,182,student,"And then you'd add the 1 to the 3, which would give you 13. So then 13 subtracted by 9 would give me— [unclear]",00:27:09
+gsplehx,183,tutor,4?,00:27:18
+gsplehx,184,student,"Mm-hmm. So then since there's 9 left, so you'll subtract 9 by 8, which would give us 1.",00:27:19
+gsplehx,185,tutor,"And then since you can't subtract 2 by 8, you've got to go to the other column, which would give you 12. So then 12 subtracted by 8 would give you 4. And since there's nothing left underneath the 1, you'd put the 1— you'd add the 1 on top. So it would give me— so that— for the answer would be 1,414.",00:27:30
+gsplehx,186,tutor,Yes.,00:28:03
+gsplehx,187,student,"Yeah, let's not forget the comma, Elara.",00:28:05
+gsplehx,188,tutor,Sorry?,00:28:09
+gsplehx,189,student,"Yeah, for the thousands group, what do you need to be adding to separate the thousands group?",00:28:09
+gsplehx,190,tutor,"Oh yeah, the comma.",00:28:14
+gsplehx,191,student,Okay.,00:28:17
+gsplehx,192,tutor,"It's 1,414.",00:28:22
+gsplehx,193,student,Oh yeah. Oh yeah. [unclear],00:28:24
+gsplehx,194,tutor,"Yeah, well done. So let's try the last question.",00:28:28
+gsplehx,195,student,OK. Cheddar and Tara have £546 between them. Tara has £244 more than Cheddar. How much money does Cheddar have?,00:28:31
+gsplehx,196,tutor,Use the bar model to help you solve the calculation.,00:28:45
+gsplehx,197,background,"OK, how will you do this question?",00:28:49
+gsplehx,198,student,"OK, so since £546 was between them,",00:28:51
+gsplehx,199,student,244 was more— Tara had 244 pounds more than Cheddar. So then what I'll do is add 546 to 244.,00:28:58
+gsplehx,200,tutor,"OK, now Elara, if you look at the bar model here—",00:29:16
+gsplehx,201,student,"Yeah, I think I get it. So you'll first—",00:29:22
+gsplehx,202,student,Subtract 546 by 244.,00:29:29
+gsplehx,203,tutor,Exactly.,00:29:35
+gsplehx,204,student,"So then, 546 subtracted by 244. Since 546 was between them, so they had to share it.",00:29:36
+gsplehx,205,tutor,Uh-huh.,00:29:55
+gsplehx,206,student,"So then— so then you subtract 6 by 4, which would give you 2.",00:29:55
+gsplehx,207,tutor,Uh-huh.,00:30:05
+gsplehx,208,student,"And then you subtract 4 by 4, which would give you 0. And then 5 minus 2, which would give you 3.",00:30:06
+gsplehx,209,tutor,Mm-hmm.,00:30:18
+gsplehx,210,student,Okay.,00:30:19
+gsplehx,211,tutor,"And then afterwards, you would add— and afterwards you would— [unclear]",00:30:20
+gsplehx,212,student,Okay.,00:30:30
+gsplehx,213,tutor,So then afterwards you would add— [unclear],00:30:39
+gsplehx,214,tutor,"Yes, but will you do it?",00:30:51
+gsplehx,215,student,I'm not quite sure.,00:30:53
+gsplehx,216,tutor,"Okay, now this one, what is this amount that you have found out?",00:30:56
+gsplehx,217,student,That's how much they both had.,00:31:02
+gsplehx,218,tutor,"They both had 2,244 extra that Sarah has. Okay? So this is the amount both have together.",00:31:05
+gsplehx,219,student,Okay.,00:31:14
+gsplehx,220,tutor,So how much money they said they have?,00:31:15
+gsplehx,221,student,How do you find that out?,00:31:18
+gsplehx,222,student,"Oh, so then you add 244 to it.",00:31:20
+gsplehx,223,tutor,"Yeah, when you add that, you will get 556. That's going to be the total amount that both share together. Okay, now this 400— 546 is the entire thing. Everything together is 546, the amount that both have between them. Okay?",00:31:24
+gsplehx,224,student,Okay.,00:31:45
+gsplehx,225,tutor,And this 244 is what Sarah has in extra. Okay?,00:31:46
+gsplehx,226,student,Okay.,00:31:51
+gsplehx,227,tutor,So if you take that away—,00:31:52
+gsplehx,228,student,Yeah.,00:31:54
+gsplehx,229,tutor,"If you take that away, this amount, you take that away. Okay? So what you're left with is this. Okay?",00:31:55
+gsplehx,230,student,Okay.,00:32:10
+gsplehx,231,tutor,And that is the amount of 303.,00:32:10
+gsplehx,232,tutor,Okay.,00:32:17
+gsplehx,233,student,Okay.,00:32:18
+gsplehx,234,tutor,"302, sorry. That you've just found out. So 302 is amount Seda and Sarah, part of Sarah and Seda has. So what's the amount that Sarah has? Sorry, Seda has. How do you find that out?",00:32:18
+gsplehx,235,background,302 is what is shared. [unclear],00:32:35
+gsplehx,236,student,"Oh, oh, so then you have to subtract",00:32:37
+gsplehx,237,student,302 by 244.,00:32:43
+gsplehx,238,tutor,"No, no, don't do that. You have already subtracted 244 from 546. You got 302. What do you think about these two bars here?",00:32:46
+gsplehx,239,student,They're both the same.,00:33:01
+gsplehx,240,tutor,"They're both the same, right?",00:33:03
+gsplehx,241,student,Yeah.,00:33:05
+gsplehx,242,tutor,Now the amount that both [unclear] and [unclear] has is,00:33:06
+gsplehx,243,tutor,"Same, 302. The total is 302, but we don't know the amount.",00:33:08
+gsplehx,244,student,Mm-hmm.,00:33:14
+gsplehx,245,tutor,What two amounts are going to be the same?,00:33:16
+gsplehx,246,student,One and [UNCLEAR].,00:33:18
+gsplehx,247,tutor,"So that means it is like— this is also like the Seda, right? This is similar to the amount that Seda has. So Seda is having the same amount like Seda now because he doesn't have that extra now. Understood?",00:33:18
+gsplehx,248,tutor,"Yeah, this is like same like zeta at zeta equals 302. Got it?",00:33:35
+gsplehx,249,student,Yeah. [unclear],00:33:48
+gsplehx,250,tutor,Did you understand this point?,00:33:49
+gsplehx,251,student,"Yeah, so yeah.",00:33:54
+gsplehx,252,tutor,"That means two zetas are having 302 bits. One zeta will have a bit, how much?",00:33:55
+gsplehx,253,tutor,Sorry?,00:34:03
+gsplehx,254,student,"So if two sedges are having 302 bits, to find one, what do you do?",00:34:04
+gsplehx,255,tutor,You half it.,00:34:12
+gsplehx,256,student,"You half it, exactly. So you have 302.",00:34:13
+gsplehx,257,tutor,"You'd go 152, no, 151. [unclear] So that would be the amount that one [unclear] has. That means the amount Elara has, 100. Okay.",00:34:22
+gsplehx,258,tutor,"Oh, okay. Understood, Elara.",00:34:34
+gsplehx,259,student,Yeah.,00:34:37
+gsplehx,260,tutor,So this bar model is very helpful to understand that. Okay?,00:34:39
+gsplehx,261,student,Okay.,00:34:44
+gsplehx,262,tutor,Okay. So how do you feel about this lesson?,00:34:46
+gsplehx,263,background,"It was good, but I think I was— I think I just I might have calculated a bit wrong.",00:34:52
+gsplehx,264,tutor,"Yes, you can make some mistakes. It's always better to check your answer, especially if you're dealing with very big numbers. Okay?",00:34:59
+gsplehx,265,student,Okay.,00:35:06
+gsplehx,266,tutor,"Okay, with that, we're gonna move on to our next lesson, which is going to be solid area and perimeter problems. Okay?",00:35:07
+gsplehx,267,student,Yeah. Okay.,00:35:16
+gsplehx,268,tutor,Can you try this learning goal question for sure?,00:35:17
+gsplehx,269,background,[UNCLEAR] What is the area and perimeter of the shape? [unclear],00:35:17
+gsplehx,270,tutor,"OK, how do you do this question?",00:35:30
+gsplehx,271,student,I'm not quite sure how to do this.,00:35:35
+gsplehx,272,tutor,"OK, then fine. Let's try this question here. Hello? [unclear]",00:35:38
+gsplehx,273,student,"Hello, Elara. Can you hear me?",00:36:10
+gsplehx,274,tutor,Yeah.,00:36:11
+gsplehx,275,tutor,"Yeah, okay.",00:36:13
+gsplehx,276,student,"Sorry, I just got disconnected.",00:36:16
+gsplehx,277,tutor,"That's fine, Elara. Okay, now you said you have no idea how to do this, so shall we try a discussion maybe?",00:36:18
+gsplehx,278,student,"Okay, yeah. What is the area and perimeter of this tree? Any idea? [unclear] Okay, so the area is the inside",00:36:24
+gsplehx,279,tutor,Yeah.,00:36:42
+gsplehx,280,student,"And the perimeter is the outside. So for area, each [unclear] there's blocks inside, you count all the blocks.",00:36:42
+gsplehx,281,tutor,Yes.,00:36:53
+gsplehx,282,student,Which would give you 12.,00:36:53
+gsplehx,283,tutor,OK.,00:36:59
+gsplehx,284,student,"And then you count around the box for perimeter, which would give you—",00:37:00
+gsplehx,285,tutor,Yes.,00:37:05
+gsplehx,286,student,"That's 2,151 million.",00:37:10
+gsplehx,287,tutor,18?,00:37:15
+gsplehx,288,student,"That's very close, Elara.",00:37:16
+gsplehx,289,tutor,20? [unclear],00:37:19
+gsplehx,290,student,"Oh, that's 2,159 million.",00:37:20
+gsplehx,291,tutor,Do you count these quarters?,00:37:27
+gsplehx,292,student,"Yeah, you calculate?",00:37:29
+gsplehx,293,tutor,"T, right?",00:37:29
+gsplehx,294,student,Yeah.,00:37:29
+gsplehx,295,tutor,"Oh, okay. [unclear]",00:37:37
+gsplehx,296,student,"Can you show me how you're going to calculate it, maybe using a pointer?",00:37:41
+gsplehx,297,tutor,"Okay. Okay, so first what I'll do is for perimeter, you count",00:37:50
+gsplehx,298,tutor,The area of the whole of the shape.,00:37:58
+gsplehx,299,student,Okay.,00:38:04
+gsplehx,300,tutor,"So then you'd count all the way up to here. So 1, 2, 3, 4, 5, 6, 7, 8.",00:38:05
+gsplehx,301,background,[unclear],00:38:18
+gsplehx,302,tutor,Yeah.,00:38:18
+gsplehx,303,background,"Okay, actually what perimeter actually means is When you start off from this line, when you go along the shape, okay, and when you end up, that is perimeter, okay? Let's see more about it in the next slide, okay?",00:38:20
+gsplehx,304,tutor,"Okay. [unclear] Before we look at how to find the area and perimeter of the compound shapes, let's look at how we work out the area and perimeter of a triangle. Okay, a rectangle. Okay, yeah. So as you said already, the area is the space inside the boundary. Okay. Okay, this is a rectangle. So can you read this part?",00:38:38
+gsplehx,305,student,"Yeah, 4 rows and 5 square centimeters, or 5 columns of 4 square centimeters.",00:39:06
+gsplehx,306,background,"Okay, now it's 4 rows of 5 squares, or 5 rows of 4 columns, 4 squares, centimeters. Okay?",00:39:14
+gsplehx,307,student,Okay.,00:39:25
+gsplehx,308,tutor,So it's actually basically everything within that. So that means it is like the rows times the 4 columns. Okay?,00:39:25
+gsplehx,309,student,Okay.,00:39:33
+gsplehx,310,tutor,So 4 and 5 means you have to times the width by the length. Okay? That's how we find the area. Or you can times 4 by 5 or 5 by 4. Okay?,00:39:34
+gsplehx,311,tutor,Okay.,00:39:50
+gsplehx,312,student,What do you get?,00:39:52
+gsplehx,313,tutor,"Okay, so you get 20.",00:39:53
+gsplehx,314,student,"20, okay.",00:39:56
+gsplehx,315,tutor,Okay. [unclear] Yeah.,00:39:59
+gsplehx,316,student,And what do you get for this?,00:40:02
+gsplehx,317,tutor,"Oh, you get the same.",00:40:04
+gsplehx,318,student,It's the same. Read this part.,00:40:06
+gsplehx,319,tutor,Yeah. The area of a rectangle can be found by multiplying the length by the width.,00:40:09
+gsplehx,320,student,"Yes, length by the width, so with whatever the order it is. It doesn't matter, still you get the same answer, okay?",00:40:15
+gsplehx,321,student,"Okay. [unclear] Okay, the perimeter is the distance around the outside.",00:40:21
+gsplehx,322,tutor,"Yeah, as I said already, it's the distance around the outside. So like, it's like you are taking a trip along the boundary, okay?",00:40:27
+gsplehx,323,student,Okay.,00:40:36
+gsplehx,324,tutor,"And how much of distance that you have done is the perimeter. Perimeter means outside, meter, everything together. So when you go along this way, you are going this 4 centimeters, 5 centimeters, another 4 centimeters, another 5 centimeters. That means you need to add them all together. [unclear]",00:40:37
+gsplehx,325,student,"Okay, so you— since they were all— since them— since these two are equal, you'd add both of them up, which would give you 10. And since these two are equal, and the answer's here,",00:41:00
+gsplehx,326,tutor,"Then you would add 4 and 4. So 4 and 4 gives you 8, and 5 and 5 gives you 10. So 10 and 8 gives you 18. 18 centimeters would be the perimeter. Okay?",00:41:14
+gsplehx,327,student,[unclear],00:41:24
+gsplehx,328,tutor,"Okay, awesome. So let's go to the next slide, Elara. The area is the amount of space inside a 2D shape, and the perimeter is the distance around a 2D shape. Yeah, as we discussed already, okay? So the area is going to be?",00:41:25
+gsplehx,329,student,36 centimeters.,00:41:46
+gsplehx,330,tutor,How did they get that?,00:41:48
+gsplehx,331,student,"By, um, by looking at the length and width.",00:41:50
+gsplehx,332,tutor,"Yes, the area of a rectangle is length times width. So 12 times 3 gives you?",00:41:58
+gsplehx,333,student,36. [unclear] 36. Yeah.,00:42:04
+gsplehx,334,tutor,"And perimeter, how do you find the perimeter?",00:42:09
+gsplehx,335,student,So then you'd add 12 at 12 and 3 at 3.,00:42:12
+gsplehx,336,tutor,"That would give you 30. Okay, can you work this out?",00:42:17
+gsplehx,337,student,Yeah. [unclear] And what would be the perimeter?,00:42:21
+gsplehx,338,student,The perimeter would be [UNCLEAR].,00:42:35
+gsplehx,339,tutor,Yeah. How did you work that out?,00:42:35
+gsplehx,340,student,"Okay, so first what I did was 7 times 5, which would give me 35.",00:42:45
+gsplehx,341,tutor,Okay.,00:42:55
+gsplehx,342,student,"And then I added 7 7 add 7 since both of these were the same. So 7 7 would give you 14. And these two are the same as well, so 5 5 would give you 10. So then 10 14 would give you 24 centimeters. Awesome, It felt",00:42:56
+gsplehx,343,tutor,good [UNCLEAR]. So we don't have much time left to continue with the lesson. So how do you feel about today's session?,00:43:13
+gsplehx,344,student,and I think I got it.,00:43:13
+gsplehx,345,tutor,"Okay, awesome, Elara. So we'll be continuing with this lesson [unclear] next time, okay?",00:43:25
+gsplehx,346,student,Okay.,00:43:32
+gsplehx,347,tutor,"Okay, have a great day. Take care, bye-bye.",00:43:32
+gsplehx,348,student,"You too, bye.",00:43:35
+gsplehx,349,tutor,"Thank you, bye.",00:43:35

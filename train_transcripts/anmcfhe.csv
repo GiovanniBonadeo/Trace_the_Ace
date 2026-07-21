@@ -1,0 +1,132 @@
+session_id,utterance_id,role,content,timestamp
+anmcfhe,0,tutor,Hello.,00:00:00
+anmcfhe,1,background,[unclear],00:00:00
+anmcfhe,2,student,Hi.,00:00:03
+anmcfhe,3,tutor,"Hi, good morning, Gideon.",00:00:05
+anmcfhe,4,student,Morning.,00:00:10
+anmcfhe,5,tutor,How are you doing?,00:00:11
+anmcfhe,6,student,Good.,00:00:13
+anmcfhe,7,tutor,"Well, that's good to know. And what about your weekend? How was it?",00:00:14
+anmcfhe,8,student,It was really good.,00:00:19
+anmcfhe,9,tutor,"Mm-hmm. Okay, well, that's great to know as well. So shall we start our today's session?",00:00:21
+anmcfhe,10,student,Mm-hmm.,00:00:27
+anmcfhe,11,tutor,"Perfect. So today we are going to continue with the lesson using probability scales. If you try to recall, in the last class you were doing this lesson, yeah?",00:00:28
+anmcfhe,12,student,Mm-hmm.,00:00:40
+anmcfhe,13,tutor,"All right. So first of all, I want you to try this learning goal question. [unclear]",00:00:41
+anmcfhe,14,tutor,All right. Can you explain me how you got the answer?,00:01:04
+anmcfhe,15,student,"Um, because it can be like— it's likely to get an odd number.",00:01:08
+anmcfhe,16,tutor,"Okay, and can you tell me, uh, why did you choose this answer? Like, why the probability of getting an odd number will be close to 1 here? [unclear] Can you answer me? Why do you think that the probability of rolling an odd number will be closer to 1?",00:01:20
+anmcfhe,17,student,"Because it can be likely, but no, it could be— it could be even.",00:01:44
+anmcfhe,18,tutor,"Yes, it could be even. And can you tell me why did you change your answer? [unclear]",00:01:51
+anmcfhe,19,student,[unclear],00:02:06
+anmcfhe,20,tutor,"Yes, that's right. The correct answer will be— it will be 50/50. That means it will be likely to get an odd number or an even number. Because can you tell me what are the outcomes we can get if I roll a 6-sided die?",00:02:06
+anmcfhe,21,background,It could be even,00:02:22
+anmcfhe,22,student,And it could be odd.,00:02:24
+anmcfhe,23,tutor,"Yes, we can get 1, 2, 3, 4, 5, or a 6, right? That means out of these 6 numbers, the odd numbers are 1, 3, and 5. That means 3 over 6, and 3 over 6 is 1/2, right? That means it is probably 1/2— the probability of rolling an odd number will be 1/2. So this will be our answer. And yes, these two are also correct prior learning, so good job on that. Now are you ready for the next slide? [unclear]",00:02:27
+anmcfhe,24,tutor,"All right, so in the last class you were on this You Do slide solving the questions. The first question was solved, so now I want you to try the second question once again.",00:03:02
+anmcfhe,25,tutor,"Can start from the second question, this one.",00:03:21
+anmcfhe,26,student,I know what you're talking about.,00:03:25
+anmcfhe,27,tutor,Pardon?,00:03:31
+anmcfhe,28,student,I had done this last week.,00:03:33
+anmcfhe,29,tutor,"Yeah, but the C part was not done, so that's why— [unclear]",00:03:35
+anmcfhe,30,student,The C part was done as well.,00:03:40
+anmcfhe,31,tutor,"Okay, all right. I take that for you. But can you please try to tell me what do you think the answer for C part will be? Only the C part. [unclear] And why do you think so this will be the answer for C part?",00:03:44
+anmcfhe,32,student,Because there's 2 3s.,00:04:09
+anmcfhe,33,tutor,Are you sure there are 2 multiples of 3 over here? Only 2 multiples?,00:04:13
+anmcfhe,34,student,"Yes, it will be 3/8 because we have 1, 2, and 3, right? So it will be 3/8. All right, wonderful. Now we will go to the next slide. This is the go further. Can you please try this one?",00:04:39
+anmcfhe,35,tutor,"All right, are you done?",00:05:27
+anmcfhe,36,student,Mm-hmm.,00:05:29
+anmcfhe,37,tutor,"All right, can you please explain me how you got the answer?",00:05:31
+anmcfhe,38,student,"It would be very unlikely to get a card— I don't know, I don't know how to explain it.",00:05:35
+anmcfhe,39,tutor,"All right, let's start with the basic. How many letters are there in the How many letters are there in total in the word mathematics? [unclear]",00:05:48
+anmcfhe,40,student,11.,00:06:02
+anmcfhe,41,tutor,"Yes, 11. Alright, how many of the letters are not vowels?",00:06:03
+anmcfhe,42,student,I don't know.,00:06:12
+anmcfhe,43,tutor,"Alright, what are the vowels?",00:06:15
+anmcfhe,44,student,I don't know what the vowels are.,00:06:20
+anmcfhe,45,tutor,"Oh, okay, no worries. All right, so in English alphabet there are some letters that are vowels. For example, A, E, I, O, and U. Okay. These are vowels. We categorize them as vowels, and the rest of them we call them as consonants. Okay?",00:06:23
+anmcfhe,46,student,[unclear],00:06:52
+anmcfhe,47,tutor,"So if you have these alphabets, then these are vowels. So if you look at your word mathematics, can you tell me how many of the letters are vowels?",00:06:54
+anmcfhe,48,student,There are 3.,00:07:12
+anmcfhe,49,tutor,"Hmm, are you sure? Count them once again.",00:07:14
+anmcfhe,50,student,"If there are 3— oh no, 4.",00:07:22
+anmcfhe,51,tutor,"Yes, it will be 4. So if 4 are vowels, how many will be non-vowels?",00:07:24
+anmcfhe,52,student,7.,00:07:36
+anmcfhe,53,tutor,"There you go. So that means the probability of not choosing a vowel would be 7/11, right? So you have to show 7/11 on this number line. There you go. I hope the question is clear to you.",00:07:38
+anmcfhe,54,tutor,"Alright, that's great. And with that, Gideon, we have completed our probability and scales chapter. So can you please give me a summary of what we have learned in this lesson?",00:08:02
+anmcfhe,55,student,We learned about [unclear] and not about.,00:08:15
+anmcfhe,56,tutor,"Okay, and if I give you an extra question, for example, let's say this. Let's say there is a word July. Okay, can you tell me what is the probability of getting a word wobble?",00:08:23
+anmcfhe,57,student,It would be 1.,00:08:44
+anmcfhe,58,tutor,"Yeah, it will be 1 over [UNCLEAR]. [unclear]",00:08:46
+anmcfhe,59,tutor,"Yes, it will be 1/4. That's right, because we only have U, which is a vowel, so it will be 1/4. Excellent job. So now let's try to start our new lesson, which is about finding the averages and range. All right, so have you done this lesson before, like in your class?",00:08:56
+anmcfhe,60,tutor,"Alright, no worries. We will learn something new then. Okay, what about mean, mode, median, range? Have you heard about any of these terms?",00:09:19
+anmcfhe,61,student,Not that I know.,00:09:31
+anmcfhe,62,tutor,"Alright, no worries. We are going to learn. Alright, so in the learning goal question, we have to find the mean, mode, median, and range from the list of the data. So here you can see we have some data of some numbers here, and we have to first of all calculate the mean. Any idea how can we calculate it? [unclear]",00:09:34
+anmcfhe,63,tutor,"All right, so if you know, if you want to calculate the mean, what you need to do, you need to add all the numbers together that are given and then divide by how many numbers are there. So your first step will be to add all these numbers. Can you add all of them?",00:10:00
+anmcfhe,64,student,Okay. [unclear],00:10:20
+anmcfhe,65,student,[unclear],00:10:54
+anmcfhe,66,tutor,So what's the total of these numbers? [unclear],00:10:54
+anmcfhe,67,tutor,"Very good. Now, can you tell me how many numbers we have here?",00:11:20
+anmcfhe,68,student,[unclear],00:11:31
+anmcfhe,69,tutor,"Very good. So what we need to do, we need to add all the numbers and then divide the answer with how many numbers we have to get our mean. So what is 21 divided by 7?",00:11:31
+anmcfhe,70,student,3.,00:11:46
+anmcfhe,71,tutor,"So our mean will be 3. Now we have the next term as mode. Okay. The number which appears most often in a set of numbers. For example, in this list of data, what number is appearing most often?",00:11:46
+anmcfhe,72,student,1.,00:12:04
+anmcfhe,73,tutor,"Very good. So the mode will be 1. So can you put 1? All right. Now, median. Median means the middle of a sorted list of numbers. Why I said sort it? To find the median, first of all, we need to place the numbers in value order. That means from smallest to largest, and then we need to figure out which is the middle number, and then it will be [UNCLEAR].",00:12:06
+anmcfhe,74,tutor,That's gonna be 3.,00:12:06
+anmcfhe,75,student,"Mm-hmm. No, it's not gonna be 3. Check it once again.",00:12:34
+anmcfhe,76,background,"If you put 1,",00:12:43
+anmcfhe,77,student,"First, then you put 2, and then you don't put 3. Oh, so it's going to be 2.",00:12:44
+anmcfhe,78,tutor,"Yes, it's going to be 2 because when we arrange them, it's something like this because 1 is appearing 3 times, right? So 1, 1, 1, and then 2, and then a 3, and then a 6, and then a 7. So you can see in the middle we have a 2. So 2 will be our median. Okay, then we have range. So the range is the difference between the lowest and the highest value. So that means you need to subtract the highest and the lowest value to get the range.",00:12:49
+anmcfhe,79,student,[unclear],00:13:19
+anmcfhe,80,tutor,"Yes, it will be 6 because the highest is 7, the lowest is 1. 7 minus 1 will be 6. So that's how we can find mean, mode, median, and range. Now can you please try the prior learning question? [unclear]",00:13:22
+anmcfhe,81,tutor,Are you done?,00:13:47
+anmcfhe,82,student,Mm-hmm.,00:14:04
+anmcfhe,83,tutor,"Okay, very good. Can you check your answer once again? You're making a little bit of mistake.",00:14:04
+anmcfhe,84,student,Isn't— I don't— I don't think so. I don't see a mistake. I don't see a mistake.,00:14:11
+anmcfhe,85,tutor,"Okay, look, the first number is correct, the last number is also correct, but do you think 0.5 will be smaller than 0.46? [unclear]",00:14:25
+anmcfhe,86,student,"As you can see, 0.46 is a smaller number than 0.5. Yeah, so the order must be 0.05 and then 0.46 and then 0.5 and then 0.64.",00:14:39
+anmcfhe,87,student,Why?,00:15:19
+anmcfhe,88,tutor,Because if you have 0.46 and 0.5. Then can we write the 0.5 as 0.50?,00:15:19
+anmcfhe,89,student,[unclear],00:15:31
+anmcfhe,90,tutor,"I'm including a placeholder. So now if you compare, we have 0s, 0s, 1s in both the cases. Now we will compare the tenths. Here we have 4 tenths, here we have 5 tenths. 5 tenths are bigger than 4, that's why it will come in the third place.",00:15:33
+anmcfhe,91,tutor,"All right, great. Okay, so now we have this prior learning. Let's try to order a set of decimal numbers once again. So we can compare each digit in turn, starting with the highest value digit first, like I told you. So first of all, can you tell me what value is shown by each of these numbers? [unclear] [unclear]",00:15:56
+anmcfhe,92,student,"Okay, over here in the place value chart, we have some counters filled in, right? So by counting them, we need to make a number. For example, how many ones here are?",00:16:29
+anmcfhe,93,tutor,"Yes, like this.",00:16:46
+anmcfhe,94,tutor,"Now, how many tenths we have? [unclear]",00:16:51
+anmcfhe,95,tutor,"And then how many hundredths we have? So you can see we have 4 tenths. And 200. So the number will be 3.42. Yeah, so similarly, can you try to find the value of all these numbers? [unclear]",00:17:05
+anmcfhe,96,tutor,"Very good. Now let's order them. First we compare the ones and then we compare the tenths. So we are ordering them from largest number to smallest number. So according to you, which number is the largest number here? [unclear]",00:18:04
+anmcfhe,97,tutor,All right. And why do you think 2.86 will be the largest number?,00:18:25
+anmcfhe,98,student,[unclear],00:18:34
+anmcfhe,99,tutor,"Yes, it will be 3.42 because in this number we have 3 ones, the highest number of ones. Now, which is the second largest number? Third largest number? And then we have finally the smallest number. It is going to be 1.43. That's how we can compare them. So you can see, first we start from highest value digit first. Here we have compared the ones and then we compare the tens. Okay? Is there anything you are still stuck on? We can discuss it.",00:18:34
+anmcfhe,100,student,"No, I am not stuck on anything.",00:19:16
+anmcfhe,101,tutor,"Alright, that's good. Let's try with Let's Learn slide then. So we can calculate the mean, mode, median, and range from a list of data. So in the first slide, we done an example of what was mean, mode, median, and range. Alright, now what was mean? Can you try to recall?",00:19:18
+anmcfhe,102,student,[unclear],00:19:40
+anmcfhe,103,tutor,"Yes, that's right. So here is a list of number. Can you try to find the mean of this list of number?",00:19:42
+anmcfhe,104,tutor,"So first of all, we need to add all of them. So here we have 4 plus 8 plus 3 plus 1 plus 6 plus 3 plus 2 plus 3 plus 6. [unclear]",00:19:48
+anmcfhe,105,tutor,"So what's the total here? [unclear] That is correct, we have 9 numbers. Are you sure the total will be 108?",00:20:48
+anmcfhe,106,tutor,Try to add them once again. [unclear],00:21:08
+anmcfhe,107,student,Are you still getting 108?,00:21:51
+anmcfhe,108,tutor,"Yes, it will be 36. Now it's time for us to divide this total by the number of values. 36 divided by 9 will be— very good. Now we have the mode. So can you recall what was the mode? Yes, that's right. The most common value here will be 3. And then we have the median. How can we find the median? [unclear]",00:21:58
+anmcfhe,109,student,"I can't, I'm confused myself. [unclear]",00:22:36
+anmcfhe,110,student,[unclear] [unclear],00:23:00
+anmcfhe,111,student,[unclear] [unclear],00:23:05
+anmcfhe,112,tutor,Excellent.,00:23:26
+anmcfhe,113,student,Will it be 3?,00:23:28
+anmcfhe,114,tutor,"Yes, it will be 3, the middle number from an ordered list. Now we have the range. So range we can calculate. Subtracting the biggest value and the smallest value. [unclear]",00:23:29
+anmcfhe,115,tutor,"Good job trying this and getting the concept. I'm so proud of you. Now let's try to work around our Follow Me and Your Turn. So on the Follow Me, I will explain you how to attempt the question, and then in the Your Turn, you will do the same thing.",00:23:56
+anmcfhe,116,student,"So here is a list of numbers, and we have to calculate again the same things— mean, mode, median, and range. Alright, so first of all, for the mean, I need to add all the numbers together. So I have 3 10 5 2 3 3 9, and the total numbers are 7. So if I add all these numbers together, I will get 35, which I need to divide by 7. So 35 divided by 7 will be 5. So our mean will be 5. Now the mode will be the most coming number, the most common value. So it will be 3 over here because 3 is coming 3 times.",00:24:10
+anmcfhe,117,tutor,"All right, now for the median, I need to arrange these numbers in an order list.",00:24:58
+anmcfhe,118,student,"So for that I have first 2, then 3, 3, 3, and then I have a 5, a 9, and a 10. All right, so I think in the middle we have 3, so the median will be 3 again, and the range will be the highest value minus the lowest value, which is 2, which will be 8. So you can see the same thing we did in the last slide, I did over here. Now can you please try the 'Your Turn' part? [unclear]",00:25:03
+anmcfhe,119,student,1. [unclear],00:25:40
+anmcfhe,120,student,"Very good. Now the range. All right, that was a splendid effort by you trying to answer all of them by yourself. All right, so Gideon, we will stop over here and we will start the next slide in our next session. Now I want you to tell me, how can we find the median?",00:28:24
+anmcfhe,121,student,It's by [UNCLEAR].,00:28:52
+anmcfhe,122,student,Listing them and then looking in the middle.,00:28:54
+anmcfhe,123,tutor,"Yes, but first we need to order them into an ordered list of smallest to biggest, right?",00:28:57
+anmcfhe,124,student,[unclear],00:29:03
+anmcfhe,125,tutor,"All right, I hope you have learned something new today in our class together.",00:29:06
+anmcfhe,126,student,Mm-hmm.,00:29:10
+anmcfhe,127,tutor,"All right, that's great to know. So well done, it's time to end our session and please try to attempt the post-session question you will receive, okay?",00:29:12
+anmcfhe,128,tutor,Okay.,00:29:23
+anmcfhe,129,student,"All right, bye, take care.",00:29:24
+anmcfhe,130,tutor,"Bye, bye-bye. [unclear]",00:29:26

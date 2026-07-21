@@ -1,0 +1,273 @@
+session_id,utterance_id,role,content,timestamp
+ahcdsxc,0,background,[unclear],00:00:00
+ahcdsxc,1,student,"Hello, can you hear me, Declan? [unclear]",00:00:00
+ahcdsxc,2,tutor,Hello?,00:00:27
+ahcdsxc,3,student,Hello.,00:00:27
+ahcdsxc,4,tutor,"Hello, can you hear me?",00:00:29
+ahcdsxc,5,student,Yeah.,00:00:30
+ahcdsxc,6,tutor,"Okay, Declan, welcome back to another session at the space. How are you today, Declan?",00:00:32
+ahcdsxc,7,student,Good.,00:00:37
+ahcdsxc,8,tutor,You're doing good.,00:00:39
+ahcdsxc,9,tutor,"Okay, so how was your day? Just started, no?",00:00:39
+ahcdsxc,10,student,Yeah.,00:00:43
+ahcdsxc,11,tutor,"Yeah, so today is the last session of this term, and then you will be continuing from January onwards. Sometimes— yeah? What were you going to ask? Were you going to say something?",00:00:44
+ahcdsxc,12,background,No.,00:01:00
+ahcdsxc,13,tutor,"Yeah, okay, so as I said, today is the last session for this term. January 6th onwards, the term starts, and you'd have to continue the sessions. Sometimes you'd be getting another tutor, sometimes. So having said that, today we have started with the new lesson, finding the square numbers. So tell me, have you learned about this in school already or yet to learn? [Speaker:Declan]... [UNCLEAR]",00:01:01
+ahcdsxc,14,tutor,"Oh, that's nice. So you have learned. Can you tell me, what do you mean by square numbers? Any idea what it means?",00:01:26
+ahcdsxc,15,student,"Like when there's a 2 on top of like a number and then you have to— instead of doing like 8 times 2, you have to do 8 times 8?",00:01:32
+ahcdsxc,16,tutor,"Yeah, when you times the number by itself, we call it as a square number. So can you try out the learning goal question and the prior learning question?",00:01:41
+ahcdsxc,17,student,[unclear],00:01:48
+ahcdsxc,18,tutor,"Okay, yeah, that's the correct answer.",00:01:55
+ahcdsxc,19,student,"Write a [UNCLEAR]... [Speaker:TUTOR] Mm-hmm. Oh, no. That's not the answer. So this is an array. Array, do you know how it works? We times the length by breadth. So the breadth here is 3, length is also 3. So basically the calculation is length into breadth. So can you type the calculation and get the answer? Yes, so good job on that. Did you understand how array works?",00:02:01
+ahcdsxc,20,student,Yeah.,00:02:47
+ahcdsxc,21,tutor,"Okay, so I hope you take away that as a new learning, and good job working this out. So in this lesson, I'll show you— you will understand that a [unclear] number is the product of an a number multiplied by itself. And you will identify the methods— you will know how to identify whether a number is a square number or not. So in the end, you will be solving a quiz-like question involving addition of two square numbers. That is the goal for the slide, but we have to complete some other slides before that. So any questions so far?",00:02:48
+ahcdsxc,22,student,"No. [unclear] Yeah, so moving forward, can you read this?",00:03:22
+ahcdsxc,23,student,"Before finding square numbers, we can use an array to help us understand what square numbers are.",00:03:27
+ahcdsxc,24,tutor,"Yes, so do you know what an array is actually? What it means? How we use that? [unclear]",00:03:37
+ahcdsxc,25,student,It's like a picture and then you have to like find the whole number and then you see how many it's got in one row.,00:03:49
+ahcdsxc,26,tutor,"Yeah, partially correct. Your explanation is partially correct. I would say array is, you know, a way to visualize calculations. So it is— array could include objects of it. And the highlight is that they do not leave any gaps. That means you won't be having 3 balls and 1 gap like this. Arrays are always complete. All the gaps would be filled. Okay, so in this case, what they try to say is square numbers would make a square-shaped array. That means length and breadth would be the same, because in a square all the sides are same, equal size. Can you understand?",00:04:02
+ahcdsxc,27,student,Yeah.,00:04:38
+ahcdsxc,28,tutor,"So here you have an 8 by 9 array. Equals to 72, meaning 72 circles in here. Do you think this is a square number?",00:04:39
+ahcdsxc,29,student,No.,00:04:47
+ahcdsxc,30,tutor,"No, why is that?",00:04:48
+ahcdsxc,31,student,Because... because the numbers are not the same.,00:04:49
+ahcdsxc,32,tutor,"They are not the same, it's not times by itself. So in this case, 8 by 8, 64, is this a square number?",00:04:54
+ahcdsxc,33,student,Yes.,00:04:59
+ahcdsxc,34,tutor,"Yes, why is that?",00:05:00
+ahcdsxc,35,student,Because they got... because it's the same number.,00:05:02
+ahcdsxc,36,tutor,"It's the same number, plus the, you know, when represented in the array, it forms a square shape where all the sides will include 8, 8, 8, 8. 8. Okay, so, uh, now you figure out the length and breadth of this and times them. And if it's a square number, you've got a tick here. If it's not a square number, you gotta take the, uh, like this. Okay.",00:05:05
+ahcdsxc,37,student,[unclear],00:05:25
+ahcdsxc,38,student,So this is a [UNCLEAR]. [Speaker:Tutor] Yes.,00:05:44
+ahcdsxc,39,student,"Yes, so we can take like this. Okay, next one. Try this array.",00:05:47
+ahcdsxc,40,tutor,"Yes, it's a 4 by 5 array, equivalent to 20. This is a square number.",00:06:00
+ahcdsxc,41,tutor,"Yes, it's a no because also it doesn't form a square. They are having [unclear] different length and widths. So any questions so far?",00:06:07
+ahcdsxc,42,student,No.,00:06:15
+ahcdsxc,43,tutor,"Okay, moving on. Read this.",00:06:15
+ahcdsxc,44,background,A square number is the product of a number that is multiplied by itself.,00:06:20
+ahcdsxc,45,background,Yeah. So do you know what is product?,00:06:29
+ahcdsxc,46,student,Like the whole number?,00:06:33
+ahcdsxc,47,tutor,"No, not a whole number. Example, let's say 2 times 4. This is a calculation. Or if you say, example, 2 plus 4, that would be 6. Let's say 4 minus 2, that would be 2. The answer you get in all the calculations is known as product. Any type of calculation, the answer you get is known as product. Can you understand?",00:06:35
+ahcdsxc,48,student,Yes.,00:06:59
+ahcdsxc,49,tutor,"Yeah, that's another mathematical term to call the answer as product. So these are all square numbers. Can you figure out the answers for these? [unclear]",00:07:00
+ahcdsxc,50,student,"Okay, I think the blanks are going wrong. Wait, wait, wait, can you type it properly? [unclear] Clear these two.",00:07:37
+ahcdsxc,51,student,Type it properly in correct blanks. [unclear],00:07:53
+ahcdsxc,52,student,"This is Maeve. [unclear] Like, I can hear something in that background, but like, it's like, you know, like when people are on the phone and it's like breaking up? Yeah, it's like that.",00:09:11
+ahcdsxc,53,tutor,"Oh, sugar.",00:09:29
+ahcdsxc,54,tutor,"I can't hear anything at the minute, Declan. Let me try another set of headphones. [unclear] [unclear]",00:09:33
+ahcdsxc,55,student,Hello?,00:10:11
+ahcdsxc,56,tutor,Hello? Let me try a different USB port. [unclear] [unclear],00:10:33
+ahcdsxc,57,tutor,Hello?,00:11:07
+ahcdsxc,58,student,Hello?,00:11:13
+ahcdsxc,59,tutor,"Not quite sure what's going on, Declan. [unclear]",00:11:16
+ahcdsxc,60,tutor,Hello?,00:11:31
+ahcdsxc,61,student,"Hello, can you hear me now?",00:11:31
+ahcdsxc,62,tutor,"I can hear you now, yeah.",00:11:33
+ahcdsxc,63,student,"Okay, right.",00:11:35
+ahcdsxc,64,tutor,"Right, so I'll pass you back on to Declan.",00:11:36
+ahcdsxc,65,tutor,"Okay, right. Thank you.",00:11:44
+ahcdsxc,66,background,Hello.,00:11:47
+ahcdsxc,67,tutor,"Okay, right. Declan, all good now?",00:11:49
+ahcdsxc,68,background,Yeah.,00:11:51
+ahcdsxc,69,tutor,"Okay, right. Declan, can you please type this properly in the correct blanks? Oh, sorry. Wait, wait. So this was 1, this was 4, this was 9. 4 times 4 is 16. Last one would be— fill this one and fill this one.",00:11:52
+ahcdsxc,70,background,[unclear],00:12:08
+ahcdsxc,71,tutor,Use the typing tool.,00:12:09
+ahcdsxc,72,tutor,"Okay, that's 5. [unclear] Yeah, okay. So, you know, in square numbers we write this tiny 2 over here to say the number was times by itself. So 6 squared, read it as 6 squared, 2 squared. You already know that, right?",00:12:13
+ahcdsxc,73,student,Yeah.,00:12:33
+ahcdsxc,74,tutor,"Yeah, so you can fill this one. [unclear]",00:12:34
+ahcdsxc,75,tutor,Yes. So can you read this as well?,00:12:51
+ahcdsxc,76,student,"A square is made with sides of equal lengths. To find the area of a square, we multiply the length",00:12:54
+ahcdsxc,77,student,"Yes. So basically, this is the same as, you know, an array in a square. If you see a times table, we can link the [unclear] numbers like this, 2 and 2. In the end, it could form a square, as you can see. 3 and 3, 4 and 4, because the length and breadth are equal. Can you understand?",00:13:07
+ahcdsxc,78,student,Yes.,00:13:32
+ahcdsxc,79,tutor,So any questions so far?,00:13:32
+ahcdsxc,80,student,No.,00:13:35
+ahcdsxc,81,tutor,"Okay, so moving on, let me quickly work out the following, then you can work out your turn. So this is very important, Declan, because, uh, you know, here you are going to learn how to figure out, uh, whether a number is square number or not using a factor bug. Have you used factor bugs before? Have you studied?",00:13:37
+ahcdsxc,82,student,Yeah.,00:13:53
+ahcdsxc,83,tutor,"Yeah, so here what happens is a factor bug is used for a systematic way of finding all the factors of a number....so that you don't miss out any factors. So the highlight is the factor bugs will have a stinger if it is a scan number. So scan numbers always have odd number of factors. If you count them all together, it would give you odd number. Do you know what is odd number? [unclear]",00:13:54
+ahcdsxc,84,tutor,"Okay, so odd numbers means, you know, one, leave the second one, that would be 1, 3, 5, one after the other is an odd number. In between them you have even numbers. Do you know odd and even numbers?",00:14:21
+ahcdsxc,85,student,Yeah.,00:14:35
+ahcdsxc,86,tutor,"Yeah, odd numbers means when you divide by 2 they would give you remainder. Even numbers means when divided by 2 they wouldn't give you a remainder. 1, 3, 5, 7, 9, 11, next would be 13 and so on. Next would be 15. All of them are odd numbers. Odd numbers will not appear in the 2 times table. Okay, simple as that. So what they're trying to tell is when you count the number of factors, it would give you odd numbers if it is a square number. So let's take square number 36, which is 6 by 6, and list all the factors. So 1 times 36— you do know what is factors?",00:14:36
+ahcdsxc,87,student,Yeah.,00:15:14
+ahcdsxc,88,tutor,Can you tell me what is factor? What is a factor? [unclear],00:15:15
+ahcdsxc,89,student,It's the number that is in that times table.,00:15:18
+ahcdsxc,90,tutor,"Uh, no, not necessarily like that. Example, let's say 8. Uh, 1 times 8 gives you 8. The numbers that makes 8 are known as the factors. 1 times 8 is 8. 2 times 4 is also 8, right? So these— this part of the calculation are factors. We can say then 1, 8, 2, 4 are factors of 8. Can you understand?",00:15:27
+ahcdsxc,91,student,Yes.,00:15:50
+ahcdsxc,92,tutor,"The numbers that makes that number known as factors of 8. So 1 times 36 is 36, 2 times 18, 3 times 12, 4 times 9. All of these numbers gives me 36, but also 6 times 6 gives me 36. Since you can see, we— 6 is repeated twice, we don't need to write it as 6 and 6, we just write it at as once, we write it once as a here. [unclear] Do you understand? Yes.",00:15:51
+ahcdsxc,93,student,So,00:16:22
+ahcdsxc,94,tutor,"how many factors does 36 have? There are 9 factors, which is an odd number, so we can confirm that 36 is a square number. It has odd number of factors altogether. Is this an odd number of factors? Yes. So that's one way you can figure out whether a number is a square number or not using the factor bug. So any questions?",00:16:23
+ahcdsxc,95,student,No.,00:16:45
+ahcdsxc,96,tutor,You can work out your turn.,00:16:46
+ahcdsxc,97,student,So that will be 60. That will be [unclear] and that will be 60.,00:16:49
+ahcdsxc,98,student,Yes.,00:17:12
+ahcdsxc,99,tutor,And what else gives you 64? Would it have a [UNCLEAR]? [Speaker:Declan] 8 and 8. So it would.,00:17:13
+ahcdsxc,100,tutor,"Yeah, so you can— let's— wait, wait. We just have to draw like this and type the answer down there.",00:17:24
+ahcdsxc,101,tutor,"Yes. So now you tell me, how many factors does it have altogether?",00:17:34
+ahcdsxc,102,student,7.,00:17:39
+ahcdsxc,103,tutor,7. Is that an odd number?,00:17:40
+ahcdsxc,104,student,Yes.,00:17:44
+ahcdsxc,105,tutor,"Yeah. So therefore we can conclude that 64 is a square number. So yeah, fill this blank. [unclear] Is 64 a square number? Yes.",00:17:45
+ahcdsxc,106,student,[unclear],00:17:59
+ahcdsxc,107,tutor,"Because it has odd number of factors. Okay, good job. So did you understand?",00:17:59
+ahcdsxc,108,student,Yes.,00:18:05
+ahcdsxc,109,tutor,"Moving on, you can try out these questions.",00:18:07
+ahcdsxc,110,student,What is the value of 7 squared?,00:18:10
+ahcdsxc,111,tutor,"Yes, that's correct.",00:18:19
+ahcdsxc,112,student,"What is the number multiplied by itself gives 100? Okay, so but they're simply asking what is the scan number of hundred? What times times what times by itself? Gives you 110. So they would ask, you know, different ways about the same concept. Yes, they're simply asking, what is the scan number of hundred? So they have asked it in detail Okay, so, but they're simply asking what is the square number of 100? What times times what times by itself gives you 100?",00:18:23
+ahcdsxc,113,tutor,10.,00:19:08
+ahcdsxc,114,student,"So they would ask, you know, different ways about the same concept. They're simply asking what is the square number of 100, so they would have asked it in detail. Like this, okay?",00:19:09
+ahcdsxc,115,student,Yes.,00:19:24
+ahcdsxc,116,tutor,"So 81 is a square number. Okay, let's check whether 81 is a square number or not. Okay, you can't directly jump to conclusions. You've used this factor bug. They have given you the factor bug. 1 times 81 is 81. Then they're asking the [unclear] here.",00:19:25
+ahcdsxc,117,student,9.,00:19:42
+ahcdsxc,118,tutor,Yeah.,00:19:42
+ahcdsxc,119,student,"Because 9 times 9 equals 81. So remember, if a factor bug has a stinger, that is a scar number. That's what you did just a while ago. So here, 9 appears, therefore it's a— [unclear]",00:19:43
+ahcdsxc,120,student,Yes.,00:20:00
+ahcdsxc,121,tutor,"Yes, it's a scar number. If a factor bug has a stinger, it means it is a scar number. So good job on that. Moving on. Yes. Try this one.",00:20:01
+ahcdsxc,122,student,Can you find two square numbers that total 45? [unclear],00:20:15
+ahcdsxc,123,student,"Oh, 9 and 5.",00:20:29
+ahcdsxc,124,tutor,"9 and 5, okay. So are you saying that 9 plus 5 is equivalent to 45?",00:20:31
+ahcdsxc,125,student,Times 45?,00:20:41
+ahcdsxc,126,tutor,"No, it's not times. It's not times. They're saying total. Total means addition here in this case. Okay, so is 5 a square number?",00:20:44
+ahcdsxc,127,student,No.,00:20:57
+ahcdsxc,128,tutor,"Okay, let me tell you something. You know, numbers here in this slide, these are the square",00:20:59
+ahcdsxc,129,background,"1, 4, 9, 16, 25, 49, 64, 81, 144, 256, 729, 729. 16, 25. These are the square numbers. These are the root of that number. [unclear] 2 roots is 4, likewise. So here in this case, they're asking, um, what are 4 numbers that adds up to 45?",00:21:04
+ahcdsxc,130,student,I've got mine. 40 and 5.,00:21:23
+ahcdsxc,131,tutor,"Oh, do you know? Did you? Okay, let's list down the square numbers. 1 times 1 is 1. 2 times 2 is?",00:21:29
+ahcdsxc,132,student,4.,00:21:37
+ahcdsxc,133,tutor,"Then what is the next [UNCLEAR]? 1, 4, then? [Speaker:Declan] 3 times 3, which is 6.",00:21:38
+ahcdsxc,134,tutor,Really?,00:21:44
+ahcdsxc,135,student,I mean 9.,00:21:46
+ahcdsxc,136,tutor,Mm-hmm. Then you have?,00:21:47
+ahcdsxc,137,student,Then it will be 16. Then it will be 25. Then it will be 36.,00:21:50
+ahcdsxc,138,student,[unclear],00:22:01
+ahcdsxc,139,tutor,"Okay, let's stop at this point because we have to— what they are simply asking is you can use a few numbers here to add up to 45. We can't be taking 49 because it is more than 45. So you have to use these numbers here and add up to 45. Any two of these numbers will add up to 45. So not any two, there are specifically two numbers here that actually adds up to 45. Can you find which one?",00:22:01
+ahcdsxc,140,student,Yeah.,00:22:34
+ahcdsxc,141,tutor,Start off with the biggest number. 36 plus what number gives you a 45?,00:22:36
+ahcdsxc,142,student,So 30.,00:22:44
+ahcdsxc,143,tutor,"If it doesn't, you can move on to 25 plus what number likewise.",00:22:45
+ahcdsxc,144,student,"I— we can do 36 plus— [unclear] [Speaker] 16 first, which won't equal to 52.",00:22:49
+ahcdsxc,145,tutor,So that's not possible. We can cut the 16 off. [Speaker] 36 plus 9.,00:22:58
+ahcdsxc,146,tutor,Yes. What is the answer? [Speaker] 45.,00:23:09
+ahcdsxc,147,tutor,Yeah. So we can say 36 plus 9 is 45. And 9 are the square numbers that adds up to 45. Do you understand?,00:23:16
+ahcdsxc,148,student,Yes.,00:23:25
+ahcdsxc,149,tutor,"Yes, so here they have not told times. They have not told times. They have told total, which means it is addition. So you have to be very careful about that, okay, when you read the questions. So, uh, do you have any confusions in this? [unclear]",00:23:26
+ahcdsxc,150,student,"I thought it was going to be times. You thought it was times. Okay, yeah, this one you have to take away as a new learning. So any questions? Any more questions?",00:23:43
+ahcdsxc,151,student,No.,00:23:53
+ahcdsxc,152,tutor,"Okay, so shall we move on the new lesson?",00:23:55
+ahcdsxc,153,student,Yes.,00:23:59
+ahcdsxc,154,tutor,"Okay, so this is a [unclear] start for a good job and excellent focus on this particular lesson. So I hope you will do a good job on the next one. Uh, moving on. Using the mental strategies to multiply. So how good are you with your times tables? Let's say from a scale of 1 to 5, 5 being the highest. [Speaker] 3.",00:24:00
+ahcdsxc,155,tutor,"3. Okay, that's not bad actually. [unclear] [Speaker] Or 4. [Speaker] No, not 4. [Speaker] It's a 3.",00:24:24
+ahcdsxc,156,tutor,"So, no problem. So here in this lesson you will learn the mental strategies to multiply. You know, without even having to know the times table really well, you can use these tricks that we learned here. So give a try to the learning goal question and try learning to see how well you know about this lesson so far. [unclear]",00:24:38
+ahcdsxc,157,tutor,What is an easier way you can approach this question? 18 times 8.,00:25:19
+ahcdsxc,158,student,"You can do 8 times 8, [UNCLEAR]. [unclear] And then do 8 times 8, which is 64, then add that on.",00:25:25
+ahcdsxc,159,tutor,"So are you saying the partition 18, 10, 8, and then you times them separately by 8? Is that what you mean?",00:25:39
+ahcdsxc,160,student,"Yeah, so we can do— so 8 times 8, which is 8, then add 64, which is 144, which is the answer.",00:25:48
+ahcdsxc,161,student,"Yes, your answer is correct. Thank you, that was a clear explanation. So 144, type it here. It seems like you know mental strategies and you know about this lesson, about one of the strategies which is partial. That's a really great explanation. Now you can try out this using an array. 15 times 3. [unclear] Partition, but in a representation like this.",00:25:56
+ahcdsxc,162,student,"So you can do 3 times 10, then do 5 times 3, and then like add them together.",00:26:24
+ahcdsxc,163,tutor,Mm-hmm. Type the answer.,00:26:34
+ahcdsxc,164,student,"So that would be [unclear] 15, so equal to 45.",00:26:38
+ahcdsxc,165,tutor,"Okay, yes, your answer is correct. Right, so in this lesson, Declan, you will learn the different methods that can be used to solve the calculations mentally, and then you can select one of the most appropriate method that is easier for you, and you can move on to doing the task, and in the end you will have a [unclear] You will have a question where you have to identify the mistake in this calculation. So moving on, let's go at a faster pace. Read this please.",00:26:52
+ahcdsxc,166,student,"Before using mental strategies to multiply, let's look at how to break a multiplication calculation up into [unclear] parts to make it easier.",00:27:25
+ahcdsxc,167,tutor,"Yes, so the same, the same what you did here, so you don't have to explain. Quickly work out this because, you know, if we take a lot of time on this lesson, we'd have to go— we'll not be able to cover this today. We'd have to drag it to January, which is a long time. So quickly fill out these blanks. [unclear]",00:27:41
+ahcdsxc,168,tutor,Yes. [unclear],00:28:19
+ahcdsxc,169,student,Wait. 2 times 6 is 12.,00:28:21
+ahcdsxc,170,tutor,"Oh, see?",00:28:24
+ahcdsxc,171,student,"Oh, yeah.",00:28:28
+ahcdsxc,172,tutor,"That's 12, so the final answer would be? [unclear]",00:28:30
+ahcdsxc,173,tutor,Yes. Try this one.,00:28:45
+ahcdsxc,174,student,No.,00:28:55
+ahcdsxc,175,student,"4 times 10, 13. Yeah, sorry, it's correct. So, uh, this is how the— this calculation has been broken down into this. The array model is given here, length into breadth. That's what you did here. Can you understand? [unclear] 5 times 6, 2 times 6. Then here, 4 times 10, 4 here, 10 here. Then again, 4 times 3. Length into breadth, uh, an array. So a visual representation of the partition. Moving on, read this please.",00:28:58
+ahcdsxc,176,student,"There are different methods that we can use to solve multiplication, multiplication calculations mentally.",00:29:35
+ahcdsxc,177,tutor,"So you have 45 by 12, which is partitioning, and the factors. Partitioning you may already know. Can you complete this? [unclear]",00:29:44
+ahcdsxc,178,student,"Well, 55 times 2.",00:29:54
+ahcdsxc,179,tutor,90?,00:30:00
+ahcdsxc,180,student,Yes.,00:30:03
+ahcdsxc,181,tutor,Then we'll have to do 90 plus 45. 150. [unclear],00:30:03
+ahcdsxc,182,student,[unclear],00:30:22
+ahcdsxc,183,tutor,"Yes, 540 is the correct answer, Declan. Good job. Okay, right. Then another method, which is factor. So basically what happens here is— can you guess by looking at this diagram?",00:30:22
+ahcdsxc,184,student,"You'll have to do like— [Speaker:Declan]...45 times 2 first, then you'll have 2 days. [Speaker:TUTOR] Uh, no, that's not what I'm asking. Simply, the explanation is this. Uh, example, let's say— oh, wait a minute. Let's say 2 times, um, 6? Okay. 16. Let's say 2 times 16. In partition, what you would do is you would split into easier numbers like",00:30:38
+ahcdsxc,185,background,"10 plus 6. That means you would find numbers that adds up to this number, the bigger number. That's what you do in partition.",00:31:02
+ahcdsxc,186,tutor,"Right, so in factors what happens is same calculation, 2 times 16. You would find numbers that times to 16. Example, we can say 2 and 8, or we can say 4 and 4. These numbers will times to 16. So factors is times to the bigger number that forms the bigger number by timesing. In partition, we find the numbers that adds up to the bigger number. Can you understand?",00:31:09
+ahcdsxc,187,student,Yes.,00:31:40
+ahcdsxc,188,tutor,"That's the main difference. So here, uh, 45 has been— uh, sorry, 12 has been 10 and 2. Here, 12, uh, they are finding 6 times 2, the timesing. That is why we are doing now, uh, 45 times 6, 45 times 2, not 45 times 2. The cycle is different. That's not— that's not 45 times 2. 45 45 times 2, get the answer, times by 6. That's a cycle there. 90 times 6 is the answer here. 90 times 6. You got the answer. Now times that number by 6. Can you understand?",00:31:41
+ahcdsxc,189,student,Yes.,00:32:23
+ahcdsxc,190,tutor,"Okay, so now 90 times 6 is equal to... [Speaker:Declan]...540. [Speaker:TUTOR] 540. So, yeah. And finally, we can say 46 times 12 is the same as 540. Just type it again. [unclear] Okay, good job on that. So I'll explain the cycle again, just for a quick",00:32:24
+ahcdsxc,191,student,"Understanding. Here we times both separately, 2 times 10, 2 times 6. Here, if you times 2 times 8, you'll get the answer and times by this number. We don't come again and times this, okay? So moving on, let me work out the follow-me. We have 3 methods, then you can work out your turn. So I'll go at a faster pace on the partition since you already know. 31 times 8, 30 has been split into 30 and 1. So 30 times 8 is 240. 1 times 8 is 8. So simply I will add them together. 240 plus 8, giving me 248. Okay? Can you understand?",00:32:59
+ahcdsxc,192,student,Yes.,00:33:44
+ahcdsxc,193,tutor,"So here I'm supposed to get the same answer. I'm supposed to arrive at the same answer because the same calculation. Doubling or using the factors. Here what has happened is, uh, The factors. Wait. Yeah, 31 times 2 is 62. This one, they have found the factors for this, meaning 2 times 2 is 4, 4 times 2 is 8.",00:33:45
+ahcdsxc,194,student,[unclear],00:34:12
+ahcdsxc,195,tutor,"2 has been broken down into factors like this, 2 times 2 times 2. Okay, so that is why we have 3 methods to do. So now I have to do 62 times 2, which is 124. 124 times 2, which is what? 248. The same method here, same method here, but this has been times by 3 numbers to form this number. Okay, uh, any questions on that one?",00:34:12
+ahcdsxc,196,student,No.,00:34:41
+ahcdsxc,197,tutor,"Okay, so moving on, the last one is known fraction adjusting. That what we will do here is we will round off or find the nearest easy number for the number we are timesing. So 8 is actually very close to 10. So what we will do is we will overestimate this number. That means we'll scale that— overestimate the number. 31 times 10 is 310. I estimated it, or overestimated, by 2. So what I will do is I will take away that 2 from this number. So 310 take away 2 times 31 is—",00:34:42
+ahcdsxc,198,student,[unclear],00:35:14
+ahcdsxc,199,tutor,"62. So I will take away the 62 that I overestimated, and I will arrive at 248. Can you understand?",00:35:17
+ahcdsxc,200,student,Yes.,00:35:26
+ahcdsxc,201,tutor,"Okay, so quickly work out these. So, I mean, you don't have to use all the methods for your upcoming questions. You have just practiced this once just to get a knowledge. For upcoming questions, you can use any method that you find easier. Okay?",00:35:27
+ahcdsxc,202,tutor,"Yeah, that's the correct answer. [unclear]",00:35:56
+ahcdsxc,203,student,So the factors for the 6 has been found as 3 times 2.,00:36:02
+ahcdsxc,204,student,75.,00:36:10
+ahcdsxc,205,tutor,Mm-hmm.,00:36:13
+ahcdsxc,206,student,75 times 2. [unclear] 150.,00:36:16
+ahcdsxc,207,tutor,Yeah. [unclear],00:36:27
+ahcdsxc,208,student,"Wait, do you understand why they are timesing by 4? The 6 has been brought to an easier number, 4, because 25 times 4 is equivalent to 100. Then here In my case, I overestimated the number to a 10 to make it easier. Here, your one is underestimated. This has become a 4, meaning you'd have to add a +2 to make it to a, you know, 6. Can you understand? So which of these methods do you prefer?",00:36:43
+ahcdsxc,209,student,The first one.,00:37:20
+ahcdsxc,210,tutor,The partition?,00:37:22
+ahcdsxc,211,student,Yeah.,00:37:23
+ahcdsxc,212,tutor,"That's easier, no?",00:37:23
+ahcdsxc,213,student,Yeah.,00:37:25
+ahcdsxc,214,tutor,"Okay, so you can use any methods you like, or if you know the answers, you can type directly.",00:37:25
+ahcdsxc,215,student,"Okay, that's right, so that's 2 times 10, which is 820. [unclear] And then we'll do [unclear]",00:37:34
+ahcdsxc,216,tutor,335?,00:37:59
+ahcdsxc,217,student,"Uh, okay, so you have— no, your answer is wrong. Okay, so you have 32 times 15. Which number did you split? Which number did you partition?",00:38:00
+ahcdsxc,218,tutor,"1,600, I think.",00:38:15
+ahcdsxc,219,tutor,"No, okay, right. Now you tell me, you have the calculation. Let's do it together. Which one do you wish to partition?",00:38:19
+ahcdsxc,220,student,"I've done 32 times 5 times, which is 320.",00:38:28
+ahcdsxc,221,tutor,Did you partition like this? [unclear],00:38:32
+ahcdsxc,222,student,Yes.,00:38:36
+ahcdsxc,223,tutor,"Okay, 30 times 15, 2 times 15. 3 times 15 or 30 times 15 is equivalent to?",00:38:37
+ahcdsxc,224,tutor,Pardon?,00:38:47
+ahcdsxc,225,student,I can't see.,00:38:48
+ahcdsxc,226,tutor,What is 2 times 15?,00:38:49
+ahcdsxc,227,background,[unclear],00:38:55
+ahcdsxc,228,tutor,30. Now 3 times 15. You can do 3 times 15 and make the answer 10 times bigger because you have a 0 here. Or you can do 30 times 15.,00:39:00
+ahcdsxc,229,student,450.,00:39:15
+ahcdsxc,230,tutor,Now just have to add them together. Better you write the methods and see so as to not cause any confusions. So type the final answer here after you add them.,00:39:17
+ahcdsxc,231,student,[unclear],00:39:30
+ahcdsxc,232,tutor,"Yes, don't try to do, you know, these are mental strategies. So if you are very not confident, you have to just better write this down and see, okay? Next one, try to do mentally, or if— shall we do it like we wrote it down?",00:39:30
+ahcdsxc,233,student,"Try to do it mentally. [unclear] Is it 866? No. Okay, 29 times 12, which number are you going to split? [unclear]",00:39:45
+ahcdsxc,234,student,29 times by 10.,00:40:22
+ahcdsxc,235,tutor,"Oh wait, you're going to split the right. It's easy if you split the 29 because it's an odd number, but you're going to go with splitting this one, 10 and 2. Okay, no problem. This is now 29 times 10. What is the answer?",00:40:25
+ahcdsxc,236,student,290.,00:40:43
+ahcdsxc,237,tutor,290. And 29 times 2 would be?,00:40:45
+ahcdsxc,238,student,Um... [unclear],00:40:49
+ahcdsxc,239,tutor,Really? 229 times 2.,00:40:51
+ahcdsxc,240,student,Yeah.,00:41:00
+ahcdsxc,241,tutor,"It's 58, not 580. You don't have 290 times 2, it is 29 times 2. That means 29 plus 29. So just add them together and get the answer. Did you understand, Declan?",00:41:02
+ahcdsxc,242,student,Yes.,00:41:16
+ahcdsxc,243,tutor,"Yeah, you don't have to hurry up, you know, do the calculations properly because partition is an easy method. 298. 298.",00:41:17
+ahcdsxc,244,tutor,290 plus 58.,00:41:38
+ahcdsxc,245,student,"90. Oh, 90. I didn't [UNCLEAR]. [unclear]",00:41:41
+ahcdsxc,246,tutor,290 plus 58 is?,00:41:56
+ahcdsxc,247,student,348.,00:41:58
+ahcdsxc,248,tutor,"Yes, type the answer. Okay, the next one. 53 times 8. Which number are you going to split?",00:42:00
+ahcdsxc,249,student,I think I've got my answer.,00:42:22
+ahcdsxc,250,tutor,"Okay, what's the answer?",00:42:25
+ahcdsxc,251,student,"I think it's [unclear] 400, 220...",00:42:26
+ahcdsxc,252,student,424.,00:42:49
+ahcdsxc,253,tutor,"Yes, 424 is the correct answer. Good job, Declan. Type the answer. Okay.",00:42:50
+ahcdsxc,254,student,"58 times 6. [unclear] 300... 4... 2... Yes, [UNCLEAR]...348? [Speaker:Tutor] 348. Good job.",00:42:59
+ahcdsxc,255,tutor,"So you were writing them down and seeing, like in a piece of paper?",00:43:36
+ahcdsxc,256,student,"I'm working out in my head while I'm writing, like my [UNCLEAR]. [Speaker:Tutor] Oh, that's really great. That's nice. Good job. Right, now the final one.",00:43:42
+ahcdsxc,257,background,"Tutor is solving this calculation, 37 times 5/8. She says, I can solve it by by calculating 37 times by 8 and then multiplying the answer by 4. Do you agree? Then your answer.",00:43:55
+ahcdsxc,258,tutor,"Well, she could do that.",00:44:10
+ahcdsxc,259,background,Why is that?,00:44:16
+ahcdsxc,260,tutor,"Because 8, because 4 plus 4 is 8, and they're just like halving the 8.",00:44:18
+ahcdsxc,261,background,"So basically, I can [unclear] sentence. What she has done is she has found 4 plus 4 rather than the numbers that times by 8. She has used the factoring method. She has used the factoring method, but she has used addition here instead. Can you understand the mistake?",00:44:26
+ahcdsxc,262,student,"592, the answer is.",00:44:46
+ahcdsxc,263,tutor,"The answers are not the main problem. She has to find numbers that times up to 8, not numbers that adds up to 8, because she has used factoring method. How do I know she has used factoring method?",00:44:50
+ahcdsxc,264,student,Because they say—,00:45:07
+ahcdsxc,265,background,"Because 4 times 2 is 8, and that's a factor of 8.",00:45:08
+ahcdsxc,266,student,"No, no, no. How do I know she's using the factoring method incorrectly is because that she's saying she's doing 37 times 4, okay, and she gets the answer. They're saying, and then and then she's multiplying that answer by 4. So here, can you remember I told you in the factoring method only we will get the answer and times that answer by another number? Do you understand?",00:45:12
+ahcdsxc,267,student,[unclear],00:45:38
+ahcdsxc,268,tutor,"In partial, we don't times this answer again, right? We do separately. In non-linear factoring, we times the answer again by another number. That's how I know she has done the factoring method here. But what she has done wrong is 4 times 4 is actually 16. She has done for 16, not for 8. Do you understand?",00:45:39
+ahcdsxc,269,student,Yes.,00:46:00
+ahcdsxc,270,tutor,"So she's supposed to do, uh, basically 2 times 4. 37 times 2, then that answer by 4. Right, so that's all for today, Declan. This is a praise card for your excellent focus throughout the session. You have done a good job and we have finished the lesson. So this is a Merry Christmas in advance from me. Have a very nice day and bye.",00:46:00
+ahcdsxc,271,tutor,Bye. [unclear],00:46:21

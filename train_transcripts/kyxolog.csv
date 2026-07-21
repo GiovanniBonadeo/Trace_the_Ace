@@ -1,0 +1,330 @@
+session_id,utterance_id,role,content,timestamp
+kyxolog,0,background,[unclear],00:00:00
+kyxolog,1,tutor,Hello?,00:00:00
+kyxolog,2,student,Hello?,00:00:01
+kyxolog,3,tutor,Hello?,00:00:03
+kyxolog,4,student,Hello?,00:00:06
+kyxolog,5,tutor,"Can you hear me, [STUDENT_NAME]?",00:00:08
+kyxolog,6,student,Hello?,00:00:11
+kyxolog,7,tutor,Hello?,00:00:11
+kyxolog,8,student,"Yes, can you hear me?",00:00:12
+kyxolog,9,tutor,"I'm good, thank you. How are you?",00:00:16
+kyxolog,10,student,I'm good. How are you? [unclear],00:00:17
+kyxolog,11,tutor,"Can you hear me, Tutor?",00:00:21
+kyxolog,12,student,"It's been great, thank you. How's your day?",00:00:24
+kyxolog,13,tutor,Hello?,00:00:27
+kyxolog,14,student,"Hello? Yeah, I can hear you. Can you hear me?",00:00:28
+kyxolog,15,tutor,Yeah.,00:00:34
+kyxolog,16,student,"Yes, great. Now we're clear. All right, [STUDENT_NAME], so yeah, I think I'm going to ask some questions for real now. So how are you?",00:00:35
+kyxolog,17,tutor,"Good, thank you. How are you?",00:00:44
+kyxolog,18,student,"I'm good too. Thank you, [STUDENT_NAME].",00:00:46
+kyxolog,19,tutor,"Alright, so my name is [TUTOR_NAME] and I'll be your tutor for today. Okay?",00:00:47
+kyxolog,20,student,Okay.,00:00:52
+kyxolog,21,tutor,"Alright, great. So let's continue the topic. Do you remember doing this topic?",00:00:53
+kyxolog,22,student,"Uh, yeah.",00:01:00
+kyxolog,23,tutor,"Yes, you were learning how to write percentages as fractions and decimals. So we are going to continue from this slide. Follow me. Let's look at how we can write [UNCLEAR].",00:01:03
+kyxolog,24,tutor,"Okay. How we can write fractions as decimals and percentages where the denominator is not 100. So as we know, percentages are always fractions out of 100. So if you get a fraction that's not out of 100, find the equivalent fraction to 12/50 so that the denominator is 100. So you make it 100. 50, you times it by 2, so you get 100. 100. So you do the same thing to your numerator. 12 times 2, which is equal to 24. So now 12/50 is same as 24/100. Now we can write it as percentage. So it's going to be 24%. And as decimal, it's going to be 0.24. Am I right?",00:01:17
+kyxolog,25,student,[unclear],00:02:15
+kyxolog,26,student,Yeah.,00:02:18
+kyxolog,27,tutor,"Yes, awesome. So now it's your turn.",00:02:19
+kyxolog,28,student,"Okay, 5 and then 6 times 5 equals 30. [unclear]",00:02:27
+kyxolog,29,student,And then the percentage is 30%?,00:02:52
+kyxolog,30,tutor,Yeah. Complete the calculation.,00:03:00
+kyxolog,31,student,And then—,00:03:10
+kyxolog,32,student,Yeah.,00:03:12
+kyxolog,33,tutor,The decimal is 0.305. [unclear],00:03:14
+kyxolog,34,student,"Yes, wait it out.",00:03:27
+kyxolog,35,tutor,"So 0.30, you can also write that 0.",00:03:32
+kyxolog,36,tutor,"Okay, then let's go to the practice questions now. [unclear]",00:03:39
+kyxolog,37,student,"23%— no, 23% is shaded blue. 23% [unclear] and hundreds are shaded in blue which can be written as—",00:03:59
+kyxolog,38,tutor,"Oh, 23 hundredths are shaded blue which can be written as",00:04:26
+kyxolog,39,student,0.23.,00:04:37
+kyxolog,40,tutor,Yes. Awesome. And there's a fraction here?,00:04:39
+kyxolog,41,student,"Oh, and 23.",00:04:44
+kyxolog,42,tutor,"Yes, very good. Good job. And then write 82% as a fraction and a decimal.",00:04:49
+kyxolog,43,tutor,"I'll do the decimal first. 0.82. And as a fraction, it is... [unclear]",00:05:00
+kyxolog,44,student,405. [UNCLEAR],00:05:00
+kyxolog,45,tutor,And then...,00:05:20
+kyxolog,46,tutor,000. [UNCLEAR],00:05:20
+kyxolog,47,student,"No, that's not right. [unclear]",00:05:33
+kyxolog,48,tutor,"And then which is bigger? 15, 20?",00:06:07
+kyxolog,49,student,Would you say 55%?,00:06:12
+kyxolog,50,tutor,"Okay, how do you know?",00:06:18
+kyxolog,51,student,Because 55 is bigger than 15.,00:06:24
+kyxolog,52,tutor,But the 15 is as a fraction. It's not just 15 and 55. It's 55 and 15/25. How do you think we can compare the both? One is percentage and one is fraction.,00:06:29
+kyxolog,53,student,Oh. [unclear] Put 55 in a fraction.,00:06:45
+kyxolog,54,tutor,"Yeah, good one. [unclear]",00:06:50
+kyxolog,55,student,"I do 5 times 3, which is 15.",00:07:08
+kyxolog,56,tutor,So now one is out of 100 and the other one is out of 25. So now what do we do?,00:07:11
+kyxolog,57,student,[unclear],00:07:27
+kyxolog,58,tutor,Two fractions with two denominators.,00:07:27
+kyxolog,59,student,Can we still compare which one is the bigger and smaller since they are in two different denominators?,00:07:40
+kyxolog,60,student,This one's bigger. [unclear] Because 100— is it because 155 is bigger than 15 and 25?,00:07:48
+kyxolog,61,tutor,"Okay. Now I would say this fraction is the biggest, not 55%. Now you got this thing out of fraction, which is right, [STUDENT_NAME].",00:08:07
+kyxolog,62,tutor,"That's the first step. So what you have to do is now you see two fractions with two different denominators. We cannot compare when you have like that. So you either bring both of them to the same denominator or you make both of them percentages. So if you're making both into same denominator, 25 times how much is 100?",00:08:20
+kyxolog,63,student,One [UNCLEAR].,00:08:44
+kyxolog,64,student,1 and 3 is 4.,00:08:46
+kyxolog,65,tutor,"Yeah, 25 times how much is 100?",00:08:49
+kyxolog,66,student,25 times something equals 100. [unclear],00:08:55
+kyxolog,67,tutor,You know that 20 times 5 is 100. Then 25 times how much is 100? [unclear],00:09:16
+kyxolog,68,student,25 times 4.,00:09:37
+kyxolog,69,tutor,25 times 4 is 100.,00:09:39
+kyxolog,70,student,So 100.,00:09:43
+kyxolog,71,tutor,15 times 4 is 60. So now that is 60 hundredths and this is 55 hundredths. Now tell me which is biggest.,00:09:45
+kyxolog,72,student,"Uh, 15/20. [unclear]",00:10:02
+kyxolog,73,tutor,"Exactly, because that gives a higher value out of 100. [unclear]",00:10:06
+kyxolog,74,tutor,"And if you're taking it as a percentage, this is 55%.",00:10:12
+kyxolog,75,student,"How did you get it to 6? I know how you converted it, I just don't know how it was like— so you had 15, that's here, 25ths, and then how do you convert that?",00:10:22
+kyxolog,76,student,[unclear],00:10:43
+kyxolog,77,tutor,So get the equivalent fraction out of 100. So 25 times 4.,00:10:43
+kyxolog,78,student,Is 100.,00:10:54
+kyxolog,79,tutor,"Which makes 100. Exactly. Then you do the same thing, 25. So 15 times 4.",00:10:55
+kyxolog,80,student,"So, which is 60.",00:11:06
+kyxolog,81,tutor,"Oh, okay. [unclear]",00:11:08
+kyxolog,82,student,"Yeah, okay.",00:11:11
+kyxolog,83,tutor,"Yes. So, whenever you have two different types of numbers, get them both to one, make it the same, and you can compare.",00:11:15
+kyxolog,84,student,"Okay. [unclear] 10. So we put our [unclear] over here. 1 1 2, I've gone wrong. And likewise",00:11:24
+kyxolog,85,tutor,the next one. Yeah. And,00:11:44
+kyxolog,86,student,"then,",00:11:47
+kyxolog,87,background,"which is better maths in the test, 61 or 30 out of 50? How do you know? So which",00:11:48
+kyxolog,88,background,is better maths in the test?,00:11:57
+kyxolog,89,tutor,Would you say 61% is a better mark because it's higher?,00:12:01
+kyxolog,90,student,One is in percentages and the other one is in... [unclear],00:12:09
+kyxolog,91,tutor,"No, I'm asking what is the form of numbers? We have percentages, fractions, decimals...",00:12:17
+kyxolog,92,background,"Ah, 61... Ah, a fraction.",00:12:22
+kyxolog,93,tutor,This is fraction.,00:12:26
+kyxolog,94,tutor,"This is percentage, that's not fraction. This is fraction, 30 out of 50. So you write it as fraction, 30 out of 50. Wait a minute. So this is 61 percentage, that is in percentages, so that's when you get the percentage sign. And the other one is 30",00:12:28
+kyxolog,95,student,"30 out of 50. So 30 is your numerator and 50 is your denominator. Now you see, one is percentage, one is fraction. You can't compare. Either you get both of them into percentage or both of them into fraction. Which one do you think is easier to do? [unclear]",00:12:57
+kyxolog,96,tutor,Okay. Which one do you think is easier to do? [unclear],00:13:24
+kyxolog,97,student,I'm not sure.,00:13:36
+kyxolog,98,tutor,"Okay, so did you understand what I said here?",00:13:43
+kyxolog,99,student,Yeah. Convert it.,00:13:46
+kyxolog,100,student,Convert it to?,00:13:51
+kyxolog,101,tutor,61/100.,00:13:56
+kyxolog,102,student,"Okay, 61/100. Let's do it. [unclear]",00:14:01
+kyxolog,103,tutor,"Okay, now that is also a fraction. Okay, 61/100. The other one is 30/50. Next, what are you doing?",00:14:06
+kyxolog,104,tutor,"To get two fractions with two different denominators, same like your previous question. So what do we do?",00:14:16
+kyxolog,105,student,"Wait, is that 33% converted? [unclear]",00:14:32
+kyxolog,106,tutor,"No, it was in the question, 30 out of 50. So I write 30 out of 50. The 61%, you write it as a fraction here, 61 over 100. Now this is over 100, this is over 50, [STUDENT_NAME]. So what do you do?",00:14:45
+kyxolog,107,student,"[unclear] But how is the 50 at the bottom? It says 30 out of 100. Which means out of— sorry, 30 out of 50. So out of 50, you take 30. That's how you write it as a fraction. Now I say— just one second. Okay, when I say 2 out of 5, you can write it as a fraction. [unclear]",00:15:01
+kyxolog,108,student,2 out of 5.,00:15:31
+kyxolog,109,tutor,"Oh, okay. Yeah.",00:15:36
+kyxolog,110,student,"So just like that, 30 out of 50, I wrote as 30/50. Okay, now we have two fractions. Next, what do we do?",00:15:42
+kyxolog,111,tutor,"Um, to get 50, to get to 100, d times 20. [unclear]",00:15:52
+kyxolog,112,student,We add 20.,00:15:58
+kyxolog,113,tutor,No adding. We only multiply or divide to get equivalent fractions.,00:16:03
+kyxolog,114,student,Times 20.,00:16:11
+kyxolog,115,tutor,"50 times by 20, that would make 1,000. How many 50s do you need to get 500? [unclear] Exactly. So do the same thing to the numerator.",00:16:13
+kyxolog,116,tutor,Now what is your new fraction?,00:16:29
+kyxolog,117,student,[unclear],00:16:30
+kyxolog,118,tutor,Yes. Now we know for sure. This is 61 hundredths. This is 60 hundredths. 61% and 60%. Which one is bigger? [unclear],00:16:52
+kyxolog,119,tutor,"61. Exactly, 61% is the biggest. Likewise, you have to prove it.",00:17:04
+kyxolog,120,student,"Do we like, say like, maybe put like...",00:17:12
+kyxolog,121,tutor,Just put 61.,00:17:16
+kyxolog,122,student,times the percentage?,00:17:16
+kyxolog,123,tutor,Because it's given in percentage here in the question.,00:17:16
+kyxolog,124,tutor,"Alright, so do you have any questions around what we did here?",00:17:29
+kyxolog,125,student,I thought it meant 61% of 30 out of 50. I thought out 30 out of 50. I thought it meant 30/100 and 50/100. How do you know? [unclear],00:17:36
+kyxolog,126,student,"Yeah. How did you know that it was that? [unclear] Like that as a fraction? Okay, so it's simple. Just let me take the next line. Okay, so what you are saying is 30 out of 50, so you thought it was 50 up and 30 down. Is that something?",00:17:55
+kyxolog,127,tutor,"No, I just thought that— I thought it was just going to be the",00:18:19
+kyxolog,128,student,"I just thought it was going to be 30, 100, and then 50, 100.",00:18:24
+kyxolog,129,tutor,"Okay, I don't get it. So whenever you see something is out of that, now it's like this. When I say you, I need— just give me a second. So we, let's say we have a bag here. And the bag has 20 toffees. So when I say I need 2 toffees out of this bag, so are you going to take it? [unclear]",00:18:33
+kyxolog,130,tutor,"Now, say we have 100 here. Okay, so I'm telling you I need 2 toffees out of the bag. Which has 20 toffees. So would you take it from this bag or from the other bag?",00:19:04
+kyxolog,131,student,The... [unclear],00:19:25
+kyxolog,132,tutor,"Because I'm clearly telling you I need 2 out of the 20, not 2 out of the 100, right?",00:19:28
+kyxolog,133,student,It's supposed to be...,00:19:38
+kyxolog,134,tutor,"Oh, okay. Okay, so it should be 2 out of the 20. It says out of something. So you see out of 50 there. So 50 comes down, and what you're taking comes as your numerator. [unclear]",00:19:39
+kyxolog,135,tutor,"Okay. Now if a question tells you 10 out of 70, and we have another one which says— 54% each.",00:19:58
+kyxolog,136,tutor,Yeah.,00:20:12
+kyxolog,137,student,How should you equal those fractions?,00:20:13
+kyxolog,138,tutor,So you would have 10 and then— [unclear],00:20:18
+kyxolog,139,student,So am I exactly putting like 33 and then 36 and then 70?,00:20:25
+kyxolog,140,tutor,70. And then—,00:20:33
+kyxolog,141,student,54. [unclear],00:20:42
+kyxolog,142,tutor,7200 is 70 there and 100 here. This is how you write this as fraction. And this is how you write this one as a fraction. Is it clear?,00:20:44
+kyxolog,143,student,Yeah.,00:21:07
+kyxolog,144,tutor,"Yes, awesome. Okay, then next let's move on to this one. Terry has read 48 pages of her book. Her book has 400 pages. What Proportion of her book as she read. Pronounce it as a decimal. [unclear]",00:21:08
+kyxolog,145,tutor,"Yeah, so how do we answer that now?",00:21:49
+kyxolog,146,student,You do 400 take away 48.,00:21:53
+kyxolog,147,student,first.,00:21:53
+kyxolog,148,tutor,You mean 48 take away 400.,00:21:53
+kyxolog,149,student,"Oh yeah, 48 take away 400.",00:22:03
+kyxolog,150,tutor,"Okay. Yes, so that will give you the number of pages that's left to read, right? [unclear] But the question is asking you something different. [unclear]",00:22:06
+kyxolog,151,tutor,Is it 352?,00:22:23
+kyxolog,152,student,352. [unclear],00:22:42
+kyxolog,153,tutor,Put it as a fraction and then the decimal.,00:22:55
+kyxolog,154,student,OK. Now is the question asking you to write what's left as percentages and decimals? Is that what they're asking you to do?,00:23:04
+kyxolog,155,tutor,Yeah.,00:23:16
+kyxolog,156,student,"It is, what proportion of her book has she read? It's still talking about what she has read and not about what's left to read.",00:23:17
+kyxolog,157,tutor,Oh.,00:23:27
+kyxolog,158,student,"Yeah, so, well, do you know what this proportion means?",00:23:28
+kyxolog,159,tutor,No.,00:23:32
+kyxolog,160,student,"No, so it's like they want you to write it as a fraction. Okay? So let's take that word as a fraction. So what fraction of her book has she read? Can you tell me the fraction?",00:23:33
+kyxolog,161,student,[unclear],00:23:46
+kyxolog,162,tutor,352. That's what's left. The book has she read. So how many pages has she read?,00:23:47
+kyxolog,163,student,48.,00:23:57
+kyxolog,164,tutor,Out of?,00:23:59
+kyxolog,165,student,400 pages.,00:24:00
+kyxolog,166,tutor,Now how do you write that as a fraction?,00:24:02
+kyxolog,167,student,"48. Wait, like— [UNCLEAR]",00:24:02
+kyxolog,168,tutor,"You've already got one of the answers. You've written it as a fraction. Now that's what the proportion is, 48 out of 400. What do you think we have to do with this to make it a percentage? [unclear]",00:24:25
+kyxolog,169,student,I don't know how I didn't know what a percentage is. Now I know.,00:24:57
+kyxolog,170,student,percentages. Now I know what it is. But would it be 48%?,00:24:57
+kyxolog,171,tutor,"Okay, it would be 48% if it was out of 100. You know, the percentages are always out of 100, right?",00:24:57
+kyxolog,172,student,Oh yeah.,00:25:16
+kyxolog,173,tutor,Yeah. Yes. But we have it out of 400. So what do we do about it?,00:25:18
+kyxolog,174,student,You take away [unclear] 3 and then add them on to what you've got for your answer.,00:25:25
+kyxolog,175,tutor,"Okay, remember I said we don't take away or add, we only multiply or divide it.",00:25:34
+kyxolog,176,student,Divide.,00:25:42
+kyxolog,177,tutor,"Exactly, we need to divide in this point. So we divide by how much?",00:25:44
+kyxolog,178,student,3. [unclear],00:25:51
+kyxolog,179,tutor,"Yes. You divide it by 4. So what do you get? When you divide 400 by 4, what do we get?",00:25:56
+kyxolog,180,student,Would it be— would it be 12? [unclear],00:26:09
+kyxolog,181,tutor,So how many 4s are there in 400?,00:26:15
+kyxolog,182,student,No.,00:26:19
+kyxolog,183,tutor,How many 5s?,00:26:19
+kyxolog,184,student,"Okay. If you say 12, that says 48.",00:26:27
+kyxolog,185,tutor,Oh.,00:26:30
+kyxolog,186,student,"Yes, you know, 400 is a bigger number. So you want to make it 100, right? If I'm correct?",00:26:32
+kyxolog,187,tutor,Would it be— [unclear] Would it be 100?,00:26:40
+kyxolog,188,student,"Yeah, it is.",00:26:45
+kyxolog,189,tutor,"You want to make it 100, so you divide by 4 because there's 4 hundredths in 400. Right?",00:26:48
+kyxolog,190,student,Yeah.,00:26:56
+kyxolog,191,tutor,"Yes, okay. So when you divide it by 4, then we go to 100. And what do you do? [unclear]",00:26:57
+kyxolog,192,student,"Yes, amazing.",00:27:05
+kyxolog,193,student,And then 48 divided by 4 equals 12.,00:27:13
+kyxolog,194,tutor,"12, yes. [unclear]",00:27:18
+kyxolog,195,student,"12, 400.",00:27:24
+kyxolog,196,tutor,"Oh, is this 2, 400?",00:27:28
+kyxolog,197,student,"I mean, no, 4, 100.",00:27:30
+kyxolog,198,tutor,"100, yes. Let's restart that.",00:27:32
+kyxolog,199,tutor,"Now if you know the fraction, you can directly write the percentage because they're asking you the percentage.",00:27:51
+kyxolog,200,student,"Okay, 12/100 and then the percentage. [unclear]",00:27:58
+kyxolog,201,student,0.12.,00:28:11
+kyxolog,202,tutor,"Yeah, the decimal is correct. But what is the percentage? This is the fraction.",00:28:12
+kyxolog,203,student,"Oh, percentage. Oops. [unclear]",00:28:19
+kyxolog,204,tutor,Yes.,00:28:23
+kyxolog,205,student,"Okay, so we can't— so 6 into 1, we can't do. 12%. [unclear]",00:28:25
+kyxolog,206,tutor,"Okay, so percentage should be this side, right?",00:28:44
+kyxolog,207,student,Yeah.,00:28:50
+kyxolog,208,tutor,"Oh, okay. Good job.",00:28:51
+kyxolog,209,student,"Thank you. Now then, if the question asks you to write a proportion of something, what do they mean by it? [unclear]",00:28:56
+kyxolog,210,student,Proportion.,00:29:08
+kyxolog,211,tutor,"Yeah, when they say find the proportion of something, what we found here?",00:29:13
+kyxolog,212,tutor,"So the 4,800s, how did you write it? [unclear]",00:29:28
+kyxolog,213,student,"4,800, and then times it by 4, and then divide it.",00:29:36
+kyxolog,214,student,Divide that by 4. Divide it by 4.,00:29:49
+kyxolog,215,tutor,"Yeah, that is correct. That's to get the fraction out of 100, right? So I'm asking, what does this proportion mean? What did you do when the question says to write the proportion? Yeah, what did you do? [unclear] [unclear]",00:29:52
+kyxolog,216,student,[UNCLEAR] [unclear],00:29:52
+kyxolog,217,student,[unclear] [unclear],00:29:52
+kyxolog,218,tutor,Hello? Hello?,00:30:47
+kyxolog,219,student,"Yeah, are you back?",00:30:49
+kyxolog,220,tutor,"Oh yeah, it just went off.",00:30:51
+kyxolog,221,student,"No worries. Okay, so proportion means you find the fraction, [STUDENT_NAME]. So you need to be familiar with this word. If you get another question asking you what proportion something happened, So that means they're asking you to write the fraction.",00:30:54
+kyxolog,222,student,Okay.,00:31:12
+kyxolog,223,tutor,"Okay. Now, see... [unclear] So let's say I'm reading a newspaper. So let's say this paper has around 20 pages. So the paper has 20 pages. Pages of the newspaper. So I so far have read 9 pages. I've read 9 pages of the newspaper so far. So can you tell me what proportion of the newspaper have I read?",00:31:13
+kyxolog,224,student,9.,00:31:51
+kyxolog,225,tutor,"Yes, as a proportion? 9 out of how much? [unclear]",00:31:54
+kyxolog,226,tutor,out of how many?,00:31:54
+kyxolog,227,student,[UNCLEAR],00:31:54
+kyxolog,228,tutor,would you— 11? How many total pages are there written there?,00:31:54
+kyxolog,229,background,The paper has 100 pages. 20. And how much have I read? How much have I read? 9. So the proportion that I have read is 9 out of 20. That is the proportion I have read. [unclear],00:31:54
+kyxolog,230,student,That makes more sense.,00:32:56
+kyxolog,231,tutor,"Yes, exactly. Now if I want to write my proportion as a percentage, I'm simply going to make it out of 100. So 20 times 5 and 9 times 5, which is 45. So I have read 45% of the paper. Does that also make sense?",00:32:59
+kyxolog,232,student,"Yeah, that makes way more sense.",00:33:23
+kyxolog,233,tutor,"Okay, okay, that's pretty much— so just have to get familiar with this word in case you get another question. It's just asking you the fraction.",00:33:25
+kyxolog,234,student,"Okay, yeah.",00:33:35
+kyxolog,235,tutor,"Yeah, so we are done with this topic. So can you tell me what important things did you learn in this topic? [unclear] Say that again, something went off.",00:33:36
+kyxolog,236,tutor,"Okay, so what important things did you learn in this topic?",00:33:52
+kyxolog,237,student,We learned this. I can't say it properly. [unclear] And then we learned how to convert fractions as a decimal. Writing fractions as a decimal.,00:33:57
+kyxolog,238,tutor,"Yes, writing fractions as a decimal. We did that. Okay, is there anything that you learned newly? [unclear] Is there anything that you learned newly?",00:34:16
+kyxolog,239,student,Yeah.,00:34:31
+kyxolog,240,tutor,"Yeah? I think that's this, yes.",00:34:32
+kyxolog,241,student,Yeah.,00:34:35
+kyxolog,242,tutor,"All right, [STUDENT_NAME]. Okay, so—",00:34:35
+kyxolog,243,tutor,"So then let's move on to the next topic, which is going to be finding percentages of amounts. Okay, we're going a little bit higher in the percentage topics. So, yeah, here's the question. [unclear] [unclear]",00:34:40
+kyxolog,244,student,Find 50% of 140.,00:35:07
+kyxolog,245,tutor,Would it be...,00:35:28
+kyxolog,246,tutor,Hello? [unclear],00:35:34
+kyxolog,247,student,I'm here.,00:35:39
+kyxolog,248,tutor,"So how do we find the 50%? Wait, can't hear you. Hello? [unclear]",00:35:46
+kyxolog,249,student,Are you there?,00:35:59
+kyxolog,250,student,So you have 55 minutes. [unclear],00:36:55
+kyxolog,251,tutor,"Okay, hello? You there? I can't hear you again.",00:37:05
+kyxolog,252,tutor,"You can hear me and you're there, okay.",00:37:26
+kyxolog,253,student,"Can't hear you. I'm not sure what happened all of a sudden. Okay, actually we try to continue because we only have a few more minutes left, so... Yes, you need to find— Okay.",00:37:29
+kyxolog,254,student,Hello?,00:37:45
+kyxolog,255,tutor,"Yes, I can hear you. Thank you so much for doing that.",00:37:48
+kyxolog,256,student,Hello?,00:37:52
+kyxolog,257,tutor,"Yeah, can you hear me?",00:37:53
+kyxolog,258,student,"Yeah, I can hear you. Can you hear me?",00:37:54
+kyxolog,259,tutor,"Yes, I can hear you. Okay, now will you talk about the sentences? What do you know about the sentences?",00:37:57
+kyxolog,260,student,[unclear],00:38:04
+kyxolog,261,tutor,You've got to find 50% of 140. And 50% of something means what? What does it mean? [unclear],00:38:08
+kyxolog,262,student,So you get this. [unclear],00:38:27
+kyxolog,263,student,Not sure?,00:38:35
+kyxolog,264,tutor,"Yeah, I'm not sure.",00:38:53
+kyxolog,265,student,"Okay, so let's say You have some stickers, okay? Let's say you have 15 stickers with you. I'm talking in percentages. So I'm saying, hey, I need 100% of your stickers to me. So what is that? Am I asking you— how many stickers am I asking for when I say I need 100%?",00:38:55
+kyxolog,266,student,[unclear],00:39:20
+kyxolog,267,tutor,"Oh, yeah.",00:39:21
+kyxolog,268,tutor,How many stickers am I asking from you? You only have 15.,00:39:26
+kyxolog,269,student,15?,00:39:31
+kyxolog,270,tutor,Yeah. [unclear] Give me 100%.,00:39:32
+kyxolog,271,student,So 15... So we've got 15 stickers and then you asked for some.,00:39:34
+kyxolog,272,tutor,I'm asking 100%. So that means how many stickers am I asking?,00:39:47
+kyxolog,273,tutor,"Always remember, 100% of something means full. I need a [UNCLEAR].",00:40:01
+kyxolog,274,student,Okay.,00:40:01
+kyxolog,275,tutor,"Oh yeah, so would you say 15 whole 100.",00:40:14
+kyxolog,276,tutor,"No, no, no. I'm just talking about percentage. I'm saying I need 100% means I need everything you have. So I need all 15 stickers from you. So if 100% is full, mean everything, means what does 50 mean? [unclear]",00:40:19
+kyxolog,277,student,50%.,00:40:37
+kyxolog,278,tutor,"If 100% is everything,",00:40:39
+kyxolog,279,student,50% would be half of something. [unclear],00:40:45
+kyxolog,280,tutor,"Have you heard someone say, ""Let's do 50/50. You take 50, I take 50.""",00:40:55
+kyxolog,281,student,"Oh, yes. It's equal.",00:41:01
+kyxolog,282,tutor,"Exactly. We share it 50/50. So you get 50%, I get 50%. So we're sharing it equally. So likewise, 50% of something means you find the half of that number. Is that clear?",00:41:05
+kyxolog,283,student,Yeah.,00:41:19
+kyxolog,284,tutor,"Yeah, so what is the half of 140?",00:41:21
+kyxolog,285,student,"Uh, 140. [unclear]",00:41:24
+kyxolog,286,tutor,The half of it? Would it be—,00:41:30
+kyxolog,287,student,Yeah.,00:41:34
+kyxolog,288,tutor,Would it be 90?,00:41:35
+kyxolog,289,student,"If it's 90, then this has to be 180. Half of 140 is 90.",00:41:41
+kyxolog,290,tutor,"If it's [UNCLEAR], then this would be 160.",00:41:49
+kyxolog,291,student,"Oh, so would it be 50?",00:41:49
+kyxolog,292,tutor,"Then this would be 100, because 50 and 50 is 100.",00:41:53
+kyxolog,293,student,"Oh, so 140 add 5, 50.",00:42:02
+kyxolog,294,tutor,"No, what I mean is half. What does halving a number mean, [STUDENT_NAME]?",00:42:10
+kyxolog,295,student,[unclear] splitting it.,00:42:14
+kyxolog,296,tutor,Exactly. We split it by how much? We're dividing into how much?,00:42:17
+kyxolog,297,student,"Yeah, 50.",00:42:24
+kyxolog,298,tutor,Half means we divide it by 2.,00:42:26
+kyxolog,299,student,"50% is half. Look at this as a percentage. It's not just a 50, it's a 50%. So 50% means half of a number. So you find half of 140. So what is half of 100? [unclear]",00:42:30
+kyxolog,300,student,50. Then what is half of 140?,00:42:50
+kyxolog,301,tutor,A guess?,00:42:54
+kyxolog,302,student,"Well, first off, there's 3 names.",00:42:56
+kyxolog,303,tutor,60. That is half of 120.,00:43:01
+kyxolog,304,student,"Also, starting off at like the first lesson, I can remind myself like— [unclear]",00:43:03
+kyxolog,305,tutor,What is it? 62.,00:43:11
+kyxolog,306,student,It is 70.,00:43:15
+kyxolog,307,background,70 and 70 is 140.,00:43:17
+kyxolog,308,tutor,Oh.,00:43:22
+kyxolog,309,student,Maybe I could just [UNCLEAR].,00:43:22
+kyxolog,310,tutor,"You do 70 times 2, that is equal to 140.",00:43:22
+kyxolog,311,background,So half of 140 is 70.,00:43:28
+kyxolog,312,tutor,"Oh, okay.",00:43:33
+kyxolog,313,background,Okay? So 50% of 140 is equal to 70.,00:43:34
+kyxolog,314,tutor,"So half of 140, which is equal to 70.",00:43:38
+kyxolog,315,tutor,Shall we write the answer now? [unclear],00:43:45
+kyxolog,316,student,Yeah. So 70. [unclear],00:43:51
+kyxolog,317,tutor,Yeah. [unclear],00:43:59
+kyxolog,318,student,Okay. How about the next question? [unclear],00:44:05
+kyxolog,319,tutor,"Is it divided, like, to do this?",00:44:13
+kyxolog,320,student,"Oh, that's 15.",00:44:21
+kyxolog,321,background,That's 50.,00:44:25
+kyxolog,322,tutor,"Way to go! So you do know how to divide it. Awesome. Okay. So in this lesson, this is what you'll be doing. Be learning like how to find 50% of a number, 10%, 20%, something like that. Those [unclear] you'll be learning in this topic. All right?",00:44:26
+kyxolog,323,student,Okay.,00:44:48
+kyxolog,324,tutor,"Okay, but we can do that next time as we are running out of time now. Okay?",00:44:49
+kyxolog,325,student,Okay.,00:44:55
+kyxolog,326,tutor,"All right, great. So we'll be continuing this, and then until then, take care.",00:44:55
+kyxolog,327,student,Bye.,00:45:03
+kyxolog,328,tutor,[unclear] Bye. Bye.,00:45:03

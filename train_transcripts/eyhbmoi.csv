@@ -1,0 +1,395 @@
+session_id,utterance_id,role,content,timestamp
+eyhbmoi,0,tutor,Hello.,00:00:00
+eyhbmoi,1,student,Hello.,00:00:00
+eyhbmoi,2,background,Hello.,00:00:01
+eyhbmoi,3,tutor,"Hi, Phoebe.",00:00:02
+eyhbmoi,4,student,Hi.,00:00:05
+eyhbmoi,5,tutor,How are you doing?,00:00:05
+eyhbmoi,6,student,Good.,00:00:06
+eyhbmoi,7,tutor,"Great. Okay. Yes, it's [UNCLEAR].",00:00:08
+eyhbmoi,8,tutor,day of the week. How was your weekend?,00:00:08
+eyhbmoi,9,student,Good.,00:00:08
+eyhbmoi,10,tutor,"Okay, you just started— school started for you?",00:00:17
+eyhbmoi,11,student,Yeah.,00:00:20
+eyhbmoi,12,tutor,"Okay, all right then. So I think we'll get into the lesson directly. So do you remember what we learned last week?",00:00:22
+eyhbmoi,13,student,[unclear] numbers to the nearest.,00:00:31
+eyhbmoi,14,tutor,"Yes, exactly. Yeah. Rounding to the nearest 10,000 and 100,000.",00:00:36
+eyhbmoi,15,tutor,"Absolutely right. So we were able to pretty much learn the concept, but we are about to— like, we still have some more questions, practice questions to be completed. Okay?",00:00:45
+eyhbmoi,16,student,Okay.,00:00:59
+eyhbmoi,17,tutor,"So before moving into the questions, what exactly do you remember about how to round numbers? What are the steps?",00:00:59
+eyhbmoi,18,student,multiply it?,00:00:59
+eyhbmoi,19,tutor,"multiply, okay. Multiply what exactly?",00:00:59
+eyhbmoi,20,student,[UNCLEAR],00:00:59
+eyhbmoi,21,tutor,"Okay, maybe we'll try to brush it up, okay? Do we need to find the multiples of something?",00:01:28
+eyhbmoi,22,student,Yeah.,00:01:38
+eyhbmoi,23,tutor,"Okay, multiples of what?",00:01:40
+eyhbmoi,24,student,[unclear],00:01:43
+eyhbmoi,25,tutor,Okay. Anything else you remember?,00:01:48
+eyhbmoi,26,student,No.,00:01:54
+eyhbmoi,27,tutor,"All right, no problem. Multiples of 10, we need to know about it, but only if it's nearest to 10. Okay?",00:01:56
+eyhbmoi,28,tutor,Okay.,00:02:06
+eyhbmoi,29,background,"So here we learn about nearest to 10,000 and 100,000. So we need to know the multiples of what? [unclear]",00:02:07
+eyhbmoi,30,tutor,The multiples of—,00:02:17
+eyhbmoi,31,background,"10,000 and 100,000.",00:02:18
+eyhbmoi,32,student,I can't remember.,00:02:26
+eyhbmoi,33,tutor,"Okay, yeah, that's right. So here you need to know whether the numbers are a multiple of 10,000 or 100,000, okay?",00:02:29
+eyhbmoi,34,student,Okay.,00:02:38
+eyhbmoi,35,tutor,"All right. So, and also the next thing is you have to— okay, so let's say that you've got a number here, okay?",00:02:39
+eyhbmoi,36,student,[unclear],00:02:47
+eyhbmoi,37,tutor,"Okay, so you need to know exactly what multiples of 100,000 would be previous and also to the next. Okay, so that means this number would be in between somewhere to those two multiples. So you need to find the closest multiple of 100,000. Okay?",00:02:47
+eyhbmoi,38,student,Okay.,00:03:08
+eyhbmoi,39,tutor,"Are you getting— do you some sort of remember it now? Like, is it clicking?",00:03:09
+eyhbmoi,40,student,Not really.,00:03:16
+eyhbmoi,41,tutor,"Not really. Okay, no problem. Let's do it like this, okay?",00:03:17
+eyhbmoi,42,tutor,"So we'll start with our questions. I think we have complete. Okay, how about this? Do you remember this one? So where I found this number somewhere in the [UNCLEAR], sorry, number line, and then we'll be able to find the previous multiple of 100,000 and next multiple. And then what does basically rounding mean? [unclear]",00:03:22
+eyhbmoi,43,tutor,"You're almost close, yeah.",00:03:49
+eyhbmoi,44,student,One.,00:03:56
+eyhbmoi,45,tutor,To the?,00:03:56
+eyhbmoi,46,student,To the— you round to the biggest number to the smallest number?,00:03:58
+eyhbmoi,47,tutor,"Okay, for example, I'm telling you, Phoebe, that this number over here is somewhere in this number line over here. Okay, so now I'm asking you, uh, what would be the nearest, uh, if you round this number, what would be the answer? Which one will you select? Will you select the previous multiple or next multiple?",00:04:08
+eyhbmoi,48,student,"I think this is going to be the 800 and 900— no, 800,000 and 900,000. [unclear]",00:04:31
+eyhbmoi,49,tutor,"Okay, I would say 900,000 is right, but where would you place the 900,000, here or here? [unclear] Which one?",00:04:43
+eyhbmoi,50,student,On the left or right?,00:04:59
+eyhbmoi,51,tutor,Right. Here.,00:05:02
+eyhbmoi,52,student,Yeah.,00:05:06
+eyhbmoi,53,tutor,"Okay, so you think 900,000 would be here.",00:05:07
+eyhbmoi,54,student,Yeah.,00:05:11
+eyhbmoi,55,tutor,"But tell me, Phoebe, that 900,000, is it more than this number or less than this number?",00:05:11
+eyhbmoi,56,student,[unclear],00:05:17
+eyhbmoi,57,tutor,"More than. Are you sure that 900,000 is more than 976,000?",00:05:19
+eyhbmoi,58,student,Less than.,00:05:25
+eyhbmoi,59,tutor,"Exactly, less than. So less multiple go over here, Phoebe. And it is also closest. So if the previous multiple is 900,000, what would be the next multiple of 10?",00:05:27
+eyhbmoi,60,student,A million?,00:05:41
+eyhbmoi,61,tutor,"Yes, absolutely. So now tell me if you round, which is the closest multiple for this value?",00:05:43
+eyhbmoi,62,student,It's closest to a million.,00:05:54
+eyhbmoi,63,tutor,"A million. So simple like that. So first you figure out these two multiples where the number lies between, and then you simply choose which it is closest to.",00:05:57
+eyhbmoi,64,student,Yeah.,00:06:08
+eyhbmoi,65,tutor,"Okay. And we also learned some other ways where you have to look at the previous column. Okay, since it's 9, means you look at the previous column, and what do you have?",00:06:08
+eyhbmoi,66,student,"Uh, the previous column?",00:06:19
+eyhbmoi,67,tutor,"7. Okay, is 7 more or less than 5?",00:06:21
+eyhbmoi,68,student,More. More. So more means you round up or down?,00:06:24
+eyhbmoi,69,student,Up.,00:06:28
+eyhbmoi,70,tutor,"Up. There we go. So there are two ways for us to round numbers, okay?",00:06:29
+eyhbmoi,71,student,Okay.,00:06:34
+eyhbmoi,72,tutor,So now do you think we can do some more questions?,00:06:34
+eyhbmoi,73,student,Yes. [unclear],00:06:37
+eyhbmoi,74,tutor,"Perfect. All right. Let me take you to this one. So you can use any way whichever is easier for you, okay? You can even use the number line or you can use the place value chart. So first we'll try for the first number. What is the number we got here?",00:06:38
+eyhbmoi,75,student,"Uh, 7,082— 782,009.",00:06:59
+eyhbmoi,76,tutor,"Perfect. 782,009. Very well done. Okay, so now you have to round this to the nearest thousand. How would you do it?",00:07:09
+eyhbmoi,77,student,"Uh, you go up.",00:07:22
+eyhbmoi,78,tutor,"Mm, okay. And what makes you think it would go up?",00:07:26
+eyhbmoi,79,student,"Um, 'cause the A is bigger.",00:07:33
+eyhbmoi,80,tutor,"Okay. So here's the thing you have to think about. So if it is the nearest 100— sorry, nearest 100,000, you look at which column?",00:07:39
+eyhbmoi,81,student,[unclear],00:07:54
+eyhbmoi,82,tutor,"You look at— if it's the nearest 100,000, you look at the—",00:07:57
+eyhbmoi,83,student,Yeah. You look at which column? You have to check which column.,00:08:05
+eyhbmoi,84,student,The... [unclear],00:08:16
+eyhbmoi,85,tutor,"Come on, come on, try, you can. You look at the previous, like the before. What do you have in the, what do you have before 100,000?",00:08:23
+eyhbmoi,86,student,"Oh, 10— 10 hundred thousand.",00:08:36
+eyhbmoi,87,tutor,Yeah.,00:08:40
+eyhbmoi,88,student,10— [unclear],00:08:41
+eyhbmoi,89,tutor,"T means 10 and TH means thousand. So 10,000. Yeah?",00:08:42
+eyhbmoi,90,student,Yeah.,00:08:47
+eyhbmoi,91,tutor,"Okay, so here, see, if it's the nearest 100,000, you look at the previous column, which is the 10,000. Okay? So then you can see 8 and you can say, okay, it is below— sorry, above 5. Give me a second. Do you hear any background noise? [unclear]",00:08:48
+eyhbmoi,92,tutor,"No, I don't.",00:09:13
+eyhbmoi,93,student,"All right. Okay, just let me know if it's noisy. I'm really sorry about that. Okay, so if it's the nearest 100,000, you look at the previous one. Okay. And if it's 1,000, where's the 1,000? Can you show me where the 1,000 is?",00:09:14
+eyhbmoi,94,student,I'll draw it for you.,00:09:31
+eyhbmoi,95,tutor,Okay. [unclear],00:09:38
+eyhbmoi,96,student,"All right, so there's the 1,000. So what is before that?",00:09:44
+eyhbmoi,97,student,Hundreds.,00:09:53
+eyhbmoi,98,tutor,"Hundreds, so you look at the hundreds. Okay, now the question is to the nearest thousand, so you look at which number, which digit?",00:09:54
+eyhbmoi,99,student,The thousands.,00:10:03
+eyhbmoi,100,tutor,"Hundreds, you look at the hundreds.",00:10:06
+eyhbmoi,101,student,The hundreds.,00:10:08
+eyhbmoi,102,tutor,"Yes, hundreds. And what digit do you exactly have in the hundreds?",00:10:09
+eyhbmoi,103,student,Zero.,00:10:15
+eyhbmoi,104,tutor,"Zero, okay, zero is— Less or more than 5?",00:10:16
+eyhbmoi,105,student,Less.,00:10:20
+eyhbmoi,106,tutor,"Less. Okay, less means it's up or down?",00:10:20
+eyhbmoi,107,student,Down.,00:10:24
+eyhbmoi,108,tutor,"Down. Okay, so you know it's gonna be down, so that means you're gonna— the answer should be what?",00:10:26
+eyhbmoi,109,student,"Um, 700 and [UNCLEAR].",00:10:34
+eyhbmoi,110,student,I don't know.,00:10:46
+eyhbmoi,111,tutor,"So, okay. So for this point, you exactly need to know what would be the multiples of 1,000 for this number, isn't it?",00:10:47
+eyhbmoi,112,student,Yeah.,00:10:56
+eyhbmoi,113,tutor,"Okay. How can we find the multiples of thousands? So if it's a thousands, how many zeros does it have? The minimum number of zeros.",00:10:57
+eyhbmoi,114,student,[unclear],00:11:07
+eyhbmoi,115,student,3.,00:11:12
+eyhbmoi,116,tutor,"3. Okay. So can you tell me a number very close to this value, and it should also have minimum number of 3s in the last 3 columns? [unclear]",00:11:12
+eyhbmoi,117,student,I don't know. [unclear],00:11:36
+eyhbmoi,118,tutor,"So let me help you with this one, okay? So for example, okay, I'll just directly maybe give you the answer so that you will have an idea about it. So the previous multiple of 1,000 for this value is going to be 782,000. See, so this is the multiple of 1,000 It has 3 digits in the last 3 columns. And it is also very close, but it is also still previous, okay. It is less than this value. So now tell me, what would be the next multiple of thousands for this value?",00:11:39
+eyhbmoi,119,student,[unclear],00:12:17
+eyhbmoi,120,tutor,"There we go. See, okay, just a little bit of push, you were able to find it on your own. So next multiple of 1,000 is of course going to be— so since this is 2,000, the next is going to be 3,000, yeah, because you simply have to add thousands to this value.",00:12:19
+eyhbmoi,121,student,Yeah.,00:12:40
+eyhbmoi,122,tutor,Can you write that over here?,00:12:40
+eyhbmoi,123,student,Yeah. [unclear],00:12:42
+eyhbmoi,124,tutor,"All right, so now tell me, you already earlier told me that you're gonna round it to down, yeah?",00:12:56
+eyhbmoi,125,student,Yes.,00:13:03
+eyhbmoi,126,tutor,"So if it's round down, what multiple will you choose?",00:13:04
+eyhbmoi,127,student,"Um, 781. [unclear]",00:13:08
+eyhbmoi,128,tutor,You simply have to choose one from these two. You don't need to go for a different multiple because that's why we,00:13:17
+eyhbmoi,129,student,Mm-hmm.,00:13:28
+eyhbmoi,130,tutor,"782,000.",00:13:28
+eyhbmoi,131,student,"82,000.",00:13:32
+eyhbmoi,132,tutor,"82,000.",00:13:34
+eyhbmoi,133,student,"782,000.",00:13:36
+eyhbmoi,134,tutor,"782,000, exactly. Okay, so you go with— if it's a down, you go backwards and choose this, and if it's an up, you go with this multiple.",00:13:37
+eyhbmoi,135,student,Yeah.,00:13:48
+eyhbmoi,136,tutor,"Okay. So that is how we look at the previous column. We decided, okay, 0 means less than 5, so you simply choose this. But if you're gonna use a number line, then you have to see where this number would go. Okay, somewhere very close to this value. So since it's lesser than this half, you still choose this one. Are we clear?",00:13:49
+eyhbmoi,137,student,Yes.,00:14:13
+eyhbmoi,138,tutor,"Okay, so let's write the answer here.",00:14:14
+eyhbmoi,139,tutor,"782,000.",00:14:16
+eyhbmoi,140,student,"782,000. [unclear] Okay. All right. So can we try the next one?",00:14:20
+eyhbmoi,141,student,[unclear],00:14:49
+eyhbmoi,142,tutor,"Yes. Okay. I mean next one in the sense, do you want to try this one? Do you want to— or this one?",00:14:51
+eyhbmoi,143,student,That one. The nearest.,00:15:02
+eyhbmoi,144,tutor,"Yes. Okay. We'll still— okay. Let's complete one by one, okay? We'll focus on the nearest thousands, Tutor is. So the very first step you have to do is you have to find the multiples, the closest multiples of 1,000 for this number here and here. What would that be?",00:15:06
+eyhbmoi,145,student,"Um, 200 and— 200,000 and 300,000? [unclear]",00:15:22
+eyhbmoi,146,tutor,"Okay. Do you remember if it's a multiple of 1,000?",00:15:33
+eyhbmoi,147,student,"Oh, if it's a multiple of 1,000, um...",00:15:43
+eyhbmoi,148,tutor,Yeah?,00:15:45
+eyhbmoi,149,student,"You check in the hundreds and it's a 9, so it's going up.",00:15:47
+eyhbmoi,150,tutor,"Yeah, yeah, yes, you're very clear about that, but we'll first decide the multiples, okay?",00:15:54
+eyhbmoi,151,tutor,"So 200,000 and 300,000 are multiples of 100,000, Phoebe. So now we are focusing on the thousands, multiples of thousands. [unclear] So what would be the closest? So 200,000 is obviously a multiple of 1,000. That is right. But is that the closest multiple of 1,000? That is what we have to focus with now. No, it is like a little bit far away. Yeah?",00:16:03
+eyhbmoi,152,student,Yeah.,00:16:32
+eyhbmoi,153,tutor,"So for this number, what would be the closest multiple of thousands? 3,000. [unclear] So think how I got this one. How I got the previous multiple of thousands for this. See what is the connection.",00:16:32
+eyhbmoi,154,student,I know many [UNCLEAR].,00:16:58
+eyhbmoi,155,tutor,What is the difference between this and this?,00:16:58
+eyhbmoi,156,student,The 9's got a new 0 to it.,00:17:03
+eyhbmoi,157,tutor,"Yeah. So can we try the same for this? So the last 3 digits are 0. Simply, we know that it's a multiple of 1,000 because it has 3 digits in the last 3 columns. So how can we do the same for this?",00:17:07
+eyhbmoi,158,student,It's going to be 10. [unclear],00:17:27
+eyhbmoi,159,tutor,"Can we try to, like, instead of thinking, we'll write it one by one. So you see the difference between these two numbers, right? So same as that, how could we find a multiple of 1,000 for this number?",00:17:33
+eyhbmoi,160,student,taken away.,00:17:33
+eyhbmoi,161,tutor,Take away what?,00:17:33
+eyhbmoi,162,student,Take away 9.,00:17:54
+eyhbmoi,163,tutor,"Okay, take away, and then?",00:17:58
+eyhbmoi,164,student,I don't know what after.,00:18:02
+eyhbmoi,165,tutor,"Okay, so for a digit— sorry,",00:18:09
+eyhbmoi,166,tutor,"For a number, for it to be a multiple of 1,000, what should be the basic rule for it?",00:18:13
+eyhbmoi,167,student,I forgot what the main rule is.,00:18:27
+eyhbmoi,168,tutor,Okay. Let me take a blank. Okay.,00:18:31
+eyhbmoi,169,tutor,"I'm going to write a few numbers for you, Phoebe. [unclear] Okay, this one. Again, so out of— okay, out of these, can you tell me which numbers could be the multiple of thousands?",00:18:38
+eyhbmoi,170,student,[unclear],00:19:18
+eyhbmoi,171,tutor,"Okay, so you say this— I'll just write this as well.",00:19:19
+eyhbmoi,172,tutor,"Okay, so you say this is a multiple of 1,000?",00:19:33
+eyhbmoi,173,student,Yeah.,00:19:36
+eyhbmoi,174,tutor,Okay. Anything else?,00:19:38
+eyhbmoi,175,student,I think that's it.,00:19:43
+eyhbmoi,176,tutor,"Okay. So why do you think that only this could be a multiple of 1,000?",00:19:45
+eyhbmoi,177,student,"Because the 6 is in the 1,000 column.",00:19:52
+eyhbmoi,178,tutor,"Okay. So that's why it's a multiple of 1,000.",00:19:58
+eyhbmoi,179,student,Yeah. [unclear],00:20:04
+eyhbmoi,180,tutor,"Okay. So it's like this, Phoebe. So if it should be a multiple of 1,000, it should at least have a minimum of 3 zeros in the last, like, from one to hundreds.",00:20:04
+eyhbmoi,181,student,Ah.,00:20:20
+eyhbmoi,182,tutor,"Yeah. For example, if I say, We'll start from the first multiple of 1,000, okay? 1,000.",00:20:21
+eyhbmoi,183,student,Okay.,00:20:27
+eyhbmoi,184,tutor,"2,000. 3,000.",00:20:28
+eyhbmoi,185,student,"3,000.",00:20:31
+eyhbmoi,186,tutor,It goes on. And next comes is?,00:20:31
+eyhbmoi,187,student,"4,000.",00:20:34
+eyhbmoi,188,tutor,"4,000 and?",00:20:36
+eyhbmoi,189,student,"5,000.",00:20:39
+eyhbmoi,190,tutor,"5,000. So it's going to go like that, like unlimited.",00:20:40
+eyhbmoi,191,student,Yes.,00:20:44
+eyhbmoi,192,tutor,"So let me say, then it comes 11,000. And then 24,000. And then it's going to go like that, like 100,000. So what is the common between all these multiples?",00:20:44
+eyhbmoi,193,student,They all got 3 zeros.,00:21:04
+eyhbmoi,194,tutor,"Exactly. They all got 3 zeros. Where? Exactly where? In the last 3 columns, yeah?",00:21:09
+eyhbmoi,195,tutor,"It always ends up with 3 zeros. So here, if you see, there is 5 zeros, but that doesn't matter. It still has 3 zeros in the end. So here, now tell me, is this a multiple of 1,000?",00:21:16
+eyhbmoi,196,student,No.,00:21:32
+eyhbmoi,197,tutor,"No, it's wrong. What about the next one?",00:21:33
+eyhbmoi,198,student,"Uh, nope.",00:21:36
+eyhbmoi,199,tutor,Nope. Next one.,00:21:38
+eyhbmoi,200,student,Yes.,00:21:40
+eyhbmoi,201,tutor,Yes. Next one.,00:21:41
+eyhbmoi,202,tutor,Nope.,00:21:42
+eyhbmoi,203,student,No. Next one.,00:21:44
+eyhbmoi,204,tutor,Yes.,00:21:45
+eyhbmoi,205,student,There we go. Are we good now?,00:21:46
+eyhbmoi,206,tutor,Yes.,00:21:49
+eyhbmoi,207,student,"Okay. So now, so it's the same with the other, okay? If it's a multiple of 100, what would be the multiples of 100 then? What is the rule for that? If it's a multiple of 100?",00:21:50
+eyhbmoi,208,tutor,That everything is going to have 2 zeros.,00:22:04
+eyhbmoi,209,tutor,[unclear] at the end.,00:22:10
+eyhbmoi,210,student,Instead of?,00:22:14
+eyhbmoi,211,tutor,"Instead of more zeros, it's just going to stay as 3?",00:22:15
+eyhbmoi,212,student,"Yeah, it can be more than 2, okay? If it's more than 2, that is totally fine, but always make sure it all— at least like the minimum should be 2 zeros for multiples of 100. Okay? So now we'll get back to the question. So you have to find the closest multiples of 100 for this number. Can you give it another try? [Speaker] So it will be 300— 300,000.",00:22:23
+eyhbmoi,213,tutor,"Okay, 300,000 is the right answer. But would it go here or here?",00:22:55
+eyhbmoi,214,tutor,There. It will go on the left.,00:23:02
+eyhbmoi,215,student,"Um, okay, I have to think about it. If it's 300,000, is it more or less than this number?",00:23:06
+eyhbmoi,216,tutor,"Um, more.",00:23:14
+eyhbmoi,217,student,More. So more means where does it go?,00:23:16
+eyhbmoi,218,tutor,"Uh, oh, it goes there if it's more.",00:23:19
+eyhbmoi,219,student,Right or left?,00:23:24
+eyhbmoi,220,tutor,Right.,00:23:26
+eyhbmoi,221,tutor,"Right, exactly. Okay, so if this is $300,000, this number should be what?",00:23:27
+eyhbmoi,222,student,"$200,000.",00:23:36
+eyhbmoi,223,tutor,"Hmm, no, because $200,000 means the gap between this is $100,000, but the gap between these two numbers should only be $1,000.",00:23:38
+eyhbmoi,224,student,"$400,000?",00:23:51
+eyhbmoi,225,tutor,"Because we are talking Because we are talking about multiples of 1,000. What happens if you take away 1,000 from this number?",00:23:52
+eyhbmoi,226,student,"It will make 100,000?",00:24:03
+eyhbmoi,227,tutor,"No. You're taking too much. You only have to take 1,000.",00:24:10
+eyhbmoi,228,student,300.,00:24:14
+eyhbmoi,229,tutor,[unclear] Okay. How about we put 3 zeros for this number at the end?,00:24:29
+eyhbmoi,230,student,"It will make 299,000.",00:24:36
+eyhbmoi,231,tutor,"My question for you, Phoebe, is this a multiple of 1,000?",00:24:46
+eyhbmoi,232,student,[unclear] Yes.,00:24:50
+eyhbmoi,233,tutor,"Yes, confidently say it's a yes because it has 3 zeros. And is it the closest multiple of 1,000 for this number?",00:24:54
+eyhbmoi,234,student,Yes.,00:25:02
+eyhbmoi,235,tutor,"Absolutely, because if you add just one more thousand for this, you will end up with 300,000. OK?",00:25:04
+eyhbmoi,236,student,OK.,00:25:13
+eyhbmoi,237,tutor,"All right, very good. There's something new we learned. And from my point, I think you're improving a lot. OK? So let's do some more practice. And I'm pretty sure you'll be able to get it. OK. Now it's just a matter of— OK, so we got the multiples. Now you have to look at which column.",00:25:14
+eyhbmoi,238,student,[unclear],00:25:34
+eyhbmoi,239,tutor,If it's thousands.,00:25:36
+eyhbmoi,240,tutor,column.,00:25:36
+eyhbmoi,241,student,[unclear],00:25:36
+eyhbmoi,242,tutor,Pardon?,00:25:41
+eyhbmoi,243,student,Is it in nearest thousand at the bottom?,00:25:42
+eyhbmoi,244,tutor,Nearest thousands means which column you have to look at?,00:25:48
+eyhbmoi,245,student,2.,00:25:54
+eyhbmoi,246,tutor,No.,00:25:54
+eyhbmoi,247,student,9?,00:25:58
+eyhbmoi,248,tutor,"Yes. That means you have to look at the hundreds column, which is the 9.",00:26:02
+eyhbmoi,249,student,9.,00:26:08
+eyhbmoi,250,tutor,"Okay, and then carry on. Then what do you do?",00:26:08
+eyhbmoi,251,student,Um... I forgot what else to do.,00:26:12
+eyhbmoi,252,tutor,"Okay, first you find the multiples, then you look at the column. If it's more than... [unclear] If it's more than, it goes up.",00:26:19
+eyhbmoi,253,tutor,More than what?,00:26:30
+eyhbmoi,254,student,It goes up.,00:26:31
+eyhbmoi,255,tutor,"Okay, it goes up. That's right. If it's more than what, it goes up.",00:26:34
+eyhbmoi,256,student,5.,00:26:38
+eyhbmoi,257,tutor,"5. There we go. Okay, you remember it now. So it's more than 5. Yes, 9 is more than 5. Of course it goes up. So the answer would be?",00:26:39
+eyhbmoi,258,student,"300,000.",00:26:50
+eyhbmoi,259,tutor,There we go.,00:26:53
+eyhbmoi,260,tutor,"Okay, excellent focus. Can we write it over here?",00:26:56
+eyhbmoi,261,student,Yeah.,00:27:00
+eyhbmoi,262,tutor,"All right. [unclear] Okay. All right, so we have successfully completed nearest thousand. So now we will focus on nearest 10,000. So if it is a multiple of 10,000, what will be the rule?",00:27:02
+eyhbmoi,263,student,To look in the thousands. [unclear],00:27:29
+eyhbmoi,264,tutor,"Okay, that's a good one. I wasn't expecting that, but yes, that is absolutely right. You have to look at the thousands, okay? But if a number, if it's a multiple of 10,000, the number should have what?",00:27:33
+eyhbmoi,265,student,4 zeros.,00:27:49
+eyhbmoi,266,tutor,"4 zeros in the end. Okay, perfect. So I'm gonna erase this. And what are the closest multiples of 10,000 for this? Sorry, for this number. Closest multiples of 10,000.",00:27:50
+eyhbmoi,267,student,It's [UNCLEAR]. Is it 2? [unclear],00:28:08
+eyhbmoi,268,tutor,"You have to find the multiples of this. So if you already told me that if it's a multiple of 10,000, it should have 4 zeros in the end. So what numbers can you think of that has 4 zeros?",00:28:18
+eyhbmoi,269,student,Um...,00:28:33
+eyhbmoi,270,tutor,Just simply put the first 2 numbers. And then make it like give all the zeros. [unclear],00:28:34
+eyhbmoi,271,tutor,Yeah?,00:28:51
+eyhbmoi,272,student,Yeah. [unclear],00:28:52
+eyhbmoi,273,tutor,"No, it comes back.",00:28:54
+eyhbmoi,274,student,"Okay. So earlier 4,000 multiples of 7, 1,000, I simply put 3 zeros in the end. So this number, do you remember?",00:29:01
+eyhbmoi,275,background,Yeah.,00:29:12
+eyhbmoi,276,student,"Okay, so I simply made this all into zeros. Simply, I got a multiple of thousands. Same for the earlier, for this number, I put zeros all over here for the 3 last digits, and I got the multiple of 1,000. OK. Do you remember that?",00:29:12
+eyhbmoi,277,student,Yes.,00:29:32
+eyhbmoi,278,tutor,"OK. So if it's a multiple of 10,000, how many zeros we need? I told you. I mean, you told me.",00:29:33
+eyhbmoi,279,student,4.,00:29:40
+eyhbmoi,280,tutor,"4. OK. So simply, you can just make all these into 4 zeros. [unclear] Can you see it?",00:29:40
+eyhbmoi,281,tutor,"Yes. Okay, so the first multiple would be?",00:29:56
+eyhbmoi,282,student,7.,00:29:59
+eyhbmoi,283,tutor,Uh-huh.,00:30:01
+eyhbmoi,284,student,"Then 8, then 0, then 0, then 0, then 0.",00:30:02
+eyhbmoi,285,tutor,Perfect. So that would be— what is the— how do we read it?,00:30:08
+eyhbmoi,286,student,Um... [unclear] I forgot. [unclear],00:30:13
+eyhbmoi,287,tutor,"Okay, let's read the first 3 digits. So 7.",00:30:27
+eyhbmoi,288,student,7 and 8.,00:30:32
+eyhbmoi,289,tutor,"Okay, how do we read this?",00:30:36
+eyhbmoi,290,student,"Oh, because we see numbers and we— How do we read this one? Just this number.",00:30:40
+eyhbmoi,291,student,"[unclear] Because there's a zero in it. So we could just say 7, so we could just say 7, then 780.",00:30:49
+eyhbmoi,292,tutor,"There we go. So this is a 780, but here it still has more zeros, so we say That's— the 780 is in the thousands group now, so we simply say 780,000. Okay? Okay. Okay. Let's do some more practice on that. Well, we'll do that later. So now you got the previous multiple of 10,000. And what could be the next multiple?",00:31:05
+eyhbmoi,293,student,Um... [unclear],00:31:35
+eyhbmoi,294,tutor,"No. If it's a 781, do you have 7— sorry, 4 zeros in there?",00:31:45
+eyhbmoi,295,student,No.,00:31:53
+eyhbmoi,296,tutor,"No, it should have 4 zeros. So what comes after 780,000?",00:31:54
+eyhbmoi,297,student,Um—,00:32:00
+eyhbmoi,298,student,"800,000, but that's going to be too much.",00:32:06
+eyhbmoi,299,tutor,"It is a multiple of 10,000, but it is like a little bit far away. It's not that closer. Think about what comes after 80,000. Multiple of 10,000, but it should be after 80,000.",00:32:10
+eyhbmoi,300,student,"Um, [UNCLEAR].",00:32:27
+eyhbmoi,301,tutor,"Yeah, that's right. So the answer would be?",00:32:29
+eyhbmoi,302,student,"790,000?",00:32:33
+eyhbmoi,303,tutor,"Yes, that's right, Phoebe. You can confidently say. Okay, so since 780,000, 9 comes after 8, so 790,000. Or, or as in other ways, you simply have to add a 10,000, okay?",00:32:41
+eyhbmoi,304,tutor,"If you add a 10,000 with an 80,000, you got a 790,000. So can you write that over here?",00:32:57
+eyhbmoi,305,student,Sure.,00:33:04
+eyhbmoi,306,tutor,"Okay. So these are some easier ways to find the multiples of these numbers, okay?",00:33:04
+eyhbmoi,307,student,Okay.,00:33:26
+eyhbmoi,308,tutor,"So if you can remember them, it would be quite easy for you. Alright, let's try something. Um, okay. Ah, okay, we still have one more step to do. So first step we are done. We found the multiples, the closest multiples. So what is the second step? I want you to remember this. What is the second step?",00:33:27
+eyhbmoi,309,student,I forgot what the second step was.,00:33:58
+eyhbmoi,310,tutor,I really want you to think about it. [unclear],00:34:03
+eyhbmoi,311,student,So we find the multiples and then we look at something. We look at the—,00:34:07
+eyhbmoi,312,tutor,Thousand? Okay. Let's see what's closest to—,00:34:18
+eyhbmoi,313,student,That's right. That's right. [unclear],00:34:25
+eyhbmoi,314,tutor,So you look at the thousands. And can I know the reason why you looked at the thousands?,00:34:30
+eyhbmoi,315,student,Because you need to check if the numbers in the thousands is Highest or lowest.,00:34:36
+eyhbmoi,316,tutor,OK. I'll correct that. You have to see whether it is above something or less than something. What is that something?,00:34:45
+eyhbmoi,317,student,"To always check the thousands if the number's bigger or smaller, so we know which side we would [UNCLEAR]. We will put in the box. Okay, so here the thousands is more or less than what? Less than 719. Okay, what is the digit you have in the thousands?",00:34:56
+eyhbmoi,318,student,2.,00:35:26
+eyhbmoi,319,tutor,"2, okay. Is 2 less than 5? Okay, remember 5.",00:35:27
+eyhbmoi,320,student,"Yeah, it's less than 5.",00:35:34
+eyhbmoi,321,tutor,"Yeah. So always 5 is in the middle between 0 to 10. So— sorry, 0 to 9, the digits, like a one digit. So if it's less than 5, what do you do?",00:35:36
+eyhbmoi,322,student,"[unclear] the less number in it, and we would write that down.",00:35:50
+eyhbmoi,323,tutor,Okay. I don't really get what you said. Could you repeat it?,00:36:04
+eyhbmoi,324,student,You have to check the lowest side with the lowest number to put the lower number in it to... [unclear],00:36:12
+eyhbmoi,325,tutor,"Okay, let's do one thing, okay? We'll try to write the steps one by one. So what is the first step?",00:36:28
+eyhbmoi,326,student,Check what number— what number it is. [unclear],00:36:37
+eyhbmoi,327,tutor,"Okay, you got a number. The very first step is you find the multiples.",00:36:44
+eyhbmoi,328,student,"Oh yeah, the multiples. Yeah. Previous and the next. So this is the first step you have to do. What is the second step?",00:36:50
+eyhbmoi,329,student,Check if— check how many zeros it's got? Or is that step 1?,00:37:03
+eyhbmoi,330,tutor,So that— everything goes under step 1 when finding the multiples.,00:37:14
+eyhbmoi,331,tutor,"OK, so after finding multiples, what do you do?",00:37:18
+eyhbmoi,332,student,"Check if the— check a bar chart, I think, and check if there's a smaller number in the place that you have to look at, and then that would be",00:37:25
+eyhbmoi,333,student,"That would be lower. That would be lower than 5. But if it's a big number, it will be higher than 5.",00:37:44
+eyhbmoi,334,tutor,"Yes, absolutely. So the second is you have to decide, decide which column you have to look at. Which column you have to look at. And the third is if more than 5. You have to see if it's more than 5 or less than 5.",00:37:54
+eyhbmoi,335,student,"Or, yeah.",00:38:17
+eyhbmoi,336,tutor,"Okay. So then you decide if it's more than 5, it's what? Simply use up or down. What? More than 5 means?",00:38:18
+eyhbmoi,337,student,"More, more, more. If it's more, it goes up. If it's not, it goes down. There we go. Okay? Less goes down, more goes up. Okay? So can we repeat this? First you find the multiples and then?",00:38:31
+eyhbmoi,338,student,"Decide which column. If more than 5, less. You do more than if the [UNCLEAR]. If the number's more than 5 or less than 5, if it's more, you go up. If it's not, you go down.",00:38:54
+eyhbmoi,339,tutor,"Perfect. Okay, so here you have already done the first step. You found the multiples, okay? So second, you told me that you are going to look at the thousands column. Did you look at the thousands column?",00:39:13
+eyhbmoi,340,student,Yes.,00:39:28
+eyhbmoi,341,tutor,"Okay, how much is it?",00:39:29
+eyhbmoi,342,student,2.,00:39:31
+eyhbmoi,343,tutor,"Okay, then what do you do? Since it's 2, what?",00:39:33
+eyhbmoi,344,student,"Um, it's going to be the lowest number, and if it's lower, it goes left, but if it isn't, it goes right. Because the left one is",00:39:36
+eyhbmoi,345,student,is going to be the lowest one and the bright one is going to be the highest one?,00:39:36
+eyhbmoi,346,tutor,Absolutely. So the answer would be?,00:39:36
+eyhbmoi,347,student,"The answer would be 780,000.",00:40:06
+eyhbmoi,348,tutor,"There we go, Phoebe. Very well done. I really appreciate you. Okay, so you simply looked at 2, it's less than 5, you decided to go with this answer. There we go. All right. Can we write it over here?",00:40:13
+eyhbmoi,349,student,Sure.,00:40:26
+eyhbmoi,350,tutor,Okay. All right. Are we done?,00:40:27
+eyhbmoi,351,student,Yes.,00:40:44
+eyhbmoi,352,tutor,Can we move to the next one?,00:40:45
+eyhbmoi,353,student,Okay.,00:40:47
+eyhbmoi,354,tutor,So the next number we know What are we going to do first?,00:40:47
+eyhbmoi,355,student,"Um, multiply it.",00:40:55
+eyhbmoi,356,tutor,"Multiples. We find the multiples. Multiples of 10,000. Nearest 10,000 for this number.",00:40:58
+eyhbmoi,357,student,It's going to be 4 zeros again.,00:41:06
+eyhbmoi,358,tutor,"Perfect. OK. And how do we find the first one? First multiple? [Speaker] It's gonna— you'll add the 4 zeros instead of the 9s, so it's gonna be 290,000.",00:41:08
+eyhbmoi,359,tutor,"OK. All right. I'm really happy. Yes, that's right. Phoebe, can you write that here?",00:41:38
+eyhbmoi,360,student,Sure.,00:41:46
+eyhbmoi,361,tutor,"OK. OK, you're right on track. So we found the first multiple with 4 zeros in the end. So that's the 290,000. So if this is 290,000, what would be the next multiple?",00:41:47
+eyhbmoi,362,student,"300,000?",00:42:09
+eyhbmoi,363,tutor,There we go. How did you know that?,00:42:12
+eyhbmoi,364,student,"Because I saw the 90. You can't put 91 because that's going to have 3 zeros. So I thought to the next 10,000, and I knew it was going to be 300,000.",00:42:15
+eyhbmoi,365,tutor,"Exactly. That was a really, really good explanation you gave. So you simply add a 10,000 and you will be ending up up to the 300,000. So I'll help you write that. Okay, so are we done with our first step?",00:42:32
+eyhbmoi,366,student,Yes.,00:42:46
+eyhbmoi,367,tutor,"Yes, very well done. So what is the next step?",00:42:47
+eyhbmoi,368,student,Look to—,00:42:53
+eyhbmoi,369,tutor,Look at your columns. Which column you're going to look at?,00:42:56
+eyhbmoi,370,student,The— [unclear],00:43:02
+eyhbmoi,371,student,The thousands.,00:43:05
+eyhbmoi,372,tutor,"Thousands, yes. It's the previous to the ten thousands. And what do you have in the thousands?",00:43:07
+eyhbmoi,373,student,"9. So 9's bigger than 5, so that goes up. So it's going to go B. So it's going to be 3,000.",00:43:14
+eyhbmoi,374,student,"300,000.",00:43:31
+eyhbmoi,375,tutor,"Yes, excellent focus. Okay, that's the right answer, Phoebe. Okay, so did you see the change in yourself? That— so this you did all by yourself?",00:43:34
+eyhbmoi,376,student,Yeah.,00:43:45
+eyhbmoi,377,tutor,"Yeah, so you are getting it. All right, so we'll write the answer over there and we'll practice a little bit for the next two. Okay. But it's really bad that we are up to the time. What can we do then? We might be able to do it in the next class. I'm not pretty sure. Let's see. Okay. But if it's nearest 100,000, what would you do, Phoebe? Can you just [unclear] say it to me?",00:43:47
+eyhbmoi,378,student,You would add 5 zeros into your answer.,00:44:26
+eyhbmoi,379,tutor,Yes.,00:44:32
+eyhbmoi,380,student,Then... then... then... [unclear] You would look at your columns.,00:44:32
+eyhbmoi,381,tutor,Which column would you look at?,00:44:43
+eyhbmoi,382,student,You'll have to look at the ten thousands.,00:44:45
+eyhbmoi,383,tutor,"Yes, absolutely. It would be 8, so it would go up. It will go up 5. So, so there.",00:44:49
+eyhbmoi,384,tutor,And you will decide which multiple.,00:45:01
+eyhbmoi,385,student,"Yeah, then you'll decide which multiple it is on which side, and then you put that answer into the box.",00:45:05
+eyhbmoi,386,tutor,"Exactly. Since it's already, you know that it's 5, yeah?",00:45:17
+eyhbmoi,387,student,Yeah. [unclear] [unclear],00:45:22
+eyhbmoi,388,tutor,Hello?,00:45:55
+eyhbmoi,389,student,Hello?,00:45:56
+eyhbmoi,390,tutor,"Yeah, sorry, that was an audio issue. So that was very well explained, Phoebe, and I'm pretty confident that you will be able to do these type of questions, okay? So practice a little bit more, then you will be able to do all by yourself. You already started doing. Okay, I really appreciate your effort. So we'll meet in our next week's session and see whether we can do it or we'll start with a new lesson. Okay?",00:45:57
+eyhbmoi,391,student,Okay.,00:46:21
+eyhbmoi,392,tutor,"Alright then, have a good day. Bye.",00:46:22
+eyhbmoi,393,student,Bye.,00:46:24

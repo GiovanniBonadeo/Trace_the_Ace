@@ -1,0 +1,329 @@
+session_id,utterance_id,role,content,timestamp
+gviznml,0,background,[unclear],00:00:00
+gviznml,1,student,Hello.,00:00:00
+gviznml,2,student,Hello.,00:00:13
+gviznml,3,tutor,"Hi, Tobias. How are you doing today?",00:00:13
+gviznml,4,student,Good.,00:00:16
+gviznml,5,tutor,"Good. Okay, that's great to hear. Right, so today we're starting with a lesson that we've done a couple of weeks back, actually. So we'll just get right through it. So do you remember multiplying up to 3-digit numbers using short multiplication?",00:00:17
+gviznml,6,student,Yeah.,00:00:35
+gviznml,7,tutor,"Yeah, awesome. So we will start the Go for this question. So can you give this a try? [unclear]",00:00:36
+gviznml,8,tutor,"Yeah, how would you fill in this missing digit over here? Okay. [unclear] So you think it's 0, right? Why do you think it's 0?",00:01:02
+gviznml,9,student,"Because 7 times 6 equals 42. 42 is too big, so the 4 goes down there and the 2 stays there.",00:01:12
+gviznml,10,tutor,"Okay, right.",00:01:25
+gviznml,11,tutor,Yeah. And then?,00:01:27
+gviznml,12,student,"And then, um, 3 times 6 equals 12. No, equals 18. [unclear]",00:01:29
+gviznml,13,tutor,"So they have added a 3. That means when you do 0 times, uh, this blank digit times 6, you have to get 3 and another digit over here.",00:01:44
+gviznml,14,tutor,Right?,00:01:55
+gviznml,15,student,Yeah.,00:01:56
+gviznml,16,tutor,So what has that digit? What was that digit actually?,00:01:57
+gviznml,17,student,"Um, 2.",00:02:02
+gviznml,18,tutor,"No. See, 7 times 6 is 42. So they put the 4 here and the 2 here, right?",00:02:05
+gviznml,19,student,Okay. [unclear],00:02:13
+gviznml,20,tutor,Something times 6 is— they have put 4 and 3. So 34 is the answer. Right? That's what they have gotten. Right? [unclear],00:02:14
+gviznml,21,tutor,"Is that okay for now? But you do know there was a remainder of 4 over here. So if you minus that remainder, that's actually 30 that they have gotten. So what times 6 is 30?",00:02:27
+gviznml,22,student,It's 5 times 6.,00:02:45
+gviznml,23,tutor,Yeah.,00:02:47
+gviznml,24,student,What?,00:02:49
+gviznml,25,background,5.,00:02:50
+gviznml,26,tutor,"Yeah, exactly. So we'll put 5 here and see if this will work. Shall we?",00:02:51
+gviznml,27,background,Yeah.,00:02:57
+gviznml,28,tutor,"Just put 5 there and double-check it. Awesome. Now let's double-check it, shall we?",00:03:02
+gviznml,29,background,Are you sure? Okay. [unclear],00:03:12
+gviznml,30,tutor,Pardon? Yeah?,00:03:23
+gviznml,31,student,Double-check and see if you get the answer. [unclear],00:03:27
+gviznml,32,tutor,So is it correct?,00:03:32
+gviznml,33,student,Yeah.,00:03:36
+gviznml,34,tutor,"So let's do it from the beginning. The other part is 16. 6 times 7 is 42. 5 times 6 is 30, and 3 times 6 is 18.",00:03:37
+gviznml,35,tutor,"Ah, so that's all right. Yeah, when you add the remainders, you get this answer. So in a question like this, what's the most important thing you have to look out for?",00:03:50
+gviznml,36,student,No clue.,00:04:03
+gviznml,37,tutor,"So this is— you can work out the answer, but then you will have to double-check if the answer is correct after you get the answer, right?",00:04:08
+gviznml,38,student,Yeah.,00:04:19
+gviznml,39,tutor,"Okay, awesome. Right? So let's go to the next lesson, the new lessons we're supposed to start today. [unclear] Okay, so today's lesson is going to be using known facts to find factors. And I want you to start with the learning goal question. Can you give that a try?",00:04:20
+gviznml,40,student,Sure. [unclear],00:04:45
+gviznml,41,tutor,Hello?,00:04:50
+gviznml,42,student,Yeah. [unclear],00:04:54
+gviznml,43,tutor,"So the factors of 12, we have 3 and is this 1?",00:05:08
+gviznml,44,student,Yes.,00:05:18
+gviznml,45,tutor,"Yes, but we are missing one factor, just one factor. What is the factor you have missed out?",00:05:20
+gviznml,46,student,"Oh, 12 itself.",00:05:30
+gviznml,47,tutor,"12 itself, there you go. 1 times 12 is 12, so yes. You can put it— yeah, exactly, good job there. Right, so that's a good work done there. Now what about the prior learning question?",00:05:32
+gviznml,48,background,[unclear] Write all numbers that 10 can be divided by so there is no remainder. [unclear],00:05:48
+gviznml,49,tutor,Uh-huh.,00:06:08
+gviznml,50,student,Yeah.,00:06:09
+gviznml,51,tutor,"So, yes, exactly. In other words, they were asking you for the factors again. So that is 10, 2, 5, and 1. Brilliantly done over there, Tobias.",00:06:09
+gviznml,52,student,Yeah.,00:06:19
+gviznml,53,tutor,So let's just go right into it and learn a bit more about factors. So can you read this part for me?,00:06:19
+gviznml,54,student,Factors are numbers we can multiply together to get another number.,00:06:28
+gviznml,55,tutor,"Yes, so you know 2 factors multiplied together makes up a number, right? So yes, 1 times 8 is 8, 2 times 4, and 4 times 2. You've written it all over there. Yeah, so like that, for 8 you can have a bunch of different factors.",00:06:33
+gviznml,56,student,Yeah.,00:06:53
+gviznml,57,tutor,"Yeah, but you don't repeat the factors. So as you can see, you have 2 times 4 and 4 times 2. Since they are the same factors, you are not going to write them 2 times, right? Yes, those are the only factors of 8. Very well done. Okay, then we have the follow-me part. So let me get quickly through it and tell you how to do it. So here we are finding the factors of 16. 16. So to do that, 1 times 16, 2 times 8. 3 times table doesn't have a 16, and 4 times 4 gives you 16. Yes. So the factors of 16, um, the best thing is to list it out in order. So you have to put 1, 2, 4, 8, [unclear]",00:06:55
+gviznml,58,tutor,Yes.,00:07:43
+gviznml,59,tutor,And?,00:07:44
+gviznml,60,student,Yeah. [unclear],00:07:45
+gviznml,61,tutor,"And you can see one more important thing. One more important thing is that 4 is a repeating factor, right?",00:07:48
+gviznml,62,student,I don't know.,00:08:02
+gviznml,63,tutor,Huh? See? 4 is a repeating factor. Like 4 is the same. So you have written 4 as a factor 2 times.,00:08:04
+gviznml,64,tutor,Right?,00:08:13
+gviznml,65,student,Yeah.,00:08:14
+gviznml,66,tutor,"Yeah, but we don't write 4 two times when you write it as a factor. [unclear]",00:08:15
+gviznml,67,student,"Yeah, but it says 1 times 16 is 16, 2 times 8 is 16, 3 times nothing is 16 because 3 doesn't have one, but 4 times 4 is also 16.",00:08:21
+gviznml,68,tutor,"Exactly, yes. So even though there are two 4s as factors, we only write it once because it's the same number anyway.",00:08:37
+gviznml,69,tutor,Okay.,00:08:45
+gviznml,70,student,Right? Okay. Shall we try the 'your turn' part then? It's all yours to try out.,00:08:46
+gviznml,71,tutor,Sure.,00:08:50
+gviznml,72,student,Yeah.,00:08:51
+gviznml,73,tutor,"By the way, that over there is a comma, not a 1.",00:09:00
+gviznml,74,student,"Sorry, wait, hold on.",00:09:04
+gviznml,75,tutor,"That one over there is a comma, not a 1.",00:09:06
+gviznml,76,tutor,"Um, is 5 going to be a common factor for 20?",00:09:10
+gviznml,77,student,Yeah.,00:09:14
+gviznml,78,tutor,Are you sure about that? Isn't it 25 that you're thinking about?,00:09:14
+gviznml,79,student,"No, because 5 times 4 is 20.",00:09:19
+gviznml,80,tutor,"Ah, okay. So I have to write 4, right?",00:09:24
+gviznml,81,student,Yep. I was gonna do that except the [unclear] mistake.,00:09:27
+gviznml,82,tutor,"Okay, okay. All right, so are these 4 the only factors?",00:09:34
+gviznml,83,student,No.,00:09:39
+gviznml,84,tutor,Or are we— 3 doesn't have one. [unclear],00:09:40
+gviznml,85,student,"3 doesn't have one, so I'll cross it out.",00:09:51
+gviznml,86,tutor,"Yeah, 3 doesn't, yes. And 5. [unclear]",00:09:55
+gviznml,87,tutor,"Yes. So have you listed down all of the factors? You only have written 2, 5, 10, and 4. 2, 5, 10, and 4. You have missed 2 factors. What are the 2 factors you have missed?",00:10:08
+gviznml,88,student,1 and 20.,00:10:22
+gviznml,89,tutor,"1 and 20, yes. So it's important, uh, it is important to write it down as well. Yeah. [unclear] Okay, awesome. So what did we learn about factors here, uh, Tobias?",00:10:24
+gviznml,90,student,"Um, they're just numbers.",00:10:43
+gviznml,91,tutor,Numbers that are used to,00:10:49
+gviznml,92,student,They get multiplied and [unclear] into another number.,00:10:52
+gviznml,93,tutor,"Exactly. Very nice explanation there. Okay. Then we go to the you do part. So again, we have a couple of questions fill in the blanks. So starting with the factors of 15. Shall we give it a try?",00:10:57
+gviznml,94,tutor,"Um, yeah.",00:11:18
+gviznml,95,student,Yeah.,00:11:20
+gviznml,96,tutor,"15, 5, 22.",00:11:21
+gviznml,97,student,Very good.,00:11:27
+gviznml,98,tutor,"11, 5.",00:11:29
+gviznml,99,student,Yes. What about 25?,00:11:32
+gviznml,100,tutor,"I'm trying to turn on the brightness of my screen, give me a sec. Done.",00:11:36
+gviznml,101,student,"Oh yeah, yeah, of course. [unclear]",00:11:42
+gviznml,102,tutor,Is 12.5 a factor?,00:11:49
+gviznml,103,student,"No, 12 point— no, that's factors. We only consider the whole number factors.",00:11:55
+gviznml,104,tutor,"Okay, so 5.",00:12:01
+gviznml,105,tutor,5 times 5.,00:12:10
+gviznml,106,student,"So, 25 has only 3 factors, right? What are the 3 factors?",00:12:13
+gviznml,107,tutor,5 free. [unclear],00:12:22
+gviznml,108,student,And?,00:12:30
+gviznml,109,tutor,"I have 9, 5 free.",00:12:31
+gviznml,110,tutor,Is 3 a factor of 25 dozen? Think about it a bit.,00:12:37
+gviznml,111,student,Think about it. [unclear] Give me a sec.,00:12:43
+gviznml,112,tutor,Okay.,00:12:46
+gviznml,113,student,"Wait, I'm thinking.",00:12:48
+gviznml,114,tutor,Yeah. [unclear],00:12:55
+gviznml,115,tutor,"I think it— no, it's not. 3 is not, yes.",00:13:08
+gviznml,116,student,Can someone give me a factor?,00:13:20
+gviznml,117,tutor,"Okay, so what do you think then? What is going— what are the factors of 25?",00:13:22
+gviznml,118,student,1 and 25. How am I—,00:13:29
+gviznml,119,tutor,1 and 25. Yes.,00:13:33
+gviznml,120,student,I don't know how I couldn't think of that.,00:13:36
+gviznml,121,tutor,It's okay. 1 and 25. And 5 times what gives you 25?,00:13:40
+gviznml,122,student,"Um, 5 times 5.",00:13:47
+gviznml,123,tutor,"Yes, exactly. 5 times 5. Okay, so that is correct. Amazingly done over here.",00:13:50
+gviznml,124,tutor,"Once again, let me give you a break token. So what were the things we learned in this slide?",00:13:59
+gviznml,125,student,I don't know. [unclear] Zero things.,00:14:10
+gviznml,126,background,I'll answer it. I don't know.,00:14:21
+gviznml,127,tutor,"I don't know. Okay, so we just basically learned about the factors when it comes to—",00:14:27
+gviznml,128,student,[unclear],00:14:36
+gviznml,129,tutor,"Exactly, yes. Right, so those were the basic things we learned about. Right, so with that, we can move on to the final question, which is The goal for the question. So shall we go through it? [unclear]",00:14:36
+gviznml,130,tutor,Yes.,00:15:00
+gviznml,131,background,Hawkey says that 9 has 4,00:15:04
+gviznml,132,background,"1, 3, and 3. Explain Hawkey's mistake.",00:15:08
+gviznml,133,student,"Yeah, he says 1, 3, and 3, and 9 are the factors. Is he correct? [unclear]",00:15:14
+gviznml,134,tutor,"Yes, he has written 3 twice, right?",00:15:31
+gviznml,135,background,Yeah.,00:15:34
+gviznml,136,tutor,So what are the factors of 9 then?,00:15:36
+gviznml,137,background,"1, 3, and 9.",00:15:40
+gviznml,138,tutor,"Very good. So now tell me, does it— what did you learn about the factors when it is the same number repeating 2 times?",00:15:44
+gviznml,139,student,Uh... [unclear],00:15:52
+gviznml,140,background,It's wrong. You can't do it.,00:15:57
+gviznml,141,tutor,"Yes. Yes, you have to just write it only once because it's the same number, isn't it?",00:16:00
+gviznml,142,student,Uh-huh.,00:16:07
+gviznml,143,tutor,Yep.,00:16:08
+gviznml,144,student,Yep.,00:16:09
+gviznml,145,tutor,"Okay, awesome. So those are some of the things I want to do a recall, and yeah, so that will be it. And let's get into the next lesson. So good job in trying this out here.",00:16:09
+gviznml,146,student,That was the most [UNCLEAR].,00:16:24
+gviznml,147,tutor,Okay. [unclear],00:16:24
+gviznml,148,tutor,The next lesson is the books.,00:16:38
+gviznml,149,student,There are 27 books. The Teacher puts 5 books on each table. How many books are left over?,00:16:40
+gviznml,150,background,"Um, but, uh, does it matter if it has like a zero on it?",00:16:47
+gviznml,151,tutor,How do you know that it's 2?,00:16:52
+gviznml,152,background,You could put a million.,00:16:54
+gviznml,153,tutor,"Oh no, you don't have to do that.",00:16:55
+gviznml,154,background,Oh.,00:16:57
+gviznml,155,tutor,Okay.,00:16:58
+gviznml,156,tutor,"Just, just, just, you don't have to write it, but tell me what are the first 5 multiples of 6 actually.",00:17:03
+gviznml,157,student,"1, 6, 3, 2, uh... [unclear] I don't know.",00:17:10
+gviznml,158,tutor,What are multiples of 6?,00:17:23
+gviznml,159,student,"2, 6, uh, 2, 3, [unclear]",00:17:25
+gviznml,160,tutor,One 6 and...,00:17:33
+gviznml,161,student,I don't know.,00:17:39
+gviznml,162,tutor,"So, it's okay. This is wrong. The multiples of 6 are the 6 times table.",00:17:40
+gviznml,163,student,"I thought it meant what does... what do you times by to get 6? What do we call them? [unclear] Factors. Yeah, not factors, right? So this is basically the multiples that we're talking about. Okay, so shall we just go through it over here? Okay, let's read this part.",00:17:49
+gviznml,164,tutor,Yes.,00:18:26
+gviznml,165,student,Yes? Can you read this? [unclear],00:18:27
+gviznml,166,tutor,"So what are we doing here, Tobias?",00:18:35
+gviznml,167,student,We're counting for... [unclear],00:18:43
+gviznml,168,tutor,"Okay, we're finding the multiples of 4.",00:18:57
+gviznml,169,student,Multiples of 3.,00:19:00
+gviznml,170,tutor,"Yeah, shall we find— just write a couple of multiples of 6.",00:19:01
+gviznml,171,student,[unclear],00:19:07
+gviznml,172,tutor,"Uh-huh, very good. Just 2 more.",00:19:08
+gviznml,173,tutor,"And yes, that's enough. That's enough. Done. Multiples of 7? [unclear]",00:19:15
+gviznml,174,tutor,"Very good. Then multiples of 8. [unclear] Okay, that's enough. Right, so Very good job done here. Now you know what multiples are again. Shall we recall it once more?",00:19:41
+gviznml,175,student,No.,00:20:13
+gviznml,176,tutor,Can you tell me what multiples are again?,00:20:19
+gviznml,177,student,Multiples are basically timesing numbers. [unclear],00:20:22
+gviznml,178,tutor,"Yes, exactly. So multiples are the numbers in the times tables, right?",00:20:32
+gviznml,179,student,Yes. [unclear],00:20:37
+gviznml,180,tutor,So let's go through this as well. What does it say here?,00:20:40
+gviznml,181,student,A remainder arises when there's something left over in a division calculation.,00:20:47
+gviznml,182,tutor,Yes. So have you ever heard of the word remainder?,00:20:55
+gviznml,183,tutor,Yes. And have you come across remainders when you're doing division calculations as well?,00:21:03
+gviznml,184,student,Uh-huh.,00:21:09
+gviznml,185,tutor,"Okay, good. So these remainders are the ones that we get when we do a division, right? And when we— when there's like— [unclear]",00:21:11
+gviznml,186,tutor,Yeah.,00:21:25
+gviznml,187,student,Sorry. [unclear],00:21:26
+gviznml,188,tutor,"So when there's a number like 32 divided by 5, we would end up getting a remainder because 32 is not a multiple of 5, right?",00:21:27
+gviznml,189,student,Yeah.,00:21:37
+gviznml,190,tutor,"Because if 32 was in the 5, then you don't get a remainder.",00:21:39
+gviznml,191,student,So this is the answer. Let me just write it.,00:21:43
+gviznml,192,tutor,"Yeah, yeah, you can write it. 6 remainder 2. Very good. What about the answers to these two as well? Uh, that is not correct. 3 remainder 2 is not correct. Can you double check?",00:21:47
+gviznml,193,student,"Oh, 3 remainder 1.",00:22:03
+gviznml,194,tutor,"Yes, 3 remainder 1. [unclear]",00:22:06
+gviznml,195,tutor,Yes. What about the [UNCLEAR]?,00:22:19
+gviznml,196,student,I don't know.,00:22:19
+gviznml,197,tutor,"Make remainder 3. Exactly. So, um, that is about this. So what did we learn about remainder so far?",00:22:24
+gviznml,198,student,"Um, that's— yeah, um, sorry, that's easy.",00:22:32
+gviznml,199,tutor,"Okay, so, and if the numbers are not multiples, then we have remainder. So, as always, I'm trying out the following part. It says we are solving word problems. We need to sense— we need to make sense of the remainder. So let's see what the word problem is. They say 4 children can fit into a tent, and how many tents are needed for 30 children, right?",00:22:42
+gviznml,200,tutor,"So if 4 children fit into a tent, how many tents are needed for 30 children? So they have drawn the 30 children. There's 4 here in a tent, another 4 in a tent, another 4 in a tent, like that there's children. So in 30, there's 1, 2, 3, 4, 5, 6, 7 lots of 4s and 2 remainders. Now if you think about it, no, that's not going to be 2.",00:23:08
+gviznml,201,student,No.,00:23:33
+gviznml,202,tutor,"Would it be right to leave the 2 children without a tent? No, right? So you need to get a 10 for those 2 children as well. And that makes it 8 tens. Okay?",00:23:33
+gviznml,203,student,Yeah.,00:23:45
+gviznml,204,tutor,"Yeah, so like that, sometimes you might need to use your remainders differently. So there are some situations. Now how about we try out the ""your turn"" part? We'll see what we have to do in that example.",00:23:47
+gviznml,205,student,"4, 1, 2, 3, 4, 5, 6, 7, 8. How many is here? [unclear]",00:24:02
+gviznml,206,tutor,"2 times 5, 10, 11.",00:24:13
+gviznml,207,student,"Yeah. So 34 divided by 6 equals 5, and remainder is 4. So the answer is 5 remainder 4.",00:24:17
+gviznml,208,tutor,"No, that is not what they're asking. Can you read this part? Blank?",00:24:39
+gviznml,209,student,"Oh, full plates. You will need 6 full plates.",00:24:45
+gviznml,210,tutor,No. How many full plates of biscuits are going to be there?,00:24:51
+gviznml,211,student,"You'll need 6 full plates because you want 3, 4, and 5 bits of cake.",00:24:57
+gviznml,212,student,Here.,00:25:06
+gviznml,213,tutor,"Now here's the thing, Tobias. They're not asking for how many plates he'll need. They're asking how many plates are full. Here is the part.",00:25:06
+gviznml,214,student,5 plates are full.,00:25:18
+gviznml,215,tutor,"Yes, exactly. How many full plates can he make? So 5 plates only. So can you put 5 as the answer here? [unclear]",00:25:21
+gviznml,216,tutor,And where did the remainder go here? The remainder is still there. Shall we put it here? Awesome.,00:25:45
+gviznml,217,tutor,"Right. So now, now did you understand how we— [unclear] Now did you understand how I had to get an extra 10 for the 2 children here, but you, you were only looking for how many plates were full. And in different scenarios, you have to do the questions differently, right?",00:25:57
+gviznml,218,student,Uh-huh. Uh-huh.,00:26:18
+gviznml,219,tutor,Okay. So can we do the next question? Shall we try out Part A?,00:26:20
+gviznml,220,tutor,"Read the question out loud, please.",00:26:26
+gviznml,221,student,Which of 33 divisions have a remainder of 2?,00:26:28
+gviznml,222,tutor,"Remember to put the 1 pounds in. And, yeah.",00:26:34
+gviznml,223,student,That one.,00:26:41
+gviznml,224,tutor,I'm going to cross out each one that has a remainder of 2 in.,00:26:44
+gviznml,225,student,"2, okay. [unclear]",00:26:49
+gviznml,226,tutor,Is that it?,00:26:54
+gviznml,227,student,No.,00:27:04
+gviznml,228,tutor,Or do we have any— okay. How did you know those 3 had remainders of 2?,00:27:04
+gviznml,229,student,Because I know my times tables.,00:27:10
+gviznml,230,tutor,"Okay, very good. That's great to hear. Awesome. So shall we try out Part B now? Sure. [unclear]",00:27:13
+gviznml,231,tutor,Yeah?,00:27:30
+gviznml,232,student,"Yeah? Oh, and if I have 40 meters of bunting for school fair, what length of bunting will I have left over if I cut [unclear]",00:27:33
+gviznml,233,tutor,18 children to take to a school football match.,00:27:54
+gviznml,234,student,Let's wait. Hold on a second. Shall we just talk about how— what is this answer?,00:28:00
+gviznml,235,background,34 meters.,00:28:04
+gviznml,236,student,How did you get that answer?,00:28:08
+gviznml,237,background,You have to move through the— [unclear],00:28:09
+gviznml,238,tutor,Can you explain to me?,00:28:12
+gviznml,239,student,Minus 6 by 4.,00:28:14
+gviznml,240,tutor,"No, that is not what we have to do here. See, it says he has 40 meters of bunting. He wants to cut 6-meter pieces. So how many 6-meter pieces can he cut from the 40 meters?",00:28:18
+gviznml,241,student,"Uh... 6... 2... 4... 6... 12, 18, um, 24, um, 30. He can cut 5.",00:28:33
+gviznml,242,tutor,"What about— I think he can cut, he can cut some more, more than 5. Just— [unclear]",00:28:51
+gviznml,243,student,He can cut 6.,00:28:57
+gviznml,244,tutor,"Uh, I guess. And after he cut 6, how many, uh, meters does he have left over is what they're asking. [unclear]",00:28:58
+gviznml,245,student,I don't know.,00:29:13
+gviznml,246,tutor,So how much is 6 pieces of 6 meters?,00:29:17
+gviznml,247,student,"6, 12, 18, 24, 30. He'll have 4 left over.",00:29:21
+gviznml,248,tutor,"He'll have 4 left over. So you have to be very careful when you read the question because that is what they were asking. You for? How many meters of bunting he has left over, right?",00:29:32
+gviznml,249,student,Yeah.,00:29:45
+gviznml,250,tutor,"Okay. Okay, can you read this question carefully now? [unclear] How did you get the answer as 5?",00:29:46
+gviznml,251,student,"Because 4 times 4 equals 16. Basic maths. And then there's 2 left over, and it wouldn't be fair if they didn't take that 2.",00:29:57
+gviznml,252,tutor,"Exactly, good thinking. That's a brilliant explanation. So, very good. Shall we do Part D?",00:30:10
+gviznml,253,student,"Yeah, sure. It takes 7 minutes to make a pom-pom. How many complete pom-poms can be made in 30 minutes? [unclear] 7, 14, 21, 28, 4... [unclear]",00:30:19
+gviznml,254,tutor,"Yeah, so you can only make 4 pom-poms, right?",00:30:39
+gviznml,255,student,Ah.,00:30:43
+gviznml,256,tutor,"Okay, good working. Okay, so with that we're gonna move on to the next question to see what it is about. Shall we read it out?",00:30:43
+gviznml,257,background,"Yeah, Tara is thinking of a 2-digit number. When it's divided by 5, the remainder is 2.",00:30:53
+gviznml,258,student,"is a... when it's divided by 8, the remainder is 1. What number could she be thinking of?",00:30:53
+gviznml,259,background,"I don't know, Tutor.",00:30:53
+gviznml,260,tutor,What do you think?,00:31:16
+gviznml,261,background,Hmm... so...,00:31:18
+gviznml,262,student,Yeah.,00:31:22
+gviznml,263,background,"When it's divided by 5, the remainder is 2. So something divided by 5 is 2. It's a 2-digit number, so it...",00:31:23
+gviznml,264,tutor,Has to be 12.,00:31:34
+gviznml,265,student,12?,00:31:37
+gviznml,266,tutor,Yeah.,00:31:38
+gviznml,267,student,"Um, uh, you go up to each one?",00:31:43
+gviznml,268,tutor,The answer is 12.,00:31:48
+gviznml,269,student,"So it goes 3, 4?",00:31:50
+gviznml,270,tutor,"Okay, so I'm going to divide 12 by 5, and yes, the remainder is 2. But if I divide 12 by 8, The remainder is not 1.",00:31:52
+gviznml,271,student,"It's 4, isn't it?",00:32:02
+gviznml,272,tutor,"What? Yes, that is 4. So that is not it then.",00:32:04
+gviznml,273,student,"So the 1, 2...",00:32:09
+gviznml,274,tutor,How can you find the number?,00:32:14
+gviznml,275,student,"So a 2-digit number divided by 4... [unclear] [Speaker] Is it 10? No, it can't be a 2-digit number because 10 divided by 8, the remainder is 2, and that's the smallest number you can write.",00:32:18
+gviznml,276,tutor,"Okay, so yes, so here [unclear]",00:32:50
+gviznml,277,student,"Is it 27? 27 wouldn't give you, right? No, 27 wouldn't be the one. See, do this and see. I'm going to give you one example, okay? To see all of the numbers that give you a remainder of 2 when divided by 5. You get the 5 times table. Okay.",00:32:54
+gviznml,278,student,Oh yeah. [unclear],00:33:27
+gviznml,279,tutor,"And add 5 to it. Sorry, add 2 to it because the remainder is 2. So 5 2 is 7. 10 2 is 12. Right? Like that, when you add 2 to this number, the multiple, And if you divide it, you get a remainder of 2, right? Do you?",00:33:31
+gviznml,280,student,Uh...,00:33:49
+gviznml,281,tutor,"So, these are all [UNCLEAR].",00:33:50
+gviznml,282,student,No.,00:33:50
+gviznml,283,tutor,"If you divide these numbers by 5, don't you get a remainder of 2?",00:33:54
+gviznml,284,student,Yeah.,00:33:59
+gviznml,285,tutor,"Yeah. And like that, get to the 8 times table.",00:34:00
+gviznml,286,student,Uh...,00:34:05
+gviznml,287,tutor,"Divide by 8. And see what are the numbers. So you have to add 1 and see the numbers that would give you a remainder of 1, right? So how much do you need to add here? [unclear]",00:34:07
+gviznml,288,tutor,"If you have a talking bat in our place, can you put your [UNCLEAR]?",00:34:27
+gviznml,289,student,"Is it, uh, if I add 1 here, 9 divided by 8 gives me a remainder of 1, don't it?",00:34:27
+gviznml,290,tutor,Yeah. [Speaker] Yeah. Now I'm going to add 1 to all of the numbers and see these are the numbers that give me— gives me— [unclear],00:34:43
+gviznml,291,tutor,The answer is 17. 17. 17. [Speaker] And how did we come to that conclusion?,00:34:50
+gviznml,292,tutor,Because 17 is in both sections here. 17 is in both sections.,00:34:58
+gviznml,293,student,That is exactly what we need to do here. Right? So shall we just go through this again? How did we get this answer?,00:35:05
+gviznml,294,student,17 is in both sections.,00:35:13
+gviznml,295,tutor,"Yeah, how did I get 17 in the first place?",00:35:17
+gviznml,296,student,"By getting all the... [unclear] By getting all the things that if we divide by 5, it's 1, it's 2, and divided by 8 is 1. [unclear]",00:35:23
+gviznml,297,tutor,"Yes, exactly, right? So like that you need to come up with the answers that do give you that specific remainder. Okay, so that is what we do, we need to do in these type of questions. Is that clear how we got this answer now?",00:35:40
+gviznml,298,student,Yes.,00:35:56
+gviznml,299,background,Yes.,00:35:57
+gviznml,300,tutor,Okay.,00:35:59
+gviznml,301,tutor,"Right. So then that is about it, and we will— okay. Sorry. Yeah. So we don't have time to go on to the next lesson, right? So what we are going to do is— have we summarized what we've done in this lesson so far? [unclear] So we're going backwards that way, so then it will be 1.2, and this one you move it back 2.",00:36:02
+gviznml,302,tutor,"Yeah, what other things we learned here?",00:36:35
+gviznml,303,student,"We learned about remainders. [unclear] We learned about remainders, multiple, Those multi things.",00:36:39
+gviznml,304,tutor,Multiples.,00:36:57
+gviznml,305,student,"Yeah. And some— that thing where you times num— factors, factors.",00:36:58
+gviznml,306,tutor,Mm-hmm. [unclear],00:37:10
+gviznml,307,background,Why are you here?,00:37:10
+gviznml,308,tutor,"And the factors, yes, we learned about factors as well. All right, so those are some of the things we learned. Very good job in summarizing them. Let me mark this as completed. Hold on a second. Wait. Okay, so now before we wrap it up, I mean the session, before we wrap up the session for the day, I want you to remember to go through the post-session feedback form and the post-session questions. Okay?",00:37:11
+gviznml,309,student,[unclear],00:37:43
+gviznml,310,tutor,I can't hear you.,00:37:44
+gviznml,311,student,Hello?,00:37:49
+gviznml,312,tutor,I can't hear you. [unclear],00:37:50
+gviznml,313,student,I can hear you. Hello?,00:37:52
+gviznml,314,tutor,Hello?,00:37:55
+gviznml,315,student,Yes? Hello?,00:37:55
+gviznml,316,tutor,"Oh, now I can hear you.",00:37:57
+gviznml,317,student,"Yeah, so I want you to go through the position feedback form and the position question. Okay?",00:38:00
+gviznml,318,tutor,"Yeah, I see.",00:38:07
+gviznml,319,student,"Okay, so yes, do that and",00:38:09
+gviznml,320,tutor,"Yeah, so that will be it for the day. Do you have any questions before we wrap it up then?",00:38:13
+gviznml,321,student,"No, goodbye.",00:38:18
+gviznml,322,tutor,"Okay, so then yeah, goodbye. Please try out the position feedback form, all right?",00:38:20
+gviznml,323,background,Bye.,00:38:25
+gviznml,324,tutor,"And of course, okay, bye.",00:38:27
+gviznml,325,background,Bye.,00:38:33
+gviznml,326,tutor,Bye. See you next week then.,00:38:34
+gviznml,327,background,See you next week.,00:38:36

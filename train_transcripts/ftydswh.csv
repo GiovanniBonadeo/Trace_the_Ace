@@ -1,0 +1,356 @@
+session_id,utterance_id,role,content,timestamp
+ftydswh,0,tutor,Hello? Hello? Hello? Hi?,00:00:00
+ftydswh,1,tutor,Hello.,00:00:17
+ftydswh,2,student,"Hi, Tobias. How are you?",00:00:18
+ftydswh,3,tutor,Hi.,00:00:19
+ftydswh,4,student,How are you?,00:00:22
+ftydswh,5,tutor,"Good, thank you.",00:00:24
+ftydswh,6,student,You're welcome. And how has your day been so far?,00:00:26
+ftydswh,7,tutor,Great.,00:00:30
+ftydswh,8,student,"Great. Okay. And what were you doing today? Oh, like, like, how did you spend your day at school? Would you like to share that?",00:00:31
+ftydswh,9,tutor,"Uh, we're learning about World War II in history.",00:00:40
+ftydswh,10,tutor,"Okay, and what else did you do today?",00:00:45
+ftydswh,11,student,We did... we did maths.,00:00:50
+ftydswh,12,tutor,"You did maths? Okay, great. And what did you have for lunch?",00:00:54
+ftydswh,13,student,I had chicken.,00:01:02
+ftydswh,14,tutor,"Chicken, okay, great. And are you ready and excited for the session?",00:01:05
+ftydswh,15,student,Yeah.,00:01:11
+ftydswh,16,tutor,"Okay, so let's start with it, okay?",00:01:13
+ftydswh,17,student,Okay.,00:01:15
+ftydswh,18,tutor,"So what do you think, what are we going to discuss for today?",00:01:17
+ftydswh,19,student,"Uh, about dividing using short division.",00:01:22
+ftydswh,20,tutor,"Yes, we did multiplying two-digit number using long multiplication last time, right? So today what we'll do, we'll learn dividing using short division with exchange. So what do you know about short division?",00:01:28
+ftydswh,21,tutor,Could you give me a brief idea about it? What do you know already about it?,00:01:45
+ftydswh,22,student,I know that you— so— [unclear] I don't know how to explain it.,00:01:50
+ftydswh,23,tutor,"Okay, in short, division— first of all, can you tell me, division, what are the 3 terms that we need? What are the 3 terms? [unclear] The dividend, the divider.",00:01:59
+ftydswh,24,student,"Yes, divisor. And the answer is called?",00:02:17
+ftydswh,25,background,The subject.,00:02:27
+ftydswh,26,student,"Not the subject, the quotient. What do we call? Quotient. Yeah. So now if I say if the divisor is a one-digit number, then will it be a short division or long division if it's a one-digit number?",00:02:29
+ftydswh,27,student,"Uh, short division.",00:02:45
+ftydswh,28,tutor,"When it's— when a divisor is a two-digit number, then?",00:02:47
+ftydswh,29,student,Then it's a long division.,00:02:51
+ftydswh,30,tutor,Exactly. That's the way to recognize whether the equation is— whether we are solving a short division or a long division. Okay.,00:02:53
+ftydswh,31,tutor,Okay. What about exchange? What do you know about that?,00:03:01
+ftydswh,32,student,Uh... [unclear] I don't know.,00:03:08
+ftydswh,33,tutor,"Okay, no worries. We'll discuss that. So first we have a learning goal question. Could you please read out the question and see how we can work that out?",00:03:15
+ftydswh,34,background,Complete the calculation. [unclear],00:03:23
+ftydswh,35,student,[unclear] [unclear],00:03:26
+ftydswh,36,student,[unclear],00:03:48
+ftydswh,37,student,I'm finished.,00:04:17
+ftydswh,38,tutor,Okay. I want you to explain me. How did you work that out?,00:04:22
+ftydswh,39,student,"Okay, so I worked it out by doing how many 6s are in 1. So there's 0, so you carry on here. So then that becomes 12. And how many 6s are in 12? That's 2. And then you do how many 6s are in 8? And that's 1. And then how many, uh, how many, uh, 6s are in— how many, uh, 6s are in, uh, 24, which is 6. And then it's 216.",00:04:29
+ftydswh,40,tutor,What is 216?,00:04:29
+ftydswh,41,student,The answer.,00:05:12
+ftydswh,42,tutor,And what do we call the answer?,00:05:14
+ftydswh,43,student,The quotient.,00:05:15
+ftydswh,44,tutor,"The quotient. Very well done, that was amazing. Well done, solved it very well. And now what we'll do— but do we carry over? Is it right to say we carry over the one? Are we basically doing—",00:05:17
+ftydswh,45,background,Yeah.,00:05:31
+ftydswh,46,tutor,"Okay, we'll learn what do we do basically, okay? The format is right and what is the reason behind that carryover. Is it actually carryover or do we use any else term for that? Okay, we'll discuss that.",00:05:33
+ftydswh,47,student,Okay.,00:05:47
+ftydswh,48,tutor,"Okay, so let me come to the slide. But before I start with this Let's Learn slide, I want to really applaud you for working out the question very well. So good working out, sticker for you, good job there. Okay, now could you please read out what's written in the Let's Learn slide?",00:05:49
+ftydswh,49,student,We use short division to divide when the divisor is a single digit number.,00:06:08
+ftydswh,50,tutor,"Exactly. So what do you understand from that now? I think that would be clear to you, right?",00:06:16
+ftydswh,51,student,Yeah.,00:06:23
+ftydswh,52,tutor,"What do you understand? Could you give me a brief description about it? I understand that you have to divide with the divisor, and if it's a single digit number, then we have to use short division.",00:06:24
+ftydswh,53,tutor,"Yeah, and the divisor should be which digit number to be a short division?",00:06:43
+ftydswh,54,student,A one digit number.,00:06:49
+ftydswh,55,tutor,One digit number. Very well done. So what is the divisor in this question?,00:06:50
+ftydswh,56,student,5.,00:06:56
+ftydswh,57,tutor,5. And what about the dividend?,00:06:56
+ftydswh,58,student,687.,00:07:00
+ftydswh,59,tutor,"687. Okay, now let's come to the question, okay?",00:07:01
+ftydswh,60,student,Okay.,00:07:06
+ftydswh,61,tutor,So what are they doing here? Can you explain it out to me?,00:07:07
+ftydswh,62,student,"So they're doing a short [unclear] division. And, uh, they did, uh, how many 5s are in 6, which is 1. And then they did how many 5s— and then they, then they carried the 1.",00:07:13
+ftydswh,63,tutor,"Okay, now let's come to that point. So what did they do? So how many hundreds were left? [unclear] 100s, right? So what are we doing with that 100s?",00:07:36
+ftydswh,64,student,We're putting it in the— we're putting it in the tens column.,00:07:51
+ftydswh,65,tutor,But what is the reason behind putting it into the tens column? Why is it— why is the rule to do that? What's the logic behind that? [unclear],00:07:56
+ftydswh,66,student,"Because, uh, Now take a thought and think for a moment. [unclear]",00:08:08
+ftydswh,67,student,I'm not sure.,00:08:21
+ftydswh,68,tutor,"It's okay. See, we left with 100s, right? So if you talk about subtraction, what are we doing here? Basically, we're using the term exchanging. So 100s is— if we exchange that 100 we need to exchange that 100 for how many tens? 100 is the same as how many tens?",00:08:24
+ftydswh,69,student,"Uh, 10 hundreds. I meant 10 tens.",00:08:44
+ftydswh,70,tutor,"10 tens. 100, if you look here, it says 100 is same as 10 tens, right? So what are we doing? We are exchanging that 100 for 10 tens. Earlier, how many tens did we have? [unclear]",00:08:48
+ftydswh,71,student,1.,00:09:05
+ftydswh,72,tutor,"No, earlier in the question, how many tens do we have?",00:09:07
+ftydswh,73,student,[unclear],00:09:11
+ftydswh,74,tutor,"8 tens. And now we have— when we exchange that 100, we got 10 tens. So now altogether, how many tens do we have?",00:09:12
+ftydswh,75,student,"We have, uh, 18 tens.",00:09:22
+ftydswh,76,tutor,"18 tens, because 10 tens add that 8 tens make 18 tens, because we exchange that 100 for 10 tens. Do you understand that concept? What are we doing with— Great. Okay, move forward and explain further.",00:09:26
+ftydswh,77,student,Can you repeat that?,00:09:44
+ftydswh,78,tutor,"Sure, I was saying move forward and explain further. Complete— Let's complete the question now. So now it's 18, 18 tens. What are we doing? What are we going to do with that 18 tens? [unclear]",00:09:46
+ftydswh,79,tutor,"Okay, yeah, can you explain that to me?",00:10:04
+ftydswh,80,student,"So we did how many fardhs are in 18/10, and that's 3, because [unclear] equals 15, and above that is 20, which is above 18, and that can't be right. So then we exchanged",00:10:08
+ftydswh,81,student,3... [unclear],00:10:26
+ftydswh,82,tutor,3 what?,00:10:28
+ftydswh,83,student,3 tens for 30 ones.,00:10:31
+ftydswh,84,tutor,"Exactly, very well done. So now how many ones did we have?",00:10:35
+ftydswh,85,student,Now we have 37 ones. So we see how many fives are in 37.,00:10:40
+ftydswh,86,student,"and that's 7, and the remainder is [UNCLEAR].",00:10:40
+ftydswh,87,tutor,"Very good job. So I'm really happy, Tobias. You were able to do the question before as well, but this time you explained it to me with the logical reason behind doing that. So I'm really impressed by you. You're a really good learner and very attentive in the session, so I want to award you with an Excellent Focus sticker. Well done, dear.",00:11:00
+ftydswh,88,student,Thank you.,00:11:22
+ftydswh,89,tutor,"You're welcome. So now, how would you put the answer here in the A part?",00:11:24
+ftydswh,90,student,We'd write 137.,00:11:29
+ftydswh,91,tutor,Mm-hmm.,00:11:35
+ftydswh,92,student,[unclear] 2.,00:11:35
+ftydswh,93,tutor,"Exactly. Good job, dear. Now, would you give a try for the B part?",00:11:37
+ftydswh,94,student,Yeah.,00:11:43
+ftydswh,95,tutor,"Okay, go ahead. And then I want— after completing the question, I want you to explain it to me as well. That's that, okay?",00:11:44
+ftydswh,96,student,Okay.,00:12:05
+ftydswh,97,tutor,Okay. [unclear],00:12:06
+ftydswh,98,student,I'm finished now.,00:12:24
+ftydswh,99,tutor,"Okay, now I'm eager to hear how did you solve it.",00:12:26
+ftydswh,100,student,"Okay, so when— so we did 7 So we did how many 6s are in 7, which is 1, and then we exchanged the 100 for 10, for 4 10s.",00:12:32
+ftydswh,101,tutor,For 10 10s.,00:12:50
+ftydswh,102,student,"Yeah, and then we did, and now the number is 18. So we see how many 6s are in 18, and 6 times 3 is 18, so that is it. And then we see how much by 9, and that's 1, but there's still 3 left over, so we did that for the remainder. So the answer is 131 remainder 3.",00:12:52
+ftydswh,103,tutor,"Very well done. Good job there. I'm super proud of you, the way you attempted the question and worked out so well, so, and explained it very well. So I want to award you with the big thumbs up, and let me draw something special for you. [unclear] Yeah, are you there?",00:13:23
+ftydswh,104,student,Hello?,00:13:50
+ftydswh,105,tutor,"Yeah, are you there?",00:13:51
+ftydswh,106,student,"Yeah, I'm there.",00:13:52
+ftydswh,107,tutor,"Okay, a smiley sticker for you. Well done. Thank you.",00:13:54
+ftydswh,108,tutor,"You're welcome. Now what we'll do, I think you're very much clear with the concepts, right? [unclear] Practice some of the questions, okay? And we'll not waste more time and we'll go with the practice slide. Okay, now let's see how would we solve these type of questions. Okay, go ahead with the first one.",00:13:58
+ftydswh,109,student,Calculate the following using the formal method of short,00:14:15
+ftydswh,110,background,"6,613 divided by 5. [unclear]",00:14:22
+ftydswh,111,tutor,"Okay, that we need to write at the right below. Yes, that 6,613 should be written below the line, not at the top. At the top, we'll write whatever is the answer, whatever is the question quotient. Okay? [unclear] Okay.",00:14:47
+ftydswh,112,tutor,Let's do it.,00:15:07
+ftydswh,113,student,"So how many, uh, 5 6? 1. And then you put the leftover 1 here. And exchange it for— exchange the hundredths for, uh, 10— no, exchange the thousandths for, uh, 10 hundredths.",00:15:08
+ftydswh,114,tutor,"Exactly, very good job.",00:15:28
+ftydswh,115,student,"And, and how many fives are in, uh, 16?",00:15:30
+ftydswh,116,tutor,Now how many hundredths do we have?,00:15:35
+ftydswh,117,student,16.,00:15:39
+ftydswh,118,tutor,So how many now five hundredths can go in that 16 hundredths?,00:15:41
+ftydswh,119,student,"Yeah, and that is a 3, and then there's the left, the left of the 1. We exchange the 100 for 10 tens, which makes that 11. And then 5 times 2 equals 10, and you can't go above that because it would be more than 11. So we put the 10 there. Wait, no. You don't do that. You put the 2 there. [unclear] And then carry the 1 here.",00:15:47
+ftydswh,120,tutor,Do we carry the 1? How do we say that? You exchange the one.,00:16:36
+ftydswh,121,tutor,One what?,00:16:40
+ftydswh,122,student,You exchange the one ten into what? Ten ones.,00:16:42
+ftydswh,123,tutor,Exactly.,00:16:47
+ftydswh,124,student,"Then we do [unclear] 5 sign 13, which is 2, and the remainder is 3.",00:16:51
+ftydswh,125,tutor,Exactly. Let's put the answer as well. [unclear],00:17:03
+ftydswh,126,tutor,"What was the dividend in the question, Tobias?",00:17:12
+ftydswh,127,student,"The 6,630.",00:17:16
+ftydswh,128,tutor,"Exactly, good job there. Okay, shall we move ahead with the next part now and solve that as well?",00:17:23
+ftydswh,129,student,Yeah.,00:17:29
+ftydswh,130,tutor,"Okay, go ahead. All the best. So there's no 4s in 3, so we have to exchange the 3,000s into 300s. [unclear]",00:17:30
+ftydswh,131,tutor,"3,000s into how many hundreds?",00:18:14
+ftydswh,132,student,3.,00:18:20
+ftydswh,133,tutor,300s?,00:18:20
+ftydswh,134,student,"No, 300s.",00:18:23
+ftydswh,135,tutor,"No. 1,000 is same as how many hundreds?",00:18:28
+ftydswh,136,student,"Um, oh, 3,000 hundreds.",00:18:32
+ftydswh,137,tutor,"First, can you answer me? 1,000 is same as how many hundreds?",00:18:36
+ftydswh,138,student,"Uh, 100.",00:18:41
+ftydswh,139,tutor,"1,000 is same as 100? That means 1,000 is same as 100. Or 1,000 would be same as how many hundreds?",00:18:44
+ftydswh,140,student,"1,000 would be the same as 100 hundreds.",00:18:54
+ftydswh,141,tutor,"Okay, 100 is same as how many tens?",00:19:05
+ftydswh,142,student,10.,00:19:10
+ftydswh,143,tutor,"10 tens. So 1,000 is same as how many hundreds?",00:19:12
+ftydswh,144,student,"Oh, 10.",00:19:15
+ftydswh,145,tutor,"10 hundreds, exactly. So now if it's 3,000, 3,000 is same as how many hundreds?",00:19:17
+ftydswh,146,student,The same as 30 hundreds.,00:19:24
+ftydswh,147,tutor,"30 hundreds, exactly. So earlier, how many hundreds did we have?",00:19:27
+ftydswh,148,student,30.,00:19:33
+ftydswh,149,tutor,Earlier in the question.,00:19:35
+ftydswh,150,student,"Oh, 2.",00:19:36
+ftydswh,151,tutor,2 hundreds. And now we'll have 300 more— 30 hundreds more. So altogether it would make how many hundreds?,00:19:39
+ftydswh,152,student,"3,200.",00:19:45
+ftydswh,153,tutor,"3200. Very good job. Okay, now let's solve for [UNCLEAR]. Go ahead.",00:19:47
+ftydswh,154,student,"So we have to— we just have to work out now how many 4s are in 32, which is 4, 8. Then we work out how many 4s are in 6, which is 1.",00:19:54
+ftydswh,155,student,"And then how many 4s? Oh, and then you add the— then you exchange the 20 ones. You exchange the 2 tens into 20 ones. And then you work out how many 4s are in 24, which is 6.",00:20:14
+ftydswh,156,tutor,Mm-hmm. And there's no remainder.,00:20:37
+ftydswh,157,tutor,There's no remainder. Very good job. So what was the difference between the a and the b part?,00:20:41
+ftydswh,158,student,The a one had a remainder and the b one didn't have a remainder.,00:20:49
+ftydswh,159,tutor,Exactly. There's one more difference in the a and the b part. Could you identify that apart from the remainder thing?,00:20:53
+ftydswh,160,background,[unclear],00:21:00
+ftydswh,161,background,That the first one didn't— the first one— the first number couldn't be— couldn't be— [unclear],00:21:05
+ftydswh,162,tutor,"Okay, I got your point. Apart from that, try to think any other difference between them.",00:21:22
+ftydswh,163,tutor,How do you think it's related with exchanging?,00:21:33
+ftydswh,164,student,Uh... the A is in the thousands and the B is in the hundreds.,00:21:38
+ftydswh,165,tutor,"Mm-hmm. Okay. If I talk about how many times did we exchange in the A part and how many times did we exchange in the B part, what would be your answer?",00:21:46
+ftydswh,166,student,We exchanged 2 times in the...,00:21:55
+ftydswh,167,student,"In the B part, and we exchanged 3 times in the A part.",00:21:59
+ftydswh,168,tutor,Exactly.,00:22:05
+ftydswh,169,student,[unclear],00:22:06
+ftydswh,170,tutor,"Yeah, exactly. That could be the one difference, right?",00:22:07
+ftydswh,171,student,Yeah.,00:22:12
+ftydswh,172,tutor,"Good job there. Okay, now what we'll do, we'll move forward with the next slide. But before I move with the next slide, I'm really impressed by you because you solved the questions independently and you did a really good job while explaining these 2 questions. So what I'm gonna do, I want you to close your eyes, okay?",00:22:13
+ftydswh,173,student,Okay.,00:22:34
+ftydswh,174,tutor,"This time it's in the middle of the session, right? You need to close your eyes.",00:22:36
+ftydswh,175,student,Yes.,00:22:42
+ftydswh,176,tutor,Okay. So what do you think? What could be the surprise all about?,00:22:42
+ftydswh,177,student,"Uh, a happy half-term thing.",00:22:49
+ftydswh,178,tutor,"Yeah, you're gonna have your half-term. So what are your plans for that? [unclear]",00:22:54
+ftydswh,179,student,"I'm not sure, but I think we're going to different city.",00:23:00
+ftydswh,180,tutor,"Okay, not decided, but you have a plan that you'll move, you'll go to different city to enjoy. Okay, that sounds cool. Okay, so",00:23:09
+ftydswh,181,tutor,"Okay, on the count of 3, 2, and 1. [unclear] What is it? What do you think? [unclear]",00:23:34
+ftydswh,182,tutor,A smiley face.,00:23:53
+ftydswh,183,student,A smiley sticker.,00:23:55
+ftydswh,184,tutor,"Yeah, yeah, a smiley sticker and it says, ""Amazing, Tobias! Great work! Good job!""",00:23:58
+ftydswh,185,student,"Okay, thank you.",00:24:10
+ftydswh,186,tutor,"You're welcome, Tobias. Now what we'll do, we'll solve a worded problem related with short division, okay?",00:24:11
+ftydswh,187,tutor,"Okay, so let's read out the question. After you read out the question, you need to explain what all is— what all the question says. Okay?",00:24:18
+ftydswh,188,student,"Okay. [unclear] Mrs. Jones has saved £7,284. She said she shares it equally between her 3 grandchildren. How much do they eat? How much do they receive each? [unclear]",00:24:27
+ftydswh,189,tutor,What do you understand from that question now?,00:24:52
+ftydswh,190,student,"I understand that the dividend is 7,284 and the divisor is 3.",00:24:55
+ftydswh,191,tutor,"Yeah, go ahead.",00:25:08
+ftydswh,192,student,Because she's sharing it equally by 3 and the— and yeah.,00:25:12
+ftydswh,193,tutor,"She's sharing equally among the 3 grandchildren, right? 3 grandchildren.",00:25:22
+ftydswh,194,student,Yeah.,00:25:26
+ftydswh,195,tutor,So that means— and how did you know that it's a division calculation and not a multiplication one?,00:25:27
+ftydswh,196,student,Because it says that she shares it equally.,00:25:33
+ftydswh,197,tutor,"Yes, it says it shares equally. Very good job. So I'm really happy the way you identified the important keyword to identify it's a division calculation. So it's a great observation from you and well done.",00:25:39
+ftydswh,198,student,Thank you.,00:25:54
+ftydswh,199,tutor,"You're welcome. Okay, let's move with the division. Go ahead and try to put the numbers. [unclear]",00:25:56
+ftydswh,200,student,[unclear] [unclear],00:26:17
+ftydswh,201,student,[unclear],00:26:22
+ftydswh,202,tutor,"Okay, now how would you solve it? Hello, Tobias, can you hear me? Hello? [unclear]",00:26:34
+ftydswh,203,tutor,me now?,00:26:34
+ftydswh,204,student,Hello?,00:26:55
+ftydswh,205,tutor,"Hello, can you hear me now?",00:26:56
+ftydswh,206,student,"Yeah, I can hear you now.",00:26:58
+ftydswh,207,tutor,"Okay, are you solving it?",00:27:11
+ftydswh,208,student,Yeah.,00:27:13
+ftydswh,209,tutor,"Okay, after solving, then you will explain it to me?",00:27:15
+ftydswh,210,student,Yeah.,00:27:18
+ftydswh,211,tutor,"Okay, take your time. [unclear]",00:27:19
+ftydswh,212,student,[unclear],00:27:46
+ftydswh,213,tutor,[unclear] [unclear],00:27:46
+ftydswh,214,student,[unclear],00:28:03
+ftydswh,215,tutor,[unclear] [unclear],00:28:03
+ftydswh,216,tutor,"Hey, I did it. Can I explain it now?",00:28:13
+ftydswh,217,student,"Yeah, sure, go ahead. I'm waiting for it.",00:28:17
+ftydswh,218,tutor,"So we see it. So first we saw how much, uh, we saw how much, uh, 3 is going to 7, and that's, uh, 2. And then we exchange the 1,000 for 10 hundreds.",00:28:21
+ftydswh,219,student,"And which makes it equal to 12. And how many 3s are in 12? There's 4. And then we did 3 times 2, which is 6. And anything above 2 is bigger than 8. So we have to stay with 2.",00:28:37
+ftydswh,220,student,"And then we exchange it for— exchange the 2 tens for 20 ones. And then we see how many 3s are in 24, which is 7, and then the remainder 3. So 3 times 7, what is 3 times 7?",00:29:02
+ftydswh,221,student,21.,00:29:34
+ftydswh,222,tutor,"Um, 24. Is 24 into 3 times 7? If you add 2 and 4, let's— [unclear]",00:29:37
+ftydswh,223,student,3 times 7 is 21.,00:29:43
+ftydswh,224,tutor,"Yeah, what is 2 add 4?",00:29:45
+ftydswh,225,student,"2 add 4, uh, 6.",00:29:49
+ftydswh,226,tutor,"6. So if we're adding the digits 2 and 4, it's 6. Is 6 into 3 times 7? [unclear]",00:29:51
+ftydswh,227,tutor,"Uh, yeah. So what do you think? 24, is it in the 3 times 7 or not? The divisibility of 3, we discussed that before. How can we check if the number is— it is not in the 3 times 7?",00:29:59
+ftydswh,228,student,"Oh, it's—",00:30:14
+ftydswh,229,student,There's no remainder.,00:30:23
+ftydswh,230,tutor,"There's no remainder, exactly. So if, if she's sharing it equally with the 3 grandchildren, then how can we— how can we get a remainder, right? [unclear] She's sharing the amount equally, right? So what do you think? Because there was no leftover, right?",00:30:24
+ftydswh,231,student,Yeah.,00:30:44
+ftydswh,232,tutor,"So there's— so, so how much does each grandchildren get?",00:30:44
+ftydswh,233,student,"2,428 pounds.",00:30:51
+ftydswh,234,tutor,Very well then. So how would you write that then as the answer there? [unclear],00:30:55
+ftydswh,235,background,I think there's something missing out. What do you think? [unclear],00:31:07
+ftydswh,236,student,I'm not sure.,00:31:17
+ftydswh,237,tutor,"The numbers are right. I'm really impressed you remembered to put the pound symbol, but still we are missing out something in that number. Find the thing. Take a moment.",00:31:30
+ftydswh,238,student,Is it the comma?,00:31:42
+ftydswh,239,tutor,"Exactly, that's the comma. And why is it important to put the comma? Do you remember the reason we discussed, the logical reason behind it?",00:31:45
+ftydswh,240,student,"Uh, to show the amounts.",00:31:54
+ftydswh,241,tutor,"The amounts. Okay, there was a reason. Let me see if we have a place value chart. Yeah. Like, this is a place value— let's suppose that this is the place value chart, right? So basically, how many groups are there in a place value chart? These are the columns. [unclear] Yes, can you name the 3 groups that we discussed?",00:31:57
+ftydswh,242,student,"Uh, thousand— no, the thousand group.",00:32:19
+ftydswh,243,tutor,Yeah.,00:32:24
+ftydswh,244,student,The hundred group and the one—,00:32:24
+ftydswh,245,tutor,Hundred?,00:32:27
+ftydswh,246,student,"No, the thousand group and the one—",00:32:28
+ftydswh,247,tutor,And there's one more group we discussed.,00:32:32
+ftydswh,248,student,And the million group.,00:32:34
+ftydswh,249,tutor,"The millions group, exactly. So to separate the groups, we put the comma there, right?",00:32:35
+ftydswh,250,background,Yeah.,00:32:41
+ftydswh,251,tutor,"Amazing, good job, [UNCLEAR]. Okay, Tobias, so we are done with this lesson. So now it's time for us to do a quick recap, okay? So can you please tell me what all did you learn or what all did we discuss in this lesson about this topic? [unclear]",00:32:42
+ftydswh,252,tutor,"Sure, let me go ahead. Yeah.",00:33:00
+ftydswh,253,student,Here we go. Do you want to stay on this slide or do you want me to go ahead? [unclear],00:33:17
+ftydswh,254,tutor,"Yeah, go. Yeah, stay on this slide.",00:33:32
+ftydswh,255,student,"Stay on this slide. Okay, go ahead.",00:33:34
+ftydswh,256,tutor,"So I learned here that you need that when you— so when it's like 5, how many 5s and 6s and it's one, then The leftover is called exchange and is— [unclear]",00:33:36
+ftydswh,257,tutor,"The leftover is not called exchange. Basically, whatever is leftover, we exchange that, right?",00:33:58
+ftydswh,258,student,"Yeah, we exchange it into— when it's 100, we turn into 10 tens.",00:34:06
+ftydswh,259,tutor,What if it's 200?,00:34:13
+ftydswh,260,student,"If it's 200, then you turn into 2 tens. 2010.",00:34:16
+ftydswh,261,tutor,Exactly. Go ahead and explain further.,00:34:22
+ftydswh,262,student,I can't hear you.,00:34:26
+ftydswh,263,tutor,I was saying go ahead.,00:34:28
+ftydswh,264,student,Can I just refresh the page?,00:34:29
+ftydswh,265,tutor,"Hello, can you hear me?",00:34:30
+ftydswh,266,student,Can I just refresh the page?,00:34:32
+ftydswh,267,tutor,"Sure, sure, refresh the page.",00:34:34
+ftydswh,268,student,Hello?,00:34:40
+ftydswh,269,tutor,Can you hear me now?,00:34:41
+ftydswh,270,student,"Yeah, I can hear you.",00:34:43
+ftydswh,271,tutor,"Okay. Yeah, I was saying try to explain further. You were going ahead.",00:34:44
+ftydswh,272,tutor,"So, what if it's 1,000?",00:34:50
+ftydswh,273,student,"If it's 1,000, then you turn it into 10 hundredths.",00:34:59
+ftydswh,274,tutor,"Turn it into 10 hundredths. Well done. Okay, what about the answer? Like here, the answer was 137 with remainder 2. So what are you going to call that?",00:35:05
+ftydswh,275,student,We're gonna call it the quotient.,00:35:16
+ftydswh,276,tutor,"The quotient. Well done. Okay, now what we'll do— you've recalled very well all of the things, so I want to award you with the big thumbs up for explaining all the things out so well to me.",00:35:19
+ftydswh,277,student,Thank you.,00:35:31
+ftydswh,278,tutor,You're welcome. Now we'll move ahead with the new lesson as we have already discussed that. Okay?,00:35:32
+ftydswh,279,student,Okay.,00:35:37
+ftydswh,280,tutor,So let's see what is— okay. What is the new lesson? Could you please read it out?,00:35:38
+ftydswh,281,student,Solving multi-step addition and subtraction problems.,00:35:43
+ftydswh,282,tutor,What do you understand by the term multi-step?,00:35:48
+ftydswh,283,student,"Uh, I've not heard of it before.",00:35:53
+ftydswh,284,tutor,"You've not heard it? Okay, so this whole lesson would be all about multi-steps, okay? And trust me, it's quite easy, okay?",00:35:58
+ftydswh,285,background,"Okay. Okay, so I want you to read out what is written in the slide. Can you read out the learning goal question?",00:36:05
+ftydswh,286,student,"A bookshop has 1,400... [unclear]",00:36:16
+ftydswh,287,tutor,"Yeah, yeah, could you please read out again?",00:36:25
+ftydswh,288,tutor,"Hello, Tobias, can you hear me? Hello? Can you hear me, Tobias? Hello? Hello? [unclear]",00:36:34
+ftydswh,289,tutor,"Hello, can you hear me now?",00:37:01
+ftydswh,290,student,[unclear],00:37:03
+ftydswh,291,tutor,"Wait a second, maybe I can. Hello?",00:37:04
+ftydswh,292,student,Can you hear me?,00:37:12
+ftydswh,293,tutor,"Yeah, I can hear you. Can you?",00:37:14
+ftydswh,294,background,Hello?,00:37:16
+ftydswh,295,tutor,"Hello, can you hear me?",00:37:17
+ftydswh,296,background,Hello?,00:37:21
+ftydswh,297,tutor,"I can't hear you. Hello? Okay, I can't hear you, but— [unclear]",00:37:23
+ftydswh,298,tutor,Hello? Can you hear me now? Hello? Can you hear me now?,00:37:34
+ftydswh,299,student,"Yeah, I can hear you now.",00:37:41
+ftydswh,300,tutor,"Okay, yeah. So can you please read out the learning goal question? Let me open it out for you. A bookshop has 1,432 books in the morning. They receive a delivery of 737 more books and sell 687 books. How many books are left at the end of the day?",00:37:43
+ftydswh,301,tutor,"Exactly. Now, what do you understand from that question?",00:38:07
+ftydswh,302,student,"The— the— I think the— You have to add 100— no, 1,432 and 777, and then you take away that answer by 687— [unclear] 686.",00:38:12
+ftydswh,303,tutor,"Very good job. So let's do that, okay?",00:38:34
+ftydswh,304,student,"Okay, so one— 1,432 and 737 is... [unclear]",00:38:39
+ftydswh,305,tutor,Are you doing it on your whiteboard?,00:39:03
+ftydswh,306,student,Yeah.,00:39:10
+ftydswh,307,tutor,"Okay, no worries. [unclear]",00:39:11
+ftydswh,308,student,"It is 2,169.",00:39:32
+ftydswh,309,tutor,And then you have to take away by 687. So 2169 take away— take away— [unclear] take away 686. [unclear] Which is 1483. So the answer is 1483.,00:39:38
+ftydswh,310,tutor,Very good job. So how many steps? Okay. Are you done with the answer or is it something— did you mess up?,00:40:16
+ftydswh,311,student,Finished.,00:40:24
+ftydswh,312,tutor,"You finished? Okay, but I think, Tobias, there's something that you missed out again with the numbers.",00:40:28
+ftydswh,313,student,"Oh, the comma.",00:40:37
+ftydswh,314,tutor,"The comma, exactly. That was my point. So let's put out the number. It was 1,483, right?",00:40:39
+ftydswh,315,background,[unclear],00:40:49
+ftydswh,316,student,Yeah.,00:40:49
+ftydswh,317,tutor,Great. So how many steps did we do to solve this question?,00:40:50
+ftydswh,318,student,"Uh, we did 2.",00:40:55
+ftydswh,319,tutor,2 steps. And what were those 2 steps? One was the...?,00:40:57
+ftydswh,320,student,1432 adds 737.,00:41:01
+ftydswh,321,tutor,"So one was the addition, right? And the other one was?",00:41:07
+ftydswh,322,student,"Yeah, and that one was subtraction.",00:41:09
+ftydswh,323,tutor,"Exactly. So that's only called a multi-step. That means it involves multiple steps. So we had more than one step. So if it is more than one step, that's called a multi-step problem where we can have addition and subtraction, a mixture of both. So that's called a multi-step problem. Are you clear with the term now? What is [UNCLEAR]?",00:41:12
+ftydswh,324,student,Yeah.,00:41:32
+ftydswh,325,tutor,"That's great. Yeah. Okay. Okay. So Tobias, I think we'll not be able to complete the Let's Learn slide because just— we just left with the 2 minutes, right? So what we'll do—",00:41:34
+ftydswh,326,student,"Yeah. We'll just take an overview of the statement that's written here, okay?",00:41:46
+ftydswh,327,student,Okay.,00:41:53
+ftydswh,328,tutor,"Okay, please read it out.",00:41:53
+ftydswh,329,student,How does help visualise a problem and show in which calculations are needed? A factory has 150 [UNCLEAR].,00:41:54
+ftydswh,330,tutor,"No, we don't— that's the question first. We'll do it because we'll not be able to complete that in a minute, right? So we'll do that later. Just explain what you understand from the green box.",00:42:04
+ftydswh,331,student,I understand the bar models can be easy if you want to add.,00:42:14
+ftydswh,332,tutor,"If you want to do the calculations which involves addition and subtraction or a multi-step problem, right? So can you see any bar model here?",00:42:24
+ftydswh,333,student,Yeah.,00:42:34
+ftydswh,334,tutor,"Yes, we have. Yeah, that's the bar model. Well done. So we'll see now how would we use these bar models and how would we make those bar models to solve these questions. Questions like these. Okay?",00:42:35
+ftydswh,335,student,Okay.,00:42:47
+ftydswh,336,tutor,So do you have any doubts in this part that we discussed here?,00:42:49
+ftydswh,337,student,No.,00:42:54
+ftydswh,338,tutor,"Okay, that's great. And I'm really happy the way you were very attentive and you did an amazing working out. So a good working out sticker for you. And before I end the session, I have a last surprise for you. Okay?",00:42:55
+ftydswh,339,background,Another one?,00:43:09
+ftydswh,340,tutor,Another one.,00:43:10
+ftydswh,341,tutor,"Exactly. Okay, so what do you need to do for that?",00:43:12
+ftydswh,342,student,Close my eyes.,00:43:16
+ftydswh,343,tutor,You need to close your eyes. So go ahead and please close your eyes. Now what do you think first what could be?,00:43:18
+ftydswh,344,student,[unclear] idea.,00:43:34
+ftydswh,345,tutor,What did you say?,00:43:40
+ftydswh,346,student,The whole [unclear] thing.,00:43:43
+ftydswh,347,tutor,Okay.,00:43:45
+ftydswh,348,tutor,"Okay, on the count of 3, 2, and 1, go ahead. What is it?",00:44:10
+ftydswh,349,student,"You are intented in the session and very [UNCLEAR]. Focus, keep the same fast.",00:44:24
+ftydswh,350,tutor,"You're very attentive in the session. Yeah, and it's my [unclear] and very focused. So keep the same fast, keep the same efforts. Okay?",00:44:32
+ftydswh,351,student,Okay.,00:44:40
+ftydswh,352,tutor,"Okay, Tobias, now it's time to say a goodbye. So all the very best for the quiz questions, and you know to fill the feedback forms. I would be excited to read out your comments. Great. Okay, Tobias. Bye-bye.",00:44:42
+ftydswh,353,student,"Okay. Bye. Take care. Have a lovely day. See you next week. Good weekend. Enjoy your term, half term. Okay? And we'll be back next week. Yeah, you'll see in some of the weeks. So once you'll be back, we'll know how was your trip and we'll continue with the lesson, right?",00:44:56
+ftydswh,354,student,"Okay. Okay, bye-bye. Bye-bye.",00:45:14

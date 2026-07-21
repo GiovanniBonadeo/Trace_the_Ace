@@ -1,0 +1,318 @@
+session_id,utterance_id,role,content,timestamp
+fjagyma,0,tutor,Hello.,00:00:00
+fjagyma,1,background,[unclear],00:00:00
+fjagyma,2,student,Hello.,00:00:00
+fjagyma,3,tutor,"Hi, Callum. Welcome back to the session. How are you doing today?",00:00:01
+fjagyma,4,student,"I'm good, Tutor.",00:00:04
+fjagyma,5,tutor,I'm doing great as well. Thank you. So are you ready to start the session?,00:00:05
+fjagyma,6,tutor,Yeah.,00:00:12
+fjagyma,7,background,"All right, so we are going to continue from where we stopped the last day, which was working with probabilities in Tableau. Okay. All right, so just to refresh our memory, would you like to try out this question?",00:00:13
+fjagyma,8,tutor,Yeah.,00:00:26
+fjagyma,9,background,Okay. [unclear] Because probabilities add up to 1.,00:00:27
+fjagyma,10,tutor,"Mm-hmm. Yes, exactly. All right. Thank you. So a good start to the lesson. And we can move on to this question over here. Shall we try working this one out?",00:00:40
+fjagyma,11,student,Yeah.,00:00:54
+fjagyma,12,tutor,Let me know if you need any help. [unclear] [unclear],00:00:56
+fjagyma,13,student,"Callum, we're rolling a 6. Wait, we're rolling a 6 for dice roll.",00:01:19
+fjagyma,14,tutor,Okay.,00:01:30
+fjagyma,15,student,Pardon?,00:01:30
+fjagyma,16,tutor,I was just reading the question.,00:01:32
+fjagyma,17,student,"Okay, I'm sorry. [unclear] [unclear]",00:01:34
+fjagyma,18,tutor,Okay. Can I know how you got this answer?,00:02:04
+fjagyma,19,student,"Yeah, I did 6 divided by 30 to do the frequency of an event divided by total number of trials.",00:02:08
+fjagyma,20,tutor,"Pardon? For the— with the formula, the frequency of event divided by number of trials.",00:02:18
+fjagyma,21,tutor,"Okay, so when you divide the frequency by the number of tries, what are the values that you used?",00:02:25
+fjagyma,22,student,6 divided by 30.,00:02:35
+fjagyma,23,tutor,Why 6 divided by 30? [unclear],00:02:38
+fjagyma,24,student,"Because I put 6 over 30 because the— oh wait, the 6 isn't the frequency of the event. [unclear] Oh, is it 30 divided by 6?",00:02:51
+fjagyma,25,tutor,"So once again, what's the formula to find the relative frequency?",00:03:13
+fjagyma,26,student,Frequency of an event divided by number of trials.,00:03:18
+fjagyma,27,tutor,"Yes, okay. So what's the frequency of getting 6 in this dice [UNCLEAR]? What's the number of times that you get 6? 30. So [unclear] if you do 30 divided by all of them added together. Exactly.",00:03:22
+fjagyma,28,tutor,Shall we work it out? Yeah.,00:03:48
+fjagyma,29,student,"60, 76, 79. So",00:03:54
+fjagyma,30,tutor,we're only talking about dice 4 here.,00:04:02
+fjagyma,31,tutor,Oh. [unclear],00:04:18
+fjagyma,32,student,30 divided by 200 for that one.,00:04:18
+fjagyma,33,tutor,"Yes, exactly.",00:04:18
+fjagyma,34,student,Okay.,00:04:37
+fjagyma,35,tutor,"All right, so nice job figuring that out. So here you will be getting 2 marks, and 1 mark for attempting the formula and 1 mark for the final answer. All right.",00:04:38
+fjagyma,36,tutor,Okay.,00:04:58
+fjagyma,37,student,"Okay, so shall we move on to next part?",00:04:59
+fjagyma,38,tutor,Yeah.,00:05:02
+fjagyma,39,student,Okay. [unclear] [unclear],00:05:03
+fjagyma,40,tutor,So can I know the reasoning behind your,00:05:47
+fjagyma,41,tutor,"Yeah. So dice 2 have got 100 when rolling 1 to 5, and dice 4 has got 170 when rolling 1 to 5, which is a lot bigger than any of the other numbers. [unclear]",00:05:52
+fjagyma,42,student,"All right. Yes, so your argument is correct, but over here, What about the numbers? So let's say for an example, dice 4. How many times would you get a 6? [unclear] And how many times would you get, let's say, a 4 or a 5?",00:06:09
+fjagyma,43,student,"170. Yes, so that's the total number of— [unclear] Yes, for any of the numbers, for maybe for 1, 2, 3, or 4, or 5. For all those 5 numbers, the frequency is 170. All right.",00:06:40
+fjagyma,44,student,Okay. So then would this be called biased?,00:07:07
+fjagyma,45,student,No.,00:07:13
+fjagyma,46,tutor,"So let's say now this 170, let's say it's divided equally among the 5 numbers, then what would be the frequency of one number? [unclear] Yeah, so would that be a biased one?",00:07:16
+fjagyma,47,student,Oh yeah. No. No.,00:07:34
+fjagyma,48,tutor,What would it be? Would it be a biased dice or an unbiased one?,00:07:40
+fjagyma,49,student,"No, I don't think so.",00:07:44
+fjagyma,50,tutor,Mm-hmm. Yes. And what about the others? So what about Dice 2? Why did he choose Dice 2? [unclear],00:07:45
+fjagyma,51,tutor,"So wait, so would it just be, would it be dice 2 and 4, but because you get 36s for each?",00:08:08
+fjagyma,52,student,"36s for each. So now, We decided that dice 4 is unbiased.",00:08:21
+fjagyma,53,tutor,"Oh, okay.",00:08:30
+fjagyma,54,background,Don't you think so?,00:08:30
+fjagyma,55,tutor,Yeah.,00:08:32
+fjagyma,56,background,You can say your answer. You can give me your explanation and we can discuss this. So what do you think? [unclear],00:08:35
+fjagyma,57,tutor,I think...,00:08:45
+fjagyma,58,student,I think it's biased.,00:08:51
+fjagyma,59,tutor,You think the dice 4 is biased?,00:08:53
+fjagyma,60,student,Yeah.,00:08:56
+fjagyma,61,tutor,"All right, so what's the reason behind you thinking that dice 4 is biased?",00:08:57
+fjagyma,62,student,"Because you rolled a 1 to 5 34 times. [unclear] But a 6 Oh, no way. No, no. Oh, I don't know. I'm confusing myself.",00:09:05
+fjagyma,63,tutor,"All right, so let's take it slow. That's okay. Let's have a discussion. Let's have a, like, a little chat. Okay?",00:09:25
+fjagyma,64,student,Okay.,00:09:31
+fjagyma,65,tutor,"Yes, so you said that for dice, uh, for rolling 1 to 5, it's about 34 times each, right?",00:09:33
+fjagyma,66,student,"Yeah. Yes, so you— now that is much closer to 30, isn't it?",00:09:42
+fjagyma,67,student,Yeah.,00:09:47
+fjagyma,68,tutor,"There's no big deviation between getting a 6 and getting any other number because we can't say exactly you will be getting 34 each for each of the numbers. It can be 32, 36, like that. It can vary a little bit, right?",00:09:48
+fjagyma,69,student,Yeah. Does that make sense?,00:10:07
+fjagyma,70,student,Yeah.,00:10:10
+fjagyma,71,tutor,"Okay. Yes, so dice 4, we can say that it's unbiased because now here there are only 2 columns, one for rolling a 6 and one for rolling 1 to 5. So for— see, although this number is bigger, when you consider about all the numbers 1 to 6, it's a little bit closer in value. Okay?",00:10:11
+fjagyma,72,student,Yeah.,00:10:42
+fjagyma,73,tutor,Is that clear?,00:10:43
+fjagyma,74,student,Yeah.,00:10:44
+fjagyma,75,tutor,"All right, so now let's move on to dice 2. That was your other answer, right?",00:10:46
+fjagyma,76,student,Yeah.,00:10:55
+fjagyma,77,tutor,So do you agree with me if I say that dice 4 is unbiased?,00:10:56
+fjagyma,78,tutor,Yeah.,00:11:00
+fjagyma,79,background,But do you have any doubts?,00:11:02
+fjagyma,80,tutor,No.,00:11:06
+fjagyma,81,background,Yeah?,00:11:07
+fjagyma,82,tutor,"No, no, no. Yeah, I trust what you said.",00:11:10
+fjagyma,83,background,"Okay, so do you understand my argument behind it, my reasoning behind the answer saying that dice roll is not biased?",00:11:13
+fjagyma,84,tutor,Yeah.,00:11:22
+fjagyma,85,background,"Okay, so would you like to explain it back to me as you have understood?",00:11:24
+fjagyma,86,student,"Because there's not a big difference between 30 and 34, and you're not going to get like 30 exactly for each number. It could be 31, 36, 38.",00:11:29
+fjagyma,87,tutor,"Yes, exactly. All right, awesome. So now let's move on to your other answer, which was dice 2. So can you explain it using the same [UNCLEAR]? Arguments, can you explain whether dice 2 is biased or unbiased?",00:11:43
+fjagyma,88,student,"Okay, I think dice 2 is biased because when you divide 100 by 5 is 20, and that's a bigger difference between 20 and 30. [unclear]",00:12:03
+fjagyma,89,tutor,"Yes, exactly. Okay, so you have understood it really well. I really appreciate it, Callum. Okay, so dice 2 is biased. What about dice 1 and dice 3?",00:12:18
+fjagyma,90,student,"I don't think dice 3 is because I divided it by— divided 3 by 5, and it's 0.6. [unclear] Oh wait. [unclear] I think dice 3 is biased because there's a bigger difference between 0.6 and 3 than there is between 17 and 16.",00:12:34
+fjagyma,91,tutor,"Yes, exactly. Okay, nice understanding. So would you like to change your answer here?",00:13:11
+fjagyma,92,student,Yeah.,00:13:19
+fjagyma,93,tutor,Okay. So was there any part confusing or do you have doubt?,00:13:19
+fjagyma,94,student,"No, I get it.",00:13:31
+fjagyma,95,tutor,"Okay, cool. So did you change the answer here?",00:13:34
+fjagyma,96,tutor,Yeah.,00:13:41
+fjagyma,97,background,"I still see dice 2 and dice 4. Would you mind typing it again, please?",00:13:43
+fjagyma,98,tutor,Yeah.,00:13:50
+fjagyma,99,background,"Thank you. All right. So for this one also, you will be getting 2 marks.",00:13:51
+fjagyma,100,tutor,Okay.,00:14:13
+fjagyma,101,student,For figuring out that the two dice are biased.,00:14:13
+fjagyma,102,tutor,Yeah.,00:14:18
+fjagyma,103,student,Now it's time for us to try out the last question here.,00:14:19
+fjagyma,104,tutor,Okay. Let's run them again. [unclear],00:14:22
+fjagyma,105,tutor,Give me a second. I'll just try and find [UNCLEAR].,00:14:38
+fjagyma,106,student,Okay.,00:14:38
+fjagyma,107,tutor,Right. Okay. So probably Dice 3. [unclear] Because there's a bigger difference. [unclear],00:14:49
+fjagyma,108,tutor,"Is it only because of the bigger difference, or is there any other reason why you chose Dice 3?",00:15:19
+fjagyma,109,student,"Um, no, that's just— that's the only reason.",00:15:29
+fjagyma,110,tutor,"Okay, all right. Yeah, so the answer would be that is 3. And the reasoning— so, uh, last week we discussed the reason for, uh, How would an answer, how would an outcome become more reliable?",00:15:35
+fjagyma,111,tutor,[UNCLEAR] because... [unclear],00:15:35
+fjagyma,112,tutor,That's the reason.,00:16:27
+fjagyma,113,student,When you do more trials.,00:16:30
+fjagyma,114,tutor,"Yes, exactly. It has been only tested for like 6 times, right?",00:16:35
+fjagyma,115,student,Yeah. So shall we write it down? [unclear],00:16:43
+fjagyma,116,tutor,"Yes, exactly. All right, good job working them out. And you'll be getting one mark for the answer here. All right, Callum, so in this question, what were the things that we focused on? [unclear]",00:17:03
+fjagyma,117,student,"Um, the using the formula for the relative frequency.",00:17:24
+fjagyma,118,tutor,Hmm.,00:17:31
+fjagyma,119,student,"Figuring out which, like, how would",00:17:32
+fjagyma,120,student,the reasoning behind why a dice is biased.,00:17:32
+fjagyma,121,tutor,Mm-hmm.,00:17:32
+fjagyma,122,student,"And the reasoning why you would want to test a dice, a biased dice, well, a dice that could be biased more.",00:17:39
+fjagyma,123,tutor,Mm-hmm.,00:17:53
+fjagyma,124,student,Yeah.,00:17:56
+fjagyma,125,tutor,"Yes, yes. Okay. All right, so do you have any doubts or was there any confusions? [unclear]",00:17:56
+fjagyma,126,tutor,Okay. All right. So we can move on to the next exam-style question. Shall we give this one a try?,00:18:07
+fjagyma,127,student,Yeah.,00:18:16
+fjagyma,128,tutor,Okay.,00:18:16
+fjagyma,129,student,counter is double the probability of picking a silver counter. Okay. [unclear],00:18:16
+fjagyma,130,student,[unclear] [unclear],00:18:31
+fjagyma,131,student,[unclear] [unclear],00:18:51
+fjagyma,132,student,Mm-hmm.,00:18:58
+fjagyma,133,tutor,Yeah.,00:19:20
+fjagyma,134,student,"Oh, it's like [unclear] [unclear]",00:19:35
+fjagyma,135,tutor,"I don't know if it's changed on your screen, but I just changed the pink one. But yeah, I'm done.",00:19:48
+fjagyma,136,background,"Yes, okay, so I can see 0.4 and 0.2. Yeah.",00:19:56
+fjagyma,137,tutor,"Yeah, okay.",00:20:02
+fjagyma,138,background,So can you tell me how you got these answers?,00:20:04
+fjagyma,139,student,I added 0.15 and 0.2. 2 5s together to get— I can't remember— 0.4. And then— [unclear],00:20:09
+fjagyma,140,tutor,"And then what did you do? How did you get 0.4 and 0.2 as the answers? Oh, I messed up. When I did it the first time, I messed up calculations. I did something else.",00:20:31
+fjagyma,141,tutor,So do you want to change the answers?,00:20:45
+fjagyma,142,student,"Hang on, let me. 2.25 plus [unclear] plus 7.",00:20:53
+fjagyma,143,student,"No, I don't want to change my answers.",00:21:05
+fjagyma,144,tutor,Okay. So how did we get this 0.4 and 0.2?,00:21:07
+fjagyma,145,student,"I can't remember what I did before, but it was like it came out as 0.6, and then I halved that, and then I was going to put 0.3 in each, but then it says [UNCLEAR].",00:21:15
+fjagyma,146,student,"Uh, pink is double of silver, so I just— 2 is half of 4, so I just took that.",00:21:30
+fjagyma,147,tutor,"Yes, okay. All right, so good job figuring out the probability of pink and silver, and for that you'll be getting 2 marks. What about part B of the question? [unclear]",00:21:40
+fjagyma,148,tutor,"Would you just add 0.15, 0.25, and 0.2. [unclear] And then take it away from one.",00:22:15
+fjagyma,149,tutor,Are we taking away from one?,00:22:30
+fjagyma,150,student,No.,00:22:34
+fjagyma,151,tutor,Yes.,00:22:41
+fjagyma,152,student,Why do we choose to take it away from one?,00:22:42
+fjagyma,153,student,"Because like probability table, the probability table thing, one is like definite, it will happen. [unclear] And probabilities add up to one. So if you add everyone except Pink up and then take away from one, you'll get it, surely. So if it is not pink, what do we need to do? We are going to do a subtraction here.",00:22:47
+fjagyma,154,student,I would just take 0.4 away from 1. [unclear] That would be 0.6.,00:23:21
+fjagyma,155,tutor,"Yes, exactly. So probability of not getting an event— can you remember we discussed this? Previous week?",00:23:31
+fjagyma,156,student,No.,00:23:43
+fjagyma,157,tutor,"So probability of not happening of an event is 1 minus probability of happening the event. That was the formula. Yeah? [unclear] Okay, all right. So you'll be getting 2 marks for this question as well.",00:23:46
+fjagyma,158,tutor,"All right, Callum. So you've done a really good job in these questions. So can you just quickly give me a summary on what we did here?",00:24:10
+fjagyma,159,student,"Wait. [unclear] So I just got to think how to word it. So I know what we did, but I can't word it.",00:24:20
+fjagyma,160,tutor,So you can walk me through the— Questions?,00:24:31
+fjagyma,161,student,"Well, like, the steps of how I did it?",00:24:39
+fjagyma,162,tutor,Yeah.,00:24:42
+fjagyma,163,student,"Okay. Well, for, um, when I complete the table, I just added up 0.5 and 0.25, and then, um, I— [unclear] Have to? Oh, I don't. [unclear]",00:24:43
+fjagyma,164,student,"Well, okay. What I did was I added up 0.15 and what I thought was 0.25, and I got 0.6. But then I was going to put 0.3 in each. But then that wouldn't be— silver wouldn't— pink wouldn't be double the amount as silver. So then I just did 2 and 4 because 2 is double 4.",00:25:09
+fjagyma,165,tutor,Mm-hmm. It's okay. And how did you find the probability of not getting a pink counter?,00:25:39
+fjagyma,166,student,"I took 0.4 away from 1. Okay, all right. So great job with this question, and we are done with this lesson. So now, just to recap on what we have done, just to end this lesson, would you like to try out these two questions and correct their mistakes?",00:25:47
+fjagyma,167,student,Yeah.,00:26:16
+fjagyma,168,tutor,"Okay. The table shows the probability of picking, for picking each, and the probability of picking the white counter.",00:26:17
+fjagyma,169,tutor,Mm-hmm.,00:26:25
+fjagyma,170,student,"They did a completely unnecessary, like, unnecessary calculation.",00:26:31
+fjagyma,171,tutor,Mm-hmm.,00:26:38
+fjagyma,172,student,The answer would just be 0.7. [unclear],00:26:41
+fjagyma,173,tutor,Okay. Is that our final answer?,00:26:48
+fjagyma,174,student,Yeah.,00:26:55
+fjagyma,175,tutor,So what are they asking us as the final question? Would this be the answer for—,00:26:56
+fjagyma,176,student,No.,00:27:07
+fjagyma,177,student,"Yes, well, they still didn't need to do that. But you just take one, take 0.7 away from one. [unclear] And you get 0.3. And that would be the answer.",00:27:10
+fjagyma,178,tutor,"Yes, exactly. Great. What about this part over here?",00:27:35
+fjagyma,179,student,[unclear] twice as likely to pick a mango sweet than peach. What is the probability that Katja does not pick a mango sweet? Okay.,00:27:42
+fjagyma,180,background,One. [unclear] 0.2.,00:28:00
+fjagyma,181,tutor,Mm-hmm.,00:28:06
+fjagyma,182,student,0.8.,00:28:08
+fjagyma,183,tutor,Mm-hmm.,00:28:15
+fjagyma,184,student,"Um, and then would you do Would you put— [unclear] Would you put—",00:28:16
+fjagyma,185,student,"Yeah, what do we need to do there?",00:28:45
+fjagyma,186,tutor,"0. 4 is that one, and 0.4 is that one. [unclear] Wait, yeah.",00:28:48
+fjagyma,187,tutor,Thank you.,00:29:07
+fjagyma,188,student,"And then, what is the probability that [unclear] does not pick a mango sweet?",00:29:08
+fjagyma,189,student,I'm not sure.,00:29:23
+fjagyma,190,tutor,So what's the probability of not getting a mango sweet? [unclear],00:29:25
+fjagyma,191,student,Is it the one takeaway?,00:29:32
+fjagyma,192,tutor,Mm-hmm.,00:29:40
+fjagyma,193,student,The mango.,00:29:41
+fjagyma,194,tutor,"Yeah. Okay. Oh, oh, okay. 0.6. I think that's my final answer.",00:29:42
+fjagyma,195,tutor,"Mm-hmm. Yes, you've done a great job there. All right, Callum, so that's the end of the lesson. Now, before we move on to a new lesson, can you tell me 3 things that we need to remember when working with probabilities in tables.",00:29:58
+fjagyma,196,student,The relative formula frequency. [unclear] The relative frequency formula.,00:30:18
+fjagyma,197,tutor,What's the relative frequency formula?,00:30:28
+fjagyma,198,student,Frequency of an event divided by number of trials. And then all probabilities add up to 1.,00:30:31
+fjagyma,199,tutor,Mm-hmm.,00:30:40
+fjagyma,200,student,"And to figure out the probability of something not happening, you do 1 take away the probability in the table. [unclear]",00:30:42
+fjagyma,201,tutor,"Yes, exactly. All right, that was a nice summary on what we have done in this lesson. Okay, so since we have some more time, shall we move on to the next lesson?",00:30:54
+fjagyma,202,student,Yeah.,00:31:06
+fjagyma,203,tutor,"Okay, here we go. Our lesson is using index laws. Are you familiar with this topic?",00:31:07
+fjagyma,204,student,"No, not at all.",00:31:14
+fjagyma,205,tutor,"All right, okay, so let's just start with this question just, just to start the lesson. Okay?",00:31:17
+fjagyma,206,student,Okay.,00:31:25
+fjagyma,207,tutor,Alright.,00:31:31
+fjagyma,208,student,[UNCLEAR],00:31:31
+fjagyma,209,tutor,What are we doing?,00:31:34
+fjagyma,210,student,Would it be Malcolm?,00:31:38
+fjagyma,211,tutor,"Mm-hmm. Yes, the answer is correct. Now, can you tell me the reasoning behind your answer?",00:31:43
+fjagyma,212,student,The reasoning that I'm gonna tell you is a complete guess because I have no idea what I'm doing. But the reasoning that I think would be right would be because you have to add the powers. [unclear],00:31:53
+fjagyma,213,tutor,Exactly.,00:32:15
+fjagyma,214,tutor,"Alright, so that was a very nice guess and very nice reasoning as well. Okay, so we're going to learn more about index laws in this lesson. Okay?",00:32:18
+fjagyma,215,student,Okay.,00:32:29
+fjagyma,216,tutor,"Alright, now let's do this first question. So let's give these ones a try.",00:32:31
+fjagyma,217,student,Okay. [unclear] No. [unclear],00:32:37
+fjagyma,218,tutor,You can type the power using the symbols.,00:32:50
+fjagyma,219,student,Symbols?,00:32:56
+fjagyma,220,tutor,There are one big box and one small box symbol.,00:32:59
+fjagyma,221,student,Ah.,00:33:03
+fjagyma,222,tutor,Yeah.,00:33:05
+fjagyma,223,student,I—,00:33:06
+fjagyma,224,student,[unclear],00:33:13
+fjagyma,225,tutor,And what's your reasoning behind this?,00:33:13
+fjagyma,226,student,Because you need to add the indices.,00:33:15
+fjagyma,227,tutor,Yes. So at what instance are we using that law?,00:33:19
+fjagyma,228,student,When you're multiplying.,00:33:26
+fjagyma,229,tutor,"Yes, exactly. Okay, so let's move on to the next question. And symbols. What was another 3, then 8 and 5? [unclear]",00:33:28
+fjagyma,230,tutor,"All right. So in this case, what's the low? Where do we use the [UNCLEAR]?",00:33:54
+fjagyma,231,student,Yeah. I have to take away the indices.,00:33:54
+fjagyma,232,tutor,when you're dividing.,00:33:54
+fjagyma,233,background,"Yes. Okay, fantastic. Got that. What about the last question? [unclear] [unclear]",00:33:54
+fjagyma,234,tutor,I think that's it.,00:34:27
+fjagyma,235,student,Okay. And can I know the reasoning behind this as well?,00:34:42
+fjagyma,236,tutor,"My thought process was because if it's in brackets, then you have to times it by whatever's outside the brackets.",00:34:48
+fjagyma,237,tutor,Exactly. Perfect thinking there.,00:34:57
+fjagyma,238,student,But aren't you right?,00:34:59
+fjagyma,239,tutor,"Yes, exactly. So when you have a bracket, you're going to multiply these two. Okay?",00:35:01
+fjagyma,240,student,Okay.,00:35:09
+fjagyma,241,tutor,"All right, so what are the three laws that we used in these three questions?",00:35:11
+fjagyma,242,student,"You have to add the indices when you're multiplying, you have to take them away when you're dividing, and times [unclear] brackets.",00:35:16
+fjagyma,243,tutor,"Yes, exactly. All right, so let's move on to the next question over here. Shall we try these ones out?",00:35:24
+fjagyma,244,student,Yeah.,00:35:35
+fjagyma,245,tutor,Okay. [unclear] [unclear],00:35:37
+fjagyma,246,tutor,"7, 8. [unclear]",00:36:14
+fjagyma,247,tutor,I think that's it.,00:36:43
+fjagyma,248,background,"All right. So, can you explain your thoughts behind this answer?",00:36:50
+fjagyma,249,tutor,"When you're multiplying, you have to times the indices. So I just thought, you know, you have to add the indices.",00:36:58
+fjagyma,250,background,Yeah.,00:37:04
+fjagyma,251,tutor,So I just thought you'd add the indices. Both of the 5 with the 2 and the other 5 and the other 2.,00:37:05
+fjagyma,252,tutor,So are these numbers indices?,00:37:11
+fjagyma,253,student,Oh no.,00:37:16
+fjagyma,254,tutor,Then what happens?,00:37:18
+fjagyma,255,student,You have to times them. [unclear],00:37:20
+fjagyma,256,tutor,"So would you like to change? Yes, exactly. So these numbers are not indices. We are going to multiply those numbers. Okay?",00:37:23
+fjagyma,257,student,Okay.,00:37:38
+fjagyma,258,tutor,"And with the indices, you've done the addition of the indices, which is the correct law to use here. So 2 marks for getting the 2 terms, the 10 and d to the power 7, correct. You'll be getting 2 marks. And let's move on to part [unclear]",00:37:39
+fjagyma,259,tutor,Okay.,00:38:07
+fjagyma,260,student,5F... [UNCLEAR],00:38:07
+fjagyma,261,tutor,I think that's it.,00:38:10
+fjagyma,262,tutor,Would you like to explain your answer?,00:38:28
+fjagyma,263,student,"Yeah, I think it was if you have to times the components when you've got two terms in an equation, you have to divide them when you divide it. So I just did [unclear] divided by 4, then the F.",00:38:32
+fjagyma,264,tutor,"All right, yes. So the",00:38:50
+fjagyma,265,tutor,That part is okay. What about the indices part?,00:38:53
+fjagyma,266,student,"Oh, wait. Oh, oh, wait, no, it's not times [UNCLEAR].",00:38:59
+fjagyma,267,tutor,So what do we need to do?,00:38:59
+fjagyma,268,student,"I thought it'd just be 11 because there's no indices on the other one. So if you don't have any number over here, what does that mean? Does that mean it's zero, or does that mean any other number?",00:39:16
+fjagyma,269,student,Zero.,00:39:33
+fjagyma,270,tutor,Would it be zero?,00:39:36
+fjagyma,271,student,[unclear] [unclear],00:39:37
+fjagyma,272,tutor,I'm not sure.,00:39:47
+fjagyma,273,student,"All right, so now this is a fact. If there's no any indices on a number, that means that index is 1. Okay?",00:39:49
+fjagyma,274,tutor,"Oh, okay.",00:40:06
+fjagyma,275,student,"0, so anything to the power 0 is 1, but But if you have— if you don't have any index up here, you can take it as 1. That's a fact. [unclear]",00:40:06
+fjagyma,276,tutor,Okay.,00:40:21
+fjagyma,277,student,"All right. So would there be any changes to this answer? Yes, that would be a 10 there because you are going to do What? What's the law you're using?",00:40:22
+fjagyma,278,student,Take away the entities when you're dividing.,00:40:41
+fjagyma,279,tutor,"Yes, exactly. All right, Callum, we can move on to Part C. [unclear]",00:40:44
+fjagyma,280,student,Okay. [unclear] [unclear] 3c 6. Yeah. [unclear],00:40:52
+fjagyma,281,tutor,Okay.,00:41:13
+fjagyma,282,student,So can you tell me how you got this answer? I,00:41:16
+fjagyma,283,tutor,"did— sorry, I dropped my pen. I did—",00:41:20
+fjagyma,284,student,Yeah.,00:41:29
+fjagyma,285,background,"I did -2 times 3, which is -6, and then that's how I thought you had to leave it.",00:41:31
+fjagyma,286,student,"Okay, so what about this 3 here? Are we going to leave it like that?",00:41:40
+fjagyma,287,student,Yeah.,00:41:47
+fjagyma,288,student,Is that so?,00:41:48
+fjagyma,289,student,Yeah.,00:41:52
+fjagyma,290,student,"That's what I think, but I don't think I'm right.",00:41:53
+fjagyma,291,tutor,"Okay, so this part is correct. c to the power of -6, that part is correct. But for this part, there's some more to do. Okay?",00:42:00
+fjagyma,292,student,Okay.,00:42:12
+fjagyma,293,tutor,"And let's discuss this question next week because we are running out of time for today. If we start it now, we won't be able to finish it. Okay?",00:42:12
+fjagyma,294,student,Okay.,00:42:23
+fjagyma,295,tutor,Sorry about that.,00:42:24
+fjagyma,296,student,It's okay.,00:42:24
+fjagyma,297,tutor,So can you tell me what we did so far in the lessons?,00:42:27
+fjagyma,298,student,"What, just today?",00:42:32
+fjagyma,299,tutor,"Yeah, in today's session.",00:42:34
+fjagyma,300,student,"Okay, indices in a table and... [unclear]",00:42:36
+fjagyma,301,tutor,"What's it called? The thing where you've got— I can't remember what it's called, but the thing where you've got 3 to the power of 2 times 4 to the power of— [unclear]",00:42:44
+fjagyma,302,student,The index laws.,00:42:57
+fjagyma,303,tutor,"That, index laws.",00:42:59
+fjagyma,304,background,"Yes, we did some questions on index laws. Even though you started saying you have no idea, you did a really good job. And what about the first lesson that we did about the probability intervals? Can you tell me the things that you remember from that?",00:43:01
+fjagyma,305,student,"Oh, um, the equation for [unclear] I can't remember.",00:43:23
+fjagyma,306,tutor,What frequency?,00:43:38
+fjagyma,307,student,The relative frequency.,00:43:40
+fjagyma,308,tutor,Mm-hmm. And what's the formula?,00:43:42
+fjagyma,309,student,Frequency of an event divided by the number of trials.,00:43:45
+fjagyma,310,tutor,Mm-hmm. Yes. Okay. And what are the other things that we discussed on that lesson? [unclear],00:43:50
+fjagyma,311,student,"That when you think you've got a biased dice, it's better to test it more times than a non-biased dice to get a more reliable answer.",00:44:01
+fjagyma,312,tutor,"Mm-hmm. Yes. [unclear] Great. Okay, so you did a really good job throughout the session focusing on the lessons and having a really nice discussion throughout. I really appreciate it. So after we end the session, you will be getting 2 questions from the lesson Probabilities. Make sure to take some time and answer them, okay?",00:44:14
+fjagyma,313,student,Okay.,00:44:37
+fjagyma,314,tutor,All right then. Have a great week. I'll see you next week. [unclear] Bye-bye.,00:44:38
+fjagyma,315,student,You too. See you next week. Bye.,00:44:43
+fjagyma,316,tutor,Bye.,00:44:45

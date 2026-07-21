@@ -1,0 +1,297 @@
+session_id,utterance_id,role,content,timestamp
+egbpsiu,0,tutor,Miss. Miss.,00:00:00
+egbpsiu,1,background,[unclear],00:00:00
+egbpsiu,2,background,"Well, I need to calculate.",00:00:00
+egbpsiu,3,tutor,"If you need to calculate, I don't need to calculate.",00:00:02
+egbpsiu,4,background,"Hello, can you hear me?",00:00:07
+egbpsiu,5,tutor,Hello.,00:00:09
+egbpsiu,6,background,"Hi, Tobias, am I audible?",00:00:11
+egbpsiu,7,tutor,What? Pardon?,00:00:12
+egbpsiu,8,background,What happened to all the guns?,00:00:13
+egbpsiu,9,background,Can you hear me clearly?,00:00:16
+egbpsiu,10,tutor,Yes.,00:00:18
+egbpsiu,11,student,Okay. How are you today?,00:00:19
+egbpsiu,12,tutor,"I'm good, you?",00:00:21
+egbpsiu,13,student,"I'm doing good too, thank you. So do you remember what we were studying in our last session?",00:00:23
+egbpsiu,14,tutor,"Yes, estimating— [unclear]",00:00:29
+egbpsiu,15,student,"Yeah, we were talking about estimating calculations. So what do you remember regarding this lesson itself, regarding what we discussed?",00:00:30
+egbpsiu,16,tutor,"Yeah, I remember most of it.",00:00:40
+egbpsiu,17,tutor,"Most of it, great, great. So we actually discussed exam style questions, and then we were discussing significant figures.",00:00:43
+egbpsiu,18,student,Yeah.,00:00:55
+egbpsiu,19,tutor,"So what are like significant figures, Tobias? So if I ask you, if I ask you like let's say, I'm around 12.982, two significant figures, what would be the answer?",00:00:55
+egbpsiu,20,background,Four.,00:01:08
+egbpsiu,21,student,12.98. 2 significant figures. [unclear],00:01:12
+egbpsiu,22,tutor,Sorry.,00:01:16
+egbpsiu,23,student,2 significant figures.,00:01:23
+egbpsiu,24,tutor,Let me see.,00:01:25
+egbpsiu,25,tutor,"Two significant figures. So what does two significant figures mean, Tobias?",00:01:36
+egbpsiu,26,student,The two numbers after the decimal point that are— the numbers after the decimal point. [unclear],00:01:40
+egbpsiu,27,tutor,Which is the first significant figure in this number?,00:01:51
+egbpsiu,28,student,One.,00:01:55
+egbpsiu,29,tutor,"One, there we go. And the second significant figure is two.",00:01:58
+egbpsiu,30,tutor,"2, yeah.",00:02:01
+egbpsiu,31,student,"So when I ask you to give me the answer in 2 significant figures, your number can have only 2 nonzero digits.",00:02:02
+egbpsiu,32,tutor,Yeah.,00:02:09
+egbpsiu,33,student,"In this case, it's ideal to round to the nearest whole number, so that would be 13.",00:02:11
+egbpsiu,34,tutor,Yeah.,00:02:16
+egbpsiu,35,student,Does that make sense?,00:02:17
+egbpsiu,36,tutor,Yes.,00:02:19
+egbpsiu,37,student,"So 12 or 20 is not correct, but if you round down, you can round down to 10. So that would be the case if you've got to round to 1 significant figure from there.",00:02:20
+egbpsiu,38,tutor,Yeah. [unclear],00:02:30
+egbpsiu,39,tutor,"Okay, so I just started off the lesson with questions. Please don't mind that. Um, yeah, that's a quick recap regarding significant figures. And now we would— we will— first of all, we were, you know, we had a calculation and then you had to round your answer to 3 significant figures.",00:02:31
+egbpsiu,40,student,Yeah.,00:02:49
+egbpsiu,41,tutor,So meaning when you can have [unclear] so you can go round up or down. I'm going up round.,00:02:50
+egbpsiu,42,tutor,"And then we were discussing this question where you had to estimate the answer. So when a question bluntly asks you to estimate, what do you have to do for this?",00:02:59
+egbpsiu,43,student,You have to round the numbers to one significant figure. [unclear],00:03:07
+egbpsiu,44,tutor,"You've got to round all the numbers to one significant figure, and then you do the calculation. But you've got to round all of them to one significant figure.",00:03:16
+egbpsiu,45,student,Yeah.,00:03:26
+egbpsiu,46,tutor,"So yeah, when a question asks you to estimate, estimate. That's exactly what you've got to do. And then we were discussing a question, a contextual type, a concept, and then a question. And then we were discussing how to break this question down and ask. And then we pause— [unclear] overestimate and stuff like that.",00:03:27
+egbpsiu,47,tutor,Yeah.,00:03:48
+egbpsiu,48,background,"So, Tobias, today we are going to start off with this question, which is kind of similar to the previous one. Um, so yeah, can you answer this? [unclear]",00:03:48
+egbpsiu,49,tutor,They were stuffing pots till somebody came along and pumped a load of money in. [unclear],00:04:21
+egbpsiu,50,tutor,[unclear],00:04:43
+egbpsiu,51,student,Okay. So I am going to be straightforward here. There's an error. So do you think this speed could be 960 kilometres per hour? Do you think that is a reasonable answer?,00:04:43
+egbpsiu,52,tutor,No.,00:04:53
+egbpsiu,53,background,"There we go. No, it's kind of not reasonable. So what do you think? I want you to think of a few things. First of all, how do you find this speed? What's the equation to find this speed? And once again, we're talking about one significant figure. So when you're estimating, your number should be having only one significant figure.",00:04:54
+egbpsiu,54,student,"Distance, speed, distance divided by time.",00:05:18
+egbpsiu,55,tutor,There we go. [unclear],00:05:22
+egbpsiu,56,student,So would it be— [unclear],00:05:23
+egbpsiu,57,tutor,"So, and since the question is asking you to estimate, what do you have to do?",00:05:51
+egbpsiu,58,student,You have to round to the— to— not that— so one significant figure.,00:05:55
+egbpsiu,59,tutor,"Yeah, one significant figure. Now I want you to look at 320. How many significant figures do we have?",00:06:06
+egbpsiu,60,tutor,2.,00:06:14
+egbpsiu,61,student,"2. So you need to have only one significant figure. So you have to check on to this as well. Can you double-check, please? [unclear]",00:06:15
+egbpsiu,62,tutor,Would that be the correct way?,00:06:29
+egbpsiu,63,tutor,Okay. We're timing.,00:06:39
+egbpsiu,64,student,"Oh no, divided, sorry. [unclear]",00:06:42
+egbpsiu,65,tutor,Thank you for remembering the unit there.,00:06:56
+egbpsiu,66,tutor,That do B as well? [unclear] [unclear],00:07:13
+egbpsiu,67,tutor,[unclear],00:07:13
+egbpsiu,68,tutor,Do I just do it to the— to which decimal place do I do it? I show it?,00:08:15
+egbpsiu,69,background,"Yeah, so, okay, so Philip, so we are estimating, right?",00:08:23
+egbpsiu,70,background,Yeah.,00:08:31
+egbpsiu,71,background,"So when you're asked for a reason, it's ideal to talk about about whether you've rounded up or rounded down, you know, rather than actually giving— working it out with actual numbers.",00:08:31
+egbpsiu,72,tutor,"Oh, so—",00:08:44
+egbpsiu,73,student,"So you're right to call it an estimate. [unclear] So instead of this, you could actually say, ""She travelled further and in less time.""",00:08:46
+egbpsiu,74,tutor,"Oh, okay.",00:08:57
+egbpsiu,75,student,"You can say it's an underestimate because she travelled further. She did not travel 300, but she travelled 320.",00:08:57
+egbpsiu,76,tutor,Yes.,00:09:04
+egbpsiu,77,student,"And in 2.6 hours, not 3 hours.",00:09:04
+egbpsiu,78,tutor,Yeah. [Speaker] So you can say she actually traveled further and in less time. So it's an underestimate. Something like that could actually work.,00:09:07
+egbpsiu,79,tutor,"Yeah, okay. [Speaker] Okay, and that's actually the answer given as well. So try to go with answers like that, you know, talking about whether it's been rounded down or rounded up.",00:09:15
+egbpsiu,80,tutor,"Yeah. [Speaker] Reason it out. And yeah, so— What was the catch in here, Tobias? What do you think? What do you have to focus on? [unclear]",00:09:27
+egbpsiu,81,student,"Explain, given a better reason for my answer while also remembering the rounding, rounding to the nearest hundred and tenth when doing that.",00:09:41
+egbpsiu,82,tutor,Significant figure.,00:09:56
+egbpsiu,83,student,Yeah.,00:09:57
+egbpsiu,84,tutor,"You've got to round to the first significant figure. So even when you have 320, You just remember that you've got to round to the first nonzero digit, which is 3.",00:09:58
+egbpsiu,85,tutor,Yeah.,00:10:09
+egbpsiu,86,student,Which place value column is the 3 in?,00:10:10
+egbpsiu,87,tutor,100.,00:10:13
+egbpsiu,88,student,100. So you've got to round to the nearest 100.,00:10:14
+egbpsiu,89,tutor,Yeah.,00:10:17
+egbpsiu,90,student,"So basically look at the place value column, the first nonzero digit, the first significant figure is in, and round to that degree of accuracy.",00:10:18
+egbpsiu,91,tutor,Yeah.,00:10:28
+egbpsiu,92,tutor,"Okay, and also something else, so when you have a question, just have a question, understand what the question is. Now here they were talking about speed, then you know quickly jot down the equation for speed so that you can work from there. [unclear] And for this, for the marking scheme, so for rounding both to one significant figure for 303, you get one mark for just rounding itself, not for the calculation, but just rounding. And for the the final answer, which is 100 kilometers per hour. [unclear]",00:10:30
+egbpsiu,93,tutor,Yeah.,00:11:08
+egbpsiu,94,background,"And for this, for your calling, it's an underestimate, and for your reading, one. So that's 3 marks in total.",00:11:09
+egbpsiu,95,tutor,Yeah.,00:11:17
+egbpsiu,96,background,"So that's all on this one. We'll move on to the next one. This is actually a challenge question. Can you answer this as well, please? And you're given— [unclear]",00:11:18
+egbpsiu,97,tutor,Miss.,00:11:41
+egbpsiu,98,student,"No, I think, yeah.",00:11:42
+egbpsiu,99,tutor,"No, I was talking to my teacher.",00:11:56
+egbpsiu,100,background,"Oh, good. Sorry. [unclear]",00:11:58
+egbpsiu,101,tutor,I didn't know you have to inform someone that I need to go [UNCLEAR].,00:12:28
+egbpsiu,102,student,"You're in detention, so you can't just walk out at 3 o'clock. You've got to tell somebody. You couldn't be in detention because you haven't done your homework. You don't just walk out at 3 o'clock. You do your homework. You only walk out if you finish. You've got to keep your sister in. You've got to make sure that homework's done because she'll be doing it tomorrow if you weren't done it. [unclear]",00:12:28
+egbpsiu,103,tutor,"Jesus, would you answer to the question, you round all of these to 1 and then perform the calculation?",00:12:58
+egbpsiu,104,student,Yeah.,00:13:06
+egbpsiu,105,tutor,Would I also round 218 to 1 or would I just leave it as the answer?,00:13:07
+egbpsiu,106,background,It's your fault.,00:13:14
+egbpsiu,107,tutor,"Oh yeah, you don't have to do it because you're trying to check if that answer is correct, but Philip, there is a tiny error with your rounding to 1 significant figure. [unclear]",00:13:15
+egbpsiu,108,tutor,"Yeah, so would the 500 be 400 instead?",00:13:28
+egbpsiu,109,student,"Yeah, there we go. And why is it a 400, not 500?",00:13:34
+egbpsiu,110,tutor,"Is it because the 30— because there's a 3 behind the 4, and because it's not above 5, you round it down.",00:13:38
+egbpsiu,111,tutor,"Exactly, exactly. Good job. Yes, so because below 5, 10 column, it has a 3, so you round down. [unclear]",00:13:53
+egbpsiu,112,tutor,"Right, I'm just bringing it over then because this is ridiculous. [unclear]",00:14:05
+egbpsiu,113,tutor,How would I explain when I put it in words?,00:14:29
+egbpsiu,114,student,"Ah, yeah.",00:14:40
+egbpsiu,115,tutor,"So you can even write this calculation and just say you round it to one significant figure, something like that.",00:14:54
+egbpsiu,116,student,So—,00:15:06
+egbpsiu,117,tutor,You can write this calculation.,00:15:07
+egbpsiu,118,student,So I can do that and then say round it to the significant figure.,00:15:10
+egbpsiu,119,tutor,Or you can say you've estimated.,00:15:17
+egbpsiu,120,student,"Yeah, okay.",00:15:19
+egbpsiu,121,tutor,Anything of that sort would work. And then you've got to say whether it's correct or incorrect. So what do you think? Is Tariq correct or incorrect?,00:15:20
+egbpsiu,122,background,He's incorrect.,00:15:28
+egbpsiu,123,tutor,"He's incorrect, yeah. So for that you'd be getting 1 mark. So here the 2 marks, 1 mark is for this 20 and saying that Tariq must be incorrect. And the other 1 mark is for this 420.",00:15:30
+egbpsiu,124,background,Yeah.,00:15:44
+egbpsiu,125,tutor,The estimation itself.,00:15:45
+egbpsiu,126,tutor,"Okay. And now you've got to, you know, try and figure out what mistake could have Tariq made. You know, just try and guess. [unclear]",00:15:48
+egbpsiu,127,tutor,"Right, come on. How do you work at that then? Right, so you know the area. [unclear]",00:16:01
+egbpsiu,128,tutor,"So looking at Tyreke's numbers, I don't think he has tried to estimate. He has tried to actually get the correct answer.",00:16:17
+egbpsiu,129,student,Yes.,00:16:24
+egbpsiu,130,tutor,"But while trying to do that, he has made some error. You can actually compare your answer.",00:16:24
+egbpsiu,131,background,Did he—,00:16:30
+egbpsiu,132,tutor,So to actually— yeah? Sorry.,00:16:30
+egbpsiu,133,background,"No, continue, continue. I was just—",00:16:33
+egbpsiu,134,tutor,"Okay. Yeah, the actual answer does not have to necessarily be 20 because this is an estimate.",00:16:35
+egbpsiu,135,tutor,"Well, it has to be kind of close to 20. And his answer is 218. It's like way off. [unclear] The correct answer has to be somewhere around 20.",00:16:42
+egbpsiu,136,student,So I would say that his answer is not close to 20. So his mistake was that he did not round.,00:16:58
+egbpsiu,137,tutor,His mistake was that he did not get his answer close to 20.,00:17:08
+egbpsiu,138,student,"Yeah, so for that we are just trying to guess, we are trying to make an assumption as to what mistake this [unclear] person could have made, Felix. So I would say he has maybe made a mistake with his placement, because his answer is out by a power of 10.",00:17:18
+egbpsiu,139,tutor,Yeah.,00:17:37
+egbpsiu,140,background,So I feel like he might have made a mistake. [unclear],00:17:37
+egbpsiu,141,tutor,Okay. Something like that. You assume what mistake he could have made.,00:17:43
+egbpsiu,142,background,Yeah.,00:17:48
+egbpsiu,143,tutor,Okay. And for that you get 1 mark.,00:17:49
+egbpsiu,144,background,Okay.,00:17:53
+egbpsiu,145,tutor,Okay. And in this case you can even maybe attempt to calculate the actual answer.,00:17:54
+egbpsiu,146,background,So I'll just put it to the side then.,00:17:59
+egbpsiu,147,tutor,Yeah.,00:18:04
+egbpsiu,148,tutor,That could work.,00:18:04
+egbpsiu,149,background,"So I just write out the actual, like, authors and the [UNCLEAR].",00:18:05
+egbpsiu,150,tutor,Oh yeah.,00:18:05
+egbpsiu,151,background,There we go. What has happened?,00:18:16
+egbpsiu,152,tutor,"He did not— when dividing, he didn't put the decimal point after the 8.",00:18:35
+egbpsiu,153,student,"Yeah. So probably he has made a mistake, which is the first value.",00:18:41
+egbpsiu,154,tutor,"Yeah, I see.",00:18:48
+egbpsiu,155,student,"Or maybe he didn't, you know, write it— put a decimal point when he was typing this in the calculator.",00:18:49
+egbpsiu,156,tutor,Yeah.,00:18:54
+egbpsiu,157,background,"Yeah, anything of that sort should give you your mark, Tobias.",00:18:55
+egbpsiu,158,tutor,"Very well done with that. And so this, what was the idea of this entire question itself? [unclear]",00:19:00
+egbpsiu,159,student,An exam-style question and see how I would do if it came on my test.,00:19:14
+egbpsiu,160,tutor,"Exactly. Yes, Tobias. And also, we've actually— we're actually also trying to show you that how you can use estimation to check if your answers are correct.",00:19:27
+egbpsiu,161,student,Yeah.,00:19:36
+egbpsiu,162,tutor,"You can quickly estimate and see. And if something is, you know, off by a power of 10, you know that it's definitely wrong.",00:19:37
+egbpsiu,163,student,Yeah.,00:19:44
+egbpsiu,164,tutor,So this is somewhere else where you can actually use estimation to check if your answers are correct.,00:19:45
+egbpsiu,165,student,Yeah.,00:19:50
+egbpsiu,166,tutor,"Okay. So it was a lengthy discussion about estimation itself. Tobias, do you have any questions?",00:19:51
+egbpsiu,167,tutor,"I had one. I was thinking of it, but then I forgot. [unclear]",00:20:01
+egbpsiu,168,student,"If you remember it, do definitely ask me, okay?",00:20:14
+egbpsiu,169,tutor,Yeah.,00:20:17
+egbpsiu,170,student,"Okay. Yeah, so Tobias, and then we have this one last slide. Where the question's already answered by someone, but they've done it wrong, unfortunately. So you've got to figure out what the mistake they've made is. So what about the first one? What's the mistake in here? This is an interesting one. Yeah, go ahead, please.",00:20:18
+egbpsiu,171,background,"Oh yeah, wait, I'll just speak it out loud.",00:20:41
+egbpsiu,172,tutor,"Oh yeah, you can just— whatever you prefer. If you want to write, type it, that's fine, but you can speak as well, whatever you prefer. [unclear]",00:20:44
+egbpsiu,173,tutor,"When dividing, when rounding it to 2 significant figures, they didn't round to the nearest 2 significant figures.",00:20:57
+egbpsiu,174,student,"Okay, yep, they haven't rounded. So how would you do it correctly? Can you give me the correct answer? [unclear]",00:21:08
+egbpsiu,175,background,Would it be 10 because that's the closest?,00:21:19
+egbpsiu,176,tutor,"No, it wouldn't be 10, no.",00:21:26
+egbpsiu,177,student,"Okay, you can write your answer in here. [unclear]",00:21:29
+egbpsiu,178,tutor,"Would they— would it be like that? Because then 9 is 3 times 3. No, but the last 3 significant figures because the 9 is at the end of the number.",00:21:39
+egbpsiu,179,tutor,"So in 3.09, how many significant figures do we have? [unclear] Look at it carefully. How many significant figures do we have in 3.09?",00:22:05
+egbpsiu,180,student,3.,00:22:19
+egbpsiu,181,tutor,"3, exactly. This is it. The 3 is the first significant figure. [unclear]",00:22:20
+egbpsiu,182,tutor,Yeah.,00:22:25
+egbpsiu,183,student,This is the second one and 9 is the third one.,00:22:27
+egbpsiu,184,tutor,Yeah.,00:22:29
+egbpsiu,185,student,"So if you remember, just to kind of, you know, bring this up as well because this is something important, Tobias. We discussed this in our last session. So let's say 300, how many significant figures do we have?",00:22:29
+egbpsiu,186,tutor,One.,00:22:40
+egbpsiu,187,student,One. What about 3009? How many significant figures do I have?,00:22:42
+egbpsiu,188,tutor,Four.,00:22:47
+egbpsiu,189,student,"Four. There we go. 300. Are these zeros significant, Tobias?",00:22:49
+egbpsiu,190,student,"Um, no.",00:22:56
+egbpsiu,191,tutor,"Nope. But when they are between non-zero digits, they turn significant. [unclear] Okay, so in this case, this zero is also significant. Okay.",00:22:58
+egbpsiu,192,student,Yeah.,00:23:11
+egbpsiu,193,tutor,"Now, now, okay, I'll just— okay, let's look at this one as well. So which is the first non-zero— first, uh, significant figure, Tobias?",00:23:12
+egbpsiu,194,tutor,3.,00:23:21
+egbpsiu,195,background,3. So which is the second significant figure?,00:23:23
+egbpsiu,196,tutor,0.,00:23:26
+egbpsiu,197,background,"0. So then we've got around to the second significant figure. So I'll just write 3, the 0, because that's the second significant figure, and then the third one. Why am I writing the third one as well? This is not the answer, but why am I writing the third one?",00:23:27
+egbpsiu,198,tutor,To make [UNCLEAR].,00:23:48
+egbpsiu,199,tutor,To make 0 a significant figure.,00:23:49
+egbpsiu,200,student,"Yeah, and also now I'm going to round to 2 significant figures, Tobias.",00:23:54
+egbpsiu,201,tutor,Yeah.,00:23:59
+egbpsiu,202,student,"Okay, so now listen very carefully, okay? So to round to 2 significant figures, I identify my second significant figure first. So this is the second significant figure, the 0.",00:23:59
+egbpsiu,203,tutor,Yeah.,00:24:11
+egbpsiu,204,student,"And I look at the digit right next to it, which is a 9.",00:24:12
+egbpsiu,205,tutor,Mm-hmm. [Speaker] So now do I round up or do I round down if there's a 9 next to it?,00:24:17
+egbpsiu,206,tutor,"Up. [Speaker] I round up. So how do I round up? How do I round 3.09 up? [unclear] [Speaker] It'll be 3.1. There we go. Exactly, exactly. Good job. So it is 3.1. Okay. Does that make sense? Is it confusing?",00:24:22
+egbpsiu,207,student,"No, once— now I get it.",00:24:55
+egbpsiu,208,tutor,"Okay, awesome then. If you do have questions, please feel free to ask me, okay?",00:24:58
+egbpsiu,209,student,Yeah.,00:25:03
+egbpsiu,210,tutor,"So that's the best way. So if you are asked with a question like this and you're asked to round to 2 significant figures, what would you do first? Just tell me the 2 steps. [unclear]",00:25:04
+egbpsiu,211,tutor,"I'd look and see where, like, up until the 9, where the number is, the number after the 0, and that will be where I round it, see if I round up or down. And if it's a 5 or above, I round it to 1, and if it's 4 or below, I round it, it'll stay the same.",00:25:14
+egbpsiu,212,tutor,"There we go, exactly. Great explanation. Thank you for that. So you basically identify your significant figure and you look at the digit right next to it to make your call. Okay, and what about this one, Tobias, the second question? What have they done wrong? [unclear]",00:25:41
+egbpsiu,213,student,"Did they, when estimating, did they— Instead of rounding it to the nearest 10, they rounded it to a number above it, so it would have been 20 instead of 19.",00:26:02
+egbpsiu,214,tutor,Yes. And what about the 23?,00:26:19
+egbpsiu,215,student,Would it— would that just become 20 as well? [unclear],00:26:27
+egbpsiu,216,tutor,"Exactly, there we go. Yeah, this would also become a 20.",00:26:31
+egbpsiu,217,student,Yeah.,00:26:37
+egbpsiu,218,tutor,And then 20 times 20 is going to be 400.,00:26:37
+egbpsiu,219,student,Yeah.,00:26:41
+egbpsiu,220,tutor,"Okay, now this is a very common mistake, Philip. So when you're asked to estimate, if you're estimating, you've got to estimate, you've got to round all the digits to one [UNCLEAR].",00:26:42
+egbpsiu,221,student,"Oh, that's not very easy.",00:26:42
+egbpsiu,222,tutor,"Okay, most times, you know, when there's a decimal number, just round it to the whole number. No, doesn't work like that. When a question says estimate, Go ahead and round all the numbers to one significant figure.",00:26:52
+egbpsiu,223,student,Yeah.,00:27:03
+egbpsiu,224,tutor,"Okay. Okay, and that's it regarding significant figures. I'm sure you're so bored of the word now, so no worries, we're gonna move to the next lesson. Any questions? Once again, do you have any questions for this?",00:27:04
+egbpsiu,225,student,No.,00:27:16
+egbpsiu,226,tutor,"Okay, the question that you forgot, it's long gone, it's forgotten. [unclear]",00:27:18
+egbpsiu,227,student,"You've basically explained it already, like, to me. I've understood it now.",00:27:23
+egbpsiu,228,tutor,"Okay, okay, great. That's news for me then. So let's move to the next lesson, and I think that's going to be about ratios. Yeah, we're going to talk about the basics of ratios as well. Tobias, can you answer this question?",00:27:29
+egbpsiu,229,student,[unclear] 23 into the ratio 2:1. [unclear] [unclear],00:27:41
+egbpsiu,230,tutor,Who do you think has answered correctly? [unclear],00:27:56
+egbpsiu,231,student,"So, I don't know how to put it in words, but",00:28:19
+egbpsiu,232,tutor,"So you'd split, you divide, you add 2 and 3 to make 5, divide 20 by 5, you get 4, you split them both equally by how much they would get. So 2 would get 8, while 3 would get 6, 12. And that, so yeah, Johan is right. You would get, Amy will get 8 and Sanjay will get 8.",00:28:23
+egbpsiu,233,background,12.,00:28:51
+egbpsiu,234,tutor,"Great explanation. That was beautifully explained. Yeah, and that's how you split according to ratios. Very well done. And something else you could be doing is, Tobias, in this question, something I would be doing is I would try— okay, so Maxine says Amy gets 2 and Sanjay gets 3. So I'm gonna add the sweets up. 2 3 5. But that won't work because we have 20 sweets. Yeah. And then 8 12 is 20. Oh no, that is correct. And then Zainab says 10 15. So 10 15 is also not 20. So that's also something you could be doing. Yeah. Okay, and",00:28:51
+egbpsiu,235,tutor,now,00:29:31
+egbpsiu,236,background,"that won't work if, you know, let's say there was something like 16 4. Yeah. And that's also",00:29:31
+egbpsiu,237,tutor,20.,00:29:37
+egbpsiu,238,background,"So that won't work. So if that's the case, you'd have to definitely split them according to ratios. But very well done. Thank you for the explanation. Yeah. And let's look",00:29:37
+egbpsiu,239,tutor,at,00:29:46
+egbpsiu,240,background,the first exam style question. [unclear],00:29:46
+egbpsiu,241,tutor,"You can do it anymore. Is she correct, just to find out?",00:29:49
+egbpsiu,242,student,No.,00:29:59
+egbpsiu,243,tutor,"Hmm. This implies she needs to keep dividing the bodies on each side, biting, until you can't do it anymore. She would not be correct, because if you have a— a ratio of 3 to 5, you cannot keep dividing it by 5, meaning it's already— you cannot keep dividing it by 2 or any number beyond itself, but they also don't go into the same times table. So that's already simplified to its fullest, like you can no longer simplify as much.",00:30:00
+egbpsiu,244,tutor,[unclear],00:30:41
+egbpsiu,245,tutor,"Okay, so you're talking about a ratio that can no longer be simplified.",00:30:44
+egbpsiu,246,student,Yeah.,00:30:48
+egbpsiu,247,tutor,"Okay, so then this ratio can't simplify, so you don't have to simplify.",00:30:50
+egbpsiu,248,student,No.,00:30:56
+egbpsiu,249,tutor,"But let's say we have a ratio like maybe 4 and 10. So in this case, I can keep dividing by 2.",00:30:56
+egbpsiu,250,student,Yeah.,00:31:05
+egbpsiu,251,tutor,"Until I can't simplify it anymore. So isn't this correct, the statement?",00:31:06
+egbpsiu,252,background,She is correct.,00:31:09
+egbpsiu,253,student,because when the [UNCLEAR]...,00:31:09
+egbpsiu,254,tutor,"Okay, okay, Tobias, so she's actually wrong, okay? So you are right there. She is incorrect, but the reasoning is something I need a little more polishing on. Why is she incorrect? Think about it. I'm sure you'll get it. You already know the answer. Think a little beyond 3 and 5.",00:31:09
+egbpsiu,255,tutor,Can all numbers be divided by 2?,00:31:38
+egbpsiu,256,student,"No, not all numbers can be divided by 2, meaning— so let's say you got 12 and 15, you would have to divide by 3 to simplify it.",00:31:41
+egbpsiu,257,tutor,"There we go, that is the answer. Very well done, Tobias. So for this, for disagreeing with Amy, you get 1 mark, and for giving an example or a clear explanation— so you can give an example just like you did, like you can come up with the ratio [unclear] 12:15.",00:31:56
+egbpsiu,258,tutor,Yeah.,00:32:11
+egbpsiu,259,student,"12 to 15, or as you can say, odd numbers cannot be divided by 2 but can be divided by another odd number.",00:32:13
+egbpsiu,260,tutor,Yeah.,00:32:20
+egbpsiu,261,student,"So you can either give an example or you can explain. So what would you prefer, giving an example or explaining with words?",00:32:21
+egbpsiu,262,tutor,You're asking what I prefer?,00:32:29
+egbpsiu,263,student,Yes.,00:32:32
+egbpsiu,264,tutor,"Example, an example.",00:32:33
+egbpsiu,265,tutor,"Yeah, I would also say an example is better because now it's concrete.",00:32:36
+egbpsiu,266,student,Yeah.,00:32:40
+egbpsiu,267,tutor,"And you'd definitely be getting the marks, so just do an example. So you got really close, but I was looking for this.",00:32:40
+egbpsiu,268,student,Yeah.,00:32:48
+egbpsiu,269,tutor,"Okay. And yeah, so that's all on the first exam style question, Tobias. Let's move on to the next one. There we go.",00:32:49
+egbpsiu,270,tutor,And just one more thing. So what does simplifying a ratio mean?,00:33:02
+egbpsiu,271,student,"You're... simplifying a ratio, you're dividing it, you're getting it... well, getting to its lowest point until you can no longer [UNCLEAR]. I can't think of the explanation.",00:33:07
+egbpsiu,272,tutor,"Can you hear me, Tobias? [unclear] Hello.",00:33:34
+egbpsiu,273,student,Hello.,00:33:41
+egbpsiu,274,tutor,"Hello. Hello. 1, 2, 3. [unclear]",00:33:43
+egbpsiu,275,tutor,"Okay, just give me a second. I'll just quickly refresh my page, okay? Hello? [unclear]",00:34:00
+egbpsiu,276,student,Hello?,00:34:57
+egbpsiu,277,tutor,Can you hear me?,00:35:12
+egbpsiu,278,tutor,"Okay, no worries. We've lost one and a half sessions to this. Okay, anyways, can you quickly try answering this as well? [unclear] Trust me, there's no one on it yet. Now, you know, I'll talk to you later.",00:36:02
+egbpsiu,279,tutor,"Wait, yeah. So, wait, oops.",00:36:33
+egbpsiu,280,background,You've got to read the question carefully.,00:36:39
+egbpsiu,281,tutor,"Oh, sorry. [unclear] Alice and Johnna share some biscuits. If Johnna has 15 biscuits, how many does Alice have?",00:36:41
+egbpsiu,282,tutor,[unclear],00:37:01
+egbpsiu,283,student,"If she has 15, I'll just divide it by— how do I explain it? No, no, it's alright. If John has 15, how many does she have? Would it be, as in like, oh, I think I've— no, no. So, see, times it by 5.",00:37:01
+egbpsiu,284,tutor,"There we go. There we go, exactly. This is a very easy question, but you know, you get thinking beyond that. Yeah, very well done, Tobias. So this is actually— [unclear] I'm going to give you 2 marks. One mark for identifying that you've got a times by 5.",00:37:33
+egbpsiu,285,student,Yeah.,00:37:55
+egbpsiu,286,tutor,"And then the other mark for the final answer, which is 10.",00:37:56
+egbpsiu,287,student,Yeah.,00:37:59
+egbpsiu,288,tutor,"Okay, so you got your 2 marks in here. Just make sure you read the question very carefully next time, and then we'll be dividing according to ratios in our next session because we're running out of time for today.",00:38:00
+egbpsiu,289,student,"Oh, okay, yeah.",00:38:10
+egbpsiu,290,tutor,"Okay, so, yep, so do you have any questions? I keep asking that because I just want to make sure that we are, you know, very clear on everything. Everything we're doing in the session?",00:38:12
+egbpsiu,291,student,"So far, I don't. I understand it mostly.",00:38:22
+egbpsiu,292,tutor,Okay. Yeah. So something else I want you to add up is like about the estimating calculation and significant figures. Maybe make a note of it and also try to remember everything regarding significant figures.,00:38:27
+egbpsiu,293,student,Yeah.,00:38:40
+egbpsiu,294,tutor,"Okay. And yep, I think that's pretty much it for today. So let's meet next week. [unclear] Bye-bye. Take care. Have a wonderful week ahead. Bye.",00:38:41
+egbpsiu,295,tutor,Bye. [unclear],00:38:50

@@ -1,0 +1,264 @@
+session_id,utterance_id,role,content,timestamp
+gttueft,0,tutor,Hello.,00:00:00
+gttueft,1,background,[unclear],00:00:00
+gttueft,2,student,Hello.,00:00:01
+gttueft,3,tutor,"Hi, Callum. How are you doing today?",00:00:01
+gttueft,4,student,Good.,00:00:03
+gttueft,5,tutor,"Good. That's great to hear. Right. So today's lesson is factorizing quadratics. Quotations that are equal to 1. Right, so we've started this lesson in the last week, right? So what do you remember from this lesson so far?",00:00:05
+gttueft,6,student,"Factorize is where you need to split it into two buckets. So like, so for this one, it would be [unclear] x 3 in one bucket, and the next bucket would be x 2. Mm-hmm, right.",00:00:26
+gttueft,7,tutor,"So, um, very good explanation on how, uh, to sort of like factorize this. Okay, yes, like you said, it can be factorized, and, uh, but the answer wouldn't be x 3 and 2. Okay, so that of course is a small mistake there, but other than that, it's totally fine. What you said was a— right, so what you said was correct in this question. Okay.",00:00:52
+gttueft,8,student,Yeah.,00:01:22
+gttueft,9,tutor,"And if you're wondering what the factors are, it's going to be x 6 and x 1, because -1 and +6 are the factors that make this one and add up to make this. So big thumbs up in explaining. That's a very good job there. And last week we did this question. Okay. And then today we're supposed to start by factor— factorizing this over here. So shall we go through it?",00:01:23
+gttueft,10,student,Yeah.,00:01:53
+gttueft,11,tutor,Mm-hmm. [unclear],00:01:55
+gttueft,12,tutor,Okay.,00:02:04
+gttueft,13,tutor,Okay. [unclear] [unclear],00:02:29
+gttueft,14,tutor,Yeah?,00:03:05
+gttueft,15,student,[unclear],00:03:09
+gttueft,16,tutor,"Okay, so...",00:03:15
+gttueft,17,tutor,Right. Can you explain your answer to me over here?,00:03:17
+gttueft,18,student,"A would first times with 3AB, which would make it 3A squared B, and then A would times with 6 to make 6A. [unclear]",00:03:24
+gttueft,19,tutor,Right.,00:03:39
+gttueft,20,tutor,"Okay, uh-huh.",00:03:44
+gttueft,21,student,"And then 3, which times [UNCLEAR].",00:03:48
+gttueft,22,tutor,"Uh-huh. Yes, there is something wrong in this answer. So can you figure out, Callum, what went wrong?",00:03:48
+gttueft,23,student,Was it that the 3...,00:04:07
+gttueft,24,student,[unclear],00:04:18
+gttueft,25,tutor,"That's not actually where the mistake is. Now, do you know— hold on. So there is a specific format in this equation over here, the x² 5x 4 equation, right?",00:04:18
+gttueft,26,tutor,Yeah.,00:04:45
+gttueft,27,background,"So here what you have is— I am not just saying that it is an x here, and in this question what we have is ab, but the format is different. So if—",00:04:48
+gttueft,28,tutor,"For example, this question was a 3a² 18a. Then this would be a similar quadratic equation, and we would use the same technique we used over here, right?",00:05:01
+gttueft,29,tutor,Yeah.,00:05:27
+gttueft,30,background,"But this isn't a quadratic equation like that because there's another b over here. So then when it comes to something like this, it's not necessarily double brackets. Okay, what you can do is see what are the common factors, because after all, factorizing means taking out the common factors, right?",00:05:27
+gttueft,31,student,[unclear],00:05:54
+gttueft,32,tutor,"Okay, so let's look at the number term first. There's a 3 here and there's 18. Do you think they have a common factor, 3 and 18?",00:05:54
+gttueft,33,student,"Yeah, 3.",00:06:05
+gttueft,34,tutor,"Yeah, 3, exactly. So you can just put it outside on the brackets, 3. Then when it comes to a squared and a, do we have a common factor there?",00:06:06
+gttueft,35,student,"Yeah, both of them have it in it. So it would be [unclear] outside the bracket.",00:06:18
+gttueft,36,tutor,It would be what outside the bracket?,00:06:24
+gttueft,37,student,[unclear],00:06:26
+gttueft,38,tutor,"It would be A, right?",00:06:29
+gttueft,39,student,Yeah.,00:06:31
+gttueft,40,tutor,"Okay, then when it comes to B, is B common for both the terms?",00:06:32
+gttueft,41,student,No.,00:06:37
+gttueft,42,tutor,No. So this is all— 3A is all that's common for both the terms. So now you can put the remaining bit inside the brackets. So can you help me with that? What is the first term going to be?,00:06:38
+gttueft,43,student,A— [unclear],00:06:53
+gttueft,44,tutor,A?,00:06:53
+gttueft,45,student,A— [unclear],00:06:55
+gttueft,46,tutor,Hmm?,00:06:55
+gttueft,47,student,Could it be AB 6? AB,00:06:59
+gttueft,48,tutor,"6, right. So that is AB 6. And if you feel like you're not too sure about this, just in your head at least, expand it again and see. 3a times ab is going to be?",00:07:03
+gttueft,49,student,"Uh, 3a squared b.",00:07:17
+gttueft,50,tutor,"Ah, 3a times -6 is going to be?",00:07:22
+gttueft,51,student,-18a.,00:07:26
+gttueft,52,tutor,"-18a. So that is how that is done, right?",00:07:28
+gttueft,53,student,Yeah.,00:07:33
+gttueft,54,tutor,"Okay, so like I said, remember quadratic equations have to be in a certain format for us to simplify it so that we get double brackets. And so did you understand this part so far?",00:07:34
+gttueft,55,student,Yeah.,00:07:47
+gttueft,56,tutor,"Okay, so can you explain how we did this in your own words?",00:07:48
+gttueft,57,student,"We worked out what's a common factor of them both, which is 3 in there. And so then we put them outside the bracket, and then what's not",00:07:53
+gttueft,58,student,"A common factor of them both, put inside the bracket. It's like [unclear] wasn't, so I put it inside the bracket with a -6. But you would times the number and letter outside the bracket with what's inside the bracket.",00:08:06
+gttueft,59,tutor,"Right, exactly. So there you go. Let me give you a big token. That was a great explanation of how we factorized that expression. The next question is another exam-style question. Now this is in the proper quadratic format where you have an x² term, an x term, and a number term. Now do you know how to factorize this?",00:08:25
+gttueft,60,student,Do you put it in two separate brackets since all three of them don't have a common?,00:08:52
+gttueft,61,tutor,Yeah. So how do you do that?,00:08:58
+gttueft,62,student,"So first you would work out what goes into x², which is 2x, which is x times x. So the first bracket would start with x. And then you get, well, in both brackets adds up to 12x and times this to make 20. So it would be— would be minus 10.",00:09:07
+gttueft,63,tutor,"Hmm, yeah.",00:09:44
+gttueft,64,student,And the second bucket would be x.,00:09:51
+gttueft,65,student,"Plus 2. Oh no, minus 2.",00:09:56
+gttueft,66,tutor,"Hmm. I don't think it's— Oh, there you go, I see it now. Awesome. Right. So how do you make sure that's the correct answer?",00:10:00
+gttueft,67,student,You times both the brackets together.,00:10:16
+gttueft,68,tutor,"Hmm. Yeah, you could times it and see. I mean, you don't necessarily have to do it. But it's just always good to double-check and know that your answer is correct, right?",00:10:19
+gttueft,69,student,Yeah.,00:10:30
+gttueft,70,tutor,"Yes. So if you do expand it, would you be getting this answer?",00:10:31
+gttueft,71,student,Yeah.,00:10:39
+gttueft,72,tutor,Yeah?,00:10:40
+gttueft,73,student,"Because x times x is x squared. And then x times -10, x times -2. [unclear]",00:10:44
+gttueft,74,student,"Add them together, it would be plus 12x. Wait, no, minus 12x.",00:10:53
+gttueft,75,tutor,"Yeah, yeah, it is.",00:11:00
+gttueft,76,student,"Only times 10 with 2, which would make 20, but it would make a minus 20. So it'd be incorrect.",00:11:03
+gttueft,77,tutor,What is negative 10 times negative 2?,00:11:15
+gttueft,78,student,negative 20.,00:11:15
+gttueft,79,tutor,Try that again. Negative 10. Negative 10 times negative 2.,00:11:15
+gttueft,80,student,20.,00:11:15
+gttueft,81,tutor,"Plus 20. So that is correct, right? This of course is correct. So that is all you need to know. You just need to figure out what numbers, like you said earlier in your [UNCLEAR], you said which numbers added to make this number and multiplied to make this, right?",00:11:15
+gttueft,82,student,Yeah.,00:11:49
+gttueft,83,tutor,"So that's what you need to know. All right, so, um, okay, so that was it about [unclear] factorizing these quadratic equations. So before we move on, shall we sort of discuss what are possible places where you could go wrong when working this out? [unclear] You can get— you can put a plus instead of minus in the brackets.",00:11:50
+gttueft,84,tutor,Uh-huh.,00:12:19
+gttueft,85,student,"And you might put the wrong numbers in. So like, instead of adding the two numbers to make 12x, people would think it would be times to make it 12x. So some people would be 2 and 6.",00:12:22
+gttueft,86,tutor,"Exactly. Right, so that is a— that's actually a really important point that you need to look out for. So good job in bringing that up, and brilliant working out over here, Callum. Let's see what the next question we have that needs to be factorized. Okay, so how do we do this? [unclear]",00:12:37
+gttueft,87,tutor,Sorry?,00:13:09
+gttueft,88,student,I haven't really seen this type of question before.,00:13:28
+gttueft,89,tutor,"Right. Oh, no worries. So we will go through this together then, right? So what we have is a² and 36². So when you see something like this, I'm gonna just keep this aside for a second. Let's just go through this. Hold on. Let's just go through— hold on— let's just go through this example. Okay, so here they say sometimes we come across a special case where there is a squared term and a constant term but no term in the middle. Now I was telling you, usually, uh, quadratics are in this format. I'm just giving you an example. Okay, let's say 6b— sorry, 6a minus— so this is, this is an example of a quadratic. So as you can see, the middle term, the a term, is not there, right?",00:13:32
+gttueft,90,student,"Yeah, it's [UNCLEAR].",00:14:38
+gttueft,91,tutor,"Yeah, this is not there. This is just what we",00:14:38
+gttueft,92,background,"a² 36. And when this is there you have to do something very important. First thing is check if this is a square number, square term. Well, obviously it's a², isn't it? So that's a square term, right?",00:14:44
+gttueft,93,student,[unclear],00:14:59
+gttueft,94,tutor,"Okay, and then you look at the other number given and also find out whether that's a square number. So let us actually do this example that they have given. A² 9. Now",00:15:00
+gttueft,95,tutor,"I know for a fact that it's a² is a squared term, and 9 is also a squared term, right? And if you have a negative here, that also is going to be important. I'm not going to say why just yet. So now if you had to figure this out as a quadratic",00:15:17
+gttueft,96,tutor,"Let me rewrite it, okay? Now I told you there's no middle term, so there's 0a. Is that correct? It's the same thing, isn't it? a² 9 and a² 0a 9, it's literally the same thing because this is anyway 0. Now tell me, Callum, what two factors would add to make 0 and multiply to make -9?",00:15:39
+gttueft,97,student,[unclear],00:16:15
+gttueft,98,tutor,"No, no, no. As in like how you did this before? Here? So you figured out which two numbers here added to make 12 and multiplied to make 20, right? So just like that, which two numbers would add to make 0 and be multiplied together to make 3? [unclear]",00:16:15
+gttueft,99,student,Would it be 3 3? Yes.,00:16:38
+gttueft,100,tutor,"See, this factor pair, 3 and -3, that is the factor pair that gives you 0 in the middle but 9 over here when you multiply them, right? Negative 9, actually.",00:16:47
+gttueft,101,tutor,Yes.,00:17:01
+gttueft,102,background,So what you do is you replace it. You do the same thing that you did earlier. You rewrite this with -3 and +3 like this. Okay?,00:17:01
+gttueft,103,tutor,Yeah.,00:17:15
+gttueft,104,background,"So when you expand this, what would you be getting?",00:17:16
+gttueft,105,tutor,"Uh, s² plus [unclear] minus 9.",00:17:20
+gttueft,106,tutor,"Yes, so minus 9. So the easy thing about this is that whenever you have a squared number here and here, there's not much of a working out. If it's 9, you know obviously that's going to be 3 squared, right? So you can simply write a minus 3 and a plus 3. Okay, so that's how you can make a -9 and a 0 in the middle. Is that okay?",00:17:27
+gttueft,107,student,Yeah.,00:17:59
+gttueft,108,tutor,"So this applies only when this first term, the squared term and the number term, are both square numbers. Okay, so now that I did that, I think you're all good to try this out. Can you try this out? [unclear]",00:18:00
+gttueft,109,tutor,a² 36. How do we go about it? You,00:18:21
+gttueft,110,student,"just split it into a normal equation. So it would be a² c/a and then -36, but you",00:18:33
+gttueft,111,student,You square root it all?,00:18:45
+gttueft,112,tutor,"Yeah, you square root it to find out.",00:18:47
+gttueft,113,student,"So it would be a squared plus 2a minus 9, which would make it into a minus 3 and a plus 3.",00:18:49
+gttueft,114,tutor,"Okay, so if it was a minus 3 and a plus 3, here this is what you would be getting.",00:19:03
+gttueft,115,student,Yeah.,00:19:10
+gttueft,116,tutor,"So I don't think that was done correctly. Now, a is the square term. 36 is a square number, right?",00:19:10
+gttueft,117,student,Yeah.,00:19:20
+gttueft,118,tutor,So when you square which number do you get 36?,00:19:20
+gttueft,119,student,"Uh, 9.",00:19:25
+gttueft,120,tutor,9 squared is actually 81.,00:19:29
+gttueft,121,student,"Oh, uh... [unclear]",00:19:34
+gttueft,122,tutor,Right?,00:19:35
+gttueft,123,student,6.,00:19:35
+gttueft,124,tutor,"6. So when you square 6, 6. That's how you get 36, right? Okay, so when you factorize it, then what would your answer be?",00:19:37
+gttueft,125,student,"Uh, it would be—",00:19:48
+gttueft,126,tutor,"You can write it down. Yeah, go on. A— [unclear] [unclear]",00:19:49
+gttueft,127,student,Yeah.,00:20:38
+gttueft,128,student,[unclear] I can't think of any numbers that can times to make 6 and add to make 0.,00:20:59
+gttueft,129,tutor,"Ah, okay. So let me just do this example once more, right? See, it's a² 0a 9. So I told you if it's a square number, you get the number you squared and get the negative and the positive one, okay? Right? Oh, wait. There's actually another way of writing it. [unclear]",00:21:11
+gttueft,130,tutor,"Let me write that in that way and show you. So if you have We know 9 is 3 squared, right?",00:21:39
+gttueft,131,student,Yeah.,00:21:59
+gttueft,132,tutor,"I can write it like this also, can't I?",00:22:04
+gttueft,133,student,Yeah.,00:22:08
+gttueft,134,tutor,"Because they literally mean the same thing. So if this is the one, we call this Difference of squares. Okay, difference of squares, because you're actually subtracting or finding the difference of two square numbers, isn't it?",00:22:09
+gttueft,135,student,Yes.,00:22:24
+gttueft,136,tutor,"So when that is, all you have to do is write a 3 and a 3. And the reason why I write minus and plus, as in the reason why I alternate these two signs, not just have both minuses is because only when the signs are opposite like this would I be getting this expression back again. Because if the signs were, let's say, if both the signs were minus, if both the signs were minus like this, I would be getting a² 6a 9. That is not what I want, right? So this is all you have to remember. If these are square numbers, you can write it as a difference of square and then factorize it like this easily. Okay?",00:22:25
+gttueft,137,student,[unclear],00:23:20
+gttueft,138,tutor,Okay. So the question we had was— the question we had was— now can you try this out? [unclear],00:23:24
+gttueft,139,tutor,Right. There you go. That's difference of two squares.,00:24:25
+gttueft,140,tutor,So how would you factorise it then? [unclear] [unclear],00:24:29
+gttueft,141,student,"Well, I'll just be a couple minutes. I'm having a problem. I'm having a problem, so I'll be like a couple minutes.",00:24:58
+gttueft,142,tutor,"Oh, okay, okay. Let me know when you're back.",00:25:08
+gttueft,143,tutor,Hello?,00:26:40
+gttueft,144,student,"Sorry, Paula.",00:26:41
+gttueft,145,tutor,"Okay, no worries, no worries. So all good to continue?",00:26:42
+gttueft,146,student,Yeah.,00:26:48
+gttueft,147,tutor,"Okay, awesome. So we were right here, and then— [unclear] Yeah, so that's basically difference of squares like we discussed. So how would we—",00:26:49
+gttueft,148,student,Yeah.,00:27:01
+gttueft,149,tutor,"Yeah, so how would we factorize it then?",00:27:03
+gttueft,150,tutor,Would we put... [unclear],00:27:09
+gttueft,151,tutor,"Would it just be the same as the one, so...",00:27:14
+gttueft,152,tutor,It would be plus 6.,00:27:25
+gttueft,153,background,Yeah.,00:27:31
+gttueft,154,student,[unclear],00:27:33
+gttueft,155,tutor,"Yes, exactly. a 6 and a 6. And that is what gets you this answer. So basically, the answer for this question is then going to be a 6 and a 6, right? Yeah. Sorry. Okay. So",00:27:33
+gttueft,156,student,did,00:27:56
+gttueft,157,tutor,you understand about difference of squares now?,00:27:56
+gttueft,158,tutor,So is there [UNCLEAR]?,00:27:59
+gttueft,159,student,Kind of.,00:27:59
+gttueft,160,tutor,Okay. So can you explain what you understood so far?,00:28:03
+gttueft,161,student,"No, I've got to use difference of squares. So it would be a squared, and then I've got a square root of 36, which would be 6 squared. So it would be a squared minus 6 squared, and then [unclear]",00:28:10
+gttueft,162,tutor,"Absolutely. Right. So great explanation. Brilliant effort into this question. So now I'm going to give you another question for you to try out, which is quite similar, as in it's a difference of squares.",00:28:31
+gttueft,163,student,Yes.,00:28:49
+gttueft,164,student,"This one has 3 angles, whereas the other question has 2. [unclear] This question that we're on the slide has 3 angles in the triangle, whereas the one that we've just done has 2.",00:28:55
+gttueft,165,tutor,Yeah?,00:29:19
+gttueft,166,student,"Uh, no. No. [unclear]",00:29:26
+gttueft,167,tutor,[unclear],00:29:48
+gttueft,168,background,"Yeah, right. That is— oh, that's correct so far. So what will you get? So what would you get when you factorize it? [unclear]",00:29:48
+gttueft,169,student,"No, no.",00:30:19
+gttueft,170,tutor,What's the mistake there? I put [unclear] instead of Y.,00:30:30
+gttueft,171,tutor,"Yes, exactly. So it's correct except for the fact that it's not A and Y, right?",00:30:36
+gttueft,172,student,Yeah.,00:30:47
+gttueft,173,tutor,"Yep, so that is about it for that question.",00:30:49
+gttueft,174,background,"I have an idea, but I don't think it's correct.",00:30:57
+gttueft,175,tutor,"Okay, so there you go. So you did that really well. And just once more, can you explain the things you need to remember when you would be doing difference of square? And then how you would factorize it?",00:31:01
+gttueft,176,student,Yeah. [unclear],00:31:18
+gttueft,177,student,"So you would— when I got a question like this, y² 64, I guess find the square root of 64, which would be 8, I think. And then, so it'd be y² 8². Then you've got to put it in brackets of what you just want. So it'd be In brackets y plus [unclear] and another pair of brackets y minus [UNCLEAR].",00:31:27
+gttueft,178,tutor,"Right, so there you go. That is about difference of squares. Okay, is that all right so far?",00:31:27
+gttueft,179,student,Yeah.,00:32:11
+gttueft,180,tutor,"Yeah, okay, so great to hear that. And now we have So we have one more question, which is a challenge question. And yeah, so can you give this a try? Factorize it.",00:32:12
+gttueft,181,student,"So if you move the 3x, it's going to change sign. [unclear]",00:32:30
+gttueft,182,tutor,Yeah. How would you do it? [unclear],00:32:41
+gttueft,183,student,"It's in square— it's 9, right now.",00:32:47
+gttueft,184,tutor,"And if you divide this by 2, you've got to divide the other side, so the client has to divide 6 with 8, x. Positive x is equal to positive 8.",00:32:51
+gttueft,185,student,"I'm just trying to figure out what 18 squared is. No, what it is.",00:33:00
+gttueft,186,tutor,Is 18 a square number?,00:33:06
+gttueft,187,student,No.,00:33:09
+gttueft,188,tutor,"No, it's not a square number. So that of course wouldn't work here. But shall we try taking the common factor out? Doesn't 18 and 2 have a common factor?",00:33:10
+gttueft,189,student,"Uh... yeah, they are both in the 2 times tables.",00:33:25
+gttueft,190,tutor,Yes. So can you take it out and write what's remaining inside? [unclear] [unclear],00:33:29
+gttueft,191,tutor,"OK, now let's double-check that again.",00:33:55
+gttueft,192,student,Oh. 2 times... [unclear],00:34:01
+gttueft,193,tutor,That'll be correct.,00:34:08
+gttueft,194,background,"2 times...? Okay, so Callum, what's 2 times 8?",00:34:15
+gttueft,195,student,"Oh, 16, so it's 2 times 9.",00:34:24
+gttueft,196,background,"2 times 9, right. There you go. 2 times 9 is 18. 2 times x squared is 2x squared. [Speaker] Shall we change the 8 into a 9 then, like you said? [unclear]",00:34:27
+gttueft,197,tutor,Right. Hello?,00:35:04
+gttueft,198,student,Hello.,00:35:06
+gttueft,199,tutor,"Okay, so now tell me, do you think this is fully factorized, or can you factorize it some more?",00:35:07
+gttueft,200,student,I can factorize it more.,00:35:20
+gttueft,201,tutor,And how?,00:35:22
+gttueft,202,student,Because the,00:35:25
+gttueft,203,student,So there's x squared. So you would put— would it be 2 outside the 2 brackets and then it would be x plus 3 in one bracket and another bracket x minus 3.,00:35:27
+gttueft,204,student,[unclear],00:35:54
+gttueft,205,tutor,"Okay, very close. Just note that here 9 isn't the negative number. x is a negative number, right? So in this case, it's not going to be— in this case, it's not going to be x 3. Instead, it's 3 x and",00:35:54
+gttueft,206,student,"3 plus x. Oh, sorry.",00:36:19
+gttueft,207,tutor,"Okay. Just check if— so see, compare that. Compare that with— check which one gives us the answer we need. [unclear]",00:36:25
+gttueft,208,tutor,Okay.,00:36:45
+gttueft,209,student,"Sorry, I needed to talk. One of my teachers came in. [unclear]",00:36:47
+gttueft,210,tutor,"Okay, do you have to go now? You all right?",00:36:55
+gttueft,211,student,"No, not now. I can be a couple more minutes. I'll just tell you when I need to go.",00:36:58
+gttueft,212,tutor,"Oh, okay. All right. So, right. So Callum, now this is the answer you told me. So if you expand this, these two brackets, you get x² and -9, right? And is that what we have here?",00:37:03
+gttueft,213,student,"Uh, yeah.",00:37:20
+gttueft,214,tutor,"Is it x² 9? Yeah? If you expand this, it's x² 9. But if you expand this, it's gonna be 9 x². Do you see the difference between the two? Yeah.",00:37:21
+gttueft,215,tutor,Yeah.,00:37:38
+gttueft,216,background,"Yeah, and which one do we need?",00:37:39
+gttueft,217,tutor,The bottom one over— [unclear],00:37:42
+gttueft,218,background,Yeah.,00:37:48
+gttueft,219,tutor,Is it the bottom one that's the correct answer or the top one?,00:37:49
+gttueft,220,background,The bottom one.,00:37:53
+gttueft,221,tutor,"Mm-hmm, okay. Why do you say it's the bottom one?",00:37:57
+gttueft,222,background,"Oh no, never mind, it's the top one because and the brackets are showing it was 2 with 9 first in the bracket, so it would be 9 minus x squared.",00:38:03
+gttueft,223,tutor,"Aha. Right, so that is a good thing that you pointed out. So because of that, it's going to be the top one. That's correct, yeah?",00:38:15
+gttueft,224,student,[unclear] Yes.,00:38:26
+gttueft,225,tutor,"Okay, so yes, that is correct. So very well done over here, Callum. That was a really challenging question and you put in so much effort, so that is very impressive. And now you learned something new here. When you compared with the last question you did, this question you did, we learned something new here. Can you point that out and tell me what it was?",00:38:27
+gttueft,226,student,"I needed to factorize it into what has— they both have in common. So like here I done 2 outside the bracket and then 9 minus x squared. No need to expand, factorize it even more.",00:38:53
+gttueft,227,tutor,Exactly. And you— could you do it without factorizing this first step? Can you do it without factorizing there?,00:39:09
+gttueft,228,student,No.,00:39:17
+gttueft,229,tutor,"No, that is not possible. So yes, that is the most important thing we learned here, is the fact that you first need to take out the common factor and then you can try doing it. Right. So with that, we can move on to the next slide. This is the last slide of the lesson. So it's sort of like a summary slide. Okay. So can we go through it?",00:39:18
+gttueft,230,student,Yeah.,00:39:46
+gttueft,231,tutor,Yeah? Right. So what does it say?,00:39:47
+gttueft,232,student,It says... [unclear],00:39:53
+gttueft,233,student,"I need to correct them, so [unclear] x² 5x 6 factorized is not -1 and -5, I think. Okay. Because",00:39:59
+gttueft,234,tutor,5x,00:40:19
+gttueft,235,student,"isn't— because 5 1 plus 1 isn't 6x, it's just 6. No, it isn't 5x, it's just 6x. So they've times it instead of adding it.",00:40:20
+gttueft,236,tutor,"Right, so they've times it instead of adding it. Exactly. So what do you think would be the correct answer then?",00:40:34
+gttueft,237,student,Uh... [unclear] [unclear],00:40:42
+gttueft,238,tutor,"Would it be -2, -3?",00:40:49
+gttueft,239,background,"-2, -3? No, that would not be the correct answer. Try again, because now see, if it's -2, -3, okay, when you add them, it's gonna be minus 5, and when you multiply them, it's going to be minus 6— sorry, plus 6. So that's not what we want here.",00:41:00
+gttueft,240,student,So would it just be a plus 2 and plus 3?,00:41:22
+gttueft,241,tutor,"Plus 2 and plus 3. [unclear] Plus 2 and plus 3, Would you be getting the -6 when you multiply?",00:41:38
+gttueft,242,student,"No, you'd be getting +6, so...",00:41:45
+gttueft,243,tutor,"Mm-hmm. Yeah, +6 and 6 times what is 6? [unclear]",00:41:48
+gttueft,244,student,6 times 1.,00:42:00
+gttueft,245,tutor,Yeah. So you could get +6 and +1.,00:42:03
+gttueft,246,tutor,"Minus 1, yes. Not plus 1, minus 1. That's how you do it. Okay? Right. So what about the question over here?",00:42:08
+gttueft,247,student,[unclear] Would it be wrong because one of the 7s must be a plus 7?,00:42:20
+gttueft,248,student,"Instead of both minuses, because the two minuses, it would make a plus 49 instead of minus.",00:42:36
+gttueft,249,tutor,Exactly. That's where they went wrong. And what do we call this when you have two square numbers and when you find the difference of it? [unclear] Can you remember the name we— that?,00:42:43
+gttueft,250,student,"Uh, I know it's something differences.",00:43:05
+gttueft,251,tutor,"Yes, it's okay. So it's actually difference of squares, right? Difference of squares. Okay, so that is, uh, yeah, that is basically it. And we did a couple We went through a couple of things, like a couple of new things in this lesson. So can you tell me what are the important things you learned today?",00:43:10
+gttueft,252,student,"How to factorize more things, like x² 49. I don't know how to factorize that. Exactly, [unclear]",00:43:38
+gttueft,253,tutor,right. So that is,00:43:51
+gttueft,254,tutor,"Right, and anything else?",00:43:55
+gttueft,255,student,"I've learned that for the left one that I've got to make sure it's— I can times two numbers— no, add two numbers to make 5x, but not add them both to make -6.",00:43:59
+gttueft,256,tutor,"Oh no, actually what you said earlier was correct. Add them to make plus 5x, multiply them to make— oh, sorry, sorry, sorry. [unclear] Yes, so multiply to make minus 6 and add to make 5, right?",00:44:20
+gttueft,257,student,Yeah.,00:44:37
+gttueft,258,tutor,"Yeah, yeah. All right, so yes, that's that. And, um, okay, so do you have any questions for me, by the way, regarding this? No? Okay then, so hope you have a great day ahead, and before you go, try out the position feedback form and the [unclear] questions. All right?",00:44:37
+gttueft,259,student,Yeah.,00:44:57
+gttueft,260,tutor,"Okay, see you next week then. Bye.",00:44:59
+gttueft,261,student,"Okay, bye.",00:45:01
+gttueft,262,tutor,Bye.,00:45:02

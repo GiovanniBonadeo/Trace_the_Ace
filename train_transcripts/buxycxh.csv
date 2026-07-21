@@ -1,0 +1,309 @@
+session_id,utterance_id,role,content,timestamp
+buxycxh,0,student,Hello.,00:00:00
+buxycxh,1,background,[unclear],00:00:00
+buxycxh,2,tutor,"Hello. How are you, Callum?",00:00:01
+buxycxh,3,student,I'm good. How are you? I'm good as well. How's school today? Anything fun?,00:00:04
+buxycxh,4,student,Yeah.,00:00:12
+buxycxh,5,tutor,"No? Same old, same old?",00:00:13
+buxycxh,6,student,Yeah.,00:00:19
+buxycxh,7,tutor,What's your favorite subject in school?,00:00:20
+buxycxh,8,student,Literacy.,00:00:25
+buxycxh,9,tutor,Sorry?,00:00:27
+buxycxh,10,student,Literacy.,00:00:28
+buxycxh,11,tutor,Literacy? What do you do in that?...reading K-pop stories.,00:00:30
+buxycxh,12,tutor,"Ah, so you like K-pop stories?",00:00:40
+buxycxh,13,student,Yeah. [unclear],00:00:43
+buxycxh,14,tutor,Rounding numbers to the nearest 10 is what we did last. Right? This is what we did last. And... We worked out until here. Remember how we did this?,00:00:45
+buxycxh,15,student,[unclear],00:01:05
+buxycxh,16,tutor,Okay. So we have one more question here. [unclear],00:01:08
+buxycxh,17,tutor,"So two different team cricket members both rounded to 50. When rounding to the nearest pair, the sum of the team members is 100. What could the team numbers be?",00:01:32
+buxycxh,18,tutor,Could it be 5? Could it be 5? [unclear] [unclear],00:02:18
+buxycxh,19,tutor,Stop?,00:02:57
+buxycxh,20,student,Yeah.,00:02:57
+buxycxh,21,tutor,Okay. Need help?,00:02:58
+buxycxh,22,student,Yeah.,00:03:03
+buxycxh,23,tutor,Okay. So we'll start off with underlining the key parts in the question. What do you think? [unclear],00:03:04
+buxycxh,24,student,Here. There. There. There. And— [unclear],00:03:13
+buxycxh,25,tutor,"Okay, all right. So they're talking about 2-digit numbers, right? And they're different. Okay, when you round both of those numbers to 50— sorry, when you round both of those numbers to the nearest 10, you get 50.",00:03:44
+buxycxh,26,tutor,Right?,00:04:05
+buxycxh,27,student,Mm-hmm.,00:04:07
+buxycxh,28,tutor,"But those numbers, when you get the sum of them— what do you mean by sum?",00:04:11
+buxycxh,29,student,The total.,00:04:17
+buxycxh,30,tutor,"Yeah, so they're talking about the total. When you add those two numbers together, the total is?",00:04:19
+buxycxh,31,student,"500. [unclear] Total is 100, right?",00:04:28
+buxycxh,32,student,Yeah.,00:04:33
+buxycxh,33,tutor,So can you come up with pairs of numbers that are going to add up to give you 100 that will also round to 50 when you round it to the nearest tens?,00:04:34
+buxycxh,34,student,50 and 50.,00:04:50
+buxycxh,35,tutor,"Okay, 50 and 50 would be right except for one problem. What is it? Now [unclear]",00:04:53
+buxycxh,36,tutor,there's also another important word here. Two,00:05:04
+buxycxh,37,student,different? There,00:05:08
+buxycxh,38,tutor,has to be two different numbers. 50 and 50 are the same number. 50,00:05:13
+buxycxh,39,student,and 90? 50 and 90. [unclear] Add up to 100?,00:05:24
+buxycxh,40,student,No.,00:05:35
+buxycxh,41,tutor,"So you want two numbers that are going to add up to 100, but they also round to 50. Okay, how about we start with this? Which numbers round to 50?",00:05:36
+buxycxh,42,student,"15 and 50— I mean, not 50, 20 and 30.",00:05:55
+buxycxh,43,tutor,"Okay, do you remember what rounding is?",00:06:03
+buxycxh,44,student,No.,00:06:06
+buxycxh,45,tutor,"No? Okay. Rounding is— if you have the number, let's say 26, right?",00:06:08
+buxycxh,46,student,"Yeah. You remember these two words? Previous multiple of 10, next multiple of 10.",00:06:17
+buxycxh,47,student,Yeah.,00:06:31
+buxycxh,48,tutor,What do they mean?,00:06:32
+buxycxh,49,student,"Uh, next multiple of 10 to the number. [unclear] What is the next multiple of 10 for 26?",00:06:36
+buxycxh,50,student,70 and 50. [unclear],00:06:47
+buxycxh,51,tutor,"Okay, so the previous multiple of 10 for this number is 20, and the next multiple of 10 is 26. Multiples of 10 is when you go up counting in tens. Okay. [unclear]",00:06:50
+buxycxh,52,tutor,"These are what we call multiples of 10. 10, 20, 30, 40, 50, 60, 70, 80, 90, 100. 20, 30, 40, 50, 70, 90, 100, 120, 170. See, all of these— the easiest way to say whether it's multiple of 10 is if they end in zeros.",00:07:33
+buxycxh,53,student,"Yeah, right.",00:08:01
+buxycxh,54,tutor,"So somehow you're going to go up in tens Now when you want the next and the previous multiple of 10, what we mean is",00:08:04
+buxycxh,55,background,"you go up counting in 10 until you don't go above this given number. We have 26 here, right?",00:08:13
+buxycxh,56,student,Right.,00:08:22
+buxycxh,57,tutor,"We have 26 here, and we have [UNCLEAR]. We're going up in 10s. Until you get very close to this number, which is 20. [unclear]",00:08:23
+buxycxh,58,tutor,"If you go more than that, then it's 30. But 30 is too much. So your previous multiple of 10 is 20, and after that, when you add one more 10, that's when you get the next multiple of 10. So that's for the number 26, 20 and 30.",00:08:40
+buxycxh,59,student,Yes.,00:09:04
+buxycxh,60,tutor,"If the number was different, let's say 58, what would be the multiple of 10 for this? [unclear]",00:09:04
+buxycxh,61,student,40?,00:09:16
+buxycxh,62,tutor,"Good try. It's actually 50 because you can actually add one more 10 and not go over this. If you add one more 10, If you add one more 10 to this, then you're going over it. That's how you decide. This is 50 and 60. You can do something like this. You can draw a line here. The previous multiple of 10 is going to be everything before this line.",00:09:21
+buxycxh,63,student,[unclear],00:09:47
+buxycxh,64,tutor,"So if the number was, let's say, 77.",00:09:48
+buxycxh,65,student,[unclear],00:10:03
+buxycxh,66,tutor,70.,00:10:03
+buxycxh,67,student,And 80.,00:10:06
+buxycxh,68,tutor,So this is your previous multiple of 10. This is the next. [unclear],00:10:07
+buxycxh,69,tutor,"If you do that line trick, the line over here, 7, that means it's 70, right? And you just change this to a 0, okay? Then if you do it with even bigger numbers, let's say 135.",00:10:28
+buxycxh,70,tutor,Right?,00:10:50
+buxycxh,71,student,Yeah.,00:10:51
+buxycxh,72,tutor,So the previous one to the left hand to this?,00:10:52
+buxycxh,73,student,"Is 100— oh no, um, 130.",00:10:58
+buxycxh,74,tutor,Yep. And the next one?,00:11:08
+buxycxh,75,student,And 140.,00:11:11
+buxycxh,76,tutor,"Yep, there you go. So those are your multiples of 10. Those are the previous multiples and the next multiples. All good?",00:11:14
+buxycxh,77,student,[unclear],00:11:21
+buxycxh,78,tutor,"Okay, so what they're saying is they have 2-digit numbers, right? So there's going to be 2 digits, but when you round them to 50, right?",00:11:22
+buxycxh,79,student,5.,00:11:22
+buxycxh,80,tutor,"Sorry, you don't round them to 50. You round them to the nearest 10. The answer that they get I get is 50. So which number is actually round to 50?",00:11:41
+buxycxh,81,student,"Around to 50? So I sense the first, I sense the one between, that equals 50.",00:11:52
+buxycxh,82,tutor,The one before. [unclear],00:12:09
+buxycxh,83,student,Are you talking about the multiplier 10?,00:12:11
+buxycxh,84,tutor,"So we need multiples of 10. Okay, we'll figure out how close we need to be to the number, right? The answer is rounded to 50 when you round it to the nearest tens. What kind of numbers can it be? [unclear]",00:12:19
+buxycxh,85,student,Rounded to the next tens.,00:12:36
+buxycxh,86,tutor,"Yeah, when you round to the nearest ten, you get your answer as 50. What numbers would be close enough so that they get rounded to 50? Any guesses?",00:12:38
+buxycxh,87,student,Yeah. 40.,00:12:50
+buxycxh,88,tutor,Okay.,00:12:55
+buxycxh,89,student,48.,00:12:58
+buxycxh,90,tutor,48.,00:13:02
+buxycxh,91,student,49. [unclear] [unclear],00:13:02
+buxycxh,92,student,51.,00:13:15
+buxycxh,93,tutor,50.,00:13:23
+buxycxh,94,student,47.,00:13:31
+buxycxh,95,student,46.,00:13:41
+buxycxh,96,tutor,46.,00:13:44
+buxycxh,97,student,And 45. [unclear],00:13:47
+buxycxh,98,tutor,"So, out of these numbers, which ones actually get rounded to 50?",00:13:56
+buxycxh,99,student,[unclear],00:13:59
+buxycxh,100,student,This one?,00:14:05
+buxycxh,101,tutor,"No. So do you remember how you round the numbers to 50? How do you decide? So what you did here was just thinking about, let's say, a number like this, 44. What is your previous multiple of 10?",00:14:08
+buxycxh,102,student,"40? [unclear] Out of these two, which one is it closer to?",00:14:24
+buxycxh,103,student,40.,00:14:35
+buxycxh,104,tutor,"Closer to 40, right? Why is it closer to 40?",00:14:37
+buxycxh,105,student,Because it's less than 5.,00:14:40
+buxycxh,106,tutor,"Yeah, so this is less than 5. This digit is less than 5. This is actually rounding down. So 44, when you round it to the nearest 10, you get 40. [unclear] So this can't be one of our numbers, right? Even though it's very close to 50, 50. It doesn't get rounded to 50. You understand what I'm saying?",00:14:44
+buxycxh,107,student,Yeah.,00:15:06
+buxycxh,108,tutor,So which number would actually get rounded to 50? [unclear],00:15:10
+buxycxh,109,student,49.,00:15:15
+buxycxh,110,tutor,"Okay, 49. Right.",00:15:24
+buxycxh,111,tutor,49?,00:15:32
+buxycxh,112,student,And 48.,00:15:34
+buxycxh,113,tutor,"48. So those are some numbers that get rounded to 50, right? Actually, every number from 45 onwards until which number gets rounded to 50?",00:15:35
+buxycxh,114,student,59. [unclear],00:15:52
+buxycxh,115,tutor,Does 59 actually get rounded to 50?,00:16:00
+buxycxh,116,student,[unclear],00:16:04
+buxycxh,117,tutor,Why not?,00:16:05
+buxycxh,118,student,It's larger than 5.,00:16:14
+buxycxh,119,tutor,Larger than 5. So it actually has to be less than 5. So which number would be the last number that gets rounded to 50?,00:16:18
+buxycxh,120,student,55.,00:16:25
+buxycxh,121,tutor,55? Does this get rounded to 50?,00:16:27
+buxycxh,122,student,"Oh no, 54.",00:16:34
+buxycxh,123,tutor,So 54. So did you see which number it starts rounding up and which number it ends?,00:16:36
+buxycxh,124,student,Yes.,00:16:46
+buxycxh,125,tutor,Which number does it start rounding up to 50? [unclear] [unclear],00:16:47
+buxycxh,126,tutor,And ends?,00:17:00
+buxycxh,127,student,At 54.,00:17:04
+buxycxh,128,tutor,"All of these numbers from here to here, they round?",00:17:07
+buxycxh,129,student,To 50.,00:17:12
+buxycxh,130,tutor,"So do you see that there are boundaries where they start rounding to one number, and then once you go a little bit below or a little bit more, they round to another number. Right? [unclear] So those are your boundaries of rounding, right, for each column. You understand that?",00:17:13
+buxycxh,131,student,Yeah.,00:17:36
+buxycxh,132,tutor,"You go to 55, then what does it get rounded to?",00:17:37
+buxycxh,133,student,60.,00:17:42
+buxycxh,134,tutor,"It goes to 60, right? If you go to 44, What does it get rounded to?",00:17:43
+buxycxh,135,student,[unclear],00:17:48
+buxycxh,136,tutor,"40. It gets rounded to 40, right? So it's only these numbers that get rounded to 50. So the boundary is 45 and 54. Understood?",00:17:49
+buxycxh,137,student,Understood.,00:18:04
+buxycxh,138,tutor,"Okay. Now you need to pick 2 numbers, alpha, beta, That also adds up to this. [unclear]",00:18:06
+buxycxh,139,student,99.,00:18:29
+buxycxh,140,tutor,"No, so what they want is 2 numbers out of these....that add up to 100.",00:18:35
+buxycxh,141,student,"Ah, okay. [unclear] [unclear]",00:18:43
+buxycxh,142,tutor,Are those numbers that round to 50?,00:19:28
+buxycxh,143,student,No.,00:19:31
+buxycxh,144,tutor,"They don't, right? So that's why I told you to pick out of these, because these are the numbers that round to 50.",00:19:32
+buxycxh,145,tutor,You understand?,00:19:40
+buxycxh,146,student,Yeah.,00:19:41
+buxycxh,147,tutor,So you're going to pick 2 numbers out of these that match up to make 100. [unclear] So pick one number and then find the other number that goes with it. [unclear],00:19:41
+buxycxh,148,student,[unclear] [unclear],00:20:05
+buxycxh,149,student,"[unclear] Okay, if you choose 45, what other number adds to make 100? [unclear]",00:20:25
+buxycxh,150,tutor,How much would you add to get to 100?,00:20:41
+buxycxh,151,student,1.,00:20:53
+buxycxh,152,background,And this one is divided by 2. [unclear],00:20:54
+buxycxh,153,student,No!,00:20:59
+buxycxh,154,tutor,M.,00:21:05
+buxycxh,155,student,43.,00:21:06
+buxycxh,156,tutor,No.,00:21:11
+buxycxh,157,student,Yeah.,00:21:12
+buxycxh,158,tutor,No.,00:21:13
+buxycxh,159,student,44.,00:21:14
+buxycxh,160,tutor,44? [unclear],00:21:17
+buxycxh,161,tutor,"So those numbers weren't numbers inside this, were they?",00:21:28
+buxycxh,162,student,No. And 45. And 51.,00:21:34
+buxycxh,163,tutor,"Okay, add them up and see if you get 100. [unclear]",00:21:46
+buxycxh,164,tutor,Why is it saying put your hands up?,00:22:04
+buxycxh,165,student,Hmm?,00:22:12
+buxycxh,166,tutor,And you get the Teacher. [unclear],00:22:12
+buxycxh,167,tutor,Okay.,00:22:15
+buxycxh,168,student,Okay. [unclear],00:22:29
+buxycxh,169,student,49.,00:22:44
+buxycxh,170,tutor,And?,00:22:54
+buxycxh,171,student,"10. 9. Yeah, 49 and 51. Okay, so that's a pair of numbers.",00:22:57
+buxycxh,172,student,So is that the answer?,00:23:14
+buxycxh,173,tutor,Yeah. So there's a few answers. This is one of them. What do you think? You can come up with another answer? [unclear] [unclear],00:23:16
+buxycxh,174,student,No.,00:23:45
+buxycxh,175,background,"Oh, you're fine. [unclear]",00:23:53
+buxycxh,176,student,No.,00:24:16
+buxycxh,177,tutor,"Okay, so the other answers are actually 48 and 52. That's one more pair.",00:24:17
+buxycxh,178,tutor,"47, 53, 46. [unclear] So 45 and the other number that goes with it is actually 50.",00:24:33
+buxycxh,179,tutor,We have a problem here. What's the problem?,00:24:55
+buxycxh,180,student,"50. It's over 5. I mean, it's—",00:24:59
+buxycxh,181,tutor,So 55 actually rounds to?,00:25:08
+buxycxh,182,student,60.,00:25:10
+buxycxh,183,tutor,"It rounds to 60. So this pair is out. So these are the only 4 answers. Do you see how this has one less than 50, this has one more than 50, this has two less than 50, this is two more than 50? So it's balancing each other, so you get 200. All right, so what did you learn about in this question?",00:25:11
+buxycxh,184,student,[unclear] [unclear],00:25:39
+buxycxh,185,tutor,You learned a little bit about boundaries of rounding.,00:25:47
+buxycxh,186,student,Yeah.,00:25:58
+buxycxh,187,tutor,"So rounding, if you explain it in a short way, how would you explain it to a friend?",00:25:59
+buxycxh,188,student,To round. How to round.,00:26:14
+buxycxh,189,tutor,Yeah.,00:26:18
+buxycxh,190,student,"If you want to learn how to round it, you need to know your boundaries and multiples of 10. [unclear]",00:26:20
+buxycxh,191,tutor,So what it means is actually this.,00:26:37
+buxycxh,192,student,Yeah.,00:26:48
+buxycxh,193,tutor,"When you're rounding, you're peaking between the previous multiple and the next multiple. All right?",00:26:49
+buxycxh,194,tutor,That's the idea. You're picking between the previous multiple of 10 and the next multiple of 10. And you're picking which one is closest. [unclear],00:27:06
+buxycxh,195,tutor,Right. So we'll go to the next lesson.,00:27:15
+buxycxh,196,student,Okay.,00:27:26
+buxycxh,197,tutor,"Okay, we're going to multiply and divide by 10 and 100. How are you with these? [unclear] Multiplying by 10 or hundreds? [unclear]",00:27:36
+buxycxh,198,tutor,"Okay, we'll find out! [unclear]",00:27:55
+buxycxh,199,student,Yeah?,00:28:11
+buxycxh,200,tutor,Mm-hmm. How do you get that?,00:28:22
+buxycxh,201,student,"I thought that you were timesing it by 10 and the number was 2,500. And since 10 has one zero, I just",00:28:29
+buxycxh,202,student,"I took away one zero. I took away one zero from this one, and then I got 350.",00:28:48
+buxycxh,203,tutor,"Okay. All right. If it was like this, if the answer was 2,500 sores and there was a blank here, but this was divided by 10, what would be the answer then?",00:29:00
+buxycxh,204,student,Did I have to say it? [unclear],00:29:24
+buxycxh,205,tutor,"25,000?",00:29:34
+buxycxh,206,student,Yep.,00:29:42
+buxycxh,207,tutor,Why is it different here?,00:29:47
+buxycxh,208,student,"Because with dividing, [unclear] I like to think of it as a place value chart. With timesing, you're adding, so then you add— yes, you add the zeros on. And with dividing, you're taking the zeros away. [unclear]",00:29:49
+buxycxh,209,tutor,"All right, great effort trying to explain that. So this is where we use something called the inverse, and you actually use the inverse along with what you said, the base value. So Have you used place value charts to multiply or divide by 100 or 10 earlier?",00:30:24
+buxycxh,210,student,Yeah.,00:30:50
+buxycxh,211,tutor,How would you do? [unclear],00:30:51
+buxycxh,212,student,"You see, dividing by 100 and 10 or multiplying. Yeah.",00:30:55
+buxycxh,213,tutor,"I'm just asking, how do you do it with each one? Do you know?",00:31:05
+buxycxh,214,student,Yeah.,00:31:10
+buxycxh,215,student,"With multiplying, if you multiply by 100, 100 has 2 zeros. Is it? [unclear] Okay, then it has 2 zeros, so you're moving the numbers 2 times to the left. And with dividing, If you're doing it with 100, you're moving it 2 times to the right.",00:31:12
+buxycxh,216,tutor,"Very, very clearly explained. Great. And if you're doing it with 10?",00:31:49
+buxycxh,217,student,Anything [UNCLEAR].,00:31:59
+buxycxh,218,tutor,And if you do it with 10?,00:32:03
+buxycxh,219,student,You move it one place to the left and one place to the right.,00:32:06
+buxycxh,220,tutor,"Alright, so you already have a good idea about this. So we'd like you to try a few questions, okay? Oh, huh?",00:32:13
+buxycxh,221,tutor,"Funny-looking picture, huh?",00:32:38
+buxycxh,222,student,Yes.,00:32:39
+buxycxh,223,tutor,Do you understand it? What's happening there? [unclear] [unclear],00:32:41
+buxycxh,224,student,And now the second one is 1/3 because 1/3 is the second.,00:33:01
+buxycxh,225,tutor,Okay. [unclear],00:33:17
+buxycxh,226,student,Yeah.,00:33:23
+buxycxh,227,tutor,Better. [unclear],00:33:37
+buxycxh,228,tutor,the toilet. [unclear],00:33:37
+buxycxh,229,tutor,Yeah. Let's go to the next one.,00:34:26
+buxycxh,230,student,No!,00:34:34
+buxycxh,231,tutor,"Um, Background?",00:34:36
+buxycxh,232,tutor,Or the new mate is gonna be the same. [unclear],00:34:43
+buxycxh,233,tutor,"One, like you would have one for the new mate.",00:34:53
+buxycxh,234,student,"No, no, no, no.",00:34:59
+buxycxh,235,tutor,It's the one. [unclear] [unclear],00:35:06
+buxycxh,236,student,Can I at least tell you it? Can I tell you?,00:35:34
+buxycxh,237,tutor,I'm not sure.,00:35:40
+buxycxh,238,student,"I understand that the denominator changes but the numerator doesn't because in every single [unclear] in here we got all 1s. And I get 4 here. Because 1/3, 1/4, 1/5, 1/6, 1/10, 1/11, 1/12, 1/13, 1/14, 1/15, 1/16, 1/17, 1/18, 1/19, 1/20. [unclear]",00:35:44
+buxycxh,239,student,And that's 8.,00:36:13
+buxycxh,240,tutor,Is that correct?,00:36:14
+buxycxh,241,student,Yeah.,00:36:16
+buxycxh,242,tutor,Yeah.,00:36:17
+buxycxh,243,student,"So then 2,000 divided by 130. [unclear]",00:36:17
+buxycxh,244,tutor,Correct?,00:36:57
+buxycxh,245,student,Yeah.,00:37:10
+buxycxh,246,student,"Oh, okay. Is that just at the bottom? How can you? Is that a question? [unclear]",00:37:16
+buxycxh,247,tutor,"This is not a question. These are just to help you with these, right? [unclear]",00:37:30
+buxycxh,248,tutor,"Oh, and [UNCLEAR]?",00:37:43
+buxycxh,249,student,[unclear],00:37:43
+buxycxh,250,student,[unclear] [unclear],00:38:11
+buxycxh,251,student,[unclear] [unclear],00:38:27
+buxycxh,252,student,So... [unclear],00:38:37
+buxycxh,253,student,I don't think that's correct.,00:39:10
+buxycxh,254,tutor,Yeah? Is it?,00:39:17
+buxycxh,255,background,You think it's not correct? Why is that?,00:39:20
+buxycxh,256,student,I did the calculations with the place value chart. And then I ended up getting 5 points. [unclear],00:39:23
+buxycxh,257,tutor,"Okay, it's all right.",00:39:36
+buxycxh,258,student,"50. I want to try that. Let me work it out. Oh, I didn't get broke out yet. Okay. [unclear] [unclear]",00:39:59
+buxycxh,259,student,There we go.,00:40:22
+buxycxh,260,tutor,Yeah?,00:40:36
+buxycxh,261,student,Yep.,00:40:45
+buxycxh,262,tutor,Great.,00:40:47
+buxycxh,263,tutor,"So do you see this, right? This is actually showing the calculation when you go forwards and in reverse. So when you do the reverse, that's when we call it the inverse, right? They've done the opposite to the answer. You get it?",00:40:52
+buxycxh,264,student,Yeah.,00:41:12
+buxycxh,265,tutor,"So that's the same idea that they use for these questions. You see? You start Starting with 150 and you multiply by 10. So if you are given the answer, then you do the opposite. So 1,500 divided by 10 to get this. That's how you actually find missing numbers if the question doesn't give you the answer. Right?",00:41:14
+buxycxh,266,student,Right.,00:41:40
+buxycxh,267,tutor,"So for this one, what's the opposite calculation? [unclear] So what's the inverse calculation for C?",00:41:41
+buxycxh,268,student,N.,00:41:49
+buxycxh,269,tutor,"So you take 1,000— sorry, 130, and you times it by?",00:41:54
+buxycxh,270,student,10.,00:42:02
+buxycxh,271,tutor,"10. You get that, right? [unclear] [unclear]",00:42:02
+buxycxh,272,student,Is this supposed to be a trick question that I'm gonna be stuck on?,00:42:24
+buxycxh,273,tutor,Why do you say that?,00:42:30
+buxycxh,274,student,I don't like these GoFuzzers.,00:42:32
+buxycxh,275,tutor,No. What? No. No. Why do I keep pressing zero? [unclear],00:42:44
+buxycxh,276,student,"Is it 1,000?",00:42:57
+buxycxh,277,student,"1,900.",00:43:12
+buxycxh,278,tutor,Mm-hmm. Anything missing?,00:43:15
+buxycxh,279,student,No.,00:43:20
+buxycxh,280,tutor,"Units. You have units in this question, right?",00:43:24
+buxycxh,281,student,Yeah. Is that miles? Miles. [unclear],00:43:34
+buxycxh,282,tutor,M is for meters. M is for meters. Okay. So how did you find this lesson? Anything new that you learned?,00:43:45
+buxycxh,283,student,No.,00:43:59
+buxycxh,284,tutor,Nothing?,00:44:01
+buxycxh,285,student,"No, nothing. So maybe just remember the name that we call",00:44:02
+buxycxh,286,background,"inverse method. When you are missing a number here, you do the opposite to the answer.",00:44:08
+buxycxh,287,student,Yeah.,00:44:15
+buxycxh,288,tutor,"That's called the inverse. All right, then what do you think you did well today? [unclear] [unclear]",00:44:15
+buxycxh,289,tutor,You did well there?,00:44:42
+buxycxh,290,student,Yes.,00:44:46
+buxycxh,291,tutor,Okay. What do you mean? Which parts?,00:44:46
+buxycxh,292,student,"Like with doing the end, the end",00:44:54
+buxycxh,293,student,on the questions where we did [UNCLEAR].,00:44:54
+buxycxh,294,tutor,"Yeah, so I think you did well with finding out the inverse method and using that quite clearly here, although you didn't know the name. And I think one thing you can improve on is I think you get the idea of rounding, just recall it, right? Don't forget it. Because I think we talked about everything we talked about today last time as well, right? About rounding?",00:45:00
+buxycxh,295,student,Yes.,00:45:29
+buxycxh,296,tutor,So there were important words there. Do you remember the important words?,00:45:29
+buxycxh,297,student,[unclear],00:45:33
+buxycxh,298,tutor,Okay. Which ones?,00:45:34
+buxycxh,299,student,T-digit.,00:45:41
+buxycxh,300,tutor,T-digit.,00:45:42
+buxycxh,301,student,[unclear],00:45:44
+buxycxh,302,tutor,"Previous multiple, next multiple.",00:45:46
+buxycxh,303,tutor,Yeah.,00:45:52
+buxycxh,304,background,Right.,00:45:53
+buxycxh,305,tutor,"So those are some important— All right then. I think we'll end it there then, okay? Hope you have a good rest of the day there, Callum. I'll see you soon.",00:45:53
+buxycxh,306,student,You too. Bye.,00:46:02
+buxycxh,307,tutor,Bye.,00:46:03

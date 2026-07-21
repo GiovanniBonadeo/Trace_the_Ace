@@ -1,0 +1,285 @@
+session_id,utterance_id,role,content,timestamp
+ifqplbl,0,tutor,Hello.,00:00:00
+ifqplbl,1,background,[unclear],00:00:00
+ifqplbl,2,student,Hello.,00:00:00
+ifqplbl,3,tutor,"Hi Tobias, how are you doing today?",00:00:01
+ifqplbl,4,student,Good.,00:00:04
+ifqplbl,5,tutor,"Okay, that's amazing to know. So what were you doing before you joined this session?",00:00:06
+ifqplbl,6,student,playing football.,00:00:06
+ifqplbl,7,tutor,"Playing football? Okay, so did you win?",00:00:06
+ifqplbl,8,student,"No, maybe. Actually, I don't know the score.",00:00:19
+ifqplbl,9,tutor,"Oh, you don't know the score. So anyhow, I'm glad that you had fun and had a good time playing football. So today also, we are going to do morning sessions together. So feel free to ask any questions possible. [unclear] I'm always here to help you out. Okay?",00:00:23
+ifqplbl,10,student,Okay.,00:00:44
+ifqplbl,11,tutor,"All right, so you might remember we started working on rounding numbers to the nearest 10,000 and 100,000 last week.",00:00:46
+ifqplbl,12,student,"Yeah, yes.",00:01:01
+ifqplbl,13,tutor,"Yeah, so what do you already remember about rounding numbers?",00:01:02
+ifqplbl,14,student,"I remember about rounding numbers. If it's, let's say, what does it round to? And if the numbers are 10,560 or 20,000, I would go for 20,000 because it's closer to 20,000.",00:01:10
+ifqplbl,15,tutor,"Okay, so rounding is like finding the closest multiple the given number. So we can use a number line to get to the answer by finding the previous and the next multiple, or we can look at the previous column of the one we are rounding to, to figure out whether we are rounding up or down. Yeah?",00:01:31
+ifqplbl,16,student,Yes.,00:01:57
+ifqplbl,17,tutor,"Yes. So with that recalling, I'm going to model this follow me question for you. So carefully watch my steps, then And after that, you will be able to give a good try and do the next one on your own. Okay?",00:01:58
+ifqplbl,18,student,Okay.,00:02:16
+ifqplbl,19,tutor,"All right. In this question, I will show how we can round to the nearest 100,000. First of all, using the number line. So my number is 976,532. Yeah?",00:02:17
+ifqplbl,20,student,"Yes. [unclear] So when we count in multiples of 100,000, we know that [unclear] our number is after 900,000, isn't it?",00:02:37
+ifqplbl,21,student,Yeah.,00:02:53
+ifqplbl,22,tutor,"Yeah. And also it is before 1 million. So these are the two multiples which are closest to, isn't it?",00:02:54
+ifqplbl,23,student,Yes.,00:03:08
+ifqplbl,24,tutor,"Yes. And if we find the halfway point to make it more easier, right in middle, we would have a 950 [UNCLEAR]. So now if we estimate where our number might be, since it is after 97,000, maybe Somewhere around here. Yeah.",00:03:08
+ifqplbl,25,student,Yes.,00:03:36
+ifqplbl,26,tutor,"Here's the line, and we can estimate where the number might be on the number line. So if we can't work with a number line, another way is to round nearest hundred thousand. We look at the digit in the ten thousands column, the previous column. Okay, okay. So since we have a 7 here, we know it is more than 50,000, which is halfway point. So definitely that means we are rounding up. So that would be 1 million, final answer. Okay. [unclear]",00:03:36
+ifqplbl,27,student,Yes.,00:04:23
+ifqplbl,28,tutor,Yes. So would you like to try the next the first one on your own. Yeah?,00:04:25
+ifqplbl,29,student,"Okay. [unclear] So round 272,256 to the nearest 10,000.",00:04:30
+ifqplbl,30,tutor,"Is it 10,000?",00:04:44
+ifqplbl,31,student,"Oh, 100,000.",00:04:47
+ifqplbl,32,tutor,"100,000. Good work in correcting it. Now, what should we do first?",00:04:49
+ifqplbl,33,student,"The previous multiple of 10— I mean 100,000 is 200,000.",00:04:57
+ifqplbl,34,tutor,"Okay, yeah, it is.",00:05:06
+ifqplbl,35,student,"Then the next one is 300,000.",00:05:11
+ifqplbl,36,tutor,"300,000, very good. And what would be the halfway point? [unclear]",00:05:19
+ifqplbl,37,tutor,"Uh-huh. And what would be the value of that marked place, marked position?",00:05:29
+ifqplbl,38,student,"Uh, 250,000.",00:05:37
+ifqplbl,39,tutor,"250,000. Well said. Now, how can we figure out to which multiple we are more closer to? [unclear]",00:05:41
+ifqplbl,40,student,"We could check where the number is because it will be 1, 2, and then it's 2,000. So I think the number is here.",00:05:55
+ifqplbl,41,tutor,"Very good. I really like how you did the estimation. Great work again. Now let's say without using the number line, how can we do the rounding?",00:06:08
+ifqplbl,42,tutor,So let's head on to the next part.,00:06:19
+ifqplbl,43,student,"The digit of the 10,000 place is 70,000. So... [unclear]",00:06:25
+ifqplbl,44,tutor,"When we say digit Tobias, what should we write?",00:06:39
+ifqplbl,45,tutor,Digit?,00:06:47
+ifqplbl,46,student,7.,00:06:48
+ifqplbl,47,tutor,"Oh, 7. Very good. So what is 70,000 then?",00:06:50
+ifqplbl,48,student,"Um, the digit is 7.",00:07:00
+ifqplbl,49,tutor,"The digit is 7, and 70,000 is the value of the digit.",00:07:02
+ifqplbl,50,tutor,"Yes, so that is the value. All right, so that's corrected, and we'll keep only this 7. All right, now question 6. So how would this help us to find out to which multiple we are closest to?",00:07:12
+ifqplbl,51,student,"Because it's over 5, so I think it's closer to 300,000.",00:07:40
+ifqplbl,52,tutor,Very good. So let's put the answer. [unclear] So what can we learn from this rounding question?,00:07:46
+ifqplbl,53,student,Which method is...,00:08:05
+ifqplbl,54,student,"Yeah, I think I've learned the method of making sure where the number is on the like number line. [unclear]",00:08:09
+ifqplbl,55,tutor,"So why is it important, like especially figuring out the previous and the next multiple and figuring out the halfway point? So why do you think it's important for our estimation?",00:08:22
+ifqplbl,56,student,"Um, so then you know which number it's closest to.",00:08:38
+ifqplbl,57,tutor,"Exactly. So if we accidentally didn't find the correct closest numbers to the given number we are marking, then we will round in a wrong way. Yeah?",00:08:42
+ifqplbl,58,student,Yes.,00:08:55
+ifqplbl,59,tutor,"Yes, and I really like how closely accurate we are to the exact position since we don't have exactly the middle intervals, like how much we have in between each big interval. We don't know exactly whether it is true or not what we mark, but that would be the closest we can get. Yeah?",00:08:56
+ifqplbl,60,student,[unclear],00:09:20
+ifqplbl,61,tutor,Yes. Okay. So good work here on this slide and discussing about rounding. So now we'll move on and see how we can practice more.,00:09:20
+ifqplbl,62,tutor,"So here we go. Let's read the question 1 and give it a good try. Round these numbers to the nearest thousand, ten thousand, and hundred thousand. Okay, so what is the first number we are going to round? [unclear]",00:09:33
+ifqplbl,63,student,"It says it's 782,009.",00:09:55
+ifqplbl,64,tutor,"Yes, it is. So how do you round this to the nearest thousand?",00:10:02
+ifqplbl,65,student,"If it's under 5, drop it below. Over 5, you bring it up.",00:10:09
+ifqplbl,66,tutor,"Yeah, that is the common rounding rule, well said. So how would it apply when we're rounding to the nearest thousand? Like, which column should we look at?",00:10:15
+ifqplbl,67,background,"The 10,000 column.",00:10:25
+ifqplbl,68,student,[unclear],00:10:30
+ifqplbl,69,tutor,"I mean 1,000. I mean 1,000.",00:10:30
+ifqplbl,70,background,"1,000. So we change the 1,000 by looking at which column?",00:10:35
+ifqplbl,71,student,"The 1,000 column.",00:10:41
+ifqplbl,72,background,"1,000, yeah. But how do we know whether we are rounding the thousands up or down? How do we figure out?",00:10:46
+ifqplbl,73,student,Down.,00:10:55
+ifqplbl,74,background,Down.,00:10:56
+ifqplbl,75,student,Down.,00:10:58
+ifqplbl,76,tutor,So why is that? What's the reason behind it?,00:10:58
+ifqplbl,77,student,Because it's under the 500.,00:11:01
+ifqplbl,78,tutor,"It is under the 500, so that means we look at the hundreds to decide whether we round the thousands up or down.",00:11:06
+ifqplbl,79,student,Down.,00:11:16
+ifqplbl,80,background,Yeah.,00:11:17
+ifqplbl,81,tutor,"Yes, very good. So that is a good start for this question. Now we'll go to the nearest 10,000 next.",00:11:18
+ifqplbl,82,tutor,Okay.,00:11:26
+ifqplbl,83,student,"I think the nearest 10,000 is 780,000. [unclear]",00:11:29
+ifqplbl,84,tutor,"Okay. So how do we know that it is the nearest 10,000?",00:11:38
+ifqplbl,85,student,"Because it's under 5,000.",00:11:47
+ifqplbl,86,tutor,"Under 5,000. So this time, which place value did we look at when we were changing the 10,000?",00:11:51
+ifqplbl,87,tutor,the one thousandths?,00:11:51
+ifqplbl,88,student,Yeah.,00:11:51
+ifqplbl,89,tutor,"The one thousandths. Very explained. Now, the nearest hundred thousand.",00:12:00
+ifqplbl,90,background,three thousand.,00:12:00
+ifqplbl,91,student,"The nearest hundred thousand is... 800,000.",00:12:00
+ifqplbl,92,tutor,"So why would it be 800,000. [unclear]",00:12:22
+ifqplbl,93,student,"It's over 50,000.",00:12:29
+ifqplbl,94,tutor,"It is over 50,000. Excellent work. So now we can move on to the question B next. Let's try that.",00:12:32
+ifqplbl,95,student,"Um, it's— the number is 299,999. [unclear]",00:12:44
+ifqplbl,96,tutor,"So if we round it to the nearest thousand, how do we do that?",00:12:51
+ifqplbl,97,student,Checking the hundreds column.,00:13:00
+ifqplbl,98,tutor,So what did you notice when you look at the hundreds?,00:13:04
+ifqplbl,99,student,"That it's way over 500, so we need to bring it up to",00:13:09
+ifqplbl,100,student,"300,000?",00:13:09
+ifqplbl,101,tutor,"Yes, it is. So we kind of regroup like how we do the addition, isn't it?",00:13:09
+ifqplbl,102,student,Yeah.,00:13:26
+ifqplbl,103,tutor,"Yeah. Now what about the nearest 10,000 then?",00:13:27
+ifqplbl,104,student,"It's quite easy because it's... they're all 99, so it should... the nearest 10,000 should be",00:13:32
+ifqplbl,105,student,"Again, 300,000.",00:13:42
+ifqplbl,106,tutor,"Yes, it is. There you go. Well done. Now the last one also.",00:13:46
+ifqplbl,107,student,"It's also 300,000.",00:13:53
+ifqplbl,108,tutor,"300,000. So what are the important things we can learn after doing these two parts of the question?",00:13:57
+ifqplbl,109,student,"Um, if you see that there's like, um, hold on, multiple nines like this, uh, it's guaranteed that one of the questions will be 300,000 or more. [unclear]",00:14:09
+ifqplbl,110,tutor,"Yeah, that was a good way of explaining it. So that is something we had to remember. So we can always look ahead with the place values and see whether we got it right or not. Yeah.",00:14:25
+ifqplbl,111,student,Yes.,00:14:41
+ifqplbl,112,tutor,"Okay, [unclear] amazing work on this slide. Now we can go ahead to the go further question next. So shall we read it?",00:14:42
+ifqplbl,113,student,"Okay. Hokey is thinking of a number. When rounded to the nearest 10,000, it's 350,000. When rounded to the nearest 100,000, it's 4—",00:14:52
+ifqplbl,114,tutor,"400,000. Can you give a number that he could be thinking of?",00:14:52
+ifqplbl,115,student,"Okay, so what do you think? [unclear]",00:14:52
+ifqplbl,116,tutor,"I think that it could possibly be 354,000.",00:15:19
+ifqplbl,117,student,"354,000, okay. So why do you think it is the answer?",00:15:27
+ifqplbl,118,student,"Oh wait, no, it's 3— actually no, because if it's 354,000, it will round down and stay at 350,000. And on this one, rounded to the nearest 100,000, since it's over 50,000, it should round up. So that should be the number.",00:15:37
+ifqplbl,119,tutor,"Mm-hmm. Okay, so that was a good reasoning behind it. So does that mean like we would have only one number number for this question, or will there be more options?",00:16:00
+ifqplbl,120,student,"There will be more options if you add numbers to the ones, tens, or hundreds.",00:16:12
+ifqplbl,121,tutor,"Exactly. So shall we write the number and then we'll discuss more? [unclear] All right. So they're telling if we round to the 10,000, it becomes 350,000.",00:16:18
+ifqplbl,122,tutor,"Yes, yes, yes, we can agree with it with our number. When rounding to the nearest 100,000, it is 400,000. So that will also happen, isn't it?",00:16:41
+ifqplbl,123,student,Yes.,00:16:55
+ifqplbl,124,tutor,"Yeah, so that will also, uh, will work with the given number. So can you think of another number as well?",00:16:56
+ifqplbl,125,student,"Well, there could be a lot. There could also be 353,000 and also 352,000, and then the other one, and then the last, then basically the last one was 350,000.",00:17:06
+ifqplbl,126,tutor,"1,000. [UNCLEAR]",00:17:06
+ifqplbl,127,student,"I don't know, but I think possibly 350,000.",00:17:34
+ifqplbl,128,tutor,"300 and... 350,000, yeah.",00:17:45
+ifqplbl,129,student,Yeah.,00:17:53
+ifqplbl,130,tutor,"Yeah, because it still says 350,000 when we round to the nearest 10,000 because of the placeholders. Yeah?",00:17:53
+ifqplbl,131,student,Yes.,00:18:04
+ifqplbl,132,tutor,"And then also with the second one, it will round up to 400,000. So yes, it is. So we have lots of options like [unclear] reasoning question. So overall, Tobias, how was it for you doing this set of questions?",00:18:05
+ifqplbl,133,student,"I mean, the first two were easy, but this one I had to think like of like all the numbers it could be.",00:18:24
+ifqplbl,134,tutor,"Mm-hmm. Yes, it is. So when we are especially working with rounding, so there are different types of questions we'll be getting. Some might be directly asking us to find out, to round and see what do we get, or there might be questions like this. Yeah?",00:18:34
+ifqplbl,135,student,Yes.,00:18:55
+ifqplbl,136,tutor,"Yes, I hope the questions we did in this lesson will be useful for you. Understand different strategies and different kinds of questions related to rounding as well. Okay?",00:18:56
+ifqplbl,137,student,[UNCLEAR],00:18:56
+ifqplbl,138,tutor,"Okay. All right. So with your awesome effort in explaining how you thought about this lesson and what we learned here, we can move on to the new lesson next. So here we go. All right, shall we read the [unclear] first?",00:19:14
+ifqplbl,139,student,Comparing the numbers up to 2 decimal places.,00:19:40
+ifqplbl,140,tutor,"Okay, so let's start with the learning goal question first. The table shows how far some children jumped in the long jump.",00:19:46
+ifqplbl,141,tutor,Write the name of the child who jumped the furthest. [unclear],00:19:56
+ifqplbl,142,student,So how do we figure it out?,00:20:03
+ifqplbl,143,tutor,"It's like you may think, oh, this is just 2.09, but no, it's 2.9, and this is 2.5, 2.45, 2.03, so I think it's [unclear]",00:20:08
+ifqplbl,144,tutor,Excellent. I really like how you reason out all the given numbers in the given table. So that helps us to figure out which ones would work or which ones we need— we don't need to think of. Yeah.,00:20:26
+ifqplbl,145,student,Yes.,00:20:44
+ifqplbl,146,tutor,"Okay, so good work here on the slide. Again, on your own. I'm so proud of you. So",00:20:45
+ifqplbl,147,tutor,What do you know about these signs? Can you tell me?,00:20:54
+ifqplbl,148,student,That is like— my teachers call them like crocodiles. [unclear],00:20:58
+ifqplbl,149,tutor,"Oh, that's fine.",00:21:05
+ifqplbl,150,student,"Okay. So it's use left or right crocodile. Or equal. Let's say like a number is one, then there's another number two. The crocodile would be facing the two because it's higher.",00:21:14
+ifqplbl,151,tutor,"Yes, it is. That was a good description on what these symbols are. So it's like a crocodile who likes to eat a lot will open the mouth. Yeah?",00:21:32
+ifqplbl,152,student,Yeah.,00:21:44
+ifqplbl,153,tutor,"Yes. So with that discussion on how we can compare numbers, especially up to two decimal places, we will move on and see how we can practice more. Okay, so I really like that you attempted this question also. So how do we know exactly that this is the larger number?",00:21:45
+ifqplbl,154,student,"Because some people think, oh, this is higher than 31, 62 is higher than 31 obviously, but there is a 1 here.",00:22:10
+ifqplbl,155,student,"So, and they have a zero. They have one, they have zero ones. They only have 60— 0.62. We have 1.31, which is higher.",00:22:19
+ifqplbl,156,tutor,"Yes, it is. So that is how we can figure it out by comparing one by one. So now here we go to the [unclear] slide straight away, and we'll see how we can understand it better.",00:22:32
+ifqplbl,157,tutor,"Okay, so shall we start with the question?",00:22:49
+ifqplbl,158,student,Write the decimal number shown comparing left or right [unclear] or equal.,00:22:55
+ifqplbl,159,tutor,"Okay, so what do you think we have to do first?",00:23:04
+ifqplbl,160,student,"If they mean in circles,",00:23:13
+ifqplbl,161,student,"It must be [unclear] 2, 3, 4, 5. Oh, so it must be— this is 100 and this is 15. Oh no, 25. So then if we add them together, it should be 125.",00:23:15
+ifqplbl,162,tutor,So are they whole numbers?,00:23:37
+ifqplbl,163,student,"Uh, yes?",00:23:43
+ifqplbl,164,tutor,"There is a whole number. The 1 is a whole number, but the rest of it, the tens, the hundreds, what do you think?",00:23:45
+ifqplbl,165,student,I don't think that's a whole number because it shows 5s as well.,00:23:55
+ifqplbl,166,tutor,So here we can see that. So this is a 1 whole. Yeah.,00:24:01
+ifqplbl,167,student,Yeah.,00:24:08
+ifqplbl,168,tutor,"And then here we have 2 tenths, isn't it?",00:24:09
+ifqplbl,169,student,Yes.,00:24:13
+ifqplbl,170,tutor,"2 tenths. Because if it is a whole, it will be 10 tenths. So since this is 2 tenths, which is 0.2. Yeah. [unclear] And if we add, so there are 5 hundredths here out of all the hundred squares. There are 5 hundredths here, which is same as 0.05. Got it?",00:24:13
+ifqplbl,171,student,Yes.,00:24:50
+ifqplbl,172,tutor,"So that is how they turn into decimals. This is the whole number, these are the tenths, and these are the hundredths. So if we add all of them together, what do we get?",00:24:50
+ifqplbl,173,student,"Um, we get 1.225.",00:25:04
+ifqplbl,174,tutor,"There you go, 1.25. How famous is that? Let's figure out the next number.",00:25:16
+ifqplbl,175,student,"Um, isn't it 1.05?",00:25:25
+ifqplbl,176,tutor,"Yes, it is 1.05. There you go. Now let's compare. What do you think?",00:25:29
+ifqplbl,177,student,"I think that, um, this one is bigger.",00:25:41
+ifqplbl,178,tutor,"Uh, which one? 1.25 or 1.05?",00:25:49
+ifqplbl,179,student,1.25.,00:25:54
+ifqplbl,180,tutor,1.25. And how do you know that is a bigger number?,00:25:57
+ifqplbl,181,student,"Because it has a 2 here, it doesn't have a 2 here, and it's higher because it's a 0— if we take away the 1, yeah, it's 0.25 and it's 0.5.",00:26:03
+ifqplbl,182,tutor,"Yes, it is. So we can do the questions carefully like this by comparing them carefully. So when we have If we have the same digit in the largest column, then we have to look at the next largest column, isn't it?",00:26:18
+ifqplbl,183,student,Yes.,00:26:36
+ifqplbl,184,tutor,Yeah. So are you drawing the crocodile mouth? [unclear],00:26:37
+ifqplbl,185,background,"So that's great there and wonderful. So good job in comparing them carefully and not giving up, Tobias. Now let's try the question B next. Complete using the correct symbol. I think it's 2.6. [unclear]",00:26:44
+ifqplbl,186,tutor,"Okay, and how do we know that?",00:27:09
+ifqplbl,187,student,"Because this is 2.06, this is 2.6.",00:27:15
+ifqplbl,188,tutor,"Yes, it is. So here in the tens column, we have a 6. Here we have a 0. From that, we can decide. Yeah?",00:27:22
+ifqplbl,189,student,Yes.,00:27:31
+ifqplbl,190,tutor,"Okay, then the last one, question C.",00:27:32
+ifqplbl,191,student,"Um, it's either 1.08 or 1. They must have done it wrong. [unclear]",00:27:38
+ifqplbl,192,student,"Because it's just the 1 and this is 1 point— wait, what digit could go in the empty space to make this correct?",00:27:49
+ifqplbl,193,tutor,Aha.,00:28:02
+ifqplbl,194,student,So that means—,00:28:02
+ifqplbl,195,tutor,What should we do?,00:28:04
+ifqplbl,196,student,It could literally be a 1 and it would be good because this would be 1.15,00:28:08
+ifqplbl,197,student,than 1.8. So 1.15 would be greater than 1.8. [UNCLEAR],00:28:08
+ifqplbl,198,tutor,"Fantastic. I really like how you were able to think of it carefully and figure out what other options are also available for a given calculation. So good work here again by doing it. So now with that said, we can go to go for the question next and try that one out. So this is a bit similar to the very beginning question, isn't it? Yeah?",00:28:25
+ifqplbl,199,student,Yes.,00:28:55
+ifqplbl,200,tutor,Okay. So let's tackle this also.,00:28:56
+ifqplbl,201,background,[UNCLEAR],00:28:56
+ifqplbl,202,tutor,I think it's 3.4.,00:29:02
+ifqplbl,203,tutor,Mm-hmm. Okay. So why do you think it's max?,00:29:05
+ifqplbl,204,student,"Because this is 3.04, it can't be that. This is 2.84, it can't— it's not greater than 3.4. This is 3.19, it could work, but it's not higher than 3.4. Same with 3.9, it's close, but",00:29:14
+ifqplbl,205,student,"It can't be 3.4, so 2.9 isn't greater than 3.4.",00:29:32
+ifqplbl,206,tutor,"Yeah, so that is a good way of doing this. And also, good job in crossing over the ones that we think which are not correct or closer to the estimation. So therefore, how or who",00:29:37
+ifqplbl,207,tutor,"Exactly. John, the furthest then during the combination?",00:29:59
+ifqplbl,208,student,"Max, because he's next to the— he's next to the 3.4.",00:30:05
+ifqplbl,209,tutor,"Yes, it is. So in some questions, they might not ask you to write the answer itself. They will ask you to write a name like this. So you have to [unclear]",00:30:12
+ifqplbl,210,student,"Yeah. Who jumped the furthest and won the competition? Max. Oh wait, one sec. [unclear] Max.",00:30:25
+ifqplbl,211,tutor,"Okay, there you go. So we completed comparing numbers with up to 2 decimal places. So before we go to the next lesson, what are the important details we have to remember?",00:30:35
+ifqplbl,212,tutor,[UNCLEAR],00:30:35
+ifqplbl,213,student,"We had to remember where, like, some people would think, oh, it's 2.84, that's higher than 3.84 because the decimals are higher, but, and some people get tricked on that, but sometimes you just have to check just in case. [unclear]",00:30:56
+ifqplbl,214,tutor,"Yeah, that's true. So those are pretty amazing, uh, good reasoning and a good discussion we had here on this given lesson, the second lesson we just completed. So with that said, I think we can see what else we'll be learning today. So here we go. All right, now what are we going to do next? [unclear]",00:31:21
+ifqplbl,215,student,"It says complete the calculation. 2.06, I think that equals 206.",00:31:47
+ifqplbl,216,tutor,206. So how did we know that?,00:32:04
+ifqplbl,217,student,"Because 0.06 times 100, we jump",00:32:08
+ifqplbl,218,student,Twice.,00:32:15
+ifqplbl,219,tutor,Yeah.,00:32:16
+ifqplbl,220,student,"And then that is 100. And then on the 2, we also jump twice.",00:32:17
+ifqplbl,221,tutor,"Mm-hmm. Yes, it is. So when we multiply by 100, the number gets 100 times larger. So we move towards the whole number side. So therefore we move 2 places to the left to make it 206. Yeah?",00:32:28
+ifqplbl,222,student,Yes.,00:32:48
+ifqplbl,223,tutor,"Okay, so with that said, we'll be working with multiplying and dividing all numbers and decimals by 10 and 100. So I think we can start [unclear] straight away. So shall we do the question again? Use the Gattegno charts to work out 0.95 times 100.",00:32:49
+ifqplbl,224,tutor,"Okay, so how can I use this Gattegno chart?",00:33:18
+ifqplbl,225,student,I guess you could check on the [unclear] chart,00:33:28
+ifqplbl,226,tutor,So what do you notice about this given chart?,00:33:38
+ifqplbl,227,student,"That it goes to 120, 340, 50, 60, 70, 80, 90. It goes all the way up to 9, but it doesn't go higher because there's no [UNCLEAR]. Then let's say it's 1, 2, 3, 4, 5, 6, 7, 8, 9, 8, 9, and it's this one, and there's no point going there because there's just no point.",00:33:44
+ifqplbl,228,tutor,"Yeah, so in the [unclear] chart we can see lots of values. So we can also notice that when we move up, the number gets larger, isn't it?",00:34:09
+ifqplbl,229,student,Yes.,00:34:22
+ifqplbl,230,tutor,"Yeah, like 9 became 90, 90 became 900, so it gets 10 times larger each time when we move up, and the opposite will happen if we move down. Okay?",00:34:23
+ifqplbl,231,student,[unclear],00:34:35
+ifqplbl,232,tutor,"Yep. All right. Now then, if we are to multiply 0.95 by 100, how do we find the answer using the chart?",00:34:36
+ifqplbl,233,background,"Because look, one jump, two jump, one jump, two jump. So the answer should be",00:34:49
+ifqplbl,234,student,[unclear],00:35:06
+ifqplbl,235,tutor,"95. Yes, it is 95. There you go. So if we are to use the Gattegno chart, we can notice that how they have circled the values of this number is 0.9 and 0.05. Yeah.",00:35:06
+ifqplbl,236,tutor,Yes.,00:35:28
+ifqplbl,237,student,"Yes, then after that, what can we do? We can...",00:35:28
+ifqplbl,238,tutor,"just jump high, because like 0.1 and it's timed, let's say, 1000, then you can easily jump from 0.1, one jump, two jump, three jump, into 10, and it's easier to know how to [UNCLEAR] do it.",00:35:28
+ifqplbl,239,tutor,"Yes, it is. So that is a good way of explaining it and working on the given question. So not only it gets larger when we go up, we— when we are, let's say, dividing, also we would come across where we go down, isn't it?",00:35:54
+ifqplbl,240,student,Yes.,00:36:13
+ifqplbl,241,tutor,"Yes. So now, question 2. We have few options to solve these given questions. So let's read them.",00:36:14
+ifqplbl,242,tutor,Using the following to complete calculations below.,00:36:24
+ifqplbl,243,student,"Ah, so if it's 543, it must be [unclear] It must be divided by 100.",00:36:32
+ifqplbl,244,tutor,"Divided by 100. Yeah, very good. So how did we figure it out that it is exactly dividing by 100?",00:36:57
+ifqplbl,245,student,"Because on here you could look how many goes it does. To 5, like 1, 2, 3— well, 1, 2.",00:37:07
+ifqplbl,246,tutor,"So 1, then 2. Then on the 43, you could also check 1 and then 2. Then on the 3, you could check 1 and then 2.",00:37:22
+ifqplbl,247,tutor,"Yes, it is. So therefore, we can easily compare what we already have to figure out the missing value. So let's see question B next. So what do you think is the correct answer among these? [unclear]",00:37:39
+ifqplbl,248,student,"Um, I think for, um, I think for this question It's times 1,000. I mean, I mean 100.",00:37:59
+ifqplbl,249,tutor,"100. 100. Yes, it is.",00:38:16
+ifqplbl,250,student,So it's times 100.,00:38:21
+ifqplbl,251,tutor,"Times by 100. There you go. Now, Christian, see you next time.",00:38:29
+ifqplbl,252,student,"0.12 equals 1.2, so that must be times 10. You only jump once.",00:38:38
+ifqplbl,253,tutor,"Yes, it is. So we had to remember we can use a card only to fill in the blanks, and as I have done, so for the question B, it will be multiplied by 10. Yeah.",00:38:48
+ifqplbl,254,tutor,"Yes. So, [unclear] for the question D, what might be the answer?",00:39:01
+ifqplbl,255,student,"I think the answer is also 10 because 42, 4, so it must be divided by 10.",00:39:08
+ifqplbl,256,tutor,"Yes, it is. So this will be divided by 10. Yes.",00:39:20
+ifqplbl,257,tutor,"Okay, so let's put that answer also here.",00:39:27
+ifqplbl,258,student,"Um, it's not on my keyboard.",00:39:33
+ifqplbl,259,tutor,"Oh, so if you click on the symbols, Tobias, there you can get the division sign. Check it out and speak the symbols. [unclear]",00:39:38
+ifqplbl,260,tutor,"It's next to the text tool. So click on the symbols tool and come and click here, and all these signs would appear. [unclear]",00:39:53
+ifqplbl,261,student,"Oh, there you go. We found it.",00:40:05
+ifqplbl,262,tutor,"All right, so those are little things we can always learn when we do lessons together. So now the last question for the day, question 3.",00:40:11
+ifqplbl,263,tutor,Let's do this.,00:40:20
+ifqplbl,264,student,"Question 3a, 4.82 times 10, that must be 48.2. [unclear]",00:40:24
+ifqplbl,265,tutor,Thank you.,00:40:41
+ifqplbl,266,student,Yep.,00:40:43
+ifqplbl,267,tutor,"There you go. So here also we can clearly see what happens when we multiply. So the numbers have moved one place to the left, isn't it? Yeah?",00:40:47
+ifqplbl,268,student,Yes.,00:40:59
+ifqplbl,269,background,Yes.,00:40:59
+ifqplbl,270,tutor,"Yeah, so the 2 was in the ones— sorry, the 2 was in the hundredths column, it went to the tenths column, while the 8 in the tens went to the ones column, and the 4 which was in the ones went to the tens column. So every digit moved 1 place. Yeah?",00:41:00
+ifqplbl,271,student,Yes.,00:41:21
+ifqplbl,272,tutor,"Yes. So now the next one, question B.",00:41:22
+ifqplbl,273,student,"Question B, 0.91 times 100, so that means it's 2 jumps, so 1, 2, that must be, I think, 91.",00:41:26
+ifqplbl,274,tutor,"91, there you go. So here also the same thing happened, and here we move 2 places, not just 1. Now the last one.",00:41:43
+ifqplbl,275,student,"61.2 divided by 10, that must be 6.12.",00:41:56
+ifqplbl,276,tutor,"There you go. So sadly we ran out of time, so we had to do these go for the question next day. But overall, how do you feel about today's lesson? How was it for you?",00:42:11
+ifqplbl,277,student,Good.,00:42:24
+ifqplbl,278,tutor,"Good. Did you enjoy, learn new things?",00:42:25
+ifqplbl,279,student,yes.,00:42:25
+ifqplbl,280,tutor,"Okay, wonderful. So keep working hard like this, Tobias. We will do the rest of it next day. So have a really amazing Christmas holiday and enjoy to the fullest. Okay?",00:42:25
+ifqplbl,281,student,Okay.,00:42:47
+ifqplbl,282,tutor,"All right, bye-bye.",00:42:49
+ifqplbl,283,background,Bye.,00:42:51

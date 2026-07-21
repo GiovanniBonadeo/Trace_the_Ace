@@ -1,0 +1,275 @@
+session_id,utterance_id,role,content,timestamp
+engklxa,0,background,[unclear],00:00:00
+engklxa,1,tutor,Hello.,00:00:00
+engklxa,2,student,Hello.,00:00:01
+engklxa,3,tutor,"Hi Elara, how are you?",00:00:02
+engklxa,4,student,I'm good.,00:00:08
+engklxa,5,tutor,"All right, that's good to know. And what about your day? How it's going so far? It's good.",00:00:11
+engklxa,6,tutor,That's great as well. So did you end up doing something new this weekend? [unclear],00:00:19
+engklxa,7,tutor,Hello?,00:00:30
+engklxa,8,student,Yeah.,00:00:31
+engklxa,9,tutor,Yeah. Did you end up doing something new this weekend?,00:00:32
+engklxa,10,student,"Well, I went to my neighbor's house. [unclear]",00:00:37
+engklxa,11,tutor,"I'm so sorry, I'm not able to hear you. Could you please repeat the sentence?",00:00:46
+engklxa,12,student,I went to my neighbor's house and we played Uno.,00:00:54
+engklxa,13,tutor,"All right, that's great. That means you had fun on the weekend, right?",00:00:58
+engklxa,14,student,Yes.,00:01:03
+engklxa,15,tutor,"All right, that's great. So shall we start our session now?",00:01:04
+engklxa,16,student,Yes.,00:01:10
+engklxa,17,tutor,"All right. So Elara, today we are going to learn about rounding numbers to the nearest 10,000 and 100,000. Okay?",00:01:10
+engklxa,18,student,Okay.,00:01:21
+engklxa,19,tutor,All right. So can you please try the learning goal question first? [unclear] [unclear],00:01:22
+engklxa,20,tutor,"Very good, that's the correct answer. Can you please tell me how you got the answer here?",00:01:41
+engklxa,21,student,"Because since we're rounding to the nearest 10,000, we look at the thousand column, and since it's 4 and it's below 5,",00:01:50
+engklxa,22,tutor,We round down.,00:02:02
+engklxa,23,background,"Yes, that's the correct approach to solve this question. Well, that's great, Elara. And now if you try to recall, in your last session you were doing this lesson, right?",00:02:04
+engklxa,24,student,Yeah.,00:02:18
+engklxa,25,background,"And in that session you have completed the concept slide as well as the practice slide, and you are only left with the [unclear] slide. So can you give this, go for the slide, a try?",00:02:19
+engklxa,26,student,Okay. [unclear],00:02:33
+engklxa,27,tutor,So I'm just going to write 2. [unclear] So 11 and 36.,00:02:55
+engklxa,28,tutor,Are you done?,00:03:23
+engklxa,29,student,Yes.,00:03:26
+engklxa,30,tutor,All right. Can you please explain me how you got the answer here?,00:03:28
+engklxa,31,student,"Well, basically, it was pretty simple. So I just had to do a number which is [unclear] Over, which is over 350,000 and below 400,000.",00:03:34
+engklxa,32,tutor,Hmm. All right. But can you please try to read the question once again and see if they are asking the same thing?,00:03:53
+engklxa,33,student,"[UNCLEAR]...of a number rounded to the nearest 10,000. It is 350,000.",00:04:04
+engklxa,34,student,Oh.,00:04:18
+engklxa,35,tutor,"That means the number he is thinking of should be rounded to 350,000. All right, so do you think we can round this number to 350,000 when rounded to the nearest 10,000? [unclear]",00:04:19
+engklxa,36,tutor,"Alright, so Elara, let's try to solve this question together, okay? You are missing a key point here. Let's find that key point first, okay?",00:04:49
+engklxa,37,student,Okay.,00:05:00
+engklxa,38,tutor,"Alright, so here he is thinking of a number. And he tells us then when this number is rounded to the nearest 10,000, it should be 350,000. Well, if I look at this number that you just wrote here, it is correct. If we round this number to the nearest 10,000, it will be 350,000.",00:05:02
+engklxa,39,student,[unclear],00:05:25
+engklxa,40,tutor,"But Elara, the trick is over here, We have to round the same number to the nearest 100,000, which should be 400,000. So now, do you think this number will be rounded to the nearest— to the 400,000?",00:05:26
+engklxa,41,student,Yeah.,00:05:46
+engklxa,42,tutor,Very good. Can you explain me how?,00:05:47
+engklxa,43,background,"Because that— since you're rounding to 100,000, we look at the— we look at the 10,000 column. And when rounding, we round down if it's 0, 1, 2, 3, or 4, and up if it's 5, 6, 7, 8, or 9.",00:05:50
+engklxa,44,tutor,Mm-hmm. That's right.,00:06:11
+engklxa,45,student,"And since the ten thousands column has a 5, we round up.",00:06:15
+engklxa,46,background,Very good. That's right. Are there more possible answers here?,00:06:21
+engklxa,47,student,Yes.,00:06:29
+engklxa,48,tutor,"Can you name 2 more, please?",00:06:29
+engklxa,49,student,"We can do 353,000 or 352,000.",00:06:34
+engklxa,50,tutor,That's right. Can we do this number as well? [unclear],00:06:42
+engklxa,51,tutor,This one. [unclear] Can you explain me how?,00:06:57
+engklxa,52,student,"Because it has a 1, which means it rounds it down to $350,000.",00:07:11
+engklxa,53,student,"If it's rounded to the nearest 10,000, and also if we round it to the nearest 100,000 to make 400,000, since that 10,000 is a multiple of 5, then at the same time we round it up.",00:07:19
+engklxa,54,tutor,"Nice job, that's right. So here we have to satisfy both the conditions, right?",00:07:36
+engklxa,55,background,"Yeah, I did think that.",00:07:42
+engklxa,56,tutor,"All right, well, fantastic job. I hope the doubt is cleared now. That you were having before in this question? [unclear]",00:07:44
+engklxa,57,tutor,"Yeah, all right, well, that's great, Elara. And with that, we have completed with your Lesson 1. So before starting with the next lesson, I want to ask you, when we are rounding the numbers, what is the main rule that we have to keep in mind? [unclear]",00:07:52
+engklxa,58,tutor,"Yes, very good. That's right. That's the basic rule that we should keep in our mind. All right, so with that, let's jump to your next lesson. I hope you're ready for your next lesson.",00:08:23
+engklxa,59,student,Yeah.,00:08:35
+engklxa,60,tutor,"All right, so the next lesson is about comparing numbers with up-counters. 2 decimal places. Hmm, all right. Do you know how to compare numbers?",00:08:36
+engklxa,61,student,Yeah. [unclear],00:08:51
+engklxa,62,tutor,All right. Can you please tell me what these 2 decimal places mean?,00:08:54
+engklxa,63,student,"0.62 and [unclear] 2 decimal places is like same, but like, so before zeros, so like the tenths and hundredths.",00:09:08
+engklxa,64,tutor,"Mm-hmm, yes, that's right. The numbers in which we have tenths and hundredths, that means 2 decimal places, are called as the number with 2 decimal places. Very good. So in this lesson, we are going to compare the numbers that has 2 decimal places only. Okay. Okay. So first of all, I have this learning goal question for you. Can you give this one a try?",00:09:23
+engklxa,65,student,Okay. [unclear],00:09:52
+engklxa,66,tutor,"Great job, you got the correct answer. Can you explain me your thinking behind this? [unclear]",00:10:11
+engklxa,67,student,"When you look at the people's names, you look at the wholes first, and they're all 2. So we look at the next column, the tenths, and the first one is 4, the next one is 5, the other one is 0, and the other one is 9. They all have differences here, so the lowest would be Beth.",00:10:28
+engklxa,68,student,"Then it will be James, then Leo, and then Katie.",00:10:55
+engklxa,69,tutor,Mm-hmm.,00:10:59
+engklxa,70,student,So Katie is the one who jumped the longest.,00:11:01
+engklxa,71,tutor,"Mm-hmm, that's right. It is amazing how you explain me the answer over here. Yeah, so definitely a praise in line. Awesome effort. Alright, so Elara, as you solved this learning goal question without my help and, you know, so quickly, So we can skip all the concept slides and we can directly jump to the practice slide, okay?",00:11:06
+engklxa,72,student,Okay.,00:11:29
+engklxa,73,tutor,"So here comes your you-do slide. You can try these questions and don't worry, if you need my help you can ask me, okay? [unclear] [unclear]",00:11:32
+engklxa,74,tutor,All right.,00:11:49
+engklxa,75,student,[UNCLEAR],00:11:49
+engklxa,76,tutor,You can start. [unclear] [unclear],00:12:18
+engklxa,77,tutor,"Okay, no worries. Over here you can see we have a diagram, right?",00:12:43
+engklxa,78,student,Yes.,00:12:51
+engklxa,79,tutor,"Alright, so by looking at this diagram, we have to write down the numbers first, okay?",00:12:53
+engklxa,80,student,Yes.,00:13:01
+engklxa,81,tutor,"Alright, so tell me how many wholes, that means ones, are in the first number?",00:13:02
+engklxa,82,student,[unclear],00:13:10
+engklxa,83,tutor,Very good. How many tens do we have in this number?,00:13:10
+engklxa,84,student,3.,00:13:15
+engklxa,85,tutor,Very good. How many hundreds?,00:13:17
+engklxa,86,student,5.,00:13:20
+engklxa,87,tutor,Very good. What's the number here?,00:13:21
+engklxa,88,student,1.25.,00:13:26
+engklxa,89,tutor,Very good. So let's put down 1.25 here. Now do the same thing with the second one. And put down the number here. [unclear],00:13:28
+engklxa,90,tutor,There you go. Now you have to compare these two numbers using these symbols. [unclear],00:13:38
+engklxa,91,tutor,There you go. Isn't it easy?,00:13:48
+engklxa,92,student,Yeah.,00:13:52
+engklxa,93,tutor,"Alright, now let's try the B part.",00:13:55
+engklxa,94,tutor,Good job. Now try the C part. [unclear],00:14:10
+engklxa,95,tutor,Very good. Can you explain me the reasoning behind the C part?,00:14:28
+engklxa,96,student,"Well, so we basically have to do— we have to put in any number which is above 0. And it can be any number, so I just chose 2.",00:14:36
+engklxa,97,tutor,"Very good, that's right. I hope comparing decimals is easy for you now.",00:14:56
+engklxa,98,student,Yeah.,00:15:06
+engklxa,99,tutor,"All right, that's great to know. So Elara, before starting the next slide, I want to know one thing. Am I speaking too fast for you?",00:15:07
+engklxa,100,student,[unclear] No.,00:15:15
+engklxa,101,tutor,"All right, you can tell me if I speak too fast or if my voice is not clear. I will adjust it, okay?",00:15:18
+engklxa,102,student,[UNCLEAR],00:15:18
+engklxa,103,tutor,"Okay, all right, very good. And with that we have completed the 'You Do' slide. Now it's time for the 'Go Further'. You can try this slide. Okay. [unclear]",00:15:26
+engklxa,104,tutor,Fantastic job. Max is the correct answer. Can you tell me how did you approach the answer here?,00:16:07
+engklxa,105,student,"Because I looked at the holes in all the numbers and some of them are 3 and some of them are 2. So I looked at the [unclear] columns for the ones that had 3 holes and there was only one that had the biggest And it was 3.4, which was max.",00:16:16
+engklxa,106,tutor,Mm-hmm. Very good. And can you tell me which one has the lowest?,00:16:46
+engklxa,107,student,It's the— this Jamal.,00:16:54
+engklxa,108,tutor,Mm-hmm.,00:16:56
+engklxa,109,student,Because he has 2.84.,00:16:58
+engklxa,110,tutor,"Mm-hmm. It is amazing how you solved it all by yourself. So definitely a praise in line. Here you go. Good working out. And with that, Elara, we have completed your second lesson as well. Isn't it great? [unclear]",00:17:01
+engklxa,111,tutor,All right. So I hope you are confident now how to compare numbers with up to 2 decimal places.,00:17:19
+engklxa,112,student,Yeah.,00:17:27
+engklxa,113,tutor,All right. So now we are going ahead with your next lesson. I hope you can see the next lesson now. [unclear],00:17:29
+engklxa,114,tutor,"Yeah, alright. So this is about multiplying and dividing whole numbers and decimals by 10 and 100. Do you like multiplying and dividing numbers?",00:17:41
+engklxa,115,student,Yes.,00:17:54
+engklxa,116,tutor,"Alright. So Elara, when we are multiplying the numbers, are we making them bigger or smaller? [unclear]",00:17:55
+engklxa,117,tutor,Making them smaller.,00:18:03
+engklxa,118,student,"Hmm. Why do you think so, that we are making them smaller?",00:18:08
+engklxa,119,tutor,"Because when dividing, we are— when dividing, we like— we're basically— well, it's kind of like subtracting, but like",00:18:14
+engklxa,120,student,"Um, like, kind of— I'm not really sure how to explain it, but—",00:18:28
+engklxa,121,tutor,"All right, um, first of all, uh, I asked you when we are multiplying, not dividing. [unclear] Oh, no worries, sometimes it happens. So when we are multiplying, let's say you are multiplying 2 and 3, right? So 2 times 3 is 6, am I correct?",00:18:35
+engklxa,122,student,Yeah.,00:18:55
+engklxa,123,tutor,"So that means we are multiplying two numbers and the answer that we are getting is bigger. Why? Because we are making it two times bigger or three times bigger, right?",00:18:56
+engklxa,124,student,Yeah.,00:19:08
+engklxa,125,tutor,"And similarly for dividing, we are making it smaller since we are dividing it into parts, right?",00:19:09
+engklxa,126,student,[unclear] Yeah.,00:19:16
+engklxa,127,tutor,Alright. Now I have this learning goal question for you. Can you give this one a try? [unclear],00:19:18
+engklxa,128,tutor,Brilliant job. Can you explain me how you got the answer?,00:19:43
+engklxa,129,student,Because that basically,00:19:48
+engklxa,130,student,"There's this kind of thing that makes it easier that our Teacher told us when timesing decimal numbers. So basically, if we're timesing by 100, we move the decimal point 2 times to the left, and if we're dividing by 100, we move it 2 times to the right. [unclear]",00:19:51
+engklxa,131,tutor,"Hmm, yes, that is the correct technique we use when we are multiplying and dividing. Good job there. So as you already know so much about this, we can totally skip the concepts and we can directly jump to the you-do side. Are you ready to give this question a try?",00:20:19
+engklxa,132,student,Yeah.,00:20:36
+engklxa,133,tutor,"All right, give them a try. [unclear]",00:20:37
+engklxa,134,tutor,"And then, 4 times 12 again, so 48. [unclear] And then 4 times 8 is 32. I put a 1, and now she needs a 9. And we can't forget about the common factor. 9,232. [unclear]",00:20:43
+engklxa,135,tutor,"So, [unclear]",00:21:20
+engklxa,136,tutor,Okay.,00:21:37
+engklxa,137,student,"2,000— 2,100— [unclear]",00:21:44
+engklxa,138,tutor,Are you done?,00:22:18
+engklxa,139,student,Yes.,00:22:20
+engklxa,140,tutor,"Well, all the answers are correct and nice job there. So can you please tell me how to use the Get techno chart over here?",00:22:21
+engklxa,141,student,"Well, basically, we— so since the number is 0.95, so we look at the tenths column to find the 9, and it's over here. So we— since we're timesing, we make it go 2 times up, So now it's 90. And then we look at the hundreds column where the 5 is, and then we move that also 2 times up. So 2 times 5, 100. So 90 plus 5 is 95.",00:22:32
+engklxa,142,tutor,"Very good. That's right. You have a knowledge to use the [unclear] chart as well. Perfect job. Now, are you ready for the next slide?",00:23:12
+engklxa,143,student,Yeah.,00:23:22
+engklxa,144,tutor,All right. So here comes your Go Further. Please give this one a try.,00:23:23
+engklxa,145,student,"A zookeeper weighs an adult gorilla and its baby. The adult gorilla has a mass of 149.3 kg. A baby gorilla has a mass of 110 kg. [unclear] the size of the gorilla, how much does the baby gorilla weigh?",00:23:29
+engklxa,146,student,"I did it, Miss. [unclear]",00:23:47
+engklxa,147,tutor,Good job. Can you please explain me how you got the answer here?,00:23:56
+engklxa,148,student,"Well, basically, I looked at the parts which is more useful, which was 149.3 kg, and the baby [unclear] has a mass of 1/10 of it.",00:24:16
+engklxa,149,tutor,Mm-hmm.,00:24:31
+engklxa,150,student,"Yeah, so since it says 1/10, that means we're dividing 149.3 kg by 10, which is 14.93 kg.",00:24:33
+engklxa,151,tutor,"Mm-hmm, that's right. That was a splendid effort trying to find the answer all by yourself, and I really appreciate the fact that you have used the unit as well, which is kg here. So Elara, definitely a praise in line. Awesome effort. And with that, we have completed your lesson number 3. Isn't it great?",00:24:48
+engklxa,152,student,Yeah.,00:25:13
+engklxa,153,tutor,"Mm-hmm. So tell me, when we are multiplying and dividing by 10 and 100, you are— you have a good knowledge. But do you know how to multiply by 1,000?",00:25:14
+engklxa,154,background,Yeah. [unclear],00:25:28
+engklxa,155,tutor,"All right, let's practice some extra questions then, okay? [unclear]",00:25:30
+engklxa,156,tutor,"We have 1.56 and you have to multiply it by 1,000. Can you tell me what will be the answer?",00:25:35
+engklxa,157,student,"Okay, it would be 1,560.",00:25:46
+engklxa,158,tutor,"Very good, that's right. So here, if I got 1,560",00:25:54
+engklxa,159,tutor,Can you explain me from where does this zero came?,00:25:59
+engklxa,160,student,"Well, basically, so when you do the decimal point method, you put it 3 times, but then there's a gap, and that gap, like, you put a zero there. [unclear] Yes, we need to put a placeholder zero, right?",00:26:04
+engklxa,161,student,Yeah.,00:26:30
+engklxa,162,tutor,"Nice job. All right, now one more question. Let's say we have 23 and we need to divide this 23 by 1000. Then what will happen? [unclear]",00:26:32
+engklxa,163,student,It would be 0.023.,00:26:53
+engklxa,164,tutor,"Fantastic job, you know it all. That's right, 0.023. All right, and Elara, if we are using a [unclear] chart, how many times should I move up if I'm multiplying by 1,000?",00:26:59
+engklxa,165,student,"3 charts. Very good, that's right. So as we have completed this lesson with some extra question, are you ready for your next lesson?",00:27:14
+engklxa,166,student,Yeah.,00:27:24
+engklxa,167,tutor,"All right, so your next lesson is— I hope you can see it on the screen.",00:27:26
+engklxa,168,student,Yeah.,00:27:34
+engklxa,169,tutor,"Yeah, this is about writing simple fractions as decimals, right?",00:27:38
+engklxa,170,tutor,"Alright, what do you know about fractions?",00:27:45
+engklxa,171,student,They are basically a number and then a line and then one— another number under that line. [unclear],00:27:50
+engklxa,172,tutor,"Alright, let's say we have this fraction 2/5, okay? Can you tell me what do we call the top number as?",00:28:03
+engklxa,173,student,"If you were to say, [unclear]",00:28:11
+engklxa,174,tutor,The numerator. Very good. And the bottom number?,00:28:13
+engklxa,175,student,The denominator.,00:28:18
+engklxa,176,tutor,"There you go. Now, do you know how to convert this 2/5 as a decimal?",00:28:20
+engklxa,177,student,Yeah.,00:28:27
+engklxa,178,tutor,Can you please go ahead and tell me and find the answer?,00:28:29
+engklxa,179,tutor,That was quick. Can you explain me how you got it?,00:28:39
+engklxa,180,student,"So basically, well, I think what I should be doing, I should be thinking of writing simple [unclear]",00:28:43
+engklxa,181,student,"Not really so hard to explain it, but we have learnt that 2/5 equals— there's a decimal— is 0.4. I don't remember it.",00:29:08
+engklxa,182,tutor,"All right, all right, no worries. Can you give this prior learning question a try?",00:29:26
+engklxa,183,student,I know. [unclear],00:29:35
+engklxa,184,tutor,"There you go. All right, so here we made this 3/5 into 6/10, right? Now, Elara, if I ask you to convert this 6/10 into a decimal, can you try this? What will be the decimal of 6/10?",00:29:37
+engklxa,185,student,[unclear],00:30:02
+engklxa,186,tutor,"Fantastic job. Now that means we need to make the denominator a 10 or 100 or 1,000 to convert any simple fraction into a decimal, right?",00:30:02
+engklxa,187,student,Yeah.,00:30:17
+engklxa,188,tutor,So can we apply the same method to the learning goal question as well?,00:30:18
+engklxa,189,tutor,Yeah.,00:30:25
+engklxa,190,background,Can we convert this 2/5 in a fraction that has a denominator of 10 or 100?,00:30:25
+engklxa,191,tutor,"Okay, so we can do— [unclear] We can do 12/100.",00:30:33
+engklxa,192,student,[unclear],00:30:48
+engklxa,193,tutor,"Very good, 0.410. And what will be the decimal for 0.410?",00:30:48
+engklxa,194,student,0.4.,00:30:57
+engklxa,195,tutor,"As you can see, that's how we got 0.4 here, isn't it?",00:30:58
+engklxa,196,student,Yeah.,00:31:03
+engklxa,197,tutor,"All right, no worries, Elara, as you tried to solve the prior learning slide all by yourself, so we can skip the prior learning slide. But let's take the concept because you had a little bit of learning gap there, right?",00:31:04
+engklxa,198,tutor,Yeah.,00:31:19
+engklxa,199,background,That was so nice.,00:31:20
+engklxa,200,tutor,Alright. So here comes your Let's Learn slide. Can you please try to read the green box?,00:31:22
+engklxa,201,background,"When looking at equivalences between fractions and decimals, a hundred grid is a helpful [UNCLEAR].",00:31:30
+engklxa,202,tutor,Yeah. Do you know what's a hundred grid?,00:31:30
+engklxa,203,background,It's basically a grid that has 100 boxes.,00:31:42
+engklxa,204,tutor,"Very good, that's right. That means it is basically a big square that has 100 small squares in there, right? Equal squares. All right, so as you can see, we have a [unclear] yellow, blue, pink, and green, isn't it?",00:31:47
+engklxa,205,student,Yeah.,00:32:11
+engklxa,206,tutor,"So Elara, can I denote every part as one quarter? [unclear]",00:32:12
+engklxa,207,student,Yeah.,00:32:21
+engklxa,208,tutor,"And can you tell me, in one quarter, how many squares we have?",00:32:22
+engklxa,209,student,Almost 25.,00:32:29
+engklxa,210,tutor,"Very good. That means one quarter is equal to 2500, isn't it?",00:32:30
+engklxa,211,student,[UNCLEAR],00:32:30
+engklxa,212,tutor,"Yeah, right. That means, Elara, can I write this 1/4 as 2,500 into the fraction form?",00:32:39
+engklxa,213,student,Yeah.,00:32:51
+engklxa,214,tutor,"Now the question is, how can we write this 2,500 into the decimal form? Do you know that?",00:32:52
+engklxa,215,tutor,"Yeah. Can you please go ahead and fill this back? [unclear] Fantastic job. That means Elara, one quarter can be written as 0.25 in the decimal form, right?",00:33:04
+engklxa,216,student,Yeah.,00:33:31
+engklxa,217,tutor,"So here what we have done, we have converted this 1/4 into a fraction that has 100 in the denominator, right?",00:33:32
+engklxa,218,student,Yeah.,00:33:43
+engklxa,219,tutor,Now can you please help me with the B part? [unclear],00:33:44
+engklxa,220,tutor,Mm-hmm. Good job. That means 3/4 can be written as 0.75 in the decimal form. Now what about C part? [unclear] [unclear],00:34:03
+engklxa,221,tutor,"Great job, that's correct. So half can be written as 0.5, isn't it?",00:34:27
+engklxa,222,student,Yes.,00:34:33
+engklxa,223,tutor,"All right, now let's go ahead with Follow Me and Your Turn slide. So on the Follow Me, I will explain you how to attempt the question, and then in the Your Turn part, you will do the same thing, okay? [unclear]",00:34:34
+engklxa,224,tutor,"Let's look at a different fraction. So here again we have a hundred square, but this time instead of 4 equal parts, we have 5 equal parts, right? Yellow, blue, pink, green, and purple. That means this hundred grid has been divided into 5 equal parts. And Elara, each part shows one-fifth of the whole. Am I correct?",00:34:49
+engklxa,225,student,Yeah.,00:35:13
+engklxa,226,tutor,"That means in each part, if I count, there are 2 complete lines. That means 20 hundredths, right? [unclear]",00:35:14
+engklxa,227,student,Yeah.,00:35:24
+engklxa,228,tutor,"That means over here we have 20 hundredths in one part. So 20 hundredths. Now the thing is how to write this 20 hundredths as a decimal. So it will be 0.20. That means one-fifth is equal to 0.20, right? Right, Elara?",00:35:26
+engklxa,229,student,Yeah.,00:35:52
+engklxa,230,tutor,"All right, now it's your turn to do the same thing. [unclear]",00:35:53
+engklxa,231,tutor,"Wait, Miss, is it in what [unclear] line?",00:36:05
+engklxa,232,tutor,"Hmm, how we got 40 here? [unclear] No worries. [unclear]",00:36:43
+engklxa,233,tutor,"15, you have 15 minus that, and then you put the C, put it into there, so you get 13. 6 divided by 13 is 5, and then you have to do 6 minus 8, you're on 5, you put the C,",00:36:43
+engklxa,234,tutor,Nice. There are 10 hundreds within each shaded part. [unclear] [unclear],00:37:29
+engklxa,235,tutor,"Fantastic job! 0.1 will be the correct answer. So you have completed the ""Your Turn."" Now let's do some practice questions. Ready?",00:38:09
+engklxa,236,tutor,"All right, so you have to fill in the missing symbols. That means less than, greater than, or equals to in these one.",00:38:21
+engklxa,237,student,Okay. [unclear] [unclear],00:38:28
+engklxa,238,tutor,That's a nice start. Can you explain me how you got the answer for a) part here?,00:38:53
+engklxa,239,student,Because that 1/10 as a decimal is 0.1. 0.75 is bigger than 0.1.,00:39:02
+engklxa,240,tutor,"Very good, that's right. And what about the c part?",00:39:10
+engklxa,241,student,"Um, 1/4 is basically 0.25. [unclear] 0.25.",00:39:16
+engklxa,242,tutor,"Very good, that's correct. Now let's try the b part. [unclear]",00:39:28
+engklxa,243,tutor,Okay. [unclear],00:39:41
+engklxa,244,tutor,Are you done?,00:40:07
+engklxa,245,student,Yeah.,00:40:13
+engklxa,246,tutor,"Alright, good job trying all the questions and getting the concept. Now can you please explain me how you got the answer for B as well as D part?",00:40:14
+engklxa,247,background,"Okay, so basically",00:40:25
+engklxa,248,student,"For B, one-fifth is basically 0.2, and 0.5 is bigger than 0.2. And for D, four-fifths is equivalent to 0.8 because four-fifths converted as a decimal is also 0.8.",00:40:28
+engklxa,249,student,Mm-hmm.,00:40:54
+engklxa,250,background,So it's equal.,00:40:55
+engklxa,251,tutor,"Very good. That's nice. And I really like how you are solving all the calculations in your head. So that means you are using your mental methods. Very good, Elara. And now it's time for us to move to the [UNCLEAR]. Can you try this?",00:40:56
+engklxa,252,student,Okay.,00:40:56
+engklxa,253,tutor,I know what a hexagon is.,00:41:22
+engklxa,254,student,"It's a thing, it's like a shape that has 1, 2, 3, 4, 5, 6 sides. [unclear] [unclear]",00:41:27
+engklxa,255,tutor,That's nice. 0.2 kg is correct. Can you explain me how you got the answer here?,00:41:49
+engklxa,256,student,"Because basically R is like 5, so 27.5, and 27.5 is, um, like basically, um, plus 2 mole [unclear]",00:41:55
+engklxa,257,tutor,"All right, very good. And can you tell me why are we subtracting here? What was the keyword here in the question?",00:42:17
+engklxa,258,tutor,"Like, I'm asking you, why are we subtracting the weight of Sam and Sam's brother? [unclear]",00:42:45
+engklxa,259,student,Because then it would like equalize. Lead us to how much more Sam has.,00:42:53
+engklxa,260,tutor,"Yes, that's right. Well done. And with that, Elara, we have completed your fourth lesson as well. Isn't it great? You have completed four lessons today.",00:43:07
+engklxa,261,student,Yeah. [unclear],00:43:20
+engklxa,262,tutor,"And as we only have one or two minutes left in the session, so we will not start your new lesson. We will start in our next class, and now we will do the reflection, okay? All right, I want you to tell me what were the main things you have learned today.",00:43:21
+engklxa,263,student,"Like, like when you finish the, like, [unclear]",00:43:40
+engklxa,264,background,"I learned, like, how to round numbers to nearest 10,000 or 100,000, how to compare with up to 2 decimal places, how to multiply and divide fractions, fractions, whole numbers, and decimals by 10 and 100, and how to write simple fractions. [unclear]",00:43:43
+engklxa,265,tutor,"Mm-hmm, that's right. I hope you enjoyed today's session as well.",00:44:05
+engklxa,266,student,Yeah.,00:44:11
+engklxa,267,tutor,"Yeah, well, that's great to know. So Elara, before you go, I want to tell you, you will receive some post-session questions, and I want you to try them so that I can understand how much you grabbed from today's session, okay?",00:44:11
+engklxa,268,tutor,"All right, so well done. It's time to end our session. I hope you found it useful also.",00:44:29
+engklxa,269,student,Yes.,00:44:37
+engklxa,270,tutor,"All right, so I will see you in our next session. Till then, please take care. Bye-bye.",00:44:38
+engklxa,271,background,Bye-bye.,00:44:44
+engklxa,272,tutor,Have a great day.,00:44:45
+engklxa,273,background,Great day.,00:44:47

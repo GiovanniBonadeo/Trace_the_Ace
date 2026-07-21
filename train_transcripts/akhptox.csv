@@ -1,0 +1,276 @@
+session_id,utterance_id,role,content,timestamp
+akhptox,0,tutor,Hello?,00:00:00
+akhptox,1,background,[unclear],00:00:00
+akhptox,2,student,Hello.,00:00:00
+akhptox,3,tutor,"Hello, Callum, can you hear me?",00:00:02
+akhptox,4,student,"Yes, I can hear you. [unclear] Yes, I can hear you.",00:00:05
+akhptox,5,tutor,Hello.,00:00:09
+akhptox,6,tutor,Hi.,00:00:10
+akhptox,7,student,Hello. How are you today?,00:00:11
+akhptox,8,tutor,"Good, thank you.",00:00:13
+akhptox,9,student,How was your day?,00:00:17
+akhptox,10,tutor,"Very good, thank you.",00:00:18
+akhptox,11,student,That's good to hear. So how was your holidays? I think you're right after the holidays.,00:00:21
+akhptox,12,tutor,Yep.,00:00:28
+akhptox,13,student,How did it go? How was Christmas?,00:00:30
+akhptox,14,tutor,It was very good. I got loads of presents. I got skateboard.,00:00:32
+akhptox,15,tutor,What was your favorite?,00:00:37
+akhptox,16,student,Probably my skateboard. I got skateboard.,00:00:38
+akhptox,17,tutor,"I see. So it was your favorite, the skateboard?",00:00:43
+akhptox,18,student,Yeah.,00:00:47
+akhptox,19,tutor,So what was happening these days? Did you enjoy Christmas?,00:00:49
+akhptox,20,student,"Yeah, I enjoyed Christmas.",00:00:55
+akhptox,21,tutor,"That's very good to hear, Callum. So are you ready for today's session?",00:00:59
+akhptox,22,tutor,"Okay. Yes, we are talking about rounding decimals to the nearest whole number. Have you done rounding before?",00:01:04
+akhptox,23,student,Yeah.,00:01:14
+akhptox,24,background,"Yes, I have.",00:01:14
+akhptox,25,tutor,"Okay, that's good. So what do you already know about rounding?",00:01:16
+akhptox,26,background,"Rounding is like 5 or more, you round it up, and 4 or less, you round it down.",00:01:22
+akhptox,27,tutor,"Nice, very good explanation, Callum. Just say, yeah, it's 5 or more than 5, you round up. If it's less than that, you round down. So in this [UNCLEAR], we are talking about rounding decimals to the nearest whole number. So let's see how this goes. To start off with, shall we start with the learning goal question? Can you read the question? [Speaker:Callum] Sure. Round 5.6 to the nearest whole number.",00:01:30
+akhptox,28,tutor,"What do you think about this one? If we had to round 5.6 to the nearest whole number, what would it be?",00:01:58
+akhptox,29,student,"7.0, I think. 7.0, because 5 and 6 are greater than 4, so it would go up. [unclear]",00:02:08
+akhptox,30,tutor,"Okay, so the number that we have here is 5.6 joules. Can you see it? It's 5.6. So if we are to draw this in a number line, it would be something like this. Let's say that we have 5 somewhere here. [unclear] And then if we have 6 somewhere here, we can say that 5.6 lies somewhere here. Yes, it would be a 6 and this would be a [UNCLEAR]. This is the number that we have. What do you think about the rounding? If we are to round this to the nearest whole number, what would it be? [Speaker:Callum] Um, it would be the whole number. It would be [Speaker:Callum]...6. [Speaker:Tutor] Yes, actually, Callum, it would be 6, not really 7, because when it comes to 5.6, 6 is somewhere here. This is how it lies on the number line. Anyway, nice working out. So let's see how this is going to happen while we are moving forward with the lesson. Now we have the prior learning slide. So can you read the question first?",00:02:24
+akhptox,31,student,Ben measures a line that is... Ben measures a line that is... [unclear],00:03:49
+akhptox,32,tutor,"Your thing's kind of... Yes, thank you.",00:03:55
+akhptox,33,student,Ben measures a line that is between 2 centimetres and 3 centimetres. What could the length of the line be?,00:03:59
+akhptox,34,background,"Yes, so they say that Ben measures a line that is between 2 centimeters and 3 centimeters. They are asking what could the length of the line be.",00:04:12
+akhptox,35,student,"It could be, um, 2— it could be 2.1.",00:04:24
+akhptox,36,tutor,"Excellent, you are right, Callum. It can be something, some of the numbers in between 2 centimeters and 3 centimeters.",00:04:35
+akhptox,37,tutor,Yeah.,00:04:49
+akhptox,38,student,"Yes, you are right. These are the possibilities. 2.1 can be— can be 2.3, 2.6. [unclear]",00:04:49
+akhptox,39,tutor,These are all the possibilities. Very good.,00:05:05
+akhptox,40,student,Very good.,00:05:11
+akhptox,41,tutor,Nice.,00:05:12
+akhptox,42,tutor,"Yeah, 2.9. So these— anything can be the length because we know that it should be between 2 centimeters and 3 centimeters.",00:05:13
+akhptox,43,student,Yeah.,00:05:23
+akhptox,44,tutor,"Okay, so with that said, let's move on to the Let's Learn slide. Let's see how we're gonna round these numbers. Shall we read the sentence first?",00:05:23
+akhptox,45,student,"Yeah. When rounding a decimal number to the nearest whole number,",00:05:34
+akhptox,46,student,We need to know what a whole number it lies between.,00:05:39
+akhptox,47,tutor,"Yes, so they say when rounding a decimal number to the nearest whole number, we need to know what whole numbers it lies between. Yes, that's true, because when it comes to this one, we all [unclear] about if it's on the number line, where would it lie, which made us easier to find that. It would be 6 if we are rounding it to the nearest whole number. So if we know in what numbers the number would lie, it's going to be very easy for us. So let's start off with the Part A. They have given to us the number 12.3. So then what do you think the number here would be, Callum? Any guess?",00:05:46
+akhptox,48,student,"Um, the number there would probably be 13.",00:06:30
+akhptox,49,tutor,"The number here? Yeah, all right. It would be 13. Because we know we have to think about the whole numbers now. The number is a decimal, so we are thinking about the whole numbers. [unclear] So yes, this one could be 13. What about the other side, the other end, left end?",00:06:35
+akhptox,50,student,"This end, this end could be [Speaker:Callum]...um, over here. This could be 12. [Speaker:TUTOR] Very good. Nice understanding, Callum. Yes, that would be a 12. So when we are looking at the number and where it lies on the number line, is 2.3 closer to 12 or 13? [Speaker:Callum]...um, um, 12. [Speaker:TUTOR] Yes, you are right. It is more closer to 12.",00:06:56
+akhptox,51,tutor,"Right, if you are numbering to the nearest whole number, we would say that it's closer to 12, it's closer to this side. So we type that on this end we have 12 and on this end, as in the number is greater than 12 and the number is less than 30. And if we are rounding 12.3 to the nearest whole number, we call that [UNCLEAR].",00:07:28
+akhptox,52,tutor,"Okay, was it all clear?",00:07:54
+akhptox,53,student,"Yes, it is all clear.",00:07:57
+akhptox,54,tutor,"Okay, then we are moving on to the next one. We have another number which means the 5.7 round nearest whole number is— okay, so this time we have to mark where the 5.7 would lie as well. So now let's do that. So according to the number line, I think it's divided into 10 equal parts.",00:07:59
+akhptox,55,tutor,"So probably your 5.7 should lie after 7 places. So let's say now this is 5 here, then if we are moving forward, this should be 5.1, 5.2, 5.3, 4, 5, 6, [UNCLEAR]. I think 5.7 lies somewhere here. Do you agree with me, Callum?",00:08:22
+akhptox,56,student,"Uh, yeah, I do.",00:08:48
+akhptox,57,tutor,"Then let's put that here. We're gonna put 5.7 somewhere here. Now this end must be 6, because we know the number is in bits. So now we can complete the number sentence as well. 5.7 is less than 5 and greater than 6. So what do you think? [unclear]",00:08:50
+akhptox,58,student,"It's closest to 6, so in here there are 6.",00:09:17
+akhptox,59,tutor,"Nice understanding, Callum. Yes, so it is rounded to the whole number 6. Excellent. So good working out. Now we figured out the answer. Now we know how we are rounding, right? If we see the, uh, decimal number, we basically think about the number line. And where it would lie on the number line and the whole numbers in between this. And then we're gonna think about to which side is it closest to, and that number would be rounded to the nearest whole number according to our examples. So let's do some practice questions with this one, Callum, and let's see how it goes.",00:09:24
+akhptox,60,student,[unclear],00:10:08
+akhptox,61,tutor,"So we are at our follow-me slide. First, let's go through this one, and then you will be going through shortest part on your own. So shall we get started? Can you read the question? [unclear]",00:10:09
+akhptox,62,student,"Okay. When rounding numbers, it is helpful to think about a halfway point.",00:10:23
+akhptox,63,tutor,"Yes, so it's helpful if you are thinking about the halfway point as it's in the middle. It's making it easier to figure out to which side it is closest So they say the halfway point between 0 and 1 is 0.5. Yes, we agree with that. So shall we keep on reading?",00:10:32
+akhptox,64,student,Yeah. [unclear],00:10:56
+akhptox,65,background,"Oh yeah, if the tenth digit is more than 5 or exactly 5, we round up. To the nearest whole number.",00:10:58
+akhptox,66,tutor,"So you said this, Callum, when we were starting with the session. You said this to me. Can you remember?",00:11:12
+akhptox,67,student,"Uh, yeah, I'm pretty sure. Like, if it's 4 or less, you go down, and if it's 5 or more, you go up.",00:11:18
+akhptox,68,tutor,"Exactly. You knew this already. So this is the same thing. Uh, if it's 5 or more, we round up. If it's less, we round down. So when it comes to 0.7 rounded to the nearest whole number, what would it be? Any guess?",00:11:29
+akhptox,69,student,"It would be 1, um, because 7— the 7 would be closer to the 1 than the 0.",00:11:45
+akhptox,70,tutor,"Excellent, you are right. If you are rounding, it would be 1. Nice explanation, Callum. It would be 1. So what about Part B? They say 0.3 rounded to the nearest whole number is",00:11:53
+akhptox,71,student,"So 0.3 rounded to the nearest whole number would be 0 because the 3 is less than 4, so it would go down to 0.",00:12:08
+akhptox,72,tutor,"It could go down. You are right, it would be a 0. Nice explanation once again. Keep up the good explanation. So now it's your turn. So now let's see what we're gonna do with this one. Can you read the question? [unclear] Use these number lines to help you round the following decimals to the nearest whole number.",00:12:19
+akhptox,73,tutor,"Mm-hmm. So here they have given us the number line, so it's easier for us. And then let's read Part A.",00:12:41
+akhptox,74,student,Part,00:12:50
+akhptox,75,background,66.3 rounded to the nearest whole number is 6.,00:12:51
+akhptox,76,background,It's 6.,00:12:57
+akhptox,77,tutor,"Yes, you are right. Can you type the answer, Callum? Excellent. Good working out. You are right. That would be a 6.",00:12:58
+akhptox,78,student,This would be 7.,00:13:08
+akhptox,79,tutor,"Would be 7. Yes, because we know— why would this be a 7, by the way, Callum? Can you explain? [unclear]",00:13:11
+akhptox,80,student,"Hello? I can't really— I couldn't really— you kind of broke out, like—",00:13:22
+akhptox,81,tutor,"Okay, okay. I will ask you again. So why would it be 7? Can you explain me how you got the answer here?",00:13:28
+akhptox,82,student,"Because it's— so 6.5 is in the middle, and 5 or more, it goes— it rounds up, and it was 5, so it rounds up to 7.",00:13:39
+akhptox,83,tutor,"Very good. That was a nice explanation. You're right, Callum. You're like— you said if it's mid-value, It always rounds up, right? We learned. Excellent. So as you're done with the Follow Me and Your Turn slides, we're gonna do some practice questions with this one. I'm gonna do some practice on how to round to the nearest whole number. Let's see how it goes. Shall we read the question?",00:13:51
+akhptox,84,student,Yeah. [unclear],00:14:21
+akhptox,85,tutor,"Okay, look at this. The value of",00:14:22
+akhptox,86,student,"Tens, or use the number line to round each of these to the nearest whole number.",00:14:26
+akhptox,87,tutor,"So now, Callum, if you want, you can use the number line. If not, you can directly get to the answer. Let's start with the part A. What do you think? [unclear]",00:14:34
+akhptox,88,student,Pardon?,00:14:44
+akhptox,89,tutor,Shall we start with part A?,00:14:47
+akhptox,90,student,"A would be 10, I'm pretty sure.",00:14:51
+akhptox,91,tutor,"Oh yes. [Speaker:Callum]...9.9, so it would be 10. [Speaker:Tutor] Yes, so what happened here, Callum? Did you round up or down?",00:14:53
+akhptox,92,student,"We rounded up because it was 9.9 and 9 is just one more away from the greater number circle, so it would be 9.",00:15:03
+akhptox,93,tutor,"Very good. That was an excellent explanation. Like you said, as it's greater than 0.5, it would be rounding up. What about the Part B, Callum? If you want to, you can also use the number line. [unclear]",00:15:16
+akhptox,94,student,"Part B would be 4— oh wait, no, it would be 3 because 4 or less, it would go down, and this is 4 as you can see, so go down to back to 3.",00:15:32
+akhptox,95,tutor,"Nice, you are right. It would be a 3. Nice working out and a very nice explanation. Like you said, that As it's less than 5, it's going down. Great. If you want to, you can also use the number line as well, Callum.",00:15:46
+akhptox,96,student,"Yeah, okay.",00:16:02
+akhptox,97,tutor,Now we are going to C.,00:16:04
+akhptox,98,student,"C, okay. 20.5 rounded to the nearest whole, it would be— 20.5 would be— that would be 21 because the 5 is greater. The 5 is— You round up if it's a 5 or more.",00:16:07
+akhptox,99,tutor,"Mm-hmm, nice. You are right, you are right, Callum. A very nice explanation. You are right. As it's 5, we are rounding up, therefore it would be a 21. And what about the last one, D?",00:16:24
+akhptox,100,student,"Okay, um, D. 0.3 round— um, that would be 0.",00:16:40
+akhptox,101,student,"Because 3 is less than 4, so we go down.",00:16:49
+akhptox,102,tutor,"Very good, excellent. We did 0.3 even before this, and you said the correct answer back then as well. By the way, nice working out, Callum, and now you got all the 4 correct, and also very good explanations, because we know we have to keep up with good explanations so that, you know, when it comes to some other number, you can work it out as well with different applications, right?",00:16:54
+akhptox,103,student,Yeah.,00:17:19
+akhptox,104,tutor,"Yes, so keep up the good work. We are moving on to the last slide of this lesson, which is the [unclear] slide. So this is our tricky question. Shall we read this one?",00:17:21
+akhptox,105,student,"Yeah. Kara is measuring the length of her bracelet. She has rounded it to the nearest centimeters, so the rounded length is 10 centimeters.",00:17:33
+akhptox,106,tutor,What could be— what could the exact length of her bracelet be? Give 2 possibles.,00:17:45
+akhptox,107,student,"Um, uh, it could be, uh, 9.7, or let's go with 9.8, or",00:17:52
+akhptox,108,student,"9.5, something like this.",00:18:14
+akhptox,109,tutor,"You are right, Callum. Both your answers are correct. Excellent. If the number is in between 9.5 to 9.9, it would be correct. You are right. These are the two possibilities. By the way, there's something here as well. We have to put the unit as well.",00:18:16
+akhptox,110,background,"Oh, oh yeah.",00:18:38
+akhptox,111,tutor,"Let's put that too so that we don't have any mistakes. Yes. [unclear] And also, Callum, so when it comes to these two answers, how did you say that it's 9.7? You directly said that it's 9.7 or 9.5. How did you say?",00:18:41
+akhptox,112,student,"Because it would be something from 9.5 to 9.9, and in that range is like 9.7. 9.5, 9.8, and 9.6, 9.9, and those.",00:18:59
+akhptox,113,tutor,So then you say that Tara rounded the number to the— rounded up to 10 centimeters. Is that so?,00:19:14
+akhptox,114,student,"[unclear] is 10 centimeters. I think, yeah.",00:19:22
+akhptox,115,tutor,"If this is the real length, then she rounded up.",00:19:29
+akhptox,116,student,"Yeah. What about if the case was she rounded down? If it's another [unclear] but if she rounded down to 10 centimetres, what are the other possibilities?",00:19:33
+akhptox,117,student,"The other possibilities could be 9.4, 9.3, 9.2, and 9.1.",00:19:46
+akhptox,118,tutor,"If that's the case, then it would be a 9, right? Again, rounding down.",00:19:55
+akhptox,119,student,Yeah.,00:20:01
+akhptox,120,tutor,"Or else 9.5, it could be. But if the length is 10 centimeters, what are the other possibilities? Instead of rounding down, what if he or she— instead of rounding up like she did here, what if she rounded down? Then what are the possibilities?",00:20:01
+akhptox,121,student,"Uh, 9— 9 point—",00:20:22
+akhptox,122,student,"9.4, [unclear] 9.3, 9.2, and 9.1.",00:20:26
+akhptox,123,tutor,"If it's 9.4, Callum, then if she rounded up, then it cannot be a 10.",00:20:31
+akhptox,124,student,Yeah.,00:20:38
+akhptox,125,tutor,"It could probably be a 9.5, or it could even be a 9. And if it's rounding down, [unclear] So if 10 centimeters lies somewhere here in the number line, I would say when we are rounding up, we have this kind of a gap, and if we are rounding down, we have this kind of a gap. [unclear]",00:20:38
+akhptox,126,tutor,Yes.,00:21:10
+akhptox,127,student,What do you think? What if the number was greater than 10?,00:21:11
+akhptox,128,background,It was greater than 10.,00:21:17
+akhptox,129,student,It would go up to 10 centimeters.,00:21:21
+akhptox,130,tutor,"Let's say, let's say, uh, let's say if the length was 10.4. [unclear] Could that be a possibility?",00:21:26
+akhptox,131,student,"Uh, no, that'll go down to 10.",00:21:35
+akhptox,132,tutor,"Yes, then wouldn't it be a possibility then? Because the longer length is 10 centimeters.",00:21:39
+akhptox,133,student,Yeah.,00:21:46
+akhptox,134,tutor,"Yeah, it would be a possibility, right, Callum? Because the rounded length is 10 centimeters.",00:21:47
+akhptox,135,student,Yeah.,00:21:53
+akhptox,136,tutor,"Yes, so what are the other 5 possibilities that we can have?",00:21:55
+akhptox,137,student,"10.4, 10.3, 10.2, 10.1.",00:21:59
+akhptox,138,tutor,"Yes, excellent. Nice understanding, Callum. So these are the other possibilities that we can have, as in 10.1, 10.2, 10.3, 10.4. So if Tara was rounded down, she would again be getting to 10 centimeters. These are possibilities and these are possibilities too. Right? So was that part clear for you, Callum? [Speaker:Callum]...Yeah. [Speaker:Tutor] Okay. So with that said, as we are done with this lesson, let's take a look at [unclear]",00:22:05
+akhptox,139,tutor,"What we learned today. So we started off with this slide. So what are the new things that you learned in this lesson, Callum?",00:22:43
+akhptox,140,student,"I learned that one at the end, the one at the end that it could be like a possibility for 10.4, 10.3, and 10— if it was like rounded up, let's say to 7, it could still be like 10.8.4, 8.3, and 8.2, and 8.1, and [UNCLEAR].",00:22:52
+akhptox,141,tutor,"Very good. Yes, that's something new. What about rounding then? What are the new things that you learned about rounding?",00:23:12
+akhptox,142,student,Um... [unclear],00:23:21
+akhptox,143,tutor,What's the most famous one that you even told me before we started?,00:23:30
+akhptox,144,student,"That if it's 4 or less, it goes down.",00:23:36
+akhptox,145,student,"And if it's 5 or more, it goes up.",00:23:41
+akhptox,146,tutor,"Yes, if it's 5 or less, it's going down. If it's more, it's going up. And also, we did some practice questions on how we round up and down. So with that said, as we are done with this lesson, Callum, let's move on to the next lesson as we are remained with some time to end the session. [unclear] Yeah, let's give the next one a try. Okay, so this one is interesting. We have understanding fractions greater than one. By the way, Callum, can fractions be greater than one?",00:23:43
+akhptox,147,student,No.,00:24:22
+akhptox,148,tutor,"Yes, actually, a fraction is a part of a whole. It really cannot be greater than one. But what about improper fractions?",00:24:24
+akhptox,149,student,"Improper fractions, yeah.",00:24:34
+akhptox,150,tutor,"They can be, right? If the numerator is greater, then we can make a whole like a mixed number. Can you remember? [unclear] Have you heard about mixed numbers, Callum?",00:24:37
+akhptox,151,student,"Uh, yeah.",00:24:52
+akhptox,152,tutor,"Yes, excellent. So in this lesson, we're gonna understand fractions which are greater than 1. Shall we start off with the learning goal question? Shall we read it?",00:24:54
+akhptox,153,tutor,"Yeah, write 1, write 1, um, 3/5 as an improper fraction. [unclear]",00:25:08
+akhptox,154,tutor,"Yes, we have to write 1 whole and 3/5 as an improper fraction. What do you think about this one, Callum?",00:25:20
+akhptox,155,student,"Um, uh,",00:25:29
+akhptox,156,student,It would be— [unclear],00:25:33
+akhptox,157,student,"Not that sure, but give it a try.",00:25:37
+akhptox,158,student,3/5.,00:25:46
+akhptox,159,tutor,"3/5, we have, yes.",00:25:49
+akhptox,160,student,"I haven't done fractions that much, but I know a bit about them. Okay, any guess?",00:25:53
+akhptox,161,student,"No, not really.",00:26:01
+akhptox,162,tutor,"Okay, then let's talk about this one while we are moving forward then, Callum. What about the prior learning question? Let's read this one.",00:26:04
+akhptox,163,student,"Um, how many cakes are there in total? Count in multiples.",00:26:14
+akhptox,164,tutor,"So it's about multiples. They have given us cakes. I think they are [UNCLEAR]. Cakes, right, Callum? Don't you think?",00:26:20
+akhptox,165,student,Yeah.,00:26:28
+akhptox,166,tutor,"Looks like it. Yeah. So if you are counting multiples, what would it be?",00:26:29
+akhptox,167,student,"6, 12, 18.",00:26:35
+akhptox,168,background,18.,00:26:38
+akhptox,169,tutor,18. You are right. Can you type the answer?,00:26:39
+akhptox,170,student,Okay. [unclear],00:26:43
+akhptox,171,tutor,Nice. [unclear],00:26:58
+akhptox,172,student,"Yeah, divided by 11.",00:27:00
+akhptox,173,tutor,"Well done. That would be the multiples. So the total would be 18 then if you are to count in multiples. So yes, yeah, we would put 18. With that said, Callum, let's learn about how we're gonna write a mixed number in into an improper fraction while we are moving forward. By the way, Callum, do you like cupcakes?",00:27:05
+akhptox,174,student,"Uh, yeah.",00:27:29
+akhptox,175,tutor,"Yeah, what's your favorite flavor?",00:27:31
+akhptox,176,student,"Uh, vanilla and chocolate mostly.",00:27:33
+akhptox,177,tutor,"Yeah, I know, right? Vanilla and chocolate. What are your hobbies, Callum?",00:27:36
+akhptox,178,student,"[unclear] skateboarding, playing football.",00:27:40
+akhptox,179,tutor,"Football, interesting. Yeah.",00:27:46
+akhptox,180,tutor,And is that your favorite?,00:27:50
+akhptox,181,student,"Yeah, I'm playing video games.",00:27:53
+akhptox,182,tutor,"Oh, that's interesting. So it's skating and football. Out of those two, what's your favorite?",00:27:56
+akhptox,183,student,"Uh, football. [unclear]",00:28:03
+akhptox,184,tutor,"Yeah, yeah, it's football. That's good to hear, Callum. So with that said, let's take a look at the fractions. And how we're going to turn them into improper fractions and a little bit about the mixed numbers as well then. Shall we read the sentence in the green box?",00:28:05
+akhptox,185,student,Fractions can be greater than 1 when the number is greater or equal to the denominator— I can't really say that word— and it is [unclear] [unclear] multiple of a— of the denominator. It makes a whole number.,00:28:26
+akhptox,186,tutor,"Yes, so they say fractions can be greater than 1, and when the numerator is greater or equal to the denominator and is a multiple of the denominator, it makes a whole number. So have you heard about this, Callum? If the numerator and the denominator is equal, it is called as a whole. Have you heard of it?",00:28:48
+akhptox,187,student,"Um, yeah. [unclear] Oh yeah, yeah, yeah, I've heard of it.",00:29:16
+akhptox,188,tutor,"If it's 5 over 5, it's one whole.",00:29:24
+akhptox,189,student,Mm.,00:29:27
+akhptox,190,tutor,"Yes, if it's a 6 over 6, it's a whole again.",00:29:28
+akhptox,191,student,Yeah.,00:29:32
+akhptox,192,tutor,"Yeah, so this is something for you to remember. If the numerator and the denominator are same, it's going to be a whole. It's something you can remember. It tells you a lot when it comes to fractions. If the numerator and the denominator— [unclear] the same numbers, you directly say, oh, it's a one whole. Because when it comes to fractions, let's see if we have a figure with this one.",00:29:33
+akhptox,193,student,Mm-hmm.,00:30:01
+akhptox,194,tutor,"Yes, let's see this one. When it comes to fractions, if we have a half and a half, and if we have both of them with us, that means it's a one-half, right? If both parts are shaded, it's going to be a one-half, right? That means, uh, 2 over 2 again.",00:30:02
+akhptox,195,student,Yeah.,00:30:24
+akhptox,196,tutor,"2 over 2, that means a whole. So if both the numerator and the denominator are same, we know that it's a whole. It's something for us to remember. Okay, so with that said, they have given it to us that a bar is divided into 5 equal parts, and they say that one part is 1/5. Yes, and there are 5 such parts they have shown to us. And here they have given us a number line as well, and then they have divided it into 5 equal parts, and at the first mark they say It's 5 over 5. Yes, we know if it's 5 over 5, it's a whole. And if it's another 5 over 5, we know it's actually 2 wholes. Do you agree with me, Callum?",00:30:25
+akhptox,197,student,[unclear],00:31:15
+akhptox,198,tutor,"Yes. Because now we have 10 equal parts at the numerator. So we have 2. And if it's 15 over 5, now we have 3 equal parts. Then if it's 20 over 5, it's 4 equal parts. So same like this, Callum, when it comes to fractions and forming whole numbers, you have to think. So what's the numerator? If it's, uh, 2 times as the denominator, there are 2 wholes. If it's 3 times as the denominator, there are 3 wholes. If it's 4 times as the denominator, there are 4 wholes.",00:31:16
+akhptox,199,student,"[unclear] So and so we can find how many wholes are there in a particular fraction. Let's take a look at B. So in this one we have half and a half. So this is the total whole we have, 2 over 2. Let me put the fraction. [unclear]",00:31:56
+akhptox,200,tutor,2 over 2.,00:32:19
+akhptox,201,tutor,"Okay, Callum, is it clear?",00:32:22
+akhptox,202,student,Yeah. [unclear],00:32:25
+akhptox,203,tutor,Then how many wholes are there?,00:32:26
+akhptox,204,student,There are— there's 2 over 2 is one whole.,00:32:30
+akhptox,205,tutor,"One whole. When it comes to 6 over 2, how many wholes are there?",00:32:39
+akhptox,206,student,There is—,00:32:46
+akhptox,207,student,One.,00:32:48
+akhptox,208,tutor,"Is it a one? So if it's 6 over 2, in this one we said that if the denominator— if the numerator is [UNCLEAR], there are 2 wholes. If we had 10 here, 2 wholes. If we had 15 here, it's 3 wholes. If we have 20, which is 4 wholes, right? Yeah.",00:32:49
+akhptox,209,tutor,Great. Then how many 2s are there in 6?,00:33:13
+akhptox,210,student,"Um, there would be, um, in 6, there would be 4.",00:33:18
+akhptox,211,tutor,How many 2s?,00:33:29
+akhptox,212,student,There would be 0.,00:33:31
+akhptox,213,tutor,"Mm-hmm. For 6, how many 2s?",00:33:34
+akhptox,214,student,"Uh, there would be 4. Oh, is it a 4? Let's take a look at the 2 times table. So we have 2, we have 4.",00:33:39
+akhptox,215,student,"I mean, 3.",00:33:49
+akhptox,216,tutor,"Very good, very good. That would be a 3, Callum. So like we said, if the numerator is 3 times as the denominator, how many wholes is it then? [unclear]",00:33:51
+akhptox,217,tutor,"3. You're right, Callum. That's what we said here. If the numerator is 3 times, then the whole would be 3 times as well. And if the numerator is 4 times, the whole would be 4 times as well. Right. So let's take a look at C. How many wholes are there?",00:34:06
+akhptox,218,student,"Um, see, there would be [UNCLEAR].",00:34:27
+akhptox,219,student,4.,00:34:33
+akhptox,220,tutor,"Very good, excellent, Callum. Can you type the answer? Well done, it would be 4 holes. What about D then?",00:34:34
+akhptox,221,background,[unclear],00:34:43
+akhptox,222,student,D would be 5.,00:34:44
+akhptox,223,tutor,"D would be a 5, yes, like you said. If it's 5 times 4, 20 would be a 5 times 4, then there are 5 holes. Excellent.",00:34:48
+akhptox,224,tutor,"Now we know. Nice working out. Excellent focus with this slide, Callum. We learned something new. We learned that if the denominator— if the numerator is 2 times, there are 2 wholes. If the numerator is 3 times, there are 3 wholes. So and so on. Is it all clear? Like, uh, do you have any questions?",00:35:01
+akhptox,225,student,"Uh, no.",00:35:26
+akhptox,226,tutor,"Okay, then we are moving forward. Let's see what we have on our next slide. Okay, so as we are running out of time, let's just go through the Follow Me slide and let's see what we have on that one. So let's look at the [unclear] model that shows an amount greater than 1. So can you see they have",00:35:29
+akhptox,227,tutor,"A 1 here, a 1/2, and then another 3 1/5. Can you see that, Callum?",00:35:53
+akhptox,228,student,"Uh, yeah.",00:36:01
+akhptox,229,tutor,"Yeah, then this [unclear] space hole meter, what would be the, uh, how many holes are there?",00:36:03
+akhptox,230,student,"The, uh, the, um,",00:36:13
+akhptox,231,student,[unclear],00:36:20
+akhptox,232,tutor,"There is actually one whole meat, right, Callum? Because in the diagram they have only given us a one. And what's another fraction? And we can see that there are three one-fifths. So we can say that there are three and 5. 3 1/5 meters. You can write this as a mixed number. Yes, that's true. We can write this as a mixed number. We can write this as 1 and 3 over 5. Do you agree with me, Callum?",00:36:20
+akhptox,233,student,"Uh, yes.",00:37:01
+akhptox,234,tutor,Yes. And we have to put meters because it's the unit. And they say there are 15 total. How many [unclear] How many fifths are there in total? Shall we count? [unclear],00:37:03
+akhptox,235,tutor,"1, 2, 3, 4, 5, 6, 7, 8. How many fifths are there in total?",00:37:17
+akhptox,236,student,8.,00:37:29
+akhptox,237,tutor,"8 fifths are there in total. So if we are to write this as an improper fraction, how do we write this one?",00:37:29
+akhptox,238,tutor,"And then we can put 8 as the numerator because there are 8 fifths, and we keep the denominator as it is because we know an improper fraction is a fraction where the numerator is greater than or equal to the denominator. So here we have 3, uh, one-fifths more 3/1/5 and a 1 whole, so it's, uh, 8/5. Okay, Callum, I think you are already working out with the 'your turn' part. What do you think? [unclear] You're right, there are 2 whole meat. Excellent! Then let's go ahead with this one. What would be the fraction?",00:37:37
+akhptox,239,student,"The fraction would be, um, there'll be",00:38:23
+akhptox,240,student,"There's 1, 2, 3, 4, 5, 6, 7, 8. So it would be—",00:38:28
+akhptox,241,tutor,"So other than the 2, how many are there, Callum? When it comes to the first part, what we did was we counted how many extra are there other than the wholes. There was 3 in this one, 3 [UNCLEAR]. In this one, how many are there?",00:38:37
+akhptox,242,student,"Um, 3— um, there's 2/3.",00:38:55
+akhptox,243,tutor,"Very good. That would be the fraction on the blank, Callum.",00:39:01
+akhptox,244,student,Yeah. [unclear],00:39:05
+akhptox,245,tutor,"So if you have to write this as a mixed number in the part B, what would it be?",00:39:09
+akhptox,246,student,"Um, it would be, um,",00:39:14
+akhptox,247,tutor,You can follow exactly what we did on the follow me part.,00:39:20
+akhptox,248,student,"[unclear] I'm just giving this a go, but maybe it could be—",00:39:29
+akhptox,249,tutor,"2, yes, 2 holes, and?",00:39:42
+akhptox,250,student,3.,00:39:45
+akhptox,251,tutor,"2 wholes. And what would be the fraction, Callum? So here what we did was we basically combined these two, right? We combined the 1 whole and the 3/5 to write it as a mixed number. So here we should do the same. The 2 wholes and the fraction, that would be the whole number. Here, that would be the mixed number. Here, mixed number is a number with the whole number and a fraction. Then what would be the correct one here? 2 wholes and a—",00:39:47
+akhptox,252,student,"2 wholes and, um, a 3.",00:40:17
+akhptox,253,tutor,"Um, is it a 3? What is the fraction here? You have to put the fraction as it is. You are right, you are right. We have to put 2 wholes and 2/3. That's how we do it, Callum. [unclear]",00:40:22
+akhptox,254,tutor,"Okay, then let's move on to Part C. How many thirds are there in total?",00:40:41
+akhptox,255,student,"Uh, there is—",00:40:48
+akhptox,256,tutor,How many thirds? Shall we count?,00:40:54
+akhptox,257,student,"Um, there's 12— I mean 10.",00:40:56
+akhptox,258,tutor,"1, 2, 3, 4, 5, 6, 7, 8. Was there a 10?",00:41:00
+akhptox,259,student,"Uh, what about these, um, tops up here?",00:41:07
+akhptox,260,tutor,"So they are same as these, Callum. Here in the bottom line, instead of the wholes, they have given the thirds as well. That's the same thing that we did here. We just count the fractions as it is. 1, 2, 3, 4, 5, 6, 7, 8. It's same as the upper bar. Then how many thirds?",00:41:13
+akhptox,261,student,The third would be 8.,00:41:34
+akhptox,262,tutor,8. Then what would be the improper fraction?,00:41:37
+akhptox,263,student,The improper fraction would be— [unclear],00:41:41
+akhptox,264,tutor,8 over— what would be the denominator here? Callum. We had one-third here.,00:41:56
+akhptox,265,student,The denominator would be— [unclear],00:42:04
+akhptox,266,tutor,"We had one-third, so 8 over 3, right? Because we had one-third.",00:42:16
+akhptox,267,student,Yeah.,00:42:28
+akhptox,268,tutor,"Yes, it would be 8/3. Shall we type the correct one here?",00:42:29
+akhptox,269,student,Yeah.,00:42:34
+akhptox,270,tutor,"Yeah, then it would be 8/3. Nicely done, Callum. By the way, and also excellent focus with today's session and very good explanation. Keep up with the good work. Then I'm going to end the session for here today as we are running out of time. Then have a great week, Callum.",00:42:35
+akhptox,271,tutor,"Yeah, bye.",00:42:59
+akhptox,272,student,Bye.,00:43:00
+akhptox,273,tutor,Bye. Have a great week. Bye-bye.,00:43:00
+akhptox,274,student,Yeah. [unclear],00:43:04

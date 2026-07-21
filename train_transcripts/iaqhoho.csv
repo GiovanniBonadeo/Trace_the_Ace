@@ -1,0 +1,283 @@
+session_id,utterance_id,role,content,timestamp
+iaqhoho,0,background,[unclear],00:00:00
+iaqhoho,1,tutor,"Yeah, yeah.",00:00:00
+iaqhoho,2,tutor,"That's great. Yeah, how are you doing?",00:00:12
+iaqhoho,3,student,"I'm good, fine. How are you?",00:00:15
+iaqhoho,4,tutor,"All right. How has your week been so far? I mean, your weekend? How was your weekend?",00:00:18
+iaqhoho,5,student,[unclear] It's been fine.,00:00:23
+iaqhoho,6,tutor,"All right, that's great. Yeah. So Gideon, are we good to begin the lesson for today?",00:00:27
+iaqhoho,7,student,Yeah. Yeah.,00:00:34
+iaqhoho,8,background,This one.,00:00:36
+iaqhoho,9,tutor,"All right then, would you like to read the topic please?",00:00:38
+iaqhoho,10,student,Working with arithmetic sequences.,00:00:43
+iaqhoho,11,tutor,We'll begin with the warm-up question.,00:00:48
+iaqhoho,12,student,Yeah. [unclear] [unclear],00:00:53
+iaqhoho,13,tutor,That's right. So what happens with each— with the next?,00:01:15
+iaqhoho,14,student,The amount of sticks increases by 3.,00:01:21
+iaqhoho,15,tutor,"There we go. That's a brilliant explanation. All right, so let's begin our first exam-style question. Here we are.",00:01:25
+iaqhoho,16,student,"There are the first 3 patterns in a sequence. How many blue, how many orange squares will it be in pattern? [unclear]",00:01:32
+iaqhoho,17,background,It's like darkness.,00:01:42
+iaqhoho,18,tutor,Like the biggest number that— [unclear] [unclear],00:01:56
+iaqhoho,19,tutor,How about we start by counting the number of oranges and blues in each one?,00:02:23
+iaqhoho,20,student,[unclear],00:02:33
+iaqhoho,21,tutor,Mm-hmm. So how many?,00:02:34
+iaqhoho,22,student,[unclear],00:02:52
+iaqhoho,23,tutor,So we have 4 blues here and 1 orange here.,00:02:52
+iaqhoho,24,student,6. [unclear],00:02:56
+iaqhoho,25,tutor,So by how much does the number of blues increase?,00:02:58
+iaqhoho,26,student,Also 16.,00:03:08
+iaqhoho,27,tutor,"Okay. The number of blues increase by 4 each time, so 16, yes. And",00:03:10
+iaqhoho,28,tutor,"Yep, that's right. So would you like to explain your reasoning?",00:03:19
+iaqhoho,29,student,"So it goes up from a 1 by 1 square to a 2 by 2 square to a 3 by 3 square. So the next one would be a 4 by 4 square. [unclear] 16, so that means 16 orange squares. And then around the square, there is a larger blue square not having corners. So there'd be 4 blue squares on each side. And that'd be 16, with those 4 for each side. [unclear]",00:03:26
+iaqhoho,30,tutor,Brilliant explanation. That's right. So let's write our answer over here. [unclear],00:04:04
+iaqhoho,31,tutor,"Yeah, we'll start with the blue.",00:04:21
+iaqhoho,32,student,"Oh, let's see. [unclear]",00:04:26
+iaqhoho,33,tutor,And by how much?,00:04:39
+iaqhoho,34,student,By... 4 times. [unclear],00:04:58
+iaqhoho,35,student,There we go.,00:05:06
+iaqhoho,36,tutor,"All right, let's go through the marks here. For correct number of blue squares, which is 16, you're going to earn your first mark. For correct number of orange squares, you're going to earn your second mark. So both marks there. Third mark for the correct statement where blue increases by 4 each time. And yeah, it increases by +4 each time. [unclear] All right?",00:05:55
+iaqhoho,37,student,Yeah.,00:06:18
+iaqhoho,38,tutor,"All right then, let's move on to our next exam style. So have you understood how it increases in square numbers each time?",00:06:20
+iaqhoho,39,student,Yeah.,00:06:28
+iaqhoho,40,tutor,"All right then, let's move on to our next exam style question. Here we are. Would you like to start by reading the question? [unclear]",00:06:29
+iaqhoho,41,student,Sequence is given by Tn 9n 8.,00:06:41
+iaqhoho,42,student,"Where n is the first number, is the term number. Find the first 5 terms of the sequence for the 50th term of the sequence.",00:06:46
+iaqhoho,43,tutor,So what would you do to find the first 5 terms? [unclear],00:06:55
+iaqhoho,44,student,Not sure.,00:07:03
+iaqhoho,45,tutor,Mm-hmm. So do you know what we mean by this equation over here and how we can use it? [unclear],00:07:06
+iaqhoho,46,student,"So saying that the term number equals— well, the term equals 9n 8. Oh, so b. Mm-hmm.",00:07:24
+iaqhoho,47,tutor,How would you find each term? So,00:07:40
+iaqhoho,48,student,"would n— It would be like 1, because it would be the first term.",00:07:43
+iaqhoho,49,tutor,"Okay, so how would you find out the first term? You're going to substitute the term number, which is?",00:07:51
+iaqhoho,50,student,"N. Wait, 1. It should be 9.",00:08:00
+iaqhoho,51,tutor,9 times?,00:08:08
+iaqhoho,52,student,9 times 1. minus 8. That,00:08:09
+iaqhoho,53,tutor,is? There,00:08:14
+iaqhoho,54,student,[unclear],00:08:20
+iaqhoho,55,tutor,we go. So what do you— how would we find the second term now? times,00:08:20
+iaqhoho,56,student,"by 2 minus 8, which is 10. And 9 times by 3 minus 8, which is [UNCLEAR].",00:08:20
+iaqhoho,57,tutor,"Mm-hmm. Okay, great effort there. Mm-hmm. Really well done.",00:08:40
+iaqhoho,58,student,The next one is 28. And the fifth one is 37.,00:08:48
+iaqhoho,59,tutor,There we go. That's right. So what did you do each time to find the first 5-digit sequence? Phi terms in the sequence.,00:09:02
+iaqhoho,60,student,"Times 9 by what term of the sequence it is, and then remove 8. So the first one would be 9 times 1 and then minus 8. And then it would be 9 times 2 minus 8, and then 9 times 3 minus 8, and 9 times 4 minus 8, and 9 times 5 minus 8.",00:09:08
+iaqhoho,61,tutor,"Really, really, really well done. So how would we work out the answer for part B? [unclear]",00:09:28
+iaqhoho,62,student,9 times 50. [unclear] 442.,00:09:38
+iaqhoho,63,tutor,"All right, so 9 times 50 makes 442. [unclear]",00:10:00
+iaqhoho,64,student,What is 9 times 50?,00:10:08
+iaqhoho,65,tutor,"Yeah, there we go. All right, so let's go through the mark scheme. For 2 correct terms, you're going to be earning 1 mark. For all correct terms, you're going to earn your second mark. So all the marks there. And 442 for your answer, 1 mark. And for correctly substituting 50 into it, your",00:10:11
+iaqhoho,66,student,So you have the right answer.,00:10:30
+iaqhoho,67,tutor,"All right, so great effort there, Gideon. All right then, let's move on to our next exam-style question. Here we are. [unclear]",00:10:32
+iaqhoho,68,background,Write an expression in terms of n for the nth term of this sequence. [unclear]...minus 2n plus... [unclear],00:10:46
+iaqhoho,69,tutor,"Mm-hmm. Alright, so how did you work this out?",00:11:08
+iaqhoho,70,student,"Every time it decreases by -2, and then to get 12, you have to add 14 to -10 to 2. Okay, there we go. So minus 2n. All right, would you explain what the next term of the sequence is going to be then?",00:11:12
+iaqhoho,71,student,4. [unclear] [unclear],00:11:37
+iaqhoho,72,tutor,"Yeah, so—",00:11:52
+iaqhoho,73,student,4.,00:11:52
+iaqhoho,74,tutor,"Okay, so it's going to be minus 10 plus 4. There we go, that's right. Plus 14 makes 4. Great effort there then. One mark for correctly working out that it's minus 2n, and for the full correct nth term, It's going to be which is 14 minus 2n or minus 2n plus 14, your second mark. So both marks over there as well. Do you have any questions to ask? [unclear] All right then. So before we move on, can you explain to me just once more how you would find out the nth term for a sequence?",00:11:58
+iaqhoho,75,student,"So from term to term it decreases by 2, so it'd be minus 2.",00:12:39
+iaqhoho,76,student,"And then to get 12 from -2, you need to add 14 or so. [unclear]",00:12:45
+iaqhoho,77,tutor,"All right. Yep, there we go. That's right. So what if I said— told you that you can just do -2 each time? Would that still be right?",00:13:01
+iaqhoho,78,student,"Oops, sorry. Minus 2, yeah.",00:13:12
+iaqhoho,79,background,"Mm-hmm. So, yep, minus 2. But what is— how did you find the nth term for this sequence? Did you use the equation? [unclear] Do you know the equation for an arithmetic sequence for the nth term? [unclear]",00:13:16
+iaqhoho,80,student,No.,00:13:46
+iaqhoho,81,tutor,"OK. So we basically have something called a plus n minus 1. Oops. n minus 1. Times d. Okay, yeah, a is the first term, so in this case it's going to be 12 plus n remains the same. Okay, minus 1, and what is the difference each time here? It's a minus 2. Yeah. [unclear]",00:13:47
+iaqhoho,82,tutor,"So that's going to be 12 plus minus 2n minus 4, minus 2. Okay.",00:14:24
+iaqhoho,83,student,Yes.,00:14:33
+iaqhoho,84,tutor,"12 minus 2n minus 2. So 12 minus 2, I mean, sorry, plus 2 because it's minus and minus, so it's going to be plus 2. [unclear] Okay.",00:14:33
+iaqhoho,85,student,Yeah.,00:14:49
+iaqhoho,86,tutor,So that's going to be 14 minus 2n. So how else did you know that you had to do 14 minus 2n? [unclear],00:14:49
+iaqhoho,87,student,Mm-hmm.,00:14:58
+iaqhoho,88,tutor,"No, sure.",00:15:04
+iaqhoho,89,tutor,Pardon? [unclear] Hello?,00:15:25
+iaqhoho,90,student,Hello.,00:15:31
+iaqhoho,91,tutor,"Yeah, how did you work out this answer here?",00:15:32
+iaqhoho,92,student,"Well, it just goes down by 2 each time, so minus 2. And then to get 12 from minus 2, you need to add 12. 14. It says plus 14.",00:15:36
+iaqhoho,93,tutor,"All right, really, really, really well explained. All right, Gideon, are we good to move on to work out some questions that a student has done?",00:15:52
+iaqhoho,94,student,"Yep. [UNCLEAR]...see, since it's 3n 2, what are the first 5 terms?",00:16:03
+iaqhoho,95,tutor,"Well, 3n. [unclear] 3 minus 2. [unclear]",00:16:17
+iaqhoho,96,student,Would it be the first one before? [unclear],00:16:28
+iaqhoho,97,tutor,"All right, so the first 5 terms— very close. So if you substitute 1 here, what would it be?",00:16:41
+iaqhoho,98,student,[unclear] minus 2.,00:16:50
+iaqhoho,99,tutor,"All right, so 3 times 1 is?",00:16:58
+iaqhoho,100,student,3.,00:17:03
+iaqhoho,101,tutor,"All right, so 3 minus 2 makes?",00:17:05
+iaqhoho,102,student,One.,00:17:10
+iaqhoho,103,tutor,There we go. So what's the first term?,00:17:11
+iaqhoho,104,student,One.,00:17:14
+iaqhoho,105,tutor,There we go. So what about the second term?,00:17:15
+iaqhoho,106,student,It's going to be 6 minus 2. [unclear] these things. [unclear],00:17:19
+iaqhoho,107,tutor,"Okay, what's next? Okay.",00:17:38
+iaqhoho,108,student,"to put into here. Write them all out, and then I put the similar ones.",00:17:38
+iaqhoho,109,tutor,Find the nth term of the sequence. plus 5. Mm-hmm. [unclear],00:17:52
+iaqhoho,110,tutor,All right. So it increases by plus 5 each time. Minus,00:18:05
+iaqhoho,111,student,8. All [unclear],00:18:15
+iaqhoho,112,tutor,right. So let's look— have a look at this.,00:18:21
+iaqhoho,113,tutor,Yeah.,00:18:27
+iaqhoho,114,student,"So, a, okay, minus 3 plus— [unclear] Plus 5n minus 5. Okay, all right, yeah, that's right. Great effort there. So can you tell me how you got minus 8?",00:18:27
+iaqhoho,115,student,"So to get to -3 from +5, you have to— from positive 5, you have to subtract 8.",00:18:52
+iaqhoho,116,tutor,There we go. That's right. So brilliant explanation over there. Do you have any questions to ask? [unclear] How do you feel about arithmetic sequences?,00:19:06
+iaqhoho,117,student,[unclear],00:19:06
+iaqhoho,118,tutor,All right then. We'll begin with this one. What did we learn over here?,00:19:20
+iaqhoho,119,student,How many it would have to increase by each time.,00:19:26
+iaqhoho,120,tutor,All right. And we found that it was 3. And then we began with this one. How much— how did you know that it was by +4 each time?,00:19:31
+iaqhoho,121,student,[unclear] And then this is wrong by [UNCLEAR].,00:19:31
+iaqhoho,122,student,"So the square always increases from a 1x1 to a 2x2 to a 3x3. So the next one would be a 4x4, and then 4 times by 4 is 16. And then that'd be 4 squares with 4 sides. That'd be 4 times 4 again, which would be 16 for the blue squares.",00:19:44
+iaqhoho,123,tutor,"Mm-hmm. Yeah, well, that's right. And then we moved on to our next exam-style question, which was this one. What did we do over here?",00:20:06
+iaqhoho,124,student,"So, [unclear] substitute n for what substance of the sequence, what number of the sequence it is. So it would be 9 times 1 minus 8 for the first one, and then for the second term in the sequence it would be 9 times 2 minus 8, and then keep going on until you get 9 times 5 minus 8. [unclear]",00:20:19
+iaqhoho,125,tutor,"Mm-hmm. Yeah, we got— and then we moved on to this one. How did we work this out?",00:20:45
+iaqhoho,126,student,"Uh, we did it from each term.",00:20:56
+iaqhoho,127,student,"It minus— goes down by 2, so it'd be -2, and then to get from -2 to the first term, which is 12, it'd have to be +14. [unclear]",00:21:02
+iaqhoho,128,tutor,"Mm-hmm, yep, there we go. And then— so you basically do it mentally, yeah?",00:21:15
+iaqhoho,129,student,"Yeah, yeah.",00:21:22
+iaqhoho,130,tutor,"So really, really, really great effort there. I really love how you're doing things mentally for this one. And then we moved on to this one.",00:21:24
+iaqhoho,131,student,"[unclear] Substitute n for what the term is again. So it'd be 3 times 1 minus 2, which would make it 1. And 3 times 2 minus 2, which would make it 4. And then going on until you get 5, you make 3 times 5 minus 2, which is 13. There we go. That's right. All right then, are we good to move on to our next lesson for today?",00:21:35
+iaqhoho,132,student,Yep.,00:22:05
+iaqhoho,133,tutor,"Here we are. Let's begin by reading the new topic, Working with Prime Factorization. Do you know what we mean by prime numbers?",00:22:07
+iaqhoho,134,student,"Uh, yeah, I think so.",00:22:16
+iaqhoho,135,tutor,So what are the prime numbers? [unclear],00:22:20
+iaqhoho,136,tutor,"Any number that has just two factors, right?",00:22:28
+iaqhoho,137,student,Yeah.,00:22:33
+iaqhoho,138,tutor,"Okay, it cannot be divided by anything besides one. So any number that has just two factors, which is one and itself, is called a prime number. Okay, so in the case of one, one is not going to be a prime number because it does not have two factors. All right.",00:22:35
+iaqhoho,139,tutor,Here we go.,00:22:51
+iaqhoho,140,background,"OK. All right. But here in this case, whose method do you think will be the quickest? Is it going to be Titor's or Beatrice's? Let's begin by reading the question.",00:22:52
+iaqhoho,141,student,Macy wants to find the highest common factor of 120 and 320. Titor says she should use all the factors and find the highest factor.,00:23:05
+iaqhoho,142,student,The picture. Beatrice says she should find each number as a product of its prime factors and use a Venn diagram and find the [UNCLEAR].,00:23:19
+iaqhoho,143,tutor,"Alright, okay. So Beatrice's way is much quicker, isn't it?",00:23:30
+iaqhoho,144,student,"for tutors, but we could go.",00:23:30
+iaqhoho,145,tutor,"All right. So, okay. All right. So in the case of 320, would you be able to find all the factors one by one?",00:23:49
+iaqhoho,146,student,"Yeah, probably. Probably not. [unclear]",00:23:58
+iaqhoho,147,tutor,"Mm-hmm. So instead, if we find each number, for example, we'll begin with 320. Right, and go downwards. So can you tell me a factor pair of 320? Two factors of 320?",00:24:05
+iaqhoho,148,student,"Uh, 1 and [UNCLEAR].",00:24:23
+iaqhoho,149,tutor,"No, no, something else, please.",00:24:26
+iaqhoho,150,student,"Uh, 2 and 160.",00:24:29
+iaqhoho,151,tutor,2 and 160. So can we go down further with 2? Can 2 be broken down further? What are the factors of 2? [unclear],00:24:34
+iaqhoho,152,student,What do you mean?,00:24:44
+iaqhoho,153,tutor,Can you hear me?,00:24:56
+iaqhoho,154,student,Yeah.,00:24:57
+iaqhoho,155,tutor,"Okay, so they're going to be 2 and 1. What about 160?",00:24:59
+iaqhoho,156,student,2 and 80.,00:25:05
+iaqhoho,157,tutor,"2 and 80, that's right. So we have 2 and 80, so we know if you go down further with 2, that would be 2 again. So what about 80? What would we get?",00:25:08
+iaqhoho,158,student,"Uh, uh, 2 and 40. [unclear]",00:25:19
+iaqhoho,159,tutor,2 and?,00:25:26
+iaqhoho,160,student,40.,00:25:28
+iaqhoho,161,tutor,There we go. So we have 2 and 40. We can go another step ahead with 40? Yeah.,00:25:30
+iaqhoho,162,student,2 and 20.,00:25:38
+iaqhoho,163,tutor,"All right, so we have 2 and 20. What about 20 again? [unclear] 2 and? [unclear] Okay, and we can do 10, I mean 10 once again.",00:25:41
+iaqhoho,164,student,2 and 5.,00:26:01
+iaqhoho,165,tutor,"There we go, 2 and 5. Yeah?",00:26:04
+iaqhoho,166,student,"Yeah, and so the—",00:26:09
+iaqhoho,167,tutor,So were we pretty quick with the— when the— I mean the number tree?,00:26:11
+iaqhoho,168,student,"Yeah, I've worked out that— [unclear]",00:26:22
+iaqhoho,169,tutor,All right.,00:26:24
+iaqhoho,170,tutor,"So we're going to do the same for 120 as well. Then we're going to put up all these numbers into a Venn diagram, and those common to both are going to be the highest common factors. Okay. [unclear]",00:26:28
+iaqhoho,171,student,Yeah.,00:26:41
+iaqhoho,172,tutor,"All right. Um, so, so basically we're going to find out what the prime factors are. So in this case it was 5, 2, 2, 2, 2, and 1.",00:26:42
+iaqhoho,173,tutor,1.,00:26:54
+iaqhoho,174,student,"All right. And then if we do 120, it would be 120 split into 2, which is basically 2 and 60. Then 60 splits again to get 2 and [unclear] 30. 30 splits again to 2 and 15. And then 15 splits. [unclear] 3 and 5. Yep. So the factors are going to be 3, 5, 2, 2, and 2. Okay.",00:26:55
+iaqhoho,175,student,Yep.,00:27:41
+iaqhoho,176,tutor,"So the common factors are going to be— we have 3 2s here and a 5. So that's going to be 2 times 2 times 2 times 5, which is 10, 20, 40. Again, if you have a look at here, it would be 5 times 2 and the common ones. Okay?",00:27:42
+iaqhoho,177,student,Yeah. [unclear] And then I'll do— [unclear],00:28:00
+iaqhoho,178,tutor,"All right, have you understood how it works?",00:28:23
+iaqhoho,179,student,Yeah.,00:28:25
+iaqhoho,180,tutor,"All right, let's move on to try our first example question. Here we are. Let's start by writing 84 as a product of its prime factors. [unclear]",00:28:27
+iaqhoho,181,student,Yeah. [unclear],00:28:44
+iaqhoho,182,tutor,2 times what makes 42?,00:29:04
+iaqhoho,183,student,21.,00:29:10
+iaqhoho,184,tutor,Mm-hmm.,00:29:13
+iaqhoho,185,student,Like 3 and 3.,00:29:15
+iaqhoho,186,tutor,Yeah. So 21 is made up of? [unclear],00:29:25
+iaqhoho,187,tutor,"Right. So if you were to write 84 as a product of its prime factors, it's going to be?",00:29:41
+iaqhoho,188,student,2 times 2 times 7 times 3.,00:29:48
+iaqhoho,189,tutor,Right. So shall we write that over here? [unclear],00:29:52
+iaqhoho,190,student,Mm-hmm.,00:30:12
+iaqhoho,191,tutor,"There we go. So if you were to make this, or you could also write it as 2 squared multiplied by 7 times 3. Okay?",00:30:13
+iaqhoho,192,student,Yeah.,00:30:25
+iaqhoho,193,tutor,Do you have any questions to ask? [unclear] Have you understood what I have been learning so far?,00:30:26
+iaqhoho,194,student,Yeah.,00:30:34
+iaqhoho,195,tutor,"All right, your first mark is for identifying to draw a factor tree and splitting it into two factors. The first mark is for starting that, right? The next mark for completing the factor tree. And final mark for your final answer. Okay. All right. Do you have any questions to ask?",00:30:34
+iaqhoho,196,student,No.,00:31:01
+iaqhoho,197,tutor,All right then. Let's go to our next exam style question. Here we are. Would you like to start by reading the question? [unclear] [unclear],00:31:02
+iaqhoho,198,student,multiple of 56 and 84. [unclear] 2 numbers are not part of it. [unclear] [unclear],00:31:02
+iaqhoho,199,tutor,"Mm-hmm. So 56, what are the factors of 56? If you were to write 56 as a product of its prime factors, [unclear]",00:31:57
+iaqhoho,200,tutor,8.,00:32:11
+iaqhoho,201,student,"All right, 1 times 56. All right, so— [unclear]",00:32:12
+iaqhoho,202,student,"So 4, obviously every jump is 5 meters wide, so 5 throws into 4, 8 times. So that's 8.",00:32:41
+iaqhoho,203,tutor,So what is the lowest common multiple?,00:32:51
+iaqhoho,204,student,"2, 1, 2, 1, 2, 1, and this would be",00:32:53
+iaqhoho,205,student,"So look at this side, would be 4 take away 1, which would be 3. So 3 times different 5s equals 15. [unclear] And then this one would be—",00:32:57
+iaqhoho,206,tutor,"Alright, so in the case of 56, alright, are we writing the multiples over here or are we writing the factors over here?",00:33:10
+iaqhoho,207,student,"No, I'm— those are the multiples.",00:33:18
+iaqhoho,208,tutor,"Mm-hmm, so how would writing the— I mean, are we writing the multiples or the factors?",00:33:22
+iaqhoho,209,tutor,Multiples.,00:33:26
+iaqhoho,210,student,What do we mean by multiples? What are the multiples of 2? [unclear],00:33:30
+iaqhoho,211,student,The multiples are basically the numbers in the times table. [unclear],00:33:35
+iaqhoho,212,student,"So basically the multiples of 56 are going to be 56, 2 times 56, and so on. Okay?",00:33:43
+iaqhoho,213,tutor,Yeah.,00:33:50
+iaqhoho,214,student,"Factors are basically what you're writing down over here. Okay, what numbers multiply together to make this? All right.",00:33:51
+iaqhoho,215,student,[unclear],00:34:00
+iaqhoho,216,tutor,"So, uh, shall we find out how we can, um, find out the lowest common multiple of 56 and 84 using the prime product, right, by prime factorization?",00:34:00
+iaqhoho,217,student,But we're just doing [unclear] 1 times 84.,00:34:18
+iaqhoho,218,tutor,"Okay, so what we're going to do is basically we're going to find out by writing 56 as a product of its prime factors and 84 as a product of its prime factors. Okay?",00:34:24
+iaqhoho,219,student,Yeah. What is 56 as a product of its prime factors?,00:34:40
+iaqhoho,220,student,"And I got 7, which is 69.93. [unclear] And then 2, which is 19.98. I got that twice. I think I also got 1 there as well. And then I got 3, which is 59.94.",00:34:50
+iaqhoho,221,student,And then 49.95. [unclear] [unclear],00:35:13
+iaqhoho,222,tutor,Mhm.,00:35:43
+iaqhoho,223,tutor,What comes after 42?,00:36:03
+iaqhoho,224,student,"Yeah, I don't know. [unclear]",00:36:06
+iaqhoho,225,tutor,28.,00:36:12
+iaqhoho,226,student,21.,00:36:14
+iaqhoho,227,tutor,7 and 3. So what do you think is our next step? We're going to draw a Venn diagram for 84 and 56.,00:36:19
+iaqhoho,228,tutor,Yeah. [unclear],00:36:34
+iaqhoho,229,student,Mm-hmm.,00:36:35
+iaqhoho,230,tutor,"So do you know what— okay, there we go. All right.",00:36:38
+iaqhoho,231,student,"So 8 plus 2, 7. [unclear]",00:36:44
+iaqhoho,232,tutor,So it would be 2. [unclear],00:36:50
+iaqhoho,233,tutor,"No, lowest common multiple would be— so basically you need to write down all the multiple, all the factors as prime factors into this Venn diagram, right? So how many 2s do we have?",00:36:59
+iaqhoho,234,student,Yeah.,00:37:14
+iaqhoho,235,tutor,"We need to write each value. I understand that the Venn diagram only has unique values ideally, but in this case we're going to write down all the values in. Okay, so we're going to write down the 2s as well. [unclear]",00:37:15
+iaqhoho,236,tutor,"So these two, these two in as well.",00:37:27
+iaqhoho,237,student,Like that.,00:37:35
+iaqhoho,238,tutor,"Right, yep. So how many tools are shared and how many are not shared, right? So we have two tools here and two tools here, so two are shared, right?",00:37:38
+iaqhoho,239,tutor,Nice. So if you draw the Venn diagram again.,00:37:52
+iaqhoho,240,student,I guess.,00:37:57
+iaqhoho,241,tutor,"Okay, we'll use the black pen to write down the shared 2s here. Okay, okay. What else is shared?",00:37:58
+iaqhoho,242,student,1. [unclear],00:38:07
+iaqhoho,243,tutor,"All right, all right. So now what we're going to be doing is we're going to multiply all the numbers inside both the Venn diagrams together to get our lowest common multiple. Okay?",00:38:08
+iaqhoho,244,student,"Yeah, we have to work out—",00:38:25
+iaqhoho,245,tutor,We're basically going to multiply 2 by 2 by 2 by 7 by 3. Okay?,00:38:27
+iaqhoho,246,student,[unclear],00:38:33
+iaqhoho,247,tutor,"Yeah, that way. Did you understand how we find the lowest common multiple using the Venn diagram?",00:38:33
+iaqhoho,248,student,"Yeah, for dinner.",00:38:48
+iaqhoho,249,background,"Yeah, so what did we do over here?",00:38:51
+iaqhoho,250,student,"Over where? Sorry, I can't remember. [unclear]",00:38:56
+iaqhoho,251,background,"So, in the Venn diagram, there's two 2s on 84 and three 2s in 56, so it shares two 2s between them, so two 2s go in the middle of the Venn diagram. And there's 1 2 left over from the 56, so again, the 6 side of the Venn diagram. Both 56 and 84 have 7s, 1 7 on them. So 1 7 goes into the middle, and then 84 has a 3, but 56 doesn't. So 3 goes on the [unclear] also.",00:39:02
+iaqhoho,252,student,"There we go, that's right. So really well explained, and then we multiply all the values inside the Venn diagram together, right? [unclear]",00:39:39
+iaqhoho,253,tutor,"Let's go through a similar question. Before that, we'll quickly go through the explanation. So you basically find out the factors, prime factors of 56, and then write 84 as a product of its prime factors as well. Then we're going to organize the 2 here, 2, 7, and 2 here, and 3 here. Then we're going to multiply all of the numbers in the Venn diagram together to get our final answer. Okay.",00:39:50
+iaqhoho,254,tutor,Let's try a similar question. Would you like to start with this one?,00:40:15
+iaqhoho,255,student,Yeah. [unclear],00:40:20
+iaqhoho,256,background,"Times them all and find the common thing, like the common ones between the two numbers, and then put the ones that are the same into the middle of the intersection of the Venn diagram. [unclear] [unclear]",00:40:21
+iaqhoho,257,tutor,2 times?,00:40:41
+iaqhoho,258,student,2 times. [unclear],00:40:50
+iaqhoho,259,tutor,45 is basically what times what?,00:41:12
+iaqhoho,260,student,3. And this would be— [unclear],00:41:19
+iaqhoho,261,tutor,3 times 15.,00:41:23
+iaqhoho,262,tutor,"All right, now we'll move on to 64. [unclear]",00:41:32
+iaqhoho,263,tutor,"Yeah, they didn't include the 4 and the 3 in this bit. Work out these 16 sides. And then, that's right. [unclear] They used the wrong number. [unclear]",00:41:58
+iaqhoho,264,student,2 and 8.,00:42:18
+iaqhoho,265,background,"Mm-hmm, 2 times 8.",00:42:20
+iaqhoho,266,tutor,Yeah. [unclear],00:42:38
+iaqhoho,267,tutor,Times.,00:42:39
+iaqhoho,268,student,Yeah.,00:42:40
+iaqhoho,269,tutor,So how many common numbers do we have with both of them and what can go in the middle? [unclear],00:42:42
+iaqhoho,270,tutor,"Are we missing something? 180, say?",00:42:52
+iaqhoho,271,student,"Oh, a 5.",00:43:17
+iaqhoho,272,tutor,"Okay. And we have how many 2s in here? So 1, 2, 3, 4. 1, 2, 3, 4. Oh, what about the 2 here? [unclear] What about 4? Can we go down further with the 2, 4?",00:43:19
+iaqhoho,273,student,[unclear],00:43:45
+iaqhoho,274,tutor,"Okay, so there's going to be 1, 2, 3, 4— oh, do we have 5 of them? Okay, so if we split this further, we're going to have 2 and 2. Yeah, yeah, so 2 common ones. Besides that, we have 4 remaining. Okay, yep, there we go. Next step, what is our next step to find the LCM?",00:43:45
+iaqhoho,275,student,Times them all together.,00:44:08
+iaqhoho,276,student,"Okay, so what is our answer going to be? [unclear] 3 times 3 times 5 times 2 times 2 times 2... times 2 times— 2889!",00:44:10
+iaqhoho,277,tutor,"There we go, that's right. So brilliant effort once again. Go through the mark scheme. One mark for getting the writing both values as a product of their prime factors or getting their prime factors like this. Okay, and then drawing the Venn diagram is going to earn your second mark, final mark for your final answer. Okay, so Gideon, have you understood what we learned today?",00:44:27
+iaqhoho,278,student,Yeah.,00:44:53
+iaqhoho,279,tutor,"Yeah. All right then, that's going to be it for today. We can end the session and continue with this next week. Okay. [unclear]",00:44:54
+iaqhoho,280,tutor,Yeah.,00:45:04
+iaqhoho,281,student,Take care. [unclear],00:45:05

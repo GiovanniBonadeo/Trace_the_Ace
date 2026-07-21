@@ -1,0 +1,305 @@
+session_id,utterance_id,role,content,timestamp
+kxmecht,0,background,[unclear],00:00:00
+kxmecht,1,tutor,Hello?,00:00:00
+kxmecht,2,student,Yeah. [unclear],00:00:04
+kxmecht,3,tutor,Hello?,00:00:08
+kxmecht,4,student,Can you hear me?,00:00:11
+kxmecht,5,tutor,Yeah.,00:00:13
+kxmecht,6,student,"Yes, okay.",00:00:14
+kxmecht,7,tutor,"Alright, how was school today, [STUDENT_NAME]?",00:00:17
+kxmecht,8,student,[unclear],00:00:19
+kxmecht,9,tutor,Good. What did you do at school today?,00:00:20
+kxmecht,10,student,We did DC and maths and English.,00:00:26
+kxmecht,11,tutor,You did maths and English?,00:00:34
+kxmecht,12,student,Yeah.,00:00:35
+kxmecht,13,tutor,"Alright. Okay, [STUDENT_NAME], so you'll be doing more maths and English today?",00:00:36
+kxmecht,14,student,Yeah.,00:00:42
+kxmecht,15,tutor,"Oh, which book did you find was",00:00:43
+kxmecht,16,tutor,"Easier, maths or English? [unclear]",00:00:45
+kxmecht,17,student,English.,00:00:53
+kxmecht,18,tutor,"English. All right. So yes, English is generally easier than maths because we have to solve answers here, right? Okay. All right, so let's go to the lesson, [STUDENT_NAME]. So last week we were learning about Rounding numbers to the nearest hundred and thousand. So we did these two slides, and if you remember, we even did a few questions here. [STUDENT_NAME], do you recall what we did in these slides? [unclear]",00:00:54
+kxmecht,19,student,Yeah.,00:01:34
+kxmecht,20,tutor,"Okay, we found the previous multiple of 1000, multiple of 1000, And we rounded off the value they gave us. Similarly, we did that for the hundreds as well. Okay, so today we are going to continue with a couple of questions. All right, [STUDENT_NAME], let's give this first question a try.",00:01:34
+kxmecht,21,student,[UNCLEAR],00:01:34
+kxmecht,22,background,"700. Why did you say 700, [STUDENT_NAME]?",00:02:32
+kxmecht,23,student,"Oh, wait. [unclear] [unclear]",00:02:36
+kxmecht,24,student,Yeah.,00:03:06
+kxmecht,25,tutor,All right. How did you get 700 rupees?,00:03:07
+kxmecht,26,student,"Because I looked in the hundreds column and there was 7, so 700.",00:03:25
+kxmecht,27,tutor,"You looked at the hundreds column, very good. So the number 7 is here. All right, [STUDENT_NAME], do you remember that we have to look at the right side column also and see if it matches? [unclear]",00:03:36
+kxmecht,28,tutor,"Yes, it's greater than 5 or less than 5. Do you remember that? [unclear] Okay, so here, very good, it is 700. So here, since it's the digit 1, we know we have to round down, right? Because the number is 1, so it will remain at 700 because it was more than 5, that's why the number [unclear]",00:03:51
+kxmecht,29,tutor,"So yes, 800 is correct. What about you? [unclear]",00:04:26
+kxmecht,30,student,"This doesn't change. The 2 remains here. It becomes 2,700. [unclear]",00:04:38
+kxmecht,31,student,"because the holes, the one hole, [UNCLEAR] [unclear]",00:04:38
+kxmecht,32,student,"because the holes, the one hole, [unclear]",00:04:38
+kxmecht,33,tutor,"So remember, when they say to round to the nearest 100, the end of the number, there should be 2 zeros, like here. But here the number is not 700, so it's 2700. [unclear]",00:05:13
+kxmecht,34,tutor,"Right? So the thousands or the millions, they remain the same. [unclear]",00:05:29
+kxmecht,35,tutor,"Alright, shall we place this? [unclear]",00:05:36
+kxmecht,36,tutor,"Alright, now let's get it.",00:05:41
+kxmecht,37,student,Now let's apply the same thing to the 1000.,00:05:43
+kxmecht,38,tutor,"Wait, huh? Wait, wait, hang on. Yeah, there we go. [unclear]",00:05:48
+kxmecht,39,tutor,"Okay, that is correct. Well done. All right, let's try the next question. Part B. [unclear] [unclear]",00:06:17
+kxmecht,40,tutor,"All right, how did you get 2,000 [STUDENT_NAME]?",00:06:39
+kxmecht,41,student,75 keys.,00:06:58
+kxmecht,42,tutor,pushing... [UNCLEAR],00:06:58
+kxmecht,43,student,"thousands column, and then you see what the number is, and then if it's below 5, then you round down, and if it's above 5, you round up.",00:06:58
+kxmecht,44,tutor,"All right, yes, what you said was correct, but do you remember, [STUDENT_NAME], that we look at the column right next to it in the right-hand side? [unclear] You just see this column and say they are going to go up or down.",00:07:32
+kxmecht,45,student,I can't see the line.,00:07:50
+kxmecht,46,tutor,"Come on, the change is now. Oh, it is just— okay.",00:07:52
+kxmecht,47,student,"18 divided by 2, and that would be 9, and that would be 0. So that means 950. So that would be 950. [unclear]",00:07:58
+kxmecht,48,student,[unclear],00:08:25
+kxmecht,49,tutor,Yeah.,00:08:25
+kxmecht,50,student,"7,000. [unclear]",00:08:26
+kxmecht,51,tutor,Yeah. [unclear],00:08:33
+kxmecht,52,student,"1,600. [unclear]",00:08:34
+kxmecht,53,tutor,"1,600. [unclear]",00:08:41
+kxmecht,54,student,"1,600. [unclear]",00:08:43
+kxmecht,55,tutor,"1,600. [unclear]",00:08:45
+kxmecht,56,student,"1,600. [unclear]",00:08:46
+kxmecht,57,tutor,"1,600. We always look at the hundredth column. So in the hundredth column, we see the number 7. So do we round up or down then? Can you tell me?",00:08:48
+kxmecht,58,student,Up.,00:09:04
+kxmecht,59,tutor,"Up. Very good. So when we round up, what we do is we add just one digit to the thousandth place. [unclear]",00:09:05
+kxmecht,60,background,"So here, the 2715, this 2 is going to be a 3, and the rest of the digits are going to become 0. Why? Because we're rounding up. Let's say I draw it in a number line for you so it will be easy for you to understand. So let's say this is a number line.",00:09:20
+kxmecht,61,tutor,"All right, so I'm going to mark the 2,000. Here I'm going to mark 2,000, and here I'm going to mark 3,000. All right, in this number line, [STUDENT_NAME], can you tell me, is 2,715 more closer to 2,000 or is it more closer to 3,000?",00:09:44
+kxmecht,62,student,"3,000.",00:10:14
+kxmecht,63,tutor,"3,000. There you go. That is the answer. It lies under here, right? So then 3,000 is our answer. Did you understand that? [unclear]",00:10:15
+kxmecht,64,student,Yeah.,00:10:30
+kxmecht,65,tutor,"All right. So that is the answer, [STUDENT_NAME]. So you can either draw a number line and see which number I'm you're going to round it to, or what you can do is, if you have the number, you always look at the column right to the right-hand side. Since this is 7, we know we round up. So what we do is, we add 1 digit to here, and that's 0. All right, so [STUDENT_NAME], is that part very clear to you?",00:10:31
+kxmecht,66,student,Yeah.,00:11:05
+kxmecht,67,tutor,"Okay. So now with that, shall we try question number 2?",00:11:07
+kxmecht,68,student,Yeah. [unclear] [unclear],00:11:12
+kxmecht,69,student,"So here I go, that's gonna be a lot of [UNCLEAR].",00:11:39
+kxmecht,70,student,"Done. Oh wait, hang on, not done yet. Then I add [UNCLEAR]. Then I add— then I have my Done.",00:12:02
+kxmecht,71,tutor,"All right. Okay, [STUDENT_NAME], can you explain me how did you get the first blank here?",00:12:33
+kxmecht,72,student,"Well, I used the same technique as I used on question number 1, and then for the first one I got 6,000, and then for the",00:12:41
+kxmecht,73,tutor,"For rounding to the nearest hundred, I've got 5,300.",00:13:01
+kxmecht,74,student,"Okay, yes, you got it. But how did you know the 6,000 exactly? [unclear]",00:13:08
+kxmecht,75,tutor,What's the first one?,00:13:16
+kxmecht,76,student,"We can round it to the nearest thousand, right?",00:13:19
+kxmecht,77,tutor,"Wait, how? Wait. [unclear]",00:13:24
+kxmecht,78,tutor,"Wait, so first one. [unclear]",00:13:33
+kxmecht,79,tutor,"There. 5,000. All right, how did you get 5,000?",00:13:45
+kxmecht,80,student,"Because when you're rounding to the nearest thousand, you look in the hundreds column and it's below 5, and then when it's below 5, you round it down, and so it would be 5.",00:13:51
+kxmecht,81,tutor,Good! That is exactly correct. Well done!,00:14:10
+kxmecht,82,tutor,"That's correct. So let me write another number. Tell me, when we round it to the nearest 1000, what is the answer? [unclear] Okay. [STUDENT_NAME], can you tell me, when we round this number to the nearest 1000, what is it going to be?",00:14:18
+kxmecht,83,student,6000.,00:14:38
+kxmecht,84,background,6000.,00:14:40
+kxmecht,85,tutor,How did you get 6000?,00:14:42
+kxmecht,86,student,"And because when you round to the thousands, you look in the hundreds column, and since it's above 8, then it would be 6,000, because 6,000 comes after 5,000.",00:14:44
+kxmecht,87,tutor,"Aha, yes. So in the hundreds, [unclear] equals 8, so it's above 5.",00:15:04
+kxmecht,88,tutor,"So we round up. This becomes 6,000 then. Very good, [STUDENT_NAME]. Now you got it. All right, so that is correct. Now explain me, how did you get this number to the nearest 100?",00:15:10
+kxmecht,89,student,"Um, well, I— [unclear] The thousand would still be 5, and then I need to know 100th of a minute or so. 3, which was this, which we did quite similar what we did on the first question. So I've got 5,300. [unclear]",00:15:26
+kxmecht,90,tutor,"Yes, it is 5,300. So for rounding to the nearest 100, you look at the what— you look at what column and check if we have to round up or down. [unclear]",00:15:49
+kxmecht,91,tutor,Sorry?,00:16:09
+kxmecht,92,student,100.,00:16:09
+kxmecht,93,tutor,Not 100.,00:16:11
+kxmecht,94,student,"Oh no, 10.",00:16:13
+kxmecht,95,background,10.,00:16:15
+kxmecht,96,tutor,"10. So here, the tens, it was 2, right? So we round down, which means we make these zeros and we keep it as it is. All right, so well done, [STUDENT_NAME]. Both of the answers are correct. All right.",00:16:15
+kxmecht,97,tutor,"Okay, now let's try question number 3. [unclear] [unclear]",00:16:32
+kxmecht,98,student,"Yeah, so we'll see.",00:17:00
+kxmecht,99,tutor,"Okay, we're asking which letter A, B, C, D, or [unclear] is the nearest. Yes, let me round. What number comes to 5600?",00:17:23
+kxmecht,100,student,"Okay, so I have a 5, 6, 7, 8. [unclear]",00:17:39
+kxmecht,101,tutor,"All right, how did you get B and C?",00:17:48
+kxmecht,102,tutor,"Because they're both higher than 5, but one of them is 5,500, but since it's 5, you can round it up. And then the other one will probably be higher than 5, and then [unclear] So that would round not to 5,000, to 6,000. I mean 5,600. [unclear]",00:18:17
+kxmecht,103,student,"Okay, so [STUDENT_NAME] is correct because when we round— okay, let's look at the number line.",00:18:53
+kxmecht,104,tutor,"We've got 3 here, right? And it's more closer to 5600. [unclear] Is B more closer to 5600 or is it more closer to 5500?",00:19:08
+kxmecht,105,student,5400.,00:19:28
+kxmecht,106,tutor,See? [unclear],00:19:33
+kxmecht,107,tutor,"I mean, sorry, no, 5500.",00:19:35
+kxmecht,108,student,"Yes, D is more closer to 5500. So can we take that as the answer?",00:19:42
+kxmecht,109,tutor,No.,00:19:49
+kxmecht,110,student,"No, right? But can we take C as the answer?",00:19:50
+kxmecht,111,tutor,Yeah.,00:19:55
+kxmecht,112,student,"What if it's more close? Yes, we can, because it's more closer to 5600.",00:19:55
+kxmecht,113,tutor,"So C is correct. So then if it's C, since B is more close to 5500, then what should the other answer be? You can look at the number line and check. [unclear] [unclear]",00:20:01
+kxmecht,114,tutor,[UNCLEAR] [unclear],00:20:01
+kxmecht,115,tutor,[unclear],00:20:01
+kxmecht,116,tutor,"B. All right, how did you get B?",00:20:58
+kxmecht,117,student,"Uh, it's close to... [unclear] It's because it's close to 5,600.",00:21:02
+kxmecht,118,tutor,Ready?,00:21:26
+kxmecht,119,student,Yes.,00:21:31
+kxmecht,120,tutor,I'll show you a way. [unclear],00:21:32
+kxmecht,121,student,Oh!,00:21:35
+kxmecht,122,tutor,But how did you get the—,00:21:36
+kxmecht,123,student,"Because it's the next closest to 5,600.",00:21:40
+kxmecht,124,tutor,"Yes, it is, right? So you can see, B is more closer to 5600. [unclear] All right, so it is more closer to 5600 than it's closer to 5700. So always when they given a number line, so if we look at the two numbers they have given on the side, right?",00:21:48
+kxmecht,125,tutor,"See if it's more closer to this side or this side, and then you can see which two numbers are the correct ones, which two letters are the correct ones. So D and C are the correct answers. [unclear] All right, okay, well done, [STUDENT_NAME]. All right, are you very clear with rounding now from to the nearest hundred and one thousand?",00:22:15
+kxmecht,126,tutor,Can you tell me something you learned from this slide? Something you learned here? [unclear],00:22:50
+kxmecht,127,tutor,"Oh yeah, nice.",00:22:59
+kxmecht,128,tutor,What did you learn in this slide?,00:23:03
+kxmecht,129,student,"Oh, that when you ran into the learner's house and she looked at the",00:23:08
+kxmecht,130,student,"And then when you round it to the nearest hundred, you look at the little tens column.",00:23:15
+kxmecht,131,tutor,"Very good. Alright, that's it. Okay, so that is the question. So we have just one last question to do. Alright, so now [STUDENT_NAME], you can carefully read this and see what. The correct answers are— [unclear]",00:23:22
+kxmecht,132,tutor,Hello?,00:23:58
+kxmecht,133,student,Hello.,00:24:00
+kxmecht,134,tutor,"Oh, all right. [STUDENT_NAME], can you hear me clearly?",00:24:03
+kxmecht,135,student,Yeah.,00:24:07
+kxmecht,136,tutor,"Okay. All right, [STUDENT_NAME], shall we try to answer this question? The last question. All right.",00:24:08
+kxmecht,137,student,"Okay, so the first one said that it's [unclear] [unclear]",00:24:17
+kxmecht,138,tutor,"Done. All right, how did you get",00:24:45
+kxmecht,139,tutor,Why did you want to?,00:25:00
+kxmecht,140,student,"Because it's gonna have it because your original number could have been one of those because if it said you rounded 4,000 then it would be lower than 5, so I did 4,500 or 4,000.",00:25:04
+kxmecht,141,student,"700, which would round up to 5,000.",00:25:04
+kxmecht,142,tutor,"Yes, very good! Both of these answers are possible solutions. All right, yes, [STUDENT_NAME], that is correct. Well done, you gave me the correct reason as well. Any number that is above 4,500 we can take, but the number should be less than",00:25:04
+kxmecht,143,student,"4,000— sorry, 5,499.",00:25:56
+kxmecht,144,tutor,"So the number should be in between 4,500 and 5,499. [unclear]",00:26:03
+kxmecht,145,student,"All of these numbers round up to 5,000.",00:26:16
+kxmecht,146,tutor,"All right. [STUDENT_NAME], you got the final answer on your own. [unclear] Okay, so that is the end of this lesson, rounding numbers to the nearest hundred and one thousand. All right, are you very clear with this lesson now? Shall we move to a new lesson, [STUDENT_NAME]?",00:26:22
+kxmecht,147,student,Yeah.,00:26:47
+kxmecht,148,tutor,"Okay. You will have a couple of questions at the end of the lesson, so just remember to look at the correct column around you. [unclear]",00:26:48
+kxmecht,149,student,Yeah.,00:27:00
+kxmecht,150,tutor,"All right. Okay, so now we're going to start on a new lesson. It's for writing tens as decimals. All right, [STUDENT_NAME], have you done this lesson anywhere before?",00:27:02
+kxmecht,151,student,"Actually, we just started doing decimals actually. Like yesterday actually. [unclear]",00:27:19
+kxmecht,152,tutor,"Okay, all right. So this will help you brush up your theory. All right, okay. So we are going to learn how to write tens in decimal values. So shall we try this first question out?",00:27:27
+kxmecht,153,tutor,Which one? [unclear],00:27:44
+kxmecht,154,student,Let's give it a try.,00:27:51
+kxmecht,155,tutor,"So now, there's 10. [unclear]",00:28:12
+kxmecht,156,student,How did you get 0.4? [unclear],00:28:17
+kxmecht,157,tutor,"It would be 6.4 because 4 parts of the— wait, hang on. All right, so see, this is very close, but. [unclear]",00:28:24
+kxmecht,158,tutor,"Oh, 0! I forgot to put the point over it.",00:29:07
+kxmecht,159,student,"Point. Oh yeah, there we go.",00:29:13
+kxmecht,160,tutor,10.0! How did you get 10.0?,00:29:17
+kxmecht,161,student,Because there's 10 parts and all bits have been shaded. So it'll be 10.0.,00:29:22
+kxmecht,162,tutor,10 parts and all have been shaded.,00:29:29
+kxmecht,163,tutor,"Alright, [STUDENT_NAME], shall we try to write this fraction they are showing? That is this shaded area they have shown in a fraction. Can you try and write it in a fraction?",00:29:32
+kxmecht,164,student,"Ah, yeah. [unclear] [unclear]",00:29:49
+kxmecht,165,tutor,"All right, so [STUDENT_NAME], this is very close, but— [unclear]",00:30:06
+kxmecht,166,student,[unclear],00:30:36
+kxmecht,167,tutor,"Yes, now this is correct. Remember, the denominator— this is the denominator around the bottom— should be the number of squares, and the shaded region is on the top. So this is the correct fraction. Okay.",00:30:36
+kxmecht,168,tutor,"Okay, so now, [STUDENT_NAME], to write this in a decimal, so you first wrote the correct answer, 0.4.",00:30:55
+kxmecht,169,student,Mm-hmm.,00:31:03
+kxmecht,170,tutor,So 0.4 was the correct answer. [unclear] So the correct answer is 0.4.,00:31:04
+kxmecht,171,student,Okay.,00:31:15
+kxmecht,172,tutor,How did you get 0.4 though before?,00:31:16
+kxmecht,173,student,There's one line.,00:31:19
+kxmecht,174,tutor,"Wait, say that again.",00:31:22
+kxmecht,175,student,How did you get 0.4 as the correct answer?,00:31:24
+kxmecht,176,tutor,Because— [unclear],00:31:29
+kxmecht,177,student,"Wait, 0.4? [unclear]",00:31:33
+kxmecht,178,tutor,"You wrote it before, but you changed it afterwards.",00:31:39
+kxmecht,179,student,"Oh, so 0.4 was right.",00:31:44
+kxmecht,180,student,"Yes, you could. [unclear]",00:31:48
+kxmecht,181,tutor,Oh.,00:31:49
+kxmecht,182,student,"And the closest number is that 72, so that would be 3. And then I minus 72, so that would be 4. Then 4, then 4.",00:31:51
+kxmecht,183,tutor,Yes.,00:32:05
+kxmecht,184,student,"Then you bring out the 8, so that would be 48. Then after, 8. [unclear] [unclear]",00:32:05
+kxmecht,185,student,Yes.,00:32:20
+kxmecht,186,tutor,"Yes. So [STUDENT_NAME], when writing this as a decimal, so you can see that, you know, in a place value chart— okay, let me show. All right, so here we have a place value chart, right?",00:32:20
+kxmecht,187,tutor,Can you tell me what is this yellow column? What do we call this? [unclear],00:32:39
+kxmecht,188,student,Hundreds.,00:32:43
+kxmecht,189,tutor,Hundreds. What about this orange?,00:32:44
+kxmecht,190,student,Tens.,00:32:48
+kxmecht,191,tutor,And this?,00:32:48
+kxmecht,192,student,Ones.,00:32:51
+kxmecht,193,tutor,Ones. And this?,00:32:52
+kxmecht,194,student,Tens.,00:32:54
+kxmecht,195,tutor,"Tens, right? Okay, did you notice that in the tens column it says 1-10?",00:32:56
+kxmecht,196,student,"Yeah. Yes, right. So in this question here, you got 4 tenths. Did you notice that?",00:33:03
+kxmecht,197,student,Yeah. [unclear],00:33:12
+kxmecht,198,tutor,"So here we got 4 tenths. I'm going to write it here. 4 tenths. What is the difference between 1 tenth and 4 tenths? [unclear] Right here, right on the top.",00:33:13
+kxmecht,199,student,Yeah.,00:33:29
+kxmecht,200,tutor,So all you have to do is write this 4 here in the 10th place.,00:33:29
+kxmecht,201,student,Yeah.,00:33:36
+kxmecht,202,tutor,"Here you have to write 4. But since there's a decimal point here, just add a 0, so we can tell it, uh, 0.4. [unclear] Let's say we had, uh, 8 tenths.",00:33:38
+kxmecht,203,tutor,Can you write 8 tens in this second place value chart?,00:33:58
+kxmecht,204,student,"Uh, yeah.",00:34:03
+kxmecht,205,tutor,Can you write it and show me? How do we write 8 tens in this place value chart? [unclear],00:34:06
+kxmecht,206,student,8.,00:34:22
+kxmecht,207,tutor,"Yes, then what is the correct answer?",00:34:23
+kxmecht,208,student,"Yeah, and then after 0.8, right? 0.8. [unclear]",00:34:27
+kxmecht,209,tutor,Then here also the correct answer is 0.4 because you had 10 parts and you divided into 4. So it's easy for you to write it as a fraction first and then converting it to a decimal. [unclear],00:34:35
+kxmecht,210,tutor,"All right, okay, all right. So [STUDENT_NAME], don't worry, we will be learning about this in depth in our lessons. But before going, shall we try to do this second question?",00:34:52
+kxmecht,211,student,Okay.,00:35:05
+kxmecht,212,background,by...,00:35:05
+kxmecht,213,background,"Yes, [STUDENT_NAME], so the case of number divided by 8.",00:35:05
+kxmecht,214,background,"Okay, okay, we got it.",00:35:11
+kxmecht,215,background,So then that would be 4. [unclear],00:35:13
+kxmecht,216,background,"Yeah, and then because this is 282, take away 260, that would be 10.",00:35:19
+kxmecht,217,tutor,Okay. [unclear],00:35:36
+kxmecht,218,tutor,How did you get 3 tens?,00:35:48
+kxmecht,219,student,"Actually, that wouldn't be it because 8...",00:36:02
+kxmecht,220,tutor,"Yeah. How did you get that, [STUDENT_NAME]?",00:36:07
+kxmecht,221,student,because there is 10 parts and then there's 3 been shaded.,00:36:07
+kxmecht,222,tutor,"Great, well done! All right, so well done. Now you know how to write fractions.",00:36:07
+kxmecht,223,student,Yeah.,00:36:22
+kxmecht,224,tutor,"Let's learn a bit more about how to convert into decimals. All right, [STUDENT_NAME], then let's go to our lesson. Well done, you got the last one correctly. [unclear]",00:36:22
+kxmecht,225,student,No.,00:36:37
+kxmecht,226,tutor,"[STUDENT_NAME], read this green box out loud.",00:36:39
+kxmecht,227,student,Oh yeah. We can show tens by using decimal numbers.,00:36:41
+kxmecht,228,tutor,"Yes, we can show tens using decimal numbers. That's what we're going to learn here. All right, so now looking at this first diagram,",00:36:51
+kxmecht,229,tutor,What do you notice?,00:37:03
+kxmecht,230,student,"That there's one whole at the top and it's been split into 10, and it says one tenth.",00:37:07
+kxmecht,231,tutor,And how many one-tenths have it been split into? How many boxes are here?,00:37:16
+kxmecht,232,background,10.,00:37:25
+kxmecht,233,tutor,"10, right? So one whole is has been divided into 10 parts, and one of the parts is a one-tenth. All right, so they're saying one-tenth of the whole is shaded. They have shaded this region. Okay, so now they're going to write it in a place value chart. [unclear]",00:37:26
+kxmecht,234,tutor,"All right, so what do we call this column?",00:37:50
+kxmecht,235,tutor,One.,00:37:56
+kxmecht,236,student,One.,00:37:57
+kxmecht,237,tutor,Very good. What about this?,00:37:58
+kxmecht,238,student,Ten. [unclear],00:38:01
+kxmecht,239,tutor,What about this?,00:38:04
+kxmecht,240,student,Hundred.,00:38:05
+kxmecht,241,tutor,"Hundred. Very good. So this is how we wrote one ten, right? You remember, for like, for the 14, this is one ten, right? So this 1 is being put into the one-tenth column. That is how we can write 0.1. Is that clear to you, [STUDENT_NAME]? [unclear]",00:38:07
+kxmecht,242,student,Yeah.,00:38:38
+kxmecht,243,tutor,Yeah. [unclear] So now let's take a look at question 2. [unclear],00:38:40
+kxmecht,244,tutor,What can you say from this equation they have given us?,00:38:47
+kxmecht,245,student,"If 1/10 equals 0.1, 1/10 equals 1 divided by 10.",00:38:55
+kxmecht,246,tutor,"Are these two correct, [STUDENT_NAME]?",00:39:05
+kxmecht,247,student,Yeah. [unclear],00:39:07
+kxmecht,248,tutor,Yes?,00:39:14
+kxmecht,249,student,"No, wait.",00:39:16
+kxmecht,250,tutor,"So, because one tenth equals one divided by ten is one. Actually, no, it is right, it's right, it's right.",00:39:18
+kxmecht,251,background,"Yes, it is right.",00:39:31
+kxmecht,252,tutor,That is correct. What about the first equation here? Is this one correct?,00:39:37
+kxmecht,253,student,Yeah. [unclear],00:39:44
+kxmecht,254,tutor,"Yes, right. That is also correct. So we just learned that 1/10 is 0.1. And so 1/10 means you divide 1 by 10. You can teach it. Yes. So now let's try to mark its this number line. What would 1/10 of a meter be worth? We are going to use this number line to help us answer the question. So this is a meter. What are they asking?",00:39:45
+kxmecht,255,student,"Uh, what would 1/10 of a meter be worth?",00:40:21
+kxmecht,256,tutor,"Yes. [STUDENT_NAME], can you point me out",00:40:27
+kxmecht,257,student,One tenth in this little ruler.,00:40:30
+kxmecht,258,tutor,Yeah.,00:40:33
+kxmecht,259,student,Where would it stand? Where would one tenth be around?,00:40:34
+kxmecht,260,tutor,"Uh, here.",00:40:43
+kxmecht,261,student,Here?,00:40:51
+kxmecht,262,tutor,Yeah.,00:40:54
+kxmecht,263,student,"Not here, [STUDENT_NAME]. [unclear]",00:40:55
+kxmecht,264,tutor,"Okay, [STUDENT_NAME], can you tell me how many How many parts of this meter ruler being [UNCLEAR]?",00:40:57
+kxmecht,265,student,1 to 1 meter.,00:40:57
+kxmecht,266,tutor,"Yes, but how many small parts do you see?",00:41:32
+kxmecht,267,student,10.,00:41:43
+kxmecht,268,tutor,"10, very good. So, 1/10. Let's see.",00:41:44
+kxmecht,269,tutor,This one is the part with a square.,00:41:49
+kxmecht,270,student,Okay.,00:41:52
+kxmecht,271,tutor,Now we are going to find the value of that.,00:41:54
+kxmecht,272,student,Okay.,00:41:59
+kxmecht,273,tutor,So here they have given us a small hint.,00:42:01
+kxmecht,274,student,Okay.,00:42:05
+kxmecht,275,tutor,How many triangles? How many centimeters?,00:42:07
+kxmecht,276,student,[unclear],00:42:10
+kxmecht,277,tutor,100. Very good.,00:42:11
+kxmecht,278,tutor,"So here they have written 1 meter, but we can also write it as 100 centimeters. Now imagine this entire meter ruler is 100 centimeters, and you are going to divide it into 10 equal parts. What is the value of one part? [unclear]",00:42:15
+kxmecht,279,student,"Um,",00:42:38
+kxmecht,280,tutor,1 meter.,00:42:42
+kxmecht,281,student,Why did you say 1 meter? [unclear],00:42:47
+kxmecht,282,tutor,100 centimeters.,00:42:50
+kxmecht,283,student,"This entire thing is 100 centimeters. But how do we find the area of this part, the length of this small part? [unclear]",00:42:51
+kxmecht,284,tutor,which is actually our helper.,00:42:51
+kxmecht,285,student,I can't read. [unclear],00:42:51
+kxmecht,286,student,The entire thing is 100 centimeters and we divide it into 10 equal parts. What is the value of one part? [unclear],00:43:36
+kxmecht,287,background,"Oh, one.",00:44:02
+kxmecht,288,student,One.,00:44:06
+kxmecht,289,background,"Not one. So when we divide 100 by 10, what is the value, [STUDENT_NAME]? 100 by 10.",00:44:08
+kxmecht,290,student,"Uh, 10.",00:44:20
+kxmecht,291,background,Sorry?,00:44:22
+kxmecht,292,student,10.,00:44:25
+kxmecht,293,tutor,"Very good, there you go. So one part is just 10 centimeters, right? We know that if you take 100 centimeters, one-tenth of it is 10 centimeters. All right, so one-tenth should be 10 centimeters. Is that clear to you?",00:44:26
+kxmecht,294,student,Yeah.,00:44:55
+kxmecht,295,tutor,"Okay. All right, [STUDENT_NAME], so don't worry. We will learn more about missing questions and you will clearly understand how to get the value of one tenth when a big amount is like this given. Okay? Okay. All right. So [STUDENT_NAME], our 45 minutes have ended. [unclear] Yeah. [unclear]",00:44:55
+kxmecht,296,tutor,So I would like to end this lesson for today. [STUDENT_NAME] is a child/student. Do you have any questions?,00:45:21
+kxmecht,297,student,"Uh, okay.",00:45:29
+kxmecht,298,tutor,All right.,00:45:31
+kxmecht,299,student,Yeah.,00:45:32
+kxmecht,300,tutor,"Okay, [STUDENT_NAME], until I meet you next week, have a great week.",00:45:34
+kxmecht,301,student,"Okay, bye.",00:45:39
+kxmecht,302,tutor,"Okay, bye, [STUDENT_NAME].",00:45:40
+kxmecht,303,student,Bye.,00:45:42

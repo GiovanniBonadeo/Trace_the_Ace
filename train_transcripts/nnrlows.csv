@@ -1,0 +1,348 @@
+session_id,utterance_id,role,content,timestamp
+nnrlows,0,background,[unclear],00:00:00
+nnrlows,1,tutor,Hello? Hello! Hi!,00:00:00
+nnrlows,2,tutor,How are you?,00:00:11
+nnrlows,3,student,"Hi, Lorcan. [unclear]",00:00:13
+nnrlows,4,tutor,I'm good. How are you?,00:00:15
+nnrlows,5,student,I'm great. Thank you.,00:00:18
+nnrlows,6,background,Hello.,00:00:19
+nnrlows,7,tutor,Yeah.,00:00:20
+nnrlows,8,background,Thank you. How are you?,00:00:20
+nnrlows,9,tutor,"So, are you having a good day?",00:00:21
+nnrlows,10,background,"Yes, I am.",00:00:24
+nnrlows,11,tutor,"I'm great. I'm really great. Thank you so much. All right, Lorcan. So, I feel like there's a tiny lag. Can you hear what I'm saying at the exact moment?",00:00:25
+nnrlows,12,student,"Yes. Yes, okay, right. We'll see if there's a lag, then we might be catching on to that. So if so, we'll start refresh and make everything better. Okay, all right. So yeah, I think the lag is gone now, right? So do you remember we started this, uh, I mean, revision on this lesson last time, working with prime factorization? We learned about, um, do you remember Factor Tree where we got to learn about, you know, finding factors? Or maybe the prime factors, right? Factors which are actually prime numbers. And at the same time, how to write a number as a multiplication or a product of prime factors. Right, for that we use the factor tree. Yeah, that's what we discussed last week, right? Okay, so let's try this warm-up question just to get a little kickstart, and after that I'll take you to where we stopped.",00:00:34
+nnrlows,13,tutor,[unclear] [unclear],00:01:34
+nnrlows,14,tutor,Who do you think is correct out of Tito and Beatrice?,00:01:40
+nnrlows,15,student,"Beatrice. Beatrice, you think Beatrice is correct? And do you think Tutor is wrong?",00:02:02
+nnrlows,16,student,No.,00:02:09
+nnrlows,17,background,Has he made it correct?,00:02:10
+nnrlows,18,tutor,"Yes, actually both are correct, right? But the way Beatrice has mentioned is quite straightforward, that we don't have to have any sort of a hassle if you try to follow Beatrice's method. Okay, but Tutor's method is also correct, but it's a little bit of too much work compared to this method.",00:02:11
+nnrlows,19,student,[unclear],00:02:33
+nnrlows,20,tutor,"Okay, so we did this question last time and also we tried this question. Yeah, we learned how to draw the Venn diagram and then filter out lowest common multiples. So I'm gonna let you do this question today. So take your time, no rush at all. All right, try to work with the memory you have.",00:02:33
+nnrlows,21,student,"So, yeah, I guess the lowest common multiple will go in the middle.",00:03:08
+nnrlows,22,tutor,"The lowest common multiple. So it's more like, I'll guide you with the question because actually we did a very similar question last week, but anyway, I'll guide you in case if you have forgotten or maybe. Don't remember what we did, I'll guide you with the question so we can recall what we did. Okay, so first of all, when you have to find the lowest common multiple between two numbers, you have to write both of these numbers separately as a product of their prime factors. So shall we do that first, Lorcan? Try to write this one as a product of prime factors first, and then do this one.",00:03:15
+nnrlows,23,student,[unclear],00:03:51
+nnrlows,24,tutor,"So, my son, 180.",00:03:52
+nnrlows,25,student,Mm-hmm.,00:04:00
+nnrlows,26,tutor,290.,00:04:06
+nnrlows,27,student,"Mm-hmm. [unclear] 9, 10. Is 9 a prime factor? I don't think it is. [unclear]",00:04:10
+nnrlows,28,tutor,Do you think 9 is a prime number?,00:04:27
+nnrlows,29,student,No.,00:04:30
+nnrlows,30,tutor,"No, it is not. So it's not a prime. Yes, we could do 3 times 3.",00:04:32
+nnrlows,31,student,"Yeah, so 3 into 3.",00:04:38
+nnrlows,32,tutor,Mm-hmm.,00:04:44
+nnrlows,33,student,"And 2, and that's a terrible 5.",00:04:46
+nnrlows,34,tutor,"[unclear] It's not a problem. All right, great. So I come to the end of all the branches, right?",00:04:50
+nnrlows,35,student,Yeah.,00:05:00
+nnrlows,36,tutor,"So I'll type out all the prime factors of 180 down over here. We have 2, then we have 3, again a 3, again a 2, and a 5. So this is 480. 480, right. Now try to find, uh, try to write 64 as a product of prime factors as well. Shall I erase this? So, uh, do you have enough space somewhere here? [unclear]",00:05:00
+nnrlows,37,student,Yes.,00:05:36
+nnrlows,38,tutor,"Since we have the answer over here, I'll rub this off so you have more space.",00:05:36
+nnrlows,39,tutor,Yeah. [unclear],00:05:41
+nnrlows,40,student,64.,00:06:01
+nnrlows,41,tutor,232. [unclear],00:06:07
+nnrlows,42,tutor,16. [unclear],00:06:29
+nnrlows,43,tutor,4.,00:06:37
+nnrlows,44,student,4.,00:06:38
+nnrlows,45,tutor,Mm-hmm.,00:06:38
+nnrlows,46,student,"Yeah. 2, 2, 2, 2. A lot. A lot of 2s.",00:06:42
+nnrlows,47,tutor,"A lot of 2s, yes. We technically have 8 2s, right? I mean, 6 2s.",00:06:49
+nnrlows,48,student,Yeah.,00:06:53
+nnrlows,49,tutor,"Right? So, yeah, I'll write 64 also here.",00:06:54
+nnrlows,50,tutor,"61, if you try to write 61 as product of only prime factors, it's going to look like",00:06:59
+nnrlows,51,background,"2 times, 2 times. So instead of times, I put a comma. 2, 2, 2, and 2. Okay, now what we have to do is— so the first thing we have to do in case of finding least common multiple is we have to write both of these numbers separately as a product of their prime factors. After that, we have to write all these numbers in a Venn diagram. Okay, that helps us remove the repeating numbers. Okay, now in case— do you see this 2 and this 2 is common to both of these?",00:07:05
+nnrlows,52,student,That's right.,00:07:41
+nnrlows,53,tutor,"Yeah, so we're gonna put those 1, 2— these 2 over here and these 2 over here because that's quite common for both of them. And the rest of the numbers, they're not quite common. So we could put them in these crescents. This is 64% and this is the harmony crescent.",00:07:42
+nnrlows,54,background,[unclear],00:08:07
+nnrlows,55,tutor,"Great, we have 2 3s and a 5 on this side and 4 2s on this side, right? And now we have gotten over all of the repeating numbers, right? Because these 2 and these 2, they're quite repeating, but we have not repeated them because we have put them in the intersecting region. Right now, to get the LCM, what you have to do is you have to multiply all of these numbers inside the Venn diagram by each other.",00:08:08
+nnrlows,56,student,Yeah.,00:08:35
+nnrlows,57,tutor,"Okay, so you can get the lowest common multiple between 180 and 64.",00:08:36
+nnrlows,58,student,Yeah.,00:08:43
+nnrlows,59,tutor,So shall we multiply all of these and see the number you get? I'll rub this off so you have more space.,00:08:43
+nnrlows,60,student,Yeah.,00:08:49
+nnrlows,61,student,"Uh, I've just put it into a calculator.",00:08:50
+nnrlows,62,tutor,"Yes, no worries.",00:08:53
+nnrlows,63,student,And it's given me 2880.,00:08:54
+nnrlows,64,tutor,"That is absolutely correct, Lorcan. 2 times 2 times 2 times 2 times 2 times 2 times 3 times 3 and times 5 would give you 200— I mean, 2880. And that is going to be your LCM of 108 and 64. Is the method 100% clear?",00:08:59
+nnrlows,65,student,Yeah.,00:09:21
+nnrlows,66,tutor,"Yes, great. So actually last week also we did a very similar question, uh, so I think it recalled everything we did last week. Yeah, yeah, great. Okay, so that is how we could use the factor tree to find the LCM. And also there's another thing called HCF, highest common factor, right? So let's see, uh, Let's try to do a question with HCF as well. So for LCM, you have to multiply everything by each other, but for HCF, it's a different scenario. Let's see how that is done. Could you try this question as well, Lorcan?",00:09:22
+nnrlows,67,student,Okay. [unclear],00:09:58
+nnrlows,68,tutor,So this time you don't have to think about factors. They've already given you that.,00:10:10
+nnrlows,69,student,Yeah.,00:10:16
+nnrlows,70,tutor,You have to do the rest. How can we do this question?,00:10:18
+nnrlows,71,student,So a equals 180. [unclear] b equals—,00:10:22
+nnrlows,72,tutor,270. [unclear],00:10:39
+nnrlows,73,tutor,"Do you then— no, you won't. Never mind.",00:10:46
+nnrlows,74,background,"So the numbers, the two numbers, 180 and 270, right? Technically, we are finding, we're trying to find the highest common factor. Of 180 and 270. So usually what we have to do is we have to use the factor tree and try to write both of these numbers separately as a product of their prime factors. That part they've already done. Do you see that? They've already given you the prime factors. So using that, how can we find the highest common factor? Yeah, any guesses? [unclear] Times like a and b together, so do 2 cubed plus 3 to the power of 5. Not plus, times 3 to the power of 5.",00:10:55
+nnrlows,75,tutor,"So technically we are multiplying. Yeah, by doing that, technically what we're doing is we're multiplying 180 and 270 together.",00:11:40
+nnrlows,76,student,Yeah.,00:11:50
+nnrlows,77,tutor,"Right, okay, I'll help you with this question. Okay, afterwards I'll give you a very similar question.",00:11:51
+nnrlows,78,tutor,Okay.,00:11:56
+nnrlows,79,background,"So this question is also— I mean, the method-wise is very similar to finding LCM, but the last part is different. I'll tell you why. So because of that, shall we draw a little Venn diagram and try to mark these numbers in it, Lorcan? So I'll explain you how finding HCF and LCM differs from one another.",00:11:56
+nnrlows,80,student,Yeah.,00:12:18
+nnrlows,81,tutor,"So Venn diagram part, it's the same. Okay, you have to find the two numbers separately as a product of prime factors and then put them in a Venn diagram. So let's try to do that. I'll help you with drawing the Venn diagram. So this is for 180 and this is for 270. Okay. [unclear]",00:12:21
+nnrlows,82,tutor,Let me try it again. All right. [unclear],00:12:47
+nnrlows,83,student,"They've got one similar to, so there'll be one in there. One here. 2 3s and 5.",00:13:05
+nnrlows,84,tutor,Mm-hmm. Yes.,00:13:21
+nnrlows,85,student,Then you times them all together.,00:13:24
+nnrlows,86,tutor,"Yeah, if you times all of them together, you would end up getting the LCM. That's what we did, right? For HCF, what we have to do is we have to multiply only numbers in the intersecting region. We exclude everything else, only this section. The numbers in these sections, we multiply them by each other for HCF. For LCM, we multiply everything.",00:13:27
+nnrlows,87,student,Yeah.,00:13:52
+nnrlows,88,tutor,"Okay, in the previous question, that's why we multiplied everything. For HCF, highest common factor, we multiply what's in the intersecting region. So when you multiply 2 by 3, 3, 5, what do you get?",00:13:53
+nnrlows,89,student,Get 90.,00:14:06
+nnrlows,90,tutor,"You get a 90. Very good. So 90 would be the highest common factor of 180 and 270. Is it clear, Lorcan?",00:14:07
+nnrlows,91,student,Yes.,00:14:17
+nnrlows,92,tutor,"It's the same exact method, only the last bit is different. For LCM, you multiply everything. For HCF, you only think about this common region.",00:14:18
+nnrlows,93,student,"Yeah. So they have quite explained here. After finding the factors, you have to mark them and then organize the prime factors into the Venn diagram. Find the HCF. Multiply the numbers in the intersection of the Venn diagram. Oh, when— that means this part. Yes. Yeah. Okay, right. Should I give you a very similar question to this so you can practice what you just read? Yep. Okay, great. Here we go, Lorcan. You have to find And the XCF of 240 and 144.",00:14:30
+nnrlows,94,student,Yeah. So 240. [unclear] [unclear],00:15:04
+nnrlows,95,tutor,That's good.,00:15:27
+nnrlows,96,tutor,"Yeah. [unclear] And then this one's 3, then 5.",00:15:50
+nnrlows,97,background,"5, yes, absolutely correct.",00:16:00
+nnrlows,98,tutor,So that would be—,00:16:03
+nnrlows,99,background,Yep.,00:16:06
+nnrlows,100,tutor,Yeah.,00:16:07
+nnrlows,101,background,Okay.,00:16:10
+nnrlows,102,tutor,5. [unclear],00:16:14
+nnrlows,103,tutor,Okay.,00:16:15
+nnrlows,104,student,6a squared.,00:16:18
+nnrlows,105,tutor,Put that there. Nice. And it's 4.,00:16:20
+nnrlows,106,student,Negative 9a.,00:16:31
+nnrlows,107,tutor,Then 144. So what they have in common? [unclear],00:16:33
+nnrlows,108,tutor,Yeah.,00:16:48
+nnrlows,109,student,"Which one do I do first? Do I do the left side, this number, or do I do this number? [unclear]",00:16:48
+nnrlows,110,tutor,Yeah.,00:16:59
+nnrlows,111,student,A plus 4.,00:17:02
+nnrlows,112,tutor,Yeah. [unclear],00:17:02
+nnrlows,113,tutor,Yes. [unclear],00:17:26
+nnrlows,114,tutor,And then—,00:17:37
+nnrlows,115,student,5 plus— so is there—,00:17:40
+nnrlows,116,tutor,"So there wouldn't be any 2s in the middle, or would there?",00:17:43
+nnrlows,117,background,"Is there anything common, any 2s common?",00:17:50
+nnrlows,118,tutor,"Well, there are 4 2s in both of them. Oh dear.",00:17:53
+nnrlows,119,background,"All right, no worries, I'll help you with that. Shall I write it again for you?",00:17:57
+nnrlows,120,tutor,"Yes, please.",00:18:02
+nnrlows,121,student,"Yeah, you do the [UNCLEAR]. But all right. So we have 2 times 2 times 3 times 5. And then 444, we have 2 times 2 times 2 times 2 times 3 times 3. Okay. So here, if we have anything common, we have to put it in the intersecting part of the Venn diagram.",00:18:03
+nnrlows,122,student,Yeah.,00:18:34
+nnrlows,123,tutor,So what are the common ones we could see between these two?,00:18:35
+nnrlows,124,student,"Uh... so, 2?",00:18:40
+nnrlows,125,tutor,"Mm-hmm, yes. We have a 2, another 2. What else?",00:18:45
+nnrlows,126,student,Uh... 2 more 2s. 2 matches.,00:18:51
+nnrlows,127,student,"And 1, 3.",00:18:58
+nnrlows,128,tutor,"And 1, 3. And this 3 is not common. This 5 is also not common. So these are the numbers which you could see if you draw a Venn diagram in the intersecting region. So to find the HCF, what do we need to do?",00:18:59
+nnrlows,129,student,[unclear] times them together.,00:19:12
+nnrlows,130,tutor,"Very good. We multiply these together. So when we times these things together, what do we get?",00:19:15
+nnrlows,131,student,We get 48.,00:19:22
+nnrlows,132,tutor,"48. Excellent work, Lorcan. So this is going to be our HCF, highest common factor. Okay, right. So it's very— I mean, uh, the method is pretty much the same, right? So you have to remember, for HCF, it's what, what's in the middle, or what's common. For LCM, it's every— as long as you remember that. Everything else is pretty much the same. Yeah. All right, so we have completed almost all the questions. Do you have any doubts or anything to ask me about working with prime factorization?",00:19:24
+nnrlows,133,student,"No, not anymore.",00:20:01
+nnrlows,134,tutor,"Okay, great. Then let me give you this question. [unclear]",00:20:03
+nnrlows,135,tutor,It's a square number.,00:20:12
+nnrlows,136,student,Wouldn't you just half it?,00:20:24
+nnrlows,137,tutor,Half that. So squaring means it's technically multiplying one number by another number. [unclear] Right?,00:20:29
+nnrlows,138,student,Yeah.,00:20:41
+nnrlows,139,tutor,Shall I give you a little briefing on square numbers?,00:20:41
+nnrlows,140,student,Yeah.,00:20:44
+nnrlows,141,tutor,"So technically, you know, if you take— let's take an example like",00:20:47
+nnrlows,142,background,"8 squared. So 8 squared means 8 times 8, right? That is, that would end up giving you 64. If you divide 64 by 2, what do you get?",00:20:53
+nnrlows,143,student,Uh... 32.,00:21:07
+nnrlows,144,tutor,"32. See, it's completely different. When you want to [unclear] prove that 84 is a square number, it's technically square of 8. But if you divide 64 by 2, you wouldn't be able to prove that. 64 is a square number.",00:21:14
+nnrlows,145,student,Yeah.,00:21:30
+nnrlows,146,tutor,"Right, 64. You have to prove that it's a multiplication of the same number by itself to prove that it's a square number. But if you divide by 2, it's going to give you a completely different result.",00:21:31
+nnrlows,147,student,Yeah.,00:21:43
+nnrlows,148,tutor,"Okay, so I hope I cleared your doubt over there.",00:21:44
+nnrlows,149,student,Yeah.,00:21:48
+nnrlows,150,tutor,"Dividing this by 2 doesn't help you with proving that it's a square number. So you have to try to prove that this could be written like this. So I'll give you a little hint, Lorcan. So throughout this lesson, what we did was we dealt with prime factorization, right? We did something with the factor tree or factor. We drew branches and we got to know prime factors. So try doing that method and try to write this number as a product of prime factors.",00:21:49
+nnrlows,151,student,[unclear],00:22:20
+nnrlows,152,tutor,Yeah. [unclear],00:22:21
+nnrlows,153,student,392. [unclear],00:22:28
+nnrlows,154,tutor,"Oh, they have given my hint just the same way over here, isn't it? Write 784 as a product of its prime factors.",00:23:02
+nnrlows,155,tutor,Yeah.,00:23:17
+nnrlows,156,background,So I release this. You have more space. [unclear],00:23:18
+nnrlows,157,tutor,"1, 2, 3. [unclear]",00:23:25
+nnrlows,158,background,"I think 5, 30. Because, because",00:23:31
+nnrlows,159,tutor,"You look at all the other numbers, all the other times, they are praying on their numbers and [UNCLEAR].",00:23:40
+nnrlows,160,student,Yep. [unclear],00:23:52
+nnrlows,161,tutor,"Yeah, so we could write this as— yeah. So shall we try to write it as products?",00:24:16
+nnrlows,162,student,"Yeah, so",00:24:29
+nnrlows,163,tutor,Oh.,00:24:31
+nnrlows,164,background,Mm-hmm.,00:24:31
+nnrlows,165,tutor,Yes.,00:24:34
+nnrlows,166,background,2 to the power 4 times 7 to the power—,00:24:36
+nnrlows,167,tutor,"Yeah, that's about right, isn't it? Yeah.",00:24:39
+nnrlows,168,background,2 over 7 times 7. Same thing. Right. So we could write this as 2 to the power 4 times 7 to the power 2.,00:24:42
+nnrlows,169,student,[unclear],00:24:52
+nnrlows,170,background,"Right, same thing. On the other hand, we could write it as 2 to the power 2 times 2 to the power 2 times 7 to the power 2. Is it clear what I just wrote, or do I need to explain it, Lorcan?",00:24:52
+nnrlows,171,student,[unclear],00:25:09
+nnrlows,172,tutor,"I just wrote the same thing. It's the same thing actually in different ways, right?",00:25:11
+nnrlows,173,student,Yeah.,00:25:17
+nnrlows,174,tutor,"So I could either write 2 times 2 times 2 times 2, or maybe I could write 2 to the power 4. Or else I could write 2 to the power 2 times 2 to the power 2. Same thing, right?",00:25:17
+nnrlows,175,student,Yeah.,00:25:27
+nnrlows,176,tutor,"Now, this number ends up giving— if you multiply this entire thing, we would end up getting 784. [unclear] Right? Now, do you notice we have technically written this number as a product of prime factors, at the same time squares of those prime factors?",00:25:28
+nnrlows,177,tutor,Yes.,00:25:49
+nnrlows,178,background,So that means if we try to take the square root of this— let me write it as one sentence so it will be easy for you to understand.,00:25:50
+nnrlows,179,tutor,[unclear],00:26:01
+nnrlows,180,background,"Now if I write it, 784 is equal to— so I'm writing the same thing again, okay? 784 is equal to 2 to the power 2, or 2 squared, times 2 squared, times 7 squared. Okay, so if I try to take square root of this, that means I have to take square root of this as well.",00:26:02
+nnrlows,181,student,[unclear],00:26:24
+nnrlows,182,tutor,"So square root of 784 would end up getting 2 times 2 times 7, because I have written all of these as squares. So once I take the square root, everything cancels off, and this would be the",00:26:26
+nnrlows,183,tutor,"Now, I mean, the section that we resulted in. If I erase everything and then if I do the multiplication, I would end up getting 2 times 2 is 4. 4 times 7 is 28. [unclear] Right, so 28 squared would be 784. What I did was I wrote the same exact number as a product of prime factors, but it's squares. And then I took the square root. So whatever I end up would be the square root of this.",00:26:41
+nnrlows,184,student,Yeah.,00:27:16
+nnrlows,185,tutor,"Yeah. [unclear] Is it clear, or do I need to explain again, Lorcan? If anything is not clear, let me know so I can explain to you again.",00:27:17
+nnrlows,186,student,I think I understand. Is that a 7?,00:27:24
+nnrlows,187,tutor,You mean over here?,00:27:29
+nnrlows,188,student,Yeah.,00:27:30
+nnrlows,189,tutor,It's actually a 2.,00:27:31
+nnrlows,190,student,Oh.,00:27:33
+nnrlows,191,tutor,"Square root, because I mean, okay, I'll erase that if that confuses you. Now we get 28, and if you multiply, if you have a calculator, you can check it. Lorcan, 28 squared, check whether you get 784.",00:27:34
+nnrlows,192,student,"Yeah, I got 784. [unclear]",00:27:51
+nnrlows,193,tutor,"Great, okay. So by, I mean, the opposite of square root is squaring. So if we can try to take the square root of this, we can get 28. Which is—",00:27:54
+nnrlows,194,tutor,"yes, exactly.",00:27:54
+nnrlows,195,background,Which proves actually that 784 is a square number because 28 squared is 784.,00:28:07
+nnrlows,196,tutor,Yeah.,00:28:13
+nnrlows,197,background,"Okay, right. So actually this question is a very good question to understand how— I mean, different uses of these prime factors, right?",00:28:15
+nnrlows,198,tutor,Yeah.,00:28:25
+nnrlows,199,background,"So it's not just finding HCF or LCM, we could also prove different things in mathematics using this method.",00:28:26
+nnrlows,200,student,"Oh, [UNCLEAR].",00:28:33
+nnrlows,201,tutor,"Yeah, right. So anything to ask me or any sort of a question regarding this?",00:28:34
+nnrlows,202,student,"Yeah, no.",00:28:40
+nnrlows,203,tutor,"No. All right, then I'll take you to the very last slide of this lesson, and afterwards, since we have time, let's jump into a new lesson.",00:28:43
+nnrlows,204,student,Okay.,00:28:51
+nnrlows,205,tutor,So here the working is done. You need to figure out where they have gone wrong. [unclear],00:28:52
+nnrlows,206,tutor,They've done 2 times 78 times 2 times 39. They've added the 78 to the [UNCLEAR].,00:29:03
+nnrlows,207,background,"Exactly. They have technically multiplied by everything in the factor tree, right? Not just the prime numbers or the roots of the branches. So what would be the answer for like writing this number as a product of prime factors?",00:29:15
+nnrlows,208,student,"Uh, it'd be 156 equals 2 times 2 times 3 times 13.",00:29:32
+nnrlows,209,tutor,"Excellent work. Yes, we only are supposed to multiply by these circle numbers, right? That's done. What about the second question? [unclear]",00:29:39
+nnrlows,210,student,They put all of the 2s in when they shouldn't have.,00:30:02
+nnrlows,211,tutor,"Exactly. So even though it's repeating, I mean, the purpose of putting a number into this intersecting region is to avoid the repetition, right?",00:30:06
+nnrlows,212,student,Yeah.,00:30:14
+nnrlows,213,tutor,"But this person, whoever did this, Tutor has repeated the number again and again in the intersecting region. So when you have a common 2, we're only supposed to put it once. We don't have to have it twice. So I'll cross this one, this one, and also a 3 off.",00:30:14
+nnrlows,214,student,[unclear],00:30:14
+nnrlows,215,tutor,"Yeah, right. Now, if we— to get that CF, what are the numbers we need to multiply?",00:30:33
+nnrlows,216,tutor,Good. Could you say that again?,00:30:44
+nnrlows,217,background,"Yes. For HCF, what are the numbers that I have to pick from this Venn diagram to multiply?",00:30:47
+nnrlows,218,student,"Uh, 2?",00:30:54
+nnrlows,219,background,Mm-hmm.,00:30:57
+nnrlows,220,student,The 2—,00:30:59
+nnrlows,221,background,It's okay.,00:31:01
+nnrlows,222,student,2 times 2 times 3.,00:31:03
+nnrlows,223,background,"Very good. But over here, right?",00:31:06
+nnrlows,224,tutor,Yeah.,00:31:08
+nnrlows,225,background,"So multiply these 3. Yep, 2 times 2 times 3 would give you— 2 times 3 is 4, or 4 times 3 is 12.",00:31:08
+nnrlows,226,tutor,Yeah.,00:31:20
+nnrlows,227,background,So HCF would be 12. And what about LCM? The same mistake. There were some extra numbers. So what would be the LCM?,00:31:20
+nnrlows,228,student,It would be—,00:31:32
+nnrlows,229,student,It would be 336.,00:31:38
+nnrlows,230,tutor,"Yes. Absolutely correct. It's 336 [UNCLEAR]. All right, Lorcan, really amazing work. Fantastic work. You have understood everything related to this lesson. So if you don't have any questions, I can take you to the next lesson. What do you think? Do you have any questions?",00:31:40
+nnrlows,231,student,No.,00:31:58
+nnrlows,232,tutor,Yep.,00:31:59
+nnrlows,233,background,[unclear],00:31:59
+nnrlows,234,tutor,"Okay. Let me take you to the next lesson, which is going to be solving area and perimeter problems. Okay, so we all know area means what's covered in a 2D shape.",00:32:02
+nnrlows,235,background,Yeah.,00:32:19
+nnrlows,236,tutor,"And perimeter means what is that shape is surrounded with. So perimeter is what's around, area means what's inside, technically speaking.",00:32:20
+nnrlows,237,student,Yeah.,00:32:30
+nnrlows,238,tutor,"Yeah. Okay. Right. So how would you approach this question? There are going to be some hints in this yellow section. [unclear] Yes, you didn't have to find the answer or anything, just hello. Can you hear me, Lorcan? [unclear]",00:32:31
+nnrlows,239,tutor,Hello.,00:33:10
+nnrlows,240,student,Hello.,00:33:12
+nnrlows,241,tutor,"Now I think I can hear you, Lorcan. Hi, can you hear me?",00:33:12
+nnrlows,242,student,Yeah.,00:33:15
+nnrlows,243,tutor,"Yes, I can hear you too.",00:33:16
+nnrlows,244,tutor,"Great. So here, how would you approach this question?",00:33:18
+nnrlows,245,student,So I think what you do is you would do the whole shape. So you'd imagine that this unshaded bit here is shaded in.,00:33:24
+nnrlows,246,tutor,Yeah.,00:33:35
+nnrlows,247,student,"And then once you figured that out, you would figure out what the unshaded bit is and take that away from",00:33:36
+nnrlows,248,tutor,Yes.,00:33:43
+nnrlows,249,background,Your answer.,00:33:44
+nnrlows,250,tutor,"Exactly. So if we have this thing shaded, it would look like a perfect trapezium, right?",00:33:46
+nnrlows,251,background,Yeah.,00:33:53
+nnrlows,252,tutor,"And they have even given you the formula to find the area of a trapezium. Using that, you can get the area of the whole [UNCLEAR].",00:33:53
+nnrlows,253,background,Yeah.,00:33:59
+nnrlows,254,tutor,"And afterwards, if you subtract the area of this tiny square, which is 6 by 6, you can get the area of the shaded portion.",00:34:01
+nnrlows,255,background,Yeah.,00:34:08
+nnrlows,256,student,Yeah.,00:34:09
+nnrlows,257,tutor,"Okay, so the questions would be very similar to what you found over here. Let's see how to do those things. This is the very first question, Lorcan, so take your time. Give it a go. [unclear] [unclear]",00:34:10
+nnrlows,258,student,"So for the full meat side, it would cost 79. [unclear] 1092p, I think.",00:34:40
+nnrlows,259,tutor,So is it for the entirety?,00:35:13
+nnrlows,260,student,"No, only for the 4 meters there.",00:35:18
+nnrlows,261,tutor,"Only for the 4 meters, yep. [unclear]",00:35:22
+nnrlows,262,student,This bit be 69.93. [unclear],00:35:26
+nnrlows,263,student,1998.,00:36:04
+nnrlows,264,tutor,Hmm?,00:36:09
+nnrlows,265,student,1998 again.,00:36:10
+nnrlows,266,tutor,[unclear],00:36:12
+nnrlows,267,tutor,Then this bit would be 2.5 meters. [unclear] [unclear],00:36:23
+nnrlows,268,student,49.95. And then you add that all together.,00:36:51
+nnrlows,269,tutor,Okay. twice [UNCLEAR]...is the length of equal to [UNCLEAR]...,00:36:54
+nnrlows,270,tutor,is 39.76 pounds. Wouldn't,00:36:54
+nnrlows,271,student,it? So,00:37:31
+nnrlows,272,background,the right answer is 299.6 pounds. £1.70.,00:37:31
+nnrlows,273,tutor,"Actually, your method is absolutely correct.",00:37:40
+nnrlows,274,student,I forgot a size.,00:37:42
+nnrlows,275,tutor,Mm-hmm. We have to add this side as well.,00:37:45
+nnrlows,276,student,Yes. That 3 meters there.,00:37:49
+nnrlows,277,tutor,Yes.,00:37:52
+nnrlows,278,student,Sorry. [unclear],00:37:54
+nnrlows,279,student,"3 meters is 59.94, I think.",00:38:08
+nnrlows,280,tutor,"Yeah, yes.",00:38:17
+nnrlows,281,student,Then add that to what I got. [unclear],00:38:19
+nnrlows,282,tutor,Get you to 99.7.,00:38:33
+nnrlows,283,background,Absolutely correct.,00:38:44
+nnrlows,284,tutor,Is it right?,00:38:46
+nnrlows,285,background,"Yes, that is a correct answer, Lorcan.",00:38:46
+nnrlows,286,tutor,Yeah.,00:38:49
+nnrlows,287,background,Absolutely amazing work over there.,00:38:51
+nnrlows,288,tutor,"So your method is actually correct. Okay, I'll tell you some sort of— I would say it's actually the same thing, but I think it's a lesser work compared to this method. Okay, first of all, try to get the entire perimeter. I mean, try to add the 4, then 3.5 to it, 1, 1, 3, and 2.5. So you will get 15 meters in perimeter.",00:38:54
+nnrlows,289,tutor,"Right, because 4 times— I mean, 4 plus 3.5 is 7.5, 8.5, 9.5, 12.5, and 15. [unclear] So it's going to be 15 meters, the pyramid. And if you multiply only this by 9.99, still you would end up getting 299.70 pounds. Isn't it easier than multiplying everything by 9.99 separately and then adding up everything at the end.",00:39:21
+nnrlows,290,tutor,"Yeah, but [unclear]",00:39:52
+nnrlows,291,background,"Yes, method is absolutely almost the same, but this is, uh, I would say less of work, right? Because you just keep on at everything, the simple numbers get add together and then finally multiplied by 9.99.",00:39:54
+nnrlows,292,tutor,Yeah.,00:40:09
+nnrlows,293,background,"Right, so I'll give you a very similar question. Probably the last question for the day because since we're running out of time after this, let's call it a day. So try to use the method I told you, like find the perimeter first, then go for the cost.",00:40:11
+nnrlows,294,student,So that's 5 there.,00:40:32
+nnrlows,295,tutor,Yes.,00:40:34
+nnrlows,296,student,And that's 5 here as well.,00:40:35
+nnrlows,297,tutor,Yes. [unclear] So all together it's 30.,00:40:38
+nnrlows,298,tutor,Uh-huh.,00:40:50
+nnrlows,299,student,And you do that times £2.50.,00:40:51
+nnrlows,300,tutor,Yes. [unclear],00:40:57
+nnrlows,301,student,"Which equals 75. £75. Absolutely amazing work over there. Yes, Lorcan, so £75 would be the total cost to wire around this dining room, right? [unclear] Okay, so actually we have around 4 minutes left. Shall we try another question?",00:41:03
+nnrlows,302,student,"Yeah, let's try another question. Here we go, which is very similar, but this time you have a circular diagram.",00:41:30
+nnrlows,303,student,[unclear],00:41:30
+nnrlows,304,tutor,Yeah.,00:41:42
+nnrlows,305,student,[unclear],00:41:42
+nnrlows,306,tutor,It's difficult though.,00:41:49
+nnrlows,307,student,"I know the diameter would be 4 meters, but I don't think we really need that.",00:41:59
+nnrlows,308,tutor,"Uh-huh. Yes, once the radius is known, how can I get the arc length? So it says, and has a— has dug a flowerbed in his garden, and the diagram is like this. Okay, and he wants to cover it with flower seeds. So technically, he wants to cover this entire thing with flower seeds. Okay, so first of all, we need the area of this section. How can you get the area of this section?",00:42:05
+nnrlows,309,student,"Uh, I don't know.",00:42:33
+nnrlows,310,tutor,So have you ever come up with a formula called πr²?,00:42:41
+nnrlows,311,student,"Well, yes.",00:42:47
+nnrlows,312,tutor,"Yes, actually πr² is the— let me take you to this slide. Area of a circle could be found using πr² equation. So r means the radius. So in this particular example, π— π is usually, um, we call it 3.14. This is actually an infinite decimal number. Uh, in the sake of like, you know, simplification, we only consider up to 2 decimal places. All right, or else if you want to consider it as a fraction, it's 22/7. You could use any of these, or else if you're using a calculator, actually pi is already there inbuilt.",00:42:48
+nnrlows,313,student,Yes.,00:43:28
+nnrlows,314,tutor,"Yes, so yes, you don't have to remember any of these if you use the calculator. Of course you can use the pi over there. Okay, so r means— now in this example, what is r?",00:43:29
+nnrlows,315,student,"Uh, the radius.",00:43:39
+nnrlows,316,tutor,"Yes, the radius. So what is the value? It's a 2, right?",00:43:41
+nnrlows,317,student,Yeah.,00:43:44
+nnrlows,318,tutor,"So you could find the area of If this was a full circle, you could find the area pi times 2 times 2. Okay?",00:43:44
+nnrlows,319,student,Yeah.,00:43:52
+nnrlows,320,tutor,"But this is not a full circle. This is technically divided into 4 parts, and 1 part is removed. So it's more like 3 out of 4. So if you multiply the area, the complete area, by 3 over 4, or 3/4, you can get the area of this section.",00:43:53
+nnrlows,321,tutor,Yeah.,00:44:13
+nnrlows,322,background,Hope I'm making sense.,00:44:14
+nnrlows,323,tutor,Yeah.,00:44:16
+nnrlows,324,background,"Right? So if you type it out in a calculator, the πr², you would end up getting 12.5— I'll write it down— 12.5663. Once again, it's an infinite decimal number, so I'll just put on some dots. So this is the area of the full circle, but we don't have a full circle. So what we do is we multiply this by— 3/4, because we only need 3/4.",00:44:17
+nnrlows,325,tutor,Yeah.,00:44:41
+nnrlows,326,background,"And that value would be 9.42 square meters. Okay, now we know the area of the flower bed, and they tell that 1.99 per packet, and one packet covers 3 square meters. So if you divide this by 3, we can get how many packets we need, right? Because one packet can cover this much, but this is the complete area we have.",00:44:44
+nnrlows,327,tutor,Yeah.,00:45:10
+nnrlows,328,background,So we divide this by 3 to get the number of packets. That would be 3.14. So 3.14 means— would 3 packets be enough?,00:45:11
+nnrlows,329,tutor,Yeah.,00:45:22
+nnrlows,330,background,Or do we need 4 packets?,00:45:22
+nnrlows,331,student,We'd need 4 packets.,00:45:25
+nnrlows,332,background,"We would need 4 packets because this 0.14 section should also be covered with [UNCLEAR]. Packets. So because of that, we need 4 packets. And if one packet is £1.99, we can multiply this by 4 to get the total cost, which would be £7.96.",00:45:27
+nnrlows,333,student,Yeah.,00:45:47
+nnrlows,334,tutor,"Is it 100% clear, Lorcan? I mean, this equation— as long as you know this equation, I feel like the rest is, uh, quite straightforward.",00:45:48
+nnrlows,335,background,"Yeah, I understand it. Yeah.",00:45:56
+nnrlows,336,tutor,"Great. Okay. So would you like to take maybe a photograph of this so you could not— I mean, you could remember the equation, [UNCLEAR].",00:45:59
+nnrlows,337,student,Let me take a picture of that.,00:46:09
+nnrlows,338,tutor,Okay.,00:46:12
+nnrlows,339,student,Thank you.,00:46:15
+nnrlows,340,tutor,"All right. So don't worry, we'll do a very similar question next week as well. So we could recall next week. Everything that we did today.",00:46:17
+nnrlows,341,tutor,"Yeah. [Speaker] Right, Lorcan? So do you have any questions or anything to ask me regarding probably this lesson or maybe the previous lesson we did?",00:46:27
+nnrlows,342,student,"No. Nothing. [Speaker] All right. Okay, then let's wind up the class for the day. Have an amazing week ahead. All right?",00:46:36
+nnrlows,343,student,Okay. [Speaker] See you next time then. Bye-bye.,00:46:45
+nnrlows,344,background,See you next time. See you next time. Bye.,00:46:48
+nnrlows,345,tutor,Bye.,00:46:51
+nnrlows,346,student,Bye. [unclear],00:46:52

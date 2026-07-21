@@ -1,0 +1,342 @@
+session_id,utterance_id,role,content,timestamp
+nrxvmjb,0,tutor,Hello?,00:00:00
+nrxvmjb,1,background,[unclear],00:00:00
+nrxvmjb,2,student,Hello?,00:00:00
+nrxvmjb,3,tutor,Can you hear me?,00:00:01
+nrxvmjb,4,student,"Yes, sorry, I was just having some problems getting on.",00:00:02
+nrxvmjb,5,tutor,"Alright, so is it all good now, Declan?",00:00:06
+nrxvmjb,6,student,"Yep, it's all good now. If you can hear me, right?",00:00:08
+nrxvmjb,7,tutor,"Oh yes, I can hear you really well. That's good. So, yeah, Declan, how are you today, by the way?",00:00:12
+nrxvmjb,8,student,"I'm good, thank you. How are you?",00:00:18
+nrxvmjb,9,tutor,"I'm doing good. Thank you for asking. And yes, so we couldn't meet last week. What happened?",00:00:23
+nrxvmjb,10,student,"No, I was gonna go, right? And then I felt like really ill. During the days. I just needed to go home.",00:00:29
+nrxvmjb,11,tutor,"Okay, so yeah, sometimes you would actually need a break. I agree. So yeah, we'll continue from where we left out in this last session, I mean the previous week session. So here we go, working with probabilities and tables. But before we go into where we stopped, Declan, can you recall any stuff you actually learned last week?",00:00:36
+nrxvmjb,12,student,[unclear] Experimental probability. [unclear],00:00:58
+nrxvmjb,13,tutor,Yeah.,00:01:05
+nrxvmjb,14,student,Yeah.,00:01:06
+nrxvmjb,15,tutor,"Yeah, yeah, we did this as well.",00:01:07
+nrxvmjb,16,background,Yeah.,00:01:10
+nrxvmjb,17,tutor,"So experimental probability, what do you understand with that term, Declan?",00:01:11
+nrxvmjb,18,student,"Wait, I remember. Is it where like, is it the results of the",00:01:15
+nrxvmjb,19,tutor,"Yeah, you're right.",00:01:26
+nrxvmjb,20,student,"This is used, yeah.",00:01:28
+nrxvmjb,21,tutor,"Absolutely. So results of the experiment we have done. So for example, we have— yes, of the table, we have tossed the coins. And these results will get you the experimental probability. And in case if you have to calculate the experimental probability, what equations can you use, Declan?",00:01:31
+nrxvmjb,22,tutor,the relative frequency one?,00:01:31
+nrxvmjb,23,student,"Absolutely, yes, relative frequency. You can use this equation to calculate experimental probabilities. And there was another type of probability, if you can recall.",00:01:31
+nrxvmjb,24,background,"The theoretical one, which is just like the facts of it.",00:02:06
+nrxvmjb,25,student,"Absolutely, the facts. We just do it with our common sense, like we think about and compare with this. So this experimental probability, theoretical probability, when do we actually compare both of this? To which type of question actually?",00:02:11
+nrxvmjb,26,tutor,"Yeah, because sometimes you think it's a mistake.",00:02:27
+nrxvmjb,27,student,"Is it like— oh, I don't know. Which one?",00:02:31
+nrxvmjb,28,tutor,"If you can read this question, it can help you. [unclear]",00:02:36
+nrxvmjb,29,student,So from their results that the coin is biased.,00:02:41
+nrxvmjb,30,tutor,So would you use one of the probabilities to figure that out?,00:02:44
+nrxvmjb,31,student,"[unclear] Okay. Somewhat close, but— so it's actually like if you have to decide whether a coin is biased, you compare your answers which you got through your experimental probability to the theoretical one. So if it is like very close by, that means the coin is not biased. Both of them are giving the right answer. But in case if the [unclear] is biased, you will get a great variation in both of this. So for example, if theoretical probability is half, you will get experimental probability far away from the halving. So if it's like varying a lot, it's most probably biased. So yeah.",00:02:49
+nrxvmjb,32,tutor,"Do you think you could recall it, Declan? I know it's like 2 weeks back, so I think it's a bit of that. [unclear]",00:03:36
+nrxvmjb,33,tutor,Yeah.,00:03:49
+nrxvmjb,34,student,Is it that you work out the relative frequency of the result using the equation and,00:03:55
+nrxvmjb,35,tutor,Yes.,00:04:06
+nrxvmjb,36,background,And then do you compare it to like the theoretical probability?,00:04:06
+nrxvmjb,37,tutor,"Absolutely. We compare the theoretical probability. We calculate the relative [unclear] compared to this. So if both of them are very close by, that means that the coin is not biased.",00:04:11
+nrxvmjb,38,background,"Yeah. And if it isn't, it's biased.",00:04:25
+nrxvmjb,39,tutor,Yeah.,00:04:27
+nrxvmjb,40,background,That means it's biased.,00:04:27
+nrxvmjb,41,tutor,Okay.,00:04:28
+nrxvmjb,42,tutor,"Absolutely. So yeah, this was something from your last week and your today's test. So having [UNCLEAR], we actually tried this question but there was some mistakes with the way we tried it. Can you like go through the question very carefully and give this a try, Declan?",00:04:30
+nrxvmjb,43,student,Yes. Okay.,00:04:30
+nrxvmjb,44,tutor,"Let me know if you want any help, Declan.",00:04:48
+nrxvmjb,45,student,"Okay. Susan has a bag of colored counters. There are white, purple, and pink and silver. The probability of picking a pink counter is double the probability of picking a silver counter. Okay, um, well, you could— what do you call it— add these two together to find out what you have so far.",00:04:50
+nrxvmjb,46,tutor,Good.,00:05:17
+nrxvmjb,47,student,"So let me just— so it'll be 0.15 plus 0.25, which should give me 0.40.",00:05:18
+nrxvmjb,48,tutor,"Fantastic, that's right.",00:05:31
+nrxvmjb,49,student,"Okay, I'll write that. And then you know that that's the total of these two, and because the pink— [unclear] Hang on.",00:05:33
+nrxvmjb,50,tutor,"Okay, and then to make the probability 1, into 1, you would need 60. So I'm gonna say that this pink is 30.",00:05:52
+nrxvmjb,51,student,"Okay. No. Yeah, I don't know.",00:06:03
+nrxvmjb,52,tutor,"Take your time, take your time. You're on the right track. Okay, so far, until finding that [unclear] 60-something with the 60s on this side. That's right. Go on and find the pink and silver. [unclear] By the way, if you're watching us, we can move into the fourth slide.",00:06:11
+nrxvmjb,53,tutor,"Okay. But because, you know, I'm stuck on is the— here, the probability of picking a pink counter is double the probability of picking a silver counter. So",00:06:28
+nrxvmjb,54,tutor,"Then we know that the answer of this is— no, sorry, the answer of this is half the answer of pink?",00:06:42
+nrxvmjb,55,student,"Yes, that's right. For example, if pink is x, this would be like 2x.",00:06:49
+nrxvmjb,56,tutor,"Mm-hmm, yeah. And then I just don't know where to go from there. [unclear]",00:06:55
+nrxvmjb,57,tutor,"OK. So if this is 30, we want to would be the silver one.",00:07:01
+nrxvmjb,58,student,"Then this one would be 32, but that's not right. [unclear]",00:07:10
+nrxvmjb,59,tutor,"Alright, so let's check through this point as well, Declan. So picking a pink counter is double the probability of silver. So they have told you like pink is double of silver. Do you agree with your answer?",00:07:21
+nrxvmjb,60,tutor,I agree with this but not with my answer.,00:07:37
+nrxvmjb,61,background,"Alright. And is there any reason for selecting a 30 here, Declan?",00:07:40
+nrxvmjb,62,student,"Is it because the answer is 60? Like what? These two must be pink and silver. And because I'm trying to find out what pink is, I just divided it by 2. Which probably isn't right, but yeah.",00:07:45
+nrxvmjb,63,tutor,That's how I got the 830s.,00:08:02
+nrxvmjb,64,tutor,"Oh, okay, and we'll check through this as well. So they have told you once again a pink counter is double, okay, the value of this is like double, 2 times the type of the silver. So it's like, for example, this is X in the sense, yeah.",00:08:04
+nrxvmjb,65,student,I think I figured something out.,00:08:23
+nrxvmjb,66,tutor,All right.,00:08:25
+nrxvmjb,67,tutor,So any idea we could correct that?,00:08:28
+nrxvmjb,68,student,"I'm gonna change this one, both of them.",00:08:30
+nrxvmjb,69,tutor,Okay.,00:08:36
+nrxvmjb,70,student,"So I'm gonna do this one as 0.20— wait, am I? Yeah, as 0.40, and this one as 0.20 because these two together is 60. And we need 60 to make the whole— what do you call it— table one. And we know that silver is— yeah, I'm sorry, pink is double the amount of silver. Am I right?",00:08:37
+nrxvmjb,71,tutor,"Absolutely. Yes, your answer is absolutely right. [unclear]",00:09:07
+nrxvmjb,72,student,"So, yeah, yes, so that's a smart way of taking—",00:09:14
+nrxvmjb,73,background,Yeah.,00:09:20
+nrxvmjb,74,tutor,"Declan, so your answer is actually right, but do you think you know a proper method to get an answer for this?",00:09:21
+nrxvmjb,75,student,"A proper method to get an answer? Like instead of guessing the answers, like this could be this, and then after that finding this is what?",00:09:26
+nrxvmjb,76,tutor,Do you think you have a proper way or [unclear] a linear equation or anything to get an answer for this?,00:09:33
+nrxvmjb,77,student,I'm not really sure about that.,00:09:41
+nrxvmjb,78,tutor,"Oh, okay. We'll try to get an answer for that in that manner, Declan. And okay, let me get you this slide now. So for example, okay, the same thing which we got. So now we'll try to write this in terms of x. So if, okay, so if we would write this in terms of x, how would this come, Declan?",00:09:46
+nrxvmjb,79,student,It would be 2x and then—,00:10:07
+nrxvmjb,80,background,"Okay, 2x. X?",00:10:11
+nrxvmjb,81,tutor,"Okay, 2x for pink and x for silver.",00:10:14
+nrxvmjb,82,student,Yes.,00:10:18
+nrxvmjb,83,tutor,"And both of this together, how much would that be?",00:10:19
+nrxvmjb,84,student,3x.,00:10:22
+nrxvmjb,85,background,"And like, what would be the value of this? That would be 3x, and this 3x would be equal to a number. What would be the number?",00:10:23
+nrxvmjb,86,student,60.,00:10:30
+nrxvmjb,87,background,60. So x is right.,00:10:32
+nrxvmjb,88,tutor,"Yeah, so far.",00:10:36
+nrxvmjb,89,background,All right.,00:10:38
+nrxvmjb,90,tutor,"Oh yeah, I want you to think a little bit harder.",00:10:39
+nrxvmjb,91,student,"And then to get— find out what x is, you just do 60 divided by 3?",00:10:48
+nrxvmjb,92,tutor,"Absolutely, 60 divided by 3. But I think there's something wrong with this 60. Can you like spot the mistake out?",00:10:55
+nrxvmjb,93,student,Yeah.,00:11:03
+nrxvmjb,94,tutor,Would 60 add 0.25 plus 0.15 make you 1?,00:11:04
+nrxvmjb,95,background,[unclear],00:11:08
+nrxvmjb,96,tutor,"No, it's 0.68.",00:11:10
+nrxvmjb,97,background,Absolutely. There you go. So 0.68. Let's not forget that 0.68. It would put us into trouble.,00:11:15
+nrxvmjb,98,tutor,"Yes, sir.",00:11:24
+nrxvmjb,99,background,"So we have this equation, 3x 0.60, and how would you find x? Okay,",00:11:27
+nrxvmjb,100,tutor,and then you do 0.68 divided by 3.,00:11:33
+nrxvmjb,101,tutor,That would give you 0.2. So I have to write that up to find out what it is. [unclear],00:11:38
+nrxvmjb,102,tutor,"So there you go. So it's silver, it— okay, so now you could find the value. So silver is going to be x, pink is going to be 2x. So what would be the value for each of us?",00:11:47
+nrxvmjb,103,student,So silver would be 0.2 and then—,00:11:57
+nrxvmjb,104,tutor,Fantastic.,00:12:02
+nrxvmjb,105,student,What do you call it? Pink would be 0.4. Fantastic. And this is like a proper pattern or the way of finding it.,00:12:03
+nrxvmjb,106,student,Yeah.,00:12:10
+nrxvmjb,107,tutor,"Are you getting this, Declan?",00:12:10
+nrxvmjb,108,student,"I'm getting that, yeah.",00:12:12
+nrxvmjb,109,tutor,"Cool, that's fine. And here we go for the second question. So since we have— but you were absolutely correct, okay? You would be still getting the 2 marks because you found the answer.",00:12:14
+nrxvmjb,110,student,"Yeah, I forgot about the [unclear] thing.",00:12:24
+nrxvmjb,111,tutor,"Okay, just remember that there would be a pattern to get this answer. That's Great. Okay, that's the only thing you missed here. And yeah, go on. Declan, you can get this question.",00:12:29
+nrxvmjb,112,student,And then find the probability of selecting a counter that is not pink. So then I just add everything but the pink counters together. That would give me 0.6 over— [unclear],00:12:40
+nrxvmjb,113,tutor,"One, just one.",00:12:57
+nrxvmjb,114,tutor,"Okay, fantastic working out. But, okay, let me get to my [UNCLEAR]. So why did you— okay, let me ask you this. 0.6, the way you counted all of this is right? And do we think a 1 is very important?",00:13:00
+nrxvmjb,115,student,No.,00:13:00
+nrxvmjb,116,tutor,"Oh, okay, no. So it's just the 0.6.",00:13:21
+nrxvmjb,117,tutor,"Yes, because it's a denominator. Like, for example, 0.6 over 1. Okay, so 1 doesn't have a value, so you can just ignore this 1 as well, Declan.",00:13:25
+nrxvmjb,118,student,"Ah, okay.",00:13:33
+nrxvmjb,119,tutor,"By the way, your answer— yes, yeah, your answer 1 would be also correct. Okay, there's no mistake in writing this. Yeah, since this is the 1, we can just ignore that as well. So yeah, okay, and this is all for your major part of the lesson, Declan, and we just have 2 questions left. They have already done this question and they want you to correct the mistakes. Can you, like, correct their mistakes?",00:13:34
+nrxvmjb,120,student,"Yes, I can. Okay, so for this one— okay, where'd they get 5 from? So they've added it wrong. No, okay, so they've done— this is correct and it's 0.7, and then you do 1 minus 0.7, which would be 0.3.",00:14:02
+nrxvmjb,121,tutor,Awesome. That's great.,00:14:21
+nrxvmjb,122,student,"So that's for the grape one. And then here, a bag containing lemon, mango, and peach sweets. And Carter is twice as likely to pick a mango sweet than a peach. Which probability [UNCLEAR]? Okay, so",00:14:23
+nrxvmjb,123,tutor,"Okay, so you would do— yeah, because we know already what peach is, so you do 0.2 times 2, which— that's correct, it'll be 0.4.",00:14:47
+nrxvmjb,124,student,Yeah.,00:15:02
+nrxvmjb,125,tutor,So mango is 0.4.,00:15:03
+nrxvmjb,126,student,That's right.,00:15:07
+nrxvmjb,127,tutor,"And then these two together, it is 6, so that means the remainder must be 4. This should be 0.4 lemon.",00:15:08
+nrxvmjb,128,tutor,"Okay, so this answer must be— okay, lemon.",00:15:19
+nrxvmjb,129,student,Yeah. [unclear],00:15:24
+nrxvmjb,130,tutor,"Oh, he used the results of the mango when it's asking when it's not asking about the mango, it should be 0.6.",00:15:29
+nrxvmjb,131,tutor,"Fantastic, Declan. Very good focus in identifying the proper question. Yes, your answer is correct. So a very good try, Declan. So 0.3, 0.6, both of your answers are right. So yeah, very good start to the day. And yeah,",00:15:42
+nrxvmjb,132,tutor,"So before we go into the next question, Declan, can you like quickly tell me any two stuff you remember from this one?",00:16:03
+nrxvmjb,133,student,"Okay, so I remember that— [unclear]",00:16:08
+nrxvmjb,134,tutor,And we'll go for the next lesson.,00:16:11
+nrxvmjb,135,student,"I can put this without a fraction, like an answer like this if it's asking the probability.",00:16:12
+nrxvmjb,136,tutor,"Yeah, that's what—",00:16:20
+nrxvmjb,137,student,Mm-hmm. And then I also—,00:16:21
+nrxvmjb,138,tutor,That's what we'll do.,00:16:24
+nrxvmjb,139,student,"Yeah, there's a way that we figured out to work out the probability of the rest of the table, which is like an equation, and I need to put it properly, like write out properly.",00:16:25
+nrxvmjb,140,tutor,"Absolutely. And also, like, like what you told, write out properly. So make sure we write 0.60, then writing just 60.",00:16:39
+nrxvmjb,141,student,"Okay, yeah.",00:16:50
+nrxvmjb,142,tutor,"So, yeah, that's it for this lesson. We got to go for the next lesson. Let me load that to you, Declan.",00:16:51
+nrxvmjb,143,student,"Okay, so So yeah, the lesson is loading. [unclear]",00:16:59
+nrxvmjb,144,tutor,"So can you see the slides, Declan?",00:17:11
+nrxvmjb,145,student,"Not yet, maybe it's still loading.",00:17:15
+nrxvmjb,146,tutor,"Okay, got it.",00:17:19
+nrxvmjb,147,student,It's lagging.,00:17:20
+nrxvmjb,148,tutor,I got it.,00:17:22
+nrxvmjb,149,student,"There you go. So if you can remember, like, you have actually done It is in the previous semester, like previous term. Okay, so we have more questions to practice. So we're going to go into depth and we're going to see more questions and practicing this, Declan, using index laws. So yeah, let's start off with this. And what do you think is the answer for this question, Declan?",00:17:22
+nrxvmjb,150,student,"Okay, I'm gonna say Malcolm is— I agree with him because when you're timesing the indices, you add the [UNCLEAR]. And you add them together.",00:17:46
+nrxvmjb,151,tutor,"Fantastic explanation. Yes, Malcolm is right, and you are right as well. So the next question for you, Declan.",00:17:57
+nrxvmjb,152,student,"So this would be— [unclear] Okay, it will be 11, 8 to the power of 11. There we go. And this one would be 3 to the power of 3, and then this one would be b to the power of 6.",00:18:08
+nrxvmjb,153,tutor,"Yeah, okay, that was smart and that was quick. [unclear] Okay, these are very simple questions you would get, so All 3 marks for your answers, and that means we're going to go for the next as well. So here we go, Declan.",00:18:37
+nrxvmjb,154,student,"So this one will be 10D to the power of 4. This one would be— I think it would be 5F to the power of— [unclear] I'm gonna say 10, and then this one would be 3C to the power of -6, I think.",00:18:58
+nrxvmjb,155,tutor,"Okay, awesome. [unclear]",00:19:32
+nrxvmjb,156,student,"Okay, -6, there you go.",00:19:36
+nrxvmjb,157,tutor,"So very good. And just to check whether you have understood all this properly, like, Declan, could you like let me know how did you get this answer?",00:19:39
+nrxvmjb,158,student,"So for this one, I'll forget the d and the indices, and I just do 5 times 2, which is 10, and then add the d and then add the indices, which would— how did I get 4? It's supposed to be 7.",00:19:48
+nrxvmjb,159,tutor,Okay.,00:20:03
+nrxvmjb,160,student,Whoa.,00:20:04
+nrxvmjb,161,background,"Absolutely, you're smart about this.",00:20:05
+nrxvmjb,162,student,How did I get 4?,00:20:08
+nrxvmjb,163,background,"You know, I was wondering, but yeah, you figured it out.",00:20:10
+nrxvmjb,164,student,"Yeah, but I meant 7. Did I actually say 4?",00:20:14
+nrxvmjb,165,tutor,"Yes, so J7 is right.",00:20:18
+nrxvmjb,166,student,"I can't change it, but I meant 7.",00:20:21
+nrxvmjb,167,tutor,"Okay, it's fine. Okay, so since you have told me, yes, so this would be a 7. And yes, so let's check out the marks breakdown as well. For multiplying, I mean like for writing either this or this one correctly, you would be getting one mark. And if you had written both of this correctly, you would be getting another one mark. So that would be like 2 minus this. [unclear] And let me ask you this as well, Declan. How do you think this answer is coming here?",00:20:24
+nrxvmjb,168,student,"Okay, so I can't remember if it's exactly this, this way you do the brackets, but you leave the inside and then you just times outside the brackets, the 2 indices, which would give you -6. So that's how I got that one. Fantastic. And do you think, like, since you have a bracket, this 3, would that be common for [unclear] as well? Just because you have a bracket.",00:20:52
+nrxvmjb,169,tutor,"No, I don't think it would be common.",00:21:25
+nrxvmjb,170,student,"Okay, let me ask you this. Okay, I have a number like this. I'll get you a bracket. I have it here.",00:21:27
+nrxvmjb,171,tutor,"Yeah, let me get you an A there, and let me give you a B there. Do you think since you have a bracket there, these 3 would be common for both of this, or just one of them?",00:21:35
+nrxvmjb,172,student,"Uh, they're common for both.",00:21:46
+nrxvmjb,173,tutor,"Yeah, yes, that would be for both. And let me ask you another question. Okay, that was addition, by the way. Let me get you multiplication. So I guess here there is 3A 3. Do you think we can write this like this one? [unclear] This one? Is both of this correct, or do you think—",00:21:48
+nrxvmjb,174,tutor,"Oh no, only one's correct. The first one. Yeah, 3ab, that one.",00:22:14
+nrxvmjb,175,student,"Okay, 3ab. And do you think changing this order would matter in multiplication? After all, it was just Yeah.",00:22:20
+nrxvmjb,176,tutor,"Yes, so this order is not actually a problem in multiplication, okay? So after all, this would be a multiplication. You can align this and write the number first. This is the proper pattern of writing.",00:22:32
+nrxvmjb,177,student,Yeah.,00:22:42
+nrxvmjb,178,tutor,It's okay.,00:22:42
+nrxvmjb,179,student,Is it? I thought you had to put it in this kind of way and like the letters in the right order.,00:22:44
+nrxvmjb,180,tutor,"Yeah, this is the exact proper format. Like, this is like the format which was allowed by our ancestors, so we would be sticking to this.",00:22:52
+nrxvmjb,181,tutor,"But even this is right. Okay, there's no problem with this. Still, something we have to remember is like this 3 would be common for this A and also the B. So even in this case, this 3 would be common for both of this, this one.",00:23:01
+nrxvmjb,182,student,Yeah.,00:23:18
+nrxvmjb,183,tutor,"And also the other one. So in that case, okay, let me show you this. Okay, this part over here, Declan. Can you like go through this and let me know what you get from this part? Just so—",00:23:18
+nrxvmjb,184,tutor,"So from that, I understand that— wait, so you times the numbers first and then you use— what do you call it? You use the— I'm just saying for this example, use the [UNCLEAR].",00:23:32
+nrxvmjb,185,student,"Yeah, since you have done these examples correctly, I think we",00:23:32
+nrxvmjb,186,tutor,"You can get rid of this and check out the last one, Declan.",00:23:57
+nrxvmjb,187,student,Yeah.,00:24:00
+nrxvmjb,188,background,"So for this one, you would do 3... Oh, so you just... I don't know how this would work though, for the brackets. Can you just explain it to me?",00:24:01
+nrxvmjb,189,tutor,"Yes, sure, Declan. So since you have 3a to the power 7 and this 2 2 is out of the bracket, the 2 would be common for the 3 as well. [unclear]",00:24:17
+nrxvmjb,190,tutor,Yeah.,00:24:29
+nrxvmjb,191,student,"So it's like when you break it down, it's like 3 squared and also a7 into 2 because this 2 is common for both of this. And now we are getting the final answer. Do you understand how this final answer is coming?",00:24:30
+nrxvmjb,192,tutor,"Yeah, I do. So for this one, would you do",00:24:43
+nrxvmjb,193,tutor,Is it 3 to the power of 3? [unclear] Should give me 9.,00:24:48
+nrxvmjb,194,tutor,"Alright, so that's 9. And then you do the—",00:24:59
+nrxvmjb,195,student,"Alright, okay, so—",00:25:04
+nrxvmjb,196,tutor,"9 times 9 is— no, no, it is 9.",00:25:06
+nrxvmjb,197,student,"Alright, let me ask you this. 3 to the power of 2 was 9?",00:25:10
+nrxvmjb,198,tutor,and 3 to the power of 3. [UNCLEAR],00:25:10
+nrxvmjb,199,student,"Awesome, yes, 27 is right.",00:25:14
+nrxvmjb,200,background,"Okay, and then with that you do a to the power of and then minus 2 times 3.",00:25:20
+nrxvmjb,201,tutor,"Okay, we made a mistake again.",00:25:29
+nrxvmjb,202,background,Again?,00:25:32
+nrxvmjb,203,tutor,Yeah.,00:25:34
+nrxvmjb,204,background,"But that's not a big mistake, there's a small letter mistake.",00:25:36
+nrxvmjb,205,tutor,"Oh, so c.",00:25:42
+nrxvmjb,206,student,"Oh, because I was thinking of the problem we did.",00:25:43
+nrxvmjb,207,tutor,"Yes, that's right.",00:25:47
+nrxvmjb,208,student,So then you just do minus 2— minus 2 times— is it 3?,00:25:49
+nrxvmjb,209,tutor,Yeah.,00:25:57
+nrxvmjb,210,student,Mm-hmm. And then that would give me 27c to the power of minus 6.,00:25:57
+nrxvmjb,211,tutor,"Okay, I get that now.",00:26:08
+nrxvmjb,212,background,Plus some [UNCLEAR].,00:26:11
+nrxvmjb,213,tutor,"Yes, that is right, and fantastic working out. You'll be getting 2 marks for this one, and we'll also see the marks for your previous one as well, Declan. So this, this question, you would be getting 2 marks, but since there was a mistake with this part, but you have written this part correctly, you would be still getting 1 mark for this question.",00:26:11
+nrxvmjb,214,student,Yeah.,00:26:32
+nrxvmjb,215,background,"So okay, we'll try a similar question. [unclear]",00:26:33
+nrxvmjb,216,tutor,"Hold on. Can you give a try for this third part only, Declan?",00:26:36
+nrxvmjb,217,student,"Yeah, just this part.",00:26:42
+nrxvmjb,218,tutor,"Just this one, okay. So for this one, I'll do 2 to the power of 3.",00:26:43
+nrxvmjb,219,student,"Oh wait, I just typed it wrong. Oh, 2, 2 and 5.",00:26:52
+nrxvmjb,220,tutor,"Yeah, so it gives me 8, 2 to the power of 3. [unclear]",00:26:56
+nrxvmjb,221,tutor,"Okay, and then we have a to the power of 2 times 3.",00:27:08
+nrxvmjb,222,student,x?,00:27:08
+nrxvmjb,223,tutor,"Yeah, and then that would give me 8a to the power of 6.",00:27:08
+nrxvmjb,224,tutor,"Fantastic! Yes, your answer is correct, Declan. So there you go, with 2 marks for that. So yeah, awesome working out, and we got more questions. Here we go, Declan.",00:27:28
+nrxvmjb,225,student,"Okay, so for this one... [unclear]",00:27:41
+nrxvmjb,226,tutor,"Okay, so that would be 6 5 is 11, so it would be m to the power of 11. [unclear] 11, and then it'll be— and then would you do minus 2 plus 1?",00:27:47
+nrxvmjb,227,tutor,Right.,00:28:10
+nrxvmjb,228,student,"Because, yeah, now it gives me n to the power of minus 1.",00:28:11
+nrxvmjb,229,tutor,Yes.,00:28:17
+nrxvmjb,230,tutor,Yeah. [unclear],00:28:22
+nrxvmjb,231,student,Right?,00:28:23
+nrxvmjb,232,tutor,"Yeah. Okay, what would you do for this one? How would you do this one? Because there's not really a number. Would you just use F?",00:28:24
+nrxvmjb,233,background,"Okay, you have the bracket. This would be like same like the previous thing.",00:28:40
+nrxvmjb,234,tutor,Yeah.,00:28:45
+nrxvmjb,235,background,"Do that. Have a bracket. This would be common for both numbers, isn't it?",00:28:45
+nrxvmjb,236,tutor,Yeah.,00:28:50
+nrxvmjb,237,student,"So you will follow the same pattern. Okay, just treat it like a number or anything, and you consider that this power for both letters or both numbers, in other words.",00:28:51
+nrxvmjb,238,background,100 times 100.,00:28:51
+nrxvmjb,239,tutor,"Okay, so, all right, so then you do— then you do—",00:28:51
+nrxvmjb,240,tutor,f to the power— [unclear],00:29:15
+nrxvmjb,241,tutor,Could you do f to the power of -2?,00:29:24
+nrxvmjb,242,tutor,Because it's on the outside.,00:29:27
+nrxvmjb,243,tutor,"Treat it one by one if you're confused. Like, for example, for the question side, forget about g for once and just treat it like f² and you have a -2 there.",00:29:29
+nrxvmjb,244,tutor,"Okay, yeah.",00:29:40
+nrxvmjb,245,tutor,"Okay, yeah. [unclear]",00:29:43
+nrxvmjb,246,student,"If I need a clue, okay, let me get and show you this station. So do you remember like you did a question like this earlier? I mean, sorry, this station.",00:29:50
+nrxvmjb,247,tutor,"Mm-hmm, yeah.",00:29:59
+nrxvmjb,248,student,"Okay, what did you do when you get powers like this?",00:30:01
+nrxvmjb,249,tutor,"Oh, you just times it.",00:30:03
+nrxvmjb,250,student,"Okay, there you go. So you have a letter here. You were not confused earlier. So you still had a letter, you just times it.",00:30:07
+nrxvmjb,251,tutor,So you just have— [unclear],00:30:13
+nrxvmjb,252,student,"Yes, let me get to your side. So here we go. So same question, just forget about g for a while and do what's left.",00:30:15
+nrxvmjb,253,tutor,"Yes, so then you do 2 times -2, which is -4.",00:30:25
+nrxvmjb,254,student,Now she's minus 4.,00:30:29
+nrxvmjb,255,tutor,"All right, now forget about m and go for g.",00:30:30
+nrxvmjb,256,student,"g, and then you would do g to the power of -2.",00:30:33
+nrxvmjb,257,tutor,"Okay, how did you find that?",00:30:40
+nrxvmjb,258,student,I don't know what you would do. [unclear],00:30:43
+nrxvmjb,259,tutor,"Yeah, you may be right or you may be wrong. We'll check it out. So since she is not having any power inside the bracket, what would be like technically the power be like if you don't have anything here?",00:30:48
+nrxvmjb,260,background,So would you just not do it?,00:31:01
+nrxvmjb,261,tutor,"Okay, so it's like If you don't have anything here, we assume that there's a 1 there, Declan.",00:31:03
+nrxvmjb,262,student,"Oh, yeah, yeah, yeah.",00:31:10
+nrxvmjb,263,tutor,So now you can continue.,00:31:12
+nrxvmjb,264,student,"Okay, and so then you do [unclear] power of 1, and then times by [UNCLEAR]. Times the g to the power of -2.",00:31:15
+nrxvmjb,265,tutor,"Yes, that's right.",00:31:34
+nrxvmjb,266,student,And that gives you g to the power of -2.,00:31:35
+nrxvmjb,267,tutor,"Fantastic, that's correct.",00:31:40
+nrxvmjb,268,student,"Oh, okay, so then it'll just be f, okay, -2, and then g to the power of -2. Okay, yeah. [unclear]",00:31:41
+nrxvmjb,269,tutor,"Okay, so that's correct. So it's still the same question, only thing we have We have to remember is like you create it separately when the brackets are there.",00:31:54
+nrxvmjb,270,tutor,Mm-hmm.,00:32:04
+nrxvmjb,271,student,Yeah.,00:32:05
+nrxvmjb,272,tutor,"All right, let's take it time and give a try for the C as well.",00:32:06
+nrxvmjb,273,background,"So then for this one, it would be— you do minus 1, and because it's dividing, you'd minus it, so it would be x to the power of minus 6.",00:32:09
+nrxvmjb,274,tutor,Okay.,00:32:20
+nrxvmjb,275,background,And then for—,00:32:22
+nrxvmjb,276,tutor,"Yeah, 84 minus minus 1, which should just be 5. So it'll be y to the power of 5.",00:32:27
+nrxvmjb,277,background,"Awesome. Yes, your answers are correct once again. So you're scoring 2 for each of this. So hey, there you go, 2, 2, and 2. And they go. So since you were struggling with the brackets a little bit, Declan, let me give you one more bracket",00:32:38
+nrxvmjb,278,tutor,"Okay, so I'll write it on this side instead. [unclear] a squared times by a to the power of minus 3, which would be a to the power of minus 6.",00:32:53
+nrxvmjb,279,tutor,Okay.,00:33:20
+nrxvmjb,280,student,"So that's a. And then I'll do b to the power of minus 2 times b to the power of minus 3, which would just give me— [unclear] That would just give me 6.",00:33:21
+nrxvmjb,281,tutor,Awesome.,00:33:36
+nrxvmjb,282,student,"Okay, so the a and then b to the power of 6.",00:33:37
+nrxvmjb,283,tutor,"OK, fantastic working out, and yes, your answer is correct, Declan.",00:33:47
+nrxvmjb,284,student,"OK, I get it now.",00:33:52
+nrxvmjb,285,background,"So, yes, that's the answer. And yes, before we go into the next part, Declan, can you summarise any new stuff you have learned so far?",00:33:53
+nrxvmjb,286,student,"Yeah, so if you don't have a number here and you just have the letter, you just do the same thing with the outside of the bracket.",00:34:02
+nrxvmjb,287,tutor,Yeah. So what do you mean by having a 3 outside the bracket?,00:34:15
+nrxvmjb,288,student,"So you would do— if you— if there was no 3, you would do c to the power of -2 times by c to the power of 3, which would just give you c to the power of -6. [unclear]",00:34:20
+nrxvmjb,289,tutor,"And would you like multiply the 3? I mean, like, find the",00:34:33
+nrxvmjb,290,tutor,"So, 3 power for the 3 as well?",00:34:40
+nrxvmjb,291,student,"Yeah, yeah, if 3 was included.",00:34:42
+nrxvmjb,292,tutor,"Yes, for both of the numbers, like, sorry, for both values here, the 3 and the C, this 3 would be common, so you would be treating both, and yeah, the last 2 questions there, but they have tried these questions, and you're supposed to find the mistakes.",00:34:45
+nrxvmjb,293,background,"Okay, so they're supposed to",00:35:01
+nrxvmjb,294,tutor,The answer's just not right because 4 plus minus 2 is just 2. So it'll be a to the power of 2.,00:35:06
+nrxvmjb,295,background,"Awesome, that's right.",00:35:18
+nrxvmjb,296,tutor,"Okay, I don't know why it looks like that, but yeah.",00:35:23
+nrxvmjb,297,background,"Yeah, there you go. [unclear] And then, yeah, for here you would do 3— yeah, you would do 3 times— 3 to the— [unclear] 3 to the power of 3, which is 27.",00:35:26
+nrxvmjb,298,tutor,Awesome.,00:35:50
+nrxvmjb,299,student,So I think that's where they went wrong as well.,00:35:51
+nrxvmjb,300,tutor,"Yes, absolutely, the same mistake you did.",00:35:54
+nrxvmjb,301,student,"Yeah. So that's 27, and then it should be 27— [unclear]",00:35:56
+nrxvmjb,302,tutor,Sorry?,00:36:01
+nrxvmjb,303,student,"Yes, correct. So instead of 9, you would be getting—",00:36:02
+nrxvmjb,304,tutor,"It would be 27, 8 to the power of -9. Yeah.",00:36:08
+nrxvmjb,305,student,"-9, absolutely. So yeah, a very good try. And since we have a few minutes left, Declan, we'll try to go into the next part as well. It looks up to you.",00:36:13
+nrxvmjb,306,student,"Okay. So, okay, this is your next lesson for the day, Declan. Okay, solving linear equations. And yeah, they have given some try for this question over here. Can you give a try and let me know which one— who is correct here?",00:36:23
+nrxvmjb,307,student,"Yes, it would be— what's her name? [unclear] Her thesis is working because",00:36:46
+nrxvmjb,308,student,"When you're solving the equations, because you're trying to find x, you cancel out everything else, and she's done all the working out correct because you had -4 and then you divide by 2 to find the x.",00:36:54
+nrxvmjb,309,tutor,"Yes, absolutely. [unclear] is correct, and you have done that correctly. That was very quick. So yeah, that answer is correct, and let's go for the next one.",00:37:09
+nrxvmjb,310,tutor,Here we go.,00:37:20
+nrxvmjb,311,student,"Yes, okay, for this one, x would be 3.",00:37:22
+nrxvmjb,312,tutor,Awesome.,00:37:27
+nrxvmjb,313,student,"This one, a would be 2. [unclear] And for this one, I'm gonna say n is 24.",00:37:27
+nrxvmjb,314,tutor,Fantastic.,00:37:38
+nrxvmjb,315,student,Yeah.,00:37:41
+nrxvmjb,316,tutor,"And yes, all of this is correct, and you're scoring 3 points.",00:37:42
+nrxvmjb,317,tutor,"Advance to the next slide. So the next slide is this. These are the next [UNCLEAR]. Sorry, here we go. These are the next [UNCLEAR].",00:37:46
+nrxvmjb,318,student,"Okay. So, okay, yeah. So M would be 40.",00:37:46
+nrxvmjb,319,tutor,Awesome. How did you find that?,00:38:12
+nrxvmjb,320,student,"Because I did it the opposite. So I did 8 times by 4— 5, sorry, which is 40. And I know that 40 divided by 5 gives me 8, and then 8 minus 8 would give me 0.",00:38:14
+nrxvmjb,321,tutor,"All right, that was fantastic. Yes, that was smart. And for showing the steps, in other words, like, you would be getting one more mark. This is a 2-mark question. [unclear]",00:38:30
+nrxvmjb,322,tutor,Yeah.,00:38:40
+nrxvmjb,323,student,"So yeah, one last question.",00:38:41
+nrxvmjb,324,background,"So this one, you expand the bracket and then you'd solve it. So you'd minus 12 on both sides, so it would just give you 3x equals— what's 18 minus 12? 6. And then you do",00:38:48
+nrxvmjb,325,tutor,"What x would be, and you do 6 divided by 3, which gives you 2.",00:39:06
+nrxvmjb,326,background,"Awesome, that was pretty marvelous. Yeah, [unclear] for that question, Declan. So yeah, very good working out, and we're not going for the next question for the day, but yeah, since we have around a few seconds left, anything you can take home today, Declan? Anything you should remember from all what we learned today?",00:39:11
+nrxvmjb,327,student,"Yeah, [unclear]",00:39:33
+nrxvmjb,328,tutor,"Yes, any lesson type.",00:39:34
+nrxvmjb,329,student,"Yeah, the brackets that we did.",00:39:43
+nrxvmjb,330,tutor,Absolutely. What must you remember from the brackets?,00:39:49
+nrxvmjb,331,student,"I think you have to remember that if it's a letter, you do the exact same",00:39:54
+nrxvmjb,332,tutor,As you would with the number.,00:40:01
+nrxvmjb,333,student,"Absolutely. And also the [UNCLEAR]. Yes, and the indices on the outside is common for both of this, isn't it?",00:40:03
+nrxvmjb,334,tutor,Yeah.,00:40:03
+nrxvmjb,335,student,"All right. Yes. So yeah, that's it for today, and you did a really good job today. Keep it up.",00:40:08
+nrxvmjb,336,tutor,Thank you.,00:40:19
+nrxvmjb,337,student,"Meet you next week, Declan. So yeah, bye-bye. Have a nice day.",00:40:20
+nrxvmjb,338,tutor,You too. Bye-bye.,00:40:23
+nrxvmjb,339,student,You too. [unclear],00:40:24
+nrxvmjb,340,tutor,Come up.,00:40:25

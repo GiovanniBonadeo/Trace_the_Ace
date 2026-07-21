@@ -1,0 +1,426 @@
+session_id,utterance_id,role,content,timestamp
+feodlui,0,tutor,Hello?,00:00:00
+feodlui,1,background,[unclear],00:00:00
+feodlui,2,student,Hello. Can you hear me?,00:00:01
+feodlui,3,tutor,Yeah.,00:00:03
+feodlui,4,student,"Okay, so how are you doing today?",00:00:04
+feodlui,5,tutor,"Good, how are you?",00:00:07
+feodlui,6,student,"I'm doing good, as well. Thank you so much for asking. So do you remember what we did in this session last time, Callum?",00:00:08
+feodlui,7,student,Yeah.,00:00:16
+feodlui,8,tutor,So what did we do here?,00:00:17
+feodlui,9,student,Linear equations.,00:00:19
+feodlui,10,tutor,"OK. Then let's start from where we stopped. There you go. Can you give this question a try for me, please?",00:00:22
+feodlui,11,student,Yeah. Give me a minute.,00:00:33
+feodlui,12,tutor,OK.,00:00:38
+feodlui,13,student,"Actually, I don't know how to do that.",00:00:44
+feodlui,14,tutor,"Okay, alright. So it says Olivia has P pens. Okay? We don't know the number of pens she has, so we're just using the letter P. And then, Lucille has 5 more pens than Olivia. So how would you write the number of pens Lucille has? Callum, please.",00:00:46
+feodlui,15,student,"Um, 5 [UNCLEAR].",00:01:05
+feodlui,16,tutor,Okay. Why do you think it's 5?,00:01:08
+feodlui,17,student,Because it says 5. I don't know.,00:01:11
+feodlui,18,tutor,"It says 5 more pens. When it says 5 more pens, it's like if Olivia has 2, Lucille has 5 more than 2. What does that mean?",00:01:14
+feodlui,19,student,5 times 3.,00:01:25
+feodlui,20,tutor,5 more than 2. 5 more than 2. What is 5 more than 2?,00:01:28
+feodlui,21,student,7.,00:01:34
+feodlui,22,tutor,"There you go. So if Olivia has p, 5 more than Olivia means 5 plus p. We have to add. Did you understand that?",00:01:35
+feodlui,23,student,Yeah.,00:01:45
+feodlui,24,tutor,Okay. Now it says Jackie has double the number of pens as Lucille. So how would you figure out the number of pens Jackie has?,00:01:46
+feodlui,25,student,"5 plus p times 2. Yes, 5 p. So you have to multiply both by 2. Like this, you can add a bracket and then you multiply both by 2. Did you understand this part? Yeah.",00:01:56
+feodlui,26,student,"Okay,",00:02:12
+feodlui,27,tutor,"so how would you simplify this bracket, Callum? Um,",00:02:12
+feodlui,28,student,"2 times 5 and then 2 times p, and you do that twice. Yes,",00:02:18
+feodlui,29,tutor,so what is 2 times 5? Then what is 2 times p?,00:02:23
+feodlui,30,student,2 times minus—,00:02:27
+feodlui,31,background,2p.,00:02:29
+feodlui,32,tutor,"2p. Oh, yes, 2p. So now they say altogether they have 47 pens. Let's forget about that for now. Can you try part A for me, please? [unclear]",00:02:30
+feodlui,33,background,5p. And then [unclear] 10p.,00:02:44
+feodlui,34,tutor,"Okay, why do you think it's 5p for Lucille?",00:02:58
+feodlui,35,background,"Oh no, 5 at p.",00:03:02
+feodlui,36,tutor,"Yes, it's not 5 times than Olivia, it's 5 more than Olivia. So it'll be 5 plus p. Then for Jackie?",00:03:04
+feodlui,37,background,"Um, 5 at p times 2.",00:03:16
+feodlui,38,tutor,"Yes, 5 at P times 2. Okay, now Part B, they're asking you to form an equation in terms of P to find how many pens Olivia has. Now they say altogether they have 47 pens.",00:03:20
+feodlui,39,background,minus...,00:03:20
+feodlui,40,student,Yeah.,00:03:36
+feodlui,41,tutor,The total number they have is 47. So which means the 47 is going to be equal to the number of pens Olivia... [unclear] Lucia and Jackie have. Did that make sense?,00:03:37
+feodlui,42,student,Yeah.,00:03:52
+feodlui,43,tutor,So how would you write down the number of pens Olivia has in terms of p?,00:03:53
+feodlui,44,student,"Um, I don't know.",00:03:58
+feodlui,45,tutor,What does it say in the first statement?,00:04:03
+feodlui,46,student,She has p pens.,00:04:06
+feodlui,47,tutor,"There you go. So in terms of p, it will be just p. Then for Lucia, how would you write it? In terms of p?",00:04:08
+feodlui,48,background,5 p. There,00:04:15
+feodlui,49,tutor,"you go, 5 p. So we wrote for Olivia. We'll see you then. How about Jackie? 2 bracket",00:04:16
+feodlui,50,background,"5 p. Yes, it's easier",00:04:24
+feodlui,51,tutor,if you can ignore that and write the one where we expanded the bracket. So what would you get? So when you're,00:04:27
+feodlui,52,student,[unclear],00:04:37
+feodlui,53,tutor,"writing down this equation, it's easier if we can simplify the brackets and write Callum. So how would you simplify the bracket?",00:04:37
+feodlui,54,student,10p plus 2.,00:04:46
+feodlui,55,tutor,10 plus?,00:04:49
+feodlui,56,student,10 plus 2p.,00:04:50
+feodlui,57,tutor,There you go. So can you simplify this for me please? This part of the equation.,00:04:52
+feodlui,58,student,2p at 15.,00:04:59
+feodlui,59,tutor,"Okay, [UNCLEAR].",00:05:07
+feodlui,60,student,Yeah.,00:05:09
+feodlui,61,tutor,"Because p at p is 2p. 5 at 10 is— oh, 17p.",00:05:09
+feodlui,62,student,"There's another 2p here, so p plus p is 2p. 2p plus 2p.",00:05:16
+feodlui,63,background,4p.,00:05:23
+feodlui,64,student,Plus 15. There you go. Now how would you— now we know we have the equation. This is equal to 47.,00:05:25
+feodlui,65,background,Yeah.,00:05:32
+feodlui,66,student,"So how would you figure out p? P, the number of pens Olivia has?",00:05:32
+feodlui,67,student,You minus the 4 from both sides. [unclear],00:05:38
+feodlui,68,tutor,"Okay, why is that?",00:05:43
+feodlui,69,student,To get 1.,00:05:45
+feodlui,70,tutor,What do you have to minus here?,00:05:49
+feodlui,71,student,"Oh, you divide it by 4, don't you?",00:05:52
+feodlui,72,tutor,"Before that, there's something else that we have to do.",00:05:54
+feodlui,73,student,I don't know.,00:05:57
+feodlui,74,tutor,"Now when it comes to solving equations, First, you either add or subtract. Okay?",00:05:59
+feodlui,75,student,Yeah.,00:06:08
+feodlui,76,tutor,"Then you either multiply or divide. Now here, we already have an addition here. So we have to get rid of this. How would you get rid of this addition?",00:06:09
+feodlui,77,student,Subtract it.,00:06:21
+feodlui,78,tutor,So you subtract 15 from both ends. So you can get rid of this 15. So what is 47 minus 15?,00:06:23
+feodlui,79,student,"Um, [UNCLEAR].",00:06:33
+feodlui,80,tutor,So 32 is going to be equal to 4p.,00:06:37
+feodlui,81,student,And then divide it by 4?,00:06:43
+feodlui,82,tutor,"Yes, then you divide it by 4. So what's going to be p?",00:06:45
+feodlui,83,student,8.,00:06:58
+feodlui,84,tutor,8. So how many pens does Olivia have?,00:06:59
+feodlui,85,student,8.,00:07:03
+feodlui,86,tutor,"Yes. Did you understand this, Callum?",00:07:04
+feodlui,87,student,Yeah.,00:07:07
+feodlui,88,tutor,"Okay, so what are the main things that you understood from this question?",00:07:08
+feodlui,89,student,That you gotta like divide it and subtract it. [unclear],00:07:12
+feodlui,90,tutor,"Yes, and what's the difference between 5 more pens and 5 times the amount.",00:07:18
+feodlui,91,student,5 more is plus and 5 times is multiply.,00:07:26
+feodlui,92,tutor,"Yes. Okay. So now let's move on to this one. Can you check the answer for the first one and let me know whether it's correct, please? [unclear]",00:07:31
+feodlui,93,tutor,"Yes, that's right. So what would be the correct answer?",00:07:48
+feodlui,94,student,I don't know.,00:07:52
+feodlui,95,tutor,"What do you think you should do here first, Callum?",00:07:54
+feodlui,96,student,"Take away, um, just [unclear] 3b.",00:07:58
+feodlui,97,tutor,There's something else that you have to do.,00:08:00
+feodlui,98,student,Multiply it?,00:08:07
+feodlui,99,tutor,First you get rid of the brackets. How would you get rid of the brackets?,00:08:09
+feodlui,100,student,2 times b and 2 times -3.,00:08:13
+feodlui,101,tutor,Yes. So what would you get?,00:08:16
+feodlui,102,student,2b 6. 2b,00:08:18
+feodlui,103,tutor,6 is equal to 3b 7. Now what would you do? Plus 6 on,00:08:22
+feodlui,104,student,both sides. OK.,00:08:32
+feodlui,105,tutor,"And then? [unclear] So after adding 6 on both sides, what will you be left with?",00:08:45
+feodlui,106,student,2b.,00:08:58
+feodlui,107,tutor,Mm-hmm. Equals?,00:08:59
+feodlui,108,student,3b 11 6.,00:09:01
+feodlui,109,tutor,"Yes, what is -11 6? 4.",00:09:05
+feodlui,110,student,[unclear],00:09:10
+feodlui,111,tutor,What is -7 6? 5. Is,00:09:10
+feodlui,112,student,it,00:09:14
+feodlui,113,tutor,"+5 or -5? Minus. Yes,",00:09:15
+feodlui,114,student,-5.,00:09:19
+feodlui,115,tutor,Now what can you do? Take away,00:09:20
+feodlui,116,student,"the 2b. Okay, you",00:09:22
+feodlui,117,tutor,can take away the 2b. Alright. Then what would you be left with?,00:09:25
+feodlui,118,student,1b minus 5.,00:09:31
+feodlui,119,tutor,"Yes. That's going to be 0. So 1b, you can write it as b. 0 is equal to b minus 5. So what would b be?",00:09:34
+feodlui,120,student,"5, because you plus the 5 on both sides.",00:09:44
+feodlui,121,tutor,There you go. Yes. Callum. All right. Is there anything that you didn't understand in this question?,00:09:47
+feodlui,122,student,No.,00:09:53
+feodlui,123,tutor,"No? Okay, then how about the next one?",00:09:55
+feodlui,124,tutor,"Can you give that a try for me, please? [unclear]",00:09:57
+feodlui,125,student,"It needs to be 11, don't it? Not 10.",00:10:16
+feodlui,126,tutor,Which part? [Speaker] The first step.,00:10:21
+feodlui,127,tutor,"10? This one? [Speaker] Yeah, and then like a bit under it, should there be 11? [Speaker] 7 plus 4 is 11. 11 minus 1 is 10. [Speaker] Right. It's right, isn't it? [Speaker] Okay, why do you think it's correct? [Speaker] Because it does all the right things. [Speaker] 10? [unclear]",00:10:24
+feodlui,128,tutor,"Okay, why do you think it's equal to 180, Callum?",00:10:50
+feodlui,129,student,Because it's a triangle.,00:10:54
+feodlui,130,tutor,"Okay, but what are— so in a triangle, what is equal to 180? The sides or the angles?",00:10:56
+feodlui,131,student,The angles.,00:11:05
+feodlui,132,tutor,"The angles, but what are they showing you here?",00:11:06
+feodlui,133,student,"Oh, the sides.",00:11:10
+feodlui,134,tutor,The sides. There's something else. We learnt this.,00:11:11
+feodlui,135,student,That two of the sides are the same?,00:11:16
+feodlui,136,tutor,"Ah, the two sides are the same. Very good. So what would you do?",00:11:19
+feodlui,137,student,Put an equals in it. [unclear] Put 5x 1 3x 7. Very good. 5x,00:11:23
+feodlui,138,tutor,1 3x 7. Yes. Then what would you do?,00:11:34
+feodlui,139,student,Plus the one.,00:11:44
+feodlui,140,tutor,Yeah.,00:11:46
+feodlui,141,student,So then it's 5x plus 3x plus 8.,00:11:54
+feodlui,142,tutor,"Okay, why is it 5x plus 3x plus 8? [unclear]",00:12:01
+feodlui,143,student,Plus 3x?,00:12:04
+feodlui,144,tutor,"No, it's equals to 3x.",00:12:06
+feodlui,145,student,"3x plus 8, yes. Then what would you do?",00:12:09
+feodlui,146,background,Minus 3x.,00:12:13
+feodlui,147,student,Mm-hmm.,00:12:14
+feodlui,148,background,"Then it would be 2x equals 8, and then 1x equals 4.",00:12:16
+feodlui,149,tutor,There you go. x is equal to 4. Well done. I'm very happy that you identified this. So you have to be very careful with what they are asking you.,00:12:20
+feodlui,150,student,Yeah.,00:12:29
+feodlui,151,tutor,"Alright, so what are the main things that you remember from this lesson, Callum?",00:12:30
+feodlui,152,student,"To divide it, to [UNCLEAR].",00:12:35
+feodlui,153,tutor,"Okay, what's the difference between this and this?",00:12:40
+feodlui,154,student,One's add and one's times.,00:12:48
+feodlui,155,tutor,"Yes, and how would you figure out whether you have to add or times when they give you a statement?",00:12:51
+feodlui,156,student,"If it says 5 more, then it's plus. If it's 5 times, it's multiply.",00:12:57
+feodlui,157,tutor,"Yeah, OK. And if they say shared amount, would you— what would you do?",00:13:04
+feodlui,158,student,Divide.,00:13:09
+feodlui,159,tutor,"And if they say 4 less than p, then what would you do?",00:13:11
+feodlui,160,student,Subtract.,00:13:16
+feodlui,161,tutor,"So would it be— would 4 less than p be this? This, Callum?",00:13:17
+feodlui,162,student,The second one.,00:13:24
+feodlui,163,tutor,"The second one. Good. Okay, all right. Then if they give you something like this, let's say it's something like this, and we have 2x here.",00:13:26
+feodlui,164,student,Yeah.,00:13:37
+feodlui,165,tutor,"And we have x 5, and we have x. Yes, if we have 2x again here, then what would you do to find x?",00:13:39
+feodlui,166,student,"Put 2x x 5. Yes, you",00:13:52
+feodlui,167,tutor,"can use either. It doesn't— you don't have to use all three. Very good. All right, now let's move on to the next Okay, graphs. [UNCLEAR]. What do you know about y mx c type graphs? Callum?",00:13:57
+feodlui,168,student,I don't know.,00:14:14
+feodlui,169,tutor,"Okay, would they be straight lines or curved lines, parabolas like this?",00:14:18
+feodlui,170,student,Straight.,00:14:22
+feodlui,171,tutor,"Straight, very good. And what do you mean by the c when it comes to a graph?",00:14:24
+feodlui,172,student,The y-intercept.,00:14:30
+feodlui,173,tutor,"Very good, the y-intercept. Then what do you mean by the m?",00:14:32
+feodlui,174,student,The gradient.,00:14:36
+feodlui,175,tutor,"The gradient, okay. Now can you give this question a try for me, please?",00:14:37
+feodlui,176,background,It's not right.,00:14:46
+feodlui,177,tutor,Asking who do you agree with? Who do you agree with?,00:14:49
+feodlui,178,background,The second one.,00:14:53
+feodlui,179,tutor,"Yes, why is that?",00:14:55
+feodlui,180,background,Because it's like going through the y line at different numbers.,00:14:56
+feodlui,181,tutor,"Yes. If the graphs are parallel, what does that mean?",00:15:03
+feodlui,182,student,They're next to each other.,00:15:10
+feodlui,183,background,Yeah.,00:15:13
+feodlui,184,tutor,"Yes, and also their gradient is the same. [unclear] They're parallel to each other. Okay. Now, can you give this a try for me, please? You can start in any order. Figure out M and C. I don't know how to do that.",00:15:17
+feodlui,185,tutor,"Let's start with A. What's going to be M? [unclear] It's going to be M in A. The equation A, what's going to be M?",00:15:37
+feodlui,186,background,3.,00:15:48
+feodlui,187,tutor,Very good. That is M. Then what's going to be C?,00:15:49
+feodlui,188,background,"Oh, the last two have the same y-intercept.",00:15:54
+feodlui,189,tutor,"Okay, why is that? [Speaker] They both say -3.",00:15:59
+feodlui,190,tutor,That's right. [unclear] [Speaker] But I don't know.,00:16:05
+feodlui,191,tutor,"Yes, yes. [Speaker] Yeah.",00:16:18
+feodlui,192,tutor,Let's get it. [Speaker] Okay.,00:16:22
+feodlui,193,student,I'm not sure how to factorize. [unclear],00:16:28
+feodlui,194,tutor,"Alright, now for Part A, what's going to be the y-intercept, Callum?",00:16:33
+feodlui,195,student,-3.,00:16:43
+feodlui,196,tutor,"For Part A, the Equation A, what's going to be the y-intercept?",00:16:44
+feodlui,197,student,"Oh, -5.",00:16:49
+feodlui,198,tutor,"Okay. Then for b, what's going to be m?",00:16:51
+feodlui,199,student,3.,00:16:56
+feodlui,200,tutor,Uh-huh. Then c is going to be?,00:16:57
+feodlui,201,student,3.,00:17:00
+feodlui,202,tutor,Is it 3?,00:17:02
+feodlui,203,student,6.,00:17:03
+feodlui,204,tutor,What's c for part 1?,00:17:05
+feodlui,205,student,"Oh, -3.",00:17:09
+feodlui,206,tutor,"Okay. Then, now, part c is the important one. How would you figure out the gradient and the intercept here, Callum?",00:17:11
+feodlui,207,student,Divide it all by 3.,00:17:18
+feodlui,208,tutor,"You divide it all by 3, yes. So if you divide all by 3, what will you be left with? y is equal to?",00:17:21
+feodlui,209,student,0. [unclear],00:17:31
+feodlui,210,tutor,Now how would you write this equation? Rewrite this equation to find the gradient and the intercept.,00:17:34
+feodlui,211,student,y x 1. Why would it be x? [unclear] So you told me that we have to divide by 3 because we have to make sure the y [UNCLEAR]. Minus?,00:17:41
+feodlui,212,student,1.,00:18:02
+feodlui,213,tutor,Okay. Now what's going to be the gradient?,00:18:03
+feodlui,214,student,"2, 1.",00:18:08
+feodlui,215,tutor,"Yeah, then what's going to be the intercept?",00:18:09
+feodlui,216,student,"1, -1.",00:18:09
+feodlui,217,tutor,"Okay, then for d?",00:18:14
+feodlui,218,student,y and -3.,00:18:18
+feodlui,219,tutor,x y -3. So how would you rearrange this equation? y -x,00:18:21
+feodlui,220,student,3. There you go. Then,00:18:30
+feodlui,221,tutor,what will be the gradient? -x.,00:18:34
+feodlui,222,tutor,No. What's the gradient?,00:18:39
+feodlui,223,student,"Oh, minus 3.",00:18:41
+feodlui,224,tutor,"Minus 1. The x means there's a 1 in front, so it will be minus 1. Did you understand that?",00:18:43
+feodlui,225,student,Yeah.,00:18:52
+feodlui,226,tutor,"Ah, then what's going to be the intercept?",00:18:53
+feodlui,227,student,Minus 3.,00:18:55
+feodlui,228,tutor,There you go. Now what will be the two lines that have the same intercept?,00:18:57
+feodlui,229,background,The middle [UNCLEAR].,00:19:02
+feodlui,230,student,"No, the B and D.",00:19:05
+feodlui,231,tutor,"D and B, yes. Can you write that down for me, please? [unclear]",00:19:07
+feodlui,232,student,Where?,00:19:12
+feodlui,233,tutor,This one here.,00:19:14
+feodlui,234,student,"So, they're both in the [UNCLEAR]. Yeah. Now Part B, they're asking you to find the two lines that have the same gradient. What will be the two lines that have the same gradient?",00:19:17
+feodlui,235,background,[unclear] A and C.,00:19:37
+feodlui,236,tutor,"A and C. There you go. So you'll get two marks, two marks each for simplifying these equations and one mark each for your final answer. Okay. Is there anything that you didn't understand here? [unclear] Okay, that's nice. So, yeah, Ben, could you give this a try for me? If you want, you can use a whiteboard or a piece of paper to simplify it, or you can just write it on the slide.",00:19:42
+feodlui,237,tutor,And then you'll be free.,00:20:20
+feodlui,238,tutor,Minus 3. [unclear],00:20:22
+feodlui,239,tutor,"Why is it -3, Callum?",00:20:49
+feodlui,240,student,Because it was plus and then it like got rearranged.,00:20:52
+feodlui,241,tutor,"So when you're rearranging, only the -2x moves here. [unclear] It remains the same.",00:20:56
+feodlui,242,background,Okay.,00:21:03
+feodlui,243,tutor,How about the third one?,00:21:05
+feodlui,244,background,3.,00:21:10
+feodlui,245,tutor,"Why do you think the y-intercept is 3? There you go. Okay. So you would get 3 marks. Actually, 1 mark for simplifying and 2 marks for the final answers. And 1 mark for simplifying and 2 marks for the final answers. Please make sure to check your answers, Callum. I can see that you know what to do. Let's be very careful with our final answers, okay?",00:21:21
+feodlui,246,student,Yeah.,00:21:48
+feodlui,247,tutor,"Okay. Now can you give this a try for me, please?",00:21:49
+feodlui,248,student,So it would be [UNCLEAR]. [unclear],00:21:58
+feodlui,249,tutor,I must?,00:22:05
+feodlui,250,student,Oh.,00:22:23
+feodlui,251,tutor,"Think of the gradient. Sorry, think of the y-intercept.",00:22:24
+feodlui,252,student,Yeah.,00:22:29
+feodlui,253,student,Oh.,00:22:32
+feodlui,254,tutor,Yeah. There you go. [unclear],00:22:33
+feodlui,255,student,There you go.,00:22:49
+feodlui,256,background,"Please make sure to use the line tool, Callum, because you have to find the point of intersection. Intersection. You can click on Shape and choose the Line tool. If not, it's going to be hard for you to find the point of intersection. There you go. If you want, you can use a different color for the other graph so that you can easily see.",00:22:54
+feodlui,257,student,I don't know how to change the color. [unclear] [unclear],00:23:21
+feodlui,258,tutor,Yeah.,00:23:35
+feodlui,259,tutor,It's going the opposite direction.,00:23:54
+feodlui,260,student,"I don't know what I did there, but— is that right?",00:23:57
+feodlui,261,tutor,"No. Negative— when the gradient is negative, the graph just goes down. Okay? Now, since it's -3, it will go down in 3s. That's the only difference.",00:24:03
+feodlui,262,student,Okay.,00:24:18
+feodlui,263,tutor,Yeah.,00:24:22
+feodlui,264,student,"If it was parallel like you drew, that means the gradient is going to be 2 and the y-intercept is going to be something like 9.",00:24:24
+feodlui,265,tutor,Yeah. [unclear],00:24:38
+feodlui,266,student,So you go down in 3s because it's a negative.,00:24:40
+feodlui,267,tutor,"Positive goes up, negative goes down. There you go. [unclear]",00:24:49
+feodlui,268,tutor,3ab.,00:25:27
+feodlui,269,student,Would it be the—,00:25:28
+feodlui,270,tutor,3 times a times b is 315. [unclear],00:25:31
+feodlui,271,student,Yes. So what would be the coordinates? Of the point of intersection. [unclear],00:25:39
+feodlui,272,tutor,"There you go. Excellent. Excellent. So you'll get one mark each for plotting the graphs correctly, so you'll get two marks for that. Then you'll get one mark for marking the point of intersection and one mark for your final answer. All right, Callum. So in school when you are doing this, make sure it's neat and you draw it with one straight line. Okay?",00:25:46
+feodlui,273,student,Alright.,00:26:15
+feodlui,274,tutor,Thank you.,00:26:16
+feodlui,275,background,Alright.,00:26:16
+feodlui,276,tutor,"Just to be on the safe side, can you get this [unclear] for me as well, please?",00:26:17
+feodlui,277,background,So you have A and B.,00:26:22
+feodlui,278,tutor,These are the more common questions compared to previous ones.,00:26:29
+feodlui,279,tutor,Very good.,00:26:33
+feodlui,280,student,"3 times 9— 3 divided by 9, 3. And then you just do a cubed times b squared.",00:26:40
+feodlui,281,tutor,Very good. But it doesn't go down.,00:27:06
+feodlui,282,student,Oh.,00:27:12
+feodlui,283,tutor,"The gradient part is correct, but it doesn't go down.",00:27:14
+feodlui,284,tutor,There you go. [unclear],00:27:23
+feodlui,285,student,"Very good. So 6 and 9, they're both in",00:27:24
+feodlui,286,tutor,[unclear],00:28:07
+feodlui,287,student,"Awesome. Yes. So again, you'll get one mark each for the graphs, one mark for marking the point of intersection, and one mark for the final answer.",00:28:07
+feodlui,288,tutor,"So Callum, if the gradient is positive, does the graph go upwards or downwards?",00:28:16
+feodlui,289,student,Up.,00:28:24
+feodlui,290,tutor,Very good. And if the gradient is negative?,00:28:25
+feodlui,291,student,Down.,00:28:27
+feodlui,292,tutor,Down. Okay. Now can you give this a try for me? This is a different question. They are asking you to find the equation. [unclear] [unclear],00:28:29
+feodlui,293,tutor,Very good. Yes? Why do you think it's 2x minus?,00:28:51
+feodlui,294,student,"Because it goes across 1 and up 2, and divide 2 by 1 is 2.",00:28:56
+feodlui,295,tutor,"Okay, now since you worked this out on your own, we can skip",00:29:05
+feodlui,296,background,"Skip the next few slides. [unclear] This one. Okay. Can you check this for me, please?",00:29:09
+feodlui,297,tutor,"That's right. Okay. Oh, no, never mind.",00:29:21
+feodlui,298,tutor,"There you go. [unclear] Awesome. Okay, how about the next one?",00:29:37
+feodlui,299,background,add them together.,00:29:37
+feodlui,300,tutor,A. A.,00:29:51
+feodlui,301,background,yes.,00:29:51
+feodlui,302,tutor,"Is it a negative too, Callum?",00:29:58
+feodlui,303,student,Positive.,00:30:01
+feodlui,304,tutor,"Positive, very good. Why is it a positive [UNCLEAR]?",00:30:03
+feodlui,305,student,Because it's going up.,00:30:05
+feodlui,306,tutor,"It's going up, awesome. All right, so minus 4. Okay, so now what are the main things that you remember from this lesson?",00:30:06
+feodlui,307,student,The gradient is m and the y-intercept is c.,00:30:19
+feodlui,308,tutor,And what do you remember from this question?,00:30:24
+feodlui,309,student,You've got to divide it if it's like more than one line.,00:30:30
+feodlui,310,tutor,"That's good. And if you got this one, what do you remember from this one?",00:30:35
+feodlui,311,student,You've got to like make it cross together. [unclear],00:30:42
+feodlui,312,tutor,"That's right. Okay, now is there anything that you didn't understand from this lesson, Callum?",00:30:49
+feodlui,313,student,[unclear],00:30:57
+feodlui,314,tutor,"All right, that's nice to hear. Then let's move on to the new lesson.",00:30:57
+feodlui,315,student,Yeah.,00:31:01
+feodlui,316,background,Yeah.,00:31:02
+feodlui,317,tutor,"Okay, do you have a calculator with you?",00:31:02
+feodlui,318,student,No.,00:31:05
+feodlui,319,tutor,"No. Do you think you can get one, or you can use the one in your computer?",00:31:07
+feodlui,320,student,I'll use the one in my computer.,00:31:12
+feodlui,321,tutor,"Okay, can you give this question a try for me, please? You'll need a calculator for this lesson, for this question, though. [unclear]",00:31:14
+feodlui,322,tutor,No?,00:31:32
+feodlui,323,background,"I think the first one, right?",00:31:32
+feodlui,324,tutor,"Okay, why do you think so?",00:31:35
+feodlui,325,background,Because don't you add them together and then divide it?,00:31:37
+feodlui,326,tutor,Do you divide it?,00:31:41
+feodlui,327,background,Kind of.,00:31:43
+feodlui,328,tutor,"I bet it is. What does the Pythagoras Theorem say, Callum?",00:31:44
+feodlui,329,student,a² b² c². a² b²,00:31:52
+feodlui,330,tutor,"c². So to find c, which is the hypotenuse, what do you have to do? Square 8, square 6,",00:31:57
+feodlui,331,student,"and then square root the answer. 'Find the square root of a² b² to find c².' So who's going to be correct, the first one or the second one? The",00:32:06
+feodlui,332,student,"second one. Yeah,",00:32:20
+feodlui,333,tutor,"the second one. Okay, now can you give this a try for me, please? Um, [unclear]",00:32:21
+feodlui,334,student,3. Yeah.,00:32:34
+feodlui,335,tutor,I have no idea. [unclear],00:32:40
+feodlui,336,student,And then you need to find the square root of 73.,00:32:56
+feodlui,337,tutor,Yes.,00:32:59
+feodlui,338,background,F and K. [unclear],00:33:02
+feodlui,339,student,It's 8.5.,00:33:12
+feodlui,340,tutor,"Yes, okay.",00:33:13
+feodlui,341,student,And then—,00:33:16
+feodlui,342,tutor,Excellent question.,00:33:17
+feodlui,343,student,I don't know how to do that bit.,00:33:19
+feodlui,344,tutor,"Alright, so this part is correct. So now the next triangle is like this. There you go. So this is 10.",00:33:21
+feodlui,345,student,And that's 8.5.,00:33:31
+feodlui,346,tutor,"Or you can just say square root of 73 because you don't have to solve it because you have to find x. Now, what is the 10 centimeters, Callum? Is it A, B, or C?",00:33:34
+feodlui,347,student,C.,00:33:46
+feodlui,348,tutor,C. Okay. Now let's try to substitute in the Pythagoras theorem. So we have a squared a² b² c². So what would be a? 73². Root,00:33:47
+feodlui,349,background,of,00:34:08
+feodlui,350,tutor,"73, or 8.5². Yeah. Plus,",00:34:08
+feodlui,351,background,so,00:34:14
+feodlui,352,tutor,"b— what's going to be b? Yeah, x²,",00:34:14
+feodlui,353,background,which [UNCLEAR].,00:34:18
+feodlui,354,tutor,"is going to be c², which is",00:34:19
+feodlui,355,student,10 squared.,00:34:22
+feodlui,356,tutor,Yeah.,00:34:24
+feodlui,357,student,"What is 8.5 squared, Callum?",00:34:25
+feodlui,358,background,73.,00:34:29
+feodlui,359,student,"There you go. We have 73 plus x squared is equal to 100, because 10 squared is 100. Now how would you solve this?",00:34:30
+feodlui,360,background,100 take away 73.,00:34:39
+feodlui,361,student,Mm-hmm. Very good.,00:34:42
+feodlui,362,background,Yeah. Which is... [unclear],00:34:44
+feodlui,363,tutor,Yes. Can you use a calculator?,00:34:51
+feodlui,364,student,27.,00:34:54
+feodlui,365,tutor,"27, excellent. Then what's going to be x?",00:34:56
+feodlui,366,student,Square root of 27. 5.19.,00:35:00
+feodlui,367,tutor,They're asking you to correct to one decimal place.,00:35:10
+feodlui,368,student,"Oh, 5.2. 5.2 centimeters. The unit is always important. Sometimes they won't give you marks if you don't add the unit. Did you understand this, Callum?",00:35:12
+feodlui,369,student,Yeah.,00:35:26
+feodlui,370,tutor,"So the trick is, if it's not the hypotenuse, okay, it's not the hypotenuse that you have to find, just subtract, okay? Just subtract from the length of the hypotenuse. Do you understand that?",00:35:27
+feodlui,371,tutor,"Now, can you give this a try for me, please?",00:35:41
+feodlui,372,student,Um... [unclear],00:35:45
+feodlui,373,tutor,Pretty good.,00:35:53
+feodlui,374,student,"5 times what? 5g times 4, 20g.",00:35:57
+feodlui,375,tutor,Yeah. I deleted every single cell.,00:36:05
+feodlui,376,tutor,Yes.,00:36:08
+feodlui,377,student,Accidentally. [unclear] [unclear],00:36:09
+feodlui,378,tutor,"Okay, so we have— how many triangles do we have here?",00:36:37
+feodlui,379,student,3.,00:36:44
+feodlui,380,tutor,And what do we have to find?,00:36:45
+feodlui,381,student,"Yeah, y.",00:36:47
+feodlui,382,tutor,"Right, now we need to find y. We know this is 12, but do we know this length?",00:36:49
+feodlui,383,student,No.,00:36:54
+feodlui,384,tutor,"No, so let's try to find that length. Let me redraw that triangle for you. So this is 10 centimeters and this is 8 centimeters, and let's just say this is h. Yeah, so how would you find perpendicular height?",00:36:55
+feodlui,385,student,"Um, so 10 squared divided by h squared? [unclear]",00:37:12
+feodlui,386,tutor,"Okay, what do we have to find here? Is it the hypotenuse or just another length? That is side length. [unclear] Another length. What did we learn from the previous slide, Callum? If it is not the hypotenuse, what do you do? You add or subtract? [unclear] There you go. So you subtract the square values. So how much— there you go. So what would you get?",00:37:18
+feodlui,387,student,So 2x plus x minus y. [unclear],00:37:44
+feodlui,388,student,"Oh, like 2 to the x times x times y.",00:38:01
+feodlui,389,tutor,Yeah.,00:38:19
+feodlui,390,background,36.,00:38:20
+feodlui,391,tutor,Very good.,00:38:21
+feodlui,392,background,Which is 6.,00:38:22
+feodlui,393,tutor,6 centimeters. So now this side is going to be 6 centimeters.,00:38:24
+feodlui,394,background,Yeah.,00:38:31
+feodlui,395,tutor,"Well, then how would you find y?",00:38:32
+feodlui,396,background,"6 squared plus 12 squared, which is 144.",00:38:34
+feodlui,397,tutor,"36, which is 280. [unclear]",00:38:34
+feodlui,398,student,Not 280.,00:39:00
+feodlui,399,tutor,Is it not?,00:39:02
+feodlui,400,student,"Oh, it is.",00:39:05
+feodlui,401,student,Wait.,00:39:12
+feodlui,402,student,144 plus 36.,00:39:13
+feodlui,403,student,180.,00:39:18
+feodlui,404,tutor,"180, very good.",00:39:20
+feodlui,405,student,And then 180 squared is? [unclear],00:39:22
+feodlui,406,student,13.41.,00:39:27
+feodlui,407,tutor,They're asking it's correct to [UNCLEAR].,00:39:34
+feodlui,408,student,138.4.,00:39:36
+feodlui,409,tutor,"138.4. What would be the unit, Callum?",00:39:38
+feodlui,410,student,Centimeters.,00:39:44
+feodlui,411,tutor,Centimeters. There you go. Did you understand this question?,00:39:46
+feodlui,412,background,Yeah.,00:39:49
+feodlui,413,student,Yes.,00:39:50
+feodlui,414,tutor,"So the trick is to try to break it down into the different types of triangles and then try to figure out the unknowns, okay?",00:39:51
+feodlui,415,student,Yeah.,00:40:01
+feodlui,416,tutor,"There are so many questions online, all right? And even in past papers, there will be lots of questions like this. You can try them, and if there's anything that you don't understand, you can let me know, okay? Or your school teacher, all right? So I have to end this session now.",00:40:01
+feodlui,417,background,Yeah.,00:40:18
+feodlui,418,tutor,"But keep up this good work and have a very good week ahead. And please don't forget to bring your calculator next time, okay?",00:40:18
+feodlui,419,background,Yeah.,00:40:24
+feodlui,420,tutor,"It's good to be— [unclear] to get used to the calculator, the physical one, rather than using the one in the computer, because they wanted to use that for your [UNCLEAR].",00:40:25
+feodlui,421,student,Yeah.,00:40:36
+feodlui,422,tutor,"All right, goodbye.",00:40:36
+feodlui,423,student,Bye.,00:40:39
+feodlui,424,background,Oh my God.,00:40:44

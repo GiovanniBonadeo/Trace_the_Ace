@@ -1,0 +1,286 @@
+session_id,utterance_id,role,content,timestamp
+legqyaq,0,tutor,Hello.,00:00:00
+legqyaq,1,background,[unclear],00:00:00
+legqyaq,2,student,Hello.,00:00:00
+legqyaq,3,background,Hello.,00:00:01
+legqyaq,4,tutor,"Hello, can you hear me?",00:00:02
+legqyaq,5,background,Yes.,00:00:04
+legqyaq,6,tutor,"Yes, okay, how are you doing, Bram?",00:00:06
+legqyaq,7,student,[unclear],00:00:08
+legqyaq,8,tutor,"Good, great. I'm doing pretty well too. Thank you for asking. Bram, I'm Shalomi and I'll be your tutor for today. We're going to continue from where you stopped last week. Before we do that, I'd like to try the learning goal question of this lesson, Bramd you read the topic? And then try this out.",00:00:08
+legqyaq,9,student,"Rounding numbers to the nearest 10,000 and 100,000.",00:00:36
+legqyaq,10,tutor,What does the question ask you to do?,00:00:47
+legqyaq,11,background,"Round 254,561 to the nearest 10,000.",00:00:51
+legqyaq,12,tutor,"Yes, that's right. Good job in reading this large number.",00:00:59
+legqyaq,13,tutor,"Now how do you round to the nearest 10,000?",00:01:03
+legqyaq,14,student,By rounding the thousand.,00:01:09
+legqyaq,15,tutor,"Yes. You look at the thousands column, isn't it? What do you see in the thousands column?",00:01:13
+legqyaq,16,student,4.,00:01:21
+legqyaq,17,tutor,"4. That's right. Now since it is a 4, what should you do?",00:01:23
+legqyaq,18,tutor,Round it down.,00:01:28
+legqyaq,19,background,down.,00:01:28
+legqyaq,20,tutor,"down, exactly. Good job, you've been doing that. Well done. Why is that? You were going to say something?",00:01:28
+legqyaq,21,student,yeah. [UNCLEAR],00:01:28
+legqyaq,22,tutor,"Less than 5, isn't it?",00:01:54
+legqyaq,23,student,Yeah.,00:01:56
+legqyaq,24,tutor,"Now what would this round down to, Bram?",00:01:59
+legqyaq,25,student,[unclear] Like the whole number.,00:02:12
+legqyaq,26,tutor,"Whole number, yeah. So what would it round down to? You can write it down.",00:02:16
+legqyaq,27,tutor,"That's right, 250,000. Good job in working that out on your own. Well done. What if this number was a little different, Bram? It was something like this. What then?",00:02:26
+legqyaq,28,student,"[unclear] 256,561.",00:02:40
+legqyaq,29,tutor,What would this number round to? [unclear],00:02:53
+legqyaq,30,tutor,"When you're rounding to the nearest 10,000, like you said, you would look at the thousands column.",00:02:59
+legqyaq,31,tutor,"Yeah. But unlike before, 6, Bram, is 6 greater than 5 or less than 5?",00:03:14
+legqyaq,32,student,Greater.,00:03:23
+legqyaq,33,tutor,Great. So what must you do if it is greater?,00:03:23
+legqyaq,34,student,You must round up.,00:03:29
+legqyaq,35,tutor,"Up, that's right. What happens when you round up? What will this number turn into?",00:03:31
+legqyaq,36,student,"260,000.",00:03:42
+legqyaq,37,tutor,"That's right. Change to 260,000. Good job in understanding [unclear] rounding down. Well done. We've got a few from Part E of it. You've already completed Part A last week. Can you try that out, please?",00:03:44
+legqyaq,38,student,Okay. Feel free to use this if you need.,00:04:02
+legqyaq,39,tutor,Okay. [unclear] [unclear],00:04:10
+legqyaq,40,tutor,[UNCLEAR] [unclear],00:04:10
+legqyaq,41,tutor,[unclear],00:04:10
+legqyaq,42,tutor,"Are you stuck, Bram?",00:05:09
+legqyaq,43,student,Yes.,00:05:20
+legqyaq,44,tutor,"Now, I know you know your steps, so can you take me through that? When you're rounding to the nearest thousand, which column should you look at?",00:05:21
+legqyaq,45,student,The hundreds column.,00:05:30
+legqyaq,46,tutor,"The hundreds column, exactly. Now what is in the hundreds column?",00:05:32
+legqyaq,47,student,9.,00:05:37
+legqyaq,48,tutor,"Because 9, what should you do? Up or down?",00:05:38
+legqyaq,49,background,[unclear],00:05:42
+legqyaq,50,tutor,"Round up, exactly. And I think you're having a problem because these are 9s, isn't it?",00:05:44
+legqyaq,51,student,Yes.,00:05:50
+legqyaq,52,tutor,"Okay, so let me give you a small— A tip, okay? Whenever you're rounding up, you know how I draw a line next to what we're rounding? So if you're rounding up to the nearest thousand, just add 1 to the thousands column. What will you get if you add 1 to 299?",00:05:50
+legqyaq,53,student,"[unclear] 300,000.",00:06:11
+legqyaq,54,tutor,"300, exactly. You can change this to 300 and the rest of the digits to zeros. So that will be 300,000. Whenever you are rounding up, just add 1 to this column, whatever you're rounding to. Okay?",00:06:18
+legqyaq,55,student,"Oh, okay. [unclear]",00:06:33
+legqyaq,56,tutor,"300,000 again. Okay. Can you tell me how you got that? [unclear]",00:07:17
+legqyaq,57,tutor,So you're rounding to the nearest?,00:07:39
+legqyaq,58,student,"10,000.",00:07:42
+legqyaq,59,tutor,"10,000. So you draw a line next to it. Which column do you look at?",00:07:44
+legqyaq,60,background,The thousands column.,00:07:50
+legqyaq,61,tutor,"The thousands column, yes. Then what do you do?",00:07:52
+legqyaq,62,background,Round it up.,00:07:57
+legqyaq,63,tutor,"Round it up because it's a 9, that's right. When you round up, what should you do to this number? 4, 8?",00:07:59
+legqyaq,64,student,Add 1.,00:08:08
+legqyaq,65,tutor,"Add 1, and that will change to 30. The rest of the digits will turn to zeros, isn't it?",00:08:09
+legqyaq,66,student,Yeah.,00:08:17
+legqyaq,67,tutor,"Okay, good effort there in explaining your answer. Well done. On to the nearest 100,000. [unclear] [unclear]",00:08:17
+legqyaq,68,tutor,[UNCLEAR] [unclear],00:08:17
+legqyaq,69,tutor,[unclear] [unclear],00:08:17
+legqyaq,70,tutor,"300,000 again, okay. And why would this be 300,000, Bram?",00:09:05
+legqyaq,71,student,"Because the rest of the numbers are 9, and because it's 9, you can't round it down.",00:09:13
+legqyaq,72,student,So you have to round it off?,00:09:23
+legqyaq,73,tutor,"Yes. So remember, you don't have to look at all of the digits, just the column next to it. Okay?",00:09:27
+legqyaq,74,student,Okay.,00:09:35
+legqyaq,75,tutor,"Right. So now that you have practiced all 3 degrees of accuracy, can you try out a worded problem? Are you ready?",00:09:37
+legqyaq,76,student,Yes. [unclear],00:09:47
+legqyaq,77,tutor,Let's read this and try it out. What does it say?,00:09:49
+legqyaq,78,student,"Cookie is thinking of a number. When rounded to the nearest 10,000, it is 350,000. Rounded to the nearest 100,000, it is 400,000.",00:09:53
+legqyaq,79,tutor,Can you give a number he could be thinking of? [unclear],00:10:08
+legqyaq,80,background,You can think about it and tell me what you think. [unclear],00:10:15
+legqyaq,81,tutor,Yeah.,00:10:39
+legqyaq,82,student,"So you point [unclear] color. But you guys don't have any other color, so the book just color you look at.",00:10:41
+legqyaq,83,tutor,"When you read the question, Bram, what were the key facts that you saw?",00:10:50
+legqyaq,84,student,"[unclear] nearest 10,000 to the number 350,000, nearest 100,000 to the number 400,000.",00:10:55
+legqyaq,85,background,"Yes, so its nearest 100,000 is 400,000, while its nearest 10,000 is 350,000. Now, from the word the word nearest, what do you understand? [unclear] But in like in English, what do you think nearest means?",00:11:12
+legqyaq,86,student,Closest to.,00:11:33
+legqyaq,87,tutor,"That's right. It's closest to this. So can you think of a number that is closest to 350,000 as well as 400,000?",00:11:34
+legqyaq,88,background,"What do you think? Can you give me a number that would round to 350,000? For it to round to 350. So when you round it to the nearest 10,000, Bram, which column do you look at?",00:11:34
+legqyaq,89,student,"[unclear] column. Thousands column. So what should be in this thousands column to make it 350,000? What do you think?",00:12:16
+legqyaq,90,student,"[unclear] 360,000.",00:12:32
+legqyaq,91,tutor,"360,000. Is it?",00:12:39
+legqyaq,92,background,I think so.,00:12:44
+legqyaq,93,student,"That's a bit large. We have moved on to the next multiple of 10,000. So that way it won't be close to this, it will be close to 360,000. Instead, think of a number that you can put in the [unclear] that's around 350,000.",00:12:45
+legqyaq,94,student,That would be—,00:13:09
+legqyaq,95,tutor,"A bit difficult to do that when you don't have a number line, isn't it?",00:13:12
+legqyaq,96,background,Yeah.,00:13:15
+legqyaq,97,tutor,"Yes, okay. Let me give you one.",00:13:15
+legqyaq,98,tutor,"Let's look at 350,000. So let's say here. Okay.",00:13:19
+legqyaq,99,student,Yes.,00:13:25
+legqyaq,100,tutor,And let's add— [unclear] [unclear],00:13:26
+legqyaq,101,tutor,"1000 digit is 5, Bram. What happens?",00:13:26
+legqyaq,102,student,[UNCLEAR] [unclear],00:13:26
+legqyaq,103,tutor,"1000 digit is 5, Bram. What happens?",00:13:26
+legqyaq,104,student,[UNCLEAR],00:13:26
+legqyaq,105,tutor,5 or more. [unclear],00:14:13
+legqyaq,106,tutor,Do you round it up or down?,00:14:17
+legqyaq,107,student,Up.,00:14:22
+legqyaq,108,tutor,"Up, that's right. So when you are rounding this number up, remember what I told you to do to the column, the previous column? What should you do to it?",00:14:24
+legqyaq,109,background,[unclear],00:14:35
+legqyaq,110,tutor,"Add 1. So this number will automatically round up to 350,000 when you add 1. Let me give you something over here, Bram. Let's think of a number over here. What could this number be? What is my arrow pointing to?",00:14:40
+legqyaq,111,student,[unclear],00:14:58
+legqyaq,112,tutor,"Okay, I will take that. [unclear]",00:15:05
+legqyaq,113,tutor,This is 355. What could this be? [unclear],00:15:31
+legqyaq,114,tutor,What's before 355?,00:15:44
+legqyaq,115,student,[unclear],00:15:51
+legqyaq,116,tutor,"Just think of the 3-digit portion of it, Bram. [unclear] 350 and this is 355. So that's 1, 2, 3, 5 steps away.",00:15:57
+legqyaq,117,student,Yeah.,00:16:14
+legqyaq,118,tutor,"Okay, so let's keep counting. If this is 355, what is this going to be?",00:16:14
+legqyaq,119,student,354.,00:16:23
+legqyaq,120,tutor,That's right. This one?,00:16:25
+legqyaq,121,student,300— [unclear] 351.,00:16:27
+legqyaq,122,tutor,That's right. So what is this then?,00:16:31
+legqyaq,123,student,"351,000.",00:16:33
+legqyaq,124,tutor,"Yes, 351,000. Good job in understanding it. So if you take 351,000, Bram, what will that number round to? What is it to the nearest 10,000? [unclear]",00:16:36
+legqyaq,125,tutor,"Which column should you look at if you're rounding to the nearest 10,000?",00:17:00
+legqyaq,126,student,The thousands column.,00:17:15
+legqyaq,127,tutor,The thousands column. What is in the thousands column?,00:17:17
+legqyaq,128,student,"1,000.",00:17:21
+legqyaq,129,tutor,"1,000. If it is a 1, what should you do?",00:17:22
+legqyaq,130,student,Round it down.,00:17:29
+legqyaq,131,tutor,That's right. What will this number round down to?,00:17:30
+legqyaq,132,student,0.,00:17:34
+legqyaq,133,tutor,"So when you round up, you add 1, but when you round down, you don't do anything to the numbers before it, Bram. They will stay as they are. What will that make it? [unclear] The 3 and the 5 will stay as they are, but the other digits will change to zeros.",00:17:37
+legqyaq,134,student,Zero.,00:17:57
+legqyaq,135,tutor,Okay. So that's going to be?,00:17:59
+legqyaq,136,background,One million.,00:18:02
+legqyaq,137,tutor,"350,000, right?",00:18:04
+legqyaq,138,background,Yes.,00:18:07
+legqyaq,139,tutor,"Yes. So anything that is 1, 2 or 3 or 4, all of them would round down to 350,000. Because it's less than 5, right? 2,000 is less than 5.",00:18:08
+legqyaq,140,student,Yeah.,00:18:27
+legqyaq,141,tutor,"Now, we have thought of a few numbers that are close to 350,000. We just saw that 350,000 and 351,000 are close to each other. Right? So it's 352, 53, 54, 55, 56, 57, 58, 59. These are the numbers that will be between this point and this point. And apart from 4, they will all round down to 350. Isn't it?",00:18:27
+legqyaq,142,student,[unclear],00:19:07
+legqyaq,143,tutor,"Yeah. So let's see if our numbers also round to 400,000 when rounded to the nearest hundred thousand. Can you tell me how to round this number that we were working on to the nearest hundred thousand, Bram?",00:19:08
+legqyaq,144,student,Closer to—,00:19:26
+legqyaq,145,tutor,Which column should you look at? [unclear],00:19:29
+legqyaq,146,student,"The 10,000 column.",00:19:35
+legqyaq,147,tutor,"The 10,000 column. Good effort here in trying out this question, Bram. Well done. So what do you do with the 10,000? [unclear]",00:19:40
+legqyaq,148,student,Add 1.,00:19:55
+legqyaq,149,tutor,"Add 1, yes. What happens when you add 1? What will this number turn into?",00:20:01
+legqyaq,150,student,[unclear],00:20:08
+legqyaq,151,tutor,"When you're rounding to the nearest hundred thousand, which column should you add 1 to, Bram?",00:20:10
+legqyaq,152,student,[unclear],00:20:24
+legqyaq,153,tutor,"To the column you're rounding to. Not the one you're looking at, but the column you're rounding to. So you have to add 1 to the 100,000. So what will it be?",00:20:25
+legqyaq,154,student,"400,000.",00:20:38
+legqyaq,155,tutor,"400,000. Now did you notice that this number, when rounded to the nearest 10,000, gave us 350,000, but when rounded to the nearest 100,000, gave us 400,000? [unclear] Do you notice that? So could this maybe be a number that Hoki is thinking of?",00:20:40
+legqyaq,156,student,"Yes, probably.",00:21:03
+legqyaq,157,tutor,"Probably, could work, isn't it? Okay, I'm going to give you another number. Let's say 353,000. Can you tell me whether this is a [UNCLEAR]? What do you have to check for? [unclear]",00:21:06
+legqyaq,158,tutor,"What is its nearest 10,000? And what is its nearest 100,000? [unclear]",00:21:39
+legqyaq,159,student,"The nearest 10,000 is 350,000 because in the thousand column it's only 3.",00:22:01
+legqyaq,160,tutor,"Yes, that's right. Great job in noticing that. Well done. And what about the nearest 100,000?",00:22:12
+legqyaq,161,student,"It will become 400,000.",00:22:20
+legqyaq,162,tutor,"400,000, why?",00:22:26
+legqyaq,163,student,"Since in the 10,000 columns, 5...",00:22:29
+legqyaq,164,tutor,"So it's a round-up, isn't it?",00:22:33
+legqyaq,165,student,Yes.,00:22:37
+legqyaq,166,tutor,Good job in [UNCLEAR]. So could this also be a number that hopefully you think of?,00:22:38
+legqyaq,167,student,Yeah.,00:22:47
+legqyaq,168,tutor,"Yes, it works, right?",00:22:47
+legqyaq,169,student,Yeah.,00:22:50
+legqyaq,170,tutor,"This is satisfied and so is this. Okay, now your friend is going to come up to you and say, Bram, you know what? I think that this could possibly be this one over here. [unclear] What would you tell them?",00:22:50
+legqyaq,171,tutor,"What is the nearest 10,000? What is its nearest 100,000? Is your friend right? [unclear] [unclear]",00:23:16
+legqyaq,172,student,"The nearest 10,000 would be 350,000.",00:23:45
+legqyaq,173,tutor,"Yes, why?",00:23:59
+legqyaq,174,student,"Because in the thousands column, it's 705.",00:24:00
+legqyaq,175,tutor,"Yes, you do. Okay, what about nearest 100,000?",00:24:06
+legqyaq,176,student,"Nearest 100,000 would be 300— [unclear] 340,000.",00:24:12
+legqyaq,177,tutor,"100,000, Bram. What does that mean? You have to look into your 10,000s column. Since it's less than 4, what should you do?",00:24:24
+legqyaq,178,student,Round it down.,00:24:37
+legqyaq,179,tutor,"Down? When you're rounding, do you have to change the digit before it? [unclear] Do you have to change it when you're rounding down?",00:24:39
+legqyaq,180,student,Yeah.,00:24:53
+legqyaq,181,tutor,"Are you sure? Over here when you were rounding down, did you change the 5 or did you keep it as it is?",00:24:53
+legqyaq,182,student,[unclear],00:25:04
+legqyaq,183,tutor,"Yes. When you're rounding down, always remember that you don't change those digits. You just change the rest of the digits over here. Okay? All right. So what happened here, Bram? You changed the 3?",00:25:04
+legqyaq,184,student,Yes.,00:25:23
+legqyaq,185,background,No.,00:25:25
+legqyaq,186,tutor,What about the rest of the digits?,00:25:26
+legqyaq,187,student,[unclear],00:25:30
+legqyaq,188,tutor,"That's right. So what is its nearest 100,000?",00:25:30
+legqyaq,189,student,"300,000.",00:25:38
+legqyaq,190,tutor,"300,000. So does this number work? Could it be something Hoki is thinking of?",00:25:39
+legqyaq,191,student,Yes.,00:25:47
+legqyaq,192,tutor,"Yes? Why? Is the nearest 10,000 350,000?",00:25:48
+legqyaq,193,tutor,"Yeah. But is the nearest 100,000, 400,000, Bram? [unclear]",00:25:57
+legqyaq,194,student,Yeah.,00:26:07
+legqyaq,195,tutor,"Yeah. That would not work, right? It has to be 400,000. So we can cross off this. The friend is wrong. These are correct. Okay, so Bram, how would you explain this question to somebody else? [unclear]",00:26:11
+legqyaq,196,student,Not sure.,00:26:31
+legqyaq,197,tutor,"Maybe you could tell them the key points, right? What are the key points in the problem?",00:26:36
+legqyaq,198,student,"Nearest 10,000. [unclear]",00:26:42
+legqyaq,199,tutor,"And 350,000.",00:26:49
+legqyaq,200,background,"That is as nearest 10,000.",00:26:55
+legqyaq,201,tutor,Yes.,00:26:59
+legqyaq,202,background,Okay.,00:27:00
+legqyaq,203,tutor,"The nearest 100,000.",00:27:01
+legqyaq,204,background,Uh-huh. Is?,00:27:05
+legqyaq,205,tutor,"Is 400,000.",00:27:06
+legqyaq,206,background,"Yes. So our number, whatever it is, has to be close to this. And it has to round up to this, isn't it?",00:27:10
+legqyaq,207,student,Yeah.,00:27:19
+legqyaq,208,tutor,"Yes. Okay, so with that, let's wrap things up for this lesson, Bram. Can you tell me 2 things you learned in this rounding lesson?",00:27:20
+legqyaq,209,student,"That when rounding, you have to look at the column before. [unclear]",00:27:31
+legqyaq,210,tutor,"And when you're rounding, what's the tip that I told you you could use?",00:27:48
+legqyaq,211,student,Add 1.,00:27:59
+legqyaq,212,tutor,"Add 1. To the column you are rounding to, right?",00:28:00
+legqyaq,213,student,Yes.,00:28:06
+legqyaq,214,tutor,Not the others.,00:28:06
+legqyaq,215,student,"Yes. But if you're rounding down, what should you remember?",00:28:07
+legqyaq,216,student,[unclear],00:28:11
+legqyaq,217,tutor,Not to change that number. Isn't it?,00:28:12
+legqyaq,218,background,Yeah.,00:28:20
+legqyaq,219,tutor,"Okay. So with that, let's move over to our new lesson, Bram. Let's see what that is. We'll be comparing numbers with up to 2 decimal places. Decimal places. How do you feel about decimal places? [unclear]",00:28:21
+legqyaq,220,tutor,"Not really, is it?",00:28:38
+legqyaq,221,student,No.,00:28:45
+legqyaq,222,tutor,"Okay, we'll see. We'll see how you feel at the end of this lesson, okay? Can you try this question out? [unclear]",00:28:46
+legqyaq,223,tutor,Because,00:29:03
+legqyaq,224,student,in decimals. Only the tenths column should be acknowledged.,00:29:03
+legqyaq,225,tutor,"That is only because the ones is all the same, isn't it?",00:29:03
+legqyaq,226,background,[unclear],00:29:43
+legqyaq,227,tutor,"Yes, because it is the same, you have to compare the tenths column. Great job in understanding that, Bram. Well done. And we can see that 9 tenths is the largest number of tenths. Right?",00:29:44
+legqyaq,228,tutor,Yes.,00:29:57
+legqyaq,229,student,Yes.,00:29:58
+legqyaq,230,tutor,Let's practice a few questions. Let's start off with question 8. [unclear],00:29:59
+legqyaq,231,background,"using less than, greater than, or equal. [unclear]",00:29:59
+legqyaq,232,student,"And 8 is closer to 7, so our result is 1,000. [unclear]",00:30:26
+legqyaq,233,tutor,"So 1.25 is great, so bad 1.05. When you compare the two groups, the one column is the same. Which column do you have to compare?",00:31:29
+legqyaq,234,tutor,The tenths column.,00:31:43
+legqyaq,235,student,Tenths column.,00:31:45
+legqyaq,236,tutor,"Let's try Part B. Okay, why did that?",00:31:47
+legqyaq,237,background,"Because in 2.06,",00:32:02
+legqyaq,238,tutor,There's nothing in the tenths column.,00:32:07
+legqyaq,239,student,"Once again, it's the tenths column that we have to compare it with.",00:32:10
+legqyaq,240,tutor,Yes. Good job in noticing those. Well done. Now let's try part B. [unclear] [unclear],00:32:16
+legqyaq,241,tutor,Why do you go with 2?,00:32:47
+legqyaq,242,student,Because 2 is larger than 0.,00:32:55
+legqyaq,243,tutor,"Yes. And so is one, right? The one you went with before.",00:32:59
+legqyaq,244,student,Yes.,00:33:04
+legqyaq,245,tutor,Yes. What about four or five?,00:33:05
+legqyaq,246,background,[unclear],00:33:08
+legqyaq,247,tutor,"They're also correct. That is also right, isn't it? Okay. So well done here, Bram. Been working out all of those questions on your own. Good job. Let's try this one.",00:33:08
+legqyaq,248,background,table to yourself as in changing to a long jump. Competition. [unclear],00:33:08
+legqyaq,249,student,"I looked at 7, and then I looked at 8, 15 from the right. Who jumped furthest and won the competition, Bram? [unclear]",00:33:45
+legqyaq,250,student,Lucy.,00:34:06
+legqyaq,251,tutor,"Lucy. Okay, why is it Lucy?",00:34:08
+legqyaq,252,student,"Because the distance she jumped is 3.19, which is larger than the other numbers.",00:34:11
+legqyaq,253,tutor,"3.19. Okay. Okay. So how many numbers have 3 in the ones column, Bram? [unclear] Ben has it. Who else?",00:34:25
+legqyaq,254,student,"Ben, Charlie, and Lucy, and Max.",00:34:42
+legqyaq,255,tutor,"Yes. Ben, Charlie, Lucy, and Max. Now let me just write down each of their numbers on the right-hand side, okay? Ben is 3.04, so that is 3, 0, 4. Max is what?",00:34:47
+legqyaq,256,student,3.4.,00:35:03
+legqyaq,257,tutor,3.4. What is Lucy?,00:35:06
+legqyaq,258,background,[unclear],00:35:09
+legqyaq,259,tutor,3.19.,00:35:09
+legqyaq,260,tutor,3.19. And Charlie?,00:35:16
+legqyaq,261,student,3.09.,00:35:19
+legqyaq,262,tutor,"Yes. Since the ones are the same, Bram, which column should you compare?",00:35:22
+legqyaq,263,student,The tenths column.,00:35:29
+legqyaq,264,tutor,"The tenths column. This is 0, this is 4, this is 1, and this is 0. Which is the largest? [unclear]",00:35:30
+legqyaq,265,tutor,Yes.,00:35:38
+legqyaq,266,background,"Which is the largest? 0, 4, 1, or 0?",00:35:40
+legqyaq,267,tutor,4.,00:35:44
+legqyaq,268,background,"4. So who is— who has jumped the most, the furthest?",00:35:45
+legqyaq,269,tutor,Max.,00:35:52
+legqyaq,270,background,Max. [unclear],00:35:54
+legqyaq,271,tutor,"So with that we can wrap things up for today. Bram? And let's talk about what we did, shall we? Give me a small summary of what we were able to do. [unclear]",00:35:55
+legqyaq,272,student,We learned how to round up numbers and round down numbers.,00:36:17
+legqyaq,273,tutor,Yeah.,00:36:23
+legqyaq,274,student,"In the second lesson, we learned how to discuss between decimals.",00:36:24
+legqyaq,275,tutor,"Yes, we learned how to compare them, isn't it?",00:36:35
+legqyaq,276,student,Yes.,00:36:37
+legqyaq,277,tutor,"Yes. So we learned how to compare decimals, we learned how to round up and round down. How do you think you did in both of those lessons? [unclear]",00:36:38
+legqyaq,278,tutor,"Good, probably?",00:36:46
+legqyaq,279,tutor,Good.,00:37:01
+legqyaq,280,student,Or [UNCLEAR].,00:37:01
+legqyaq,281,tutor,"I think you did pretty well actually. Personally, I think you did really well, especially with the rounding lesson. You tried really hard to understand it and you remembered all of the key points that you needed to remember. Really good work there. And with this ordering lesson, I think you did a good job of comparing the columns that needed to be compared and noticing which columns were the same.",00:37:01
+legqyaq,282,tutor,"Good. [unclear] Right. So with that, let's wrap things up for today. I'll probably see you next week. Until then, have a really good week. Bram, bye.",00:37:31
+legqyaq,283,student,Bye.,00:37:43
+legqyaq,284,tutor,Bye.,00:37:44

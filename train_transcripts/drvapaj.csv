@@ -1,0 +1,281 @@
+session_id,utterance_id,role,content,timestamp
+drvapaj,0,background,[unclear],00:00:00
+drvapaj,1,tutor,Hello?,00:00:00
+drvapaj,2,student,Hello?,00:00:01
+drvapaj,3,background,Hello?,00:00:02
+drvapaj,4,tutor,Hi!,00:00:02
+drvapaj,5,background,Hello?,00:00:04
+drvapaj,6,student,Hello?,00:00:05
+drvapaj,7,background,Are you good?,00:00:07
+drvapaj,8,student,"I'm good, thank you. How are you?",00:00:08
+drvapaj,9,background,Yeah.,00:00:10
+drvapaj,10,tutor,Hello.,00:00:14
+drvapaj,11,student,Hi.,00:00:15
+drvapaj,12,tutor,Hello.,00:00:15
+drvapaj,13,student,Hello.,00:00:16
+drvapaj,14,tutor,"Yeah, can you hear me?",00:00:16
+drvapaj,15,student,Hi.,00:00:18
+drvapaj,16,background,Hi.,00:00:18
+drvapaj,17,student,"I can hear you, yeah.",00:00:19
+drvapaj,18,tutor,"Okay, nice. So, can you hear me clearly?",00:00:21
+drvapaj,19,student,Yeah.,00:00:25
+drvapaj,20,tutor,"Okay, that's nice. So, can you please tell me your name?",00:00:26
+drvapaj,21,student,I'm [STUDENT_NAME].,00:00:30
+drvapaj,22,tutor,[STUDENT_NAME].,00:00:33
+drvapaj,23,student,Yeah.,00:00:35
+drvapaj,24,tutor,"Okay, that's a very nice name, [STUDENT_NAME]. So, my name is [UNCLEAR]. Can you see under my pointer?",00:00:36
+drvapaj,25,student,Yeah.,00:00:44
+drvapaj,26,tutor,"Okay, that's nice. So [STUDENT_NAME], do you think my volume is too high or is it too low or is it okay for you?",00:00:45
+drvapaj,27,student,It's okay.,00:00:54
+drvapaj,28,tutor,"Okay, nice. Okay, [UNCLEAR], so then how are you?",00:00:57
+drvapaj,29,student,"Good, thank you. How are you?",00:00:57
+drvapaj,30,tutor,"I'm really fine. Thank you so much for asking. And how is your day today? Good, thanks. How was yours?",00:01:02
+drvapaj,31,student,"Mine was good as well. I had some exams today, so yeah, I'm very good. Okay, [STUDENT_NAME], so can you please tell me, like, how was your weekend and how was your, like, holidays you had?",00:01:09
+drvapaj,32,student,"Um, it has been good.",00:01:21
+drvapaj,33,background,"Okay, that's nice. Okay, [STUDENT_NAME], thank you so much for sharing information with me. So then, are you ready to start your lesson today?",00:01:25
+drvapaj,34,student,"Uh, yeah.",00:01:34
+drvapaj,35,tutor,"Okay, nice. Then [STUDENT_NAME], today we have a lesson called Solving Area and Perimeter Problems, and you may have done this lesson yesterday as well. Yeah?",00:01:36
+drvapaj,36,student,"Uh, yeah.",00:01:48
+drvapaj,37,tutor,"Okay, nice. So [STUDENT_NAME], today we have to complete one more slide in this lesson. So before that, can you please tell me, um, what did you learn yesterday in this lesson?",00:01:49
+drvapaj,38,student,So we learnt about how we need to add them or we need to times them.,00:02:02
+drvapaj,39,tutor,"OK, nice. What else?",00:02:11
+drvapaj,40,student,"And we've been learning how to— I've been learning as well how to get these bits, like missing bits.",00:02:17
+drvapaj,41,tutor,"Nice, exactly, [STUDENT_NAME]. And also, what do you know about area?",00:02:28
+drvapaj,42,student,"Area, you need to— I keep forgetting which one's which, but is it the one where you've got to times?",00:02:34
+drvapaj,43,tutor,"Yeah, exactly, that's very kind. Good job. What about perimeter?",00:02:42
+drvapaj,44,student,You need to add them all together.,00:02:49
+drvapaj,45,tutor,"Nice. Okay, that's a very good job, and thank you so much for that very great effort because you answered all my questions, and that's a nice work. Good job. Okay, [STUDENT_NAME], so yesterday— yeah, okay, so yesterday you have done these, um, slides over here, and then you have done these questions as well. So in yesterday's session, and today we are going to start from this slide over here where it is We've got further slides. Now, [STUDENT_NAME], can you please read the question from here now?",00:02:52
+drvapaj,46,student,Yeah. Hokey has started to make a path using [unclear] size square slabs. Calculate the perimeter and area of the path so far.,00:03:25
+drvapaj,47,tutor,"Yeah, good reading there, [STUDENT_NAME]. So what are they asking in the question now here?",00:03:48
+drvapaj,48,student,[unclear],00:03:56
+drvapaj,49,background,Are they basically asking you to calculate the perimeter and area?,00:03:58
+drvapaj,50,tutor,Of what we've got?,00:04:02
+drvapaj,51,background,"Yeah, in the diagram that they have shown here, right? So Do you want to do the question now? And, um, yep, you want to try this now?",00:04:05
+drvapaj,52,student,"Uh, yeah.",00:04:15
+drvapaj,53,tutor,"Okay, yes, you can go ahead and find the answer. Okay, and if you have any issue or any questions, let me know. Okay, first, for sure, should I find all the which ones should be in line in the whole diagram? Okay, so you need to find the area and the perimeter of this whole diagram. Okay, and also, um,",00:04:16
+drvapaj,54,tutor,"You can see that they have given the distance over here. So like, this is the total distance they have given. Okay.",00:04:37
+drvapaj,55,student,Okay. [unclear] Thank you. [unclear],00:04:45
+drvapaj,56,student,Do you need to times them all together? I have to times everything that I've got?,00:05:17
+drvapaj,57,tutor,Exactly. So how,00:05:27
+drvapaj,58,tutor,"First of all, before you find the answer, can you please tell me, [STUDENT_NAME], how are you going to find the area in this diagram here now?",00:05:29
+drvapaj,59,student,"First, I'm going to do 2 times 2, which is 4. So now we need to cross them off because we've already done that. Next, you go times 4 times 1, which is 4. Then you go times that again, which is 4, and then times, and then [UNCLEAR].",00:05:38
+drvapaj,60,student,"So really the answer is 4. Because you all know that if you times by 1, it's always going to be the same. So that means, so the area— would you say it's 4?",00:05:55
+drvapaj,61,background,[UNCLEAR],00:05:55
+drvapaj,62,student,Would you say the area is 4?,00:06:15
+drvapaj,63,background,"No, actually, I think it's 5. [STUDENT_NAME], when you are finding the area here, we know where we are finding the area by timesing the length with the width or length with the height, right? So first of all, you know, [STUDENT_NAME], that we have a [UNCLEAR]. Please tell me, how many squares do we have here?",00:06:19
+drvapaj,64,student,7.,00:06:19
+drvapaj,65,tutor,"Good job, there are 7 squares. So in one square, in one square, what should be the area now?",00:06:36
+drvapaj,66,tutor,"Say that again, sorry.",00:06:51
+drvapaj,67,student,"This would be fine. So in one square, what should be the area? [unclear]",00:06:53
+drvapaj,68,tutor,"There are 7 squares, but in one square, what should be the area now?",00:06:59
+drvapaj,69,student,4...,00:07:07
+drvapaj,70,tutor,"Okay, first of all, [STUDENT_NAME], as you can see here, they have given here the distance here, 80 centimeters, right? So before we find the area, we may need to find the length of this square, okay? Because we know in a square our all lengths are same, right? They have the same length. So first of all, [STUDENT_NAME], we may need to find the length of this square. So what could be the length of this square now?",00:07:09
+drvapaj,71,student,[unclear] [unclear],00:07:38
+drvapaj,72,tutor,"Yeah, I do think. [unclear]",00:07:50
+drvapaj,73,tutor,"[STUDENT_NAME], are you there? Hello? Yes, [STUDENT_NAME], are you there?",00:08:09
+drvapaj,74,student,"Oh yeah, I can hear you.",00:08:26
+drvapaj,75,tutor,"Okay, nice, nice. Oh, okay, okay, I know. So, [STUDENT_NAME], can you please tell me what is this 80 centimeters here now? What is that? [unclear] Centimetres. Yeah, what is that? [unclear] The length. Exactly, length of what, [STUDENT_NAME]?",00:08:27
+drvapaj,76,student,Of these boxes.,00:08:58
+drvapaj,77,tutor,"Yeah, all these boxes mean, uh, [STUDENT_NAME], length of these lengths. Can you see that, [STUDENT_NAME], here? [unclear] Can you see that? So if I just show you more clearly, I'll draw some lines for you. So let me get the red color line. That is the length of these, um, length of these squares, um, [STUDENT_NAME].",00:09:02
+drvapaj,78,tutor,"Okay, now can you guys tell me how many lens are here now?",00:09:28
+drvapaj,79,student,There's 5 boxes and [UNCLEAR].,00:09:33
+drvapaj,80,background,"So do I take 80 take away 5? What should we do? We know the length of this 8 centimeters means, uh, [STUDENT_NAME], it is the length of this 4, um, lengths over here now, right? So if you need to find out the length, uh, if you need to find out the length of one length over here, [STUDENT_NAME], what should we do here now? Are we taking away, or what should we do?",00:09:33
+drvapaj,81,student,We have to take one [unclear] from there. [unclear],00:10:15
+drvapaj,82,tutor,"And this square, one side, you need to find out the length of one side. What should you do now? [unclear]",00:10:22
+drvapaj,83,student,"This 80 centimeters is for the whole length given here, but we need to find out the length of one side. So what should we do? [unclear]",00:10:32
+drvapaj,84,student,I'm not sure.,00:10:56
+drvapaj,85,tutor,"Absolutely, absolutely, fine, [STUDENT_NAME]. So if you need to find out the length of one side here, you should divide that, okay?",00:10:59
+drvapaj,86,student,Divide 4 by 18.,00:11:07
+drvapaj,87,tutor,"Exactly, yes. You need to divide 80 by 4. Okay, so can you just do it and find the answer and tell me what would be the length of one side? [unclear]",00:11:12
+drvapaj,88,student,So is it 20 centimeters?,00:11:27
+drvapaj,89,tutor,"Definitely, yes. Very good job, [STUDENT_NAME]. So we know now The length of one side of the square is 20 centimeters. Okay?",00:11:33
+drvapaj,90,student,"Oh, okay. [unclear]",00:11:44
+drvapaj,91,tutor,Is it clear?,00:11:45
+drvapaj,92,student,Yeah.,00:11:46
+drvapaj,93,tutor,"Very good job. Now, [STUDENT_NAME], can you find the area of all of these squares now? And if I give you a simple hint on this one, you may need to find out the length of one square length first, and then you can find the others as by timesing as well. Okay? [unclear]",00:11:47
+drvapaj,94,student,"So after 4 divided by 80, and then do you times it by— then do you times it by—",00:12:17
+drvapaj,95,student,"box, the boxes, all the boxes.",00:12:17
+drvapaj,96,tutor,"Yeah, first of all, we need to find the area of one box, [STUDENT_NAME]. Okay, so can you please tell me what would be the area of one box?",00:12:17
+drvapaj,97,student,"Um... [unclear] our phone. So do you need to add some rules together, just for them, as it is a positive practice? [unclear]",00:12:49
+drvapaj,98,tutor,"[STUDENT_NAME], do you know?",00:13:14
+drvapaj,99,student,Yeah.,00:13:16
+drvapaj,100,tutor,Yeah.,00:13:17
+drvapaj,101,student,And how much would you add? What it does is it almost adds—,00:13:18
+drvapaj,102,tutor,So— [unclear],00:13:22
+drvapaj,103,tutor,"Yeah, it looks confusing for you.",00:13:29
+drvapaj,104,student,Yeah.,00:13:48
+drvapaj,105,tutor,"Okay, okay, that's totally fine. We're going through this together, okay? That's totally fine. First of all, [STUDENT_NAME], can you just tell me how to find the area of a square? [unclear]",00:13:48
+drvapaj,106,student,I did 4 divided by 8.,00:14:01
+drvapaj,107,tutor,"Yeah, that's how we found out the length of one side, right? So we know now length of one side, that is, we found it as 20 centimeters. Yeah, yeah. And, um, [STUDENT_NAME], what should be the— how to find the area of a square now? What should be the— what do we do when you need to find out the area of a square? [unclear]",00:14:05
+drvapaj,108,student,"Oh, you times them all together?",00:14:38
+drvapaj,109,tutor,"Yeah, we— what do we times, um, [STUDENT_NAME]? [unclear]",00:14:42
+drvapaj,110,tutor,And 7 by 26.,00:14:48
+drvapaj,111,student,"And then before we do 7 by 20, we may need to do and find out the area of a square. Okay, so as you know, [STUDENT_NAME], if we find the area of a square by doing length, length times length, right? That's how you find the area of a square, right?",00:14:51
+drvapaj,112,student,"Oh, so it is 20 times 20.",00:15:11
+drvapaj,113,tutor,"Exactly, that would be the area of one square, [STUDENT_NAME]. Okay, can you please tell me what would be the area of one square now?",00:15:14
+drvapaj,114,student,Is it... is it [UNCLEAR]?,00:15:25
+drvapaj,115,tutor,"Definitely yes, that's the area of one square. But [STUDENT_NAME], you can see now there are 7 squares altogether. So now what could be the area of all those 7 squares?",00:15:25
+drvapaj,116,student,[unclear] 400 by 7.,00:15:47
+drvapaj,117,tutor,"Definitely, yes, that's how you do it. Okay, now can you please tell me the final answer now?",00:15:50
+drvapaj,118,student,"2,800.",00:15:59
+drvapaj,119,tutor,"Very good job. And can you please write your answer over here now, [STUDENT_NAME]?",00:16:02
+drvapaj,120,student,Yeah.,00:16:08
+drvapaj,121,tutor,"Okay. You can type as well, [STUDENT_NAME]. Okay, I can just check. Yeah, whatever. Yeah, yeah, okay, which is easy for you. Yeah, yeah. And now, is it clear for you, [STUDENT_NAME]?",00:16:10
+drvapaj,122,student,Yeah.,00:16:28
+drvapaj,123,tutor,Great. So can you please tell me from the beginning How have you found the area of this diagram over here now?,00:16:30
+drvapaj,124,student,"Like, so first I did 4 divided by [unclear] 80, which is 20. Then I did 20 times 20, which is 400. But then there's— you find all the squares, and there's only 7 squares, so times 400 by 7. And then I got 2,800.",00:16:37
+drvapaj,125,tutor,"Okay, that was nicely explained, [STUDENT_NAME]. And also, can you please tell me why do we do 80 divided by 4?",00:17:06
+drvapaj,126,student,Because the length is 80 centimetres and it stops on the [unclear]...bottom line.,00:17:16
+drvapaj,127,tutor,"Okay, yeah, definitely. As if you need to find out the one side length, you should divide that 80 by 4. And then why did you do 20 times 20, [STUDENT_NAME]?",00:17:31
+drvapaj,128,student,I didn't.,00:17:43
+drvapaj,129,tutor,What did you— why did you do 20 times 20?,00:17:45
+drvapaj,130,student,"Um, I did 20 times 20 because",00:17:50
+drvapaj,131,student,The length of one side is 26.,00:17:55
+drvapaj,132,tutor,"Yeah, that means you found the area of the square, right? And then why did you multiply it by 7? [unclear]",00:18:02
+drvapaj,133,student,I did times 400 by 7.,00:18:12
+drvapaj,134,tutor,"Yeah, why did you times 400 by 7? [unclear]",00:18:17
+drvapaj,135,tutor,Why did you type 400 by 7?,00:18:23
+drvapaj,136,student,"Because it's 7 squares and we need to find, um, all the area of all the squares.",00:18:27
+drvapaj,137,tutor,"Nicely done! Very good explanation over there, [STUDENT_NAME]. Fantastic work over there. And that's how we do it. So is it clear for you now?",00:18:33
+drvapaj,138,background,"Yeah. Good, good job, good job. But we have to find out more. That means we need to find out the perimeter as well. So can you follow the same thing and find the perimeter of this diagram over here now, [STUDENT_NAME]?",00:18:44
+drvapaj,139,student,"Um, the perimeter, um, I would do [unclear]",00:18:59
+drvapaj,140,student,"So there's 1, 2, 7 squares and [unclear]",00:19:12
+drvapaj,141,student,"So, the denominators have the same thing, so we would times that by 3, which would give us 9, and then times 2 by 3 also. [unclear]",00:19:41
+drvapaj,142,tutor,"Okay, okay, that's totally fine, that's totally fine. So, [STUDENT_NAME], Now can you please tell me, how will you find the perimeter of a diagram or anything of any [UNCLEAR]? What do we do?",00:19:59
+drvapaj,143,student,We add them all together.,00:19:59
+drvapaj,144,tutor,"Yes, you are adding all of these lengths all together, right? So in this diagram, how many lengths you have, [STUDENT_NAME]?",00:20:16
+drvapaj,145,student,"2,800.",00:20:33
+drvapaj,146,tutor,"No, that's the area. Okay, so I'm asking how many sides you have. This one. [unclear]",00:20:34
+drvapaj,147,student,80.,00:20:46
+drvapaj,148,tutor,"Okay, um, 80 centimeters is the length of this one here, [STUDENT_NAME]. Okay, I'm asking how many sides we have. For an example, Here we have one side, right? So here we have one, here we have two, here we have three, four, five. Likewise, how many sides do we have here, [STUDENT_NAME]? [unclear]",00:20:48
+drvapaj,149,student,"Okay, um, 16. Very good job! There are 16 sides over there. And in one side, what should be the length of one side?",00:21:10
+drvapaj,150,student,16 centimeters?,00:21:10
+drvapaj,151,tutor,"Actually, 16 is the number of sides you have, [STUDENT_NAME]. Okay? [unclear] Write this down like this, like in your paper or something. You can write like this. Number of sides you have, okay, that is 16. Okay, [STUDENT_NAME], and I'm asking what will be the length of one side? We found it earlier as well, right? Length of one side. [unclear]",00:21:10
+drvapaj,152,tutor,"Now, when you divided something and you found the answer earlier,",00:22:12
+drvapaj,153,tutor,"[STUDENT_NAME], when you found the area, the length of one side, you divided something earlier at the beginning? Yeah?",00:22:17
+drvapaj,154,student,I [unclear] divided 18 by 4.,00:22:34
+drvapaj,155,tutor,Uh-huh. Good. What's this set?,00:22:38
+drvapaj,156,tutor,"Yeah, so what does the answer you got, [STUDENT_NAME]? [unclear]",00:22:48
+drvapaj,157,student,"So, [UNCLEAR]. [unclear]",00:22:53
+drvapaj,158,tutor,Times 80 by 80.,00:23:14
+drvapaj,159,student,"Um, actually, um, you got earlier that length of one side is 20 centimeters, right? You got that earlier when you were finding the area. Yeah, so we know now length of this one side is 20 centimeters. Okay, now we know the length of one side is 20 centimeters. If one side is 20 centimeters and if you are finding out the perimeter of 16 sides, what should you do now?",00:23:21
+drvapaj,160,student,Times 20 by 16.,00:23:50
+drvapaj,161,tutor,Very good. So what could be the answer now?,00:23:53
+drvapaj,162,student,"So 20 times 16 equals— it is, um, is it, um, 322?",00:23:58
+drvapaj,163,tutor,Very good job. Can you please write that answer over here now? [unclear],00:24:18
+drvapaj,164,tutor,"Very good job, [STUDENT_NAME]. So when you're finding the perimeter, what you are doing is you are adding all of these sides all together, right? Because you are finding the total length. So this is 20, this is 20, this side is 20. Likewise, we have 16 sides, right, [STUDENT_NAME]? And then you can simply find it out by doing 16 at the same time to empty. Okay? So is it clear for you now, [STUDENT_NAME]?",00:24:29
+drvapaj,165,student,Yeah.,00:25:00
+drvapaj,166,background,I still don't really get it.,00:25:03
+drvapaj,167,tutor,"Tell me, [STUDENT_NAME], is it clear for you now?",00:25:05
+drvapaj,168,background,Pardon?,00:25:08
+drvapaj,169,student,I still don't really get it.,00:25:09
+drvapaj,170,background,"You didn't get it? Yeah, if it's confusing for you, [STUDENT_NAME],",00:25:13
+drvapaj,171,student,Yeah.,00:25:23
+drvapaj,172,tutor,"Okay, okay, that's totally fine. So did you get how we got here 20 centimeters? So like, how are you— are you okay with getting 20 centimeters over here, [STUDENT_NAME]? [unclear] So when we were finding the area earlier, Right, we found out that one side has a length of 20 centimeters. Yes, [STUDENT_NAME]? [unclear] That means we found it by looking at this one here, because we discussed earlier that here in this 80 centimeters means, [STUDENT_NAME], we have in 80 centimeters we have 1, 2, 3, 4 sides. Right, also this 8 centimeters is the length of 4 sides. Yeah, is this clear for you? [unclear]",00:25:23
+drvapaj,173,student,"So yeah, so 8 centimeters is the length of 4 sides. So if you need to find out the length of one side, That's why you did 80 divided by 4 and you got it— got the answer as 20. Is it clear for you now?",00:26:30
+drvapaj,174,student,Thank you. [unclear],00:26:53
+drvapaj,175,tutor,"So 80 divided by 4 is 20, and then, and then what do you do?",00:26:57
+drvapaj,176,tutor,"Yes, and then what do you do?",00:27:07
+drvapaj,177,student,"Exactly. So now we found out the length of one side, that is 20 centimeters. Okay, and [STUDENT_NAME], you know, if you're finding the perimeter, that means you are adding all the lengths together, right? So here, are you— for example, if you take a square— if you take a rectangle here, [STUDENT_NAME], okay, if you take a rectangle here, and if you know that the length of this side is 8 centimeters and this side is 2 centimeters. So how do you find the perimeter of this rectangle, [STUDENT_NAME]? [unclear]",00:27:09
+drvapaj,178,student,Is it 22?,00:27:49
+drvapaj,179,tutor,"Yeah, how do you know that?",00:27:57
+drvapaj,180,student,Because I added all the sides.,00:27:59
+drvapaj,181,tutor,"Yeah, that's what you do. You have added all of these sides together, right? So here also, [STUDENT_NAME], even though this is not a rectangle or this is a square, but you have sides, right? So here, if I show you here another color, let me [unclear] green color now. So you have here, here you have one side, here you have another side, here you have another side. Here you have another side and another length and another length and another one and another one. Likewise, how many sides do you have? [unclear]",00:28:02
+drvapaj,182,tutor,5 altogether.,00:28:39
+drvapaj,183,student,Or 16.,00:28:42
+drvapaj,184,tutor,"Yes, we have exactly— you have 16 sides. Okay, so now you can see, since we have 16 sides altogether and one side is 20 centimeters. If you need to find out the perimeter, you can simply do 16 times 20.",00:28:43
+drvapaj,185,tutor,Okay.,00:29:03
+drvapaj,186,student,"Because if you want to find the perimeter, you can also do like adding 20, 20 altogether, like 20 and 20 and 20 and 20. Likewise, you can do 16 times, but it is much easier for you to do 16 times 20. Directly and then get your answer. Okay, clear for you now?",00:29:04
+drvapaj,187,student,Yeah.,00:29:28
+drvapaj,188,tutor,"Okay, nice. And all right, so here our perimeter was 320 centimeters. Okay, that's the 320.",00:29:30
+drvapaj,189,student,Yeah. [unclear],00:29:38
+drvapaj,190,tutor,"That would be 320. So if it's clear for you now, [STUDENT_NAME],",00:29:40
+drvapaj,191,student,Yeah.,00:29:52
+drvapaj,192,tutor,Is it clear for you now? [unclear] Is it clear for you now?,00:29:54
+drvapaj,193,student,"Yeah. Oh, I didn't know I put [UNCLEAR].",00:30:03
+drvapaj,194,tutor,"Okay, great. So yeah. Oh, okay, that's the way to find it. Absolutely fine. So yeah, that's how we do this now, um, but I really, really appreciate because you asked me questions and you engaged with this a lot, so I totally appreciate that, and that's again a very, very good effort. Okay, very nice work. So [STUDENT_NAME], can you please tell me two things you learned in this [unclear] over here now?",00:30:03
+drvapaj,195,student,"Say that again, sorry.",00:30:35
+drvapaj,196,tutor,It is totally fine.,00:30:37
+drvapaj,197,tutor,Can you please tell me two important things you learned in this slide?,00:30:39
+drvapaj,198,student,We've learned how to do area and perimeter and what we need to do.,00:30:46
+drvapaj,199,tutor,"Yeah, okay. One more?",00:30:53
+drvapaj,200,student,We've learned the numbers of sides and the [unclear] of one side.,00:31:02
+drvapaj,201,student,Yes.,00:31:12
+drvapaj,202,tutor,"Okay, that's a very good job. Okay, [STUDENT_NAME], so with that we have done this lesson as well. So fantastic work over there, and I again appreciate your great, great effort and your great explanations and everything. That's again a very good effort. Keep it up. Okay, nice work. Okay, [STUDENT_NAME], so with that we have done— yeah, [unclear] so we have done this lesson as well. So we'll move on to another new lesson and see But we have got there. Alrighty. Okay. So, yeah. Now, [STUDENT_NAME], can you see this slide over here now?",00:31:13
+drvapaj,203,student,Solving problems involving [UNCLEAR] between metric measures.,00:31:13
+drvapaj,204,tutor,"Yes, okay. Now, [STUDENT_NAME], before we try the question here, can you please tell me what do you know about conversion or converting something? What do you know about that? [unclear]",00:32:07
+drvapaj,205,student,"Sorry, you keep glitching. What are you saying?",00:32:26
+drvapaj,206,student,"Oh yeah, it's totally fine. Can you hear me now?",00:32:31
+drvapaj,207,tutor,"Uh, yeah.",00:32:34
+drvapaj,208,student,"Okay, nice. So I was asking, like, um, what do you know about conversions or converting something? What do you know about them? Is it where you, um,",00:32:37
+drvapaj,209,student,"Is it where you, like, um... Is it like, uh... [unclear]",00:32:54
+drvapaj,210,tutor,"Okay, all right. So we can say like that as well. But what about converting grams into kilograms, converting meters into centimeters? Yeah, have you done those in your school before?",00:33:23
+drvapaj,211,student,No. [unclear],00:33:40
+drvapaj,212,tutor,"Oh, cute. That's totally fine, that's totally fine. Then we can learn about those conversions as well, [STUDENT_NAME].",00:33:42
+drvapaj,213,tutor,"So first of all, can you please read the question over here now?",00:33:49
+drvapaj,214,student,Jack has two [unclear] parcels.,00:33:54
+drvapaj,215,tutor,"Parcels, yes.",00:34:02
+drvapaj,216,student,Jack has two parcels. One parcel weighs 250 grams. The other parcel weighs 1.2 kilograms. Calculate the weight of the parcels all together.,00:34:05
+drvapaj,217,tutor,"Yes. So how can you find the answer now, [STUDENT_NAME]?",00:34:21
+drvapaj,218,student,"So what you do, because [unclear]",00:34:29
+drvapaj,219,tutor,Would it be... [unclear],00:34:43
+drvapaj,220,student,So...,00:34:54
+drvapaj,221,tutor,"How would you— would you put them like, for example, [unclear] and then would you put one here and then Would you see that? No, no, no. Okay, okay, that's a very good effort over there, [STUDENT_NAME]. And you can see here in our question, they have given one is given in grams and the other one is given in kilograms. Can you see that?",00:35:09
+drvapaj,222,student,[unclear],00:35:48
+drvapaj,223,tutor,"Yeah, we may need to have both of them into one unit, maybe into grams or maybe into kilograms. Okay.",00:35:50
+drvapaj,224,tutor,"When you do, your answer would be very as well, okay, and that's totally fine, that's totally fine. And [STUDENT_NAME], can you try this question here as well? [unclear]",00:35:58
+drvapaj,225,student,"What, uh, so",00:36:20
+drvapaj,226,student,650 grams into kilograms. So would that— so would it be— [unclear] How would you put— grams into kilograms. [unclear],00:36:25
+drvapaj,227,tutor,"Yeah, so when you do that, you are usually dividing by 1,000. Okay, yeah, that's totally fine. So we are going to learn about everything in today's lesson. So that was a very good effort, and I really, really appreciate your great reading and your effort as well. Very nice work. Okay, now [STUDENT_NAME] will go and see what we have to do with the next slide. So we'll go to that one. Here we have the prior learning slide. So before we go to any of these questions, can you please read this sentence over here now?",00:36:56
+drvapaj,228,student,"Before solving problems involving metric measures, let's remind ourselves of key units, [unclear] conversions.",00:37:29
+drvapaj,229,tutor,"Yeah, conversions. Very good job, [STUDENT_NAME]. So now we are going to— before we solve any questions— yeah, everything is— everything fine? [unclear] Yeah, is everything okay? Oh yeah, okay, nice. Okay, so before we dive into any of the questions We are going to check on the unit conversions we know. Okay, for example, can you please read this one over here now?",00:37:46
+drvapaj,230,student,"One kilometer equals 1,000 meters.",00:38:19
+drvapaj,231,tutor,"Yes, so can you see, [STUDENT_NAME], we say one kilometer is equals to 1,000 meters. Okay, and what about the next one here?",00:38:24
+drvapaj,232,student,One metre equals 100 centimetres.,00:38:37
+drvapaj,233,tutor,"Yeah, so that's all something we know, that is one metre equals 100 centimetres. What about this one over here now?",00:38:43
+drvapaj,234,student,One centimetre equals 10 millimetres.,00:38:53
+drvapaj,235,tutor,Millimeters. Exactly. [unclear] 10 millimeters. What about the other one here?,00:39:02
+drvapaj,236,student,"1 liter equals 1,000 milliliters.",00:39:09
+drvapaj,237,tutor,Very good job. And the next one?,00:39:13
+drvapaj,238,student,"1 kilogram equals to 1,000 grams.",00:39:18
+drvapaj,239,tutor,Yeah. And the next one?,00:39:24
+drvapaj,240,student,"Um, one pound equals 100 pence.",00:39:27
+drvapaj,241,tutor,"Yeah, we say 100 pence. Exactly, very good job. And those are some of the conversions we know. So have you ever learned about these in your school before, [STUDENT_NAME]?",00:39:32
+drvapaj,242,student,"Uh, yeah.",00:39:43
+drvapaj,243,tutor,"Okay, nice. And then, [STUDENT_NAME], we are— uh, now we are going to use these ones in your questions over here now. Okay, but now I'd like to [UNCLEAR]. Can you please read question A over here? What they have given over here now.",00:39:45
+drvapaj,244,student,"A, 1 meter equals 100 centimeters. 1.4 meters equals 400 centimeters.",00:39:45
+drvapaj,245,tutor,"Yeah, very good job. How do you know that, [STUDENT_NAME]?",00:40:12
+drvapaj,246,student,Because that's 1,00:40:17
+drvapaj,247,student,"meter and then one, and then it has a one at the front and there's a one there, so that's why I thought it would be 400.",00:40:17
+drvapaj,248,tutor,"Yeah, very good, [STUDENT_NAME]. And what about the other one here, [STUDENT_NAME], B, part B?",00:40:17
+drvapaj,249,student,8?,00:40:17
+drvapaj,250,tutor,How do you know that?,00:40:17
+drvapaj,251,student,"Because if you do, because one kilogram is 1,000 and then that's 8,000, so [UNCLEAR].",00:40:42
+drvapaj,252,tutor,So it will just be 8.,00:40:47
+drvapaj,253,student,"Very good job, [STUDENT_NAME]. Exactly, that's how we do. And now we have 2 more questions to go with. Can you please do Part C over here as well?",00:40:51
+drvapaj,254,tutor,Yeah. [unclear],00:41:02
+drvapaj,255,tutor,"Yes, [STUDENT_NAME]. So have you put a decimal point here? Or is it a comma?",00:41:16
+drvapaj,256,student,"Ah, decimal point. Ah, no, there's no decimal point.",00:41:22
+drvapaj,257,tutor,"When you are converting it, same way. Yeah, okay, nice, good job. So how did you— how do you know this would be 3,500 meters?",00:41:27
+drvapaj,258,student,"Because it says 3.5 and there's zero [unclear] missing because in one kilogram it would be 1,000 but it's 3.5 so I thought it would be 3.5 but it's just 3 and then 5 because there's 3 zeros",00:41:43
+drvapaj,259,student,"Because there's 3 zeros in 1 kilogram, but there's 35, so you've got to basically just take out 1 zero and swap it for a 5.",00:42:08
+drvapaj,260,tutor,"Yeah, very good job. Fantastic work, [STUDENT_NAME]. And what about Part D over here now? [unclear]",00:42:18
+drvapaj,261,tutor,I think— [unclear],00:42:31
+drvapaj,262,student,Hello?,00:42:46
+drvapaj,263,tutor,"Is this your final— yeah, is this your final answer?",00:42:47
+drvapaj,264,student,Yeah.,00:42:54
+drvapaj,265,tutor,"Okay, okay. And why do you think it should be 25 litres?",00:42:57
+drvapaj,266,student,"Because 1 litre is 1,000, and then, but 2,500 is basically the opposite, so I did 25. Okay, and also [STUDENT_NAME], can you try to convert 25 liters into milliliters? Don't look at this one here, okay? Don't look at this one. Without looking at this one, can you convert 25 liters into milliliters? [unclear]",00:43:06
+drvapaj,267,student,to help us.,00:43:06
+drvapaj,268,student,"We know that 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. [unclear]",00:43:48
+drvapaj,269,tutor,"Okay, let's actually— our time is running so fast, so we can do the rest of the questions in our next session, okay?",00:44:03
+drvapaj,270,tutor,"So then we can discuss about this part D as well, okay? Yeah, all right, [STUDENT_NAME]. So can you please tell me, what did you learn in this lesson today?",00:44:13
+drvapaj,271,student,"I learned how to, um, which goes in which, because normally I would like really struggle. Like for example, um, 1 kilogram is 1,000 meters, and I wouldn't [unclear] that.",00:44:23
+drvapaj,272,tutor,"1,000 grams, yeah. Okay, okay, that's totally fine. So when you— if you know these conversions, then we can like kindly, you can like simply convert those into these meters and kilometers as well. Yeah, so you may, you may need to have a good idea about these conversion tasks. That's totally fine. But in today's lesson, you did a very good job and you showed me very good skills.",00:44:34
+drvapaj,273,student,Thank you.,00:44:58
+drvapaj,274,tutor,"Very good job. Okay, fantastic effort. So time has ended now, so I'm going to end the session. So have a very great day. Bye-bye.",00:45:00
+drvapaj,275,student,You too. You too. Bye.,00:45:07
+drvapaj,276,tutor,Bye.,00:45:09
+drvapaj,277,student,Thank you.,00:45:10
+drvapaj,278,tutor,Bye-bye.,00:45:10
+drvapaj,279,student,Thank you. Bye.,00:45:11

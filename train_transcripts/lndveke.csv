@@ -1,0 +1,354 @@
+session_id,utterance_id,role,content,timestamp
+lndveke,0,tutor,Hello?,00:00:00
+lndveke,1,background,[unclear],00:00:00
+lndveke,2,student,"Hello, this is [STUDENT_NAME].",00:00:01
+lndveke,3,tutor,"Hi [STUDENT_NAME], how are you?",00:00:04
+lndveke,4,student,"I'm good, thank you.",00:00:07
+lndveke,5,tutor,"I'm doing great, [UNCLEAR]. Thank you for asking. So [STUDENT_NAME], this is your first session with Third Space, isn't it?",00:00:09
+lndveke,6,student,Yes.,00:00:16
+lndveke,7,tutor,"Alright, so how are you feeling about this?",00:00:17
+lndveke,8,student,Pretty excited.,00:00:20
+lndveke,9,tutor,"Okay, that's great. Alright [STUDENT_NAME], so welcome to Third Space. First let me take you through what makes learning with Third Space so special. So do you know what we'll be doing here, [STUDENT_NAME]?",00:00:22
+lndveke,10,student,Pardon?,00:00:35
+lndveke,11,tutor,Do you know what we'll be doing here?,00:00:36
+lndveke,12,student,Maths?,00:00:39
+lndveke,13,tutor,"That's right. So we'll be— I'll be taking you through some maths lessons that you feel less confident on. So this is a one-on-one session. [STUDENT_NAME], are you aware of it?",00:00:40
+lndveke,14,student,OK.,00:00:51
+lndveke,15,tutor,"Yes. So it will just be you and me. This will be a very friendly session, [STUDENT_NAME]. So we'll be going through maths lessons. Together. So any questions you have, any doubt you have on this lesson, please feel free to ask me. So we'll be [unclear] questions and quizzes on lessons. So this will be a pretty fun session, [STUDENT_NAME]. So yeah, are we all good about that?",00:00:52
+lndveke,16,student,Okay.,00:01:22
+lndveke,17,tutor,"All right. And also, [STUDENT_NAME], Since this is an online platform, you get to interact on the slide. So you have to type on it, you have to draw on it, you have to point on it. So are you aware of the small icons at the bottom? Have you got time to interact with this platform before? No, or is it your first time?",00:01:23
+lndveke,18,student,Pardon?,00:01:46
+lndveke,19,tutor,"Have you got the time or did you get the opportunity to try out the icons on this page? On how to interact on the slides, how to use the tools? Have you had a chance?",00:01:47
+lndveke,20,student,"You've got like colours, points, symbols, text shapes at the very bottom.",00:01:59
+lndveke,21,tutor,"That's right. So this is your first time with this, right?",00:02:05
+lndveke,22,student,Mm-hmm.,00:02:08
+lndveke,23,tutor,"Yeah. So you could use all of these to interact on the slide, [STUDENT_NAME], throughout the session. So can you see my pointer with my name on it?",00:02:09
+lndveke,24,student,Yes.,00:02:17
+lndveke,25,tutor,"That's right. You do have a pointer with your name on it. If you click on the point icon, you get a green [unclear] with your name on it. Shall we click on it? There you go. Okay. Whenever you want to point anything on the slide, you could use that and point at it. So that will be very clear for me as well. Are we good there?",00:02:17
+lndveke,26,student,Yep.,00:02:40
+lndveke,27,tutor,"Great. So now, shall we use the text tool to type your name on this, [STUDENT_NAME]?",00:02:41
+lndveke,28,tutor,Yes.,00:02:46
+lndveke,29,student,All right. [unclear],00:02:47
+lndveke,30,tutor,Okay.,00:02:53
+lndveke,31,student,"Wait, why is that so big?",00:02:57
+lndveke,32,tutor,"So that's the font we'll be using throughout the session, [STUDENT_NAME]. It will come this big. That's all right. Just to be easy for us to notice, okay?",00:03:01
+lndveke,33,student,Yeah.,00:03:12
+lndveke,34,tutor,"Okay, great. Good start to the session, [STUDENT_NAME]. Great job. And also, I'm sorry I couldn't introduce myself. So my name is [TUTOR_NAME], and I'll be your tutor. All right?",00:03:13
+lndveke,35,student,Okay. Yes.,00:03:22
+lndveke,36,tutor,"Okay, great. So before we move on to our lesson, [STUDENT_NAME], I'd like to remind you on a few points. So as you are aware, this is a 45-minute session, isn't it?",00:03:23
+lndveke,37,student,"Yes. Yes, it's very— [unclear]",00:03:34
+lndveke,38,tutor,"It's important that we turn up on time, just like you did today, so good job on that. As always, try to turn up on time and make the best out of this limited session we have. And also [STUDENT_NAME], trying your best, so it's perfectly alright to make mistakes. Since we are here to learn, it's totally alright to make mistakes, and mistakes is how we learn, don't we?",00:03:37
+lndveke,39,student,Yes.,00:03:59
+lndveke,40,tutor,"Yes, so it's better to do mistakes on the lesson, on the session, rather than making it on the exam. Okay?",00:04:00
+lndveke,41,student,Okay.,00:04:09
+lndveke,42,tutor,"Yeah, so you're free to make mistakes. What's important is you're trying your best, you're giving out your maximum effort on the questions and trying to complete them on your own. So whenever you come across a doubt or a mistake, I will take you through it and let's get out of it. Okay?",00:04:10
+lndveke,43,student,Okay.,00:04:25
+lndveke,44,tutor,"Great. Alright, so that's it from my end for the introduction, [STUDENT_NAME]. Do you have any questions for me?",00:04:25
+lndveke,45,student,[unclear],00:04:34
+lndveke,46,tutor,"Okay, so if you do have any questions while we are on the session, please don't hesitate to ask me.",00:04:34
+lndveke,47,student,I will do that.,00:04:39
+lndveke,48,tutor,"Great. Alright, so [STUDENT_NAME], let us move on to our first lesson on the session. Alright, so here you have it. Could you read the topic, [STUDENT_NAME]?",00:04:41
+lndveke,49,student,Grouping and Counting Intents.,00:04:52
+lndveke,50,tutor,"That's right. So today we'll be going through grouping and counting intents, [STUDENT_NAME]. So what do you know about grouping and counting in tens?",00:04:55
+lndveke,51,student,So we count in tens.,00:05:04
+lndveke,52,tutor,So how confident are you in counting in tens?,00:05:09
+lndveke,53,student,A bit. Not a bit. I'm in the middle.,00:05:14
+lndveke,54,tutor,"Okay, alright. Okay, [STUDENT_NAME]. So with that knowledge, shall we give you a try on the learning [unclear] question here? So you could read the question and Put your answer over here.",00:05:18
+lndveke,55,student,[unclear],00:05:27
+lndveke,56,tutor,Okay. Make sure I did the top 5 points. [unclear],00:05:30
+lndveke,57,student,[unclear],00:05:30
+lndveke,58,tutor,"I write the answer in. Yes, you could tap it over here. [unclear]",00:05:40
+lndveke,59,tutor,"Good job. Well done, [STUDENT_NAME]. [STUDENT_NAME], could you take me through how you counted this paper? Did you count them each one by one or did you count them in tens?",00:06:02
+lndveke,60,student,"So I, on the first one, I counted one line in the one. And then I knew the other one was 10, so that would be 20. And then there was 5 on the bottom row, so that would be 25.",00:06:13
+lndveke,61,tutor,"Excellent job. That's correct. Great work here, [STUDENT_NAME], and trying to use counting in tens over here. Good job there.",00:06:25
+lndveke,62,student,Okay. Thank you.,00:06:33
+lndveke,63,tutor,"That's a great start to the lesson. So now let's try out more questions. [unclear] On this lesson, As you know, we'll be counting in tens, [STUDENT_NAME], so let's try to make use of that knowledge to answer these questions, shall we?",00:06:35
+lndveke,64,student,Yes.,00:06:53
+lndveke,65,tutor,Okay.,00:06:54
+lndveke,66,student,There were 10 cookies in each jar. How many cookies were there altogether? 10? [unclear] [unclear],00:06:56
+lndveke,67,student,"So, shall I write the answer in?",00:07:16
+lndveke,68,tutor,"Yes, please.",00:07:18
+lndveke,69,student,Okay.,00:07:27
+lndveke,70,tutor,"Yeah, are we all good, [STUDENT_NAME]?",00:07:31
+lndveke,71,student,I'm just writing it in now. Okay.,00:07:33
+lndveke,72,student,Yes.,00:07:42
+lndveke,73,tutor,"Excellent job. That's 100 there. All right, let's keep going, [STUDENT_NAME].",00:07:42
+lndveke,74,student,"Okay. So how many beads are on the string? So how many red ones? 1, 2, 3, 4, 5. [unclear]",00:07:50
+lndveke,75,tutor,What?,00:08:20
+lndveke,76,student,"Okay, so going to the next. [unclear]",00:08:20
+lndveke,77,tutor,"[STUDENT_NAME], sorry to interrupt. So shall we recheck our answer there?",00:08:36
+lndveke,78,student,Pardon?,00:08:41
+lndveke,79,tutor,Shall we recheck our answer on Part B?,00:08:42
+lndveke,80,student,Okay. So I'll just recheck it. [unclear],00:08:45
+lndveke,81,student,` [unclear],00:08:53
+lndveke,82,student,` [unclear],00:09:08
+lndveke,83,tutor,Pardon?,00:09:26
+lndveke,84,student,Should I text the right answer in?,00:09:27
+lndveke,85,tutor,"Yes. So what's the answer, [STUDENT_NAME]? Did we get it right this time?",00:09:30
+lndveke,86,student,No.,00:09:35
+lndveke,87,tutor,"That's right. So you could use the erase tool and take this off, [STUDENT_NAME], and then once again use the text tool to type it back in. [unclear] I don't know if this is 5, but I think it's 5.",00:09:36
+lndveke,88,tutor,"Okay, so what's our new answer?",00:09:53
+lndveke,89,student,26.,00:09:56
+lndveke,90,tutor,That's correct. It'll be 26.,00:09:58
+lndveke,91,background,Okay.,00:10:01
+lndveke,92,tutor,"Okay. And also, [STUDENT_NAME], I noticed that you counted each of these one by one.",00:10:02
+lndveke,93,student,Yes.,00:10:09
+lndveke,94,tutor,"So how could we apply counting in tens over here? Wait. There's 10 on one red string, and like on the red bit. But let me put my pointer on and I'll show you. There's 10 bits here, and then there's 10 bits here, but there's only 5, wait, 6 bits here. So I could have counted it like that.",00:10:10
+lndveke,95,tutor,"That's correct, [STUDENT_NAME]. Good job.",00:10:38
+lndveke,96,tutor,"Well done, realising it on your own. That's some excellent effort there.",00:10:41
+lndveke,97,student,That's right.,00:10:46
+lndveke,98,tutor,I think it was confusing because they were in different colours.,00:10:47
+lndveke,99,student,"Yeah, and it's also really hard because like, it's like hard to like actually count properly.",00:10:51
+lndveke,100,tutor,"That's right, they're all together, aren't they?",00:10:56
+lndveke,101,student,"Yeah, and it's hard on the computer because you've got to like— yeah. [unclear]",00:10:59
+lndveke,102,tutor,That's really understandable.,00:11:06
+lndveke,103,student,"That is safe. Yes, please, you could go to sleep. [unclear]",00:11:08
+lndveke,104,student,"Can I put my colour thing on just to, like, mark it?",00:11:18
+lndveke,105,tutor,"Yeah, sure, [STUDENT_NAME].",00:11:21
+lndveke,106,student,"Thank you. I do not know how to do this. Oh, there. How do you draw on these? So you could just [UNCLEAR].",00:11:24
+lndveke,107,tutor,I can't draw.,00:11:46
+lndveke,108,student,How do I draw on it? Because I want to put 20 up there.,00:11:50
+lndveke,109,tutor,"Oh, okay. So you want to— is it like you want to— Do something like this and then show how much it is?",00:11:53
+lndveke,110,tutor,"Yeah, kind of like that and just put the number 20 up here. Oh, where's my pointer gone? Up here.",00:12:05
+lndveke,111,student,"So to type in 20, you could use the text tool, [STUDENT_NAME]. I think that's more convenient rather than the draw tool.",00:12:13
+lndveke,112,tutor,Okay.,00:12:20
+lndveke,113,student,Mm-hmm.,00:12:21
+lndveke,114,tutor,"Okay. Is it going to be this number? [unclear] Okay. So shall we start counting once again, [STUDENT_NAME]? So we have a 10 here. So if you start counting from—",00:12:28
+lndveke,115,student,It's 34.,00:12:48
+lndveke,116,tutor,"That's right, it's 34 because we have 3 tens.",00:12:50
+lndveke,117,tutor,Yeah.,00:12:54
+lndveke,118,background,That's like 230. Good job.,00:12:55
+lndveke,119,student,[unclear],00:12:57
+lndveke,120,tutor,"Also let me know if you want any help with the tools, [STUDENT_NAME]. All right?",00:13:00
+lndveke,121,student,Okay.,00:13:14
+lndveke,122,tutor,Okay. [unclear] So are these answers right?,00:13:15
+lndveke,123,tutor,"That's correct. So how we change the answer over here, [STUDENT_NAME]? It still shows me 24. Have you changed it to 34?",00:13:29
+lndveke,124,student,"Oh, I need to do this now. So go into tax, yeah.",00:13:40
+lndveke,125,tutor,"Mm-hmm. Okay, good job there, that's correct. We also forgot something over here, [STUDENT_NAME]. Since we're working with money here, how can we write a complete answer over here?",00:13:46
+lndveke,126,student,"Oh, we need to put the money sign on it, 34p.",00:14:02
+lndveke,127,tutor,"That's correct, it's 34p.",00:14:06
+lndveke,128,student,"Okay, let me just do that then.",00:14:07
+lndveke,129,tutor,"Okay. [unclear] Good job. Thank you, [STUDENT_NAME]. Great work. Yes, you've got all the questions correct. So [STUDENT_NAME], what's important is another point. Important is that we have to always recheck our answers because we might know the method. We might be using the correct method. But due to some calculation errors, we might get our answer wrong. Do you agree with me on that?",00:14:11
+lndveke,130,student,Yes.,00:14:44
+lndveke,131,tutor,"Yes, it's very important that we recheck our answers so we don't get them wrong. Anyways, excellent job over here, [STUDENT_NAME]. I really appreciate your awesome effort. Good job. [unclear] Okay, so now let's move on to one more question on this.",00:14:45
+lndveke,132,background,Bye. [unclear],00:15:02
+lndveke,133,tutor,"Good job. That was pretty easy, wasn't it, [STUDENT_NAME]?",00:15:11
+lndveke,134,tutor,"Great work. So all of these will cost 36 pennies. Well done. Alright, [STUDENT_NAME], so that was grouping and counting in tens. So was there anything new we learnt out of this, or was it more like refreshing your mind on what you already knew?",00:15:30
+lndveke,135,student,It was like [unclear] my mind a bit and see like what it means a bit more.,00:15:48
+lndveke,136,tutor,"Good job. That's right, [STUDENT_NAME]. So fantastic job with the questions. So now that will be all from this lesson. Let me take you to lesson number 2. All right. Okay, [STUDENT_NAME]. So this will be our second lesson for the day. Shall we start by reading the topic, please?",00:15:55
+lndveke,137,student,[unclear] Making 2-digit numbers in a place value chart.,00:16:16
+lndveke,138,tutor,"That's correct. So [STUDENT_NAME], what is a place value chart?",00:16:23
+lndveke,139,student,"So basically there's two types of place values. Actually, there might be three, I don't know. I think two. So we have them— just get my pointer out.",00:16:27
+lndveke,140,tutor,OK.,00:16:39
+lndveke,141,student,"One is one of these to help you work out a bit more. Like you could go 1, 2, 3, 1, 2, 3, 4.",00:16:40
+lndveke,142,student,"And these are also a different kind of one. Isn't a place value chart another one, like when you can count up numbers?",00:16:48
+lndveke,143,tutor,"Mm-hmm, that's right. Really appreciate your explanation there, [STUDENT_NAME]. So yeah, in a way, place value chart is basically used to show the place value of a number. So when we have a number, there are digits on it. So it will separately show us which number, which digit goes to the ones column, which digit goes to the tens column, and so on.",00:16:56
+lndveke,144,tutor,[unclear],00:17:22
+lndveke,145,student,"That's right. Okay, so now with that knowledge, could you give a try on the learning goal question, please?",00:17:23
+lndveke,146,tutor,Write the number to show the place value chart. So that's going to be 34.,00:17:30
+lndveke,147,student,That's very correct. That's 34. [unclear],00:17:36
+lndveke,148,tutor,"Good job, [STUDENT_NAME]. And also, could you tell me how many tenths do we have in this number?",00:17:44
+lndveke,149,student,30.,00:17:51
+lndveke,150,tutor,"That's right. That will be the value of our tenths, [STUDENT_NAME]. But how many tenths will it be?",00:17:53
+lndveke,151,student,3.,00:17:59
+lndveke,152,tutor,"3 tenths. And the value will be the answer you gave, which is 30. Good job. You're doing great, [UNCLEAR]. Great work. Alright, so now let me take you to a few questions. Here you go. So we have 4 questions out of 2 digits in a place value chart. So could you make use of these and answer these questions, [STUDENT_NAME]?",00:18:00
+lndveke,153,student,OK. [unclear] [unclear],00:18:24
+lndveke,154,tutor,That's right. You can continue.,00:18:35
+lndveke,155,student,Write a number sentence for this number. Can you please read out number B?,00:18:41
+lndveke,156,background,"Pardon, [STUDENT_NAME]?",00:18:52
+lndveke,157,student,"Is this write a number sentence for this number? Is that what it says? Yes, you could use the tens and the ones and prepare a number sentence for the number.",00:18:54
+lndveke,158,student,"Can I have a bit of help on B, please?",00:19:05
+lndveke,159,tutor,Pardon?,00:19:10
+lndveke,160,student,"Can I have a bit of help on B, please?",00:19:11
+lndveke,161,tutor,"Alright, sure. So what is the number they have represented on the place value chart, [STUDENT_NAME]?",00:19:14
+lndveke,162,student,7 tens and 4 ones.,00:19:21
+lndveke,163,tutor,That's right. And what number does that give us?,00:19:24
+lndveke,164,student,Pardon?,00:19:29
+lndveke,165,tutor,What number does that give us with 7 tens and 4 ones?,00:19:29
+lndveke,166,student,74.,00:19:33
+lndveke,167,tutor,"Good job, that's 74. So it shows when we add 2 numbers, it has to give us the number that's shown on the place value chart. That's right.",00:19:35
+lndveke,168,background,So should I write 74 here quickly?,00:19:47
+lndveke,169,tutor,Mm-hmm. [unclear],00:19:50
+lndveke,170,tutor,That's right.,00:19:59
+lndveke,171,student,"But, you know, you can do—",00:20:01
+lndveke,172,tutor,"Oh, I get it now. You can do 70 plus 4.",00:20:06
+lndveke,173,student,"That's very correct, [STUDENT_NAME]. That's correct. So here you have to separately show the value of tens and the value of ones. You add to get 24. [unclear]",00:20:09
+lndveke,174,tutor,"Great work. That's correct, [STUDENT_NAME]. All right. So we have 2 more to go.",00:20:30
+lndveke,175,student,How many tens are there in 51?,00:20:38
+lndveke,176,tutor,"Okay, I'm sorry to interrupt you, [STUDENT_NAME]. So when they say how many tens, when they ask—",00:20:43
+lndveke,177,student,[unclear],00:20:58
+lndveke,178,tutor,"That's right. That's correct. It has to be 5. So your answer will be 50 if they ask the value of tens. All right? So when they ask the value of tens, you give 50. But when they say how many tens are there,",00:20:58
+lndveke,179,tutor,It will be 4.,00:21:12
+lndveke,180,student,So like in number D?,00:21:14
+lndveke,181,tutor,That's correct.,00:21:16
+lndveke,182,student,Okay.,00:21:18
+lndveke,183,tutor,Okay.,00:21:20
+lndveke,184,background,What is value of the 2 in number 26? 20.,00:21:22
+lndveke,185,tutor,"Good job, that's right. So when they ask us to value, that will be your answer. But when they ask how many tens, you just simply go and see how many counters you'll place in the tens column when you represent it in a [UNCLEAR]. Tutor is value chart.",00:21:26
+lndveke,186,student,OK.,00:21:40
+lndveke,187,tutor,"Are we good here, [STUDENT_NAME]?",00:21:41
+lndveke,188,student,Yeah.,00:21:43
+lndveke,189,tutor,"OK, great work. We'll just move on. All right, here we go. Let's give this question a try, [STUDENT_NAME]. [unclear]",00:21:45
+lndveke,190,student,OK.,00:21:56
+lndveke,191,background,"I got it. What 2-digit numbers can you make using the digit cards? Write 4 possible...numbers. Okay, for [UNCLEAR]... What 2-digit numbers can you make using a digit card? Write 4 possible numbers. What does it mean?",00:21:57
+lndveke,192,tutor,"Okay. Is the question a bit confusing, [STUDENT_NAME]?",00:22:20
+lndveke,193,student,Yes.,00:22:24
+lndveke,194,tutor,"Okay, so you have to write 2-digit numbers. What does 2-digit numbers mean, [STUDENT_NAME]?",00:22:25
+lndveke,195,student,"Like, let's say 74. That's a 2-digit number.",00:22:31
+lndveke,196,tutor,"Good job. So likewise, you have to write the 2-digit numbers using these given digit cards, [STUDENT_NAME].",00:22:35
+lndveke,197,student,"Oh, okay.",00:22:45
+lndveke,198,tutor,"So likewise, you have to write 4 2-digit numbers.",00:22:47
+lndveke,199,student,"Oh, I get it.",00:22:50
+lndveke,200,tutor,"Okay, good job. [unclear]",00:22:52
+lndveke,201,student,"Okay, before adding or subtracting 10 to 100, you need to know the engineering procedure after the simple problem is [UNCLEAR]. [unclear]",00:23:13
+lndveke,202,tutor,Mm-hmm.,00:23:22
+lndveke,203,student,Or do you have to do 02?,00:23:26
+lndveke,204,tutor,"If you have a 0 in the beginning, [STUDENT_NAME], will that be a 2-digit number?",00:23:31
+lndveke,205,student,No.,00:23:36
+lndveke,206,tutor,"No, because 0 in the front really doesn't give a value.",00:23:38
+lndveke,207,student,But there wouldn't be a 4-digit number then. Are we missing another 2-digit number?,00:23:43
+lndveke,208,student,Yeah.,00:23:52
+lndveke,209,tutor,"Okay. Why don't we give a try with 2 as our tens? [unclear] So you have already gone with 0 in the ones place. Oh, there you go. Good job. All right. So we have 4 2-digit numbers. Good work there, [STUDENT_NAME]. So now there's one question they're asking us. What does it say?",00:23:53
+lndveke,210,student,What is the largest 3-digit numbers you can make?,00:24:18
+lndveke,211,tutor,"That's right. And also let me give you a hint here, [STUDENT_NAME]. In this question, you could use the given digit card twice. It doesn't matter. What is the largest number we could make?",00:24:21
+lndveke,212,tutor,"Okay. That is too large a number, [STUDENT_NAME], but we have to use the given digit cards. [unclear] All right. So if we could use a digit card twice, [STUDENT_NAME], then what can it be? 72 would be the largest number we could make.",00:24:41
+lndveke,213,tutor,Can you use a digit card twice?,00:25:06
+lndveke,214,student,[unclear],00:25:09
+lndveke,215,tutor,"Let's say we could reuse a digit card. Let's say you could use 2 twice, you could use 0 twice, you could use 7 more than once. So if so, what is the largest 2-digit number you can make?",00:25:11
+lndveke,216,student,77.,00:25:28
+lndveke,217,tutor,"That's right, 77. Good job there.",00:25:29
+lndveke,218,tutor,"Great work, [STUDENT_NAME]. So if you can only use these digit cards once, the previous answer you gave is correct. And if you can use cards more than once, 77 will be the largest 2-digit number you can make. All right, well done, [STUDENT_NAME]. Great work here. Really appreciate your effort. Right, how do you find this lesson so far, [STUDENT_NAME]?",00:25:33
+lndveke,219,student,"Pretty good, but some bits like this [unclear] was a bit tricky, but not as bad.",00:25:57
+lndveke,220,tutor,"Okay, so it takes us time to understand the questions, yeah?",00:26:03
+lndveke,221,student,Yeah.,00:26:08
+lndveke,222,tutor,"Okay, don't worry, [STUDENT_NAME], we'll get there. Alright, so [STUDENT_NAME], so we've finished 2 lessons until now. Have you found the session so far— how's your first session going?",00:26:09
+lndveke,223,student,Pretty good.,00:26:22
+lndveke,224,tutor,"Okay, that's good. I really appreciate your effort on the lesson, [STUDENT_NAME]. Good job here.",00:26:23
+lndveke,225,tutor,"OK. Before we move on to the next lesson, [STUDENT_NAME]. So, [STUDENT_NAME], so what are your hobbies? What do you do in your leisure time?",00:26:29
+lndveke,226,student,Pardon? What do I do?,00:26:39
+lndveke,227,tutor,What do you do in your leisure time? [unclear],00:26:42
+lndveke,228,student,I do football.,00:26:46
+lndveke,229,tutor,Pardon?,00:26:49
+lndveke,230,student,I do football.,00:26:51
+lndveke,231,tutor,Football.,00:26:52
+lndveke,232,tutor,"Alright, okay, great. So do you play every day or on specific days?",00:26:55
+lndveke,233,student,"I play like [unclear] what you just said, not every day but most days.",00:27:01
+lndveke,234,tutor,"Alright, okay. So are you here after school or is this your school time, [STUDENT_NAME]?",00:27:09
+lndveke,235,student,This is my school time.,00:27:14
+lndveke,236,tutor,"Alright, great, great. Okay, [STUDENT_NAME], thank you so much for sharing that with me. So shall we get back to our third lesson?",00:27:17
+lndveke,237,student,"Yes, please.",00:27:25
+lndveke,238,tutor,"OK. So here's our lesson. Shall we start by reading the lesson topic, please?",00:27:27
+lndveke,239,background,[unclear] Using a number line to show the possible two-digit numbers.,00:27:32
+lndveke,240,tutor,"OK. So here we'll be using a number line to place our two-digit numbers, [STUDENT_NAME]. So how familiar are you with this? Have you tried out this lesson at school before?",00:27:41
+lndveke,241,student,Yes.,00:27:52
+lndveke,242,tutor,"Okay, how do you find that lesson? Are we good there, or do you have any doubts?",00:27:53
+lndveke,243,student,I find the number lines lessons quite— I make— I find these number line lessons sometimes a bit tricky.,00:27:58
+lndveke,244,tutor,"Okay, all right, that's totally understandable. So let's go through this lesson together, [STUDENT_NAME]. So why don't we begin with our first learning [unclear] question over here.",00:28:09
+lndveke,245,tutor,Okay. Write the number that the arrow is pointing to. So that's on 50. [unclear],00:28:19
+lndveke,246,student,"Oh, I need context.",00:28:38
+lndveke,247,tutor,"Okay, so we are pretty close to our answer, [STUDENT_NAME]. So 55, I know this is very tricky and just like you mentioned, it's really hard on a computer. So this midpoint will be 55, but if you closely look at the arrow, [STUDENT_NAME], it's one more point away from 55.",00:28:45
+lndveke,248,student,[unclear],00:29:04
+lndveke,249,tutor,"That's correct. It will be 56. But I really do appreciate your effort, [STUDENT_NAME]. And it's totally understandable that it's very hard to work on the computer when the images are small as well, aren't they?",00:29:11
+lndveke,250,student,[unclear] Yes.,00:29:23
+lndveke,251,tutor,"Anyways, great work over here. So now let me take you through some questions. Okay, so here we have 3 questions to work out on number lines, [STUDENT_NAME]. Could you give Part A a try first? Fill in the missing numbers. [unclear] Do I have to do it in order or can I do it like any order?",00:29:26
+lndveke,252,tutor,"Any order you like, [STUDENT_NAME].",00:29:54
+lndveke,253,student,Okay.,00:29:56
+lndveke,254,tutor,Okay.,00:29:57
+lndveke,255,tutor,Mm-hmm.,00:30:08
+lndveke,256,student,"And this one is 3 carries 10, 4 white cubes, and 2 zeros. So this one has an extra 4 tenths. Siddharth has 40 potatoes stacked. [unclear] [unclear]",00:30:11
+lndveke,257,student,"Wait, maybe go into— should I go on to the next one or have I got one of them wrong?",00:30:44
+lndveke,258,tutor,"Okay, so we've got 35, 45, and 51 correctly, [STUDENT_NAME]. So let's see have to figure out this. So each of these tiny points, [STUDENT_NAME], each of these tiny separations, how much are they worth?",00:30:51
+lndveke,259,student,There's like— there's going to be like one— like a little gap between every one.,00:31:06
+lndveke,260,tutor,"That's right. So if this is 30, what do we have right next to it?",00:31:13
+lndveke,261,student,[unclear],00:31:19
+lndveke,262,tutor,That's correct. And what will we have right before 30?,00:31:20
+lndveke,263,student,29.,00:31:20
+lndveke,264,tutor,And before 29?,00:31:27
+lndveke,265,student,28.,00:31:27
+lndveke,266,tutor,"That's correct. So where is this arrow pointing at? That's correct. Good job, [STUDENT_NAME]. So did you understand how we complete this question?",00:31:30
+lndveke,267,student,Kind of.,00:31:42
+lndveke,268,tutor,"Okay, so what you have to do is— so yeah, it's better what you did. You could finish the [UNCLEAR]. What's the easier ones first. So what you do is you have to check with the rest of them how to work out the remaining. So you have to see how much one of these gaps represents. So in this case, these gaps would represent 1 unit, won't it?",00:31:44
+lndveke,269,student,Yes.,00:32:07
+lndveke,270,tutor,"Yes, that's correct. So if this is 30, this will be 31, 32, 33, and so on. So similarly, you could do it backwards. To find out what we have over here. All right?",00:32:08
+lndveke,271,student,Okay.,00:32:22
+lndveke,272,tutor,"Okay, so you can make use of— or make help— get help out of the ones you have already completed to find out the tricky ones. Okay, good job there. Okay, all right, let's continue with Part B. [unclear]",00:32:23
+lndveke,273,student,Mm-hmm. Estimate the position of the number 53 on the number line by drawing an average.,00:32:37
+lndveke,274,tutor,Okay.,00:32:46
+lndveke,275,student,How do I draw this thing? I don't know how to draw on computers.,00:32:46
+lndveke,276,tutor,"You could just use your pointer to point at the position, [STUDENT_NAME]. So I'll help you with the drawing part, or else you could also use the drawing tool just to get a bit of practice. [unclear] Okay.",00:32:52
+lndveke,277,student,"One, two, zero. [unclear] 10, 20, 30, 40, 50, 1, 1, 2.",00:33:06
+lndveke,278,tutor,"Okay, so where do we place it, [STUDENT_NAME]?",00:33:25
+lndveke,279,student,There. There.,00:33:29
+lndveke,280,tutor,"Alright, so we are a bit too close to 100, [STUDENT_NAME], don't you think?",00:33:33
+lndveke,281,student,Yeah.,00:33:38
+lndveke,282,tutor,"Okay, so 50, is it close to 0 or is it close to 100?",00:33:40
+lndveke,283,student,It's kind of like not in the middle but bit more to 100.,00:33:47
+lndveke,284,tutor,That's great. Not right in the middle but a little bit closer to 100. So what if you could compare it with the position of 50? Is it— which is it closer? Is it closer to 50 or 100?,00:33:52
+lndveke,285,student,100. Is it going to be like here? [unclear],00:34:08
+lndveke,286,tutor,"That's right. So we have a little bit closer to the middle, which means so it's closer to 50 more than it is to 100, [STUDENT_NAME], isn't it?",00:34:15
+lndveke,287,student,Yes.,00:34:27
+lndveke,288,tutor,"Yes, that's correct, [STUDENT_NAME]. Good try here.",00:34:28
+lndveke,289,tutor,"That would be correct. Once again, it's a bit hard to estimate on this number line because it's mostly black, isn't it?",00:34:31
+lndveke,290,tutor,"Yeah. In that case, what you would do is— good. Yes, please? What was it?",00:34:42
+lndveke,291,background,Did I rub it out?,00:34:48
+lndveke,292,tutor,"No, your answer is correct, [STUDENT_NAME], so you could place it over here.",00:34:51
+lndveke,293,background,OK.,00:34:54
+lndveke,294,tutor,"That's right. Good job there. So here, as you can see, they have asked us 53. So what you could do is, you know that it's pretty close to 50, isn't it?",00:34:55
+lndveke,295,student,Yeah.,00:35:05
+lndveke,296,tutor,"Yeah, so you could work out the middle of our number line, which is somewhere around here. Yeah?",00:35:07
+lndveke,297,student,Yeah.,00:35:14
+lndveke,298,tutor,"Yes, and your 53 will be closer to it. So yeah, your estimate is good, [STUDENT_NAME]. Or else you could get it a little bit closer to 50.",00:35:16
+lndveke,299,tutor,Okay.,00:35:27
+lndveke,300,student,"Okay, Tutor, I really appreciate your effort here. It's working out. [unclear]",00:35:27
+lndveke,301,tutor,"Okay, so let me give you a hint on these type of questions, Jasper. So like what we did here, we know that it's closer to 50, don't we?",00:35:34
+lndveke,302,student,Yeah.,00:35:44
+lndveke,303,tutor,"Yeah, so do you think it's easy to find 50 rather than it's to find 53?",00:35:46
+lndveke,304,student,So 50 would be a bit more easier.,00:35:53
+lndveke,305,tutor,"That's correct, because it's right half of 100. So what you could do is you could try to find the middle of our number line and then draw a line closer to it, because there is where 53 will be, because we know it's closer to 50. Was that helpful?",00:35:58
+lndveke,306,student,"Yes, that was very helpful.",00:36:17
+lndveke,307,tutor,"Okay, thank you. I'm glad you found it helpful, [STUDENT_NAME], and you're doing really great. Good job. Okay, so we have one more question to go, [STUDENT_NAME]. Shall we give this a try as well?",00:36:19
+lndveke,308,student,"Yeah. Look at lines A, B, and C. Estimate how long they are comparing them to the 100-centimeter line.",00:36:33
+lndveke,309,tutor,"All right, so this is a little bit tricky, so why don't we give this a try, [STUDENT_NAME]?",00:36:43
+lndveke,310,student,"So this one is a bit tricky, so I'm guessing that you've got to look at, like, wait, let me get my pointer. Like, I'm guessing you've got to look at this orange line, compare it to the black line, then write the answer in. [unclear]",00:36:53
+lndveke,311,tutor,That's correct.,00:37:19
+lndveke,312,student,"Okay, so 10, 20, uh, I'll take this as 30 because it's like right in the middle but not right in the middle as well.",00:37:21
+lndveke,313,tutor,"Okay, so what do you think the answer will be?",00:37:34
+lndveke,314,student,"30. 5. [unclear] Okay, so if you take a closer look at this, [STUDENT_NAME], you can see that they have cut it in half. It's like half, half, don't you think?",00:37:37
+lndveke,315,student,Yes.,00:37:50
+lndveke,316,tutor,"So if you take this and if you take this, they both do seem to be same equal lines, close to equal, aren't they?",00:37:52
+lndveke,317,student,Yes.,00:38:01
+lndveke,318,tutor,"Yes, so based on that, what can we say about the position of A? How long will that be?",00:38:03
+lndveke,319,student,30 centimeters.,00:38:09
+lndveke,320,tutor,Pardon?,00:38:11
+lndveke,321,student,30 centimeters.,00:38:13
+lndveke,322,tutor,"Okay, so [STUDENT_NAME], over here it'll be more than 30 because if you get a closer look at this— let me draw it for you. If we use lines, so we have this And I'm drawing another one. So what can you say about the length of these two? Do they look similar or do they look a bit different? What do you say?",00:38:16
+lndveke,323,student,They look similar.,00:38:46
+lndveke,324,tutor,They look similar. So what does that imply?,00:38:47
+lndveke,325,student,They imply [UNCLEAR].,00:38:53
+lndveke,326,tutor,will they be of same size or will there be a big difference in their sizes?,00:38:53
+lndveke,327,student,"It would be like not as different, like humongous different. It can be like a tiny bit, like the most tiniest bit different, not like a lot.",00:39:11
+lndveke,328,tutor,"That's right, that's right, [STUDENT_NAME]. So based on that, what can you say about the length of A?",00:39:25
+lndveke,329,student,It's—,00:39:34
+lndveke,330,tutor,"It will be more than 30. That's my help for you on this question. So if they can be of similar sizes, what can they each be?",00:39:36
+lndveke,331,student,Is it [unclear] 35 and 40?,00:39:46
+lndveke,332,tutor,"Okay, so we are close to the answer. It's over here, [STUDENT_NAME]. It will be something closer to 50, right? Okay, that's— so this is a [UNCLEAR]. And as you can see, when you split it, they are— they look the same, look of the same length. So the answer will be closer to 50.",00:39:49
+lndveke,333,student,So will it be like 45?,00:40:12
+lndveke,334,tutor,"Yes, that could be too. It could be 45 or something about 45, I believe. Are we good there?",00:40:15
+lndveke,335,student,Okay.,00:40:21
+lndveke,336,tutor,"All right. Okay, good job. And what about Part B? [unclear]",00:40:27
+lndveke,337,student,So it's a big difference to this because like This one is like that long and that one is this long.,00:40:40
+lndveke,338,tutor,That's correct.,00:40:57
+lndveke,339,student,Or a bit more even.,00:40:59
+lndveke,340,tutor,So what could be the length of b?,00:41:01
+lndveke,341,student,Pardon?,00:41:05
+lndveke,342,tutor,"What could be the length of b, [STUDENT_NAME]?",00:41:06
+lndveke,343,student,"It could be, um, so it could be about 20, 10 maybe.",00:41:09
+lndveke,344,tutor,"Good job. [unclear] That's right, it could be 25. It's a little bit closer to 30, so we could go with 25. Good estimate there, good job.",00:41:15
+lndveke,345,student,Okay.,00:41:26
+lndveke,346,tutor,"Okay, well done. Right, so [STUDENT_NAME], so let me stop you here because we've come to the very end of our session. So let's continue the rest of the questions in our next week's session, shall we?",00:41:28
+lndveke,347,tutor,"Okay, good job over here, [STUDENT_NAME]. So how helpful did you find these lessons today?",00:41:43
+lndveke,348,student,I got it really helpful.,00:41:49
+lndveke,349,tutor,"I'm really glad, [STUDENT_NAME], and you did a good job today. Excellent progress on all the lessons. So let's keep up the good [UNCLEAR]. All right, [STUDENT_NAME], so let me remind you, at the end of the session, once I end the classroom, there'll be a tiny quiz on the lessons you've completed, like a multiple choice question, like 2 questions where you have to click on the correct answer. Could we do that?",00:41:51
+lndveke,350,student,[unclear] Yep.,00:41:51
+lndveke,351,tutor,"Okay, thank you so much. All right, [STUDENT_NAME], so I had a wonderful session with you today. So I'm really excited for our next week's session as well. Okay. So until we meet next week, have a great weekend, stay safe. Bye-bye. Bye, [STUDENT_NAME].",00:42:16
+lndveke,352,tutor,Bye. [unclear],00:42:34

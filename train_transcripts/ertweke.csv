@@ -1,0 +1,277 @@
+session_id,utterance_id,role,content,timestamp
+ertweke,0,tutor,Hello. [unclear],00:00:00
+ertweke,1,tutor,Hello. Can you hear me?,00:00:03
+ertweke,2,student,"Yeah, I can hear you.",00:00:05
+ertweke,3,tutor,"Okay, right. Welcome back to the session, Felix. You are back after around a month.",00:00:07
+ertweke,4,tutor,Can you hear me?,00:00:13
+ertweke,5,student,"Yeah, I was sick for quite a while, sorry.",00:00:14
+ertweke,6,tutor,"Okay, that's totally okay, Felix. So good to see you back, and how are the days? How are things going?",00:00:18
+ertweke,7,student,It's fun.,00:00:26
+ertweke,8,tutor,"Uh-huh, and how was your school day?",00:00:28
+ertweke,9,student,"Um, it was nice. We learned about history.",00:00:32
+ertweke,10,tutor,"Uh-huh, and what are you learning in math these days?",00:00:36
+ertweke,11,student,"About meters, meters capacity and length.",00:00:40
+ertweke,12,tutor,"Okay. Hi, Felix. We will be starting with the lesson, Solving Real-Life Problems with Remainders. Actually, this was done a month ago. We just started this.",00:00:46
+ertweke,13,tutor,So we will have to restart this lesson because in the last day you joined and I think it was a technical issue where you left the session. So we will be starting solving real-life problems with remainders now. Okay?,00:01:05
+ertweke,14,student,Okay.,00:01:21
+ertweke,15,tutor,"Okay, so the learning goal question, you can give that a try.",00:01:22
+ertweke,16,background,"Okay, so there's 27 books. The teacher puts 5 books on each table. How many books are left over?",00:01:27
+ertweke,17,student,"So if the teacher puts 5 on each table, so I'll go up in the 5 times table. 5, 10, 15, 20, 25, and then 30, but I skip 27. So I stop at 25. So I do 25 take away 27, which is 2, so there should be 2 books left over.",00:01:35
+ertweke,18,tutor,"Wow, good explanation on that, yes. And there are 2 books left over, so we do not need to do the trial and error. [unclear] We have completed the learning goal question. We can move on to the question.",00:02:00
+ertweke,19,student,Okay.,00:02:16
+ertweke,20,tutor,"And can I know the method you followed? I heard that you were counting on 5s and came to 25, and then you got 2 books. What was the reason to count up in 5s?",00:02:17
+ertweke,21,tutor,"Wait, can you say that again? Sorry.",00:02:30
+ertweke,22,background,"Yeah, so what was the reason for you to count up to 5?",00:02:32
+ertweke,23,student,"Because if I count up in 5s, I will get to a number that— well, 27 is in between. So for example, 27 is in between 25 and 30.",00:02:37
+ertweke,24,background,And the reason for you to count up in 5s?,00:02:51
+ertweke,25,tutor,What is the reason for you to count up in 5? You could have even count up in 3. But what was the reason to go with 5?,00:02:58
+ertweke,26,student,"Because if I go up in 5s, I will be able to get closer numbers, if that makes sense.",00:03:06
+ertweke,27,tutor,"Actually, it's like— here they have said that you should go up in 3s.",00:03:14
+ertweke,28,tutor,"Oh, I can't read it properly. [Speaker] OK, right then. So we can now move on with the questions. Here we go with the [unclear] questions. You can give that a try.",00:03:22
+ertweke,29,student,"OK, so which of these divisions have a remainder of 2? 70 divided by 17, that would equal 14 and a remainder of 2. 3, so that's wrong. 25 divided by 5 was 2 and a remainder of 2, so I think this one will be it. [unclear]",00:03:33
+ertweke,30,tutor,OK. [unclear],00:04:05
+ertweke,31,tutor,What else?,00:04:15
+ertweke,32,student,What?,00:04:26
+ertweke,33,tutor,calculation.,00:04:26
+ertweke,34,student,"OK, 36 divided by 2, so 6, 12, 18, 24, 30. Yeah, 30. And that would also have a remainder of 2.",00:04:26
+ertweke,35,tutor,[unclear] OK.,00:04:50
+ertweke,36,student,"So that one's also right. 7 divided by 3. 3, 6, and then a remainder of 1. So that won't be right.",00:04:53
+ertweke,37,student,"11 divided by 4, so I go 4, 8, 12, so it would be 2 and a remainder of 3, so that's definitely not right. And 8 divided by 18, 8, 16, so that would be 2 and a remainder of 2.",00:05:06
+ertweke,38,tutor,Exactly.,00:05:33
+ertweke,39,student,[unclear],00:05:34
+ertweke,40,tutor,"Yes, so there are 3 calculations which gives you the remainder of 2, and those are 12 divided by 5, 32 divided by 6, and 18 divided by 8. So go ahead and work on that, Felix. Count them by explaining each step in your log, and we will be trying the others as well. You have proved the 3 below.",00:05:35
+ertweke,41,tutor,Alright.,00:06:05
+ertweke,42,student,"So if I have 40 metres of bunting— if I have 40 metres of bunting for the school fair, what length of bunting will be left over if I cut it into 6 metres? If I cut it into 6 metres, I'll count in 6, so 6—",00:06:06
+ertweke,43,student,"12, 18, 24, 30, 36. [unclear]",00:06:33
+ertweke,44,student,"I stop at 36, and then if I go another 6, that'll be over 40. So I stop at 36, and then I have to add 4 more on to 36 to get 40. So there'll be, um, 4 meters left over.",00:06:59
+ertweke,45,tutor,"Exactly, that will be 4 meters. Well done. Let's put the units as well, Felix. 4m.",00:07:18
+ertweke,46,tutor,4 meters.,00:07:24
+ertweke,47,student,Okay.,00:07:26
+ertweke,48,tutor,"Okay. Because that was cut into 6 meters, as you mentioned, you counted up in [UNCLEAR]. Right. What about next?",00:07:28
+ertweke,49,student,So there are 18 children to take to a school football match. Each car can take 4 children. How many cars are needed?,00:07:28
+ertweke,50,student,"So going up in 4 because each cloud can take 4. It would be 4, 8, 8, 12, 16, 24, 32, 64, 128. 12, 16, and then 20. So there'll be 5 cars needed.",00:07:51
+ertweke,51,tutor,"But if I say that's 4 cars, Felix, and Am I right?",00:08:39
+ertweke,52,student,"No, because if you only have 4 cars, 2 children won't be able to go, so you need that extra car even though it doesn't— it's not full of kids.",00:08:43
+ertweke,53,tutor,"Exactly. Good explanation, Felix. Very good reasoning.",00:08:53
+ertweke,54,background,[unclear],00:08:56
+ertweke,55,tutor,Shall I do number D?,00:08:59
+ertweke,56,background,"Yes, please. Go ahead.",00:09:00
+ertweke,57,student,It takes 7 minutes to make a pom-pom.,00:09:02
+ertweke,58,student,How many complete pom-poms can be made in 30 minutes? So if we go up in sevens again.,00:09:10
+ertweke,59,tutor,Mm-hmm.,00:09:19
+ertweke,60,student,"7, 14, 21, 21, 20, um... 21, 28, and then 30 minutes, you would need to complete another one in 2 minutes, so I think it's only 4.",00:09:20
+ertweke,61,tutor,"Hmm, okay then. If I say in 30 minutes they can make 4, sorry, 5. What do you think?",00:09:55
+ertweke,62,student,"I think that it's not correct because if you take 28 minutes to take 4, and I don't think you would be able to make one in 2 minutes.",00:10:05
+ertweke,63,tutor,"Exactly. So they're asking how many complete pom-poms they can make within 30 minutes. It would be one more. In progress. It's in the process. It has not been completely made. So when if is in full form, it's completely made. [unclear]",00:10:19
+ertweke,64,student,"Okay. So, Tutor is thinking of a 2-digit number. When she divides it by 5, the remainder is 2. She divides it by 8 and the remainder is 1. What could she be thinking of?",00:10:41
+ertweke,65,tutor,"So, first of all, what I would do is I would times 2— no, I would times 5",00:11:04
+ertweke,66,tutor,"By, um... [unclear] First of all, let's say this looks 5 times, um... 5 times, let's say, 10.",00:11:21
+ertweke,67,student,By 10?,00:11:37
+ertweke,68,tutor,"By 10, it would equal 50.",00:11:41
+ertweke,69,tutor,"But you gotta have a remainder of 2, so we would make it 52. So if you divide that by 5, that will be— yeah, if you divide, um, 10— [unclear]",00:11:46
+ertweke,70,student,"Oh, I know what I need to do. I messed up with that. Um, I put a times something, 5 times 5.",00:12:03
+ertweke,71,tutor,Mm-hmm.,00:12:20
+ertweke,72,student,"So 5 times 5 would equal 25. That would— but we need to add our extra 2 for a remainder of 2. So that would be 27. And then we divide the number by 8. And the remainder should be 1. So if I divide 27 by 8, I should get a remainder of 1. [unclear] 22, 0 times. Let me make this a bit bigger. So 8 goes into 20, 20, 0 times. So we have that extra 2 left over. So we do 8 [unclear] 24.",00:12:23
+ertweke,73,tutor,Mm-hmm.,00:13:26
+ertweke,74,student,"24 is that one there. So it'd be 24. So that's 3, and we have a remainder of 3, so that can't be right.",00:13:29
+ertweke,75,tutor,Mm-hmm. It does not work.,00:13:46
+ertweke,76,student,"So that won't be right. [unclear] 2-digit number, what are 3 times... 5. Um, if we try— [unclear] I don't know really. This one's trying to stump me.",00:13:48
+ertweke,77,tutor,"Yeah, do you need any help or can you go ahead with some more time?",00:14:15
+ertweke,78,student,Can I have some help please?,00:14:19
+ertweke,79,tutor,"Okay, uh, the best thing is Felix, you have already realized that it should be a number ending with 7.",00:14:21
+ertweke,80,tutor,Yeah.,00:14:27
+ertweke,81,student,round.,00:14:27
+ertweke,82,tutor,"Yes. And let's go with it then. 7, and the other number that you can go. [unclear] You can have 17. Yeah?",00:14:27
+ertweke,83,student,Yeah.,00:14:45
+ertweke,84,tutor,"27, 37. You can continue.",00:14:46
+ertweke,85,student,"47, 50.",00:14:54
+ertweke,86,student,67.,00:15:00
+ertweke,87,tutor,"Yeah, let's end up with 57 for now. And also, we can have 2 remainders when you divide a number by 5. It is [UNCLEAR], isn't it?",00:15:00
+ertweke,88,student,Yeah.,00:15:00
+ertweke,89,tutor,"Yeah, so after 7 you can also have 12. Yeah?",00:15:13
+ertweke,90,student,Yeah.,00:15:19
+ertweke,91,tutor,"Yeah, so 12 divided by 5, it will still give you the remainder 2. Okay?",00:15:20
+ertweke,92,student,Okay.,00:15:26
+ertweke,93,tutor,"Like same thing, we can go with 22, 32. Here we can have 42, and here we can have [UNCLEAR]. Okay, now you will have to check if you're going to divide these numbers by 8, will it give you the remainder of 1? That's what we should try to find out. Okay?",00:15:27
+ertweke,94,student,"Okay, so 7 divided—",00:15:27
+ertweke,95,student,"7 divided by 8, I can't do that because 8 is bigger. 17 divided by 8, so that would be 16— [unclear] 16, 2, and it would have a remainder of 1. So she could be thinking of the number 17. So, 22. that by 8.",00:15:50
+ertweke,96,tutor,"8, 16, 24. That definitely can't be right. 32. 8, 16, 24, 32. That definitely can't be right because it's a whole number and it has no remainders. 42. 8,",00:15:50
+ertweke,97,student,"8, 16, 24, 32, 40. And so if we have the remainder of 2, we're not looking for 2, we're looking for 1, so that can't be right either. And then 57 and 52. Um, 8, 16, 24, 32, 40, 48. And yeah, that can't be right either. So I think 17 is the number she's thinking of.",00:16:42
+ertweke,98,tutor,"Exactly. By the way, Felix can also be thinking of the number 57, Felix.",00:17:16
+ertweke,99,student,"So if we do 57, then 16— [unclear] 8, 16.",00:17:24
+ertweke,100,student,"27, 32, 40, 48, 56. No, 56, yes. So 57 also could be it.",00:17:34
+ertweke,101,tutor,"Yes, exactly. So here we are asking just for one number, even going with one number like 17 is already enough. Just for reference, I gave you the answer 57 as well. So that's it. And did you understand this question, Felix? How do you work things out?",00:17:51
+ertweke,102,student,It was nice. It was quite easy as well.,00:18:10
+ertweke,103,tutor,"Yeah. So when you have realized a clue like this, you can list down the numbers and then cross-check if this works or not. [unclear]",00:18:13
+ertweke,104,background,Yes.,00:18:22
+ertweke,105,tutor,Okay.,00:18:23
+ertweke,106,background,Yeah.,00:18:23
+ertweke,107,tutor,"Right, and we have come to the end of the lesson about solving real-life problems with remainders. And can you tell me what you have learned from this lesson and what [UNCLEAR]?",00:18:25
+ertweke,108,student,"Well, I learned one thing that is— well, I learned that in every lesson, which is read the question properly. But there's another thing I've learned. If you've got to find a remainder,",00:18:25
+ertweke,109,tutor,Yeah.,00:19:02
+ertweke,110,student,"of something. You could also— you could times the number by something if you were dividing it by something. And then say on our question where we divide it by 5, I would times 5 by 5, and then [UNCLEAR] definitely has a remainder of 2.",00:19:02
+ertweke,111,tutor,"Yeah. Exactly. Yes, Felix. And also a common misconception in this lesson is",00:19:16
+ertweke,112,tutor,"Now here we were working with the remainder, but sometimes the same example question here from the learning goal question. [unclear]",00:19:24
+ertweke,113,student,Yeah.,00:19:38
+ertweke,114,tutor,"Yeah, 27 divided by 5 is 5 with 2 remainder, then the actual answer should be 2. But sometimes the students go with misconception by answering the question with 5, but able to come out",00:19:39
+ertweke,115,tutor,"You answered the question. You gave the straightforward answer, so very good working out done throughout the lesson. Okay?",00:19:54
+ertweke,116,student,[unclear],00:20:04
+ertweke,117,tutor,So any questions to ask before moving on?,00:20:05
+ertweke,118,background,"No, I'm fine.",00:20:09
+ertweke,119,tutor,"Okay, so let's move on. And then we have to choose a mental method or written method. We are going to check whether we are going to work with the mental method. A written method.",00:20:10
+ertweke,120,student,Okay.,00:20:20
+ertweke,121,tutor,"Okay, so what do you know about mental methods?",00:20:21
+ertweke,122,student,What?,00:20:25
+ertweke,123,tutor,What do you know about mental methods?,00:20:26
+ertweke,124,student,"Mental methods, you have to do in your head and you can't work anything out on like a piece of paper or something?",00:20:30
+ertweke,125,tutor,"Of course, yes. Right, so you can get started with the learning goal question, Felix.",00:20:37
+ertweke,126,student,"Okay, so learning goal.",00:20:43
+ertweke,127,student,"Um, 2 3 is 5. 4 5 is 9. Oops, um, I should use a [UNCLEAR]. Um, sorry, 2 1 is 3. 4 5 is 9. And then 3 2 is 5.",00:20:47
+ertweke,128,tutor,"Okay, right. So what method you used on this? Was it a mental method or written method?",00:21:18
+ertweke,129,student,I think it was a written method.,00:21:24
+ertweke,130,tutor,Sorry?,00:21:27
+ertweke,131,student,I said— [unclear],00:21:31
+ertweke,132,tutor,"Yes, Felix, what method was it?",00:21:38
+ertweke,133,student,I think it was a written method.,00:21:41
+ertweke,134,tutor,A written method. OK. And how did you work the question?,00:21:44
+ertweke,135,student,"I saw that in the hundreds, I plus the hundreds with the hundreds, plus the tens with the tens, and plus the ones with the ones.",00:21:50
+ertweke,136,tutor,"Good. So that is a mental method, Felix. Did you use any papers to work that out?",00:22:03
+ertweke,137,student,"No, I did it in my head.",00:22:07
+ertweke,138,tutor,You did that in your head. So the things done in your head falls under the mental method. Okay?,00:22:09
+ertweke,139,student,Yeah.,00:22:16
+ertweke,140,tutor,"Yeah, so you might have various methods to work out mentally, and you have picked up adding the things separately according to the place value. So good job on that. And we can again move on with the questions. Excellent focus.",00:22:17
+ertweke,141,tutor,"Right, so you can either count in tens or the ones, that depends on the question. Okay?",00:22:34
+ertweke,142,student,Okay. [unclear],00:22:42
+ertweke,143,tutor,What?,00:22:46
+ertweke,144,student,"So, for each calculation, decide if you'll solve it using a mental or a written method.",00:22:47
+ertweke,145,student,"So, can I get one of the questions?",00:22:58
+ertweke,146,tutor,"Yeah, go ahead.",00:23:01
+ertweke,147,student,"So, 367 plus 356. I'm going to do the same thing that I did with the first one. 3 plus 3 is 6. 6 plus 5 is 11, so I have a 1. 7 plus 6...",00:23:03
+ertweke,148,tutor,"is... Oh wait, hang on. [UNCLEAR] From the ones. So 6 7 13, so that would equal 3. 6 5 would be 11, but we have an extra one, so that'll be 2 there. And then you have another one left over for 3 3, so that would equal 7. Well done, that's 723",00:23:03
+ertweke,149,tutor,"and yes. What did you realise after completing the question, Felix? I",00:24:03
+ertweke,150,student,"realised that when I was adding, with adding you've got to add to [UNCLEAR]. So it was the ones that I was adding and it went into the tens, so I would have to put that in the tens.",00:24:07
+ertweke,151,tutor,"Exactly. And always you have to start doing the calculation from your right-hand side. Yeah, the smallest place value.",00:24:23
+ertweke,152,student,Yeah.,00:24:33
+ertweke,153,tutor,"And that was okay with this question because any of these additions did not go above 10. If you are going beyond 10, then that will be a question. So you will have to start with the lowest place value.",00:24:33
+ertweke,154,tutor,OK.,00:24:48
+ertweke,155,background,OK.,00:24:48
+ertweke,156,tutor,"OK, back to the questions.",00:24:50
+ertweke,157,student,"So, 548 minus 275. So this time I can actually use my text. [unclear] 2 minus 5 is 3. 7 minus 4 is 3.",00:24:55
+ertweke,158,student,"I don't think I can do that. So I would, um, 2 in my head. Um, put 1 onto the 4. I put a 1 onto 4 to make it 14. And 7 divided— 7 minus 7 is 7, so I'll put that there. And then a 5 minus 8, which is 3.",00:25:14
+ertweke,159,tutor,"555 plus 248. So I'm going to just [unclear] with it. 4 plus 8 is 12. We have an extra 1 left over for that, so that would be 0 because 4 Or 5 4 9, but we have an extra one, so it would equal 10. And then 5 2 7, but we have an extra one, so it would be 8. 756 436.",00:25:48
+ertweke,160,student,"So we take 4 off of 7, that would equal 3. 3 off 5, which is 2. [unclear]",00:26:32
+ertweke,161,tutor,"Right, you got it. Right, so beyond this, Felix, have you also heard about the counting on, like counting forward or counting backwards in hundreds or tens?",00:26:41
+ertweke,162,student,"I think I have. You have heard of, yes?",00:26:57
+ertweke,163,student,Yes.,00:27:01
+ertweke,164,tutor,"Yes, okay. Let me just get you to slide back. All right, just for your reference. So when you have questions like 853 to take away 368, [unclear] the difference of 853 to 800. That's kind of easy. What is the difference between these two?",00:27:02
+ertweke,165,student,I'm pretty sure it's 53.,00:27:28
+ertweke,166,tutor,"Well done. Okay, and how much of gaps do you have up to 400 from 800?",00:27:35
+ertweke,167,student,400.,00:27:41
+ertweke,168,tutor,"Exactly. And then we are going to take away 68, so we jump back into 70 in tens. 40, and then take away 2.",00:27:44
+ertweke,169,tutor,"2 more. Okay. So finally, to get the answer, what should you do?",00:27:57
+ertweke,170,student,Add them all together.,00:28:03
+ertweke,171,tutor,Exactly. You will have to add them all together. What would that be?,00:28:05
+ertweke,172,student,It would be 4... [unclear] 53... 53... 8...,00:28:11
+ertweke,173,tutor,Um... [unclear],00:28:19
+ertweke,174,student,"No, no, no.",00:28:22
+ertweke,175,tutor,What?,00:28:27
+ertweke,176,student,400... 8...,00:28:28
+ertweke,177,tutor,Oh! [unclear],00:28:34
+ertweke,178,student,"No, no. Yeah, 8. Wait, oh! Oh, good mind. [unclear]",00:28:36
+ertweke,179,tutor,"There you go, yes. So this is also known as the mental method. And these kind of things that you see, column method are known as the written method. So you have worked out in the column method but in your head with these questions. Yeah?",00:28:46
+ertweke,180,student,Yeah.,00:29:04
+ertweke,181,tutor,"Yeah, so let's take that thing to use and let's use one of the— use that method for one of these questions.",00:29:05
+ertweke,182,tutor,Okay. Which one would you pick? Is it question B or question D that you need to pick?,00:29:14
+ertweke,183,student,I'll pick D.,00:29:21
+ertweke,184,tutor,Okay. [unclear] Can you differentiate mentally and tell me the difference?,00:29:26
+ertweke,185,student,So the difference between—,00:29:33
+ertweke,186,tutor,"Yep, go ahead.",00:29:40
+ertweke,187,background,"Wait, what did you say?",00:29:43
+ertweke,188,student,Can you explain how to do this using the method that we discussed here?,00:29:45
+ertweke,189,background,So I say what the difference is between a mental and a written method?,00:29:53
+ertweke,190,background,"No, not really. This one. This question we worked out in counting backwards, right?",00:30:00
+ertweke,191,student,Yeah.,00:30:08
+ertweke,192,tutor,"The same thing, can you tell me and can you show me how to work that with [UNCLEAR]?",00:30:09
+ertweke,193,student,"Yeah, okay. I hear what you mean now. So if I was trying to do that method, I would have 756 over here, and then I would draw a line to make it go to 700. That would be 56.",00:30:09
+ertweke,194,tutor,Okay.,00:30:47
+ertweke,195,student,Then I take that away to get to [UNCLEAR].,00:30:50
+ertweke,196,tutor,Let's say— let's say 450. 450. That would be 250.,00:30:59
+ertweke,197,tutor,"And then we would take something away to get to 436. That would be 14, I'm pretty sure.",00:31:24
+ertweke,198,student,"And then I would add all these numbers together. So 14 and 56 would add up to 70. [unclear] And then add 70 to 250, that would get 300. Gives me 320.",00:31:50
+ertweke,199,tutor,"Exactly. Good job, Felix. So you were able to come up with that method as well using the same question, a different method. [unclear] Okay. Right. So what have you learned after completing this slide, Felix?",00:32:18
+ertweke,200,student,"I learned that there's like multiple ways of doing written methods, but in mental methods. It's easier to do one thing at a time than just do all of it at once.",00:32:33
+ertweke,201,tutor,"Exactly. Okay, right then, let's move on with the last question of this lesson. We're going to use this mental method on that question as well, okay?",00:32:49
+ertweke,202,student,Okay.,00:33:01
+ertweke,203,tutor,Let's go.,00:33:04
+ertweke,204,background,[unclear] and hockey. Are both trying to solve this,00:33:05
+ertweke,205,background,574 297. Mm-hmm.,00:33:12
+ertweke,206,tutor,Whose,00:33:19
+ertweke,207,student,"strategy is more efficient? Explain your answer. So, they've both done a written method, which is [UNCLEAR].",00:33:19
+ertweke,208,student,"So, um, well, Hockey is a little more complicated, but it still works. And [unclear] is a more simple one. But in my opinion, I would choose Hockey because, um, that's just in my opinion, because, um, what he does is",00:33:33
+ertweke,209,student,"He adds 300 to 574, which he's rounding, and then he takes off his 3. So it's like you've only got 2 steps for that, but in the column method you've got to do... [unclear] You've got to do more than just 1 step, 2 steps, 1 step.",00:34:01
+ertweke,210,tutor,"Yes, so when the numbers are very closer to things like the hundreds, the tens, it's better to go with the mental methods always, regardless of [unclear] methods, okay?",00:34:27
+ertweke,211,student,Okay.,00:34:38
+ertweke,212,tutor,"Yes, and yes, as you mentioned, the Hopkins method, which is more efficient than a single-step counting.",00:34:40
+ertweke,213,background,"explanation as well, Felix.",00:34:40
+ertweke,214,tutor,"Very good. And now, after completing the goal for the slide and the entire lesson, what things should you keep in your head? [unclear] What things should you keep in your head regarding the lesson about using a mental or a written method?",00:34:51
+ertweke,215,student,"In my head, if I'm doing mental method, I do one step at a time, like once minus them together, minus the tens together, minus the hundreds together. If I'm doing it written, um, there's any way to do it written. There's not just one way. You could do column method, you can do just written in a sequence, you could do the method we've just done with the number line. [unclear]",00:35:11
+ertweke,216,tutor,"Yeah, of course, Felix. And also, if I ask now, can you get errors if you're going to work out with this written method?",00:35:43
+ertweke,217,student,"Um, well, if you're working out on a written method, it's more likely that you don't mess up, but in mental, there's a high chance of you messing up.",00:35:53
+ertweke,218,background,"Yeah, there is a high chance of getting some errors in the written method because you have to take away so many things. Yeah, and you'll have to do the same thing as well. So better to go with most efficient method like the mental method for this, but not all. You can choose it according to the [UNCLEAR]. Okay, right. Any questions to us, Felix?",00:36:06
+ertweke,219,student,"Um, no, I understand this perfectly.",00:36:06
+ertweke,220,tutor,"Okay, then we can move on with the next, which is adding and subtracting. Using rounding and adjusting.",00:36:35
+ertweke,221,tutor,OK. [unclear],00:36:46
+ertweke,222,student,"OK, so solve this calculation mentally. So I would do my method, 7 2, which is 9.",00:36:51
+ertweke,223,tutor,Hello.,00:37:08
+ertweke,224,student,"Hello, can you hear me?",00:37:09
+ertweke,225,tutor,"Yeah, I can hear you. By the way, you must check first if you are going to use methods like what Hockey had [unclear] so then you can straight away go with that. What do you think about the tool now?",00:37:10
+ertweke,226,student,"Okay, so,",00:37:29
+ertweke,227,student,"3 plus 9, or 30 plus 90, that's 120. So there's a 2 there and a 1 up. 2 plus 2 is 4, but we have an extra 1 over, so that'll be 529. [unclear]",00:37:31
+ertweke,228,tutor,"It's going to be 529. On another method, Felix, what if you add 300 instead of 297?",00:37:56
+ertweke,229,student,"Oh yeah, like [unclear] method, and then I just take away 3. That would have been an easier method.",00:38:06
+ertweke,230,tutor,"Exactly, yes. So you will have to round and find the closest and the easiest number to add instead of adding some complicated numbers like 297. Okay?",00:38:13
+ertweke,231,student,Okay.,00:38:27
+ertweke,232,tutor,"Let's move on. [unclear] Can you read the first part, please?",00:38:29
+ertweke,233,student,"Okay. When calculating mentally, we try and find ways to make the calculation easy to do in our heads.",00:38:39
+ertweke,234,tutor,"Yes. We try to do things in our head to make it easier. Efficient. So here you're going to add 56 to 125. Now instead of 56, you have added 60. What is the reason, Felix?",00:38:49
+ertweke,235,student,"Um, because if I round it, it will be, um, a little easier to do. And if I round it, I can just take off the, um, the number that I added to it to round it.",00:39:06
+ertweke,236,tutor,"Yes, they have rounded it. So from this part onwards, we are going to round numbers and adjust the answers. So yeah, 56 replaced with number 60. So what would the answer be?",00:39:21
+ertweke,237,student,"Um, I think the answer would be [UNCLEAR].",00:39:34
+ertweke,238,tutor,"Okay. And what is the reason, do you think, It is for taking away 4.",00:39:34
+ertweke,239,student,"Well, if I add 185 there, I would minus 4 off the 5, which would give me 181.",00:39:49
+ertweke,240,tutor,"OK, what was the reason to take away 4, Felix?",00:40:04
+ertweke,241,student,"Because the reason I took away 4 is because when I rounded, I added 4.",00:40:08
+ertweke,242,background,Onto the 56?,00:40:13
+ertweke,243,tutor,"Yeah, exactly. [unclear]",00:40:15
+ertweke,244,background,So I had to take away it again to make it easier.,00:40:19
+ertweke,245,tutor,"Perfect. We have added 4 too many, 4 extra, so you'll have to take that 4. Question B, you can try this by yourself. What do you think?",00:40:26
+ertweke,246,student,"2,350 plus 1,298. So I would do 1,300 equals 3,650. But then I have to— I have to— [unclear] I have to take away 2 because I added it on when I was rounding. So that will give me the answer of 3,648.",00:40:39
+ertweke,247,tutor,"Yes. Your final answer is going to be 3,648. [unclear]",00:41:35
+ertweke,248,student,"Because the reason I took away the 2 is because when I was rounding with the 1,298, I added 2 to make it easy. Even easier, so I had to take it off again for it not to be the right answer.",00:41:43
+ertweke,249,tutor,"Exactly. Okay, Felix, so we have come to the end of the lesson as well. So before that, can you tell me what you learned after completing the lesson?",00:42:03
+ertweke,250,student,"After completing the lesson, that when you have like a hard number and like say",00:42:14
+ertweke,251,student,"If the number was under 10 to being like 1,300, let's say, then it's easier to round and then take off the number you've added to round it.",00:42:22
+ertweke,252,tutor,Okay. You'll have to adjust your answer once you are coming back. Yeah?,00:42:38
+ertweke,253,student,Yeah. [unclear],00:42:46
+ertweke,254,tutor,"And then we can end up the lesson with one small question. This is related to the same thing that we did right now, but a bit [UNCLEAR]. What do you think you'll have to do if you're going to take away 1,996?",00:42:47
+ertweke,255,student,"Okay. So taking off this, I would round this number to 2,000.",00:42:47
+ertweke,256,student,"So 2,000 take away 5,640 would be 3,640. But I need to add the 4, so it would make it 3,644.",00:43:15
+ertweke,257,tutor,Oh.,00:43:40
+ertweke,258,tutor,So up to now you were taking away the things. Now what was the reason to add back?,00:43:40
+ertweke,259,student,"The reason I added it is because when I'm taking away, I added to it. Wait. I added to it, so I had to— [unclear] Oh. Wait, is that the right answer? Because I'm getting kind of confused with it.",00:43:46
+ertweke,260,tutor,"No, yes, you give me the right answer, Felix. It's 3,644. And the reason is they are asking you to take away 1,996, but actually you are taking 2,000. You're taking 4 more away from them.",00:44:06
+ertweke,261,student,"Yeah, so I got to add 4 more onto it.",00:44:23
+ertweke,262,tutor,"Exactly. That extra 4 that you have taken away, you must give that back to them. Then you'll have to add it back, which gives you this answer. Okay?",00:44:27
+ertweke,263,student,Okay.,00:44:36
+ertweke,264,tutor,"Right. Great explanation. And finally, how was the session today, Felix?",00:44:37
+ertweke,265,student,My lesson was actually quite very good since it's been the first one in a month. [unclear],00:44:42
+ertweke,266,tutor,What?,00:44:54
+ertweke,267,background,Did you understand everything that we have discussed?,00:44:54
+ertweke,268,student,"Yeah, everything was very understandable.",00:44:59
+ertweke,269,tutor,"Okay, any questions to ask before ending up?",00:45:02
+ertweke,270,student,"No, I understand it perfectly.",00:45:05
+ertweke,271,tutor,"Okay, then we can end up the session for today and hope to see you back again in the future. [unclear] Bye.",00:45:08
+ertweke,272,background,Bye.,00:45:16
+ertweke,273,tutor,Merry Christmas in advance.,00:45:17
+ertweke,274,background,Merry Christmas to you too.,00:45:20
+ertweke,275,tutor,Thank you.,00:45:23

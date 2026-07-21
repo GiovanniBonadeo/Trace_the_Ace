@@ -1,0 +1,152 @@
+session_id,utterance_id,role,content,timestamp
+mvmatmc,0,tutor,Hello?,00:00:00
+mvmatmc,1,background,[unclear],00:00:00
+mvmatmc,2,student,Hello?,00:00:00
+mvmatmc,3,tutor,Hello?,00:00:03
+mvmatmc,4,tutor,"Hi, can you hear me?",00:00:06
+mvmatmc,5,student,Yeah.,00:00:09
+mvmatmc,6,tutor,"Hi, can you hear me?",00:00:10
+mvmatmc,7,student,Yes.,00:00:13
+mvmatmc,8,tutor,"Great, how are you doing today?",00:00:14
+mvmatmc,9,student,Well.,00:00:18
+mvmatmc,10,tutor,"Hello, I cannot hear you, [STUDENT_NAME]. Can you hear me? [unclear]",00:00:20
+mvmatmc,11,student,I can't hear you.,00:00:25
+mvmatmc,12,tutor,"I can't hear you, [STUDENT_NAME].",00:00:29
+mvmatmc,13,tutor,Yes. [unclear],00:00:35
+mvmatmc,14,student,Okay.,00:00:36
+mvmatmc,15,tutor,"Yes, so how are you doing today, [STUDENT_NAME]?",00:00:36
+mvmatmc,16,student,[unclear],00:00:43
+mvmatmc,17,tutor,"Would you mind bringing the mic a little closer to your mouth, please? Since the voice, it sounds very distant and I cannot hear clearly. [unclear]",00:00:44
+mvmatmc,18,tutor,"Okay. Yes, [STUDENT_NAME], so how has your day been so far?",00:01:07
+mvmatmc,19,student,Good. Good.,00:01:11
+mvmatmc,20,tutor,Okay. What did you do at school today?,00:01:15
+mvmatmc,21,student,Did my spelling test. [unclear],00:01:21
+mvmatmc,22,tutor,"I'm really sorry, cannot hear you clearly. Okay, please give me a second, [STUDENT_NAME]. I'll try refreshing my page.",00:01:31
+mvmatmc,23,student,Okay. [unclear],00:01:41
+mvmatmc,24,tutor,Hello?,00:01:43
+mvmatmc,25,tutor,Hello.,00:01:53
+mvmatmc,26,student,"Yes, is my voice clear, Lana?",00:01:53
+mvmatmc,27,tutor,Yeah. [unclear],00:01:56
+mvmatmc,28,student,"So, is your microphone closer to your mouth? It's not looking— can you please bring it a little closer because it sounds very low.",00:01:58
+mvmatmc,29,tutor,It's right next to my mouth.,00:02:06
+mvmatmc,30,student,"Is it? Okay, fine. Yes, [STUDENT_NAME], so yeah, how was your week?",00:02:09
+mvmatmc,31,tutor,"Very good, yeah.",00:02:15
+mvmatmc,32,tutor,"Good, it's nice to hear. So do you have any weekends planned?",00:02:17
+mvmatmc,33,student,"My nan and granddad might be coming over to babysit us, or we might be going to them, like their house, to have a sleepover with them.",00:02:22
+mvmatmc,34,tutor,"Oh wow, so you're going to spend some time with your nanny and your granddad, yeah?",00:02:35
+mvmatmc,35,student,Yeah.,00:02:39
+mvmatmc,36,tutor,You excited? [unclear],00:02:40
+mvmatmc,37,tutor,"Okay, great. That's really nice to hear, [STUDENT_NAME]. So are you ready to start our lesson for the day?",00:02:46
+mvmatmc,38,student,"Yes, I am.",00:02:53
+mvmatmc,39,tutor,"Yes. We are going to continue comparing and ordering fractions, which we started last week. So do you remember doing all this last week, [STUDENT_NAME]?",00:02:57
+mvmatmc,40,student,Yeah. [unclear],00:03:08
+mvmatmc,41,tutor,"Okay, so we need to resume from this Follow Me and Your Turn section of the lesson. So I'll be doing the Follow Me questions first, and then after you are clear about it, you can try out the Your Turn questions. Yeah? Shall we begin?",00:03:10
+mvmatmc,42,student,Yeah.,00:03:28
+mvmatmc,43,tutor,"Yes. Okay, so let me go first. We can order a set of fractions using the same method. Okay. So the same method represents finding a common multiple. Yeah, that's what we learned. So I'll just do this question so you'll get a small reflection on what we did last week as well. So I have 3 fractions, which is 1/3, 4/15, and 2/5. So these 3 fractions— using these 3 fractions, I'm going to compare the 3 fractions and find which is greater and which is smaller.",00:03:29
+mvmatmc,44,student,[UNCLEAR],00:03:29
+mvmatmc,45,tutor,"So for that, I need to find the common denominator first. Okay.",00:04:04
+mvmatmc,46,tutor,"So to find the common denominator, we need to think about a number that is a multiple of 3, 15, and 5. A common multiple for both, for all 3 of the denominators, which is 3, 15, and 5. Okay, so while looking at this, something is a multiple of 3 and 5, so 15 is a multiple of 3 and 5 because I can— I have 15 in 3 times table and 5 times table. Yeah, so 15 is the lowest common denominator. So this fraction we do not need to change. The 4/15 does not have to be changed. The 1/3 and 2/5 are the fractions that we are going to change. Okay, so I'll just tell you how we are going to change. Before that, I'll just, um,",00:04:09
+mvmatmc,47,tutor,"Fill this blank in. So 15 is a multiple of 3 and 5. So write the fraction. So they have the same denominator, so I'm going to find, uh, the common denominator, which is the 15. So I'm going to convert the 1/3 to have a denominator of 15. Okay, so when I think of a number that I can multiply by 3 to get a 15, that is a 5. I'll just write that down here. When I multiply the 3 by a 5, 3 times 5 is 15. So if I do that for the denominator, I need to change the numerator as well. So I need to multiply the 1 by 5 as well. So that will give me a 5. So my new fraction here is 5/15.",00:05:04
+mvmatmc,48,student,[unclear],00:05:58
+mvmatmc,49,tutor,"Okay, so that's my new fraction with a denominator of 15.",00:05:58
+mvmatmc,50,tutor,"The next fraction that I am going to change is 2/5. So when I think of a number I can multiply by 5 to get a 15, it is going to be 3 for sure, since 5 times 3 is a 15. I will do that here. 5 times 3 will give me a 15. So I need to do the same for the numerator, which is 2 times 3. That will give me a 6.",00:06:02
+mvmatmc,51,tutor,"So my 2 new fractions with a common denominator of 5/15 and 6/15. Okay, so now I am going to compare the 3 fractions— this, this, and this— and order them from smallest to largest. Okay, so I have the same denominator, so I just need to check only the numerators. So I have 4/15, 5/15, and 6/15. So I know 4 is the smallest compared to 5 and 6. So 4/15 is going to be the smallest fraction for me here.",00:06:30
+mvmatmc,52,student,4/15.,00:07:14
+mvmatmc,53,tutor,"Okay, and next it's 5/15. 5 is smaller than 6, therefore 5/15. So I need to write 1/3 in my final answer since we converted the 1/3 to 5/15. Yeah, we use this new fraction only to compare. But when we are writing our final answer, we write this original fraction. So I'm writing 1/3 in my second space. So the largest fraction is 6/15, and that is the largest fraction that I have. In comparing 4 and 5, 6 is bigger, so I'm writing the original fraction. It's 2/5, this one.",00:07:15
+mvmatmc,54,student,[unclear],00:08:00
+mvmatmc,55,student,[unclear],00:08:02
+mvmatmc,56,tutor,"So, yeah, 2/5. Okay, so I got my answer from smallest to",00:08:02
+mvmatmc,57,background,"4/15, 1/3, and 2/5. So we convert this only to compare, but when we are writing in our final answer, we need to write these original fractions. So do you have anything to ask or anything to say, [STUDENT_NAME]?",00:08:09
+mvmatmc,58,tutor,Hello?,00:08:31
+mvmatmc,59,student,Hello.,00:08:33
+mvmatmc,60,tutor,"Hello, [STUDENT_NAME], can you hear me?",00:08:33
+mvmatmc,61,student,"Yes, I can.",00:08:36
+mvmatmc,62,tutor,"Yeah, so do you have anything to say or anything to ask before you start your question? [unclear]",00:08:39
+mvmatmc,63,tutor,"I'm sorry, could you repeat it please?",00:08:47
+mvmatmc,64,student,I'm not really sure how you find the answer for this.,00:08:53
+mvmatmc,65,tutor,"Oh, these, the 5/15 and 6/15, the answer. Is it your doubt? [unclear] Okay, no problem. I'll just tell you. So to compare fractions, we need to find a common denominator. Yeah, so to find a common denominator, we need to check these 3 denominators. Here we have 3, 15, and 5.",00:09:00
+mvmatmc,66,tutor,"So the common multiple that I found is 15 because I can convert this 3 to a 15 and I can also convert the 5 to a 15. Did you get it until there, [STUDENT_NAME]?",00:09:25
+mvmatmc,67,student,[unclear] Yeah.,00:09:37
+mvmatmc,68,tutor,"Okay, so now I'll tell you how to convert it. I need to check 3 times what will give me a 15. So 3 times what is a 15, [STUDENT_NAME]? [unclear]",00:09:41
+mvmatmc,69,tutor,"Exactly, good job! 3 times 5. So I multiplied this 3 by a 5 to get 15. That's how I got this. Yeah, so when it comes to a fraction, whatever you do for the denominator, you need to do the same step for the numerator as well, the number at the top.",00:09:58
+mvmatmc,70,student,3 times 5.,00:10:18
+mvmatmc,71,tutor,"So we multiplied the 3 by a 5 and got a 15, didn't we?",00:10:19
+mvmatmc,72,student,Yeah.,00:10:23
+mvmatmc,73,tutor,"So we also need to multiply this numerator, which is 1 here, by a 5 to get a 15. Yeah? So that's how I got this. Even here. So 5 times what gives us a 15? [unclear] 3. Good job. Well done. So I need to multiply the 5 by a 3 to get a 15. So I need to do the same thing for the numerator. I need to multiply the numerator by a 3 as well, and that's how I got the 6. And then I used these two fractions to compare to see which is smaller and which is larger and wrote them as the answer. Is it clear, [STUDENT_NAME]? Or is it still confusing? I can explain you once again if it's still confusing. No issues.",00:10:24
+mvmatmc,74,student,[unclear],00:11:10
+mvmatmc,75,tutor,"You okay? [unclear] So do you have anything to say or ask? Anything confusing? So are you ready to try out your question? Okay, go ahead. [unclear]",00:11:15
+mvmatmc,76,student,"So the smallest is 2/5, and then 3/7, 2/5. Oh, okay, never mind. Okay, so A, find the common denominators",00:11:44
+mvmatmc,77,student,"Well, if you do 3 times 4, that equals 12. And if you do 12 divided by 4, that equals 3. If you do 3 times [unclear] 12 divided by 3, that equals 4. So I think the common multiple should be 12.",00:12:07
+mvmatmc,78,tutor,"Yes, exactly. Well done. Good job. You got that, [STUDENT_NAME]. Fantastic. Yes. [unclear]",00:12:23
+mvmatmc,79,tutor,"12, so divide 4. That is 12. And then 2 times 12, 24. That's why we have 2 zeros. Let's go right. So, so [unclear]",00:12:38
+mvmatmc,80,tutor,2 times 4 is 8.,00:13:05
+mvmatmc,81,tutor,Yes.,00:13:26
+mvmatmc,82,student,"And then 4 times 3 equals 12. [unclear] And then 3 times 3 equals 9. Let's see, order fractions smallest to largest. Well, I think it would be [unclear]",00:13:28
+mvmatmc,83,tutor,"Yes, so when you are writing the fraction, you need to write the original one which is in the question, yeah? Use this only to compare. So if it's 8/12, your answer is the first one, that's going to be 2/3. [unclear]",00:14:02
+mvmatmc,84,tutor,"Okay, well done. That's a fantabulous effort, [STUDENT_NAME]. Very good working out. Good job. So you got 8/12, which is 2/3, 3/4, and 7/12.",00:14:31
+mvmatmc,85,tutor,"So the question says— okay, so before that, how do you find the common denominator? [unclear]",00:14:46
+mvmatmc,86,student,Exactly.,00:14:54
+mvmatmc,87,student,12.,00:15:13
+mvmatmc,88,tutor,"Yes, well done. Fantastic explanation. You also did the reverse, which is the division, and also you explained. So 3 times 4 is 12, and when you divide the 4 by 12, you'll get a 3. So yes, that is the right answer. So 12 is the common multiple for 3 and 4. And you multiplied 3 by 12. How did you get this 8 here? [unclear]",00:15:13
+mvmatmc,89,student,"[unclear] is 12, and then whatever you do by the bottom, you do by the top. So 2 times 4 is 8.",00:15:40
+mvmatmc,90,tutor,"Well done. Good job. So you did the same thing here, yeah?",00:15:46
+mvmatmc,91,student,"Yeah, because 4 times 3 is 12, and we do 3 times 3 equals 9.",00:15:50
+mvmatmc,92,tutor,"Okay, brilliant effort, [STUDENT_NAME]. Fantabulous job. So whatever you do for the denominator, you need to do for the numerator as well. So 2 times 4 is 8, and 3 times 3 is 9. So you get 8 and 9. Well done. And your question is to order the fraction from smallest to largest. So 8/12 comes first, 3/4 comes next, and then 7/12. Okay, so you have to compare 7/12, 8/12, and 9/12. [unclear]",00:15:56
+mvmatmc,93,tutor,Do you think 8/12 is the smallest? [unclear],00:16:27
+mvmatmc,94,tutor,Okay.,00:16:46
+mvmatmc,95,student,[UNCLEAR],00:16:46
+mvmatmc,96,tutor,"Yeah, so well done. Yes, you would have to write the original fractions. But when you are comparing 7, 8, and 9, is 8 the smallest?",00:16:48
+mvmatmc,97,student,7.,00:17:07
+mvmatmc,98,tutor,"Exactly, 7 is the smallest. Yes, because we are writing from smallest to largest. So what needs to come at the first? [unclear]",00:17:08
+mvmatmc,99,tutor,"Well done, good job. And then 3/4, then 9 comes next. Yes, good job, great work. [unclear]",00:17:26
+mvmatmc,100,student,"You have 8 and 9. Which comes as the second smallest, 8 or 9?",00:17:34
+mvmatmc,101,student,8.,00:17:57
+mvmatmc,102,tutor,Exactly. So 8 is 2/3. [unclear] Well done. And then the largest one.,00:17:58
+mvmatmc,103,tutor,"Extraordinary job, [STUDENT_NAME]. Fantabulous working out. That was a lot of working at the starting of the session itself to do. So you really did a fantabulous job. Great work. So what did you learn while doing these questions, [STUDENT_NAME]? [unclear] [unclear]",00:18:19
+mvmatmc,104,tutor,"Hello, I cannot hear you clearly. Would you mind refreshing your page once for me please? Will that be all right with you, [STUDENT_NAME]? [unclear]",00:18:44
+mvmatmc,105,tutor,"Hello? Hello? Hello? Hello, [STUDENT_NAME], can you hear me? Hello? Hello, [STUDENT_NAME], can you hear me? [unclear]",00:19:11
+mvmatmc,106,tutor,"Oh, you can hear me and I cannot. Okay, give me a second. I'll try refreshing my page this time. Hello, can you still hear me, [STUDENT_NAME]?",00:19:40
+mvmatmc,107,tutor,"Can you still hear me? You can. Okay, so can you try speaking please? I cannot hear you. I actually cannot hear you. Okay. Is your— would you mind checking your mic for me please? Okay, were you about to say something? [unclear]",00:20:00
+mvmatmc,108,tutor,"I, yeah? Where are you going to? You don't— okay, okay, no problem. So you have this thing in your headset, yeah? Can I just check if it's on mute? This controls. Okay, no problem, no issues.",00:20:38
+mvmatmc,109,tutor,"Okay, so can you try checking this if you can, this microphone permission at the top of your screen? [unclear]",00:21:10
+mvmatmc,110,tutor,"Yes, thank you. So you click that and something like this will pop up and just choose a love like shown in this image, yeah? [unclear]",00:21:36
+mvmatmc,111,tutor,"It doesn't. Okay, so you mean this option is not showing? Isn't it showing this option, or is it that? [unclear]",00:22:03
+mvmatmc,112,tutor,"Okay, it's not the same. Okay, so you cannot see this. Yeah, it's not the same in your screen, I guess. Yes, okay. Okay, no issues, [STUDENT_NAME]. So one final try. Can you try refreshing your page for one last time?",00:22:22
+mvmatmc,113,tutor,"Your batteries? [unclear] Oh, your batteries are running low as well. Will you be able to charge it? Is it possible? Can you try getting help of your adult, please? If you can, if anyone is around. Is there anyone to help you out?",00:22:44
+mvmatmc,114,tutor,"Hello? Can you still hear me? Is my voice clear to you, [STUDENT_NAME]? Can you still hear me? I cannot hear you, so I guess you just need to type yes or no down. Yes, okay. So is there any supervisors or any teacher around that you can call to just check up? On what's happening. You have— [unclear]",00:23:15
+mvmatmc,115,student,"Okay, so you just refreshed your page and it",00:24:02
+mvmatmc,116,tutor,"doesn't work. Is it? Okay, no, no problem, [STUDENT_NAME]. That's all right. So since we— I'm unable to hear you, so will you be okay if you— if we continue to check, whereas I will be speaking since you cannot hear me, but you will need to type your answers down for me. Will you be okay with that?",00:24:02
+mvmatmc,117,tutor,"Okay, let's do that here. Yeah, okay. Yes, [STUDENT_NAME], so let's go for this question. So we are in the You Do slide and we have a few questions to solve. Would you try giving these questions a go, please? Okay, thank you.",00:24:33
+mvmatmc,118,tutor,"Yeah, so write each pair with a common denominator. [unclear] Okay, so you've got the answers real quick. Well done, [STUDENT_NAME], fabulous effort.",00:25:09
+mvmatmc,119,tutor,"Can you just show— I know it's really hard to type down long explanations. Can you just shortly type down on how you got the answers, please? [unclear]",00:25:26
+mvmatmc,120,tutor,"Or you can also just show [UNCLEAR]. Yes. You can type down your thoughts, no problem. [unclear]",00:25:56
+mvmatmc,121,tutor,"You think it is? Yeah? Yes, [STUDENT_NAME], you think it is?",00:26:25
+mvmatmc,122,tutor,"Since I cannot hear you, you can let me know if my voice is breaking or if it's not clear. You can let me know that as well since I don't know what's happening on that side since I cannot hear you. You think it is [UNCLEAR]? Okay. [unclear]",00:26:48
+mvmatmc,123,tutor,"It's closer. Okay, so your answer here says 6/10 is greater than 3/5, yeah? So [unclear]",00:27:20
+mvmatmc,124,tutor,"That is what your answer says here. So are you planning on to change your answer then? Okay, so yes, you're telling that 610 is greater than 350. So can you just show me the working you did here? Like, you don't need to type it down, just the working. Can you show that to me? Like, you don't have to type long answers, just the working. Can you type down just your working so I can understand how you did it? Like how I have done here. If you did any working like that, can you type that down, please, so I'll understand? You don't need to write big explanations or sentences. It will be easy. Will that be all right with you, [STUDENT_NAME]?",00:27:40
+mvmatmc,125,student,[unclear] [unclear],00:28:23
+mvmatmc,126,tutor,"You don't know how to explain. Okay, yes, you don't have to explain. So do you see this working that I have done here? Like timesing the working that I have done, times by 5, times by 5. So just workings like that. Can you just put down your mathematical working? You don't have to explain it. Will you be okay with doing that? You don't have to write explanations, just your mathematical working that you did here. That will be fine. [unclear]",00:28:37
+mvmatmc,127,student,"Okay, 3/5, yeah. [unclear]",00:29:30
+mvmatmc,128,tutor,3/5 is bigger.,00:29:43
+mvmatmc,129,tutor,"3/5 is smaller. Okay, so yes, that was your answer. 6/10 is greater than 3/5, yeah? So I just want to know how you got that answer, [STUDENT_NAME]. How are you saying 6/10 is greater than 3/5? [unclear] You don't know how to explain? Okay, no problem. Yeah, no issues. Okay, let's go through it together then. I'll just erase this, please.",00:29:49
+mvmatmc,130,tutor,"Yeah, okay. So, um, let's see which is greater and which is smaller, or which— if it is equal. So we have 6/10 and 3/5. So to know which is greater and which is smaller, we need to find a common denominator. Yeah, since the denominators are different, we need to find a common denominator. So when you take 10 and 5, I can choose 10 as a common denominator here because I can make 5 into a 10.",00:30:17
+mvmatmc,131,tutor,Mm-hmm.,00:30:45
+mvmatmc,132,student,"So to change the 5 into a 10, I need to multiply the 5 by a 2, because 5 times 2 will give me a 10. Yeah? I'll just write that down there. 5 times 2 is a 10. So whatever I do for the denominator, I need to do that for the numerator as well. So I need to do 3 times 2 as well.",00:30:47
+mvmatmc,133,tutor,"Okay, so can you write down the final answer? What is 3 times 2 and what is 5 times 2, [STUDENT_NAME]? Can you write that down here, please?",00:31:18
+mvmatmc,134,student,[unclear],00:31:25
+mvmatmc,135,tutor,"10, yes, well done. And 3 times 2?",00:31:30
+mvmatmc,136,student,6.,00:31:32
+mvmatmc,137,tutor,"6, excellent. What do you think now? We have 6/10 and 6/10. What do you think now? Do you plan on changing your answer or anything else?",00:31:33
+mvmatmc,138,tutor,What do you think is going to be the answer? Because we have 6/10 on both the sides. [unclear],00:31:53
+mvmatmc,139,tutor,"Yes, [STUDENT_NAME]. So is there anything you can put on the symbol here? It's equal. Well done. Good job. Brilliant focus, [STUDENT_NAME]. Extraordinary job. So can you try to do the same method here as well by finding a common denominator and get the answer, please? Would you try to do that here, please, by finding a common denominator? [unclear]",00:32:16
+mvmatmc,140,tutor,"Yes, do you think you can do that? Or if you have already found a common denominator and got the answer, you can show it to me like this, on what you multiplied to get what.",00:32:51
+mvmatmc,141,tutor,"You don't see a common denominator, is it? Hmm, okay. So common denominator is when you multiply a number by something, you have to— you can— you should be able to get another, um, the other number. So can't you multiply the 3 by anything to get a 9? 3 times what gives us a 9?",00:33:26
+mvmatmc,142,tutor,"Mm-hmm. 3 times 3 will give us a 9. Yeah, okay, exactly, [STUDENT_NAME]. So 3 times 3 will give us a 9. So that's going to be a 9. 2 times 3 is 6. That's going to be a 6/9. Mm-hmm. Okay, [STUDENT_NAME], but we do not have much time to continue this lesson, so I guess we need to end it right here. Can you just tell me what you learned today? Just in a few words maybe since you need to type. Just shortly will be fine.",00:33:52
+mvmatmc,143,student,You [UNCLEAR].,00:34:31
+mvmatmc,144,tutor,"Yes, you learned about. [unclear]",00:34:31
+mvmatmc,145,tutor,"Finding common denominator, is it?",00:34:58
+mvmatmc,146,student,Finding— yes.,00:35:05
+mvmatmc,147,tutor,"Okay. Great, [STUDENT_NAME]. That was really nice. And yes, how do you feel about your progress in this lesson? You can just write it as good, okay, or bad. Okay. Great. That's nice. So yes, fantabulous focus into this entire session. I know it was very hard for you typing down everything. So yes, that was a fantabulous effort, [STUDENT_NAME].",00:35:06
+mvmatmc,148,student,[UNCLEAR],00:35:06
+mvmatmc,149,tutor,You're welcome.,00:35:31
+mvmatmc,150,tutor,"Thank you so much. You have a nice day and a nice weekend as well, [STUDENT_NAME]. Have a great weekend with your granddad and your nanny. Yes, I'll see you next week. Bye-bye. Take care.",00:35:40

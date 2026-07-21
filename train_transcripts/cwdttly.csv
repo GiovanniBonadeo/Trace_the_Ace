@@ -1,0 +1,389 @@
+session_id,utterance_id,role,content,timestamp
+cwdttly,0,tutor,Hello?,00:00:00
+cwdttly,1,background,[unclear],00:00:00
+cwdttly,2,student,"Oh yeah, I hear you.",00:00:00
+cwdttly,3,tutor,Hello?,00:00:01
+cwdttly,4,student,Hello.,00:00:02
+cwdttly,5,tutor,"Hi, Cyrus.",00:00:03
+cwdttly,6,student,Hello.,00:00:04
+cwdttly,7,tutor,"Hello, how are you today?",00:00:06
+cwdttly,8,student,I'm doing good. How about you?,00:00:08
+cwdttly,9,tutor,"Good, good, thank you.",00:00:11
+cwdttly,10,student,"Oh, okay, I'm great to hear that you're doing good. So I hope you're ready for your session also today, right?",00:00:12
+cwdttly,11,student,"Yeah, we're ready.",00:00:20
+cwdttly,12,tutor,"Okay, I'm glad to hear that. And let's go ahead and see what we have for today then, right?",00:00:22
+cwdttly,13,student,Yeah.,00:00:29
+cwdttly,14,tutor,"Okay, Cyrus. So last week we started this topic using doubling and halving to find multiplication facts, right? So today I need you to start with the second question of the You Do slide because we completed until that. Okay? But I need you to get the answer for this using doubling or halving method. Can you remember that method?",00:00:30
+cwdttly,15,student,Yeah.,00:00:57
+cwdttly,16,tutor,"Yeah. Okay, then can you try to get the answer?",00:00:59
+cwdttly,17,student,Okay. [unclear] [unclear],00:01:02
+cwdttly,18,tutor,"No, could you please double-check?",00:01:31
+cwdttly,19,student,6 times 12. [unclear],00:01:36
+cwdttly,20,tutor,So how can you get the answer for this one? What do you need to do?,00:01:45
+cwdttly,21,student,Do I have to half it? [unclear],00:01:53
+cwdttly,22,tutor,Yeah.,00:02:04
+cwdttly,23,student,"So, okay.",00:02:06
+cwdttly,24,tutor,So can you think and tell me an easy way to get the answer for this?,00:02:15
+cwdttly,25,tutor,Any idea? I can give you a small clue.,00:02:28
+cwdttly,26,student,"Yeah, can you give me a small clue? That would be great.",00:02:31
+cwdttly,27,tutor,"Yes, okay. So here, 6 times 12, what you can do is you can pick either 6 or 12 and you split it, right? For an example, you can take 6 and you can split it, okay? So where you can get the answer for this one? So I will pick 12 since it is the largest number. Okay, so 12, you can split it as— any idea how can you split it?",00:02:35
+cwdttly,28,student,6 and 6.,00:03:02
+cwdttly,29,tutor,"Very good, 6 and 6. Good job. So then what you can do is, so first you work out on 6 times 6, okay, and you try to double the answer. Or else what you can do is you can do 12 times 3 instead of working on 12 times 6, and you double the answer.",00:03:04
+cwdttly,30,student,"OK, yeah.",00:03:25
+cwdttly,31,tutor,Is that clear?,00:03:25
+cwdttly,32,student,Yeah.,00:03:26
+cwdttly,33,tutor,Mm-hmm.,00:03:27
+cwdttly,34,student,"OK, so I'm going to start off with 6 times 6 is— is 6 times 6 24?",00:03:28
+cwdttly,35,tutor,No. [unclear] Shall we go with this method? I think that will be easier for you. So what you can do is let's try to make it a half. Let's try to make 6 a half. What is the half of 6?,00:03:39
+cwdttly,36,student,3.,00:03:55
+cwdttly,37,tutor,Very good. Now can you try to work out on 3 times 12 instead of 6 times 12?,00:03:56
+cwdttly,38,student,3 times 12 is— is it 44?,00:04:05
+cwdttly,39,tutor,No. Can you please double check?,00:04:13
+cwdttly,40,student,"Is it— is it— it's really hard. Sarah, is it 24?",00:04:17
+cwdttly,41,tutor,12 times 3.,00:04:30
+cwdttly,42,student,"Oh, okay. 3 times 2 is— [unclear]",00:04:32
+cwdttly,43,student,Is 6 and 1 times— is it 16?,00:04:42
+cwdttly,44,tutor,"Okay, it is 36, isn't it? Because 3 times 2 is 6, and 3 times 1 is 3, isn't it?",00:04:50
+cwdttly,45,student,Oh yeah.,00:04:59
+cwdttly,46,tutor,"Now what you can do is you can make this answer double, where you times it by 2, okay? Without multiplying it by 6, what you did was you split 6 into 3 times 2. So first you times 12 by 3, and then you times that answer by 2. Am I clear?",00:05:00
+cwdttly,47,student,[unclear] Yeah.,00:05:17
+cwdttly,48,tutor,Okay. So what is the answer then? 36 times 2?,00:05:20
+cwdttly,49,background,Do you want me to write it out for you?,00:05:25
+cwdttly,50,tutor,"Yes, please.",00:05:28
+cwdttly,51,background,Okay.,00:05:29
+cwdttly,52,tutor,Can you work out on that?,00:05:29
+cwdttly,53,background,Okay.,00:05:31
+cwdttly,54,student,[unclear],00:05:32
+cwdttly,55,student,[unclear],00:05:35
+cwdttly,56,tutor,Is that the answer? Is that the answer?,00:05:59
+cwdttly,57,student,"What is 6 times 2, Cyrus?",00:06:04
+cwdttly,58,tutor,6 times 2 is 12.,00:06:08
+cwdttly,59,background,Mm-hmm. Very good. So then what do you need to do?,00:06:11
+cwdttly,60,student,"After, then you need to do, and then you need to do 3 times 2.",00:06:18
+cwdttly,61,tutor,"Yeah, but before that you have to write the 2 and you write the 1 here. So what is 3 times 2?",00:06:25
+cwdttly,62,student,"Um, 3 times 2 is 6.",00:06:34
+cwdttly,63,tutor,"Very good. And you add this remaining 1. So 6 add into 1, what is it?",00:06:39
+cwdttly,64,student,7.,00:06:44
+cwdttly,65,tutor,"Okay, so what is the answer then?",00:06:45
+cwdttly,66,student,"Um, 72.",00:06:48
+cwdttly,67,tutor,Very good. So can you type your answer there?,00:06:51
+cwdttly,68,student,"Oh yeah, okay.",00:06:56
+cwdttly,69,tutor,"Right here, Cyrus, on this blank.",00:07:05
+cwdttly,70,student,[unclear] Sorry.,00:07:07
+cwdttly,71,tutor,It's okay.,00:07:08
+cwdttly,72,student,Trying to do that. [unclear],00:07:16
+cwdttly,73,tutor,Very good. Now can you try to work out on the second one? How can you split it so both you have 8 there? So how can you split 1/8?,00:07:23
+cwdttly,74,student,4.,00:07:40
+cwdttly,75,tutor,4 and?,00:07:42
+cwdttly,76,student,2.,00:07:44
+cwdttly,77,tutor,Very good. So what do you need to do first?,00:07:46
+cwdttly,78,student,Is make the place value column. I don't— I don't— [unclear],00:07:49
+cwdttly,79,tutor,"So you told 4 and 2, right?",00:07:57
+cwdttly,80,student,"Yeah, and then 8. So then 4, 4 and then 2.",00:08:00
+cwdttly,81,tutor,"So first you need to times the 8 by 4. And then you times that answer by 2, right?",00:08:09
+cwdttly,82,student,Yeah.,00:08:16
+cwdttly,83,tutor,Okay.,00:08:17
+cwdttly,84,student,That would be 8.,00:08:17
+cwdttly,85,tutor,"8 times 4, what is it?",00:08:21
+cwdttly,86,student,"Um, 8 is 3 times 4.",00:08:24
+cwdttly,87,tutor,8 times 4. [unclear],00:08:32
+cwdttly,88,student,"Um, yeah, by the way, I'm, yeah, just saying, I'm really, really sorry for all the silly things I did, by the way.",00:08:39
+cwdttly,89,tutor,I'm sorry?,00:08:48
+cwdttly,90,student,"I'm really sorry for all the things, the silly things I did.",00:08:49
+cwdttly,91,tutor,"Oh, okay, it's totally fine. You didn't do anything wrong.",00:08:54
+cwdttly,92,student,"Okay, thank you.",00:09:00
+cwdttly,93,tutor,"No need to worry, Cyrus. So how about this one? 8 times 4? And 8 [unclear] 4. 8. Can you remember 8 times table? If not, let's try to write it down in the side.",00:09:02
+cwdttly,94,student,Okay.,00:09:28
+cwdttly,95,tutor,So let's begin with 8.,00:09:29
+cwdttly,96,student,8.,00:09:36
+cwdttly,97,tutor,Mm-hmm. What is the next one?,00:09:37
+cwdttly,98,student,16.,00:09:41
+cwdttly,99,tutor,Very good.,00:09:43
+cwdttly,100,student,18.,00:09:45
+cwdttly,101,tutor,"Mm-hmm. So after 16, is it 18?",00:09:46
+cwdttly,102,student,"Oh, is it 24?",00:09:51
+cwdttly,103,tutor,Exactly.,00:09:53
+cwdttly,104,student,And then after that is— is it 32?,00:09:58
+cwdttly,105,tutor,"Very good, it is 32. So 8 times 4 is 32. Well done. Now what do you need to do?",00:10:04
+cwdttly,106,student,Is it 5? Oh.,00:10:12
+cwdttly,107,tutor,"Okay, 32 isn't the answer because here you split 8 into 4 and 2. So first you times it by 4, but now again you have to times 30— 2 by 2.",00:10:15
+cwdttly,108,student,42 by 2. [unclear],00:10:27
+cwdttly,109,tutor,32.,00:10:31
+cwdttly,110,student,32 times 2. 2 times 2 is 4.,00:10:34
+cwdttly,111,tutor,Mm-hmm.,00:10:42
+cwdttly,112,student,4. And then 3 times 2 is 6.,00:10:47
+cwdttly,113,student,Is 6. So that would be 64.,00:10:53
+cwdttly,114,tutor,"Exactly, there you go. So you can type your answer there.",00:10:56
+cwdttly,115,student,Yeah. [unclear] 64.,00:11:02
+cwdttly,116,tutor,"Good job. Let's move on to the next one, right? So 5 times 9. What is the number you can easily split here? Is it 40?",00:11:10
+cwdttly,117,tutor,I'm sorry?,00:11:19
+cwdttly,118,student,Is the answer 40?,00:11:23
+cwdttly,119,tutor,"No, Cyrus.",00:11:25
+cwdttly,120,student,Oh.,00:11:26
+cwdttly,121,tutor,Can you double-check?,00:11:27
+cwdttly,122,student,Pardon?,00:11:31
+cwdttly,123,tutor,Can you please double-check?,00:11:32
+cwdttly,124,student,"It's 5 times 9. 5, 10, 15, 20, 25, 30, 35, 40, 45. Is it 45?",00:11:35
+cwdttly,125,tutor,"It is 45. Well done. But if you use the doubling and halving method, how can you get the answer? Any idea?",00:11:46
+cwdttly,126,student,You could do column addition.,00:11:56
+cwdttly,127,tutor,No. What was the method I taught you now?,00:12:02
+cwdttly,128,background,"Wait, let me just think about it again.",00:12:06
+cwdttly,129,student,Is it... [unclear],00:12:11
+cwdttly,130,tutor,"You split 8 into 4 and 2 because 4 times 2 gives you 8, isn't it?",00:12:32
+cwdttly,131,student,Yeah.,00:12:36
+cwdttly,132,tutor,"Okay, so out of 5 and 9, what do you—",00:12:37
+cwdttly,133,student,"Oh yeah, you take away the 8, yeah, and then it's 4, and then you take away the 4 and then it will be into 2s. [unclear]",00:12:41
+cwdttly,134,tutor,"Okay, and now what you need to do here is you can split 9 here, right? So which number times which number gives you a 9? Any idea?",00:12:53
+cwdttly,135,student,No.,00:13:11
+cwdttly,136,tutor,"3 times 3, right? Because 3 times 3 will give you a 9, isn't it?",00:13:12
+cwdttly,137,student,Yeah.,00:13:18
+cwdttly,138,tutor,"Okay, so then you first work out on 5 times 3. What is 5 times 3?",00:13:19
+cwdttly,139,student,5 times 3 is 15.,00:13:25
+cwdttly,140,tutor,Very good. And then you times 15 again by 3.,00:13:27
+cwdttly,141,student,Yeah.,00:13:32
+cwdttly,142,tutor,So what is 15 times 3?,00:13:33
+cwdttly,143,student,15. Can I do that in column addition?,00:13:35
+cwdttly,144,tutor,[unclear] Multiplication?,00:13:39
+cwdttly,145,student,Yeah.,00:13:43
+cwdttly,146,tutor,"Mm-hmm. Okay, I will write it down for you. So 15 times 3.",00:13:44
+cwdttly,147,student,So 5 times 3 is 15.,00:13:49
+cwdttly,148,tutor,"Mm-hmm. And then put that like that. And then 1 times 3 is 3. Add the 4, it's going to be 5.",00:13:53
+cwdttly,149,tutor,"Add the 1, right?",00:14:06
+cwdttly,150,student,"Oh yeah, add the 1. Will be 5.",00:14:08
+cwdttly,151,tutor,Is it 5? [unclear] 3 add into 1?,00:14:11
+cwdttly,152,student,"3 add 1, 4.",00:14:16
+cwdttly,153,tutor,Exactly. So that's how we got the answer for 45. Am I clear for you now?,00:14:19
+cwdttly,154,student,Yeah.,00:14:26
+cwdttly,155,tutor,"Okay, so here you can use the doubling or halving method. So you can do that by pick one number and you try to split it, okay, into two numbers where you can get the answer. And you pick the other number and times separately by each number that you split it, right?",00:14:26
+cwdttly,156,student,Yeah.,00:14:46
+cwdttly,157,tutor,"Okay, Cyrus, now I'm going to take you to the next slide, okay? So here we have another question. Can you please read it? [Speaker:Cyrus]... Hockey has 5 12-liter buckets of water. [UNCLEAR]... has 10 6-liter buckets of water. [unclear] 'He has more water than hockey.' Is he right? Why? Why not? [unclear]",00:14:46
+cwdttly,158,student,So I have to work it out?,00:15:22
+cwdttly,159,tutor,Yes. What do you think the answer is? Any idea?,00:15:30
+cwdttly,160,student,Is the answer... [unclear],00:15:34
+cwdttly,161,tutor,"What do you need to do first, Cyrus?",00:15:55
+cwdttly,162,student,I know. You take away 6.,00:15:57
+cwdttly,163,tutor,"No, it's not to take away. Hockey has 5 12-liter buckets of water. So can you tell me, how can you find the total volume of water that Hockey has? What do you need to do?",00:16:01
+cwdttly,164,student,[unclear],00:16:20
+cwdttly,165,tutor,Mm-hmm. Any idea?,00:16:21
+cwdttly,166,student,No.,00:16:41
+cwdttly,167,tutor,"Oh, okay. So it's 6, 5...",00:16:42
+cwdttly,168,student,"Wait, does Sander have more? Is Sander wrong? Because he says that he's got more water than Hockey, but Hockey has 5, 12... [unclear] bucket of water. So isn't Hockey got more water?",00:16:44
+cwdttly,169,tutor,"Is it? So you have to find it out, okay, whether Hockey or Seda has more water, right? So to do that, you have to go with the multiplication, right? So just imagine that you have a bucket like this, okay? So Hockey is having 12 liters, 5 buckets like this, okay? There are 5, so you have to times it by 5. But when it comes to Seda, he got 10 buckets with 6 liters. So again, you have to times it and find the volume of Seda. So can you work out on both these and tell me the answer? So this is Hockey, and this is Seda.",00:17:04
+cwdttly,170,student,[unclear],00:17:43
+cwdttly,171,tutor,"What is 12 times 5, and what is 10 times 6? You can use doubling or halving method.",00:17:47
+cwdttly,172,student,"Wait, is it 12 times 5 and 10 times 6?",00:17:54
+cwdttly,173,tutor,Yes.,00:18:01
+cwdttly,174,student,"Oh, 10 times 6 is 60, and 12 times 5 is... I'll go do the doubling and halving methods. [unclear]",00:18:02
+cwdttly,175,student,It's really hard.,00:18:24
+cwdttly,176,tutor,"Okay, so let's work out on 12 times 5. So to get the answer, you can split 12 into— what are the two numbers? What two numbers will give you by multiplying the answer 12?",00:18:28
+cwdttly,177,student,Um—,00:18:41
+cwdttly,178,student,6.,00:18:46
+cwdttly,179,tutor,"Mm-hmm. 6 times 2, is it?",00:18:47
+cwdttly,180,student,Yeah.,00:18:49
+cwdttly,181,tutor,"Okay, so let's say 6 times 2 then. So first you have to work out on 5 times 2. What is 5 times 2?",00:18:50
+cwdttly,182,student,10.,00:18:58
+cwdttly,183,tutor,And 10 times 6?,00:19:00
+cwdttly,184,student,[unclear] 60.,00:19:01
+cwdttly,185,tutor,"Very good. So the total volume of water that Hockey has is 60 liters. Let's try to work out on [unclear] one. Which number you want to split, 10 or 6?",00:19:03
+cwdttly,186,student,"10, please.",00:19:17
+cwdttly,187,tutor,"Okay, so can you split 10 into 2 numbers? What numbers?",00:19:21
+cwdttly,188,student,5.,00:19:26
+cwdttly,189,tutor,"Very good, 5 and?",00:19:27
+cwdttly,190,student,5 and 5.,00:19:29
+cwdttly,191,tutor,"So 5 times what number gives you 10? 5 times 5, 5 times 2 equals 10.",00:19:31
+cwdttly,192,tutor,"Very good, 5 times 2. So then first you have to work out on 5 times 2. So let's multiply 5 by 6. What is 5 times 6?",00:19:45
+cwdttly,193,student,"5 times 6 is [UNCLEAR]. Wait, one second, let me just count with my fingers. 5 times 6?",00:19:57
+cwdttly,194,tutor,Yeah.,00:20:04
+cwdttly,195,student,"5, 10, 15, 20, 25, 30. Is it 30?",00:20:05
+cwdttly,196,tutor,Well done. And how about 30 times 2?,00:20:12
+cwdttly,197,student,"Um, 40 times 2. [unclear] 60.",00:20:17
+cwdttly,198,tutor,There you go. So what's the final answer then?,00:20:24
+cwdttly,199,student,60.,00:20:27
+cwdttly,200,tutor,"60 liters. Okay, now what do you think? Is he correct? [unclear] Does he have more water than Hoki?",00:20:29
+cwdttly,201,student,Yeah.,00:20:38
+cwdttly,202,tutor,Is it?,00:20:39
+cwdttly,203,student,"Oh no, he hasn't.",00:20:40
+cwdttly,204,tutor,So what do you think then? What is the answer?,00:20:42
+cwdttly,205,student,60 liters.,00:20:47
+cwdttly,206,tutor,"Both are 60 liters, which means none of them has more water, right? They both have the same amount of water, right? Right?",00:20:49
+cwdttly,207,student,Mm-hmm.,00:20:56
+cwdttly,208,tutor,So that's why [unclear] is wrong. So is this clear for you?,00:20:57
+cwdttly,209,student,Yeah.,00:21:01
+cwdttly,210,tutor,"Okay, Cyrus. So good job for completing this topic. I think now you learn how to work out on a multiplication using a doubling and halving method, isn't it?",00:21:02
+cwdttly,211,student,Yeah.,00:21:13
+cwdttly,212,tutor,"Okay. So before I take you to the next lesson, would you like to brief me what did you learn under this topic? [unclear]",00:21:14
+cwdttly,213,tutor,"Okay, would you like to brief him what else you'll learn? What are the methods you'll learn?",00:21:32
+cwdttly,214,student,"About taking, like, when you've got a big number and then you multiply it into different other numbers and stuff.",00:21:38
+cwdttly,215,tutor,"Mm-hmm. Yes, very good. So you learned an easy method to do multiplication, right? So I hope you can remember that. So let's see what we have as our next topic.",00:21:50
+cwdttly,216,student,"OK, can you read the topic for me? [unclear] Today you will learn about using multiplication and division facts up to 12 times 12. [unclear]",00:22:04
+cwdttly,217,tutor,Very good. Can you try on learning goal question here?,00:22:20
+cwdttly,218,student,"Yeah. Okay, it takes Ellie 7 minutes to walk to the park. It takes Jack 4 times as long. Calculate how long it takes Jack to walk. To the park.",00:22:26
+cwdttly,219,tutor,Mm-hmm. [unclear],00:22:52
+cwdttly,220,student,It takes Ellie 7 minutes to walk to the park. It takes Jack 4 times as long. So the calculation is 4 times 7.,00:22:55
+cwdttly,221,student,Or 7 times 4.,00:23:09
+cwdttly,222,tutor,What do you think?,00:23:12
+cwdttly,223,student,Um...,00:23:14
+cwdttly,224,tutor,"Both are correct. Like, if you just change the direction, it's totally fine. So 7 times 4, 4 times 7, both give the same answer. So what is the answer then?",00:23:15
+cwdttly,225,student,Um... [unclear] 74?,00:23:27
+cwdttly,226,tutor,7 times 4. Can you go with 7 times table or else 4 times table?,00:23:36
+cwdttly,227,student,"7 and let's— 7, 14, 14, 15, 16, 17, 18, 19, 20, 21. 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35. Is it 35?",00:23:44
+cwdttly,228,tutor,No. [unclear] 7 times 4.,00:24:20
+cwdttly,229,student,7 times 4.,00:24:24
+cwdttly,230,tutor,So 7 times 1 is 7. What is 7 times 2?,00:24:28
+cwdttly,231,student,Is 14.,00:24:33
+cwdttly,232,tutor,Very good. And what is 7 times 3?,00:24:38
+cwdttly,233,student,"Um, 21.",00:24:42
+cwdttly,234,tutor,There you go. And what is 7 times 4?,00:24:44
+cwdttly,235,student,"20... [unclear] 24, 25, 26, 27, 28.",00:24:48
+cwdttly,236,tutor,There you go. So what's the final answer then?,00:24:58
+cwdttly,237,student,28.,00:25:03
+cwdttly,238,tutor,"Yes, good job. How about prior learning question, Cyrus?",00:25:05
+cwdttly,239,student,"Okay. [unclear] Circle the numbers that are multiplied by 4. 16, 40, 40. There's 21 of them. There's 21 of them.",00:25:12
+cwdttly,240,tutor,What do you think? You just have to go through the 4 times table. And check whether those numbers are there.,00:25:44
+cwdttly,241,student,"Oh, okay. 4, 4, 6, 8, 12, 12, 8, 18, [unclear] no, 15. 15.",00:25:50
+cwdttly,242,tutor,"15, can you find it in the 4 times table?",00:26:16
+cwdttly,243,student,"No, yeah, no, yeah, 14, 18, 20. Well, no, 14, 18, 14, 18, 19.",00:26:20
+cwdttly,244,tutor,So 14 and 18 you cannot find in 4 times table. Can you start from the beginning?,00:26:34
+cwdttly,245,student,"[unclear] Okay. 4, 6.",00:26:42
+cwdttly,246,tutor,"So after 4 and 6 in the 4 times table, what is 4 times 2?",00:26:46
+cwdttly,247,student,8.,00:26:56
+cwdttly,248,tutor,Alright.,00:26:57
+cwdttly,249,student,16.,00:27:04
+cwdttly,250,tutor,"Good. Yeah, so you can circle those numbers.",00:27:06
+cwdttly,251,student,18.,00:27:15
+cwdttly,252,tutor,18. Can you find it in the 4 times table?,00:27:17
+cwdttly,253,student,Yeah.,00:27:20
+cwdttly,254,tutor,"After 16, what do you see?",00:27:20
+cwdttly,255,student,"16, 20.",00:27:23
+cwdttly,256,tutor,Very good. [unclear],00:27:27
+cwdttly,257,student,Add 28. 10 and 28.,00:27:38
+cwdttly,258,tutor,Mm-hmm. There's one more. What is it?,00:27:45
+cwdttly,259,student,"Oh, it's 28. 28.",00:27:54
+cwdttly,260,tutor,"Very good. Yes, it is.",00:27:57
+cwdttly,261,tutor,"Very good, Cyrus. Well done. Okay, so no need to hurry, just read the question, right? So it says, what are the multiples of 4? So you quickly go with the 4 times table, right? If you can't remember to write the 4 times table or to memorize the 4 times table directly, just write it down. Okay?",00:28:00
+cwdttly,262,student,Okay.,00:28:19
+cwdttly,263,tutor,"Okay, very well done with that. So let me quickly take you to the [unclear] slide. Can you read the first question and try?",00:28:21
+cwdttly,264,student,A regular hexagon has a side of 7 meters. What is its [UNCLEAR]?,00:28:29
+cwdttly,265,tutor,"So, its perimeter.",00:28:40
+cwdttly,266,student,"Oh, okay.",00:28:44
+cwdttly,267,tutor,Can you remember what is perimeter?,00:28:48
+cwdttly,268,student,"Wait, is that",00:28:51
+cwdttly,269,student,7 centimeters.,00:28:52
+cwdttly,270,tutor,So 7 centimeters is the length of one side. What is perimeter?,00:28:54
+cwdttly,271,student,The perimeter is the whole—,00:29:00
+cwdttly,272,tutor,"Exactly, the perimeter is the whole distance of the surrounding of the object, right?",00:29:03
+cwdttly,273,student,Yeah.,00:29:09
+cwdttly,274,tutor,"Okay, so can you try to give the answer for this then?",00:29:10
+cwdttly,275,student,Um—,00:29:15
+cwdttly,276,student,"7 meters. 7, 14, 21, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 41, 42. [unclear]",00:29:17
+cwdttly,277,tutor,"There you go, well done. And please don't forget about the units also. What is the unit here? [unclear] Centimetres. Yes, very good. Okay, so I'll do the next one.",00:29:44
+cwdttly,278,tutor,Can you type centimetre before that?,00:30:06
+cwdttly,279,student,Pardon?,00:30:10
+cwdttly,280,tutor,Can you type centimetre before that? 42 centimetres.,00:30:11
+cwdttly,281,student,Oh yeah.,00:30:15
+cwdttly,282,tutor,"Centimetres. [unclear] Centimetres should come to the end of the number, right?",00:30:25
+cwdttly,283,student,Okay. I'll do the next one.,00:30:34
+cwdttly,284,tutor,"Yeah, please.",00:30:37
+cwdttly,285,student,Okay. It takes 10 [Speaker] It takes Ben 8 minutes to walk to school. It takes Tim 3 times as long. How long does it take Tim to walk to school? [Speaker] It takes Ben 8 minutes to walk to school. 8 times 3. [unclear] 8 times 3. 8 times 3.,00:30:39
+cwdttly,286,student,"So 16. Is it 9, 19, 19? So 8 times 3. It takes 8 minutes for Ben to walk to school and then it takes 3 minutes",00:31:07
+cwdttly,287,student,To walk. And it takes Tim 3 times as long. So that would be 8 times 3.,00:31:34
+cwdttly,288,tutor,"Yeah, that's a very good—",00:31:41
+cwdttly,289,student,"So, 4— so what's 1 times 8? 8. 2 times 8? 8. [unclear]",00:31:42
+cwdttly,290,tutor,Yeah. It's so hard.,00:31:54
+cwdttly,291,tutor,Can you write down the 8 times table? No need to [UNCLEAR]. So let's see if you can get the answer there.,00:32:01
+cwdttly,292,student,"Okay, I'll do that. [unclear]",00:32:09
+cwdttly,293,tutor,"After it, what do you see?",00:32:39
+cwdttly,294,student,Something's getting with the fish. [unclear],00:32:41
+cwdttly,295,student,16.,00:32:57
+cwdttly,296,tutor,Very good.,00:32:58
+cwdttly,297,student,16. 24.,00:33:01
+cwdttly,298,tutor,Very good. So what's the answer then?,00:33:09
+cwdttly,299,student,24.,00:33:12
+cwdttly,300,tutor,"Very good. Yes, it is 24. An egg box contains 6 eggs. I need 54 eggs. How many boxes should I buy?",00:33:15
+cwdttly,301,tutor,"And at the same time, you have to type minutes here. [unclear]",00:33:34
+cwdttly,302,student,"Oh, sorry.",00:33:37
+cwdttly,303,tutor,It's fine. How about next Monday?,00:33:38
+cwdttly,304,tutor,Yeah.,00:33:45
+cwdttly,305,student,"Okay, an egg carton contains 6 eggs. I need 54 eggs. How many boxes should I buy? [unclear] 6 times— 54 times 6?",00:33:47
+cwdttly,306,tutor,No. An egg carton contains 6 eggs.,00:34:07
+cwdttly,307,tutor,This time it's a bit different. [Speaker:Cyrus]...box contains 6 eggs. I need 54 eggs. So that will be 54 take away 6.,00:34:12
+cwdttly,308,tutor,It's not a takeaway. What do you think?,00:34:29
+cwdttly,309,student,Oh. An egg [unclear] box contains 6 eggs. I need 54 eggs.,00:34:33
+cwdttly,310,tutor,"What do you need to do? It says you can put 6 eggs for one egg box contain— it's egg box, right?",00:34:42
+cwdttly,311,student,Yeah.,00:34:49
+cwdttly,312,tutor,"But already you have 54 eggs. So how many boxes will you need to fill this? You have 54 eggs, but you can put only 6 eggs to one box. So how many boxes you need? What do you need to do? [unclear]",00:34:49
+cwdttly,313,tutor,54. You have to divide the 54 by 6 because you're going to put 6 into one box and you have 54. So you have to count how many boxes need. So you Divide 54 by 6. Can you do the division? [unclear] Shall we follow the bus stop method?,00:35:16
+cwdttly,314,student,Yeah.,00:35:41
+cwdttly,315,tutor,Okay.,00:35:42
+cwdttly,316,student,6.,00:35:43
+cwdttly,317,tutor,So 6 times which number gives you 50-something?,00:35:44
+cwdttly,318,student,6. [unclear],00:35:52
+cwdttly,319,tutor,64. 6 times what number gives you 50-something?,00:36:12
+cwdttly,320,student,"Yeah, it's because I thought we were doing times, like when we times in",00:36:20
+cwdttly,321,student,When we're timesing this and this together. [unclear],00:36:25
+cwdttly,322,tutor,"This is actually a division, right? In the Bust Up Method, what we do is we divide.",00:36:34
+cwdttly,323,student,So that would be 6 divided by 5.,00:36:42
+cwdttly,324,tutor,Exactly. So 54 divided by 6. So 5 divided by 6. [unclear],00:36:45
+cwdttly,325,tutor,"So to get the answer, I will tell you an easy game, right? Can you write down the 6 times table in a side here? Can you write 6 times table? Very good.",00:36:53
+cwdttly,326,student,"6, 12, 18, 24, 30.",00:37:11
+cwdttly,327,student,"18. [unclear] 18. 6, 18, 24.",00:37:26
+cwdttly,328,tutor,Mm-hmm.,00:37:36
+cwdttly,329,student,24.,00:37:41
+cwdttly,330,student,And then 42.,00:37:43
+cwdttly,331,tutor,"After 24, what is 6 times 5?",00:37:49
+cwdttly,332,student,"6 times 5. 6 times [unclear] 6. 5, 10, 15, 20, 25, 30.",00:37:52
+cwdttly,333,tutor,Mm-hmm. Very good. And what is 6 times 6? 48.,00:38:00
+cwdttly,334,tutor,Is it 38?,00:38:17
+cwdttly,335,student,"Um, 38 into 6, what is it?",00:38:19
+cwdttly,336,tutor,"Oh no, um...",00:38:23
+cwdttly,337,tutor,"It's 36, right?",00:38:36
+cwdttly,338,student,Yeah.,00:38:39
+cwdttly,339,tutor,"Okay, after 36, what does it say?",00:38:40
+cwdttly,340,student,"36. Wait, do I have to write down 36?",00:38:44
+cwdttly,341,tutor,"Yes, after 36, what does it say?",00:38:48
+cwdttly,342,student,"Oh, um, it's [UNCLEAR]. So 36, 76, what is it? [unclear]",00:38:51
+cwdttly,343,student,"46. 46, 47, 48, 49, 40.",00:39:09
+cwdttly,344,tutor,No.,00:39:17
+cwdttly,345,student,"46, 47, 48, 49, 40, 41, 42.",00:39:18
+cwdttly,346,tutor,"There you go. So 36, then 42, after that? [unclear]",00:39:24
+cwdttly,347,student,"After that, 42, 43, 44, 45, 46, 47, 48, 49, 50.",00:39:36
+cwdttly,348,tutor,No. You have to add only a 6.,00:39:47
+cwdttly,349,student,"Oh. 46. No, 42, 43, 44, 45, 46, 47, 48.",00:39:53
+cwdttly,350,tutor,"Very good, it's a 48. After that, what is it?",00:40:02
+cwdttly,351,student,"40... 48... [unclear] 48, 48, um, 48, 48, 48, 49, 50, 51, 52, 54. [unclear]",00:40:09
+cwdttly,352,student,54.,00:40:39
+cwdttly,353,student,54.,00:40:45
+cwdttly,354,tutor,"Yes, very good.",00:40:45
+cwdttly,355,student,54.,00:40:48
+cwdttly,356,tutor,"Okay, now you got the answer, isn't it?",00:40:50
+cwdttly,357,student,54.,00:40:53
+cwdttly,358,tutor,Yes. So how— 6 times what number gives you 54?,00:40:55
+cwdttly,359,student,Pardon?,00:41:00
+cwdttly,360,tutor,"6 times what number gives you 54? You can count on 1, 2, 3, 4, 5, 6. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.",00:41:00
+cwdttly,361,tutor,"So 9, right?",00:41:19
+cwdttly,362,student,Yeah.,00:41:22
+cwdttly,363,tutor,"This is 6 times 1, 2, 3, 4, 5, 6, 7, 8, and 9. So which means 54 divided by 6 is 9. So how many boxes do you need here? [unclear]",00:41:23
+cwdttly,364,tutor,"Exactly, it's a 9. So if you can't remember the times table, or you can't— if you can't do the division, just try to write down the times table in a side, right?",00:41:39
+cwdttly,365,student,Yeah.,00:41:54
+cwdttly,366,tutor,"All right, Cyrus, you did a really, really good job with today's topic. So yeah, and, um, yeah, I'm really grateful, like, when, when I'm like silly in like sessions and stuff.",00:41:55
+cwdttly,367,tutor,"Oh, okay. No need to think about it. You are doing great today, right? So let me take you to the Go Further slide. Shall we begin with answering this also? Again, it's about multiplication, right?",00:42:08
+cwdttly,368,student,Yeah. [unclear] Go Further. Can you complete the new multiplication grid using your multiplication and addition facts?,00:42:21
+cwdttly,369,student,"So, 5, 5, 15, no, I'll start from 3. Wait, can you complete the question good using your multiple [unclear]",00:42:38
+cwdttly,370,student,"Okay, 3, 6, 7, 8, 9, 10.",00:43:00
+cwdttly,371,student,"So it's 3, 6. 3, 6. 9.",00:43:24
+cwdttly,372,tutor,Very good.,00:43:35
+cwdttly,373,student,9. [unclear] 15.,00:43:39
+cwdttly,374,tutor,15.,00:43:50
+cwdttly,375,student,18.,00:43:56
+cwdttly,376,tutor,"18? [unclear] Like, it's not like this, Cyrus. You have to work out on 6 times 5. Am I clear? Where you will cross work out like this. So 5 times 3, you will get 15, and it's here, right?",00:43:58
+cwdttly,377,student,Yeah.,00:44:14
+cwdttly,378,tutor,"Okay, Cyrus, I'm so sorry. I don't think we have enough time to go ahead with the session. Because the time is up for today's session, right?",00:44:15
+cwdttly,379,student,Thank you.,00:44:23
+cwdttly,380,tutor,"You have done an amazing, amazing job so far, right? I'm so proud of you, right? So well done for doing a great job. So let me wind up the session for today, right?",00:44:24
+cwdttly,381,background,"Wait, wait, wait. Thank you for teaching me for [UNCLEAR].",00:44:34
+cwdttly,382,tutor,"I'm so, so happy to teach you, Cyrus.",00:44:38
+cwdttly,383,background,Thank you.,00:44:42
+cwdttly,384,tutor,Thank you so much for being that much grateful. So have a great day and take care. Bye-bye.,00:44:43
+cwdttly,385,tutor,Bye.,00:44:49
+cwdttly,386,student,Bye.,00:44:50
+cwdttly,387,background,Bye.,00:44:52

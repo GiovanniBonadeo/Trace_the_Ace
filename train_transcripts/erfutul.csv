@@ -1,0 +1,277 @@
+session_id,utterance_id,role,content,timestamp
+erfutul,0,tutor,Hello? [unclear] [unclear],00:00:00
+erfutul,1,student,Hello.,00:01:41
+erfutul,2,tutor,Hello? Hello? Hello? Hello? [unclear],00:01:49
+erfutul,3,tutor,Hello?,00:02:18
+erfutul,4,student,"All right, you can hear me. I cannot hear you, [UNCLEAR]. Can you please refresh your page?",00:02:22
+erfutul,5,tutor,Yeah.,00:02:22
+erfutul,6,student,Hello?,00:02:24
+erfutul,7,student,Hello.,00:02:35
+erfutul,8,tutor,Hello.,00:02:37
+erfutul,9,student,"Yep, I can hear you now. Thank you for refreshing. All right. How are you doing today?",00:02:38
+erfutul,10,tutor,Good.,00:02:44
+erfutul,11,student,"Good, that's great to hear. How's your day been so far?",00:02:45
+erfutul,12,tutor,Great.,00:02:49
+erfutul,13,student,"Great, all right. Okay, so let's get into our session. Do you recall what we were doing during our last session? And also, can you please tell me how do I pronounce your name? Is it [STUDENT_NAME]?",00:02:52
+erfutul,14,student,Yeah.,00:03:04
+erfutul,15,tutor,"All right, great. So can— do you remember what you were doing during your last session, [STUDENT_NAME]?",00:03:06
+erfutul,16,student,No.,00:03:11
+erfutul,17,tutor,No. Can you try to recall? [unclear] Pardon? Can you try to recall?,00:03:13
+erfutul,18,student,Multiplying and dividing whole numbers and decimals by 10 and 100.,00:03:25
+erfutul,19,tutor,Okay. What do you remember from your last session?,00:03:31
+erfutul,20,student,I don't remember.,00:03:37
+erfutul,21,tutor,"You don't remember. Okay. So we actually started on this topic and we'll have to go from our prior learning slide. So can you tell me, do you know what happens when you multiply and divide a number? [unclear]",00:03:39
+erfutul,22,student,"If you are multiplying, the number gets bigger. But if you are dividing, the number becomes smaller.",00:03:56
+erfutul,23,tutor,"Yep, exactly. Thank you for that explanation. So that's pretty much it. So do you know how to multiply a number by 10 and 100? [unclear] Yeah?",00:04:07
+erfutul,24,student,Yes.,00:04:20
+erfutul,25,tutor,Yep. So can you tell me what happens when you multiply a number by 10?,00:04:21
+erfutul,26,student,Use place value movement.,00:04:28
+erfutul,27,tutor,"Yep, very well done. So let's jump to our Let's Learn slide, right? So you can either use a place value— [unclear] Sorry, we have to continue from our prior learning slide, right? Yeah, so this explains How the place value works. Can you read the green box for me, [STUDENT_NAME]?",00:04:32
+erfutul,28,student,"Before multiplying and dividing the decimals by 10 or 100, we need to understand how the value of the digits change depending on its position.",00:04:59
+erfutul,29,tutor,"Yeah, so depending on the position it is, right, the value changes. Yes? Is that clear?",00:05:10
+erfutul,30,student,Yes.,00:05:18
+erfutul,31,tutor,"Okay, so in part A, we have a place value right here. What are the places that they have given?",00:05:19
+erfutul,32,student,"Ones, tens, and hundreds.",00:05:26
+erfutul,33,tutor,"Very well done. So now we know this 1 represents a whole, right? One whole.",00:05:32
+erfutul,34,student,Yes.,00:05:38
+erfutul,35,tutor,"Yep. So as you move each one place to the right, one jump to the right, it gets 10 times smaller because it's divided by 10. That's how you get one block of it out of this, right?",00:05:39
+erfutul,36,student,Yeah.,00:05:54
+erfutul,37,tutor,"Divided by 10. And further, another jump, it's divided by another 10. Basically, if it's two jumps, that means it's divided by a— [unclear] Is that clear? Is that clear what the diagram is showing us?",00:05:55
+erfutul,38,student,[unclear],00:06:17
+erfutul,39,tutor,"Yep. So when you divide this one whole by 10, you get one-tenth, right? When you divide the one-tenth by another 10, you get hundredths. You just get one tiny cube. Is that clear?",00:06:18
+erfutul,40,student,Yeah.,00:06:31
+erfutul,41,tutor,"So the same way, this side is division.",00:06:32
+erfutul,42,tutor,"Right? This side when you go, it gets 10 times bigger. It's been multiplied by 10. One jump means it's multiplied by 10. So each jump is multiplied by 10, right?",00:06:35
+erfutul,43,student,Yeah.,00:06:50
+erfutul,44,tutor,"So if it's 2 jumps, it's multiplied by 10 times 10.",00:06:50
+erfutul,45,student,[unclear] 100.,00:06:54
+erfutul,46,tutor,Exactly. Was that clear?,00:06:57
+erfutul,47,tutor,"Was that clear, [STUDENT_NAME]?",00:07:01
+erfutul,48,student,Yes.,00:07:03
+erfutul,49,tutor,"Okay, great. So now let's jump to Part B. Can you tell me what is this picture showing right here, the blocks? How many?",00:07:03
+erfutul,50,background,3/10.,00:07:14
+erfutul,51,tutor,Very well done. 3/10. How do we write that as a decimal number?,00:07:15
+erfutul,52,background,"Um, uh...",00:07:22
+erfutul,53,student,I think 0.3.,00:07:26
+erfutul,54,tutor,"Very well done. That's how you write it, 0.3. So 0.3 when divided by 10, what happens? What does it become?",00:07:32
+erfutul,55,student,You times it by 100?,00:07:42
+erfutul,56,tutor,Divided by 10. It's given divided by 10 right here.,00:07:45
+erfutul,57,student,10.,00:07:49
+erfutul,58,tutor,Right? So now let's— We use this same chart right here. Okay? So we have—,00:07:50
+erfutul,59,student,0.3.,00:07:59
+erfutul,60,tutor,0.3. Right? Now it's been divided by 10. So where do the digits move? [unclear],00:08:00
+erfutul,61,student,To the right. Right.,00:08:12
+erfutul,62,tutor,How many places to the right?,00:08:14
+erfutul,63,student,One.,00:08:16
+erfutul,64,tutor,One. So the 3 would go right here. The 3 would go to the hundreds.,00:08:18
+erfutul,65,student,Right.,00:08:25
+erfutul,66,tutor,And the 0 would go to the [UNCLEAR]. So we have to add another 0 as a placeholder. So what's the final answer?,00:08:26
+erfutul,67,student,0.03.,00:08:26
+erfutul,68,tutor,There you go. Was that clear?,00:08:30
+erfutul,69,student,Yes.,00:08:40
+erfutul,70,tutor,"Yup, okay. So can you fill in the space with 0.03 right here before we move on to Part C? All right. Very well done, [STUDENT_NAME]. So now let's jump to Part C. Can you show the num— tell me the number that's shown in Part C?",00:08:42
+erfutul,71,student,[unclear] 3.1.,00:09:02
+erfutul,72,tutor,"Very well done. So you can write 2 point— yep, 2.1 right here below so that when you divide by 10, what do you get?",00:09:08
+erfutul,73,student,"Um, so you have 2.1.",00:09:18
+erfutul,74,tutor,Okay. Now can you divide that by 10?,00:09:24
+erfutul,75,student,"Um, 0.21?",00:09:27
+erfutul,76,tutor,"Very well done. There we go. So how did you get 0.21, [STUDENT_NAME]? By moving them to the right by one.",00:09:30
+erfutul,77,tutor,"Very well done. That's excellent focus and great explanation, right?",00:09:44
+erfutul,78,student,Yeah.,00:09:51
+erfutul,79,tutor,"Can you pull this up right here with the answer, [STUDENT_NAME]?",00:09:51
+erfutul,80,tutor,Great. We have done the prior learning slide. So this is basically we understand how and what happens to a number when we are dividing by 10 and 100. Yes?,00:10:04
+erfutul,81,student,Yes.,00:10:17
+erfutul,82,tutor,[unclear] on this slide. Any questions?,00:10:17
+erfutul,83,student,No.,00:10:21
+erfutul,84,tutor,"No. So let's jump to our Let's Learn slide. So this is where we're going to learn more about more about the topic, right?",00:10:22
+erfutul,85,student,Yeah.,00:10:31
+erfutul,86,tutor,So have you worked with a Gattegno chart before?,00:10:32
+erfutul,87,student,No.,00:10:36
+erfutul,88,tutor,"No. So it's basically just like the place value, but this time rather than moving right and left, we move up and down, right?",00:10:37
+erfutul,89,student,Yeah.,00:10:47
+erfutul,90,tutor,"So can you read the green box for me, [STUDENT_NAME]?",00:10:48
+erfutul,91,student,The Gattegno place chart is useful when multiplying and dividing numbers by 10 or 100?,00:10:52
+erfutul,92,student,"Yep. So we can use the techno chart, right? That is also similar to a place value chart. So it goes as, this is the ones place, tens place, hundreds, thousands, and this is the tenths and the hundredths. Is that clear?",00:11:00
+erfutul,93,tutor,Yeah.,00:11:16
+erfutul,94,student,"Yep. So it's basically a place value chart, but it has full numbers, right?",00:11:17
+erfutul,95,tutor,Yeah.,00:11:22
+erfutul,96,student,"So like in the place value chart, if you move left, you multiply, right? Number gets bigger. In this case, each time you move a row up, it's being times by 4. 10.",00:11:22
+erfutul,97,student,[unclear],00:11:37
+erfutul,98,tutor,"Each time you move one and you move up, it's 10. 1 times 10. It's been times by 10. If you move two places up, it times by 100. Is that clear?",00:11:38
+erfutul,99,student,Yeah.,00:11:49
+erfutul,100,tutor,"Same way, if you move one place down, It's been divided by—",00:11:50
+erfutul,101,student,10.,00:11:56
+erfutul,102,tutor,"10. If it's 2 places, 1 and 2, it's divided by—",00:11:56
+erfutul,103,student,100. [unclear],00:12:02
+erfutul,104,tutor,"Alright, was that clear?",00:12:04
+erfutul,105,student,Yeah.,00:12:07
+erfutul,106,tutor,"Okay, so let's get into the topic. So can you tell me what's the number that's shown in the Gutikno chart. So in the Gutikno chart, we need to highlight parts, and then to show the number, we need to add the parts together. So what's the number shown here in this Gutikno chart?",00:12:11
+erfutul,107,student,So 3.3 and 0.6.,00:12:31
+erfutul,108,tutor,"Yep. So when you add them together, what do you get? What's the whole number? [unclear]",00:12:40
+erfutul,109,tutor,Huh? [unclear],00:12:48
+erfutul,110,student,"So these are shown in parts, basically like in a place value chart, right? For example, you say you have 3.6. So we can show this in a Gattegno chart this way. We go the 3 wholes and the 0.6. So what's the full number?",00:12:49
+erfutul,111,background,0.6.,00:13:08
+erfutul,112,student,3.6. 3.6 altogether. That's the number that's shown in the [unclear] chart.,00:13:09
+erfutul,113,student,Oh.,00:13:15
+erfutul,114,tutor,Right?,00:13:16
+erfutul,115,student,Yeah.,00:13:16
+erfutul,116,tutor,"You add the parts together. So it's 3.6. Can you write 3.6 right here? Okay. So all these same orange, black. So the same number goes there. So you need to do 3.6 times 10 3.6 times 100. So can you use the [unclear] chart to first figure out 3.6 times 10? So where would it move from here? You can underline. When it moves, where would it be? Okay. And you need to do the same here as well because these are the parts. Right? Okay. So altogether what's the answer? What do you get as the final answer? [unclear]",00:13:16
+erfutul,117,tutor,"[STUDENT_NAME], you were breaking up. Can you repeat it?",00:14:18
+erfutul,118,student,306.,00:14:21
+erfutul,119,tutor,"Are you sure? 30 add 6, is it 306?",00:14:23
+erfutul,120,student,"Oh, 36.",00:14:26
+erfutul,121,tutor,"There you go. You don't just join the numbers. You need to add the numbers, right? 36. Is that clear?",00:14:28
+erfutul,122,student,Yeah.,00:14:38
+erfutul,123,tutor,Any doubts?,00:14:40
+erfutul,124,student,No.,00:14:41
+erfutul,125,tutor,No. Okay. Now you need to do— what's the Part C? What are they asking? [unclear] The same arranged blank. So we know 3.6 goes there. So times 100. So where would it jump?,00:14:43
+erfutul,126,student,Left— [unclear] Up.,00:15:16
+erfutul,127,tutor,Up. So the 3 would go—,00:15:19
+erfutul,128,student,300.,00:15:23
+erfutul,129,tutor,"Okay, yes. You can underline 300. And where would the 0.6 jump to? There you go. So what's the final answer?",00:15:24
+erfutul,130,student,360.,00:15:39
+erfutul,131,tutor,There you go. That's it. Very well worked out. So was that clear?,00:15:42
+erfutul,132,student,Yeah.,00:15:52
+erfutul,133,tutor,"How we can use the Gattegno chart, [STUDENT_NAME]? Okay, great. So now we did multiplication, right? I think you did a great job. Now we need to do division for the same numbers. What's the number?",00:15:53
+erfutul,134,student,"Um, 125.",00:16:08
+erfutul,135,tutor,"Okay, so can you first show the number? On the chart. Can you underline the parts of the number? To make 125, what are the numbers you need to add?",00:16:11
+erfutul,136,student,25... 100...,00:16:11
+erfutul,137,tutor,"Yup. In the hundreds place, we have 1, so that's 100. In the tens place?",00:16:11
+erfutul,138,student,25... [UNCLEAR],00:16:11
+erfutul,139,tutor,We have 10.,00:16:38
+erfutul,140,student,And then that.,00:16:39
+erfutul,141,tutor,Yup. And in the ones place we have? [unclear],00:16:39
+erfutul,142,student,135.,00:16:47
+erfutul,143,tutor,"5. There you go. Good job. Now you need to divide by 10. So where would these move when you're dividing by 10? To the right? In the get-echo chart, where do they move? To the right. Are you sure? In the place value chart, it's right and left. In a [unclear] chart, it's up or down. So when you're dividing by 10, where does it move, up or down?",00:16:50
+erfutul,144,student,Down.,00:17:23
+erfutul,145,tutor,"Down. Down, exactly. So if you're dividing by 10, how many places down does it move?",00:17:24
+erfutul,146,student,One.,00:17:29
+erfutul,147,tutor,One. So can you move each of these one place down and get the final answer?,00:17:32
+erfutul,148,student,"[unclear] 10, 1, 12.5.",00:17:37
+erfutul,149,tutor,"Yep, there you go.",00:17:55
+erfutul,150,student,5.,00:18:02
+erfutul,151,tutor,"Okay, now the same number, what do you need to do?",00:18:02
+erfutul,152,student,Divide it by 100.,00:18:10
+erfutul,153,tutor,Yep. So can you find the answer? [unclear] [unclear],00:18:17
+erfutul,154,student,1.25.,00:18:27
+erfutul,155,tutor,"Very well done, there you go. Alright, fantastic. So that's how you use the Gattegno chart. So was that clear, [STUDENT_NAME]?",00:18:34
+erfutul,156,student,Yeah.,00:19:06
+erfutul,157,tutor,"Alright, so before I move on, can you give me a quick summary as to how we can use a Gattegno chart to multiply and divide? [unclear]",00:19:07
+erfutul,158,student,"So if it's times, you move up, and if it's dividing, you move down.",00:19:17
+erfutul,159,tutor,Very well done. Okay. So let's jump to our next slide. Do you have any questions before we move on?,00:19:27
+erfutul,160,student,"No. No. Okay. So let's jump to our Follow Me and Your Turn slide. Okay. So the Follow Me slide, I will be doing it for you, right?",00:19:40
+erfutul,161,student,Yeah.,00:19:59
+erfutul,162,tutor,"And after I'm done, you're going to be doing Your Turn. Is that clear?",00:20:01
+erfutul,163,student,Yeah.,00:20:06
+erfutul,164,student,"Okay, so let's start. So in this case, they have used the place value chart which you originally did right here, right? So it's not a [unclear] chart. So you can use either, whatever you're comfortable with. So let me start. So we have the number 0.44. Can you see they've written it into the place value chart?",00:20:07
+erfutul,165,tutor,Yeah.,00:20:28
+erfutul,166,student,"So they want us to multiply it by a 10 and a 100. Right? So when you multiply by 10, we know each digit moves to the left one place, right?",00:20:29
+erfutul,167,student,Yeah.,00:20:41
+erfutul,168,tutor,"To multiply by 10, move each digit one place to the left. Is that clear?",00:20:42
+erfutul,169,student,Yeah.,00:20:48
+erfutul,170,tutor,So the 0 would jump there. The 4 would jump there. And the other 4 in that hundredths place jump to the tenths place. So we don't need to worry about the zero because it doesn't have a value. So that would be 4.4. Was that clear?,00:20:49
+erfutul,171,student,Yeah.,00:21:14
+erfutul,172,tutor,"Okay, now to multiply by 100, we need to move 2 places. I'm just gonna erase the arrows and we'll forget the zero, right? Because it's not going to have a value. 4 would go 1 and 2, so the 4 would go right here. This 4 would go 1 and 2, it'll go on to the ones place, and we'll have the answer as 44. Is that clear?",00:21:16
+erfutul,173,student,Yeah.,00:21:48
+erfutul,174,tutor,"Okay, so to multiply by 100, we need to move each digit digit 2 places to the left. So was that clear?",00:21:49
+erfutul,175,student,Yeah.,00:22:01
+erfutul,176,tutor,"Okay, great. So now can you do your turn? Do you have any questions?",00:22:02
+erfutul,177,student,No.,00:22:07
+erfutul,178,tutor,"All right, so then let's go ahead to your turn. [unclear]",00:22:11
+erfutul,179,tutor,"So [unclear] is 1.8 times by 10. You do 1.8 times by 10, which is— if you're timing, if you're timesing, you move to the left, and if you're dividing, to the right, and it's timesing, and the 10s there's one zero, so you have to move it here to the left. And the one there, which is, uh, one, one point— oh, 118.0.",00:22:21
+erfutul,180,tutor,Yep.,00:23:10
+erfutul,181,student,So it'll just be 18.,00:23:11
+erfutul,182,tutor,"Yeah, you don't have to write the point zero. So what's the next part? [unclear]",00:23:13
+erfutul,183,student,"And the next part, you do 1.8 times by 100. What you do, you times, because it's times, you move to the left.",00:23:22
+erfutul,184,tutor,"And because it's— there's two zeros, you move to the numbers left by two. So you move them twice. And then [unclear] one. 8, 0, 0, which is basically 180.",00:23:40
+erfutul,185,tutor,"Yep, very well.",00:24:17
+erfutul,186,student,"And then dot. And this one, because it's dividing, you move to the right, which is 0.18. And to divide by 100, move each digit 2 places. And yeah, I'm finished.",00:24:18
+erfutul,187,tutor,"Okay, very well done. I think you did a great job, [STUDENT_NAME]. Excellent focus. So is that perfect, crystal clear to you? Is it clear?",00:24:49
+erfutul,188,student,Yeah.,00:25:05
+erfutul,189,tutor,"Okay, great. So let's jump to your You Do slide, right? So these is again practice question for you to try out by yourself, right?",00:25:06
+erfutul,190,student,Yeah.,00:25:17
+erfutul,191,tutor,So I'm right here in case you're stuck or you need help. So you can start with question 1.,00:25:18
+erfutul,192,student,[unclear] Question number 1?,00:25:27
+erfutul,193,tutor,"Yep. Can you start doing question number 1? So I'm right here in case you get stuck or you want help, right?",00:25:36
+erfutul,194,student,"Use a Gantt chart to work out 0.95 times 100. You do 0.95 times by 100. Because it's timesing, you move it to the left, which is 9— [unclear] 950. [unclear]",00:25:43
+erfutul,195,tutor,"So— no, it's 95.0.",00:26:23
+erfutul,196,student,"Yeah, so you don't have to write the point zero because it doesn't have any value, right?",00:26:33
+erfutul,197,tutor,Yeah.,00:26:37
+erfutul,198,student,"Okay, good job. So we can move on to question 2.",00:26:38
+erfutul,199,tutor,Use each term only once.,00:26:46
+erfutul,200,student,"Yeah, I'm going to use each term, each card here once. This is [unclear] divided by 100.",00:26:53
+erfutul,201,tutor,"Okay, how did you figure that out?",00:27:07
+erfutul,202,student,"Because the point is here and divided by 100, the numbers, the point is there. Because it's 100, move it by 2 places, 1, 2, and that's why it's 5.3. So...",00:27:10
+erfutul,203,tutor,Divide. [unclear] And then divide 100. And then number B.,00:27:37
+erfutul,204,student,Sure.,00:27:49
+erfutul,205,tutor,"Yeah, it's...",00:27:58
+erfutul,206,tutor,"Oh, I said times by 100. Times by 100. Yep, very well done. Times by 100. And then other two.",00:28:02
+erfutul,207,student,This is times by 10.,00:28:26
+erfutul,208,tutor,"Okay, how did you figure that out?",00:28:28
+erfutul,209,student,"Because times 10, because there's only one zero, you're moving once, you're moving the decimal place once to the left. No, the right. Right, that's right. And that's when I figured that out. [unclear] The other one is divided by—",00:28:31
+erfutul,210,student,"Yeah, I'm finished. And number 3—",00:29:06
+erfutul,211,tutor,Part D. Can you recheck Part D?,00:29:19
+erfutul,212,student,"Sorry, pardon?",00:29:27
+erfutul,213,tutor,Can you recheck Part D?,00:29:29
+erfutul,214,student,"[unclear] Part D, 3B.",00:29:31
+erfutul,215,tutor,"No, Part D. Can you recheck the answer here? How has it been divided by 100?",00:29:35
+erfutul,216,student,"Oh, oh, I have to recheck.",00:29:43
+erfutul,217,student,It's 10 cents.,00:29:44
+erfutul,218,tutor,"Yep. Okay. All right, now let's jump to question 3. Yep, very well done.",00:29:46
+erfutul,219,tutor,Yeah. [unclear],00:30:11
+erfutul,220,student,"Yep, you don't have to write the 0 because there's no value. You can just write 91, right?",00:30:21
+erfutul,221,tutor,"Oh, yeah.",00:30:29
+erfutul,222,student,Yeah. [unclear],00:30:30
+erfutul,223,tutor,Finished.,00:30:50
+erfutul,224,student,"Finished. Have you written 6.1? Yep, that's it. Fantastic. Can you tell me how did you answer Part C and Part A?",00:30:51
+erfutul,225,tutor,[unclear],00:31:03
+erfutul,226,student,I just did it mentally.,00:31:03
+erfutul,227,tutor,"Yeah, mentally. So it's been times by 10. So what do you need to do mentally?",00:31:08
+erfutul,228,student,"Number A, times by 10. Number B, times it by hundreds.",00:31:15
+erfutul,229,tutor,"Yeah, when you times by 10, what happens?",00:31:21
+erfutul,230,tutor,Pardon?,00:31:28
+erfutul,231,background,"When you times by 10 here, [STUDENT_NAME], what happened to the digit?",00:31:28
+erfutul,232,student,"Oh, it'll become bigger.",00:31:33
+erfutul,233,background,Bigger.,00:31:41
+erfutul,234,student,Yeah.,00:31:42
+erfutul,235,background,Where do they move? Left or right?,00:31:42
+erfutul,236,student,Right.,00:31:47
+erfutul,237,background,Right?,00:31:51
+erfutul,238,student,"Yeah, right.",00:31:52
+erfutul,239,tutor,"You sure? If they move to the right, they go this way.",00:31:53
+erfutul,240,student,"Yeah, I move the decimal point.",00:31:56
+erfutul,241,tutor,"Ah, you don't move the decimal point actually, right? The explanation you have to give is they move to the left. [unclear] Right?",00:32:00
+erfutul,242,student,Yeah.,00:32:10
+erfutul,243,tutor,"The digits jump to the left because it's getting bigger when you multiply. When you divide, it moves to the—",00:32:11
+erfutul,244,tutor,Right. Is that clear?,00:32:17
+erfutul,245,student,Yeah.,00:32:19
+erfutul,246,tutor,"All right, very well worked out. Let's jump to your [unclear] further slides. This is where you need to apply what you just learned. So can you read the question and see what are they asking you to do?",00:32:20
+erfutul,247,student,"As you keep her weights, an adult gorilla and its baby. The adult gorilla has a mass of 150 kg. 49.3 kilograms. The baby gorilla has a mass one-tenth of the size of the adult gorilla. How much does the baby gorilla weigh in kilograms?",00:32:33
+erfutul,248,tutor,Yep. So what do you need to do to find the answer? [unclear] What do you need to do to find one-tenth of the mass of the adult gorilla? How do you find one-tenth?,00:32:57
+erfutul,249,student,"By, uh, I'm not sure.",00:33:27
+erfutul,250,tutor,"You're not sure. Okay, so basically they're telling To find 1/10 of 149.",00:33:31
+erfutul,251,student,0.3 kg.,00:33:47
+erfutul,252,tutor,"Yep. So when you have to find 1/10, so the off means?",00:33:50
+erfutul,253,student,Times.,00:33:56
+erfutul,254,tutor,Times. So 149 times 1.,00:33:56
+erfutul,255,student,"Which is 149.3 and over 10, right?",00:34:00
+erfutul,256,tutor,Yeah.,00:34:08
+erfutul,257,student,So this line means what? It means... [unclear],00:34:09
+erfutul,258,tutor,Divide.,00:34:13
+erfutul,259,student,"So basically, if they say find 1/10, 1/100, that means you need to divide by the bottom number.",00:34:16
+erfutul,260,tutor,Yeah.,00:34:25
+erfutul,261,tutor,Okay. So can you divide and tell me the answer? What is 149.3 divided by a tenth?,00:34:26
+erfutul,262,student,[unclear],00:34:37
+erfutul,263,tutor,"No, we're dividing by 10. So what's the easy method to do? Where do the digits move?",00:34:50
+erfutul,264,student,"Oh yeah, but— oh yeah. [UNCLEAR]...divided by 10. [Speaker] Oh, so it's 1,493.",00:34:56
+erfutul,265,tutor,"Uh-huh. You're dividing, it gets smaller. So the decimal point goes right here.",00:35:30
+erfutul,266,student,"Oh, so 4... 14.93.",00:35:37
+erfutul,267,tutor,And what's the unit of measure?,00:35:49
+erfutul,268,student,"Oh, kg.",00:35:52
+erfutul,269,tutor,"Kg. So you need to write the answer right here. Can you write it for me, please? All right, very well done. Good working out and good effort. So was that clear?",00:35:53
+erfutul,270,student,"Yes, very [UNCLEAR]. 1/10, or if they say 1/100, that means you should know it's division. Right?",00:36:07
+erfutul,271,student,Yes.,00:36:16
+erfutul,272,tutor,"Okay, so I think we're done and we are at the end of our session. So I hope everything's clear on this topic. Do you have any questions?",00:36:17
+erfutul,273,student,No.,00:36:27
+erfutul,274,tutor,"No. So I think you did great. I'll see you next session, [STUDENT_NAME]. Have a good rest of the day. Bye-bye.",00:36:28
+erfutul,275,tutor,Bye. [unclear],00:36:34

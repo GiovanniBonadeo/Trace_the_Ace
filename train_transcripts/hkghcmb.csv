@@ -1,0 +1,385 @@
+session_id,utterance_id,role,content,timestamp
+hkghcmb,0,tutor,Hi.,00:00:00
+hkghcmb,1,student,Ah.,00:00:02
+hkghcmb,2,tutor,Yes. Yes.,00:00:03
+hkghcmb,3,student,Oh?,00:00:06
+hkghcmb,4,tutor,Hello.,00:00:07
+hkghcmb,5,background,Hi.,00:00:08
+hkghcmb,6,tutor,"Hi. Hi, how are you? [unclear]",00:00:09
+hkghcmb,7,student,"Great, thank you.",00:00:14
+hkghcmb,8,tutor,"Okay, how was your holiday?",00:00:18
+hkghcmb,9,tutor,Yes.,00:00:20
+hkghcmb,10,student,It was great. How was yours?,00:00:20
+hkghcmb,11,tutor,It was great too. Thank you for asking.,00:00:22
+hkghcmb,12,student,Yes. [unclear],00:00:24
+hkghcmb,13,tutor,"So, anything special happened in your holidays?",00:00:26
+hkghcmb,14,student,Nothing really.,00:00:29
+hkghcmb,15,tutor,"Okay. So, this is our first session after holidays. How do you feel about it?",00:00:32
+hkghcmb,16,student,I don't know.,00:00:38
+hkghcmb,17,tutor,"Okay. So, do you remember what we learned in the last semester?",00:00:41
+hkghcmb,18,student,Yes. What did we learn?,00:00:45
+hkghcmb,19,student,We learned about this value.,00:00:49
+hkghcmb,20,tutor,"And rounded numbers. Yes, correct. So do you remember what we learned last time?",00:00:52
+hkghcmb,21,background,"Yes. Okay, that's great then. [unclear] Thank you for being honest. So let's have a recap so you would remember.",00:00:59
+hkghcmb,22,tutor,"Okay, so we learned about rounding numbers nearest to 100. So we figure out what is the previous multiple of that 100 and the next multiple.",00:01:12
+hkghcmb,23,student,Yes.,00:01:26
+hkghcmb,24,tutor,"And then we figure out which is it near to, and then we round up or down. [unclear] Do you remember that?",00:01:27
+hkghcmb,25,student,"Yes. Okay, that's great. So we did all these.",00:01:36
+hkghcmb,26,tutor,Yes.,00:01:42
+hkghcmb,27,student,Do you remember that?,00:01:42
+hkghcmb,28,tutor,Yes.,00:01:44
+hkghcmb,29,student,"No. Okay, so we are supposed to start with this, but let's see how much you remember. Let's do this question first.",00:01:44
+hkghcmb,30,background,Miss Bailey?,00:01:56
+hkghcmb,31,student,Yeah?,00:01:58
+hkghcmb,32,background,Would you ask if I can have different headphones? Because they're not— because like you can't hear me that good.,00:01:58
+hkghcmb,33,tutor,Turn the volume up.,00:02:03
+hkghcmb,34,student,Can you hear us? [unclear],00:02:06
+hkghcmb,35,tutor,"No, he can't hear us.",00:02:10
+hkghcmb,36,student,"Wait, where's 100 again? This is 100.",00:02:14
+hkghcmb,37,tutor,Yeah.,00:02:18
+hkghcmb,38,student,"No, I can hear it actually.",00:02:19
+hkghcmb,39,tutor,You said there's a little bit of noise coming from my end.,00:02:22
+hkghcmb,40,student,Sorry.,00:02:25
+hkghcmb,41,background,Can you hear me now?,00:02:27
+hkghcmb,42,student,Is it better?,00:02:30
+hkghcmb,43,tutor,"Okay, that's great, including a comma. But how do you figure out that this is 300? Sorry, 3,000.",00:02:34
+hkghcmb,44,background,"I figured this out because this is the hundreds column, and it says round near to the hundreds. And because it's [Speaker] 7, it's above—",00:02:44
+hkghcmb,45,student,Have you refreshed again? [Speaker] So—,00:03:01
+hkghcmb,46,student,"Yes. [Speaker] Okay, that's a good try. You're almost right. But the thing is, when you're looking at nearest 100, you should look at the column that is right next to it, which is the tenths column. [unclear] So if you're looking at the tenths column, how do you think your answer would change? [unclear]",00:03:03
+hkghcmb,47,tutor,"2,000?",00:03:47
+hkghcmb,48,student,Yes.,00:03:49
+hkghcmb,49,tutor,"Okay, why do you think it's 2,000? [Speaker] Because the next column after the hundreds column is one, so it's going to go down.",00:03:49
+hkghcmb,50,tutor,"Thank you. [Speaker] Yes. [Speaker] So which is going to go down? Is it the thousands column or the hundreds column? [unclear] [Speaker] Oh. [unclear] [Speaker] Okay. Since we are saying the nearest hundredth, the number which is going up or down is the hundredths column.",00:04:03
+hkghcmb,51,student,"[unclear] Oh, okay.",00:04:27
+hkghcmb,52,tutor,Okay. And that is why you look the column right next to it.,00:04:30
+hkghcmb,53,student,"Okay, can you hear me now?",00:04:33
+hkghcmb,54,tutor,So now what do you think would be the answer?,00:04:34
+hkghcmb,55,student,I still don't know. Oh.,00:04:38
+hkghcmb,56,tutor,"Okay. If you round down, how would this number change?",00:04:40
+hkghcmb,57,background,20.,00:04:45
+hkghcmb,58,student,Okay.,00:04:46
+hkghcmb,59,tutor,The hundreds column changed.,00:04:47
+hkghcmb,60,student,Oh.,00:04:50
+hkghcmb,61,background,Yeah.,00:04:51
+hkghcmb,62,tutor,"6, 9, 12, 15.",00:04:52
+hkghcmb,63,background,I don't know if you can hear me. Can you hear me?,00:04:55
+hkghcmb,64,tutor,"It's 2,700. If you round up, it would increase one number more.",00:04:58
+hkghcmb,65,background,Okay.,00:05:04
+hkghcmb,66,tutor,Or it remains the same.,00:05:05
+hkghcmb,67,background,All right. So it's going to be—,00:05:06
+hkghcmb,68,tutor,All right.,00:05:09
+hkghcmb,69,background,"Is it going to be— oh, I don't know.",00:05:11
+hkghcmb,70,tutor,Yes.,00:05:13
+hkghcmb,71,tutor,"Okay, it's going to be 2,700. [unclear] Why do you think it is 2,700?",00:05:15
+hkghcmb,72,student,I don't know.,00:05:25
+hkghcmb,73,tutor,"Okay, we looked at the tens column, which is right next to the hundreds column. Okay, and since it's 1, we are rounding down. That means the 700 stays the same. But if it is 7,000— 2,765, Then it would go as 2,800. Did you understand that?",00:05:27
+hkghcmb,74,student,Yes.,00:05:52
+hkghcmb,75,tutor,Okay. So would you like to continue on?,00:05:52
+hkghcmb,76,student,"Um, good. [unclear]",00:05:57
+hkghcmb,77,tutor,Kind of. [unclear] [unclear],00:06:00
+hkghcmb,78,tutor,"Yes, got it. Did you understand this?",00:06:13
+hkghcmb,79,student,Yes.,00:06:22
+hkghcmb,80,tutor,Okay. Let me check you by giving another number. How does this sound?,00:06:24
+hkghcmb,81,student,Okay.,00:06:29
+hkghcmb,82,tutor,"Okay, 5,765. If you round it to nearest hundred, what would the number be?",00:06:31
+hkghcmb,83,student,"Wait, do I have to do it?",00:06:44
+hkghcmb,84,background,"It's going to be 5,800.",00:06:48
+hkghcmb,85,student,"Yes, you got it. Good job. All right. So now you're familiar with nearest hundred. Now we are going to look at nearest thousand. [unclear]",00:06:53
+hkghcmb,86,tutor,"So just a hint, when you are looking at the nearest hundred, you're going to look at the column which is right next to it. [Speaker] Okay. [unclear] Okay, so what number do I do?",00:07:09
+hkghcmb,87,tutor,"What do you think you should do? In this, in this. [Speaker] Okay. So it's going to be, yeah, 4. [unclear]",00:07:26
+hkghcmb,88,tutor,"Yes, you got it. But how did you figure this out?",00:07:51
+hkghcmb,89,student,"Because we're talking about— we're doing the thousands column, so we go back to one before it, which is the hundreds column.",00:07:55
+hkghcmb,90,tutor,Yes. [unclear] Correct. Great explanation there. So you got the hang of it. Let's do the next question. Ready?,00:08:07
+hkghcmb,91,student,Okay.,00:08:19
+hkghcmb,92,tutor,Okay. Would you mind reading the question?,00:08:20
+hkghcmb,93,student,"Round 5,325 [unclear] is 1,000 and—",00:08:23
+hkghcmb,94,tutor,"Uh, 10.",00:08:32
+hkghcmb,95,student,I don't see it.,00:08:35
+hkghcmb,96,tutor,"So, 8. Next 1,000.",00:08:38
+hkghcmb,97,student,1.,00:08:43
+hkghcmb,98,tutor,"Next 1,000 is going to be— [unclear] Because it's—",00:08:43
+hkghcmb,99,tutor,It's smaller than 5. So how can you explain this?,00:08:58
+hkghcmb,100,student,"5,000? [unclear]",00:09:05
+hkghcmb,101,tutor,Done?,00:09:16
+hkghcmb,102,student,Yes.,00:09:18
+hkghcmb,103,tutor,"Okay, how do you think it's 5,300?",00:09:19
+hkghcmb,104,student,Because there's another stack.,00:09:22
+hkghcmb,105,student,"Okay, when you round down, how do you get the number? You have rounded off to nearest hundred, didn't you? [unclear] If it's nearest thousand, you have to round up or down the thousands column. Yeah? Okay. So what do you think is the answer? [Speaker] Which teacher care how old you are? [unclear]",00:09:27
+hkghcmb,106,tutor,"6,000? [Speaker] Yes.",00:09:58
+hkghcmb,107,tutor,"Okay, how did you get 6,000 now? [Speaker] Yeah, how's your— [Speaker] I got 6,000 because— [Speaker] Mm-hmm. [Speaker]... [UNCLEAR]",00:10:05
+hkghcmb,108,tutor,"Okay, when we are looking at thousands column, we look at the column that is right next to it. Okay?",00:10:18
+hkghcmb,109,student,Okay.,00:10:26
+hkghcmb,110,tutor,"And we decide whether to round up or down the thousands column. Since it is 3, which is less than 5, we round down the thousands column.",00:10:27
+hkghcmb,111,student,Okay.,00:10:38
+hkghcmb,112,tutor,Did you understand that? [unclear] All good?,00:10:39
+hkghcmb,113,student,No.,00:10:45
+hkghcmb,114,tutor,Okay. All right. So what do you think is the answer now?,00:10:46
+hkghcmb,115,student,"It should be 8,325.",00:10:51
+hkghcmb,116,tutor,"Okay. If you round down the 5,000, what would it be?",00:10:56
+hkghcmb,117,student,"I mean, if you round down 5,325, it would be— [unclear]",00:11:01
+hkghcmb,118,student,"Yes, correct. And if you round up, it would be 6,000. So now since it's 3, it's 5,000. [unclear]",00:11:13
+hkghcmb,119,student,"No, the answer should be 5,000 because 3 is less than 5, isn't it?",00:11:29
+hkghcmb,120,tutor,"So the answer should be? [Speaker] 5,000. [unclear]",00:11:38
+hkghcmb,121,tutor,So would you mind changing your answer? [Speaker] Okay. [Speaker] The whole? [Speaker] Yeah.,00:11:49
+hkghcmb,122,tutor,So you still have a bit of confusion.,00:11:59
+hkghcmb,123,tutor,"Okay, let's figure that out.",00:12:04
+hkghcmb,124,student,Just a little bit.,00:12:05
+hkghcmb,125,tutor,Okay.,00:12:07
+hkghcmb,126,student,It goes up. [unclear],00:12:11
+hkghcmb,127,tutor,Okay. Would you mind if I erase these two numbers?,00:12:22
+hkghcmb,128,student,Yes.,00:12:30
+hkghcmb,129,background,[unclear],00:12:30
+hkghcmb,130,student,"All right. I'll give you some other numbers to figure out then. 4, 5, 3, 7, 6. Okay. If you round off this to nearest thousand, what would the number be here?",00:12:31
+hkghcmb,131,background,Nearest thousand. Okay.,00:12:50
+hkghcmb,132,student,Yes.,00:12:53
+hkghcmb,133,background,"It's going to be— [Speaker] 4,000.",00:12:53
+hkghcmb,134,tutor,"Yes, correct. Good job. Okay, one more number, okay? [Speaker] Okay. [unclear] What do you think about this number? Nearest to 1,000. [Speaker] Nearest to 1,000 is—",00:13:01
+hkghcmb,135,tutor,"Yes. [Speaker] Okay. [unclear] 9,000.",00:13:30
+hkghcmb,136,tutor,"Yes, you got it. Good job. Okay, so since you're clear with that, are you confident enough? [Speaker] 1,000 and 3,000.",00:13:40
+hkghcmb,137,tutor,"Okay, great. Now we are going to move on to nearest hundred. Same as thousand, but you're going to look at the next column, okay?",00:13:51
+hkghcmb,138,student,Okay.,00:13:59
+hkghcmb,139,tutor,"So what do you think? 5,325 nearest to hundred.",00:14:00
+hkghcmb,140,background,Yes. [unclear],00:14:06
+hkghcmb,141,student,Okay. [unclear],00:14:07
+hkghcmb,142,tutor,Yes.,00:14:17
+hkghcmb,143,student,[UNCLEAR],00:14:17
+hkghcmb,144,tutor,"Yes, correct.",00:14:44
+hkghcmb,145,student,Yes.,00:14:46
+hkghcmb,146,tutor,How did you get this?,00:14:46
+hkghcmb,147,background,"So because if it's hundreds, we're going to go to the next column, which is 2, and 2 is down, so we've got to do— so the 3 stays the same, but the 2 and 5 changes to 0.",00:14:52
+hkghcmb,148,tutor,"Yes, correct. Good explanation there. I'm happy that you figured this out. So let's move on to the next question, okay?",00:15:07
+hkghcmb,149,student,Okay.,00:15:17
+hkghcmb,150,tutor,"Okay, would you mind reading the question? [unclear]",00:15:18
+hkghcmb,151,student,"Which two numbers round to 5,600 when rounded to the nearest hundred?",00:15:22
+hkghcmb,152,tutor,Yeah. [unclear] All right.,00:15:33
+hkghcmb,153,tutor,"So these are the numbers that they're referring to, A, B, C, D, E. So which 2 letters would be rounding off to 5,600 if it is in U.S.? 100. [unclear]",00:15:37
+hkghcmb,154,tutor,"So what is the first step you are going to do? [Speaker] So first we're going to— so if it's the nearest hundred, 6 is 100, but we go to the next one before 6, which is 0, so it's going to go down. So it's going to be 3— oh my God.",00:15:55
+hkghcmb,155,tutor,"Okay, the easiest step to do this is first figuring out the letters. What is A? What is B? What is C? What is D? And what is E? [Speaker] I think it's this one.",00:16:25
+hkghcmb,156,tutor,"Which one? No, you're going to figure these with letters. It should be either A or B or C or D or E. [Speaker] Okay. [Speaker] Yes. [Speaker] So the best way to figure this out is to write the numbers that refers to the number.",00:16:40
+hkghcmb,157,tutor,"Okay. So, first estimate, what is A?",00:17:01
+hkghcmb,158,background,"A is 5,430.",00:17:05
+hkghcmb,159,tutor,Would you mind typing that here so it could be much easier for us?,00:17:14
+hkghcmb,160,background,Yes. [unclear],00:17:19
+hkghcmb,161,tutor,"Yes. Why do you think it's 5,430?",00:17:28
+hkghcmb,162,student,"It's because this is 5,400 and this is 5,500, so we'll go in the middle of the— [unclear]",00:17:31
+hkghcmb,163,tutor,"Yes, but the screen's frozen. So what is the middle of 5,400 and 5,500?",00:17:46
+hkghcmb,164,tutor,"Good now. [Speaker] 5,450.",00:17:51
+hkghcmb,165,tutor,"Yes, correct. 5,450. Would you mind writing A equals 5,450? [Speaker] Okay. [unclear]",00:17:56
+hkghcmb,166,tutor,Done.,00:18:06
+hkghcmb,167,tutor,"I can still see 5,430 though.",00:18:18
+hkghcmb,168,student,"I've already put in equals. It says it to my screen. Wait, let me put it in.",00:18:23
+hkghcmb,169,tutor,"Yeah, I can see equals, but the number is 5,450, isn't it? Not 30. [unclear] On my screen, it shows 5,430.",00:18:29
+hkghcmb,170,tutor,Okay.,00:18:46
+hkghcmb,171,student,[unclear],00:18:48
+hkghcmb,172,tutor,"Um, hello? Hello? Can you hear me?",00:18:48
+hkghcmb,173,student,Yes.,00:18:53
+hkghcmb,174,tutor,"On my screen, it shows 5,430.",00:18:54
+hkghcmb,175,student,"Yes, but the answer is 4,000— 5,450, isn't it? This middle of 5,400.",00:18:59
+hkghcmb,176,tutor,"Oh, okay.",00:19:07
+hkghcmb,177,student,Would you mind writing that here? Because the answer should be written here.,00:19:10
+hkghcmb,178,tutor,Okay.,00:19:15
+hkghcmb,179,student,Yes.,00:19:17
+hkghcmb,180,tutor,Oh yeah. [unclear],00:19:24
+hkghcmb,181,student,Done. Great. Now what do you think is B? [Speaker] B is— B is— [unclear],00:19:27
+hkghcmb,182,student,"I know, I just reread the question and I realized what I put. [Speaker] 500— no, 5,500—",00:19:54
+hkghcmb,183,tutor,Nearest to 100.,00:20:07
+hkghcmb,184,student,500.,00:20:08
+hkghcmb,185,tutor,Good evening.,00:20:10
+hkghcmb,186,student,And I remembered.,00:20:10
+hkghcmb,187,tutor,"Yeah, could be. So would you mind typing that?",00:20:12
+hkghcmb,188,student,Okay. [unclear],00:20:14
+hkghcmb,189,tutor,Are you all right? [unclear],00:20:37
+hkghcmb,190,tutor,Are you all right? [unclear],00:20:40
+hkghcmb,191,tutor,Great. What about C? C is—,00:20:44
+hkghcmb,192,tutor,"5,560.",00:21:15
+hkghcmb,193,student,"Mm-hmm, yeah, could be. Would you mind typing that as well? [unclear] 500 and... 560. [unclear]",00:21:16
+hkghcmb,194,tutor,"Oh yeah, great. What about D?",00:21:46
+hkghcmb,195,student,D is... [unclear],00:21:52
+hkghcmb,196,tutor,"Yes, I do. D is...",00:21:56
+hkghcmb,197,tutor,Yeah. [unclear],00:22:02
+hkghcmb,198,student,"So, D is going to be 5,640.",00:22:05
+hkghcmb,199,tutor,"Yes, correct.",00:22:23
+hkghcmb,200,student,I'll check that as well.,00:22:23
+hkghcmb,201,tutor,"Yeah, I will.",00:22:26
+hkghcmb,202,tutor,"Okay, thank you.",00:22:28
+hkghcmb,203,student,"So 6G equals 5,000.",00:22:30
+hkghcmb,204,tutor,"5,000. [unclear]",00:22:37
+hkghcmb,205,student,"5,000.",00:22:42
+hkghcmb,206,tutor,3 would go down to 0. [unclear],00:22:54
+hkghcmb,207,tutor,"Okay. And the last one, E.",00:23:07
+hkghcmb,208,student,"Let's say E is 5,000.",00:23:09
+hkghcmb,209,tutor,"Mm-hmm. 5,000.",00:23:16
+hkghcmb,210,student,"5,000.",00:23:18
+hkghcmb,211,tutor,That's a 6.,00:23:21
+hkghcmb,212,student,600.,00:23:22
+hkghcmb,213,tutor,"5,670.",00:23:26
+hkghcmb,214,student,"Yes, could be. [unclear]",00:23:27
+hkghcmb,215,tutor,"Okay, great. Good job in typing all the answers in this limited space.",00:23:36
+hkghcmb,216,tutor,"Now what you're going to do is— no, it's fine. [unclear]",00:23:50
+hkghcmb,217,tutor,Okay.,00:23:54
+hkghcmb,218,student,Sorry.,00:23:57
+hkghcmb,219,tutor,That's fine.,00:23:58
+hkghcmb,220,student,is gone missing.,00:23:58
+hkghcmb,221,tutor,Right. Okay. Now what you're going to do is you're going to round all these numbers to the nearest hundred and write this side.,00:23:58
+hkghcmb,222,tutor,Could you do that?,00:24:20
+hkghcmb,223,student,Yes.,00:24:21
+hkghcmb,224,tutor,Okay. Write equals this side and type the number.,00:24:22
+hkghcmb,225,background,Okay. [unclear],00:24:26
+hkghcmb,226,student,"Like that, or like—",00:24:32
+hkghcmb,227,tutor,"Hold on. How did you get 6,000?",00:24:45
+hkghcmb,228,student,"Because it's 100, so we're going to go with the number before the 100 [UNCLEAR], which is 5.",00:24:54
+hkghcmb,229,tutor,"No, number after the— right after. Yeah?",00:24:54
+hkghcmb,230,student,I thought it was the 4.,00:25:08
+hkghcmb,231,tutor,"No, it's after it. So if you're looking at hundreds, it should be the tens you're looking at. That's how you did this.",00:25:11
+hkghcmb,232,background,Uh-huh.,00:25:19
+hkghcmb,233,student,"Oh yeah, and the tens is 50— is 5, so we go up.",00:25:20
+hkghcmb,234,tutor,"Mm-hmm. Which is 6,000.",00:25:26
+hkghcmb,235,background,Down.,00:25:31
+hkghcmb,236,tutor,You go up and down in the hundreds place.,00:25:32
+hkghcmb,237,student,No. This is no.,00:25:36
+hkghcmb,238,tutor,"Yeah, so if it is up, how much would it be?",00:25:38
+hkghcmb,239,student,"It will be— [unclear] 6,000?",00:25:43
+hkghcmb,240,tutor,"You're going up in the thousands place, aren't you?",00:25:56
+hkghcmb,241,student,Yes.,00:25:59
+hkghcmb,242,tutor,"You're going to go up in the hundreds place. So what would it be? [Speaker] 5,500.",00:26:01
+hkghcmb,243,tutor,"Yes, correct. So that should be it. [Speaker] Okay. Okay. [Speaker] All right. [Speaker] So would you mind taking this a little bit this side and type the answer? [Speaker] Okay. [unclear]",00:26:12
+hkghcmb,244,tutor,"So, it's going to be A equals 5,500. [unclear]",00:26:36
+hkghcmb,245,student,How many what?,00:26:49
+hkghcmb,246,tutor,"B equals... okay, let's see where this is going. 5,500. [unclear]",00:26:59
+hkghcmb,247,student,"If 5 or more are covered, the number is closer to 5,500, so we round up. Less than 5, so we round down.",00:27:12
+hkghcmb,248,tutor,All right. [unclear],00:27:27
+hkghcmb,249,student,"Hold on. How did you get 6,000?",00:27:32
+hkghcmb,250,tutor,"Oh, I keep making the same mistake.",00:27:42
+hkghcmb,251,tutor,"Again, how did you get 5,500?",00:27:52
+hkghcmb,252,student,"It's— [unclear] Oh wait. Okay, so I got 5,500 because we're looking at this— we're looking at— [Speaker] The hundreds column, but we go for the one—",00:27:54
+hkghcmb,253,tutor,"No, no, no, hundreds column is 5 here, and the tens column is 6, isn't it? [Speaker] Yes.",00:28:19
+hkghcmb,254,tutor,"You're looking at the thousands column. Would you mind taking this ABC a little bit this side, to the left side, so you can see the numbers clearly? [unclear] Okay, great. So now do you think which is the hundreds place in C? [Speaker] The hundreds place in C is— [unclear]",00:28:28
+hkghcmb,255,tutor,"Here, 5. [Speaker] Why?",00:28:51
+hkghcmb,256,tutor,Is it hundreds? [Speaker] Yes.,00:28:54
+hkghcmb,257,tutor,"Okay, then what is this? [Speaker] Thousands, hundreds, tens, ones.",00:28:58
+hkghcmb,258,tutor,"Yeah, so this is thousands. What you're showing is thousands. And next comes hundreds, and then tens, and then ones. Yeah?",00:29:06
+hkghcmb,259,student,Yeah.,00:29:16
+hkghcmb,260,tutor,"Okay. So since we are looking at nearest hundred, we look the column right after hundreds, which is the tens.",00:29:17
+hkghcmb,261,student,Okay.,00:29:25
+hkghcmb,262,tutor,Mm-hmm. So which is the tens column here?,00:29:27
+hkghcmb,263,student,Tens column is— [unclear],00:29:31
+hkghcmb,264,tutor,Can you tell me the number?,00:29:36
+hkghcmb,265,student,This 6.,00:29:41
+hkghcmb,266,background,Yellow.,00:29:42
+hkghcmb,267,tutor,"Yes, 6. So if it is 6, is it more than 5 or less than 5?",00:29:43
+hkghcmb,268,background,More than 5.,00:29:49
+hkghcmb,269,tutor,Yes. So you round up or down?,00:29:51
+hkghcmb,270,background,Up.,00:29:54
+hkghcmb,271,tutor,"Yes, so you round up the hundreds column. Okay, so since it's 5, if you round up, what would it be? [unclear]",00:29:55
+hkghcmb,272,tutor,"Correct. So it should be 5,600, isn't it? [Speaker] Oh. Oh, okay. Oh, okay. So it's gonna be—",00:30:06
+hkghcmb,273,tutor,Did you understand what I said though? [Speaker] Yes.,00:30:25
+hkghcmb,274,tutor,Clear?,00:30:28
+hkghcmb,275,tutor,Yes.,00:30:31
+hkghcmb,276,student,"Okay, great. So would you mind changing this? [unclear] [unclear]",00:30:31
+hkghcmb,277,tutor,[UNCLEAR],00:30:31
+hkghcmb,278,student,10.,00:30:59
+hkghcmb,279,tutor,10.,00:31:11
+hkghcmb,280,tutor,"No worries, just send. [Speaker] I'm done. [Speaker] [unclear] [Speaker] I could still see, okay. Wow, you have finished everything. [Speaker] Yes. [Speaker] Oh my God, that's correct. Good job. Everything is correct. Yes, you got it. [Speaker] Yeah. [Speaker] Okay. So now the question is, which two numbers round to 5,600? What are the two numbers? [unclear]",00:31:22
+hkghcmb,281,tutor,"Uh, 4,600.",00:31:49
+hkghcmb,282,student,"C, wait.",00:31:55
+hkghcmb,283,tutor,"Uh, 5.",00:31:57
+hkghcmb,284,student,C.,00:31:58
+hkghcmb,285,tutor,Where are you?,00:32:02
+hkghcmb,286,student,D.,00:32:04
+hkghcmb,287,tutor,"D, yes, correct, you got it. Good job. Okay, so did you understand how you did this?",00:32:05
+hkghcmb,288,tutor,Yes. All good?,00:32:15
+hkghcmb,289,student,Mm-hmm. [unclear],00:32:18
+hkghcmb,290,tutor,Okay. Would you mind telling me step by step how did you do this?,00:32:19
+hkghcmb,291,student,What?,00:32:24
+hkghcmb,292,tutor,"One. Would you mind telling me step by step how did you do this, this question?",00:32:24
+hkghcmb,293,student,"So how I did this question was first, so we had to do the numbers, first off with the numbers, and then we've got to round it. And we rounded it each. And then we had a round again, which is this bit where we got— where A got 5,500, B got 5,500, C and D got the same number, which is what you're asking for the question. So that's how the answer is C and D.",00:32:30
+hkghcmb,294,tutor,"Okay, great explanation. I hope you understood very clearly.",00:33:09
+hkghcmb,295,tutor,Yes.,00:33:14
+hkghcmb,296,student,Are you confident now?,00:33:14
+hkghcmb,297,tutor,Yes.,00:33:16
+hkghcmb,298,student,"Okay, great. So let's move on to the next slide, which is a bit challenging. Are you ready?",00:33:17
+hkghcmb,299,tutor,Yes.,00:33:22
+hkghcmb,300,student,"Okay, here we go. Would you mind reading the question first? [unclear]",00:33:23
+hkghcmb,301,tutor,A number is rounded to the nearest hundred.,00:33:29
+hkghcmb,302,student,Uh-huh.,00:33:33
+hkghcmb,303,tutor,"The answer is 5,000. What should—",00:33:34
+hkghcmb,304,tutor,"Hold on, is this nearest hundred? [Speaker] Thousand.",00:33:39
+hkghcmb,305,tutor,"Yes. [Speaker] What could the original number have been? [unclear] [Speaker] Give two possible answers. [Speaker] Okay. So first, wait, do I say what's going to happen now? [Speaker] Yes. [Speaker] Yeah? [Speaker] Okay, so first we've got— oh, actually I don't know. [unclear]",00:33:43
+hkghcmb,306,tutor,"Okay, so what is the question asking you? Can you explain me the question? [Speaker] Well, the question is asking us that a number has been rounded to 5,000, but we need to find out what the original number is.",00:34:12
+hkghcmb,307,tutor,"Okay, so since it's nearest thousand, which number you're going to look at? Which column are you going to look at? [Speaker] The thousands column?",00:34:28
+hkghcmb,308,tutor,"Mm-hmm, no. [Speaker] The hundreds?",00:34:38
+hkghcmb,309,tutor,"Yes, correct. So the hundreds should be up or down? [Speaker] Down. [unclear] [Speaker] Okay, could be. So which number do you think exactly would be getting 5,000 as the answer? You can have any guesses. [Speaker] Okay, 4,000 maybe?",00:34:41
+hkghcmb,310,tutor,"Yeah, 4,000, correct. But what would be the next numbers? [Speaker] 4,000, 4,000, 4,000, [UNCLEAR]. [Speaker] 4,642.",00:35:09
+hkghcmb,311,tutor,"Yes, correct. That's correct. Okay, would you mind typing that answer? [unclear] [Speaker] 4,642. What else? [Speaker] We could have 4,754.",00:35:34
+hkghcmb,312,tutor,"Yes, you got the hang of it. Good job. Okay, yes, that's correct. So any number that is in between 4,000 and 4,000 and something. 500 to 4,999 would be correct. Okay?",00:36:07
+hkghcmb,313,student,"Oh, okay.",00:36:23
+hkghcmb,314,tutor,"Alright, so we are at the end of this lesson. What did you learn from this lesson? [unclear]",00:36:24
+hkghcmb,315,student,"I learned back my skills from rounding numbers, which I forgot. And I learned how to do— wait, can you go to the previous slide?",00:36:32
+hkghcmb,316,tutor,Yes. [Speaker] So I learned how to do like this type of questions. I don't know what it's called. So then how to do type of questions. And then I got better with the place value chart and that's all.,00:36:42
+hkghcmb,317,tutor,"Okay, so are you confident with this lesson though? [Speaker] Yeah. [Speaker] Oh yeah. [Speaker] Okay, that's great to hear. That's all I want to hear. Okay, then let's move on to the next lesson.",00:37:03
+hkghcmb,318,tutor,Yep.,00:37:14
+hkghcmb,319,student,"Okay, this is something new to what we learned before, which is writing tenths as decimals. Do you know what is tenths?",00:37:15
+hkghcmb,320,background,[unclear],00:37:29
+hkghcmb,321,student,No.,00:37:29
+hkghcmb,322,background,[unclear],00:37:30
+hkghcmb,323,student,You haven't heard of it?,00:37:31
+hkghcmb,324,background,"I mean, I've heard of it, but I don't know what it is. Okay, so let's try this first question and let me know what you think. Do you mind reading the question? [Speaker] What's the blue shaded part as a decimal? [unclear]",00:37:33
+hkghcmb,325,tutor,"Do you know what is a decimal? [Speaker] Yes, a decimal point.",00:37:51
+hkghcmb,326,tutor,"Yes, correct. So how do you write this shaded part in decimal format? [Speaker] I don't know. [Speaker] I know how to do it in fractions, but I don't know how to do it in decimals.",00:37:56
+hkghcmb,327,tutor,"Okay, that's the next question. How do you write this in fraction format? [unclear] [Speaker] Wait, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Okay, so it's 3,",00:38:09
+hkghcmb,328,tutor,I have a question. [unclear],00:38:30
+hkghcmb,329,tutor,"Correct. Okay, how did you figure this fraction out?",00:38:48
+hkghcmb,330,student,"So the shaded ones is 3, which is our numerator. But all of the numbers combined is 10, which is our denominator.",00:38:54
+hkghcmb,331,tutor,"Yes, great explanation about the fractions. Okay, then let's figure out the next slide. Ready?",00:39:02
+hkghcmb,332,student,Yes.,00:39:09
+hkghcmb,333,tutor,Okay. Would you mind reading this?,00:39:11
+hkghcmb,334,background,"Before we can write tenths as decimals, we need to recognize tenths as part of [UNCLEAR]. [unclear]",00:39:17
+hkghcmb,335,tutor,"Yeah, so tenths is the part of a fraction. Okay, whatever you write under— now this is a number, the fraction. The fraction is having denominator as 10. So if it is having 10 as denominator, then it is tenths.",00:39:30
+hkghcmb,336,student,Yeah.,00:39:50
+hkghcmb,337,background,"Oh, okay.",00:39:50
+hkghcmb,338,tutor,Yeah. So what do you think about this picture? What does it show? Can you write the shaded part? [unclear],00:39:52
+hkghcmb,339,student,"1, 2, 3, 4, 5.",00:40:01
+hkghcmb,340,tutor,"So, um, wait, okay.",00:40:12
+hkghcmb,341,tutor,"Yes, correct. So one part is shaded. So we are going to say this as we have how many tenths?",00:40:18
+hkghcmb,342,student,We have one tenth of— [unclear],00:40:28
+hkghcmb,343,tutor,"One tenth. Yes, correct. So if the part is No, let's go to the next question. You will figure this out. Can you write this as fraction?",00:40:38
+hkghcmb,344,student,"[unclear] Okay, 1, 2, 3. Okay, so first, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Okay, so 10 again.",00:40:50
+hkghcmb,345,tutor,Yes. [unclear],00:41:13
+hkghcmb,346,tutor,Correct. So we have how many pens?,00:41:16
+hkghcmb,347,student,We have— we have—,00:41:24
+hkghcmb,348,tutor,"Yes, 3 tenths. So did you understand this tenths value?",00:41:36
+hkghcmb,349,student,[unclear] Yes.,00:41:41
+hkghcmb,350,tutor,"Okay, so what is a tenth?",00:41:43
+hkghcmb,351,student,A tenth is the how many the number is the denominator.,00:41:45
+hkghcmb,352,tutor,"So in a fraction, if you have 10 parts, then it is a tenth. Okay?",00:41:53
+hkghcmb,353,student,Okay.,00:41:58
+hkghcmb,354,tutor,All right. Let's do the C question.,00:41:59
+hkghcmb,355,tutor,"Would you mind writing the fraction form? [Speaker] Um, wait, so— oh, do I do it?",00:42:02
+hkghcmb,356,tutor,Yes. [Speaker] Okay. [unclear],00:42:13
+hkghcmb,357,tutor,Correct. So we have? [unclear],00:42:34
+hkghcmb,358,tutor,"Yes, correct. So we have 6 tenths. So whatever the numerator is, we say that in numbers and say tenths. Okay?",00:42:50
+hkghcmb,359,tutor,Okay. [Speaker] So are you clear with this?,00:43:00
+hkghcmb,360,tutor,"Yes. [Speaker] Alright, so the last question. How do you write this as fraction?",00:43:03
+hkghcmb,361,tutor,"Um... I don't know. [Speaker] Similar to this. You're going to count the lines and write Down, and how many lines this arrow shows, you're going to count and write here.",00:43:09
+hkghcmb,362,student,"1, 2, 3, 4, 5.",00:43:25
+hkghcmb,363,tutor,Yeah. [unclear],00:43:43
+hkghcmb,364,student,"Um, no, count up to the arrow.",00:43:44
+hkghcmb,365,tutor,What?,00:43:48
+hkghcmb,366,student,"Count up to the arrow. Not just the arrow, count up to arrow.",00:43:50
+hkghcmb,367,tutor,"Okay. 1, 2, 3, 4, 5, 6, 7, 8, 9.",00:43:55
+hkghcmb,368,student,"Yes, correct.",00:44:03
+hkghcmb,369,tutor,So do I change this to a 9?,00:44:06
+hkghcmb,370,student,"Yes, that's right.",00:44:10
+hkghcmb,371,tutor,"This one, okay, so—",00:44:12
+hkghcmb,372,student,The numerator. [unclear],00:44:14
+hkghcmb,373,tutor,"Okay, so we have?",00:44:28
+hkghcmb,374,student,"So we have 9, 10. [unclear]",00:44:30
+hkghcmb,375,tutor,Yeah. So did you understand tense now?,00:44:48
+hkghcmb,376,student,Yes.,00:44:52
+hkghcmb,377,tutor,All good?,00:44:53
+hkghcmb,378,student,Yes.,00:44:55
+hkghcmb,379,tutor,Okay. That's it for today. What did you learn from this slide?,00:44:56
+hkghcmb,380,student,"I learnt what tense means. Like, [Speaker] And then I learned how to do decimals.",00:45:02
+hkghcmb,381,tutor,"Okay, you didn't learn that still. But next class we are going to learn about decimals, okay? [Speaker] So are we going to be doing things like this, like say, um, [unclear] like that? [Speaker] Yes, that's right, but not big numbers, but small numbers. Start step by step, okay? [Speaker] Okay.",00:45:16
+hkghcmb,382,tutor,"All right. Now you will be getting a quiz. Please make sure to do that, okay? [Speaker] Okay.",00:45:40
+hkghcmb,383,tutor,All right. Have a nice day. Bye. [Speaker] Bye. [unclear],00:45:46

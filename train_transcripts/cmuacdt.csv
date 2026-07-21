@@ -1,0 +1,214 @@
+session_id,utterance_id,role,content,timestamp
+cmuacdt,0,tutor,Hello?,00:00:00
+cmuacdt,1,student,[unclear],00:00:00
+cmuacdt,2,tutor,Hello? Can you hear me?,00:00:06
+cmuacdt,3,tutor,"Hello, Declan.",00:00:16
+cmuacdt,4,student,Hello.,00:00:18
+cmuacdt,5,tutor,"Hello, can you hear me? [unclear]",00:00:19
+cmuacdt,6,student,"Yeah, I can hear you.",00:00:24
+cmuacdt,7,tutor,"Okay, so can you remember what we did in our last week?",00:00:27
+cmuacdt,8,student,"Yeah, rounding numbers to the nearest 10,000 and 100,000.",00:00:33
+cmuacdt,9,tutor,"Okay, so we need to start—",00:00:38
+cmuacdt,10,background,Second message. [unclear],00:00:41
+cmuacdt,11,tutor,"Okay, so we need to start from this side, so we need to continue from here. Can you please try this side, Declan?",00:00:49
+cmuacdt,12,student,"Okay, I'm gonna go further. Hokkai is thinking of a number. When he",00:00:59
+cmuacdt,13,student,"When rounded to the nearest thousand, it's 350,000. When rounded to the nearest [unclear] to the nearest hundred thousand, it is 400,000.",00:01:08
+cmuacdt,14,tutor,Can you give a number he could be thinking of? [unclear],00:01:34
+cmuacdt,15,student,Should Declan do it first?,00:01:48
+cmuacdt,16,background,"Okay, so when rounded to the nearest 10,000, it's 350,000. Okay. Can you give a number he could be thinking of?",00:01:51
+cmuacdt,17,tutor,Yes.,00:02:12
+cmuacdt,18,student,"The number should be true to both of these statements, right?",00:02:12
+cmuacdt,19,tutor,I couldn't hear you. Can you say that again?,00:02:20
+cmuacdt,20,student,"The number should... Should be true to both the statements in the question, right? When rounded to the nearest 10,000, it is 350,000. When rounded to the nearest 100,000, it is 400,000, right?",00:02:25
+cmuacdt,21,student,[unclear],00:02:47
+cmuacdt,22,tutor,The number should be true to both those statements.,00:02:47
+cmuacdt,23,tutor,Give us a number now. [unclear],00:02:52
+cmuacdt,24,background,"Okay, Declan. So can you give a number that would be rounded to 350? 50,000, then round it to the nearest 10,000. So can you just write a number for this one?",00:03:11
+cmuacdt,25,student,"Well, uh, uh, I got it.",00:03:26
+cmuacdt,26,tutor,"Okay, just write it. What do you think?",00:03:33
+cmuacdt,27,student,"Uh, what, where, down here? Well, let me just get my point out quickly.",00:03:37
+cmuacdt,28,tutor,This one here?,00:03:43
+cmuacdt,29,student,"No, somewhere here because—",00:03:45
+cmuacdt,30,tutor,Okay. [unclear],00:03:48
+cmuacdt,31,background,"When rounded to the nearest 10,000, it is 350,000. So can you please write a number which satisfies that statement? [unclear]",00:03:53
+cmuacdt,32,tutor,"Yes, that's correct. So then would your number, would your number round to round it to the nearest 100,000? [unclear]",00:04:29
+cmuacdt,33,student,Can you say that again?,00:04:43
+cmuacdt,34,tutor,"So would your number, your written number, round to 400,000 if you round it to the nearest 100,000?",00:04:50
+cmuacdt,35,tutor,Just check whether this statement is true with your number.,00:05:02
+cmuacdt,36,student,"Well, what about— [unclear]",00:05:12
+cmuacdt,37,tutor,What was that? Say that again.,00:05:17
+cmuacdt,38,student,Sorry?,00:05:21
+cmuacdt,39,tutor,"Could you say that again, please?",00:05:22
+cmuacdt,40,student,"Yeah, like you wrote this number, right? So check if that number round to 400,000. If you round it to the nearest 100,000, just check whether this— [unclear]",00:05:26
+cmuacdt,41,tutor,"Yeah, the second statement is true with your written number. Just check with that.",00:05:43
+cmuacdt,42,student,"No, no, it's not.",00:05:49
+cmuacdt,43,tutor,"Yes, so you need to change the number again and [unclear]",00:05:52
+cmuacdt,44,tutor,"Okay, another number.",00:05:59
+cmuacdt,45,student,Another number? Alright.,00:06:06
+cmuacdt,46,tutor,"Can be something more than 350,000 too, right?",00:06:12
+cmuacdt,47,student,"Wait, no, not that.",00:06:18
+cmuacdt,48,tutor,"It can be something more than 350,000 too, right?",00:06:23
+cmuacdt,49,student,"Yeah, I'm trying to think. [unclear]",00:06:30
+cmuacdt,50,tutor,"No, Declan, so when you round to the nearest 10,000, it should be 350,000 too, right? [unclear]",00:06:39
+cmuacdt,51,tutor,"Yeah, both the statements should be correct with your answer.",00:06:52
+cmuacdt,52,student,Pardon?,00:06:56
+cmuacdt,53,tutor,"Both the statements should be correct with your answer. So this one, what you have written, is true with the first one but false with the second one. So you need to guess another number.",00:07:00
+cmuacdt,54,tutor,"Okay. [unclear] When rounded to the nearest 100,000, it is 400,000. [unclear]",00:07:29
+cmuacdt,55,student,"Okay, so now check with the first statement whether it is false, true, or false with that.",00:08:00
+cmuacdt,56,tutor,"When rounded to the nearest 10,000, is it 350,000, Declan? [unclear]",00:08:06
+cmuacdt,57,student,"Yeah, it's 350,000.",00:08:13
+cmuacdt,58,tutor,"When rounded to the nearest 10,000, is it 350,000?",00:08:16
+cmuacdt,59,background,"So it's 498,000, right? So how can it be 350,000?",00:08:21
+cmuacdt,60,tutor,"Oh no, it was supposed to be 350,000. [unclear]",00:08:27
+cmuacdt,61,tutor,"Okay, so you need to write an answer which is true with both the statements, this one and this one.",00:08:37
+cmuacdt,62,student,Okay.,00:08:49
+cmuacdt,63,tutor,"The answer should be correct to both, right? It should satisfy this statement and—",00:08:50
+cmuacdt,64,student,It is correct.,00:08:57
+cmuacdt,65,tutor,"So just check whether it's correct with the second one, but it's not correct with the first one. Just check on it, Declan. Just round off this number to the nearest 10,000.",00:09:00
+cmuacdt,66,student,"Okay, round that to the nearest 10,000. That would be 5— 500. Wait, yeah, 500. [unclear]",00:09:15
+cmuacdt,67,tutor,"Yes, so how can it be 350,000, Declan, then?",00:09:25
+cmuacdt,68,student,I thought you were talking about that one.,00:09:33
+cmuacdt,69,tutor,"Uh, Declan, you have to only guess one number, not two.",00:09:37
+cmuacdt,70,student,I guess this is it.,00:09:43
+cmuacdt,71,tutor,"Yes, so you need to guess one number That number should correct with both these two statements, right?",00:09:48
+cmuacdt,72,student,"Yeah, but so I—",00:09:59
+cmuacdt,73,tutor,So it's not two separate numbers.,00:10:01
+cmuacdt,74,student,"Oh, so I just— what, so I write the second answer, 498,678?",00:10:04
+cmuacdt,75,tutor,"Yes, that's correct with the second one, but not with the first one.",00:10:13
+cmuacdt,76,tutor,"Yes. See, you need to guess only one number which satisfies both these statements. [unclear]",00:10:18
+cmuacdt,77,student,"Something like 350,010 or something like that.",00:10:27
+cmuacdt,78,tutor,"So I've got one, so I've got one of these in the first one wrong. So one of these. [unclear]",00:10:40
+cmuacdt,79,tutor,"You have written, uh, written the 349,000 for the first one and the second one to the second box. It's not like that. You need to write only one number which satisfies both the statements. Got it? You can't write two separate things for the two separate statements. Got it?",00:10:52
+cmuacdt,80,student,"Okay, yeah. So I've got one of these numbers in this first one wrong.",00:11:16
+cmuacdt,81,tutor,"Yes, the two numbers are wrong. You need to guess another which satisfies both the statements. [unclear]",00:11:24
+cmuacdt,82,tutor,Just guess another number.,00:11:37
+cmuacdt,83,student,"Another number. I've got to guess another? Oh, okay. Just guess something like 350,010 or 20 or something like that.",00:11:40
+cmuacdt,84,tutor,"Okay. Okay, so now check both the statements. First, check the first one and then the second one. [unclear] Second one? Uh, no, first the first one and then the second one. When rounded to the nearest 10,000, it is 350,000. Is it okay with your answer? Um, hold on. [unclear]",00:11:59
+cmuacdt,85,student,"Wait, hold on, I'm just trying to think.",00:12:32
+cmuacdt,86,tutor,Okay.,00:12:48
+cmuacdt,87,student,I don't know.,00:12:52
+cmuacdt,88,tutor,"So when you round off this number, to the nearest 10,000, is it 350,000, Declan? Yes or no? [unclear]",00:12:55
+cmuacdt,89,tutor,"It is, right?",00:13:09
+cmuacdt,90,student,Yeah.,00:13:16
+cmuacdt,91,tutor,"Okay, so near to 350,000, right?",00:13:16
+cmuacdt,92,tutor,Yes?,00:13:32
+cmuacdt,93,background,"No, Declan, the number you wrote earlier was correct.",00:13:36
+cmuacdt,94,student,Then why have you worked it out then?,00:13:43
+cmuacdt,95,tutor,Why have you erased it if it's correct?,00:13:50
+cmuacdt,96,background,"No, it was a mistake, Declan. Sorry. Can you rewrite that again?",00:13:53
+cmuacdt,97,student,Okay.,00:14:00
+cmuacdt,98,background,"Okay, sorry. [unclear]",00:14:02
+cmuacdt,99,background,"350,200. That's what you wrote.",00:14:04
+cmuacdt,100,student,"350,200. [unclear]",00:14:20
+cmuacdt,101,tutor,"Okay, so now we are going to check with the first statement. When rounded to the nearest 10,000, it is 350,000, right? So when you round off this number to the nearest 10,000, it's 350,000 because it's so close to 350,000. Got it, Declan?",00:14:25
+cmuacdt,102,student,I got it.,00:14:57
+cmuacdt,103,tutor,"Okay, so the second statement, when rounded to the nearest 10,000, 100,000, it is 400,000. $350,000, right? So here it's $350,000. It's more than $350,000. Got it? So it's very, very close to $400,000. Got it? Because it's more than $350,000. Got it? So— [unclear]",00:14:58
+cmuacdt,104,tutor,"No, you don't need to write it.",00:15:27
+cmuacdt,105,student,Okay. This number is true with both the statements. Got it?,00:15:31
+cmuacdt,106,student,"Yeah, okay.",00:15:41
+cmuacdt,107,tutor,"Okay, that's it. Okay, hi. So, okay, shall we move to the next lesson? [unclear]",00:15:44
+cmuacdt,108,student,"Yeah, let's move to the next lesson. Okay, this is your new lesson after a long time, right, Declan?",00:15:54
+cmuacdt,109,student,Yeah.,00:16:09
+cmuacdt,110,tutor,"Okay, so can you please read this? Can you please read the topic? [unclear]",00:16:10
+cmuacdt,111,student,Today you will be learning about comparing numbers with to 2 decimal places.,00:16:17
+cmuacdt,112,tutor,Okay. So just try out the learning goal question here on the left-hand side. This one?,00:16:27
+cmuacdt,113,student,Yeah. What do I have to do?,00:16:35
+cmuacdt,114,tutor,You need to try out that. Read aloud and try to do the question. [unclear] The table shows how far some children jump in a long jump.,00:16:38
+cmuacdt,115,tutor,Write the name of the child who jumped the furthest.,00:16:52
+cmuacdt,116,student,"Okay, so just see, look at it and write the answer. [unclear] I forgot the name.",00:16:59
+cmuacdt,117,tutor,"Yes, okay, just check on the answer again.",00:17:15
+cmuacdt,118,tutor,"So there's someone who had jumped more than 2.45, right?",00:17:18
+cmuacdt,119,student,"Oh no, I have [UNCLEAR].",00:17:25
+cmuacdt,120,tutor,"Okay, just— you don't need to hurry. There's someone who has jumped more than James, right? Who's that?",00:17:29
+cmuacdt,121,background,"Yeah, there is.",00:17:43
+cmuacdt,122,tutor,Katie.,00:17:45
+cmuacdt,123,student,"Yeah, just write it.",00:17:46
+cmuacdt,124,tutor,There you go.,00:17:52
+cmuacdt,125,student,"Okay, did you correct it? Still I can't see it.",00:17:56
+cmuacdt,126,tutor,Pardon?,00:18:01
+cmuacdt,127,student,Still I can't see it. Did you write it?,00:18:03
+cmuacdt,128,tutor,"I wrote it, yeah, I put it down. I put Katie.",00:18:07
+cmuacdt,129,tutor,"Okay. Still, I can't see it because something's wrong with the signal.",00:18:11
+cmuacdt,130,student,"Oh, let me do it again.",00:18:15
+cmuacdt,131,tutor,Okay. [unclear],00:18:18
+cmuacdt,132,student,Still no.,00:18:24
+cmuacdt,133,tutor,"Okay. So you know that it's [UNCLEAR], right?",00:18:26
+cmuacdt,134,student,Yeah.,00:18:30
+cmuacdt,135,tutor,Okay. Okay. Now just do the prior learning question.,00:18:32
+cmuacdt,136,student,"Yes, I can.",00:18:36
+cmuacdt,137,tutor,"So now just do the prior learning question here, okay, Declan?",00:18:39
+cmuacdt,138,student,"Yep. Oh wait, no, that's symbols. I've got symbols. Is it symbols that I have to use?",00:18:46
+cmuacdt,139,tutor,"Yes, you need to use the symbols.",00:18:52
+cmuacdt,140,student,"I never used symbols before, so— wait, it's not coming up. [unclear]",00:18:55
+cmuacdt,141,tutor,You can just write it like this.,00:19:04
+cmuacdt,142,student,"Oh, okay.",00:19:06
+cmuacdt,143,tutor,"Okay, that's correct. Declan, how did you know that 1.31 is greater than 0.62?",00:19:13
+cmuacdt,144,student,"Well, basically, this has a zero, so 0.62, it has a zero, but if I look over here, it's got 1.31. That's got a one in it instead of a zero, so that must",00:19:20
+cmuacdt,145,tutor,"Okay, that's it. So fantastic, great explanation, Declan. So shall we move to the next slide now?",00:19:37
+cmuacdt,146,student,"Yeah. [unclear] So this is the next slide. Just read the things in the green bubble inside. Okay, when comparing decimals, it is important to understand the value of digits and their [unclear] reflective size.",00:19:45
+cmuacdt,147,tutor,"Relative size, right?",00:20:14
+cmuacdt,148,student,"Oh, okay.",00:20:16
+cmuacdt,149,tutor,Try to do the part A here.,00:20:17
+cmuacdt,150,background,So 1.2 is blank whole and blank,00:20:22
+cmuacdt,151,tutor,Just try to fill out these two blanks here.,00:20:27
+cmuacdt,152,student,"So 1.2 is blank whole and blank tenths. Wait. Oh, whole number. Wait, what's the whole number again? I forgot.",00:20:32
+cmuacdt,153,tutor,"So in 1.2, what's the whole number and what's the decimal? So you can see the decimal place, right? [unclear] [unclear]",00:21:32
+cmuacdt,154,tutor,"Yeah, wait, where? Where's— no, because your point is up in the corner.",00:21:51
+cmuacdt,155,student,"No, Declan here in 1.2, you can see the decimal—",00:22:01
+cmuacdt,156,tutor,"Yeah, I can see the decimal point.",00:22:09
+cmuacdt,157,tutor,Right there.,00:22:11
+cmuacdt,158,student,So the whole number is the number in the left-hand side of the decimal place.,00:22:11
+cmuacdt,159,tutor,"Oh, that's 1.0.",00:22:20
+cmuacdt,160,student,"That, yeah. One is the whole number, right?",00:22:24
+cmuacdt,161,tutor,"One, okay.",00:22:28
+cmuacdt,162,student,"Okay, just [unclear] the blank space. Okay.",00:22:30
+cmuacdt,163,tutor,So how many tens are there?,00:22:36
+cmuacdt,164,student,Tens? [unclear],00:22:43
+cmuacdt,165,tutor,2?,00:22:49
+cmuacdt,166,student,"Again, check on that. [unclear]",00:22:51
+cmuacdt,167,tutor,12?,00:22:53
+cmuacdt,168,tutor,"Yes, exactly. Excellent, Declan. Good.",00:23:01
+cmuacdt,169,student,"I put 12, I put 21 for that one, but then you told me to look at that and I put 1. I thought that because I put 21 there, I thought I put 12 already.",00:23:06
+cmuacdt,170,tutor,"Okay, finally you understood, right? Okay. [unclear]",00:23:24
+cmuacdt,171,tutor,"Next one, this one?",00:23:29
+cmuacdt,172,student,Yeah.,00:23:31
+cmuacdt,173,tutor,"It's very similar to this one. Just try it out again. Okay, that's correct. [unclear]",00:23:32
+cmuacdt,174,student,"Okay, uh, again check on the tense. [unclear]",00:23:54
+cmuacdt,175,student,"It's one, two, three, four. Oh wait, no, hold on. It's there. One.",00:24:06
+cmuacdt,176,tutor,Yes.,00:24:20
+cmuacdt,177,student,One line.,00:24:21
+cmuacdt,178,student,Yep.,00:24:22
+cmuacdt,179,tutor,"Okay, correct that. One, ten. [unclear]",00:24:24
+cmuacdt,180,student,One.,00:24:30
+cmuacdt,181,tutor,One.,00:24:32
+cmuacdt,182,student,"Yes, exactly.",00:24:33
+cmuacdt,183,tutor,"Now to Part B. You should write the two numbers in the two-place value charts, and you have to use the symbols to compare the two numbers.",00:24:34
+cmuacdt,184,student,Okay. [unclear],00:24:53
+cmuacdt,185,tutor,So can you see any food there? You need to compare these two.,00:24:57
+cmuacdt,186,student,"Oh, I thought you meant— alright, so one, two, three.",00:25:03
+cmuacdt,187,tutor,"Okay, you need to write in the correct column in the place value chart, Declan. [unclear] Now fill out the next place value chart as well.",00:25:15
+cmuacdt,188,student,Okay.,00:25:29
+cmuacdt,189,tutor,"Okay, now add the relevant symbol in between.",00:25:31
+cmuacdt,190,tutor,OK.,00:25:40
+cmuacdt,191,background,"OK, that's great. How did you know that 1.2 was greater than 1.11, Declan?",00:25:45
+cmuacdt,192,student,"Well, they've got one tenth and I've got two tenths. On the other one I've got two and the other one has got one, so... Okay, that's how you knew, right? Good.",00:25:54
+cmuacdt,193,student,Yep. [unclear],00:26:09
+cmuacdt,194,tutor,"So this is the Follow Me, Your Turn slide. So after my turn, you can do your turn.",00:26:10
+cmuacdt,195,student,Okay.,00:26:19
+cmuacdt,196,tutor,It can help to write the numbers beneath each other to compare. Let's compare 0.7 and 0.6.,00:26:21
+cmuacdt,197,student,First is write each number in the place value chart. So I'm going to write 0.74. [unclear] 0.,00:26:31
+cmuacdt,198,student,And then—,00:27:00
+cmuacdt,199,tutor,"So then the part B, the first number has— so it's 0.7. The first number has 7 tenths, and the second number has— it's 0.3, so it has [UNCLEAR].",00:27:02
+cmuacdt,200,student,"Yeah, okay. 0.7 is greater than 0.6. [unclear]",00:27:19
+cmuacdt,201,tutor,I think I can do that.,00:27:28
+cmuacdt,202,background,"Okay, so Declan, I think the time is coming up. So we'll continue from here next week. So hope you understood what I did. So you need to do the similar thing here on the Your Turn slide. So we'll be doing this in our next week. Okay, Declan?",00:27:42
+cmuacdt,203,student,Okay.,00:28:03
+cmuacdt,204,tutor,"Okay, hope you understood, Declan. Well done on focusing in the lesson. So excellent. Thank you. Bye-bye. [unclear]",00:28:05
+cmuacdt,205,student,Thank you. Bye.,00:28:13
+cmuacdt,206,student,I will. You too.,00:28:15
+cmuacdt,207,tutor,"Excellent. You did that too, right?",00:28:17
+cmuacdt,208,student,Yep.,00:28:20
+cmuacdt,209,tutor,"Excellent. That's good. Good work, you guys.",00:28:20
+cmuacdt,210,student,Thank you.,00:28:23
+cmuacdt,211,tutor,Bye-bye.,00:28:25
+cmuacdt,212,student,Bye. [unclear],00:28:25

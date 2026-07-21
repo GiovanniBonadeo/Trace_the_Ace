@@ -1,0 +1,415 @@
+session_id,utterance_id,role,content,timestamp
+jhmptle,0,background,[unclear],00:00:00
+jhmptle,1,tutor,"Hello, can you hear me?",00:00:00
+jhmptle,2,student,"Yes, hi.",00:00:01
+jhmptle,3,tutor,"Hi Leo, how are you?",00:00:04
+jhmptle,4,student,Good.,00:00:06
+jhmptle,5,tutor,"Okay, how is your day going so far?",00:00:07
+jhmptle,6,student,It's alright.,00:00:10
+jhmptle,7,tutor,"Okay, what did you do today?",00:00:12
+jhmptle,8,student,I did some English and maths.,00:00:15
+jhmptle,9,tutor,"Mm-hmm, okay. What did you do in math?",00:00:20
+jhmptle,10,student,We were learning multiplication with fractions. [unclear],00:00:25
+jhmptle,11,background,"Oh, not numbers with two decimal places. [unclear]",00:00:37
+jhmptle,12,student,Hi!,00:00:55
+jhmptle,13,background,"So I looked at one corner and whatever the [unclear] was, then I was moving to the next to see what the other bit of the exhibit was.",00:01:11
+jhmptle,14,tutor,Pardon? Hello?,00:01:30
+jhmptle,15,background,"Yeah? Testing 1, 2, 3. Testing 1, 2, 3. [unclear]",00:01:35
+jhmptle,16,tutor,How do you times fractions over by a whole number? [unclear],00:01:42
+jhmptle,17,student,"So, it had to hit like 2, so it was like 2 times 3/4.",00:01:53
+jhmptle,18,tutor,The ones place. [unclear],00:02:02
+jhmptle,19,student,How do you think you're going to be comparing numbers?,00:02:08
+jhmptle,20,tutor,Thousand.,00:02:20
+jhmptle,21,student,To two decimal places. [unclear],00:02:22
+jhmptle,22,tutor,Can you hear me now?,00:02:36
+jhmptle,23,student,Yes. [unclear] But at least it's fixed. Can you hear me clearly?,00:02:50
+jhmptle,24,student,A bit. You keep pausing and talking again.,00:02:59
+jhmptle,25,tutor,"Right. Can you try to refresh your page, please?",00:03:03
+jhmptle,26,student,Okay.,00:03:07
+jhmptle,27,tutor,Okay. Is my voice clear now?,00:03:14
+jhmptle,28,student,Yes.,00:03:17
+jhmptle,29,tutor,"Okay, awesome. All right. So let's get back to— [Leo]...multiplying fractions.",00:03:18
+jhmptle,30,tutor,"Yeah, how was it?",00:03:18
+jhmptle,31,student,"It was okay. It wasn't hard, but it wasn't easy either.",00:03:28
+jhmptle,32,tutor,"Okay, alright. Well then, maybe if you practice a little bit, I think you can get the hang of it.",00:03:35
+jhmptle,33,student,Yeah.,00:03:43
+jhmptle,34,tutor,"Okay, alright then, Leo. Now that you're here, are you ready to get started with your lesson for today?",00:03:44
+jhmptle,35,student,Yeah.,00:03:52
+jhmptle,36,tutor,"Okay. Here we go. Today we're going to continue this from last week, which is rounding numbers to the nearest 10,000 and 100,000.",00:03:53
+jhmptle,37,student,Okay.,00:04:05
+jhmptle,38,tutor,"Okay. So we learned a little bit about this topic last week, didn't we?",00:04:05
+jhmptle,39,student,Yes.,00:04:10
+jhmptle,40,tutor,Okay. What do you remember about it?,00:04:12
+jhmptle,41,background,Pardon?,00:04:18
+jhmptle,42,tutor,What do you remember about what we learned last week?,00:04:19
+jhmptle,43,background,"That if numbers are higher than 5, then the number will become bigger, and if they are lower than 5, they'll become smaller. [unclear]",00:04:25
+jhmptle,44,tutor,"Exactly. Yes, very nice.",00:04:39
+jhmptle,45,tutor,"Okay, and what else do you remember about the nearest thousand? [unclear]",00:04:42
+jhmptle,46,tutor,"Hello, can you hear me now?",00:05:19
+jhmptle,47,student,"Yes. [unclear] about multiples of 1,000 and 10,000 and so on.",00:05:20
+jhmptle,48,tutor,"Pardon, you keep pausing for me.",00:05:31
+jhmptle,49,tutor,"What do you remember about multiples of 1,000 and 10,000 and so on? [unclear]",00:05:35
+jhmptle,50,student,"The first number will always be different depending how you times it. And if you have to add more numbers bigger than 5, then that the first number will change and the rest will stay the same depending what column you're on about.",00:05:46
+jhmptle,51,tutor,"Mm-hmm. Okay. Okay. All right. Very good explanation. Very good try. Great job. Well, do you remember we were discussing about multiples of 1,000?",00:06:10
+jhmptle,52,student,Yes.,00:06:22
+jhmptle,53,tutor,"What are multiples of 1,000, Leo? [unclear] Numbers that are in the column with thousands.",00:06:23
+jhmptle,54,tutor,"Mm-hmm. Yes, very good. Can you tell me the thousands, please? The multiples of thousands?",00:06:35
+jhmptle,55,student,"1,000, 2,000, 3,000, 4,000.",00:06:44
+jhmptle,56,tutor,"[unclear] Very nice. Okay, do you think you could now tell me the multiples of tens?",00:06:51
+jhmptle,57,student,"10,000.",00:06:59
+jhmptle,58,tutor,"10,000, 20,000, 30,000, and 40,000.",00:07:01
+jhmptle,59,background,Mm-hmm.,00:07:08
+jhmptle,60,tutor,"Very good. There you go. Very nice. Alright, so when we are going up in multiples of 1,000 and 10,000, did you notice what place value column changed?",00:07:08
+jhmptle,61,student,Yeah.,00:07:17
+jhmptle,62,tutor,"There you go. Very nice. So we need to figure out our previous multiple and next multiple based on that, don't we?",00:07:18
+jhmptle,63,student,Yes.,00:07:25
+jhmptle,64,tutor,"There you go. Okay, very nice. We are going to move forward. Do you remember we were doing this slide last week? [unclear]",00:07:26
+jhmptle,65,student,Yes.,00:07:36
+jhmptle,66,tutor,"Okay, then for this one, for the number line method, when we marked the position of each number, then whatever it was close to, we would round up or down to that, wouldn't we?",00:07:37
+jhmptle,67,student,Yeah.,00:07:49
+jhmptle,68,tutor,"Okay, that is the number line method. Now we are going to move forward and we have to learn about the place value column method.",00:07:50
+jhmptle,69,student,Okay.,00:08:02
+jhmptle,70,tutor,"Okay. So we are going to do that using this follow me, your turn slide. And I want you to listen very carefully while I do the follow me slide. Okay. Alright. Let's round 976,532 to the nearest 100,000. Okay, if there is any issue, Leo, with the audio, or if you didn't understand something, I want you to stop me then and there and ask.",00:08:03
+jhmptle,71,student,Okay.,00:08:36
+jhmptle,72,tutor,"And I will also ask you to explain what I did at the end, so make sure you're listening carefully.",00:08:36
+jhmptle,73,student,Okay.,00:08:45
+jhmptle,74,tutor,"Okay, alright. So estimate the position of 976,532 on the number line. So we will We will have to first figure out what the previous multiple of 100,000 is and what the next multiple of 100,000 is. Because we are looking for the multiples of 100,000, we have to look at the hundred thousands column. And we have a 9 in it. So automatically, it is going to be— the previous multiple is going to be 900,000.",00:08:46
+jhmptle,75,student,"[unclear] And the next multiple is going to be 100,000 more. So when we add a 1 onto the 900,000, then it's going to go up to 10. But we can't really have 10 in the hundred thousands column, so we're going to take that 1 into the millions column. [unclear] So it's going to be 1 million. Are we clear so far?",00:09:15
+jhmptle,76,student,Yes.,00:09:44
+jhmptle,77,tutor,"Okay. So now we have to estimate where it would be. Because this is 900,000 and this is 1 million, I know that the halfway point would be 950,000.",00:09:45
+jhmptle,78,student,Yes.,00:09:59
+jhmptle,79,tutor,"Okay, and I have to mark where 976,000 would be. So I'll be looking for— 950,000 is here, 960,000 would be here, 970,000 would be here, and 980,000 would be here. But this is 6,000, 76,000. [unclear] And 80 is here. I'm going to mark a little bit after the halfway because exactly halfway Halfway over here is going to be 975,000. So a little bit next to that. So that would be 976,000. And 532, of course, it's going to be approximately there because they're all very small compared to the number line.",00:09:59
+jhmptle,80,student,[unclear],00:10:46
+jhmptle,81,tutor,"Okay. Alright. So this is the number. And using the number line method, I can see that this number is close to 1 million. So it is going to round up to 1 million. [unclear]",00:10:47
+jhmptle,82,tutor,Clear so far?,00:11:01
+jhmptle,83,student,Yes.,00:11:03
+jhmptle,84,tutor,"Okay. Now this number, we are going to round it using the place value column method. Okay. In order for us to round to the nearest hundred thousandth, we need to look at the digit in the ten thousandth column.",00:11:03
+jhmptle,85,student,Okay.,00:11:18
+jhmptle,86,tutor,Okay. So we always need to be very careful that we look at the column on the,00:11:19
+jhmptle,87,tutor,"Right. So if we are rounding to the nearest hundred thousand, we're going to look at the ten thousands. Okay. Always make sure you look at the column on the right. For example, if we were to round to the nearest thousands, we would actually look at the hundreds because that's the column on the right. [unclear]",00:11:27
+jhmptle,88,student,Okay.,00:11:44
+jhmptle,89,tutor,"Yes, so in this case, the column on the right is the ten thousands, so we need to look at that. So the digit in the ten thousands place is 7. And because it's a 7, we know the",00:11:44
+jhmptle,90,background,"5 or more, you round up. And less than 5, you round down. Very good. So because this comes in the category of 5 or more, we know we're going to round up. So 976,532 is going to round up to 1 million. [unclear]",00:11:58
+jhmptle,91,tutor,Okay.,00:12:22
+jhmptle,92,background,[UNCLEAR],00:12:22
+jhmptle,93,tutor,"There we go. So this was the Follow Me Pad. Was everything clear, Leo?",00:12:28
+jhmptle,94,student,Yes.,00:12:34
+jhmptle,95,tutor,Okay. Do you think you could tell me what you understood?,00:12:35
+jhmptle,96,student,"That you have to look on the right column to see if you have to round up or down, and that rounding up will always be in the same column because if you have 900,000 and you have to add 100,000, you can't add it, so you have to go into the millions.",00:12:40
+jhmptle,97,tutor,[unclear],00:13:08
+jhmptle,98,tutor,"Alright, there you go. So what do we have to be careful about when we have to look at the columns? Which column should we look at?",00:13:15
+jhmptle,99,student,The right one.,00:13:26
+jhmptle,100,tutor,"The right, very good. There you go. How can you figure out the previous and next multiple, Leo?",00:13:27
+jhmptle,101,student,By rounding it down by [UNCLEAR].,00:13:34
+jhmptle,102,background,What column it's in.,00:13:40
+jhmptle,103,tutor,"Mm-hmm, exactly, very nice. That depends on the column that we are rounding it to. So the nearest 100,000 in this case. Very good. Okay, now we can do the your turn part, but before that I wanted to say very good explanation, Leo. Can you take me through your work just like how I took you through my work? [unclear]",00:13:42
+jhmptle,104,background,"272,256 to the nearest 10,000.",00:14:11
+jhmptle,105,tutor,To the nearest?,00:14:15
+jhmptle,106,background,"100,000.",00:14:19
+jhmptle,107,tutor,"Exactly, there you go. [unclear]",00:14:22
+jhmptle,108,background,"And I have to estimate the position of 272,256 on the number line.",00:14:26
+jhmptle,109,tutor,Mm-hmm.,00:14:35
+jhmptle,110,student,"Okay. So the previous multiple of 100,000 would have been 200,000.",00:14:37
+jhmptle,111,tutor,Mm-hmm. [unclear],00:14:52
+jhmptle,112,student,"The next multiple would be 300,000.",00:14:54
+jhmptle,113,tutor,Okay.,00:14:59
+jhmptle,114,tutor,Because?,00:15:02
+jhmptle,115,student,"Because you have to add 100,000.",00:15:05
+jhmptle,116,tutor,"Exactly, very nice. That's how you can get to the next multiple of anything, don't you think? You need to add the same thing over and over again.",00:15:09
+jhmptle,117,student,Yes.,00:15:17
+jhmptle,118,tutor,"Pretty good job, very good job so far, it's very nice. Okay.",00:15:17
+jhmptle,119,background,[unclear],00:15:24
+jhmptle,120,student,"And then in the very middle to find it, we're gonna",00:15:24
+jhmptle,121,student,"So we need to split 200,000 and 300,000, which is 250,000. Then we need to get to 270,000. We've got to go across 2 to get to the 70,000s. Then we can't go in the very middle because that's after [UNCLEAR]. 2, so we've got to go a bit lower and it would be somewhere here.",00:15:30
+jhmptle,122,tutor,"Exactly, Leo. Yes, there you go, very nice.",00:16:07
+jhmptle,123,student,So it would be somewhere here.,00:16:14
+jhmptle,124,tutor,Very good. There you go. Amazing job done there. [unclear],00:16:26
+jhmptle,125,student,"Then I've got a number column and it says the numbers are in the place value chart. And then I've got to figure out what digit is in the 10,000 place. So you've got you've got to see what the thousands is and what the ten thousands is.",00:16:33
+jhmptle,126,tutor,Mm-hmm.,00:16:59
+jhmptle,127,student,"But because this number 7 is in the ten thousands, I've got to put a 7 in the place. And then",00:17:01
+jhmptle,128,background,"I've got to round 272,556 closer to [UNCLEAR]. So then I've got to look what numbers to its right, which is 7. So it means it's going to be 1,000 bigger. 100,000 bigger.",00:17:17
+jhmptle,129,tutor,"Very nice. Very nice. There you go, Leo. So you're supposed to say we're going to round up to the next multiple. Which is 300,000.",00:17:17
+jhmptle,130,student,Yes.,00:17:49
+jhmptle,131,tutor,"Okay. So because when we say 100,000 bigger, then that means you're going to add 100,000 onto this number, which is not right, is it?",00:17:49
+jhmptle,132,student,No.,00:18:00
+jhmptle,133,tutor,"So you have to say you're rounding up to the next 100,000.",00:18:01
+jhmptle,134,student,[unclear] Yes.,00:18:04
+jhmptle,135,tutor,"Okay. Alright, so very good explanation over there. Leo and Supha working out. Very, very good job. Alright, so are we now feeling confident with the number line method and the place value column method?",00:18:06
+jhmptle,136,background,Yes.,00:18:19
+jhmptle,137,background,[unclear],00:18:19
+jhmptle,138,tutor,"Alright, so now we're going to move forward so we can try out a few practice questions. Let's round these numbers to the nearest thousand, ten thousand, and hundred thousand. Let's do A first. What is that number?",00:18:20
+jhmptle,139,background,"782,009. [unclear]",00:18:32
+jhmptle,140,tutor,"What's after the 100,000? A 9.",00:18:42
+jhmptle,141,student,What do you mean?,00:18:48
+jhmptle,142,tutor,"Because I said thousand and it's not a thousand, it's in the hundred thousands and then it's got a 9 after it and doesn't have any numbers before it.",00:18:51
+jhmptle,143,tutor,Mm-hmm. Okay. So how do you exactly read the number properly? What do you think?,00:19:06
+jhmptle,144,student,Saying what column it's in after the comma.,00:19:14
+jhmptle,145,tutor,"Mm-hmm. Okay. So do you think you could read the number for me, the entire number?",00:19:19
+jhmptle,146,student,[unclear] 782 hun—,00:19:28
+jhmptle,147,student,[unclear],00:19:35
+jhmptle,148,tutor,"Exactly, there you go. Very nice. Okay, so let's round it to the nearest thousand. How are we going to do that?",00:19:35
+jhmptle,149,student,"So the thousand is 2, and we've got to look to its right, which is 0. And because there's 2 numbers lower than 5,",00:19:45
+jhmptle,150,background,"Which would make it just 2,000.",00:20:00
+jhmptle,151,tutor,"Mm-hmm. Exactly. Very nice. There you go. So what would your answer be over here? [unclear] Excellent. Very good. So you also have to mention whether you're rounding up or rounding down, Leo. That's very important.",00:20:05
+jhmptle,152,background,We're rounding down.,00:20:23
+jhmptle,153,tutor,"We're rounding down. Very good explanation over there. Pretty good job. Okay, so now we can move forward to rounding it to the nearest 10,000. [unclear]",00:20:26
+jhmptle,154,student,"So the 10,000 is 8, and if we look to the right,",00:20:41
+jhmptle,155,background,"The number is lower than 5, so it means that you would have to get rid of the 2,000 and round down and not up. [unclear]",00:20:52
+jhmptle,156,tutor,"There you go. Very nice. If we had to round up, what would we be rounding up to?",00:21:12
+jhmptle,157,student,[unclear],00:21:24
+jhmptle,158,tutor,"The 10,000s?",00:21:24
+jhmptle,159,student,Mm-hmm.,00:21:27
+jhmptle,160,tutor,Yes. But what would the number be if we were to round up?,00:21:28
+jhmptle,161,student,"790,000.",00:21:35
+jhmptle,162,tutor,"There you go, Leo. Pretty good job. Very nice. Very nicely done. Super working out of a 10. Now we can move on to rounding it to the nearest 100,000.",00:21:38
+jhmptle,163,background,"So how this one would work is if you look at the [unclear] of the 100,000, you'll see that it's a 7. So you've got to look right and you would see that the number is bigger than 5. So you've got to round up.",00:21:51
+jhmptle,164,tutor,"Exactly, there you go, very nice. What if you had to round down? What would you round down to?",00:22:11
+jhmptle,165,student,"700,000.",00:22:21
+jhmptle,166,tutor,"There you go, Leo. Very good job. Alright, so we are done with this number. Very good. We can now move on to the next number. How would you read this number?",00:22:23
+jhmptle,167,background,"299,999.",00:22:35
+jhmptle,168,tutor,Let's round it to the nearest thousand.,00:22:37
+jhmptle,169,tutor,There you go. So what are we going to do to round it to the nearest thousand?,00:22:39
+jhmptle,170,student,"So you have to look at the thousands, which is 9, and then you have to look on to the right number and see that it's also 9. So you've got to round up, and because the ten thousand is also 9, you've got to round to another thousand.",00:22:45
+jhmptle,171,student,So...,00:23:12
+jhmptle,172,tutor,"You're quite close, but not there yet. You're very close. Okay, do you think you could tell me the previous multiple? Excuse me. [unclear] I'm so sorry, I'm having a cough, so I had to go on mute. Do you think you could tell me the previous multiple and next multiple of 1,000?",00:23:13
+jhmptle,173,student,"30,000?",00:23:52
+jhmptle,174,tutor,Try again.,00:23:57
+jhmptle,175,student,No.,00:23:58
+jhmptle,176,background,"It's not going to be 30,000. I want the previous multiple of 1,000, Leo. Can you do that?",00:23:59
+jhmptle,177,background,"10,000.",00:24:06
+jhmptle,178,tutor,"Not really, no. Well, what I'm asking is, if you have to round down, what would you round down to? And if you have to round up, what would you round up to?",00:24:09
+jhmptle,179,background,"280,000, because you've got to take 10,000 away.",00:24:20
+jhmptle,180,tutor,"Mm-hmm, OK. So are we rounding to the nearest 1,000 or 10,000 here?",00:24:27
+jhmptle,181,background,"10,000, uh, 1,000.",00:24:35
+jhmptle,182,tutor,So what do you think your previous multiple is going to be?,00:24:38
+jhmptle,183,background,Oh! [unclear],00:24:45
+jhmptle,184,tutor,There you go.,00:24:46
+jhmptle,185,background,"So if my 1,000 is 9, and I look to the right side, it's also 9. [unclear]",00:24:51
+jhmptle,186,student,"So I've got to add 1,000 to it, but I can't because that would have to take me on a new number.",00:25:05
+jhmptle,187,tutor,"Exactly, no problem, that's how it works. [unclear]",00:25:22
+jhmptle,188,background,I'm confused now because I can't round up.,00:25:32
+jhmptle,189,tutor,"Hmm, okay, alright. Well, amazing effort over there, Leo, I have to tell you that. You told me you have to round up. Didn't you?",00:25:36
+jhmptle,190,background,Yeah.,00:25:46
+jhmptle,191,tutor,Which of these digits are you going to round up?,00:25:47
+jhmptle,192,background,"The 1,000.",00:25:51
+jhmptle,193,tutor,"If you have to round up, what will happen to the 9?",00:25:54
+jhmptle,194,student,It will become 10.,00:26:00
+jhmptle,195,tutor,It will become 10. Can you write 10 in the same— in one column? Can you write 2 digits in one column?,00:26:02
+jhmptle,196,student,No.,00:26:09
+jhmptle,197,tutor,No. So what will you keep in the thousands and what will you take to the ten thousands?,00:26:10
+jhmptle,198,student,"The 10. Well, technically one.",00:26:15
+jhmptle,199,tutor,"Mm-hmm. So you have to keep— you have to give the one to the ten thousands, don't you?",00:26:19
+jhmptle,200,student,Yeah.,00:26:24
+jhmptle,201,tutor,"Now if you are giving the one to the ten thousands, what will that become?",00:26:25
+jhmptle,202,student,Another ten.,00:26:32
+jhmptle,203,tutor,Mm-hmm. So what would you keep and what will you regroup?,00:26:34
+jhmptle,204,student,You keep the nine but take away the two.,00:26:39
+jhmptle,205,tutor,[unclear] Keep that in mind. This 9 is also becoming a 10. So what would you keep here? Would you keep the 1 or would you keep the 0?,00:26:42
+jhmptle,206,student,The 0.,00:27:02
+jhmptle,207,tutor,And where will you keep the 1? [unclear],00:27:04
+jhmptle,208,student,"You'll take it to the next column. So when you give the one into the hundred thousands, what would your number become then?",00:27:08
+jhmptle,209,background,A three? [unclear],00:27:19
+jhmptle,210,tutor,"Is it confusing, Leo?",00:27:22
+jhmptle,211,background,Yes.,00:27:34
+jhmptle,212,tutor,"Okay, okay, hold on. Well, amazing effort.",00:27:35
+jhmptle,213,student,"Wait, will it become 399,999?",00:27:40
+jhmptle,214,tutor,"Amazing effort. But let me teach it to you in a different way. I want you— now over here you told me that when we round down, it would go down to 782,000. [unclear]",00:27:48
+jhmptle,215,student,Yes.,00:28:02
+jhmptle,216,tutor,"If we were to round up, what would it go up to? [unclear]",00:28:02
+jhmptle,217,tutor,Pardon your pause.,00:28:10
+jhmptle,218,student,Can you hear me now?,00:28:12
+jhmptle,219,tutor,"A bit, but it keeps pausing.",00:28:16
+jhmptle,220,student,Can you try to refresh your page then? I will also refresh and be back.,00:28:19
+jhmptle,221,tutor,Okay.,00:28:23
+jhmptle,222,tutor,"Can you hear me now, Leo?",00:28:34
+jhmptle,223,student,Yes. [unclear],00:28:40
+jhmptle,224,tutor,You paused again. We have to round down. What would we round down to?,00:28:44
+jhmptle,225,student,"Oh, [unclear] 770,000.",00:29:01
+jhmptle,226,tutor,"No, is that what you rounded down to, yeah?",00:29:08
+jhmptle,227,student,No.,00:29:11
+jhmptle,228,tutor,What did you round down to?,00:29:14
+jhmptle,229,student,"782,000.",00:29:17
+jhmptle,230,tutor,"Very good. If you were to round up, what would you round up to?",00:29:18
+jhmptle,231,student,"792,000.",00:29:30
+jhmptle,232,tutor,"Are we rounding to the nearest thousand, ten thousand, or hundred thousand?",00:29:31
+jhmptle,233,student,One thousand.,00:29:35
+jhmptle,234,tutor,So what column is going to change?,00:29:37
+jhmptle,235,student,The thousands.,00:29:41
+jhmptle,236,tutor,"Mm-hmm. So if you have to round up, what column would change?",00:29:42
+jhmptle,237,student,The thousands.,00:29:49
+jhmptle,238,tutor,Mm-hmm. So what is it going to be?,00:29:50
+jhmptle,239,student,"783,000.",00:29:56
+jhmptle,240,tutor,"Mm-hmm, there you go. Very nice. So you had only these two options, didn't you?",00:29:57
+jhmptle,241,student,Yeah.,00:30:06
+jhmptle,242,tutor,"Okay, so you figured out that it was 782,000, or to go to the next multiple, you just simply have to add 1,000. Is that correct?",00:30:07
+jhmptle,243,student,Yeah. [unclear],00:30:16
+jhmptle,244,tutor,"Same for 299,999. What do you have to round it to if you were to round it down?",00:30:17
+jhmptle,245,student,"The nearest 1,000.",00:30:28
+jhmptle,246,tutor,"Mm-hmm. If you have to round it down, what would your multiple of 1,000 be?",00:30:29
+jhmptle,247,student,"It would be 298,000— [unclear] 298,000.",00:30:38
+jhmptle,248,tutor,"Mm-hmm. So when you had to round down here, did you go down 1,000 or did you stick to the same 1,000?",00:30:46
+jhmptle,249,background,"Uh, the same thousand.",00:30:54
+jhmptle,250,tutor,"So here, would you go down a thousand or would you stick to the same thousand?",00:30:56
+jhmptle,251,background,The same thousand.,00:31:01
+jhmptle,252,tutor,Mm-hmm. So what would your number be? [unclear],00:31:02
+jhmptle,253,background,"299,000.",00:31:06
+jhmptle,254,tutor,"Very good. Now you either have to round it down to 299,000 or you have to round it up. To the next thousand. What is the next thousand?",00:31:08
+jhmptle,255,background,"30,000? [unclear]",00:31:22
+jhmptle,256,tutor,Not really. You have to add how much to get to your next thousand?,00:31:27
+jhmptle,257,background,999.,00:31:34
+jhmptle,258,tutor,Do you have to add 999 to go to your next multiple?,00:31:38
+jhmptle,259,background,No.,00:31:44
+jhmptle,260,tutor,How much do we have to add?,00:31:44
+jhmptle,261,student,[unclear],00:31:49
+jhmptle,262,tutor,"10,000. Are we going up in multiples of 10,000 to add 10,000?",00:31:49
+jhmptle,263,student,"We're going in 1,000s.",00:31:54
+jhmptle,264,tutor,So how much do you have to add?,00:31:56
+jhmptle,265,student,"1,000.",00:31:58
+jhmptle,266,tutor,"Exactly, there you go. So I'm going to give you a grid here and I want you to do 299,000 and I want you to add 1,000 onto it. Can you do that?",00:31:59
+jhmptle,267,student,Okay.,00:32:11
+jhmptle,268,tutor,So I want you to use one digit per square and do column addition. [unclear],00:32:17
+jhmptle,269,student,Why can't you write [UNCLEAR]?,00:32:39
+jhmptle,270,tutor,Because I started putting the numbers in the wrong column.,00:32:39
+jhmptle,271,tutor,What do you mean?,00:33:06
+jhmptle,272,student,"So I put the 1,000 and the 100,000. [unclear]",00:33:08
+jhmptle,273,tutor,"Okay, there you go. It's correct now, isn't it?",00:33:17
+jhmptle,274,student,Yeah.,00:33:21
+jhmptle,275,tutor,"Very good. Okay, so let me quickly draw the line for you. And I want you to type the plus sign in. [unclear]",00:33:22
+jhmptle,276,tutor,"Okay, now let's get to adding.",00:33:40
+jhmptle,277,student,So 0 and 0 is 0 because you just can't add 0 and 0 together.,00:33:45
+jhmptle,278,student,"And then with 9 and 1, you'll get 10. So you'd put the first digit that comes into 10, which is 0, and you put the 1 on top. And add 1 and 9 again, which is 10. And you'll add the 0, and then add the 2 and 1.",00:33:58
+jhmptle,279,tutor,Mm-hmm.,00:34:27
+jhmptle,280,student,3.,00:34:28
+jhmptle,281,tutor,Mm-hmm. Very good. Do you now understand what I was trying to tell you with the place value chart?,00:34:28
+jhmptle,282,student,A little bit.,00:34:34
+jhmptle,283,tutor,"Okay, awesome. So if the previous multiple is 299,000, what is your next multiple going to be?",00:34:36
+jhmptle,284,background,8.,00:34:45
+jhmptle,285,student,"3,000.",00:34:47
+jhmptle,286,student,"300,000.",00:34:52
+jhmptle,287,tutor,"300,000. There you go, Leo. Very nice. So it's either going to be 299,000 or 300,000. Okay, so now you have to think whether you're rounding up or whether you're rounding down. So what digit do we have to look at in that case?",00:34:53
+jhmptle,288,student,One.,00:35:12
+jhmptle,289,background,The thousands.,00:35:13
+jhmptle,290,tutor,"Yes, but for you to decide if you have to round up or down, What do you look at? [unclear]",00:35:16
+jhmptle,291,student,The ten thousands.,00:35:24
+jhmptle,292,tutor,Do you look at the column on the left?,00:35:26
+jhmptle,293,student,No.,00:35:31
+jhmptle,294,tutor,Then what do we look at? The column on the—,00:35:33
+jhmptle,295,student,Right.,00:35:36
+jhmptle,296,tutor,The right. And what is the column on the right?,00:35:37
+jhmptle,297,student,The hundreds.,00:35:42
+jhmptle,298,tutor,And what is in the hundreds?,00:35:43
+jhmptle,299,student,9.,00:35:49
+jhmptle,300,tutor,So are you going to round up or are you going to round down?,00:35:49
+jhmptle,301,student,Up.,00:35:53
+jhmptle,302,tutor,"So are you going to round down to 290,000, 299,000, or are you going to round up to 300,000?",00:35:54
+jhmptle,303,student,"300,000.",00:36:02
+jhmptle,304,tutor,I want you to use the words rounding up or rounding down.,00:36:04
+jhmptle,305,student,Rounding up to 3.,00:36:08
+jhmptle,306,tutor,"There you go. Very nice, Leo. Very good job. Are we clear with it now?",00:36:12
+jhmptle,307,student,Yes.,00:36:17
+jhmptle,308,tutor,"Awesome. Alright, so we can now type the answer in here. Okay, and whenever you are confused, I want you to follow this approach. I want you to write the previous multiple and the next multiple and then figure it out. Then it won't be as confusing.",00:36:18
+jhmptle,309,student,Okay.,00:36:35
+jhmptle,310,tutor,"Yeah. Let's do the same thing for rounding to the nearest 10,000. What is the previous multiple and next multiple?",00:36:36
+jhmptle,311,student,"So if we've got 299,999, you have to round down. And if you round down,",00:36:44
+jhmptle,312,student,It would be...,00:37:03
+jhmptle,313,tutor,"Okay. The thing is, Leo... Okay, okay, go ahead. No, no, go ahead. Okay, okay. [unclear]",00:37:05
+jhmptle,314,tutor,"So for you to round down, what would you round it down to?",00:37:30
+jhmptle,315,student,"280,000.",00:37:35
+jhmptle,316,tutor,OK. How can you figure out the previous multiple? Which column do you have to look at?,00:37:37
+jhmptle,317,student,The thousands.,00:37:45
+jhmptle,318,tutor,Are we rounding to the nearest thousand?,00:37:46
+jhmptle,319,student,No.,00:37:52
+jhmptle,320,tutor,Then? What are we rounding to?,00:37:54
+jhmptle,321,student,"10,000.",00:37:55
+jhmptle,322,background,One.,00:37:58
+jhmptle,323,student,4.7.,00:37:58
+jhmptle,324,tutor,"So when we have to look for the previous multiple, what column are we going to look at? [unclear]",00:37:59
+jhmptle,325,student,"The 10,000s.",00:38:03
+jhmptle,326,tutor,"And what is in the 10,000s?",00:38:11
+jhmptle,327,student,A 9.,00:38:14
+jhmptle,328,tutor,"So do you have to stick to the same 10,000 or do you have to go even lower? Sticks [unclear]",00:38:16
+jhmptle,329,student,to the same. So,00:38:23
+jhmptle,330,tutor,"would it be correct if you write 280,000? No.",00:38:25
+jhmptle,331,student,There,00:38:30
+jhmptle,332,tutor,"you go. So what would it be if you had to round it down? 290,000.",00:38:31
+jhmptle,333,student,So,00:38:38
+jhmptle,334,background,"once again you're going way too low, Leo. Are you going to go way too low? 290,000.",00:38:38
+jhmptle,335,student,There,00:38:46
+jhmptle,336,tutor,"you go, very nice. And what would your next multiple be then? To find your next multiple, do you go lower?",00:38:46
+jhmptle,337,background,You have to round up.,00:38:54
+jhmptle,338,tutor,"No, you have to round up.",00:38:55
+jhmptle,339,background,Mm-hmm.,00:38:56
+jhmptle,340,tutor,"Yes, you have to round up, so you would have to go higher. So if we already have 290,000, how are we going to find the next multiple?",00:38:57
+jhmptle,341,background,"By adding 10,000.",00:39:08
+jhmptle,342,tutor,"Very good, by adding 10,000. Do you think you could do it mentally, or do you want the grid again? Monthly.",00:39:11
+jhmptle,343,tutor,"Mm-hmm, okay. So let's add 10,000. What will we get? [unclear] I want you to write both of the options here as well. Okay. And can you explain how you got to 300,000?",00:39:21
+jhmptle,344,student,"Because if you add 29 and 10,",00:39:36
+jhmptle,345,student,"It would be 30— well, no, that would be 39.",00:39:42
+jhmptle,346,tutor,Mm-hmm. Just think about one particular column that you're going to add it to.,00:39:50
+jhmptle,347,student,"The 10,000.",00:40:00
+jhmptle,348,tutor,"Mm-hmm, very good. You're going to add one 10,000 onto the 9 10,000s.",00:40:02
+jhmptle,349,tutor,Yeah.,00:40:09
+jhmptle,350,student,"Okay, so what happens in that way?",00:40:10
+jhmptle,351,tutor,We add 1.,00:40:14
+jhmptle,352,student,Mm-hmm. Yes. Okay.,00:40:20
+jhmptle,353,tutor,"And we have to round it to the nearest 10,000, which would be 30...",00:40:26
+jhmptle,354,background,"Because 29 rounded to the closest number is gonna be 30, and if you have it in hundred thousands, it would also be 30. [unclear]",00:40:35
+jhmptle,355,tutor,"Would it be 30,000, Leo?",00:40:55
+jhmptle,356,background,[unclear],00:41:13
+jhmptle,357,tutor,"300,000 is going to be 3 million.",00:41:13
+jhmptle,358,tutor,So are we rounding up to 3 million?,00:41:15
+jhmptle,359,background,No.,00:41:22
+jhmptle,360,background,"Leo, can you try to do the adding? On to 290,000. I want you to add 10,000. Can you do that? [unclear]",00:41:23
+jhmptle,361,student,"Add 10,000 to the 30,000 or to—",00:41:38
+jhmptle,362,tutor,"If we have 290,000 as the previous multiple, then do we have to use a different number?",00:41:45
+jhmptle,363,tutor,Yes.,00:41:56
+jhmptle,364,student,"The previous multiple is 290,000, Leo. How are we then going to find the next multiple?",00:41:59
+jhmptle,365,tutor,"By adding 10,000.",00:42:08
+jhmptle,366,student,"Exactly. So what are we going to add the 10,000 on to?",00:42:10
+jhmptle,367,tutor,On to the 9.,00:42:15
+jhmptle,368,tutor,"Exactly, very good. So can you do that using the grid, please? So what plus what are we going to do?",00:42:18
+jhmptle,369,student,"We're going to add the 290,000 and then we'll add the [unclear]",00:42:28
+jhmptle,370,background,"1,000.",00:42:47
+jhmptle,371,tutor,"Is that 1,000?",00:42:49
+jhmptle,372,background,No.,00:42:52
+jhmptle,373,tutor,"Are we going up in multiples of 1,000 for you to add 1,000?",00:42:52
+jhmptle,374,background,"We need 10,000.",00:42:56
+jhmptle,375,tutor,"There you go, very good. Okay. [unclear]",00:42:59
+jhmptle,376,background,"And then you can't add any of these zeros, so that would all be zero.",00:43:04
+jhmptle,377,student,"If you add 9 and 1, it would be 10, so you add— so you can't do it, which would have a 0. And then you add the 1, which would be 3.",00:43:09
+jhmptle,378,tutor,"There you go, very nice. So what is this number going to be?...300,000.",00:43:32
+jhmptle,379,tutor,"Exactly, Leo. Very good. I want you to write that here first. Your previous multiple and your next multiple. Have you written that correctly?",00:43:39
+jhmptle,380,student,No.,00:43:48
+jhmptle,381,tutor,Can you make sure you quickly correct that one? [unclear],00:43:49
+jhmptle,382,background,"Yeah, we can't do that. That has to be pre-board. Once you've corrected it, I want you to click on the points because otherwise I won't be able to see it. Okay, there you go. Very nice. So now how can you check if you have to round up or down?",00:43:54
+jhmptle,383,student,"By checking which bigger number, or if it's bigger than 5.",00:44:18
+jhmptle,384,tutor,Which column are you going to look at?,00:44:26
+jhmptle,385,student,"The 10,000s. So to round to the nearest ten thousandths, do you still look at the ten thousandths? What did we learn? We have to look at the column on the—",00:44:28
+jhmptle,386,student,Right.,00:44:40
+jhmptle,387,tutor,And what is the column on the right?,00:44:41
+jhmptle,388,student,The thousands.,00:44:46
+jhmptle,389,tutor,Very good. What is in the thousands?,00:44:47
+jhmptle,390,student,A 9.,00:44:50
+jhmptle,391,tutor,So do we round up or down?,00:44:52
+jhmptle,392,student,Uh... [unclear],00:44:57
+jhmptle,393,tutor,"Very good. I want you to explain all of this step by step. Okay, are we clear?",00:45:00
+jhmptle,394,student,Yeah.,00:45:07
+jhmptle,395,tutor,"Alright, very good working out over there, Leo. Pretty good job, very nicely done. Okay, so let's quickly discuss a little bit. When we have to find the previous multiple, do we stick to the same digit or do we go even lower?",00:45:08
+jhmptle,396,student,The same [UNCLEAR].,00:45:22
+jhmptle,397,tutor,"Okay, and when we have to look for the next multiple, what do we do then?",00:45:22
+jhmptle,398,student,We round higher.,00:45:29
+jhmptle,399,tutor,"Mm-hmm, very good. We add depending on the correct column, don't we?",00:45:30
+jhmptle,400,student,Yes.,00:45:36
+jhmptle,401,tutor,"Very good. And for us to decide about if we have to— for us to decide if we have to round up or down, Which column do we look at? The column on the—",00:45:37
+jhmptle,402,student,[unclear],00:45:50
+jhmptle,403,tutor,"There you go. That's very important, isn't it?",00:45:51
+jhmptle,404,student,Yes.,00:45:58
+jhmptle,405,tutor,"That is very important, isn't it?",00:45:58
+jhmptle,406,student,Yes.,00:46:01
+jhmptle,407,tutor,"Okay, there you go, Leo. There you go, Leo. Very good job. Super working out today, an amazing effort. We are actually done with your session then. This is just a quick reminder before you go. Make sure you answer your questions.",00:46:02
+jhmptle,408,tutor,Okay.,00:46:16
+jhmptle,409,student,Okay.,00:46:16
+jhmptle,410,tutor,"Alright then, Leo, have an amazing week ahead and I'll see you next week.",00:46:17
+jhmptle,411,student,"Thank you, bye.",00:46:22
+jhmptle,412,tutor,"You're welcome, bye.",00:46:24
+jhmptle,413,student,Bye.,00:46:26

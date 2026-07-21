@@ -1,0 +1,413 @@
+session_id,utterance_id,role,content,timestamp
+mdclcnd,0,tutor,Hello.,00:00:00
+mdclcnd,1,background,[unclear],00:00:00
+mdclcnd,2,student,Hi.,00:00:00
+mdclcnd,3,tutor,"Hi, Kieran. Hi, very welcome back to this session. How are you today?",00:00:01
+mdclcnd,4,student,"I'm good, how are you?",00:00:06
+mdclcnd,5,tutor,"I'm doing good, thank you. And how has your day been so far?",00:00:07
+mdclcnd,6,student,Been good. How's yours been?,00:00:12
+mdclcnd,7,tutor,"Mine's pretty good. Alright, so did you get to learn any maths today in your school?",00:00:14
+mdclcnd,8,student,"Yeah, we learnt maths.",00:00:21
+mdclcnd,9,tutor,"Okay, what did you learn about?",00:00:23
+mdclcnd,10,student,"Oh, uh... [unclear]",00:00:27
+mdclcnd,11,tutor,Mm-hmm.,00:00:34
+mdclcnd,12,student,The circle thingies.,00:00:35
+mdclcnd,13,tutor,"Oh, okay. So is it like finding area?",00:00:38
+mdclcnd,14,student,We're finding probability.,00:00:42
+mdclcnd,15,tutor,"Oh, probabilities.",00:00:45
+mdclcnd,16,student,Yeah.,00:00:47
+mdclcnd,17,tutor,"Oh, okay. The pie chart, the [unclear] diagram, and those things.",00:00:48
+mdclcnd,18,student,"Yeah, we're doing the [unclear] diagram.",00:00:52
+mdclcnd,19,tutor,"Okay, okay. That's great. So how was the lesson?",00:00:54
+mdclcnd,20,student,It was good.,00:00:57
+mdclcnd,21,tutor,"Okay. Alright, so shall we see what we have in our session for today?",00:00:59
+mdclcnd,22,student,Yeah.,00:01:04
+mdclcnd,23,tutor,Okay. So we're going to continue learning all about estimating calculations. Do you remember that we found the first significant figure and we've been rounding numbers and finding the estimation of such calculations?,00:01:05
+mdclcnd,24,student,Yeah. [unclear],00:01:23
+mdclcnd,25,tutor,"Yeah. And if you could remember, we tried working out this question together. And we stopped halfway in our previous session. So, yes, it is time for us to work out and complete this. And then remember, we will have a similar question to check your understanding. OK?",00:01:24
+mdclcnd,26,student,OK. Yeah.,00:01:47
+mdclcnd,27,tutor,"So I just need to go through the question once again because it's a part of the question that we need to work out. So it says, a unit of the Electricity [unclear] costs 6.3 pence. On average, Rio's factory uses 62.6 units of electricity a week. She needs to pay her electricity bill for the year, which is 52 weeks. And they're asking us to work out an estimate for the amount that Rio pays for the electricity. And do you have an idea of how we could do this?",00:01:47
+mdclcnd,28,student,You've got to round each value.,00:02:21
+mdclcnd,29,tutor,Very good. And then—,00:02:24
+mdclcnd,30,student,And can you hear me there? Yeah?,00:02:26
+mdclcnd,31,tutor,Yeah.,00:02:28
+mdclcnd,32,student,Okay.,00:02:29
+mdclcnd,33,tutor,6.,00:02:30
+mdclcnd,34,student,Very good.,00:02:32
+mdclcnd,35,tutor,"62. Wait, no, 63.",00:02:34
+mdclcnd,36,student,What do you think?,00:02:41
+mdclcnd,37,tutor,63.,00:02:42
+mdclcnd,38,student,Okay.,00:02:44
+mdclcnd,39,tutor,And then—,00:02:46
+mdclcnd,40,student,Why didn't that stay as 52?,00:02:48
+mdclcnd,41,student,"No, no. It would go down to [UNCLEAR]. [Speaker:Tutor] Yes, very good. And why does this become 63?",00:02:51
+mdclcnd,42,student,"Because it's the 6, that's the 2 up.",00:03:00
+mdclcnd,43,tutor,Okay. What is the first significant digit in all of this?,00:03:04
+mdclcnd,44,student,6.,00:03:10
+mdclcnd,45,tutor,6. The first 6 we're talking about. This is the first significant number. The number that holds value. Right?,00:03:11
+mdclcnd,46,student,Yeah.,00:03:21
+mdclcnd,47,tutor,So you need to check the number that is after that and round the first significant number. So we have a 2. Will you round up or down?,00:03:22
+mdclcnd,48,student,Down.,00:03:33
+mdclcnd,49,tutor,Down. So 62.6 rounds down to 60.,00:03:34
+mdclcnd,50,background,So that would be [UNCLEAR].,00:03:41
+mdclcnd,51,tutor,Yes. Did you understand that?,00:03:44
+mdclcnd,52,student,Yeah.,00:03:46
+mdclcnd,53,tutor,Very good.,00:03:48
+mdclcnd,54,background,"Oh, wrong one, sorry.",00:03:49
+mdclcnd,55,tutor,"Yeah, so use your rounded values to calculate her bill. And I think the rounded values are much more easier to calculate the bill. What do you say?",00:03:52
+mdclcnd,56,background,Yeah.,00:04:01
+mdclcnd,57,tutor,Okay.,00:04:02
+mdclcnd,58,background,So would you do 6 times 60?,00:04:04
+mdclcnd,59,tutor,Mm-hmm.,00:04:07
+mdclcnd,60,student,6.,00:04:11
+mdclcnd,61,tutor,Okay.,00:04:13
+mdclcnd,62,student,60.,00:04:17
+mdclcnd,63,tutor,Mm-hmm.,00:04:18
+mdclcnd,64,student,And that is 360.,00:04:19
+mdclcnd,65,tutor,Very correct. [unclear],00:04:23
+mdclcnd,66,student,That's 360.,00:04:33
+mdclcnd,67,tutor,"Yes, you're right.",00:04:35
+mdclcnd,68,student,And then would you times that by 50?,00:04:38
+mdclcnd,69,tutor,What do you think?,00:04:42
+mdclcnd,70,student,"Yeah, because it's for the year, 52 weeks.",00:04:44
+mdclcnd,71,tutor,"Excellent, yes. So this 360 is for the week, and if you times it by 50, you get it for a year. [unclear]",00:04:47
+mdclcnd,72,tutor,"Yes, that is 18,000. And what's the unit?",00:05:01
+mdclcnd,73,student,[unclear],00:05:05
+mdclcnd,74,tutor,Unit of money.,00:05:11
+mdclcnd,75,student,P.,00:05:13
+mdclcnd,76,tutor,Yes.,00:05:13
+mdclcnd,77,student,Yeah.,00:05:15
+mdclcnd,78,tutor,"So it's 18,000 P. If not, if you convert it to pounds, it's going to be £180. Yes?",00:05:19
+mdclcnd,79,student,Yes.,00:05:28
+mdclcnd,80,tutor,"All right. Now depending on whether you've rounded up or down, multiplied or divided, you will get an overestimate or an underestimate. So the second part of the question, can you read and tell me what they're asking us to do? [unclear]...in this... so... so... so... so... I can't... what's that word?",00:05:29
+mdclcnd,81,tutor,Solution.,00:06:03
+mdclcnd,82,student,"Solution. In this solution, an underestimate or an overestimate. Give your reason for answer.",00:06:04
+mdclcnd,83,tutor,Yes. Did you understand the question?,00:06:11
+mdclcnd,84,student,Give your reason why it's an over or underestimate.,00:06:14
+mdclcnd,85,tutor,Yes. Were you able to understand what they're asking us to do?,00:06:17
+mdclcnd,86,student,"Because... 18,000 views. It's just terrible. [unclear]",00:06:22
+mdclcnd,87,tutor,"Hello, Kieran, can you hear me?",00:06:35
+mdclcnd,88,student,Yeah.,00:06:37
+mdclcnd,89,tutor,"Okay, yeah, go ahead.",00:06:38
+mdclcnd,90,student,"Because 18,000 views and...",00:06:40
+mdclcnd,91,student,Like a bad way to say it.,00:06:44
+mdclcnd,92,tutor,"Okay, so how would you put it in a good way?",00:06:49
+mdclcnd,93,student,"Oh, uh, one eighty. [unclear] One pound eighty.",00:06:53
+mdclcnd,94,tutor,"If you convert it into pounds, how much would it be?",00:07:03
+mdclcnd,95,student,"£18. Can you check that? 18,000 [unclear] converted into pounds.",00:07:07
+mdclcnd,96,student,"Uh, 180?",00:07:21
+mdclcnd,97,tutor,Excellent. It's £180. So they are asking you if it is an underestimate or an overestimate. [unclear],00:07:24
+mdclcnd,98,tutor,"Overestimate. Okay, why do you say so?",00:07:40
+mdclcnd,99,student,Because it's like a large amount of money. And there's like lots more things that you've added without needing to add.,00:07:43
+mdclcnd,100,tutor,"Okay, so that's a good thinking. But then again, you know, like this is a factory that is working out, so obviously They will have to have a large amount of electricity bill costing. And because the units consumed is such that— you see that? 62.6 units of electricity per week. It is consumed. So the payment has to be done, right?",00:07:54
+mdclcnd,101,student,Yeah.,00:08:23
+mdclcnd,102,tutor,"Yes. So the way we figure out that if it's an overestimate or an underestimate is— You look at the numbers, the actual numbers, and check if we have rounded them down or up.",00:08:24
+mdclcnd,103,student,Down.,00:08:42
+mdclcnd,104,tutor,Down. That means the estimation amount is lower than— [unclear] Exactly. The estimation amount is lower than the actual amount that they would get because our estimated numbers are below the actual units.,00:08:43
+mdclcnd,105,tutor,Yeah.,00:09:02
+mdclcnd,106,background,Excellent. Did you understand why this is an underestimation?,00:09:03
+mdclcnd,107,tutor,Because— because the— because these numbers have been running down.,00:09:07
+mdclcnd,108,background,"Excellent. Yes. Because the estimation that we did here according to all the numbers are rounding down. So that is going to be an underestimation. If you have rounded up most of the things, then it would be an overestimation.",00:09:13
+mdclcnd,109,student,Yeah.,00:09:29
+mdclcnd,110,tutor,Yes. Did you understand that?,00:09:30
+mdclcnd,111,student,Yeah.,00:09:32
+mdclcnd,112,tutor,"Very good. Yes, you have rounded down. So therefore is an underestimation. Are we all clear with this?",00:09:33
+mdclcnd,113,student,Yeah.,00:09:44
+mdclcnd,114,tutor,"Okay, that's very correct. Yes, under. And that's a good job because you even paid more close attention to this one, and that was a very good try coming from you. And do you think we have a very good idea on how we can work out this question, or you have any confusions?",00:09:45
+mdclcnd,115,student,"No, I get it.",00:10:02
+mdclcnd,116,tutor,"Alright, so how about we work a similar question now?",00:10:04
+mdclcnd,117,student,Yeah.,00:10:08
+mdclcnd,118,tutor,"Okay, let's go. So this is your turn, and I want you to give a try on this one.",00:10:09
+mdclcnd,119,student,Okay. [unclear],00:10:14
+mdclcnd,120,tutor,Mm-hmm.,00:10:17
+mdclcnd,121,student,This. And then? That would be turned into 3.,00:10:19
+mdclcnd,122,tutor,"Yes, okay.",00:10:28
+mdclcnd,123,student,This would turn into 300.,00:10:30
+mdclcnd,124,tutor,Good job.,00:10:33
+mdclcnd,125,student,"And then you times them. Yeah, you times them.",00:10:35
+mdclcnd,126,tutor,Okay.,00:10:42
+mdclcnd,127,student,That's 900.,00:10:45
+mdclcnd,128,tutor,"Mm-hmm. So, would it be 900? Estimate her speed in kilometres per hour. [unclear]",00:10:49
+mdclcnd,129,student,I didn't mean to press that.,00:11:01
+mdclcnd,130,tutor,So—,00:11:05
+mdclcnd,131,student,Okay. Did you rub everything?,00:11:05
+mdclcnd,132,tutor,"Yeah, that was an accident.",00:11:08
+mdclcnd,133,student,Okay.,00:11:10
+mdclcnd,134,tutor,"So, 320",00:11:11
+mdclcnd,135,student,Mm-hmm.,00:11:13
+mdclcnd,136,background,Would turn into 300.,00:11:15
+mdclcnd,137,tutor,Correct.,00:11:17
+mdclcnd,138,student,And then 2.6 would turn into 3.,00:11:19
+mdclcnd,139,tutor,Mm-hmm.,00:11:28
+mdclcnd,140,student,Would you not times them?,00:11:29
+mdclcnd,141,tutor,How would you find the speed?,00:11:33
+mdclcnd,142,student,Dividing them? There you go.,00:11:38
+mdclcnd,143,student,So you would divide them?,00:11:42
+mdclcnd,144,tutor,Mm-hmm.,00:11:48
+mdclcnd,145,student,Which is 100?,00:11:50
+mdclcnd,146,tutor,Yes.,00:11:53
+mdclcnd,147,student,So you also have the units. [unclear] Would that be the units? Kilometres per hour. [unclear] So is that the answer for this one?,00:11:55
+mdclcnd,148,tutor,Yes. 100 kilometres per hour.,00:12:15
+mdclcnd,149,student,100 kilometres. That one.,00:12:19
+mdclcnd,150,tutor,"Excellent. Cool. And then it's a And when you write kilometres per hour, you can use this way of writing.",00:12:25
+mdclcnd,151,student,"Oh, okay.",00:12:36
+mdclcnd,152,tutor,Yeah.,00:12:38
+mdclcnd,153,student,"It's a... isn't it [UNCLEAR]? We rounded up, though. [Speaker:Tutor] What do you think?",00:12:39
+mdclcnd,154,student,"Yeah, we did.",00:12:47
+mdclcnd,155,student,Under.,00:12:52
+mdclcnd,156,tutor,"Okay, you're going to go for under?",00:12:52
+mdclcnd,157,tutor,And why would you say so?,00:12:56
+mdclcnd,158,student,Because we rounded 300 down.,00:12:58
+mdclcnd,159,tutor,"Excellent. So the actual amount she travelled is further than the amount that we have come across here, which is 20 kilometres [unclear] less than. So it is an underestimation again.",00:13:02
+mdclcnd,160,tutor,"Yes. And you see that 3.2 hours, we made it to 3 hours. So 3 hours, 300 kilometers in 3 hours is what our calculation says. But she covered 320 kilometers in 2.6 hours. In a less amount of time and a more amount of kilometers. So that is an underestimation what we have done here.",00:13:23
+mdclcnd,161,student,[unclear],00:13:50
+mdclcnd,162,tutor,"Okay, you got it?",00:13:50
+mdclcnd,163,student,Yeah.,00:13:51
+mdclcnd,164,tutor,"Okay, that's great. And yes, very good job because you were able to show me the workings as well, and you will be getting 2 full marks, one for the working and one for the final answer. And one again here for making sure that that is an underestimation and not a step. You will have to give the reasons when these questions are asked in a paper. OK?",00:13:52
+mdclcnd,165,student,OK.,00:14:14
+mdclcnd,166,tutor,Alright then. So now can you tell me what was the thing that we were able to learn in this one?,00:14:16
+mdclcnd,167,student,That you can divide it—,00:14:23
+mdclcnd,168,tutor,"Yeah, to find the speed, you normally divide the distance over the time taken. Do you know the formula for speed?",00:14:27
+mdclcnd,169,student,"[unclear] Distance times— no, distance— [unclear] [Speaker:Kieran]...speed divided by— [Speaker:Tutor]...speed. [Speaker:Kieran]...distance divided by time. [Speaker:Tutor] Excellent. So that is always the distance divided by the time taken.",00:14:36
+mdclcnd,170,student,Yeah.,00:14:58
+mdclcnd,171,tutor,"Okay, this is the formula, and you can definitely make use of this and such questions, which is all about speed.",00:14:59
+mdclcnd,172,student,Yeah.,00:15:08
+mdclcnd,173,tutor,"Alright then. So now we have completed 3 different exam style questions when it comes to estimating calculations, and I feel like it is time for us to recall all what we have learned. Shall we do that?",00:15:09
+mdclcnd,174,student,Yeah.,00:15:25
+mdclcnd,175,tutor,"Okay. So what have we learned in this one? So what happens in this slide is we have two questions here which is already completed. If you could see, both of them are completed. However, there are errors. So you need to put in your knowledge and find the errors and correct them. You ready?",00:15:26
+mdclcnd,176,student,[unclear] Yeah.,00:15:52
+mdclcnd,177,tutor,"Okay, let's go for this one. [Speaker] This one, it's 3, not 2?",00:15:54
+mdclcnd,178,tutor,"Mm-hmm. [Speaker] Because it's one— [Speaker] This one. [Speaker] Yeah, this one. That's 3 significant figures. [Speaker] So you say that what they have done is for 3 significant figures. [unclear]",00:16:00
+mdclcnd,179,tutor,Yeah. No. Yeah. Yeah.,00:16:21
+mdclcnd,180,background,"Yeah, they did. Because the first significant figure is 3 here, then it's the 0, then it's the 9. [unclear]",00:16:24
+mdclcnd,181,tutor,"Yeah. And if they ask you to round to 2 significant figures, what will be the actual answer, Kieran?",00:16:31
+mdclcnd,182,student,3.,00:16:41
+mdclcnd,183,background,2 significant figures. We're going up for 2 significant figures.,00:16:43
+mdclcnd,184,student,"One, two.",00:16:47
+mdclcnd,185,tutor,"Yeah, so you need to round this.",00:16:51
+mdclcnd,186,student,Three. [unclear],00:16:56
+mdclcnd,187,tutor,"Oh, yeah, two.",00:16:56
+mdclcnd,188,student,"Estimate the answer, yeah.",00:16:58
+mdclcnd,189,tutor,Two.,00:17:00
+mdclcnd,190,student,So what's going to be the answer? Is it just a two?,00:17:02
+mdclcnd,191,background,2.0.,00:17:06
+mdclcnd,192,tutor,Not really.,00:17:09
+mdclcnd,193,background,Two...,00:17:11
+mdclcnd,194,student,[unclear],00:17:15
+mdclcnd,195,tutor,"Okay, so can you tell me what is the second significant digit in this number?",00:17:15
+mdclcnd,196,student,[unclear],00:17:22
+mdclcnd,197,tutor,Why not 0?,00:17:24
+mdclcnd,198,student,0.,00:17:25
+mdclcnd,199,tutor,"Yeah, 0 is the second significant digit. So if they ask you to round it to 2 significant figures, you go to the second significant figure, check out the number that is next to that. What do we have?",00:17:26
+mdclcnd,200,student,9.,00:17:40
+mdclcnd,201,tutor,"Oh, it would be 3.1.",00:17:40
+mdclcnd,202,background,"Excellent, there you go. It's going to be 3.1. So the answer will carry 2 significant figures. That is what they mean, 2 significant figures. Okay?",00:17:42
+mdclcnd,203,tutor,Yeah.,00:17:54
+mdclcnd,204,background,The answer must carry 2 significant figures. Now did you get a good understanding on this?,00:17:54
+mdclcnd,205,tutor,Yeah.,00:17:59
+mdclcnd,206,background,"Excellent. Alright, moving on to the next one.",00:18:00
+mdclcnd,207,tutor,"Yeah. Okay, can you check and let me know what's happening here?",00:18:04
+mdclcnd,208,student,The cinema ticket costs £18.85.,00:18:10
+mdclcnd,209,tutor,Mm-hmm.,00:18:14
+mdclcnd,210,student,They sell 23 tickets.,00:18:16
+mdclcnd,211,tutor,Mm-hmm.,00:18:18
+mdclcnd,212,student,Estimate how much money the cinema makes on Thursday.,00:18:21
+mdclcnd,213,tutor,Okay.,00:18:25
+mdclcnd,214,student,"So, so they've rounded that.",00:18:25
+mdclcnd,215,tutor,Yeah.,00:18:29
+mdclcnd,216,student,"Yeah, this is rounding.",00:18:31
+mdclcnd,217,tutor,Yeah.,00:18:33
+mdclcnd,218,student,They've rounded that [unclear] to 19.,00:18:34
+mdclcnd,219,tutor,Mm-hmm.,00:18:40
+mdclcnd,220,student,And then they've times that.,00:18:42
+mdclcnd,221,tutor,Yeah.,00:18:45
+mdclcnd,222,student,And they haven't done that wrong. They haven't times it wrong.,00:18:47
+mdclcnd,223,tutor,"No, the value— the timesing value is not wrong. But there's something wrong with the steps taken.",00:18:52
+mdclcnd,224,tutor,They haven't rounded at all.,00:19:02
+mdclcnd,225,student,Which ones they have not rounded?,00:19:05
+mdclcnd,226,background,"They rounded 18, but they need to round 23 with it.",00:19:07
+mdclcnd,227,tutor,"Very correct. They have not rounded all the values. [unclear] So 23 is— yes, 23 is not rounded. Because when you estimate, the first thing that you do is round all the values to the first significant figure.",00:19:12
+mdclcnd,228,student,Yeah.,00:19:31
+mdclcnd,229,tutor,Yeah. And this one is not rounded. And do you think what they have rounded is right?,00:19:32
+mdclcnd,230,student,"What, the [UNCLEAR]? [Speaker:Tutor] Yeah. Is that correct?",00:19:40
+mdclcnd,231,student,Yeah. How do you round 18.85 to the first significant figure?,00:19:46
+mdclcnd,232,student,"You— oh, no. That— wait. No, it stays 18. [unclear]",00:19:54
+mdclcnd,233,student,"No, it would be 19.",00:20:02
+mdclcnd,234,tutor,How does that happen? Can you just explain that to me?,00:20:06
+mdclcnd,235,student,"Because this is the first significant— no, this is the first significant figure.",00:20:09
+mdclcnd,236,tutor,"Yes, it is.",00:20:13
+mdclcnd,237,student,It would be 20.,00:20:14
+mdclcnd,238,tutor,Excellent. There you go. This is the first significant figure. Look into the [UNCLEAR]. That makes the number round up to 20. [Speaker:Background] Yeah.,00:20:15
+mdclcnd,239,tutor,"So there's one mistake in rounding the number, and not all the values are rounded. So if you do both of them, can you give me the estimation? [unclear] For this one?",00:20:24
+mdclcnd,240,tutor,"Give me the estimated number for this, and then round this 23 to the first significant figure. And then I also want the estimated money that made on Thursday.",00:20:44
+mdclcnd,241,student,"Well, that's 20.",00:20:59
+mdclcnd,242,tutor,"Yes, very correct.",00:21:02
+mdclcnd,243,student,That would also be 20.,00:21:04
+mdclcnd,244,tutor,Excellent.,00:21:06
+mdclcnd,245,student,So we do times 20 by 20.,00:21:07
+mdclcnd,246,tutor,"Very good, yes. You do that.",00:21:10
+mdclcnd,247,student,It would be 400.,00:21:12
+mdclcnd,248,tutor,400 pounds. So the estimated money that they would make on Thursday is 400 pounds.,00:21:14
+mdclcnd,249,student,Yes.,00:21:21
+mdclcnd,250,tutor,"Because when it is estimation, what is the first thing that we do?",00:21:22
+mdclcnd,251,student,Yes?,00:21:27
+mdclcnd,252,tutor,Can you tell me the first thing that we do when they ask you to estimate?,00:21:29
+mdclcnd,253,student,You grab the numbers that you need to estimate.,00:21:33
+mdclcnd,254,tutor,"Yes, and also round them to the first significant figure.",00:21:38
+mdclcnd,255,student,Yeah.,00:21:44
+mdclcnd,256,tutor,"That is very important, okay?",00:21:45
+mdclcnd,257,student,Yeah.,00:21:48
+mdclcnd,258,tutor,"Yes, do you have a confusion with the significant figures, or are we all good with that?",00:21:49
+mdclcnd,259,background,All good.,00:21:55
+mdclcnd,260,tutor,"Okay, that's great. And I see that you were able to put in a lot of knowledge when working out these 3 questions. That was amazing to watch, and also amazing An awesome effort coming from you. Very good try. [unclear]",00:21:56
+mdclcnd,261,tutor,"You're welcome. Are we all clear? If you do have any questions before moving on, we can definitely clarify.",00:22:09
+mdclcnd,262,student,Nope. No more questions.,00:22:17
+mdclcnd,263,tutor,"Okay then. So yes, can you tell me like what else were you able to learn in this lesson where we have been estimating calculations?",00:22:19
+mdclcnd,264,background,Knowing how to estimate the first,00:22:29
+mdclcnd,265,student,And second significant figure.,00:22:31
+mdclcnd,266,tutor,Yes. And the same goes for the third and fourth as well.,00:22:34
+mdclcnd,267,student,"Yeah. And then knowing, like, which ones to do it with.",00:22:38
+mdclcnd,268,tutor,"Yes. And also now you know, like, you know if it's an overestimation or an underestimation, right?",00:22:43
+mdclcnd,269,student,Yeah. Yeah.,00:22:50
+mdclcnd,270,tutor,"Yes. Very good. And that was a nice try. And we will be working out the very next lesson right now. Let's see what that is all about. Okay, that is all about working with ratios.",00:22:52
+mdclcnd,271,student,Yeah.,00:23:05
+mdclcnd,272,tutor,Okay. So can you just give a try on this warm-up question?,00:23:06
+mdclcnd,273,student,[unclear] So 2?,00:23:10
+mdclcnd,274,tutor,Mm-hmm.,00:23:14
+mdclcnd,275,student,Then 3?,00:23:17
+mdclcnd,276,tutor,Yeah.,00:23:20
+mdclcnd,277,student,And if it's split into 20 sweets?,00:23:21
+mdclcnd,278,student,Mm-hmm. So you add 2 and 3?,00:23:24
+mdclcnd,279,tutor,Very good.,00:23:27
+mdclcnd,280,student,Which equals 5.,00:23:28
+mdclcnd,281,tutor,Mm-hmm.,00:23:30
+mdclcnd,282,student,And then 5 divided by 20?,00:23:32
+mdclcnd,283,tutor,Good try. That's 20 divided by 5.,00:23:35
+mdclcnd,284,student,20 divided by 5?,00:23:39
+mdclcnd,285,tutor,Yeah.,00:23:41
+mdclcnd,286,student,Equals 4. So it would be 4 in each box?,00:23:42
+mdclcnd,287,tutor,"It needs [unclear] full. Mm-hmm. And then Jupiter, and then 4, 8, 12, and then this one's correct.",00:23:47
+mdclcnd,288,tutor,"Lysander is correct. Very good job. And I really appreciate because you showed me your entire workings here with verbal explanations. That was amazing. So that shows a great knowledge that you have on ratios, which is very good to see. This is definitely a good start off. Now maybe it's time for us to work out an exam-style question. Are you ready?",00:24:06
+mdclcnd,289,student,Yes.,00:24:27
+mdclcnd,290,tutor,Let's go.,00:24:29
+mdclcnd,291,student,"OK. So to simplify ratio, keep dividing the values on each side by 2.",00:24:31
+mdclcnd,292,background,No.,00:24:40
+mdclcnd,293,tutor,"Okay, you're going to say no.",00:24:42
+mdclcnd,294,student,[unclear],00:24:44
+mdclcnd,295,tutor,"Okay, you disagree. Okay, that's fine. And you need to justify your answer.",00:24:44
+mdclcnd,296,student,Because you don't just keep dividing the values by 2. You divide it by whatever they add up to once.,00:24:52
+mdclcnd,297,tutor,"Excellent, there you go. So to simplify a ratio, you need to keep dividing by 2. So let's say if this question are given, and if they ask you to justify, what I would encourage you to do is give some examples in explaining them, because that is way more clearer and that gains more marks easily. So you can— yeah, you can— for example, you can just randomly take any kind of, like, what do you say, any kind of ratios. For example, let me take [unclear] is So 16, for example. And then this number you can keep on dividing by 2. If you divide by 2, that's 2 is to 8. You still can divide this to 1 is to 4. You can go it that way. You can keep on dividing until you can't divide further. We can't go further for this one, right?",00:25:06
+mdclcnd,298,tutor,Yeah.,00:26:03
+mdclcnd,299,student,"But then in some instances you can give this one. This might be correct in this one. But let's say we have the 4 again here, but then we have a 10 here.",00:26:04
+mdclcnd,300,tutor,Yeah.,00:26:16
+mdclcnd,301,student,"Now you divide it by 2, that becomes a 2, this becomes a 5. Can you divide it by 2?",00:26:17
+mdclcnd,302,tutor,No.,00:26:23
+mdclcnd,303,student,"No, we can't do that. And wait, let me take a bigger number because that will show you clearly that we need to go for a different number. Maybe we can go for 30 here. When you divide this by 2, that becomes 15. Am I right?",00:26:25
+mdclcnd,304,student,Yes.,00:26:46
+mdclcnd,305,tutor,Yes. Now can you divide it by 2?,00:26:48
+mdclcnd,306,student,No.,00:26:52
+mdclcnd,307,tutor,No. So what would you do here?,00:26:53
+mdclcnd,308,student,"Leave it as— well, you would add it together.",00:26:57
+mdclcnd,309,tutor,You can still divide by another number.,00:27:01
+mdclcnd,310,tutor,"You can divide both, yes. You can divide both of them by 5. That's 3 is to 1. This is the simplest way. So to get to the simplest way, it is not always dividing by 2, but the numbers that they add up to.",00:27:04
+mdclcnd,311,student,The highest number.,00:27:20
+mdclcnd,312,tutor,Exactly. That depends on some of the numbers because not all the numbers are divisible by 2.,00:27:22
+mdclcnd,313,background,Yeah.,00:27:29
+mdclcnd,314,tutor,So did you get an understanding when the numbers are taking place here?,00:27:31
+mdclcnd,315,student,Yeah.,00:27:36
+mdclcnd,316,tutor,"Very good. So you can disagree and also you can give such examples so that we, the, you know, the marking person would definitely get a great idea that you have a great knowledge on this and you're showing that in this bit.",00:27:37
+mdclcnd,317,student,Yeah.,00:27:52
+mdclcnd,318,tutor,Okay then. So that's going to carry 2 full marks. 1 mark for disagreeing and 1 mark which is going to hold a clear explanation and an example sometimes. Okay?,00:27:53
+mdclcnd,319,student,Yeah. Yeah.,00:28:06
+mdclcnd,320,tutor,Alright. And are we clear on this question?,00:28:08
+mdclcnd,321,student,Yeah.,00:28:11
+mdclcnd,322,tutor,Excellent. So now I want you to try a different exam style.,00:28:12
+mdclcnd,323,background,So 2?,00:28:19
+mdclcnd,324,tutor,Mm-hmm.,00:28:22
+mdclcnd,325,background,3?,00:28:24
+mdclcnd,326,tutor,Okay.,00:28:25
+mdclcnd,327,background,[unclear] has 15. So 2? Do you add them together still?,00:28:25
+mdclcnd,328,tutor,You do.,00:28:32
+mdclcnd,329,student,So you add them and that'll be 5.,00:28:33
+mdclcnd,330,tutor,Mm-hmm.,00:28:37
+mdclcnd,331,student,And then do 15 divided by 5.,00:28:38
+mdclcnd,332,tutor,Correct.,00:28:41
+mdclcnd,333,student,"Which— 3, and then 3 in each.",00:28:42
+mdclcnd,334,tutor,Very correct.,00:28:48
+mdclcnd,335,student,"And then— [unclear] 9, 6, and then 6. This was [unclear] so 6.",00:28:50
+mdclcnd,336,tutor,"Okay. So Alicia is getting 6 of them, right?",00:29:02
+mdclcnd,337,student,Yeah. Yeah. Yeah.,00:29:08
+mdclcnd,338,tutor,Okay.,00:29:13
+mdclcnd,339,tutor,Just give me a minute.,00:29:20
+mdclcnd,340,student,Okay.,00:29:22
+mdclcnd,341,tutor,"Okay, so can you just read this question once again? I want you to read this part.",00:29:36
+mdclcnd,342,tutor,If Jonah has 15 biscuits.,00:29:45
+mdclcnd,343,student,"This is the amount of biscuits Jonah is having, not the amount of total biscuits. So, did you understand?",00:29:50
+mdclcnd,344,tutor,Yeah.,00:30:05
+mdclcnd,345,student,So what is the ratio of Jonah here?,00:30:07
+mdclcnd,346,tutor,3.,00:30:11
+mdclcnd,347,student,3. So this 3 is equal to 15.,00:30:12
+mdclcnd,348,tutor,"Yes, you're right.",00:30:19
+mdclcnd,349,background,So... so every box would just be 15?,00:30:21
+mdclcnd,350,tutor,Not really. This 3 box is equal to 15. All 3 of them adds up to 15. [Speaker] Yeah.,00:30:26
+mdclcnd,351,tutor,So what's going to be the value of one box? [Speaker] Uh... 5.,00:30:36
+mdclcnd,352,tutor,"5. You just divide by 3. 5. So one portion is 5. And what is the ratio of Alicia? [unclear] There you go. So if this was the total amount of biscuits, then you were right in this bit. But this is Jonah's portion. In that case, what did you do?",00:30:46
+mdclcnd,353,student,"You— it's like his whole thing is 15, so you divide it by how many there is.",00:31:12
+mdclcnd,354,tutor,Yeah.,00:31:18
+mdclcnd,355,student,Mm-hmm.,00:31:18
+mdclcnd,356,tutor,And how did you find Alicia's?,00:31:20
+mdclcnd,357,student,"You— when you find out what Jonah— all 3 of his is, you put them in the section. So that would be 5 and that would be 5.",00:31:24
+mdclcnd,358,student,So [unclear] 10.,00:31:32
+mdclcnd,359,tutor,That adds up to 10. Good try. And now do you have an understanding about this?,00:31:33
+mdclcnd,360,student,Yes.,00:31:39
+mdclcnd,361,tutor,"So one mark for the final answer, and there's going to be one more mark for this step, which is shown here clearly that 15, you're dividing it by 3.",00:31:40
+mdclcnd,362,student,Yeah.,00:31:51
+mdclcnd,363,tutor,"Okay, that's great. And yes, do you think this is very much clear, or do you have any questions?",00:31:52
+mdclcnd,364,student,"It's [UNCLEAR]. [Speaker:Tutor] Alright, so moving on to a different SAT style question.",00:31:59
+mdclcnd,365,student,So should the total have 200?,00:32:03
+mdclcnd,366,tutor,Mm-hmm. So would you add them all up? What do you think?,00:32:07
+mdclcnd,367,student,Yeah.,00:32:22
+mdclcnd,368,student,So it would be 10.,00:32:24
+mdclcnd,369,tutor,Yeah.,00:32:25
+mdclcnd,370,student,And then you divide 10 by 200.,00:32:26
+mdclcnd,371,tutor,"Yes, because 200 is the total here.",00:32:29
+mdclcnd,372,student,So that would be—,00:32:32
+mdclcnd,373,tutor,It's going to be 200 divided by 10. We always divide the bigger number by the smaller one.,00:32:36
+mdclcnd,374,student,20.,00:32:43
+mdclcnd,375,tutor,Very correct.,00:32:46
+mdclcnd,376,student,So every box would have 20 in it?,00:32:47
+mdclcnd,377,tutor,Mm-hmm.,00:32:49
+mdclcnd,378,student,And this one's Marigold.,00:32:51
+mdclcnd,379,tutor,Mm-hmm.,00:32:55
+mdclcnd,380,student,That'd be 40?,00:32:56
+mdclcnd,381,tutor,"Mm-hmm. 40. Yes, Marigold's going to get 40. Very good job. So how would you explain your workings to me?",00:32:57
+mdclcnd,382,student,"So first you would add up the amount of money, how many, the amount of money in the ratio.",00:33:09
+mdclcnd,383,student,Mm-hmm.,00:33:15
+mdclcnd,384,background,"And then when you've added that up, you would add them together to get 10, and then you divide whatever you get with the total.",00:33:16
+mdclcnd,385,student,Mm-hmm.,00:33:26
+mdclcnd,386,background,And then you divide them and you get 20.,00:33:28
+mdclcnd,387,student,Okay.,00:33:33
+mdclcnd,388,background,"And then you'd put 20 in each box and then add that together, and that's the amount you'd get.",00:33:34
+mdclcnd,389,tutor,"Very good. Yes, so 20 is one potion, right?",00:33:41
+mdclcnd,390,student,Yeah.,00:33:47
+mdclcnd,391,tutor,"Yes, that's one potion. Very good job. So what's the unit here?",00:33:48
+mdclcnd,392,student,[unclear],00:33:53
+mdclcnd,393,tutor,"Pounds. There you go. So it's all about dividing money. And yes, very correct over here. And this question, as you see, this carries [unclear] 3 marks in total. And 1 mark is for adding all the ratios together.",00:33:58
+mdclcnd,394,tutor,Yeah.,00:34:14
+mdclcnd,395,student,And then the next mark is for dividing 200 by 10. And then you will get 1 more mark for finding Heron's part.,00:34:15
+mdclcnd,396,tutor,Yes.,00:34:25
+mdclcnd,397,student,"OK. And yes, I felt like ratios was something that you have already known, and you are definitely doing a good job in that.",00:34:26
+mdclcnd,398,tutor,Yeah.,00:34:37
+mdclcnd,399,student,"Yeah, keep up the good work. And we have completed 3 different exam style questions, and we are left with a challenging question right now. But as we don't have enough time, we will definitely do the challenging question and the review slide on the very next session. Okay?",00:34:37
+mdclcnd,400,tutor,Okay. Yeah.,00:34:56
+mdclcnd,401,background,Yes. So can you tell me what are things that you were able to learn in today's session?,00:34:57
+mdclcnd,402,student,That— just to do the number thing.,00:35:04
+mdclcnd,403,tutor,You mean the significant figures?,00:35:12
+mdclcnd,404,student,"Significant figures, and then—",00:35:14
+mdclcnd,405,background,"Yeah, I would say it was a practice in ratios.",00:35:16
+mdclcnd,406,student,"Over ratios, under, and then practicing ratios.",00:35:22
+mdclcnd,407,background,"Yes. So it was a good practice in ratios because you definitely did an excellent job. Excellent job. That was a very good working out coming from you. And as I've completed the significant figures lesson, once we end the session, you'll get questions from them. So make sure you try that and show your knowledge on that. Okay?",00:35:26
+mdclcnd,408,student,Okay. Yeah.,00:35:43
+mdclcnd,409,tutor,"And also you can definitely fill the feedback form. And let's meet next week. Until then, have a great day. See you. Bye-bye.",00:35:44
+mdclcnd,410,student,Bye.,00:35:51
+mdclcnd,411,tutor,Bye.,00:35:52

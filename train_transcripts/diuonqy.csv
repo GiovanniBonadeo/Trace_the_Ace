@@ -1,0 +1,505 @@
+session_id,utterance_id,role,content,timestamp
+diuonqy,0,tutor,Hello?,00:00:00
+diuonqy,1,background,[unclear],00:00:00
+diuonqy,2,student,Hello?,00:00:01
+diuonqy,3,tutor,Hello?,00:00:02
+diuonqy,4,student,Hello?,00:00:05
+diuonqy,5,tutor,Yes?,00:00:06
+diuonqy,6,tutor,Hello?,00:00:11
+diuonqy,7,student,Hello?,00:00:13
+diuonqy,8,tutor,Yeah?,00:00:13
+diuonqy,9,student,I'm good.,00:00:16
+diuonqy,10,tutor,Good. Hello? [unclear],00:00:19
+diuonqy,11,student,Yes.,00:00:24
+diuonqy,12,tutor,Awesome. So how are you doing today?,00:00:26
+diuonqy,13,student,Good.,00:00:28
+diuonqy,14,tutor,Great. So how about school?,00:00:30
+diuonqy,15,student,A-okay. Okay.,00:00:33
+diuonqy,16,student,Yes.,00:00:38
+diuonqy,17,tutor,Hello?,00:00:40
+diuonqy,18,student,Are you enjoying school so far?,00:00:40
+diuonqy,19,tutor,No.,00:00:43
+diuonqy,20,student,No? Why?,00:00:45
+diuonqy,21,tutor,I don't know.,00:00:48
+diuonqy,22,student,"Oh, okay then. Did you have maths today in school?",00:00:51
+diuonqy,23,tutor,"Yes. Um, no.",00:00:55
+diuonqy,24,student,"Not yet. Are you looking forward to your next subject, or do you have [unclear] today?",00:00:58
+diuonqy,25,student,Yes.,00:01:07
+diuonqy,26,tutor,Yes. So are we looking forward to it?,00:01:09
+diuonqy,27,student,Yes.,00:01:11
+diuonqy,28,tutor,"Okay, that's great there, Desmond. So do you remember what we did last week?",00:01:13
+diuonqy,29,student,Telling the time.,00:01:19
+diuonqy,30,tutor,Exactly. So we were working with time. So shall we get going with that lesson?,00:01:22
+diuonqy,31,student,Yes.,00:01:29
+diuonqy,32,tutor,"Okay, great. So here we go. Making 2-digit numbers in a place value chart. So I believe we have already completed this. So let's just load in the correct lesson again. Give me some time.",00:01:29
+diuonqy,33,student,"Yes. Okay, I think I'm done.",00:01:47
+diuonqy,34,student,Yeah.,00:01:56
+diuonqy,35,tutor,Yes.,00:01:57
+diuonqy,36,student,So I feel like you could have put 5 into 9.,00:01:58
+diuonqy,37,tutor,Yes.,00:02:01
+diuonqy,38,student,So I looked at the numeration. And then—,00:02:03
+diuonqy,39,tutor,"Yep, have it loaded? [unclear] Okay, what do you remember from last week about telling the time?",00:02:10
+diuonqy,40,student,"One star would be [UNCLEAR]. [Speaker:Tutor] When the long hand points to a number,",00:02:18
+diuonqy,41,tutor,It's the time.,00:02:24
+diuonqy,42,student,I don't know.,00:02:25
+diuonqy,43,tutor,"Exactly, you were right, Desmond. So we have— so how many hands do we have in a clock?",00:02:28
+diuonqy,44,student,Two.,00:02:37
+diuonqy,45,tutor,"Exactly, two hands. And what is the smaller hand called?",00:02:39
+diuonqy,46,student,I don't know. [unclear] Smaller hand would mean? [unclear],00:02:44
+diuonqy,47,tutor,"Quarters, half past. Very close still. You have—",00:02:53
+diuonqy,48,student,Quarter to.,00:03:03
+diuonqy,49,tutor,"Quarter to. Quarter to, yep. We were definitely learning about quarter to and quarter past. But before we get going with that part, Desmond, can you tell me what do you call this hand? Any special names for it?",00:03:05
+diuonqy,50,student,The minute hand.,00:03:20
+diuonqy,51,tutor,"Exactly, you were right. Minute hand it is. And what about this small hand? What do you call that small hand?",00:03:22
+diuonqy,52,background,[unclear],00:03:29
+diuonqy,53,tutor,"The hour hand. [Speaker:Background]...hour. [Speaker:Tutor] An hour hand. Awesome. I'm really happy that you do remember what we did last week. So there we go with the star. And tell me, what does it mean when the minute hand is pointing towards 6?",00:03:31
+diuonqy,54,student,I don't know.,00:03:54
+diuonqy,55,tutor,What time do you think this clock is telling us?,00:03:59
+diuonqy,56,student,"If that is 2, that is quarter to— quarter to.",00:04:03
+diuonqy,57,tutor,Quarter to. Hmm.,00:04:09
+diuonqy,58,student,It's 2 o'clock.,00:04:11
+diuonqy,59,tutor,"Great guessing there, Desmond. What about this one? What time do you think this is?",00:04:14
+diuonqy,60,student,4 o'clock.,00:04:19
+diuonqy,61,tutor,"Exactly. This is indeed 4 o'clock because the 12, the mini hand is pointing at 12. It would be 4 o'clock. So what about this one?",00:04:22
+diuonqy,62,background,Quarter to 6.,00:04:34
+diuonqy,63,student,"Um, 2 o'clock.",00:04:37
+diuonqy,64,tutor,"It couldn't be 2 o'clock. Why do you say it's 2 o'clock there, Desmond?",00:04:39
+diuonqy,65,student,It's quarter to.,00:04:44
+diuonqy,66,tutor,Mm-hmm. Nope.,00:04:46
+diuonqy,67,student,Half past?,00:04:50
+diuonqy,68,tutor,"It's 1:30, okay? Or half past 1.",00:04:52
+diuonqy,69,background,[unclear],00:04:56
+diuonqy,70,tutor,"Okay, because from 12, the minute has had",00:04:58
+diuonqy,71,tutor,Past half a turn. [unclear] Do we have any doubts with Desmond?,00:05:04
+diuonqy,72,student,No.,00:05:12
+diuonqy,73,tutor,"Great. And then we learned about quarter past and quarter to, right?",00:05:15
+diuonqy,74,background,Yes.,00:05:23
+diuonqy,75,tutor,"Yes. Now, can you tell me what do you mean by quarter past and quarter to?",00:05:24
+diuonqy,76,background,[unclear],00:05:28
+diuonqy,77,tutor,"Okay, a small recap then. When the minute hand is pointing at 3, then it is quarter past. [unclear] And when the minute hand, that is the longer hand, when it points at 9, it means it's quarter to. Because there's only quarter, right? Left to reach the 12. Are we clear with this?",00:05:33
+diuonqy,78,student,Yes.,00:06:01
+diuonqy,79,tutor,"Yes. Now tell me, what is this? Is it— what time is it?",00:06:02
+diuonqy,80,student,1 o'clock.,00:06:06
+diuonqy,81,tutor,Pardon?,00:06:08
+diuonqy,82,student,1 o'clock.,00:06:10
+diuonqy,83,tutor,"Hmm, it wouldn't be 1 o'clock. [unclear]",00:06:12
+diuonqy,84,student,1:09?,00:06:16
+diuonqy,85,tutor,Not 1:09.,00:06:18
+diuonqy,86,tutor,And again?,00:06:22
+diuonqy,87,student,Quarter past.,00:06:23
+diuonqy,88,tutor,Half past.,00:06:27
+diuonqy,89,student,Mm-mm-mm.,00:06:28
+diuonqy,90,tutor,Not half past either.,00:06:30
+diuonqy,91,student,Quarter past.,00:06:32
+diuonqy,92,tutor,"Quarter past. Okay, now we need to look at the mini tent. Can you tell me where is the mini tent?",00:06:34
+diuonqy,93,student,At the one.,00:06:45
+diuonqy,94,tutor,"At the one. The minute hand. The minute hand is the longer hand, Desmond.",00:06:46
+diuonqy,95,student,"So, the minute hand is pointing to the 9.",00:06:53
+diuonqy,96,tutor,Exactly. So it is pointing at 9. So what does that tell us? Is it [unclear] half past or quarter to or quarter past?,00:06:56
+diuonqy,97,student,Quarter past.,00:07:06
+diuonqy,98,tutor,Look at this. Quarter past is when they meet.,00:07:09
+diuonqy,99,student,It's close apart.,00:07:13
+diuonqy,100,tutor,Quarter past.,00:07:17
+diuonqy,101,student,[unclear],00:07:18
+diuonqy,102,tutor,Quarter to.,00:07:18
+diuonqy,103,student,Quarter to.,00:07:20
+diuonqy,104,tutor,"Exactly. It's quarter to because it is pointing at 9. [Speaker:Background]...40, the following 5 minutes. [Speaker:Tutor] OK. So before we move on to the next slide there, Desmond, I would like to give you a small recap on it, OK?",00:07:22
+diuonqy,105,tutor,"When you say a clock, like 1 o'clock, that means that the minute hand would be pointing at 12. Are we clear with that?",00:07:42
+diuonqy,106,student,Yes.,00:07:58
+diuonqy,107,tutor,"Yes, so when you have a clock, it means the minute hand would point at 12.",00:08:00
+diuonqy,108,tutor,"At 12, exactly. What about half past? Where would the minute hand be pointing at?",00:08:07
+diuonqy,109,student,The 6.,00:08:18
+diuonqy,110,tutor,"Exactly, you're right. The minute hand points at 6.",00:08:20
+diuonqy,111,background,[unclear],00:08:28
+diuonqy,112,tutor,Okay. Now what about quarter to? Quarter to. What other [unclear] mean?,00:08:29
+diuonqy,113,tutor,"We can say something quarter to, like quarter to 12.",00:08:41
+diuonqy,114,student,The minute hand will point to the 9.,00:08:47
+diuonqy,115,tutor,Quarter to.,00:08:52
+diuonqy,116,background,"Yes, you're right, Opal.",00:08:54
+diuonqy,117,tutor,Okay.,00:08:57
+diuonqy,118,background,"Minute. [unclear] [Speaker:Tutor]...point at 9, is it? [Speaker:Desmond] Yes.",00:08:58
+diuonqy,119,tutor,And what about quarter past?,00:09:01
+diuonqy,120,student,Pointing at the 3.,00:09:14
+diuonqy,121,tutor,Exactly. Quarter past is at 3. So are we clear with this?,00:09:16
+diuonqy,122,student,Yes.,00:09:24
+diuonqy,123,tutor,Uh-huh. So shall we get going with the second slide then?,00:09:26
+diuonqy,124,student,Yes.,00:09:30
+diuonqy,125,tutor,"Okay, so we have already completed this in the past session. We should be going on with this slide. Okay, how shall we do this one?",00:09:31
+diuonqy,126,student,I don't know.,00:09:42
+diuonqy,127,tutor,I believe you can do it. Shall we read the first one?,00:09:45
+diuonqy,128,background,[unclear] The time is 11 o'clock.,00:09:48
+diuonqy,129,tutor,"Okay, read this, shall we?",00:09:52
+diuonqy,130,student,The minute hand has fallen off the clock. Estimate what time it is.,00:09:56
+diuonqy,131,tutor,"Hmm, the minute hand has been fallen, I mean it's not there, innit? So what time do you think it would—",00:10:01
+diuonqy,132,student,11 o'clock.,00:10:08
+diuonqy,133,tutor,"11 o'clock. Why exactly do you think it's 11 o'clock, Desmond? [Speaker:Background]...course it's quarter past.",00:10:10
+diuonqy,134,tutor,Why do you think the quarter past? [unclear],00:10:17
+diuonqy,135,student,I don't know.,00:10:20
+diuonqy,136,tutor,"So when you have a question like this, Desmond, you need to first understand where the minute hand is pointing at.",00:10:25
+diuonqy,137,student,The 12.,00:10:32
+diuonqy,138,tutor,"Tell me, what do you notice about the minute hand?",00:10:33
+diuonqy,139,student,It points to the 12.,00:10:37
+diuonqy,140,tutor,"Yeah, so we don't have a minute hand in this clock, right?",00:10:40
+diuonqy,141,tutor,So we have an up hand here. What is that upper hand pointing at?,00:10:44
+diuonqy,142,student,The 11.,00:10:53
+diuonqy,143,tutor,Is it directly at 11? Like right at 11?,00:10:56
+diuonqy,144,student,Close to 11.,00:11:01
+diuonqy,145,tutor,Then what do you notice?,00:11:02
+diuonqy,146,student,That is close.,00:11:05
+diuonqy,147,tutor,"It is definitely, I would say, get a bit closer to 11. Or you can see that it is pointing in between 10 and 11, right? [Speaker:Desmond]... [UNCLEAR]",00:11:07
+diuonqy,148,tutor,"Yes. So it's in between. So it's— what do you mean by the in between? It's halfway between 10 and 11, right? [Speaker:Desmond]... [UNCLEAR]",00:11:16
+diuonqy,149,tutor,"Yeah. So if it is halfway in between 10 and 11, is it 11 o'clock?",00:11:29
+diuonqy,150,student,Yes.,00:11:35
+diuonqy,151,tutor,"Or is it quarter to, quarter past, or half past?",00:11:36
+diuonqy,152,student,It's half past.,00:11:41
+diuonqy,153,tutor,"Exactly. So since it is between, halfway between 11 and 10, it would be half past.",00:11:44
+diuonqy,154,student,Right.,00:11:52
+diuonqy,155,tutor,"Awesome. So go on, type in your answer here.",00:11:54
+diuonqy,156,student,Half past. Half past. [unclear] Half past 11.,00:11:58
+diuonqy,157,tutor,"Why do you say it's half past 11, Desmond?",00:12:11
+diuonqy,158,student,Half past 10.,00:12:14
+diuonqy,159,tutor,"Yes, it is indeed half past 10. Why do you say it's half past 10?",00:12:16
+diuonqy,160,student,Because it's close to 11 and the 10— [unclear] close to the 10 or 11.,00:12:23
+diuonqy,161,tutor,"Exactly. So it's half past because it's halfway between 10 and 11, and we go with the smallest number, or the before number. So the before number is 10. So it will be half past 10. Okay? Awesome. Do we have any questions with the first one?",00:12:28
+diuonqy,162,student,No.,00:12:50
+diuonqy,163,tutor,"No. Okay then, let me see. What about this one? Can you tell me this one's time? [unclear]",00:12:50
+diuonqy,164,student,Yes.,00:13:02
+diuonqy,165,tutor,"Okay, I think I'm very bad at drawing clocks. Right? Okay, let me ask you this one. What time do you think this is?",00:13:02
+diuonqy,166,student,Half past 3.,00:13:14
+diuonqy,167,tutor,Half past 3. Oops. Did you read this?,00:13:17
+diuonqy,168,student,Read what?,00:13:21
+diuonqy,169,tutor,"Okay, what about this one?",00:13:22
+diuonqy,170,student,Yes. Half past one.,00:13:24
+diuonqy,171,tutor,"Would it be half past one, Desmond?",00:13:28
+diuonqy,172,student,Half past twelve.,00:13:31
+diuonqy,173,tutor,"Exactly. So you go with the number before it, okay? Not one, but twelve.",00:13:33
+diuonqy,174,background,Okay.,00:13:38
+diuonqy,175,background,And why do you say it's half past in both these instances?,00:13:39
+diuonqy,176,background,"Because the [UNCLEAR], because it's in the middle. [Speaker:Tutor] Exactly, you're right there. It is in between. Halfway between 3 and 4. So it's half past. What about this?",00:13:45
+diuonqy,177,student,It's 9 o'clock.,00:13:58
+diuonqy,178,tutor,Why is it 9 o'clock?,00:14:00
+diuonqy,179,student,Because the hour hand is pointing at the 9.,00:14:02
+diuonqy,180,tutor,Exactly. So the hour hand is directly pointing at 9. It is not past 9 or before 9. So it would be 9 o'clock.,00:14:06
+diuonqy,181,background,[unclear],00:14:13
+diuonqy,182,tutor,OK?,00:14:14
+diuonqy,183,tutor,Okay. Awesome. And what about this one?,00:14:17
+diuonqy,184,student,7 o'clock.,00:14:25
+diuonqy,185,tutor,7 o'clock. And why is it 7 o'clock?,00:14:27
+diuonqy,186,student,Because the green hand is pointing at the 7.,00:14:30
+diuonqy,187,tutor,"It is directly pointing at 7, so it would be 7 o'clock. Great answer there, Desmond. I really like your answer in all these sums.",00:14:33
+diuonqy,188,tutor,Cool. So do we have any questions for the first one?,00:14:44
+diuonqy,189,student,No.,00:14:49
+diuonqy,190,tutor,So what about B? Shall we try out B?,00:14:49
+diuonqy,191,student,Okay. [unclear],00:14:53
+diuonqy,192,tutor,Okay.,00:14:55
+diuonqy,193,student,How do you change the colour? And then I did— so I filled in the bar. [Speaker:Desmond]...5. [Speaker:TUTOR] Done.,00:14:56
+diuonqy,194,student,"And then the other one 4. And then I coloured in [UNCLEAR]. [Speaker:TUTOR] Hello? What have you done in here? Oh, a tip.",00:15:10
+diuonqy,195,student,And then I coloured in 3 out of the 4. So I saw that 3/4 is bigger because it has one left.,00:15:17
+diuonqy,196,tutor,Yep. What are they asking in this question?,00:15:23
+diuonqy,197,background,Match each clock to the correct time.,00:15:28
+diuonqy,198,tutor,Exactly. So they have asked us to match the clock to the correct time.,00:15:32
+diuonqy,199,tutor,So we have clocks in here. So these are the clocks. And these are the times. [unclear] So these are the clocks. [unclear] And these are the times.,00:15:38
+diuonqy,200,student,Yeah.,00:15:55
+diuonqy,201,tutor,So what they are asking us is to match the clock to the correct time. I'm [UNCLEAR]. [Speaker:Tutor] Let's work this out together then. What time do you think this is?,00:15:57
+diuonqy,202,student,9:15. Quarter past 9.,00:16:13
+diuonqy,203,tutor,"Exactly, there we go. So where is quarter past 9 in this?",00:16:21
+diuonqy,204,tutor,There.,00:16:29
+diuonqy,205,background,"Uh-huh. So you would match this and this together, just like that. So can you tell me why did you say that this is quarter past 9?",00:16:32
+diuonqy,206,student,Because the green hand is pointing— because the red hand is pointing to the 3 and the green hand is pointing to the 9.,00:16:41
+diuonqy,207,tutor,"Mm-hmm. Exactly. Great focus there, Desmond. Because the mini chan is pointing at three. So it would be quarter past. Eight nights is greater than seven points. [unclear]",00:16:49
+diuonqy,208,tutor,Right. So can you tell me what time this is?,00:17:29
+diuonqy,209,student,Quarter to 7.,00:17:39
+diuonqy,210,tutor,"Exactly. So in this, where is quarter to 7?",00:17:42
+diuonqy,211,student,Where at all? I know where it is.,00:17:46
+diuonqy,212,tutor,"Yep, so shall we match it correctly? [unclear]",00:17:50
+diuonqy,213,student,What? Oh!,00:18:04
+diuonqy,214,tutor,You can use the draw the line tool to draw. Where is what number? [unclear] [unclear] Where is the number? [unclear],00:18:07
+diuonqy,215,tutor,"Okay, we have the numbers in here. We have the time here. This one, this one, this one, and this one. So what time is this again?",00:18:26
+diuonqy,216,student,Quarter past 9.,00:18:36
+diuonqy,217,student,Because when you have [unclear],00:18:39
+diuonqy,218,tutor,Look at this one more time.,00:18:45
+diuonqy,219,student,"Wait, can I change my answer?",00:18:46
+diuonqy,220,background,Quarter to 7.,00:18:50
+diuonqy,221,tutor,"Exactly, so it's quarter to 7. So which one of these is quarter to 7?",00:18:52
+diuonqy,222,student,If you had to—,00:18:58
+diuonqy,223,background,That.,00:18:59
+diuonqy,224,tutor,"There we go. Beautiful work there, Desmond. What about the next clock?",00:19:00
+diuonqy,225,student,But that doesn't mean that it's greater. [unclear],00:19:08
+diuonqy,226,tutor,I'm done. What about this one?,00:19:16
+diuonqy,227,student,Quarter past— quarter to 10.,00:19:22
+diuonqy,228,tutor,"Done. Okay, and what is this one? [Speaker:Desmond]...9. [Speaker:TUTOR] Quarter to 7. Quarter to 12. Quarter past 12. [Speaker:BACKGROUND]...12. [Speaker:TUTOR] OK. Interesting answer there, Desmond. You got everything right. So this is quarter past 9. Correct. That's quarter to 7. OK. So that's right. And then that's quarter to 10. Correct. And that would be quarter past 12. [unclear] Okay. Amazing work. So how do you feel about time right now?",00:19:28
+diuonqy,229,student,I'm stuck on the second one.,00:20:20
+diuonqy,230,tutor,"Oh, good. Good. So let's say one of your friends is finding it very difficult with the second question. With this one. How would you tell them? How would you help your friend out?",00:20:21
+diuonqy,231,student,I don't know. [unclear],00:20:39
+diuonqy,232,tutor,Any hint that you can give your friend?,00:20:43
+diuonqy,233,student,"No, I don't know.",00:20:48
+diuonqy,234,tutor,"That's fine then. Let me see. When we talk about half past, quarter to, quarter past, and o'clock, what hand do we look at?",00:20:51
+diuonqy,235,student,The green hand.,00:21:02
+diuonqy,236,background,The minute hand.,00:21:04
+diuonqy,237,tutor,"The minute hand, indeed. We look at the minute hand to determine if it is half past, quarter past, quarter to, and— what's the other one?— o'clock. Right?",00:21:06
+diuonqy,238,student,Yes.,00:21:17
+diuonqy,239,tutor,Yep. So let's say the minute hand is pointing at 9. What does that mean?,00:21:19
+diuonqy,240,student,It's 9 o'clock.,00:21:26
+diuonqy,241,tutor,The minute hand is pointing at 9.,00:21:29
+diuonqy,242,student,Then it's half past 9. [unclear] Half past 9.,00:21:32
+diuonqy,243,tutor,Half past 9?,00:21:43
+diuonqy,244,background,Quarter past.,00:21:45
+diuonqy,245,tutor,Quarter past. Not quarter past. Quarter past is when you have it at 3.,00:21:48
+diuonqy,246,background,[unclear],00:21:58
+diuonqy,247,tutor,Then quarter to. I'll let Mr. Barrows know.,00:21:59
+diuonqy,248,background,"You were there, Desmond. You were right there.",00:22:05
+diuonqy,249,tutor,"Quarter past, quarter to 7.",00:22:08
+diuonqy,250,tutor,"Exactly. So the minute hand points at 9, it is quarter to. And when it is at 3?",00:22:11
+diuonqy,251,student,When the minute hand is at 3? [unclear] It is quarter to.,00:22:23
+diuonqy,252,tutor,Exactly. It is quarter to. And what if it's at 12?,00:22:30
+diuonqy,253,student,Then it's quarter to 12.,00:22:37
+diuonqy,254,tutor,Pardon?,00:22:42
+diuonqy,255,student,Then it's quarter to 12.,00:22:44
+diuonqy,256,tutor,"Uh-huh. When it is directly at 12, what do you call that? When the minute hand is at 12?",00:22:47
+diuonqy,257,student,12 o'clock.,00:22:53
+diuonqy,258,tutor,"O'clock, exactly. And what about if it is at 3?",00:22:55
+diuonqy,259,student,3 o'clock.,00:23:00
+diuonqy,260,tutor,When you said 3?,00:23:03
+diuonqy,261,student,A quarter to 3.,00:23:04
+diuonqy,262,tutor,"When the minute hand is at 3, Desmond. Not quarter to 3 though.",00:23:07
+diuonqy,263,student,3 o'clock. [unclear],00:23:11
+diuonqy,264,tutor,"Right, so it's quarter to when you said 3. And what if it said 6?",00:23:18
+diuonqy,265,student,Then 6 o'clock.,00:23:24
+diuonqy,266,tutor,The minute hand at 6? [unclear],00:23:28
+diuonqy,267,student,Half past.,00:23:33
+diuonqy,268,tutor,"Exactly, it is half past. So do we have any questions with this one?",00:23:35
+diuonqy,269,student,No.,00:23:40
+diuonqy,270,tutor,"Nope. Okay then, let's move on to this question here. Whoops. What do we have in here?",00:23:42
+diuonqy,271,student,"The clock shows this time. How many times before 3 o'clock 3 o'clock was the time, she said quarter past or quarter to the hour, I didn't know.",00:23:51
+diuonqy,272,tutor,And lift the times opposite. What do you think we can do for this one?,00:24:05
+diuonqy,273,student,"I don't know, I want to move on to the next thing.",00:24:11
+diuonqy,274,tutor,But we can't move on to the next one without completing this slide.,00:24:15
+diuonqy,275,tutor,"Okay, we can work this out together. Can you tell me what time is this clock showing?",00:24:22
+diuonqy,276,student,It is one o'clock.,00:24:29
+diuonqy,277,tutor,"Beautiful reading there, Desmond. That's indeed one o'clock. And what do you understand from this question? What are they asking?",00:24:32
+diuonqy,278,student,How many times before 3 o'clock would the time [unclear] quarter to the hour?,00:24:40
+diuonqy,279,tutor,"Exactly. So before it reached 3 o'clock, how many times do you think it would move? It will show quarter past or quarter to the hour?",00:24:46
+diuonqy,280,student,120 times.,00:24:56
+diuonqy,281,tutor,"Ooh, and why do you say 120 times?",00:24:59
+diuonqy,282,student,Because 120 minutes is 2 times— is 2 hours. [unclear],00:25:02
+diuonqy,283,tutor,Huh?,00:25:10
+diuonqy,284,student,120.,00:25:11
+diuonqy,285,tutor,"Yes, so 120 minutes is equal to",00:25:13
+diuonqy,286,tutor,2 hours.,00:25:16
+diuonqy,287,student,2 hours.,00:25:17
+diuonqy,288,tutor,That's interesting.,00:25:18
+diuonqy,289,background,[unclear],00:25:20
+diuonqy,290,tutor,"Okay. Now maybe we can read it out and we'll fill these so that's easier for us. So now the minute hand is at 12, right?",00:25:21
+diuonqy,291,background,"I guess, yeah.",00:25:33
+diuonqy,292,tutor,Yes.,00:25:34
+diuonqy,293,background,10 seconds.,00:25:35
+diuonqy,294,tutor,Yes. So where would the minute hand go next?,00:25:36
+diuonqy,295,background,It'll point to the 12.,00:25:39
+diuonqy,296,tutor,Yep. Now it's pointing at 12. Where do you think the minute hand would go next?,00:25:43
+diuonqy,297,student,At the 12. [unclear],00:25:48
+diuonqy,298,tutor,"Yep, Desmond. So right now it's at 12. So the clock works in this direction, right? In this way?",00:25:53
+diuonqy,299,student,Okay.,00:26:03
+diuonqy,300,tutor,Do you agree with this?,00:26:04
+diuonqy,301,student,Yes.,00:26:07
+diuonqy,302,tutor,So now the minute hand is at 12.,00:26:07
+diuonqy,303,tutor,"Just like that. So after 12, where would the mini 10 go?",00:26:10
+diuonqy,304,student,[unclear],00:26:17
+diuonqy,305,tutor,"At the 6. Would it go directly at 6, skipping all these numbers?",00:26:18
+diuonqy,306,student,"No, it would not go exactly at the 6.",00:26:25
+diuonqy,307,tutor,"Yes, so first it would go at 12, then it would move on and go to 1. Can you see it? Can you see my minute hand moving?",00:26:29
+diuonqy,308,student,Yes.,00:26:37
+diuonqy,309,tutor,"Yeah, cool. So now it will go to 1, then it will go to 2, and it will go to 3. What time is it now?",00:26:39
+diuonqy,310,student,3 o'clock. I mean 1 o'clock.,00:26:48
+diuonqy,311,tutor,Pardon?,00:26:52
+diuonqy,312,student,3 o'clock.,00:26:53
+diuonqy,313,tutor,[unclear] It's not the clock. The clock is when the minute hand is at 12.,00:26:54
+diuonqy,314,student,"It's 12, 12.",00:26:59
+diuonqy,315,tutor,So the minute hand has moved to 3. The hour hand stays here. So it is... [unclear],00:27:02
+diuonqy,316,student,"And then whatever you times the denominator by, or times the numerator by...",00:27:16
+diuonqy,317,tutor,The minute hand is at 3. Do you remember what it is?,00:27:22
+diuonqy,318,student,5.,00:27:25
+diuonqy,319,tutor,"It's 3 o'clock. Quarter to, quarter past?",00:27:25
+diuonqy,320,student,I don't know.,00:27:31
+diuonqy,321,tutor,"It's at 3, Desmond. The minute hand is at 3.",00:27:32
+diuonqy,322,student,"Okay. It's the 3 on the [UNCLEAR]. It's 3, it is 2, oh, half, quarter to, quarter past? [Speaker:TUTOR] Mm-mm, not quarter past.",00:27:36
+diuonqy,323,student,Half past.,00:27:51
+diuonqy,324,tutor,"Half past is at 6:00. So it would be quarter past, Desmond.",00:27:54
+diuonqy,325,student,"Right, quarter past.",00:27:59
+diuonqy,326,tutor,"OK. So first, what they're asking here is they're asking us how many times before it reaches 3:00 will the time show us quarter past or quarter to the hour, right?",00:28:02
+diuonqy,327,background,Yes.,00:28:16
+diuonqy,328,tutor,I don't know.,00:28:17
+diuonqy,329,tutor,How many times—,00:28:19
+diuonqy,330,student,It's 3 o'clock.,00:28:20
+diuonqy,331,tutor,"Yeah, so they're asking how many times would the minute hand be in either 3 or 9 is the question.",00:28:25
+diuonqy,332,student,I didn't know.,00:28:32
+diuonqy,333,tutor,Before it reaches the 3 o'clock. So here we have 1 o'clock. [unclear] [unclear],00:28:34
+diuonqy,334,tutor,I can't hear. Hello? Hello? Can you hear me now?,00:28:45
+diuonqy,335,student,Yes.,00:28:56
+diuonqy,336,tutor,"Yes, so they're asking us how many times would the minute hand point at 3 and 9 before it reaches 3 o'clock? So now we have 1 o'clock, then it would be 3 o'clock.",00:28:57
+diuonqy,337,tutor,"Not 3 o'clock, right?",00:29:11
+diuonqy,338,student,2 o'clock.,00:29:13
+diuonqy,339,tutor,"Yeah, before it reaches to 2 o'clock, what time would it be?",00:29:16
+diuonqy,340,student,3 o'clock.,00:29:20
+diuonqy,341,tutor,"Okay, yep, you're right there. So 1 o'clock is there and 2 o'clock is next. I agree with you. [unclear]",00:29:24
+diuonqy,342,tutor,Right. So now let's move on to this one here.,00:29:40
+diuonqy,343,student,Okay.,00:29:45
+diuonqy,344,tutor,So now it's 1 o'clock. And now it goes to this. So it's pointing at 3. What time is it?,00:29:47
+diuonqy,345,student,"Oh, wait. [unclear]",00:29:55
+diuonqy,346,tutor,A quarter past. Quarter past.,00:29:58
+diuonqy,347,student,"Quarter past. Exactly. Quarter past. [Speaker:Desmond]...3. [Speaker:Tutor] No, we have not reached 3:00, Desmond. We are still at 1:00. So it's quarter past— [unclear] Great answer there, Desmond. Yep, you're very close though. So it is 1:00, quarter past 1. Okay?",00:30:01
+diuonqy,348,student,"Okay. So we start off with 1 o'clock, then we have quarter past 1.",00:30:29
+diuonqy,349,student,"Then 2 o'clock, then quarter past 2. And 3 o'clock and quarter past [UNCLEAR]. [Speaker:TUTOR] Yeah, exactly, you're right there, you're getting the hang of it. So now it's quarter past 1, then what time is it now?",00:30:37
+diuonqy,350,student,"2 o'clock, quarter to 2, then quarter past 2, then 3 o'clock, [Speaker:Desmond]...quarter past 3, then 4 o'clock, then quarter past 4. [Speaker:Tutor] Exactly. So now we start off with 1 o'clock, then we have quarter past 1, then we have half past 1, and...",00:30:52
+diuonqy,351,student,[unclear] 2 o'clock.,00:31:12
+diuonqy,352,tutor,"Mm-hmm. Before we go to 2 o'clock, when the minute hand points at 9, it is...",00:31:17
+diuonqy,353,student,One?,00:31:23
+diuonqy,354,tutor,Half quarter— half past. Half past is when it is at 6. And?,00:31:24
+diuonqy,355,student,[unclear] Quarter to.,00:31:31
+diuonqy,356,tutor,"Exactly, it's a quarter to— what is it?",00:31:36
+diuonqy,357,student,Quarter to 2. It's 2 o'clock.,00:31:42
+diuonqy,358,tutor,"Exactly, yeah.",00:31:45
+diuonqy,359,tutor,"Quarter to 2. So let's type that down here, shall we?",00:31:49
+diuonqy,360,student,Yeah. [unclear],00:31:53
+diuonqy,361,tutor,Beautiful. So first we start off with 1 o'clock.,00:31:57
+diuonqy,362,student,Quarter past 3.,00:32:03
+diuonqy,363,tutor,Do we go to quarter past 3 right away after quarter to 2?,00:32:06
+diuonqy,364,student,"No, you go— no.",00:32:10
+diuonqy,365,tutor,Think about it. Think about the minute hand here. Now the minute hand is at 9. So it's quarter to 2. What time is it now again? After quarter to 2.,00:32:15
+diuonqy,366,student,Quarter past 3.,00:32:26
+diuonqy,367,tutor,"Yes. So quarter past is always when the minute hand is at 3 or 9, right?",00:32:31
+diuonqy,368,student,Mm-hmm.,00:32:36
+diuonqy,369,tutor,"So when it is at 12, what time is it?",00:32:38
+diuonqy,370,student,"Uh, quarter past 12.",00:32:41
+diuonqy,371,tutor,"When the minute hand is at 12, Desmond.",00:32:46
+diuonqy,372,student,12 o'clock.,00:32:49
+diuonqy,373,tutor,"12 o'clock, yep. But after quarter to 2, the time would be?",00:32:51
+diuonqy,374,student,"Um, quarter past, quarter to.",00:32:58
+diuonqy,375,tutor,"It would be 2 o'clock, okay? [Speaker:Desmond]...` [UNCLEAR]",00:33:03
+diuonqy,376,tutor,The smaller hand would move to 2. And the minute hand would go to 12.,00:33:05
+diuonqy,377,tutor,Okay.,00:33:11
+diuonqy,378,background,So now we have 12 o'clock. And then what time would it be?,00:33:12
+diuonqy,379,tutor,1 o'clock.,00:33:17
+diuonqy,380,background,[unclear],00:33:18
+diuonqy,381,tutor,1 o'clock?,00:33:21
+diuonqy,382,background,Not 1 o'clock because we have already passed 1 o'clock.,00:33:22
+diuonqy,383,tutor,3 o'clock.,00:33:26
+diuonqy,384,background,Now it's 3 o'clock.,00:33:27
+diuonqy,385,tutor,"Yes. So before we move to 3 o'clock, what time would it be? When it's at 3 and 9, when the minute hand is at 3 and 9? Quarter to. [unclear]",00:33:28
+diuonqy,386,tutor,"Yep. Right, there we go. So it would be quarter to or quarter past?",00:33:39
+diuonqy,387,student,Quarter to 3.,00:33:47
+diuonqy,388,tutor,"Yep, quarter to 3. [Speaker:Background]...half an hour before or past 4. [Speaker:Tutor] Okay, what about this quarter past?",00:33:51
+diuonqy,389,background,2. Quarter past 4?,00:34:01
+diuonqy,390,tutor,No.,00:34:05
+diuonqy,391,student,"[unclear] Oh, oh yes, so would it be 1?",00:34:05
+diuonqy,392,tutor,I don't know.,00:34:17
+diuonqy,393,background,You're very close to the answer.,00:34:20
+diuonqy,394,student,"Quarter past 3? No, it's quarter past 3. We started off with 1 o'clock, quarter past 1, quarter to 2. Then we have 2 o'clock here in between. [unclear]",00:34:22
+diuonqy,395,tutor,"2 o'clock, 3 o'clock, quarter to 3.",00:34:41
+diuonqy,396,student,"Quarter to. Yes, quarter to 3, quarter past 4.",00:34:47
+diuonqy,397,tutor,"It would be quarter past 2, okay?",00:34:55
+diuonqy,398,student,Uh-huh.,00:34:57
+diuonqy,399,tutor,"Yeah, so it's 1 o'clock, quarter past 1, then quarter to 2, then 2 o'clock, quarter past 2, quarter to 3. Then what time would it come next?",00:35:00
+diuonqy,400,student,"Quarter past 3, then quarter to 4. [unclear]",00:35:11
+diuonqy,401,tutor,Then quarter past 4.,00:35:18
+diuonqy,402,tutor,"Yes, but what about the clocks? So we have 1 o'clock here, 2 o'clock here. Where would the 3 o'clock be?",00:35:23
+diuonqy,403,student,Next to the [UNCLEAR]. I don't know. [Speaker:Tutor] Think about it.,00:35:31
+diuonqy,404,student,Next to the— next to the cottage. I don't know.,00:35:37
+diuonqy,405,background,"After which do we have? 2 o'clock. O'clock comes after every—? [unclear] O'clock comes after every—? [unclear] Every minute. [Speaker:Desmond]...2, okay? [Speaker:Tutor] Okay. So after every quarter to, you would have 2 o'clock. So now we have quarter to 3. What comes next? [unclear] Quarter past 3 and quarter to 4?",00:35:44
+diuonqy,406,student,"Quarter to 3, and then we have 3 o'clock here.",00:36:18
+diuonqy,407,tutor,"OK. And then you have quarter past 3, quarter to 4, and what comes next?",00:36:23
+diuonqy,408,student,Quarter past 4.,00:36:29
+diuonqy,409,tutor,Quarter past 4. [unclear],00:36:31
+diuonqy,410,student,Yes.,00:36:38
+diuonqy,411,tutor,"You're right there, Desmond. Very well done. So how many times do you think the clock moves or shows quarter past or quarter to before it reaches 3 o'clock? [unclear]",00:36:39
+diuonqy,412,student,2 hours.,00:36:54
+diuonqy,413,tutor,"Yep. Before it reaches 3 o'clock, how many times do we have quarter past and quarter to?",00:37:01
+diuonqy,414,student,2 times.,00:37:10
+diuonqy,415,tutor,Two times?,00:37:16
+diuonqy,416,student,Pardon?,00:37:17
+diuonqy,417,tutor,Two times.,00:37:18
+diuonqy,418,student,Two times.,00:37:19
+diuonqy,419,tutor,"We count these, so how many times do we have that?",00:37:21
+diuonqy,420,student,Have what?,00:37:25
+diuonqy,421,tutor,Of quarter to and quarter past altogether.,00:37:28
+diuonqy,422,student,"Oh! Quarter to and quarter past. One, two, three, four.",00:37:30
+diuonqy,423,tutor,Four?,00:37:37
+diuonqy,424,tutor,"Exactly, beautiful. And how did you get to 4 as in your answer?",00:37:39
+diuonqy,425,student,Because I counted.,00:37:42
+diuonqy,426,tutor,"Yes, what did you count?",00:37:46
+diuonqy,427,student,[unclear] 5.,00:37:50
+diuonqy,428,tutor,"Amazing. So I believe you counted these. Okay, so that's not 5. 5 is not the correct answer.",00:37:55
+diuonqy,429,student,4.,00:38:07
+diuonqy,430,tutor,"4 is the correct answer because we got 4 in here. We got 1, 2, 3, 4. So 4 it is. Why did you not count these, Desmond? [unclear]",00:38:08
+diuonqy,431,student,Because it wasn't in the box.,00:38:22
+diuonqy,432,tutor,"Because it wasn't in the box, okay. Why did I box only these 4?",00:38:27
+diuonqy,433,student,Because I need you to count those.,00:38:31
+diuonqy,434,tutor,"Yes, but why do you need to count those?",00:38:36
+diuonqy,435,student,[unclear],00:38:39
+diuonqy,436,tutor,"I don't know. Okay, that's completely fine. We have to count these 4 only because these are the only things that comes before 3 o'clock. See, that's the question here, before 3 o'clock. Okay, so since they have asked before 3 o'clock, how many Quarter past and quarter to we have. So we count these.",00:38:40
+diuonqy,437,tutor,Okay.,00:39:06
+diuonqy,438,student,We do not count these because it is after 3 o'clock. Okay?,00:39:07
+diuonqy,439,tutor,Okay.,00:39:13
+diuonqy,440,student,Okay. Cool. So do we have any questions from here?,00:39:14
+diuonqy,441,tutor,No.,00:39:19
+diuonqy,442,background,"Yes, Desmond, you did amazing on this slide. So shall we give ourselves a [UNCLEAR]? [unclear]",00:39:21
+diuonqy,443,tutor,Okay.,00:39:34
+diuonqy,444,student,So I saw...,00:39:35
+diuonqy,445,tutor,"Go on, give yourself a smiley. Do you want a smiley? [Speaker:Desmond]...which was 12. [Speaker:Tutor] Yeah.",00:39:35
+diuonqy,446,student,And there was 2...,00:39:39
+diuonqy,447,tutor,"Take your time, give yourself a smiley.",00:39:41
+diuonqy,448,student,"So then I saw that there were 6 parts, 6 groups, so that would be 6. And one was a circle, so it would be 1/6. [unclear]",00:39:43
+diuonqy,449,tutor,Done.,00:40:04
+diuonqy,450,student,Hello?,00:40:06
+diuonqy,451,tutor,"Yeah, Desmond.",00:40:10
+diuonqy,452,student,Hello?,00:40:12
+diuonqy,453,tutor,"Yes, I can hear you.",00:40:13
+diuonqy,454,student,"Awesome, so you did so well on this slide. So do you have any questions? [unclear]",00:40:16
+diuonqy,455,student,I don't have any questions.,00:40:21
+diuonqy,456,tutor,"You don't have any questions, so one more time, shall we have a recap?",00:40:28
+diuonqy,457,student,"Yeah, I mean no.",00:40:37
+diuonqy,458,tutor,"No, okay. Yes, no?",00:40:39
+diuonqy,459,student,I just said—,00:40:43
+diuonqy,460,tutor,"Okay, let me ask you. The minute hand is pointing at—",00:40:44
+diuonqy,461,tutor,9. The minute hand is pointing at 9. So you have these 4 options with you. We have o'clock. Next we have— what's the next one?,00:40:49
+diuonqy,462,student,"Um, the time is o'clock.",00:41:05
+diuonqy,463,tutor,Quarter past. [unclear] Quarter to. Give me a second. Let me just list it out for you. And half past. Right. Can you see this half past?,00:41:08
+diuonqy,464,student,Yes.,00:41:24
+diuonqy,465,tutor,"Yep, you can. So these are the 4 options you have, Desmond. Now I'm going to tell you a number and you have to tell me which of these is correct for that one. Okay?",00:41:26
+diuonqy,466,student,Okay.,00:41:37
+diuonqy,467,tutor,"Okay, now let me tell you. The minute hand points at 8. [unclear]",00:41:38
+diuonqy,468,tutor,"The minute hand points at 8. Okay. It's 6 o'clock. Desmond, the minute hand. [unclear] [Speaker:Desmond]...quarter past. [Speaker:Tutor] Okay. Remember when the minute hand points at 6. Is it o'clock, quarter past, quarter to, or half past?",00:41:45
+diuonqy,469,student,Half past.,00:42:10
+diuonqy,470,tutor,"Exactly. So when the minute hand is at 6, it is half past. What about if the minute hand is pointing at 12?",00:42:12
+diuonqy,471,background,[unclear],00:42:20
+diuonqy,472,tutor,"It's 12 o'clock. [Speaker:Background]...and the denominator is 40, so... [Speaker:Tutor] 12 o'clock. [Speaker:Background]...I see how much... [Speaker:Tutor] Yes, it's o'clock. Okay? So it would be o'clock when it is at 12. Half past when it is at 6. What about when the number— when the minute hand is pointing towards 3? [unclear]",00:42:21
+diuonqy,473,tutor,Quarter past.,00:42:46
+diuonqy,474,student,Would it be 12?,00:42:49
+diuonqy,475,tutor,"Beautiful, yep, it would be quarter past. And if it was pointing at 9?",00:42:52
+diuonqy,476,student,"If it's pointing at 9, then it's— Quarter past. [unclear]",00:42:58
+diuonqy,477,tutor,You think quarter past is when it is pointing at 3?,00:43:04
+diuonqy,478,student,Half— I mean quarter to.,00:43:07
+diuonqy,479,tutor,Exactly. It is quarter to when it's pointing at 9.,00:43:10
+diuonqy,480,student,Okay.,00:43:16
+diuonqy,481,tutor,"Beautiful work, Desmond. I really like how you performed super well in all these slides.",00:43:17
+diuonqy,482,student,Yes.,00:43:25
+diuonqy,483,tutor,So you did a very good job. So do keep up this good work.,00:43:27
+diuonqy,484,student,Okay.,00:43:32
+diuonqy,485,tutor,All right. So we just got a minute in our hands. Do you have anything to say regarding this lesson? [unclear],00:43:35
+diuonqy,486,tutor,You got nothing to say?,00:43:46
+diuonqy,487,student,Yes.,00:43:50
+diuonqy,488,tutor,"Okay, cool. So how do you feel about telling the time?",00:43:52
+diuonqy,489,student,Good.,00:43:56
+diuonqy,490,tutor,Good. Any doubts with this?,00:43:58
+diuonqy,491,student,[unclear] time is now easy.,00:44:00
+diuonqy,492,tutor,"You find the time easy. Oh, that's— I'm really happy to hear that. So in these slides, what was a bit tricky for you? What was a bit challenging?",00:44:04
+diuonqy,493,student,Half past and quarter to.,00:44:15
+diuonqy,494,tutor,Why do you think that those were tricky?,00:44:19
+diuonqy,495,student,"Because it wasn't pointing to an actual number, it was in between. [unclear]",00:44:25
+diuonqy,496,tutor,"Nice observation, yep. When it's in between, it would be half past. I think we have erased half past 10 here.",00:44:32
+diuonqy,497,tutor,Bye.,00:44:45
+diuonqy,498,background,"Right. And yep, you did super well today, Desmond. So do bring up the same energy as you brought in today to the next session.",00:44:45
+diuonqy,499,student,"Okay, bye.",00:44:57
+diuonqy,500,background,And yet you'll be getting a few questions based on this lesson. Do try them out. And also do not forget to reflect on your session.,00:44:59
+diuonqy,501,student,"Okay, bye.",00:45:07
+diuonqy,502,tutor,Bye-bye.,00:45:09
+diuonqy,503,student,"Thank you, guys. Have a great day. Bye. [unclear]",00:45:09

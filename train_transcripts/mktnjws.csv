@@ -1,0 +1,361 @@
+session_id,utterance_id,role,content,timestamp
+mktnjws,0,tutor,Hello.,00:00:00
+mktnjws,1,background,[unclear],00:00:00
+mktnjws,2,student,Hi.,00:00:00
+mktnjws,3,tutor,Hi.,00:00:02
+mktnjws,4,student,How are you doing?,00:00:02
+mktnjws,5,tutor,"Good. Okay, Desmond, so can you remember we started this last week?",00:00:03
+mktnjws,6,student,Yes. [unclear],00:00:11
+mktnjws,7,tutor,Yes. So we dealt how to partition decimal numbers in different ways. Yeah?,00:00:14
+mktnjws,8,student,Yeah.,00:00:25
+mktnjws,9,tutor,Right. So then we learned about Gaddig Notion chart.,00:00:25
+mktnjws,10,student,Yeah.,00:00:29
+mktnjws,11,tutor,Right. And then,00:00:30
+mktnjws,12,tutor,"So this is getting no chart and this is place value chart, right?",00:00:33
+mktnjws,13,student,Yeah.,00:00:38
+mktnjws,14,tutor,We'll be using both of them to separate numbers into different parts.,00:00:38
+mktnjws,15,student,Yeah.,00:00:43
+mktnjws,16,tutor,"So there we did this and we worked up here and then we have one more slide to complete this. Alright, so can you try this go further question? [unclear]",00:00:44
+mktnjws,17,student,Hmm.,00:01:01
+mktnjws,18,tutor,"[unclear] said only one way to partition 0.62. 0.62, 0.6, 0.000002.",00:01:02
+mktnjws,19,student,Mm-hmm.,00:01:22
+mktnjws,20,student,"[unclear] is incorrect, but finally, 3 ways of partitioning 0.54321.",00:01:25
+mktnjws,21,tutor,So can you suggest 3 ways of partitioning 0.62 other than this?,00:01:39
+mktnjws,22,student,About the— You want me to repeat?,00:01:48
+mktnjws,23,student,"Yes, please.",00:01:53
+mktnjws,24,tutor,"Okay, so can you suggest 3 more ways of partitioning this particular number? [unclear]",00:01:55
+mktnjws,25,student,"13. So if you do 0.00 plus 0.62, which equals 0.62.",00:02:06
+mktnjws,26,tutor,"So you mean to say 0.0 and 0.62 again, right?",00:02:22
+mktnjws,27,student,Yeah.,00:02:27
+mktnjws,28,tutor,"In that sense, Desmond, it's not partitioned, right? It's not broken into two parts. This number is still the same.",00:02:28
+mktnjws,29,tutor,Right?,00:02:44
+mktnjws,30,student,Yes.,00:02:45
+mktnjws,31,tutor,"Okay, so here, method 1 of partitioning this number is that 50, 3, and 0.4, and 0.02. Okay, you could also partition this 40, 10, 40, 10, 3, 0.1,",00:02:46
+mktnjws,32,tutor,0.3.,00:03:11
+mktnjws,33,student,Yeah.,00:03:13
+mktnjws,34,tutor,And 0.01.,00:03:14
+mktnjws,35,student,Yeah.,00:03:16
+mktnjws,36,tutor,0.01.,00:03:16
+mktnjws,37,student,"Yeah, [UNCLEAR].",00:03:18
+mktnjws,38,tutor,"All right, so in that way you could partition a number, a decimal number, in multiple ways. So here, yeah, yeah, yeah, it's 2.9 and the other part has to be 0.08. Here it's 0.02 And the other part, 0.03.",00:03:18
+mktnjws,39,student,Yeah.,00:03:40
+mktnjws,40,tutor,"So in that way, can you think of any other ways we could partition this?",00:03:42
+mktnjws,41,student,"Yes, we could, uh, we could, uh, we could do [unclear] for the plus 9.",00:03:50
+mktnjws,42,tutor,"Sorry, which number?",00:04:01
+mktnjws,43,tutor,0.65 take away 0.95.,00:04:03
+mktnjws,44,student,0 point— [unclear] take away 0.62 equals 90.62.,00:04:09
+mktnjws,45,tutor,So you meant to say 0.62 take away 0.02 is 0.6.,00:04:22
+mktnjws,46,tutor,"Yes, so that's one way of saying this. Okay, so in order to solve something like this, you take away this from here because these two add up to the total, right?",00:04:29
+mktnjws,47,student,Hmm.,00:04:39
+mktnjws,48,tutor,"Okay, so that's, that's, that's an excellent way of saying this, right? I— so what I'm asking here is [UNCLEAR]. So imagine you have a number like this, 1.25.",00:04:40
+mktnjws,49,tutor,"Right, I could partition this 1 and 0.25.",00:04:57
+mktnjws,50,student,"Or else I could also partition this 0.5, 0.5, and 0. 7, 5. Because if I add these two numbers together, I would get 1.25. So you're taking time on this one, right? Hello, Desmond?",00:05:04
+mktnjws,51,student,Yeah.,00:05:36
+mktnjws,52,tutor,"Okay, so shall I give you an example?",00:05:38
+mktnjws,53,student,"Um, yes, please.",00:05:41
+mktnjws,54,tutor,"Okay, so we have a number like this, so it's 0.62 I would partition it into 0.1. What about the other number? [unclear] 0.12? [unclear] 0.96? No, I said 0.12.",00:05:43
+mktnjws,55,tutor,0.12.,00:06:16
+mktnjws,56,student,Yeah.,00:06:17
+mktnjws,57,tutor,"If you— okay, so if you add 0.12, if you add 0.12 with 0.1, it would be 0.22, not 62, Desmond.",00:06:18
+mktnjws,58,student,Yeah.,00:06:30
+mktnjws,59,tutor,"It has to be— when you add up these numbers, the answer has to be 0.62. How would you do this then?",00:06:32
+mktnjws,60,tutor,"So, Desmond, I'll give an example here, right? I'll start off with 0.1. Okay, they— [unclear] Sorry. They already have 0.6, right? So why don't I start with 0.1? The other number will be 0.5. 2.",00:06:44
+mktnjws,61,tutor,What?,00:07:08
+mktnjws,62,background,"Because the top number, the number we need to partition is 0.62, right?",00:07:12
+mktnjws,63,tutor,"Um, I don't know.",00:07:19
+mktnjws,64,background,Hello? Desmond?,00:07:24
+mktnjws,65,tutor,Yeah?,00:07:31
+mktnjws,66,background,Can we do a quick [unclear] on how to partition to a number? Into two parts?,00:07:31
+mktnjws,67,tutor,No.,00:07:36
+mktnjws,68,student,"No, you already know it, right?",00:07:37
+mktnjws,69,tutor,Yeah.,00:07:39
+mktnjws,70,student,"In that sense, Cheddar says there's only one way, so this is number one. Okay?",00:07:41
+mktnjws,71,tutor,He's wrong because you should do more [UNCLEAR].,00:07:47
+mktnjws,72,student,"Yes, exactly right. He's wrong because it's not— we don't have a— we don't only have a single way, but rather we have multiple ways we can partition this number. So I'll give you an example. You have to give me 3 examples, will you? Will you do that?",00:07:56
+mktnjws,73,student,"Yeah, so we have to do 0.62 and then we do 0.1, then we do 0.52.",00:08:12
+mktnjws,74,tutor,Because when you— so this is one way of partitioning this.,00:08:23
+mktnjws,75,student,"Yeah, if you add them all together it will give you— so you have the 2 parts. Together, it gets you to the whole. [unclear]",00:08:26
+mktnjws,76,tutor,Exactly.,00:08:35
+mktnjws,77,student,"You take away one part from the whole, you get another part.",00:08:35
+mktnjws,78,tutor,Mm-hmm. So that's an excellent way of saying it. Yeah. Right?,00:08:41
+mktnjws,79,student,Yeah.,00:08:48
+mktnjws,80,tutor,Yes. So can you suggest to me two other ways of partitioning this number?,00:08:50
+mktnjws,81,student,0.42,00:08:54
+mktnjws,82,tutor,0.42 and 0.2.,00:09:03
+mktnjws,83,student,"Uh, yeah, let's add them two together and see whether we get 0.62. 0.42 and 0.2 equals 0.62. Exactly right. Yeah, so let's write, uh, one way of partitioning here. So can you do the— can you fill in the blanks? So can you fill in the blanks, Desmond? [unclear]",00:09:07
+mktnjws,84,tutor,That's good.,00:09:54
+mktnjws,85,student,"So I knew that £10 equals 10,000 cents, so I'm going to multiply 0.02—",00:09:58
+mktnjws,86,tutor,"Oh, okay, so it's 0.62?",00:10:11
+mktnjws,87,student,"Yeah, that would be 2 [UNCLEAR]. [unclear]",00:10:13
+mktnjws,88,student,Mm-hmm.,00:10:39
+mktnjws,89,tutor,And the other number has to be 0.42.,00:10:40
+mktnjws,90,tutor,"Right. Okay, so can you give another example?",00:10:46
+mktnjws,91,student,[unclear] 0.6 to 0.3 or 0.32.,00:10:49
+mktnjws,92,tutor,"Exactly, yes. So now do you find this question hard?",00:11:00
+mktnjws,93,student,No.,00:11:06
+mktnjws,94,tutor,"No, not anymore. No. So 0.062. Yeah. [unclear] Sorry? [unclear] I didn't hear you.",00:11:08
+mktnjws,95,tutor,"Can you please write another example too? Like 0.62, 0.3, and 0.03, 0.32. [unclear] Right. [unclear] 0.3. [unclear]",00:11:37
+mktnjws,96,student,Yes. [unclear],00:12:20
+mktnjws,97,tutor,"Okay, 0.5 and 0.12. Also, I could also come up with 0.4 and 0.22, right?",00:12:36
+mktnjws,98,student,Yes.,00:12:47
+mktnjws,99,tutor,"Yes, so even that would do, right? 0.4 and 0.22.",00:12:49
+mktnjws,100,student,Yeah.,00:12:55
+mktnjws,101,tutor,"Yeah, so Desmond.",00:12:56
+mktnjws,102,student,Yeah.,00:12:59
+mktnjws,103,tutor,"Now, now we are at the end of this session, a lesson. Okay, Desmond, do you have any questions?",00:13:00
+mktnjws,104,student,No.,00:13:08
+mktnjws,105,tutor,"No, so if you are given a decimal number, would you be able to partition them?",00:13:09
+mktnjws,106,student,Yes.,00:13:14
+mktnjws,107,tutor,"Yes, okay, so how do we partition a number, decimal number? [unclear] Partition is where we split a number into smaller parts.",00:13:15
+mktnjws,108,tutor,"Okay, so the easiest way of partitioning a number is using their place value system.",00:13:30
+mktnjws,109,student,down.,00:13:30
+mktnjws,110,tutor,"Yes, so here we start off with 53. Then 0.4. So what is the place value denoted by 0.4?",00:13:38
+mktnjws,111,student,"Um, the tens.",00:13:53
+mktnjws,112,tutor,"The tens, exactly. And what about the place value denoted by 0.02?",00:13:56
+mktnjws,113,student,The ones.,00:14:03
+mktnjws,114,tutor,Uh-huh. This is the ones.,00:14:04
+mktnjws,115,student,Hundreds then.,00:14:07
+mktnjws,116,tutor,"Hundreds, right?",00:14:09
+mktnjws,117,tutor,"Yeah, so the best way, the possible way, the easiest way to partition number is to sort them according to their place values. Okay.",00:14:10
+mktnjws,118,student,Yeah.,00:14:18
+mktnjws,119,tutor,"So once you're done with that, if they ask for more, we could split each part, right?",00:14:19
+mktnjws,120,student,Yeah.,00:14:25
+mktnjws,121,tutor,Split 15 to 20 and 30.,00:14:25
+mktnjws,122,student,Yeah.,00:14:27
+mktnjws,123,tutor,"3, 2, and 1. Yeah.",00:14:28
+mktnjws,124,student,Yeah.,00:14:30
+mktnjws,125,tutor,"Yeah, in that way, um, we could split this like 20 33, 0.4, 0.02. Okay. [unclear] Right, so if we split this, we could either split into 5 and 0.35, or else we could start off with a decimal number and then take away that value and find the other part. Okay.",00:14:31
+mktnjws,126,student,Yeah.,00:14:59
+mktnjws,127,tutor,"Right. So we did this. You know how to solve this, I suppose.",00:15:01
+mktnjws,128,student,Yeah.,00:15:07
+mktnjws,129,tutor,How do you do?,00:15:08
+mktnjws,130,student,"2.98, so [unclear] 2.98, so it will be 0.08.",00:15:09
+mktnjws,131,tutor,"0.08, okay. I hope there are no questions on this, right?",00:15:17
+mktnjws,132,student,No.,00:15:26
+mktnjws,133,tutor,"No. So shall we end this, like complete this lesson and start a new one then?",00:15:27
+mktnjws,134,student,Yeah.,00:15:32
+mktnjws,135,tutor,"Yes, okay, right. Let's move on to the next one then. All right, so here we will be dealing with number lines. [unclear] The position of tens and hundreds on a number line. Okay, so the whole number is divided into 10 parts or 100 equal parts, and then we will be estimating the positions. Okay, so can you read the title?",00:15:33
+mktnjws,136,student,Estimating the position of tenths or hundredths on a number line.,00:16:04
+mktnjws,137,tutor,"Okay, on a number line. So, are you, are you, have you learned this before?",00:16:10
+mktnjws,138,student,Yes.,00:16:20
+mktnjws,139,tutor,"Yes, you know how to estimate the position of tenths and hundredths, [UNCLEAR]. Do you know how to estimate a position of tens and hundreds on a number line?",00:16:22
+mktnjws,140,student,"Yes, I do.",00:16:35
+mktnjws,141,tutor,"You do, right? So the number that the arrow is pointing to is 0.6.",00:16:36
+mktnjws,142,student,Yeah.,00:16:41
+mktnjws,143,tutor,"Oh, yep. So how do you know it's 0.6?",00:16:42
+mktnjws,144,student,"Because [unclear] decimals....and it comes to the 6, suppose 0.6, because that's a decimal between 1 and 2.",00:16:46
+mktnjws,145,tutor,"So there are decimals between 1 and 2, right? The number is starting from 1. So do you think it's 0.6 here?",00:17:00
+mktnjws,146,student,"Um, yes, please. [unclear]",00:17:10
+mktnjws,147,tutor,"Okay, so the answer has to be",00:17:12
+mktnjws,148,tutor,"1.6. Because the number is starting from 1, right? So 1.1, Desmond?",00:17:18
+mktnjws,149,student,Yeah.,00:17:26
+mktnjws,150,tutor,"1.2, 1.3, 1.4, and this one is 1.6. Don't worry.",00:17:26
+mktnjws,151,student,"Oh yeah, yeah, it meant to be 1.6. I got it now.",00:17:30
+mktnjws,152,tutor,"Okay, so it is meant to be 1.6, right?",00:17:34
+mktnjws,153,student,"Yeah, because the number 1 [unclear] closer to 1.6. [unclear]",00:17:38
+mktnjws,154,tutor,"Exactly right. So here you're done estimating the position of 55,000.",00:17:46
+mktnjws,155,student,"I— yeah, yeah.",00:17:51
+mktnjws,156,tutor,"You're somewhat close by. You're somewhat close. This is 50,000, so this one is 50,000. 55,000 has to be somewhere in the middle.",00:17:56
+mktnjws,157,student,It's a bit away.,00:18:07
+mktnjws,158,tutor,"Yes, somewhere here, right?",00:18:10
+mktnjws,159,student,Yeah.,00:18:12
+mktnjws,160,tutor,"Excellent job. Let's learn more about this, how to position numbers on a number line. You know how to do that, probably. We'll see what we can learn new here, right? Okay, so can you read this out loud for me?",00:18:13
+mktnjws,161,student,"Before we [unclear] the position of tens, of a number line, we need to understand how to do this with whole numbers.",00:18:31
+mktnjws,162,tutor,So what does that say? [unclear],00:18:41
+mktnjws,163,student,We find the value of each interval on a number line by dividing the whole length by the number of intervals.,00:18:48
+mktnjws,164,tutor,"So did you understand what it says? So when do we deal with tens and hundreds, Desmond? When do we deal with [UNCLEAR]?",00:18:58
+mktnjws,165,student,If it's a whole number?,00:19:06
+mktnjws,166,tutor,If the decimal was a stop.,00:19:09
+mktnjws,167,student,"If it's a decimal number, right? Exactly. So we deal with— so before we can estimate the position of tens and hundreds, so that those are decimal numbers, right? So 1.6. Before that, we need to be able to estimate the position of whole numbers. Okay, so that's what it says. So first of all, we need to make us familiar with whole numbers, and then we can move on to decimal numbers. So this is like a— this is like a pre-understanding. Okay?",00:19:11
+mktnjws,168,student,"Yeah, yeah.",00:19:45
+mktnjws,169,tutor,"Okay, so can you read this and let me know what do you understand through this?",00:19:47
+mktnjws,170,background,"We find the value of each interval or the number [unclear] divided the whole length by the number intervals. Okay, what does that say? What's an interval? [unclear] Uh-huh, you can use the pointer too.",00:19:52
+mktnjws,171,student,"You know, the line in the middle, so.",00:20:10
+mktnjws,172,tutor,"Okay, so those are the intervals?",00:20:15
+mktnjws,173,student,"Is there in the middle, so.",00:20:19
+mktnjws,174,tutor,"Yeah, you think so, right. Let me explain you, right. So the interval is what we call something like this. [unclear]",00:20:23
+mktnjws,175,tutor,Yes.,00:20:34
+mktnjws,176,student,So this is an interval.,00:20:35
+mktnjws,177,tutor,Okay.,00:20:36
+mktnjws,178,student,Yeah.,00:20:37
+mktnjws,179,tutor,"So if you don't know the— if you don't know the value of the interval, like this point, you don't know the value, right? If you do not know the value, how do we do this is we find the value of each interval by dividing the whole length. This is the whole length by the number of intervals. So how many intervals we have here? Can you count? [unclear]",00:20:37
+mktnjws,180,student,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:21:01
+mktnjws,181,tutor,So the total number of intervals— what is the total number of intervals? What is the total number of intervals? So how many intervals we have?,00:21:10
+mktnjws,182,student,6.,00:21:20
+mktnjws,183,student,7. [unclear],00:21:23
+mktnjws,184,tutor,Can you count through again?,00:21:26
+mktnjws,185,student,Yeah.,00:21:29
+mktnjws,186,tutor,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10. So the total, the total, so the number of intervals How many intervals we have here? 10, right?",00:21:30
+mktnjws,187,student,Yes.,00:21:52
+mktnjws,188,tutor,"We have 10. So we find the value of each interval. So the value of each interval, we divide this, the total length, by the number of intervals. [unclear] Yeah, yeah, yeah. Okay, so this is the whole length. [unclear] You want me to explain?",00:21:53
+mktnjws,189,student,"No. Any doubts? What? Okay, you want, you want to, you want to know what is meant by total?",00:22:12
+mktnjws,190,student,No.,00:22:19
+mktnjws,191,tutor,"No? [unclear] So, you know, if you want to find the value of each interval, you divide the whole length, you divide the whole length by the number of intervals, then you will be able to find one interval. Did you understand that?",00:22:20
+mktnjws,192,student,Yes.,00:22:39
+mktnjws,193,tutor,"Yes, I— okay, so the whole— there is a number line like this, okay? So it is divided into 10 equal parts, okay? [unclear] So, uh, it's, uh, the whole length is 20, so the value of each interval has to be 20 divided by 10. 2, right? So 2, 4, 6, 8. So that's how we Find the value of each interval. Divide the whole length by the number of intervals. If it has 10 intervals, you divide 20 by 10 and you would get 2. Okay?",00:22:40
+mktnjws,194,student,Yeah.,00:23:18
+mktnjws,195,tutor,"So the 2 add— so you add 2 to here, and 4, 6, 8, and it goes on until 20. Clear? Clear? [unclear] Yes, so that's what is meant by So in that case, what is the value of this interval?",00:23:19
+mktnjws,196,student,"[unclear] 10, so do I have 1,000? Wait, 1,000, wait, 10,000.",00:23:43
+mktnjws,197,tutor,"10,000, right?",00:23:58
+mktnjws,198,tutor,"Yeah, exactly. So what the first interval has to be 10,000, 20,000, and it goes on until 100,000. Okay?",00:23:59
+mktnjws,199,student,Yeah.,00:24:08
+mktnjws,200,tutor,"Right. Right. So, okay, so they ask you to find the midway point. How do you find the midway point? [unclear]",00:24:09
+mktnjws,201,student,"Well, you would [unclear] 50,000 because half of 100,000 is 50, so it would be 50.",00:24:26
+mktnjws,202,tutor,"Exactly. It's 50,000, right?",00:24:34
+mktnjws,203,student,Yeah.,00:24:37
+mktnjws,204,tutor,So why it's important to find the halfway point?,00:24:37
+mktnjws,205,student,"Because if you know the halfway point, you would be— so if you do rounding, you know which is the Highest and much of the lowest.",00:24:41
+mktnjws,206,tutor,"Okay, so rounding, we also use number lines on rounding, right? [unclear]",00:24:56
+mktnjws,207,student,point to help us label numbers accurately.,00:24:56
+mktnjws,208,tutor,"Accurately, right? So if you write 50,000 here, you won't make mistakes, okay? Oh, we know if you find the halfway point as 50,000 here, you know this one is 40,000. You take away 10,000, you know this one is 60,000. [unclear]",00:25:12
+mktnjws,209,tutor,Yes.,00:25:29
+mktnjws,210,student,"So it's easier for us to label number lines accurately. Accurately means correctly. Okay, so can you, can you, uh, so as you have already identified the halfway point, can you please write the halfway point here? [unclear]",00:25:29
+mktnjws,211,tutor,"That's— so that's $50,000.",00:25:43
+mktnjws,212,student,"Okay. So now, can you look at the arrows marked here on the number line? Can you identify the numbers denoted by those number lines? Okay, so that's— you're already doing that. Make sure that you have the [unclear] right. It's 9,000. What about the orange arrow?",00:26:04
+mktnjws,213,tutor,"Okay, you're doing great job. What about the commas?",00:26:35
+mktnjws,214,student,"Yeah, right? [unclear]",00:26:40
+mktnjws,215,tutor,Yes. Can you please add the commas?,00:26:43
+mktnjws,216,student,Shall I add the commas then?,00:26:48
+mktnjws,217,tutor,"Yes, please.",00:26:50
+mktnjws,218,student,"Okay, so what about the pink one?",00:26:51
+mktnjws,219,tutor,"Okay, so you don't have to explain how you got this answer for all these 3. Can you explain how you got the pink arrow's value?",00:27:01
+mktnjws,220,student,"So it put the [unclear] interval at 0.9,000, but it passed, so 91,000.",00:27:12
+mktnjws,221,tutor,"Okay, so how do you know this point is worth 1,000?",00:27:26
+mktnjws,222,student,Because it go in ones.,00:27:29
+mktnjws,223,tutor,"Uh-huh. So that— so we do— okay, what about this? How do you know this is 9,000?",00:27:34
+mktnjws,224,student,"Because it before 10,000 and before— wait, after zero. [unclear]",00:27:43
+mktnjws,225,tutor,"Okay, so maybe, maybe, okay, let me explain. So here each part is worth 10,000, right?",00:27:57
+mktnjws,226,student,Yeah.,00:28:04
+mktnjws,227,tutor,"So the value, the number of intervals they have in between is 10 again.",00:28:04
+mktnjws,228,student,Yeah.,00:28:09
+mktnjws,229,tutor,"So each small, the small interval, the small interval here is 10,000 divided by 10. So each part is worth 1,000, right? So this one is worth 5,000, and 20, 25,000, right?",00:28:09
+mktnjws,230,student,Yeah.,00:28:25
+mktnjws,231,tutor,"Yep. Okay, so can you, can you do A, B, and C now that you have done all of this alone on your own? [unclear]",00:28:26
+mktnjws,232,student,"Um, okay, so first we have to put 6,000. As I know, it is...where do you place it? Okay. [unclear] So 1, 2, 3, 4, 5. 5, 6, 82.",00:28:34
+mktnjws,233,tutor,"Can you reach it, Bee?",00:28:59
+mktnjws,234,student,"1, 2, 3, 4, 5.",00:29:04
+mktnjws,235,student,"Yeah, that's right.",00:29:10
+mktnjws,236,tutor,"So it's 60,000 here.",00:29:11
+mktnjws,237,student,"Yeah, prob— [unclear]",00:29:16
+mktnjws,238,tutor,"This is A, you should mark A.",00:29:18
+mktnjws,239,student,"Then B is— [unclear] 5, 6, 7, 8. 82,000 has to be somewhere over here. Desmond, can you check B? What number we are supposed to estimate the position of? What is the— okay, it's 35,000, right?",00:29:22
+mktnjws,240,student,Yeah.,00:29:57
+mktnjws,241,tutor,So,00:29:59
+mktnjws,242,tutor,"Oh, can you place 10,000? [unclear] So you think this is the position of B? Is this the position of B? What about this? What about this? What is the position? What is the value of this?",00:30:01
+mktnjws,243,student,"5,000.",00:30:19
+mktnjws,244,tutor,Uh-huh. Come again.,00:30:21
+mktnjws,245,student,"5— oh, 50,000. 50,000. So it has to be 55,000, right? [unclear]",00:30:23
+mktnjws,246,student,"I thought it was 35,000.",00:30:35
+mktnjws,247,tutor,"This is 60,000. Yep.",00:30:39
+mktnjws,248,student,"1, 2, 3.",00:30:41
+mktnjws,249,tutor,"Somewhere here, right?",00:30:45
+mktnjws,250,student,Yeah.,00:30:47
+mktnjws,251,tutor,"So that's B. And 82,100, can you estimate the position? [unclear]",00:30:47
+mktnjws,252,tutor,"Can you use an arrow to exactly point on the number line? Something like this. This is A, and 35,000 means exactly halfway between 30 and 4,000, right? So somewhere here. I guess this may be located more close to this part, okay? Because this is not 85,000 but 82,000, so more close to 80,000 than 90,000, okay? So when you're positioning, when you're estimating a position of a number, okay Desmond? When you're estimating position of a number, always [unclear] Make sure that you're very, very accurate, okay? Right? Hello?",00:31:00
+mktnjws,253,student,Hello.,00:31:52
+mktnjws,254,tutor,"Yes, can you hear me?",00:31:53
+mktnjws,255,student,Yes.,00:31:55
+mktnjws,256,tutor,"Right, okay. So, so now let's learn how we can estimate the position of tens and hundreds on a number line, okay?",00:31:55
+mktnjws,257,student,Yeah.,00:32:04
+mktnjws,258,tutor,Can you read? [unclear],00:32:04
+mktnjws,259,student,It said to estimate the position of tens or hundreds on a number line.,00:32:08
+mktnjws,260,student,We need to split the number into equal— equal 10 equal parts.,00:32:15
+mktnjws,261,tutor,"10 equal parts, right?",00:32:25
+mktnjws,262,student,Yeah.,00:32:28
+mktnjws,263,tutor,So have you got any questions on this?,00:32:29
+mktnjws,264,student,No.,00:32:31
+mktnjws,265,tutor,"No. Okay, if we are very much clear, then we'll move on to this part. Okay, so can you do A?",00:32:32
+mktnjws,266,student,A equals— [unclear] So we can also make use of the [UNCLEAR].,00:32:40
+mktnjws,267,tutor,0.59.,00:32:45
+mktnjws,268,student,"0.43, right? Okay, so that would be 0.3 because each division is worth 0.1. Or what is this fraction?",00:32:55
+mktnjws,269,student,"Uh, one-tenth.",00:33:12
+mktnjws,270,tutor,One-tenth. Okay. So each part is worth— so how many tenths we have here?,00:33:16
+mktnjws,271,student,"Uh, [unclear] a whole.",00:33:22
+mktnjws,272,tutor,How many tenths?,00:33:26
+mktnjws,273,student,"Uh, 10.",00:33:27
+mktnjws,274,tutor,How many tenths we have here?,00:33:31
+mktnjws,275,tutor,We got 3 tenths.,00:33:33
+mktnjws,276,student,"3 tenths, right? So each division, each interval is worth 0.1 or 1 tenth. Okay, right. So, um, so they have another note here. Can you read this too? [unclear] Divisions between each number, they are each worth 69 hundredths. And these— I'm gonna have to work that out. [unclear]",00:33:37
+mktnjws,277,tutor,You want to work that out?,00:34:24
+mktnjws,278,student,Yes.,00:34:26
+mktnjws,279,tutor,So... [unclear],00:34:26
+mktnjws,280,student,"make a blue... So 0.3... 1, 2, 3, 4, 5... 7.35.",00:34:26
+mktnjws,281,student,0.35.,00:34:54
+mktnjws,282,tutor,"0.35, right?",00:34:55
+mktnjws,283,student,Yes.,00:34:57
+mktnjws,284,tutor,"Yes, okay. So each division is worth one-tenth, and the smallest division possible is worth 100. Okay?",00:34:57
+mktnjws,285,student,Yeah.,00:35:07
+mktnjws,286,tutor,Yes. So how many hundreds we have in this decimal number? [unclear] [unclear],00:35:07
+mktnjws,287,tutor,How many hundreds we have here?,00:35:23
+mktnjws,288,student,5.,00:35:26
+mktnjws,289,tutor,5. How many tens we have here?,00:35:27
+mktnjws,290,student,3.,00:35:29
+mktnjws,291,tutor,3. Okay. So will there be any ones in this answer?,00:35:30
+mktnjws,292,student,"No, because there is point and no ones.",00:35:41
+mktnjws,293,tutor,"Yes, why? Because the number line is starting from 0 and 1. Okay, so if it starts from 1, if it starts from 1, the answer has to be in 1, right? If it starts from 1 like this [unclear] number line, it has to be in 1. Because this one is starting from 0, it starts with 0. Okay?",00:35:45
+mktnjws,294,student,"About— yeah, yeah, yeah, yeah, yeah, yeah. Okay, so, all right.",00:36:07
+mktnjws,295,tutor,"Okay, let's do this. So here you will follow me along while I work this one. [unclear] And then it will be your turn. So let's look at how we can estimate the position of a decimal number on a number line without all the divisions marked. So none of the divisions are marked here. So how do I do that? So I know the divisions on a number line must be worth 0.1 because The whole length is 0.1 divided into 2, so this way it has to be 1, 2, 3, 4, 5, so 0.56. 0.6, um, somewhere between 0 point, uh, yeah.",00:36:11
+mktnjws,296,tutor,"First we, first we work out the value.",00:37:00
+mktnjws,297,student,Desmond?,00:37:03
+mktnjws,298,student,Yeah.,00:37:06
+mktnjws,299,tutor,"Okay, so first follow me along and then it will be your turn, okay? And when you do the workings on the slides, make sure that you use the text tool, okay?",00:37:06
+mktnjws,300,student,Sure.,00:37:16
+mktnjws,301,tutor,"Okay, so first we work out the value of divisions on either side of the arrow. That would be 0.5, 0.6, and 0.7. Now... [unclear] 0.6 and 0.7. The arrow is pointing halfway between, so it's worth 500. [unclear] We can now— wait, that would be 0.65. Okay, Desmond.",00:37:17
+mktnjws,302,student,Yeah.,00:37:48
+mktnjws,303,tutor,Now it's your turn.,00:37:49
+mktnjws,304,student,Okay.,00:37:52
+mktnjws,305,tutor,You can use the text tool. [unclear],00:37:55
+mktnjws,306,tutor,"Maybe you can use the text tool, right?",00:37:58
+mktnjws,307,student,Ah.,00:38:06
+mktnjws,308,tutor,Yeah. So 0.42?,00:38:08
+mktnjws,309,student,Hmm? 0.2.,00:38:12
+mktnjws,310,tutor,Yes.,00:38:18
+mktnjws,311,student,"Mm-hmm. OK, maybe if you—",00:38:19
+mktnjws,312,student,0.22.,00:38:23
+mktnjws,313,tutor,So what are the values of the division either side of the arrow?,00:38:27
+mktnjws,314,student,"0, because every place number that I got is 0 at the start. [unclear] Centi-hundredths, maybe— [unclear] Desmond?",00:38:30
+mktnjws,315,student,Yeah.,00:38:55
+mktnjws,316,tutor,"In order to estimate the value of a number, so here we start off with, uh, we look at the, we look at the value of divisions on either side of the error. So here's the error. First of all, we do not find the answer, okay? First of all, we find the value on either side. So here it's 0.5, so 0.6 and 0.7 here, right? So then I would look at the value of 500. They say the arrow is pointing halfway, so there has to be 500. And then as the last resort only, I conclude with the answer as 0.65. Okay.",00:38:55
+mktnjws,317,tutor,"First of all, you should find the value of division either side of the arrow. Okay, what do you think? What is the value on either side? What is the value of this part? Desmond?",00:39:36
+mktnjws,318,student,Yeah.,00:39:55
+mktnjws,319,tutor,"Okay, what is the value of this division?",00:39:57
+mktnjws,320,student,"Uh, 0.22.",00:40:00
+mktnjws,321,tutor,"0 point— okay, so this is 0.22 is the exact value, right?",00:40:04
+mktnjws,322,student,Yeah.,00:40:11
+mktnjws,323,tutor,"Okay, so Desmond, this arrow is between 0.2 and 0.3.",00:40:12
+mktnjws,324,student,[unclear],00:40:20
+mktnjws,325,tutor,"So those are the value of the division on either side of the arrow. So it has to be 0.2 and 0.3. Okay, so can you correct the answer, please? [unclear] So it has to be 0.2 and 0.3. Can you— what is this part is being enlarged here?",00:40:22
+mktnjws,326,tutor,"Okay, so we'll raise some more. [unclear] 0.2.",00:40:47
+mktnjws,327,tutor,Mm-hmm.,00:40:59
+mktnjws,328,student,And 0.4.,00:41:01
+mktnjws,329,tutor,"Mm, yep. So can you read the V part?",00:41:03
+mktnjws,330,student,"V part? The arrow is pointing just a little in from the division, so it's worth [unclear] 100. How many hundreds? [unclear] Blank hundreds, right? So is it at the halfway point or less than halfway point?",00:41:11
+mktnjws,331,student,It will be 0.825.,00:41:41
+mktnjws,332,tutor,"Is it the halfway point? If it's 5, it has to be the halfway point, right? Is it exactly in the middle? Or is it more close to 0.3 or 0.2? Which one is more close?",00:41:50
+mktnjws,333,student,It's closer to 0.2.,00:42:03
+mktnjws,334,tutor,"In that case, it has to be 0.2— [unclear]",00:42:06
+mktnjws,335,student,0.2 something.,00:42:10
+mktnjws,336,tutor,"2 something, right?",00:42:13
+mktnjws,337,student,Yeah.,00:42:14
+mktnjws,338,tutor,"That something has only 500, so it's not 0.25. Something less than that. How many hundredths do you think is [UNCLEAR]? Estimate. You could just estimate.",00:42:15
+mktnjws,339,student,0.3.,00:42:27
+mktnjws,340,tutor,"Okay, so it's worth 3 hundredths, not 0.3 hundredths.",00:42:30
+mktnjws,341,student,0.23.,00:42:35
+mktnjws,342,tutor,So the final answer is 0.23.,00:42:38
+mktnjws,343,student,Yeah.,00:42:42
+mktnjws,344,tutor,"Okay, here you have to write 3 hundredths. Okay, 300, and you have to find— write the final answer here. So that's 0.23. Okay, can you do the correction? [unclear] You have to write 300 here. How many hundreds? 300. 300, not 300. You have— you just have to write 3 here. Yep. So the number, the number, the decimal number the arrow is pointing is 0.23. Yeah. Okay. [unclear] Right. All right, Desmond. So how do you find this question? It's [unclear]",00:42:43
+mktnjws,345,tutor,"good, right? Yeah.",00:43:42
+mktnjws,346,student,So,00:43:43
+mktnjws,347,tutor,"it's the same as estimating a value, estimating— it's the same as estimating numbers like this, whole numbers like this. Yeah.",00:43:43
+mktnjws,348,student,We,00:43:55
+mktnjws,349,tutor,"look at the divisions, we look at the total value, then we divide, and then we add on. So that's how we do. Okay? Right, so here we have some practice questions. Can you do all of them? [unclear]",00:43:55
+mktnjws,350,tutor,Sure.,00:44:09
+mktnjws,351,background,"But be careful, okay?",00:44:17
+mktnjws,352,tutor,Yes.,00:44:20
+mktnjws,353,background,"Right. Desmond, I guess the time's up now. We have 10 seconds more. Have you got any questions?",00:44:23
+mktnjws,354,student,No.,00:44:34
+mktnjws,355,tutor,No. So are you aware of how we can position tens and hundreds on a number line?,00:44:35
+mktnjws,356,student,Yes.,00:44:41
+mktnjws,357,tutor,"Yes. No questions. Okay, so make sure that you answer the position quizzes, okay? See you next week. Bye.",00:44:42
+mktnjws,358,student,Bye.,00:44:50
+mktnjws,359,tutor,Thank you so much. Bye.,00:44:50

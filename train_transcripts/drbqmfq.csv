@@ -1,0 +1,216 @@
+session_id,utterance_id,role,content,timestamp
+drbqmfq,0,tutor,Hello?,00:00:00
+drbqmfq,1,background,[unclear],00:00:00
+drbqmfq,2,student,Hello?,00:00:00
+drbqmfq,3,tutor,"Hi, Tobias. Can you hear me?",00:00:01
+drbqmfq,4,student,Yeah.,00:00:03
+drbqmfq,5,tutor,Yes. Awesome. And how are you today?,00:00:04
+drbqmfq,6,student,Good.,00:00:07
+drbqmfq,7,tutor,"Good, good. And how's the week going for you, Tobias?",00:00:09
+drbqmfq,8,student,Good.,00:00:13
+drbqmfq,9,tutor,Very good. Right. So shall we get started with the lesson? [unclear],00:00:14
+drbqmfq,10,background,Shall we continue on lesson 6?,00:00:19
+drbqmfq,11,student,"Yeah, we're on comparing and ordering fractions.",00:00:26
+drbqmfq,12,tutor,"Yes. So this is going to be your lesson for today, comparing and ordering fractions. So I think we need to [unclear] from the Follow Me slide today. Okay? So I will walk you through this question here, Tobias, by using the steps. Okay?",00:00:30
+drbqmfq,13,student,"Okay, yeah.",00:00:52
+drbqmfq,14,tutor,"And if you have any doubts or if I'm moving too fast for you, you can let me know. All right?",00:00:54
+drbqmfq,15,student,Yeah.,00:01:00
+drbqmfq,16,tutor,"Okay, so we are going to order a set of fractions using the same method. So I have 3 fractions",00:01:01
+drbqmfq,17,background,"1/3, 4/15, and 2/5. So step A, I need to find the common denominator. So by looking at the denominators, Tobias, what do we notice? What do you notice? [unclear] The denominator is the bottom number.",00:01:10
+drbqmfq,18,tutor,Yes. So do you see anything interesting about these 3 denominators? Anything that you can relate them to each other?,00:01:33
+drbqmfq,19,student,15 and 5 are in the same times table.,00:01:47
+drbqmfq,20,tutor,"Alright, alright. And can you link 3 to 15 as well?",00:01:51
+drbqmfq,21,student,5 times 3 equals 15.,00:01:59
+drbqmfq,22,tutor,"There we go, Tobias. A great focus there. So we know that 15 is in the times tables of both 3 and 5, right? So we can say that 15 is a multiple of 3 and 5. So I'm going to write that here. Was that first step clear? [unclear]",00:02:02
+drbqmfq,23,student,15 is a multiple of 3 and 5.,00:02:29
+drbqmfq,24,tutor,Yeah. Is that clear to you?,00:02:36
+drbqmfq,25,student,Yeah.,00:02:39
+drbqmfq,26,tutor,"Yes, right, because we know 3 times 5 is 15 and 5 times 3 is 15. So 15 is a multiple of 3",00:02:40
+drbqmfq,27,tutor,"So next we're going to write the fractions so that they have the same denominator. Okay, so how can we write 1/3 as a fraction out of 15?",00:02:49
+drbqmfq,28,student,[unclear] 4/15. [unclear],00:03:07
+drbqmfq,29,tutor,Maybe 5/15?,00:03:15
+drbqmfq,30,background,Yeah.,00:03:19
+drbqmfq,31,tutor,"5/15, okay. And how did you know this, Tobias?",00:03:20
+drbqmfq,32,student,"Because 5 is on top and then 15 would be on the bottom because 5 is in the 15 times table, so the 5 would be on the top.",00:03:24
+drbqmfq,33,tutor,"Yeah, so because we need to make this into a common denominator of 15, so let me write that. I need to think about what I need to do to the 3 to get to the 15. So that means I need to multiply 3 times 5 to get to 15. So I need to do the same to the numerator as well. [unclear] Is that clear?",00:03:40
+drbqmfq,34,student,Yeah.,00:04:08
+drbqmfq,35,tutor,"Alright, so 3 times 5 is 15, and 1 times 5 is 5 left. Right, so I need to make 2/5 into 15 as well. So first let me write that out. So how many 5s make a 15, Tobias? [unclear] 3. And since I multiplied my denominator by 3, what do I need to do to my numerator?",00:04:10
+drbqmfq,36,student,The same as you did to the bottom.,00:04:52
+drbqmfq,37,tutor,"Yes, I need to multiply 2 times.",00:04:55
+drbqmfq,38,student,That would be 6.,00:05:00
+drbqmfq,39,tutor,"That would be 6. Right, so my new fraction is going to be— new fractions are going to be 5/15 and 6/15. So is that clear, Tobias?",00:05:02
+drbqmfq,40,student,Yeah.,00:05:16
+drbqmfq,41,tutor,"Okay, do you have any questions so far?",00:05:18
+drbqmfq,42,student,"Uh, no.",00:05:21
+drbqmfq,43,background,[unclear],00:05:22
+drbqmfq,44,tutor,"Yeah, right. So now we can order the fractions from small smallest to largest. So why did we do this? Why did we change these thirds and fifths to fifteenths? Was it necessary?",00:05:22
+drbqmfq,45,student,"[unclear] Not really, but it makes life easier.",00:05:35
+drbqmfq,46,tutor,Okay. So why do you think I did that?,00:05:47
+drbqmfq,47,student,"So, hmm, it should be easier.",00:05:53
+drbqmfq,48,tutor,Easier for what?,00:06:01
+drbqmfq,49,student,To order the fractions from smallest to largest.,00:06:04
+drbqmfq,50,tutor,"There we go, yes. So that it's really clear for us to order the set of fractions because these fractions have different sized denominators, right? This one is cut into thirds. The middle fraction is cut into fifteenths. And this last fraction is cut into fifths. So it's difficult to, you know, order them correctly or accurately, right? So we needed to get all of the fractions into the same sized pieces.",00:06:09
+drbqmfq,51,student,[unclear] Does that make sense?,00:06:44
+drbqmfq,52,student,Yeah.,00:06:48
+drbqmfq,53,tutor,"Right. So now that we have our thirds in fifteenths and fifths in fifteenths as well, we can order from smallest to largest. So 1/3 is equal to 5/15. I'm just going to write it here. And 2/5 means [UNCLEAR]. Right. So which is the smallest out of them all, Tobias? [unclear]",00:06:50
+drbqmfq,54,student,One and three?,00:07:22
+drbqmfq,55,tutor,"Can you maybe point at the fraction? Okay, so you think 1/3 is the smallest, right?",00:07:27
+drbqmfq,56,student,Yeah.,00:07:46
+drbqmfq,57,tutor,Can you tell me why?,00:07:47
+drbqmfq,58,student,Because 1 and 3 are the smallest numbers out of all of the fractions.,00:07:49
+drbqmfq,59,tutor,"All right, but Can you determine the sizes of the fraction based on their number, the digits?",00:08:01
+drbqmfq,60,student,No.,00:08:11
+drbqmfq,61,tutor,"In some cases you can when your numerators are the same and in specific situations like that. But here we have different sized denominators, right?",00:08:14
+drbqmfq,62,student,Yeah. [unclear],00:08:28
+drbqmfq,63,tutor,"So for example, if you are thinking of pizzas, for the first fraction, your pizza is cut into thirds, into 3 parts. [unclear] Right? And for 4/15, the same pizza is cut into 15 parts. And for your last fraction, your pizza is cut into 5, into fifths. So are the sizes the same? Tobias?",00:08:30
+drbqmfq,64,student,No.,00:08:59
+drbqmfq,65,tutor,"Each slice, the portion size could be— is different, right?",00:08:59
+drbqmfq,66,student,Yeah.,00:09:06
+drbqmfq,67,tutor,"Because it's been cut up into different sized pieces. So that's why we converted them all into fifteens. Did you remember? Do you remember? [unclear] Do you remember Part B, what we did here?",00:09:07
+drbqmfq,68,student,"Part B, write the same [UNCLEAR]. [Speaker:Tutor] Yeah, what we did was we wrote the fractions so that they have the same denominator, just like the middle one. Does that make sense, Tobias?",00:09:27
+drbqmfq,69,student,Yeah.,00:09:53
+drbqmfq,70,tutor,Okay. So now we know one-third is equal to what? [unclear] One-third is equal to...,00:09:55
+drbqmfq,71,student,[unclear] [Speaker:Tutor]...is equal to 5/15. And what is 2/5 equal to? [Speaker:Tobias] 2/5 is equal to 6/15.,00:10:16
+drbqmfq,72,tutor,"6/15. So out of these fractions, Tobias, which is the smallest? 4/15, 5/15, or 6/15?",00:10:24
+drbqmfq,73,student,5/15.,00:10:35
+drbqmfq,74,tutor,Is it this one?,00:10:38
+drbqmfq,75,student,"Uh, yeah.",00:10:40
+drbqmfq,76,tutor,Can you tell me why?,00:10:42
+drbqmfq,77,student,"Because it looks big, but it's like actually the smallest because it was like [unclear] from like one of the smallest numbers.",00:10:44
+drbqmfq,78,tutor,"Okay, so what are we comparing this 5/15 with?",00:11:03
+drbqmfq,79,student,"Oh, you are comparing it with—",00:11:09
+drbqmfq,80,tutor,Can you take out your pointer and show me the other fractions that we are comparing it with?,00:11:13
+drbqmfq,81,student,Okay. [unclear],00:11:18
+drbqmfq,82,tutor,"Yeah, you can click on your pointer tool and bring it across. [unclear]",00:11:31
+drbqmfq,83,student,Mm-hmm.,00:11:36
+drbqmfq,84,tutor,Mm-hmm.,00:11:40
+drbqmfq,85,background,[unclear],00:11:44
+drbqmfq,86,student,"So, um, actually— [unclear]",00:12:09
+drbqmfq,87,tutor,"Yeah, what are we comparing it with, Tobias?",00:12:14
+drbqmfq,88,student,One-third.,00:12:17
+drbqmfq,89,tutor,"All right, so one-third means the same as 5/15.",00:12:20
+drbqmfq,90,student,"So the smallest one is 4/15. 4/15, right?",00:12:26
+drbqmfq,91,student,[unclear],00:12:31
+drbqmfq,92,tutor,"Yes, why? Can you tell me why? That's right.",00:12:31
+drbqmfq,93,student,"Because 5/15 and 1/3 both are the same. 6/15 and 2/5 are both the same. But 4/15 does not have a same, and it's smaller than 5/15 and 6/15.",00:12:34
+drbqmfq,94,tutor,"Very nice, great observation there. So what would be the second fraction then? Tobias.",00:12:52
+drbqmfq,95,student,The second fraction would be 5/15.,00:12:57
+drbqmfq,96,tutor,"5/15, right? So which is the same as 1/3. So we can write 1/3 as the second one because it's the second largest. Then what should come in as the largest of all?",00:13:02
+drbqmfq,97,background,[unclear],00:13:16
+drbqmfq,98,tutor,6/15. So what is an equivalent to 6/15?,00:13:16
+drbqmfq,99,student,Two-fifths.,00:13:23
+drbqmfq,100,tutor,"Two-fifths, right. So let me write that. So I have one-third and— sorry, this should be 4/15, and then comes one-third And then I have 2/5, right? So I have 4/15, 1/3, and 2/5. So was that clear, Tobias?",00:13:26
+drbqmfq,101,student,Yeah.,00:14:10
+drbqmfq,102,tutor,Mm-hmm. So I think you might have a few questions. I think you can shoot them now.,00:14:11
+drbqmfq,103,student,"I don't really have any questions, to be honest.",00:14:18
+drbqmfq,104,tutor,"Alright, no worries. So that's great. Can you walk me through very briefly on how we did this question, Tobias?",00:14:23
+drbqmfq,105,student,"So we looked at 1/3, 4/2, 2/2, and 2/5, and then let's find the common multiple in 3 and 5. [unclear] Then we had to work out what was 1/3 equivalent to and 2/5 equivalent to. And then we had to order the fractions we have found, smallest to largest.",00:14:32
+drbqmfq,106,tutor,"Nice, that was well explained there, Tobias. So I think you can try your turn now.",00:15:02
+drbqmfq,107,student,Order the fractions below from smallest to largest. Write a comment [unclear] 3 and 4. So that would be 12 because 12 is in both the times tables.,00:15:08
+drbqmfq,108,tutor,Mm-hmm.,00:15:23
+drbqmfq,109,student,"And then write the fractions so they have the same denominator. So 2/3. So if 2/3, so 3, 6, 9, 12. So that would be 4.",00:15:26
+drbqmfq,110,student,"So we have to do 4 times 3, so that's 12. And then we have to do 4 times 2, so that would be 3, 4, 6, 8, so that would be 8. Then we have to do 4 times 4, and that's 4 times 4, so 4, 8, so 4 times 3. [unclear] 12. And then 3 times 3 will be 9.",00:15:41
+drbqmfq,111,tutor,Nice.,00:16:13
+drbqmfq,112,student,"And we'll go to the top, so 8, 8, 8, 12 is that one. And then 3, 4 is [UNCLEAR].",00:16:15
+drbqmfq,113,student,"9, 12. So this one is smallest, this one is middle, and this one is highest. So it would go [unclear] 12. 8, 12, and 9. [unclear]",00:16:34
+drbqmfq,114,tutor,"Very nice, Tobias. Yes. So rather than writing 8, 12, what can you write instead?",00:17:13
+drbqmfq,115,student,"Oh, um, instead of 8, 12, it would be",00:17:20
+drbqmfq,116,tutor,"2/5. [unclear] 2/5. This one is 7/12. Oh, no, no, it's not 7/12 actually. It would be 3/4.",00:17:30
+drbqmfq,117,tutor,"Nice, Tobias. So that was a brilliant job doing all of those steps very, very clearly and quite independently. Nicely done. Okay, so I believe you can try some practice questions now.",00:17:53
+drbqmfq,118,student,Fill in the missing symbol. Write each [UNCLEAR]. [unclear],00:18:12
+drbqmfq,119,tutor,"So 6 tenths is bigger because they're in the same times table, and in the times table 5 and 10, 10 is bigger. And then I'm stable since it's— so because 5 is just 5 times 1, but it's 5 times 2 for the 10. And then 6 and 3, for the 3 it would be 3 times 1, and then it would be 3 times 2 for this. So these, these are bigger. [unclear]",00:18:21
+drbqmfq,120,tutor,OK. [unclear],00:19:05
+drbqmfq,121,tutor,"Okay. So can you tell me one reason why this is bigger, Tobias? Why 6 tens is larger?",00:19:09
+drbqmfq,122,student,"Because in 5 times table, 10 is bigger than the 5. 5 is 5 times 1 and 10 is 10 times 2. 5 times 2, and then same up here, 3 times 1 is 3, and 3 times 2 is 6.",00:19:20
+drbqmfq,123,tutor,"Hmm, okay, okay. So I like how you think, how you thought that, Tobias. But we actually cannot look at the sizes of the numbers and decide which one is bigger. Right? Because the denominators are different here. Yeah? So if you have different denominators, Tobias, and if you have different numerators as well, what can you do to compare fractions?",00:19:43
+drbqmfq,124,student,[unclear],00:20:17
+drbqmfq,125,tutor,"Like, for example, in the previous question, how did you know that 7/12 is greater than 3/4? Is smaller than 2/3?",00:20:20
+drbqmfq,126,student,"Because 8— we've worked out one of— one what's equal to 2/3, and 8/12 is bigger than 7/2. [unclear]",00:20:31
+drbqmfq,127,tutor,So what was the method you used to compare them?,00:20:45
+drbqmfq,128,background,Found the common denominator.,00:20:50
+drbqmfq,129,tutor,You found the common denominator. That's right. So could you have compared just by looking at the 2/3 and the 7/12?,00:20:53
+drbqmfq,130,student,"No, I need to get the 5 and for the common denominator. The 5 would be the common denominator. And so— [unclear]",00:21:01
+drbqmfq,131,tutor,OK.,00:21:14
+drbqmfq,132,student,"So, you'd be— you'd do 5— so 2 times 10 you would do. So it would be— [unclear] It would be 5 on the bottom. And then it would be— so you do have to do 2 times 6. So it will be 12 here. So 6 tenths is 12 fifths equivalent. And then— [unclear]",00:21:21
+drbqmfq,133,tutor,"So can you tell me what you're doing here, Tobias?",00:22:03
+drbqmfq,134,student,So I'm doing— I did what we did on the last page where—,00:22:07
+drbqmfq,135,tutor,OK.,00:22:12
+drbqmfq,136,student,"We did the common denominator, which is 5. And then what 5 would be to get 10 in the 5 times tables? Would be 2. So the bottom—",00:22:13
+drbqmfq,137,tutor,"So then which fraction should you be changing? Should you change the 6/10 or should you change the 3/5? [unclear] 3/5, right? Because you are going to change this into tenths.",00:22:28
+drbqmfq,138,student,"Oh, so you would do 3/5 times by 2. So it would be 10/6.",00:22:45
+drbqmfq,139,tutor,Very nice.,00:23:05
+drbqmfq,140,student,So they are equal?,00:23:06
+drbqmfq,141,tutor,"They are equal, yes, Tobias. So that was wonderfully worked out. So what will you write in the middle there? Equal sign. [unclear] So then let's look at [unclear]",00:23:13
+drbqmfq,142,tutor,"Yeah, you can write it there.",00:23:33
+drbqmfq,143,student,25.,00:23:38
+drbqmfq,144,tutor,You can write the numbers.,00:23:40
+drbqmfq,145,background,"Write the set, write each set of the fractions with a common denominator and put them in order from smallest to largest.",00:23:45
+drbqmfq,146,tutor,So the common [unclear],00:23:56
+drbqmfq,147,tutor,You try that out. Shall we also complete this one here? [unclear],00:23:58
+drbqmfq,148,student,"Okay, so the common multiple is 3. So we need to try work out this. Because the common multiple is this. So you would have to do... [Speaker:Tobias]...2 times 3, so it would be 3 times 3 would be 9. And then 3 times 2 is 2, 4, 6, 8, 10. [Speaker:Tobias]...is bigger than [UNCLEAR]. [Speaker:Tutor] Awesome, an independent job. A well done independent job once again. Right. So now we can try Question Set 2.",00:24:02
+drbqmfq,149,student,"So we write each set of fractions with a common denominator, then put them in order from smallest to largest. And so 4/20, 4/20, 2/5, 3/10, and 1/4. So the common one here",00:25:20
+drbqmfq,150,student,"Hmm, I'm going to say 20. Is 20 the [unclear] one? Because there's 20 in the 4 times table, there's 20 in the 10 times table, there's 20 in the 5 times table, And there's 20 in the 20 times table.",00:25:54
+drbqmfq,151,tutor,"Very nice. Yes, Tobias. So what are the fractions we need to change and what fractions can you keep the same?",00:26:14
+drbqmfq,152,student,We can keep 4/20 the same.,00:26:22
+drbqmfq,153,tutor,Mm-hmm. That's right. So you can go ahead. Yeah. I'll just write the lines here and you can write the new fractions just right next to each other.,00:26:25
+drbqmfq,154,student,"Okay, so 2/5. So 2/5 and that would be 4. So 4 times 5.",00:26:35
+drbqmfq,155,student,"So 4 times 5 would be 20. So 20 at the bottom. So that would be— so 4 times 2 now. So 2, 4, 6, 8. So 8 on top. So 8 is the new one for this. And then, so 10 times table, so 2 times 10 would be 20. So it'd be 2 times that, so 2 times 20. Then 2 times 3. So 2 times 3 is 6. So 6 on top. And then 4 times that, so 4 times the 20 would be 5, so 5. And then 1 times 5 is 5, or 5. So the smallest one is 5, 5.",00:26:40
+drbqmfq,156,student,[unclear],00:27:31
+drbqmfq,157,tutor,So how did you get 5/5?,00:27:33
+drbqmfq,158,student,"So 5/5 would be since 4 times 5 is 20, because it would be 4, 8, 12, and then it would be 16. Actually, no, it's 6, maybe. Actually— [unclear] 6.",00:27:36
+drbqmfq,159,tutor,"Okay. So are you writing the product or are you writing the number there, Tobias?",00:28:04
+drbqmfq,160,student,The number.,00:28:11
+drbqmfq,161,tutor,Okay. So what should be the common denominator for all of these fractions?,00:28:15
+drbqmfq,162,background,20.,00:28:21
+drbqmfq,163,tutor,20. So How many 4s make 20?,00:28:22
+drbqmfq,164,student,5.,00:28:27
+drbqmfq,165,tutor,5. So 4 times 5 gives you what?,00:28:28
+drbqmfq,166,student,20.,00:28:33
+drbqmfq,167,tutor,20. So your denominator is going to be 20.,00:28:35
+drbqmfq,168,student,[unclear] will be 5/20 would be—,00:28:39
+drbqmfq,169,tutor,"You can write the original fraction, Tobias.",00:28:46
+drbqmfq,170,student,Okay.,00:28:49
+drbqmfq,171,tutor,Yeah. So why do you think this last fraction is the smallest?,00:28:51
+drbqmfq,172,student,"Because it's 4/20, and out of all of 6/20, 8/20— [unclear] 4/20 is actually the lowest.",00:28:56
+drbqmfq,173,student,"So 420. Then here, here, 520. So yeah, it would be 520, so 1/4. And it would be [unclear]",00:29:16
+drbqmfq,174,student,"Next it would be 310. [unclear] Then after that it would be 25. And then there we go, there's our answer.",00:29:42
+drbqmfq,175,tutor,"Nice. All right, nice little start again, Tobias. So we have one more set to go.",00:30:01
+drbqmfq,176,student,"Okay, so 18 is the common multiple. [unclear] So it would be— so we keep 5/18 the same. So, and then 2/9, so that would be— so 18, and then we do 2 times 2, so that would be 4. [unclear]",00:30:10
+drbqmfq,177,tutor,"Then, so 3 to get to 18, you would need to do 6. So 18, and now do 1 times 6. So 6 is here. There's 6 to get to 18. 6, 12, 18. So 18, 3. So [unclear] is here. And then this one's the same. So 3, 18, 6, 18, 3, 24, 18. So would be the smallest one would be 1, 6. And then the second smallest [unclear] [Speaker:Tobias]...2, 9, and then there would be 5, 18. And then last but not least, it would be 1, 3. [Speaker:Tutor] Nice, Tobias. So you have proved yourself in a really good way that you can do fractions when you have unlike fractions with different denominators and changing them into common denominators like this. Well worked out. Right, so here we move on to the final question. [unclear] [unclear] [Speaker:Tutor]...has a jug containing 7/10 litres of water. [UNCLEAR]...has a jug containing 3/5 of litres of water. Whose jug needs the most? So first of all, the common denominator is going to be 5 here, so we can get, uh, so we can get 3 5s, I don't know, 7? No. 3? No. 3 4s? Yes. So we get 3 5ths out here. [unclear]",00:30:46
+drbqmfq,178,student,"So we would have to do, keep the 5s,",00:33:10
+drbqmfq,179,tutor,"So, turn the 5 into 10. Then we would have to do— this would be 2, so we have to do 2 times 3, so that would be 6. So, 7... [unclear] [unclear]",00:33:18
+drbqmfq,180,tutor,"And if you were to relate to the question, because they asked whose jug contains the most water, how can we answer? [Speaker:Tobias]... [UNCLEAR]",00:33:47
+drbqmfq,181,tutor,"Nice. Yes, Tobias. And if they asked you How much more does Hoki have? Then how will you answer?",00:34:04
+drbqmfq,182,student,"Uh, one, one [unclear] more.",00:34:15
+drbqmfq,183,tutor,"Mm-hmm. You're very close to the answer. So Hoki has 7/10, right? And Seda has 6/10, am I right?",00:34:19
+drbqmfq,184,student,Yeah.,00:34:29
+drbqmfq,185,tutor,"So what is the difference between 7/10 Sorry, what's the difference between 7/10 and 6/10? [unclear]",00:34:31
+drbqmfq,186,tutor,Would that be just 1?,00:34:53
+drbqmfq,187,student,1/10.,00:34:57
+drbqmfq,188,tutor,"1/10, that's right, because Uh, this— these are the denominators, so your, your answer is going to be in tenths as well. So if they asked you how much more does Hokey have than [UNCLEAR], you can say one-tenth of a liter more. Is that clear as well? [Speaker:Tobias] Yeah.",00:34:59
+drbqmfq,189,tutor,"Right, so this was very well worked out, Tobias, by looking at the keywords here, and you were able to find out that [unclear] had no water, not water. Right, so we have completed Lesson 1. So can you tell me a few key things that you'll remember from this lesson, Tobias?",00:35:29
+drbqmfq,190,student,"So, I figured out how to compare all the fractions and how to find a common denominator and turn like one into like a fraction into an equivalent of the same fraction.",00:35:51
+drbqmfq,191,tutor,"So why do we do this, Tobias? Why do we change them into [UNCLEAR]?",00:36:16
+drbqmfq,192,student,"The same [unclear] see what is bigger because of one-third or two-fifths, we won't be able to tell. So we could turn it into something where we could tell what it is.",00:36:20
+drbqmfq,193,tutor,"Very nice, that was excellently phrased. Yes, so this would give us a very clear idea on which is the smallest and what is coming in next. And what should we watch out for when we are comparing fractions?",00:36:40
+drbqmfq,194,student,"Not always to have the denominator the same. Instead of like having like 4, if it's like all of the others are 20 at the denominator and then it would be like 5 [unclear] [unclear] Like it's wrong and the 6 needs to be a 20.",00:36:57
+drbqmfq,195,tutor,"Okay. And when you're writing your answers out, what should you remember as well?",00:37:26
+drbqmfq,196,student,"Oh, to write, not write. [Speaker:Tobias]...the one we came up with, so like the [UNCLEAR] one.",00:37:39
+drbqmfq,197,tutor,"Definitely. So I think you did a great summary on this lesson, Tobias. So I think we can just have a discussion on the next lesson. Okay, so Your next lesson is going to be on adding and subtracting fractions with different denominators. [unclear]",00:37:48
+drbqmfq,198,student,"So 2/4 add 3/10, so that would be 5/15.",00:38:17
+drbqmfq,199,tutor,"And how is this, Tobias?",00:38:30
+drbqmfq,200,student,"So that would be because 2 3 is 5 and 5 10 is 15. Prior learning [unclear] is 9, 12. Okay. Because",00:38:35
+drbqmfq,201,tutor,it's,00:38:52
+drbqmfq,202,student,"4 and 12, so if you just do 4, 8, 12, that would be 3, so",00:38:53
+drbqmfq,203,student,"So I just did 3 times 3, so that's 9.",00:38:59
+drbqmfq,204,tutor,"Alright, so that's nicely worked out there, Tobias. So here you cannot just add denominators.",00:39:03
+drbqmfq,205,student,"Oh yeah, you can't add because the denominators aren't the same. So you need to get the same denominator.",00:39:11
+drbqmfq,206,tutor,That's right. So what can you do instead?,00:39:20
+drbqmfq,207,student,You need to find the same denominator. So [unclear],00:39:24
+drbqmfq,208,student,"You could do 2 times 10, or 2 times 5, so that gets 20, not 2010. And, yeah, I think I need to go.",00:39:27
+drbqmfq,209,tutor,"Alright, Tobias, so that's a really good job there on trying this out, and I really appreciate all the hard work you put in today as well. All right, so we'll work on this lesson the next time.",00:39:44
+drbqmfq,210,student,[unclear],00:39:57
+drbqmfq,211,tutor,"Okay, so I do hope you will fill in the feedback form and answer the questions there.",00:39:59
+drbqmfq,212,background,Yes.,00:40:06
+drbqmfq,213,tutor,"All right, have a great week then. Bye, take care.",00:40:06
+drbqmfq,214,background,Bye.,00:40:09

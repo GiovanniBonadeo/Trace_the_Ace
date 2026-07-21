@@ -1,0 +1,520 @@
+session_id,utterance_id,role,content,timestamp
+jfdudql,0,tutor,Hello?,00:00:00
+jfdudql,1,background,[unclear],00:00:00
+jfdudql,2,student,Hello? Kieran?,00:00:02
+jfdudql,3,tutor,Yeah.,00:00:04
+jfdudql,4,student,"Hi, how are you?",00:00:05
+jfdudql,5,tutor,I'm good.,00:00:07
+jfdudql,6,tutor,You're okay?,00:00:09
+jfdudql,7,student,Yeah.,00:00:10
+jfdudql,8,tutor,All right. So do you remember where we stopped?,00:00:11
+jfdudql,9,student,"Yeah, with y mx c. Yes. Here,",00:00:16
+jfdudql,10,tutor,right? Yeah. Okay.,00:00:21
+jfdudql,11,student,So,00:00:24
+jfdudql,12,tutor,can you give this a try for me? Okay. [unclear],00:00:24
+jfdudql,13,student,Do you remember how we— first found points.,00:00:57
+jfdudql,14,student,Yeah.,00:01:02
+jfdudql,15,tutor,"You have to find points first, right? Or else you really can't find the point of intersection, right?",00:01:03
+jfdudql,16,student,Yeah.,00:01:09
+jfdudql,17,tutor,So you have to first find points for this graph and this graph and then plot it and find where it intersects.,00:01:10
+jfdudql,18,student,[unclear],00:01:20
+jfdudql,19,tutor,You can— Do you have paper with you?,00:01:24
+jfdudql,20,student,Yeah.,00:01:28
+jfdudql,21,tutor,"Yeah? Okay, then you can find the points there and plot it here.",00:01:29
+jfdudql,22,student,Okay.,00:01:34
+jfdudql,23,tutor,"Before that, can you tell me how we find the points? Let's say for y 2x 1. How do we plot the graph? Yeah? How do",00:01:38
+jfdudql,24,student,"you do the points? First you do -3 and then you put that in, so that would be -4.",00:01:47
+jfdudql,25,student,"And then you do minus 2, minus 1, 0, 1, 2, 3.",00:01:52
+jfdudql,26,tutor,"Sorry, I don't get it.",00:01:57
+jfdudql,27,student,So first you'll do 2x minus 1 and you'll replace x with minus 3.,00:02:00
+jfdudql,28,tutor,Okay.,00:02:04
+jfdudql,29,student,"And then you'll replace x with minus 2, then you'll replace x with minus 1.",00:02:05
+jfdudql,30,tutor,All right. So that's where this becomes important. This one right here. Wait. This.,00:02:08
+jfdudql,31,tutor,This says— this gives us the range for x. Okay? So x lies in between 0 and 5. Okay? It's not equal to 0.,00:02:18
+jfdudql,32,student,[unclear],00:02:28
+jfdudql,33,tutor,"But it's less than or equal— it's not equal to 0, but it's greater than 0 and less than or equal to 5, which means it's until this part.",00:02:29
+jfdudql,34,student,"Yeah. Yeah? So when you're substituting values for x, start from 1 and until which number?",00:02:42
+jfdudql,35,student,3.,00:02:51
+jfdudql,36,tutor,Is it 3?,00:02:53
+jfdudql,37,student,[unclear] 5.,00:02:54
+jfdudql,38,tutor,"5, right? So you can substitute from 1, the values from 1 to 5 for x.",00:02:57
+jfdudql,39,student,Yeah.,00:03:06
+jfdudql,40,tutor,OK?,00:03:07
+jfdudql,41,tutor,Okay.,00:03:08
+jfdudql,42,student,All right. Now I think you can do it.,00:03:09
+jfdudql,43,tutor,Okay. So I start—,00:03:11
+jfdudql,44,student,Plot the graph in two different colors so that it's easier for us.,00:03:13
+jfdudql,45,tutor,"Oh, okay. [unclear]",00:03:19
+jfdudql,46,student,"First find the points. Okay? Tell me— okay, when x is equal to 1, can you tell me the value of this graph here, the y value?",00:03:21
+jfdudql,47,tutor,That'll also be 1.,00:03:32
+jfdudql,48,student,"It's also 1. Okay, good.",00:03:35
+jfdudql,49,tutor,Yeah. [unclear],00:03:36
+jfdudql,50,student,"It's like— okay, did you plot the points though?",00:03:42
+jfdudql,51,background,"Yes, we got the first ones over here.",00:03:56
+jfdudql,52,student,Okay.,00:03:58
+jfdudql,53,background,The next one will be 3.,00:03:59
+jfdudql,54,tutor,Okay.,00:04:04
+jfdudql,55,student,And then the next one will be 5.,00:04:06
+jfdudql,56,tutor,All right.,00:04:11
+jfdudql,57,student,And then 7.,00:04:12
+jfdudql,58,tutor,"And 7. Okay, good. Okay, so we're done with one graph. Let's go with the other.",00:04:16
+jfdudql,59,student,"[unclear] The other one, other one. So—",00:04:20
+jfdudql,60,tutor,This one?,00:04:27
+jfdudql,61,student,Yeah. [unclear],00:04:33
+jfdudql,62,tutor,Did you try this at home?,00:04:40
+jfdudql,63,student,I did this part.,00:04:43
+jfdudql,64,tutor,Really?,00:04:46
+jfdudql,65,student,I did this part at home.,00:04:47
+jfdudql,66,tutor,"Okay, good. That's good. Okay, so let's draw this graph as well.",00:04:49
+jfdudql,67,tutor,This one?,00:04:55
+jfdudql,68,student,"This one. y -3x 9. Okay, here.",00:04:57
+jfdudql,69,tutor,So we'll [unclear] start with 6. [unclear],00:05:14
+jfdudql,70,tutor,This will be like this.,00:05:25
+jfdudql,71,student,Okay.,00:05:32
+jfdudql,72,tutor,A bit of this.,00:05:35
+jfdudql,73,student,"Okay, so the first point is?",00:05:38
+jfdudql,74,tutor,6.,00:05:40
+jfdudql,75,student,6?,00:05:42
+jfdudql,76,tutor,Yeah.,00:05:43
+jfdudql,77,student,The second one?,00:05:43
+jfdudql,78,tutor,"Over here, it's going to be 5.",00:05:45
+jfdudql,79,student,"1, 2. Is it 5?",00:05:50
+jfdudql,80,tutor,"No, it's 3. 3.",00:05:54
+jfdudql,81,student,"So you're going to have to put 2 instead of x here, right?",00:05:58
+jfdudql,82,tutor,Yeah.,00:06:02
+jfdudql,83,student,"So it's 3, right?",00:06:03
+jfdudql,84,tutor,Yeah.,00:06:06
+jfdudql,85,student,So 6. [unclear],00:06:11
+jfdudql,86,tutor,And 3.,00:06:15
+jfdudql,87,student,"Yes, we'll go like this.",00:06:17
+jfdudql,88,tutor,"Yes, right? Okay. Now do you see where the graphs intersect?",00:06:23
+jfdudql,89,student,"Yes, over here.",00:06:27
+jfdudql,90,tutor,Yeah?,00:06:28
+jfdudql,91,student,"Yeah, over here.",00:06:30
+jfdudql,92,tutor,Yes. So what's the coordinates of that point?,00:06:31
+jfdudql,93,student,"2, 3.",00:06:37
+jfdudql,94,tutor,"2, 3. Okay, there you go.",00:06:39
+jfdudql,95,student,So is that the answer?,00:06:43
+jfdudql,96,tutor,That's the answer.,00:06:45
+jfdudql,97,student,Okay.,00:06:46
+jfdudql,98,tutor,Write your answer here.,00:06:47
+jfdudql,99,student,[unclear],00:06:48
+jfdudql,100,tutor,"Yes. Okay, awesome. Now, wait, give me a second. So there's this other way you can find the point of intersection, all right? And before that, can you tell me Why this graph went like this, and why did this graph go up? Why one graph down and one up?",00:06:54
+jfdudql,101,student,"Because for the -3, that's minus, and then for the 2, that's positive.",00:07:16
+jfdudql,102,tutor,"Yeah. So what happens is, this, the gradient would determine the slope, right?",00:07:21
+jfdudql,103,student,Yeah.,00:07:34
+jfdudql,104,tutor,"Yes. So a negative gradient— do you know about angles, Kieran? Like acute angles and obtuse angles?",00:07:35
+jfdudql,105,student,Yeah.,00:07:43
+jfdudql,106,tutor,"Yeah? So a negative gradient would make an obtuse angle with the x-axis. This is extra knowledge, okay? So do you see this graph, the green one?",00:07:44
+jfdudql,107,student,Yes.,00:07:53
+jfdudql,108,tutor,"It has a negative gradient, right?",00:07:55
+jfdudql,109,student,Yeah.,00:07:57
+jfdudql,110,tutor,So do you see the angle it makes with the x-axis is obtuse?,00:07:58
+jfdudql,111,student,Yeah.,00:08:03
+jfdudql,112,tutor,"Yeah, an obtuse angle would be something like this, right?",00:08:04
+jfdudql,113,student,Yeah.,00:08:06
+jfdudql,114,tutor,And an acute angle would be something like this.,00:08:07
+jfdudql,115,student,Yeah.,00:08:09
+jfdudql,116,tutor,"Less than 90. So do you see that for the positive gradient— here the gradient is 2, right? So it's positive. So do you see that the black graph here, it makes an acute angle?",00:08:10
+jfdudql,117,student,[unclear],00:08:20
+jfdudql,118,tutor,Yeah? So that's one way to see if you've drawn your graphs right. And this is a—,00:08:22
+jfdudql,119,tutor,"OK, so this is a secret. Now, do you see that these two graphs— you have to write these graphs in this form, though, OK? In this format, y 2x 1. Like, you have to write the graphs in the y mx c format, OK? So these graphs are already written like that. So one way you can find the intersection point without finding— without drawing the graphs is you can equate these two.",00:08:30
+jfdudql,120,student,Yeah.,00:09:01
+jfdudql,121,tutor,This and this. Did you know that before?,00:09:02
+jfdudql,122,student,No.,00:09:05
+jfdudql,123,tutor,"So if you equal this, it's gonna be 2x 1 is equal to -3x 9, right? Yeah. Plus",00:09:07
+jfdudql,124,student,9.,00:09:19
+jfdudql,125,tutor,"Okay, and we're gonna solve this. When you solve this, let's take— you know how to solve equations, right?",00:09:19
+jfdudql,126,student,Yeah.,00:09:27
+jfdudql,127,tutor,So you take 3 to the other side.,00:09:28
+jfdudql,128,student,"Yes, and then that becomes 5.",00:09:30
+jfdudql,129,tutor,And what's it going to be? 5x.,00:09:33
+jfdudql,130,student,"That becomes 5x. Yeah, that becomes 5x.",00:09:34
+jfdudql,131,tutor,"Right? Yes, so 5x is equal to 10, right? So x is equal to what then?",00:09:36
+jfdudql,132,student,2.,00:09:43
+jfdudql,133,tutor,x is equal to 2. So we got our x-coordinate. Here. And how do we find the y-coordinate?,00:09:44
+jfdudql,134,student,You put the x into the equation.,00:09:53
+jfdudql,135,tutor,"Yes. Any one of these lines, if you put x— so if you put x here, it's going to be 3, right? 2 times 2 is 4 minus 1 is 3. Here also, if you put 2, it's going to be 3, right? Minus 3 into 2 is 6 plus 9 is 3.",00:09:55
+jfdudql,136,student,Yeah.,00:10:09
+jfdudql,137,tutor,"Yeah. So that's one way to do it without drawing the graphs. But because we have to plot the two graphs here, This is the way. But if you were to, you know, if you don't have time to plot the graph, or they don't ask you to plot the graph, you can use this method.",00:10:11
+jfdudql,138,student,OK. Yeah.,00:10:26
+jfdudql,139,tutor,OK?,00:10:27
+jfdudql,140,student,Yeah.,00:10:28
+jfdudql,141,tutor,All right. So we're done with that. Let's give this question a try.,00:10:28
+jfdudql,142,student,This one. [unclear] [unclear],00:10:38
+jfdudql,143,tutor,Sorry?,00:10:52
+jfdudql,144,student,How do I do this one?,00:10:52
+jfdudql,145,tutor,"Okay, so a line is drawn on the grid below.",00:10:55
+jfdudql,146,student,Yeah.,00:10:58
+jfdudql,147,tutor,"All right. So find an equation for the straight line in the form y mx c. So you have to find the equation of this line. Oh, okay.",00:10:58
+jfdudql,148,student,Yeah.,00:11:10
+jfdudql,149,tutor,"Okay, and you have to write it in this form.",00:11:11
+jfdudql,150,student,Yeah. So y equals— [unclear] [unclear],00:11:14
+jfdudql,151,tutor,"So to write the equation, you have to find m and c, right?",00:11:49
+jfdudql,152,student,Yeah.,00:11:52
+jfdudql,153,tutor,So let's see if you can do that.,00:11:54
+jfdudql,154,student,"Yeah, so it's going to be— It's going to be 28 minus 6. So y equals—",00:11:56
+jfdudql,155,tutor,How did you get that? 28 minus 6?,00:12:17
+jfdudql,156,student,"I did the 7 over here, [UNCLEAR]. And then I did the 3 over here.",00:12:22
+jfdudql,157,tutor,"Oh, you don't multiply, Kieran. You subtract. Do you know what gradient is? Like, it's— you know, the formula is m is equal to change in y over change in x.",00:12:29
+jfdudql,158,student,"Oh, yeah, yeah.",00:12:43
+jfdudql,159,tutor,OK? You don't multiply. I think that's where you went wrong.,00:12:44
+jfdudql,160,student,OK.,00:12:47
+jfdudql,161,tutor,So you'll do 7 take away 3.,00:12:55
+jfdudql,162,student,"7 take away 3, okay, yes.",00:12:59
+jfdudql,163,tutor,Yeah. So that'll give you 4.,00:13:01
+jfdudql,164,student,"So you have to choose points where it cuts off exactly, you know, at a certain point in the grid, right? So 7 is right. And 3 is on the right, yes.",00:13:07
+jfdudql,165,student,So y 4x. Is,00:13:19
+jfdudql,166,tutor,"it 4? Yeah,",00:13:22
+jfdudql,167,student,"because you do 7 minus the 3. Yes,",00:13:25
+jfdudql,168,tutor,"and that's the change in y. You also have to find the change in x and then divide it. So m— if you have, you know, paper with you, write these so that you can, you know, refer it again if you forget. So m is equal to —equals—",00:13:28
+jfdudql,169,student,"Wait, let me write it. M is equal to change in y over change in x.",00:13:45
+jfdudql,170,tutor,"Here. [unclear] So for the change in x, would you do 4 take away 2?",00:13:58
+jfdudql,171,tutor,"Yes. The same points you consider. Okay? So if you consider this point, the coordinates are going to be 7 and 4. Here it's going to be 2 and 3, right?",00:14:12
+jfdudql,172,student,"Oh, okay. So it's going to be y 2x 1. Yes. And",00:14:21
+jfdudql,173,tutor,"how did you find -1? Oh, because",00:14:30
+jfdudql,174,student,that's where the— it hits the y-axis.,00:14:33
+jfdudql,175,tutor,Yes. Can you write your answer?,00:14:36
+jfdudql,176,student,"Oh. Yeah, y Yes. [UNCLEAR].",00:14:40
+jfdudql,177,tutor,"Okay. Very well done. Let's— I think we have one more to go. Okay, no. Okay.",00:14:49
+jfdudql,178,student,"Wait, so is this the question?",00:15:07
+jfdudql,179,tutor,"Yeah, I think so.",00:15:11
+jfdudql,180,student,"[unclear] plot the coordinates 5, 2— okay, yeah. Give this a try.",00:15:11
+jfdudql,181,tutor,"Okay. [unclear] So you can read what it says here, Kieran.",00:15:20
+jfdudql,182,student,Yeah.,00:16:10
+jfdudql,183,tutor,Okay.,00:16:10
+jfdudql,184,student,"Oh, yes.",00:16:11
+jfdudql,185,tutor,"It's not the answer to this, okay, but it gives you an idea on how to do this.",00:16:11
+jfdudql,186,student,"Okay, yes. [unclear]",00:16:16
+jfdudql,187,student,"Oh, okay, so—",00:16:23
+jfdudql,188,tutor,Can you hear the firecrackers outside?,00:16:42
+jfdudql,189,tutor,No.,00:16:46
+jfdudql,190,student,"Okay, good. OK. Let's see. Yes, it's y x 7. OK. Can you tell me how you got your answer? So first",00:16:48
+jfdudql,191,student,I did— so I subtracted the— I subtracted this 12 and this 10.,00:17:54
+jfdudql,192,student,Okay.,00:18:03
+jfdudql,193,tutor,"So that's 2 over— and then I did 5 divided by 2, which is 2. And then that gives you 1. And then I substituted this, this, uh, coordinates in here. It'll be 12 equals 1 times 5 plus C.",00:18:04
+jfdudql,194,student,"Okay, so C is 7?",00:18:20
+jfdudql,195,tutor,"Yeah, and then I just put the formula back.",00:18:22
+jfdudql,196,student,"Yes. Splendid. And Kieran, something you have to remember is, let's say you had 12 here and let's say you had 15 here.",00:18:25
+jfdudql,197,student,Yeah.,00:18:37
+jfdudql,198,tutor,How do you subtract this? Is it— let's say you chose this coordinate.,00:18:39
+jfdudql,199,student,Yeah.,00:18:45
+jfdudql,200,tutor,"OK, no. Find the gradient of these two coordinates for me. Just the gradient.",00:18:45
+jfdudql,201,student,OK. [unclear] [Speaker:Tutor]...minus 3 divided by 2.,00:18:51
+jfdudql,202,student,"Yes, okay, okay. That's fine. What you have to do is if you choose this coordinate to be your first and this to be your second, it should be the same for both x and y, okay? You can't go like 5 minus 3 and then because 15 is greater than 12, 15 minus 12, okay? It should always be In that order, right? So 5 3 and 12 5. So 12 5 over 5 3. Right? That's what I wanted to see. So what have they done here though? Over here? Yeah. Do",00:19:03
+jfdudql,203,student,the same,00:19:39
+jfdudql,204,tutor,thing.,00:19:39
+jfdudql,205,student,[unclear] Mm-hmm. What do you,00:19:39
+jfdudql,206,tutor,mean?,00:19:44
+jfdudql,207,student,"Like, can you explain",00:19:45
+jfdudql,208,tutor,"what they've done here? Oh, so they did",00:19:46
+jfdudql,209,student,the same thing I did.,00:19:48
+jfdudql,210,student,"So they did 1 and 2, 5 and 8, and they [UNCLEAR]. So then their gradient was 3 when they substituted the 1 and 5 coordinates in. So that gave them the 2 as the y-intercept. So then they got y 3x 2. Yes. Okay.",00:19:49
+jfdudql,211,tutor,And let's see this. Can you give this a try?,00:20:11
+jfdudql,212,student,This one? Oh.,00:20:16
+jfdudql,213,tutor,Yeah. You have to correct the answers to the questions below.,00:20:18
+jfdudql,214,student,"Oh, OK. Yeah.",00:20:22
+jfdudql,215,tutor,"So according to the person that did this, they're saying that the gradient is 6 and the y-intercept is -15. So is that correct?",00:20:31
+jfdudql,216,student,"No, that's wrong. You have to divide by 3.",00:20:41
+jfdudql,217,tutor,That's wrong?,00:20:42
+jfdudql,218,student,Yes.,00:20:43
+jfdudql,219,tutor,"So the gradient, the actual gradient would be?",00:20:45
+jfdudql,220,student,2.,00:20:48
+jfdudql,221,tutor,Right.,00:20:49
+jfdudql,222,student,"And 5, minus 5.",00:20:50
+jfdudql,223,tutor,"5. Yes, minus 5. Okay. And then what about this? Find the equation of the line. Where have they gone wrong?",00:20:52
+jfdudql,224,background,[unclear],00:21:03
+jfdudql,225,student,"Oh, so you meant do change in y over change in x.",00:21:08
+jfdudql,226,tutor,Yeah.,00:21:13
+jfdudql,227,student,So over here there is 4 take away 2.,00:21:13
+jfdudql,228,tutor,Mm-hmm.,00:21:16
+jfdudql,229,student,"But it's, uh, I think it's 4, that's going to be [unclear] 2.",00:21:17
+jfdudql,230,student,Divided by— and then 2. So it's going to be minus—,00:21:33
+jfdudql,231,tutor,"Is it? So the change in x would be this, right?",00:21:41
+jfdudql,232,student,Yes.,00:21:46
+jfdudql,233,tutor,It would be this 2.,00:21:46
+jfdudql,234,student,Yeah.,00:21:48
+jfdudql,235,tutor,So is the change in x right?,00:21:48
+jfdudql,236,student,Yeah. Change in x is right.,00:21:51
+jfdudql,237,tutor,Yes. And the change in y is this?,00:21:52
+jfdudql,238,student,"Yes, that's going to be 4. Is it 4? [unclear]",00:21:55
+jfdudql,239,student,"No, it's a minus.",00:22:09
+jfdudql,240,tutor,Because let's say you start with this coordinate. This is the first coordinate and this is the second one. So what's the coordinate of this point?,00:22:13
+jfdudql,241,student,"Uh, the one—",00:22:22
+jfdudql,242,student,"Oh, that's, uh, that's x equals— that's 0 to—",00:22:26
+jfdudql,243,tutor,"No, the—",00:22:32
+jfdudql,244,student,To 0?,00:22:32
+jfdudql,245,tutor,To 0.,00:22:33
+jfdudql,246,student,"To 0, yes.",00:22:35
+jfdudql,247,tutor,Yes. And what about the other one?,00:22:36
+jfdudql,248,student,That is 0 minus 4.,00:22:39
+jfdudql,249,tutor,0 minus 4.,00:22:43
+jfdudql,250,student,Yeah.,00:22:44
+jfdudql,251,tutor,Now when you try calculating the gradient.,00:22:46
+jfdudql,252,student,The gradient. [unclear],00:22:49
+jfdudql,253,tutor,Yeah?,00:22:53
+jfdudql,254,student,Minus 4— it's minus 2.,00:22:56
+jfdudql,255,tutor,"It's minus 2, right?",00:23:00
+jfdudql,256,student,Minus 4 over 2. Yeah.,00:23:02
+jfdudql,257,tutor,And that's minus 2?,00:23:07
+jfdudql,258,student,Yeah. Plus minus 4 over 2.,00:23:09
+jfdudql,259,tutor,Yes?,00:23:12
+jfdudql,260,student,Yeah.,00:23:13
+jfdudql,261,tutor,Okay.,00:23:16
+jfdudql,262,student,"Wait, is it -2?",00:23:18
+jfdudql,263,tutor,Which one?,00:23:22
+jfdudql,264,student,"Well, is it -2 though?",00:23:22
+jfdudql,265,tutor,Huh?,00:23:26
+jfdudql,266,student,See if you calculated the gradient right.,00:23:28
+jfdudql,267,tutor,"Yeah, it's minus— yes, -2 because you do -4 divided by 2. No, it's just 2.",00:23:31
+jfdudql,268,student,"It's 2, right? So the gradient is right.",00:23:40
+jfdudql,269,student,Yeah.,00:23:43
+jfdudql,270,tutor,"See, -4 0 would be -4 over 0 2 is -2. So -4 over -2 would be 2, right? Yeah. So",00:23:44
+jfdudql,271,student,the,00:23:59
+jfdudql,272,tutor,"gradient calculation is correct, but what have they done wrong? In the",00:24:00
+jfdudql,273,student,"final answer, they put minus. Yeah.",00:24:05
+jfdudql,274,student,Yeah.,00:24:10
+jfdudql,275,tutor,And what have they actually done here? So what should be the actual intercept of this?,00:24:11
+jfdudql,276,student,It should be -4.,00:24:16
+jfdudql,277,tutor,"Okay, and the gradient?",00:24:18
+jfdudql,278,student,-2.,00:24:21
+jfdudql,279,tutor,"2? Okay, so what have they done here?",00:24:22
+jfdudql,280,student,They did the—,00:24:25
+jfdudql,281,tutor,What was the mistake?,00:24:26
+jfdudql,282,student,They did it where they hit the x-coordinate.,00:24:27
+jfdudql,283,tutor,"They've written it the wrong way around, right?",00:24:30
+jfdudql,284,student,"Yeah. So the gradient should come here, and the [unclear] should go here.",00:24:33
+jfdudql,285,student,Here.,00:24:39
+jfdudql,286,tutor,"Yes? Okay. So we're done with this lesson, Kieran. Is there anything, any part you didn't get?",00:24:39
+jfdudql,287,student,No.,00:24:46
+jfdudql,288,tutor,So everything you understood?,00:24:48
+jfdudql,289,student,Yeah.,00:24:51
+jfdudql,290,tutor,All right. Okay. And you did well. So let's move to this lesson.,00:24:52
+jfdudql,291,tutor,"Okay, what is this?",00:25:00
+jfdudql,292,student,This is Pythagoras' theorem.,00:25:02
+jfdudql,293,tutor,Yes. So let's try this question first.,00:25:04
+jfdudql,294,student,"Yes, so you do 8 squared, which is 64, and then you add it to 36, so that's 6 squared, and then you square root it. So then you get this.",00:25:07
+jfdudql,295,tutor,Right. And what's this side of the triangle called?,00:25:20
+jfdudql,296,student,The c squared.,00:25:25
+jfdudql,297,tutor,C.,00:25:27
+jfdudql,298,student,"Yeah? Uh, what do you call it, like?",00:25:27
+jfdudql,299,tutor,The hypotenuse.,00:25:31
+jfdudql,300,student,"Yes! Okay, so you have to see which of these, uh, like, which one of these is correct.",00:25:33
+jfdudql,301,tutor,"Because you do 64 36. So, this",00:25:40
+jfdudql,302,tutor,"Kieran, you have to see who's correct, right?",00:25:52
+jfdudql,303,student,Lee is right. [unclear],00:25:54
+jfdudql,304,tutor,Who's right?,00:25:58
+jfdudql,305,student,Lee.,00:25:59
+jfdudql,306,tutor,Lee? And why is he right?,00:26:00
+jfdudql,307,student,Because you have to square the sides and then square root it.,00:26:03
+jfdudql,308,tutor,So what's wrong with Joe's statement?,00:26:07
+jfdudql,309,student,Joe? He says you have to add them together and divide by 2.,00:26:10
+jfdudql,310,tutor,"That's wrong, right? Okay.",00:26:16
+jfdudql,311,tutor,Yeah.,00:26:17
+jfdudql,312,student,Good. Now let's try this.,00:26:18
+jfdudql,313,tutor,"This one. Okay. So, you'll do this [UNCLEAR]. You'll do this side. Add—",00:26:21
+jfdudql,314,background,"If you can work it out in this space, Kieran.",00:26:37
+jfdudql,315,tutor,"Oh, okay. Yeah.",00:26:40
+jfdudql,316,student,"So 64, add 9, add 9, and that equals 73. So that's C. Then you do the—",00:26:43
+jfdudql,317,tutor,"So what does the question say? Triangles ABC and BCD are right-angled. Find x, correct to one decimal place. You have a calculator with you, right?",00:27:08
+jfdudql,318,student,"Yeah, I just got it.",00:27:19
+jfdudql,319,tutor,Do you?,00:27:22
+jfdudql,320,student,"Yeah, it's just in my [UNCLEAR].",00:27:23
+jfdudql,321,tutor,Okay....program or calculator. So you're going to do the square root of [UNCLEAR].,00:27:24
+jfdudql,322,tutor,"Wait, Kieran. So what are you trying to do here?",00:27:55
+jfdudql,323,student,So...,00:27:59
+jfdudql,324,tutor,"With this, which side are you going to find?",00:28:00
+jfdudql,325,tutor,This one.,00:28:04
+jfdudql,326,student,"Okay, all right, all right, okay.",00:28:05
+jfdudql,327,tutor,Yeah.,00:28:07
+jfdudql,328,student,Go ahead.,00:28:07
+jfdudql,329,tutor,"So that is 8.6, or 8.54. That's 8.54. So then you do this. You do 10 squared, which is 100. [unclear]",00:28:08
+jfdudql,330,tutor,"Yeah, yeah, go ahead.",00:28:31
+jfdudql,331,student,Take away 73. Then that gives you 27. And then you do the square root of 27. So the answer is 5.1 or 5.2.,00:28:33
+jfdudql,332,tutor,Yes.,00:28:52
+jfdudql,333,tutor,"5.2. So, can you explain how you got your answer one more time?",00:28:55
+jfdudql,334,student,"So, first I did this squared, which is 64. Add 9, because that's 3 squared.",00:29:02
+jfdudql,335,tutor,Yes.,00:29:10
+jfdudql,336,student,That gave me 73.,00:29:11
+jfdudql,337,tutor,Right.,00:29:13
+jfdudql,338,student,"I square rooted that. That gave me 8.54. So now I have to do 10 squared, which is 100. Take away that.",00:29:14
+jfdudql,339,student,Yes.,00:29:22
+jfdudql,340,tutor,"That squared, which was 73.",00:29:23
+jfdudql,341,student,Yes.,00:29:26
+jfdudql,342,tutor,Then I do— and then I've got 5.2 squared. Then I got 27.,00:29:27
+jfdudql,343,student,Right.,00:29:33
+jfdudql,344,tutor,"Then I just did square root of 27, and then that gave me x.",00:29:33
+jfdudql,345,student,"So what's the actual answer you got? Like, is it 5.1-something?",00:29:38
+jfdudql,346,tutor,"Yeah, I got 5.19.",00:29:41
+jfdudql,347,student,"And you rounded it up, right?",00:29:43
+jfdudql,348,tutor,Yeah.,00:29:45
+jfdudql,349,student,"Because what they're asking is the answer correct to one decimal place, right? Correct?",00:29:46
+jfdudql,350,student,Yes.,00:29:50
+jfdudql,351,tutor,"Okay. And so you did this really well. The thing is sometimes you just square and add, right? You don't see which side is the hypotenuse, right? And that's going to mess you up, right? So you have to see whether you have to subtract or whether you have to add, right?",00:29:50
+jfdudql,352,student,Yes.,00:30:09
+jfdudql,353,tutor,"And you did that really well. Good job. Let's try this one now. Okay. [unclear] What do you mean by AB, BCC, A?",00:30:10
+jfdudql,354,tutor,"Okay, so what is an equilateral triangle?",00:30:28
+jfdudql,355,student,"Oh, yeah, yeah, I got it now.",00:30:32
+jfdudql,356,tutor,You get it? Okay.,00:30:34
+jfdudql,357,student,Yeah.,00:30:35
+jfdudql,358,tutor,What is an equilateral triangle?,00:30:36
+jfdudql,359,student,"Well, all sides are the same.",00:30:38
+jfdudql,360,tutor,"All sides are equal, yes.",00:30:40
+jfdudql,361,tutor,Yes.,00:30:42
+jfdudql,362,student,So what do you mean by this?,00:30:42
+jfdudql,363,tutor,So this is the—,00:30:44
+jfdudql,364,student,AB equals BC equals CA equals 6 centimeters.,00:30:45
+jfdudql,365,tutor,So this here is 6 centimeters.,00:30:49
+jfdudql,366,student,Okay.,00:30:52
+jfdudql,367,tutor,This here is [unclear] and this here is 6 centimeters.,00:30:52
+jfdudql,368,student,"Right. Okay. So that's what that means. So you have to find the area of the triangle. So how do you calculate the area of a triangle, Kieran?",00:30:55
+jfdudql,369,tutor,The base times height divided by 2.,00:31:05
+jfdudql,370,student,Base times height divided by 2. Okay.,00:31:08
+jfdudql,371,tutor,Yeah. [unclear],00:31:10
+jfdudql,372,student,"Yeah, so for the middle side, I got 5.2.",00:31:33
+jfdudql,373,tutor,Okay.,00:32:00
+jfdudql,374,student,"Yeah, so now I can do the— [unclear] Yeah, I got a 15.6.",00:32:01
+jfdudql,375,student,15.6.,00:32:24
+jfdudql,376,tutor,Yes.,00:32:25
+jfdudql,377,student,Can you tell me how you worked it out?,00:32:26
+jfdudql,378,tutor,"So I split down the middle, so then there's—",00:32:28
+jfdudql,379,student,"Kieran, you have to show me your working, OK? Because do you see how many marks you get for this?",00:32:31
+jfdudql,380,tutor,"4 marks, yeah.",00:32:37
+jfdudql,381,student,"4, right? So you have to show me your working.",00:32:38
+jfdudql,382,tutor,"Oh, OK. So I did—",00:32:41
+jfdudql,383,student,"And it should be methodical and neat, like from the first step to the last. It should be in order, right?",00:32:43
+jfdudql,384,student,"Okay, yes. For the 3 squared, so 3 squared. [unclear] For the 3 squared,",00:32:51
+jfdudql,385,student,Mm-hmm.,00:33:18
+jfdudql,386,tutor,Then I did the— that subtracted by—,00:33:19
+jfdudql,387,student,Right.,00:33:26
+jfdudql,388,tutor,6 squared.,00:33:31
+jfdudql,389,student,Mm-hmm.,00:33:31
+jfdudql,390,tutor,And then I got 27.,00:33:37
+jfdudql,391,student,"36 minus 9, right? And that's 27.",00:33:42
+jfdudql,392,tutor,"Yeah, that's 27.",00:33:44
+jfdudql,393,student,"So then I did the square root of 27, which was 5.2. [unclear] So then I work out the area by doing 5.2 times by 3.",00:33:46
+jfdudql,394,student,And then divided everything by 2. [unclear] And then divided everything by 2.,00:34:12
+jfdudql,395,tutor,Mm-hmm.,00:34:26
+jfdudql,396,student,And then I just did that times by 2.,00:34:34
+jfdudql,397,tutor,Mm-hmm.,00:34:39
+jfdudql,398,student,"Because there's two sides that are the same, so I times that by 2. Then I got 15.6.",00:34:40
+jfdudql,399,tutor,Why did you multiply by 2?,00:34:48
+jfdudql,400,student,Because these two sides are the same.,00:34:51
+jfdudql,401,tutor,"All right. Well, I forgot that part, though. Good thinking. All right. Okay, so Kieran?",00:34:55
+jfdudql,402,student,"Yeah. The answer is right, OK? And the way you did it was also right. But the thing is, we've got to be a little more [unclear] when you're writing the answers, OK?",00:35:02
+jfdudql,403,student,"OK, yeah.",00:35:14
+jfdudql,404,tutor,"So I'll tell you how I would do this question. And let's try and follow a similar pattern, OK?",00:35:16
+jfdudql,405,student,Yeah.,00:35:24
+jfdudql,406,tutor,"So the first thing is— You have to find the area. To find the area, what's the first step we have to take?",00:35:25
+jfdudql,407,student,Split the— split it— split in half.,00:35:34
+jfdudql,408,tutor,"Yeah. And we have to find this side, right?",00:35:36
+jfdudql,409,student,Yeah.,00:35:40
+jfdudql,410,tutor,"So I would name this side something like E, and I'm going to find BE now.",00:35:40
+jfdudql,411,student,Yeah.,00:35:48
+jfdudql,412,tutor,"Okay? BE would be— I mean, like, this would be much easier when you're, like, writing it, but then because it's typing, it's hard. I get it. Now, um— I'm gonna write BE squared is equal to— oh, sorry, add.",00:35:49
+jfdudql,413,student,Yeah.,00:36:14
+jfdudql,414,tutor,"Or else just equal to. What's BA? BA is 6, right?",00:36:15
+jfdudql,415,student,"Yeah, so 6 squared, which is 36.",00:36:21
+jfdudql,416,tutor,"6 Okay, where is it? 6 squared minus 3 squared, right?",00:36:24
+jfdudql,417,tutor,Yeah.,00:36:37
+jfdudql,418,student,"3... wait, wait, wait. 3 squared.",00:36:42
+jfdudql,419,tutor,Yeah.,00:36:52
+jfdudql,420,student,"And that will be equal to— [unclear] 27, you said?",00:36:52
+jfdudql,421,tutor,Yeah.,00:37:00
+jfdudql,422,student,"So, and the root of 27 would then be— BE is equal to the root of 27, which is—",00:37:02
+jfdudql,423,tutor,"Yeah, take off 5.2.",00:37:10
+jfdudql,424,student,"I know typing this out is harder,",00:37:13
+jfdudql,425,tutor,"I know, writing on paper, right? But this is what you should write when you're writing answers in the exam, right?",00:37:16
+jfdudql,426,student,Yeah.,00:37:23
+jfdudql,427,tutor,And that would be what?,00:37:23
+jfdudql,428,student,5.2.,00:37:27
+jfdudql,429,tutor,5.2. Okay.,00:37:28
+jfdudql,430,student,Yeah.,00:37:30
+jfdudql,431,tutor,"Now we've found BE, and then what do we have to find? The area, right?",00:37:30
+jfdudql,432,student,Yes.,00:37:35
+jfdudql,433,tutor,And we're finding the area of?,00:37:37
+jfdudql,434,student,Triangle.,00:37:40
+jfdudql,435,tutor,"Wait, so why did you split it? Why did you find base 3 times this divided by 2? Why not do the entire thing?",00:37:43
+jfdudql,436,student,Because you have to do base times perpendicular height divided by 2.,00:37:55
+jfdudql,437,tutor,"Yes, but it's like this. What you did was you split this into 2 triangles, and then you found half— into [unclear] base is 3, times perpendicular height, which is 5.2, right?",00:38:00
+jfdudql,438,student,Yeah.,00:38:14
+jfdudql,439,tutor,"What you could have also done is you didn't have to multiply by 2, Kieran. You could have done half into base would be AC, right?",00:38:14
+jfdudql,440,student,"Oh, it's all [UNCLEAR]. Yeah.",00:38:22
+jfdudql,441,tutor,"Into BE, which is 5.2. Calculate it. See if you get the same answer. Area of ABC would then be",00:38:24
+jfdudql,442,tutor,"Yeah, I got the same answer.",00:38:34
+jfdudql,443,student,"Yeah, into AC, base, which is 6 centimeters, into—",00:38:37
+jfdudql,444,tutor,"Yeah, I got 15.",00:38:44
+jfdudql,445,student,"5.2 centimeters, and that's—",00:38:45
+jfdudql,446,tutor,Yeah.,00:38:49
+jfdudql,447,student,"5.2 centimeters, centimeters squared, right?",00:38:50
+jfdudql,448,tutor,[unclear],00:38:54
+jfdudql,449,student,"When it's area,",00:38:58
+jfdudql,450,student,Yeah.,00:39:00
+jfdudql,451,tutor,You have to square it.,00:39:01
+jfdudql,452,student,Yeah.,00:39:03
+jfdudql,453,tutor,"So squared, like this.",00:39:05
+jfdudql,454,student,Yeah.,00:39:08
+jfdudql,455,tutor,"Yeah, and here also you have to remember the units, which is centimeters. Sorry.",00:39:08
+jfdudql,456,student,Yeah.,00:39:13
+jfdudql,457,tutor,"So this would be the complete answer, Kieran.",00:39:15
+jfdudql,458,student,"Okay, yes.",00:39:18
+jfdudql,459,tutor,"Wait, the answer is 15.6, right? Sorry.",00:39:20
+jfdudql,460,student,"Yes. See, this would be the complete answer. When you're writing, you know, in an exam, you'd have to write this to get the entire 4 marks.",00:39:22
+jfdudql,461,student,Yeah.,00:39:38
+jfdudql,462,tutor,Alright?,00:39:38
+jfdudql,463,student,Yeah.,00:39:39
+jfdudql,464,tutor,So first what we did was we found BE.,00:39:39
+jfdudql,465,student,Yeah.,00:39:42
+jfdudql,466,tutor,"And then BE, that's BE squared. Then we find BE by finding the square root. And then we find the area. You don't have to like find the area of [UNCLEAR]. This triangle and then multiply by 2. Okay, you can, uh, you know, take it straight away. Is that clear? Half times base into perpendicular height.",00:39:43
+jfdudql,467,student,Yeah.,00:40:02
+jfdudql,468,tutor,"Okay, there we go. Now I think we can do this one.",00:40:02
+jfdudql,469,student,Okay. [unclear] [Speaker:Kieran]... [unclear],00:40:07
+jfdudql,470,tutor,It's beautiful. [unclear] [Speaker:Kieran]... [unclear] [Speaker:Kieran]... [unclear],00:42:29
+jfdudql,471,tutor,"Yeah, I'm done.",00:43:47
+jfdudql,472,student,Okay. We'll see.,00:43:55
+jfdudql,473,tutor,"Okay, can you tell me what you did here, Kieran?",00:44:12
+jfdudql,474,student,"Okay, so first I did 3.5 squared because I just did a split down the middle over here and this [unclear] 3.5, so I'm just splitting into 3 and 1. So I did this 1, this 1 squared, which is still the same 1, times by 3.5 squared. Which is 12.25. The square root of that—",00:44:15
+jfdudql,475,student,"Wait, uh, so 3.5 squared plus 1 squared?",00:44:38
+jfdudql,476,tutor,Yeah. Yeah.,00:44:44
+jfdudql,477,student,"You have to find this, right?",00:44:47
+jfdudql,478,tutor,"Yeah. Yeah, that gives you— oh, it was 13.25.",00:44:50
+jfdudql,479,student,Is it?,00:44:58
+jfdudql,480,tutor,Yeah.,00:44:59
+jfdudql,481,tutor,"Okay, let's check it. [unclear]",00:45:00
+jfdudql,482,student,13.25.,00:45:14
+jfdudql,483,tutor,Is it not erasing?,00:45:15
+jfdudql,484,student,"Oh, here.",00:45:18
+jfdudql,485,tutor,Oh no.,00:45:19
+jfdudql,486,student,"Sorry, that's about 13.25.",00:45:20
+jfdudql,487,tutor,Okay.,00:45:22
+jfdudql,488,student,I'm gonna do the square root of that. And that was 3.6.,00:45:23
+jfdudql,489,tutor,Mm-hmm.,00:45:31
+jfdudql,490,student,6. And then I did 3 times 3.5.,00:45:35
+jfdudql,491,tutor,Why is that?,00:45:41
+jfdudql,492,student,Because this— because this 3 over here and then this 3.5 over there.,00:45:43
+jfdudql,493,tutor,Okay.,00:45:50
+jfdudql,494,student,"You times them and you get 10.5. Yeah, then you add 3.5, then you add as well 3.6, and then that [unclear] 14 boys.",00:45:50
+jfdudql,495,tutor,"So why did you add 3.5, Kieran?",00:46:11
+jfdudql,496,student,"Oh, because I made a mistake on the top. So it's actually— yeah, it's 14.14.",00:46:14
+jfdudql,497,student,Yeah.,00:46:23
+jfdudql,498,tutor,"Yes, 14.14. Okay, so is that enough?",00:46:24
+jfdudql,499,student,"Yeah, right? He doesn't.",00:46:31
+jfdudql,500,tutor,"Okay. So I'm going to tell you how you're going to get the marks, okay?",00:46:35
+jfdudql,501,student,Okay.,00:46:45
+jfdudql,502,tutor,"For this, you get 1 mark. That is, if you identify that a right-angled triangle can be made by drawing a line parallel [Speaker:Tutor]...to 3.5, you get one mark.",00:46:46
+jfdudql,503,student,Yeah.,00:46:54
+jfdudql,504,tutor,You get one for that.,00:46:54
+jfdudql,505,student,Okay.,00:46:56
+jfdudql,506,tutor,"Good. And then, you know, like for using c² a² b², which is this one right here. And you got this, right? Yeah. For",00:46:57
+jfdudql,507,student,that,00:47:08
+jfdudql,508,tutor,you get one mark. And then,00:47:08
+jfdudql,509,student,[unclear],00:47:11
+jfdudql,510,tutor,"trying to find the total perimeter, which is this one. You get one mark. And for this, you get one mark. So this is how the total of four marks adds up. Okay?",00:47:12
+jfdudql,511,student,Yeah.,00:47:27
+jfdudql,512,tutor,"Alright, so because you've included all steps, you get all four marks, which is really great. Okay? So, alright, Kieran, I think our time is up. We will have to continue with this next session. Alright?",00:47:28
+jfdudql,513,student,Okay.,00:47:42
+jfdudql,514,tutor,I think it's really worth the session.,00:47:42
+jfdudql,515,tutor,Yeah.,00:47:43
+jfdudql,516,student,I'll see you next week then. Bye-bye.,00:47:44
+jfdudql,517,tutor,Okay.,00:47:46
+jfdudql,518,student,Have a great day. [unclear],00:47:46

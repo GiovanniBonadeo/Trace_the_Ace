@@ -1,0 +1,277 @@
+session_id,utterance_id,role,content,timestamp
+mataniv,0,tutor,Hello?,00:00:00
+mataniv,1,background,[unclear],00:00:00
+mataniv,2,student,Hello.,00:00:01
+mataniv,3,tutor,"Hello, can you hear me?",00:00:09
+mataniv,4,student,Yes.,00:00:11
+mataniv,5,tutor,"Okay, hi, very nice to meet you. I'm [unclear] and I'll be your tutor today. So can you tell me how to pronounce your name, please?",00:00:12
+mataniv,6,student,Julian.,00:00:20
+mataniv,7,tutor,"Julian, okay, Julian. I think this is the first time we are meeting for a session. So how are you feeling?",00:00:22
+mataniv,8,student,Good.,00:00:29
+mataniv,9,tutor,"Good? Okay, so how was school today?",00:00:30
+mataniv,10,student,"Quite good, very good.",00:00:35
+mataniv,11,tutor,"Okay, that's nice to hear. Right, did you have a busy day today?",00:00:37
+mataniv,12,student,Did I have a what? Pardon?,00:00:41
+mataniv,13,tutor,Did you have a busy day? Did you have a lot of work?,00:00:44
+mataniv,14,student,[UNCLEAR] Pardon? I can't hear you.,00:00:44
+mataniv,15,tutor,"Okay, no, no, it's fine, it's fine. Right, can you hear me properly?",00:00:53
+mataniv,16,student,Yes.,00:00:58
+mataniv,17,tutor,"Right, okay. Then shall we get started with the lesson?",00:00:59
+mataniv,18,student,Yes.,00:01:04
+mataniv,19,tutor,Right. So today we are going to learn about rounding numbers to the nearest tenth. I think you started this lesson in the previous session. So can you tell me what you remember about rounding numbers?,00:01:05
+mataniv,20,student,"[unclear] To the nearest tenth, I'll look at the hundredths column, and if it's bigger than—",00:01:17
+mataniv,21,student,"if it's 5 or more, then you round it up, but if it's 4 or less, then you round it down.",00:01:17
+mataniv,22,tutor,"Yes, exactly. That is the rule that we have to follow when we are rounding. So good job remembering that. So these are the things that you did in the previous day. I think— so when you're rounding, just like you said, you have to look at your hundredths, and if it's 5 or more, round up, or if it's less than 5, we round down. Okay, so today we have to get started from here. So what we are going to do is I'll explain to you how we can do the follow-me part, then I want you to pay attention really well, and if you have any questions at the end of the explanation, you can ask me. Okay?",00:01:17
+mataniv,23,student,Okay.,00:02:12
+mataniv,24,tutor,Then it's your turn to become the teacher and explain to me what— how to work this part out. All right?,00:02:13
+mataniv,25,student,Okay.,00:02:20
+mataniv,26,tutor,"Okay then, let's get started.",00:02:21
+mataniv,27,tutor,"So let's round this number to the nearest tenth. That means we are rounding to the nearest tenth. So we have the ones, the tenths, and the hundredths in our place value chart. So we'll see how many ones we have. So we have 1, 2, 3, 4, 5, 6. We have 6 ones. And we have 1, 2, 3, 4, 5, 6, 7, 8, 9. 9 tenths. And we have 1, 2, 3, 4, 5, 6, 7, 8, 9. 9 hundredths. So now first we have to write the number shown. So let me write it over here. Since we have 6 ones, first I'm going to write 6, then I'm going to put my decimal point, and we have 9 tenths and 9 hundredths. Okay, any questions up to this point?",00:02:23
+mataniv,28,student,[unclear],00:03:11
+mataniv,29,tutor,"No. Okay, what I did was I identified the number given over here in the place value chart. Then look at the hundredths. Let me underline that to see if we round up or down. So since we are rounding to the nearest tenth, like you told me before, we have to look at the column to your right. So that is the hundredths. Now we have a 9 in our hundredths place, right?",00:03:12
+mataniv,30,student,Yes.,00:03:40
+mataniv,31,tutor,"So we have to— since it's more than 5, we have to round up. That means then we have to round the tenths up. But since we already have 9 over here, then we end up having 10 tenths because we round this up. But since we can't keep 10 in the tenths column, then we have to cross over to the ones, and then we have to round this ones up. Did you understand that part?",00:03:40
+mataniv,32,student,[unclear],00:04:13
+mataniv,33,student,Yes.,00:04:13
+mataniv,34,tutor,"Right, that means we end up rounding the ones even though we have to round the tenths. Since we have 10 tenths, we move on to this one. That means I am going to— so what does this say? There are now 10 tenths, like I explained, in the tenths column. So we need to regroup to the tenths. The number rounded to the nearest tenth is going to be 7. 6.99 rounds up to 7. Okay?",00:04:14
+mataniv,35,student,Yes.,00:04:43
+mataniv,36,tutor,All clear? Any— anything that's not clear for you?,00:04:44
+mataniv,37,student,"Wait, so what do I— what would I put in this blank?",00:04:48
+mataniv,38,tutor,"Oh, I'm sorry. So we have look at the hundreds to see if we round up or down. So we have to round up, right?",00:04:51
+mataniv,39,student,Yes.,00:04:59
+mataniv,40,tutor,"Yes, I'm sorry, I missed that. Okay, so any questions?",00:05:00
+mataniv,41,student,No.,00:05:05
+mataniv,42,tutor,"Right, so if you don't have any questions, now it's your turn to complete this part. So you can work it out and explain to me.",00:05:06
+mataniv,43,student,"So the number shown is we have 100, 0 tenths, and 2 ones. So it'll be 2 for the 2 ones, 0.0 because there's 0 tenths, and 1 because there's 100. [unclear]",00:05:15
+mataniv,44,student,We look— so we look at the hundredths to see if we round up or down. We round down because there's only one hundredth.,00:05:32
+mataniv,45,tutor,Yes.,00:05:43
+mataniv,46,student,So— [unclear] down. Down. And—,00:05:45
+mataniv,47,tutor,2... 2 points... 2 point... what? 2.01 rounded to the nearest tenth is... 2 points... is 2 point... [unclear] [unclear],00:05:57
+mataniv,48,tutor,"2.0, yeah.",00:06:33
+mataniv,49,student,"So would I round down, but what would I do to this hundredth here? Would I just get rid of it?",00:06:34
+mataniv,50,tutor,"Yes, because since we have to round down, that means we have to round this zero down, right?",00:06:41
+mataniv,51,student,"Yeah, so is that 2.09? [unclear]",00:06:50
+mataniv,52,tutor,"Not 9. So when we are rounding down, that means we have to think about the— in your number line, what digit lays before 2.01? 2.01. We have to think about what tenth is before this. So if you think about what tenth is before this one—",00:06:55
+mataniv,53,student,"Oh, is it—",00:07:15
+mataniv,54,student,So before that is 2— the tenth before that is 2.11.,00:07:16
+mataniv,55,tutor,"Actually, we are actually in the zeros. This is just the hundredths. So if you remove this one, and that means if you round down, so since you're in the zero, there's no place for you to go back, right? So it ends up in 2.0.",00:07:25
+mataniv,56,student,So,00:07:41
+mataniv,57,student,So for the answer— so the answer for this is 2.00.,00:07:42
+mataniv,58,tutor,"Yes, 2.00. That means it's just 2.",00:07:47
+mataniv,59,student,Okay.,00:07:51
+mataniv,60,tutor,"Yeah, do you get that?",00:07:53
+mataniv,61,student,Yes.,00:07:55
+mataniv,62,tutor,"Okay, so you don't have to— since there's no value after the decimal point in this case, you can leave your answer as 2.",00:07:56
+mataniv,63,student,Okay.,00:08:04
+mataniv,64,tutor,Okay? Okay.,00:08:05
+mataniv,65,tutor,Okay. So that was a really good explanation. So well done. Anything that is unclear regarding this section?,00:08:08
+mataniv,66,student,[unclear] No.,00:08:16
+mataniv,67,tutor,No? Okay. Then shall we move on to the next part? Shall we try some questions?,00:08:24
+mataniv,68,student,Yes.,00:08:34
+mataniv,69,tutor,Okay. Now we have a couple of questions over here. So can you read question A and see if you can fill the blanks?,00:08:36
+mataniv,70,student,"Write the number, then round to the nearest tenth.",00:08:45
+mataniv,71,tutor,So you have to look at this one.,00:08:49
+mataniv,72,student,"So the number here is 4 because there's 4 ones, a point,",00:08:53
+mataniv,73,student,"4, because there's 4 tenths, and 9. Rounded to the nearest tenth is— because there's more than 5 counters here, we round it up, and so this moves up by 1, so it's 4 point— so it's 4.5.",00:09:00
+mataniv,74,tutor,"4.5, yes, good job. So which place value did you look at to decide whether this is rounding up or down?",00:09:22
+mataniv,75,student,The hundredths.,00:09:29
+mataniv,76,tutor,"The hundredths. Okay, good job. Then we can try the next one.",00:09:31
+mataniv,77,student,Use the number line to show what [UNCLEAR]. So this is going up in—,00:09:36
+mataniv,78,tutor,"First, can you show me where 3.22 is in this number line?",00:09:36
+mataniv,79,student,3.22 is [unclear] here on the number line.,00:09:58
+mataniv,80,tutor,"Did you mark it? I can't see. Maybe draw a line to that point? Okay, yes, that's true. That's there, 3.22. Then what are we going to do?",00:10:11
+mataniv,81,student,"Round it to the nearest tenth. [unclear] So we'd round it to 3.2 because you can see here that it's in— it's not halfway between. It's closer to the 3.2, so you round it down.",00:10:24
+mataniv,82,tutor,"Down. Okay, yes, that's true. Okay, very good.",00:10:48
+mataniv,83,tutor,Then let's try question C.,00:10:52
+mataniv,84,student,What is 24.2 rounded? [unclear],00:10:57
+mataniv,85,tutor,24.2 rounded to the nearest tenth is 24. It's just 24 because 2 is less than 5.,00:11:03
+mataniv,86,tutor,"Yes. Okay, fantastic. Then let's see the last one.",00:11:22
+mataniv,87,student,"3.99 rounded to the nearest tenth is 4 because the 9 is above— is above 5, so [UNCLEAR]. So this turns into 0, and I— and so I round it because it's above 5 here. But because this is 9, now I've rounded this to make it a whole number, so it's 4.",00:11:22
+mataniv,88,tutor,"4, yes. So did you round up or down in this case?",00:11:59
+mataniv,89,student,Up.,00:12:04
+mataniv,90,tutor,"Up. So this is quite similar to the one that we did over here, right? Just a different number. Over here we had 6.99, here we have 4— sorry, 3.99. Okay, then any questions up to this point?",00:12:05
+mataniv,91,student,"If the number here would be 9.99, would then I— would I round it then to 10? [unclear]",00:12:22
+mataniv,92,tutor,"Yes, round to 10. Because— so let's write that. We said 9.99. First we look at this 9. This is the hundredths. And then you round up and you go to the tenths. Then you are going to have 10 tenths. Is that possible?",00:12:36
+mataniv,93,student,"[unclear] No. No, then? Then you have to regroup, and then you move on to the ones. So when you round 9 up, you get what?",00:12:58
+mataniv,94,student,"Uh, if you— I round 9 up, then, uh, because it's 9, I'll have to round it to 10.",00:13:12
+mataniv,95,tutor,Round it to 10. So you end up with 10. Okay. Is that clear?,00:13:19
+mataniv,96,student,Yes.,00:13:29
+mataniv,97,tutor,"Right. Then let's try another question. Okay, so you can read the question and give me the answer.",00:13:30
+mataniv,98,student,"Terry, Sarah has seen a tennis racket she wants to buy. She says it costs £24.50. To the nearest 10p, what could the exact price of the racket be? Give 2 possible answers.",00:13:37
+mataniv,99,student,"So because it's rounded to the nearest 10p, it could be 24 points— [unclear]",00:13:58
+mataniv,100,student,It could be 24.45.,00:14:12
+mataniv,101,student,"Because then you'd round it up to 50, or it could be 24.61, rounding it down to 50. [unclear]",00:14:24
+mataniv,102,tutor,"Right. So this one, 24.45, this is true. Like you said, we round it up. But let's check this one.",00:14:42
+mataniv,103,tutor,"How— if we round this one, can we round this one to 24.5? [unclear]",00:14:55
+mataniv,104,student,"Yeah, because you could round it down from the— because 1 is below 5, so you'd round it down.",00:15:09
+mataniv,105,student,You change the 6 to 5. [unclear],00:15:17
+mataniv,106,tutor,"Actually, so if you round to the nearest tenth, you look at this one. You look at 1. Then if you round down, then 24.6 remains as it is.",00:15:25
+mataniv,107,student,"Ah, so—",00:15:36
+mataniv,108,tutor,So did you get that point?,00:15:40
+mataniv,109,student,So could it be 24.53? Because now that's below.,00:15:42
+mataniv,110,tutor,"Yes, that can be possible because if you round this down, so we look at 3 and we say now we have to round 5 down. That means it's just 24.5, right? There's nowhere else to go because it is the lowest point in your number line. So if you go to 24.54, That's also possible. But if you go to 24.55, would this answer still be the same?",00:15:48
+mataniv,111,student,No.,00:16:17
+mataniv,112,tutor,"No. If you end up over here, then will this answer be okay?",00:16:18
+mataniv,113,student,The answer would be 24.60.,00:16:24
+mataniv,114,tutor,"24.60, because we have to round up. That means, like you said, we can't give any answer saying 24.6-something. Because if you round this down, it will just— imagine this 24.61, we'll say if you round this down, it will be 24.6. And if you have 24.68, it will be 24.7. That means your answer— can you tell me what is the lowest possible number that we can use to get this answer?",00:16:27
+mataniv,115,student,"Uh, the lowest possible answer",00:16:59
+mataniv,116,student,"Uh, could be 24.4... uh, 9? No, 24.45.",00:17:03
+mataniv,117,tutor,"45, yes, that's true. Because if you have 24.44, then what would we usually do?",00:17:18
+mataniv,118,student,"Uh, 24.44, we round it down, it would be, I don't know, it would be 24.4.",00:17:26
+mataniv,119,student,4.,00:17:32
+mataniv,120,tutor,"4. Okay, so this is the lowest possible one. Then what is the highest possible number?",00:17:33
+mataniv,121,student,"Uh, uh, 24.55. No, 24.54.",00:17:39
+mataniv,122,tutor,"54. Yes, fantastic. So the highest possible value can be 24.54, because if you go to 55, like I said, you you have to round up. Okay, got it?",00:17:49
+mataniv,123,student,[UNCLEAR],00:17:49
+mataniv,124,tutor,"Right, so any number between these two numbers, including these two numbers, are correct answers. Okay?",00:18:02
+mataniv,125,student,I... [unclear],00:18:12
+mataniv,126,tutor,"Right, so good job figuring that out. So let me give you a big praise card for your really good working up to this point. Okay, so that is the end of this lesson. So before we move on to another lesson, let's discuss what we've done so far. So Julian, can you tell me what what you learned so far in the lesson rounding numbers to the nearest tenth? Imagine you're teaching to a friend and just let me know the summary.",00:18:13
+mataniv,127,student,"So if you're rounding to the nearest tenth, you want to look at the hundredths column to— you want to look at the hundredths column, and if it's— the hundredths column is bigger than 5, then you're going to round it up, and if it's below 5, then you round it down. OK, so if it is 5, if the hundredths column is 5, then what do you do?",00:18:39
+mataniv,128,student,"The hundredths column is 5, then you round it up, 5 or above.",00:19:08
+mataniv,129,tutor,"5 or above, you round it up. OK, then if you have a question like this one, 6.99, 5.99, anything like that, what would you do?",00:19:12
+mataniv,130,student,"So you'd round it, you'd look at the hundredths because it's 9, which is above 5, you round it up. So you'd round it up as usual, but because the tenths is 9, you'd round it up again into a whole number, which would then make it 7.",00:19:23
+mataniv,131,tutor,"7, okay, yes, well done. Then we had a couple of questions over here where you did a really good job. And we had another nice question, right? Do you enjoy this one? [unclear] Okay, so this was a good question. Okay, right. So then, any doubts or anything that you don't understand in this lesson?",00:19:42
+mataniv,132,student,"No, nothing.",00:20:08
+mataniv,133,tutor,"Okay, then are we good to move on to another lesson?",00:20:09
+mataniv,134,student,Yes.,00:20:18
+mataniv,135,tutor,"Then let's try the next lesson, which is multiplying and dividing whole numbers and decimals by 10 and 100. So we are going to do multiplying and dividing for decimals. So let's get started with the learning goal question. Check this question out and tell me if you know the answer. [unclear]",00:20:18
+mataniv,136,student,[unclear],00:20:45
+mataniv,137,tutor,"Right, 106. Okay, so good. Okay, done?",00:20:45
+mataniv,138,student,[UNCLEAR],00:20:45
+mataniv,139,tutor,"Right, 206. Okay, good job. So that is the correct answer. So can you tell me how you got this one?",00:21:01
+mataniv,140,student,"So if you're rounding by hundreds, if there's a place value chart, because it's got 2 zeros, you move it up the placeholder 2 times. Because the decimal's here, I— because the decimal's there, I'll move the zero, which goes there. The 2 will go there. And because they move up twice, the The 2 is now in the hundredths place. The 0 is now in the ones— tenths place, and the 6 is now in the ones place.",00:21:09
+mataniv,141,tutor,"Ones place. Okay, right. So good job. Then we can start with some questions. Okay, so let's start over here. Question 1.",00:21:43
+mataniv,142,student,Use the [unclear] chart to work out,00:21:57
+mataniv,143,student,"That's on the chart, so I worked out 0.95 times 100.",00:22:02
+mataniv,144,tutor,"Okay, so have you learned, worked with this sort of chart before?",00:22:12
+mataniv,145,student,"Not in school, but in this tutoring. I've used them, but I haven't learned about them.",00:22:18
+mataniv,146,tutor,"All right, so are you familiar about what this chart is or how we use it?",00:22:25
+mataniv,147,student,[unclear],00:22:31
+mataniv,148,tutor,"No, okay, I'll explain a little bit. So over here, so this chart, we can use it to see our multiples, and we can use it to multiply or divide. So if you look at this column over here, we have the 1, 2, 3, 4, 5, 6, 7, 8, up to 9. And if you look up from here, let's look one row up. Can you tell me what has happened?",00:22:31
+mataniv,149,student,They've moved up by 10.,00:22:58
+mataniv,150,tutor,"Yes, so times by 10. Then if you look at this one, what has happened?",00:23:04
+mataniv,151,student,It's been times by 10 again.,00:23:12
+mataniv,152,tutor,"Yes, so from 10 over here, from— let me draw— so from here to here, times by 10. But from 1 to 100, times by how much?",00:23:15
+mataniv,153,student,From 1 to 100 times by 100.,00:23:27
+mataniv,154,tutor,"100. Like that, we have 1,000 over here. So from 1 to 1,000 times by how much?",00:23:31
+mataniv,155,student,"Uh, 1 to 1,000 times by 1,000.",00:23:39
+mataniv,156,tutor,"1,000. So you can build up the relationship from 1 to 10 or from 10 to 100, so on. You can use that. And the same thing happens throughout From 1 to 9, okay? Everything goes up by 10 or 100 or 1,000 times, okay?",00:23:41
+mataniv,157,student,[unclear],00:24:03
+mataniv,158,tutor,"Okay, right. Then if you look down from here— erase this one first, otherwise it's a bit messy. So if you look from here to here, then can you tell me what has happened when going down?",00:24:03
+mataniv,159,student,It has gone down by— it has been divided by 10.,00:24:21
+mataniv,160,tutor,Divided by 10. Then from here to here?,00:24:26
+mataniv,161,student,It has been divided by 100.,00:24:30
+mataniv,162,tutor,100. So from 0.1 to 0.01?,00:24:34
+mataniv,163,student,It's been divided by 10 again.,00:24:38
+mataniv,164,tutor,"Right. So that is the relationship from this row to the numbers below. The rows below. Okay, it's the same for all these numbers. Okay.",00:24:40
+mataniv,165,student,Yes.,00:24:52
+mataniv,166,tutor,"Right, so you can use that. So this is actually a diagrammatic presentation of your question. So first they have selected the places for 0.95. So can you tell me what they have done by highlighting this 0.9 and 0.05?",00:24:52
+mataniv,167,background,"Uh, they've shown like",00:25:10
+mataniv,168,student,"So the 9 is showing like where the place, where the kind of places are, like where the 9 is and where the 0.9 is and where the 0.5 is. So I'll move it up. So I'd move it up by 2 spots because there's 2 [UNCLEAR]. So Can you underline? All right.",00:25:12
+mataniv,169,student,95.,00:25:46
+mataniv,170,tutor,"95. Okay. So can you also underline the spots when you multiply by 100 over here? [unclear] For each of these numbers, digits? 5 and 9. So when you add 9 and— sorry, 90 and 5, you end up with 95. Okay. [unclear] So it's just showing you what happens exactly using this chart. Okay, so then we can— any doubts, or can you understand what we've done?",00:25:48
+mataniv,171,student,"Yes, I can understand.",00:26:22
+mataniv,172,tutor,"Okay, so how many rows did you move up over here?",00:26:24
+mataniv,173,student,2 rows.,00:26:28
+mataniv,174,tutor,"2 rows. Okay, then we can try question 2. [unclear]",00:26:29
+mataniv,175,tutor,Everything okay?,00:26:44
+mataniv,176,student,"Uh, yes.",00:26:47
+mataniv,177,tutor,Okay.,00:26:49
+mataniv,178,tutor,Hello? [unclear] [unclear],00:27:03
+mataniv,179,tutor,What happened?,00:27:30
+mataniv,180,student,I can't find the division sign on here.,00:27:31
+mataniv,181,tutor,"Oh, okay, okay. So you can use your Symbols tool.",00:27:35
+mataniv,182,student,Oh.,00:27:38
+mataniv,183,tutor,"In your Symbols tool, if you click on that, if you click on the screen, it's over there. Did you find it?",00:27:40
+mataniv,184,tutor,"In your— okay. So for timesing also, the multiplication symbol is also— okay, good. [unclear] [unclear]",00:27:51
+mataniv,185,tutor,Let's do these two as well.,00:28:22
+mataniv,186,student,"times 10. Oh, yeah, times— divide by 10. [unclear]",00:28:22
+mataniv,187,student,Divide by 10.,00:28:44
+mataniv,188,tutor,"Okay, so let's discuss this. Oh, right.",00:28:51
+mataniv,189,student,Done.,00:29:02
+mataniv,190,tutor,"Done. Okay, so very good job. So let's check what you've done. So we have used the following to complete the calculations and use each term only once. So we have 543 divided by 100 to get 5.43. Yes, that is correct. So can you tell me why you decided to divide by 100?",00:29:05
+mataniv,191,student,I choose to divide by 100 because for [unclear],00:29:28
+mataniv,192,student,"Uh, these numbers are in the decimals, and if I times it by 10, only one would move from decimal to whole number. But if I times it by 100, they'd all turn in— they'd all move up into a whole number.",00:29:37
+mataniv,193,tutor,"Okay, yes, well done. Then question B, so 51.5 times by 100 becomes 5,150. Yes, that is correct. Can you tell me why?",00:29:53
+mataniv,194,student,"Because 51.5 times 100, I'll move it up twice on the placeholder. Because there's only one number in the pence, we'll add a zero, which will turn it into 5,150.",00:30:07
+mataniv,195,tutor,50. Okay. Then the next one. So 0.12 divided by 10 is 1.2. So is— do you think this is correct? Shall we check this one? But you will check it using our getting the chart. So can you first mark 0.12 over here? Just underline. [unclear],00:30:25
+mataniv,196,student,"So, um, if I underline, so one in the tenths and then— 2. [unclear]",00:30:49
+mataniv,197,tutor,2.,00:30:59
+mataniv,198,student,"If I want to get to 1, I'll move it up once, so I'll change the division sign to a multiplication sign so it moves up by 1 space instead of move back by",00:31:00
+mataniv,199,tutor,"Yes, so from here you go up to here, over here, and then from 0.02, since we have to— you move over 2 to the 10th space, you move up. That means multiplication. Okay? [unclear]",00:31:26
+mataniv,200,student,Okay.,00:31:43
+mataniv,201,tutor,"Right, then question D. So we have 40.3 divided by 10 to get to 4.3. Yes, that's correct.",00:31:44
+mataniv,202,tutor,So can you show me this one in this chart?,00:31:54
+mataniv,203,student,Which one?,00:31:59
+mataniv,204,tutor,"The last one, Part D. If you have to explain to someone who doesn't know.",00:32:01
+mataniv,205,student,"So, [unclear] underline. So there's 40 as for the whole number, and then there's 3 for the tenths. And so we're dividing it by 10, so I move this down once, so now it's 4, and I move this down once, so now it's 0.03, and if I add them together, it's 40.03.",00:32:07
+mataniv,206,tutor,"Actually, it's 4.03, not 40 point, okay?",00:32:38
+mataniv,207,student,"Oh, yes, right. [unclear]",00:32:42
+mataniv,208,tutor,"It's okay. Okay, so that was a really good explanation. Let me give you a big praise card for that.",00:32:44
+mataniv,209,tutor,"Okay, so well done working these questions as well. So let's check question C. So we have 4.82 times by 10 gives you 48.2, which is correct. So very good. Then we have 0.91 times it by 100, so we have to move it 2 places up if you think about your [unclear] chart, which gives you 91. Okay, then finally we have 61.2 divided by 10. So all your cases move downwards, right, when you divide in this chart?",00:32:50
+mataniv,210,student,Yes.,00:33:26
+mataniv,211,tutor,"Yes, so 6.12. So very good job. Let me give you a big praise card for your awesome effort over here. So did you understand how we can use our Gattegno chart to do multiplication and division using decimal numbers?",00:33:27
+mataniv,212,student,Yes.,00:33:43
+mataniv,213,tutor,Anything that's not clear for you or do you have any questions?,00:33:43
+mataniv,214,student,"No, everything's clear.",00:33:53
+mataniv,215,tutor,"Clear. Okay, then we can move on to the next question. Okay, let's do this.",00:33:55
+mataniv,216,student,A zookeeper's waiting up [unclear] gorilla. And its baby. The adult gorilla has a mass of 149.3 kilograms. The baby gorilla has a mass of 1/10 of the size of an adult gorilla. How much does the baby gorilla weigh in kilograms? [unclear],00:34:03
+mataniv,217,student,The baby is 14. 0.93 kg.,00:34:27
+mataniv,218,tutor,"Hmm. Okay, done?",00:34:40
+mataniv,219,student,Yes.,00:34:44
+mataniv,220,tutor,"Yes, that is correct. So very good job. That's a start. Okay, right. So let me give you a big star for that. So can you tell me over here, why did you decide to divide by 10?",00:34:45
+mataniv,221,student,Because it's one-tenth and,00:34:59
+mataniv,222,student,"So if I drew 1/10, it's 1 over 10, which— 1 over 10, which— if this was a decimal, it'd be 0.1. And instead of 10, because it's 10, I'd move it down by one spot. So it's 14.9— [unclear]",00:35:02
+mataniv,223,tutor,"14.93. Okay, yes, that was a really good explanation as well. So that is the end of this lesson. So let's discuss what we've done so far, and we can move on to another lesson. So, Julian, can you tell me what the lesson Multiplying and Dividing Whole Numbers and Decimals by 10 and 100 was about?",00:35:30
+mataniv,224,student,"So, like,",00:35:52
+mataniv,225,student,"Multiplying, dividing. If you're dividing a whole number by 10, then you move it down the place order once. And if you're dividing it by 100, you do it, you move it down twice. If you're timesing it by 10, you move it up twice. And if you're dividing it, then if you're timesing it by 100, you'll move— if you're timesing it by 10, you're moving up [unclear] once.",00:35:55
+mataniv,226,tutor,"Once, yes. So that is actually the most— like, this is the basic thing that you have to understand in order to work out all these questions, right?",00:36:22
+mataniv,227,student,Yes.,00:36:33
+mataniv,228,tutor,"Right, okay. So you did a really good job with that. Then we had another question. So very good and well done throughout. So anything that you don't understand or need me to help you out with in this lesson,",00:36:35
+mataniv,229,student,"Uh, no, I don't know. Uh, no, I think I got it.",00:36:50
+mataniv,230,tutor,"Okay, then we have some more time. Shall we move on to the next lesson?",00:36:55
+mataniv,231,student,Yeah.,00:37:00
+mataniv,232,tutor,Okay. Right now we are going to learn about writing simple fractions as decimals. So have you learned about fractions before?,00:37:01
+mataniv,233,student,Yes.,00:37:15
+mataniv,234,tutor,"Right, then let's try the learning goal question first. [unclear] [unclear]",00:37:16
+mataniv,235,tutor,"Right, so we are going to learn about this in the lesson, so I won't go into detail at this point. Here the answer is going to be 0.4. Don't worry, we are going to learn this in the upcoming slides, okay? So let's do the prior learning question. Let's do this one. 6. Okay, very good job. So can you tell me how you got 6 in this place?",00:37:47
+mataniv,236,student,"So I know 10. I know 5. I know 10 is 5 [UNCLEAR]. 5 times 2 is 10. So I times 5 by 10— I times 5 by 2, and so if I do that, I'll have to times 3 by 2, which is 6.",00:38:21
+mataniv,237,tutor,"6. OK, yes, good explanation. That is how we do it. So let's start off with the lesson right over here. So shall we read this one?",00:38:40
+mataniv,238,student,"When we're looking at equivalent— equivalency between fractions and decimals, a hundredths grid is helpful",00:38:51
+mataniv,239,student,[unclear],00:39:00
+mataniv,240,tutor,"Yes, okay. So we are going to learn about equivalencies. That means we are going to see another equal thing to a given fraction or a decimal. So we are going to use a hundred grid. So over here we have 100 squares. We are going to see how this is— we can use this for our fractions and decimals. So here the hundred grid is divided into 4 equal parts. You can see 4 colors, right?",00:39:00
+mataniv,241,student,Yes.,00:39:26
+mataniv,242,tutor,"That means a fourth, that means a quarter. One of these parts, can you tell me how many squares there has to be?",00:39:27
+mataniv,243,student,There has to be 4 squares to fill out a whole quarter.,00:39:36
+mataniv,244,tutor,Whole quarter. Then how many tiny squares should be there in one of these quarters?,00:39:39
+mataniv,245,student,[unclear] 25.,00:39:46
+mataniv,246,tutor,"25. Because we have 100 in total. So over here, when we are using a 100 square grid, we are talking about our hundredth place in our place value chart. Sorry, yes, place value chart. Okay, we are talking about the hundredths. That means we have 25 hundredths in each quarter. Okay?",00:39:51
+mataniv,247,student,Okay.,00:40:14
+mataniv,248,tutor,"Right then. We are going to use this diagram to fill out our, uh, these fractions and decimals. So we have 1/4, that means out of 100 parts, how many parts that is equal to? [unclear]",00:40:15
+mataniv,249,student,"So equal to 25, because 1/4 is 1 part",00:40:34
+mataniv,250,student,"is one part of a hundredth square. So, like, in that hundredth square there's 25 small squares. And half is equal to 50, because 50 times 2 is 100. And three-quarters is equal to 75, because a quarter is 25 times by 3, because there's 3 of them, is 75.",00:40:34
+mataniv,251,tutor,"Yes, good job. So like you said, this is 25, this is 50, and this is 75. Now we have to learn how to write these as our decimals. So do you have any idea how we can write 25 hundredths as a decimal? [unclear]",00:41:09
+mataniv,252,tutor,"Okay, yes. So over here we don't have any ones, right?",00:41:31
+mataniv,253,tutor,"Then, how did you know that there are 2 tenths?",00:41:37
+mataniv,254,student,"[unclear] There are 2 tenths because there are 2— if I put a dot here and then a 0 there, because it's a bit like I'm moving— if this is 25, I'm moving it down. The placeholders twice. So that's 5 moves to 0.05 and 2 moves to 2.2. [unclear]",00:41:40
+mataniv,255,tutor,"Yeah, it's a bit like 25 divided by 100.",00:42:14
+mataniv,256,student,"100, yes. So we have 2 tens and we have 5 hundreds. That is equal to 25 hundredths. Okay, so then this is correct as well. What about this one?",00:42:20
+mataniv,257,student,[unclear],00:42:32
+mataniv,258,tutor,"0.75. Okay, so this is how we can use a hundred grid to figure out how much our fractions are equal to as decimals. So if you can see the equivalent sign, so 1/4 is equal to 25/100, which is also equal to 0.25. So all these values are equal, this set and then this set separately, and then this is separately. That is why it says that we are looking at equivalences. Okay?",00:42:32
+mataniv,259,student,"Yeah, okay.",00:43:02
+mataniv,260,tutor,So we are seeing how fractions are equal to decimals. So that's simply what's given over here. Did you understand up to this point?,00:43:03
+mataniv,261,student,Yes.,00:43:11
+mataniv,262,tutor,"Okay, then let's move on to this one. So over here we are going to, like we did before, we are going to do the follow— I'm going to do the follow me part. Then if you have any questions at the end of it, you can ask me. Then it's your turn to do the your turn part. Okay. Okay. Okay, uh, so I'm actually wondering if we have enough time to do this. So shall we do this part in the next day? Because we have less than— [unclear]",00:43:12
+mataniv,263,student,"Yeah, we— I think we have 15 minutes until this ends. So, uh, until we have to go.",00:43:41
+mataniv,264,tutor,"Right, yes. So let's—",00:43:50
+mataniv,265,tutor,Hello?,00:43:55
+mataniv,266,student,"Yeah, [unclear] you went quiet for a bit.",00:43:57
+mataniv,267,tutor,"Okay, I'm sorry. I thought you were trying to say something. Okay, now we'll continue this part in the next day. So before we go, can you tell me up to this point over here, what did you learn?",00:44:01
+mataniv,268,student,"I learnt how to How to convert fractions into decimals. [unclear] And we saw how these are equivalent using our hundred square grid, right?",00:44:18
+mataniv,269,student,Yes.,00:44:34
+mataniv,270,tutor,"Right. Okay, so that is the end of this part for today. So we can end the session now. So did you have a good session? Did you understand what I've said?",00:44:35
+mataniv,271,student,Yes.,00:44:48
+mataniv,272,tutor,"Okay, so I'm very happy to hear that since this is our first session together. Okay, Julian, so I'll be ending the session now. So once I end the session, you'll be getting some questions, so please try them. It's really important to see what you understood, and then there'll be a feedback form, so please fill that as well. Okay?",00:44:48
+mataniv,273,student,Okay.,00:45:05
+mataniv,274,tutor,"Okay, so let's meet again in the next day. Until that, stay safe. Bye-bye. [unclear]",00:45:07
+mataniv,275,student,Bye.,00:45:10

@@ -1,0 +1,419 @@
+session_id,utterance_id,role,content,timestamp
+nxiwpjr,0,tutor,Hello?,00:00:00
+nxiwpjr,1,background,[unclear],00:00:00
+nxiwpjr,2,student,Hello.,00:00:00
+nxiwpjr,3,tutor,"Hi, is this Tobias?",00:00:02
+nxiwpjr,4,student,Yeah.,00:00:03
+nxiwpjr,5,tutor,Awesome. How are you doing today?,00:00:04
+nxiwpjr,6,student,I'm good. How are you?,00:00:06
+nxiwpjr,7,tutor,"That's nice to know. I'm [TUTOR_NAME], and I'll be your tutor for the day. Is it okay?",00:00:09
+nxiwpjr,8,student,Yeah.,00:00:16
+nxiwpjr,9,tutor,"Awesome, Tobias. So today we're going to be continuing a lesson that you started off last time, that is factorizing quadratics, coefficient equal to 1. Okay?",00:00:17
+nxiwpjr,10,student,Okay.,00:00:29
+nxiwpjr,11,tutor,"So just to give ourselves what the lesson is all about, shall we try this one more question and see what's this about.",00:00:30
+nxiwpjr,12,tutor,Okay. Do you agree with him?,00:00:38
+nxiwpjr,13,student,"Yeah, and no, I disagree.",00:00:53
+nxiwpjr,14,tutor,"So do you know how to [UNCLEAR]? I mean, factorize this.",00:00:57
+nxiwpjr,15,student,Not really. [unclear],00:01:02
+nxiwpjr,16,tutor,"All right, no worries. So let me show you what you did last time. I believe you worked out this question last time, isn't it?",00:01:04
+nxiwpjr,17,student,I think so.,00:01:13
+nxiwpjr,18,tutor,So do you remember how you worked it out? These calculations?,00:01:16
+nxiwpjr,19,student,Not really.,00:01:26
+nxiwpjr,20,tutor,"Okay, no worries. I'll just show you. How you did it. So for example, if I have 5b² 15ab, I can write 5b² as 5 times b times b, because 5 times b² is 5b². Am I right? Yeah.",00:01:28
+nxiwpjr,21,student,And,00:01:49
+nxiwpjr,22,tutor,b² means b times b. So do you understand this equation?,00:01:49
+nxiwpjr,23,student,Yes.,00:01:56
+nxiwpjr,24,tutor,"Okay, and the next term we have is 15ab. So if I write that with factors, so I can make 15 using 3 times 5. Yeah?",00:01:58
+nxiwpjr,25,student,Yeah.,00:02:12
+nxiwpjr,26,tutor,And then we have ab. So 3 times 5 times ab. So I have 2 equations now. Can you see that?,00:02:13
+nxiwpjr,27,student,Yeah.,00:02:23
+nxiwpjr,28,tutor,"Okay. So φ and b divide into both terms, so we can factorize these out. So basically they mean— what they mean is φ and b are common to both the equations. Can you see that?",00:02:25
+nxiwpjr,29,student,Yes.,00:02:38
+nxiwpjr,30,tutor,"So we can factorize that out. So if I factorize this out, so φb is taken away, so we are left with b on the first equation. Am I right?",00:02:39
+nxiwpjr,31,student,Yes.,00:02:52
+nxiwpjr,32,tutor,"So from 5b², since I take away 5b, I'm left with b. Does it make sense?",00:02:53
+nxiwpjr,33,student,Yes.,00:03:00
+nxiwpjr,34,tutor,"And plus, say we have 3ab— 3a, sorry. Since I took away 5b, so I have ba, so that's the next term. Does it make sense?",00:03:01
+nxiwpjr,35,student,Yes.,00:03:12
+nxiwpjr,36,tutor,"Okay, so— [unclear] Do you remember how you did this? So would it be 2 times a times a?",00:03:14
+nxiwpjr,37,tutor,"Mm-hmm, that's right.",00:03:27
+nxiwpjr,38,student,Should I write that down?,00:03:28
+nxiwpjr,39,tutor,"No, since you've already done that, I'll just write it for you.",00:03:30
+nxiwpjr,40,student,"Okay, and then would it be 2 times -2...times a...",00:03:34
+nxiwpjr,41,tutor,Very good. [Speaker:Tobias]...times c.,00:03:45
+nxiwpjr,42,tutor,Very good. 2 times -2 times a times b. Yeah?,00:03:47
+nxiwpjr,43,student,Yeah.,00:03:54
+nxiwpjr,44,tutor,So what would you factorize out?,00:03:55
+nxiwpjr,45,student,"Um, the 2...",00:04:00
+nxiwpjr,46,tutor,And?,00:04:03
+nxiwpjr,47,student,"So in the 2a², you would do the 2 and the a.",00:04:03
+nxiwpjr,48,tutor,Very good. So from... [unclear],00:04:07
+nxiwpjr,49,student,Mm-hmm.,00:04:09
+nxiwpjr,50,tutor,"And then in the -4ab, it would be the 2 and the a again, leaving you with a 26. So",00:04:10
+nxiwpjr,51,student,"if I factorize them out, so if I open the bracket, so what's the first term? I mean, what would be left from the first term? a.",00:04:22
+nxiwpjr,52,tutor,"a,",00:04:32
+nxiwpjr,53,student,"okay. Let me write that down, give me a second. [unclear]",00:04:32
+nxiwpjr,54,tutor,"Okay, a in the second term.",00:04:41
+nxiwpjr,55,student,Minus 2b.,00:04:46
+nxiwpjr,56,tutor,"Minus 2b, yeah. So can you see that you have factorized 2a² 4ab as 2a(a 2b)? Does it make sense?",00:04:48
+nxiwpjr,57,student,Yeah.,00:05:03
+nxiwpjr,58,tutor,Okay. So this is what you did last time. So today we can start off with this question over here. So would you like to try first?,00:05:04
+nxiwpjr,59,student,So is it like the same as [UNCLEAR]?,00:05:14
+nxiwpjr,60,tutor,What do you think? Is it same like what we did?,00:05:18
+nxiwpjr,61,student,"No, as there's 3 numbers.",00:05:25
+nxiwpjr,62,tutor,"That's right, we have 3 terms. Okay, I totally agree with you. So do you think we can use the same method here?",00:05:28
+nxiwpjr,63,student,"Um, yes.",00:05:37
+nxiwpjr,64,tutor,So how would you do it if we can do this in the same method?,00:05:41
+nxiwpjr,65,student,So the x² would equal x times x.,00:05:45
+nxiwpjr,66,tutor,"Okay, you can work it out, go ahead, let's write it.",00:05:50
+nxiwpjr,67,student,And then 12x would equal 12 times x.,00:05:53
+nxiwpjr,68,tutor,"Mm-hmm. Actually, when we have 12, we have to write 12 as a product of prime factors.",00:06:01
+nxiwpjr,69,student,So 4 times 3?,00:06:08
+nxiwpjr,70,tutor,It's for a prime number.,00:06:11
+nxiwpjr,71,student,"Oh, well, no. So instead of 4, what should we write?",00:06:14
+nxiwpjr,72,student,3.,00:06:21
+nxiwpjr,73,tutor,"So we have 4 times 3 as prime factors, yeah?",00:06:23
+nxiwpjr,74,student,Yeah.,00:06:29
+nxiwpjr,75,tutor,"So instead of 4, how can we further factorize 4?",00:06:30
+nxiwpjr,76,student,I don't know.,00:06:39
+nxiwpjr,77,tutor,"Because 4 is not a prime number, we can use 2 times 2 instead of 4. Does it make sense?",00:06:42
+nxiwpjr,78,student,"Oh yeah, so 2 times 2 times 3.",00:06:49
+nxiwpjr,79,tutor,Does it make sense?,00:06:52
+nxiwpjr,80,student,Yeah.,00:06:54
+nxiwpjr,81,tutor,Okay.,00:06:55
+nxiwpjr,82,student,So times that by x.,00:06:56
+nxiwpjr,83,tutor,"Mm-hmm. And then for 20, would it be 2 times 10, or would it be",00:06:58
+nxiwpjr,84,student,2 times 2 times 5.,00:07:11
+nxiwpjr,85,tutor,That's right.,00:07:15
+nxiwpjr,86,student,So 2 times 2 times 5.,00:07:16
+nxiwpjr,87,tutor,"Mm-hmm, that's right. So if we do that, if we do that, do you think we can find or factorize this equation?",00:07:18
+nxiwpjr,88,student,"Um, yes.",00:07:30
+nxiwpjr,89,tutor,"Mm-hmm, can you write what you told me over here and then let's discuss further? Shall we?",00:07:32
+nxiwpjr,90,student,"So, write it on the page?",00:07:37
+nxiwpjr,91,tutor,"Yeah, go ahead.",00:07:40
+nxiwpjr,92,student,"Okay, so, x squared equals x times x. 12x equals 2 times 2 times 3 times x.",00:07:42
+nxiwpjr,93,tutor,"Okay, so always remember we should write it as product of prime factors, okay?",00:08:15
+nxiwpjr,94,student,Yeah.,00:08:21
+nxiwpjr,95,tutor,"So we can't have any numbers that are not prime. So if we have a number, we have to break it down. Like you did over here for the phone. Okay?",00:08:21
+nxiwpjr,96,student,So then 20 equals 2— [unclear] 2 times 2 times 5.,00:08:30
+nxiwpjr,97,tutor,"Very good. So last time when we did that, yeah?",00:08:40
+nxiwpjr,98,student,Mm-hmm.,00:08:44
+nxiwpjr,99,tutor,And how did you pick the common factors?,00:08:45
+nxiwpjr,100,student,"By seeing what numbers are in both the equations. That's right. So here we have 3 terms, yeah? Is there anything that is there in all the 3 terms? [unclear] So do you think the previous method works here?",00:08:50
+nxiwpjr,101,student,No.,00:09:13
+nxiwpjr,102,tutor,"No. So I just want to show you about. So here, all the 3 terms doesn't include I mean, like a common factor. Does it make sense?",00:09:14
+nxiwpjr,103,student,Yeah.,00:09:24
+nxiwpjr,104,tutor,So we have to use a different method when we have 3 terms. Okay? So shall we learn about that?,00:09:26
+nxiwpjr,105,student,Yeah.,00:09:31
+nxiwpjr,106,tutor,Okay. So first read this and tell me what you understand by it. Okay? So... [unclear] [unclear],00:09:32
+nxiwpjr,107,tutor,What do you understand by it?,00:10:08
+nxiwpjr,108,student,"Um,",00:10:11
+nxiwpjr,109,student,Not much. It is quite confusing.,00:10:13
+nxiwpjr,110,tutor,"Okay, no worries. That's completely fine. So Tobias, let's try to do this question together so that you can work this question by yourself. Is it okay?",00:10:15
+nxiwpjr,111,student,Yeah.,00:10:26
+nxiwpjr,112,tutor,"Okay. So instead of n's, I'm going to make it x again so that it looks similar. Okay? So give me a second. [unclear]",00:10:27
+nxiwpjr,113,tutor,"Sorry. Give me a second. Next. And okay, I think I got confused. So give me a second.",00:10:45
+nxiwpjr,114,tutor,Are you trying to write x²?,00:11:04
+nxiwpjr,115,student,That's right.,00:11:06
+nxiwpjr,116,tutor,Do you want me to write the equation for you?,00:11:07
+nxiwpjr,117,student,"Yeah, can you do that for me please? [unclear]",00:11:11
+nxiwpjr,118,tutor,x² 7x 12. Plus 7x,00:11:13
+nxiwpjr,119,student,plus 12? That's right.,00:11:26
+nxiwpjr,120,tutor,Do you notice that they have highlighted the coefficient? What do we mean by coefficient? Have you heard of that term?,00:11:30
+nxiwpjr,121,student,"Um, no.",00:11:40
+nxiwpjr,122,tutor,"Okay, the coefficient means the number before. For example, if I say coefficient of x, that means the number before the x, that is here 12. Does it make sense?",00:11:42
+nxiwpjr,123,student,Yeah.,00:11:55
+nxiwpjr,124,tutor,"So, and also they have highlighted the constant, that is the number without an x. [unclear] So these are the very two important terms in our equation, so we have to focus on that. So my constant is, that is without the x, I have 12, and the number before the x is 7. Okay?",00:11:56
+nxiwpjr,125,student,Mm-hmm.,00:12:19
+nxiwpjr,126,tutor,So I have to find factor pair of the last term first. Does it make sense?,00:12:21
+nxiwpjr,127,student,Yeah.,00:12:31
+nxiwpjr,128,tutor,"So factor pair for 12, I can start with like 1 times— since this is a positive one, I can start with positive 1 times positive 12. Yes?",00:12:33
+nxiwpjr,129,student,"Yeah. Or positive 2 times positive x, and then positive 3 times positive 4. Positive 2 times positive 6, yeah? [unclear] And then positive 3 times positive 4. So these are the terms that I have. I mean, these are the factor pairs I have for 12, yes? So I have to choose one of these factor pairs. So the condition is, it says, um, we have to find a factor pair. When we multiply, okay, we should get the 12, but when we add them together— but when we add them together, it should make the middle term like the 7. Does it make sense? [unclear] So here it says to factorize an expression in the form x² bx c. So b means the coefficient of x, that's the number before the x, and c means constant over [unclear] here. So we need to find two numbers which add to make b. So when we have to find two numbers that would add to make the middle term, but when we multiply them, it should make the last term. Does it make sense?",00:12:47
+nxiwpjr,130,student,Yes.,00:14:09
+nxiwpjr,131,tutor,"So in my question, I have 3 options, but if I add 12 and 1, I can't get 7. 2 and 6, that's 8. No. So I have to focus on this because 3 and 4 would add up to 12. [unclear] I mean, it would add up to 7. Does it make sense?",00:14:10
+nxiwpjr,132,student,Yeah.,00:14:26
+nxiwpjr,133,tutor,"So when you multiply, you should get the last term. When you add, we should get the middle term. Do you have any confusion so far?",00:14:27
+nxiwpjr,134,student,[unclear] No.,00:14:37
+nxiwpjr,135,tutor,"Okay, so what we're going to do is the next part, we have to go like, okay, so instead of writing 7x, I can write it as x². Can you write it for me, please?",00:14:39
+nxiwpjr,136,student,x².,00:14:52
+nxiwpjr,137,tutor,x².,00:14:53
+nxiwpjr,138,student,Plus 3x because one of the term is 3. Plus 3x.,00:14:59
+nxiwpjr,139,tutor,Plus 3x. And then would it be plus?,00:15:04
+nxiwpjr,140,student,Plus 4x.,00:15:06
+nxiwpjr,141,tutor,That's right. Plus 12. Does it make sense?,00:15:08
+nxiwpjr,142,student,Yes.,00:15:13
+nxiwpjr,143,tutor,"So instead of 7x, I have written that in two parts, 3x and 4x. Did you understand up to this?",00:15:14
+nxiwpjr,144,student,"[unclear] Okay, so what I can do is now I have to pick these two terms first and find the factor that is common to both. So for x², okay?",00:15:22
+nxiwpjr,145,student,Yeah. [unclear],00:15:38
+nxiwpjr,146,tutor,"x² and x. So 3x, that would be equal to 3 times x. So sorry, that should be 3 times x. I'll use the symbol 3 times x. Okay. [unclear] So, so far do you understand this?",00:15:39
+nxiwpjr,147,student,Yeah.,00:16:05
+nxiwpjr,148,tutor,So the common factor is x.,00:16:06
+nxiwpjr,149,student,X.,00:16:09
+nxiwpjr,150,tutor,So I can bring out the x for the first 2 terms. I can bring out the x. And I can write it as x 3. Did you understand this? Yes.,00:16:11
+nxiwpjr,151,student,"Okay,",00:16:23
+nxiwpjr,152,tutor,"and for the second two terms, I have to again find the factors, common factor. So 4x can be written as 4 times x. But 4 is not a prime number, am I right?",00:16:24
+nxiwpjr,153,student,So it would be 2 times...,00:16:42
+nxiwpjr,154,tutor,2 times... [Speaker:Tobias]...2 times x.,00:16:45
+nxiwpjr,155,tutor,"That's right, 2 times... 2 times x. And for 12, I have to write 4 times 3, but 4 is not... [unclear]",00:16:47
+nxiwpjr,156,student,So it would be 2 times 2 times 3.,00:17:01
+nxiwpjr,157,tutor,"That's right, 2 times 2 times 3. So do you have any question for me so far?",00:17:04
+nxiwpjr,158,student,No.,00:17:11
+nxiwpjr,159,tutor,"Okay, so we can see that these are the common factors, yeah?",00:17:12
+nxiwpjr,160,student,"Yes, that's it.",00:17:19
+nxiwpjr,161,tutor,"2 times 2 is common factors, that is 4 is a common factor, am I right?",00:17:20
+nxiwpjr,162,student,Yeah.,00:17:26
+nxiwpjr,163,tutor,"So if I bring out 4, so if I bring out positive 4, [unclear] So it would be left with x 3. Did you understand this? Mm-hmm.",00:17:27
+nxiwpjr,164,student,So,00:17:45
+nxiwpjr,165,tutor,"I factorized first two pair, I got x, x 3, and I factorized the second two pair, 4, second two, so I got 4x 3. Did you understand up to this, everything? Yeah. Okay, so from here what we do is again we factorize. So if we consider these two terms now, let me change my color. I have x(x 3), 4x 3. Yes, what's common in these two terms? x 3.",00:17:46
+nxiwpjr,166,student,So I bring,00:18:19
+nxiwpjr,167,tutor,"out the x 3. So x x 3. So if I bring out the x 3, what's the term that would be remaining in the first term? Um, x",00:18:20
+nxiwpjr,168,student,4. So in the,00:18:35
+nxiwpjr,169,tutor,"first term, x would be remaining. The second term, +4 would be remaining. Yeah, yeah. Okay, so I can write this— the first term, second x would be remaining, and in the second term, 4 would be remaining. So I can write this as (x 3)(x 4). Did you understand this? Yeah. So",00:18:38
+nxiwpjr,170,student,this,00:19:05
+nxiwpjr,171,tutor,equation has been factorized to this. Can you see that? Mm-hmm. Do,00:19:05
+nxiwpjr,172,student,you,00:19:12
+nxiwpjr,173,tutor,have any question for me? No. So,00:19:12
+nxiwpjr,174,student,"far,",00:19:16
+nxiwpjr,175,tutor,is it all good?,00:19:16
+nxiwpjr,176,student,Yeah.,00:19:17
+nxiwpjr,177,tutor,"Okay, so let's go through the notes as well. So here they have chosen +3 and +4 because b equal +7, so matching pair is +3 and +4. Yeah?",00:19:18
+nxiwpjr,178,student,Mm-hmm.,00:19:32
+nxiwpjr,179,tutor,"So as we got, they also got n 3 and n 4. Yeah. Okay, [unclear]",00:19:34
+nxiwpjr,180,student,so,00:19:43
+nxiwpjr,181,tutor,"here they are, they have given you some what do you say, important strategies we can look out for when doing these questions, okay?",00:19:44
+nxiwpjr,182,student,Mm-hmm.,00:19:52
+nxiwpjr,183,tutor,"So what do you understand by the first sentence, or first strategy they have given?",00:19:54
+nxiwpjr,184,student,"So if the number before the x, so if the coefficient and the constant are both positive, then we're looking for two positive numbers That's right. So here we got two positive numbers as our answer, isn't it?",00:20:00
+nxiwpjr,185,student,Yeah.,00:20:16
+nxiwpjr,186,tutor,"So if constant is negative, what do we do? What are we looking for?",00:20:17
+nxiwpjr,187,student,A positive number and a negative number.,00:20:25
+nxiwpjr,188,tutor,"That's right. Always when the constant is negative, the last term is negative, we are looking for a positive number and a negative number. Does it make sense?",00:20:27
+nxiwpjr,189,student,"Mm-hmm. Okay, now if the constant is positive but the b is negative, like your question over here, then what we are looking for— what are we looking for?",00:20:36
+nxiwpjr,190,student,Two negative numbers.,00:20:47
+nxiwpjr,191,tutor,"That's right. So this might help you work things out. Okay? Okay, so shall we try to find— try to do your question now? So what's the first step?",00:20:49
+nxiwpjr,192,student,"Um, wait. So the factor pairs of 20 would be 1 times 20. [unclear] Times 10. I should have written down on here.",00:21:04
+nxiwpjr,193,tutor,"Yeah, you can write down over here.",00:21:19
+nxiwpjr,194,student,So 1 times 20.,00:21:21
+nxiwpjr,195,tutor,"Before you go further, since here The middle term is negative. So what are we looking for? Two positive numbers or two negative numbers or one positive and one negative? [unclear]",00:21:26
+nxiwpjr,196,student,"So since we're looking for two negatives, aren't we?",00:21:43
+nxiwpjr,197,tutor,So will it be 1 times 20 or minus 1 times minus 20?,00:21:49
+nxiwpjr,198,student,Minus 1 times minus 20.,00:21:54
+nxiwpjr,199,tutor,That's right. Does it make sense?,00:21:55
+nxiwpjr,200,student,Yeah.,00:21:59
+nxiwpjr,201,tutor,Okay.,00:22:01
+nxiwpjr,202,student,And then because— [unclear],00:22:02
+nxiwpjr,203,tutor,Do I do it for all of them?,00:22:04
+nxiwpjr,204,student,Yeah.,00:22:08
+nxiwpjr,205,tutor,"Minus 2 times minus 10, and then with minus 4 with -4 times -5. That's [unclear]",00:22:10
+nxiwpjr,206,tutor,"right. Awesome. So you might have a question. We have a positive number here, right? Why do we go for minus terms? Because",00:22:31
+nxiwpjr,207,student,it multiplies. Is,00:22:42
+nxiwpjr,208,tutor,"it because the coefficient is negative? That's right. And also we can get the positive number here, right? When we multiply together, what do you think? -1 times -20, what do you think would be the answer? [unclear] 20, positive 20. Yeah, negative times negative. So it doesn't matter we have negative here because when we multiply, we're getting the positive 20. So it's completely fine. Does it make sense? Okay.",00:22:44
+nxiwpjr,209,student,Yes.,00:23:13
+nxiwpjr,210,tutor,So how would you choose? Which pair would you choose? [unclear],00:23:14
+nxiwpjr,211,student,Negative 2 times negative 10.,00:23:21
+nxiwpjr,212,tutor,Okay. Why do you choose that?,00:23:24
+nxiwpjr,213,student,Because negative 2 and negative 10 equals 12.,00:23:30
+nxiwpjr,214,tutor,"That's right. When you add them together, it's equal 12. Yeah.",00:23:37
+nxiwpjr,215,student,Yeah.,00:23:43
+nxiwpjr,216,tutor,Go ahead. So you can write that down over here.,00:23:44
+nxiwpjr,217,student,So negative 2 times negative 10. [unclear],00:23:50
+nxiwpjr,218,tutor,"Before you go to the next step, I'm going to show you a shortcut for what we did over here. Is it okay? [unclear] So we're gonna skip this part over here. Okay? [unclear] So what we have to do is, once we got the, like, the numbers that we want, like when we multiply we get the last term, when we add we get the middle term. So we know that is these two numbers, yeah?",00:24:03
+nxiwpjr,219,student,Yeah.,00:24:32
+nxiwpjr,220,tutor,"So what we have to do is, once we know that, you just open two brackets. Okay?",00:24:33
+nxiwpjr,221,student,Okay.,00:24:40
+nxiwpjr,222,tutor,"We just open two brackets. So done. So in the first bracket, we start with x, and the second bracket, we start with x. So, so far, do you understand?",00:24:41
+nxiwpjr,223,student,Yeah.,00:24:51
+nxiwpjr,224,tutor,"So then next, in the second bracket, we put in the first term, x 3. That is the first number. Am I right?",00:24:53
+nxiwpjr,225,student,Yeah.,00:25:04
+nxiwpjr,226,tutor,"And in the second term, we put in the second— I mean, the second bracket, we put in the second term. So that would be x 4. So can you see that we got the same answer by skipping that step over here? So [unclear] this is actually what happens over here, but this is kind of like a short way to reduce time because we are doing an exam. Yeah, so we always try to make sure that to save time to do some more questions. Yeah, so you can use this method. Does it make sense? So once we know the number pair, you can just open the brackets and write them down. Does it make sense?",00:25:05
+nxiwpjr,227,student,Yeah.,00:25:49
+nxiwpjr,228,tutor,"Okay, so now how are you going to use that and fill this up?",00:25:50
+nxiwpjr,229,background,"So x minus 2, and then x minus 10.",00:25:53
+nxiwpjr,230,tutor,"So do you understand this? [unclear] Okay, the reason I said that we don't need this step is— the reason I said we don't need this step is we don't get marks for that step. So let me show you how the marks are distributed, shall we?",00:26:04
+nxiwpjr,231,student,Okay.,00:26:21
+nxiwpjr,232,tutor,"So the first mark is given for identifying the factor pair. So we are pretty sure these are the two numbers that would fit in. Yes? So that's one mark. And one mark for the final answer. So we don't need to waste time on the method in between them, isn't it?",00:26:21
+nxiwpjr,233,student,Mm-hmm.,00:26:41
+nxiwpjr,234,tutor,So do you understand this question now?,00:26:42
+nxiwpjr,235,student,Yes. So do you think you can work out a similar question by yourself?,00:26:45
+nxiwpjr,236,student,"Yeah, I think I'll [UNCLEAR].",00:26:50
+nxiwpjr,237,tutor,"Alright, so if you need my help, I'm always here to help you, okay? Just give it a try. I'm just going to be a spectator here, so go ahead. So what's the first step, Tobias? Hello?",00:26:52
+nxiwpjr,238,student,"Hello, hello.",00:27:10
+nxiwpjr,239,tutor,Yeah.,00:27:11
+nxiwpjr,240,student,So would it be 7 minus 7? [unclear] And then would it equal 1? Would it be negative 1 times 7? Okay. Why do we have an equal in between them?,00:27:12
+nxiwpjr,241,student,"Oh, just to— I was meant to just show the common factor.",00:27:45
+nxiwpjr,242,tutor,"Okay, so just let's reuse the multiplication symbol in between them. Let's do this.",00:27:51
+nxiwpjr,243,student,So it would be -1 times 7.,00:27:57
+nxiwpjr,244,tutor,"Okay, so -1 times positive 7, yeah? So let's see whether that is true, shall we?",00:28:01
+nxiwpjr,245,student,Okay.,00:28:09
+nxiwpjr,246,tutor,"So when you multiply, will you get negative 7 minus negative 1 times positive 7? Will you get negative 7?",00:28:10
+nxiwpjr,247,student,Yes.,00:28:19
+nxiwpjr,248,tutor,"Okay. When you add them, will you get negative 6?",00:28:20
+nxiwpjr,249,student,Yes. [unclear] No.,00:28:26
+nxiwpjr,250,student,No. [unclear],00:28:30
+nxiwpjr,251,tutor,So would it be 1 times -7?,00:28:31
+nxiwpjr,252,student,Very good understanding. Why did you choose to change it?,00:28:34
+nxiwpjr,253,tutor,"Because -1 plus 7 would equal positive 6, but because the coefficient is -6, you need to do -7 plus 1.",00:28:39
+nxiwpjr,254,student,Equals negative 6.,00:28:56
+nxiwpjr,255,tutor,"Very good, very good understanding. So now do you understand how to use the [UNCLEAR]?",00:28:58
+nxiwpjr,256,student,"Mm-hmm. Yes, so would it be—",00:29:02
+nxiwpjr,257,tutor,"So go ahead, you can open your bracket.",00:29:08
+nxiwpjr,258,student,Bracket y times 1.,00:29:13
+nxiwpjr,259,tutor,Is it times?,00:29:22
+nxiwpjr,260,student,"Oh no, add, sorry. Plus 1.",00:29:24
+nxiwpjr,261,tutor,"Plus 1, okay. What's with the other bracket?",00:29:29
+nxiwpjr,262,student,So that one will be bracket y minus 7.,00:29:33
+nxiwpjr,263,tutor,"That's right. So only thing, only 2 things we needed to get the whole marks. First is the factor pair, We have got that, and the final answer, we have got that as well. So 2 marks. See how much time we saved? Does it make sense?",00:29:42
+nxiwpjr,264,student,Yeah.,00:29:59
+nxiwpjr,265,tutor,So do you have any question for me?,00:30:00
+nxiwpjr,266,student,No.,00:30:03
+nxiwpjr,267,tutor,"All right, so always look out for— I mean, you can get a factor pair, but always look out for like, when you multiply, do we get the last term? And when you add them together, do you get the middle term? [unclear] Okay, awesome. So do you have any question for me so far, Tobias?",00:30:04
+nxiwpjr,268,student,No.,00:30:20
+nxiwpjr,269,tutor,"All right, so do you feel like— how do you feel about the lesson now? Like when you compare to the start of the session, how do you feel like you have improved, or do you feel like— [unclear]",00:30:21
+nxiwpjr,270,student,"I think I've improved a bit, yeah.",00:30:31
+nxiwpjr,271,tutor,"Awesome, awesome. That's really nice to know. I'm so happy to hear that. So shall we move on to the next type of question?",00:30:34
+nxiwpjr,272,student,"Okay. So we had this type, that's done. We have this type, that's also done. So now the third type would be this. Okay. So have you factorized an expression like this before?",00:30:40
+nxiwpjr,273,student,Is it like the first question?,00:31:02
+nxiwpjr,274,tutor,"Okay, let's see what's the difference between the first question and this question. So here, do we have common factors in between the two terms?",00:31:05
+nxiwpjr,275,student,"Yes, a.",00:31:15
+nxiwpjr,276,tutor,"Yeah, but a and also 2, yeah?",00:31:17
+nxiwpjr,277,student,"Oh yeah, and then 2 because we've got to do 2 times 2.",00:31:21
+nxiwpjr,278,tutor,"Mm-hmm. But over here, do we have any common factors?",00:31:23
+nxiwpjr,279,student,No.,00:31:30
+nxiwpjr,280,tutor,"No. So this is a different kind, okay? So shall we work this out together so that we can have a similar question later? Is it okay?",00:31:32
+nxiwpjr,281,student,Yeah.,00:31:41
+nxiwpjr,282,tutor,"Alright. So this is a really, really easy question to identify because— have you heard of terms called square numbers?",00:31:43
+nxiwpjr,283,student,Square numbers.,00:31:56
+nxiwpjr,284,tutor,"That's right. [unclear] So what do we mean by square numbers, Tobias? [unclear] Like a number that's times by 2 of the same number.",00:31:57
+nxiwpjr,285,tutor,"Very good. So for example, can you give me some examples for square numbers?",00:32:13
+nxiwpjr,286,student,So like 4 would be 2 times 2.,00:32:18
+nxiwpjr,287,tutor,"That's right. So we can start with 1 times 1, 1. 2 times 2, 4. 3 times 3, 9. Does it make sense?",00:32:22
+nxiwpjr,288,student,Yeah.,00:32:30
+nxiwpjr,289,tutor,"Okay, so sometimes we come across a special case. So this is a very special case where there is a squared term and a constant term but no middle term. So we have a squared term and a constant term, no middle term. That is no a term. Like usually we get something like this here, x squared, x, and then the constant here. So here we don't have a middle term. So this is called the difference of two squares, and we'll have a negative square number as the constant. So usually when we have these type of questions, we have a negative square number. So is 36 a square number?",00:32:31
+nxiwpjr,290,student,[unclear],00:33:10
+nxiwpjr,291,tutor,"If you carry on this, what do you think?",00:33:13
+nxiwpjr,292,student,Yeah.,00:33:17
+nxiwpjr,293,tutor,What times what is 36?,00:33:18
+nxiwpjr,294,student,Is it 14 times 14?,00:33:21
+nxiwpjr,295,tutor,Mm-hmm. 14 times 14 is 36. [unclear],00:33:22
+nxiwpjr,296,tutor,"No, no, no. Let's continue this. 1 times 1 is 1, yeah? 2 times 2 is 4. 3 times 3 is 9. So next, what is it?",00:33:30
+nxiwpjr,297,student,62.,00:33:39
+nxiwpjr,298,tutor,Very good. Next?,00:33:40
+nxiwpjr,299,student,25.,00:33:43
+nxiwpjr,300,tutor,And next?,00:33:45
+nxiwpjr,301,student,36.,00:33:46
+nxiwpjr,302,tutor,That's right. So what times what is that?,00:33:48
+nxiwpjr,303,student,6 times 6.,00:33:50
+nxiwpjr,304,tutor,That's right. Does it make sense?,00:33:51
+nxiwpjr,305,tutor,Mm-hmm.,00:33:53
+nxiwpjr,306,student,"Okay, so I'll do one question for myself over here so that you can do this, okay?",00:33:55
+nxiwpjr,307,tutor,Okay.,00:34:00
+nxiwpjr,308,student,"All right, so in my question I have a² 9, and of course I know 9 is a square number, yes? Mm-hmm.",00:34:01
+nxiwpjr,309,tutor,So,00:34:10
+nxiwpjr,310,student,"what I can do is I can write this as a So [UNCLEAR]. a², I'll put the square in later. Minus— instead of 9, I can write it as 3 squared. So it would be like a squared minus 3 squared. Does it make sense?",00:34:10
+nxiwpjr,311,student,Mm-hmm.,00:34:29
+nxiwpjr,312,tutor,"So what we have to do is, after that, it's pretty much simple. So we have to open brackets, okay?",00:34:31
+nxiwpjr,313,student,Okay.,00:34:37
+nxiwpjr,314,tutor,"We have to open brackets, 2 brackets, as always. So we put in the a first. So now we know this is a square number. So what we have to write is one positive of that, and on the other one we have to write the negative of that. Does it make sense? So this would be a 3, a 3. So this only works when we have two square numbers and there's a minus in between them. Does it make sense? So this",00:34:38
+nxiwpjr,315,student,"is why they say this as difference of two squares. So difference means taking away, yes? And we have two square numbers, so difference of two squares. Did you understand this?",00:35:10
+nxiwpjr,316,student,"Yes, I think I know how to do it now.",00:35:23
+nxiwpjr,317,tutor,"Okay, so would you like to try your question?",00:35:26
+nxiwpjr,318,student,"Yes, so should I put— do it on the right here or on the other? [unclear]",00:35:29
+nxiwpjr,319,background,"Yeah, you can just write the final answer over here if you know what to do. So would it be square root of a is a?",00:35:35
+nxiwpjr,320,student,Yes.,00:35:42
+nxiwpjr,321,tutor,Square root of 36 is?,00:35:42
+nxiwpjr,322,student,6.,00:35:46
+nxiwpjr,323,tutor,6. So what would be your equation?,00:35:47
+nxiwpjr,324,student,"It would be a plus 6 and then a minus 6. Awesome. So remember, it only works for square numbers. Okay?",00:35:50
+nxiwpjr,325,student,Yeah.,00:36:08
+nxiwpjr,326,tutor,So shall we try another question?,00:36:10
+nxiwpjr,327,student,"Okay. Go ahead, give it a try.",00:36:13
+nxiwpjr,328,tutor,"Ah, um, so, square root of y.",00:36:16
+nxiwpjr,329,background,"I mean, you mean y squared.",00:36:26
+nxiwpjr,330,tutor,"Square root of y squared, yeah. Oh yeah, y squared is equal to—",00:36:28
+nxiwpjr,331,student,"Square root of y squared, yeah.",00:36:40
+nxiwpjr,332,tutor,Equal to y times y.,00:36:42
+nxiwpjr,333,student,"Mm-hmm. Do we need to write y squared equal y times y, or do we need to write square root of y squared?",00:36:46
+nxiwpjr,334,tutor,"Oh yeah, that's what I was trying to do then.",00:36:54
+nxiwpjr,335,tutor,"I mean, you had square root of y, yes? I was just saying it's not y, it's y squared.",00:36:57
+nxiwpjr,336,student,"Yeah, okay, so, well, the square root of y squared would equal— because I don't think I can do that, so— [unclear]",00:37:04
+nxiwpjr,337,tutor,"I'll put the square root over there, so it could be what?",00:37:11
+nxiwpjr,338,student,So the square root of y squared would just be— wait a second. Would equal y.,00:37:15
+nxiwpjr,339,tutor,Okay.,00:37:25
+nxiwpjr,340,student,So then this [unclear] square root of 64 equals 8.,00:37:26
+nxiwpjr,341,tutor,"Okay, so how do we make up our equation?",00:37:43
+nxiwpjr,342,student,"Sorry, expression.",00:37:48
+nxiwpjr,343,tutor,Bracket y plus 8.,00:37:49
+nxiwpjr,344,student,Mm-hmm.,00:37:53
+nxiwpjr,345,tutor,And then bracket y minus 8.,00:37:55
+nxiwpjr,346,student,"Very good, very good understanding. So here as well, we have to speak about the marks because that's the important thing about an exam, exam preparation. Yeah, so the first mark is given for identifying that 64 is a square number and 8 is The score number, it's [unclear] 64, yeah?",00:38:01
+nxiwpjr,347,student,Mm-hmm.,00:38:20
+nxiwpjr,348,tutor,"So, and the second mark is given for the final answer, so that would be 2 marks. Okay?",00:38:22
+nxiwpjr,349,student,Okay.,00:38:29
+nxiwpjr,350,tutor,"Alright, so do you have any question for me so far?",00:38:30
+nxiwpjr,351,student,No.,00:38:33
+nxiwpjr,352,tutor,"Alright then, so we have completed all the 3 types. So now do you think you can identify the difference between them? The way that you factorize it is different.",00:38:34
+nxiwpjr,353,tutor,"That's right. So, I mean, when you look at them, can you decide, okay, I'm going to use this method or this method or this method? I mean, we learned 3 methods, yeah? The first one is this method we learned. And then we learned about this method where we find... [unclear] the middle term, the middle term and the last term is really important.",00:38:52
+nxiwpjr,354,student,Yeah.,00:39:13
+nxiwpjr,355,tutor,"And then we need to be [unclear] about the square numbers. So I'm asking, would you be able to identify which type of question that I'm doing over here?",00:39:13
+nxiwpjr,356,student,"For example? For these type of [UNCLEAR], how can we identify?",00:39:32
+nxiwpjr,357,tutor,"For this type of question, you'd have to do simplify 2a² to 2 times a times a.",00:39:36
+nxiwpjr,358,student,Mm-hmm.,00:39:45
+nxiwpjr,359,tutor,"And then the 4ab would be 2 times 2 times a times b because we can't use the 4, so we have to simplify it to 2 times 2.",00:39:48
+nxiwpjr,360,tutor,"That's right. My question is, how do we identify this is the type of question? Because here they have separated the questions and given us separately, but in an exam paper they wouldn't say, Tobias, do this type of question, or do this in this method, and the other question in other method. Yeah, so we have to identify ourselves, like we have to use this method for this, and if you see a question like this, you have to do that method, I mean a different method. Yeah, so how do we identify?",00:40:01
+nxiwpjr,361,student,"Um, by the factors in the question.",00:40:32
+nxiwpjr,362,tutor,"Mm-hmm, that's right. So if we have 2 terms and if there are common terms, common factors in between them, we're going to go for the first method. Okay?",00:40:37
+nxiwpjr,363,student,Okay.,00:40:48
+nxiwpjr,364,tutor,"If we have 3 terms, of course we're going to go for this method. Does it make sense? And if we have two terms again, but this time we have two square numbers, then we have to go for this method. Does it make sense?",00:40:49
+nxiwpjr,365,student,Yeah.,00:41:02
+nxiwpjr,366,tutor,"Okay. So now are you, I mean, like perfectly all right with all of those questions?",00:41:03
+nxiwpjr,367,student,Yeah.,00:41:11
+nxiwpjr,368,tutor,"Okay then. So I'm going to make you the tutor now. So this is a part where some of the students have tried during, let's say, during an exam. So during an exam, they're usually nervous, yeah? So they can make mistakes. So these are common mistakes made by them. So can you go through them as a tutor and check whether they have done it correctly?",00:41:11
+nxiwpjr,369,student,Mm-hmm.,00:41:33
+nxiwpjr,370,tutor,Okay.,00:41:34
+nxiwpjr,371,background,Okay.,00:41:35
+nxiwpjr,372,student,"So on the right side where it says x² 49, it would be x 7 and...x 7 instead of x 7, x 7. Okay, that makes",00:41:37
+nxiwpjr,373,tutor,"sense. So this is okay, we corrected it. What about this? So then this",00:41:56
+nxiwpjr,374,student,one— What's the first [unclear],00:42:02
+nxiwpjr,375,tutor,step they should do when you have an equation like this? So with this,00:42:06
+nxiwpjr,376,student,you'd find the factors of -6. Mm-hmm.,00:42:10
+nxiwpjr,377,student,"But because the coefficient is positive, it will be one positive and one negative.",00:42:18
+nxiwpjr,378,tutor,Very good. [unclear] So what other factor pairs do we have for 6?,00:42:28
+nxiwpjr,379,student,So you've got,00:42:41
+nxiwpjr,380,student,"Negative 1 times 6. Well, like, just for positive factors.",00:42:42
+nxiwpjr,381,tutor,Okay.,00:42:47
+nxiwpjr,382,student,So you've got 1 times 6.,00:42:49
+nxiwpjr,383,tutor,"Okay, so my question is, will both the terms be positive?",00:42:51
+nxiwpjr,384,student,No.,00:42:58
+nxiwpjr,385,tutor,So which one would be negative here?,00:42:59
+nxiwpjr,386,student,"Um, the 6. Okay, let's see whether that is correct. Okay? So if the 6 is negative, okay, what is 1 times negative 6? [unclear]",00:43:02
+nxiwpjr,387,student,1 times negative 6 is negative 6.,00:43:20
+nxiwpjr,388,tutor,"Okay, we are getting the last term. So when you add them together, do you get the middle term?",00:43:24
+nxiwpjr,389,student,"Yes, because—",00:43:31
+nxiwpjr,390,tutor,"1 add negative 6, is it positive 5? Oh wait, no, sorry, um, would it be -1 times 6?",00:43:33
+nxiwpjr,391,tutor,That's right.,00:43:43
+nxiwpjr,392,student,"So -1 plus positive 5, I mean positive 6 equals positive 5.",00:43:44
+nxiwpjr,393,tutor,That's right. Does it make sense?,00:43:49
+nxiwpjr,394,student,Yeah.,00:43:51
+nxiwpjr,395,tutor,"So how would the equation look like, I mean the expression look like now instead of this?",00:43:52
+nxiwpjr,396,student,"So, x [unclear] x minus 1.",00:43:57
+nxiwpjr,397,tutor,Okay.,00:44:09
+nxiwpjr,398,student,"And then the other bracket, x plus 6.",00:44:10
+nxiwpjr,399,tutor,That's right. Does it make sense?,00:44:14
+nxiwpjr,400,student,Mm-hmm.,00:44:16
+nxiwpjr,401,tutor,"So x plus 6. So here, what do you think the student has made? I mean, what's the mistake student has made? [unclear] Both numbers are negatives.",00:44:18
+nxiwpjr,402,tutor,"That's right. And also, instead of multiplying, I think he has added them to get -6, isn't it?",00:44:34
+nxiwpjr,403,student,Yeah.,00:44:40
+nxiwpjr,404,tutor,"Because if you want to add -5 is -6, yeah? So he actually had to multiply and get that, yeah? The last one. Does it make sense?",00:44:40
+nxiwpjr,405,student,Yeah.,00:44:48
+nxiwpjr,406,tutor,"Okay, so that's it for today. How do you feel about today's session?",00:44:49
+nxiwpjr,407,student,Good.,00:44:53
+nxiwpjr,408,tutor,Was it good?,00:44:54
+nxiwpjr,409,student,Yeah.,00:44:56
+nxiwpjr,410,tutor,"Awesome. So before you go, I have to remind you two things, Tobias. As soon as I end this session, there might be some questions for you to do because I think the question would be based on what we did today, the factorizing, okay?",00:44:57
+nxiwpjr,411,student,Mm-hmm.,00:45:10
+nxiwpjr,412,tutor,"And please also fill the feedback form. Can you do that for me, please?",00:45:11
+nxiwpjr,413,student,Yeah.,00:45:15
+nxiwpjr,414,tutor,"All right then. Okay then, see you next time.",00:45:16
+nxiwpjr,415,tutor,Bye-bye. Have a nice day.,00:45:19
+nxiwpjr,416,student,You too.,00:45:20
+nxiwpjr,417,tutor,Thank you.,00:45:21

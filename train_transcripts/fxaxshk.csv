@@ -1,0 +1,339 @@
+session_id,utterance_id,role,content,timestamp
+fxaxshk,0,tutor,Hello?,00:00:00
+fxaxshk,1,background,[unclear],00:00:00
+fxaxshk,2,background,"Hello! Hi, Declan!",00:00:06
+fxaxshk,3,student,Hello!,00:00:08
+fxaxshk,4,background,Hello!,00:00:10
+fxaxshk,5,student,Hi!,00:00:13
+fxaxshk,6,background,Hi!,00:00:14
+fxaxshk,7,tutor,"Declan, I think there's a bit of a lagging. Can you try to refresh the page?",00:00:17
+fxaxshk,8,student,I'll do that. [unclear],00:00:23
+fxaxshk,9,tutor,Hello?,00:00:29
+fxaxshk,10,student,Hello?,00:00:30
+fxaxshk,11,tutor,"Yeah, can you try to refresh your page, Declan?",00:00:32
+fxaxshk,12,student,"Okay, hold on. Is that better?",00:00:35
+fxaxshk,13,tutor,"Okay, thank you so much. So you can hear me clearly, right?",00:00:43
+fxaxshk,14,student,Yeah.,00:00:49
+fxaxshk,15,tutor,"Yeah, okay. So how are you doing?",00:00:51
+fxaxshk,16,student,Good.,00:00:54
+fxaxshk,17,tutor,"Very good, that's great. I'm so glad to hear that. And how's getting prepared for the GCSEs?",00:00:56
+fxaxshk,18,student,Good.,00:01:02
+fxaxshk,19,tutor,"Good? All right then. So today we have a continuation from your last session, right? Working with y mx c, right? So Declan, can you recall what you learned? Like, can you tell me some things you learned? Hold on",00:01:04
+fxaxshk,20,student,for a minute. So—,00:01:26
+fxaxshk,21,tutor,"Okay, right. So let's go for a question then, right? Yeah, if you get a question like this, how do you find out the gradient and the y-intercept?",00:01:32
+fxaxshk,22,student,"Uh, hold on. Gradient— one of them. I think it's the— I think it's the— is gradient the— [unclear] 5?...minus 5. No, that's wrong.",00:01:45
+fxaxshk,23,tutor,"Yeah, it's the other way around. Yeah, it's fine, Declan.",00:02:03
+fxaxshk,24,student,Yeah.,00:02:06
+fxaxshk,25,tutor,"Now you can just keep it in mind. Yeah, the first thing you meet with the x is the gradient, right?",00:02:07
+fxaxshk,26,student,Yeah.,00:02:13
+fxaxshk,27,tutor,"Yeah, and then other one which is on its own. There's no x or y here, right?",00:02:15
+fxaxshk,28,student,It's [unclear] minus 5.,00:02:21
+fxaxshk,29,student,"Yeah, [UNCLEAR]. What do we call it?",00:02:25
+fxaxshk,30,tutor,The intercept.,00:02:30
+fxaxshk,31,student,"The y-intercept, right? It's where our line cuts the y-axis, right?",00:02:32
+fxaxshk,32,tutor,Yeah.,00:02:41
+fxaxshk,33,student,"Yeah, okay. And also, if the equation is like",00:02:42
+fxaxshk,34,background,3y 6x 3. How do you find out the gradient and the intercept? Just think about this.,00:02:47
+fxaxshk,35,student,"So, uh, gradient 6 and my intercept -3.",00:02:56
+fxaxshk,36,tutor,"Okay, so, uh, the equation of a straight line is y mx c, right? Okay. Am I on the right question? Confused.",00:03:03
+fxaxshk,37,tutor,"Okay, okay. It's totally fine. It's understandable. So let's say your equation is 3y 6x 3, right? Yep. So",00:03:21
+fxaxshk,38,student,if [unclear],00:03:36
+fxaxshk,39,tutor,"you are given an equation like this, you say that the gradient is 6 and the y-intercept is -3. Is that what you are saying?",00:03:36
+fxaxshk,40,student,"Uh, yeah.",00:03:46
+fxaxshk,41,tutor,"Yeah, okay. So let's just, um, try to recall what you've learned, right? So the thing is, Declan, it has to be in the form y mx c, right? So y should be isolated, right? If it's 3y, what would you do? Um, if",00:03:47
+fxaxshk,42,student,it's 3y? Mm-hmm. [unclear] I don't know.,00:04:07
+fxaxshk,43,tutor,"All right, okay, it's totally fine. So this is where you've learned it, right? So, uh, 3y 6x 3. You need to rearrange this equation. Okay. How",00:04:15
+fxaxshk,44,student,do,00:04:31
+fxaxshk,45,tutor,"we do that? To get y on its own, what would you do?",00:04:31
+fxaxshk,46,student,Divide.,00:04:38
+fxaxshk,47,tutor,"Yeah, that's right. By what?",00:04:38
+fxaxshk,48,student,3.,00:04:42
+fxaxshk,49,tutor,"Exactly, that's what we would do. We need to divide all the terms by 3. Then what would you get?",00:04:43
+fxaxshk,50,student,[unclear] 2x. 2x minus 1.,00:04:51
+fxaxshk,51,tutor,"2x minus 1. Now Now this is in the form y mx c, right? Yeah. Now",00:04:58
+fxaxshk,52,student,you,00:05:07
+fxaxshk,53,tutor,"can say that this is gradient and this is y-intercept, right? Mm-hmm. Are",00:05:07
+fxaxshk,54,student,we,00:05:13
+fxaxshk,55,tutor,clear about that? Yeah. Mm-hmm.,00:05:13
+fxaxshk,56,student,"Okay,",00:05:17
+fxaxshk,57,tutor,"so now what's the gradient? Uh, -1.",00:05:17
+fxaxshk,58,student,"No, no, 2. 2, yeah,",00:05:23
+fxaxshk,59,tutor,"that's right. And what's the y-intercept? -1. 1. All right, so Declan, what we need to keep in mind is that if you are given a question or an equation like this, you need to rearrange the equation to the form y mx c. See, y is alone. You need to keep it alone, right? Okay. Okay, so are",00:05:26
+fxaxshk,60,student,we,00:05:52
+fxaxshk,61,tutor,clear about that? Do you have any questions?,00:05:53
+fxaxshk,62,student,Not really. I just need to— terrible at words today. I just need to remember. [unclear],00:05:56
+fxaxshk,63,tutor,Yeah.,00:06:12
+fxaxshk,64,student,"It's a gradient and lines, is that it?",00:06:12
+fxaxshk,65,tutor,"Exactly. Just keep this in mind, right? Form of the equation, then m is with x. All this gradient is with x, right? Keep that in mind. Gradient is not a law, it's with x, but the y-intercept is a law, right? Okay. And if there's a question like this, how do you find out the gradient and the intercept? [unclear] Hold on. Right, so would you get y on its own?",00:06:17
+fxaxshk,66,tutor,"Exactly, that's right. You need to keep y on your right or left. [unclear]",00:06:59
+fxaxshk,67,student,So would you minus x?,00:07:04
+fxaxshk,68,tutor,"Exactly, that's what we would do. Can you write down the rearranged equation?",00:07:08
+fxaxshk,69,tutor,"Yeah, well done. [unclear]",00:07:14
+fxaxshk,70,student,y equals...,00:07:14
+fxaxshk,71,tutor,"x. No, that's wrong. Would it be -3 x, or would it be...? Exactly,",00:07:14
+fxaxshk,72,background,"that's right. (-x 3) or (-3 x)? Both is correct. Alright, now what's the gradient? -3. What [unclear]",00:07:39
+fxaxshk,73,student,did,00:07:39
+fxaxshk,74,tutor,I say about the gradient? Is it alone? Who's it with? Minus.,00:07:58
+fxaxshk,75,tutor,minus x.,00:07:58
+fxaxshk,76,student,"Minus x means, uh, 1, right? There's a 1 here, so this will be -1. Okay, and what would be the y-intercept?",00:08:10
+fxaxshk,77,tutor,A -3.,00:08:23
+fxaxshk,78,student,"Exactly, there you go. Actually, if you write it in the correct form, Declan, it would be y -x 3, right? There's nothing wrong with this, but it's easier if you write the x term before the number, right? Yeah. Yeah,",00:08:26
+fxaxshk,79,student,"because,",00:08:50
+fxaxshk,80,tutor,"uh, this is the, this is the correct",00:08:51
+fxaxshk,81,background,"y mx c. So this is the mx part. Right, and this is the C. So the y-intercept is -3 and the gradient is -1, right? [unclear]",00:08:54
+fxaxshk,82,student,Okay.,00:09:12
+fxaxshk,83,tutor,"Um, okay, if it's not clear, just, uh, if you have any questions, ask from me, Declan. I'm here to help you. You can ask anything. So, I don't know how to word it. Hold on.",00:09:13
+fxaxshk,84,tutor,"Okay, yeah, take your time. I'm here to help you.",00:09:30
+fxaxshk,85,student,So how would you know if it was an X or a Y?,00:09:40
+fxaxshk,86,tutor,Sorry?,00:09:44
+fxaxshk,87,student,So how would you know if it was a— if it were all like muddled up? How would you know the gradient of a line?,00:09:46
+fxaxshk,88,tutor,"Okay, so first you are given the equation, right? x 3 -3, right? So you need to convert it into this form. Okay. Where",00:09:56
+fxaxshk,89,student,y,00:10:12
+fxaxshk,90,tutor,"is on its own, like you said before. That's exactly correct, right?",00:10:12
+fxaxshk,91,tutor,"So you did y equals— y equals— so you are subtracting x from both sides, right? So it would be y equals -3 minus x, or y equals -x minus 3. Both of these equations are correct, right? And can you remember what I said about the gradient? Gradient is always with x, right? Yeah, keep that in mind. Gradient is always with x. See, it's mx, right? So whatever the number you have in front of x, [UNCLEAR], right?",00:10:17
+fxaxshk,92,student,Yeah.,00:10:59
+fxaxshk,93,tutor,"Yeah. So now, uh, you don't have a number here, but that means there's 1, right? 1 times x is just x. So that's why we have x here. So the gradient would be what?",00:11:01
+fxaxshk,94,student,-x.,00:11:16
+fxaxshk,95,tutor,Minus?,00:11:18
+fxaxshk,96,student,x.,00:11:19
+fxaxshk,97,tutor,"1, isn't it?",00:11:20
+fxaxshk,98,student,Oh.,00:11:22
+fxaxshk,99,tutor,The number with the x.,00:11:22
+fxaxshk,100,student,1.,00:11:24
+fxaxshk,101,tutor,1. There you go. And what would be the y-intercept?,00:11:26
+fxaxshk,102,student,-3.,00:11:33
+fxaxshk,103,tutor,"-3, that's right. Shall I give you a [UNCLEAR]?",00:11:34
+fxaxshk,104,tutor,One question.,00:11:37
+fxaxshk,105,student,Yeah.,00:11:39
+fxaxshk,106,tutor,"Let's say, um, um, y minus x equals 6. Okay, so this is a— this is an equation given for you. I want you to write down, or else just tell me, the gradient and the y-intercept. Y 6 x. There you",00:11:41
+fxaxshk,107,tutor,go. You need to rearrange it first. y what? Say it again. [unclear] 6 x. Is,00:12:07
+fxaxshk,108,student,it minus? Plus.,00:12:16
+fxaxshk,109,tutor,Plus. Plus. Plus,00:12:20
+fxaxshk,110,student,6. There you,00:12:21
+fxaxshk,111,tutor,"go. Alright, now what's the gradient and what's the y-intercept? The gradient is",00:12:22
+fxaxshk,112,student,1.,00:12:32
+fxaxshk,113,tutor,"There you go, very well done. And what's the y-intercept?",00:12:32
+fxaxshk,114,student,6.,00:12:37
+fxaxshk,115,tutor,"6, there you go, that's right, good job. Thank you so much for your awesome effort, Declan. So I hope it's clear to you now. Yeah?",00:12:39
+fxaxshk,116,student,Yeah.,00:12:50
+fxaxshk,117,tutor,"Yeah, before answering the question, make sure you write it in the correct form, right? That's the important thing. All right.",00:12:51
+fxaxshk,118,student,Mm-hmm.,00:13:00
+fxaxshk,119,tutor,"Okay, so I think you've done all these questions in your last session, right? So we don't have to do that again. And, uh, all right, so today we need to start from here, right? So this is where we are going to start. So Shall we read the question and try it out? [unclear] A line is drawn on the grid below. Find an equation for the straight line form y mx c. Yes. What do you think? [unclear] So you do have to like write the line. So would it be like...",00:13:01
+fxaxshk,120,tutor,Mm-hmm.,00:14:00
+fxaxshk,121,student,minus 1.,00:14:00
+fxaxshk,122,tutor,"Yeah, what's minus 1? That's a very good observation. What's minus 1?",00:14:04
+fxaxshk,123,student,Is it the gradient?,00:14:11
+fxaxshk,124,student,"No, y-intercept.",00:14:16
+fxaxshk,125,tutor,"There you go. The point where your line cuts the y-axis is the y-intercept, right?",00:14:18
+fxaxshk,126,student,Mm-hmm.,00:14:25
+fxaxshk,127,tutor,So what's the y-intercept?,00:14:27
+fxaxshk,128,student,-1.,00:14:30
+fxaxshk,129,tutor,"-1. So what have we found out of m and x? Sorry, m and c.",00:14:31
+fxaxshk,130,student,Minus 1.,00:14:41
+fxaxshk,131,tutor,Minus 1. So what is it? Is it m or is it c?,00:14:42
+fxaxshk,132,student,[unclear],00:14:45
+fxaxshk,133,tutor,"c. That's correct. So we just need to figure out what's m and c, right? So now you found out the value of c. Good job. Now we just have to find out the value of m. How do we find out the the gradient. [unclear]",00:14:50
+fxaxshk,134,student,I don't know.,00:15:13
+fxaxshk,135,tutor,"All right, it's fine. Let's try together then. Okay. All right. So, This is the graph, right? And we can find the equation of a line y mx c by observing the graph. So the first thing we do is finding the y-intercept. To find the y-intercept, we need to find where the line crosses the y-axis. That's exactly what you did, right? Mm-hmm.",00:15:26
+fxaxshk,136,tutor,That's all right. So shall we write down the value of y-intercept?,00:15:58
+fxaxshk,137,student,Yeah.,00:16:04
+fxaxshk,138,tutor,Mm-hmm. Yeah.,00:16:05
+fxaxshk,139,student,Is it [unclear] minus 1?,00:16:07
+fxaxshk,140,tutor,"That's right. It's minus 1. All right. There you go. Now we'll Completed the question halfway, right? Now we have to find out the value of m. To find the gradient, we need to work out how many units the line goes up or down for every unit it moves right.",00:16:12
+fxaxshk,141,tutor,"So there's a formula for this to make it easier for us, right? We can find this from the graph OR using the formula. M equals change in y, change in x. Change in y divided by change in x.",00:16:41
+fxaxshk,142,tutor,"So Declan, the first thing you do is you're going to find out two points, right? Two points that crosses [unclear] exactly on a point where you can say the y value. See, this is one such point. Right?",00:16:58
+fxaxshk,143,student,Yeah.,00:17:18
+fxaxshk,144,tutor,"And this is another one. Can you, uh, find another one? Another point where the graph cuts.",00:17:19
+fxaxshk,145,student,So could it be anywhere?,00:17:32
+fxaxshk,146,tutor,"Um, it has to be a point where you can say the value of x and y. Let me just show you this one, right? If you think about this point, you can't say the exact x value and the y value, right? Can you say it? [unclear]",00:17:34
+fxaxshk,147,student,"No, not really.",00:17:51
+fxaxshk,148,tutor,Can you see where I'm pointing?,00:17:54
+fxaxshk,149,student,Yeah.,00:17:57
+fxaxshk,150,tutor,"Let me just erase this because it's kind of confusing, right? You can see my pointer, right?",00:17:58
+fxaxshk,151,student,Mm-hmm.,00:18:04
+fxaxshk,152,tutor,"Yeah, so if you think about this point, Can you say the exact x value? It's kind of hard, right?",00:18:05
+fxaxshk,153,student,Yeah.,00:18:13
+fxaxshk,154,tutor,"Yeah, but you can say the y value. But if you choose a point like this, you can say the exact x value as well as the y value, right? So choose a point like that. [unclear] All right, so this is one of those points. And can you try to find out another point for me? There's one more. [unclear]",00:18:14
+fxaxshk,155,tutor,"Another point where you can say the exact x value. There you go. Awesome. That's right. So we are going to choose two of such points, right? So they have selected this one and this one, right?",00:18:38
+fxaxshk,156,student,Mm-hmm.,00:18:56
+fxaxshk,157,tutor,"Okay, now on the top you write the change in y. Change in y means the difference. 5 minus 1, what is it?",00:18:58
+fxaxshk,158,student,[unclear],00:19:10
+fxaxshk,159,tutor,"4. All right, so can you write 4 on top? It's the numerator, right? Yeah, and then you divide it by the change in x. So what's the change in x? 3 minus 1. Isn't it?",00:19:10
+fxaxshk,160,student,Mm-hmm.,00:19:29
+fxaxshk,161,tutor,Yeah.,00:19:31
+fxaxshk,162,student,So it would be 2.,00:19:32
+fxaxshk,163,tutor,"That would be 2, yeah. So if you divide 4 by 2, what would you get?",00:19:34
+fxaxshk,164,student,2.,00:19:45
+fxaxshk,165,tutor,"2, that's correct. So now we have found m, which is [UNCLEAR], right? And also,",00:19:46
+fxaxshk,166,tutor,"Declan, there's something important to keep in mind, right? Always check if your gradient makes sense. If the line is going up to the right, it should be positive. If it is going down to the right, it should be negative. So what about this line? When it goes to right, does it go up or down? [unclear] When you go right, it goes?",00:19:55
+fxaxshk,167,student,Up.,00:20:23
+fxaxshk,168,tutor,"Up, right? Is it down? See, when you go right, yeah, it goes up, right?",00:20:25
+fxaxshk,169,student,Yeah.,00:20:32
+fxaxshk,170,tutor,"Yeah, so that means your gradient is positive, right? If you have a line like this, let's say something like this, so what happens when you go right? It goes down. Right?",00:20:33
+fxaxshk,171,tutor,Hello?,00:20:48
+fxaxshk,172,student,Hello?,00:20:51
+fxaxshk,173,tutor,Hello?,00:20:54
+fxaxshk,174,student,"Hello? Can you hear me, Declan? Hello? [unclear] Oh! Hello! Yeah... can you hear me? Yeah, I didn't know what happened—",00:20:55
+fxaxshk,175,tutor,"Okay, okay, it's fine. Now you can hear me, right?",00:21:14
+fxaxshk,176,student,Yeah.,00:21:17
+fxaxshk,177,tutor,"Yeah, okay. So, if there was a line like this, see, when you go right, it goes down, right?",00:21:18
+fxaxshk,178,student,Mm-hmm.,00:21:25
+fxaxshk,179,tutor,"Yeah. So, in a line like this, the gradient has to be negative, right?",00:21:27
+fxaxshk,180,student,"Oh, right, okay. [unclear]",00:21:34
+fxaxshk,181,tutor,"Yeah, so since this is positive, when you go right, it goes up. Your gradient is positive, so your answer is correct, right?",00:21:38
+fxaxshk,182,student,"Yeah, so if it was here, if it were here...",00:21:47
+fxaxshk,183,tutor,"Uh, I can't... okay?",00:21:53
+fxaxshk,184,student,Would that be negative too?,00:21:57
+fxaxshk,185,tutor,"It's not negative because the line is not changed, right? Oh, so the line has to go that way. Exactly. When you go right, it has to go down. See? When you go right, it goes down. Right? [unclear] In a line like this, your gradient will be negative. Okay. If it goes down. But if it goes up, your gradient is positive. Right? Right. Okay. Okay, I'll meet you about that. Yeah.",00:22:02
+fxaxshk,186,tutor,"Yeah, I'm really glad you asked that question, Declan. Okay, so now that we've found out m and we know c, what would be the equation?",00:22:34
+fxaxshk,187,student,"What would be the equation? Uh, uh, right, hold on. So it will be y equals [unclear]",00:22:46
+fxaxshk,188,student,"This is risky. I don't know. Uh, hold on. Uh, um, 2.",00:23:05
+fxaxshk,189,tutor,There you go. Awesome.,00:23:15
+fxaxshk,190,student,Minus 1.,00:23:18
+fxaxshk,191,background,"So Declan, there should be an X, right?",00:23:21
+fxaxshk,192,student,"Oh, well, trust me to make a mistake. There you go.",00:23:26
+fxaxshk,193,tutor,"That's fine. There you go. There you go. Very well done. Thank you so much for your effort, Declan. That was nicely done. So tell me what we learned in this slide.",00:23:32
+fxaxshk,194,student,[unclear] The left and right thing.,00:23:46
+fxaxshk,195,tutor,Sorry?,00:23:53
+fxaxshk,196,student,The left and right thing.,00:23:56
+fxaxshk,197,tutor,Hello?,00:24:01
+fxaxshk,198,background,Hello?,00:24:03
+fxaxshk,199,tutor,"Hello, can you hear me? Hello?",00:24:05
+fxaxshk,200,background,Hello?,00:24:11
+fxaxshk,201,student,"Yeah, sorry, [UNCLEAR].",00:24:13
+fxaxshk,202,tutor,"Yeah, okay, now I can hear you. So we learned how we can find the equation of a line When you've drawn the line on a graph, right?",00:24:14
+fxaxshk,203,student,Yeah.,00:24:26
+fxaxshk,204,tutor,"Yeah. So what do we do first, Declan?",00:24:27
+fxaxshk,205,student,You look at the direction of the line.,00:24:33
+fxaxshk,206,tutor,"Okay, that's right. [unclear]",00:24:36
+fxaxshk,207,student,You look at where it crosses the y-intercept.,00:24:42
+fxaxshk,208,tutor,"Mm-hmm. Yes, that would be— What do we call it?",00:24:45
+fxaxshk,209,tutor,Could you ask that question again?,00:24:55
+fxaxshk,210,background,"What's the first thing we would do? So you said we are going to find out where the line crosses the y-axis, right?",00:24:59
+fxaxshk,211,student,Yeah.,00:25:06
+fxaxshk,212,background,What do we call it?,00:25:08
+fxaxshk,213,student,The y-axis?,00:25:12
+fxaxshk,214,tutor,"The y-intercept, right?",00:25:15
+fxaxshk,215,student,"Oh, yeah.",00:25:17
+fxaxshk,216,tutor,"Where it crosses. Yes, we call it y-intercept. So in the equation, it should be c, right?",00:25:18
+fxaxshk,217,student,Yeah.,00:25:25
+fxaxshk,218,tutor,"Now that we found out the value of c, we are going to find out the value of m. How do we do that, Declan?",00:25:25
+fxaxshk,219,student,"[unclear] And you pick two points on a line. On the— I forgot what way that is. You can't see me, can you?",00:25:33
+fxaxshk,220,tutor,"Are you showing something to me? If so, you can use the pointer, Declan. [unclear]",00:26:02
+fxaxshk,221,tutor,"All right, okay, then just tell me. Okay, there you go. A point like that.",00:26:10
+fxaxshk,222,student,"Yeah. Then find another one and find the difference between. And then, yeah.",00:26:17
+fxaxshk,223,tutor,"Yeah, so on top? We write the change in what? [unclear]",00:26:29
+fxaxshk,224,student,That way.,00:26:39
+fxaxshk,225,tutor,"The change in y, right? First you write the change in y and then you divide it by the change in x, right? Then you get the gradient. Yeah?",00:26:42
+fxaxshk,226,student,Yeah.,00:26:53
+fxaxshk,227,tutor,"Okay, so, um, Shall we try the next question? Like, we are going to try a similar type of question, right? Here we go.",00:26:55
+fxaxshk,228,student,Yeah.,00:27:10
+fxaxshk,229,tutor,Mm-hmm.,00:27:11
+fxaxshk,230,student,Okay. Mary says the equation of this line. [unclear],00:27:12
+fxaxshk,231,tutor,And is she correct? [unclear],00:27:25
+fxaxshk,232,background,"You can do it, Declan. Just give it a try. I'm here if you need any help.",00:27:35
+fxaxshk,233,student,"Oh, no, I didn't really know. [unclear]",00:27:43
+fxaxshk,234,tutor,"Mm-hmm, yeah.",00:27:49
+fxaxshk,235,student,The difference between 0 and 5 is 5. The difference between -2 and -6 is [UNCLEAR]. -4. Mm-hmm.,00:27:54
+fxaxshk,236,tutor,But,00:28:19
+fxaxshk,237,student,they forgot the minus. Yes.,00:28:19
+fxaxshk,238,tutor,"[unclear] Okay, what about the intercept? Is it correct? Uh,",00:28:24
+fxaxshk,239,student,yeah.,00:28:37
+fxaxshk,240,student,"No. Yeah, I don't know.",00:28:43
+fxaxshk,241,tutor,"No, no, it's fine. Just tell me what you think and tell me the reason why you think so.",00:28:46
+fxaxshk,242,student,"Yeah, because it crosses the y-intercept there.",00:28:52
+fxaxshk,243,tutor,"Yeah, so what do you think?",00:28:55
+fxaxshk,244,student,Yeah.,00:28:58
+fxaxshk,245,tutor,So is he correct about the intercept?,00:29:01
+fxaxshk,246,student,"Yeah. Yeah, the intercept is correct, right? That's right. But there's something wrong with the gradient, right? That's a very good observation, Declan. But can you tell me why this becomes minus? Why is it negative?",00:29:05
+fxaxshk,247,student,I don't know. [unclear] I just put it there for the best.,00:29:25
+fxaxshk,248,tutor,"No, no, it's fine. Just recall what we learned about the direction of the line.",00:29:32
+fxaxshk,249,tutor,"Oh, the gradient becomes positive and negative.",00:29:38
+fxaxshk,250,student,"Oh, yeah.",00:29:41
+fxaxshk,251,tutor,Yeah?,00:29:43
+fxaxshk,252,student,Would it be— oh.,00:29:44
+fxaxshk,253,tutor,"It will be a minus. [unclear] Yeah, why is that? Because when you go right, it's going down, right?",00:29:48
+fxaxshk,254,student,It's descending.,00:29:59
+fxaxshk,255,tutor,"Exactly, it's descending. That's a very good observation. So that means the gradient has to be—",00:30:01
+fxaxshk,256,student,Minus.,00:30:11
+fxaxshk,257,tutor,"Minus, that's right. But the value is correct, right? You worked it out. So the thing we did is we divided the x difference— sorry, the y difference by x difference. y difference is 4. And x difference is 5, right? So it's 4 over 5, but negative because it's going down, right?",00:30:13
+fxaxshk,258,student,So is it all negative? [unclear],00:30:39
+fxaxshk,259,tutor,"Yeah, it's -4 over 5x, yes, -2. What do we have? This is x, right?",00:30:48
+fxaxshk,260,student,Yeah.,00:31:00
+fxaxshk,261,tutor,"Yeah, so you're saying y equals minus—",00:31:01
+fxaxshk,262,student,Minus 4 over 5.,00:31:09
+fxaxshk,263,tutor,Mm-hmm. x?,00:31:13
+fxaxshk,264,student,[unclear] minus 2.,00:31:17
+fxaxshk,265,tutor,"Yes, that's correct. Good job. So now this is the correct equation, right? So what do you think? What do you think about what Mary says? [unclear] Is she correct?",00:31:20
+fxaxshk,266,student,No.,00:31:40
+fxaxshk,267,tutor,"No, she's not correct. But you found out the correct answer, right?",00:31:41
+fxaxshk,268,student,Yeah.,00:31:48
+fxaxshk,269,tutor,"All right, very well done, Declan. I must give you a praise card for the good working out. All right, so Declan, can you tell me one new thing you learnt?",00:31:49
+fxaxshk,270,student,[unclear] The way of the line.,00:32:01
+fxaxshk,271,tutor,Sorry?,00:32:09
+fxaxshk,272,student,"The way of the line. Why do you think it's not? Ah, the answer is not correct. Yes, that's right. She's not correct. Yeah. So what's the new thing again? [unclear] Yes?",00:32:11
+fxaxshk,273,student,"The line, the descending, increasing, minus, plus.",00:32:29
+fxaxshk,274,tutor,"Yes, when it goes down, the gradient is minus. All right. Thank you so much for that answer, Declan. All right, we've completed our lesson now. Thank you so much for your effort. I really appreciate your effort, Declan.",00:32:36
+fxaxshk,275,student,Thank you.,00:32:53
+fxaxshk,276,tutor,"So, um, let's move on to our next lesson, which is applying Pythagoras' theorem.",00:32:54
+fxaxshk,277,student,I'm good at this.,00:33:02
+fxaxshk,278,tutor,Is that so? That's great. I'm so glad to hear that. So Shall we try out the question given for us?,00:33:04
+fxaxshk,279,student,Yeah.,00:33:11
+fxaxshk,280,tutor,Mm-hmm.,00:33:13
+fxaxshk,281,student,"Uh... [unclear] To find the missing side, you need to add the two together, then divide... No. Then we need to square... Yeah, that one. Lee.",00:33:16
+fxaxshk,282,tutor,So you agree with Lee?,00:33:30
+fxaxshk,283,student,Yeah.,00:33:32
+fxaxshk,284,tutor,Okay. That's a very good observation. That's correct. So let's try some exam-style questions. Here we go.,00:33:33
+fxaxshk,285,student,"Oh yeah, right. So ABCD, ABCD, all right angles. Find x correct to [UNCLEAR]. [unclear]",00:33:48
+fxaxshk,286,tutor,"What? So, oh yeah, so would you work this one out and then that will give you that one? You could do that one.",00:34:00
+fxaxshk,287,student,"Yeah, that's right. So take your time and try it out.",00:34:16
+fxaxshk,288,tutor,a squared,00:34:23
+fxaxshk,289,tutor,Mm-hmm.,00:34:25
+fxaxshk,290,student,"Plus equals plus c squared equals d squared. No, a— oh, I've done that round the way. a b. ABC. No, can't even do my ABCs. [unclear]",00:34:29
+fxaxshk,291,tutor,"It's fine, Declan. Take your time and do it.",00:35:00
+fxaxshk,292,student,C.,00:35:00
+fxaxshk,293,tutor,Mhm.,00:35:08
+fxaxshk,294,student,There you go. And the C's always a hypotenuse.,00:35:14
+fxaxshk,295,tutor,Yes.,00:35:19
+fxaxshk,296,tutor,So a is 3 squared.,00:35:20
+fxaxshk,297,student,Mm-hmm.,00:35:22
+fxaxshk,298,tutor,Plus 8 squared. 3 squared. [unclear],00:35:25
+fxaxshk,299,tutor,Oh no.,00:35:45
+fxaxshk,300,student,It's fine.,00:35:48
+fxaxshk,301,tutor,"Oh. Right, there you go. [unclear] 3 squared is going to be 9.",00:35:49
+fxaxshk,302,student,Plus 8 squared. 60. 60. 64. 9 plus 64.,00:36:13
+fxaxshk,303,tutor,73.,00:36:37
+fxaxshk,304,tutor,Yeah.,00:36:43
+fxaxshk,305,tutor,Then would you square root it?,00:36:44
+fxaxshk,306,tutor,Mm-hmm.,00:36:46
+fxaxshk,307,tutor,How do you do that on here?,00:36:47
+fxaxshk,308,student,"Yeah, you can just, uh, [unclear] the square root.",00:36:51
+fxaxshk,309,tutor,"And that equals, uh, [unclear]",00:36:58
+fxaxshk,310,tutor,"8 point— one decimal place, 8.5.",00:37:09
+fxaxshk,311,student,Mm-hmm.,00:37:16
+fxaxshk,312,tutor,"And that's it. So would it be— so hold on, that's not the question though. That's that line. So 8.5, so that's going to be the hypotenuse.",00:37:17
+fxaxshk,313,tutor,"So this time you're going to have to do a squared— oh, it's got a couple of letters— a squared plus— oh no— plus b. [unclear]",00:37:31
+fxaxshk,314,student,"Sorry, I'm pulling out my headphones to [UNCLEAR]. I've put two B's.",00:38:32
+fxaxshk,315,tutor,"Oh, it's fine. I'll just write C. Here, okay? Just don't mind it. Alright, so what's going to be the hypotenuse?",00:38:45
+fxaxshk,316,student,Hypotenuse? 10.,00:38:54
+fxaxshk,317,tutor,"Mm-hmm. Yeah, good observation.",00:38:56
+fxaxshk,318,student,"And then it's gonna be, um, if I put that into the equation—",00:39:00
+fxaxshk,319,tutor,Mm-hmm.,00:39:06
+fxaxshk,320,student,"It don't matter which one's a² and c², does it? No?",00:39:08
+fxaxshk,321,tutor,"Alright, it's alright. plus b squared. I'm going to put that— I might— no, go back. I'm going to put 10 squared in there. Why",00:39:13
+fxaxshk,322,student,"is it going to be 10? Because the hypotenuse— oh, no, 8.5. [unclear]",00:39:39
+fxaxshk,323,tutor,"All right, Declan, since we are running out of time, I would have to wind up the session for today. But can you just quickly tell me how we find out the value of a?",00:39:57
+fxaxshk,324,student,"Divide it? No, take it away. Oh my God, stop. Don't divide it.",00:40:08
+fxaxshk,325,tutor,"Yeah, you don't divide it because it's addition, right? You do the inverse, which is subtraction. So first, what would you do? [unclear] You would square the terms, right? You would square the terms.",00:40:16
+fxaxshk,326,tutor,Yeah. And then you would square root it and you would just take it away.,00:40:35
+fxaxshk,327,student,"Yeah, you would square it and then you take it away. And after that you would square root it, right? Isn't that what we do? [unclear]",00:40:41
+fxaxshk,328,tutor,Can you repeat that again?,00:40:55
+fxaxshk,329,tutor,"Yeah, can you tell me the steps briefly, Declan?",00:40:57
+fxaxshk,330,student,Yeah.,00:41:02
+fxaxshk,331,tutor,Mm-hmm. First?,00:41:03
+fxaxshk,332,student,"Write a² b² c². Then find all your digits, and if they're not there, it's the opposite. And then square root it. Then you get an equals, or you've got to take it away from All right. [UNCLEAR].",00:41:05
+fxaxshk,333,tutor,"Thank you so much for your effort, Declan. So I will be ending the session now. Do you have any questions to ask before you go?",00:41:24
+fxaxshk,334,student,No.,00:41:34
+fxaxshk,335,tutor,"Okay, then very well done today. So goodbye and take care, Declan, and all the best with your GCSEs, okay?",00:41:35
+fxaxshk,336,student,Bye-bye.,00:41:45
+fxaxshk,337,tutor,Goodbye.,00:41:46

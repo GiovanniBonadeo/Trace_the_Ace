@@ -1,0 +1,273 @@
+session_id,utterance_id,role,content,timestamp
+fcowucy,0,tutor,Hello?,00:00:00
+fcowucy,1,background,[unclear],00:00:00
+fcowucy,2,student,Hello?,00:00:00
+fcowucy,3,tutor,"Hi Gideon, can you hear me?",00:00:01
+fcowucy,4,student,"Uh, yeah. Hang on a sec.",00:00:05
+fcowucy,5,tutor,"Alright, so I'll be your tutor for today. We are going to start our lesson. First of all, tell me, how are you doing today? [unclear]",00:00:11
+fcowucy,6,student,Hello.,00:00:19
+fcowucy,7,tutor,Hello.,00:00:46
+fcowucy,8,student,Hello.,00:00:47
+fcowucy,9,tutor,Hello.,00:00:48
+fcowucy,10,background,[UNCLEAR],00:00:48
+fcowucy,11,tutor,"Yes, can you hear me?",00:00:49
+fcowucy,12,background,Hello.,00:00:52
+fcowucy,13,tutor,Hello.,00:00:55
+fcowucy,14,background,Hi. [unclear],00:00:57
+fcowucy,15,tutor,Hello? Can you hear me? Okay. Okay. Say something so that I can confirm. I can hear your voice as well.,00:01:12
+fcowucy,16,student,Hello?,00:01:23
+fcowucy,17,tutor,"Yeah. Okay, good. All right, Gideon. So welcome to your session.",00:01:25
+fcowucy,18,tutor,"We'll be doing this lesson today, dividing using partitioning. So can you try this question for me quickly, please?",00:01:30
+fcowucy,19,student,32 equals 30 and 2.,00:01:46
+fcowucy,20,tutor,"Yeah, so that is one way of partitioning.",00:01:51
+fcowucy,21,tutor,Can you give me another word about [UNCLEAR]?,00:01:57
+fcowucy,22,tutor,"Hello. Hello. Hello. Hello. Hello. Yes, Gideon. [unclear]",00:02:23
+fcowucy,23,tutor,Hello?,00:02:54
+fcowucy,24,student,Hello?,00:02:55
+fcowucy,25,tutor,"Yeah, you got disconnected. Can you hear me?",00:02:56
+fcowucy,26,student,Yeah. [unclear],00:03:01
+fcowucy,27,tutor,Hello?,00:03:03
+fcowucy,28,student,Hello?,00:03:05
+fcowucy,29,tutor,"Yes, Gideon, if you can hear me, please reply.",00:03:08
+fcowucy,30,student,I can hear you now.,00:03:14
+fcowucy,31,tutor,"Okay, great. All right, so let's start with our question here for our learning.",00:03:17
+fcowucy,32,student,Okay.,00:03:25
+fcowucy,33,tutor,"Yeah. [unclear] We can partition 32 in one way, that is 30 2. Can you try another way to partition 32?",00:03:27
+fcowucy,34,tutor,Yeah.,00:03:44
+fcowucy,35,background,Okay. Let's try that. [unclear] [unclear],00:03:44
+fcowucy,36,tutor,"Okay, so this calculation, if you look, this is both exactly the same, isn't it? Like here on the left-hand side, we are writing 32, here on the right-hand side. But another way it could mean that, can we write this n 22?",00:04:12
+fcowucy,37,student,Yeah.,00:04:37
+fcowucy,38,tutor,"Right. Okay. Now can you give me one more, one more, another way to partition 32? [unclear] Anything, any two combination that makes 32 will work. Is there one more? [unclear]",00:04:38
+fcowucy,39,student,15 add 12.,00:05:12
+fcowucy,40,tutor,15 add?,00:05:16
+fcowucy,41,student,12.,00:05:19
+fcowucy,42,tutor,12. That will be 27. We want 32.,00:05:20
+fcowucy,43,tutor,"So we could say 15 and add 17. Then it will be 32. [unclear] 15 15, that's 30. And 2, so 15 and 17 would be 32. All right, so now you understand there is several way you can partition a number. All right. Okay, good job for this. Can you try this second part here? Can you read the question?",00:05:28
+fcowucy,44,student,Use partitioning to complete this calculation.,00:06:03
+fcowucy,45,tutor,Yeah. So what do you think? How would you do this calculation using partitioning?,00:06:07
+fcowucy,46,student,"Um, would you partition 51?",00:06:16
+fcowucy,47,tutor,"Yes, very good. [unclear]",00:06:20
+fcowucy,48,tutor,"So the idea behind it is we have to make this simpler, right? The calculation should be simpler.",00:06:31
+fcowucy,49,tutor,"So, what is...",00:06:54
+fcowucy,50,student,"So, could you do 30?",00:06:59
+fcowucy,51,tutor,"30, yes, good job. Okay, let's write here 30. [unclear]",00:07:06
+fcowucy,52,tutor,You are absolutely on your correct path.,00:07:25
+fcowucy,53,student,Could you do—,00:07:38
+fcowucy,54,tutor,There's 30 and another.,00:07:39
+fcowucy,55,student,"Oh, could you— Could you do 21?",00:07:44
+fcowucy,56,tutor,"21, yes, that is correct. [unclear]",00:07:48
+fcowucy,57,student,"And then you need to divide them by the 3, so 30 divided by 3 is 10.",00:07:54
+fcowucy,58,tutor,"Okay, 30 divided by 3 is 10, wait. And then 2. [unclear] And 21 divided by 3 is 7.",00:08:02
+fcowucy,59,tutor,21 divided by 3 is 7. So what should be the final answer?,00:08:21
+fcowucy,60,student,"You need to add them, so it'll be— the final answer will be 17.",00:08:28
+fcowucy,61,tutor,17. Good job. Can you write that here in the blank space?,00:08:33
+fcowucy,62,student,Yeah.,00:08:38
+fcowucy,63,tutor,"Okay, perfect. I think you got it. All right, so see, the main idea behind doing this partition is to make the calculation easier. Okay?",00:08:40
+fcowucy,64,student,Yeah.,00:08:55
+fcowucy,65,tutor,"All right, good work. Let's move to the next slide now. Here, prior learning. Okay, before we go ahead and jump to divide using partition, we just need to brush up our concept of partitioning a little bit. Okay?",00:08:58
+fcowucy,66,student,Yeah.,00:09:19
+fcowucy,67,tutor,So can you read this for me?,00:09:19
+fcowucy,68,student,Being able to partition numbers in different ways can help us when dividing.,00:09:22
+fcowucy,69,tutor,"Yeah, so if you remember our first question, 32, we divided into different ways, right? Like, we— the idea was to write 32 in different way of partitioning.",00:09:30
+fcowucy,70,student,Yeah.,00:09:50
+fcowucy,71,tutor,"Okay, so same thing here. Okay, first tell me, what is this number here? What number is being represented by these counters?",00:09:50
+fcowucy,72,student,54.,00:10:02
+fcowucy,73,tutor,"54, yes, very good. We have 5 of tens counter and 4 of ones. Okay, let's write our number. [unclear] Let's write the number 54 here in the blank space. All right, good. Now, what is happening here? [unclear]",00:10:04
+fcowucy,74,student,So you're gonna do 5 and 4.,00:10:46
+fcowucy,75,tutor,"So this is tens, right? So this will be 50 and 4.",00:10:53
+fcowucy,76,student,Yeah.,00:10:57
+fcowucy,77,tutor,So let's write 54 is equal to 50 plus 4. [unclear],00:10:58
+fcowucy,78,tutor,So now same thing you have to do in different way. So now tell me what is happening here? How many tens do we have? If we have 5 tens.,00:11:11
+fcowucy,79,tutor,"Yeah, 5 tens, but together we have 4, isn't it?",00:11:31
+fcowucy,80,student,Yeah.,00:11:35
+fcowucy,81,tutor,So this will be 40. And then there is 1 ten and 4 ones.,00:11:36
+fcowucy,82,student,So 4— 14.,00:11:46
+fcowucy,83,tutor,"14. Yes, you got it. Okay, so 40 plus 14 is going to be how much?",00:11:50
+fcowucy,84,student,[unclear],00:11:54
+fcowucy,85,tutor,"54. Perfect. Okay, can you try this now?",00:11:58
+fcowucy,86,student,"5, 8, 2, 7, 14, and 24.",00:12:02
+fcowucy,87,tutor,24. Good. And this will make how much? [unclear],00:12:14
+fcowucy,88,tutor,"54. Great job. See, you got it right. Now, can you tell me some other way to partition 54 apart from these?",00:12:24
+fcowucy,89,student,Yeah.,00:12:38
+fcowucy,90,tutor,"Yeah, let's write one more. [unclear]",00:12:39
+fcowucy,91,tutor,"53 1, yes, that's one way. Okay, and can you write one more in the last? Yeah.",00:12:54
+fcowucy,92,student,"Okay,",00:13:04
+fcowucy,93,tutor,let's give me one more. [unclear],00:13:04
+fcowucy,94,tutor,"Let's go like this. See here, here in one group there was 4, right? Now in this one it became 3. Now let's make it 2. So how much it will be? [unclear]",00:13:38
+fcowucy,95,tutor,20. Very good. Then how much you should add so that it will become 54? [unclear],00:13:56
+fcowucy,96,tutor,"34. Yes, great. Let's write that. Okay, and 34 20 will make 54. Perfect. So see, basically you can write any combination here. Like 10 44, 11 43, or any two number combination that gives you 54. That will be one correct way to partition, isn't it? Yeah. Okay,",00:14:12
+fcowucy,97,student,so,00:14:45
+fcowucy,98,tutor,"you did really good work here. Let's move to the next slide. Now let's learn. Okay. Now in the previous slide, we learned how to partition a number into different groups. Now we will use that partition to divide bigger numbers. Okay?",00:14:45
+fcowucy,99,student,Yeah.,00:15:11
+fcowucy,100,tutor,"All right, so can you read this for me?",00:15:12
+fcowucy,101,student,We can learn numbers using partitioning. We partition the [unclear],00:15:15
+fcowucy,102,tutor,Dividend.,00:15:22
+fcowucy,103,student,"Dividend, and then divide each part by the divisor. [unclear]",00:15:24
+fcowucy,104,tutor,"Yeah, okay. So, all right, what is happening here?",00:15:30
+fcowucy,105,student,You're doing 84 divided by 4.,00:15:39
+fcowucy,106,tutor,"Yeah, 84 divided by 4, okay. So the bigger number which we are trying to divide, that is called the dividend. Okay, you can remember. Yeah, okay, let's— can you, can you try the answer now? [unclear] What they have done here basically?",00:15:43
+fcowucy,107,student,"So they're giving you, um, like an example that can help you with it.",00:16:08
+fcowucy,108,tutor,"Yes, very good. Okay, and this one bundle is equivalent to how much?",00:16:17
+fcowucy,109,student,10.,00:16:24
+fcowucy,110,tutor,"10. Okay, so now tell me, 84, they broke down into 2 pieces, 80, and these are single, single stick, 4. [unclear]",00:16:25
+fcowucy,111,tutor,"Right, so now what would you do? First we needed to divide 84 by 4, so we broke down 84 into 80 and 4. Now we will divide separately, remember, like you did here. So let's do that. 80 divided by 4. No, first we'll do 80. Yeah, 80 divided by 4, that's 20. [unclear]",00:16:41
+fcowucy,112,tutor,"Then 4 divided by 4, that's 1. So 84 divided by 4 is [UNCLEAR]. Yes, there you go. See, you got it now. Good job. Okay, so the whole idea behind partitioning is",00:17:12
+fcowucy,113,background,"make the bigger number simpler. So that you can divide the smaller numbers easily. Okay. All right. Now you did really good job in this slide as well. So let's move to the next one. Okay. This slide contains Follow Me and Your Turn. Gideon, you can— can you please confirm if you can hear my voice clearly? Is it okay or is it too low or [UNCLEAR]?",00:17:35
+fcowucy,114,student,"No, it's fine.",00:18:08
+fcowucy,115,tutor,"It's fine, right? Okay, good. All right, so see, this slide contains 'Follow Me' and 'Your Turn.' All right, so first I'll be doing this 'Follow Me' for you. I want you to pay your absolute attention here. You can ask any questions if you don't understand any part. Okay, you can stop me right there and you can ask questions. I'll explain again, and then once I'm done with follow me, then you will have to do your turn by yourself. Okay. All right, so let's look at the question. Let's look at what happens if the tens do not divide easily by the divisor, right? Like, uh...",00:18:10
+fcowucy,116,student,"[unclear] If you remember, here we had 80 and 4. So this is the tens part, isn't it?",00:18:58
+fcowucy,117,student,Yeah.,00:19:08
+fcowucy,118,tutor,"So we divided 80 by 4 very easily, isn't it? 4 times 20, that's 80. But now suppose we partition a number in such a way like here, 81. Okay.",00:19:09
+fcowucy,119,tutor,"If we divide 81 by 3, then you cannot divide 3 by 8 perfectly, right?",00:19:27
+fcowucy,120,student,[unclear],00:19:35
+fcowucy,121,tutor,"Yeah, so in that case, what we have to do is we have to partition that 81 into smaller parts so that now we can divide it easily, right? So 81, we are going to add 60 and 21.",00:19:36
+fcowucy,122,tutor,"Now if you look carefully, 60 you can divide by 3 very easily, isn't it?",00:19:56
+fcowucy,123,student,Yeah.,00:20:02
+fcowucy,124,tutor,"Yeah, and 21, that is also divisible by 3. So we made the group of 6 tens, that's 60. Okay, and then 21, exchange the 2 tens for 21s. So divide 6 tens by 3. 3, 6 times 6 divided by 3, that will be 20. Then divide 21 by 3, that will become 7, right? [unclear]",00:20:03
+fcowucy,125,tutor,"So now see, if you divide 81 by 3, that will give you— you can just count the counters, 20 from here 7 from here. So 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21.",00:20:40
+fcowucy,126,tutor,"Oh, I think this, this once was for this one, like 20, two tens. And ones. So 2 tens, you can write 21 ones. And now 21 divided by 3, that's 7. So if we have to write our final answer, 81 divided by 3, that will become 20 plus 7, 27, right?",00:21:10
+fcowucy,127,student,Yeah.,00:21:38
+fcowucy,128,tutor,"Okay, so let's try your turn.",00:21:39
+fcowucy,129,student,[unclear],00:21:45
+fcowucy,130,tutor,"Solve this in a similar way. 92 divided by 4. I know that I cannot divide 9 by 4 easily, right? So I have to now break down 92. Now think about how can you break down it. Break it down into parts.",00:21:45
+fcowucy,131,student,"Okay, so you could use 80.",00:22:13
+fcowucy,132,tutor,"80, very good.",00:22:21
+fcowucy,133,student,And then you could use 12.,00:22:23
+fcowucy,134,tutor,"12, very good, okay.",00:22:29
+fcowucy,135,student,80 divided by 4.,00:22:37
+fcowucy,136,tutor,"Yeah, divide the first part by 4, that is 80 by 4, that's 20. Very good. Now divide the remaining part by 4. [unclear] That's 3. So now add the divided part.",00:22:39
+fcowucy,137,student,"23. Okay, perfect job. Okay, I have one question for you. Can you tell me, how did you decide that you should do 80 12 and not any other number? Because",00:22:59
+fcowucy,138,student,"I didn't have a number not [unclear] 2. Yeah,",00:23:17
+fcowucy,139,tutor,"so basically we have to look for those numbers which is very easily divided by 4, right? Yeah.",00:23:23
+fcowucy,140,student,Because,00:23:30
+fcowucy,141,tutor,ultimately we are going to divide our number by 4.,00:23:31
+fcowucy,142,student,Yeah.,00:23:37
+fcowucy,143,tutor,"Okay, I think you are confident with this, so great job. Let's move to the next slide. You do. Okay, there are certain divisions for you. Can you try the first one?",00:23:38
+fcowucy,144,student,Yeah. [unclear] So not cheese. [unclear],00:23:52
+fcowucy,145,tutor,"Yeah, so for the first one, they have already done partition for you. 90 divided by 3 is 30. Good. [unclear]",00:24:05
+fcowucy,146,tutor,Absolutely right. You got it correct. Good job.,00:24:32
+fcowucy,147,tutor,"So see, for the first one they already did the partition for us, right? Now for the second one, you have to think how to partition. [unclear]",00:24:54
+fcowucy,148,tutor,"So 64, think about if you can divide 60 by 4 easily. [unclear]",00:25:12
+fcowucy,149,student,So you could use 40.,00:25:36
+fcowucy,150,tutor,"40, yes, very good.",00:25:38
+fcowucy,151,student,And then you could do 24.,00:25:41
+fcowucy,152,tutor,"24, yes, good job, okay.",00:25:45
+fcowucy,153,tutor,"40 divided by 4 is 10. All right, great.",00:25:50
+fcowucy,154,student,[unclear],00:25:59
+fcowucy,155,tutor,"16. Yes, absolutely correct. Yeah, good job. Yes, please. Let's complete the last one. I think you'll be able to do it. [unclear]",00:26:01
+fcowucy,156,tutor,"60, very good.",00:26:26
+fcowucy,157,student,"Yeah. 17. 60 and how much will give you 96? [unclear] Yes, very good.",00:26:30
+fcowucy,158,student,"Then divide them by 6 is 10, and then this is 6.",00:26:57
+fcowucy,159,tutor,"6, okay. [unclear]",00:27:06
+fcowucy,160,tutor,"All right, yes, absolutely well done. And see, once you are done with your calculation like this, you'll even— you can even check your answer whether it is correct or not, right? So you can do 31 times 3, that will give you 93. You'll do 60 16 times 4, that will give you 64. 16 times 6, that is 96.",00:27:13
+fcowucy,161,student,Yeah. [unclear],00:27:43
+fcowucy,162,tutor,"Alright, so I think you did really fabulous job here working all this out independently. Great job. Now we'll move to the next problem that we have. Okay, this is a word problem, so please read this carefully. And then try to solve this. Underline the keywords which you think will be helpful. [unclear]",00:27:44
+fcowucy,163,student,[UNCLEAR] [unclear],00:27:44
+fcowucy,164,tutor,[UNCLEAR] [unclear],00:27:44
+fcowucy,165,tutor,[unclear] [unclear],00:27:44
+fcowucy,166,tutor,Is that right?,00:29:00
+fcowucy,167,background,It could be...,00:29:01
+fcowucy,168,tutor,"So, so, Hoki is calculating 52 divided by 4, right? But he has done the partition as",00:29:07
+fcowucy,169,tutor,"50 and 2. So you tell me, can you divide 50 by 4 easily?",00:29:22
+fcowucy,170,student,[unclear] No.,00:29:34
+fcowucy,171,tutor,"Right, so what will be the more easier partition here? So that you can divide it by 4. What will be the more easier partition? Can you give me that?",00:29:42
+fcowucy,172,student,"Uh, yeah. [unclear] There you go. Yes, that is correct. Good job.",00:29:57
+fcowucy,173,student,And you could do 12.,00:30:10
+fcowucy,174,tutor,"Absolutely right. Okay, let's write that partition here.",00:30:13
+fcowucy,175,tutor,Divide 40 and 12. [unclear],00:30:20
+fcowucy,176,tutor,"40 and 12, right. So now if you look, these two numbers both are very easy to divide by 4. 4 times 10 is 40, and 4 times 3 is 12.",00:30:36
+fcowucy,177,student,Yeah.,00:30:51
+fcowucy,178,tutor,"So this 40 plus 12 is more simpler way to partition the number. Okay, that will be your answer. That's how you have to write 40 plus 12. Okay, so we have completed this lesson. You did good job here as well.",00:30:52
+fcowucy,179,tutor,"So now before we wrap this up, this lesson, can you tell me what did you learn in this?",00:31:13
+fcowucy,180,student,"I learned about dividing, dividing using partitioning.",00:31:22
+fcowucy,181,tutor,"Yeah, how to partition the numbers so that you can divide it very easily, right? And also we did some, you know, partitioning of numbers in different ways. Then we did partitioning by dividing and some questions. Okay, there is still some time left, so I think we can start a new lesson. That is— wait, okay. [unclear]",00:31:28
+fcowucy,182,tutor,Dividing using short division. Do you know how to divide using short division?,00:32:03
+fcowucy,183,student,Yeah.,00:32:08
+fcowucy,184,tutor,"Okay, good job. Then I think it should be very easy for you. Yeah?",00:32:09
+fcowucy,185,student,Yeah.,00:32:14
+fcowucy,186,tutor,"Okay, can you try this question?",00:32:15
+fcowucy,187,student,Can you [unclear] each diagram to show 20 divided by 4 in 2 different ways?,00:32:20
+fcowucy,188,tutor,"Yeah, so there are group of 20",00:32:28
+fcowucy,189,tutor,"And you have to show 4 different ways in which you can divide— sorry, 2 different ways which you can show this 20 divided by 4. [unclear] [unclear]",00:32:34
+fcowucy,190,tutor,"So Gideon, what do you think?",00:33:01
+fcowucy,191,student,[unclear],00:33:01
+fcowucy,192,tutor,"So, 20, 20, 4, 2, 1, 0.",00:33:28
+fcowucy,193,student,And 1. [unclear],00:33:41
+fcowucy,194,tutor,"Okay, the idea?",00:33:53
+fcowucy,195,student,"Yeah, is to put 6 times 2 for the first one.",00:34:04
+fcowucy,196,tutor,Annotate means you have to show in the diagram that how would you represent 20 divided by 4. [unclear],00:34:12
+fcowucy,197,tutor,"All right, Gideon, you have to think about how to annotate. Annotate means you have to show through the diagram But how can you represent 20 divided by 4? [unclear]",00:34:19
+fcowucy,198,tutor,"Okay, okay. So see, I—",00:34:58
+fcowucy,199,tutor,"Understand your confusion. This is not the partition one, right? So we don't have to, you know, break down 20 again. Like here, 20 divided by 4, and there are 20 counters, so 20 marbles. So you have to show here 20 divided by 4 using the picture. [unclear]",00:35:14
+fcowucy,200,student,So there's 20 altogether. [unclear],00:35:42
+fcowucy,201,tutor,Okay.,00:35:55
+fcowucy,202,student,"And then 4, 1, 2, 3, [unclear]",00:35:56
+fcowucy,203,tutor,"Yeah, so that gives you 5 groups. This thing that you made, it is called grouping. You can even make it like this. This is a whole big rectangle which has 20, and then you can simply Draw a line from here. Yeah, make a group of 4 each. So this is called grouping. Now can you show one more way to divide 20 by 4 in this one? [unclear]",00:36:15
+fcowucy,204,student,"So could you do? So 2, 4, 6. [unclear]",00:37:02
+fcowucy,205,tutor,"Okay, so see, I can see you are making group of 2, right?",00:37:21
+fcowucy,206,student,Yeah.,00:37:26
+fcowucy,207,tutor,But we are dividing whole thing into 4. We are dividing it by 4.,00:37:27
+fcowucy,208,student,Yeah.,00:37:34
+fcowucy,209,tutor,"So now think, how can you do that? [unclear] [unclear]",00:37:36
+fcowucy,210,tutor,Can I help you with this?,00:37:55
+fcowucy,211,student,Yeah.,00:38:19
+fcowucy,212,tutor,"Okay, don't worry. First of all, really good job for trying. See, the first one we already did like this, isn't it? Like we made the group of 4. Yeah? [unclear]",00:38:20
+fcowucy,213,student,Yeah.,00:38:35
+fcowucy,214,tutor,"1, 2, 3, 4. So in total we got 5 groups. Right? 1, 2, 3, 4, and 5.",00:38:36
+fcowucy,215,student,Yeah.,00:38:48
+fcowucy,216,tutor,"Now, what if we make a group of 5 like this?",00:38:49
+fcowucy,217,student,5. [unclear],00:38:56
+fcowucy,218,tutor,"If we do group of 5, that means what? In each line, there should be 5 balls like that. [unclear]",00:39:01
+fcowucy,219,tutor,Like this. Now can you see this?,00:39:11
+fcowucy,220,student,Yeah.,00:39:19
+fcowucy,221,tutor,"3 in each box. Now we have 5 balls. 5, 5, 5, and 5. So we got 4 sharing of it, isn't it? So this is called sharing. This is called grouping.",00:39:21
+fcowucy,222,student,Yeah.,00:39:36
+fcowucy,223,tutor,"Okay. All right, don't worry about this. We'll practice this a little bit more. Can you try this short division?",00:39:37
+fcowucy,224,student,Yeah.,00:39:47
+fcowucy,225,tutor,Solve the division calculation here.,00:39:48
+fcowucy,226,student,So first—,00:39:51
+fcowucy,227,tutor,"You can use short division or long division, whichever is convenient for you.",00:39:52
+fcowucy,228,student,"Okay, so first you do 9 divided by 3.",00:39:58
+fcowucy,229,student,"Which is 3. Wait. [unclear] Yeah. And then 3 divided by 3 is 1. And now you can't do 8 divided by 3, so you have to see how many it takes to get to a multiple of 3, the closest one. So the closest one will be 6, which is 6 divided by 3 is 2, and then you have— and then you have 1 left over. I mean, 2 left over.",00:40:02
+fcowucy,230,tutor,2 left over. Very good. So basically what we'll be doing is 6 will be taking away from 8.,00:40:37
+fcowucy,231,student,Yeah.,00:40:47
+fcowucy,232,tutor,And 2 is your remainder.,00:40:49
+fcowucy,233,student,Yeah.,00:40:52
+fcowucy,234,tutor,"All right, great job. I think you did really well in the division.",00:40:53
+fcowucy,235,tutor,"Okay, so this lesson is quite easy, but still we'll do some more practice in this.",00:41:00
+fcowucy,236,student,Okay.,00:41:06
+fcowucy,237,tutor,"Yeah, can you read this one for me here?",00:41:09
+fcowucy,238,student,There are two ways to think about,00:41:14
+fcowucy,239,background,sharing and grouping.,00:41:18
+fcowucy,240,tutor,"Yeah, if you remember from here, We made groups of 4, right?",00:41:20
+fcowucy,241,student,Yeah.,00:41:27
+fcowucy,242,tutor,"And here we shared. So this is called grouping and sharing. If you get confused, so don't worry, we will learn about this in detail here. Okay, there are 12 soda cans here, okay?",00:41:28
+fcowucy,243,student,Yeah.,00:41:44
+fcowucy,244,tutor,And we want to divide 12 by 3. Okay. [unclear] So can you tell me in the first one what is happening?,00:41:46
+fcowucy,245,student,So they are— they are— are they sharing?,00:42:00
+fcowucy,246,tutor,"Oh, they are the groups of 3, isn't it?",00:42:09
+fcowucy,247,student,"Oh, they're grouping?",00:42:12
+fcowucy,248,tutor,"Yeah. Here, see, if the same number that we are dividing by, same number falls in the one group, then it is called grouping.",00:42:14
+fcowucy,249,student,Yeah.,00:42:26
+fcowucy,250,tutor,"Now, can you see same number here, 3 in each box?",00:42:27
+fcowucy,251,student,Yeah.,00:42:32
+fcowucy,252,tutor,"No, right? Like in each box there is 4.",00:42:33
+fcowucy,253,student,"4, yeah.",00:42:36
+fcowucy,254,tutor,"Right, but we have 3 groups of those, like 3 groups of these 4.",00:42:37
+fcowucy,255,tutor,"Cans, right? So that's why, like, that's why this is called sharing. Okay, so let's write here in the first one, that is sharing. Sorry, first one is grouping.",00:42:44
+fcowucy,256,student,Yeah. [unclear] [unclear],00:43:02
+fcowucy,257,tutor,"Right, so if you got confused, then I can explain this in one more way. Okay?",00:43:16
+fcowucy,258,student,Okay.,00:43:24
+fcowucy,259,tutor,"Yeah, so think about it like this. So here we have to divide 12 soda cans by 3. Right?",00:43:25
+fcowucy,260,student,Yeah.,00:43:37
+fcowucy,261,tutor,How many 3s are there in 12?,00:43:38
+fcowucy,262,student,4.,00:43:42
+fcowucy,263,tutor,"4, right? So this 3 is basically— this 3 is basically shared equally in all 4 groups, right? 1, 2, 3, 4. So that's why this is called grouping.",00:43:44
+fcowucy,264,tutor,"And same thing here, you can see that we are making, like, we are setting 4, 4, and 4. So these 3 groups are being shared together into [UNCLEAR].",00:44:03
+fcowucy,265,tutor,"A column of 4, right? Same thing in the second part. Can you tell me what is happening at the bottom here? 8 divided by 2. [unclear] Yeah, so how would you mark this so that it will be sharing, and how would you mark this so that it will be grouping? [unclear]",00:44:31
+fcowucy,266,tutor,"Yes, like that. See, here we have 8 divided by 2, isn't it?",00:45:10
+fcowucy,267,student,Yeah.,00:45:20
+fcowucy,268,tutor,"So if we put 2 candies in each Each group, there will be group 1, isn't it? 2, 2, 2 in each. And here, what did we do? We made 2 columns, basically, like 2 slabs which contains 4. So here, all candies are being shared into 2 columns, right?",00:45:21
+fcowucy,269,student,"[unclear] So that's why it is [UNCLEAR]. Don't worry if you get confused. Again, we'll practice this in the next week. All right?",00:45:50
+fcowucy,270,student,Okay.,00:45:50
+fcowucy,271,tutor,"And before you go, make sure you attempt the quiz, and I'll meet you next week. Bye, have a nice day, Gideon.",00:46:00

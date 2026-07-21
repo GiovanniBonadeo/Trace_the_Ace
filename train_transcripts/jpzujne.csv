@@ -1,0 +1,346 @@
+session_id,utterance_id,role,content,timestamp
+jpzujne,0,tutor,Hello?,00:00:00
+jpzujne,1,background,Hello?,00:00:00
+jpzujne,2,student,Hiya.,00:00:01
+jpzujne,3,tutor,"Hi Callum, can you hear me?",00:00:02
+jpzujne,4,student,Yeah.,00:00:03
+jpzujne,5,tutor,"Okay, right, so let's get started and—",00:00:04
+jpzujne,6,background,Yes.,00:00:07
+jpzujne,7,tutor,"Back again, it's me.",00:00:08
+jpzujne,8,background,Yep.,00:00:09
+jpzujne,9,tutor,"Hope you can remember me, Callum. Okay, right, so by the way, how was your day?",00:00:10
+jpzujne,10,student,It was okay. How was about you?,00:00:16
+jpzujne,11,tutor,"It was great as well. Thank you so much, Callum. Okay, so can you remember what we did in our last session?",00:00:18
+jpzujne,12,student,[unclear],00:00:27
+jpzujne,13,tutor,Can you remember what we did in our last session?,00:00:27
+jpzujne,14,student,"Yeah, we used Pythagoras' theorem to find the sides of the triangles.",00:00:31
+jpzujne,15,tutor,"Exactly. So probably the thing that you already know about Pythagoras' theorem, we learned how to apply for the question.",00:00:35
+jpzujne,16,tutor,Yes.,00:00:42
+jpzujne,17,background,"Right? Yes. And we have already completed the first set of questions, Callum. And the second set of questions has started. I'm uploading you the second set of questions.",00:00:42
+jpzujne,18,tutor,Pardon?,00:00:56
+jpzujne,19,background,"Hello, can you see the slide, Callum?",00:00:58
+jpzujne,20,student,Yeah.,00:01:00
+jpzujne,21,background,"Okay, which slide are you in? What can you see on the slide?",00:01:02
+jpzujne,22,student,The equilateral triangle.,00:01:05
+jpzujne,23,tutor,"Okay, ABZ is an equilateral triangle thing, right?",00:01:07
+jpzujne,24,student,Yeah.,00:01:10
+jpzujne,25,tutor,"Okay, so we have discussed this question last week, so can you just revise the things that you can remember, or if you need any help, I can help you on this.",00:01:11
+jpzujne,26,background,Uh... [unclear],00:01:23
+jpzujne,27,background,"Oh well, I know that what we do is we... Cut the triangle in half.",00:01:27
+jpzujne,28,tutor,Okay.,00:01:38
+jpzujne,29,student,I think we do one side of the triangle like this. [unclear] And then— [unclear],00:01:39
+jpzujne,30,tutor,"Yes, Callum? Shall I rewrite?",00:02:06
+jpzujne,31,student,"I can't really remember how to do it, like how to find the side.",00:02:09
+jpzujne,32,tutor,"Right, that's okay, Callum, but I really appreciate the try that you've given. You have started it really well. So yes, what we did first was we drew the perpendicular height. Like what you've done here. So when you're drawing the perpendicular height, it will obviously make a right angle here.",00:02:12
+jpzujne,33,student,Yeah.,00:02:31
+jpzujne,34,tutor,And also you'll be halving this side into two parts.,00:02:31
+jpzujne,35,student,Yeah.,00:02:36
+jpzujne,36,tutor,Two parts are equal in sizes. Okay?,00:02:37
+jpzujne,37,student,Yeah.,00:02:39
+jpzujne,38,tutor,"Right, so how much do you think it is?",00:02:40
+jpzujne,39,student,3 centimeters.,00:02:43
+jpzujne,40,tutor,Exactly. And how do you know that?,00:02:44
+jpzujne,41,student,"Because they all are the same size, so they all equal— one equals 6, the others all equal 6.",00:02:46
+jpzujne,42,tutor,"Of course. Perfect, Callum. So then what's the length of AB?",00:02:54
+jpzujne,43,student,6.,00:02:59
+jpzujne,44,tutor,"It's already 6. And to know the area of a triangle, how do we calculate the area of a triangle?",00:03:00
+jpzujne,45,background,So we do 6 times 3 divided by 2.,00:03:08
+jpzujne,46,tutor,"Ah, yes. We do obviously half the times the base This means this part, which would be multiplied by— for here it would be the perpendicular height, and that's why we need to find out the perpendicular height, the [UNCLEAR]. Right, so we kind of know some details about this. How do you think we can find it?",00:03:13
+jpzujne,47,student,By using Pythagoras' theorem.,00:03:13
+jpzujne,48,tutor,"Okay, yes. So then we can work out, find the answer for h, then substituting it for this.",00:03:44
+jpzujne,49,student,"So to find the height, is the hypotenuse— no, not the hypotenuse, the height— is that the c² a² b²? Or is it the other equation? Yeah, it",00:03:52
+jpzujne,50,tutor,"should be. 6 squared take away 3 squared, and that will be equal to h squared. But since we have already done this, Callum, I'll get you to the next question where you will have to work independently.",00:04:10
+jpzujne,51,student,Yeah.,00:04:23
+jpzujne,52,tutor,"I got this just to [unclear] what we have done, okay?",00:04:23
+jpzujne,53,student,Mm-hmm.,00:04:25
+jpzujne,54,tutor,"Right then, here we go. This is your turn. And yeah, you can give that a try.",00:04:28
+jpzujne,55,student,Analyze an isosceles triangle with a height of 6 centimeters and a base length of 8 centimeters.,00:04:34
+jpzujne,56,tutor,"Find the perimeter of the triangle. So if you're splitting it in half, would you split it in half because it's perimeter or would you keep it because you're not doing the area?",00:04:39
+jpzujne,57,student,Sorry?,00:04:54
+jpzujne,58,tutor,"So you know the area, how you split it in half like that and then do one side of the triangle. [unclear] Would you do the same for perimeter or no?",00:04:55
+jpzujne,59,tutor,"Oh, when finding the perimeter, we do not need to find out the height, but they have given you the height, and that's a clue to find the perimeter. What's probably the perimeter?",00:05:07
+jpzujne,60,student,"[unclear] No. If the bottom one's 8, it could be 6, but— because they let them— Both equal, so if one side, then it's the other as well. So—",00:05:20
+jpzujne,61,tutor,"They said it's an isosceles triangle. What's an isosceles triangle? [unclear] Okay, you can start working, and if you need any help, you can ask me.",00:05:35
+jpzujne,62,tutor,So... [unclear] [unclear],00:06:32
+jpzujne,63,student,I don't really know.,00:06:52
+jpzujne,64,tutor,"Okay, that's fine, Callum. So shall we work it out together then?",00:06:53
+jpzujne,65,student,Yeah.,00:06:58
+jpzujne,66,tutor,"Right, so here they have given you the perpendicular height already. That's a clue. Okay?",00:06:58
+jpzujne,67,student,Yeah.,00:07:04
+jpzujne,68,tutor,"Right, and if you're getting the perpendicular height like this, what do you think this part would be from A to this point?",00:07:05
+jpzujne,69,student,4.,00:07:13
+jpzujne,70,tutor,"4, exactly. So let's mark it as 4 here. Right, now to find the perimeter, when you're [unclear] the perimeter of a triangle, what does it mean by the perimeter?",00:07:14
+jpzujne,71,student,So the outside.,00:07:25
+jpzujne,72,tutor,"Exactly, the length of the outside of the triangle. Right, so now you know if I get this triangle separately, it's already in a right-angled triangle. I will just this [unclear] triangle here and move here. Right, so we need to know what is AB. Can you work it out? How do we find AB? So",00:07:28
+jpzujne,73,student,are we using Pythagoras' theorem? So we're applying that? Of,00:07:57
+jpzujne,74,tutor,course. So,00:08:01
+jpzujne,75,student,this would be— so find the hypotenuse is c² a² b².,00:08:02
+jpzujne,76,tutor,"Oh, isn't it?",00:08:09
+jpzujne,77,student,"Yes, it is.",00:08:11
+jpzujne,78,tutor,So it would be like 4 squared plus 6 squared. So 16 or 36. 52.,00:08:13
+jpzujne,79,tutor,"62, okay.",00:08:36
+jpzujne,80,student,Is it not 52? [unclear] 16 and 36.,00:08:38
+jpzujne,81,tutor,"36, yes, it would be 52, right? And then?",00:08:45
+jpzujne,82,student,"Yeah, 52. So c squared, and then you square root 52 to find c. So the",00:08:49
+jpzujne,83,student,Excuse my calculator.,00:09:00
+jpzujne,84,tutor,Okay.,00:09:03
+jpzujne,85,student,Square root of 52 is 7.2.,00:09:07
+jpzujne,86,tutor,7.21.,00:09:11
+jpzujne,87,student,Yeah.,00:09:15
+jpzujne,88,tutor,"Right, 7.21 centimeters. Okay, now you know the length of AB.",00:09:16
+jpzujne,89,student,Yeah.,00:09:22
+jpzujne,90,tutor,"Let's mark it. It's 7... 7.21. Right. So once you are done with it, now can you find the perimeter or not?",00:09:22
+jpzujne,91,student,"Yeah, because is this side not equal with this side?",00:09:35
+jpzujne,92,tutor,Hmm. Good. Good job. So what's the final answer then?,00:09:39
+jpzujne,93,student,So it'd be— so 7.21 times [unclear] is 14.42.,00:09:45
+jpzujne,94,student,So it's 22.42.,00:09:52
+jpzujne,95,tutor,"Excellent. The final answer for the perimeter of the triangle, it would be 22.42 centimeters.",00:09:54
+jpzujne,96,student,Yeah.,00:10:04
+jpzujne,97,tutor,"Right, there we go. So that is allocated with 3 marks. 1 mark for applying the Pythagoras Theorem, and then the other is for finding the answer. For the length of AB, which is 7.21, and the last mark is given for finding out the perimeter.",00:10:05
+jpzujne,98,student,Yep.,00:10:24
+jpzujne,99,tutor,"Okay, now can you recap the things that we did? First, what we have done on this, Callum?",00:10:25
+jpzujne,100,student,So we've already got the perpendicular height.,00:10:30
+jpzujne,101,tutor,Mm-hmm.,00:10:34
+jpzujne,102,student,"And if we've already— [unclear] Yeah, if we have— so we've been given that, so when we halve this triangle, we know that that's going to be 4 centimeters. Because it's 8 split into 2.",00:10:36
+jpzujne,103,tutor,Exactly.,00:10:48
+jpzujne,104,student,"So what we do is we've got 2 sides, so to find the hypotenuse, you use c² a² b², which was 52. And then what you do is you square it, 52, just to find AB, and you can use that and add up all the sides to find the perimeter. Hmm, yes,",00:10:49
+jpzujne,105,background,"of course. And what is the What's the special thing or the specific thing in an isosceles triangle, Callum?",00:11:10
+jpzujne,106,student,Two sides are equal to each other.,00:11:16
+jpzujne,107,tutor,"Exactly. Okay. Right then, any other questions to ask regarding what we have done over this?",00:11:18
+jpzujne,108,student,No.,00:11:24
+jpzujne,109,tutor,Then we can move on with the third exam-style question. You can read and give it a start.,00:11:26
+jpzujne,110,background,"So, Amir and his [unclear] got him bored to go around his living room. He's got 40 meters of skirting board. Does he have enough? So a b 7, divided by 3.5. Times [unclear] 3.5. That's 7. Yes.",00:11:34
+jpzujne,111,tutor,"Mm-hmm. So you got the length. What are the lengths that you got, Callum?",00:12:03
+jpzujne,112,student,Is this— because this is a trapezium.,00:12:10
+jpzujne,113,tutor,Yeah.,00:12:13
+jpzujne,114,student,So would you not use the area of the trapezium to find if you've got enough?,00:12:14
+jpzujne,115,tutor,"Okay. So here they say he's buying this cutting board to go around his living room. Around. When we say around, he's like going on this way.",00:12:20
+jpzujne,116,tutor,Yeah.,00:12:30
+jpzujne,117,background,"Around this, yeah?",00:12:32
+jpzujne,118,tutor,Yeah.,00:12:33
+jpzujne,119,background,"Okay, so he's going around the living room. So that's probably— you will have to find out the length around the living room.",00:12:35
+jpzujne,120,student,So would you just— would you split this like this to find the triangle?,00:12:44
+jpzujne,121,background,"Exactly, yeah, you can use that method.",00:12:50
+jpzujne,122,student,"Yeah, so you'd use— you split that there so you've got the right angle.",00:12:52
+jpzujne,123,tutor,Uh-huh.,00:12:57
+jpzujne,124,student,"So would this— you'd have to find out this side though, the bottom side, because you've split it not down the middle. So this could be like 1, for example.",00:12:58
+jpzujne,125,tutor,"Okay, how did you get the 1?",00:13:09
+jpzujne,126,student,"So, well, 2 would be here, and then— actually no, because it's not a full rectangle. [unclear]",00:13:10
+jpzujne,127,tutor,"Yeah, you're right. But how did you get the 1?",00:13:22
+jpzujne,128,tutor,"So if I go— so if you half this, that's 2, and then you'd half it again from that point to get 1.",00:13:25
+jpzujne,129,background,"Ah, okay.",00:13:35
+jpzujne,130,tutor,That's how I go around.,00:13:36
+jpzujne,131,background,"Right, yes, Callum, but that's not always the same. They might give you some questions to confuse us as well. But you can use this method. I'm just going to separate the triangle And the rectangle part like this?",00:13:38
+jpzujne,132,student,Yeah.,00:13:55
+jpzujne,133,tutor,You see this part is already 3 meters.,00:13:56
+jpzujne,134,student,Yeah.,00:14:01
+jpzujne,135,tutor,"Yeah, that's already 3, and they say this whole length is 4. So if you took this 3 away, this part would be?",00:14:02
+jpzujne,136,student,1.,00:14:12
+jpzujne,137,tutor,1 meter exactly. Okay.,00:14:13
+jpzujne,138,background,"So again, we're finding the hypotenuse. So, yeah, like that. So then you do 3 squared, which is 9.",00:14:15
+jpzujne,139,tutor,How did you get 3 squared?,00:14:37
+jpzujne,140,student,"Is it not the 3? Oh no, no, is it?",00:14:39
+jpzujne,141,tutor,"Sorry, I was looking at the top here.",00:14:44
+jpzujne,142,student,"Oh, that's okay, yeah.",00:14:48
+jpzujne,143,tutor,"So we've got the 1 meter, so you need to do the equation where you're minusing to find two sides, is that correct? Actually, no, no, no, 3.5, isn't it?",00:14:50
+jpzujne,144,background,3.5.,00:15:02
+jpzujne,145,student,"3.5, exactly. So that's [UNCLEAR].",00:15:02
+jpzujne,146,tutor,"Yeah, so it's 3.5 squared.",00:15:02
+jpzujne,147,tutor,Mm-hmm.,00:15:09
+jpzujne,148,student,"Plus 1 squared. So, one second. 3.5 times 3.5 is 12.25.",00:15:10
+jpzujne,149,tutor,Mm-hmm.,00:15:26
+jpzujne,150,student,Plus 1 squared is 1. So 13.25.,00:15:27
+jpzujne,151,tutor,"Mm-hmm. Right. And then square root 13.25, which is— this is my calculator— [unclear]",00:15:31
+jpzujne,152,tutor,13.25 is— oh.,00:15:50
+jpzujne,153,student,3.64.,00:16:05
+jpzujne,154,tutor,Good job.,00:16:08
+jpzujne,155,student,"So that is the side of the slant. So yes, he has bought enough. Oh no, no, no, no. So then the perimeter is 4 [unclear] 6.5, 10.5. So no, yeah, he hasn't got enough.",00:16:08
+jpzujne,156,tutor,"Oh, how did you know that?",00:16:32
+jpzujne,157,student,"Because if we're doing it around, then you do perimeter.",00:16:34
+jpzujne,158,tutor,Yeah.,00:16:39
+jpzujne,159,student,"So it'd be 3 and 4 is 7, and 3.5, 7.5, and then add 3.64 10.5 plus 3.64 is 14.14. So it's just short. [unclear]",00:16:40
+jpzujne,160,tutor,"Yes. Okay, so in that case, Callum, you will have to show the additions. You have to get the perimeter, the total perimeter, because they're asking you to justify your answer.",00:17:08
+jpzujne,161,tutor,"So then you will have to get the perimeter, which is 14.14 meters, and then show that it's more than 14 meters. So it's going to be more than how much he has, and then you can either mention it as 0.14 meters too little, or it's not enough skirting. [unclear] Okay.",00:17:18
+jpzujne,162,tutor,Yeah.,00:17:45
+jpzujne,163,student,"Yeah, better that you are going to write it down. Good. [unclear]",00:17:45
+jpzujne,164,tutor,"Yes, okay, and at the end you can also write it down. For now it's not needed, but at the end you can mention that it's not enough curling because 0.14, it's a bit little than how much it has already.",00:18:11
+jpzujne,165,student,Yeah.,00:18:28
+jpzujne,166,tutor,"Right, and the reason is, Callum, you will be gaining one mark for your justification, like For your statement also, you will be gaining marks. So for finding out this final answer and for proving that it's not enough, you will get 4 marks on this question. Okay?",00:18:29
+jpzujne,167,student,Yeah.,00:18:48
+jpzujne,168,tutor,"And how the marks have been distributed is for finding— applying Pythagoras' theorem over this, one mark for that, another mark for finding out",00:18:51
+jpzujne,169,tutor,The final answer is 3.64.,00:19:02
+jpzujne,170,student,Yeah.,00:19:05
+jpzujne,171,tutor,"One mark for finding out the perimeter and stuff, and one mark for the justification. Any questions on that, Callum?",00:19:05
+jpzujne,172,student,Nope.,00:19:14
+jpzujne,173,tutor,"Okay, so it required minimal support for that. So let's try out another one. [unclear]",00:19:15
+jpzujne,174,background,"So, so, so.",00:19:24
+jpzujne,175,tutor,"Callum is making— [unclear] Callum is making a metal frame as shown below. So 4, 5, and 6 meters. Work out the length of the metal Callum needs to construct the frame. So we need to find out this side again as well as this side. So",00:19:28
+jpzujne,176,tutor,"Obviously, this triangle's already been split.",00:19:57
+jpzujne,177,student,Mm-hmm.,00:20:00
+jpzujne,178,tutor,So that would be the hypotenuse. So we need to find this one first to find this side.,00:20:01
+jpzujne,179,student,Okay.,00:20:07
+jpzujne,180,tutor,So 5 squared plus 4 squared. So 25 plus 16. 41. Square root 41 equals 6.4.,00:20:08
+jpzujne,181,tutor,Okay.,00:20:36
+jpzujne,182,student,So that length there is 6.4. Is that correct?,00:20:37
+jpzujne,183,tutor,"Yes, it's 6.4. Well done.",00:20:48
+jpzujne,184,student,"Yeah, but then I cannot remember the equation for the side that's not the hypotenuse.",00:20:51
+jpzujne,185,tutor,"I'm sorry, Callum, what is it?",00:21:00
+jpzujne,186,student,So you know the equation we used last week?,00:21:03
+jpzujne,187,tutor,Yeah.,00:21:07
+jpzujne,188,student,"Not the one that's for the hypotenuse. [unclear] is the one where you minus, so—",00:21:08
+jpzujne,189,tutor,"You mean if you're not finding the hypotenuse but something else, you're going to use—",00:21:15
+jpzujne,190,student,"Yeah, another equation, yeah.",00:21:20
+jpzujne,191,tutor,"Yeah, it says when it is like c² b², give you the answer for a².",00:21:23
+jpzujne,192,student,"Yeah, so it would be— would it be 6.4 squared?",00:21:35
+jpzujne,193,tutor,Okay.,00:21:41
+jpzujne,194,student,Which is 41 minus 36 gives me a squared.,00:21:42
+jpzujne,195,tutor,Mm-hmm.,00:21:49
+jpzujne,196,student,"So 6.4 minus 6— this is squared. Equals E, like so.",00:21:52
+jpzujne,197,tutor,[UNCLEAR],00:21:52
+jpzujne,198,student,"So then,",00:22:23
+jpzujne,199,tutor,"41 minus 36 is 7— is 5. And then square root 5, 2.23. So this side could be 2.23, but I don't think that's correct. [unclear]",00:22:28
+jpzujne,200,tutor,Hello?,00:22:52
+jpzujne,201,student,Hello.,00:23:06
+jpzujne,202,tutor,"Hello. Can you hear me now, Callum?",00:23:09
+jpzujne,203,student,"Yeah, I can hear you now.",00:23:11
+jpzujne,204,tutor,"All right. Okay, I'm sorry, I had to refresh the page. Right, so we were working on this. You are finding the length of this side, right?",00:23:13
+jpzujne,205,student,Yeah.,00:23:21
+jpzujne,206,tutor,"Okay. By the way, do we have any right angle in this triangle? Anywhere around this triangle?",00:23:22
+jpzujne,207,student,"Not in this one, no.",00:23:30
+jpzujne,208,tutor,Then what do you think we will have to do? I'll just get you back to this. Give me a clue.,00:23:33
+jpzujne,209,background,We've got to split this triangle up.,00:23:44
+jpzujne,210,tutor,In half.,00:23:47
+jpzujne,211,background,"Obviously, yeah, you will have to separate it, then you can form the right angle there.",00:23:49
+jpzujne,212,tutor,Yeah.,00:23:56
+jpzujne,213,background,"Okay, now what?",00:24:00
+jpzujne,214,student,"So, this side is... this side is 5.",00:24:03
+jpzujne,215,tutor,"Uh-huh. Oh, which means this side would be 2, I'm guessing?",00:24:11
+jpzujne,216,tutor,"Exactly, and how did you know that?",00:24:18
+jpzujne,217,student,Just because it inserts.,00:24:21
+jpzujne,218,tutor,"Hmm, and you can see the total is 6, 8, 4, so obviously this would be 2.",00:24:25
+jpzujne,219,background,Yeah.,00:24:31
+jpzujne,220,student,So it would be obviously 5 squared.,00:24:32
+jpzujne,221,student,Mm-hmm.,00:24:37
+jpzujne,222,tutor,Plus 2 squared.,00:24:40
+jpzujne,223,student,Right.,00:24:43
+jpzujne,224,tutor,"25 plus 4, 29.",00:24:45
+jpzujne,225,student,Mm-hmm.,00:24:48
+jpzujne,226,tutor,And then is it just 29 squared? Square root. Square root of 29.,00:24:50
+jpzujne,227,student,Yes.,00:24:59
+jpzujne,228,tutor,"Is 5.38, which is 5.4 rounded up. [unclear]",00:25:00
+jpzujne,229,tutor,"Yes, you can go again, 5.39.",00:25:08
+jpzujne,230,student,So this would be 5.39.,00:25:14
+jpzujne,231,tutor,Okay.,00:25:17
+jpzujne,232,student,"And you've got a side, now you've got both missing sides.",00:25:20
+jpzujne,233,tutor,So now you do the perimeter.,00:25:30
+jpzujne,234,background,"Probably they want you to find the length of the middle. So yeah, the perimeter as well as this diagonal.",00:25:34
+jpzujne,235,tutor,So 15.4 for this one. [unclear] 12.4.,00:25:42
+jpzujne,236,student,"12.4 plus 5.39, 17.79. [unclear]",00:26:02
+jpzujne,237,tutor,"On that one, you got 4 and 5 and 6.4 together, which was 15.4.",00:26:18
+jpzujne,238,tutor,Oh.,00:26:23
+jpzujne,239,student,Yeah.,00:26:24
+jpzujne,240,tutor,"Yes, then you have to add only these two parts.",00:26:25
+jpzujne,241,background,"Yeah, these two, you've got 6.46 and 5.39, haven't you?",00:26:28
+jpzujne,242,tutor,"Sorry, Callum, what was it?",00:26:38
+jpzujne,243,background,Is it not these three?,00:26:40
+jpzujne,244,tutor,[unclear],00:26:43
+jpzujne,245,background,"For your first one also, you included 6.4, right?",00:26:47
+jpzujne,246,tutor,Yeah.,00:26:53
+jpzujne,247,background,[unclear],00:26:53
+jpzujne,248,tutor,"Yeah, so what happens is you are getting the length of these 1, 2, 3, 4, 5 sides. Because this Callum is making a metal frame. This is the frame he has, so we need to find out the length of metal that he needs.",00:26:53
+jpzujne,249,background,"Ah, okay. Yeah, yeah, yeah, yeah, okay, yeah.",00:27:16
+jpzujne,250,tutor,Okay.,00:27:19
+jpzujne,251,student,"So now 21.4, 26.79.",00:27:19
+jpzujne,252,tutor,26.79 meters.,00:27:29
+jpzujne,253,student,Yeah.,00:27:31
+jpzujne,254,tutor,"Excellent. Yes, Callum, that's the final answer. All the method given, you can write down your final answer. Good job. So for that, you're going to get 4 marks for B,",00:27:32
+jpzujne,255,tutor,"working the things independently, Callum. I just only guided you in some parts, and all the other works you have done that independently. So I'm really happy to see at the end of the session, probably the end of this lesson, after completing 3 sets of questions, you are now showing progress. You have already shown progress where you worked out the things independently, and you [UNCLEAR] feel like confident. I just understood that from the way that you have worked out. [unclear]",00:27:32
+jpzujne,256,tutor,Hello?,00:28:16
+jpzujne,257,student,Hello?,00:28:23
+jpzujne,258,tutor,"Yes, Callum?",00:28:24
+jpzujne,259,student,Yeah.,00:28:25
+jpzujne,260,tutor,Did you understand the thing?,00:28:26
+jpzujne,261,student,Yeah.,00:28:27
+jpzujne,262,tutor,Yes. So now you know how to apply the Pythagorean theorem.,00:28:29
+jpzujne,263,student,Yeah.,00:28:32
+jpzujne,264,tutor,Okay. Any questions to ask before moving ahead?,00:28:33
+jpzujne,265,student,No.,00:28:36
+jpzujne,266,tutor,No questions? Okay then. So you will reflect on what we have done on this lesson. Can you correct the answers for the questions below? [unclear],00:28:37
+jpzujne,267,student,Hmm. AC. So is 5 squared plus 6.7 squared. It's 8. [unclear] He square rooted it.,00:28:48
+jpzujne,268,tutor,First rather than the answer.,00:29:04
+jpzujne,269,background,So the method is it?,00:29:07
+jpzujne,270,tutor,"Does it make a difference? Because this person has squared, squared the 5 squared plus 6.7 squared. Could you not have just done 5 squared plus 6.7 squared, then square root the answer? Or would that be the same answer?",00:29:09
+jpzujne,271,background,"Well, they have done a mistake on that. You have to find where the mistake they have done. [unclear]",00:29:26
+jpzujne,272,tutor,"Just forget about this part and can you tell me what should you do first? If it was you, what would you do first?",00:29:34
+jpzujne,273,student,"Split it in— so, what I'd do is I'd do this.",00:29:41
+jpzujne,274,tutor,Good.,00:29:49
+jpzujne,275,student,And then work it out from there.,00:29:50
+jpzujne,276,tutor,"And what things should you know? You already know A, B, they have given it.",00:29:54
+jpzujne,277,tutor,"So another side is 6. I'm going to say this side is 7, 8.",00:29:59
+jpzujne,278,student,How do you say that? You've got 5 here. [unclear],00:30:06
+jpzujne,279,background,"OK. So actually we need to know the exact length, Callum, without any guesses. So then what you can do is— can you see they have given 5 on this part?",00:30:13
+jpzujne,280,student,Yeah.,00:30:27
+jpzujne,281,tutor,Mm-hmm. What do you think you can do then?,00:30:27
+jpzujne,282,student,"Ah, is it 10 because it's the same side doubles?",00:30:31
+jpzujne,283,tutor,"No, not really. Another work to be done. [unclear] triangular part again. And then you can see the hypotenuse is 6.7 centimeters here.",00:30:35
+jpzujne,284,student,"Ah, right, okay. Yeah. And what about this length?",00:30:49
+jpzujne,285,student,So then this length would be 6.,00:30:53
+jpzujne,286,tutor,6. Okay. So how would you find this part?,00:30:56
+jpzujne,287,student,6.7 squared minus 6 squared.,00:31:01
+jpzujne,288,tutor,Exactly. And you get the square root.,00:31:05
+jpzujne,289,student,"Yeah. So, um, 6.7 times— so 44.",00:31:08
+jpzujne,290,student,8.89 minus 36.,00:31:17
+jpzujne,291,tutor,8.89.,00:31:23
+jpzujne,292,background,"Okay, the square root?",00:31:25
+jpzujne,293,tutor,"Ah yes, square root of 8.89.",00:31:29
+jpzujne,294,tutor,2.98.,00:31:47
+jpzujne,295,student,[unclear],00:31:47
+jpzujne,296,background,"Excellent. 2.98 for that length. Okay, so it's 2.98 for this, and this is 5, so altogether for CD, how much is it?",00:31:48
+jpzujne,297,student,7.98.,00:31:59
+jpzujne,298,background,"Exactly. So you can simply write down 7.98, the total length.",00:32:02
+jpzujne,299,tutor,"Okay, now you know AD, CD, so how would you find AC?",00:32:16
+jpzujne,300,student,36. One second. So you do 36 plus... [UNCLEAR],00:32:16
+jpzujne,301,tutor,"36 plus 63, then square root. So 63.6 plus 36.",00:32:44
+jpzujne,302,student,is 99.6. And then square that. So 9.97.,00:32:44
+jpzujne,303,tutor,"Exactly. It would be 9.9 centimeters. Well done, Callum. That was a challenge. Good working out over there. Right. Last but not the least, the area of this for one decimal place.",00:32:44
+jpzujne,304,tutor,"So what you do is, you do 12 centimeters squared.",00:33:26
+jpzujne,305,student,Okay.,00:33:35
+jpzujne,306,tutor,"Minus 8 centimeters squared to find this side here. [unclear] Bottom side. So 104, so it would be 80, and then square root 80. [unclear]",00:33:36
+jpzujne,307,student,"8.94. So, but it's one decimal, so it would be 8.9.",00:34:04
+jpzujne,308,tutor,"Okay. And then you've got to do the area, so would it be 8 times 8.9 divided by 2?",00:34:08
+jpzujne,309,student,8.9?,00:34:15
+jpzujne,310,student,8.9 times 8 divided by 2.,00:34:19
+jpzujne,311,tutor,"Exactly. Good job, Callum.",00:34:22
+jpzujne,312,student,So 35.6.,00:34:28
+jpzujne,313,tutor,Well done. Yes. And the answer is [unclear] squared centimeters. Okay?,00:34:30
+jpzujne,314,student,Mm-hmm.,00:34:37
+jpzujne,315,tutor,"Yeah. And another thing is when you get the base of this, it was 8.94.",00:34:38
+jpzujne,316,tutor,Yes.,00:34:44
+jpzujne,317,background,"So you include it with two decimal places at the start, and once you get the final answer, then you can convert it into one decimal place by rounding.",00:34:44
+jpzujne,318,tutor,Yeah.,00:34:54
+jpzujne,319,background,"Okay, that's something. [unclear] And hopefully we have completed the lesson about applying Pythagoras' theorem, Callum. And finally, how was the session today?",00:34:55
+jpzujne,320,student,"Yeah, it was good, enjoyable.",00:35:09
+jpzujne,321,tutor,"Okay, did you understand everything that we have done?",00:35:11
+jpzujne,322,student,"Yeah, I understood it a lot more this week than last time, as obviously we did it last week.",00:35:14
+jpzujne,323,tutor,"Yeah, so last week it was kind of like at the start, if I get you, the first question, you were kind of confused and you needed support and more time to work out. But this week it was evident that you worked out these challenging [unclear] as well. It was really good to see.",00:35:19
+jpzujne,324,tutor,"Okay, and if you have got a trapezium—",00:35:39
+jpzujne,325,student,Yeah.,00:35:42
+jpzujne,326,tutor,Like this.,00:35:45
+jpzujne,327,student,Yeah.,00:35:46
+jpzujne,328,tutor,"And I have given you this side as 4 centimeters, this side as, let's say, 8, and this side as 5. So how would you find the length of the missing part? Good. Uh-huh.",00:35:47
+jpzujne,329,student,This side would be 4.,00:36:03
+jpzujne,330,tutor,Okay.,00:36:05
+jpzujne,331,student,This side would be 3 because you're doing the 5 and the 8.,00:36:11
+jpzujne,332,tutor,Excellent. Uh-huh.,00:36:19
+jpzujne,333,student,And then it'd be 16 minus 9 would be [UNCLEAR].,00:36:21
+jpzujne,334,student,"16 squared, so [UNCLEAR], sorry.",00:36:29
+jpzujne,335,tutor,4 squared.,00:36:29
+jpzujne,336,student,"Plus 9, 25. So this side, the hypotenuse would be 5.",00:36:32
+jpzujne,337,tutor,Good. Good job. So this side would be 5.,00:36:39
+jpzujne,338,student,Yeah.,00:36:43
+jpzujne,339,tutor,Well done. Great explanation. And we have also come to the end of the session. So any questions to ask before ending of the session?,00:36:43
+jpzujne,340,student,Nope.,00:36:52
+jpzujne,341,tutor,"Okay, Callum. So hope to see you back again on another week.",00:36:53
+jpzujne,342,tutor,Have a nice one.,00:36:56
+jpzujne,343,student,You too. [unclear] Bye.,00:36:57
+jpzujne,344,tutor,Bye-bye.,00:36:59

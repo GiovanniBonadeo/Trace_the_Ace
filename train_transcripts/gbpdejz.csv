@@ -1,0 +1,353 @@
+session_id,utterance_id,role,content,timestamp
+gbpdejz,0,background,[unclear],00:00:00
+gbpdejz,1,tutor,Hello?,00:00:00
+gbpdejz,2,student,Hello?,00:00:01
+gbpdejz,3,tutor,Yes.,00:00:03
+gbpdejz,4,student,Good.,00:00:05
+gbpdejz,5,tutor,Hello? [unclear],00:00:06
+gbpdejz,6,tutor,Hello?,00:00:12
+gbpdejz,7,tutor,Yes.,00:00:40
+gbpdejz,8,background,Can you hear me or not?,00:00:41
+gbpdejz,9,tutor,No.,00:00:41
+gbpdejz,10,background,Hello?,00:00:43
+gbpdejz,11,tutor,"Oh, hello.",00:00:44
+gbpdejz,12,background,"Hello, Callum.",00:00:45
+gbpdejz,13,tutor,I can hear.,00:00:46
+gbpdejz,14,background,Yeah.,00:00:48
+gbpdejz,15,tutor,"Hi, how are you?",00:00:49
+gbpdejz,16,background,I'm good.,00:00:50
+gbpdejz,17,tutor,Good. How did your day go?,00:00:52
+gbpdejz,18,background,"Um, it's been good.",00:00:53
+gbpdejz,19,tutor,Good. Did you have fun?,00:00:56
+gbpdejz,20,background,"Um, yeah, we have. Well, I have. [unclear]",00:00:59
+gbpdejz,21,tutor,Did something special happen today?,00:01:04
+gbpdejz,22,student,"No, not really.",00:01:06
+gbpdejz,23,tutor,Did you learn anything interesting?,00:01:09
+gbpdejz,24,student,"Well, we did do math.",00:01:12
+gbpdejz,25,tutor,"Math? Math is your favourite subject, is it? [unclear]",00:01:14
+gbpdejz,26,student,Is math your favourite subject?,00:01:18
+gbpdejz,27,tutor,"No, art is.",00:01:21
+gbpdejz,28,student,Sorry?,00:01:25
+gbpdejz,29,tutor,Art's my favourite subject.,00:01:26
+gbpdejz,30,student,"Art is it? Oh, wow. That's great news. I didn't know about that. So, anything else?",00:01:28
+gbpdejz,31,tutor,"No, that's it.",00:01:37
+gbpdejz,32,student,"And yeah, last session you had mentioned that I spoke too quietly. Am I speaking too quietly now? [unclear]",00:01:40
+gbpdejz,33,tutor,"Oh no, you're speaking loudly. You're speaking loud, louder.",00:01:48
+gbpdejz,34,student,"Okay. If you have anything like any issues, you can",00:01:51
+gbpdejz,35,tutor,Okay.,00:01:58
+gbpdejz,36,student,Is everything good now? [unclear],00:01:59
+gbpdejz,37,tutor,Yes. Okay.,00:02:02
+gbpdejz,38,student,Can you remember what we did last session? Dividing using partitions?,00:02:05
+gbpdejz,39,tutor,"Well, so basically, we basically was dividing, but we had to use like partitioning when we were dividing.",00:02:12
+gbpdejz,40,tutor,dividing this. So what do you think? Is it okay?,00:02:12
+gbpdejz,41,student,"Oh, yeah.",00:02:12
+gbpdejz,42,tutor,"Yeah, so we need to— we have some left questions left. But before we begin, can you start with this learning goal question?",00:02:29
+gbpdejz,43,student,"Okay. Use partitioning to complete this calculation. So 51 divided by 3. Okay. So— 51 divided by— wait, let me get text. [unclear] 51. Is it 17?",00:02:39
+gbpdejz,44,tutor,"It is 17. The answer is correct. Yes, 17. I thought— [unclear]",00:03:09
+gbpdejz,45,tutor,Can you try to answer him?,00:03:18
+gbpdejz,46,student,"Yes. When she rounds the number to one decimal place, she gets 3.6.",00:03:22
+gbpdejz,47,background,Can I ask you how you partitioned 51?,00:03:29
+gbpdejz,48,student,"Well, actually, first, all I did was 3 divided by 51, which was 17. But now I need to do the partitioning.",00:03:34
+gbpdejz,49,tutor,"Yeah, if you could just tell me how you would partition 51, it would be good. [Speaker] Okay. [unclear] [Speaker] Do we? So do we have to like— Like, we could do like, if it's like 50, so 52 equals 51, and then divided by 3, like that?",00:03:43
+gbpdejz,50,tutor,"Yeah, you were— you're mentioning like this, right? This [UNCLEAR].",00:04:32
+gbpdejz,51,tutor,Yeah.,00:04:35
+gbpdejz,52,background,"2 and 1, is it?",00:04:35
+gbpdejz,53,tutor,Yes.,00:04:37
+gbpdejz,54,background,"All right. This is as far as, yeah, partially you can consider this is correct, but— [unclear]",00:04:37
+gbpdejz,55,tutor,"What is it, Callum?",00:04:44
+gbpdejz,56,student,"Oh, nothing. It was by accident.",00:04:49
+gbpdejz,57,tutor,"Yes, right. So yeah, but we need to divide by 3, right? We need to make sure that, you know, when you— okay, 53 divided by 3, and 1 divided by 3. This will make the calculation harder, right?",00:04:51
+gbpdejz,58,tutor,Okay.,00:05:06
+gbpdejz,59,student,"So we could try something like this. Some— a number like this, 30. 30 divided by 3, it's easy, right? 30 divided by 3 is— [unclear]",00:05:07
+gbpdejz,60,background,30 divided by 3 is 10.,00:05:20
+gbpdejz,61,tutor,"10, yes.",00:05:24
+gbpdejz,62,tutor,"And yeah, if I partition 51 to 30, the other number would be? [unclear]",00:05:27
+gbpdejz,63,student,"To 30, the other number would be 10? 51 take away 30s?",00:05:40
+gbpdejz,64,tutor,"Oh, oh, oh, um, um, 20?",00:05:55
+gbpdejz,65,student,21. [unclear],00:06:01
+gbpdejz,66,tutor,"Oh, yes. So 21 can be divided by 3?",00:06:03
+gbpdejz,67,student,"Uh, yes.",00:06:11
+gbpdejz,68,tutor,"Yes, what is it?",00:06:13
+gbpdejz,69,student,So 21 divided by 3 is [unclear],00:06:17
+gbpdejz,70,tutor,7.,00:06:29
+gbpdejz,71,student,"7, yes.",00:06:30
+gbpdejz,72,tutor,"So you can see, right? 10 plus 7 would give you the answer 17, right?",00:06:31
+gbpdejz,73,student,Yeah.,00:06:36
+gbpdejz,74,tutor,So that is why we use fractions. It makes the calculation easier.,00:06:38
+gbpdejz,75,student,Okay. [unclear],00:06:43
+gbpdejz,76,tutor,We actually completed up to follow me.,00:06:49
+gbpdejz,77,student,Yes.,00:06:54
+gbpdejz,78,tutor,Yes. Can you try your turn?,00:06:55
+gbpdejz,79,background,Hello?,00:07:03
+gbpdejz,80,tutor,"Okay. So this in a similar way, 92 divided by 4. Partitioned into two parts that can be easily— that can be divided by 4 easily.",00:07:08
+gbpdejz,81,tutor,"So that is like a keyword there, divided by 4 easily. [unclear]",00:07:20
+gbpdejz,82,student,Divided by 4 easily. [unclear],00:07:31
+gbpdejz,83,tutor,"Wait, I don't know. Oh, wait, wait, wait. Can we do like 90 and then 2?",00:07:45
+gbpdejz,84,student,"It's not wrong. It's correct, 90 and 2, but dividing by 4 easily.",00:07:59
+gbpdejz,85,tutor,"If you take 2 and you divide by 4, you would get it in decimals, right?",00:08:06
+gbpdejz,86,student,Yeah.,00:08:13
+gbpdejz,87,tutor,So that would make it harder. What do you think? Am I correct?,00:08:14
+gbpdejz,88,student,"Uh, yeah.",00:08:21
+gbpdejz,89,tutor,"So how about we try, for example, 80. 80. And what would the other number be, Callum?",00:08:22
+gbpdejz,90,student,[unclear],00:08:36
+gbpdejz,91,tutor,"Oh, could it be like a big number?",00:08:37
+gbpdejz,92,student,"Yeah, I mean 92 take away 80 is?",00:08:41
+gbpdejz,93,tutor,"Oh, 92 take away 80 is— Wait, 92 take away 80. Is it 80...? 80...? [unclear] Is it 82?",00:08:45
+gbpdejz,94,tutor,"Wait, okay, yeah, I think I wasn't clear enough, sorry. 92 take away 80.",00:09:22
+gbpdejz,95,student,"Okay, if I can use a calculator like this. Oh yeah, so [unclear] 2 take away 0.",00:09:32
+gbpdejz,96,tutor,2 take away—,00:09:50
+gbpdejz,97,student,Yeah.,00:09:50
+gbpdejz,98,tutor,So 2 take away 0.,00:09:50
+gbpdejz,99,student,Yes. [unclear],00:09:53
+gbpdejz,100,tutor,2.,00:09:53
+gbpdejz,101,student,"2, good.",00:09:55
+gbpdejz,102,tutor,And then 9 take away 8 is—,00:09:59
+gbpdejz,103,student,Yes.,00:10:08
+gbpdejz,104,tutor,One.,00:10:16
+gbpdejz,105,student,"One, yes, exactly.",00:10:16
+gbpdejz,106,tutor,12.,00:10:19
+gbpdejz,107,student,12. [unclear] So 80 and 12.,00:10:20
+gbpdejz,108,tutor,"Ah, okay.",00:10:24
+gbpdejz,109,student,Did you get it?,00:10:27
+gbpdejz,110,tutor,"Yeah, I did. So 80 and 12 would make 92. So now we have, let's see, for example, 80 divided by 4 and 12 divided by 4. Would it be easier?",00:10:29
+gbpdejz,111,tutor,Yeah.,00:10:43
+gbpdejz,112,student,[unclear],00:10:44
+gbpdejz,113,tutor,Oh yeah.,00:10:45
+gbpdejz,114,background,"If you try the first question here, divide the first part by 4.",00:10:48
+gbpdejz,115,tutor,Okay. So something divided by 4 equals something. 12?,00:10:53
+gbpdejz,116,student,"Yeah, what is the first part we have?",00:11:07
+gbpdejz,117,tutor,"Oh, 80.",00:11:09
+gbpdejz,118,student,Yeah.,00:11:11
+gbpdejz,119,tutor,So 80.,00:11:11
+gbpdejz,120,student,"Oh, whoops. 80 divided by 4 is— [unclear] 80 divided by 4 is— [unclear]",00:11:13
+gbpdejz,121,tutor,"Wait, that's long.",00:11:47
+gbpdejz,122,student,Long.,00:11:50
+gbpdejz,123,tutor,"Okay, so what about 8 divided by 4?",00:11:51
+gbpdejz,124,student,"Oh, 8 divided by 4 is... [unclear] [Speaker] Oh, sorry. 8 divided by 4. [Speaker] Um, 8? Oh, 1, I mean 1.",00:11:56
+gbpdejz,125,tutor,"4 times what would give you 8? [Speaker] Oh, 2. [Speaker] 2, yes. So 8 divided by 4 would be 2. [Speaker] So 20. [Speaker] 20, yes, brilliant. [Speaker] Because we have to add the 0 to",00:12:15
+gbpdejz,126,tutor,"Yes, exactly. So that will be 20. Oh, oops. Okay, that is done. Now divide the remaining part by 4.",00:12:28
+gbpdejz,127,student,"Okay, so— [unclear] [Speaker] So something divided by 4 equals something.",00:12:44
+gbpdejz,128,tutor,"12. [Speaker] Yes, 12 divided by 4 equals something. [unclear] [Speaker] And then 12. So 12 divided by 4 is— [Speaker] 5? [Speaker] Oh wait, 4 divided by 12. [Speaker] Yeah. [Speaker] 3.",00:12:59
+gbpdejz,129,tutor,"3, yes.",00:13:21
+gbpdejz,130,student,"4, oh no, 5.",00:13:22
+gbpdejz,131,tutor,"Oh, okay. Now add the divided part, so 92 divided by 4 is— wait, add the dividing part. [unclear]",00:13:24
+gbpdejz,132,background,There's 2 answers here though.,00:13:42
+gbpdejz,133,tutor,"Wait, pardon?",00:13:44
+gbpdejz,134,background,"You found the 2 answers here, right? 20 and 3? Yes, so that's 23. [unclear]",00:13:46
+gbpdejz,135,tutor,"Oh my gosh, yeah, it's 23. Good job there. Is it clear, Callum?",00:13:57
+gbpdejz,136,student,"Yes, it is.",00:14:10
+gbpdejz,137,tutor,Any questions for me?,00:14:12
+gbpdejz,138,student,No.,00:14:14
+gbpdejz,139,tutor,"So what do you think about this question? Is it easy, tricky, or...?",00:14:16
+gbpdejz,140,student,It was in the middle.,00:14:21
+gbpdejz,141,tutor,In the middle? What do you think was challenging for you?,00:14:23
+gbpdejz,142,student,I think the most challenging bit was at the top when they said partition 92 into 2 parts that could be divided by 4 easily.,00:14:29
+gbpdejz,143,tutor,But did you figure it out now?,00:14:43
+gbpdejz,144,student,"Oh, yes.",00:14:44
+gbpdejz,145,tutor,Can you explain to me step by step what you have done?,00:14:47
+gbpdejz,146,student,"Okay, so basically when I said that question at the top, so we had to find something that could be divided by 4 easily, so we did 80 and 12. And then, so on A question, it said divide the first part by 4. So now, because— [unclear]",00:14:52
+gbpdejz,147,tutor,"Oh yeah, so we have to divide the first part by 4, but the first part is 80, so we have to do 80 divided by 4. But then I got stuck, so then I did— what did I do again? I did 8 divided Well, I did 4 divided by 8, which was— which was 2, but then we had to add the 0, which was 20. And then it said divide the remaining part by 4, which was 12. The remaining part was 12. So it says 12 divided by— [unclear] 4 divided by 12, which was 3. And then it says add the divided parts in. So we had to do 20 plus 3, which equals 23.",00:15:14
+gbpdejz,148,tutor,"That was a really, really wonderful explanation there. Really wonderful. [unclear] So yeah, 80 divided by 4, 20. 12 divided by 4, 3. 92 divided by 4, we add these two, 23. So",00:16:06
+gbpdejz,149,tutor,Any questions?,00:16:26
+gbpdejz,150,student,"No, no.",00:16:28
+gbpdejz,151,tutor,"Then we go to the you-do questions where there is A, B, C, 3 questions. Can you try the first one, question A?",00:16:30
+gbpdejz,152,student,"Okay, so 93 divided by 3. Okay, so now we have a whole model, so 93, 90 plus 3, dividing [unclear] at the bottom. So [Speaker] So 90 divided by 3. [unclear] [Speaker] 6, 9. [Speaker] Which was 3. And then 3 divided by 3, 6, 3, 1.",00:16:38
+gbpdejz,153,tutor,"It will be 49,000. [Speaker] Like that? [unclear]",00:17:14
+gbpdejz,154,tutor,"Yeah, one correct. Here it should be. Parenth— 90 divided by 3 is 30.",00:17:19
+gbpdejz,155,student,"Ah, yeah. So 90 divided by 3 is 30.",00:17:32
+gbpdejz,156,tutor,"30, yes.",00:17:40
+gbpdejz,157,student,"Ah, okay.",00:17:42
+gbpdejz,158,tutor,3-0.,00:17:43
+gbpdejz,159,tutor,"Okay. Oh, that's bad. Okay. So what is the final answer?",00:17:44
+gbpdejz,160,student,[unclear],00:17:58
+gbpdejz,161,tutor,"Okay, now next one, B. 54 divided by 4.",00:18:00
+gbpdejz,162,tutor,"64 something something. Oh, so... [unclear]",00:18:12
+gbpdejz,163,tutor,"Now, 60... [unclear]",00:18:24
+gbpdejz,164,tutor,4... 4... [unclear] Wait. 4... 8...,00:18:30
+gbpdejz,165,tutor,There you go. So that's 1. [unclear],00:18:40
+gbpdejz,166,tutor,"4, 8.",00:18:54
+gbpdejz,167,student,"Wait, I'm confused. I'm confused. On where it says 60 divided by 4.",00:19:02
+gbpdejz,168,tutor,Divided by 4. [unclear] Is it hard to find the answer?,00:19:11
+gbpdejz,169,student,"Yeah, because I was in my 4 times table, but I realised because I did 4 divided by 6 first, but then I realised I didn't have a—",00:19:15
+gbpdejz,170,tutor,A 6.,00:19:27
+gbpdejz,171,student,But yeah. [unclear],00:19:28
+gbpdejz,172,tutor,You could use long division or the basket method. Is this something you're already familiar with?,00:19:31
+gbpdejz,173,student,Yeah.,00:19:44
+gbpdejz,174,tutor,So how many times would 4 go into 6? How many 4s do we have in 6?,00:19:46
+gbpdejz,175,student,One.,00:19:54
+gbpdejz,176,tutor,So how much is remaining?,00:19:57
+gbpdejz,177,student,Yeah.,00:20:03
+gbpdejz,178,tutor,"Oh, from the 1?",00:20:04
+gbpdejz,179,student,"Yeah, 6 take away 4 is?",00:20:06
+gbpdejz,180,tutor,"Oh, 6 take away 4. [unclear]",00:20:08
+gbpdejz,181,tutor,"In 20, how many 4s do we have? 4, 8, 12, 16, 5. Add the 2.",00:20:15
+gbpdejz,182,tutor,"Yeah, so what do we have? 15?",00:20:33
+gbpdejz,183,student,15.,00:20:35
+gbpdejz,184,tutor,Yes. [unclear],00:20:36
+gbpdejz,185,student,"Okay. Oh, that's how you do it.",00:20:38
+gbpdejz,186,tutor,Yes. Right? 15. So 15 add 1 is?,00:20:44
+gbpdejz,187,student,15 add 1 is 16.,00:20:48
+gbpdejz,188,tutor,"Now, 96 divided by 6. [unclear]",00:20:54
+gbpdejz,189,tutor,If I fix that. [unclear],00:21:11
+gbpdejz,190,tutor,Okay. [unclear],00:21:23
+gbpdejz,191,tutor,"Okay, it's divided by— wait, do we still divide it?",00:21:28
+gbpdejz,192,student,"Yeah, 90 divided by 6.",00:21:39
+gbpdejz,193,tutor,Okay.,00:21:43
+gbpdejz,194,student,"Okay, so 6 divided by 9. 6, 12. Okay. [unclear] So put a 1 here. And then let me— can I do box stop method?",00:21:43
+gbpdejz,195,tutor,"Yes, you could.",00:22:02
+gbpdejz,196,student,"Ah, wait, that's bad.",00:22:05
+gbpdejz,197,tutor,Do you want me to type it for you?,00:22:07
+gbpdejz,198,student,"Yes, please.",00:22:09
+gbpdejz,199,tutor,I'm gonna edit 90. [unclear],00:22:11
+gbpdejz,200,student,"Oh, did I start from the top?",00:22:18
+gbpdejz,201,tutor,That's all right.,00:22:21
+gbpdejz,202,student,"Oh, sorry. [unclear]",00:22:22
+gbpdejz,203,tutor,"6, right?",00:22:27
+gbpdejz,204,student,Yeah.,00:22:28
+gbpdejz,205,background,2 is 9.,00:22:29
+gbpdejz,206,tutor,"Okay, 7. 6.",00:22:30
+gbpdejz,207,tutor,"How many times does 6 go into 6? [unclear] 12. So just once. So put— oh, let's get this. Put 1 at the top. And then how many would we need? 6? [Speaker] But... not... how many remain? [unclear] 9... wait, 9 take away 6... 3.",00:22:33
+gbpdejz,208,tutor,"3, yes. [Speaker] So the 3 will go like next to the 0?",00:23:17
+gbpdejz,209,tutor,"Yes. [Speaker] I can't fit it, but yeah.",00:23:21
+gbpdejz,210,tutor,"Okay. [Speaker] And then, [UNCLEAR]. Wait.",00:23:26
+gbpdejz,211,tutor,"You're like, [UNCLEAR]. [Speaker] Oh yeah, yeah. And then, put the 3 there. 3 there. And then, we have to do, well, there's no like, well, actually there is, so. Wait. Um. [unclear] Is it 7?",00:23:26
+gbpdejz,212,tutor,"Uh, yeah. You have 3 here, right?",00:24:02
+gbpdejz,213,student,Oh yeah.,00:24:04
+gbpdejz,214,tutor,So it's 30. And you have 6. 30 divided by 6 is?,00:24:06
+gbpdejz,215,student,"30— um, 30 divided by 6. [Speaker] Is... [unclear] [Speaker] Wait, 30 divided... [Speaker] Wait.",00:24:11
+gbpdejz,216,tutor,"Yeah, 6 times what degree? [Speaker] 3 degrees. Oh. Um, 6, 12, 18, 24, 30... 5.",00:24:41
+gbpdejz,217,tutor,"5, yes. [Speaker] 5, yeah, 5. Oh yeah, so it'll be 5.",00:24:53
+gbpdejz,218,tutor,"5, yes. [Speaker] But then you have to add the 3. [Speaker] Uh, so yeah, you have 5 here, so it would be 50. [Speaker] 50. Ah, yeah. Yes, 15. 15 and 1 is? [Speaker] 16. [Speaker] 16. Okay. Thank you. [unclear]",00:24:59
+gbpdejz,219,tutor,"Do you have any questions for me, Callum?",00:25:27
+gbpdejz,220,student,No.,00:25:32
+gbpdejz,221,tutor,"So, as you can see, This one was easier than these two, right?",00:25:34
+gbpdejz,222,tutor,Yeah.,00:25:39
+gbpdejz,223,student,"So we partition the number so as to divide by 4 very easily, right? [unclear] is correct. [unclear] But you had to use bus stop method, right, to find 60 divided by 4?",00:25:41
+gbpdejz,224,tutor,Yeah.,00:26:00
+gbpdejz,225,student,"Now instead of this, if we had partitioned it in a different way, For an example, okay, this is just an example. 40 and 24. 40 and 24 also give you 64, right?",00:26:01
+gbpdejz,226,tutor,Yeah.,00:26:19
+gbpdejz,227,student,Yeah.,00:26:20
+gbpdejz,228,tutor,Yeah.,00:26:21
+gbpdejz,229,background,"So 40 divided by 4, how much do we get?",00:26:21
+gbpdejz,230,tutor,So 40 divided by 4.,00:26:26
+gbpdejz,231,background,Yes.,00:26:28
+gbpdejz,232,tutor,"Is, um, [Speaker] 10.",00:26:29
+gbpdejz,233,tutor,"10, correct. Good. Okay. And then 24 divided by 4. [unclear] 24 divided by 4 would be?",00:26:33
+gbpdejz,234,tutor,"Oh yeah, 2 of the 4, 8, 12, 16, 20, 24, 6.",00:26:56
+gbpdejz,235,student,"6, yes. [unclear] Now what do we have? 10 plus 6 is?",00:27:03
+gbpdejz,236,tutor,10 plus 6 is 16.,00:27:08
+gbpdejz,237,student,"16. You still get the same answer, but this way you wouldn't have to do this bus stop method. It would be quick, you know, 40 divided by 4, 24 divided by 4, 10 plus 6. But what you did is correct. I'm just giving you another method.",00:27:10
+gbpdejz,238,tutor,Okay.,00:27:29
+gbpdejz,239,student,"So, but did you understand this 40 and 24 and 10 and 6?",00:27:30
+gbpdejz,240,tutor,"Um, yes.",00:27:34
+gbpdejz,241,student,Good job. Any questions? [unclear] Could you think of another way to partition 96?,00:27:38
+gbpdejz,242,tutor,Yeah.,00:27:53
+gbpdejz,243,student,So we can do 6. We can say [unclear] something in the 6 times table.,00:27:53
+gbpdejz,244,tutor,"So that it would be easier to divide by 6, like we had here.",00:28:14
+gbpdejz,245,student,Or 20.,00:28:18
+gbpdejz,246,tutor,"But can we do 2? [unclear] 20, you mean?",00:28:20
+gbpdejz,247,student,"Yeah, 20. Yeah, that would be correct too.",00:28:24
+gbpdejz,248,tutor,"And... let's see. 6, something. 6 equals something. [unclear]",00:28:29
+gbpdejz,249,tutor,Yes. And 1 times 3. [Speaker] Oh.,00:28:46
+gbpdejz,250,tutor,"Is it hard? [Speaker] Yeah, a little bit.",00:28:57
+gbpdejz,251,tutor,"Yeah, 20 and the remaining, the second part repeats, so 26. [unclear]",00:29:01
+gbpdejz,252,tutor,"So 76 plus 20 would give you 96, right?",00:29:08
+gbpdejz,253,student,Yeah.,00:29:12
+gbpdejz,254,tutor,"So this would make it harder, like, you know, 20 divided by 6, 76 divided by 6. This would make the calculation a little more harder.",00:29:13
+gbpdejz,255,student,Okay.,00:29:24
+gbpdejz,256,tutor,"So that would be a difficult one. Wait, shall we try this one?",00:29:24
+gbpdejz,257,tutor,"Yes. [Speaker] 60, you know?",00:29:33
+gbpdejz,258,tutor,"Okay. [Speaker] 60 is in the 6 times table, right?",00:29:35
+gbpdejz,259,tutor,"Yeah. [Speaker] Yes. So 60, and what is remaining? The second part would be? [Speaker] [unclear] The second part will be",00:29:38
+gbpdejz,260,tutor,"So you have 60, and then the second part will be— oh wait, let me just do this. [unclear]",00:29:59
+gbpdejz,261,tutor,Pardon?,00:30:26
+gbpdejz,262,student,96 take away 60 would give you?,00:30:26
+gbpdejz,263,tutor,"Um, 96 degrees take away 60, um, which is 6, 9, 3, 5, 3, 5, 8, 36.",00:30:31
+gbpdejz,264,background,36 degrees.,00:30:47
+gbpdejz,265,tutor,"Ah, okay. Now what do you think? This is another way. So 60 divided by 6 would be?",00:30:51
+gbpdejz,266,student,60 divided by 6 would be— 60 divided by 6 is— [unclear],00:31:03
+gbpdejz,267,tutor,10.,00:31:14
+gbpdejz,268,student,"10, good. And the next one, 36 divided by 6.",00:31:15
+gbpdejz,269,tutor,36 divided by 6 is [unclear] 26?,00:31:24
+gbpdejz,270,tutor,"6 times something would give you 36. [unclear] 6. 6, yes. Now we have 10 plus 6, that is?",00:31:46
+gbpdejz,271,student,10 plus 6 is 16.,00:32:02
+gbpdejz,272,tutor,"16. So that is some— That is where you have got here already. This is just another way, 60 and 36, 40 and 24, to make the calculations easier. So just a thing, I'm just telling.",00:32:04
+gbpdejz,273,tutor,Yeah.,00:32:20
+gbpdejz,274,background,Did you understand or is it hard?,00:32:21
+gbpdejz,275,tutor,I understand.,00:32:24
+gbpdejz,276,background,Okay. So any questions for me?,00:32:26
+gbpdejz,277,tutor,"No. No? Is there anything you didn't understand? You can tell me, it's fine.",00:32:30
+gbpdejz,278,background,I understand.,00:32:37
+gbpdejz,279,tutor,100% clear?,00:32:42
+gbpdejz,280,background,Oh yeah.,00:32:43
+gbpdejz,281,tutor,Then shall we go to the next question?,00:32:46
+gbpdejz,282,background,Yes.,00:32:50
+gbpdejz,283,tutor,"Okay, so we have a word problem here. [unclear]",00:32:50
+gbpdejz,284,tutor,is calculating 52 divided by 4. He partitions the number into 50 and 2. Is there a better way he could partition the number? Can you solve the problem? [UNCLEAR],00:32:50
+gbpdejz,285,student,"Well, he could have did...",00:33:06
+gbpdejz,286,tutor,"So he could have did— well, he could have did— he could have did 40. Let me do— oh my God. Oops. 40 equals 10 equals... equals to... [unclear]",00:33:24
+gbpdejz,287,tutor,40.,00:33:24
+gbpdejz,288,tutor,Can you explain this to me? I think I didn't understand.,00:34:15
+gbpdejz,289,student,"OK, this is basically you can do 40, so 40 plus 10 equals 50, and then add the 2, which equals 52.",00:34:21
+gbpdejz,290,tutor,"52. It is correct. Yes, good explanation, good try there. But yeah, you would partition it into 2 numbers, right? You have done it correctly. You have done it to 3 partitions. Instead of that, you could say 40 is correct. 10 2 is— 10 [unclear]",00:34:39
+gbpdejz,291,student,2 is 12. 12. So,00:35:01
+gbpdejz,292,tutor,you could just put it as 40 and,00:35:03
+gbpdejz,293,tutor,Oh yeah.,00:35:07
+gbpdejz,294,student,"So it's two numbers, like, you know, 50 and 2, 40 and 12.",00:35:08
+gbpdejz,295,tutor,"Yeah, you're correct. Excellent. [unclear]",00:35:12
+gbpdejz,296,student,"So, right. If we are part— if you are doing using, like you said, 40 and 12, what would we do? How would we calculate the answer? [Speaker] So how we will calculate is that because we have 40 and 12, we can do 40, we can do 40 plus 12, which equals 52.",00:35:20
+gbpdejz,297,tutor,"Yes, 40 plus 12, that is 52. Correct. [Speaker] Which equals 42. [unclear]",00:35:46
+gbpdejz,298,tutor,"So, [unclear] calculating 52 divided by 4, right?",00:35:59
+gbpdejz,299,student,Yeah.,00:36:04
+gbpdejz,300,tutor,"So you have, like you said, you partition 40 and 12 for 52. So when you divide each by 4, [unclear] divided by 4. What would you get? 40 divided by 4 is? [Speaker] 40 divided by 4 is 10.",00:36:05
+gbpdejz,301,tutor,Good. And 12 divided by 4 is? [Speaker] [unclear] 3.,00:36:33
+gbpdejz,302,tutor,"3, correct. So 10 plus 3 is? 13.",00:36:43
+gbpdejz,303,tutor,"13, yes. So what do we have? What is the answer, final answer?",00:36:52
+gbpdejz,304,student,13.,00:36:58
+gbpdejz,305,tutor,"13. [unclear] Good try there. Do you have any questions for me, Callum?",00:36:59
+gbpdejz,306,tutor,"Um, nice.",00:37:17
+gbpdejz,307,student,"Yeah, but, uh, did you understand why we are doing this?",00:37:19
+gbpdejz,308,tutor,"Um, yes.",00:37:23
+gbpdejz,309,student,Is there anything you didn't understand?,00:37:24
+gbpdejz,310,tutor,"Um, no.",00:37:28
+gbpdejz,311,student,Is this hard? Is this question hard?,00:37:31
+gbpdejz,312,tutor,I'm not really.,00:37:33
+gbpdejz,313,student,"Actually, yeah, you were clear. You were really clever. You found 14 and 12, which is brilliant. [unclear]",00:37:35
+gbpdejz,314,tutor,"And yeah, 13 is the answer for 52 divided by 4, just the way we do partitioning. And do you have anything else to say?",00:37:43
+gbpdejz,315,student,"Oh, no.",00:37:54
+gbpdejz,316,tutor,"So this lesson is over, that is, uh, okay, division, dividing using partitioning.",00:37:57
+gbpdejz,317,background,Have you done one of the things you understood here?,00:38:05
+gbpdejz,318,tutor,"I understood that instead of making, instead of making like this, instead of making like a question longer, like because I did 40 plus 10 plus 2, we could just do 40 plus 12 because if we add the 10 plus 2 which equals 12, I will still get the same answer. [unclear] That is a brilliant observation. That's really good. So what do you think about this lesson? Is it tricky, challenging, or is it easy?",00:38:09
+gbpdejz,319,student,It was kind of easy.,00:38:47
+gbpdejz,320,tutor,What do you think you did best today?,00:38:51
+gbpdejz,321,student,I think I did best at the [UNCLEAR]. I actually think I did best out of this question.,00:38:57
+gbpdejz,322,tutor,"This question, yes, you did really well in this question. 14 and 12, which is really excellent. [unclear] Okay, so anything else?",00:39:03
+gbpdejz,323,student,"Uh, no.",00:39:14
+gbpdejz,324,tutor,So shall we move to the next question then?,00:39:17
+gbpdejz,325,student,Yes. [unclear],00:39:20
+gbpdejz,326,tutor,Now we have dividing using short division. So are you interested in this short division?,00:39:29
+gbpdejz,327,student,"Uh, no, not really.",00:39:40
+gbpdejz,328,tutor,Is it hard?,00:39:45
+gbpdejz,329,student,"Um, a little bit.",00:39:47
+gbpdejz,330,tutor,"A little bit. Okay, so let's",00:39:48
+gbpdejz,331,tutor,So make it easier to listen to.,00:39:51
+gbpdejz,332,student,"OK. OK, so— [unclear] Solve the division calculation. So we have 3 divided by 369. [unclear]",00:39:54
+gbpdejz,333,tutor,Wait. [unclear],00:40:29
+gbpdejz,334,student,3?,00:40:31
+gbpdejz,335,tutor,We good.,00:40:32
+gbpdejz,336,student,And then 3 divided by 3. 3 divided by 3. [unclear],00:40:34
+gbpdejz,337,student,"So it can't be that, but what's the closest? We have to find the closest. So what's the closest there is? Is 2.",00:40:50
+gbpdejz,338,tutor,"2, good. [Speaker] And then, well, I think we have to do something else, but I forgot.",00:41:11
+gbpdejz,339,tutor,"You're doing really well. This is brilliant, 312, and there is remaining. [Speaker] Oh yeah, um, [unclear] [Speaker] Remaining, so 3, 12. Remaining, 3, 6, 6, 7, 8, 2.",00:41:22
+gbpdejz,340,tutor,"2, yes. [unclear] You're doing really well. [Speaker] Thank you.",00:41:49
+gbpdejz,341,tutor,"So you are really good at your division, right?",00:41:57
+gbpdejz,342,tutor,"Yeah, I think so. [unclear] So actually we are supposed to end the session now.",00:42:00
+gbpdejz,343,student,Okay.,00:42:10
+gbpdejz,344,tutor,I think we have to continue this next session.,00:42:10
+gbpdejz,345,student,Okay.,00:42:16
+gbpdejz,346,tutor,I think you enjoyed today.,00:42:18
+gbpdejz,347,student,I did.,00:42:21
+gbpdejz,348,tutor,"Let's continue this next Wednesday. Okay, bye then. Have a nice day, Callum.",00:42:23
+gbpdejz,349,student,I will. [unclear],00:42:28
+gbpdejz,350,tutor,Bye.,00:42:32
+gbpdejz,351,student,Bye.,00:42:33

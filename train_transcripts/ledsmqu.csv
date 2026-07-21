@@ -1,0 +1,220 @@
+session_id,utterance_id,role,content,timestamp
+ledsmqu,0,student,Hello?,00:00:00
+ledsmqu,1,background,[unclear],00:00:00
+ledsmqu,2,tutor,"Hello, can you hear me?",00:00:01
+ledsmqu,3,student,I can hear you. Can you hear me?,00:00:02
+ledsmqu,4,tutor,"Yes, I can. So Gideon, how are you today?",00:00:05
+ledsmqu,5,student,I'm good. How are you?,00:00:08
+ledsmqu,6,tutor,I'm also good. So welcome back to your session. So are you ready [unclear] today?,00:00:11
+ledsmqu,7,student,Okay.,00:00:17
+ledsmqu,8,tutor,So today we're going to continue from the last time. So we were doing working with a similar shape and we did the first exam style question. Which is this one last time. And today we're gonna continue from here.,00:00:19
+ledsmqu,9,student,Okay.,00:00:37
+ledsmqu,10,tutor,"Okay, so you can try this question. [unclear]",00:00:39
+ledsmqu,11,student,Okay. Two cylinders A and B are mathematically similar. The ratio of the surface area,00:00:45
+ledsmqu,12,student,"of A to the surface area of B is 1/4. If the volume of A is 400, find the volume of B.",00:00:45
+ledsmqu,13,student,"If I— I don't know if this is correct. If I do that, times it by 4, wouldn't I get 1/2?",00:00:45
+ledsmqu,14,tutor,"All right, so good effort over there. So what made you multiply it by 4?",00:01:23
+ledsmqu,15,student,"Because, like, because if they're mathematically— oh, okay, wait, I've seen what I've done wrong. [unclear]",00:01:32
+ledsmqu,16,student,"Because B is shown from this ratio, B is— if B is 4 times as big, I thought I'd have to just times it by how much I think would be needed.",00:01:47
+ledsmqu,17,tutor,"Alright, so good effort over there. So we can go for the theory in the next slide. So there are different types. So when it comes to— if you say like this one is bigger by this much, you can categorize it into 3. One is a length ratio, and the other one is area ratio, and the third one is volume ratio. So you need to find out which one is this given in the question. So which one do you think is that?",00:02:07
+ledsmqu,18,student,"I think, uh, because it— we're looking at the volume,",00:02:39
+ledsmqu,19,student,"It will be the last one, a², uh, b².",00:02:44
+ledsmqu,20,tutor,"Okay, so let's read the question over here. So two cylinders A and B are mathematically similar. The ratio of the surface area— okay, so this is a keyword— surface area of A to surface area of B. Now what do you think? Does it say about the volume or the area?",00:02:50
+ledsmqu,21,student,The area.,00:03:17
+ledsmqu,22,tutor,"Area. So that we picked up from the question. And in the last part, they're asking for the volume, which means we need to use this area ratio and then figure out the volume ratio first. Okay?",00:03:20
+ledsmqu,23,student,Okay.,00:03:35
+ledsmqu,24,tutor,"All right, so let me read this part as well. So the area of similar 2D shapes and the surface area and volume of similar 3D shapes will also be affected by a scale factor. There will be an area scale factor and a volume scale factor. [unclear]",00:03:36
+ledsmqu,25,tutor,"Alright, so here we have Part 1. Square root the surface area ratio to find the length ratio. So we know that that this is 1 to 4 is actually the area ratio. Am I right?",00:03:56
+ledsmqu,26,student,Mm-hmm.,00:04:15
+ledsmqu,27,tutor,So how do we use the area ratio to find the volume ratio? Can we do that at once? [unclear],00:04:17
+ledsmqu,28,student,"Wait, I don't understand. Sorry. So the area ratio is just like— you have to square, right? So that's why there's like a power of 2. And the volume ratio has a power of 3. So how can you make this power of 2 a power of 3? That's the question.",00:04:31
+ledsmqu,29,student,By adding a power?,00:04:55
+ledsmqu,30,tutor,"Yes, we can add the power. But we don't know what that is, right? So what we do is we try to find the length ratio first. We go for this one first, and then we make this one using that, because then we can power it by 3. Yeah?",00:04:58
+ledsmqu,31,student,Yeah.,00:05:19
+ledsmqu,32,tutor,"Okay, so how do you find a if you know what a² is?",00:05:19
+ledsmqu,33,student,How do I find a if I know what a² is? By... [unclear] By using the thing we've been given in the question over here.,00:05:27
+ledsmqu,34,tutor,"I'm talking about this one, only this one. How do you make a² a? Squaring a to make [UNCLEAR].",00:05:45
+ledsmqu,35,tutor,"Square root, yeah.",00:05:45
+ledsmqu,36,student,"Square root, yeah.",00:05:57
+ledsmqu,37,tutor,Exactly. So we must do the square root of these two.,00:05:59
+ledsmqu,38,student,Yeah.,00:06:03
+ledsmqu,39,tutor,Let's find the square root of these two and then write it over here.,00:06:04
+ledsmqu,40,student,Okay.,00:06:09
+ledsmqu,41,tutor,Square root of 4.,00:06:16
+ledsmqu,42,tutor,Not 4 squared.,00:06:18
+ledsmqu,43,student,Square root of 4. [unclear],00:06:21
+ledsmqu,44,tutor,"Excellent. All right, so now you just have found out the length ratio. Okay, so what is this?",00:06:30
+ledsmqu,45,student,"This is the ratio of the length of length ratio. All right, so now how do we find the volume ratio from using the length ratio?",00:06:37
+ledsmqu,46,student,We find the volume ratio by [unclear] cubing it.,00:06:51
+ledsmqu,47,tutor,Exactly. So we need to cube these two to get the volume ratio.,00:06:58
+ledsmqu,48,student,Okay. [unclear],00:07:03
+ledsmqu,49,tutor,Excellent. So how did you manage to get the number 8 here?,00:07:15
+ledsmqu,50,student,"By doing 2 times 2 is 4, and 4 times 2 is 8.",00:07:19
+ledsmqu,51,tutor,"Yes, excellent. So great job over there finding the volume ratio. So this is what we need to find the volume of the unknown. Right? So now you can do, uh, do the continuing part with question 3.",00:07:30
+ledsmqu,52,student,The question for use the volume ratio to find— do you do like what? Use the volume ratio to find the volume of B.,00:07:47
+ledsmqu,53,tutor,So now we can directly deal with this part over here.,00:07:57
+ledsmqu,54,student,"Okay, so 400 times 8, I'm guessing?",00:08:03
+ledsmqu,55,tutor,"Exactly, 400 times 8.",00:08:10
+ledsmqu,56,student,"That'd be 3,200.",00:08:13
+ledsmqu,57,tutor,And don't forget to put the measurements at the end.,00:08:19
+ledsmqu,58,student,"The measurements, which is [unclear] centimeter",00:08:22
+ledsmqu,59,student,[unclear],00:08:32
+ledsmqu,60,tutor,"Excellent. All right, so that's how we can answer this question step by step. So can you explain back to me what we did in your own words?",00:08:32
+ledsmqu,61,student,There is— we have to work out the length ratio and the volume ratio by,00:08:42
+ledsmqu,62,student,"By applying that to where we have the ratio of 1:4, which is AB, we had the— at the moment we had the area ratio, but we had to get the length ratio, so we squared it.",00:08:56
+ledsmqu,63,tutor,"[unclear] Square root, try.",00:09:12
+ledsmqu,64,student,"Square— square— we square rooted it to get 1:2 as our length ratio. And then we cubed it to get our volume ratio, which is what we're looking— [unclear] And then, yeah.",00:09:15
+ledsmqu,65,tutor,"Using to find b, right?",00:09:33
+ledsmqu,66,student,Yes.,00:09:35
+ledsmqu,67,tutor,"All right, so a good effort there. So you did a great job trying to explain what we did step by step. So keep it up. So are you ready for a similar question to try by yourself?",00:09:36
+ledsmqu,68,student,"Yeah, I'll try.",00:09:49
+ledsmqu,69,tutor,"Okay, so this is a similar type of a question, so you can begin.",00:09:51
+ledsmqu,70,student,Okay. [unclear] Should I like read it out to you?,00:09:58
+ledsmqu,71,tutor,It's up to you.,00:10:08
+ledsmqu,72,student,"Okay, I'll still read it out.",00:10:11
+ledsmqu,73,student,"Two [unclear] prisms, prisms, two prisms, X and Y, are mathematically similar. The ratio of the volume of X to the volume of Y is 825. If the surface area",00:10:16
+ledsmqu,74,student,"If the surface area is 375 centimeters squared, find the surface area of X. [unclear]",00:10:44
+ledsmqu,75,tutor,So maybe we can underline the important things and begin.,00:11:00
+ledsmqu,76,student,"Okay, I'll start underlining a few important things.",00:11:04
+ledsmqu,77,student,Ratio. This is the ratio.,00:11:09
+ledsmqu,78,tutor,And what ratio is that?,00:11:13
+ledsmqu,79,student,That is from— that is x from y.,00:11:16
+ledsmqu,80,tutor,Volume ratio or the surface ratio or the length ratio?,00:11:22
+ledsmqu,81,student,Volume ratio.,00:11:27
+ledsmqu,82,tutor,"Okay, let's underline that.",00:11:28
+ledsmqu,83,student,And then we have to do— if the surface— find the surface area. If it is that— [unclear],00:11:38
+ledsmqu,84,tutor,"Alright, so we know the volume ratio, we now need to find the surface. Ratio.",00:11:55
+ledsmqu,85,student,"Okay, so can we start? We can start with— [unclear] So, wait, in the slide before you had like an order of 3 different ones.",00:12:05
+ledsmqu,86,tutor,Yes.,00:12:30
+ledsmqu,87,student,"Yeah, length, area, and ratio. And then if you go back to the one we just had— wait, sorry. Length, area, rate— no, volume. And then it would do like stuff like a— [unclear] and a squared, a cubed. It had something like that, but like not like that. It was like [unclear] and then b and then the same for all the rest.",00:12:31
+ledsmqu,88,tutor,Yes.,00:13:18
+ledsmqu,89,student,So we start with the volume And we have to get to this surface area.,00:13:20
+ledsmqu,90,tutor,Yes.,00:13:31
+ledsmqu,91,student,"So, would we have to— we have to get a— uncube. I don't know how to uncube stuff, I only know how to square root.",00:13:32
+ledsmqu,92,tutor,"Cube root, right?",00:13:44
+ledsmqu,93,student,Cube root?,00:13:46
+ledsmqu,94,tutor,"Yes. So exactly, so we need to find the cube root of these two, and that will give you the length ratio. Am I right?",00:13:47
+ledsmqu,95,student,How do you cube root?,00:13:59
+ledsmqu,96,tutor,"All right, so what does it mean by cube?",00:14:02
+ledsmqu,97,student,Two...,00:14:05
+ledsmqu,98,tutor,"Two times the same number again and again, right?",00:14:06
+ledsmqu,99,student,Yeah.,00:14:11
+ledsmqu,100,tutor,"So if you take the number 8, what's the cube root of 8? [unclear]",00:14:12
+ledsmqu,101,student,I don't know.,00:14:19
+ledsmqu,102,tutor,"So you can break it into factors. Let's start from the smallest one, and we know that we can write the same one again to get a 4, and from there we need another 2 times to make 8.",00:14:21
+ledsmqu,103,student,Okay.,00:14:38
+ledsmqu,104,tutor,"Which means, what's the square— I mean, cube root of 8? [unclear] Cube root of 8 is... cube root of 8 is 2 cubed, or 2.",00:14:38
+ledsmqu,105,tutor,"Just 2. Alright, so that means a is 2. Okay, so I write the 2 here, and then the next one, b. So what's b? I mean, not b. b³, right? Over here.",00:14:59
+ledsmqu,106,student,"b³, and then that is one [unclear] 125.",00:15:17
+ledsmqu,107,tutor,Yes. So 125 is also a special number. So this must be having 3 numbers we need to multiply. 3 numbers means the same number again and again.,00:15:24
+ledsmqu,108,student,Okay.,00:15:39
+ledsmqu,109,tutor,So what might that be? Let's start from the smallest factor. So what's the smallest factor for 125?,00:15:40
+ledsmqu,110,student,125. [unclear],00:15:51
+ledsmqu,111,tutor,Is it in 2 times table?,00:15:57
+ledsmqu,112,student,No.,00:16:00
+ledsmqu,113,tutor,No. Is it in 3 times table?,00:16:02
+ledsmqu,114,student,Um... no.,00:16:05
+ledsmqu,115,tutor,No? Is it in 4 times table?,00:16:08
+ledsmqu,116,student,No.,00:16:12
+ledsmqu,117,tutor,No. Is it in 5 times table?,00:16:14
+ledsmqu,118,student,Maybe. I think so. [unclear],00:16:18
+ledsmqu,119,tutor,"Definitely, because it has a 5 at the end. So in the 5 times table, you will either see 5 or 0 at the end in every number. So we know 5 is gonna be a 1. So let's see whether 5 times 5 times 5 works. [unclear]",00:16:20
+ledsmqu,120,tutor,This is 25. And 25 times 5 is 125.,00:16:36
+ledsmqu,121,student,125.,00:16:43
+ledsmqu,122,tutor,Which means it's 5 cubed. So the cube root of 125 is?,00:16:45
+ledsmqu,123,student,"2, 5.",00:16:53
+ledsmqu,124,tutor,Just a 5.,00:16:55
+ledsmqu,125,student,"Oh, yeah.",00:16:57
+ledsmqu,126,student,Burn them together to make the length is 2 and 5.,00:16:58
+ledsmqu,127,tutor,"Yes, so that's the length ratio, 2 to 5. Now we can find the area ratio from using the length ratio. So what do we do?",00:17:04
+ledsmqu,128,student,We have to times them by 2.,00:17:15
+ledsmqu,129,tutor,What do you mean times it by 2?,00:17:20
+ledsmqu,130,student,"Oh no, uh, cube them by 2.",00:17:22
+ledsmqu,131,tutor,Cube.,00:17:24
+ledsmqu,132,tutor,"Yes, cube them. Not cube them, I mean square them.",00:17:25
+ledsmqu,133,student,Square them. Yeah.,00:17:29
+ledsmqu,134,tutor,Yeah.,00:17:31
+ledsmqu,135,student,And then that's what we need.,00:17:33
+ledsmqu,136,tutor,"So it would make a 4:25. So that's what we need. The ratio we need is 4:25, which is the area ratio. Now what do we do?",00:17:34
+ledsmqu,137,student,Now that is— that is— that's the— [unclear],00:17:49
+ledsmqu,138,student,"Oh, and then now we have to apply it to 375.",00:17:54
+ledsmqu,139,tutor,"Exactly. So let's see whether that will give us the answer. So this one is a 4. That might be a problem. Earlier it was 1, right? This side, left side. So it's 1 to 8. So we need to make this 1 as well, right? So make it a 1.",00:18:05
+ledsmqu,140,student,"If you do 375 divided by 25, you get 15. So 4 times 15 is [UNCLEAR].",00:18:31
+ledsmqu,141,student,It's 60.,00:18:49
+ledsmqu,142,tutor,"Yes, exactly. There you go. So you got it. All right. So you just need to write it as just 60 centimeters squared. [unclear] All right. So can you briefly tell me what we did in small, small steps?",00:18:51
+ledsmqu,143,student,"Yes, I can.",00:19:15
+ledsmqu,144,student,"So first we had to— so we were given the volume, the ratio of the volume, and we have to find the surface area of X. Because we were already given the volume of it, we had to divide cube",00:19:17
+ledsmqu,145,student,"by that amount, like, to get the length first. So we did 8 cube roots and that got us 2, and we did 125 cube roots and that got us 5.",00:19:17
+ledsmqu,146,student,"And we had 2 5s, but because we wanted the area, we squared it and then it became 425.",00:20:10
+ledsmqu,147,tutor,"Yes, exactly. And we used that ratio to figure out the answer. Yeah, good work over there with the explanation. So we can move on to our last question. Over here. [unclear]",00:20:24
+ledsmqu,148,student,"Oh, Kyan needs to fill an old drum with water.",00:20:53
+ledsmqu,149,student,"The old drum— the oil drum, mathematically similar with an empty paint tin. The ratio of the height of the paint tin to the height of the oil drum is 2:7. The paint tin can hold 5 litres of water. Find the capacity of the oil drum. [unclear] [unclear]",00:21:01
+ledsmqu,150,tutor,To find the [UNCLEAR].,00:21:27
+ledsmqu,151,background,So let's underline the important thing. So we have two,00:21:27
+ledsmqu,152,background,oil drum and—,00:21:40
+ledsmqu,153,student,Oil drum and the paint bucket.,00:21:41
+ledsmqu,154,background,Paint tin.,00:21:45
+ledsmqu,155,student,"The paint tin, sorry.",00:21:46
+ledsmqu,156,background,And what's the ratio given and what is the ratio given for?,00:21:49
+ledsmqu,157,student,The ratio given is 2:7.,00:21:55
+ledsmqu,158,tutor,And is it the length or the volume or the surface area ratio?,00:22:00
+ledsmqu,159,student,"It's something different, it's the height.",00:22:05
+ledsmqu,160,tutor,"The height, so what does height mean?",00:22:09
+ledsmqu,161,student,It means how tall an object can be or is.,00:22:12
+ledsmqu,162,tutor,"Yes, so we can think it as a length ratio. Okay, so it wouldn't be like the area if you consider the height. It would look like the length ratio. So that means this— these numbers are like the squared ones, right? Okay, and then we need to find capacity. So what does that mean? Capacity ratio—",00:22:16
+ledsmqu,163,student,"How much is, um, held within",00:22:41
+ledsmqu,164,student,"The, uh, like—",00:22:46
+ledsmqu,165,tutor,Inside.,00:22:49
+ledsmqu,166,student,"Inside, yes.",00:22:50
+ledsmqu,167,tutor,"Which means it would be like the volume ratio, am I right?",00:22:51
+ledsmqu,168,student,Mm-hmm.,00:22:54
+ledsmqu,169,tutor,"Okay, so let's go to the next slide. All right, so we're going to find the cube— cube the height ratio to find the volume ratio. So we know this is the length ratio, or we can call it the height ratio. Let's call it a one word, length ratio. Okay?",00:22:55
+ledsmqu,170,student,Okay.,00:23:16
+ledsmqu,171,tutor,"So to find the volume ratio from the length ratio, what did we do earlier?",00:23:16
+ledsmqu,172,student,Earlier we... [unclear],00:23:23
+ledsmqu,173,tutor,Did you square it or cube it?,00:23:27
+ledsmqu,174,student,"Earlier we... no, like it's different because this one has height and",00:23:31
+ledsmqu,175,tutor,"No worries. I think this— yes, height. So even if you are measuring the height, you would be still measuring the length, right?",00:23:39
+ledsmqu,176,student,Oh yeah.,00:23:47
+ledsmqu,177,tutor,So length— height is a special word here given for the length. Okay?,00:23:48
+ledsmqu,178,student,Okay.,00:23:54
+ledsmqu,179,tutor,"All right, so in that case, we can think this as a length ratio. So let's think this as a length ratio and try to come up with the volume ratio.",00:23:56
+ledsmqu,180,student,"Okay. So if I were to— wait, height— I remember length was a, a, b, and then volume was—",00:24:08
+ledsmqu,181,tutor,a cubed and b cubed.,00:24:24
+ledsmqu,182,student,a cubed and b cubed. So we have to do 2 cubed.,00:24:26
+ledsmqu,183,background,And 7 cubed.,00:24:31
+ledsmqu,184,student,And 7 cubed. So let's do that over here. [unclear],00:24:32
+ledsmqu,185,tutor,"Excellent. Now we're going to use the volume ratio to find the volume of the oil drum. So oil drum is the second one over here, the 343. [unclear]",00:24:35
+ledsmqu,186,tutor,So...,00:25:01
+ledsmqu,187,student,"So, um...",00:25:04
+ledsmqu,188,tutor,The paint tin is 5 litres.,00:25:05
+ledsmqu,189,student,"5 litres. So, with the paint tin, the ratio of the height of the paint tin and the... So, if the paint tin is 5 litres and we have the volume ratio of 8,",00:25:10
+ledsmqu,190,tutor,"Which means, which means we can make it 1 to 340. If you divide both sides by 8, you can make it 1, right?",00:25:30
+ledsmqu,191,student,Mm-hmm.,00:25:43
+ledsmqu,192,tutor,"1 to 348, 343 over 8. So we can use this number to— this fraction to multiply the 5. All right, so if you do 5 times on both the sides, you would get the answer on the right side.",00:25:44
+ledsmqu,193,student,Okay.,00:26:05
+ledsmqu,194,tutor,So do you have a calculator with you?,00:26:06
+ledsmqu,195,student,"Yes, I do.",00:26:08
+ledsmqu,196,tutor,"Okay, so let's find the answer for 343 divided by 8 times 5.",00:26:10
+ledsmqu,197,student,"Um, it's decimals. [unclear]",00:26:16
+ledsmqu,198,tutor,Yes.,00:26:20
+ledsmqu,199,student,It is... it is... [unclear] 214.375.,00:26:22
+ledsmqu,200,tutor,"Exactly. Alright, good job over there. And then we need to move on to the next question, B. How many full paintings will Kion need? To use completely to fill the oil drum with water. So what do you think we need to do?",00:26:34
+ledsmqu,201,student,Oil drum. And then we need how many [unclear] we need to use to completely fill the oil.,00:26:55
+ledsmqu,202,tutor,So he's pouring a load of full— so you need to find out how many paint tins he has to pour into the oil drum,00:27:06
+ledsmqu,203,tutor,With water. So 3 for 3 is— and then find the volume ratio. [unclear] Volume ratio. We have to do— don't we have to do the number we have divided by— [unclear],00:27:16
+ledsmqu,204,tutor,"Yeah, you were gonna say something.",00:27:41
+ledsmqu,205,student,Divided by 8?,00:27:49
+ledsmqu,206,tutor,"Not 8, because one can hold 5 liters.",00:27:52
+ledsmqu,207,student,Divided by 5?,00:27:57
+ledsmqu,208,tutor,"Exactly. Since one tin can hold 5 liters, we can see how many 5s make this number, right? So that will give you the number of tins we need to fill this oil drum, and that will be 4.42.8. So roughly we can say 4.3 to the nearest.",00:27:58
+ledsmqu,209,student,Okay.,00:28:24
+ledsmqu,210,tutor,"Okay. All right, so that's about it from the session today. So",00:28:25
+ledsmqu,211,tutor,What did you pick up from the session?,00:28:32
+ledsmqu,212,student,"From the session, I picked up on how to use— how to convert volume, area, and length into like using like the AB and AB squared. [unclear] Yeah.",00:28:35
+ledsmqu,213,tutor,"Yeah, so what's the connection between the— length ratio and the volume ratio.",00:28:54
+ledsmqu,214,student,"The connection between the length ratio and the volume ratio— length ratio and volume ratio— is you have to divide by— like, you have to square— it's like squaring it.",00:29:02
+ledsmqu,215,tutor,Cube it.,00:29:15
+ledsmqu,216,student,"Or cube it, right. Yes, cubing it, or if you want to convert it the other way, it's— [unclear] cube root in it.",00:29:16
+ledsmqu,217,tutor,"Yes, exactly. So to get from volume ratio to the length ratio, we need to do a cube root like you said. So that's about it from the session today. So then keep up the great work. See you next time. Bye-bye.",00:29:27
+ledsmqu,218,student,Bye. Thank you.,00:29:41

@@ -1,0 +1,385 @@
+session_id,utterance_id,role,content,timestamp
+hbrjoof,0,tutor,Hello.,00:00:00
+hbrjoof,1,student,"Hey, people.",00:00:00
+hbrjoof,2,tutor,"Hello, mate.",00:00:01
+hbrjoof,3,background,Hello.,00:00:03
+hbrjoof,4,tutor,Hello.,00:00:05
+hbrjoof,5,student,Hi.,00:00:06
+hbrjoof,6,tutor,"Hi, Tobias. Can you hear me?",00:00:06
+hbrjoof,7,student,Yes.,00:00:09
+hbrjoof,8,tutor,"Yes, you can hear me. So how are you?",00:00:10
+hbrjoof,9,student,"Okay, how are you?",00:00:14
+hbrjoof,10,background,"Miss, I can't hear her.",00:00:16
+hbrjoof,11,tutor,Can you hear me now?,00:00:19
+hbrjoof,12,tutor,Hello?,00:00:23
+hbrjoof,13,student,Hello?,00:00:24
+hbrjoof,14,tutor,I can't hear you.,00:00:25
+hbrjoof,15,student,I can hear you. Can you hear me? Hello? I can't hear you. [unclear] Hello? Can you hear me now?,00:00:27
+hbrjoof,16,student,Yeah.,00:00:53
+hbrjoof,17,tutor,"Yes. Okay. All right, Tobias. So let's see, what do we have to learn today? So do you remember we did this topic last time?",00:00:54
+hbrjoof,18,student,"Yes, yes, yes.",00:01:05
+hbrjoof,19,tutor,"Yes, multiplying and dividing numbers by 10 and 100. So today we have to continue from this one. So do you remember how to divide by 10?",00:01:08
+hbrjoof,20,student,Yeah. [unclear] 5 divided by 10 is 12.,00:01:20
+hbrjoof,21,tutor,So what happened to 5 then?,00:01:27
+hbrjoof,22,student,"No, no, no, no. The answer is 12.5.",00:01:28
+hbrjoof,23,tutor,12.5. Okay. And what about for the next one?,00:01:33
+hbrjoof,24,student,Uh... 12.50.,00:01:37
+hbrjoof,25,tutor,12.5 and 12.50 are the same.,00:01:42
+hbrjoof,26,student,"No, because I added the zero at the end.",00:01:47
+hbrjoof,27,tutor,"So in the decimal place, if you add a zero, it doesn't make any change. So they are the same.",00:01:51
+hbrjoof,28,student,"Okay, so should I write 12.5?",00:01:57
+hbrjoof,29,tutor,"That's the first answer, Tobias. I'm asking what is this next answer? It can't be the same.",00:01:59
+hbrjoof,30,student,I don't know.,00:02:07
+hbrjoof,31,tutor,So how do we divide by 100?,00:02:10
+hbrjoof,32,student,You times by 5.,00:02:14
+hbrjoof,33,tutor,What do you mean you times by 5? We're dividing by 100 here.,00:02:19
+hbrjoof,34,student,Yeah.,00:02:27
+hbrjoof,35,tutor,"Okay, so what happens to the number when you divide by 100?",00:02:28
+hbrjoof,36,student,It gets bigger.,00:02:32
+hbrjoof,37,tutor,"We're dividing, not multiplying. So does it get bigger or smaller?",00:02:35
+hbrjoof,38,student,Smaller.,00:02:40
+hbrjoof,39,tutor,"It gets smaller, exactly. So can we mark 125 in this chart? 125.",00:02:41
+hbrjoof,40,tutor,"Yes, because that's what we are dividing. So can we mark that number in the [unclear] chart here?",00:02:55
+hbrjoof,41,student,It's not here.,00:02:59
+hbrjoof,42,tutor,"It's not here exactly. So what you can do is you can split and mark it 100, 20, and 5, which makes 125. Okay?",00:03:01
+hbrjoof,43,student,Okay.,00:03:13
+hbrjoof,44,tutor,"Yeah, so let me also write that so you don't forget it. So 100 25, which makes 125.",00:03:14
+hbrjoof,45,tutor,Okay.,00:03:23
+hbrjoof,46,student,Now I'm going to divide each of them by 100. So let's start with this. 100 divided by 100 is how much?,00:03:24
+hbrjoof,47,tutor,"Uh, 10.",00:03:32
+hbrjoof,48,student,That's when you divide by 10.,00:03:34
+hbrjoof,49,tutor,"Uh, 1.",00:03:36
+hbrjoof,50,student,"1, exactly. We move 2 places down because you're dividing by 100. That's 1. Now let's go to the 20. 20 divided by 100?",00:03:38
+hbrjoof,51,student,Uh... 20 divided by 100... 10.,00:03:48
+hbrjoof,52,tutor,"Look at the 20 row. Look at this column. [unclear] That's when you divide by 10, Tobias. Listen carefully. When you divide by 100, you move 2 places down. So when you move 2 places down from 20, What is the number?",00:03:55
+hbrjoof,53,student,Uh... [unclear],00:04:14
+hbrjoof,54,tutor,"15. Where are we looking at, Tobias? We don't even have 15 here.",00:04:16
+hbrjoof,55,student,200.,00:04:23
+hbrjoof,56,tutor,Do you see where I'm pointing? 20?,00:04:26
+hbrjoof,57,student,Yeah.,00:04:29
+hbrjoof,58,tutor,"From there, go 2 places down. What number does that show you?",00:04:30
+hbrjoof,59,student,0.2.,00:04:34
+hbrjoof,60,tutor,"Exactly, Tobias. So look carefully where I'm pointing at. That's 0.2. Now let's go to 5. 5 divided by 100. How many places down?",00:04:36
+hbrjoof,61,student,2.,00:04:48
+hbrjoof,62,tutor,2 places. So from 5 goes to...,00:04:51
+hbrjoof,63,student,0.05. [unclear],00:04:53
+hbrjoof,64,tutor,Absolutely. 0.05. So we now put these together. 1 point is just 1.,00:04:55
+hbrjoof,65,tutor,The next one is 0.2.,00:05:05
+hbrjoof,66,student,[unclear],00:05:08
+hbrjoof,67,tutor,The next one is 0.05.,00:05:09
+hbrjoof,68,student,Okay.,00:05:14
+hbrjoof,69,tutor,"You have to concentrate here, Tobias. So when there's nothing here with 1, we don't have any decimal, so I'm putting zeros. Here 0.2, I'm putting a zero there to hold that place. Now if you put them together, how much is the answer?",00:05:17
+hbrjoof,70,tutor,If you put 0.20.,00:05:34
+hbrjoof,71,background,"Meaning I'm asking you to add these, Tobias.",00:05:39
+hbrjoof,72,tutor,Which ones?,00:05:43
+hbrjoof,73,background,"Here, I've written it for you.",00:05:45
+hbrjoof,74,tutor,"Oh, so 0 add 5 is 5 because, yeah, and 2 and nothing is 2, so it's so far, and then point, so it's 0.25.",00:05:47
+hbrjoof,75,background,Why 0 here?,00:06:01
+hbrjoof,76,tutor,"Oh, no, no, no, no, no, no, no.",00:06:02
+hbrjoof,77,tutor,"It's 1.25. That's going to be your answer. Okay, so in a [unclear] chart, when you divide by 100, how many places do you move?",00:06:08
+hbrjoof,78,student,"Uh, 2.",00:06:29
+hbrjoof,79,tutor,"2 places, exactly. So if you can't work it out, you can just simply put that number in the [unclear] chart and work it out. Alright?",00:06:31
+hbrjoof,80,student,Okay.,00:06:44
+hbrjoof,81,tutor,"Okay. So next we are going to learn how to divide them or multiply them using a place value chart. So I am going to take you through this, Tobias, and I want you to listen carefully.",00:06:45
+hbrjoof,82,student,Okay.,00:06:57
+hbrjoof,83,tutor,"Okay, because when it comes to here, I want you to work it out alone. Alright?",00:06:58
+hbrjoof,84,tutor,Uh-huh.,00:07:04
+hbrjoof,85,student,Okay.,00:07:05
+hbrjoof,86,tutor,So let's multiply 0.44 by 10 and 100. So we've already put the 0.44.,00:07:06
+hbrjoof,87,student,Okay.,00:07:15
+hbrjoof,88,tutor,"Okay, so I'm going to multiply by 10. To multiply by 10, move each digit one place to the left. This is left, right?",00:07:16
+hbrjoof,89,student,Yeah.,00:07:27
+hbrjoof,90,tutor,"That's when you multiply. I'll mark it down there. So when I multiply the number by 10, I have to move",00:07:28
+hbrjoof,91,tutor,Each and every digit one place to the—,00:07:35
+hbrjoof,92,student,"Right. Left. So 0 goes here, 4 goes there, and 4 goes here. So it's basically 4.4.",00:07:38
+hbrjoof,93,tutor,Okay. [unclear],00:07:55
+hbrjoof,94,student,"0.44 times 10 is 4.44. 4.4. Next, we are going to multiply it by 100. So when I times it by 100, I move each digit 2 places to the left.",00:07:56
+hbrjoof,95,tutor,Okay.,00:08:14
+hbrjoof,96,student,Let's focus here a moment.,00:08:16
+hbrjoof,97,tutor,Okay.,00:08:21
+hbrjoof,98,student,"Okay, 0.44. Now I'm moving 2 places.",00:08:22
+hbrjoof,99,tutor,Okay. [unclear] out. 4 comes here.,00:08:26
+hbrjoof,100,tutor,Yeah.,00:08:33
+hbrjoof,101,student,"4 comes here, moving 2 places.",00:08:34
+hbrjoof,102,tutor,Okay.,00:08:37
+hbrjoof,103,student,And 0 is out there. We don't need the 0.,00:08:40
+hbrjoof,104,tutor,"Oh, okay.",00:08:43
+hbrjoof,105,student,"It's just 44. There's nothing after the decimal point, so it's just 44. Is that clear?",00:08:44
+hbrjoof,106,tutor,Yes.,00:08:53
+hbrjoof,107,student,"Yes, you just need to remember this thing. Multiply by 10, we move 1 [unclear] to the left, and we When you multiply by 100, we move 2 places to the left.",00:08:53
+hbrjoof,108,tutor,Okay.,00:09:02
+hbrjoof,109,student,"Okay, so now it's your turn.",00:09:03
+hbrjoof,110,tutor,"Okay. [unclear] Okay, so 4— no, 1 goes— so does 0 go there?",00:09:08
+hbrjoof,111,tutor,No.,00:09:25
+hbrjoof,112,student,What is the number that's given to you? [unclear],00:09:26
+hbrjoof,113,tutor,1.8.,00:09:31
+hbrjoof,114,student,"Yes, so we have to put 1.8.",00:09:33
+hbrjoof,115,tutor,Good. Then?,00:09:39
+hbrjoof,116,student,Then you put— then you put— The— [unclear] Then you put the 8 there. Then you put the 1 there.,00:09:42
+hbrjoof,117,tutor,Are we multiplying by 10 or 100?,00:10:09
+hbrjoof,118,student,No. [unclear],00:10:14
+hbrjoof,119,tutor,And then?,00:10:32
+hbrjoof,120,student,First question.,00:10:33
+hbrjoof,121,tutor,1.8 times 10. Is it?,00:10:35
+hbrjoof,122,student,Yeah?,00:10:39
+hbrjoof,123,tutor,Is it 0.18? You're making it 10 times smaller. You're making it 10 times bigger here. So you move the 1 and 8 where? To which direction?,00:10:41
+hbrjoof,124,student,Left.,00:10:55
+hbrjoof,125,tutor,"Left, exactly. So how many places would you move?",00:10:56
+hbrjoof,126,student,2.,00:11:00
+hbrjoof,127,tutor,That's when you times by 100.,00:11:01
+hbrjoof,128,student,1.,00:11:04
+hbrjoof,129,tutor,"One place. So if you move both the digits one place, what's the answer?",00:11:05
+hbrjoof,130,tutor,"Uh, 18.",00:11:12
+hbrjoof,131,student,18.,00:11:15
+hbrjoof,132,tutor,"Okay, um, well, is this 18?",00:11:17
+hbrjoof,133,student,"1.8, no.",00:11:21
+hbrjoof,134,tutor,The 1 is in the hundreds.,00:11:25
+hbrjoof,135,student,Oh.,00:11:30
+hbrjoof,136,tutor,So where should this go to make it 18? [unclear],00:11:31
+hbrjoof,137,tutor,"The 1 was in the ones before, but now it's in tens. So you moved one place.",00:11:40
+hbrjoof,138,student,Okay.,00:11:47
+hbrjoof,139,tutor,"So let's get this back again to 1.8 because we're going to work the next question. Now, timesing it by 2, I mean hundreds.",00:11:48
+hbrjoof,140,student,So you have to take the 8 there. [unclear],00:11:59
+hbrjoof,141,tutor,Okay.,00:12:07
+hbrjoof,142,student,And then.,00:12:07
+hbrjoof,143,tutor,Yeah.,00:12:12
+hbrjoof,144,student,I need help on this part.,00:12:15
+hbrjoof,145,tutor,"No worries, you're already there. So what is this number?",00:12:17
+hbrjoof,146,student,108.,00:12:20
+hbrjoof,147,tutor,108.,00:12:21
+hbrjoof,148,student,"100 and not 8 because 8 is in the tens. There's nothing in the ones, so what could you put in the ones?",00:12:24
+hbrjoof,149,tutor,"0. 0. Now what number has it made? [unclear] There you go, fabulous. Okay, now let's read this part. 1.8 divided by 10.",00:12:31
+hbrjoof,150,tutor,This one.,00:12:50
+hbrjoof,151,student,"To divide by 10, move each digit one place to the right.",00:12:51
+hbrjoof,152,tutor,"Right. So when you divide, to which direction do we move?",00:12:58
+hbrjoof,153,student,Right.,00:13:02
+hbrjoof,154,tutor,Right. So now this side when you divide.,00:13:03
+hbrjoof,155,student,Okay.,00:13:08
+hbrjoof,156,tutor,Okay. So let's put the 1.8 again. [unclear] Good. Now we are dividing it by 10. So how would you move it now?,00:13:09
+hbrjoof,157,student,"Uh, move the [unclear] one place to the right.",00:13:27
+hbrjoof,158,tutor,"Good, one place to the right. Fabulous. So how would it look now?",00:13:32
+hbrjoof,159,student,"Uh, 118.",00:13:35
+hbrjoof,160,tutor,"18, but it's after the decimal point, so it comes as 0.18.",00:13:39
+hbrjoof,161,student,Okay.,00:13:45
+hbrjoof,162,tutor,"Okay, whenever you go after the decimal point and there's nothing in the ones, [unclear]",00:13:45
+hbrjoof,163,tutor,"Great job. Now let's answer this question. Okay, to divide each number, move each digit— move each digit— when you divide by 100, move each digit places to the right. How many places would you move when you divide by 100?",00:13:50
+hbrjoof,164,student,2.,00:14:15
+hbrjoof,165,tutor,2. Good job. [unclear],00:14:17
+hbrjoof,166,tutor,"Way to go. So it seems like now you're confident as to how many places you have to move when it comes to dividing or multiplying by 10 or 100. Let me ask you this question. When you multiply, which direction do we move?",00:14:22
+hbrjoof,167,student,Left.,00:14:47
+hbrjoof,168,tutor,Yes. And when you divide?,00:14:47
+hbrjoof,169,student,Right.,00:14:49
+hbrjoof,170,tutor,"Fabulous. That's all. Okay. So then let's go— so if you need a place value chart to work them out, let me know. I can make one for you. Thank you. Thank you. Okay? [unclear]",00:14:50
+hbrjoof,171,background,Hello?,00:15:08
+hbrjoof,172,tutor,Hello.,00:15:12
+hbrjoof,173,background,Did you hear me?,00:15:13
+hbrjoof,174,student,No.,00:15:16
+hbrjoof,175,tutor,"You can work these questions out, and if you feel like you need a place value chart to work them out, you can ask me and I can give you a place value chart. Okay?",00:15:18
+hbrjoof,176,student,Okay. [unclear],00:15:27
+hbrjoof,177,tutor,"All right, so let's get started with question 1.",00:15:28
+hbrjoof,178,student,"Okay, wait, so I need x times 10. [unclear]",00:15:31
+hbrjoof,179,student,"Actually, no.",00:16:03
+hbrjoof,180,tutor,"The same sound? Oh no, I wasn't distracted. And then for number [UNCLEAR].",00:16:06
+hbrjoof,181,tutor,"Focus on the signs as well, whether it's multiplication or division.",00:16:06
+hbrjoof,182,student,Okay.,00:16:27
+hbrjoof,183,tutor,So that's naturally. All right.,00:16:28
+hbrjoof,184,tutor,"Is it on A, is it 554? On A is it 5.43? [unclear]",00:16:37
+hbrjoof,185,student,No.,00:16:52
+hbrjoof,186,tutor,"Yes. So, you got to say what they have done to make this number into 5.43.",00:16:53
+hbrjoof,187,student,Oh. [unclear],00:17:01
+hbrjoof,188,tutor,"But basically, password is using your computer with a long game. And then in lowercase, [unclear] 123.",00:17:08
+hbrjoof,189,student,I'm not [UNCLEAR].,00:17:21
+hbrjoof,190,tutor,"But in case you need to know it, you probably won't need to know it. And that's it, pretty much all they need to monitor what you've been up to.",00:17:21
+hbrjoof,191,tutor,"And then when do they need to finish? They need to finish at 2:00, and then they'll do a quiz with a couple of questions before. So they'll do that quiz, so imagine you fall through, and whenever they finish, that's when you're sending them to the [UNCLEAR].",00:17:31
+hbrjoof,192,background,"Okay, we have this question as well. [unclear]",00:17:31
+hbrjoof,193,tutor,You're fine. [unclear],00:18:01
+hbrjoof,194,student,"Yeah, I've tried every possible combination.",00:18:17
+hbrjoof,195,tutor,I need help. [unclear],00:18:24
+hbrjoof,196,tutor,"Alright, so let's hold that there. Let's first look at the answers that you've already given for. Let's start with the first one. So you're saying that this has been divided by 100. So why do you think so?",00:18:26
+hbrjoof,197,student,"Because when you do 54.3, you have to move places to— 2 places to the left, and that in 100 there's 2 zeros, so that's why.",00:18:39
+hbrjoof,198,tutor,"Yeah, true, but we are not moving to the left, we are moving to right because we are dividing. All right, let's go to this one. See? Explain that.",00:18:51
+hbrjoof,199,student,Number C.,00:19:09
+hbrjoof,200,tutor,"Yeah, C.",00:19:12
+hbrjoof,201,student,"So I did times by 10 because If you do 0.12, if you times it by 10, you get the answer 1.2.",00:19:14
+hbrjoof,202,tutor,So how many places would you move when you times by 10?,00:19:27
+hbrjoof,203,student,One.,00:19:32
+hbrjoof,204,tutor,To the left or right?,00:19:34
+hbrjoof,205,student,Left.,00:19:37
+hbrjoof,206,tutor,Left. [unclear] Okay.,00:19:38
+hbrjoof,207,student,"For B, I did times by 10 because 51.5, if you times it by 10, you get the answer 5,150.",00:19:40
+hbrjoof,208,tutor,"Hmm, we'll see about that. So the number you got is 51.5. So you already know the rules, so I'm not going to check on that. When you times by 10, Show me how this is. [unclear]",00:19:56
+hbrjoof,209,tutor,Should I just move the numbers?,00:20:12
+hbrjoof,210,student,"Yeah, you can do that. Anything that's easy for you. But I'm not sure they can move the numbers because I wrote it. Maybe do you want to write it?",00:20:31
+hbrjoof,211,student,Yeah.,00:20:42
+hbrjoof,212,tutor,"Okay. You can write it and you can move it. Okay. So you said you times by 10. So when you times by 10, how does it move? So if you times by 10, it goes 2 places to the left.",00:20:44
+hbrjoof,213,tutor,"8, 10?",00:20:44
+hbrjoof,214,student,"Yes. No, if you times in by 10, it goes 2 place— one place.",00:20:44
+hbrjoof,215,tutor,Yes.,00:21:19
+hbrjoof,216,student,To the right.,00:21:19
+hbrjoof,217,background,"To the left is correct, but we move one place.",00:21:23
+hbrjoof,218,tutor,"Oh, so move all the digit 1 to the left. Good.",00:21:27
+hbrjoof,219,student,515.,00:21:33
+hbrjoof,220,tutor,"Exactly. So many times by 10 you get 550, but we have 5,150. So what do you think it has been times by?",00:21:36
+hbrjoof,221,student,100.,00:21:45
+hbrjoof,222,tutor,"100. Exactly. [unclear] It would be easy if you cut Cross off the ones that you've already used. Divided by 10 is already used. Multiplied by 10 is already used. Multiply by 100 is also used. Yes. So let's go to this one. 40.3, when you divide by 10, yes?",00:21:47
+hbrjoof,223,background,[unclear],00:22:10
+hbrjoof,224,tutor,"You get 4.03. Yes, good job there. Then we'll go to these.",00:22:12
+hbrjoof,225,tutor,"4.82 times by 10. Good. 0.9 by times by 100. Okay, here 61.2 divide by 10. Let's write 61.2 so that you can easily move. [unclear]",00:22:18
+hbrjoof,226,tutor,"That's 61.02, but it says 2.",00:22:55
+hbrjoof,227,student,"Never mind, never mind. Yeah, yeah, okay, I'm just going to write my answer down.",00:22:59
+hbrjoof,228,tutor,Hello.,00:23:08
+hbrjoof,229,student,Sorry.,00:23:09
+hbrjoof,230,tutor,"Yes, 2 should come here. Tobias, the 2 is in the wrong place. Can we go back? 61.2. Okay, the 2 should be here. Can you erase this and put the 2 here? [unclear] The whole number is wrong, Tobias. Before you move it, you have to correct the number.",00:23:13
+hbrjoof,231,student,I should have put the 6.,00:23:39
+hbrjoof,232,tutor,"Yeah, you will correct with the 6. You will correct with the 1. Yeah, point 2. 2 is here, not there. 2 is here. Now we divide by 10. So...",00:23:43
+hbrjoof,233,background,So that's 61.2.,00:24:04
+hbrjoof,234,tutor,That is the number. Now we have to divide this by 10. So how does it move? [unclear],00:24:07
+hbrjoof,235,background,To the right.,00:24:15
+hbrjoof,236,tutor,To the right. How many places?,00:24:16
+hbrjoof,237,background,One.,00:24:19
+hbrjoof,238,tutor,One. So what's the answer?,00:24:20
+hbrjoof,239,background,6.12.,00:24:22
+hbrjoof,240,tutor,6.12. [unclear],00:24:23
+hbrjoof,241,tutor,"Is that clear, Tobias?",00:24:33
+hbrjoof,242,student,Yes.,00:24:41
+hbrjoof,243,tutor,"Yes, good job actually. So you worked out most of the question all by yourself. Now let's come to the first one, 0.95. So we can't mark the 0.95, but how have they marked it?",00:24:42
+hbrjoof,244,background,They marked it away from 5.,00:24:55
+hbrjoof,245,tutor,"They have marked the 9 and the 5 separately. 9 is 0.9, 5 is 0.05. So you have to times both of these by 100 if you're using the [unclear] chart. Select it. So we are at 0.9. When you times it by 100, you move up or down?",00:25:01
+hbrjoof,246,student,Up.,00:25:22
+hbrjoof,247,tutor,Up. Good. How many places should I move up?,00:25:23
+hbrjoof,248,background,"Uh, 2.",00:25:27
+hbrjoof,249,tutor,"2. So 1, 2. That's how much? [unclear] Look at here. From 0.9, I move 2 places up. What number do I have here?",00:25:28
+hbrjoof,250,background,90.,00:25:47
+hbrjoof,251,tutor,"90. So let's do the same thing to 0.05. 0.05, I move 2 places up because we're multiplying it by 100.",00:25:48
+hbrjoof,252,tutor,Okay.,00:25:59
+hbrjoof,253,background,Now what is the number?,00:26:00
+hbrjoof,254,tutor,"0.25— no, 0.5— 0.95. I'm asking here, forget about the 9, you've already got that. 0.05 times by 100, I move 2 places up. What number have I landed on?",00:26:01
+hbrjoof,255,tutor,"Uh, 0.05.",00:26:21
+hbrjoof,256,student,That's what I went from. So now where am I?,00:26:27
+hbrjoof,257,tutor,"0.5. No, 5. 5, exactly. So you got 90 there, you got 5 here. If you put that together, what is it?",00:26:30
+hbrjoof,258,tutor,You put 5 and 9. 95.,00:26:44
+hbrjoof,259,tutor,95. That's going to be your answer. [unclear],00:26:47
+hbrjoof,260,tutor,Oh.,00:26:56
+hbrjoof,261,tutor,"Yes. Okay, the techno chart is a little bit difficult than the place value chart because when it comes to place value chart, you can write the whole number in there. But here you can't do it. You have to separately put the numbers. Separately multiply them and finally put them together. Okay, then here comes the last question for the topic. [unclear]",00:27:00
+hbrjoof,262,background,A zookeeper weighs an adult gorilla and its baby. The adult gorilla has a mass— the adult gorilla has a mass of 149.3 kg. The baby gorilla has a mass of... [unclear],00:27:29
+hbrjoof,263,tutor,Let's read the question.,00:27:49
+hbrjoof,264,student,of 1/10 the size of the adult gorilla. How much does the baby gorilla weigh in kilograms?,00:27:49
+hbrjoof,265,tutor,Mm-hmm. Now you have to work that question out.,00:27:49
+hbrjoof,266,tutor,"Okay, so you do 149. [unclear]",00:28:06
+hbrjoof,267,tutor,"Take away, let's take away, Mom. [unclear]",00:28:20
+hbrjoof,268,tutor,Take away— one— is there one-tenth? It says one-tenth. What does one-tenth the size mean?,00:28:44
+hbrjoof,269,student,I don't know.,00:28:54
+hbrjoof,270,tutor,What if it says 10 times the size? Then what would you do? [unclear],00:28:57
+hbrjoof,271,tutor,"No, times the size?",00:29:03
+hbrjoof,272,student,I don't know.,00:29:10
+hbrjoof,273,tutor,It already says 10 times. What does 10 times mean?,00:29:11
+hbrjoof,274,student,Times by 10.,00:29:17
+hbrjoof,275,tutor,"Absolutely. So if something is 10 times bigger, let's say for an example, I have a pet which has 3 kilograms, and then your pet is 10 times of that size, then that means you have to just times it by 10.",00:29:19
+hbrjoof,276,student,"Oh, 30.",00:29:35
+hbrjoof,277,tutor,"30, exactly. Now that's that. Now, but here it says 1/10, meaning the opposite of 10 times, that is dividing by 10. Okay, what is this, Tobias? I just gave you an example there. That's not related to the question.",00:29:37
+hbrjoof,278,tutor,"I just gave you an example. What does 10 times mean? So in this question it says 1/10 the size. So 1/10 the size means— if this is 10 times, 1/10 means dividing by 10.",00:29:55
+hbrjoof,279,student,Okay.,00:30:13
+hbrjoof,280,tutor,Because this is how 1/10 looks. [unclear] So that means you're dividing by 10. Dividing by 10. Is that clear? [unclear] So what are we doing here again?,00:30:14
+hbrjoof,281,student,We're time— we're making one-tenth into a number.,00:30:27
+hbrjoof,282,tutor,So one-tenth means what? Is it multiplying or dividing?,00:30:35
+hbrjoof,283,student,10.,00:30:38
+hbrjoof,284,tutor,"Yeah, is it multiplying or dividing?",00:30:40
+hbrjoof,285,tutor,Dividing.,00:30:46
+hbrjoof,286,tutor,Dividing by 10. So what is the number that's given to you?,00:30:47
+hbrjoof,287,student,"Uh, 149.3.",00:30:54
+hbrjoof,288,tutor,Yes. So now that you have to divide by?,00:30:57
+hbrjoof,289,student,"Uh, 149 divided— [unclear] Okay. [unclear]",00:31:01
+hbrjoof,290,tutor,Let me just find my symbols.,00:31:16
+hbrjoof,291,student,149.3.,00:31:26
+hbrjoof,292,tutor,"Oh, pi. Yeah. The [unclear]",00:31:32
+hbrjoof,293,tutor,answer would be 14.95.,00:31:58
+hbrjoof,294,tutor,"14.93. Exactly. [unclear] Let us come down here as the answer. And since we're talking about the mass, we put kilograms. [unclear]",00:32:09
+hbrjoof,295,tutor,"Okay, so once again, what does 1/10 of the size mean?",00:32:40
+hbrjoof,296,student,The size is smaller.,00:32:48
+hbrjoof,297,tutor,How many times smaller?,00:32:53
+hbrjoof,298,student,2.,00:32:54
+hbrjoof,299,tutor,I think that would be—,00:32:55
+hbrjoof,300,tutor,How many times smaller did you make it?,00:32:57
+hbrjoof,301,tutor,Is it 1? Did you divide by 1?,00:32:58
+hbrjoof,302,student,10.,00:33:07
+hbrjoof,303,tutor,"Yes, so it's 10 times smaller. 1/10 the size means it is 10 times smaller. We need to remember that, Tobias. Is that clear?",00:33:08
+hbrjoof,304,student,Yeah. [unclear],00:33:21
+hbrjoof,305,tutor,"Okay, so now could you Tobias, can you take me through the important things we learned in this topic?",00:33:23
+hbrjoof,306,student,"So we learned dividing and multiplying by 10, and we learned doing 10 times smaller and 10 times bigger, and we learned kilograms and [UNCLEAR].",00:33:28
+hbrjoof,307,tutor,"Good. Yes, those were the most important things we learned. So in a place value chart, what happens when you multiply and divide by 10? When [unclear]",00:33:28
+hbrjoof,308,tutor,"you multiply, to which direction would you move? That's what I'm asking you. I",00:33:59
+hbrjoof,309,student,"don't know. Oh,",00:34:05
+hbrjoof,310,tutor,"right, right, right. Or",00:34:07
+hbrjoof,311,student,left? No. I,00:34:09
+hbrjoof,312,tutor,"know you know it. When you multiply, to which direction? Right.",00:34:11
+hbrjoof,313,student,"No, left. When",00:34:17
+hbrjoof,314,tutor,you divide? Right.,00:34:19
+hbrjoof,315,tutor,"To the right. And when you divide by 100, how many places would you move?",00:34:22
+hbrjoof,316,student,"Uh, 2.",00:34:27
+hbrjoof,317,tutor,Oh! [unclear],00:34:28
+hbrjoof,318,tutor,"Good. Alright, so next we're going to say— [unclear]",00:34:30
+hbrjoof,319,tutor,And that's going to be about— [unclear],00:34:37
+hbrjoof,320,tutor,"Okay, so using fact families to multiply and divide.",00:34:44
+hbrjoof,321,tutor,So here's the question. [unclear],00:34:50
+hbrjoof,322,student,5 times 3 was 15. What is 150 divided by 5?,00:34:56
+hbrjoof,323,tutor,How did you get 240 here then?,00:35:13
+hbrjoof,324,student,"If you do 6 times 4, which is 24, if you just times by 10, you can— and then you add the 0 at the end, you get that 24.",00:35:17
+hbrjoof,325,tutor,"Good. Let's just think about this as the same way. So here, 5 times 3 is 15. The 15 is 150 now, and you're dividing it by 5. So the 3 should be how much here?",00:35:28
+hbrjoof,326,student,"Uh, 5.",00:35:44
+hbrjoof,327,tutor,"So look at it in this way. [unclear] So the question says we do 3 times 5, which is 15. Then if I write it as 50— 15 divided by 3, how much is it? 15 divided by 3, 5.",00:35:48
+hbrjoof,328,tutor,"Very good, 5. That's amazing. Then 15 divided by 5?",00:36:11
+hbrjoof,329,student,3.,00:36:16
+hbrjoof,330,tutor,3. Good. But now it's 150 divided by 5. So what do you think is the answer?,00:36:18
+hbrjoof,331,background,15 divided by 5 is 3.,00:36:25
+hbrjoof,332,background,15.5.,00:36:27
+hbrjoof,333,background,"No, it's the same way like how you did this. 5. [unclear]",00:36:30
+hbrjoof,334,tutor,Compare it with this.,00:36:41
+hbrjoof,335,student,Yeah.,00:36:54
+hbrjoof,336,tutor,"Compare it with this. 15 divided by 5 is 3. Then 150 divided by 5. [unclear] Same as this. 6 times 4, 24. Then when you do 6 times 40, you made it— you made this 10 times bigger. And the same thing, the 15 is 10 times bigger here, 150. Okay, so the 3 should be 150. Should be 30, Tobias.",00:36:56
+hbrjoof,337,tutor,"How do you even get 115? It's not just you write the answer, Tobias. I want you to understand this part. What's the difference you see here? [unclear] [unclear]",00:37:31
+hbrjoof,338,tutor,What's the difference between the two calculations?,00:37:54
+hbrjoof,339,student,"One is 15 divided by 5 is 3, and 150 divided by 5 is 30. So 15 divided by 5 is 3. You do 3 times 10, then you get 30.",00:37:57
+hbrjoof,340,tutor,Yes. Is that clear now?,00:38:16
+hbrjoof,341,student,Yes. Yes. Just a moment. [unclear],00:38:19
+hbrjoof,342,tutor,Can you read this for me?,00:38:25
+hbrjoof,343,student,"If we know our times table, it is easy to solve all the related calculations.",00:38:30
+hbrjoof,344,tutor,Exactly. So here's an array. So you first count how many are there in a row. How many are there?,00:38:36
+hbrjoof,345,tutor,"And then for this, 5 times 7 is 30. [unclear]",00:38:52
+hbrjoof,346,tutor,"No. Can you do 35 times 1? [unclear] Wait, so first of all, 5 times 7 is 35, right? 35 comes here. And you can show it as a calculation here. 5 times 7 is 35. [unclear]",00:39:14
+hbrjoof,347,tutor,Any other way that you can stop and write? [unclear],00:39:52
+hbrjoof,348,tutor,"Now it's division, so what number comes first? [unclear] [unclear]",00:40:11
+hbrjoof,349,tutor,"Oh, it's the same thing. Is it a 5? No, you can try 7.",00:40:32
+hbrjoof,350,student,Ah.,00:40:40
+hbrjoof,351,tutor,"So if 5 times 7 is 35, then what is 5 times 6? [unclear]",00:40:46
+hbrjoof,352,tutor,"It's the same thing that's been just swapped around. 5 is here, 70 is here.",00:41:07
+hbrjoof,353,student,Exactly. [unclear],00:41:19
+hbrjoof,354,tutor,"17. It's not 7. If it's 7, then it's 35, but it's 17 here. So the number that you're dividing should be?",00:41:22
+hbrjoof,355,student,350.,00:41:31
+hbrjoof,356,tutor,"Yes, 350. Okay, if you know one fact, you can work out the other fact. That's what they've been here. If you know 7 times 5, So see how many workings did you do just by knowing that 5 times 7 is 35. Do you understand?",00:41:33
+hbrjoof,357,tutor,Yes.,00:41:54
+hbrjoof,358,background,"And also, can you read this for me?",00:41:55
+hbrjoof,359,tutor,Multiplication is commutative. We can swap the numbers around and the product will stay the same.,00:41:57
+hbrjoof,360,background,"Yeah, what does that mean?",00:42:03
+hbrjoof,361,tutor,"Multiplication, if you do commutative, because if we swap the numbers around and the",00:42:07
+hbrjoof,362,student,"The product will stay the same, they won't change.",00:42:15
+hbrjoof,363,tutor,"They won't change, like here, 7 times 5 or 5 times 7, this is going to give you the same answer. So even if you swap and if you're getting the same answer, that means it's commutative. Okay, so just give me a second. [unclear] So follow me. Let's look at 6 times 4. 6 times 4 is 24. Am I right?",00:42:19
+hbrjoof,364,student,Yes.,00:42:49
+hbrjoof,365,tutor,"Yes, I worked that out. Write 3 other calculations using the fact triangle. So if I know that 4 times 6 is 24, then I can say 24 divided by 6 is 4, and 24 divided by 4 is 6. Am I right there?",00:42:49
+hbrjoof,366,student,Yes.,00:43:04
+hbrjoof,367,tutor,Yes.,00:43:05
+hbrjoof,368,tutor,"Now solve this calculation. So that 5 times it by 40, it's going to be 240.",00:43:06
+hbrjoof,369,student,Okay.,00:43:13
+hbrjoof,370,tutor,"Divide by 6, that's 40.",00:43:14
+hbrjoof,371,student,Okay. [unclear] [unclear],00:43:18
+hbrjoof,372,tutor,All right. [unclear],00:43:57
+hbrjoof,373,tutor,"So can you tell me, okay, so can you tell me in the next topic what important things did you learn?",00:44:24
+hbrjoof,374,student,"I learned converting and timesing by 10 with bigger or smaller, and then we did some converting.",00:44:37
+hbrjoof,375,tutor,"Okay, converting means?",00:44:50
+hbrjoof,376,student,When— [unclear],00:44:56
+hbrjoof,377,tutor,Yeah?,00:45:01
+hbrjoof,378,student,When you change the number and you times it by and then you get the answer.,00:45:03
+hbrjoof,379,tutor,"So what does this commutative mean? When, like, I don't know.",00:45:11
+hbrjoof,380,tutor,What does commutative mean?,00:45:22
+hbrjoof,381,student,When we can swap the numbers around and the numbers will stay the same.,00:45:24
+hbrjoof,382,tutor,"Yes, absolutely. Okay, Tobias, so that's all we have, and until we meet next time, take care. Bye-bye. [unclear]",00:45:29
+hbrjoof,383,student,Bye.,00:45:39

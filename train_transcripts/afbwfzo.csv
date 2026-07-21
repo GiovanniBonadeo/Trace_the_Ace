@@ -1,0 +1,200 @@
+session_id,utterance_id,role,content,timestamp
+afbwfzo,0,tutor,Hello?,00:00:00
+afbwfzo,1,student,Hello?,00:00:00
+afbwfzo,2,tutor,Can you hear me? Hello?,00:00:02
+afbwfzo,3,student,"Actually, yeah.",00:00:03
+afbwfzo,4,tutor,"Great. How are you, Callum?",00:00:06
+afbwfzo,5,student,Good.,00:00:08
+afbwfzo,6,tutor,Aha. How was your weekend?,00:00:09
+afbwfzo,7,student,Good.,00:00:12
+afbwfzo,8,tutor,Aha. What happened during the weekend? Can you share it with me?,00:00:13
+afbwfzo,9,student,I went to my... I went to my [UNCLEAR].,00:00:17
+afbwfzo,10,tutor,Where did you go? I'm sorry. [unclear],00:00:17
+afbwfzo,11,tutor,"Okay, that's good. Right, so did you have fun there?",00:00:24
+afbwfzo,12,student,Yeah.,00:00:32
+afbwfzo,13,tutor,"Okay, nice. So anything else you'd like to share before we start?",00:00:34
+afbwfzo,14,student,No.,00:00:39
+afbwfzo,15,tutor,"Okay then, so let us start with this. Can you remember we were looking at rounding numbers to the nearest 100 and 1000 last week?",00:00:40
+afbwfzo,16,student,Yeah.,00:00:52
+afbwfzo,17,tutor,"Okay, so if you have a question like 5,987, can you round this number to the nearest thousand, please? [unclear]",00:00:53
+afbwfzo,18,student,"5,000.",00:01:10
+afbwfzo,19,tutor,"Why is your answer 5,000? Why do you round to 5,000?",00:01:11
+afbwfzo,20,student,"Because the 1 goes to the 5, and then the rest is zeros.",00:01:21
+afbwfzo,21,tutor,"Okay, so whenever you round a number to the nearest thousand, make sure to draw a line after the thousands. You draw a line. This is your first step, okay? And the second step is is to look at the next digit after the line. So what can you see after the line?",00:01:29
+afbwfzo,22,student,987.,00:01:48
+afbwfzo,23,tutor,"Okay, just the digit, like right after the line. Just the digit only. Fine, okay.",00:01:51
+afbwfzo,24,student,Is it the comma?,00:02:00
+afbwfzo,25,tutor,What? [unclear],00:02:02
+afbwfzo,26,student,9. Is it the 9? [unclear],00:02:09
+afbwfzo,27,tutor,"Okay, it's not greater than 5. So if it— yes, exactly. So if it's greater than 5, is 9 greater than 5?",00:02:15
+afbwfzo,28,student,Yeah.,00:02:25
+afbwfzo,29,tutor,"So if it's greater than 5, you need to round up. You need to look at the next thousand. So ask to 5,000, who is the next thousand? [unclear]",00:02:26
+afbwfzo,30,student,"87, but it's just 8.",00:02:26
+afbwfzo,31,tutor,"No, after 5,000, who is the next thousand?",00:02:26
+afbwfzo,32,student,9.,00:02:49
+afbwfzo,33,tutor,"Like you have 1,000, 2,000, 3,000, 4,000, 5,000. After 5,000. Who comes next?",00:02:51
+afbwfzo,34,student,"6,000.",00:03:04
+afbwfzo,35,tutor,"Exactly. So when you round up, your answer will be 6,000, and this is your answer. Okay? [unclear] Right? Can you tell me the steps from the beginning, please?",00:03:08
+afbwfzo,36,student,"So you've got 5,987. And you have to look at the other number which is greater than the 5, so then you round up, which is going to be 600— 6,000.",00:03:23
+afbwfzo,37,tutor,"OK. Can you answer a similar question? Will you be able to? [unclear] OK. Check. Let me give you another question here. This time we have 4,600.",00:03:40
+afbwfzo,38,tutor,"Can you round this number to the nearest thousand, please?",00:03:56
+afbwfzo,39,student,Mm-hmm.,00:04:02
+afbwfzo,40,tutor,Okay. [unclear],00:04:05
+afbwfzo,41,student,"So it would be 5,000. [unclear]",00:04:06
+afbwfzo,42,student,I'll do it over here. [unclear],00:04:39
+afbwfzo,43,tutor,Hello?,00:05:09
+afbwfzo,44,student,Hi.,00:05:10
+afbwfzo,45,tutor,All right. So what is the answer?,00:05:12
+afbwfzo,46,student,The screen is going a bit glitchy.,00:05:16
+afbwfzo,47,tutor,"Yeah, I think it's fine now. [unclear] So what was the answer for this question?",00:05:19
+afbwfzo,48,student,5.,00:05:28
+afbwfzo,49,tutor,"Very good, that's the right answer. So did you understand this clearly?",00:05:32
+afbwfzo,50,student,Yeah.,00:05:39
+afbwfzo,51,tutor,"Okay, right. So when the next digit is greater than 5, you need to round it up. So let's look at an example where the next digit is less than 5. Okay, shall we?",00:05:39
+afbwfzo,52,student,Yeah.,00:05:52
+afbwfzo,53,tutor,"Look at this example. When you have 3,325. So let's round this to the nearest thousand. Let's draw a line. [unclear] It's a 3. It's less than 5. So what do we do? Round down.",00:05:52
+afbwfzo,54,tutor,"Yeah, so what will your answer be? [unclear] Okay, here whenever you round it down, you don't go downwards, you write the number itself. So 3,000 itself will be the answer. Okay?",00:06:09
+afbwfzo,55,student,Yeah.,00:06:31
+afbwfzo,56,tutor,"Only when you round up, you add 1. But when you round down, you just write the number itself. So the answer will be just 3,000. Okay?",00:06:32
+afbwfzo,57,student,Yeah.,00:06:44
+afbwfzo,58,tutor,"Let me tell you another example, like, and then we move on. When you have 6,211, which will be the answer? [unclear]",00:06:45
+afbwfzo,59,student,"6,000.",00:07:01
+afbwfzo,60,tutor,"Exactly, the answer would be 6,000. So what do you understand by this, Callum?",00:07:03
+afbwfzo,61,student,"If the number after 6 is smaller, you have to round down. And if the number is bigger than the 5, then you have to round up.",00:07:08
+afbwfzo,62,tutor,"Exactly. And whenever you round up, you add 1. So 5 becomes a 6, 4 becomes a 5. But when you round down, it's the opposite. Just the number itself. Okay?",00:07:17
+afbwfzo,63,student,Mm-hmm.,00:07:28
+afbwfzo,64,tutor,Fantastic. So let's do more questions. Can you give the [UNCLEAR]?,00:07:29
+afbwfzo,65,student,Mm-hmm.,00:07:29
+afbwfzo,66,tutor,Okay.,00:07:38
+afbwfzo,67,student,"Um, it's gonna be 5.",00:07:43
+afbwfzo,68,tutor,"No, Callum, not the second question. This one here, the first one.",00:07:47
+afbwfzo,69,student,To the nearest— 2— pi— 2.2. [unclear],00:07:52
+afbwfzo,70,tutor,"So here, where would you draw the line? Because it says nearest 100. [unclear]",00:08:09
+afbwfzo,71,tutor,"Here we were looking at nearest 1,000. That's why we drew the line after the thousand. Okay?",00:08:20
+afbwfzo,72,student,Mm-hmm.,00:08:30
+afbwfzo,73,tutor,"But here it says nearest 100. So where do we draw the line? No. If it says nearest thousand, we need to draw the line after the thousands. But if it says place nearest hundred, we need to draw the line after the hundreds. Okay? So let me erase the two lines. Can you draw the line after the hundreds? Which one's the hundred one here?",00:08:30
+afbwfzo,74,student,[unclear],00:08:57
+afbwfzo,75,tutor,"Yes, we need to draw the line here, like after the hundreds. Okay, great. Now look at the next digit. It's one.",00:08:59
+afbwfzo,76,tutor,"It's less than 5, isn't it?",00:09:13
+afbwfzo,77,student,2.,00:09:19
+afbwfzo,78,tutor,"Okay, so when it's less than 1, [unclear] 5, you round it down. So what will the answer be? Is that it?",00:09:22
+afbwfzo,79,tutor,"No, this is not right. So I think you are clear with rounding to thousands, but when you come— when you see rounding to hundreds, you have a small [UNCLEAR], isn't it? Shall we clear that off as well?",00:09:41
+afbwfzo,80,student,"Um, I would like to learn this one more.",00:10:04
+afbwfzo,81,tutor,Like nearest 100?,00:10:08
+afbwfzo,82,student,Yeah.,00:10:10
+afbwfzo,83,tutor,"Okay, right. So let me take a blank slide because there's no space here. Okay, right, let me teach you nearest 100. So [unclear] nearest 100. So we're going to take a look at two types of examples here. Let me draw a line, and then let me take the first example. It's 2865. Okay, can you see this?",00:10:12
+afbwfzo,84,student,Yep.,00:10:41
+afbwfzo,85,tutor,"So let's round them to nearest 100. So the first thing is you need to draw a line after the hundreds. Is that clear? [unclear] Okay, great. And then we look at the digit next to the hundreds, which is 6. So 6 is greater than 5. So what do we do?",00:10:42
+afbwfzo,86,student,Round it up.,00:11:06
+afbwfzo,87,tutor,"Round it up, exactly. So what we do is look at the numbers before the line. It's 28. So we need to round them up. So 28, what comes next? 29. Okay? So the answer is going to be 29 and then a 0. The numbers before the line, 28 becomes 29, and the rest becomes zeros. Is this clear to you?",00:11:07
+afbwfzo,88,student,Yeah.,00:11:36
+afbwfzo,89,tutor,"Okay, great. Let me give you an example so that you can try alone. Can Callum give this a try? [unclear] [unclear] in the middle, so draw a line.",00:11:37
+afbwfzo,90,tutor,Okay. And we look at 8.,00:12:00
+afbwfzo,91,student,8 is greater than 4.,00:12:06
+afbwfzo,92,tutor,"5, yes.",00:12:12
+afbwfzo,93,student,So then we round,00:12:15
+afbwfzo,94,tutor,Excellent.,00:12:19
+afbwfzo,95,student,Which will be 6. [unclear] No. 6.,00:12:21
+afbwfzo,96,tutor,You're correct.,00:12:31
+afbwfzo,97,student,5.,00:12:34
+afbwfzo,98,tutor,Okay.,00:12:35
+afbwfzo,99,student,00.,00:12:36
+afbwfzo,100,tutor,Exactly. Fantastic. Do you understand this now?,00:12:38
+afbwfzo,101,student,"Yeah. Greater. So in both the examples, we have numbers greater than 5. Shall we look at an example where you have a number less than 5?",00:12:42
+afbwfzo,102,student,Mm-hmm.,00:12:52
+afbwfzo,103,tutor,"Okay, let's take this example. We have 2,330. How would you solve this? [unclear] [unclear]",00:12:54
+afbwfzo,104,tutor,Where's the number?,00:13:14
+afbwfzo,105,student,Can you see 2330 here?,00:13:17
+afbwfzo,106,tutor,Mm-hmm.,00:13:22
+afbwfzo,107,student,"Okay, great.",00:13:23
+afbwfzo,108,tutor,"So you'd go to here, and then that's smaller, so you'll— that's equal, so you'll want to round down.",00:13:23
+afbwfzo,109,student,So that will be 2. [unclear],00:13:34
+afbwfzo,110,tutor,"When you round it down, nothing changes. You have the number. [unclear]",00:13:54
+afbwfzo,111,tutor,"No, the numbers before the line do not change. Exactly. Is this clear to you?",00:14:00
+afbwfzo,112,student,Perfect.,00:14:16
+afbwfzo,113,tutor,"Great. So out of 5, how much would you rate this?",00:14:17
+afbwfzo,114,student,I would say [unclear],00:14:29
+afbwfzo,115,tutor,So always remember nearest hundred and nearest thousand are not the same. Okay?,00:14:39
+afbwfzo,116,student,Okay.,00:14:45
+afbwfzo,117,tutor,"Right. So look at this one here, and then we go back to the question. So we have nearest 100 on one side and nearest 1,000 on the other side. Can you say this?",00:14:47
+afbwfzo,118,student,Yeah.,00:15:02
+afbwfzo,119,tutor,"So Callum has to explain me this now, okay? So let's take one example. So here it's 2,357. Um, here It's 2,357. So can you find the answers for both? Nearest hundred, nearest thousand. [unclear]",00:15:04
+afbwfzo,120,tutor,You need to show me how you got your answer.,00:15:33
+afbwfzo,121,student,So I went on to this and then I was doing this in my head.,00:15:37
+afbwfzo,122,student,"I did this in my head. And 5 is greater than 3. So then I rounded up one, and then I got— and I took that bit as a zero, and then I took that bit as a zero.",00:15:46
+afbwfzo,123,tutor,"OK, that's excellent. But we need to see if 5 is greater than 5, not if it's greater than 3, OK? The next digit has always to be 5 or greater. So if it's 5, 6, 7, 8, or 9, we round it up. Okay?",00:16:01
+afbwfzo,124,student,Okay.,00:16:18
+afbwfzo,125,tutor,"Right, this is correct. Let's answer this one. Nearest thousand. [unclear]",00:16:19
+afbwfzo,126,tutor,"Oops, you made a small mistake here. Draw the line here. And look at the message here. You need to see if it's greater than 5. 3 greater than 5.",00:16:38
+afbwfzo,127,student,"It isn't greater than 5, so we round down instead.",00:17:00
+afbwfzo,128,tutor,"Yeah, exactly. The answer would be?",00:17:04
+afbwfzo,129,student,[unclear],00:17:07
+afbwfzo,130,tutor,"It's 2,000. So always remember Look at the next digit and check if it's greater than 5. If it's greater than 5, you round it up. Let's move to this one. I think you can solve this now. Can you give this a try?",00:17:22
+afbwfzo,131,student,Yeah. [unclear] [unclear],00:17:51
+afbwfzo,132,tutor,"Do one line at a time. If you draw two whole things, it's going to be confusing. [unclear]",00:18:11
+afbwfzo,133,tutor,"Do the first one first, near 100.",00:18:32
+afbwfzo,134,student,"Would it be because the 7 is bigger than the 2, would it be 1, 7, 2?",00:18:36
+afbwfzo,135,tutor,Okay. So you draw a line. Look at the next digit. Is it greater than 5?,00:18:49
+afbwfzo,136,student,No.,00:18:54
+afbwfzo,137,tutor,So what do we do?,00:18:56
+afbwfzo,138,student,Round it down.,00:18:58
+afbwfzo,139,tutor,"Yeah, so whenever you round it down, you just write the numbers itself. The 2 and 7 doesn't change here. Okay?",00:19:00
+afbwfzo,140,student,Yeah.,00:19:09
+afbwfzo,141,tutor,"Whenever you round down, it means just write the numbers itself. [unclear]",00:19:10
+afbwfzo,142,tutor,"Do not change. Okay, that's correct. Can you try this one again, please? I can erase this line. Can you draw the line and try this again?",00:19:25
+afbwfzo,143,tutor,"First, draw the line.",00:19:49
+afbwfzo,144,student,"I'm trying to delete this and everything's getting in my way, so you can have to wait. Um, so the line... [unclear]",00:19:51
+afbwfzo,145,tutor,"Okay. Next, the line. Is 7 greater?",00:20:13
+afbwfzo,146,student,Yeah.,00:20:17
+afbwfzo,147,tutor,So what do we do? Round up.,00:20:19
+afbwfzo,148,student,"Yeah, so that would be 3,000.",00:20:21
+afbwfzo,149,tutor,"Exactly, it would be 3,000. [unclear]",00:20:24
+afbwfzo,150,tutor,Can you try the second question?,00:20:40
+afbwfzo,151,student,"Round 5,325 to the nearest thousand and hundred.",00:20:44
+afbwfzo,152,tutor,"First you round it to the nearest thousand and write your answer here, and to the hundred and write your answer here.",00:20:53
+afbwfzo,153,student,"3 is lower than 5, so we're rounding down. [unclear]",00:21:01
+afbwfzo,154,tutor,"But when you round it down, do we actually deduct 1 from 5, or do we write the number itself?",00:21:08
+afbwfzo,155,student,"Write. Yes, [unclear]",00:21:24
+afbwfzo,156,tutor,"like 5, only 5. Because it's thousand, you draw the line here. So the numbers, only the 5 will remain the same and the rest become zeros. Try the next one. Nearest 100. This time the line goes here. Yes, excellent, that's correct. Good try. Let's answer the third question.",00:21:30
+afbwfzo,157,student,"Which two numbers round to 500? [unclear] 5,600 when rounded to the nearest hundred. [unclear]",00:22:12
+afbwfzo,158,tutor,"So we have A, B, C, D, E. Which numbers when you round it to the nearest hundred you would get 5,600 as the answer?",00:22:28
+afbwfzo,159,student,C.,00:22:40
+afbwfzo,160,tutor,And?,00:22:42
+afbwfzo,161,tutor,We need two numbers. C and?,00:22:44
+afbwfzo,162,student,D.,00:22:48
+afbwfzo,163,tutor,Why?,00:22:50
+afbwfzo,164,student,Because it's in between the numbers.,00:22:51
+afbwfzo,165,tutor,"Exactly. They're like closer to 5,600. Very good. So let's write C and D here. [unclear]",00:22:57
+afbwfzo,166,tutor,"Okay, good. So Callum, what do you think about rounding numbers lesson?",00:23:14
+afbwfzo,167,student,It's good.,00:23:22
+afbwfzo,168,tutor,Uh-huh. Do you feel like you have made an improvement here?,00:23:26
+afbwfzo,169,student,Yes.,00:23:30
+afbwfzo,170,tutor,"Yes, very good. So which one do you like, nearest 100 or nearest 1,000?",00:23:32
+afbwfzo,171,student,Nearest 100.,00:23:38
+afbwfzo,172,tutor,"Okay, nearest 100, that's good. We have one last question. We'll give this a try. Answer this one. [unclear] The number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? Give 2 possible answers.",00:23:41
+afbwfzo,173,tutor,Did you understand the question? [unclear],00:24:07
+afbwfzo,174,student,Yeah.,00:24:12
+afbwfzo,175,tutor,"Okay, give it a try.",00:24:13
+afbwfzo,176,student,"Could it fit in 5... 5... 4, 3, 6. [unclear]",00:24:20
+afbwfzo,177,tutor,Okay. How can we double-check if this is correct?,00:24:44
+afbwfzo,178,student,Is it because the 4 is lower than the 5?,00:24:51
+afbwfzo,179,tutor,"Okay, let's check. So let's draw a line.",00:24:54
+afbwfzo,180,tutor,"Yeah, what happened? [unclear] Yeah, but this one is correct. Look, we draw a line. We look at the next digit. It's less than 5, so we round down. So when you round this number down, what will you get?",00:24:58
+afbwfzo,181,student,"5,000.",00:25:18
+afbwfzo,182,tutor,"Yeah, it's 5,000. See, that's the question. If you round a number, the answer is 5,000. What could the original number have been? So this could be one of it, okay? That's good. Right. Can you come up with another number that rounds to 5,000?",00:25:23
+afbwfzo,183,student,Uh-huh. [unclear] 5.348. [unclear],00:25:41
+afbwfzo,184,tutor,"Okay, let's check. We draw a line. We look at the next digit. Okay, 3 is less than 5. So what do we— how do we round this to the nearest thousand?",00:25:57
+afbwfzo,185,student,We round it down.,00:26:09
+afbwfzo,186,tutor,"Yeah, so what's the answer?",00:26:11
+afbwfzo,187,student,"5,000.",00:26:12
+afbwfzo,188,tutor,"Yeah, it's correct. Very good. So the second number could have been 5,348. That's good. Good try. Well done, Callum. Are they the only possible answers?",00:26:15
+afbwfzo,189,student,[unclear],00:26:32
+afbwfzo,190,tutor,"No, there could have been plenty of options. This was a good try, and that is the end of our lesson today. So Callum, did you understand today's lesson?",00:26:37
+afbwfzo,191,student,Yes.,00:26:49
+afbwfzo,192,tutor,Because last week I think you had mentioned that some explanation of mine is not clear for you. So did you understand it this time?,00:26:51
+afbwfzo,193,student,Mm-hmm.,00:27:01
+afbwfzo,194,tutor,"Okay, that's good then. Okay, so we had— do you have anything to say before we leave?",00:27:02
+afbwfzo,195,student,Thank you.,00:27:09
+afbwfzo,196,tutor,"Okay, welcome. And I have something to say as well. Today you did a great job. You really concentrated well and tried harder. So thank you so much, okay? [unclear] Bye.",00:27:11
+afbwfzo,197,student,Bye.,00:27:24
+afbwfzo,198,tutor,Okay.,00:27:25

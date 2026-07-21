@@ -1,0 +1,395 @@
+session_id,utterance_id,role,content,timestamp
+mgmoxff,0,tutor,Hello.,00:00:00
+mgmoxff,1,background,[unclear],00:00:00
+mgmoxff,2,student,Hello.,00:00:01
+mgmoxff,3,background,Hello.,00:00:04
+mgmoxff,4,tutor,Hello.,00:00:05
+mgmoxff,5,background,Hello.,00:00:07
+mgmoxff,6,tutor,Hello.,00:00:09
+mgmoxff,7,background,Hello. Can you hear me?,00:00:09
+mgmoxff,8,student,"Hello, can you hear me?",00:00:14
+mgmoxff,9,tutor,Hello.,00:00:15
+mgmoxff,10,student,"Hi, can you hear me?",00:00:19
+mgmoxff,11,tutor,Yes.,00:00:21
+mgmoxff,12,student,"Alright, how are you?",00:00:22
+mgmoxff,13,tutor,Good.,00:00:24
+mgmoxff,14,student,How has your day been so far?,00:00:25
+mgmoxff,15,tutor,Good.,00:00:28
+mgmoxff,16,student,"Good, okay. Are you ready for today's session?",00:00:29
+mgmoxff,17,tutor,Yes.,00:00:33
+mgmoxff,18,student,"Yes, okay. So we started this lesson ordering numbers up to 1 million, and today we are going to continue that lesson. All right? So in this slide, I will be doing the [unclear] part, and you have to do the your turn part. Okay? So when I'm explaining the [unclear] part, if you have any questions or any doubts, please ask me. All right?",00:00:34
+mgmoxff,19,student,Okay.,00:00:53
+mgmoxff,20,tutor,Okay. So these populations need to be put in ascending order. Do you know what ascending order means?,00:00:55
+mgmoxff,21,student,From biggest to smallest?,00:01:04
+mgmoxff,22,tutor,Yes. So ascending order means it is from the smallest number to the largest number. Okay?,00:01:05
+mgmoxff,23,student,Yeah.,00:01:12
+mgmoxff,24,tutor,"Yes, so these are the towns and these are the population. So the first one is, first check what order we need to put the towns in, smallest to largest or largest to smallest. What do you think?",00:01:14
+mgmoxff,25,student,Smallest to largest.,00:01:25
+mgmoxff,26,tutor,"That's correct. Next, identify the smallest and the largest number. So can you please help me? How can I find the smallest number out of all these 5 numbers? Is it 8,700?",00:01:27
+mgmoxff,27,student,"Yeah, that's the smallest.",00:01:47
+mgmoxff,28,tutor,"Okay, so why do you think that is the smallest one?",00:01:51
+mgmoxff,29,student,Because it has less digits.,00:01:54
+mgmoxff,30,tutor,"That's correct. Excellent. So I can write the smallest number as 8,700. And what is the largest number here?",00:01:57
+mgmoxff,31,student,This one.,00:02:09
+mgmoxff,32,tutor,Is it the last one?,00:02:12
+mgmoxff,33,student,Yeah.,00:02:14
+mgmoxff,34,tutor,OK. So let's see if that is the correct answer. So how many digits does the last number have?,00:02:15
+mgmoxff,35,background,5.,00:02:23
+mgmoxff,36,tutor,5. And how many digits does this number have?,00:02:24
+mgmoxff,37,background,[unclear],00:02:27
+mgmoxff,38,tutor,"6. So what do you think? Which one do you think would be bigger, 5-digit number or 6-digit number?",00:02:31
+mgmoxff,39,student,This one.,00:02:37
+mgmoxff,40,tutor,"Yes. So as you can see, there are 6— there are 3 6-digit numbers, right? So out of these 3, how can I pick which one is the largest?",00:02:39
+mgmoxff,41,background,"Um, this one.",00:02:50
+mgmoxff,42,tutor,That's that one. Why do you think it is that one?,00:02:53
+mgmoxff,43,student,Because the 3 is the biggest in all of them.,00:02:56
+mgmoxff,44,tutor,That's correct. Excellent. And do you know how to read this number?,00:03:00
+mgmoxff,45,student,I'm not too sure.,00:03:07
+mgmoxff,46,tutor,"Okay, so we read this as 392,140. Can you please repeat that?",00:03:10
+mgmoxff,47,tutor,"392,000.",00:03:25
+mgmoxff,48,student,"392,140.",00:03:27
+mgmoxff,49,tutor,140.,00:03:30
+mgmoxff,50,student,Yes. So I can write that as my largest number. Okay. So did you understand what I did so far?,00:03:32
+mgmoxff,51,background,Yeah.,00:03:42
+mgmoxff,52,student,"All right. So the final question is, we can annotate the table from 1 to 5 with 1 being the smallest and 5 being the largest. So I can",00:03:44
+mgmoxff,53,tutor,"Hold on. Okay, so as we already found the answer, we know that this is the smallest one, so I'm going to put 1 here. And we know this is the largest one, so I'm going to put a 5 here. Okay, now can you please tell me which one do you think is the second smallest here? [unclear] I want you to count the digits properly and say the answer. [Speaker] This one.",00:03:53
+mgmoxff,54,tutor,"Okay, so how many digits does that number have? [Speaker] Like that. [Speaker] 6.",00:04:25
+mgmoxff,55,tutor,What about the last one? [unclear] [Speaker] 5.,00:04:32
+mgmoxff,56,tutor,5. So which one do you think would be the smallest one? [Speaker] This one.,00:04:38
+mgmoxff,57,tutor,"That's correct. So this is going to be the second smallest. And which one is the third smallest? [unclear] That's correct. And the fourth one is? [unclear] Yes, that's correct. So that's how we annotate this. Did you understand this question?",00:04:42
+mgmoxff,58,student,Yes.,00:05:06
+mgmoxff,59,tutor,"All right, now it's your turn. Please go ahead and try this. Let me know if you have any questions. I can help you.",00:05:07
+mgmoxff,60,tutor,Okay. Do you know what descending order means?,00:05:21
+mgmoxff,61,student,From biggest to smallest?,00:05:28
+mgmoxff,62,tutor,That's correct. [unclear] [unclear],00:05:31
+mgmoxff,63,tutor,Is that correct? What do you think? Do you think this is the largest number out of all these 5?,00:06:00
+mgmoxff,64,student,No.,00:06:11
+mgmoxff,65,tutor,No? So which one do you think would be the largest one here? Are you pointing at the third one?,00:06:11
+mgmoxff,66,student,This one.,00:06:26
+mgmoxff,67,tutor,Or the second one? Second one?,00:06:26
+mgmoxff,68,student,Yeah. [unclear],00:06:29
+mgmoxff,69,tutor,"Yes, that's correct. Well done. You can write that answer here. [unclear]",00:06:30
+mgmoxff,70,tutor,"Okay, and which one is the smallest one here? [unclear] [Speaker] I think this one.",00:06:46
+mgmoxff,71,tutor,"Yes, that's correct. Excellent. Please write it here. [unclear]",00:07:06
+mgmoxff,72,tutor,What do I have to do next?,00:07:34
+mgmoxff,73,student,"Sorry, can you please repeat that?",00:07:42
+mgmoxff,74,tutor,What do I have to do next?,00:07:45
+mgmoxff,75,student,"Yes, now you have to do what I did here. You have to annotate from 1 being the largest 5 being the smallest. So we can just put a 1 next to this.",00:07:47
+mgmoxff,76,student,[unclear],00:08:02
+mgmoxff,77,tutor,"You can go ahead with anything that you are comfortable with. I'm okay with anything. If you find a text tool easier, you can go ahead with that, or else you can do the drawing.",00:08:03
+mgmoxff,78,student,[UNCLEAR],00:08:03
+mgmoxff,79,tutor,"Okay, and can you please put a 5 next to 64,652? [unclear]",00:08:18
+mgmoxff,80,tutor,"Okay, now you have to put the second, third, and the fourth one.",00:08:28
+mgmoxff,81,tutor,"Do you think that's the second largest one? [unclear] No? No, okay. You want to put number 2 for the second largest one.",00:08:55
+mgmoxff,82,tutor,Excellent. [unclear],00:09:17
+mgmoxff,83,tutor,"Okay. So 1, 2, and 5 are correct. Let's look at the third one and the fourth one. 4th one. Which one is the largest?",00:09:32
+mgmoxff,84,student,The 4th one.,00:09:45
+mgmoxff,85,tutor,Yes. So do you think this is correct here?,00:09:48
+mgmoxff,86,student,No.,00:09:51
+mgmoxff,87,tutor,No. So this should be 3 and this should be 4.,00:09:52
+mgmoxff,88,student,Okay. [unclear] [unclear],00:09:56
+mgmoxff,89,tutor,"Okay, are we done?",00:10:08
+mgmoxff,90,student,Yeah.,00:10:25
+mgmoxff,91,tutor,All right. So did you understand this question or was it too difficult? I understand that.,00:10:26
+mgmoxff,92,tutor,"That's great. So before we move on to the next slide, can you please try to read this number? [unclear]",00:10:36
+mgmoxff,93,student,I'm not so sure.,00:10:43
+mgmoxff,94,tutor,You can give it a try. It's okay if you get it wrong. I can help you. Can you just try it?,00:10:46
+mgmoxff,95,student,9906.,00:10:51
+mgmoxff,96,tutor,Yeah.,00:10:56
+mgmoxff,97,student,9908.,00:10:58
+mgmoxff,98,tutor,"Okay. All right. Hold on. Okay. So the digits, the 3 digits before the comma are in the thousands group. Okay. So you have to just read it as a normal number, 345. You just have to add the word thousand. So it's going to be 345,000....675. Do you understand it?",00:11:00
+mgmoxff,99,student,Yeah.,00:11:35
+mgmoxff,100,tutor,"Okay, so can you try to read this, please?",00:11:36
+mgmoxff,101,student,34...,00:11:41
+mgmoxff,102,tutor,300.,00:11:43
+mgmoxff,103,student,"345,000. [unclear]",00:11:45
+mgmoxff,104,tutor,Yeah.,00:11:48
+mgmoxff,105,student,675.,00:11:52
+mgmoxff,106,tutor,"Very good. Let's do one more, okay?",00:11:54
+mgmoxff,107,student,The value of the digit 3 is [UNCLEAR].,00:11:59
+mgmoxff,108,tutor,How would you read this one?,00:11:59
+mgmoxff,109,student,"631,839.",00:12:09
+mgmoxff,110,tutor,"Excellent. Okay, let's move on to the next slide. All right, so here are a few questions. Can you please try this? Let me know if you need any help.",00:12:18
+mgmoxff,111,tutor,Okay. [unclear],00:12:32
+mgmoxff,112,student,Do I use Draw?,00:12:40
+mgmoxff,113,tutor,"Yes, you can. Go ahead. You don't really have to write the number again. So if you think this is A, just write the letter A under that. Okay?",00:12:43
+mgmoxff,114,student,Okay.,00:13:11
+mgmoxff,115,tutor,"Yeah, like that. [unclear] [unclear]",00:13:14
+mgmoxff,116,tutor,"Okay, are you done with the first question?",00:13:49
+mgmoxff,117,student,Yes.,00:13:52
+mgmoxff,118,tutor,"Okay, so in this one you'll see on— do you want to do the next one and then discuss, or do you want to do this and then move to the second one?",00:13:53
+mgmoxff,119,student,Discuss.,00:14:03
+mgmoxff,120,tutor,"Okay, so in this one, your C answer is correct. And why did you put A here? Can you please tell me why did you think A would come here?",00:14:05
+mgmoxff,121,student,Because the 6 has to come before the 0. [unclear],00:14:16
+mgmoxff,122,tutor,"Okay, so let's do a very easy example, okay? Just forget about these big numbers. Let's say this is 0, And here it's going to be 50. And here it's going to be 100. Okay, this is just an example. And where would you put 56 in this number line? Where would you mark it?",00:14:24
+mgmoxff,123,student,[unclear],00:14:47
+mgmoxff,124,tutor,"Here? There you go, excellent. So this is very similar to this one but with big numbers. As you can see, this is 0, this is 500,000, and this is 1 million, right? So this is 500,000 and this is 560,000. So which number do you think is bigger? Is it 500,000 or 560,000? Which one do you think is bigger?",00:14:47
+mgmoxff,125,student,[unclear],00:15:21
+mgmoxff,126,student,This one?,00:15:26
+mgmoxff,127,tutor,"That's correct. So can you put that before $500,000 or do you think you have to put it after $500,000?",00:15:28
+mgmoxff,128,student,After.,00:15:35
+mgmoxff,129,tutor,"After, that's correct. So can you please put A under this? [unclear] Did you understand how we did this part? Yeah.",00:15:37
+mgmoxff,130,tutor,"Yeah, please ask me if you have any questions. Now let's move to B. Now out of all these 4 numbers, which one do you think is the smallest number here?",00:15:50
+mgmoxff,131,student,This one.,00:16:08
+mgmoxff,132,tutor,Do you think that is the smallest one?,00:16:10
+mgmoxff,133,student,"Yeah, because [Speaker] Yeah, because it has like a 5.",00:16:14
+mgmoxff,134,tutor,"It has a 5, okay. So whenever you're ordering numbers, all you have to do is at first you have to count how many digits each of these numbers have. So as you can see, first one has how many? [unclear] [Speaker] 6.",00:16:19
+mgmoxff,135,tutor,Second one? [Speaker] 5.,00:16:35
+mgmoxff,136,tutor,Third one?,00:16:39
+mgmoxff,137,student,[UNCLEAR],00:16:39
+mgmoxff,138,tutor,"6th, 4th one?",00:16:43
+mgmoxff,139,student,So I have put 6.,00:16:46
+mgmoxff,140,tutor,"6. So A, C, and D has 6 and B has 5. So when this number of digits are different, do you think you can just compare them?",00:16:49
+mgmoxff,141,student,"Um, yeah.",00:17:04
+mgmoxff,142,tutor,"So which one do you think is the smallest one here, 5-digit number or 6-digit number?",00:17:06
+mgmoxff,143,student,The 5-digit number.,00:17:11
+mgmoxff,144,tutor,"There you go. So this one is going to be the smallest one here, right? So do you think it would be correct if you mark it towards 1 million? Because this is just 90,100 and this is 1 million. Is it closer to 1 million?",00:17:13
+mgmoxff,145,student,No.,00:17:29
+mgmoxff,146,tutor,"No. So where would you mark it? Do you think it is even closer to 500,000?",00:17:29
+mgmoxff,147,tutor,"No. So where are you going to mount that? [unclear] Okay, so let's do it like this. Let's say this is 0, this is 50 again, and this is 100, okay? Where would you mark 9, number 9, on this number line? [unclear]",00:17:41
+mgmoxff,148,tutor,"Is it that far, or do you think it is even more closer to 0?",00:18:16
+mgmoxff,149,student,Even more closer.,00:18:25
+mgmoxff,150,tutor,"Even more closer, that's correct. So can you mark it somewhere around? Here. Yes, so this is 500,000 and this is just 90,000. So if we take in small numbers, you can see this is 50 and this is 9. So do you think 50 and 9 are Um, [UNCLEAR]?",00:18:27
+mgmoxff,151,student,no.,00:18:27
+mgmoxff,152,tutor,"No. So if you mark it here, do you think it is correct?",00:18:52
+mgmoxff,153,student,No. No. So can you please put letter B under this? [unclear],00:18:55
+mgmoxff,154,student,Yeah.,00:19:06
+mgmoxff,155,tutor,"Did you write? Okay. All right. And the last one, 102,399. So is this closer to 1 million? Because 1 million has 7 digits, but this has only 6. So what do you think?",00:19:15
+mgmoxff,156,student,It's like [UNCLEAR].,00:19:34
+mgmoxff,157,tutor,"It's more than 8. It is 100. Yeah, between B and D. Yeah, so do you think it is somewhere here or—",00:19:34
+mgmoxff,158,student,Yeah.,00:19:51
+mgmoxff,159,tutor,Can you pick a number?,00:19:52
+mgmoxff,160,student,Here?,00:19:56
+mgmoxff,161,tutor,"Here, okay. So let's say this is 0, 50, 100. Where would you mark 10 on this number line? [unclear]",00:19:57
+mgmoxff,162,student,Here?,00:20:07
+mgmoxff,163,tutor,"There you go. That's correct. So it is— this is 90,000 and this is 100,000, so it is a lot closer to that, okay? So this is where D is going to be. So can you please put letter D there? [unclear]",00:20:07
+mgmoxff,164,tutor,Okay. Did you understand this question?,00:20:36
+mgmoxff,165,student,"Yeah, kind of.",00:20:41
+mgmoxff,166,tutor,Was it difficult?,00:20:42
+mgmoxff,167,student,Not really.,00:20:45
+mgmoxff,168,tutor,"Okay. So whenever you're ordering numbers, please count how many digits the numbers have, okay? So you will get an idea. All right, so shall we try to read all these 4 numbers now? How would you read the first one? [Speaker] [unclear] 560,456.",00:20:47
+mgmoxff,169,tutor,Excellent. How would you read the second one?,00:21:06
+mgmoxff,170,student,"9,900— 90,000 something. [Speaker] Yeah....and 100.",00:21:10
+mgmoxff,171,tutor,Excellent. How would you rate the third one?,00:21:21
+mgmoxff,172,student,"872,655 and 6... [unclear]",00:21:25
+mgmoxff,173,tutor,600?,00:21:33
+mgmoxff,174,student,650.,00:21:35
+mgmoxff,175,tutor,"50, yeah. How would you rate the last one?",00:21:37
+mgmoxff,176,student,Uh... [unclear],00:21:41
+mgmoxff,177,tutor,You can give it a try. It's okay if you get it wrong. I'm totally fine with it. I will be happy to help you. Can you please try to read it? It is similar to these ones. You just have to— 100 and?,00:21:50
+mgmoxff,178,student,"102,000.",00:22:04
+mgmoxff,179,student,"There you go, excellent. So can you please move to the next one now?",00:22:11
+mgmoxff,180,background,Okay. [unclear],00:22:17
+mgmoxff,181,student,What do I have to do?,00:22:29
+mgmoxff,182,background,"Yeah, okay. So what you have to do is you have to organize them in ascending order. So you know what ascending order means, right? It is from the",00:22:33
+mgmoxff,183,student,Smallest to largest.,00:22:40
+mgmoxff,184,tutor,"That's correct. Smallest to the largest. So what you have to do is you have to use all these 6-digit cards to make numbers. You can make any number you want, but the first number that you're going to write is going to be the smallest number, and the last number you're going to write is going to be the largest number. Here you can create the number, any number that you want, but this one should be the smallest and This one should be the largest. Do you understand it? [unclear]",00:22:42
+mgmoxff,185,tutor,Yeah.,00:23:11
+mgmoxff,186,student,And then you're gonna look at the number of it and then you're gonna write it like this. [unclear],00:23:11
+mgmoxff,187,tutor,"Yes, you need to just have to color that.",00:23:25
+mgmoxff,188,student,Like that.,00:23:28
+mgmoxff,189,tutor,Good job. [unclear],00:23:30
+mgmoxff,190,student,"Yes, what is the value of—",00:23:38
+mgmoxff,191,tutor,Do I have to make the number with the cards?,00:23:52
+mgmoxff,192,student,"Sorry, did you say something?",00:23:56
+mgmoxff,193,tutor,Do I have to make the number with the cards?,00:23:58
+mgmoxff,194,tutor,"Yes, you can use only these 3s, I mean these 6 digits. You can't use anything else. [unclear]",00:24:01
+mgmoxff,195,student,"5 is done, 6 is done, 1 is done, 0 is done. 7.",00:24:07
+mgmoxff,196,tutor,"Excellent. Now the next number that you're going to make should be bigger than this one, okay?",00:24:27
+mgmoxff,197,student,Okay. [unclear] [unclear],00:24:33
+mgmoxff,198,tutor,I think you have used 9 twice.,00:24:52
+mgmoxff,199,student,"Yeah. Yeah, you can put a zero there.",00:25:17
+mgmoxff,200,student,How do I delete it?,00:25:22
+mgmoxff,201,tutor,"You can't delete it. Hold on, I'll try to delete it. I can't erase it either. Can you click backspace? Okay, let's just cut this.",00:25:24
+mgmoxff,202,student,Oh.,00:25:39
+mgmoxff,203,tutor,"No, you can put a zero. I'll just cut this line.",00:25:39
+mgmoxff,204,tutor,"Okay, there you go. And the last number that you're going to create should be the largest one here, okay?",00:25:44
+mgmoxff,205,student,Okay. [unclear] [unclear],00:25:50
+mgmoxff,206,tutor,Yeah.,00:26:25
+mgmoxff,207,student,Yeah.,00:26:26
+mgmoxff,208,tutor,Yeah.,00:26:28
+mgmoxff,209,student,Thank you very much.,00:26:30
+mgmoxff,210,tutor,"Thank you. All right, you did a brilliant job with this one. Well done. So let's move on to the final question of this lesson. Please read it very carefully and try it, okay? Let me know if you need any help.",00:26:31
+mgmoxff,211,student,Okay.,00:26:51
+mgmoxff,212,tutor,"Read it out loud if you— yeah, please read it out loud.",00:26:52
+mgmoxff,213,student,A planet has 4 moons that orbit— orbit— orbit a— [unclear] And their distances are shown below. Match each moon to its distance from the planet by writing the correct letter under each moon.,00:26:55
+mgmoxff,214,tutor,"So, did you understand the question? [unclear]",00:27:15
+mgmoxff,215,student,"Yeah, kind of.",00:27:20
+mgmoxff,216,tutor,Yeah. Do you want me to explain it?,00:27:21
+mgmoxff,217,student,Can you repeat that?,00:27:26
+mgmoxff,218,tutor,Yeah. Do you want me to explain it?,00:27:28
+mgmoxff,219,student,Yes.,00:27:30
+mgmoxff,220,tutor,"Yes, okay. So this is the planet and there are 4 moons that are orbiting around this, okay? So they are asking us to put these distances under each one of these moons. So can you tell me, if it is the closest one to the planet, do you think the distance is going to be small or do you think it is going to be big? Going to be large?",00:27:32
+mgmoxff,221,student,Small.,00:27:54
+mgmoxff,222,tutor,"Small, there you go. So can you find the smallest number out of all these 4, please?",00:27:56
+mgmoxff,223,student,Can I count the digits?,00:28:02
+mgmoxff,224,tutor,"Yes. So as you can see, all these numbers have 6 digits, so you can't do that. So what are we going to do? How can we find the smallest one here?",00:28:05
+mgmoxff,225,student,See if there's a small digit.,00:28:15
+mgmoxff,226,tutor,[UNCLEAR],00:28:15
+mgmoxff,227,student,Yeah. So which one do you think is the smallest one here? Look at the numbers very carefully.,00:28:20
+mgmoxff,228,tutor,Oh. This one?,00:28:33
+mgmoxff,229,student,Is it C?,00:28:39
+mgmoxff,230,tutor,Can you repeat that? Is it C?,00:28:42
+mgmoxff,231,student,"I think so, because it has a zero.",00:28:47
+mgmoxff,232,tutor,"That's correct. Excellent. So you can put letter C under the first moon. [unclear] OK, which one is the second smallest? [unclear]",00:28:51
+mgmoxff,233,student,This one.,00:29:21
+mgmoxff,234,tutor,"OK, why do you think that?",00:29:23
+mgmoxff,235,student,Because it has a 1.,00:29:26
+mgmoxff,236,tutor,"OK, so we don't look at the numbers to see if that has a 1 or 0. That's not how we compare numbers. I'll teach you how we can compare numbers, OK? [Speaker] Oh, I think it's the first one because that has a 7 and that has a 9.",00:29:29
+mgmoxff,237,tutor,"Excellent. That's exactly how you do it. So when it has now, for example, let's say there are 2 numbers. One has 6 digits and one has 5 digits. So which one do you think is the smallest one? 5-digit one or 6-digit one? [Speaker] The 5-digit one.",00:29:48
+mgmoxff,238,tutor,"Yes, that's correct. We can do that when it has different digits. But when it has the same number of digits, we can't do that, right? So what you have to do is you have to start from the beginning and you have to compare all the first numbers. So what do you think? All the numbers has the same first digit or different?",00:30:04
+mgmoxff,239,student,The same [UNCLEAR].,00:30:25
+mgmoxff,240,tutor,"Same. So we can't compare it. So what we do is we move to the second one. So if you go to the second one, A has what as the second one?",00:30:25
+mgmoxff,241,student,7.,00:30:38
+mgmoxff,242,tutor,B has?,00:30:39
+mgmoxff,243,student,9.,00:30:42
+mgmoxff,244,tutor,And D has?,00:30:44
+mgmoxff,245,student,8. [unclear],00:30:46
+mgmoxff,246,tutor,"8. Now out of these 3, which one do you think is the smallest one?",00:30:47
+mgmoxff,247,student,7.,00:30:52
+mgmoxff,248,tutor,7. So the second smallest number is going to be?,00:30:53
+mgmoxff,249,student,8.,00:30:58
+mgmoxff,250,tutor,"A. Good job. Please write A under that. [unclear] Yes. Now if you look at A and C, you can see it has the same second digit, right? It both has 7. Do you see that?",00:30:59
+mgmoxff,251,student,Yeah.,00:31:17
+mgmoxff,252,tutor,Then what do we do?,00:31:18
+mgmoxff,253,student,We'll look at the next number.,00:31:19
+mgmoxff,254,tutor,That's correct. A has 8 and C has?,00:31:23
+mgmoxff,255,student,It will be like this.,00:31:26
+mgmoxff,256,tutor,"8. Okay, so what do we do?",00:31:27
+mgmoxff,257,student,We'll cut this.,00:31:30
+mgmoxff,258,tutor,That's correct. So A has 3 and C has 0. So that's how we know that's going to be the smallest one. Do you understand that?,00:31:34
+mgmoxff,259,background,Yeah.,00:31:44
+mgmoxff,260,tutor,"Perfect. Now please do the other two. We are done with A and C, so you can look at B and D. [Speaker] Okay. [Speaker] Yes. [Speaker] This, because it has a one and that has a line.",00:31:44
+mgmoxff,261,tutor,"So which one do you think is the smallest here? [Speaker] That. Oh no, that one. [unclear]",00:32:06
+mgmoxff,262,tutor,"Yes, that's correct. So that is going to be this one, so you can put letter D under this third one.",00:32:16
+mgmoxff,263,tutor,Okay. And the largest number here is?,00:32:23
+mgmoxff,264,student,B.,00:32:31
+mgmoxff,265,tutor,B. Excellent. Please write B. [unclear] All right. So did you understand this question?,00:32:33
+mgmoxff,266,background,Yes.,00:32:43
+mgmoxff,267,tutor,All right. So we are done with the first lesson. Do you have any questions or Anything that you want to ask before we move on to the next one?,00:32:44
+mgmoxff,268,student,No.,00:32:52
+mgmoxff,269,tutor,"No, all right. So how was this lesson? Was it difficult or was it easy?",00:32:54
+mgmoxff,270,student,Easy. [unclear],00:32:59
+mgmoxff,271,tutor,"Easy, okay. All right, that's good. Let's move on to the next one. All right, so now we are going to do knowing the value of each digit in numbers with up to 2 decimal places, okay? Can you please try this first learning world question? [unclear] [Speaker] Okay. [unclear] [Speaker] Yeah. [Speaker] Do I write 100? [Speaker] Yeah, yeah, you can write the answer on this line.",00:33:00
+mgmoxff,272,tutor,"Okay, can you please try this violin question as well? [unclear]",00:33:43
+mgmoxff,273,background,Is that how you do it?,00:33:52
+mgmoxff,274,tutor,"Okay, so well done on trying these two questions. We are going to learn the lesson and then come back to these two questions and see if your answers are correct, okay?",00:33:59
+mgmoxff,275,tutor,"Okay, all right. Can you please read the sentence now?",00:34:07
+mgmoxff,276,student,We can show the size of tens and hundreds using diagrams.,00:34:13
+mgmoxff,277,tutor,"Yes, so as you can see, there are 3 diagrams here. So this is how we represent 1 whole, okay? So there's this big one, that is what we call 1 whole. So that's the number 1. And when we divide this one into 10 into 10 equal pieces, and the one piece that we are going to get is what we call 1/10. Do you see that?",00:34:19
+mgmoxff,278,student,Yeah.,00:34:44
+mgmoxff,279,tutor,Yeah. So how do we write 1/10?,00:34:45
+mgmoxff,280,student,0 point— [unclear],00:34:48
+mgmoxff,281,tutor,"0.1. That's correct. And when you divide this 1/10 into 10 parts, the one part that you're going to get is what we call 1/100. So how do we write 100?",00:34:50
+mgmoxff,282,student,0.01.,00:35:06
+mgmoxff,283,tutor,"0.01. Now for example, let's say there are 2 [UNCLEAR]. Now I can't draw it nicely, but let's just say there are 2 of these. How would you write the number here?",00:35:08
+mgmoxff,284,student,0.2.,00:35:08
+mgmoxff,285,tutor,Excellent. And we'll say there are 4 of these. How would you write this number?,00:35:24
+mgmoxff,286,student,0.04.,00:35:35
+mgmoxff,287,tutor,Excellent. So do you understand the difference?,00:35:40
+mgmoxff,288,student,Yeah.,00:35:43
+mgmoxff,289,tutor,"Yes, okay. Now let's look at the second question. So there's 3 over 10 and there is 7 over 100. Just by looking at these two fractions, which one do you think is the bigger is the bigger one here?",00:35:44
+mgmoxff,290,student,This one.,00:35:59
+mgmoxff,291,tutor,"Okay, why do you think it is that one?",00:36:01
+mgmoxff,292,student,Because 7 is bigger than 3 and 100 is bigger than 10.,00:36:04
+mgmoxff,293,tutor,"Okay, I'll tell you an example like this. We'll say there are, there are 2 pizzas, okay, and the first one is cut into 2 parts and you're eating 1 part. All right, and in the second pizza, we are cutting this into, we'll say, 8 parts and you're eating 2 of these. Now, which one will give you a bigger piece? First one or second one?",00:36:10
+mgmoxff,294,student,The first one.,00:36:44
+mgmoxff,295,tutor,"That's correct. So in the first one, you're eating only 1 In the second one, you're only eating— you're eating 2, right? But what if I say this has many pieces compared to the first one, so this one is the bigger one? Do you think that is correct?",00:36:46
+mgmoxff,296,student,"No, because it's like 2 pieces, but that's one whole [UNCLEAR].",00:37:00
+mgmoxff,297,tutor,"Correct. So this is a lot bigger. Even though it is one piece, it is a lot bigger, right?",00:37:00
+mgmoxff,298,student,Yeah.,00:37:12
+mgmoxff,299,tutor,"Yes, so that's exactly how this is working. Now here, they are saying you have 3 of these. Now I'll draw it. So they're saying you have 3 of these, and they're saying— because this is 10, right? So that's the 10 that we are writing here. And they are saying out of the 100, you're having 7. So you have 7 tiny pieces. [unclear]",00:37:13
+mgmoxff,300,student,"3, 4, 5, and 6. Now can you tell me which one do you think is bigger?",00:37:36
+mgmoxff,301,student,The 3/10.,00:37:45
+mgmoxff,302,tutor,"There you go. So it doesn't matter what the number is, it's the amount that matters, right? So just by looking at these two diagrams, you can see that this one is the bigger one. So do you know how to put the crocodile mark, the sign?",00:37:47
+mgmoxff,303,student,Yeah.,00:38:00
+mgmoxff,304,tutor,"Yeah, so how would you put that? [unclear] So did you understand this?",00:38:01
+mgmoxff,305,tutor,Yes.,00:38:12
+mgmoxff,306,student,Is it confusing or are you clear with it?,00:38:12
+mgmoxff,307,tutor,"Now I'm clear with it, but I didn't really understand it before.",00:38:15
+mgmoxff,308,student,"All right, I'm good. I'm happy to hear that. So now let's do the last one. How would you write this as a decimal number? Do you know how to write it?",00:38:21
+mgmoxff,309,tutor,Yeah.,00:38:30
+mgmoxff,310,student,"Yeah, you can give it a try.",00:38:32
+mgmoxff,311,tutor,It's [unclear],00:38:34
+mgmoxff,312,tutor,"Yes, you can write it here or here.",00:38:40
+mgmoxff,313,student,That one?,00:38:43
+mgmoxff,314,tutor,Okay.,00:38:48
+mgmoxff,315,student,[unclear],00:38:48
+mgmoxff,316,tutor,"Hmm, let me just close this. Are you done?",00:38:50
+mgmoxff,317,student,Yes.,00:38:59
+mgmoxff,318,tutor,"Okay, so there is a small There is a small mistake in this one. I'll tell you what the mistake is. We write the digit before— can you see this decimal point?",00:39:00
+mgmoxff,319,student,Yeah.,00:39:10
+mgmoxff,320,tutor,"We write the digit before the decimal point if there is one hole only. If there is no one hole, we can't write anything before the decimal point. So can you see by looking at this one, can— do you see any holes like this?",00:39:12
+mgmoxff,321,background,No.,00:39:26
+mgmoxff,322,student,"No. So since there are no one holes, what we are going to do is we are going to put a zero because there's no any one holes, right?",00:39:27
+mgmoxff,323,student,"Oh yeah, yeah, I forgot to put the zero.",00:39:37
+mgmoxff,324,tutor,"Oh, that's okay. And how many tens are there? [unclear]",00:39:40
+mgmoxff,325,student,Yeah?,00:39:49
+mgmoxff,326,background,Seven.,00:39:50
+mgmoxff,327,tutor,Tens. This is what we call tens.,00:39:52
+mgmoxff,328,tutor,"Yeah, 4. Well done. And how many hundreds are there?",00:39:55
+mgmoxff,329,student,[unclear],00:40:00
+mgmoxff,330,tutor,7. That's correct. So do you understand how we write this?,00:40:01
+mgmoxff,331,background,Yeah.,00:40:07
+mgmoxff,332,tutor,"So this one we call as tens, and this one we call it as hundreds, right? So in this place value chart, this is the ones, tens, and hundreds. Are you clear with that?",00:40:08
+mgmoxff,333,tutor,Yes. Yes. So can you please write this here on this line? I'll erase this. [unclear],00:40:21
+mgmoxff,334,tutor,Zero point— how do we read this number?,00:40:35
+mgmoxff,335,student,0.47.,00:40:38
+mgmoxff,336,tutor,"47. If there are digits after the decimal point, we can't read all at once, like 47. You have to write— I mean, you have to read each digit separately. Do you know that?",00:40:42
+mgmoxff,337,student,Yeah.,00:40:53
+mgmoxff,338,tutor,Yeah. So how would you read this number? Let's say there is— oops. How would you read this? [unclear],00:40:54
+mgmoxff,339,student,"98.472. Excellent. Okay, so do you have any questions in this slide? [unclear]",00:41:02
+mgmoxff,340,tutor,No.,00:41:18
+mgmoxff,341,student,"No. Okay, let's move on to the next one. Can you please read the sentence now?",00:41:20
+mgmoxff,342,tutor,It is important to understand the value of digits in the number. The position of the digit within a place value chart helps us understand how much it [Speaker] It is worth.,00:41:25
+mgmoxff,343,tutor,"Okay. So before we do this slide, I'm going to take you to this one. And can you try the second one? Do you think your answer here is correct? [Speaker] No.",00:41:41
+mgmoxff,344,tutor,No. So which one would you circle? [unclear] Excellent. And can I know why you circled this one now?,00:41:54
+mgmoxff,345,student,"Because the— if you split it into pieces, you get more.",00:42:10
+mgmoxff,346,tutor,That's correct.,00:42:16
+mgmoxff,347,student,"7 tenths, 9 tenths.",00:42:17
+mgmoxff,348,tutor,900s.,00:42:20
+mgmoxff,349,student,Yeah.,00:42:21
+mgmoxff,350,tutor,Yes. Alright. So can you please try to write this number here on this place value chart? Is there any ones? Can you see any whole whole ones? Do you see any ones? [unclear],00:42:22
+mgmoxff,351,student,Only a 1.,00:42:43
+mgmoxff,352,tutor,"So when they say ones, it should— there shouldn't be any fractions. It should be one whole. Do you see anything like this?",00:42:46
+mgmoxff,353,student,"Oh yes, no.",00:42:53
+mgmoxff,354,tutor,No. So what do we put in the ones place? [Speaker] 0.,00:42:55
+mgmoxff,355,tutor,"0. Excellent. So can you please put a 0 here? [unclear] And is there any tense? [unclear] This? Yes, tell me about it.",00:42:59
+mgmoxff,356,student,2.,00:43:25
+mgmoxff,357,tutor,2. So please write 2 in the tenths column. [unclear] And how many hundredths are there?,00:43:26
+mgmoxff,358,student,4.,00:43:38
+mgmoxff,359,tutor,"4. Excellent. Please write 4 here. And altogether, how would you read this number?",00:43:40
+mgmoxff,360,student,0.24.,00:43:46
+mgmoxff,361,tutor,"That's correct. Please write 0.24 here as well. All right. So, have you seen something like this before?",00:43:49
+mgmoxff,362,student,[unclear] I don't think so.,00:44:09
+mgmoxff,363,tutor,Do you know what we call this?,00:44:14
+mgmoxff,364,tutor,No?,00:44:17
+mgmoxff,365,student,No.,00:44:21
+mgmoxff,366,tutor,Okay. So this is what we call a [unclear] chart. Okay? So this is a [unclear] chart. And do you know why we use a [unclear] chart?,00:44:22
+mgmoxff,367,student,I'm not pretty sure.,00:44:33
+mgmoxff,368,tutor,"Okay, that's fine. So we use this [unclear] chart to show numbers, right? So can you tell me, do you see 0.24 anywhere on this cutting new chart? [unclear]",00:44:38
+mgmoxff,369,tutor,Do you see it?,00:44:55
+mgmoxff,370,student,No. So what is the value of this 4?,00:44:58
+mgmoxff,371,tutor,"No, yeah. So what we are going to do is we are going to mark 0.24 in this cutting new chart, but since we can't find any 0.24s, we are going to break down this number in 2, and then we are going to mark it separately. Okay?",00:45:01
+mgmoxff,372,student,Okay.,00:45:17
+mgmoxff,373,tutor,"So what we are going to do is, can you find 0.2 anywhere here? 0.2?",00:45:18
+mgmoxff,374,student,"Yeah, here. [unclear]",00:45:25
+mgmoxff,375,tutor,Excellent. So can you please try to underline 0.2 there?,00:45:26
+mgmoxff,376,student,Okay.,00:45:31
+mgmoxff,377,tutor,"Okay, now what's remaining? We already marked 0.4— sorry, 0.2, and What's the remaining? [unclear] 4. But if I mark this 4, do you think my answer is correct?",00:45:36
+mgmoxff,378,student,No.,00:45:54
+mgmoxff,379,tutor,No. So which 4 would you pick?,00:45:55
+mgmoxff,380,student,0.4.,00:45:58
+mgmoxff,381,tutor,"0.4. Okay. So if 0.4 is what you're going to mark, the 4 4 should be here in the tenths place. But is this 4 in the tenths place? Or is it in the hundredths place?",00:46:01
+mgmoxff,382,student,Hundredths.,00:46:15
+mgmoxff,383,tutor,Hundredths. Then which one would you pick if it is in hundredths place? Can you pick a 4 that is in hundredths place? [unclear],00:46:16
+mgmoxff,384,student,0.04.,00:46:29
+mgmoxff,385,tutor,"Excellent, that's correct. So can you please underline that? [unclear]",00:46:32
+mgmoxff,386,tutor,"All right, awesome. So we can't find direct answers from this Gartner new chart, so what we do is we separate them into two parts and we mark those. Do you understand it?",00:46:39
+mgmoxff,387,student,Yeah.,00:46:50
+mgmoxff,388,tutor,"Okay, do you have any other questions?",00:46:51
+mgmoxff,389,student,No.,00:46:54
+mgmoxff,390,tutor,"No, all right. So I think we have to end our session now because our time is up, okay?",00:46:56
+mgmoxff,391,student,"Okay. You did a really good job today. And please wait until I end the session, and there will be a few questions. Please make sure you try those, okay?",00:47:00
+mgmoxff,392,student,Okay. Thank you.,00:47:08
+mgmoxff,393,tutor,All right. You're welcome. I hope you have a wonderful day. [unclear],00:47:10

@@ -1,0 +1,215 @@
+session_id,utterance_id,role,content,timestamp
+espfvnp,0,tutor,Hello? [unclear] Hello?,00:00:00
+espfvnp,1,tutor,"Hello, can you hear me?",00:00:07
+espfvnp,2,background,"Yeah, [UNCLEAR].",00:00:08
+espfvnp,3,tutor,"Yeah, okay. So how are you doing today?",00:00:08
+espfvnp,4,background,I'm good.,00:00:14
+espfvnp,5,tutor,"Okay, all right. So I like to hear that. And do you remember this is what we did last time, right? This was the— we were learning. Okay, so today this is where we have to start. Okay, are you ready to move on with the session?",00:00:17
+espfvnp,6,tutor,Yes.,00:00:41
+espfvnp,7,student,"Okay, so can you read Part 1 and Part A?",00:00:42
+espfvnp,8,background,[unclear] the first 5 terms of the sequence. Find an expression in the term of n for the nth term of the sequence.,00:00:50
+espfvnp,9,tutor,Mm-hmm. So would you like to give it a try?,00:00:59
+espfvnp,10,background,It'd be 6n 4. Wait.,00:01:03
+espfvnp,11,tutor,"First difference is 6, 6, 6, 6. Turn. [unclear]",00:01:25
+espfvnp,12,tutor,You can also show your calculations here in this blank. Okay? [unclear] [unclear],00:01:53
+espfvnp,13,tutor,"I think it's 6n 2. Okay,",00:02:14
+espfvnp,14,student,uh— Oh,00:02:33
+espfvnp,15,tutor,"wait, no, no, it's 1. Wait, is it? Yeah,",00:02:33
+espfvnp,16,student,it is correct. 6n,00:02:38
+espfvnp,17,tutor,2.,00:02:39
+espfvnp,18,tutor,"Mm-hmm. Okay, so can you explain how you got the answer?",00:02:41
+espfvnp,19,background,"Because it goes up in [unclear] every single time and it starts from 4, so to get to 4 from the start you have to do -2.",00:02:48
+espfvnp,20,tutor,"Mm-hmm, yes, very good. Okay, so you can do the Part B now.",00:02:56
+espfvnp,21,tutor,[UNCLEAR].. [unclear],00:02:56
+espfvnp,22,tutor,"No, it's not. It comes out to decimal.",00:03:50
+espfvnp,23,student,"So, okay.",00:03:55
+espfvnp,24,tutor,"All right, so you're saying it's no because it has a decimal when we get the answer. That's what you're saying, right?",00:03:59
+espfvnp,25,student,Yeah.,00:04:07
+espfvnp,26,tutor,"So let's find out. Okay. All right, so in order to find whether the 148 in the sequence or not, what we have to do is we have to write an equation. 6n (n 2), which is the expression we just figured out. This has to be equal to 148. So our predictions are what? n has to be an integer, a whole number. If it is a whole number or an integer, then we can say yes, 148 is in the sequence. But if it is not, then 148, it is not in the sequence, right?",00:04:07
+espfvnp,27,tutor,Yeah.,00:04:49
+espfvnp,28,student,"Yeah, okay, so let's see. So first we have to get rid of -2. So if I do that, I can write 148 2, that gives us 150. Now [unclear] getting rid of 6, we have to divide 150 by 6. Okay. Okay, so now can you figure this out? 150 divided by 6?",00:04:49
+espfvnp,29,tutor,"Um, 150 divided by 6. Oh, it goes to 25. [unclear]",00:05:27
+espfvnp,30,tutor,"Yes, it is first 25. So does this have any decimal numbers? Decimals? Any decimals? No, right?",00:05:40
+espfvnp,31,background,No. [unclear],00:05:49
+espfvnp,32,tutor,"Okay, okay. So it is yes, 148 is in the sequence. So what does this 25 mean here?",00:05:51
+espfvnp,33,background,"Um, 6 times, um, if you replace n with 25, you'll get 148.",00:06:00
+espfvnp,34,tutor,"No, I'm asking, so according to this sequence, so now when we—",00:06:09
+espfvnp,35,background,"Take the sum, this 148.",00:06:15
+espfvnp,36,tutor,"Yes, very good. The 25th term of the sequence is 148. Okay, so— [unclear] working out there. Any questions before we move on? [unclear]",00:06:17
+espfvnp,37,tutor,Do you have any questions? [Speaker] No.,00:06:37
+espfvnp,38,tutor,"Okay, so let's move on to the next. Hello? [unclear]",00:06:43
+espfvnp,39,tutor,"Okay, so this is our next lesson, Solving Problems. In pattern sequences. Okay, so I want you to try the learning golf question first. [unclear]",00:06:53
+espfvnp,40,tutor,It's plus 4 every single time. [unclear],00:07:24
+espfvnp,41,tutor,"Yes. Okay, very good. Right, since you got that one right, we can move on to this one right here. Okay.",00:07:39
+espfvnp,42,tutor,"Uh, okay, so you can do the Part A first. [unclear]",00:07:54
+espfvnp,43,tutor,"1, 2, 3.",00:08:02
+espfvnp,44,tutor,"1, 2, 3, 4, 5.",00:08:08
+espfvnp,45,tutor,"1, 2, 3, 4, 5, 6, 7.",00:08:11
+espfvnp,46,tutor,"1, 2, 3, 4, 5. 6, 7, 8, 9. 2, 2, 2. And then plus 1. [unclear]",00:08:16
+espfvnp,47,tutor,"Yes, that is correct. Very good. You can do the Part B. Okay, sum of orange. 1, 2, 3, 4, 5. 2. So n, uh, 2, so plus 1. n 1. Yes,",00:08:40
+espfvnp,48,tutor,very good. Next one.,00:09:08
+espfvnp,49,tutor,In the 20th fashion. [unclear] Also all the squares.,00:09:13
+espfvnp,50,tutor,"Okay. 1, 2, 3, 4, 5. 1, 2, 3, 4, 5, 6, 7, 8.",00:09:30
+espfvnp,51,tutor,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14. [unclear] 3 every single time.",00:09:38
+espfvnp,52,tutor,10. [unclear],00:09:56
+espfvnp,53,tutor,[UNCLEAR] [unclear],00:09:56
+espfvnp,54,tutor,[unclear] [unclear],00:09:56
+espfvnp,55,background,"3 times 20 plus 2, 62. [unclear] pattern of 62 squares.",00:11:00
+espfvnp,56,tutor,"Yes, very good, Zach. That is really impressive that you were able to work out everything independently.",00:11:15
+espfvnp,57,tutor,"Good. Okay, so before we move on, quickly explain how you did that.",00:11:23
+espfvnp,58,student,The last one?,00:11:32
+espfvnp,59,tutor,"No, from the beginning. [unclear]",00:11:34
+espfvnp,60,student,"Okay. The first one I counted all the blue squares. There was a 2 difference between all the numbers. So then it's 2n, and then it starts with 3, so it's plus 1 to make 3 at the beginning. Same with the orange squares, exact same thing. The difference was 1, it started with just another, like, 1. So it was just 1n 1 or n 1. And the last one, I added all the squares together. I found the pattern. It was all the squares added together were— there was 3 different— 3 difference of a gap between them, so it's 3n, and it started with 5, so 3n 2. 3 times 60— I mean, 3 times 20 is 60, and then plus 2 is 62. Okay,",00:11:36
+espfvnp,61,tutor,"very good. Thank you. That was a great explanation, so keep it up, okay? All right, so this is the next slide. Can you read the question?",00:12:30
+espfvnp,62,tutor,Here's a sequence of bar model shaded. Each bar model has a fraction shaded. Can you find the [unclear] shaded in— can you find the fraction shaded in the 9th bar model? Nth bar model.,00:12:42
+espfvnp,63,student,"Yes, okay, uh, yeah, go ahead and give it a try.",00:12:52
+espfvnp,64,tutor,"Shaded. 1, 2, 3, 4, 5, 6—",00:13:01
+espfvnp,65,tutor,"7, 8, 9. [unclear] 4 over 7. [unclear] 3 over 5.",00:13:06
+espfvnp,66,tutor,2 over 3. The fraction changes in the nth power. [unclear],00:13:33
+espfvnp,67,tutor,"That's 1, 1, 2, 1, 2. So wait, it goes like [unclear] 1, 2. So the difference in shaded Shaded is 1 and non-shaded is 2.",00:14:05
+espfvnp,68,tutor,So 1 over 2n plus 5. [unclear] I think so.,00:14:37
+espfvnp,69,tutor,Mm-hmm. So is this the final answer?,00:14:55
+espfvnp,70,background,Yeah.,00:15:01
+espfvnp,71,tutor,"Okay, can you read it out?",00:15:02
+espfvnp,72,background,1 over 2n plus 5.,00:15:04
+espfvnp,73,tutor,"Okay, [UNCLEAR], that is incorrect, and let's go through this together, okay?",00:15:11
+espfvnp,74,tutor,"So let me erase this first. You have correctly identified the fractions. This is 2 out of 3, and we have 3 out of 5, and here we have 4 out of 7 and 5 out of 9. So let me tell you how to do this, okay? So in this kind of question, it's easy if we can think about the denominator and numerator. Separately. Okay, so let's first go through the numerator. Okay, so can you tell me the values in the numerator? [Speaker] 5.",00:15:16
+espfvnp,75,tutor,"No, starting from this one. [Speaker] Oh, 2, 3, 4, 5.",00:15:56
+espfvnp,76,tutor,"Yes, 2, 3, 4, and 5. Okay, 2, 3, 4, and 5. Now, now let's go to the denominator. So what are the values?",00:16:02
+espfvnp,77,background,"Uh, 3, 5, 7, and 9.",00:16:19
+espfvnp,78,tutor,"Yes, 3, 5, 7, and 9. So now, uh, can you separately find 2 expressions for these 2. One for the numerator and the other one for the denominator.",00:16:22
+espfvnp,79,tutor,This one has a difference of 1 and this has a difference of 2. [unclear] What do you mean?,00:16:41
+espfvnp,80,student,"Yeah, so think about this 2, 3, 4, 5 as one sequence. Okay? So can you find an expression for this using",00:16:51
+espfvnp,81,tutor,"n. Now, n. Okay, good. Now go to the denominator.",00:16:51
+espfvnp,82,background,[UNCLEAR]...2n + 1.,00:16:51
+espfvnp,83,tutor,"Okay, so now see, now we know the expression for the numerator and the denominator. Okay, so what we can do is we can write it according to fraction. Can you do it? Can you write it? [Speaker] I'm going to do fraction.",00:16:51
+espfvnp,84,tutor,"Use— write these two expressions as a fraction. This is the numerator and this is the denominator. [Speaker] Okay. Okay, good. Now, now this is what? This is the expression.",00:17:36
+espfvnp,85,tutor,A fraction.,00:18:10
+espfvnp,86,student,"Yeah, this is the fraction and this is the expression for this sequence which contains bar models. Got it?",00:18:12
+espfvnp,87,tutor,Okay. Yeah.,00:18:21
+espfvnp,88,student,Did you understand?,00:18:23
+espfvnp,89,tutor,Yeah.,00:18:25
+espfvnp,90,student,"Yes. Okay, so now try to find— so now we have found this n 1 divided by 2n 1. So see, can you find the fractions shaded in the n-bar model? So this is the answer. Okay. Okay,",00:18:26
+espfvnp,91,tutor,so,00:18:42
+espfvnp,92,student,they are asking that we— they are asking for us to find an expression. But they're asking in another way. Okay?,00:18:42
+espfvnp,93,tutor,Okay.,00:18:51
+espfvnp,94,student,"Okay, so got it?",00:18:52
+espfvnp,95,tutor,Yeah.,00:18:55
+espfvnp,96,student,"Yes, okay. So, um, this is the end of this session as well. So, uh, tell me one important thing that you learned up to now.",00:18:56
+espfvnp,97,tutor,"Um,",00:19:11
+espfvnp,98,tutor,"About this, let's say this question?",00:19:13
+espfvnp,99,student,"Oh, this question. Like how to compare the fractions well? Like to find both sequences separately and then [unclear] together to find the nth thing.",00:19:17
+espfvnp,100,tutor,"Yes, okay. So when it comes to this kind of question, try to focus on the numerator and the denominator separately. Okay.",00:19:33
+espfvnp,101,tutor,Great.,00:19:41
+espfvnp,102,tutor,"Okay, um, all right. So any questions before we move on to the next lesson?",00:19:44
+espfvnp,103,student,No.,00:19:51
+espfvnp,104,tutor,"No, okay. All right, so this is our next session, uh, understanding and applying index, index laws. For multiplication. Okay, so we are going to learn about some laws, index laws. Okay, uh, yeah, you can start by doing the learning goal question. [unclear]",00:19:53
+espfvnp,105,tutor,"Yes, good. Okay, so with that, you can start doing this one. Go ahead. [unclear]",00:20:21
+espfvnp,106,tutor,You got food? [unclear],00:21:07
+espfvnp,107,tutor,"Okay, let's go through one by one. This is correct. This is— what is this number? x to the power of?",00:21:31
+espfvnp,108,background,"2. 2. Yeah, okay. Yes, this is a simple b, lowercase. Okay, um, good, that is correct. Let's, uh, go to the next slide. [unclear]",00:21:49
+espfvnp,109,tutor,"Okay, so you have a question here. Uh, try to do it.",00:22:12
+espfvnp,110,tutor,Okay. Find 4 possible value— find 4 different possible value pairs for a and b. [unclear] [unclear],00:22:17
+espfvnp,111,tutor,"Okay, good. Yeah, I feel like you are very familiar with this, right?",00:22:51
+espfvnp,112,background,Yeah.,00:22:58
+espfvnp,113,tutor,"Yes, okay, good. Keep it up, the good work. Okay, okay, uh, before we move on, any questions for you?",00:22:59
+espfvnp,114,tutor,No.,00:23:07
+espfvnp,115,student,"OK, then can you explain how you did this go for the site, how the calculation?",00:23:08
+espfvnp,116,tutor,"Anything that equals 5, so all you have to do is find a combination of numbers which equals 5, and the main one was 2 3 and 2 2, and also -2 7 because this equals 5. Basically any numbers that are equal to 5, including negatives.",00:23:16
+espfvnp,117,tutor,"Okay, so can you also tell me, uh, like the index of this first one is a and index of the second one is b and third one is 5. So what is the relationship between these three?",00:23:37
+espfvnp,118,background,"a b will always equal 5. Yes,",00:23:50
+espfvnp,119,tutor,"a b 5. That's why we are We have to find the two numbers that is equal to 5 when we add them. Okay, so any questions?",00:23:53
+espfvnp,120,tutor,No.,00:24:09
+espfvnp,121,student,"Alright, let's move on to the next one then. [unclear] Okay.",00:24:11
+espfvnp,122,tutor,"Try the learning goal question. [unclear] Okay, that is correct. Yeah, you can start doing this one. Okay. Just a, you know, a seven. Done. Okay, so let's check from the beginning. So what is the Answer for the first time.",00:24:25
+espfvnp,123,tutor,"Wait. Oh, [UNCLEAR].",00:25:25
+espfvnp,124,tutor,"15 minus 5, 20. [unclear]",00:25:41
+espfvnp,125,tutor,Just [UNCLEAR].,00:26:07
+espfvnp,126,tutor,Done.,00:26:07
+espfvnp,127,tutor,"Okay, so let's check from the beginning. So what is the answer for the first one? [Speaker] 1 to the power of 5.",00:26:26
+espfvnp,128,tutor,"1 to the power of 5. Okay, so what is the answer? 1 to the power of 5 means what? [Speaker] Uh, 1.",00:26:37
+espfvnp,129,tutor,"So, okay, so if you answer 1— [unclear] No, this is wrong. 1, yes, 1 to the power of 5 equals to 1, but See here, see 5 to the power of 8, 5 to the power of 3. So we have to simply subtract the— subtract 3 from 8, right? So it is what?",00:26:51
+espfvnp,130,tutor,You have 8 minus 3 equals 5.,00:27:10
+espfvnp,131,student,It's 5 to the power of 5.,00:27:13
+espfvnp,132,tutor,"Oh, but you have 5 divided by 5 because you have 5 divided by 5.",00:27:17
+espfvnp,133,student,"No. No, Zach, no, no, no. Uh, okay, so listen to me. So if this was a plus, then— sorry, if this was a multiplication, what do we do instead of division?",00:27:25
+espfvnp,134,tutor,"Times it? Like, I mean, at the [UNCLEAR].",00:27:38
+espfvnp,135,student,What is the answer if this was multiplication?,00:27:38
+espfvnp,136,tutor,25 to the power of 11.,00:27:44
+espfvnp,137,student,"No, Zach, so",00:27:50
+espfvnp,138,tutor,"Okay, listen to me. Now this, uh, let's take this one, 5 to the power of 8. So this is the base, right? This 5 right here, this is what we call the base.",00:27:51
+espfvnp,139,student,Yeah.,00:28:04
+espfvnp,140,tutor,"Okay, and this is what we call the index. The [UNCLEAR], it is the power. Okay, so whenever we got a question like this, the base remains same.",00:28:04
+espfvnp,141,tutor,Oh.,00:28:18
+espfvnp,142,student,"Okay, the base remains same, but we do some kind of calculation to the index. 8. So in this case, it's division, so we have to subtract 8, subtract 3. So what we have, we get 5 to the power of 5. So in what your case, what you are saying is, let's just say we have like x, 5. So this is 5x. Okay, I'm just writing like this. [unclear]",00:28:19
+espfvnp,143,tutor,"Let's say it's 2. And if we have something like this, see now, what, what is this? It's x to the power of 2, 5 to the power of 8. X to the power of 1, 5 to the power of 3. So now in this kind of case, we have to separately think about this. So here we have x to the power of 2, and now we have x to the power of 1. So these are the same bases. Now both of these have, right? The base is same, x.",00:28:50
+espfvnp,144,tutor,Yes.,00:29:27
+espfvnp,145,student,"So in this case, we think about this separately. So let's see, x to the power of 2 divided by x to the power of 1.",00:29:28
+espfvnp,146,tutor,"So in this case, we get what? x, right? Why? 2 minus 1, it's x. Now it's still this, it's still like this, and then it's still the multiplication in this case. Because why? x has multiplied by 5 in each term here. x multiplied by 5, x multiplied by 5. Okay, so it stays still. Now we are moving to the 5. 5 to the power of 8, 5 to the power of 3. So 8 subtract 3, we get 5. But the index— I'm sorry, the base remains same. Okay, so see, now here also base is still there. Here also base is still there. We do some calculations only to the index.",00:29:37
+espfvnp,147,tutor,The answer is x.5.,00:30:24
+espfvnp,148,student,"No, it's not x.5.",00:30:27
+espfvnp,149,tutor,"No, it's 5. 5 to the power of 5. I just— this is another way of writing multiplication. Okay, you just— you use the dot. So this is— [unclear] Clear now?",00:30:28
+espfvnp,150,tutor,Yeah.,00:30:46
+espfvnp,151,student,"Okay, so in this kind of case, the base remains still, only the index is going to change. Okay, all right, so understood?",00:30:47
+espfvnp,152,tutor,Yeah.,00:31:01
+espfvnp,153,student,"Yes, okay, so this one is correct. This is correct. So see, you have done the same thing correctly here. V to the power of 10, v to the power of -5. So v remains still, and then subtract -5 equals 15. That is correct. Okay.",00:31:02
+espfvnp,154,tutor,Okay.,00:31:25
+espfvnp,155,student,"Okay, so here, yeah, 20 divided by 4, that is 5, and F, 11 subtract 1, that is 10. It's 5 multiplied by F to the power of 10. Okay. Okay, so this one, correct.",00:31:27
+espfvnp,156,tutor,"This one, a7. Okay, so here, see, 10 divided by 5, 2. Correct. a to the power of 9 divided by a to the power of 2, so 9 minus 2, that is 7. That is correct. So what happened to be— what has happened to be here?",00:31:50
+espfvnp,157,background,[unclear],00:32:08
+espfvnp,158,tutor,"Cancelled out. Very good. Okay, so the answer is that.",00:32:09
+espfvnp,159,tutor,"All right, so you got one wrong, and because of misunderstanding, misconception. So all clear now, right?",00:32:14
+espfvnp,160,student,Yeah.,00:32:24
+espfvnp,161,tutor,"Okay, so can you tell me what, uh, what I just told? How did you understand it?",00:32:26
+espfvnp,162,student,"Um, that when the base is the same, you can just leave it.",00:32:32
+espfvnp,163,tutor,"Yes. Okay, so if there is only another coefficient for each, then only we have to divide that. So like this. So this is— this here, this 20 is a coefficient, this 4 is a coefficient, then we have to divide them. But this is always remains still. Okay? Okay, sir?",00:32:37
+espfvnp,164,tutor,"Okay, yeah.",00:33:01
+espfvnp,165,student,"Okay, so we are working out. Now, yeah, here's another one. You can try it out.",00:33:04
+espfvnp,166,tutor,Find the value of a and b which would make the [unclear] 9 7. [unclear],00:33:12
+espfvnp,167,tutor,"Done, right? Okay. [unclear]",00:33:50
+espfvnp,168,tutor,"Okay, can you— so the first one is correct. Can you go through this Part B, C, and D again?",00:34:14
+espfvnp,169,background,Okay.,00:34:22
+espfvnp,170,tutor,"Okay, before that, can you tell me what is the relationship between A, B, and 2 here? [Speaker] A— oh, minus B. Oh, I don't— plus— A minus B equals 2.",00:34:23
+espfvnp,171,tutor,"Okay, so with that in mind, do these 3 parts again. [Speaker] So this is 3, then A minus 2, D. [unclear]",00:34:37
+espfvnp,172,tutor,[UNCLEAR] [unclear],00:34:37
+espfvnp,173,tutor,"[unclear] So add minus 5, that'd be minus 2. 5 plus 5, that'd be 8. Oh, wait. Minus one, Minus one plus zero. I'm done. Okay, so, yes,",00:34:37
+espfvnp,174,tutor,Are you done?,00:36:18
+espfvnp,175,student,"No, [UNCLEAR].",00:36:23
+espfvnp,176,tutor,You can use this equation to figure out the answers.,00:36:23
+espfvnp,177,student,Okay. It says b 3.,00:36:34
+espfvnp,178,tutor,"So, 5 minus 5, that'd be minus 2. 5 plus 5, then it'd be 8. [unclear] Oh wait, minus 1. Minus 1 plus [UNCLEAR]. I'm done.",00:36:45
+espfvnp,179,tutor,"Okay, so yes.",00:36:45
+espfvnp,180,tutor,This is correct. Can you go to Part B again using this equation?,00:37:30
+espfvnp,181,student,Minus... minus 2 plus 7... [unclear] [unclear],00:37:38
+espfvnp,182,tutor,4. So it'd be -7 4.,00:38:00
+espfvnp,183,tutor,"Okay, what about this one? Part B?",00:38:24
+espfvnp,184,tutor,"Part B. 3 minus 5. 3 minus 5 equals 2. Oh, is it 7? Wait, 7 minus 5 equals [UNCLEAR]. Yeah, 7.",00:38:28
+espfvnp,185,tutor,Done?,00:38:28
+espfvnp,186,student,Yeah.,00:39:00
+espfvnp,187,tutor,"Okay, now it's correct. All right, so what went wrong during your first try? I kept mixing up the minuses with plus.",00:39:04
+espfvnp,188,tutor,"Yes, you have to remember this is the law. Okay, when it comes to the division of index, when it comes to division of the index, this is the",00:39:18
+espfvnp,189,background,"a minus b equals 2. So according to this, so when there are minus here, so here we have minus value for b, you know. So it's going to be what? Minus minus 3, so that becomes plus 3, right? See, now this is minus 3, no? So if we substitute minus 3 here, this is what happened. Got it?",00:39:30
+espfvnp,190,tutor,Yeah.,00:39:59
+espfvnp,191,student,"Yes, sir? Are you there?",00:40:01
+espfvnp,192,tutor,Yeah.,00:40:04
+espfvnp,193,student,"Yeah. This is how to write it, right? So now this becomes what? Minus, minus 3 means plus 3.",00:40:04
+espfvnp,194,tutor,Plus.,00:40:10
+espfvnp,195,student,"Yeah, so that way you have to think about that too. Yes, so this plus 3 goes to this side. So 2 minus 3 is what? That is minus 1. Okay, so understood how to do this, this kind of thing?",00:40:11
+espfvnp,196,background,[unclear],00:40:28
+espfvnp,197,tutor,Yeah.,00:40:28
+espfvnp,198,tutor,"Yes, okay. All right then, any questions?",00:40:32
+espfvnp,199,student,No.,00:40:37
+espfvnp,200,tutor,"Okay, so before we move on, I want you to again quickly explain me this.",00:40:41
+espfvnp,201,student,"Um, you have to find two numbers that minus each other to get to 2.",00:40:48
+espfvnp,202,tutor,So what is the most important thing you learned here with your mistakes?,00:40:58
+espfvnp,203,background,"Be careful when it's like minus, minus, it can be a plus, or whether it's times and divide, making your plus or minus the powers.",00:41:04
+espfvnp,204,tutor,"Yes. Okay, very good, Sam. All right, so great work up to now. Keep it up. Don't be hurry. Just carefully analyze things, okay? That way you will be able to. All right, okay, then we have come to the end of today's session, and there are no other lessons. But since we have like one minute, we have one minute, okay? I can [unclear] show you the other one as well.",00:41:12
+espfvnp,205,tutor,"Give me a minute, okay? [unclear] [unclear]",00:41:58
+espfvnp,206,tutor,"Okay, Sak, so since we have less than a minute, I am not going to upload the other lesson. So I appreciate the work. You were able to do all the questions quickly, and some— for some, you need minimal support from me. That is really appreciative. And yeah, keep it up, the good work, okay? I can say that you have no big problem with these indexes and their [unclear] and all, okay?",00:42:34
+espfvnp,207,tutor,Okay.,00:43:05
+espfvnp,208,student,"Alright then, let's meet next week then, okay?",00:43:05
+espfvnp,209,tutor,Okay.,00:43:10
+espfvnp,210,tutor,"All right then, till then, take care. Thank you for coming to today's session. All right, bye.",00:43:12
+espfvnp,211,student,Bye. [unclear],00:43:18
+espfvnp,212,tutor,[UNCLEAR] [unclear],00:43:18
+espfvnp,213,tutor,[unclear],00:43:18

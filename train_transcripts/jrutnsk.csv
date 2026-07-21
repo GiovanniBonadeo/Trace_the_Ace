@@ -1,0 +1,380 @@
+session_id,utterance_id,role,content,timestamp
+jrutnsk,0,tutor,Hello?,00:00:00
+jrutnsk,1,background,[unclear],00:00:00
+jrutnsk,2,student,Can you hear me?,00:00:00
+jrutnsk,3,tutor,Yeah.,00:00:05
+jrutnsk,4,student,"Yes, okay. Hi, how are you?",00:00:06
+jrutnsk,5,tutor,"I'm good, thank you.",00:00:09
+jrutnsk,6,student,Good. So how's school today?,00:00:11
+jrutnsk,7,tutor,"It was good, yeah.",00:00:14
+jrutnsk,8,background,"Good, okay. Did you learn anything new or did you do anything new?",00:00:16
+jrutnsk,9,tutor,"Well, we're learning about Greek, like gods, we are.",00:00:23
+jrutnsk,10,background,"Aha, you learned about the Greek gods?",00:00:29
+jrutnsk,11,tutor,Yeah.,00:00:31
+jrutnsk,12,background,"Okay, that's interesting. Right, okay Kieran, so you know that You are on the SAT revision program, yeah?",00:00:32
+jrutnsk,13,student,Yeah.,00:00:43
+jrutnsk,14,tutor,"Yes, okay. So before moving into this, let's just check what we are on to, right?",00:00:44
+jrutnsk,15,student,Yeah.,00:00:52
+jrutnsk,16,tutor,"So you will be having two types of lessons. One, reasoning lessons, and then you will have developing fluency lessons, okay? So in your reasoning lessons, you will have a fluency slide. Where, you know, you will be preparing that for the arithmetic paper, and then you will have 3 such style questions to answer. Okay, so you have to do it independently. Let's say you struggle, then we can do that together, right? And then you will have another question to try on, and at last you will have a ready for a challenge question. Okay, Kieran?",00:00:52
+jrutnsk,17,student,Yeah.,00:01:28
+jrutnsk,18,tutor,"Yes, okay. So in each question you will have hints so that you can use those schemes and you know that those schemes will really help you work out the questions. Okay. So the same thing goes for the developing fluency lessons as well. Right. So have you got any doubt, Kieran?",00:01:30
+jrutnsk,19,student,[unclear],00:01:46
+jrutnsk,20,background,Hello? Are we clear with this?,00:01:52
+jrutnsk,21,student,Yeah.,00:01:56
+jrutnsk,22,background,Can you hear me?,00:01:58
+jrutnsk,23,student,Yeah.,00:01:59
+jrutnsk,24,background,"Yes. Okay. So we start off with the first one, developing fluency with addition and subtraction, right? So are you ready?",00:02:00
+jrutnsk,25,student,Yeah.,00:02:10
+jrutnsk,26,tutor,Yeah?,00:02:11
+jrutnsk,27,student,Yeah.,00:02:12
+jrutnsk,28,tutor,"Yes, okay. So this is your first such [unclear] question. So then using the written method, you can use the mental methods to do this, okay? So can you give it a try?",00:02:12
+jrutnsk,29,student,"Yeah, okay.",00:02:26
+jrutnsk,30,tutor,Okay.,00:02:28
+jrutnsk,31,student,[unclear],00:02:29
+jrutnsk,32,tutor,So you can use the hints that are given here. So here they've said use rounding and adjusting. You can use the rounding off method and also do it. Okay.,00:02:45
+jrutnsk,33,tutor,Yeah.,00:02:58
+jrutnsk,34,student,400 and 200. [unclear],00:03:00
+jrutnsk,35,tutor,"Very good. Okay, so how did you do that?",00:03:15
+jrutnsk,36,student,I have— I used column addition.,00:03:21
+jrutnsk,37,tutor,You used column addition?,00:03:28
+jrutnsk,38,student,Yeah.,00:03:30
+jrutnsk,39,tutor,"Right. So then how about we try the rounding off method? Okay, that's really good, the column addition. Yes. Okay, do you know the rounding off method?",00:03:30
+jrutnsk,40,background,Yeah.,00:03:42
+jrutnsk,41,tutor,"Okay, so can you just give it a try using that?",00:03:47
+jrutnsk,42,student,"Yeah, so like you can round it to 200 and round it to 400.",00:03:50
+jrutnsk,43,tutor,"Yeah, so this one, yes, the second one.",00:03:59
+jrutnsk,44,student,"Oh, the second one, okay, yeah.",00:04:04
+jrutnsk,45,tutor,Yes.,00:04:06
+jrutnsk,46,student,So you could round it to,00:04:08
+jrutnsk,47,tutor,Mm-hmm.,00:04:15
+jrutnsk,48,student,"No, wait. Um... [unclear]",00:04:17
+jrutnsk,49,tutor,So if it is to the nearest 10.,00:04:23
+jrutnsk,50,student,"Oh, okay, so you could round it to 1,980?",00:04:27
+jrutnsk,51,tutor,"Uh, yeah.",00:04:34
+jrutnsk,52,student,"Uh, okay. Or you can just go for 2,000.",00:04:36
+jrutnsk,53,tutor,"Yes. Oh, yeah.",00:04:42
+jrutnsk,54,student,"You can just say, yes, you can round it. Yeah, yeah. You can round it off 2,000 and then, yeah, you can start adding the other number and just like get me the answer. Yeah. [unclear] [unclear]",00:04:43
+jrutnsk,55,student,[unclear] [unclear],00:05:04
+jrutnsk,56,student,[unclear] [unclear],00:05:18
+jrutnsk,57,student,Okay.,00:05:31
+jrutnsk,58,tutor,"Yes, are you working on it, Kieran?",00:05:57
+jrutnsk,59,student,"Do I need to round it up, both of them round up to 2,800?",00:06:01
+jrutnsk,60,tutor,"Okay, so you can just round off one. Okay? So you can round, for example, you can just round this one. So how much is this when you round it out?",00:06:08
+jrutnsk,61,background,"2,000.",00:06:18
+jrutnsk,62,tutor,"2,000, right? Okay. So in order to make 2,000, how much did we add more?",00:06:19
+jrutnsk,63,student,"Um, 25.",00:06:25
+jrutnsk,64,tutor,"25. Okay, so keep that in mind, right? So we have 2,000 here and then we have 725. So how much is it together?",00:06:29
+jrutnsk,65,student,"Um, 2,000 and— 2,735.",00:06:36
+jrutnsk,66,tutor,"Okay, and then how much should we take away now?",00:06:43
+jrutnsk,67,student,25.,00:06:45
+jrutnsk,68,tutor,"Yes, if you take away the 25, then that's going to be?",00:06:47
+jrutnsk,69,student,[unclear],00:06:55
+jrutnsk,70,tutor,"2,700. Okay, so the column addition is correct, Kieran. You can do that, but the rounding off is a bit easier than that, don't you think?",00:06:55
+jrutnsk,71,student,Yeah.,00:07:06
+jrutnsk,72,tutor,"Yes, okay, it saves time. So you can use the rounding off method to, you know, quickly find the answer. So shall we write down the answer?",00:07:07
+jrutnsk,73,student,"Yeah, okay. [unclear]",00:07:15
+jrutnsk,74,tutor,"Okay, so what did we forget in the number?",00:07:24
+jrutnsk,75,student,The— let me just move over.,00:07:27
+jrutnsk,76,tutor,Okay.,00:07:33
+jrutnsk,77,student,Is it this one?,00:07:34
+jrutnsk,78,tutor,"Oh, the comma, right? So 2,700 is correct, but we need to put the comma.",00:07:37
+jrutnsk,79,tutor,Yeah.,00:07:43
+jrutnsk,80,student,"Oh no, that's 2,100.",00:07:47
+jrutnsk,81,tutor,"7,000.",00:07:49
+jrutnsk,82,student,"Yeah, I don't know. I'm getting confused, sorry.",00:07:51
+jrutnsk,83,tutor,"2,700, okay. Right, very good. So which one do you think is easy, column addition or the rounding?",00:07:55
+jrutnsk,84,student,Rounding.,00:08:09
+jrutnsk,85,tutor,"Rounding. Okay, right. So can we try one more using the rounding method? Yeah?",00:08:13
+jrutnsk,86,student,Yeah. [unclear],00:08:20
+jrutnsk,87,tutor,Okay. You can verbally tell me what you are doing. Okay? You can just explain me while you do. [unclear],00:08:23
+jrutnsk,88,student,"So like, you can round it to 600 and then add them together and just remember that you need to take off one when you've added them up.",00:08:39
+jrutnsk,89,tutor,Yes. So how much do you think that is? [unclear],00:08:56
+jrutnsk,90,student,"Is it 1,150?",00:09:03
+jrutnsk,91,tutor,"Very good. Yes. Good working out. Yeah. So that's going to be 1,150. [unclear]",00:09:27
+jrutnsk,92,student,"Wait, that's wrong. Is it? Yeah. [unclear]",00:09:42
+jrutnsk,93,tutor,OK. So then the next one?,00:10:10
+jrutnsk,94,student,"You could round it to 10,000, and then remember you need to take off 5,000.",00:10:16
+jrutnsk,95,tutor,"Okay, yes, good.",00:10:24
+jrutnsk,96,student,Okay. [unclear] [unclear],00:10:26
+jrutnsk,97,tutor,"Yes, so we have 10,000 and then you add 3,205. How much is it together?",00:11:07
+jrutnsk,98,student,"5,000.",00:11:12
+jrutnsk,99,tutor,"Is it 4,000?",00:11:14
+jrutnsk,100,student,"Um, 200 and— 200.",00:11:17
+jrutnsk,101,tutor,"Uh-huh. Okay, so shall we try this again? We have, uh, 9,995, right? So it's 10,000, isn't it, Kieran?",00:11:24
+jrutnsk,102,student,Yeah.,00:11:34
+jrutnsk,103,tutor,"Okay, so 10,000, you add another 3,205. How much is it? [unclear] Okay, let's say 10,000 and 3,000. How much is it together?",00:11:36
+jrutnsk,104,student,"13,000.",00:11:52
+jrutnsk,105,tutor,"13,000, and we have 205. So then?",00:11:55
+jrutnsk,106,background,[unclear],00:11:58
+jrutnsk,107,student,Add the 205 on.,00:12:02
+jrutnsk,108,tutor,"Yes, so 13,205. Okay, and then we have to?",00:12:05
+jrutnsk,109,student,Take the 5 off.,00:12:14
+jrutnsk,110,tutor,"Take the 5 off, yes. So then? [unclear]",00:12:17
+jrutnsk,111,background,"You can use this space to just write it down, okay?",00:12:27
+jrutnsk,112,student,Okay.,00:12:31
+jrutnsk,113,background,"If you can't remember the numbers, you can just write it, yes.",00:12:32
+jrutnsk,114,student,"Okay, yeah, so you have 2,000. [unclear]",00:12:35
+jrutnsk,115,tutor,"Okay, so where is that 2,000, Kieran? Which 2,000 are we talking about?",00:12:50
+jrutnsk,116,student,The one like a—,00:12:56
+jrutnsk,117,tutor,Oh.,00:12:58
+jrutnsk,118,background,"This is 10,000, right?",00:12:58
+jrutnsk,119,student,Yeah.,00:13:04
+jrutnsk,120,tutor,"Oh, it's okay. Fine. It's okay. Right. We'll erase this. Okay. So you can just write it down. So we have 10,000 and then we have 3,205. [unclear] You can use the text tool to write. That's way easier, I guess.",00:13:06
+jrutnsk,121,student,"So should I do 10,000?",00:13:32
+jrutnsk,122,tutor,"Yes. So now we have rounded this up, right? So how much is it?",00:13:36
+jrutnsk,123,student,"10,000.",00:13:41
+jrutnsk,124,tutor,"10,000, yes. So let's write 10,000 here. You can use the text tool, okay? Kieran, if you want.",00:13:42
+jrutnsk,125,student,Oh yeah.,00:13:57
+jrutnsk,126,tutor,[unclear] easier.,00:13:58
+jrutnsk,127,student,"Yeah, there.",00:13:59
+jrutnsk,128,tutor,Okay.,00:14:04
+jrutnsk,129,student,And then—,00:14:05
+jrutnsk,130,tutor,"That's 1,000. We need another zero.",00:14:08
+jrutnsk,131,student,"Oh, okay.",00:14:12
+jrutnsk,132,tutor,"For 10,000. Okay, right. Okay, so we have 10,000, and then with 3,205, how much is the total? [unclear]",00:14:15
+jrutnsk,133,student,"One— no, 13,205.",00:14:30
+jrutnsk,134,tutor,"Yes, very good. 13,205. Okay, just let's write it somewhere here. 13,205. Okay, and then?",00:14:35
+jrutnsk,135,student,You take away the 5.,00:14:53
+jrutnsk,136,tutor,"Okay, so that makes?",00:14:56
+jrutnsk,137,student,"13,200.",00:14:58
+jrutnsk,138,tutor,"Yes, okay, so we'll write the answer.",00:15:01
+jrutnsk,139,student,"Um, should I write it in the box?",00:15:05
+jrutnsk,140,tutor,"Yes, you can write it in the box. Make sure you use the comma.",00:15:09
+jrutnsk,141,student,"Oh yeah, um... [unclear]",00:15:13
+jrutnsk,142,student,"Wait, no, wait.",00:15:22
+jrutnsk,143,tutor,"It's 13,000, right?",00:15:26
+jrutnsk,144,student,Yeah.,00:15:30
+jrutnsk,145,tutor,"Okay, okay. Right, very good. [unclear] Okay, you did it, right? So then you get one mark here, and then you get another mark here.",00:15:31
+jrutnsk,146,tutor,"Okay. So when they give you the hint as rounding, so can you tell me the steps on what you should do?",00:15:47
+jrutnsk,147,student,"So like if you had 1,999, like add 51, you could round it up. You could round it up to 2,000. And then add the 50 on and just take off the 1.",00:15:56
+jrutnsk,148,tutor,"Okay, just take off the 1 because that way it's going to be very easier. Okay, so you can use this space to write the answers if you just forget, or if you think you will forget, you can just use this space. Okay, Kieran?",00:16:20
+jrutnsk,149,student,Yeah.,00:16:34
+jrutnsk,150,tutor,"Yes, okay, so in the exams, if they give you the hint, use rounding, you can do that.",00:16:35
+jrutnsk,151,tutor,"Okay, and then yes.",00:16:39
+jrutnsk,152,student,"Okay, yes.",00:16:40
+jrutnsk,153,tutor,"Right, so are we clear with the first subset of question?",00:16:41
+jrutnsk,154,background,Yes.,00:16:44
+jrutnsk,155,tutor,"Yes, okay. So then we have the next one. So what does this question say? What should you do?",00:16:46
+jrutnsk,156,background,You could... [unclear] [unclear],00:16:58
+jrutnsk,157,tutor,"So what is it, addition or subtraction?",00:17:11
+jrutnsk,158,student,Subtraction.,00:17:13
+jrutnsk,159,tutor,"Okay, so how can you do that? Without the written method, how can you do it?",00:17:15
+jrutnsk,160,student,You could maybe like—,00:17:31
+jrutnsk,161,tutor,"You have the hint as well, okay? So what's the hint?",00:17:36
+jrutnsk,162,student,"Use counting— wait, yeah, on— to find the difference. [unclear] Do you have any other methods to do? So if you get this question, how do you think you will do this question? [unclear]",00:17:41
+jrutnsk,163,student,I would probably do like—,00:18:09
+jrutnsk,164,tutor,You will just—,00:18:16
+jrutnsk,165,student,"I would probably do the way— I done last time, I'll do the same as I would do column addition again, probably just minus thing, not [UNCLEAR].",00:18:20
+jrutnsk,166,tutor,"Yes. Yeah, you will just write and, you know, you will minus, yeah?",00:18:20
+jrutnsk,167,student,Yeah.,00:18:38
+jrutnsk,168,tutor,"Okay, so that— yes, that is one way you could do, but there are easier methods than that, okay? Because all we have to do is like, you know, save time, no? Then, you know, keeping on writing and exchanging. Done that, you can use the counting. Okay, so what does this counting method help? Like, you know, when you have two numbers, Kieran, now you can see 1,000— 1,003, and then we have 996. Okay?",00:18:38
+jrutnsk,169,student,Okay.,00:19:08
+jrutnsk,170,tutor,We just have to find the difference between each other. So what you are going to do is you are going to count from the smaller one till you get to the bigger number. Okay? Right. So now you have 996. Which one is the smaller? Out of both?,00:19:09
+jrutnsk,171,student,The one on the right.,00:19:27
+jrutnsk,172,tutor,"Yes, 996, right?",00:19:30
+jrutnsk,173,student,Yes.,00:19:32
+jrutnsk,174,tutor,Can you start counting until 1003?,00:19:32
+jrutnsk,175,student,"So 997, 998, 999, 1000, 1001, 1002, and 1003.",00:19:37
+jrutnsk,176,tutor,How much is it? [unclear],00:19:52
+jrutnsk,177,tutor,You didn't count it?,00:19:54
+jrutnsk,178,student,"Oh, wait.",00:20:01
+jrutnsk,179,tutor,"Okay, you could just count and tell me.",00:20:02
+jrutnsk,180,student,Is it 7? 7 more.,00:20:13
+jrutnsk,181,tutor,"Exactly. Yes, 7. So then the difference between these two is 7.",00:20:16
+jrutnsk,182,student,"Okay, so yeah.",00:20:22
+jrutnsk,183,tutor,"Okay? Yes. So you see, if you see very, uh, numbers which are very close, then writing, you can just count it and write the answer.",00:20:23
+jrutnsk,184,student,Yeah.,00:20:33
+jrutnsk,185,tutor,"Okay? Right. So we'll write that down. Okay, so then we have, uh, the next one. [unclear] So",00:20:34
+jrutnsk,186,student,I could probably do the same again.,00:20:49
+jrutnsk,187,tutor,Yeah.,00:20:54
+jrutnsk,188,student,So— [unclear],00:20:55
+jrutnsk,189,student,14 more.,00:21:11
+jrutnsk,190,tutor,"Very good, 14. Yes, so how did you do that? You did it very quickly.",00:21:13
+jrutnsk,191,student,I added 2 to get to 200 and then just [unclear] to a 12.,00:21:20
+jrutnsk,192,tutor,"Very good, awesome, right. So that is one way. See, we did not write anything, we just counted and then we found the answer. It's 14. Okay, so when you have numbers which are very close to each other,",00:21:28
+jrutnsk,193,tutor,"Okay, now for example, Kieran, if you were given a number like 3,500 take away 435, can you do counting here? [unclear] Can you keep on counting until you get 3,500?",00:21:41
+jrutnsk,194,student,Um...,00:22:00
+jrutnsk,195,student,Not really.,00:22:06
+jrutnsk,196,tutor,"Not really, right? Because you see, it's very large and the difference is going to be big. So can you use the counting method in this question?",00:22:08
+jrutnsk,197,background,[unclear],00:22:16
+jrutnsk,198,tutor,"No, right? This is the normal way you do the subtraction. You can do, right? But when they give you numbers which are very close to each other, then you can use the counting method. Okay?",00:22:17
+jrutnsk,199,background,Okay.,00:22:30
+jrutnsk,200,tutor,So are we clear with this?,00:22:31
+jrutnsk,201,student,Yes.,00:22:33
+jrutnsk,202,tutor,"Yes, okay. So then you will have one mark, one mark here. So then very quickly, shall we try this?",00:22:34
+jrutnsk,203,student,"Yeah, okay. [unclear] I can use the same method I done last time?",00:22:44
+jrutnsk,204,tutor,Yes.,00:22:55
+jrutnsk,205,student,Okay.,00:22:56
+jrutnsk,206,tutor,Because it is counting. So you can use it.,00:22:57
+jrutnsk,207,tutor,Is it 12?,00:23:01
+jrutnsk,208,student,"Yes, 12. Good.",00:23:04
+jrutnsk,209,tutor,"Okay, yeah. See, not even seconds, no? We found it.",00:23:08
+jrutnsk,210,student,Yeah. And then— [unclear] [unclear],00:23:12
+jrutnsk,211,tutor,Is it 13?,00:23:31
+jrutnsk,212,student,"Yes, 13.",00:23:33
+jrutnsk,213,tutor,"Okay, yes.",00:23:35
+jrutnsk,214,background,"Okay, yes, you did it, Kieran. Very good. Okay, so you get one mark. So easily you can score marks in this. Okay? Right, so are we clear with the counting?",00:23:36
+jrutnsk,215,student,Yeah.,00:23:48
+jrutnsk,216,tutor,"Yes, okay. So then the next one. So how do you think you can do this? You have a hint? [unclear]",00:23:49
+jrutnsk,217,tutor,"What is the hint, Kieran?",00:24:03
+jrutnsk,218,student,Use the inverse.,00:24:14
+jrutnsk,219,tutor,"Okay, so how can you use that in these questions?",00:24:17
+jrutnsk,220,student,I don't really know what it is.,00:24:20
+jrutnsk,221,tutor,"Okay. But okay, leave that aside. So if you are given this question, okay, so 10 add something is going to make 405. How would you find the answer?",00:24:25
+jrutnsk,222,background,"It's a bit complicated how I do it, but I would—",00:24:38
+jrutnsk,223,tutor,"Maybe half 10, which is 5, and take 5 off of 405, and just [unclear] and then do, and then have 5, and then do instead of 10, have 5, and then it would be 305.",00:24:44
+jrutnsk,224,student,95.,00:24:44
+jrutnsk,225,tutor,"395, yes. But it's very complicated, right? The method.",00:24:44
+jrutnsk,226,student,Yeah.,00:25:22
+jrutnsk,227,tutor,"We can have a very easy method, okay? So you see, we have 10 add something is going to be 405, right?",00:25:23
+jrutnsk,228,student,Yeah.,00:25:34
+jrutnsk,229,tutor,"So when they give you the word inverse, we are going to do the opposite, okay? So if it is an addition, The opposite of addition is going to be? [unclear]",00:25:34
+jrutnsk,230,student,Subtraction.,00:25:47
+jrutnsk,231,tutor,"Subtraction. Okay, so that means 405 take away 10.",00:25:49
+jrutnsk,232,background,[unclear],00:25:53
+jrutnsk,233,student,"Okay, yeah, now I get it.",00:25:55
+jrutnsk,234,tutor,"Yes, so 405 take away 10 would be?",00:25:59
+jrutnsk,235,student,395.,00:26:02
+jrutnsk,236,tutor,"395. Okay. Than halving it and taking it that way, you can do this. Okay? Right. So now what about the next one?",00:26:04
+jrutnsk,237,student,"Um, could you do 206— 262 take away like 300?",00:26:17
+jrutnsk,238,tutor,"So here we have subtraction, right? So if it's the inverse, what should you do?",00:26:26
+jrutnsk,239,background,"Oh, you could do multiplication. Subtraction. What's the opposite of subtraction, Kieran?",00:26:33
+jrutnsk,240,student,Add and write. Yeah.,00:26:41
+jrutnsk,241,tutor,Adding. So then what should you do? You have to?,00:26:43
+jrutnsk,242,student,Add them both together.,00:26:47
+jrutnsk,243,tutor,Add them both together. Very simple. Okay?,00:26:50
+jrutnsk,244,background,[unclear],00:26:53
+jrutnsk,245,tutor,"Yeah. So if you add both together, then how much do you think that is?",00:26:53
+jrutnsk,246,student,590.,00:26:58
+jrutnsk,247,tutor,"Yes, 590. Fantastic. So we'll write that. Okay, so then are we clear with the inverse?",00:27:06
+jrutnsk,248,student,Yes.,00:27:18
+jrutnsk,249,tutor,"Okay, so if you get an addition, then what do you do?",00:27:19
+jrutnsk,250,student,"Um, subtraction.",00:27:23
+jrutnsk,251,tutor,"Okay, and if it is a subtraction, then you?",00:27:25
+jrutnsk,252,student,"Um, add them.",00:27:28
+jrutnsk,253,tutor,"Add them. And if it is a multiplication, then what do you do?",00:27:30
+jrutnsk,254,student,"Um, you minus them.",00:27:34
+jrutnsk,255,tutor,"Multiplication, you divide.",00:27:38
+jrutnsk,256,student,"Oh, okay, okay, yeah.",00:27:40
+jrutnsk,257,tutor,"And if it's a division, you multiply.",00:27:42
+jrutnsk,258,student,"Yeah, yeah.",00:27:45
+jrutnsk,259,tutor,"So it's like addition and subtraction are pairs, multiplication and division is a pair.",00:27:46
+jrutnsk,260,student,Yeah.,00:27:51
+jrutnsk,261,tutor,"Okay, right, Kieran. So very good here. So you just know you can quickly do the addition and subtraction. All you have to know is the methods. Okay, so if you just Look into the methods, then very good, you can easily score marks.",00:27:51
+jrutnsk,262,student,Yeah.,00:28:05
+jrutnsk,263,tutor,Right? Okay. So then we'll quickly do one more.,00:28:06
+jrutnsk,264,student,Okay. [unclear],00:28:10
+jrutnsk,265,student,Right. [unclear],00:28:16
+jrutnsk,266,student,So is it 712?,00:28:17
+jrutnsk,267,tutor,"Yes. Or no, wait, is it—",00:28:26
+jrutnsk,268,tutor,Try it again. [unclear],00:28:29
+jrutnsk,269,student,Is it 722?,00:28:50
+jrutnsk,270,tutor,Yes.,00:28:53
+jrutnsk,271,student,"Okay, yes.",00:28:53
+jrutnsk,272,tutor,722. Okay. [unclear],00:28:54
+jrutnsk,273,background,"Okay, and then the next one.",00:29:05
+jrutnsk,274,student,[unclear],00:29:21
+jrutnsk,275,tutor,270.,00:29:21
+jrutnsk,276,background,"Yes, 270. Good.",00:29:24
+jrutnsk,277,tutor,"Okay, so good work there. So can you tell me how the inverse works?",00:29:29
+jrutnsk,278,student,"If it's adding, you subtract, and if it's subtract, you add, and if it's division, you do multiplication. And if it's multiplication, you do dividing.",00:29:35
+jrutnsk,279,tutor,Dividing. Okay.,00:29:49
+jrutnsk,280,student,Yeah.,00:29:51
+jrutnsk,281,tutor,"So you do only when you have this equal sign, right? But if you just get, uh, example, if you just get 300 take away 20, do we go and add these two? [unclear]",00:29:51
+jrutnsk,282,background,"Yeah, you can. You add them. This one, 300 take away 20, do we add?",00:30:06
+jrutnsk,283,tutor,"Well, no, no, you can subtract that.",00:30:13
+jrutnsk,284,student,"Yes, so you see, once when this number is after the equal sign only, you do this. Okay, you can see here, 60 equals 782, right? So that is when you do the subtraction. But this one is normal, 300 take away 20, how much is it? 280. Here you don't do anything. Okay, Kieran, when you have a number and you have an equal sign and you have another number and then you have an addition or subtraction, that is when you try the inverse. Okay? [unclear] Okay, right. So then are we clear with all the 3 hints and all the 3 questions?",00:30:17
+jrutnsk,285,student,Yeah.,00:30:59
+jrutnsk,286,tutor,"Yes. Okay, so then we have one more. But she's still ready for a challenge. Right, so can you try this?",00:31:00
+jrutnsk,287,student,"Okay, yeah. [unclear]",00:31:08
+jrutnsk,288,tutor,So what's the number that's given?,00:31:15
+jrutnsk,289,student,"Like, is it like 8 million?",00:31:26
+jrutnsk,290,tutor,"Yes, 8 million.",00:31:34
+jrutnsk,291,student,"And then 41,020.",00:31:36
+jrutnsk,292,tutor,"Yes, okay. And they have given you the expanded form and you have to write the number that's missing.",00:31:44
+jrutnsk,293,background,Okay. [unclear] [unclear],00:31:50
+jrutnsk,294,tutor,"Yes, any idea on how to do this?",00:32:12
+jrutnsk,295,student,[unclear],00:32:30
+jrutnsk,296,tutor,"Not really. Okay, right. So you see this equal sign?",00:32:30
+jrutnsk,297,student,Yeah.,00:32:37
+jrutnsk,298,tutor,"Okay, so that means this side is equal to this side, right?",00:32:39
+jrutnsk,299,student,Yeah.,00:32:44
+jrutnsk,300,tutor,"Okay, so how much do we have here?",00:32:45
+jrutnsk,301,student,"8 billion... No, 8,041,020.",00:32:49
+jrutnsk,302,tutor,And how much do we have here?,00:32:57
+jrutnsk,303,student,"8,020,000.",00:32:59
+jrutnsk,304,tutor,And? [unclear] How much is missing?,00:33:04
+jrutnsk,305,student,"Oh, 41,000.",00:33:07
+jrutnsk,306,tutor,"Oh, I didn't get— I didn't get what that meant. I thought it—",00:33:14
+jrutnsk,307,tutor,"Yes, because you see the sign?",00:33:20
+jrutnsk,308,student,Yeah.,00:33:23
+jrutnsk,309,tutor,"It's equal, Kieran. So that means this is equal to this. And they have given you the expanded form. All you have to do is find the missing number. Okay?",00:33:23
+jrutnsk,310,student,"Oh, okay. I didn't really get it when I looked at it.",00:33:33
+jrutnsk,311,tutor,"Okay. Uh-huh. Okay, so in case you get this in the exam, you can just look into it and see if there is an equal sign. That means both the sides are equal and you find the missing answer.",00:33:37
+jrutnsk,312,student,Yeah.,00:33:50
+jrutnsk,313,tutor,"Okay. Right. [unclear] Okay, so you get 2 marks for the correct answer, right?",00:33:53
+jrutnsk,314,student,"Okay, yeah.",00:34:07
+jrutnsk,315,tutor,"Okay, Kieran, so are we clear with this?",00:34:09
+jrutnsk,316,tutor,Yes.,00:34:12
+jrutnsk,317,student,Yeah.,00:34:15
+jrutnsk,318,tutor,"Yes, okay, so then we'll move on to the— yeah, okay, so we'll move on to the next one. Okay, so we have reasoning with addition and subtraction. Okay, so you will get fluency slide with what we learned in the previous one. You can just quickly do these 3 questions. Okay?",00:34:16
+jrutnsk,319,tutor,Okay.,00:34:41
+jrutnsk,320,student,So can we start doing it?,00:34:41
+jrutnsk,321,tutor,"Yeah, okay. [unclear] [unclear]",00:34:44
+jrutnsk,322,tutor,Oh my God.,00:35:07
+jrutnsk,323,student,I thought this was— I knew that that was my answer.,00:35:27
+jrutnsk,324,tutor,"Yes, good work. [unclear]",00:35:35
+jrutnsk,325,student,Second one. [unclear],00:35:42
+jrutnsk,326,tutor,So what should you do here?,00:36:08
+jrutnsk,327,student,"Is it 96? No, 196?",00:36:14
+jrutnsk,328,tutor,"Yes, very good, 196.",00:36:21
+jrutnsk,329,tutor,So what method did you use?,00:36:24
+jrutnsk,330,student,I took 10 away from 206.,00:36:27
+jrutnsk,331,tutor,"Yes, the inverse, right?",00:36:32
+jrutnsk,332,student,Yeah. [unclear],00:36:33
+jrutnsk,333,tutor,"Okay, good. Right, so then the next one.",00:36:35
+jrutnsk,334,student,"Yeah. Well, you could subtract 20 from 8 billion 420 million. [unclear]",00:36:51
+jrutnsk,335,tutor,Yay!,00:37:05
+jrutnsk,336,student,"But you could subtract, you could add 8 billion 420 million and then you could subtract it.",00:37:05
+jrutnsk,337,tutor,"Okay, so how did you do that? I done counting right on my fingers. I done like to see how like apart it was. Like—",00:37:12
+jrutnsk,338,tutor,"Yes, very good. Okay, so you really did it. Okay, Kieran, so are we clear with this?",00:37:25
+jrutnsk,339,student,Yes.,00:37:35
+jrutnsk,340,tutor,"Yes, okay. So then we'll move on to our first such style question.",00:37:37
+jrutnsk,341,tutor,"Right, so can you read it out?",00:37:42
+jrutnsk,342,student,The picture shows the volume of drink in each container.,00:37:45
+jrutnsk,343,background,what is the difference in volume between the largest and smallest drink? [unclear],00:37:54
+jrutnsk,344,tutor,So what do you need to do?,00:38:04
+jrutnsk,345,tutor,You could maybe do 423 take away 295. [unclear],00:38:18
+jrutnsk,346,student,"Okay, right. So can you Show me the largest volume here.",00:38:31
+jrutnsk,347,tutor,Shall I write it down?,00:38:40
+jrutnsk,348,student,Can you like circle it out of this?,00:38:43
+jrutnsk,349,tutor,"Oh, okay.",00:38:46
+jrutnsk,350,student,Can you tell me why you— why—,00:38:47
+jrutnsk,351,tutor,"Oh yeah. Oh, I thought it was in— I thought it was in— I thought it was from like smallest to biggest.",00:38:49
+jrutnsk,352,background,"Oh, okay.",00:38:59
+jrutnsk,353,tutor,Now I know.,00:39:01
+jrutnsk,354,tutor,"Okay, so then what do you need to do?",00:39:03
+jrutnsk,355,student,Is this one the biggest?,00:39:05
+jrutnsk,356,tutor,"Yes, and then the smallest one?",00:39:08
+jrutnsk,357,student,"Is 287— no, 236.",00:39:13
+jrutnsk,358,tutor,"236, okay, so that's the smallest. And what do we need to do?",00:39:19
+jrutnsk,359,background,Could you do [UNCLEAR]?,00:39:29
+jrutnsk,360,student,"Then like, could you do the method I said, like 854 take away 236?",00:39:30
+jrutnsk,361,tutor,"Yes, very good, because it says the difference, right? So when it's difference, what do you do, addition or subtraction? [unclear]",00:39:42
+jrutnsk,362,student,Subtraction.,00:39:50
+jrutnsk,363,tutor,"Yes, when they say find the difference, then you need to subtract.",00:39:52
+jrutnsk,364,tutor,Okay. So can you do the subtraction and tell me how much is the difference?,00:39:57
+jrutnsk,365,student,Yeah. [unclear] [unclear],00:40:02
+jrutnsk,366,tutor,"add them together, and then that's the number you have to subtract to get the other one. Then that would be like, that would then, that would make sense, because say like we have 500 and you just split it in half, it would, if you added the 250 to it, it would be 250.",00:40:02
+jrutnsk,367,student,"Yeah, I was trying to try to do it all together.",00:40:02
+jrutnsk,368,tutor,"Very good. How much is it, Kieran?",00:40:59
+jrutnsk,369,student,"Um, 618 milliliters.",00:41:02
+jrutnsk,370,tutor,618 milliliters. So you will be given one mark for this. Okay? Right. So I think it's time we end the session.,00:41:06
+jrutnsk,371,background,Okay.,00:41:19
+jrutnsk,372,tutor,Maybe we can continue the second such style question in the next session. Yeah.,00:41:20
+jrutnsk,373,tutor,Right. Did you understand all what we did today?,00:41:24
+jrutnsk,374,student,Yeah.,00:41:27
+jrutnsk,375,tutor,"Yes. Okay then. Have a nice day, Kieran. Bye.",00:41:28
+jrutnsk,376,student,You too. [unclear] Bye.,00:41:33
+jrutnsk,377,tutor,Bye. [unclear],00:41:35
+jrutnsk,378,tutor,Okay.,00:41:49

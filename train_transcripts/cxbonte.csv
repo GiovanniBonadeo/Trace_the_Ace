@@ -1,0 +1,272 @@
+session_id,utterance_id,role,content,timestamp
+cxbonte,0,background,[unclear],00:00:00
+cxbonte,1,tutor,Hello?,00:00:00
+cxbonte,2,background,Hello?,00:00:09
+cxbonte,3,tutor,Hello.,00:00:10
+cxbonte,4,background,"Hi Julian, how are you?",00:00:11
+cxbonte,5,student,"Good, thank you.",00:00:14
+cxbonte,6,tutor,"Sorry, what did you say?",00:00:21
+cxbonte,7,student,"I was asking, how was the day so far?",00:00:23
+cxbonte,8,tutor,"It's been good, thank you.",00:00:27
+cxbonte,9,student,"Okay, all right. So can we start up with your lesson? [unclear]",00:00:29
+cxbonte,10,tutor,Yes.,00:00:34
+cxbonte,11,tutor,"Okay, so you remember we were doing finding probabilities using tree diagrams? [unclear] Okay, and you were on a question which was half done by you because we have to stop because of time. Okay?",00:00:41
+cxbonte,12,student,Yeah.,00:01:01
+cxbonte,13,tutor,You remember this question?,00:01:03
+cxbonte,14,tutor,"Okay, so should I write the missing answers which you had already completed, or would you like to do it one more time?",00:01:06
+cxbonte,15,student,"Could you write them, please?",00:01:15
+cxbonte,16,tutor,"Okay, so will you help me out in writing them down? Like, what was the strategy which we were using for this question?",00:01:17
+cxbonte,17,background,[unclear],00:01:24
+cxbonte,18,tutor,"Yeah, I'm not really sure what's the equation for these.",00:01:26
+cxbonte,19,tutor,Go through the question one more time and tell me. What strategy we were using? [unclear],00:01:30
+cxbonte,20,student,I think I'll put the names of the different CRISPs here.,00:01:49
+cxbonte,21,tutor,Okay.,00:01:56
+cxbonte,22,tutor,"Let me write that. So first will be CO, then the next ring would be RS, and the last one is SP. Okay, then—",00:01:58
+cxbonte,23,student,[unclear] the probabilities here.,00:02:15
+cxbonte,24,tutor,"Okay, so what will be the probability of the first ring? 15. [unclear] 6 over 15.",00:02:18
+cxbonte,25,tutor,For which one you are telling me this?,00:02:34
+cxbonte,26,student,Cheese and onion.,00:02:38
+cxbonte,27,tutor,"Okay, the first one. So for the cheese and onion, how many cheese and onion were there?",00:02:40
+cxbonte,28,student,5.,00:02:47
+cxbonte,29,tutor,"Okay, so what will be the probability?",00:02:48
+cxbonte,30,student,5/15.,00:02:52
+cxbonte,31,tutor,"Yes, it will be 5/15. Then for ready and salted?",00:02:53
+cxbonte,32,student,Ready and salted will be 6/15.,00:03:01
+cxbonte,33,tutor,"Okay, and I will write 6/15. And for the last one?",00:03:06
+cxbonte,34,student,4/15.,00:03:12
+cxbonte,35,tutor,"Okay, 4/15.",00:03:15
+cxbonte,36,tutor,"That's correct. Now, for the second pick, what we are doing? Tell me.",00:03:17
+cxbonte,37,student,I've got all the names of the crisps down here again. [unclear],00:03:38
+cxbonte,38,tutor,"So this was CO, then again it was RS, then last one was SV. Okay, now how are you going to find out the values?",00:03:43
+cxbonte,39,student,"So since you already picked one, there'd be one less in the packet, like in the box.",00:04:01
+cxbonte,40,tutor,Okay.,00:04:06
+cxbonte,41,student,"And since you've already picked one cheese and onion, there's gonna be 4 [UNCLEAR].",00:04:07
+cxbonte,42,tutor,Okay.,00:04:13
+cxbonte,43,student,This one would be 6 over 14.,00:04:17
+cxbonte,44,tutor,Okay.,00:04:20
+cxbonte,45,student,And this one would be 4 over 14.,00:04:22
+cxbonte,46,tutor,Okay.,00:04:29
+cxbonte,47,student,"Now for this one, you do the same again and put [unclear]",00:04:31
+cxbonte,48,tutor,Okay. [unclear],00:04:52
+cxbonte,49,student,Cheese and onion will be 5 over 14.,00:04:54
+cxbonte,50,tutor,Cookie.,00:04:58
+cxbonte,51,student,Ready salted will be 5 over 14.,00:05:01
+cxbonte,52,tutor,Okay. And this will be 5 over 14?,00:05:05
+cxbonte,53,student,Because you've already picked one pack already sorted.,00:05:08
+cxbonte,54,tutor,Okay.,00:05:12
+cxbonte,55,student,"And then, [unclear] will be 4 over 14.",00:05:14
+cxbonte,56,tutor,"Oh. That can be done. Okay, good. Now?",00:05:18
+cxbonte,57,student,"Well, you do the same for this part with the",00:05:28
+cxbonte,58,tutor,Thanks.,00:05:31
+cxbonte,59,student,Hmm. [unclear],00:05:34
+cxbonte,60,tutor,Okay. Okay.,00:05:36
+cxbonte,61,student,"Um, for choosing, it might be 5 over 14.",00:05:45
+cxbonte,62,tutor,Okay. So this is 5/14.,00:05:53
+cxbonte,63,student,[unclear] would be 6/14.,00:06:01
+cxbonte,64,tutor,Okay.,00:06:05
+cxbonte,65,student,And salt and vinegar would be 3/14.,00:06:09
+cxbonte,66,tutor,"Okay. Okay. Now, what to do after this? [unclear]",00:06:12
+cxbonte,67,student,We have to work out the probability of all the ones being picked.,00:06:30
+cxbonte,68,tutor,"Okay, so what we will write over here?",00:06:40
+cxbonte,69,student,"Uh, 3.14?",00:06:45
+cxbonte,70,tutor,Can you write all the possible events now?,00:06:47
+cxbonte,71,tutor,"All the possible outcomes. Can you write them down now? Use this format, please. Use— write like",00:06:56
+cxbonte,72,background,"capital P, then in brackets write C, O, comma, C. This is the proper format of doing these kind of questions. [unclear]",00:07:05
+cxbonte,73,student,[unclear] [unclear],00:07:16
+cxbonte,74,student,[unclear] [unclear],00:07:40
+cxbonte,75,student,[unclear] [unclear],00:07:44
+cxbonte,76,student,[unclear],00:08:04
+cxbonte,77,tutor,Did you say something? [unclear] [unclear],00:08:07
+cxbonte,78,tutor,Yeah. [unclear],00:09:03
+cxbonte,79,tutor,And now I have to find the answers for all of these.,00:09:41
+cxbonte,80,student,Okay. [unclear],00:09:48
+cxbonte,81,student,[UNCLEAR] [unclear],00:09:48
+cxbonte,82,student,[unclear],00:09:48
+cxbonte,83,tutor,I mean 0.01. And then [UNCLEAR].,00:10:19
+cxbonte,84,tutor,"You can even leave the answer without simplifying as well, okay?",00:10:54
+cxbonte,85,student,"Okay. So first I use this equation, theta over [unclear] times π times diameter, which is the equation for arc length. Then I replace the T with the degree that I'm looking for, which is 40.",00:11:02
+cxbonte,86,tutor,40.,00:11:02
+cxbonte,87,student,"Yeah, and then also find the diameter by multiplying the radius by 2 to get 10. And then substitute this equation to get the [UNCLEAR]. And got 3.49. And then it's asking for 3 significant figures. So the first nonzero figure is 9, and the next one is zeros.",00:11:02
+cxbonte,88,tutor,So it stays at 3.49. [unclear],00:11:58
+cxbonte,89,tutor,"A good working out, a praise for this? [unclear]",00:12:12
+cxbonte,90,tutor,Okay.,00:12:42
+cxbonte,91,student,like around this.,00:12:42
+cxbonte,92,tutor,"Oh, all right.",00:12:42
+cxbonte,93,student,Yeah. Then you draw that in like this. [unclear],00:12:49
+cxbonte,94,tutor,Mm-hmm.,00:12:57
+cxbonte,95,student,"Yeah, 300. [unclear]",00:13:10
+cxbonte,96,tutor,"No, we divide 1,000 by 100. [unclear]",00:13:21
+cxbonte,97,student,We get 30. [unclear],00:13:29
+cxbonte,98,tutor,And then we have to call the times 30. [unclear],00:13:35
+cxbonte,99,tutor,"and then we cancel 0.993. It has to go— there are 2 rounded, we need 0.01.",00:13:35
+cxbonte,100,student,"Yeah, I'm done.",00:13:35
+cxbonte,101,tutor,"Cancel by 30, which is 0.3.",00:14:07
+cxbonte,102,tutor,from 200. I mean 0.3 from 200. So it's 0.99.,00:14:07
+cxbonte,103,background,"Check this answer one more time, Julian. Ready salted and salt and vinegar. [unclear]",00:14:07
+cxbonte,104,tutor,That's fine now. [unclear],00:14:40
+cxbonte,105,student,True.,00:15:09
+cxbonte,106,tutor,"Good. Well done. A praise for your fabulous performance till here. So you get your 3 marks for completing this diagram. Okay. Now, Julian, [unclear] What you'll do after this?",00:15:42
+cxbonte,107,student,Uh... I have to times the ones that have the same packets.,00:15:59
+cxbonte,108,tutor,"Okay, and why do you think you will have to multiply that?",00:16:09
+cxbonte,109,student,To find out the total [UNCLEAR].,00:16:14
+cxbonte,110,tutor,"Okay, so to find the total, what should we do?",00:16:14
+cxbonte,111,tutor,[unclear],00:16:27
+cxbonte,112,background,"Hmm, yes, because there is an option that either she will pick cheese and onion, cheese and onion, or she will pick ready and salted, ready and salted, or in the last option she will pick salt and vinegar and salt and vinegar. So whenever there is an option, we do addition. Okay?",00:16:27
+cxbonte,113,student,Is the first question correct? [unclear],00:16:56
+cxbonte,114,tutor,So what do you think is the answer? [unclear],00:17:02
+cxbonte,115,tutor,Well done. A praise for this performance over here. Good.,00:17:15
+cxbonte,116,student,Use the equation.,00:17:32
+cxbonte,117,tutor,And what will you do for the last option?,00:17:34
+cxbonte,118,student,Exist one at times.,00:17:37
+cxbonte,119,tutor,So what is the last option asking you?,00:17:41
+cxbonte,120,student,She picks at least one packet of ready salted.,00:17:43
+cxbonte,121,tutor,"Okay. So can you select the outcomes which show you this? Good. Good. Now the question is asking, find the probability she picks at least one pack of ready salted. So when the word 'at least' comes, what should be done?",00:17:48
+cxbonte,122,student,I am not really sure what [unclear] means.,00:18:19
+cxbonte,123,tutor,"At least means only once she should pick this ready salted. So either she can pick it in this turn, Either in this term, either in this, either in this, or either in this. So what we should do?",00:18:23
+cxbonte,124,student,[unclear],00:18:39
+cxbonte,125,tutor,"Yes, because her condition is that either in the first outcome she can pick, or in the second one, or in the third, or in the fourth, or in the fifth. Okay?",00:18:40
+cxbonte,126,student,Yeah. [unclear],00:18:51
+cxbonte,127,tutor,Yeah.,00:19:37
+cxbonte,128,student,Good.,00:19:38
+cxbonte,129,tutor,But—,00:19:44
+cxbonte,130,background,"Okay, and if we simplify these two answers, what will be the final answer?",00:19:45
+cxbonte,131,tutor,"And so, Cindy, some pitch for? [unclear] [unclear]",00:19:50
+cxbonte,132,tutor,"Okay, so is this the simplest form?",00:20:52
+cxbonte,133,student,Yeah.,00:20:56
+cxbonte,134,tutor,"Okay, then please check your calculation one more time. If you add all the probabilities. [unclear]",00:20:59
+cxbonte,135,tutor,Yeah.,00:21:25
+cxbonte,136,tutor,Yeah. [unclear],00:21:32
+cxbonte,137,tutor,Yeah. [unclear],00:21:59
+cxbonte,138,student,So we have to find out the [unclear] calculator.,00:22:24
+cxbonte,139,tutor,Yeah.,00:22:32
+cxbonte,140,background,result.,00:22:32
+cxbonte,141,tutor,"Yes, that's the correct one. Okay, a fabulous working on this part as well. So again, a praise for this. Okay. Now, in this question, was it necessary to write all the outcomes?",00:22:32
+cxbonte,142,tutor,"Okay, and why do you think no?",00:22:51
+cxbonte,143,student,Because some of them didn't get used.,00:22:56
+cxbonte,144,tutor,"Okay, but if we had— so how will you decide that which outcomes to write?",00:23:00
+cxbonte,145,student,Already in the question. [unclear],00:23:08
+cxbonte,146,tutor,"Okay, but actually whenever we are completing this diagram, we need to write all the possible outcomes. Then only you will get your full marks. Okay?",00:23:10
+cxbonte,147,student,Okay.,00:23:22
+cxbonte,148,tutor,Okay. And do you know why did I told you not to simplify your answers over here?,00:23:23
+cxbonte,149,background,[unclear],00:23:31
+cxbonte,150,student,That doesn't make it easier after.,00:23:32
+cxbonte,151,tutor,"Yes, because the denominators will be same if we don't simplify. And if we would have simplified, then the denominators would have changed.",00:23:36
+cxbonte,152,tutor,"Okay. Now, what did you learn about the difference of OR and AND?",00:23:48
+cxbonte,153,student,"Yeah. Oh yeah, that's clear. [unclear]",00:23:53
+cxbonte,154,tutor,This is the—,00:23:57
+cxbonte,155,background,OR means times.,00:23:57
+cxbonte,156,tutor,"OR means add. Whenever there are options, that means we need to add. Okay. See, there were options in this. We had to pick at least one pack of ready salted. So there were different kind of options for that from which we can choose. So that is why we were adding these options. But then you look at this question over here. What is the probability that I pick a red sweet first and then a blue sweet second? Here you see the keyword is 'and.'",00:23:59
+cxbonte,157,student,[unclear],00:24:37
+cxbonte,158,tutor,We don't have an option. Over here we have to pick the red sweet first and then we have to pick a blue sweet second. So we don't have an option over here. So that is why we were multiplying over here. Do you remember? [unclear],00:24:38
+cxbonte,159,tutor,Mm-hmm.,00:24:52
+cxbonte,160,student,Okay.,00:24:54
+cxbonte,161,tutor,"So this is how you will differentiate. When you have options, then you can add. But if there is no option, there is a surety of event, then you will have to multiply.",00:24:55
+cxbonte,162,tutor,Yeah.,00:25:07
+cxbonte,163,student,Uh-huh.,00:25:07
+cxbonte,164,tutor,Okay.,00:25:10
+cxbonte,165,background,"Round it up. Round it up because even if you round it down, we have, you know, [UNCLEAR].",00:25:11
+cxbonte,166,tutor,"So now please recall, how was this question helpful to you? What did you learn from this question?",00:25:11
+cxbonte,167,student,Yeah. [unclear],00:25:35
+cxbonte,168,tutor,Okay. So how will you decide whether to add or whether to divide?,00:25:37
+cxbonte,169,student,Yeah.,00:25:43
+cxbonte,170,tutor,"Sorry, whether to add or whether to multiply?",00:25:44
+cxbonte,171,student,It has multiple options. You have to add it.,00:25:48
+cxbonte,172,tutor,Okay. Good. So are you ready for some challenge questions now?,00:25:53
+cxbonte,173,tutor,"Okay. Just a second. [unclear] Okay. So, this is your [unclear] question. Please go through this. [unclear]",00:26:03
+cxbonte,174,tutor,"Okay, so any idea how to do this question?",00:26:43
+cxbonte,175,tutor,Mm-hmm.,00:26:54
+cxbonte,176,student,Okay.,00:26:55
+cxbonte,177,tutor,"So tell me, how will you do this one? [unclear] [unclear]",00:26:55
+cxbonte,178,student,"It's one pipe, so there are how many? It can't be like this pipe because it's not area.",00:27:53
+cxbonte,179,tutor,[UNCLEAR],00:27:53
+cxbonte,180,tutor,[unclear],00:27:53
+cxbonte,181,tutor,"Firstly, I'm the [unclear] of the Inner Circle.",00:28:35
+cxbonte,182,student,Hmm.,00:28:46
+cxbonte,183,tutor,It's C-3A4. [unclear],00:28:49
+cxbonte,184,student,Hmm. [unclear],00:28:59
+cxbonte,185,tutor,And done. A praise for completing this diagram.,00:29:28
+cxbonte,186,tutor,"So you get 2 marks for this part. Now, what about the second part? [unclear]",00:29:55
+cxbonte,187,student,0.85 times 0.6.,00:30:06
+cxbonte,188,tutor,Good. And how do you know that we should do this?,00:30:16
+cxbonte,189,student,So I substituted the value in for theta. I put 23 and the time limit is 12.,00:30:20
+cxbonte,190,tutor,Can you reason this out why we are doing this?,00:30:28
+cxbonte,191,student,I got 1.84. [unclear],00:30:32
+cxbonte,192,tutor,"Hmm, yes. So it is asking calculate the probability she passes the second time. That means On the first time, she needs to get— [unclear] And the probability for fail was 0.85. And on the second chance, the probability of passing was—",00:30:35
+cxbonte,193,student,0.6.,00:30:57
+cxbonte,194,tutor,"Yes. So these were your confirmed outcomes, that these things need to happen. That is why we were multiplying in this.",00:31:00
+cxbonte,195,tutor,Mm-hmm.,00:31:09
+cxbonte,196,student,Okay.,00:31:11
+cxbonte,197,tutor,"Yes. Good. So again, you're 2 marks for this answer as well. What do you think about the last part? [unclear]",00:31:14
+cxbonte,198,tutor,Good. And why we will do that?,00:31:29
+cxbonte,199,student,Like the phone number. [unclear],00:31:33
+cxbonte,200,tutor,Yes. So why we are not adding this time?,00:31:43
+cxbonte,201,student,"Is it because it's a decimal, not fraction?",00:31:47
+cxbonte,202,tutor,That's not a correct logic for that. I can give the same decimals in fractions as well. I can write it as 8500. Will it change the workings?,00:31:52
+cxbonte,203,student,"If there is a zero, then I'm going to—",00:32:03
+cxbonte,204,tutor,No. Then what can be the reason why we are multiplying over?,00:32:06
+cxbonte,205,student,"Yeah, and then I got my 3 nonzero figures, then on the right we got a 1, so we need to round down. So I got 1. [unclear]",00:32:10
+cxbonte,206,tutor,Read the C question carefully and then try to think about it. What is the important word which will help you decide this?,00:32:25
+cxbonte,207,student,Yeah. [unclear],00:32:36
+cxbonte,208,tutor,"Yes, because it is written she is failing for all the 3 times. So that it is not giving you any option. It is not saying that she fails any one time. She is not failing for any of the 1 chances. She is failing all the 3 times. That is why.",00:32:40
+cxbonte,209,student,"Now, uh, alright. [unclear] So it's 1.0.",00:32:59
+cxbonte,210,student,0.5 the answer.,00:33:23
+cxbonte,211,tutor,Good. So another 2 marks for this part as well.,00:33:26
+cxbonte,212,student,Alright.,00:33:30
+cxbonte,213,tutor,Now what did you learn from this kind of a question and how did it help you out?,00:33:31
+cxbonte,214,student,This is 0. [unclear],00:33:37
+cxbonte,215,background,If it says 'or' you have to times it because it's not giving you options.,00:33:46
+cxbonte,216,tutor,"Okay, good. So again, appraise for your learnings from this question. Good. So now you have to just review the answers on this slide. So can you check the answer for the two questions over here? [unclear] [unclear]",00:33:50
+cxbonte,217,tutor,"Added a times and not counts before. You could either get red, red or blue, blue.",00:34:27
+cxbonte,218,student,Yeah.,00:34:38
+cxbonte,219,tutor,It's— what is the question asking you?,00:34:43
+cxbonte,220,student,[unclear],00:34:44
+cxbonte,221,tutor,So what are your possible outcomes for this question?,00:34:46
+cxbonte,222,student,2 reds or 2 blues.,00:34:53
+cxbonte,223,tutor,"Okay, so what will be the probability of 2 reds? [unclear]",00:34:56
+cxbonte,224,tutor,It would be—,00:35:08
+cxbonte,225,student,e.,00:35:08
+cxbonte,226,student,144 over 49.,00:35:32
+cxbonte,227,tutor,Correct. So can you write it somewhere? [unclear] And then you add those.,00:35:37
+cxbonte,228,tutor,"Okay, and why we are adding them?",00:35:58
+cxbonte,229,student,Because of the options.,00:36:00
+cxbonte,230,tutor,"Yes, and how did you find out that there was an option?",00:36:03
+cxbonte,231,student,"Because you can either have red, red, or blue, blue.",00:36:07
+cxbonte,232,tutor,"Good. So again, a praise for this wonderful performance.",00:36:11
+cxbonte,233,background,[unclear],00:36:14
+cxbonte,234,student,"So this actually should be 74, 114. [unclear]",00:36:15
+cxbonte,235,tutor,The denominator over here should be?,00:36:26
+cxbonte,236,student,144.,00:36:38
+cxbonte,237,tutor,Yes.,00:36:41
+cxbonte,238,student,So it's 5.05.,00:36:41
+cxbonte,239,tutor,Great.,00:36:48
+cxbonte,240,tutor,"Now in the same way, please check the last answer over here. [unclear]",00:36:52
+cxbonte,241,student,I don't think so. [unclear],00:37:19
+cxbonte,242,tutor,"Okay. Now for this question, what can be the diagram? Can you check the diagram also? Oh, they put 11, but they should go down to 10 because there's one last sock in the drawer.",00:37:32
+cxbonte,243,tutor,"Hmm, good.",00:37:51
+cxbonte,244,student,So it should be 110 over 30. [unclear],00:37:55
+cxbonte,245,tutor,"Okay, and why that will be a 30?",00:38:05
+cxbonte,246,tutor,"Sorry, not 30.",00:38:09
+cxbonte,247,student,[unclear],00:38:10
+cxbonte,248,tutor,"Yeah, 30, because the number of white socks stays the same.",00:38:17
+cxbonte,249,background,But what about the black socks?,00:38:22
+cxbonte,250,tutor,"In the first case, she has a black sock. Then in the second case, what will be the probability of black socks? Oh, 4 of them. [unclear]",00:38:28
+cxbonte,251,tutor,Good. [unclear],00:38:42
+cxbonte,252,student,The probability for black and white is 30 over 110 for that one.,00:38:48
+cxbonte,253,tutor,For which one?,00:38:59
+cxbonte,254,student,For the black-white.,00:39:01
+cxbonte,255,tutor,Okay.,00:39:05
+cxbonte,256,student,"And to get white and black, then that would be actually 10. [unclear] So it would be 30 over 110 again, so it would be 60 over 110.",00:39:05
+cxbonte,257,tutor,"That's correct. Well done. Again, a praise for your fabulous performance.",00:39:25
+cxbonte,258,tutor,"Okay, good. So what did you learn from this lesson?",00:39:45
+cxbonte,259,student,[unclear] probabilities.,00:39:49
+cxbonte,260,tutor,Okay. So in which condition do we add?,00:39:57
+cxbonte,261,student,When there's more than one option.,00:40:01
+cxbonte,262,tutor,Okay. And when do we multiply?,00:40:04
+cxbonte,263,student,When there's only one option.,00:40:07
+cxbonte,264,tutor,"Okay, good. So again, a praise for your learnings from this lesson. So I hope this lesson was useful to you. [unclear]",00:40:10
+cxbonte,265,tutor,"Okay, so did you enjoy this as well?",00:40:21
+cxbonte,266,student,Yeah.,00:40:24
+cxbonte,267,tutor,"Okay, so please attempt the quiz at the end and please complete the feedback form. [unclear]",00:40:26
+cxbonte,268,student,Yeah.,00:40:30
+cxbonte,269,tutor,"Okay, bye-bye, have a good day.",00:40:32
+cxbonte,270,student,You too.,00:40:35

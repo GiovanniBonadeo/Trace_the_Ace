@@ -1,0 +1,165 @@
+session_id,utterance_id,role,content,timestamp
+leslifi,0,tutor,Hello.,00:00:00
+leslifi,1,background,[unclear],00:00:00
+leslifi,2,student,Hello.,00:00:01
+leslifi,3,tutor,"Hello. Hi, Callum.",00:00:02
+leslifi,4,student,Hi.,00:00:04
+leslifi,5,tutor,"Hi, how are—",00:00:04
+leslifi,6,student,Sorry.,00:00:08
+leslifi,7,tutor,"So, hello, am I audible?",00:00:09
+leslifi,8,student,Hello.,00:00:11
+leslifi,9,tutor,"Look, can you hear me? Am I audible to you?",00:00:11
+leslifi,10,student,Yes.,00:00:15
+leslifi,11,tutor,"All right, all right. So how are you doing, Callum? Are you doing great?",00:00:16
+leslifi,12,student,"Good, thank you.",00:00:20
+leslifi,13,tutor,"All right, okay. So I hope this is your first session with EduPeak Tutoring, right? Isn't it?",00:00:22
+leslifi,14,student,Yeah.,00:00:28
+leslifi,15,tutor,"All right, okay, so let me take you through program status. Okay, so yeah, so whenever you join our session, um, so please bring a paper, pen, and a calculator. So, and if you have got any question throughout the whole session, feel free to ask me. All right, and at the end of each lesson, there will be a set of questions you'll be given, right? So don't forget to do that one after we have completed our session. All right.",00:00:29
+leslifi,16,student,Okay.,00:00:57
+leslifi,17,tutor,"Yeah, okay. All right, great. So, so hold on a second. So yeah, so we'll begin our first lesson. All right, so today we're gonna learn estimating calculations. Alright, so you are given a sample question here. So would you like to give it a try?",00:00:57
+leslifi,18,student,Okay.,00:01:28
+leslifi,19,tutor,Yep. [unclear] [unclear],00:01:30
+leslifi,20,tutor,All right. So can you take me through your steps?,00:02:44
+leslifi,21,student,"3.8 rounded up is 4, and 12.98 rounded up is 13, and then 0.51 rounded up is 1.",00:02:49
+leslifi,22,tutor,All right.,00:03:03
+leslifi,23,tutor,"Okay, this is a very good explanation, so you are really close. So, okay, so basically estimate means, so we are finding a value that is very close enough to the right answer, right? So estimate means we are finding a value that is really close to the right answer. So, um, so when we do this type of calculation, what needs to be done is, as you said, so 3.8 should be rounded up. So there's a step to follow how we can round up. So the first step should be we need to find the first significant figure. Let me type it here. First significant figure, which means—",00:03:03
+leslifi,24,student,[unclear],00:03:53
+leslifi,25,tutor,First nonzero digit.,00:03:54
+leslifi,26,student,Mm-hmm.,00:03:57
+leslifi,27,tutor,"So in this one, 3.8, the first nonzero digit is 3, right? So we should find the first nonzero digit. Then we need to look up to the right next number. If the right next number is equal to 5 or above 5, we're going to round up. So if it is below 5, then we're going to round it down. So, so you know how to round up and round it down, right? So basically, if we need to round up, we're going to just add 1 to the, the number, which is 3 plus 1 will become 4. So if you're going to round it down, we're going to put the placeholder in the place of 8, and we're going to keep the numbers. [unclear] We're going to keep the number as it is. So if we round it up, 3.8 will become 4. That's perfect. So when it comes to 12.98, so we're gonna find the first significant figure, which is the first non-zero digit, and that is 1, right? [unclear] If we look into the number right next to the first non-zero digit, that is 2.",00:04:01
+leslifi,28,student,"2. So, 2 is obviously below 5, so we round it down. So when we round it down, it will become...",00:05:13
+leslifi,29,student,10.,00:05:25
+leslifi,30,tutor,"10. Good job. So 10. So, the [unclear] says we need to calculate 4 times 30. So obviously, she is wrong. On in this one. So we're going to do the same for the 0.51 as well. We're going to find the first non-zero digit. What do you think would be the first non-zero digit? [Speaker:Callum]...5.",00:05:27
+leslifi,31,tutor,"5, good job, because the first significant figure should be the first non-zero digit, which is 5, and we're gonna look up to the right next digit, which is 1. Obviously 1 is below 5, so we're gonna round it down. So If you're gonna round it down, so what do you think the value would be?",00:05:51
+leslifi,32,student,0.5.,00:06:11
+leslifi,33,tutor,"Awesome, so 0.5. Now we have, we have rounded up or down every, all 3 values. Now we have our estimated values. So out of all 3 people, who do you think is correct now?",00:06:13
+leslifi,34,student,Beatrice.,00:06:29
+leslifi,35,tutor,"Awesome, good job. So we need to calculate 4 times 10, then divide by 0.5. All right, so we'll move on to our next one. Right, right. So can you try this question?",00:06:31
+leslifi,36,student,Okay.,00:06:52
+leslifi,37,tutor,"Yeah. I mean, basically this one is not an estimation calculation. This one is, uh, yeah, if you, if you read the question, you'll know, right? Okay.",00:06:53
+leslifi,38,student,Okay.,00:07:13
+leslifi,39,tutor,"Yeah, once you're done, let me know.",00:07:14
+leslifi,40,student,Okay. [unclear],00:07:18
+leslifi,41,tutor,What? [unclear],00:07:26
+leslifi,42,student,Yeah. [unclear] [unclear] [Speaker:Callum]... [unclear] [unclear] [Speaker:Callum]... [unclear],00:07:49
+leslifi,43,student,[unclear],00:08:44
+leslifi,44,tutor,I think I'm done.,00:08:44
+leslifi,45,background,"All right, perfect. Can you explain your answers to me, Callum?",00:08:45
+leslifi,46,student,"Well, the first one obviously is just what the calculator gave me. First I did 3.1 times 8.59, and then I divided it by 0.2901.",00:08:51
+leslifi,47,background,Awesome.,00:09:03
+leslifi,48,student,"And then for the second one,",00:09:05
+leslifi,49,student,"I rounded it by what I think is 3 significant figures. Because the 7 is next to a 9, which should make it 8 because it's bigger than 5.",00:09:07
+leslifi,50,tutor,So good job. So round your answer to 3 significant figures. So how was your first approach? I [unclear] ask you that question. So did you find a 3rd significant figure first? [Speaker:Callum]... [unclear],00:09:20
+leslifi,51,tutor,"Yeah, I tried to find the third significant figure first. I couldn't remember if that was...",00:09:36
+leslifi,52,background,"Yeah, so, alright, I got you. So the first... so when we estimate, we're gonna find the first significant figure. That would be 9. In this question, round your answer to 3 significant figures. Which means we're gonna— if the 9 is the first significant figure, 1 would be the second significant figure, and 7 would be the third significant. Since the question is asking us to round our answer to 3 significant figures, so we have found our third significant figure, and we're gonna look up to the right next digit, which is 9. Obviously, 9 is greater than 5, so we're gonna round it up.",00:09:44
+leslifi,53,student,"[unclear] Okay, so 91.8. Good job. So, all right. How about this one?",00:10:26
+leslifi,54,student,[unclear],00:10:35
+leslifi,55,tutor,Okay. [unclear] [Speaker:Callum]... [unclear] [unclear] [Speaker:Callum]... [unclear] [unclear],00:10:37
+leslifi,56,student,I think I'm done.,00:11:25
+leslifi,57,tutor,"All right, perfect. So can you explain me the second one? So B part. [unclear]",00:11:41
+leslifi,58,student,"Second significant figure in that number would be 5, and then the number next to that is a 4, so that means it would round down.",00:11:51
+leslifi,59,tutor,Good job. Good job. Perfect. So we're going to round it down. Awesome.,00:12:02
+leslifi,60,tutor,So we'll move to our next one. Yep. [unclear] The answer calculation. Yeah. [unclear],00:12:09
+leslifi,61,student,"I think, yeah, I think I'm done.",00:13:15
+leslifi,62,tutor,"All right. So, can you explain your answers?",00:13:18
+leslifi,63,student,"Well, 5.2, the 2 is—",00:13:22
+leslifi,64,student,"Smaller than 5, so that would round to 5. And then 18, the 9 after that would make it round to 19. And then 0.4—",00:13:26
+leslifi,65,tutor,"Alright, okay, so when we estimate, we should round our values to first significant figure, right? As we did in the first one.",00:13:39
+leslifi,66,student,Yeah. [unclear],00:13:48
+leslifi,67,tutor,"Okay, so— So the first significant figure is here.",00:13:49
+leslifi,68,student,1.,00:13:55
+leslifi,69,tutor,"1. So we're going to look up to the right next digit, which is 8. So yeah.",00:13:56
+leslifi,70,student,Should that be 20?,00:14:02
+leslifi,71,tutor,"You know how it is, that [UNCLEAR]. Yeah, good job.",00:14:02
+leslifi,72,student,Okay. Is that correct then? [unclear],00:14:06
+leslifi,73,tutor,"Oh, so it is still not reflecting on my side. Okay, have you made changes?",00:14:38
+leslifi,74,student,Yeah. [unclear],00:14:45
+leslifi,75,tutor,"Hold on, let me refresh my screen first.",00:14:50
+leslifi,76,student,Okay. [unclear],00:14:53
+leslifi,77,tutor,Your changes are not showing to me. [unclear],00:15:14
+leslifi,78,student,"Sorry, you broke up a little bit then. What did you say?",00:15:16
+leslifi,79,tutor,So I was asking what was the final answer for this one? I couldn't see the changes you have made.,00:15:22
+leslifi,80,student,"Well, I changed the 19 to 20, so then that makes the answer 250. Awesome, good job. So it still shows 237.5 for me. That's why I was asking.",00:15:29
+leslifi,81,tutor,Okay.,00:15:42
+leslifi,82,background,"All right, cool. So we'll move on to the next one. Yeah.",00:15:44
+leslifi,83,student,Okay. [unclear],00:15:49
+leslifi,84,tutor,Is that correct?,00:16:42
+leslifi,85,student,Yep. Good job.,00:16:45
+leslifi,86,tutor,Thank you.,00:16:46
+leslifi,87,student,"So, all right. Can you take me through the steps of this?",00:16:47
+leslifi,88,student,"Yeah, so the first— so in 38.9, we round up to 40 because 3 is the first significant figure, so the 8 would make it round to 40. [unclear]",00:16:52
+leslifi,89,tutor,Yeah.,00:17:08
+leslifi,90,student,"And then the first significant figure in 8.19 is 8, and then the 1 would make it round down to 8 again.",00:17:08
+leslifi,91,student,"And then with 0.4901, it would round to 0.5 because the first significant figure in that number is 4, and then the 9 would make it round to 0.5.",00:17:18
+leslifi,92,tutor,Good job. Good job. So we move on to our next one. [unclear] Okay. [unclear] Would that be right?,00:17:31
+leslifi,93,tutor,All right. So can you take me through the steps first?,00:18:55
+leslifi,94,student,"Well, the 6.3p would be rounded to 6 because 3 is lower than 5, and then the 62.6 would round down to 60 because the 2 is smaller than 5, and then 50 rounds down to— sorry, 52 rounds down to 50 because 2 is smaller than 5.",00:19:01
+leslifi,95,tutor,"Alright, so after you have [unclear] Then what would be the next step?",00:19:23
+leslifi,96,student,"I'm not sure if this was right, but I did 60 times 60— sorry, 6 times 60, and then divided that by 50. But I'm not sure.",00:19:28
+leslifi,97,tutor,"All right, all right. So you are really close. So you have come really close to the right answer. So initially what we're going to do is we're going to underline main important keywords here. So a unit of electricity cost— 6.3p, right? So one unit cost— so one unit cost, um, 6.3p. Then, um, on average, Rio's Factory uses 62.6 units. So 62.6 units, okay, they have been using. So one unit cost 6.3p. So for whole 62.6 unit, what should we do? We should times it by 62.6, right?",00:19:37
+leslifi,98,student,[unclear],00:20:33
+leslifi,99,tutor,"Hold on a second, give me a second. [unclear]",00:20:34
+leslifi,100,tutor,"I'm sorry, I'm sorry, I was having—",00:20:46
+leslifi,101,student,No worries.,00:20:49
+leslifi,102,tutor,"Okay, so, um, 1 unit of electricity costs ₹6.3p. So for whole 62.6 units, the whole cost would be ₹6.3p times 62.6, right? Then it says she needs to pay her electricity bill for the whole year. So the amount that— so amount that, uh, that is spent for a week is 6.3p times 62.6, right? Because it is for a week. In here it says a week. So for whole weeks, so which means we should times the values by 52 again.",00:20:50
+leslifi,103,student,[unclear],00:21:31
+leslifi,104,tutor,"So our main equation would be 62.6 6 times it by 6.3 times it by 52. Now, so we have [unclear] equation. Now, uh, we're gonna do the same thing, right? So we can estimate.",00:21:32
+leslifi,105,student,"Oh, okay.",00:21:52
+leslifi,106,tutor,So can you continue?,00:21:54
+leslifi,107,student,"Yeah, um, so would it be 60 times 6 times 50?",00:21:55
+leslifi,108,tutor,"Yeah, yeah.",00:22:02
+leslifi,109,student,Okay. [unclear],00:22:05
+leslifi,110,tutor,"18,000.",00:22:18
+leslifi,111,background,"Good job. So 18,000 pens, right? So if we convert our value into pounds, how many pounds would that be?",00:22:21
+leslifi,112,student,"Um, would it be, um, 180?",00:22:36
+leslifi,113,tutor,Good job.,00:22:43
+leslifi,114,student,"Oh, yeah. [unclear]",00:22:43
+leslifi,115,tutor,180 pounds. Awesome. How about the next one?,00:22:48
+leslifi,116,student,Okay. [unclear] [unclear],00:23:08
+leslifi,117,tutor,"Yep, it is. So because we have rounded down all the values, so it is an underestimate. Okay, good job. So, all right, so we have moved to our next one. Can you try this one?",00:23:29
+leslifi,118,tutor,Okay. [unclear],00:23:44
+leslifi,119,tutor,Is that correct?,00:24:42
+leslifi,120,background,All right. So can you take me through your steps?,00:24:45
+leslifi,121,student,"So 320 rounded to the first significant figure is 300. And then 2.6 would be 3. I rounded it to 2 by accident. [unclear] So it'd be 100, not 150.",00:24:49
+leslifi,122,tutor,"Yeah, good job. So the formula of speed is equal to distance over time. So distance is 300, as we changed our value into first significant figure. So 2.6 would be 3. So perfect. Good job. How about the next one? [unclear]",00:25:15
+leslifi,123,student,[unclear] [unclear],00:25:33
+leslifi,124,tutor,Is that right?,00:26:06
+leslifi,125,background,All right. So why do you think that is so overestimate?,00:26:09
+leslifi,126,student,"Well, one of the numbers. [Speaker:Callum]...was rounded up, so I just assumed that was [UNCLEAR].",00:26:15
+leslifi,127,tutor,"Alright, so let's say, um, so if you are not asked any of this one and to find, so it only says Maxine drives 320 kilometers in 2.6 hours, right? So if you're asked to find the speed, so what we're gonna do is we're gonna divide 320 by 2.6 to find the speed, right?",00:26:26
+leslifi,128,tutor,"So, but after we have estimated, after we have changed our values, so 300 divided by 3.",00:26:49
+leslifi,129,student,Mm-hmm.,00:26:58
+leslifi,130,tutor,"So, uh, when the denominator, the bottom one, is bigger, the value will also— it will also become smaller.",00:27:00
+leslifi,131,tutor,"When, I mean, when the denominator is bigger, for an example, 10 divided by— sorry, um— [unclear] 10 over 2, 10 over 5. When the denominator is bigger, so the answer will become also smaller.",00:27:14
+leslifi,132,tutor,Okay.,00:27:39
+leslifi,133,background,"10 over 5 is 2, 10 over 2 is 5. So since out of— when we compare these two fractions, so when the denominator is bigger, then the answer will also become smaller. So it is an underestimate, right?",00:27:39
+leslifi,134,student,Mm-hmm.,00:27:56
+leslifi,135,background,All right. [unclear] You got the [unclear] or need more explanations for that one?,00:27:58
+leslifi,136,student,"Nothing. Okay, thank you.",00:28:09
+leslifi,137,tutor,"All right. Yeah. All right. Okay. Perfect. So we'll move on to our next one, a challenge question. Yeah.",00:28:12
+leslifi,138,tutor,Okay. [unclear] [unclear],00:28:32
+leslifi,139,tutor,Callum? [Speaker:Callum]... [unclear] [unclear],00:28:56
+leslifi,140,tutor,Is that right?,00:29:33
+leslifi,141,student,"Yeah, it is. [unclear]",00:29:43
+leslifi,142,tutor,"How about the next one, B part? Yeah.",00:29:53
+leslifi,143,student,"Right, I'm not really sure.",00:30:38
+leslifi,144,tutor,"Yeah, so it could be right because so 431.64 divided by 19.8, and he has put 218. He might have missed a decimal point here, so he could have made a mistake with place value as well, right? So the answer could be sometimes 21.8. So yeah, rounded the numbers from— yeah.",00:30:41
+leslifi,145,tutor,Perfect. Good job.,00:31:05
+leslifi,146,student,Okay.,00:31:06
+leslifi,147,tutor,"So, all right. So this one is the last one. So they have given question with the answers, but the answers could be wrong, right? So can you correct the answers to the question below?",00:31:07
+leslifi,148,student,Okay. [unclear] [unclear],00:31:22
+leslifi,149,tutor,"All right, yeah, good job. So would you mind explaining it to me?",00:32:34
+leslifi,150,student,"Well, 3 and then 0 are the first 2 significant figures, so you went round",00:32:40
+leslifi,151,student,"To 9, you would round to the 0, so that would 9 make the 0, 1.",00:32:47
+leslifi,152,tutor,"Yep, awesome. So we have found the second significant figure, which is 0 here, because 0 can't be the first significant figure when it comes to a nonzero— when it comes to 0. So when 0 starts with— when a number starts with 0, we can't take that as a significant figure. So in this one we can take because it doesn't start with 0, so it is in the middle, so we can take that one. So obviously your answer is correct. How about the next one?",00:32:54
+leslifi,153,student,Okay. [unclear] [unclear],00:33:23
+leslifi,154,student,[unclear] [unclear],00:33:46
+leslifi,155,tutor,Would that be right? [unclear],00:34:06
+leslifi,156,tutor,Would that be right? [unclear],00:34:19
+leslifi,157,tutor,"Hello, hello, hello. Sorry, sorry, I was on mute. Sorry.",00:34:32
+leslifi,158,student,"Oh, no worries.",00:34:35
+leslifi,159,tutor,"I was speaking, right? Okay, yeah. So perfect, your answer is correct. All right.",00:34:36
+leslifi,160,student,Okay.,00:34:42
+leslifi,161,tutor,"So we'll meet next week, okay? So we have reached the end of the session. So we'll meet next week. See ya.",00:34:43
+leslifi,162,student,"Okay, bye.",00:34:47
+leslifi,163,tutor,All right.,00:34:48

@@ -1,0 +1,233 @@
+session_id,utterance_id,role,content,timestamp
+lwqiavi,0,tutor,Hello.,00:00:00
+lwqiavi,1,student,Hi.,00:00:01
+lwqiavi,2,tutor,"Hi, [STUDENT_NAME]. How are you doing?",00:00:01
+lwqiavi,3,student,Good.,00:00:04
+lwqiavi,4,tutor,You're doing good. How was your day so far at school?,00:00:06
+lwqiavi,5,student,Good.,00:00:10
+lwqiavi,6,tutor,"It was good. All right, that's really nice to hear from you. So what did you do at school today so far, [STUDENT_NAME]?",00:00:11
+lwqiavi,7,student,"I done maths. I did maths for doing... [unclear] a class competition on CT Rockstars. So we all went against each other. There was one time where I got first, twice first, and then I got twice in second.",00:00:20
+lwqiavi,8,tutor,"Okay, that's really nice to hear from you. All right, so welcome back to another session at [unclear] learning, [STUDENT_NAME].",00:00:39
+lwqiavi,9,tutor,So shall we get started with your very first lesson?,00:00:49
+lwqiavi,10,student,Yeah.,00:00:53
+lwqiavi,11,tutor,"Alright then, let me get started. Good to go. So your very first lesson for the day is on dividing using partitioning. Alright, so have you done this topic before at school?",00:00:55
+lwqiavi,12,student,Yeah.,00:01:14
+lwqiavi,13,tutor,"Yes, so what do you know about this?",00:01:16
+lwqiavi,14,student,"Yeah, like, uh, 3, you have to like, you might have a remainder.",00:01:19
+lwqiavi,15,tutor,Pardon?,00:01:24
+lwqiavi,16,student,You might have a remainder.,00:01:25
+lwqiavi,17,tutor,"Yes, we might have a remainder or not have a remainder. That depends on the number we divide. Uh, dividing using partitioning is Where dividing using partitioning is where you split the number into smaller parts and divide them. Yeah?",00:01:29
+lwqiavi,18,student,Yeah. I've got a new cursor.,00:01:49
+lwqiavi,19,tutor,"Oh, okay, that's nice. So shall we try this, [STUDENT_NAME]?",00:01:53
+lwqiavi,20,student,"Yeah. So, 3, 6, 7, 8, 9. I know it goes— There's a 36, which is 9.",00:01:58
+lwqiavi,21,tutor,Mm-hmm.,00:02:09
+lwqiavi,22,student,"Then we pull 36, add 239. Let me just put that there so I know. [unclear] I'm just putting 9 there so I know how much it is. [unclear]",00:02:11
+lwqiavi,23,student,So that's too far.,00:02:32
+lwqiavi,24,student,48 pictures. [unclear] [unclear],00:02:59
+lwqiavi,25,tutor,"Can you check that properly, [STUDENT_NAME]? I don't think you can get remainder here. You can use partition to complete this calculation. So do you know how to do that?",00:03:37
+lwqiavi,26,background,No.,00:03:48
+lwqiavi,27,tutor,"No? Okay, so this is how we do this, [STUDENT_NAME]. We are going to take the number 51, all right? And we're going to partition this into 2 multiples of 3, so it would be easy for us to divide it. Okay, 51 divided by 3. So when you think about the multiples of 3, [STUDENT_NAME], it could be 30 plus 21. That makes a 51, because when you add 30 and 21, you get a 51. So now you can divide 30 by 3 and then 21 by 3. What is 30 divided by 3, [STUDENT_NAME]?",00:03:51
+lwqiavi,28,student,[unclear],00:04:25
+lwqiavi,29,tutor,"Yes, can you write that below here? And what is 21 divided by 3? That's a 7. So what's the final answer? What is 10 plus 7 is? [unclear]",00:04:27
+lwqiavi,30,tutor,"10 7, you would get a 17, [STUDENT_NAME]. There we go. So this is how the partitioning method works. Was that clear for you? Yeah.",00:04:51
+lwqiavi,31,student,All,00:05:07
+lwqiavi,32,tutor,right. Can you try the prior learning? [unclear],00:05:07
+lwqiavi,33,student,What do I partition it into?,00:05:14
+lwqiavi,34,tutor,Pardon?,00:05:23
+lwqiavi,35,student,What do I partition 32 into?,00:05:24
+lwqiavi,36,tutor,"Give me a second. So as you can see, they have partitioned 32 or split 32 into into 30 and 2. So that is 30 plus 2 gives you a 32. They want you to write another way to partition 32. Another way to split 32.",00:05:29
+lwqiavi,37,student,Maybe you can have— [unclear],00:05:50
+lwqiavi,38,tutor,"16 plus 16. Yes. Because 16 plus 16 gives you 32. Awesome, [STUDENT_NAME]! So there are many ways where you can partition a single number into different numbers. Okay, anyway, so that was a very good working out, [STUDENT_NAME]. There we go with few ticks and a very big high five. Good to go, [STUDENT_NAME]. So let's learn on that a bit more over here. So can you please read the green box for me? [unclear] Being able to partition numbers in different ways can help us when dividing. [unclear]",00:06:00
+lwqiavi,39,tutor,"Okay, so can you give a try for these questions?",00:06:38
+lwqiavi,40,student,So I just put my own way of partitioning it.,00:06:43
+lwqiavi,41,tutor,Pardon?,00:06:48
+lwqiavi,42,student,So I put my own way of partitioning it.,00:06:49
+lwqiavi,43,tutor,Okay.,00:06:53
+lwqiavi,44,background,3 and 24 for A.,00:06:57
+lwqiavi,45,tutor,Hmm?,00:07:06
+lwqiavi,46,background,Hmm?,00:07:13
+lwqiavi,47,tutor,"So this is how you have to do this first, [STUDENT_NAME]. First you have to find the total number here. What is the total number they have shown here?",00:07:14
+lwqiavi,48,student,54.,00:07:24
+lwqiavi,49,tutor,"54. So you're supposed to write 54 here. And this 54 here is equal to how many tens here and how many ones here? That's how you're supposed to do. Yes. [unclear] You're going to complete that. Can I check that again, [STUDENT_NAME]? You have to figure out that by looking at the diagram they have given here, [STUDENT_NAME]. How many tens and how many ones are shown here?",00:07:25
+lwqiavi,50,student,[UNCLEAR],00:07:25
+lwqiavi,51,tutor,Yes. [unclear],00:08:00
+lwqiavi,52,tutor,"So you have to find the total that is shown. Yes, that's 54. These are different ways of splitting 54. [unclear]",00:08:32
+lwqiavi,53,student,"So for the bottom ones, can I make up my own one?",00:09:00
+lwqiavi,54,student,"Yes, for 54 you can make your own one for these two. Okay. [unclear]",00:09:05
+lwqiavi,55,tutor,"Awesome, [STUDENT_NAME]! That was a very well done, very good working out. There we go with a prize. Good to go, you did that really well. So let's learn on that a bit more over here. So let me, let me read this for you. So we can divide numbers using partitioning. We partition the dividend and then divide each part by the divisor. So the number we are going to divide is known as dividend, and the number you're using to divide, the dividend, is known as the [unclear] divisor. Was that clear for you, [STUDENT_NAME]?",00:09:35
+lwqiavi,56,student,Yeah.,00:10:12
+lwqiavi,57,tutor,"So two parts as dividend and divisor. So this one whole stack is equal to 10, [STUDENT_NAME]. Can you fill these blanks up? [unclear]",00:10:13
+lwqiavi,58,tutor,"80 plus 4, exactly. So we're going to write the 80 here. 80 divided by 4 is?",00:10:38
+lwqiavi,59,student,"Then it's, um, 84 divided by 4.",00:10:57
+lwqiavi,60,tutor,"So over here it's 80 divided by 4. Now here I want to write the 4 here, the ones. 4 divided by 4 is? [unclear] Yeah, so what is the answer for 84 divided by 4 if you get the total of both?",00:11:03
+lwqiavi,61,student,"21. Awesome, [STUDENT_NAME]! That's how it works. Let's learn on that a bit more here. Let me take you through the follow-me part, as you know. Okay. All right, let me get started. Let's look at how— sorry, let's look at what happens if the tens do not divide easily by the divisor.",00:11:23
+lwqiavi,62,student,"If the tens do not divide easily by the divisor, let's look what's going to happen. 81 divided by 3. So as you know, 81 here, you have tens and ones in it. So we cannot divide that easily by 10. So we are going to split the 81 into multiples of 10 and then the remaining number. So 81 can be split into 60 and 21. So first I can divide the 60 by 10. Oh, I mean, sorry, 60 by 3. So 6 tens by 3. 60 divided by 3 is 20. And then 21 divided by 3 is 7. So my total answer is 20 plus 7. That would give me a 27. So when you split the number, [STUDENT_NAME], you have to think— I mean, my question here says me to divide it by 3. So I have to— when I split the number, I have to think whether these are multiples of 3. So that I can divide that without a remainder. Is that clear for you?",00:11:46
+lwqiavi,63,student,Yeah.,00:12:45
+lwqiavi,64,tutor,"Alright, then give a try for your turn. [unclear]",00:12:46
+lwqiavi,65,student,Dividing it by 4.,00:13:00
+lwqiavi,66,student,60 divided by 4. [unclear],00:13:17
+lwqiavi,67,student,"9 times 4 is 36. [unclear] 44, 48. [unclear] 48. Next. 52. And next.",00:13:31
+lwqiavi,68,student,56.,00:13:58
+lwqiavi,69,tutor,Is that right? [unclear],00:14:24
+lwqiavi,70,student,"60 divided by 4 is 15. Exactly, [STUDENT_NAME]. Fantastic. There we go. You did a very good job. As I can see, you're on the right track. There we go. It's a very big high five for that. Anyways, to recall and to get a very good practice on these type of questions. Let's give a try for this one by one, shall we, [STUDENT_NAME]?",00:14:29
+lwqiavi,71,student,Yeah.,00:15:00
+lwqiavi,72,tutor,"All right, go ahead. [unclear]",00:15:02
+lwqiavi,73,student,/3 equals 30.,00:15:02
+lwqiavi,74,tutor,/3 equals 30. [unclear],00:15:02
+lwqiavi,75,student,Didn't I just do the speed one? I got my [UNCLEAR]. Let me see if I can— 23?,00:15:23
+lwqiavi,76,student,Pardon?,00:15:48
+lwqiavi,77,tutor,Is it 23?,00:15:49
+lwqiavi,78,student,[unclear],00:15:50
+lwqiavi,79,tutor,I can't.,00:15:52
+lwqiavi,80,student,B.,00:15:54
+lwqiavi,81,tutor,Not exactly. Can you check that again? Try splitting 64 into 2 numbers.,00:15:56
+lwqiavi,82,student,60.,00:16:06
+lwqiavi,83,student,[unclear],00:16:13
+lwqiavi,84,tutor,Exactly. Good job. You're right.,00:16:13
+lwqiavi,85,student,"So, how many 6s are in 35? 5, 10, 15? [unclear] [unclear]",00:16:52
+lwqiavi,86,tutor,"Yes. That answer is also 16. Fantastic. That was done really well. There we go with a very big tick. All right, [STUDENT_NAME]. So, so far, did you find anything challenging?",00:17:16
+lwqiavi,87,student,[unclear],00:17:32
+lwqiavi,88,tutor,"Not exactly. All right, so yes. Anyways, let's go ahead and give a try for the last slide on this lesson. Give this a try.",00:17:32
+lwqiavi,89,student,"You could go 30. No, that's not— a number that divides 24.",00:18:03
+lwqiavi,90,tutor,"So they want [STUDENT_NAME]. So, how is he calculating 52 divided by 4? He partitions the number into 50 and 2. Is there a better way he could partition the number?",00:18:27
+lwqiavi,91,student,To take 5 [unclear] [unclear],00:18:41
+lwqiavi,92,student,"If I do it like that, I can solve it by doing how many 4s are in 24? There is 6.",00:18:54
+lwqiavi,93,student,And then how many fours are in 28? 7? 6 and 7? 13?,00:19:13
+lwqiavi,94,tutor,Yes. So can you tell me a way where we can partition 52 without 50 and 2?,00:19:24
+lwqiavi,95,student,Uh... [unclear] So you partition into 24 and 28.,00:19:31
+lwqiavi,96,student,Yeah.,00:19:43
+lwqiavi,97,tutor,"Could be one, or does— you also can partition into 40 plus 12. All right.",00:19:45
+lwqiavi,98,student,Yeah.,00:19:52
+lwqiavi,99,tutor,"There are many ways to partition a number. Anyways, great and good to go. So with that, we have completed this lesson, [STUDENT_NAME]. All right, so yes, how did you find this lesson so far?",00:19:53
+lwqiavi,100,student,[unclear] Good.,00:20:09
+lwqiavi,101,tutor,"You found it good. So yes, could you just tell me one thing that you learned?",00:20:11
+lwqiavi,102,student,Partitioning.,00:20:16
+lwqiavi,103,tutor,Pardon?,00:20:20
+lwqiavi,104,student,Partitioning.,00:20:22
+lwqiavi,105,tutor,"You learned about partitioning and splitting the numbers. Exactly. Good to go, [STUDENT_NAME]. So yes, shall we move on and have a look on your next new lesson?",00:20:22
+lwqiavi,106,student,"Yeah. All right, there we go. So your next lesson is on dividing using short division. Are you familiar with this topic as well?",00:20:35
+lwqiavi,107,background,Yeah.,00:20:50
+lwqiavi,108,student,"Yes, okay, shall we try? You're already trying it, okay. [unclear]",00:20:52
+lwqiavi,109,student,[UNCLEAR] [unclear],00:20:52
+lwqiavi,110,student,[unclear],00:20:52
+lwqiavi,111,tutor,Can you check that again?,00:21:24
+lwqiavi,112,student,"Oh, no, I got a new afternoon. It's 300 [UNCLEAR]. 12 remainder 2. So where did you make the mistake, [STUDENT_NAME]?",00:21:31
+lwqiavi,113,student,"I got confused because I thought of it, but then when you said that isn't right, I thought of how to do it.",00:21:57
+lwqiavi,114,tutor,"Oh, okay, [STUDENT_NAME]. Anyways, that was a very good spotting down. So yes, shall we try the [unclear] learning?",00:22:06
+lwqiavi,115,student,"Yep. [unclear] Teach diagram to show 20 divided by 4 in 2 different ways. Does it mean like if I do this, like put in—",00:22:14
+lwqiavi,116,tutor,"Pardon? Yeah, you could do that way.",00:22:36
+lwqiavi,117,tutor,Is it like different shapes I can do?,00:22:48
+lwqiavi,118,student,"Different shape means, [STUDENT_NAME], some ways that you can annotate using this. So the first one is [UNCLEAR]. You can divide that into 4 groups. So because you can show 20 is divided into 4. Any other thing you can do here?",00:22:54
+lwqiavi,119,tutor,"Okay, you divide into 5s, yeah? Because 20 divided by 4 is 5.",00:23:09
+lwqiavi,120,student,[UNCLEAR],00:23:09
+lwqiavi,121,tutor,"But you could do it that way as well, Callum. Alright. Let's learn on that a bit more here. So we're going to skip this slide as you have a good understanding on the prior learning. And let's get started from this. Can you please read the green box for me?",00:23:15
+lwqiavi,122,student,We use the formal method of short division when,00:23:32
+lwqiavi,123,student,Dividing what? By a one-digit number or dividing by a number you know? Your [unclear] What does it mean by x-tables?,00:23:35
+lwqiavi,124,tutor,Times table.,00:23:47
+lwqiavi,125,student,"Oh, times tables. For example, 12 times.",00:23:48
+lwqiavi,126,tutor,"Exactly, [STUDENT_NAME]. So did you understand what they told you through that box?",00:23:56
+lwqiavi,127,student,Yeah.,00:24:02
+lwqiavi,128,tutor,"So yes, so we can use the formal or the short division method if we are familiar with our times table. Okay, can you give a try for these two questions given here? [unclear]",00:24:03
+lwqiavi,129,student,So that's 8....and 4.,00:24:22
+lwqiavi,130,tutor,"So you have to divide and write the number, [STUDENT_NAME]. So it's 80 there. So we have to divide the 80 by 4 and write the answer there. So 8 divided by 4 is?",00:24:29
+lwqiavi,131,student,10s.,00:24:29
+lwqiavi,132,tutor,[UNCLEAR] here.,00:24:29
+lwqiavi,133,student,2/10.,00:24:47
+lwqiavi,134,tutor,"2/10. Yes, you have to write the answer on top. And then 4 divided by 4 is 1. So you have to write 21.",00:24:49
+lwqiavi,135,student,I usually do it like this. Is that fine? [unclear],00:24:59
+lwqiavi,136,tutor,"No, [STUDENT_NAME]. That indicates the division. 2 divided by 10. But here you are writing the answer. So you have to write the answers properly. You are not dividing 2 by 10 again, yeah?",00:25:06
+lwqiavi,137,tutor,Can you write?,00:25:21
+lwqiavi,138,student,[unclear],00:25:23
+lwqiavi,139,tutor,"How did you get the 10 here, [STUDENT_NAME]? So from where did you get a 10? I think you are a bit confused, [STUDENT_NAME]. We are doing this division here. This division. Alright? So what's confusing for you? You have 8 here, 8 tens. So 4 divided by 8 gives you a 2. And you have 4 ones. 4 divided by 4 is 1. So you have 2 and 1 here. So your answer is 84 divided by 4 is 21. What was confusing?",00:25:25
+lwqiavi,140,student,The— I thought you have to add the— [unclear],00:26:06
+lwqiavi,141,student,[UNCLEAR],00:26:06
+lwqiavi,142,tutor,"The numbers. Not exactly. We are doing division here, so this is how we do it. So in the same way, can you give a try for the question B?",00:26:12
+lwqiavi,143,tutor,"Yes, it's 32. 96 divided by 3 gives you 32. That was a very good [UNCLEAR], [STUDENT_NAME]. Good to go. Let's learn on that a bit more over here. So let me first take you through this. So let's explore this method using place value headings instead of counters. All right, so let's explore this. So 300 divided by 3. So 3 divided by 3 would give us a 1. 3 divided— I mean, 3 goes into 6 is 2, and 3 goes into 5 is 1 remainder 2. Anyway, let me fill this as well. 300 divided by 3 is 1. 6 divided by 3 is 2. 5 ones divided by 3 is 1 [UNCLEAR]. [unclear] 1 remainder 2. So my whole— oh, so my whole answer is 365 divided by 3, 121 remainder 2. Was that clear for you?",00:26:44
+lwqiavi,144,student,Yeah.,00:27:49
+lwqiavi,145,tutor,"Great, then you can try your turn. [unclear]",00:27:50
+lwqiavi,146,student,100 divided by 4. [unclear],00:28:17
+lwqiavi,147,student,Mm-hmm.,00:28:22
+lwqiavi,148,student,Yes.,00:28:54
+lwqiavi,149,tutor,"So it's 102 divided— [unclear] remainder 1. Good job! There we go. That was a good working out. All right, good to go. So let's give a try for these questions. [unclear]",00:28:55
+lwqiavi,150,student,I've got— I'm playing NFL for school today.,00:29:35
+lwqiavi,151,tutor,"Pardon? I'm in the school NFL team, American football.",00:29:39
+lwqiavi,152,tutor,Mm-hmm.,00:29:45
+lwqiavi,153,student,And I'm doing the match today.,00:29:46
+lwqiavi,154,tutor,Oh!,00:29:48
+lwqiavi,155,student,"Because I live in like Little Houghton and there's this team called the Deans and they're a really good school. Last time they literally deep fried us, like beat us, like they got like 8 and we got 0.",00:29:48
+lwqiavi,156,student,"So now that we— but that was just a practice game, so now that we're better, I've got some— I play for the defense.",00:30:08
+lwqiavi,157,tutor,"All right, that's nice to hear. [unclear]",00:30:18
+lwqiavi,158,student,I don't know how many things are 9. [unclear],00:30:34
+lwqiavi,159,student,203. [unclear],00:31:02
+lwqiavi,160,tutor,"Yes, it's 120 remainder 1. Oh, it's 1201 remainder 1. Good job, [STUDENT_NAME]! You're perfectly right in all the answers.",00:32:03
+lwqiavi,161,background,"So there we go. That was a very good effort. Anyways, let's give a try for your last slide here. [unclear]",00:32:19
+lwqiavi,162,tutor,"Yes. So how many boxes are needed, [STUDENT_NAME]?",00:33:22
+lwqiavi,163,student,121 remainder 2.,00:33:25
+lwqiavi,164,tutor,"What is your question, [STUDENT_NAME]? You have to give the answers according to your question. How many boxes How many boxes are needed? The answer is 121 remainder 2. So how many boxes are needed to pack all the 486 cupcakes? You need 121 boxes, and after that you have a remainder of 2 cupcakes, [STUDENT_NAME]. So what are you going to do with [UNCLEAR]?",00:33:31
+lwqiavi,165,student,Is it that?,00:33:31
+lwqiavi,166,tutor,Pardon?,00:34:03
+lwqiavi,167,student,So that's how much— 121 remainder 2 is how many cupcakes there are.,00:34:04
+lwqiavi,168,tutor,"Mm, no, so you have already got the answer, [STUDENT_NAME]. So it's 121 boxes are needed. So after filling 121 boxes with the cupcakes of 4, you have a remainder of 2 cupcakes. So for that 2 cupcakes, you're supposed to take another box. Did you understand?",00:34:10
+lwqiavi,169,student,Yeah. [unclear],00:34:30
+lwqiavi,170,tutor,"You need 122. You need one more box, [STUDENT_NAME]. So you have to add a box to that 121 boxes. So you need 122 boxes. Was that clear for you?",00:34:31
+lwqiavi,171,student,Yep. Yes.,00:34:46
+lwqiavi,172,tutor,Yes. So yes. Could you explain what you learnt on this question? How did you try this?,00:34:51
+lwqiavi,173,background,How it's not always going to be the remainder added.,00:34:58
+lwqiavi,174,tutor,Pardon?,00:35:03
+lwqiavi,175,background,How it's not always the remainder that's going to be added.,00:35:04
+lwqiavi,176,tutor,"Yes, exactly. So with that, we have completed this lesson. Anyways, good to go, [STUDENT_NAME]. So could you just tell me a summary of the things you learned today? [unclear]",00:35:12
+lwqiavi,177,student,"So, like this better, I've learned more about dividing, short division.",00:35:26
+lwqiavi,178,tutor,Pardon?,00:35:45
+lwqiavi,179,student,"More about dividing as a short division. Yes, we learned how to divide as a short division. So do you like the partitioning method or the short division method?",00:35:47
+lwqiavi,180,student,The short division method.,00:36:00
+lwqiavi,181,tutor,Why do you like the short division method?,00:36:02
+lwqiavi,182,student,Because it's quicker.,00:36:05
+lwqiavi,183,tutor,"Yes, it's quicker. So partitioning is a mental method that works with your mind, [STUDENT_NAME]. So both are quicker. Anyways, you can do the step that you are convenient in. Okay?",00:36:07
+lwqiavi,184,student,Yes.,00:36:21
+lwqiavi,185,tutor,So let's go ahead and have a look on your next new lesson. And that's on adding and subtracting decimals using known facts. Are you familiar with this topic?,00:36:21
+lwqiavi,186,student,Yeah.,00:36:38
+lwqiavi,187,tutor,"What do you know about this topic, [STUDENT_NAME], regarding known facts?",00:36:40
+lwqiavi,188,student,"I think we've done something a bit like it once. So like if it's subtracted, you move the number backward to the right, and then if it's times or addition— no, addition, yeah. Oh no, I'm saying the wrong thing. You just add like— oh no, not this one, I've not learned about adding. I've only learned about tides in [UNCLEAR]. I've only learned about tides in...",00:36:46
+lwqiavi,189,tutor,"Okay, anyway, give me the K for these questions, [STUDENT_NAME].",00:36:46
+lwqiavi,190,student,Is this the third one?,00:37:24
+lwqiavi,191,tutor,"Yes, it's the third lesson for the day.",00:37:28
+lwqiavi,192,student,Will I not be able to finish it though?,00:37:33
+lwqiavi,193,tutor,"Not sure, [STUDENT_NAME]. Anyways, let's get started and yeah. [unclear] [unclear]",00:37:38
+lwqiavi,194,student,[unclear] [unclear],00:38:02
+lwqiavi,195,student,[unclear] [unclear],00:38:08
+lwqiavi,196,student,0.05. Can you check this again? [unclear],00:38:43
+lwqiavi,197,student,[unclear] [unclear],00:38:56
+lwqiavi,198,student,[unclear],00:39:03
+lwqiavi,199,tutor,"0.06. Exactly, [STUDENT_NAME], it is 0.06. Good job. Let me check this, [STUDENT_NAME]. 7 plus 5 is 12. 7 plus 6 is— what is 7 plus 6? [unclear]",00:39:22
+lwqiavi,200,tutor,Can you check that again? What is 7 plus 6 is? [unclear],00:39:51
+lwqiavi,201,student,13.,00:40:07
+lwqiavi,202,tutor,And what is 8 plus 5 is?,00:40:08
+lwqiavi,203,student,13.,00:40:25
+lwqiavi,204,tutor,13. So why did he get a 20?,00:40:25
+lwqiavi,205,student,I done it wrong. I done 8 plus...,00:40:30
+lwqiavi,206,student,12.,00:40:37
+lwqiavi,207,tutor,"Mm-hmm. Yes, [STUDENT_NAME], there we go. That's all right. Anyways, you spotted down your mistake and corrected it. There we go with a very big tick as well as a very good effort. Anyways, [STUDENT_NAME], so yes, we are running out of time for the day. From the slide 2, Let's get started in our next week's session. Okay?",00:40:41
+lwqiavi,208,student,Yep.,00:41:06
+lwqiavi,209,tutor,"All right. Great and good to go, [STUDENT_NAME]. So, yes. Anyways, before we end the session, could you just tell me a summary of the main things we learned today?",00:41:09
+lwqiavi,210,student,The short division. [unclear],00:41:22
+lwqiavi,211,student,"Divided, taken away some decimals.",00:41:31
+lwqiavi,212,tutor,"Okay, so did you find anything challenging?",00:41:37
+lwqiavi,213,student,Only that first question on the short division one.,00:41:42
+lwqiavi,214,tutor,"Mm-hmm, okay. So why did you find that challenging, [STUDENT_NAME]?",00:41:51
+lwqiavi,215,student,"I just don't think I've heard, because I haven't heard of that one for a long time.",00:41:59
+lwqiavi,216,tutor,"Oh, okay. That's all right, [STUDENT_NAME]. So we make mistakes, but we learn through mistakes. So that's a good opportunity to learn when we make mistakes, yeah? So that's completely all right, [STUDENT_NAME]. So if you could give yourself a star for today's session, Could you tell me one thing that you did well today?",00:42:08
+lwqiavi,217,student,The short division.,00:42:08
+lwqiavi,218,tutor,The short division. Okay. So do you have anything that you would like to improve?,00:42:08
+lwqiavi,219,student,Not really.,00:42:08
+lwqiavi,220,tutor,"Oh, okay. All right. That's okay, [STUDENT_NAME]. So do you usually try these questions before you go?",00:42:08
+lwqiavi,221,student,Yeah.,00:42:54
+lwqiavi,222,tutor,Do you do that always after the session?,00:42:55
+lwqiavi,223,student,Yeah.,00:42:58
+lwqiavi,224,tutor,"Great. Okay, that as a practice, [STUDENT_NAME], because trying these quick questions will really help you and support you to get better answers in future, and it would give you a very good support as well. Okay, so make sure you try those questions today as well. Will you do that?",00:42:59
+lwqiavi,225,student,Yeah.,00:43:16
+lwqiavi,226,tutor,"Alright, [STUDENT_NAME], so that's really nice to hear from you. And also try to reflect on how was your session and let me know how was it by filling the form, okay?",00:43:18
+lwqiavi,227,student,Yeah.,00:43:28
+lwqiavi,228,tutor,"Alright, [STUDENT_NAME], then that's it from me for the day. So yes, with that, meet you next week, [STUDENT_NAME]. Have a nice day at school. Bye!",00:43:29
+lwqiavi,229,student,Bye! [unclear],00:43:40
+lwqiavi,230,student,[UNCLEAR] [unclear],00:43:40
+lwqiavi,231,student,[unclear],00:43:40

@@ -1,0 +1,390 @@
+session_id,utterance_id,role,content,timestamp
+hgxtcql,0,tutor,Hello?,00:00:00
+hgxtcql,1,background,[unclear],00:00:00
+hgxtcql,2,student,"Hi, Lachlan.",00:00:01
+hgxtcql,3,tutor,Hi. How are you?,00:00:03
+hgxtcql,4,student,Good.,00:00:07
+hgxtcql,5,tutor,"Okay. How was your day at school today, Lachlan?",00:00:08
+hgxtcql,6,tutor,Good. What did you do at school?,00:00:12
+hgxtcql,7,student,We did art and English.,00:00:17
+hgxtcql,8,tutor,Yes. How was your weekend?,00:00:22
+hgxtcql,9,student,Good.,00:00:26
+hgxtcql,10,tutor,Good. What did you do during your weekend?,00:00:27
+hgxtcql,11,student,[unclear],00:00:29
+hgxtcql,12,tutor,"Okay, Lachlan. So are we good to start the lesson for the day? Yeah. [unclear] So Lachlan, in our last session we learned about rounding numbers to the nearest 10,000 and 100,000. So Lachlan, tell me, when we are rounding numbers to the nearest 10,000, the number in which column do we look at?",00:00:33
+hgxtcql,13,student,"The 10,000s.",00:01:02
+hgxtcql,14,tutor,"10,000s. Okay.",00:01:06
+hgxtcql,15,tutor,Is it only the ten thousands column?,00:01:09
+hgxtcql,16,student,Yeah.,00:01:12
+hgxtcql,17,background,[unclear],00:01:12
+hgxtcql,18,tutor,Is it only the ten thousands column?,00:01:13
+hgxtcql,19,student,No.,00:01:18
+hgxtcql,20,background,Yeah.,00:01:19
+hgxtcql,21,tutor,Okay. So how will you round this number to the nearest ten thousand?,00:01:23
+hgxtcql,22,student,Will we have a look at the ten thousands column?,00:01:38
+hgxtcql,23,tutor,Mm-hmm.,00:01:43
+hgxtcql,24,student,On the lines.,00:01:44
+hgxtcql,25,tutor,Okay. [unclear],00:01:47
+hgxtcql,26,student,Yeah.,00:01:49
+hgxtcql,27,tutor,Okay.,00:01:55
+hgxtcql,28,student,How will we answer this question?,00:02:02
+hgxtcql,29,background,How we could have a look at the ten thousands column. [unclear],00:02:03
+hgxtcql,30,tutor,"Okay, we are supposed to round this number to the nearest 10,000. Okay, Lachlan? So we look at the number in the 10,000s column and also the number in the—",00:02:10
+hgxtcql,31,student,"Oh, thousands column too.",00:02:32
+hgxtcql,32,tutor,"Yes, thousands column too. So if we have a 4 in the thousands column, how can we round this whole number?",00:02:34
+hgxtcql,33,student,"So what we'd have to do is... [unclear] So we could do this, we could do like, if it's in the 4000s, then like that number can change",00:02:45
+hgxtcql,34,student,"Well, this one looks like conjunction. [unclear]",00:03:08
+hgxtcql,35,tutor,"So the number is 54,000.",00:03:13
+hgxtcql,36,student,"Yeah, it's 54,000.",00:03:31
+hgxtcql,37,background,"Okay, well, I really appreciate you for giving that a try, Lachlan, but that is That's not the correct answer. Okay, the correct answer here would be 250,000. Okay, the reason for that is we have— look at the number that which is before 10,000. We are rounding the number to the nearest 10,000, so we look at the number which is before the 10,000s column, that is the number in the thousands column. And we have 4 in the thousands column, therefore we are rounding this number down. So this number doesn't change. Okay, since 4 is less than 5, this number doesn't change. So the answer we get here is 250,000. Okay, Lachlan? [unclear] If we have a 5 here instead of a 4, or a 6 here, or a 7 here, the answer is going to be 250,000. [unclear]",00:03:34
+hgxtcql,38,tutor,"We have 5 or more in the thousands column. Round this number up. If we have less than 5, we round the number down.",00:04:41
+hgxtcql,39,student,Okay.,00:04:58
+hgxtcql,40,tutor,"Let's, uh, let's try.",00:04:59
+hgxtcql,41,background,Go down.,00:05:01
+hgxtcql,42,tutor,"Lachlan, tell me, what are we supposed to do here?",00:05:02
+hgxtcql,43,tutor,"Round these numbers to the nearest thousand, ten thousand, and hundred thousand. So this one is the nearest thousand, so we have to have a look. So it would be like, you have a thousand column, which is the 9,000, and this one will be 2,000. [unclear]",00:05:09
+hgxtcql,44,tutor,"Okay, so what is the rule we have? Which number do we look at?",00:05:41
+hgxtcql,45,student,The thousands.,00:05:49
+hgxtcql,46,tutor,And also?,00:05:51
+hgxtcql,47,student,The one before it.,00:05:53
+hgxtcql,48,tutor,"Yes, the one before. There you go, Lachlan. Okay.",00:05:55
+hgxtcql,49,tutor,And how can you get the answer?,00:05:59
+hgxtcql,50,student,"Well, he said if it's 5— no, no, if it's 4 and below, then like it would be— [unclear] But if it's 5 and higher, we'll be rounding. [unclear]",00:06:04
+hgxtcql,51,tutor,"Okay, Lachlan, but can we write just 2,000 here? The full— the whole number we have here.",00:06:27
+hgxtcql,52,student,Oh yeah. [unclear],00:06:50
+hgxtcql,53,tutor,"Okay, well, there you go, Lachlan. You got the correct answer for that one. Okay, now we have to round it to the nearest 10,000. So what are you going to do here?",00:07:01
+hgxtcql,54,student,"So what we're going to do is— actually, let's just do it for 2 times. What we're doing is the same as what we did in this one. But we're not looking at the 2, we're looking at the 8 and it's higher than 9, so we're rounding it up. So then this answer would be...",00:07:10
+hgxtcql,55,tutor,"Okay, wait, Lachlan. When we're rounding to the nearest 10,000, which number do we look at? [unclear]",00:07:31
+hgxtcql,56,student,"We have a look at the... before the 8, which is the 2.",00:07:39
+hgxtcql,57,tutor,Yes.,00:07:47
+hgxtcql,58,tutor,That would be...,00:07:51
+hgxtcql,59,student,That is saying... So what it says is... [unclear],00:07:55
+hgxtcql,60,tutor,"So we'll have to be looking before the 8, which is the 2, and it's lower than 4. 5. So we'll be writing it down.",00:08:05
+hgxtcql,61,tutor,"Okay, how can you write it?",00:08:22
+hgxtcql,62,student,"I'm saying, is it— wait, is it 7— [unclear] 781,000?",00:08:26
+hgxtcql,63,tutor,"You're close to it. We are, we're counting in the multiples of 10,000.",00:08:38
+hgxtcql,64,tutor,Shall we try to do it using the number line?,00:08:49
+hgxtcql,65,student,"No, it is 777— [unclear] thousand.",00:08:51
+hgxtcql,66,tutor,"No, Lachlan, let's use the number line here, okay? Let's try to use the number line. So what is the number we have got here? 782,009, isn't it?",00:08:57
+hgxtcql,67,tutor,"Yeah, okay. So Lachlan, what is the previous multiple of 10,000 for this number?",00:09:16
+hgxtcql,68,student,[unclear],00:09:24
+hgxtcql,69,tutor,"82,000. 82,000. The multiples of 10,000. 82,000 is the multiple of 1,000. What is the multiples of 10,000?",00:09:25
+hgxtcql,70,student,"82,000.",00:09:40
+hgxtcql,71,tutor,"Yes, Lachlan. 700.",00:09:41
+hgxtcql,72,student,"780,000.",00:09:47
+hgxtcql,73,tutor,"Yeah, 780,000. Can you write the answer here next to the 8?",00:09:48
+hgxtcql,74,background,But it should be—,00:09:54
+hgxtcql,75,tutor,"Okay. [unclear] Okay, Lachlan. So what is the multiple of 10,000 we have after this? After 780,000?",00:09:55
+hgxtcql,76,tutor,"Well, um, yeah, here, oops, here, yeah, right here would be 785,000. So here would be 781,000. [unclear]",00:10:16
+hgxtcql,77,tutor,"If this is 785,000, what would this be?",00:10:32
+hgxtcql,78,student,"Well, that's 785,000 and this one will be 781,000.",00:10:37
+hgxtcql,79,tutor,"How can this be 785,000?",00:10:47
+hgxtcql,80,student,"Because— oh wait, no, no, no, no, it's not.",00:10:51
+hgxtcql,81,tutor,"You're correct there, Lachlan.",00:10:57
+hgxtcql,82,student,Yeah.,00:11:00
+hgxtcql,83,tutor,You're correct there.,00:11:01
+hgxtcql,84,student,"So here is 781,000, 782,000, 783,000, 784,000, 785,000. And it's 4,000, and then what's that after 4 is 5, so that will be 785,000. And this? What is the multiple of 10,000 we have after 80,000?",00:11:03
+hgxtcql,85,student,"770,000. [unclear]",00:11:30
+hgxtcql,86,tutor,"Yes. Lachlan, okay, 790,000. So what is the multiple that will come here? [unclear] 790,000. Okay.",00:11:36
+hgxtcql,87,student,"Oh yeah, sorry.",00:11:47
+hgxtcql,88,tutor,That's okay.,00:11:50
+hgxtcql,89,background,Put that down there.,00:11:55
+hgxtcql,90,student,"So it was 790,000.",00:11:57
+hgxtcql,91,tutor,"Okay, so what would this be here?",00:12:04
+hgxtcql,92,student,"That one would be, um, is it 785,000?",00:12:09
+hgxtcql,93,tutor,"Okay, Lachlan. Yes. Now, how do you think we can do 782,009? [unclear]",00:12:20
+hgxtcql,94,tutor,This will be... [unclear],00:12:32
+hgxtcql,95,student,"um, no, I'm fine. I can't see what's coming.",00:12:32
+hgxtcql,96,tutor,"Yeah, Chris, would it be alright if we save for that big house with 163...?",00:12:32
+hgxtcql,97,background,right about here?,00:12:32
+hgxtcql,98,tutor,"Okay, Lachlan. Okay, so Lachlan, tell me now, is it closer to 780,000 or 790,000?",00:12:32
+hgxtcql,99,student,"780,000.",00:13:06
+hgxtcql,100,tutor,"Okay, so what is the number you get when you round it to the nearest 10,000?",00:13:07
+hgxtcql,101,student,"780,000.",00:13:14
+hgxtcql,102,tutor,"You finally found the answer by working it out, Lachlan. That was really a great working out. Okay, and now we have— if you want to round it to the nearest 100,000, you choose the number line and give me the answer. [unclear]",00:13:17
+hgxtcql,103,tutor,Will it be?,00:13:36
+hgxtcql,104,student,"10,000 each time.",00:13:37
+hgxtcql,105,tutor,Okay.,00:13:42
+hgxtcql,106,student,Yes. [unclear],00:13:43
+hgxtcql,107,tutor,"What is the previous multiple of 100,000 for this number?",00:13:44
+hgxtcql,108,student,780?,00:13:49
+hgxtcql,109,tutor,"Uh-huh. Previous multiple of 100,000, Lachlan.",00:13:54
+hgxtcql,110,student,"Oh, 700,000.",00:13:58
+hgxtcql,111,background,"700,000.",00:14:01
+hgxtcql,112,student,"Oh, wait. Wait, I think I've got it now.",00:14:03
+hgxtcql,113,tutor,"Okay, yes. [unclear] I want you to do it. Go ahead.",00:14:07
+hgxtcql,114,student,"So here will be 700,000, and after 700,000 it is 800,000.",00:14:12
+hgxtcql,115,tutor,Okay.,00:14:25
+hgxtcql,116,student,Now help me round this.,00:14:26
+hgxtcql,117,tutor,Yeah.,00:14:29
+hgxtcql,118,student,"Because I know the middle of it is— Oopsie, I don't know my rights.",00:14:29
+hgxtcql,119,tutor,"Yes, you are, Lachlan. Okay.",00:14:37
+hgxtcql,120,student,"So I know this is— [unclear] This is the middle. It's exactly the same. Okay, we're just going to ignore all the zeros, these zeros here, and the zero and these zeros there. So we're just going to ignore that. That's 80, this is 75, that's 70.",00:14:40
+hgxtcql,121,student,"Now after here, after that here is going to be 7 to 1, so 2, 3, 4, 5, but it's exactly the same.",00:15:01
+hgxtcql,122,tutor,"So 110,000?",00:15:17
+hgxtcql,123,student,"Yeah, so that here, now then if you add the zeros it'll be 7, 7, [unclear]",00:15:19
+hgxtcql,124,tutor,"Yes, yes.",00:15:28
+hgxtcql,125,student,"720,730,749,750,000.",00:15:33
+hgxtcql,126,tutor,"And then here, 707,704,706,770,708,719,000.",00:15:36
+hgxtcql,127,tutor,"Okay, and after 79, after 79 is 80, so I know that'll be 800,000. Okay, Lachlan, that's great, Lachlan. So where can this number be placed here? [unclear] [unclear]",00:15:53
+hgxtcql,128,tutor,"Okay, Lachlan. So is it rounded to 300,000 or 800,000?",00:16:24
+hgxtcql,129,student,"800,000.",00:16:34
+hgxtcql,130,tutor,"So if you round it to the nearest 100,000, what is the answer we get?",00:16:36
+hgxtcql,131,student,"108,000.",00:16:40
+hgxtcql,132,tutor,"800,000. Okay, Lachlan, that was good enough. Okay, now, um, Shall we try to do the second number here?",00:16:44
+hgxtcql,133,student,Yeah.,00:16:55
+hgxtcql,134,tutor,"Okay, so let's round it to the nearest thousand first. I'll write the number for you. Can you read that number? [unclear]",00:16:55
+hgxtcql,135,student,"So round it to 299,999.",00:17:07
+hgxtcql,136,tutor,"Okay, so what is the previous multiple of thousand for this number? [unclear]",00:17:15
+hgxtcql,137,tutor,"Wait, so if I put that number here, then I know? [unclear]",00:17:23
+hgxtcql,138,student,Numbers? [unclear],00:17:36
+hgxtcql,139,tutor,Oh my God!,00:17:39
+hgxtcql,140,student,3 times.,00:17:42
+hgxtcql,141,tutor,"Okay, well, why do we put this number here? [unclear]",00:17:46
+hgxtcql,142,tutor,"What if that has to be 10,000? [unclear]",00:18:22
+hgxtcql,143,student,So it's a round up.,00:18:30
+hgxtcql,144,tutor,So what is the answer we get when we round this number up? [unclear],00:18:31
+hgxtcql,145,tutor,What is the answer we get when we round this number up? [unclear],00:18:36
+hgxtcql,146,tutor,"10,000. [Speaker] 10,000. Uh-huh. Okay, so how will this number change here? [Speaker] It will be 300,000. [Speaker] Yes, Lachlan, 300,000. So what is the answer we get here for this?",00:18:51
+hgxtcql,147,student,"300,000. [Speaker] Okay, okay. Yes, you can write your answer.",00:19:09
+hgxtcql,148,tutor,Let me do it.,00:19:19
+hgxtcql,149,student,Yeah.,00:19:21
+hgxtcql,150,tutor,Okay.,00:19:22
+hgxtcql,151,student,[unclear],00:19:22
+hgxtcql,152,tutor,Just move that number here. There we go. Now it's like— [unclear],00:19:27
+hgxtcql,153,student,300.,00:19:34
+hgxtcql,154,tutor,"Okay, Lachlan. Yes, now we have rounded this number to the nearest thousand. How can we round it to the nearest ten thousand?",00:19:36
+hgxtcql,155,student,"Um, would that be— [unclear]",00:19:43
+hgxtcql,156,tutor,"Oh, I have one.",00:19:49
+hgxtcql,157,student,And everything. I've learned everything.,00:19:52
+hgxtcql,158,background,Would it be...,00:19:59
+hgxtcql,159,tutor,"So what would that be? Shall we try finding the multiples of 10,000?",00:20:02
+hgxtcql,160,background,Yeah.,00:20:12
+hgxtcql,161,tutor,"Okay. So what is the previous one? What is the multiple of 10,000 of this number? [unclear]",00:20:13
+hgxtcql,162,student,"90,000.",00:20:23
+hgxtcql,163,tutor,"90,000. Okay, so how can we write that number? Is it just 90,000? [unclear]",00:20:25
+hgxtcql,164,tutor,"Yeah, is it just 90,000? [unclear]",00:20:37
+hgxtcql,165,tutor,"But then after 99, would it— would this— [unclear] Well, what is the number we have here, Lachlan? 299,000. What is the previous multiple of this 299,990?",00:20:49
+hgxtcql,166,student,"That is the first one, second one. You said that it was 90,000. [unclear]",00:21:05
+hgxtcql,167,tutor,"299,999 is a multiple of 1,000. Shall we count the multiples of 10,000 once again?",00:21:15
+hgxtcql,168,student,Yeah.,00:21:30
+hgxtcql,169,student,"Wouldn't it be 99,999?",00:21:34
+hgxtcql,170,tutor,"No. 10,000. What is the next multiple of 10,000? 210,000, 220,000. Yes, can— shall we count it like that?",00:21:38
+hgxtcql,171,student,Yeah.,00:21:51
+hgxtcql,172,tutor,"200 and— [unclear] 30,000. What is the number we have after 30,000?",00:21:53
+hgxtcql,173,student,Yes.,00:21:59
+hgxtcql,174,student,"250,000? Oh, I know now. Is it 290,000?",00:22:02
+hgxtcql,175,tutor,"Yes, Lachlan. [unclear]",00:22:09
+hgxtcql,176,student,"Oh, cash, right, right, right.",00:22:10
+hgxtcql,177,background,Okay.,00:22:17
+hgxtcql,178,tutor,"Okay, so what is the number, the previous— we found the previous multiple of 10,000 of this number. What is the next multiple of 10,000 of this number?",00:22:20
+hgxtcql,179,tutor,"Yeah, how would it 100?",00:22:30
+hgxtcql,180,student,"Um, well, the next one would be 254,000.",00:22:33
+hgxtcql,181,tutor,"Uh-huh, yes.",00:22:41
+hgxtcql,182,student,"300,000.",00:22:42
+hgxtcql,183,tutor,"Lachlan, you're correct there. [unclear] [unclear]",00:22:46
+hgxtcql,184,student,"So then that will be, um, yeah.",00:22:58
+hgxtcql,185,background,Will that be my answer?,00:23:06
+hgxtcql,186,student,Okay.,00:23:07
+hgxtcql,187,background,"100,000 because 999 is closer to it.",00:23:08
+hgxtcql,188,student,"Okay, so what's the answer we get here?",00:23:14
+hgxtcql,189,background,"300,000.",00:23:18
+hgxtcql,190,student,"Ah, yes, Lachlan. [unclear]",00:23:20
+hgxtcql,191,tutor,"And we are having one more. How can you round this to the nearest 100,000? [unclear]",00:23:34
+hgxtcql,192,tutor,"What is the previous multiple of 100,000?",00:23:54
+hgxtcql,193,student,200.,00:24:02
+hgxtcql,194,tutor,"200,000. And what is the next multiple?",00:24:03
+hgxtcql,195,student,"300,000.",00:24:06
+hgxtcql,196,tutor,"Okay, so this is closer to which one?",00:24:08
+hgxtcql,197,student,"300,000.",00:24:12
+hgxtcql,198,tutor,"Okay, yes, you got the answer finally. [unclear]",00:24:15
+hgxtcql,199,tutor,"Okay, Lachlan. So what do you notice about these numbers?",00:24:24
+hgxtcql,200,student,They all value the same.,00:24:33
+hgxtcql,201,tutor,Okay. So how did we do this question?,00:24:37
+hgxtcql,202,background,We used the number line to help us.,00:24:41
+hgxtcql,203,tutor,Okay.,00:24:45
+hgxtcql,204,student,Because sometimes you can't just do everything in our head. [unclear] Sometimes we do need to use like a method like a number line. That can really help.,00:24:46
+hgxtcql,205,tutor,"Okay, so how did we get a 780,000 here?",00:24:55
+hgxtcql,206,background,What are you saying?,00:24:59
+hgxtcql,207,tutor,Say that again.,00:25:00
+hgxtcql,208,student,"We got it by using the number line. So we draw 780,000 over here, 780,000, 790,000 here, and this number is over here. [unclear]",00:25:00
+hgxtcql,209,tutor,"Okay, Lachlan. Well, that was an awesome working out, Lachlan. Are we good to try one more question in this?",00:25:21
+hgxtcql,210,student,Okay.,00:25:31
+hgxtcql,211,tutor,"Okay, what is the question we have here, Lachlan? How do you think you can do this? [unclear]",00:25:37
+hgxtcql,212,tutor,"So, Hokey is thinking of a number. When rounded to the nearest thousand, it is 350,000. When rounded to the nearest 10,000, it is 400,000. Can you give a number he could be thinking of?",00:25:44
+hgxtcql,213,student,Okay.,00:26:05
+hgxtcql,214,tutor,So the number that is closest to [unclear],00:26:07
+hgxtcql,215,tutor,"So this is the spawn, so we need 10,000. Bye bye.",00:26:12
+hgxtcql,216,student,"Oh, okay. I feel like I've got one.",00:26:17
+hgxtcql,217,tutor,So that could be in—,00:26:21
+hgxtcql,218,student,"All the way back in again. Wait, wait, wait. Wait, I know, wait, wait.",00:26:23
+hgxtcql,219,tutor,"So, stay down.",00:26:33
+hgxtcql,220,student,"Wait, I don't know because it's confusing me now.",00:26:38
+hgxtcql,221,tutor,"Okay, can you give me a number that would be rounded to 350,000 when we round it to the nearest 10,000? [unclear]",00:26:43
+hgxtcql,222,student,"40,000.",00:26:52
+hgxtcql,223,tutor,"Any other numbers? When we round that number to the nearest 10,000, it should be 350,000. [unclear]",00:27:07
+hgxtcql,224,tutor,What would that number be? [unclear],00:27:17
+hgxtcql,225,tutor,Could it be— what number? 2?,00:27:39
+hgxtcql,226,student,2.,00:27:42
+hgxtcql,227,tutor,"Could it be 350,000?",00:27:44
+hgxtcql,228,student,"350,000.",00:27:48
+hgxtcql,229,tutor,Middle.,00:27:51
+hgxtcql,230,student,Yeah.,00:27:52
+hgxtcql,231,tutor,"350,000. Okay, 350,000. If we round it to the nearest 100,000. This would be the answer. How can we round it to the nearest? Because it's already rounded. [unclear]",00:27:53
+hgxtcql,232,tutor,What digits can you change in this to get the answer? [unclear],00:28:13
+hgxtcql,233,student,The 500.,00:28:16
+hgxtcql,234,tutor,Okay.,00:28:21
+hgxtcql,235,tutor,You're going to add a 500?,00:28:24
+hgxtcql,236,student,Yes.,00:28:28
+hgxtcql,237,tutor,"Okay, shall we check if that is correct? But if not, then you need to add a 400. [unclear]",00:28:30
+hgxtcql,238,tutor,"Hello? [unclear] Can we round this number to 400,000?",00:28:57
+hgxtcql,239,student,"Oh, but I can have some apple milk. [unclear]",00:29:05
+hgxtcql,240,tutor,"To round that number, number to the nearest 100,000, and we should get this number. Okay, okay, uh, let me give you a— let's try to do one answer. Okay, let's try to take a sentence. [unclear]",00:29:12
+hgxtcql,241,tutor,"How can you round 354,000 to the nearest 10,000?",00:29:33
+hgxtcql,242,student,"Well, the next 10,000 is— it would be 350,000 because I know that it is rounding down and well, our maximum would be 360,000.",00:29:46
+hgxtcql,243,tutor,"Okay, so how do we round it to the nearest 100,000? [unclear]",00:30:08
+hgxtcql,244,student,"So what we just say is we have to like round it to the next 100,000.",00:30:13
+hgxtcql,245,tutor,"Would it be 360,000?",00:30:28
+hgxtcql,246,student,"Rounding to the nearest 100,000. What is the multiples of 100,000? What is the previous multiple of 100,000 for this number?",00:30:33
+hgxtcql,247,tutor,"350,000. 350,000 is the previous multiple of 10,000. [unclear] What are the multiples of 100,000? 100,000.",00:30:45
+hgxtcql,248,student,Would it be...,00:31:06
+hgxtcql,249,tutor,"200,000.",00:31:08
+hgxtcql,250,student,"300,000.",00:31:10
+hgxtcql,251,background,"400,000. [unclear]",00:31:12
+hgxtcql,252,tutor,"So it's 300,000. And what is the next multiple of 100,000?",00:31:14
+hgxtcql,253,background,"400,000.",00:31:22
+hgxtcql,254,tutor,"400,000. So to which one is it closer?",00:31:23
+hgxtcql,255,background,"300,000.",00:31:27
+hgxtcql,256,tutor,"300,000. [unclear]",00:31:30
+hgxtcql,257,tutor,"400,000. So is this answer correct for both of these questions, Lachlan?",00:31:40
+hgxtcql,258,student,Yeah.,00:31:45
+hgxtcql,259,tutor,Is it satisfying the rule of both of these questions?,00:31:47
+hgxtcql,260,student,"10,000.",00:31:52
+hgxtcql,261,background,[unclear],00:31:55
+hgxtcql,262,tutor,"Okay, so what is the answer we get here?",00:31:55
+hgxtcql,263,student,"400,000.",00:31:57
+hgxtcql,264,tutor,Uh-huh. What is the answer we got here? [unclear],00:31:59
+hgxtcql,265,tutor,"No, we have written the answer here. What is this number?",00:32:07
+hgxtcql,266,background,"354,231.",00:32:11
+hgxtcql,267,tutor,"Okay, so Lachlan, can you try to tell me a similar example?",00:32:17
+hgxtcql,268,student,Yeah.,00:32:21
+hgxtcql,269,background,One before.,00:32:25
+hgxtcql,270,student,Yeah. [unclear],00:32:26
+hgxtcql,271,tutor,"Round these numbers to the nearest 1,000.",00:32:38
+hgxtcql,272,student,"10,000.",00:32:43
+hgxtcql,273,tutor,"10,000.",00:32:45
+hgxtcql,274,student,"10,000.",00:32:47
+hgxtcql,275,background,This is correct here.,00:32:49
+hgxtcql,276,tutor,Yeah.,00:32:51
+hgxtcql,277,background,Yeah.,00:32:52
+hgxtcql,278,tutor,Yeah. Okay. How can you round this?,00:32:52
+hgxtcql,279,student,"No, no, it's not correct.",00:32:55
+hgxtcql,280,tutor,Okay. [unclear],00:32:57
+hgxtcql,281,tutor,here?,00:32:57
+hgxtcql,282,student,Yeah.,00:32:57
+hgxtcql,283,tutor,So do you know this team?,00:33:10
+hgxtcql,284,student,"What I did was, I made this— so I actually like— oopsie. These, I kept these the same, and then all I did was just change this 6 to 2.",00:33:12
+hgxtcql,285,student,Change 3 instead to a 6.,00:33:29
+hgxtcql,286,tutor,"Okay, so how do you think this answer is correct here? [unclear]",00:33:34
+hgxtcql,287,student,"That will be 400,000.",00:33:37
+hgxtcql,288,tutor,"Okay, so when we round it to the nearest 10,000, what is the answer we get?",00:33:44
+hgxtcql,289,student,"350,000.",00:33:49
+hgxtcql,290,tutor,"Okay, so can you tell me another example as well? Can you change this digit? Okay, the digit in the 10th— the digit in the thousand place, what would be the correct answer?",00:33:52
+hgxtcql,291,student,[unclear],00:34:04
+hgxtcql,292,tutor,How can you change the digit here in the thousands place to get the correct answer?,00:34:21
+hgxtcql,293,student,This one.,00:34:29
+hgxtcql,294,tutor,Okay.,00:34:32
+hgxtcql,295,student,This one. [unclear],00:34:36
+hgxtcql,296,tutor,Okay.,00:34:37
+hgxtcql,297,student,"Ah, what about—",00:34:39
+hgxtcql,298,tutor,"Yeah, so would it be this one?",00:34:42
+hgxtcql,299,student,When comparing that—,00:34:47
+hgxtcql,300,tutor,"Oh, you do the white owl. [unclear]",00:34:49
+hgxtcql,301,tutor,"I don't see much here. 456,000. Okay. Okay, well, it is going to be closer to 400,000. Closer to 350,000, Lachlan?",00:34:57
+hgxtcql,302,student,[UNCLEAR],00:34:57
+hgxtcql,303,tutor,"Will it be closer to 350,000? [unclear]",00:35:16
+hgxtcql,304,tutor,"250,000?",00:35:33
+hgxtcql,305,student,Yeah.,00:35:36
+hgxtcql,306,tutor,"Okay, let's check if that would be correct. 356,000.",00:35:36
+hgxtcql,307,tutor,223. [unclear],00:35:50
+hgxtcql,308,tutor,"223. So what is the previous multiple of 10,000?",00:35:56
+hgxtcql,309,student,"Oh, the [UNCLEAR].",00:36:04
+hgxtcql,310,background,Would it be 300?,00:36:04
+hgxtcql,311,student,Oh.,00:36:08
+hgxtcql,312,background,"Would it be— [unclear] Previous multiple of 10,000 for this number? [unclear]",00:36:10
+hgxtcql,313,student,"50,000.",00:36:18
+hgxtcql,314,tutor,"50,000, okay. And next multiple?",00:36:22
+hgxtcql,315,background,Can I do a drawing?,00:36:25
+hgxtcql,316,student,"50,000.",00:36:27
+hgxtcql,317,background,"60,000.",00:36:28
+hgxtcql,318,tutor,"60,000, okay. So where does 350,000 come?",00:36:30
+hgxtcql,319,student,"Is it 50,000?",00:36:36
+hgxtcql,320,tutor,"350,000 is the previous multiple of this number.",00:36:40
+hgxtcql,321,tutor,"of 10,000. What is the next multiple of 10,000 for this number? [UNCLEAR]",00:36:40
+hgxtcql,322,student,"356,223.",00:37:01
+hgxtcql,323,tutor,"Okay, then that is the question we have here. You said, give me the multiple of 10,000. The previous multiple of 10,000 is 350,000. So what is the next multiple of 10,000? [unclear]",00:37:03
+hgxtcql,324,tutor,"Lachlan, what is the answer?",00:37:21
+hgxtcql,325,student,One.,00:37:22
+hgxtcql,326,tutor,Yeah.,00:37:23
+hgxtcql,327,student,And the other one.,00:37:23
+hgxtcql,328,tutor,The answer?,00:37:24
+hgxtcql,329,student,No.,00:37:26
+hgxtcql,330,tutor,What's the answer? 300?,00:37:26
+hgxtcql,331,background,"60,000.",00:37:28
+hgxtcql,332,tutor,"Okay. So now tell me, to which number is it closer to?",00:37:31
+hgxtcql,333,background,"350,000.",00:37:35
+hgxtcql,334,tutor,"350,000. Oh wait, no, 360,000.",00:37:39
+hgxtcql,335,tutor,"Okay, so is the answer correct here?",00:37:47
+hgxtcql,336,student,"Well, that looks like [unclear] there, so it goes here, so this is my answer.",00:37:52
+hgxtcql,337,tutor,"Okay, 360,000. So, but it should be closer to 350,000, isn't it, Lachlan? That is what they have asked in the question. [unclear]",00:38:03
+hgxtcql,338,tutor,"to make it closer to this 350,000.",00:38:03
+hgxtcql,339,student,"Oh, I get it now. It should have been 300 and like 540,000? [unclear]",00:38:03
+hgxtcql,340,tutor,"Okay, well, look, Lachlan, how good you are in getting the correct answers. Yes, Lachlan, you got the correct answer there. Okay, so can you type any of those answers here?",00:38:41
+hgxtcql,341,tutor,Any of your answers there?,00:39:03
+hgxtcql,342,student,Uh-huh. [unclear],00:39:31
+hgxtcql,343,tutor,Okay. [unclear],00:39:31
+hgxtcql,344,tutor,"Instead of these zeros, what else can we put here?",00:39:35
+hgxtcql,345,student,222.,00:39:39
+hgxtcql,346,tutor,Shall we try putting that as well?,00:39:44
+hgxtcql,347,student,"So I could have also done instead of that, I could have also done 50.",00:39:46
+hgxtcql,348,tutor,"Oh yeah, okay.",00:39:51
+hgxtcql,349,student,"Oh, I could have done 22.",00:39:53
+hgxtcql,350,tutor,"Yeah, right.",00:39:56
+hgxtcql,351,tutor,"Yes, Lachlan. So, Lachlan, tell me, what did we learn from this lesson?",00:39:58
+hgxtcql,352,student,"I learned, like, how a number line can help me.",00:40:05
+hgxtcql,353,tutor,"Okay. So, well, how did we get this answer here finally?",00:40:13
+hgxtcql,354,student,"By using a number line to help me and then using all the numbers. That are closer to that, to close to 350,000.",00:40:19
+hgxtcql,355,tutor,"Okay, and also what is the other rule here?",00:40:30
+hgxtcql,356,student,"Round to the nearest 10,000.",00:40:34
+hgxtcql,357,tutor,"Yeah, okay, nearest 10,000, and the answer should be? [unclear] Okay, and what is the other rule here? [unclear]",00:40:38
+hgxtcql,358,tutor,"It should be 400,000. So tell me, how can we round this number to the nearest 100,000?",00:40:59
+hgxtcql,359,student,[UNCLEAR],00:40:59
+hgxtcql,360,tutor,"Pardon? How can we round this number to the nearest 100,000?",00:41:12
+hgxtcql,361,student,[unclear],00:41:12
+hgxtcql,362,tutor,"What is the previous multiple of 100,000?",00:41:27
+hgxtcql,363,student,"Would it be 350,000?",00:41:37
+hgxtcql,364,background,"300,000.",00:41:41
+hgxtcql,365,tutor,"Okay, yes, Lachlan. And what is the next multiple? [unclear]",00:41:45
+hgxtcql,366,tutor,"300,000 is the previous multiple of 100,000. What is the next multiple of 100,000?",00:42:05
+hgxtcql,367,student,"888,000. 100, 200, 300. What do we have next? [unclear] Okay, 400. So which is it closer? This answer of yours, is it closer to 300,000 or 400,000?",00:42:11
+hgxtcql,368,student,"400,000.",00:42:37
+hgxtcql,369,tutor,"Okay. So Lachlan, tell me what was more challenging for you in this question?",00:42:39
+hgxtcql,370,student,I try to work out this. [unclear],00:42:48
+hgxtcql,371,tutor,"Okay. Well, how do you work it out after that?",00:42:55
+hgxtcql,372,student,"Well, we could like— oops.",00:43:03
+hgxtcql,373,tutor,"Oh, she's here again. Okay, well, how did you work it out? Like, it was challenging for you, but how did you manage to work it out after that?",00:43:17
+hgxtcql,374,student,"I used the sources to help me, like, out of the line.",00:43:26
+hgxtcql,375,tutor,Okay. What do you think you could have done better today?,00:43:31
+hgxtcql,376,student,"I couldn't, like, use the number line to help me like [UNCLEAR]. [unclear]",00:43:39
+hgxtcql,377,tutor,"Okay, Lachlan. Well, I really appreciate you for working it out. Although you made a mistake, you worked it out and you understood your mistake. You found the multiples and you worked through the concept to get the answers. Lachlan, I really appreciate you for that. Okay?",00:43:46
+hgxtcql,378,student,Okay.,00:44:04
+hgxtcql,379,tutor,"And also, welcome. You gave me great explanation on how you got the answers. So, Lachlan, it's time to end the session. Let's take feedback from the [UNCLEAR].",00:44:05
+hgxtcql,380,tutor,Okay. Was the session useful for you?,00:44:15
+hgxtcql,381,student,100%.,00:44:18
+hgxtcql,382,tutor,Was the session useful for you?,00:44:20
+hgxtcql,383,student,"Like, do you know my nearest [unclear] and that.",00:44:24
+hgxtcql,384,tutor,"Did you enjoy the session today, Lachlan?",00:44:28
+hgxtcql,385,student,Yeah.,00:44:31
+hgxtcql,386,tutor,Okay. Complete the quiz after the session. We'll meet in our next session. Bye-bye.,00:44:32
+hgxtcql,387,student,Bye.,00:44:37
+hgxtcql,388,tutor,Take care. [Background],00:44:38

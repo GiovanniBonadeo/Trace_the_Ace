@@ -1,0 +1,338 @@
+session_id,utterance_id,role,content,timestamp
+kgrmenm,0,tutor,Hello?,00:00:00
+kgrmenm,1,background,[unclear],00:00:00
+kgrmenm,2,student,Hello?,00:00:01
+kgrmenm,3,tutor,"Hi, Elara.",00:00:01
+kgrmenm,4,student,Hi.,00:00:02
+kgrmenm,5,tutor,"Hi, how are you doing?",00:00:04
+kgrmenm,6,student,Good.,00:00:05
+kgrmenm,7,tutor,"How was your day, Elara?",00:00:07
+kgrmenm,8,student,"Good, thank you. Great. So my name is Thaddeus, and I will be your tutor for today, OK?",00:00:09
+kgrmenm,9,student,"Yes, I can hear you.",00:00:14
+kgrmenm,10,tutor,"OK. OK, Elara. So today we'll be learning about rounding numbers to the nearest 10,000 and 100,000. So have you learned about rounding at school? [unclear]",00:00:15
+kgrmenm,11,tutor,Pardon?,00:00:26
+kgrmenm,12,student,Have you learned about rounding at school?,00:00:28
+kgrmenm,13,tutor,Yeah.,00:00:31
+kgrmenm,14,student,OK then. Can you tell me what you know about rounding?,00:00:33
+kgrmenm,15,background,You can hear her.,00:00:35
+kgrmenm,16,tutor,Yeah.,00:00:35
+kgrmenm,17,student,"So like if the number is like 250,000, That would round to 200,000, but if it's below 50— if it's below 250, then it would go to 200,000.",00:00:37
+kgrmenm,18,tutor,"Oh, okay, that was a really good explanation. Can you please try this question over here?",00:00:55
+kgrmenm,19,student,Pardon?,00:01:00
+kgrmenm,20,tutor,Can you try the question? [unclear],00:01:01
+kgrmenm,21,student,Okay. [unclear],00:01:04
+kgrmenm,22,tutor,"Okay, can you explain to me how did you get that answer? Oh wait, I think I rounded the 1,000. I didn't mean to do that. [unclear]",00:01:32
+kgrmenm,23,tutor,"Okay, can you explain to me how did you get the answer, Elara? [unclear] Because 50 is half of that number. So like, not half of the number, but that's closest to that number.",00:01:53
+kgrmenm,24,tutor,"Okay. So they have asked you to round to the nearest 10,000. Yeah?",00:02:21
+kgrmenm,25,student,Yeah.,00:02:27
+kgrmenm,26,tutor,"Okay. So when you're rounding to the nearest 10,000, from using your pointer, can you show me which column do you have to look at?",00:02:27
+kgrmenm,27,student,"Um, yeah. Should I underline it?",00:02:36
+kgrmenm,28,tutor,You can show it with the pointer.,00:02:40
+kgrmenm,29,student,"Oh, okay. Um, here?",00:02:42
+kgrmenm,30,tutor,Exactly. So we have a 5 there. So that is our ten-thousands column. Yeah?,00:02:47
+kgrmenm,31,student,Yeah.,00:02:51
+kgrmenm,32,tutor,"So we have to round to the nearest ten-thousand. So when we are supposed to round to the nearest ten-thousand, which column do we look at? [Speaker] Pardon?",00:02:52
+kgrmenm,33,tutor,"When you're rounding to the nearest 10,000, which column do you look at? [Speaker] This one?",00:03:03
+kgrmenm,34,tutor,"Can you please say it again? [unclear] No, you have to look at the column right next to it. [Speaker] Oh. Okay, so 4,000. 2,000, right? So you have a 4 here. So if you have a 4 in this column, do you have to round up or round down? [unclear]",00:03:11
+kgrmenm,35,student,Pardon? I can't hear you. You sound really far away.,00:03:34
+kgrmenm,36,tutor,"Okay, hold on. Can you hear me now?",00:03:38
+kgrmenm,37,student,Yeah.,00:03:41
+kgrmenm,38,tutor,"Okay. So we are about to round to the nearest 10,000. So we look at the column right next to it. Is that clear to you?",00:03:42
+kgrmenm,39,student,Yeah.,00:03:50
+kgrmenm,40,tutor,So what do you have in that column?,00:03:52
+kgrmenm,41,student,"4,000.",00:03:55
+kgrmenm,42,tutor,4. So basically you have to tell the digit. You have a 4. So does that mean you have to round up or down?,00:03:57
+kgrmenm,43,student,[unclear],00:04:05
+kgrmenm,44,tutor,"Pardon? So you have a 4, right?",00:04:05
+kgrmenm,45,student,Yeah.,00:04:09
+kgrmenm,46,tutor,Does that mean you have to round up or down?,00:04:10
+kgrmenm,47,student,No.,00:04:12
+kgrmenm,48,tutor,Do you have to round it up or down?,00:04:18
+kgrmenm,49,student,Down.,00:04:21
+kgrmenm,50,tutor,"Down. Okay, so when you round the number down, that would be the answer.",00:04:21
+kgrmenm,51,student,Yeah.,00:04:26
+kgrmenm,52,tutor,"I'm asking you the answer, Elara.",00:04:27
+kgrmenm,53,student,"Would it be 3,000? [unclear]",00:04:32
+kgrmenm,54,tutor,"Okay, no problem. This answer is incorrect, but you will learn how to do that. Can you please try this question over here?",00:04:37
+kgrmenm,55,tutor,"Okay. Right, the number— 2 multiples of 100,000 that 364,290 lies between. [unclear]",00:04:45
+kgrmenm,56,student,I don't understand it.,00:05:17
+kgrmenm,57,tutor,You don't understand this?,00:05:20
+kgrmenm,58,student,No.,00:05:22
+kgrmenm,59,tutor,What are they asking you in this question?,00:05:23
+kgrmenm,60,student,"To write 2 multiples of 100,000.",00:05:26
+kgrmenm,61,tutor,"Okay, so do you know what are the multiples of 100,000? [unclear]",00:05:31
+kgrmenm,62,student,Yeah.,00:05:34
+kgrmenm,63,tutor,"Can you tell me what are the multiples of 100,000?",00:05:40
+kgrmenm,64,student,"Um... 50,000?",00:05:44
+kgrmenm,65,tutor,"Is 50,000 a multiple of 100,000?",00:05:49
+kgrmenm,66,student,No.,00:05:53
+kgrmenm,67,tutor,"Okay, can you write the multiples of 100,000 here on top?",00:05:55
+kgrmenm,68,student,"Okay, um... is that 1? So 1... I really don't know what I'm doing.",00:06:00
+kgrmenm,69,tutor,"Okay, okay. So the multiples of 100,000 would be 100,000, 200,000, 300,000, and so on. Okay? So now can you decide what are the 2 multiples of 100,000 that would come beside this number? [unclear] Wait, can I just use symbols? Yeah, okay.",00:06:08
+kgrmenm,70,student,"Can you use the text tool, please?",00:06:39
+kgrmenm,71,tutor,"Yeah, okay, so 200 and [unclear] [unclear]",00:06:44
+kgrmenm,72,tutor,"Okay, so before 364,000, but it's not gonna form a bit, it's 200,000.",00:07:12
+kgrmenm,73,student,"Okay. How about— would it be— so where would you place this 364,000 in between these? Can you draw a line? [unclear] You can draw a line. I will place it here, or you can say I will place it here. So can you draw a line and show me where would you place it with the 364,209? Would you put it around there? [unclear]",00:07:18
+kgrmenm,74,tutor,"Exactly. So what is the multiple of 100,000 that comes before that number?",00:08:00
+kgrmenm,75,student,"200,000.",00:08:05
+kgrmenm,76,tutor,Okay.,00:08:07
+kgrmenm,77,background,"No, it's 300,000.",00:08:08
+kgrmenm,78,student,"Oh, 300,000.",00:08:10
+kgrmenm,79,background,So can you please write that?,00:08:13
+kgrmenm,80,student,Okay. [unclear],00:08:14
+kgrmenm,81,tutor,"Yeah. Okay, so did you understand this, Elara?",00:08:30
+kgrmenm,82,student,Yeah.,00:08:34
+kgrmenm,83,tutor,"Okay, can you please read this and try to fill in the blanks?",00:08:36
+kgrmenm,84,student,"Okay. 220, that's 2... [unclear]",00:08:40
+kgrmenm,85,tutor,Do you want me to do the bottom ones?,00:08:50
+kgrmenm,86,tutor,"You have to do this one as well. Yes, you have to fill all the blanks.",00:09:16
+kgrmenm,87,student,"Okay. [unclear] It won't let me place like a— oh, there we go. It won't let me place it on the line. [unclear]",00:09:20
+kgrmenm,88,tutor,There we go. Correct. Can you please try the next question as well?,00:09:55
+kgrmenm,89,student,"Okay. So multiples of 10,000. Oh, so would this be 400 and [UNCLEAR]?",00:10:08
+kgrmenm,90,student,Yeah.,00:10:08
+kgrmenm,91,tutor,"2, 3, 4, 5, 6, 7,000. [unclear]",00:10:44
+kgrmenm,92,student,I think I'm wrong.,00:10:56
+kgrmenm,93,tutor,"That's a multiple of 100,000. What is the multiple of 10,000 that comes after 420,000? [Speaker] Oh, 430,000.",00:11:00
+kgrmenm,94,tutor,"Correct. Can you please write that? [Speaker] Yeah. [unclear] 430,000. And then—",00:11:12
+kgrmenm,95,tutor,"Can you write it here, please?",00:11:31
+kgrmenm,96,tutor,Pardon?,00:11:36
+kgrmenm,97,student,"What is the multiple of 10,000 that comes after 420,000?",00:11:37
+kgrmenm,98,tutor,"Yeah, I've written it.",00:11:40
+kgrmenm,99,student,"No, I can see only 500,000 here.",00:11:42
+kgrmenm,100,tutor,"I've written 430,000.",00:11:46
+kgrmenm,101,student,"Okay, okay, no problem. Can you try this question next?",00:11:50
+kgrmenm,102,tutor,Yeah. [unclear] [unclear],00:11:54
+kgrmenm,103,tutor,"60,000.",00:12:06
+kgrmenm,104,student,"50,000.",00:12:07
+kgrmenm,105,tutor,"50,000. 40,000. 30,000. 20,000. 10,000. So, 800,000.",00:12:08
+kgrmenm,106,student,I think I've done that.,00:12:23
+kgrmenm,107,tutor,Can you see it?,00:12:28
+kgrmenm,108,tutor,"Yeah, I can see you've written 800,000, which is correct. Good job in figuring out the correct answer, Elara. Can you please read this and try to figure out the answer to these questions?",00:12:30
+kgrmenm,109,student,"Okay. When rounding numbers, we can use a number line to help us work out which number it is closest to. Estimate the position of 56,163 on each number line. [unclear] So, the 1,000 is closest.",00:12:39
+kgrmenm,110,tutor,2. [unclear],00:13:01
+kgrmenm,111,student,50. [unclear] [unclear],00:13:15
+kgrmenm,112,tutor,Pardon?,00:13:31
+kgrmenm,113,student,"Where would you mark 56,163 in this number line?",00:13:35
+kgrmenm,114,tutor,"Oh, wait, what am I supposed to do on this?",00:13:40
+kgrmenm,115,student,Can you please mark this number on this number line?,00:13:47
+kgrmenm,116,tutor,"Oh, estimate position. [unclear]",00:13:50
+kgrmenm,117,tutor,Do I draw a line?,00:14:01
+kgrmenm,118,student,"Yes, please.",00:14:03
+kgrmenm,119,tutor,"Oh, okay, okay. So would it be around there?",00:14:05
+kgrmenm,120,background,"Okay, so is it closer to 56,000 or 57,000? Oh, 56,000. [unclear]",00:14:14
+kgrmenm,121,tutor,"Yeah, so then that would be the answer. [Speaker] Okay. [Speaker] Yeah. [Speaker] It won't let me delete it. [unclear]",00:14:30
+kgrmenm,122,tutor,"Let me read it to you. [Speaker] Okay, thank you.",00:14:43
+kgrmenm,123,tutor,"Okay, so 56,000. Okay, and then this. So these are the numbers. Round it to the next 10,000. 10,000 is... [unclear] [unclear]",00:14:49
+kgrmenm,124,tutor,"Would it be 57,000?",00:15:25
+kgrmenm,125,background,"Okay, so can you— okay, so 56,163 to the nearest 10,000, right? What are the multiples of 10,000?",00:15:29
+kgrmenm,126,tutor,"10,000, 20,000, 30,000, 40,000, 50,000.",00:15:37
+kgrmenm,127,background,"So can you tell me the answer to this question then?...60,000?",00:15:43
+kgrmenm,128,tutor,Correct. Can you please write that?,00:15:53
+kgrmenm,129,student,"Okay. [unclear] Okay, there we go. I did it.",00:15:55
+kgrmenm,130,tutor,"Okay, great. Also, now put over there, Elara, and in this slide, the first part will be done by me and the rest will be done by yourself. Okay, so you have to follow when I do it. Uh, so we have it around 946,532 to the nearest 100,000. So we are rounding to the nearest 100,000, which means our answer is also going to be a multiple of 100,000. Okay?",00:16:06
+kgrmenm,131,student,Yeah.,00:16:29
+kgrmenm,132,tutor,"So we have to decide what is the multiple of 100,000 that comes before and after this number. So you know that the multiple of 100,000 that would come before 976,000 would be 900,000. Yeah?",00:16:30
+kgrmenm,133,student,"Yeah. And the multiple of 100,000 that comes after this number would be 1 million. Okay?",00:16:43
+kgrmenm,134,student,Okay.,00:16:52
+kgrmenm,135,tutor,"So now we are going to round this number to the nearest 100,000. We are going to decide whether it is going to be rounded to 900,000 or whether it's going to be rounded to 1 million. Okay?",00:16:53
+kgrmenm,136,student,Okay.,00:17:02
+kgrmenm,137,tutor,"So when you're rounding a number to the nearest 100,000, you look at the column right next to it.",00:17:03
+kgrmenm,138,tutor,So what is the digit in the column right next to it? [unclear],00:17:09
+kgrmenm,139,tutor,What is the digit in the column right next to it?,00:17:15
+kgrmenm,140,student,"Um, 70,000.",00:17:19
+kgrmenm,141,tutor,"I'm asking the digit, Elara.",00:17:23
+kgrmenm,142,student,"Oh, 7, 7, 7.",00:17:25
+kgrmenm,143,tutor,7. So is it greater than 5 or less than 5?,00:17:26
+kgrmenm,144,student,It's greater than 5.,00:17:29
+kgrmenm,145,tutor,So do we have to round up or down?,00:17:31
+kgrmenm,146,student,We'd round up.,00:17:34
+kgrmenm,147,tutor,"Yeah, we round up, so the answer would be 1 million. Okay?",00:17:36
+kgrmenm,148,student,Okay.,00:17:40
+kgrmenm,149,tutor,"So they're asking what is the digit in the ten-thousandth place, so that would be 7. So the answer would be 1 million. Is that clear to you, or do you have any doubts?",00:17:41
+kgrmenm,150,student,Good for me.,00:17:50
+kgrmenm,151,tutor,"Okay, can you please try the next question by yourself?",00:17:52
+kgrmenm,152,student,Yeah. [unclear] [unclear],00:17:56
+kgrmenm,153,tutor,"272,256,000 to the nearest 100,000. That would be 200— no, yeah, 200— no, 300,000.",00:18:09
+kgrmenm,154,student,5.,00:18:25
+kgrmenm,155,tutor,"300,000.",00:18:26
+kgrmenm,156,student,But we have to start with 7.,00:18:30
+kgrmenm,157,tutor,"Does 300,000 come before 272,000? [unclear]",00:18:34
+kgrmenm,158,tutor,Oh.,00:18:43
+kgrmenm,159,tutor,It won't let me delete this one either.,00:18:46
+kgrmenm,160,student,I'm going to delete it.,00:18:54
+kgrmenm,161,tutor,"Okay, there you go.",00:18:57
+kgrmenm,162,tutor,"Thank you. [unclear] So that 100,000, that would be— go to 100,000 because that's lower than 5, the digit 5, isn't it? I think. Estimate the position of 272,256 on the number line.",00:18:58
+kgrmenm,163,tutor,"Okay. Previous multiple is 100,000. [unclear]",00:19:28
+kgrmenm,164,student,"Would 200,000 be— no, 272,000.",00:19:45
+kgrmenm,165,tutor,"Here? [unclear] What is the multiple of 100,000 that will come before 272,000, Elara? It is not 100,000. Can you please recheck?",00:19:54
+kgrmenm,166,student,But it's a smaller number than 9.,00:20:07
+kgrmenm,167,tutor,Okay.,00:20:11
+kgrmenm,168,background,"Can you write the multiples of 100,000 over here?",00:20:13
+kgrmenm,169,tutor,Okay.,00:20:16
+kgrmenm,170,tutor,"It will go over. Is that alright? That's just 100, right?",00:20:23
+kgrmenm,171,student,"No, that's— yeah, that's 100, but I need 300,000. And then 200— [unclear]",00:20:32
+kgrmenm,172,tutor,I'm everything. I've learned everything. [unclear],00:20:45
+kgrmenm,173,student,Yeah.,00:20:57
+kgrmenm,174,tutor,"Okay, there we go. [unclear]",00:21:04
+kgrmenm,175,tutor,There we go. I've done it.,00:21:15
+kgrmenm,176,student,"Okay, great. So can you please mark where would you put this 272,256 in between them?",00:21:21
+kgrmenm,177,tutor,Okay. Would it—,00:21:29
+kgrmenm,178,student,Yeah.,00:21:30
+kgrmenm,179,tutor,Yeah.,00:21:30
+kgrmenm,180,student,"Let's round 976,506.",00:21:31
+kgrmenm,181,tutor,"270,000.",00:21:48
+kgrmenm,182,background,"I'm asking you, in between these numbers, where would you put this number? Draw a line.",00:21:49
+kgrmenm,183,tutor,"Oh, I'm so dumb. Draw. Okay, so would it go around here?",00:21:54
+kgrmenm,184,background,"Okay, so what is the multiple of 100,000 that comes before that number? [Speaker] Uh, 100,000.",00:22:04
+kgrmenm,185,tutor,"So you have marked your number over here, right? [Speaker] Yeah.",00:22:17
+kgrmenm,186,tutor,"Here, am I correct? [unclear] Can you please— is this right? Is this where you place the number? [Speaker] Um, I think.",00:22:22
+kgrmenm,187,tutor,"Okay, so what is the multiple of 100,000 that is right above that?",00:22:37
+kgrmenm,188,student,"Um, 80,000?",00:22:42
+kgrmenm,189,tutor,I'm asking you what is the multiple of 100— what have you written here?,00:22:45
+kgrmenm,190,student,I don't know.,00:22:49
+kgrmenm,191,tutor,Can't you see what you have written here?,00:22:51
+kgrmenm,192,student,"Estimate? Oh, 200,000.",00:22:55
+kgrmenm,193,tutor,"Yes, so 200,000 would be the multiple of 100,000 that comes before this number.",00:22:59
+kgrmenm,194,student,Okay. [unclear],00:23:06
+kgrmenm,195,tutor,But it looks like it.,00:23:06
+kgrmenm,196,student,"So what is the number? The previous one is 10,000. What is the next one?",00:23:13
+kgrmenm,197,tutor,"25,000.",00:23:19
+kgrmenm,198,student,"Yeah, how is it 100?",00:23:23
+kgrmenm,199,tutor,"Oh yeah, 254,000. [unclear]",00:23:27
+kgrmenm,200,tutor,"Okay. Would it be 200,000?",00:23:49
+kgrmenm,201,student,Yes.,00:23:55
+kgrmenm,202,tutor,Oh. It won't let me delete it like always. For some reason. Can you delete that answer?,00:23:55
+kgrmenm,203,tutor,"Yeah, sure. [unclear]",00:24:05
+kgrmenm,204,student,"No, it won't let me. Because if I click it, it will go between the million thing on the other side.",00:24:15
+kgrmenm,205,tutor,"Can you please write it? Click here and write. [Speaker] Yeah, it won't let me.",00:24:26
+kgrmenm,206,tutor,"[unclear] Should I write it? I will write it for you. [Speaker] Uh, 200,000.",00:24:31
+kgrmenm,207,tutor,"Okay, can you please write the other one in the other blank? [Speaker] Uh, next one. Uh, 300,000.",00:24:41
+kgrmenm,208,tutor,"Yeah, please write it. [Speaker] Okay. There [unclear] we go. Okay, so can you please fill in the blanks over here? Okay.",00:24:49
+kgrmenm,209,student,"The digit in the 10,000 place is... 7? Yes,",00:25:09
+kgrmenm,210,tutor,correct.,00:25:22
+kgrmenm,211,tutor,"And then 272,256 is closer to— is closer to— [unclear]",00:25:23
+kgrmenm,212,student,It's gone up. It's gone up.,00:25:37
+kgrmenm,213,tutor,"Wait, no. Would it be 300,000? Yeah, 300,000. [unclear]",00:25:43
+kgrmenm,214,tutor,"Try working out these questions, please.",00:25:57
+kgrmenm,215,student,"Okay. Round these numbers. Round these numbers to the nearest 1,000, 10,000, and 100,000. [unclear]",00:26:04
+kgrmenm,216,tutor,"So nearest 1,000. [unclear]",00:26:29
+kgrmenm,217,tutor,"8 here. Oh, why not 2? Why'd I put 2? 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18. [unclear]",00:26:42
+kgrmenm,218,student,How do I keep going?,00:27:00
+kgrmenm,219,tutor,"No, so this should be rounded to the nearest thousand, Elara. So you have to first touch the thousands column, okay?",00:27:07
+kgrmenm,220,student,Okay.,00:27:18
+kgrmenm,221,tutor,And then you have to look at the digit next to that. [unclear] So it's a 0. So will you have to round it up or down?,00:27:19
+kgrmenm,222,student,Down.,00:27:27
+kgrmenm,223,tutor,"Down. So this will remain the same, and you will have to put zeros to the remaining columns.",00:27:30
+kgrmenm,224,student,Okay. [unclear],00:27:36
+kgrmenm,225,tutor,I can't delete mine.,00:27:47
+kgrmenm,226,student,"Okay, I will delete it. You have an eraser tool.",00:27:49
+kgrmenm,227,tutor,"Do I? Oh, okay. So, 7, 8, 2, and 1.",00:27:53
+kgrmenm,228,tutor,That would be this? Would that be correct?,00:28:09
+kgrmenm,229,student,Yes.,00:28:21
+kgrmenm,230,tutor,Okay. So 7 and 8. So 7 and 8. What number too? [unclear],00:28:21
+kgrmenm,231,tutor,Is that correct?,00:28:37
+kgrmenm,232,student,Yes.,00:28:55
+kgrmenm,233,tutor,"Okay, finally. And round the nearest 100,000, so that would be 8— [unclear]",00:28:55
+kgrmenm,234,tutor,Yeah.,00:29:08
+kgrmenm,235,student,"100,000. Okay.",00:29:09
+kgrmenm,236,tutor,"Okay. It will only let me do it underneath it, so I'll just go underneath it. Okay, so 299.9999. Nearest one, nearest to the 1,000. Okay, and so 299 comma— [unclear]",00:29:17
+kgrmenm,237,tutor,"yes, carry on.",00:29:17
+kgrmenm,238,tutor,"Wait, that would be— would this be 300,000, this answer?",00:30:02
+kgrmenm,239,student,Yes.,00:30:09
+kgrmenm,240,tutor,"Yes, so I'll erase that and put 300,000. [unclear]",00:30:09
+kgrmenm,241,tutor,Next one.,00:30:24
+kgrmenm,242,student,"Okay, can I try the next one?",00:30:26
+kgrmenm,243,tutor,Yeah.,00:30:32
+kgrmenm,244,student,"So, to the nearest thousand. [unclear]",00:30:32
+kgrmenm,245,tutor,"Would that be 300,002? [unclear]",00:30:37
+kgrmenm,246,tutor,Did I get those correct?,00:30:50
+kgrmenm,247,tutor,"Yes, you did an amazing job. [unclear] So one last question from the session. Can you please try this?",00:31:20
+kgrmenm,248,student,"Okay. Cookie is thinking of the number. Of the number. Cookie is thinking of the number. When rounded to the nearest 10,000, it is 300. So I'm going to quickly underline the key...the nearest 10,000. [unclear]",00:31:28
+kgrmenm,249,tutor,Okay.,00:31:54
+kgrmenm,250,student,"Okay, so when rounded to the nearest 10,000, it is 350,000. When rounded to the",00:31:59
+kgrmenm,251,tutor,"It is 400,000. Can you get the number he could be thinking of?",00:32:11
+kgrmenm,252,student,"Okay, so... Okay, this is hard, so... [unclear] When rounded to the nearest thousand, it is 50,000. [unclear]",00:32:18
+kgrmenm,253,tutor,I've done it. I think that's the answer.,00:32:51
+kgrmenm,254,student,"So when you round 450,000 to the nearest 10,000, So would you get 350,000 as your answer? [unclear]",00:32:57
+kgrmenm,255,tutor,"When you round 450,000 to the nearest 10,000, it becomes 350,000. Is it?",00:33:11
+kgrmenm,256,student,"Oh, no.",00:33:18
+kgrmenm,257,tutor,"Yes, sir. [unclear]",00:33:18
+kgrmenm,258,tutor,Round 1 next.,00:33:30
+kgrmenm,259,student,"Yes, numbers to the nearest one. [unclear]",00:33:33
+kgrmenm,260,tutor,When rounding to the nearest one. [unclear],00:33:39
+kgrmenm,261,student,"Oh, so— [unclear] I don't get it.",00:33:48
+kgrmenm,262,tutor,"So you have a number. When you round it to the nearest 10,000, your answer should be 350,000. Did you understand that?",00:34:00
+kgrmenm,263,student,"Oh, my answer should be 350,000.",00:34:06
+kgrmenm,264,tutor,"And when you round that same number to the nearest 100,000, the answer would be 400,000.",00:34:10
+kgrmenm,265,student,Okay.,00:34:17
+kgrmenm,266,tutor,"So they're asking what is this number? [unclear] It should be the same number. So when you round that number to the nearest 10,000, you get this as your answer. When you round it to the nearest 100,000, you get this as your answer.",00:34:17
+kgrmenm,267,tutor,Would you get— would it be— [unclear],00:34:32
+kgrmenm,268,student,"440,000.",00:34:34
+kgrmenm,269,tutor,"If you write 440,000, when you round it to the nearest 100,000, the answer is correct. But when you round 404,000 to the nearest 10,000, do you get 350,000 as your answer?",00:34:53
+kgrmenm,270,student,No. [unclear] [unclear],00:35:03
+kgrmenm,271,tutor,"I will give you one example, one thing that can be considered as the answer. Please try to find another one. Okay, so if you write 351,000, round it to the nearest 10,000, the answer would be 350,000 because you'll be looking at this column and you will round it down. But when you're rounding to the nearest 100,000, because you have 5 in the tens column, it would be rounded up, so the answer would be 400,000. Is that clear to you, Elara?",00:35:35
+kgrmenm,272,student,"Oh, okay, yeah. [unclear] So",00:36:07
+kgrmenm,273,tutor,"Great, so is the answer 351,000?",00:36:15
+kgrmenm,274,student,"It can be any answer, so this answer is correct. Now I want you to think and give me another answer. [unclear]",00:36:19
+kgrmenm,275,tutor,Yeah?,00:36:23
+kgrmenm,276,student,"500,000.",00:36:36
+kgrmenm,277,tutor,"Perfect, that's a good one.",00:36:39
+kgrmenm,278,tutor,"Okay, Elara, we have completed this lesson, so we can move on to the next lesson. In the next lesson, we'll be learning about comparing numbers with up to 2 decimal places. Can you please try this learning goal question?",00:36:41
+kgrmenm,279,student,"Okay. [unclear] I think... So that would be 62%, and then that one would be 13%. So, um, wait, should I do a drawing? [unclear]",00:36:53
+kgrmenm,280,tutor,"Oh yeah, you can. Yes, you can.",00:37:20
+kgrmenm,281,student,"Yeah, so yeah, and oh wait, there's another one. Okay, so the table shows how fast some children jumped in a long jump. Write the name of the child who jumped the furthest. [unclear]",00:37:25
+kgrmenm,282,tutor,"Actually, you're supposed to do this question, Elara.",00:37:43
+kgrmenm,283,student,"Oh, okay. I didn't know that it had a question.",00:37:54
+kgrmenm,284,tutor,James... [unclear],00:38:13
+kgrmenm,285,student,I think I got it wrong. [unclear],00:38:14
+kgrmenm,286,tutor,Did I get it wrong?,00:38:33
+kgrmenm,287,student,"Yes, you got it wrong.",00:38:40
+kgrmenm,288,tutor,Can you tell me why do you think James— why do you consider James as the one who jumped the furthest?,00:38:43
+kgrmenm,289,student,Because I thought it was 45%.,00:38:50
+kgrmenm,290,tutor,Which I thought was bigger than 2.45.,00:38:55
+kgrmenm,291,student,"Okay, so what is the least distance?",00:39:01
+kgrmenm,292,tutor,"Oh, Katie would have the biggest number.",00:39:06
+kgrmenm,293,background,number.,00:39:06
+kgrmenm,294,tutor,Correct. Can you please write that?,00:39:06
+kgrmenm,295,student,Mm-hmm. [unclear],00:39:13
+kgrmenm,296,tutor,Katie.,00:39:24
+kgrmenm,297,student,[unclear],00:39:24
+kgrmenm,298,tutor,"Correct. And also, can you please explain me why did you get this as your answer?",00:39:24
+kgrmenm,299,student,"Because I— so that 0.62 is 62%, and I think I got that wrong. I think the other one would be—",00:39:32
+kgrmenm,300,student,"It's not percent, it's just 0.62.",00:39:49
+kgrmenm,301,tutor,"Oh, okay. And so 0.62 and then the other one's 1.31. [unclear]",00:39:52
+kgrmenm,302,student,"You think this is greater, is it?",00:40:06
+kgrmenm,303,tutor,"Yeah, I think, I think.",00:40:07
+kgrmenm,304,student,This has 0 here but this has 1 over here. [unclear],00:40:10
+kgrmenm,305,tutor,"Oh, so the 1 is greater than 0, so...",00:40:14
+kgrmenm,306,student,Yes.,00:40:31
+kgrmenm,307,tutor,"Okay. Can you start working on these questions, Elara?",00:40:31
+kgrmenm,308,student,Yes.,00:40:37
+kgrmenm,309,tutor,Write the decimal number. Shown and compared using the arrows or equal sign.,00:40:37
+kgrmenm,310,tutor,"Okay, so... [unclear]",00:40:50
+kgrmenm,311,student,"Wait, one, two, three, four, five, six, seven,",00:41:01
+kgrmenm,312,tutor,"3, 4, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100. So I know that [unclear]",00:41:07
+kgrmenm,313,student,"Right, so I know that that's 100 and that bit's 100.",00:41:33
+kgrmenm,314,tutor,"It's not 100, Elara. This is one whole. [unclear]",00:41:39
+kgrmenm,315,student,"Oh, so that's not 100, so let me erase that quickly. So that's one whole.",00:41:47
+kgrmenm,316,tutor,"Yeah. [unclear] 20, 21, 22, 23, 24, 25. And then 25.",00:41:56
+kgrmenm,317,tutor,How would you read this?,00:42:18
+kgrmenm,318,student,1.25.,00:42:24
+kgrmenm,319,tutor,Very good. Can you fill in this blank as well?,00:42:24
+kgrmenm,320,student,Yeah. [unclear],00:42:27
+kgrmenm,321,tutor,1.5?,00:42:33
+kgrmenm,322,student,"No, 5 would be like, you know, 5 good, but this is green scraps.",00:42:37
+kgrmenm,323,tutor,"Oh, oh, oh, I get it. Yep, I know what it is. It'd be 1— wait, oh, I know it now. [unclear]",00:42:43
+kgrmenm,324,tutor,Very good. Now can you compare these two?,00:42:56
+kgrmenm,325,student,"Yeah, I think this one would be bigger because it has a bigger number on this, that bit, but that bit has a zero.",00:43:03
+kgrmenm,326,tutor,"Yes, very good. That is a really good explanation. Can you try the next one? Question, Elara.",00:43:17
+kgrmenm,327,student,"Okay, complete using the correct symbol. Oh, okay, so... [unclear]",00:43:22
+kgrmenm,328,tutor,What digit could go in the empty space to make this correct? [unclear],00:43:32
+kgrmenm,329,tutor,Correct.,00:43:59
+kgrmenm,330,student,Okay.,00:43:59
+kgrmenm,331,tutor,"Awesome job, Elara. So we are running out of time, so I will end the session now. When I end the session, you'll get a few questions from the lesson we completed. So that is the rounding lesson that we completed before.",00:44:00
+kgrmenm,332,tutor,"We'll get a few questions from that and also we'll get a feedback form where you can say how the session went, OK?",00:44:11
+kgrmenm,333,student,OK.,00:44:16
+kgrmenm,334,tutor,"OK, Elara. So can you tell me what was the most important thing that you learned from this lesson?",00:44:18
+kgrmenm,335,student,"So when we're rounding, we round the— so if it's lower than 50 or bigger than 50— if it's bigger than 50, we round up, but if it's [unclear]",00:44:24
+kgrmenm,336,tutor,"If it's lower than 50, then we round down. [unclear]",00:44:37

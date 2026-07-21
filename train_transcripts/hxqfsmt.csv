@@ -1,0 +1,280 @@
+session_id,utterance_id,role,content,timestamp
+hxqfsmt,0,tutor,Hello?,00:00:00
+hxqfsmt,1,student,Hello!,00:00:01
+hxqfsmt,2,tutor,Hi!,00:00:02
+hxqfsmt,3,student,"Can you hear me, [STUDENT_NAME]?",00:00:02
+hxqfsmt,4,tutor,Yeah.,00:00:04
+hxqfsmt,5,student,"Alright, how are you?",00:00:05
+hxqfsmt,6,tutor,Good.,00:00:07
+hxqfsmt,7,student,"Alright, okay, how was school?",00:00:07
+hxqfsmt,8,tutor,Good.,00:00:11
+hxqfsmt,9,student,"Alright, good, okay, that's a good answer. Okay, so can you remember what we did on our last class? What's the next class, [STUDENT_NAME]?",00:00:13
+hxqfsmt,10,student,[UNCLEAR],00:00:13
+hxqfsmt,11,tutor,"We should be turning fractions into decimal points. Correct, yes. And today we'll be learning a new lesson, all right?",00:00:21
+hxqfsmt,12,student,Yeah.,00:00:29
+hxqfsmt,13,tutor,"Okay, so today we'll be learning something called finding equivalent fractions. Does this ring a bell to you? Do you know how to do it?",00:00:30
+hxqfsmt,14,student,So you find other fractions that like are the same to the one fraction.,00:00:38
+hxqfsmt,15,tutor,"The fraction? [Speaker] Yes, exactly, [STUDENT_NAME]. So we are going to find equivalent fractions, a fraction that is equal to this. But it could be bigger or smaller. Do you get it? But it is equal to that fraction. All right. First, could you try the learning goal question for me, [STUDENT_NAME]? [unclear]",00:00:44
+hxqfsmt,16,tutor,"All right. That was great. Can you tell me how you found the answer? [Speaker] Because if you do 5 times 3, it was 15. So I did 6 times 3, which is 18. Fantastic! And that's how you find an equivalent fraction, okay?",00:01:04
+hxqfsmt,17,student,Yeah.,00:01:21
+hxqfsmt,18,tutor,"You multiply the top number and the bottom number by the same number to get an equivalent fraction. Good job, [STUDENT_NAME]! Awesome! Awesome! An awesome explanation as well. Alright, so shall we learn that?",00:01:21
+hxqfsmt,19,student,Yeah.,00:01:38
+hxqfsmt,20,tutor,"Oh no, since you're pretty good at it, how about we try the first question here? [unclear]",00:01:39
+hxqfsmt,21,student,"So would you do... so it's a fraction to 4. Wait, no, 3/4 at first.",00:01:49
+hxqfsmt,22,tutor,The first one. How did you get that?,00:01:59
+hxqfsmt,23,student,"Because 3... there's 4, like, rows, and then only 3 rows are shaded in.",00:02:02
+hxqfsmt,24,tutor,"Awesome, that's correct. How about another equivalent fraction?",00:02:10
+hxqfsmt,25,student,"Um, could you do it 6 and 8?",00:02:14
+hxqfsmt,26,tutor,How?,00:02:23
+hxqfsmt,27,student,Done.,00:02:29
+hxqfsmt,28,tutor,"Uh, can you tell me how you got that?",00:02:32
+hxqfsmt,29,student,"Um, I did 3 times 2, which is 6. And then because it has to be equivalent, I did 4 times 2, which is 8.",00:02:34
+hxqfsmt,30,tutor,"Yes, [STUDENT_NAME], this is equivalent. But could you find a similarity with the shape over here? Now let's say 3/4. You can tell there are 4 lines, 4 columns, and 3 are colored. What— but when we do 6/8, can you see anything? How would you write 6/8? It should be also applicable for this, uh, drawing over here.",00:02:43
+hxqfsmt,31,student,So you would have 8 rows and then you would shade in 3 more?,00:03:06
+hxqfsmt,32,tutor,"Not exactly. How about these small boxes? How many small boxes are there, [STUDENT_NAME]?",00:03:14
+hxqfsmt,33,student,16.,00:03:22
+hxqfsmt,34,tutor,16. And how many are coloured?,00:03:23
+hxqfsmt,35,student,"Oh, so would it be 12/16?",00:03:27
+hxqfsmt,36,tutor,"Exactly, that's one, isn't it?",00:03:30
+hxqfsmt,37,student,Yeah.,00:03:32
+hxqfsmt,38,tutor,"Now, did you understand? It is also, if you look at this picture, if you look at the shape over here, you can say this fraction and this fraction, both are applicable for this, isn't it?",00:03:33
+hxqfsmt,39,student,Yeah.,00:03:44
+hxqfsmt,40,tutor,"Awesome, you got the first one correct. All right, can you change the second one?",00:03:45
+hxqfsmt,41,background,"Oh, um. Done?",00:03:53
+hxqfsmt,42,tutor,"Alright, what about the next one? [unclear]",00:04:08
+hxqfsmt,43,student,Would it be 2/12?,00:04:14
+hxqfsmt,44,tutor,"2/12, correct. How did you get 2/12?",00:04:18
+hxqfsmt,45,student,Because 2 are circled and then altogether there is 12.,00:04:21
+hxqfsmt,46,tutor,Awesome. What about an equivalent fraction? [unclear],00:04:26
+hxqfsmt,47,student,Would the denominator still be 12?,00:04:32
+hxqfsmt,48,tutor,"When you do an equivalent fraction, if the denominator is 12, the top number would be 2. It could be [UNCLEAR]. It would be the same number, isn't it?",00:04:47
+hxqfsmt,49,student,"Oh, so would it be 24 then?",00:04:47
+hxqfsmt,50,tutor,"24? Okay, why 24?",00:04:59
+hxqfsmt,51,student,"Because if you do 12 times 2 is 24, and then if you do 2 times 2, yeah, 2 times 2 equals 4.",00:05:02
+hxqfsmt,52,tutor,"This is an equivalent fraction. You are not wrong here, [STUDENT_NAME]. You are very correct that this is how you do equivalent fractions. But did you read the question over here? What does it say? Write two fractions that describe the amount of each shape or quantity shape. Now 4/24, can you— can— does this describe this actually? If you take 2/12, you can say there are 12 pebbles, 2 are colored. But 4/24, there are no 24 here.",00:05:14
+hxqfsmt,53,student,"Oh, so— [unclear]",00:05:42
+hxqfsmt,54,student,Yes?,00:05:45
+hxqfsmt,55,background,So would it be 10/12?,00:05:45
+hxqfsmt,56,student,10/12? Why would you—,00:05:49
+hxqfsmt,57,background,"Because if you do 2 subtract 10— oh wait, no. If you do 2 subtract 12, it equals 10.",00:05:51
+hxqfsmt,58,student,"Mm-hmm. 10/12, but it couldn't be an equivalent fraction, isn't it? 2/12 will not be equal to 10/12. Shall I give you a clue, if you don't mind?",00:05:59
+hxqfsmt,59,background,Yeah.,00:06:08
+hxqfsmt,60,student,How about we look at it like pairs? How many pairs are there? Pairs of 2. [unclear],00:06:10
+hxqfsmt,61,student,6.,00:06:18
+hxqfsmt,62,tutor,6 pairs. And how many pairs are circled?,00:06:20
+hxqfsmt,63,student,"Oh, 2. So 2 6s.",00:06:23
+hxqfsmt,64,tutor,"No, no, one pair.",00:06:25
+hxqfsmt,65,student,"Oh, one 6.",00:06:27
+hxqfsmt,66,tutor,Yes. And now see.,00:06:29
+hxqfsmt,67,student,"Oh, so you could divide it too.",00:06:30
+hxqfsmt,68,tutor,"Yes. Did you get it? But this— your earlier answers were correct. [STUDENT_NAME], They were equivalent fractions, but they were not really describing the amount of the shape, isn't it? Now this describes it. Did you understand it now?",00:06:33
+hxqfsmt,69,student,"Yeah, because you could, uh, because if you do 2 divided by 12 equals 6, and then if you did 2 divided by 2— oh wait, no, if you do 2 divided by 1, if you half them, it equals 1/6.",00:06:50
+hxqfsmt,70,tutor,"Yes, what about C? Could",00:07:04
+hxqfsmt,71,tutor,Could you try C on your own?,00:07:06
+hxqfsmt,72,student,Yeah. [unclear],00:07:10
+hxqfsmt,73,tutor,Would I times it or would I divide it?,00:07:25
+hxqfsmt,74,student,"What do you think? What do you think is better? If you times it, Can you get an answer and see if it's describing the amount shaded?",00:07:29
+hxqfsmt,75,student,"Oh, so it'll be dividing?",00:07:39
+hxqfsmt,76,tutor,"You can try it and you can, you know, try to see if it is applicable for the shape. And is this fraction describing this now? [unclear]",00:07:42
+hxqfsmt,77,student,"No. Oh, so then it will be 4/16. [unclear]",00:07:54
+hxqfsmt,78,student,"Actually, you were correct, [STUDENT_NAME]. [unclear]",00:08:06
+hxqfsmt,79,tutor,Why?,00:08:08
+hxqfsmt,80,student,"One fourth, dividing it into four parts. So it says this is one, this is two, this is three.",00:08:10
+hxqfsmt,81,tutor,"Oh, it's because it has four parts.",00:08:22
+hxqfsmt,82,student,Yes.,00:08:24
+hxqfsmt,83,tutor,So you have to divide it?,00:08:25
+hxqfsmt,84,student,"Yes, this is correct. All right, it's a bit tricky, but I think you can get it. All right?",00:08:27
+hxqfsmt,85,tutor,Yeah.,00:08:35
+hxqfsmt,86,student,Awesome. Shall we try the second one now?,00:08:36
+hxqfsmt,87,tutor,Yes. [unclear] [unclear],00:08:40
+hxqfsmt,88,tutor,"All right. Awesome, it is correct. Good job. All right, [STUDENT_NAME], now what do you think? I think it's time for a challenge for you. Are you ready?",00:08:57
+hxqfsmt,89,student,Yeah.,00:09:09
+hxqfsmt,90,tutor,Awesome. Could you try this?,00:09:11
+hxqfsmt,91,student,Yeah.,00:09:15
+hxqfsmt,92,tutor,"Okay. Make sure you read the question very carefully. Use all the information given, and can you find",00:09:16
+hxqfsmt,93,tutor,"Yeah, pink, green, and purple. If you need help, let me know.",00:09:22
+hxqfsmt,94,student,"Yeah. [unclear] Because, so 48, no, 40 minus 10 is 30, but it's 48, and we have also minus 8, which would be 30. So, like, no, so 2 of them would be taken away, so it would be 30. [unclear]",00:09:32
+hxqfsmt,95,tutor,Done? Done?,00:10:04
+hxqfsmt,96,student,Are you done?,00:10:05
+hxqfsmt,97,tutor,"Okay, [STUDENT_NAME]. Alright. Can you say how did you get there?",00:10:06
+hxqfsmt,98,student,"So basically in the middle it says pink plus green equals 12, so then if you divide 2 by 12 is 6. So pink is 6 and so is the green. And then for the, like, purple one, if you do 4 times 5 equals 20, so I put 5.",00:10:11
+hxqfsmt,99,tutor,"Alright, but [STUDENT_NAME], here I think you made a small misunderstanding here. This over here says Pink and green is equal to 12, but does it say pink and green is equal to each other? [unclear] Oh, so it could be— so it could be— so could it be any number then?",00:10:39
+hxqfsmt,100,tutor,"Yes, it could be any number. But there is a way you could find pink. If you know one number, it's easier for you to find the other number, isn't it?",00:11:02
+hxqfsmt,101,student,"Oh, so would it be 3?",00:11:11
+hxqfsmt,102,tutor,How'd you get 3?,00:11:14
+hxqfsmt,103,student,"Because, like, if you do 3, like, if you do 9 and then count on 3, it's 12. So then the next one's going to be 10, and then it's going to be 9. [unclear]",00:11:16
+hxqfsmt,104,tutor,"Okay. First, I would say [STUDENT_NAME]. Try to find this using this fraction. Now look, they're saying all these fractions are equal, isn't it?",00:11:37
+hxqfsmt,105,student,Yeah.,00:11:46
+hxqfsmt,106,tutor,"Something over 4, and here it's not given, but this fraction is given, 15 and 20. So 4 times what is 20, [STUDENT_NAME]?",00:11:47
+hxqfsmt,107,student,"Oh, 5.",00:11:57
+hxqfsmt,108,tutor,5. What times 5 is 15?,00:11:59
+hxqfsmt,109,background,Yeah. [unclear],00:12:03
+hxqfsmt,110,tutor,"Exactly. So pink should be 3, isn't it?",00:12:05
+hxqfsmt,111,student,Yeah.,00:12:08
+hxqfsmt,112,tutor,"Right. So if pink is 3, what is green?",00:12:09
+hxqfsmt,113,student,"Oh, so 9.",00:12:12
+hxqfsmt,114,tutor,"Correct, but I wanted you to give me this explanation using this. How can you find purple?",00:12:14
+hxqfsmt,115,student,"Would it be 10? [unclear] Because if you halve 20, it's 10, and",00:12:23
+hxqfsmt,116,student,We need a denominator bigger than 9.,00:12:31
+hxqfsmt,117,tutor,"Not exactly. Now if you see, what's the top number? [unclear]",00:12:36
+hxqfsmt,118,student,9.,00:12:44
+hxqfsmt,119,tutor,"9, alright. Okay, so shall we write the numbers here? So pink is equal to 3. Could we write 3 over here?",00:12:45
+hxqfsmt,120,tutor,"Okay, so look at it. 3/4 is equal to this number, isn't it?",00:13:04
+hxqfsmt,121,student,Yeah.,00:13:08
+hxqfsmt,122,tutor,So 3 times what is 9?,00:13:08
+hxqfsmt,123,student,"Um, would it be 12?",00:13:13
+hxqfsmt,124,tutor,"Yes, that's correct, [STUDENT_NAME]. How'd you get that?",00:13:20
+hxqfsmt,125,student,"Um, because if, say, if you was like doing 100, 3/4 is just one away. So like, if you do 3 times 4 is 12, and then you subtract 3, which is 12. I meant 9.",00:13:22
+hxqfsmt,126,tutor,"Uh, yes, [STUDENT_NAME], this is 12. Okay, awesome. So we are done with this lesson. Did you understand it, [STUDENT_NAME]?",00:13:37
+hxqfsmt,127,student,Yeah.,00:13:45
+hxqfsmt,128,tutor,"Also, can you tell me something you learned new?",00:13:46
+hxqfsmt,129,student,"Um, like it— like, um, there's certain times when you need to divide it or multiply it.",00:13:51
+hxqfsmt,130,tutor,"I agree. Yes. So how you find equivalent fractions? By multiplying the top number, the bottom number by the same number, or dividing it by the same number. All right.",00:14:00
+hxqfsmt,131,student,Yeah.,00:14:09
+hxqfsmt,132,tutor,Awesome. So let's move on to the next lesson really quick.,00:14:10
+hxqfsmt,133,tutor,"Here we go. Alright, so they are two same things. Finding equivalent fraction using a number. Okay. Now using the equal, using this, can you try the learning goal, [UNCLEAR]?",00:14:15
+hxqfsmt,134,tutor,Can you find an equivalent fraction using this line?,00:14:40
+hxqfsmt,135,student,Could it be 8/20?,00:14:46
+hxqfsmt,136,tutor,8/20. [unclear],00:14:49
+hxqfsmt,137,student,"Oh wait, no, would it be 2/5?",00:14:52
+hxqfsmt,138,tutor,"Okay, how did you get it?",00:14:58
+hxqfsmt,139,student,"Because if you divide, because like there's like darker bits, like halfway, I think it's going up in 2s. So then if you do 2 divided by 2— I mean, if you do 2 divided by 4, it's 2, and then if you do 2 divided by 10, it's 5. So 2/5.",00:15:00
+hxqfsmt,140,tutor,Mm-hmm. How can you get it from this number line?,00:15:21
+hxqfsmt,141,student,"Because it, like, the 4/10s is pointing at a darker line,",00:15:26
+hxqfsmt,142,student,"So I think it goes up in 2s, so then I divided 2 by each number and then it got me to 2 fifths.",00:15:31
+hxqfsmt,143,tutor,"Alright, [STUDENT_NAME]. Alright. Awesome. Okay, so let's learn. Can you read the green bubble over here?",00:15:43
+hxqfsmt,144,student,Equivalent fractions have the same value and the same position on a number line.,00:15:58
+hxqfsmt,145,tutor,"So equivalent fractions have the same value and same position on the number line. All right, so let me give an example. Now if you see, 4/10 is also here. 2/5 is also going to be here. All right?",00:16:05
+hxqfsmt,146,student,Yeah.,00:16:18
+hxqfsmt,147,tutor,Because this is 1 and 2. Awesome. Now over here. Now 3/12. So 3/12 is equal to how much? [unclear],00:16:19
+hxqfsmt,148,student,"3/8 would be equal to— oh wait, no, I meant 3/12 would be equal to— because 12 divided by 3 is 4, that means You've got to divide 3 by 3, so that'll be 0 for—",00:16:36
+hxqfsmt,149,tutor,3 divided by 3 is 0.,00:17:00
+hxqfsmt,150,student,"Oh wait, no, 1.",00:17:03
+hxqfsmt,151,tutor,"Yeah, also I would also like to appreciate it if you could use the number line as well. Is that okay? You are [UNCLEAR]. If you see in this, let me use it properly.",00:17:04
+hxqfsmt,152,tutor,"In this number line, there are 12 small boxes like this, isn't it?",00:17:16
+hxqfsmt,153,student,Yeah.,00:17:20
+hxqfsmt,154,tutor,"Okay, and 3/12 is over here. This is 3/12, isn't it?",00:17:21
+hxqfsmt,155,student,Yeah.,00:17:29
+hxqfsmt,156,tutor,"Okay, so another equivalent fraction is that— can you see this same number line can be divided into 4 parts? 1, 2, [unclear] [unclear]",00:17:30
+hxqfsmt,157,tutor,"3/4. Did you understand that, [STUDENT_NAME]?",00:17:45
+hxqfsmt,158,student,Yeah.,00:17:47
+hxqfsmt,159,tutor,"But here, look, 3/12 is equal— it will be equal to 1/4. It's in the same position, isn't it?",00:17:48
+hxqfsmt,160,student,Yeah.,00:17:55
+hxqfsmt,161,tutor,"Make sure your equivalent fraction is in the same position, okay? Because if you look at this, uh, yeah, did you understand? It is very important it's in the same position like this, okay?",00:17:56
+hxqfsmt,162,tutor,Yeah. Awesome. Now can you do B part? Let me quickly erase this off. Can you use the number line and try the B part? [unclear] How did you get that?,00:18:11
+hxqfsmt,163,student,"Because if you do 4 times 3 equals 12, and then because you need to make it equivalent fraction, you've got to",00:18:32
+hxqfsmt,164,student,"3 times 3, which is 9.",00:18:39
+hxqfsmt,165,tutor,"Awesome, [STUDENT_NAME]. Yes. And in the number line, are they in the same position? Yeah? Awesome. So if it is in the same position, you just draw a line and you see how can you equally divide the number line so that that number starts from this position. Okay? Did you get that?",00:18:42
+hxqfsmt,166,student,Yeah.,00:19:02
+hxqfsmt,167,tutor,"Awesome. Get it right, Sina?",00:19:03
+hxqfsmt,168,tutor,Yeah? [unclear],00:19:10
+hxqfsmt,169,tutor,Can you find it out in the number line?,00:19:11
+hxqfsmt,170,student,"Because if you do 12 divided by 2, which is 6, so basically you would do 2 divided by 2, which is 1.",00:19:21
+hxqfsmt,171,tutor,Can you divide it in the number line and show? Can you divide this fraction in the number line? 1/6. Can you show 1/6 in the number line?,00:19:34
+hxqfsmt,172,student,"You can't because the denominators are 4, like on the top side, so it can't be 6, it has to be 4.",00:19:45
+hxqfsmt,173,background,"Uh, not exactly. If you see here,",00:19:53
+hxqfsmt,174,tutor,"Look, 2/12 is equal to 1/6, isn't it?",00:19:59
+hxqfsmt,175,student,Yeah.,00:20:03
+hxqfsmt,176,tutor,Can you mark where is 2/12?,00:20:04
+hxqfsmt,177,student,So would it be at 4/12?,00:20:08
+hxqfsmt,178,tutor,Not exactly. Can you mark where 2/12 is? [unclear],00:20:11
+hxqfsmt,179,student,Oh.,00:20:15
+hxqfsmt,180,tutor,"Here, in this number line.",00:20:20
+hxqfsmt,181,student,Oh.,00:20:21
+hxqfsmt,182,student,Here?,00:20:25
+hxqfsmt,183,tutor,"Yes, it is here. So 160 should be in the same position as this, isn't it?",00:20:26
+hxqfsmt,184,student,Yeah.,00:20:33
+hxqfsmt,185,tutor,"So this— sorry, let me use the [UNCLEAR]. So if 160 falls in the same position, how would you divide this number line?",00:20:34
+hxqfsmt,186,student,"Um, you would divide it by a half?",00:20:34
+hxqfsmt,187,tutor,"Not exactly. So in 1/6, this is equal to 1/6. So can you see? The next one will be here. 2, 3, 4, 5, 6, and 6. Did you understand it, [STUDENT_NAME]?",00:20:50
+hxqfsmt,188,student,Yeah.,00:21:08
+hxqfsmt,189,tutor,"Are you sure? When it's 2/12, when it's 2/12, We divide it differently, like this. We take smaller boxes. Do you understand it? The equivalent fraction also starts here. If it starts here, this entire from 0 to 2/12 should be taken. Understood?",00:21:10
+hxqfsmt,190,student,Yeah.,00:21:31
+hxqfsmt,191,tutor,Awesome. Now for the deeper. Now 10/12. Now can you show me how can you divide this number line to 5/6?,00:21:32
+hxqfsmt,192,background,"Um, so you divide it by...",00:21:40
+hxqfsmt,193,student,"So it would be 1, 2, 3...",00:21:43
+hxqfsmt,194,tutor,"Would you do 2 and a half? Because if you do 3, it will be 4, and then if you do 2, it will be 6. So would you do 2 and a half?",00:21:56
+hxqfsmt,195,student,2.5.,00:22:11
+hxqfsmt,196,tutor,"2.5 in how? Like how, let's say. Okay, first I'll teach you here, okay? So can you mark 10, 12? Can you mark 10, 12 in the number line? [unclear]",00:22:11
+hxqfsmt,197,student,Yes.,00:22:24
+hxqfsmt,198,tutor,"Yeah, so can you take your shape? So put a line over there like this.",00:22:27
+hxqfsmt,199,tutor,On top of 10/12 or? So 10/12 is equal to what number now?,00:22:36
+hxqfsmt,200,student,5/6.,00:22:44
+hxqfsmt,201,tutor,"5/6. So this is also equal to 5/6, isn't it? So this entire thing is 5/6. Then what would be this small thing?",00:22:44
+hxqfsmt,202,background,4/5.,00:22:55
+hxqfsmt,203,student,"Um, it will be...",00:22:57
+hxqfsmt,204,student,One and a half?,00:23:01
+hxqfsmt,205,tutor,Not exactly. This entire thing is 5/6.,00:23:02
+hxqfsmt,206,student,"Oh, so would it be 2?",00:23:07
+hxqfsmt,207,tutor,"Not exactly, [STUDENT_NAME]. Let me show you quickly.",00:23:10
+hxqfsmt,208,student,"Oh, so it would be 3?",00:23:15
+hxqfsmt,209,tutor,"No, [STUDENT_NAME]. [unclear] If it's 5/6, you should divide this number line into 6 equal parts. Can you divide this number line into 6 equal parts, please? Can you see the denominator says how many parts you are dividing it into? Can you divide? Can you use a box like this?",00:23:19
+hxqfsmt,210,student,"Oh, okay.",00:23:38
+hxqfsmt,211,tutor,Alright. [unclear],00:23:40
+hxqfsmt,212,student,Can you put shapes? There would be something called a rectangle. I think you'll find that easier.,00:23:46
+hxqfsmt,213,student,Is it?,00:23:55
+hxqfsmt,214,tutor,"I did press the rectangle, but it's carrying on doing lines.",00:23:56
+hxqfsmt,215,student,"Oh, there you go. Okay.",00:24:00
+hxqfsmt,216,tutor,Oh. [unclear],00:24:09
+hxqfsmt,217,student,"I'm trying to do two, but it's hard.",00:24:10
+hxqfsmt,218,tutor,"Yeah, that's all right. [unclear] [unclear]",00:24:21
+hxqfsmt,219,tutor,"All right, now it's 6. Now it's divided into 6 equal parts, is it, Callum?",00:24:49
+hxqfsmt,220,student,Yeah.,00:24:55
+hxqfsmt,221,tutor,So how much is one of the boxes?,00:24:56
+hxqfsmt,222,student,6.,00:24:59
+hxqfsmt,223,tutor,Not exactly. As a fraction?,00:25:01
+hxqfsmt,224,student,Yes.,00:25:04
+hxqfsmt,225,tutor,There are 6 boxes. One is?,00:25:04
+hxqfsmt,226,student,[unclear],00:25:10
+hxqfsmt,227,tutor,"Oh, so one is 2/12.",00:25:11
+hxqfsmt,228,student,One is 2/12.,00:25:14
+hxqfsmt,229,student,"One is 4/12, one is 6/12, one is 8/12, one is 10/12, one is 1/2.",00:25:16
+hxqfsmt,230,tutor,"No, we are talking about 6. Now we divided into 6, isn't it? So one box is equal to 1/6. Okay? Yeah? 1/6. Then 5 of the boxes is equal to 5/6, isn't it? Yeah? Do you understand that, [STUDENT_NAME]? I want you to understand that. Yeah, so what is the top number here?",00:25:24
+hxqfsmt,231,student,So it would be 5/6.,00:25:45
+hxqfsmt,232,tutor,"Exactly, awesome.",00:25:47
+hxqfsmt,233,student,"Um, should I write it in then?",00:25:51
+hxqfsmt,234,tutor,"Yes, like this. Thank you. Do you understand it now?",00:25:54
+hxqfsmt,235,student,Yeah.,00:25:57
+hxqfsmt,236,tutor,"I want you to be able to use the number line. I can see you're really good at finding the equivalent fractions. I just want you to, you know, you're interpreting using this number line, all right?",00:25:58
+hxqfsmt,237,student,Yeah.,00:26:09
+hxqfsmt,238,tutor,"Let's do this follow-me, your turn side. Alright, so I'll be doing this side and I'll be giving your turn. Shall we get started with? [unclear]",00:26:10
+hxqfsmt,239,student,Yeah.,00:26:20
+hxqfsmt,240,tutor,"Alright, so we can label the value the arrow is pointing to. So it's 0 and 1. How many equal parts is the number line divided into? How many equal parts are there, [STUDENT_NAME]? [unclear]",00:26:21
+hxqfsmt,241,tutor,"8. There are 8 equal parts. There are 8 equal— okay, I'm having a hard time typing. There are 8— let me select this and drag it.",00:26:40
+hxqfsmt,242,tutor,"Okay, there are 8 equal parts. So how much is each part worth?",00:27:01
+hxqfsmt,243,student,1?,00:27:06
+hxqfsmt,244,tutor,"Each part is worth 1/8. Exactly, awesome. So each part is worth 1/8. I'm really sorry about the lectures. I'm having a slight problem. So can you draw a rectangle to show what is equal to 1/8? [unclear] On the number line, can you like show the [UNCLEAR]? Sorry?",00:27:06
+hxqfsmt,245,student,6/8.,00:27:06
+hxqfsmt,246,tutor,What is 6/8?,00:27:48
+hxqfsmt,247,student,The arrows point into 6/8.,00:27:51
+hxqfsmt,248,tutor,"Okay, the arrows point into 6/8. Can you show me how much is 1/8 as a rectangle. But how much is equal to 1/8?",00:27:53
+hxqfsmt,249,student,"Oh, just like one singular box.",00:28:01
+hxqfsmt,250,tutor,"Yes, exactly. This one box is 1/8. Awesome. The number line can also be divided into blank equal parts or blank equal parts. So what does it mean?",00:28:04
+hxqfsmt,251,background,"It can be equal to 8 different parts, or it could be",00:28:16
+hxqfsmt,252,student,It's already divided into 8 equal parts. How many other parts can it be?,00:28:23
+hxqfsmt,253,background,"Oh, like different numbers.",00:28:29
+hxqfsmt,254,student,"Oh, so it could be... it could be into 2s?",00:28:30
+hxqfsmt,255,background,"Yes, we could divide the number line by 2.",00:28:42
+hxqfsmt,256,student,Or by 4?,00:28:46
+hxqfsmt,257,tutor,"Exactly, we can divide it by 4. If we divide it by 2, can you tell how the number line looks like?",00:28:49
+hxqfsmt,258,student,"It would be, um... [unclear]",00:29:01
+hxqfsmt,259,tutor,"How much would 1 be? 1 word. Yes, 2. Exactly, take 2 boxes, 1. Then 2 of the smaller boxes would become 1. Did you understand that, [STUDENT_NAME]?",00:29:05
+hxqfsmt,260,tutor,Yeah? Awesome. The arrow is pointing at what number?,00:29:17
+hxqfsmt,261,student,"Um, 6/8.",00:29:25
+hxqfsmt,262,tutor,"Exactly, 6/8. [unclear]",00:29:26
+hxqfsmt,263,tutor,"Another equivalent fraction we can take. So we told the number line can also be divided into 4. I will say I take 4. Now if it's divided into 4, I'm going to divide it into 4. I'm going to try to divide the number line into 4. So I'm going to use a different color. I'm going to use blue. So we need to take 4 small boxes. This is 1.",00:29:43
+hxqfsmt,264,student,Probably one of the hard ones. [unclear],00:30:11
+hxqfsmt,265,tutor,"Sorry, small confusion here. I'm having a bit of a hard time with my— okay, so when we do it, this is also 3/4, okay? Yeah? So this arrow is also pointing at 3/4. Did you understand that, [STUDENT_NAME]?",00:30:17
+hxqfsmt,266,student,Yeah.,00:30:41
+hxqfsmt,267,tutor,"Okay. [unclear] Because if we can divide it into 4 equal parts— 1 part, 2 parts, 3 parts, and 4 parts. Did you understand that?",00:30:44
+hxqfsmt,268,student,Yeah.,00:30:54
+hxqfsmt,269,tutor,Awesome. Then here we can write it as 3/4. [unclear],00:30:55
+hxqfsmt,270,tutor,"Now that is an equivalent fraction. Also, it describes the number line. Did you get that?",00:31:05
+hxqfsmt,271,student,Yeah.,00:31:13
+hxqfsmt,272,tutor,"Awesome, [STUDENT_NAME]. We are running out of time, so let's stop here for today. Is that all right?",00:31:14
+hxqfsmt,273,student,Yeah.,00:31:21
+hxqfsmt,274,tutor,"Okay, awesome. In our next class, we can do your side and we can complete this lattice. Hope you had a wonderful day. Okay, we are done for today. Okay, [STUDENT_NAME], bye.",00:31:22
+hxqfsmt,275,student,Bye.,00:31:32
+hxqfsmt,276,tutor,"Make sure to do your— there will get a couple of questions at the end when I end the session, so make sure to do that and you can have— you can stay free. Okay, bye.",00:31:33
+hxqfsmt,277,student,Bye.,00:31:42
+hxqfsmt,278,background,Bye.,00:31:43

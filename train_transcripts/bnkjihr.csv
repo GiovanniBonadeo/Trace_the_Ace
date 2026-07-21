@@ -1,0 +1,311 @@
+session_id,utterance_id,role,content,timestamp
+bnkjihr,0,background,[unclear],00:00:00
+bnkjihr,1,tutor,Hello?,00:00:00
+bnkjihr,2,student,Hello?,00:00:01
+bnkjihr,3,tutor,"Hello, Kieran, can you hear me?",00:00:06
+bnkjihr,4,student,"Yeah, I can.",00:00:08
+bnkjihr,5,tutor,"Okay, so how are you doing today?",00:00:10
+bnkjihr,6,tutor,"Good. Just a question, have you—",00:00:13
+bnkjihr,7,student,Yes.,00:00:16
+bnkjihr,8,tutor,Have you— did you tutor a person named Faith?,00:00:16
+bnkjihr,9,student,"Yes, I did. Why do you ask?",00:00:21
+bnkjihr,10,tutor,"Oh, because she didn't believe me when I said you tutored me before.",00:00:24
+bnkjihr,11,student,"Okay. So Faith is in your class, is it?",00:00:30
+bnkjihr,12,tutor,Yeah.,00:00:32
+bnkjihr,13,student,Yeah.,00:00:33
+bnkjihr,14,tutor,"Right. Okay, so let me check. I think Faith is still my—",00:00:35
+bnkjihr,15,tutor,student.,00:00:35
+bnkjihr,16,background,"Yes, he's an adult student.",00:00:35
+bnkjihr,17,tutor,"Okay, cool. So it's our London team that assigns those sessions, and sometimes when we tutors take leave, they might swap things around.",00:00:45
+bnkjihr,18,background,Yeah.,00:00:56
+bnkjihr,19,tutor,"Okay, right. So I think last week you had [unclear] as your tutor.",00:00:57
+bnkjihr,20,background,Yeah.,00:01:02
+bnkjihr,21,tutor,"Yes, so today she is unavailable. That's why they have given this session to me, okay?",00:01:03
+bnkjihr,22,tutor,"Right, so shall we start off? Yeah?",00:01:10
+bnkjihr,23,student,Yep.,00:01:15
+bnkjihr,24,tutor,"Great. So, okay, so let's read out the topic from last week.",00:01:16
+bnkjihr,25,background,Rounding numbers to the nearest hundred and thousand.,00:01:22
+bnkjihr,26,tutor,"Right, so you are already familiar with this lesson. Can you briefly explain to me how we How would we, let's say, round this number to the nearest hundred?",00:01:27
+bnkjihr,27,student,"We would— [unclear] Rounding to the nearest hundred, we would move to the tens place.",00:01:40
+bnkjihr,28,tutor,Yes. And?,00:01:47
+bnkjihr,29,student,It would— we would round up.,00:01:49
+bnkjihr,30,tutor,Yes. Why do we—,00:01:54
+bnkjihr,31,student,Because 9 is higher than 5.,00:01:57
+bnkjihr,32,tutor,"Yes. And when we round up, we add a 1 to the hundred, and the remaining digits in the tens and the ones become zeros. Okay? And when do we round down?",00:02:00
+bnkjihr,33,student,"Uh, we round down when the number is lower than 5.",00:02:14
+bnkjihr,34,tutor,"Yes, when the digit is 4, 3, 2, or 1, we round down. That means the 3 stays as it is, and we would get 5,300. Now a similar process works with the thousands. We— to decide if we are going to round up or round down, we have to look at the hundreds, right? If it's more than 5, we round up, and if it's 4, 3, 2, or 1, we round up. Okay, so last week you completed this slide with [UNCLEAR]. So now we have to start off with this one. Okay, so it's a little bit more challenging, Kieran. Let's read the question.",00:02:19
+bnkjihr,35,student,"A number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? Give two possible answers. [unclear]",00:02:59
+bnkjihr,36,tutor,"Yes. So think about it, take your time. There are so many possible answers. You only have to provide 2.",00:03:12
+bnkjihr,37,student,"So 4,700.",00:03:25
+bnkjihr,38,tutor,Okay.,00:03:30
+bnkjihr,39,student,Or— [unclear],00:03:33
+bnkjihr,40,tutor,"Now with this one, would you round up or round down to get to 5,000?",00:03:34
+bnkjihr,41,student,"Oh, we would round up.",00:03:44
+bnkjihr,42,tutor,"Yes, we would have to round up.",00:03:46
+bnkjihr,43,student,"And the next one would be 4,000— could you just say 4,500?",00:03:49
+bnkjihr,44,tutor,"Yes, 4,500 or 5,550, both would work. Okay, can you explain to me how this number would round to 5,000?",00:04:00
+bnkjihr,45,student,"Because if you're looking at the thousandths place, you move to the hundreds. And any— say if it's anything— say if it was 5 or anything higher than— for any digit that has a bigger value than 5 or 5, you round up.",00:04:14
+bnkjihr,46,tutor,"Yes. Let me ask you a question. What about 4,499? Would that round to 5,000? [unclear]",00:04:36
+bnkjihr,47,student,"Yeah, it would.",00:04:50
+bnkjihr,48,tutor,So we are rounding to the nearest thousand. Would this number—,00:04:53
+bnkjihr,49,student,"Oh, no, no, no, no, no, no.",00:04:57
+bnkjihr,50,tutor,"No, right. So what is the smallest number that would round to 5,000 when we round it to the nearest thousand? [unclear]",00:04:59
+bnkjihr,51,tutor,"We can't go smaller. Yeah, this one, right? This is the smallest number. Can we go any smaller than that?",00:05:13
+bnkjihr,52,student,"No, we could do round down to 4,000.",00:05:22
+bnkjihr,53,tutor,"Exactly, it would round down to 4,000. Now, in both these cases, did we Round up or round down? What happened?",00:05:25
+bnkjihr,54,student,"Uh, we rounded up for—",00:05:36
+bnkjihr,55,tutor,We rounded up. Yes.,00:05:40
+bnkjihr,56,student,Yeah.,00:05:43
+bnkjihr,57,tutor,"Both of them we had to round up. Can there be numbers where we can get 5,000 by rounding down?",00:05:44
+bnkjihr,58,student,"Uh, no, it— they— we couldn't.",00:05:55
+bnkjihr,59,tutor,"Okay, so a number is rounded to the nearest thousand, and then after we round it, we get 5,000. [unclear] There can be, okay, there can be some numbers. So if you are rounding to the thousands, we have to think about the hundreds, okay?",00:06:01
+bnkjihr,60,tutor,"So, looking at the hundreds, there can be some numbers where rounding down would give us 5,000. What do you think? Can you think of a number that would round down to 5,000?",00:06:24
+bnkjihr,61,student,"Oh, could it be like 6,100?",00:06:41
+bnkjihr,62,tutor,"Okay, so let's try that. 6,100. So now round this to the nearest thousand. What would you get?",00:06:46
+bnkjihr,63,student,"Uh, 5,000?",00:06:56
+bnkjihr,64,tutor,Look at the hundreds. Decide if you have to round up or down.,00:06:59
+bnkjihr,65,student,Down.,00:07:04
+bnkjihr,66,tutor,"Yes, so if you round down, what's the number?",00:07:05
+bnkjihr,67,student,"Uh, 5,000?",00:07:09
+bnkjihr,68,tutor,"Is it 5,000?",00:07:12
+bnkjihr,69,student,"Oh, 6,000. Just 6,000.",00:07:14
+bnkjihr,70,tutor,"6,000. Yes, so we don't— reduce the 6, right? We keep the 6, or in this case, remember how you— so if we over here, we round it to the hundreds. If we had to round this to the thousands, we would get 5— yeah, 5,000, right?",00:07:16
+bnkjihr,71,student,Mm-hmm.,00:07:36
+bnkjihr,72,tutor,"So over here, we keep— we remove this [UNCLEAR]. We are rounding down because the hundreds is less than a 5. Okay, so what about— there can be a number that round down to 5%. What do you think? Can you give me an example?",00:07:38
+bnkjihr,73,student,"Uh, 5,000—",00:08:00
+bnkjihr,74,tutor,Yeah?,00:08:03
+bnkjihr,75,student,"5,450.",00:08:06
+bnkjihr,76,tutor,"450, excellent. So Yes. What do we get when we round it to the nearest thousand?",00:08:09
+bnkjihr,77,student,"5,000.",00:08:17
+bnkjihr,78,tutor,"5,000. Explain it to me, Kieran.",00:08:19
+bnkjihr,79,student,"5,000 because 4 is— because in the hundred, 4 is lower than 5, so we round down, and that would become 5,000.",00:08:22
+bnkjihr,80,tutor,"Yes. So over here we rounded up. And over here we rounded down. Can you tell me the largest number that would round down to 5,000?",00:08:36
+bnkjihr,81,student,"Um, 5,000— 5,490. [unclear]",00:08:52
+bnkjihr,82,tutor,"99, okay.",00:09:02
+bnkjihr,83,student,"Oh, 99.",00:09:04
+bnkjihr,84,tutor,"It would go all the way up to 99 because we only look at the hundreds, right? We don't need to look at the tens and the ones. So the answers to this question will lie in between these two numbers, okay? What you gave over here and this one. [unclear] So any number that is including these two and in between will round to what?",00:09:05
+bnkjihr,85,student,"It would round to 5,000.",00:09:39
+bnkjihr,86,tutor,"5,000. Perfect. Okay. So again, can you explain that to me? So we looked at two different types of answers. How did we get these? Yeah. Try to explain it in your own words?",00:09:43
+bnkjihr,87,student,Because 5 is like the halfway point.,00:10:00
+bnkjihr,88,tutor,Yes.,00:10:06
+bnkjihr,89,student,"And you would round up, but say if it was like— and then if you're trying to look at your nearest like thousand, it would like— you would have to move to the hundreds, and if the hundreds is lower than 5, you round down it, but if it's higher than 5, you round up.",00:10:07
+bnkjihr,90,tutor,"Yes. So what's the biggest number that would round down to 5,000?",00:10:27
+bnkjihr,91,student,"5,499.",00:10:35
+bnkjihr,92,tutor,"99. So if you go more than that, it would round up to 6,000, right? So we can't select anything more than this. Okay, so, uh, excellent work, Kieran, with this lesson. Last week you must have studied this. So if we are rounding to the nearest hundred, which place value should we look at to decide?",00:10:37
+bnkjihr,93,student,"The tens. And if we're [unclear] rounding to the nearest tens, we move to the ones.",00:11:07
+bnkjihr,94,tutor,"The ones. Perfect. Okay, brilliant. Okay, so Now we can move to our next lesson. Let me load it. We will get to post-assessment questions. Okay. All right. So please read out the topic.",00:11:12
+bnkjihr,95,student,Writing [unclear] as decimals.,00:11:32
+bnkjihr,96,tutor,"Right. So with this one, we will look at some of the basic concepts where we write tenths, and multiples of 10 as decimal. Okay?",00:11:36
+bnkjihr,97,student,Okay.,00:11:49
+bnkjihr,98,tutor,Okay. Right. And we will also try to visualize it like these two questions. Let's try the learning goal question. Perfect. Explain it to me.,00:11:49
+bnkjihr,99,student,"Because— because there's 10 parts, there's 10 equal parts and 4 are shaded. So, and as a tenth, yeah, as a tenth, that would be 0.4.",00:12:02
+bnkjihr,100,tutor,Correct. And can you write the decimal value for this fraction?,00:12:18
+bnkjihr,101,student,"The decimal, that would be 0.1.",00:12:23
+bnkjihr,102,tutor,0.1. What would be the fraction for 0.4? [unclear],00:12:29
+bnkjihr,103,student,4/10.,00:12:38
+bnkjihr,104,tutor,"4/10, right? 4 in the numerator, 10 in the denominator. Perfect. So Kieran, then we can directly jump— we can skip forward and move directly to our [unclear] slide. Right, so read out the question.",00:12:40
+bnkjihr,105,student,"Write the shaded part as a decimal. So It's out of 10 parts and there's 3, 6...",00:13:01
+bnkjihr,106,student,There is 8 parts and it's out of 8.,00:13:07
+bnkjihr,107,background,"So it would be as a decimal. Oh, would it just be 0.8?",00:13:11
+bnkjihr,108,tutor,"Yes, 0.8. If it was as a fraction, what could the answer be?",00:13:19
+bnkjihr,109,student,"1/8... no, 8/10.",00:13:26
+bnkjihr,110,background,"8/10. Okay, they're asking for a decimal, so... We should write it as a decimal. Now we will get to this question again, but before that, let's try Part B.",00:13:29
+bnkjihr,111,student,"Uh, 0.7.",00:13:44
+bnkjihr,112,tutor,0.7. How did you get 0.7?,00:13:49
+bnkjihr,113,student,"Uh, because there— this is my way of doing it. There's",00:13:53
+bnkjihr,114,student,"Yeah, I know that there's 10 equal parts and there's 3 shaded, and we're trying to find out what's not shaded. So 10 take away 3, 7, and then you put your decimal point in and your place— [unclear]",00:13:58
+bnkjihr,115,tutor,"Yes, yes, exactly. So we can write this, we can convert this question into subtraction problem, right? So if 3 are shaded, that means 3/10 are shaded. Then if we take it away from the whole, we would get 7/10, right? Can you write it as a subtraction calculation? Like, from a whole, take away the shaded region, that will give you 0.7.",00:14:09
+bnkjihr,116,student,"So like, as a whole number, or...?",00:14:42
+bnkjihr,117,tutor,"Yes, from a whole. So this is the answer, right? So the whole, we write it as 1.",00:14:45
+bnkjihr,118,tutor,"From which you have to take away the shaded region. What is the shaded region? As a decimal, the shaded region is also a decimal. There you go, 0.3, right? That equals 0.7. Okay, great. Now we can do a similar thing for this question. Rather than counting it up one by one, we can easily see that 2 parts are not shaded, right?",00:14:52
+bnkjihr,119,student,[unclear],00:15:25
+bnkjihr,120,tutor,"So we can consider from the whole we are taking away 0.2, that is 210, right? And that will be 0.8. Okay, all right, now let's try part C.",00:15:26
+bnkjihr,121,student,How much water is in the jug? Write your answer in litres. Would it be in a decimal?,00:15:45
+bnkjihr,122,tutor,"Yes, you can write it as a decimal. That's better.",00:15:53
+bnkjihr,123,student,So...,00:15:59
+bnkjihr,124,tutor,Perfect. What is L?,00:16:03
+bnkjihr,125,student,[unclear] litres.,00:16:05
+bnkjihr,126,tutor,"Litres. If we were to write it as a fraction, what would the fraction be? [unclear] Go ahead.",00:16:08
+bnkjihr,127,student,So it would be 5 over 10.,00:16:20
+bnkjihr,128,tutor,"5 over 10. You can use the slash symbol for— okay, go ahead. Yeah, 5 over 10, right? So we know that 5 over 10 is the same as a half, right? So basically half of the water is filled, half of this jug is filled, right? Okay. Now again, let's look back at this question. So do you need to count all the 8 parts, or is there another way to work it out?",00:16:25
+bnkjihr,129,student,You don't have to count all the 8 parts. You could just do [UNCLEAR].,00:17:03
+bnkjihr,130,student,[unclear],00:17:09
+bnkjihr,131,tutor,"Yes, from the whole you can take away 2 tenths. That should give you 8 tenths. Okay? And another thing is about the place value and how we read the fraction. So when we read this fraction, we say 5 tenths, right? And the decimal, the place value of the 5 is also a tenth. That means basically we are reading out it, we are reading out this fraction as a decimal number. 5/10, 5 is in the tenths. Okay, uh, there's another thing that I wanted to mention. Okay, I think we can move to our [unclear] slide, right? So read out the question.",00:17:09
+bnkjihr,132,student,How long is this ribbon? Is it a ribbon? The ribbon is the last... [unclear],00:18:02
+bnkjihr,133,tutor,meters long.,00:18:02
+bnkjihr,134,student,is.,00:18:02
+bnkjihr,135,tutor,So how are you going to work it out?,00:18:02
+bnkjihr,136,student,"The difference between 0 and 1 is 8. No. Yeah, wait, the diff— yeah, we would find the difference.",00:18:20
+bnkjihr,137,tutor,"Yes. Okay, this is the ribbon. This is 1 meter length.",00:18:32
+bnkjihr,138,student,9.,00:18:39
+bnkjihr,139,tutor,"9. Now what is the ribbon over here, Kieran? [unclear] The ribbon is the pink color. Yeah. And this entire length is 1 meter. So is it more than a meter, the length of the ribbon? No. No, right? So it can't be 9 meters. It's less than a meter. So they're asking for a fractional value.",00:18:43
+bnkjihr,140,student,"Oh, fraction. Oh, uh, it would be You can write it as decimal. [unclear]",00:19:16
+bnkjihr,141,tutor,"Yes. Okay. Is it— okay. Now this is where you have to count it up carefully. Now from the 0 to the start of the ribbon, what's the fractional value that it's not there?",00:19:21
+bnkjihr,142,student,0.1.,00:19:37
+bnkjihr,143,tutor,"Yeah. And then from the end of the ribbon to the hole, how much is not ribbon?",00:19:39
+bnkjihr,144,student,Like 0.1?,00:19:47
+bnkjihr,145,tutor,"0.1. So from the start and at the end, the ribbon is missing 10.",00:19:49
+bnkjihr,146,student,"So 0. [unclear] So it would be, would it be 0.8?",00:19:57
+bnkjihr,147,tutor,Yeah.,00:20:05
+bnkjihr,148,student,8 to 0.7.,00:20:06
+bnkjihr,149,tutor,8. It would be 0.8.,00:20:09
+bnkjihr,150,tutor,"Right, so let's count it up then. So we can see the ribbon starts from here, right? Let's count how many tenths. So this is a whole meter, and if you count it up, there are 10 parts. That means each part would be a tenth. Okay, so count up and see if there are 8 tenths.",00:20:13
+bnkjihr,151,student,"So 1, 2, 3, 4, [unclear]",00:20:33
+bnkjihr,152,tutor,"Yes, so it's 8. This part is not ribbon, right? Yes, so 8/10. Now again, do we have to count it up like that, or is there an easier method?",00:20:41
+bnkjihr,153,student,"Oh, we could just do— could you do 10 take away 8 because you have 2 parts that's missing? 10 takeaways at 8 or 2? 2 tenths. Okay.",00:20:56
+bnkjihr,154,student,"Yeah, 2 tenths. And then...",00:21:13
+bnkjihr,155,tutor,So can you write it like this over here? How you would do it? [unclear],00:21:15
+bnkjihr,156,student,One whole take away...,00:21:23
+bnkjihr,157,tutor,One whole take away... How many tenths are we taking away? [unclear],00:21:27
+bnkjihr,158,tutor,Two tenths. How do we write two tenths?,00:21:39
+bnkjihr,159,student,Zero point two.,00:21:41
+bnkjihr,160,tutor,Zero point two. Perfect. And that equals to?,00:21:43
+bnkjihr,161,student,Zero point eight.,00:21:50
+bnkjihr,162,tutor,Zero point eight. Brilliant. Okay.,00:21:51
+bnkjihr,163,tutor,"Right. Can you briefly summarize this question to me? Initially you tried 9 meters, and then you tried to write 0.9, but ultimately we saw it's actually 0.8. So please explain it back to me, how we got 0.8.",00:21:58
+bnkjihr,164,student,"Because a meter— [unclear] is 10, like 10—",00:22:19
+bnkjihr,165,tutor,Yes.,00:22:26
+bnkjihr,166,student,"Like, yeah, like 10—",00:22:27
+bnkjihr,167,tutor,"10 tenths, right?",00:22:30
+bnkjihr,168,student,"10 tenths. And then we, because there's 2, like 2 bits that the ribbon is missing, we took 0— 2 tenths from that, 0.2, and that left us with 0.8 cents.",00:22:31
+bnkjihr,169,student,So it would be 0.8 meters long.,00:22:48
+bnkjihr,170,tutor,"Exactly right. So 1 meter is 10 of the tenths, and over here we can see that the ribbon is only 8 tenths long. Okay, so we don't have to count up all those 8 tenths. We can just take away 2 tenths from the left and the right end to get 8/10. Okay, so brilliant work here. Kieran, I really like how you corrected the answer from the initial one here. Okay, so before we move along, let me— let's look back, right? So— [unclear] What is 1/10 equal to? This is the fraction. How do we write it as a decimal?",00:22:52
+bnkjihr,171,student,0.1.,00:23:44
+bnkjihr,172,tutor,"0.1. And you will sometimes get bar models like this where they color up or shade a region, and they would ask you to write it as a decimal. Okay? Let's quickly look at that concept. Yes, so over here, this— it's the same thing, right? So We can show 1 whole as 10 tenths, right? When we add up the 10 tenths, we would get 1 whole, right? Okay. So yeah, for some questions we don't have to count up all those parts. What could we do instead?",00:23:46
+bnkjihr,173,student,"Uh, could you just like— [unclear]",00:24:31
+bnkjihr,174,tutor,"Yeah, you could take away. Take away, right? So rather than counting up all those 8 parts, we can take away what we can easily see.",00:24:32
+bnkjihr,175,student,Subtract.,00:24:41
+bnkjihr,176,tutor,"Subtract the 2 parts that are not shaded. Like that over here, we can subtract the 3 parts that are shaded from a whole to get 7/10. Okay, so that's it for this lesson. [unclear] We can now move to our third lesson. Right, so this one is much more exciting because it relates to our real life, okay, day-to-day life. Right, please read out the topic.",00:24:42
+bnkjihr,177,student,Comparing numbers with up to 2 decimal places using money.,00:25:13
+bnkjihr,178,tutor,"Right, so every day we use money, and now we will try to apply our knowledge of decimal numbers addition and subtraction, to compare money, right? So decimal places using money. Let's try this question.",00:25:19
+bnkjihr,179,student,"Okay, so that would be— that would be— [unclear]",00:25:38
+bnkjihr,180,tutor,"Okay, can you explain it to me?",00:25:44
+bnkjihr,181,student,"Because 5.4, the tenths— the tens Is it tenths or tenths?",00:25:48
+bnkjihr,182,tutor,Tenths. So there's a difference. Okay. So ten—,00:25:56
+bnkjihr,183,student,"Yeah, so the tenths is bigger than two because that's in the tenths— because they're both in the tenths place and four is bigger than two. And just because it has a [unclear] at the end, that's in the ones, and four tenths has a bigger value. Then 5 ones.",00:25:59
+bnkjihr,184,tutor,"The 5, is it— do we call it the ones, that place value column?",00:26:24
+bnkjihr,185,student,Units?,00:26:32
+bnkjihr,186,tutor,So once is this— you mean this 5 or this 5?,00:26:35
+bnkjihr,187,student,"Yeah, at the end.",00:26:42
+bnkjihr,188,tutor,"At the end, this 5, right after the 2?",00:26:45
+bnkjihr,189,student,Yeah.,00:26:49
+bnkjihr,190,tutor,"Yeah. So do we call that place value the ones? Now this is the ones, okay? This is the tenth. What do we call the final place— not the final one, this place value?",00:26:49
+bnkjihr,191,student,"Uh, we call that one hundredths.",00:27:02
+bnkjihr,192,tutor,"Hundredths, right? This is the tenths and this is the hundredths, okay? So it's important you",00:27:07
+bnkjihr,193,tutor,"Pronounce it correctly, use the proper term. So we don't have to look at the 5 in the hundredths. Just by looking at the tenth place value, we can see 4 tenths are bigger than 2 tenths. So 5.4 is greater than 5.25. All right, and another word here, the tenths is the column that comes over here, right after the ones. This is the tenths. And this is the tenths, right? It's a small difference when we say it. Can you try this question as well?",00:27:15
+bnkjihr,194,student,"Yeah, uh, it would be £2.06p. [unclear]",00:27:53
+bnkjihr,195,tutor,"Okay, 6p. Now, in 1 pound, how many peas do we have?",00:28:06
+bnkjihr,196,student,100.,00:28:16
+bnkjihr,197,tutor,"100. Okay, so then how do we write 60p as a decimal number? [unclear] £0.60, right?",00:28:19
+bnkjihr,198,student,[unclear],00:28:45
+bnkjihr,199,tutor,"Okay, yeah, you can write 60. That's also correct. Yeah, you can show the 6. Now this is 60p. Okay, so if it's 6p, the 6 would end in the hundredths, right? So we will look at that in detail. Now it's a bit tricky, but let's look at the prior learning slide as well. Read the question, Kieran.",00:28:45
+bnkjihr,200,student,"Before comparing money amounts, we need to be able to write money using [UNCLEAR].",00:29:12
+bnkjihr,201,tutor,"Yes, so in the market we have notes like paper notes and coins, right? So what's the amount that's given in this",00:29:12
+bnkjihr,202,tutor,£5.20p.,00:29:12
+bnkjihr,203,student,"Yes. Now, how we can write it like this, but we can also write it as one amount. And to do that, we use that",00:29:12
+bnkjihr,204,background,"£1 is 100p, right? So how can we write it as a single amount?",00:29:46
+bnkjihr,205,student,[unclear],00:29:57
+bnkjihr,206,tutor,"Um, 5 pound.",00:29:57
+bnkjihr,207,student,"Point, 5 point.",00:30:02
+bnkjihr,208,tutor,5.2.,00:30:06
+bnkjihr,209,student,"Yes, so 5 pounds and this 2 is in the tenths. That's 2 of— so the piece work as tenths, right? So 10 piece would work as the tenths. In the place values, right? If it's just one piece like this, that would be in the hundredths. Okay, that's because we know 100 pieces make a pound. All right, so let's now try this question. How many pounds do you know?",00:30:09
+bnkjihr,210,student,There are 5 pounds. [unclear],00:30:42
+bnkjihr,211,student,"Yes. [Speaker] And 5p, that will be 5.50.",00:30:47
+bnkjihr,212,tutor,"Now, do you have any 10ps here in this number? [Speaker] No. [Speaker] Do we have anything that's more than 10ps? [Speaker] No. [Speaker] No. So if there's nothing, how do we show it in math?",00:30:58
+bnkjihr,213,tutor,"Nothing. Nothing in the tens. In the tens, there's nothing, right? So what's nothing?",00:31:16
+bnkjihr,214,student,So would it just be 5.5?,00:31:24
+bnkjihr,215,tutor,"So mathematically, we show nothing with a zero, right? If there's nothing in the tens, there you go. There's no 10-piece. There's nothing more than 10-piece. But in the hundredths, we have a 5. Okay?",00:31:29
+bnkjihr,216,student,Mm-hmm.,00:31:43
+bnkjihr,217,tutor,"We have 5, so you had to show 5 in the hundredths. Okay. All right. Can you explain that question back to me? How did it become 5.05?",00:31:45
+bnkjihr,218,student,"Oh, because we have nothing in the tenths.",00:31:57
+bnkjihr,219,tutor,"Tenths. We have nothing in the tenths. So if they showed, like, let's say 10p, [unclear] Like this over here. And if they showed another 10p here, then we have to show that one as well. Okay, so then it will be something like 5.15. Okay, this is pounds. I don't have pounds, I'll put up— okay, right. So Be very careful when you come across pounds. I mean the piece like this, right? Let's try part B.",00:32:01
+bnkjihr,220,student,"Um, it would be 3 [UNCLEAR].",00:32:43
+bnkjihr,221,tutor,Do we have any 10-piece or anything more than 10? Nothing.,00:32:43
+bnkjihr,222,tutor,"Exactly, 0. Right. What do we call that 0? We give a special name for it.",00:32:59
+bnkjihr,223,student,Placeholder.,00:33:07
+bnkjihr,224,tutor,"Placeholder 0. It tells us that there is nothing in the 10-piece or more part, right? Let's try C.",00:33:08
+bnkjihr,225,background,"There is [unclear] Pounds. [unclear] 70p. 70p. You can say it's 3.7 or 7-0. Either way, it's correct. Okay, brilliant. So now, Kieran, now we can move to our Let's Learn slide. Okay, read out this part.",00:33:20
+bnkjihr,226,student,"When comparing numbers with up to 2 decimal places,",00:33:47
+bnkjihr,227,student,We can think about— we can think about— [unclear] about them as amounts of money.,00:33:51
+bnkjihr,228,tutor,"Yes. So now a cool thing is that when we look at money, we have, as I mentioned, £1 is 100p. That means in our number system also, it goes in tens, right? It increases in tens. That means we can use our same number system to easily write money, right? So because even the whole pound is divided into 100p, right?",00:34:02
+bnkjihr,229,student,Yeah.,00:34:32
+bnkjihr,230,tutor,"So let's work it out. So the only thing you have to be careful is with how we say it, right? So this might be a hundred But if you think about it as money, if you think about this as money, that would be just the piece, right? This is the piece up to 9 piece, and this area is more than 10 piece. Okay, right. So what is the number? So here it's 1.4, so that means it's [UNCLEAR].",00:34:33
+bnkjihr,231,student,I'm wondering.,00:34:33
+bnkjihr,232,tutor,And?,00:35:06
+bnkjihr,233,student,I'm wondering. How many? [unclear],00:35:08
+bnkjihr,234,tutor,"40 paise. So that's how the place value columns change its meaning, right? In the place value chart, we are familiar, we have the ones, tens, and the hundreds. But if you think about it as money, what are the place value columns we have?",00:35:14
+bnkjihr,235,student,"Ones, tenths, and hundreds.",00:35:36
+bnkjihr,236,tutor,"Ones, tenths, and hundreds. That's the place value chart. But if we are writing an amount as a monetary amount with money, can you read out these 3 parts?",00:35:40
+bnkjihr,237,student,"Um, 1 pound.",00:35:53
+bnkjihr,238,tutor,Right.,00:35:56
+bnkjihr,239,student,1 [UNCLEAR].,00:35:56
+bnkjihr,240,tutor,"10 piece, right?",00:35:56
+bnkjihr,241,student,"10 piece and 1 piece. Yes, so the tenth place is equivalent to 10p, and the hundredths would be in 1p. Okay, yes, that's the only thing we have to keep in mind. Right now, let's write it out. What's this number in pounds?",00:36:00
+bnkjihr,242,student,"Um, in the last 100— wait, no, no, no, no. [unclear] How many 10-piece?",00:36:21
+bnkjihr,243,student,There is 40.,00:36:33
+bnkjihr,244,tutor,"Oh, do we have 40 of the 10-piece? No, 4 of the 10-piece. And do we— are they showing any piece, one piece? No, there are nothing, right? So there are no one-piece. Now again, read out these headings, Kieran, at the bottom.",00:36:35
+bnkjihr,245,student,"1 pound, 10 pence, 1 pence.",00:36:55
+bnkjihr,246,tutor,Yes. So what is the corresponding place value column for 1 pence? Over here.,00:37:00
+bnkjihr,247,student,2.,00:37:09
+bnkjihr,248,tutor,"Yeah, the hundreds. The hundreds is for pence. Yes, go ahead.",00:37:09
+bnkjihr,249,student,And then it would be 3.,00:37:14
+bnkjihr,250,tutor,3 10 pence. And how many pounds?,00:37:17
+bnkjihr,251,student,One.,00:37:21
+bnkjihr,252,tutor,One part. Perfect. So now it's about using the proper symbol to compare these two. Okay.,00:37:23
+bnkjihr,253,student,"Uh, that would be—",00:37:33
+bnkjihr,254,tutor,"You can place it here. Yes, right. Okay. All right. So yeah, it's the same thing here, 1.4. Is greater than £1. And right, so now let's read it out in both ways, right? I will read it out as a number, but you have to read it out as if it's money. Okay.",00:37:34
+bnkjihr,255,student,Yeah.,00:38:06
+bnkjihr,256,tutor,"1.4 is greater than 1.32. Now can you read it out as money, pounds and pence?",00:38:06
+bnkjihr,257,student,1 pound 4p.,00:38:16
+bnkjihr,258,tutor,4?,00:38:20
+bnkjihr,259,student,"No, 4— 40. 40p is greater than 1 pound and 32p.",00:38:20
+bnkjihr,260,background,"Perfect, 32p. 1 pound and 40p is greater than 1 pound and 32p. Great. [unclear] Yes, so right, so we looked at two— that— so there are some similarities and differences. So what's the main difference when we try to write money as decimal numbers?",00:38:32
+bnkjihr,261,student,"The main difference is like what place they're in. Yes, and how we read it, right?",00:39:02
+bnkjihr,262,student,Yeah.,00:39:10
+bnkjihr,263,tutor,"So over here, that this is the tenths we know of, but it's actually 10p with money. And the hundredths, what's the money equivalent for hundredths?",00:39:11
+bnkjihr,264,student,"Um, for hundredths?",00:39:26
+bnkjihr,265,tutor,"Yeah, it's equal to—",00:39:29
+bnkjihr,266,student,"Oh, [UNCLEAR].",00:39:30
+bnkjihr,267,student,One piece.,00:39:32
+bnkjihr,268,tutor,"One piece, right? Perfect. Now I will work out this slide, and next it'll be your turn, right? The next slide. Okay, let's compare 3.5 and 3.05 using greater than, less than, or equal. Now these are the two numbers, but we are trying to compare them as money. Okay, so Part",00:39:34
+bnkjihr,269,background,"Write the numbers as money values and write it in pounds. So if it's 3, that means it's going to be 3 pounds here, and the 5 is in the— I will work it out. [unclear]",00:39:55
+bnkjihr,270,student,"Oh, okay.",00:40:06
+bnkjihr,271,tutor,"And then in the 5 in the tens means it's going to be 5 10-piece or 50-piece, right? So it's 3 here, and 5 10-piece means It's going to be 50 pence. Now there is nothing in the hundreds, that means we don't have any coins in the pence, right? So next I can put a 0 there as well to show that there's nothing. And then for the next number, we have 3 pounds.",00:40:07
+bnkjihr,272,student,[unclear],00:40:44
+bnkjihr,273,tutor,"So in the pounds, I have 3. In the 10 pence, there are no 10p coins. That means 0 10 pence, right? But in the pence or in the hundreds, there are 5 of them. So there are 5p, 5p coins. So basically 5p. So if I read it out, this is going to be £3.50, this is going to be £3.05, right? Now basically, even looking at it from the normal place value headings we have, or from the 10p, so you can clearly see £3.50 would be bigger than £3.05. So I can place the symbol over here, right? Okay, now it's your turn. Can you work out this question? [unclear]",00:40:45
+bnkjihr,274,tutor,Yeah. Okay.,00:41:37
+bnkjihr,275,student,"Oh, let's compare 2.2 and 2.15 or 2.15 using",00:41:45
+bnkjihr,276,student,"Less than, greater than.",00:41:52
+bnkjihr,277,tutor,15. Yes.,00:41:56
+bnkjihr,278,student,"Easy. Less than, greater than. And then so that will just be 2... [unclear]",00:41:58
+bnkjihr,279,background,"Yes. So Kieran, if you are saying 15, you have to say pounds, right? 2 pounds. £2.20, or you can say £2.15. That is correct. But if you are reading it as a decimal number, you have to say 2.15. Okay. [unclear] All right. Okay, so read out these two amounts as money. [unclear] £2.02p. Is it 2p? £2.20. 20p. Perfect. How about this one?",00:42:10
+bnkjihr,280,student,£2.15p.,00:42:51
+bnkjihr,281,tutor,15p. And which is the bigger number?,00:42:55
+bnkjihr,282,student,£2.20p.,00:42:58
+bnkjihr,283,tutor,"£2.20p is bigger than £2.15p. If you are reading it as a decimal, you can say 2.2 is greater than 2.15.",00:43:01
+bnkjihr,284,student,Uh-huh.,00:43:09
+bnkjihr,285,background,Okay. [unclear],00:43:11
+bnkjihr,286,tutor,"Right, so we will try this out next week. Let's look back at what we studied today. Right, so can you write the conversion? How many peas are there in a pound? Use the symbols tool or the text tool.",00:43:16
+bnkjihr,287,student,"Okay, so there's",00:43:35
+bnkjihr,288,student,"1 pound, 8 pence.",00:43:39
+bnkjihr,289,tutor,"1 pound, 100p. And that is what allows us to easily use the same place value chart, but there is a small difference with the headings of the place value chart, right?",00:43:40
+bnkjihr,290,student,Mm-hmm.,00:43:57
+bnkjihr,291,tutor,What does ones correspond to when it comes to money? The ones place would be [unclear],00:43:58
+bnkjihr,292,student,Right. And the tenths would be in the—,00:44:07
+bnkjihr,293,tutor,Tenpence.,00:44:11
+bnkjihr,294,student,Right. The hundredths would be—,00:44:13
+bnkjihr,295,tutor,Onepence.,00:44:16
+bnkjihr,296,student,Onepence. Can you read out this number in pounds and pence?,00:44:17
+bnkjihr,297,tutor,"Um, one— one pound and thirty—",00:44:24
+bnkjihr,298,student,32p.,00:44:33
+bnkjihr,299,tutor,"32p. This one, as in pounds and pence?",00:44:34
+bnkjihr,300,student,£1.40p.,00:44:40
+bnkjihr,301,tutor,"40p, right? Perfect. So basically you can read it as if there was no decimal point, but if you are reading it as a decimal number, you have to read the places one by one. 1.4, 1.32. If you are reading it as money, you can say £0.40p or £0.32p. Okay, so Kieran, that's it for today. Can you tell me something new that you learned today?",00:44:43
+bnkjihr,302,student,[unclear] Finding out the value of money and rounding.,00:45:13
+bnkjihr,303,background,up to the [UNCLEAR].,00:45:13
+bnkjihr,304,tutor,"Yes, and to be careful with the pounds and the peas, right?",00:45:13
+bnkjihr,305,background,Yeah.,00:45:30
+bnkjihr,306,tutor,"Okay, so that's it for today, okay? We will start from the U-Dist slide next week, okay? Have a nice day.",00:45:30
+bnkjihr,307,background,You too.,00:45:38
+bnkjihr,308,tutor,Bye.,00:45:39
+bnkjihr,309,background,Bye.,00:45:39

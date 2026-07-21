@@ -1,0 +1,323 @@
+session_id,utterance_id,role,content,timestamp
+ntotgqm,0,tutor,Hi.,00:00:00
+ntotgqm,1,student,Hello.,00:00:02
+ntotgqm,2,tutor,Hi.,00:00:03
+ntotgqm,3,student,"Hi, Ellie. Can you hear me clearly?",00:00:04
+ntotgqm,4,tutor,Yeah.,00:00:07
+ntotgqm,5,student,That's great. So how are you today?,00:00:08
+ntotgqm,6,tutor,Good. [unclear],00:00:10
+ntotgqm,7,student,"I'm Ellie, so let's get into the session.",00:00:12
+ntotgqm,8,tutor,Do you remember we worked with probabilities in our last session?,00:00:16
+ntotgqm,9,student,Yeah.,00:00:20
+ntotgqm,10,tutor,"Yeah, so we completed 2 questions under that one.",00:00:21
+ntotgqm,11,student,Yeah.,00:00:25
+ntotgqm,12,tutor,And we did this one also. Can you recall that?,00:00:26
+ntotgqm,13,student,Yeah.,00:00:30
+ntotgqm,14,tutor,"Okay, since it's about 2 or 3 weeks, can you just go through the question, Ellie? We have completed 2 under this one. We have to complete the third one, okay? So let's go through this together.",00:00:31
+ntotgqm,15,tutor,"Would you like— would you times— 22 times 4 would be 88, so would it be— [unclear]",00:00:50
+ntotgqm,16,student,"Yeah, because they're like higher.",00:01:07
+ntotgqm,17,tutor,"So Ellie, are you— yeah, is that the answer for the third question?",00:01:12
+ntotgqm,18,student,Yeah.,00:01:18
+ntotgqm,19,tutor,"Okay, so actually you can't just take it from one value. Okay, so if this is 4 times that of heads, you can't decide from that one. We have a method how we can do it. Okay.",00:01:19
+ntotgqm,20,student,Yeah.,00:01:34
+ntotgqm,21,tutor,"Yeah, so let's go through all the information that's given on the table, and we have to find the probability of heads and the probability of tails totally. Okay. Yeah, so let's do it. Here we are going to calculate the relative frequency for flipping a head or tails using all the information given here.",00:01:35
+ntotgqm,22,student,Yeah.,00:01:56
+ntotgqm,23,tutor,So what is the total heads? You have to find the total tails and the total flips. Then we'll find the probability. Okay?,00:01:57
+ntotgqm,24,student,"Okay, very new. And total heads is... [unclear]",00:02:04
+ntotgqm,25,tutor,Okay. [unclear],00:02:19
+ntotgqm,26,student,Okay.,00:02:42
+ntotgqm,27,tutor,Yeah. [unclear],00:03:02
+ntotgqm,28,student,"Yes, that's correct up to that point, Ellie. So how do we find the probability of heads? [unclear]",00:03:04
+ntotgqm,29,tutor,"Okay, can you simplify that and give us the decimal number?",00:03:24
+ntotgqm,30,student,Yeah. [unclear],00:03:33
+ntotgqm,31,student,"Oh, you can do it more?",00:03:47
+ntotgqm,32,tutor,Mm-hmm. [unclear] Is that all it goes up to?,00:04:03
+ntotgqm,33,tutor,"This is the simplest fraction, Ellie, that's right. And shall we have the answer in the decimal number, as a decimal point?",00:04:29
+ntotgqm,34,student,I don't know.,00:04:37
+ntotgqm,35,tutor,Do you have a calculator with you?,00:04:39
+ntotgqm,36,student,No. [unclear],00:04:42
+ntotgqm,37,tutor,"No, there's no calculator.",00:04:43
+ntotgqm,38,background,"Okay, I'll help you there, Ellie. If you divide that, the answer would be 0.88.",00:04:50
+ntotgqm,39,tutor,"Right. Okay, and what about the probability of tails?",00:05:16
+ntotgqm,40,student,I'm just writing it down so I can remember.,00:05:21
+ntotgqm,41,tutor,I guess that's right. [unclear],00:05:28
+ntotgqm,42,tutor,Okay.,00:05:37
+ntotgqm,43,student,Is that the simplest it gets?,00:05:46
+ntotgqm,44,tutor,"You can divide it further by 3, right?",00:05:51
+ntotgqm,45,tutor,"Oh yeah. [unclear] So the answer you get there is 0.12. Okay, so now that we have the probabilities of heads and tails, Ellie, how can we be— how can we calculate how many times it's more likely to get heads?",00:05:53
+ntotgqm,46,student,"Uh, 0.88 take away 0.12.",00:06:26
+ntotgqm,47,tutor,"Can you repeat that, Ellie? It's 0.88?",00:06:31
+ntotgqm,48,student,Take away 0.12.,00:06:34
+ntotgqm,49,tutor,"Okay, so if you are taking it away, right, if we are to see how many times it's more, you can't just take away, you have to divide.",00:06:37
+ntotgqm,50,tutor,"Yeah, you have to see how many 0.12s will be there in this one. Okay, can you try to work that out manually, maybe?",00:06:46
+ntotgqm,51,student,Yeah. [unclear] [unclear],00:06:58
+ntotgqm,52,tutor,"Awesome. That's correct, Ellie. So from this answer, what can we conclude?",00:07:19
+ntotgqm,53,student,"Yeah, that is true.",00:07:27
+ntotgqm,54,tutor,So Mason says that you're 4 times more likely to get a heads than tails. Is he correct?,00:07:33
+ntotgqm,55,student,Yeah. No.,00:07:41
+ntotgqm,56,tutor,"It's not 4 times, it's actually 7 times, right?",00:07:49
+ntotgqm,57,student,"Yeah, I was just thinking because [unclear] is 4 times [UNCLEAR].",00:07:52
+ntotgqm,58,tutor,"Okay, so it's not exactly 4 times as Mason says, it's more likely about 7 times more likely. Yeah, sure. Okay, so good job there, Ellie. Since we learned it new, can you tell me how we came up with this answer?",00:07:52
+ntotgqm,59,student,"Find total heads, total tails, total flips, probability [unclear] for them, and then divide.",00:08:19
+ntotgqm,60,tutor,"Exactly. So using all the information given on the table, first we found the relative frequency. Okay, how, um, how these heads and tails We found the total flips, then found the probabilities for each, and then we divide. Okay?",00:08:26
+ntotgqm,61,student,Yeah.,00:08:41
+ntotgqm,62,tutor,"That's a good focus there, Ellie. Let's try a similar problem. There we go.",00:08:42
+ntotgqm,63,student,I can't remember how to do that.,00:08:50
+ntotgqm,64,tutor,"Oh, okay. I'm here to help you, Ellie. So here are 4 dice, and what do you notice about this one? What is this part?",00:08:53
+ntotgqm,65,student,Dice 3 has got the same number.,00:09:03
+ntotgqm,66,tutor,"Mm-hmm, okay. So if we are rolling, the chance of getting a 6 is this one, and the chance of getting from 1 to 5 is this part, okay?",00:09:05
+ntotgqm,67,student,Yeah.,00:09:17
+ntotgqm,68,tutor,So they want you to find the relative frequency for rolling a 6 for dice 4. So which part do we consider for this one? Which part of the table do we need?,00:09:18
+ntotgqm,69,student,4.,00:09:18
+ntotgqm,70,tutor,"Exactly. So as you know, relative frequency is equal to frequency of events occurring over the total number of trials of that experiment. So what is it here then?",00:09:18
+ntotgqm,71,student,[unclear],00:09:49
+ntotgqm,72,tutor,"Can you repeat that, Ellie? I didn't hear you quite enough. [unclear]",00:09:54
+ntotgqm,73,tutor,"Okay, so relative— to find the relative frequency, you get the times the event is occurring, that is 30. That one you're going to divide by the total number of trials.",00:10:05
+ntotgqm,74,student,Oh yeah.,00:10:16
+ntotgqm,75,tutor,So you're going to add these two.,00:10:17
+ntotgqm,76,student,Yeah.,00:10:19
+ntotgqm,77,tutor,"Okay, yeah, go ahead, Ellie.",00:10:20
+ntotgqm,78,tutor,So what will be the final answer?,00:10:22
+ntotgqm,79,tutor,"Okay, nice job there, Ellie. So this is a 2-mark question, so you get the whole 2 marks for the most simplified answer. Okay?",00:10:51
+ntotgqm,80,student,Yeah.,00:11:02
+ntotgqm,81,tutor,That's right. So let's go to the next one.,00:11:02
+ntotgqm,82,background,[unclear] What does biased mean?,00:11:05
+ntotgqm,83,tutor,"Okay, so when we were working through— yeah, when we were working through this question, can you remember I said about how a coin can be biased?",00:11:15
+ntotgqm,84,student,"Oh, yeah.",00:11:27
+ntotgqm,85,tutor,"So in an experiment, if we are tossing a coin, we should get half a probability for getting a head and probability for getting a tail.",00:11:28
+ntotgqm,86,student,Yeah.,00:11:37
+ntotgqm,87,tutor,"So if a coin is biased, there'll be more heads or there'll be more tails. Okay?",00:11:37
+ntotgqm,88,student,Yeah.,00:11:44
+ntotgqm,89,tutor,"Yeah, so having that concept in mind, what do you think of a die being biased? How can that happen?",00:11:46
+ntotgqm,90,background,Dice 2 and dice 4.,00:11:53
+ntotgqm,91,tutor,"Mm-hmm. How do you know that, Ellie?",00:11:56
+ntotgqm,92,background,"Because they both have [unclear] on the rolls of 6, but they have a lot more on the 1 to 5.",00:11:58
+ntotgqm,93,tutor,"Awesome. So your explanation goes well with Dice 3. That is correct. They have equal chances of getting a 6 and from 1 to 5. So, uh-oh, hold on. So you said 2 and 4, yeah?",00:12:07
+ntotgqm,94,student,Yeah.,00:12:21
+ntotgqm,95,tutor,"Okay, so let's think that once again. Dice 2. Okay, so what do you think is the probability of getting a 6?",00:12:23
+ntotgqm,96,student,"I don't know. Now, for which one?",00:12:36
+ntotgqm,97,tutor,"Not for any dice, just for a die. Just for any dice, okay? Not specifically this 1, 2, 3, 4, just for any dice. What is the probability of getting 6 if we are rolling it once?",00:12:40
+ntotgqm,98,student,[unclear],00:12:53
+ntotgqm,99,tutor,Exactly. So let me just type it there. So the theoretical probability is 1/6. And what is the probability of getting from 1 to 5?,00:12:54
+ntotgqm,100,student,[unclear],00:13:11
+ntotgqm,101,tutor,"Exactly, it's 5 out of 6. So some effort in finding that out there, Ellie. So now let's see. Now let's compare these values. Okay, for each one. So how can you check whether this particular dice is biased or not? [unclear]",00:13:12
+ntotgqm,102,tutor,"What do you mean, Ellie? I don't get you.",00:13:33
+ntotgqm,103,student,I don't get what bias means.,00:13:42
+ntotgqm,104,tutor,"Oh, okay. So actually, bias means— so in the actual— in the experimental way, we are getting these particular numbers. Okay, but actually it should be 1/6. If you are rolling for a 6, it should be— the probability should be 1/6. Okay, so to check whether it is biased or not, we are going to make use of these numbers and we are going to check whether it matches with 1/6 or 5/6. Okay, that is what we are just comparing, experimental and the theoretical value. Okay.",00:13:44
+ntotgqm,105,student,Yeah.,00:14:21
+ntotgqm,106,tutor,"So hold on. So we have experimental one, and also we have a theoretical one.",00:14:21
+ntotgqm,107,student,Yeah. [unclear],00:14:31
+ntotgqm,108,tutor,Okay. So let's say this. [unclear],00:14:35
+ntotgqm,109,tutor,"Oh, hold on, Ellie. I'll help you here. So for the first dice, can you tell me the probability of this one getting a 6?",00:14:53
+ntotgqm,110,student,"Uh, 16 out of 100. Okay, so let's type that here. It is 16 over 200. That's right. What about dice 2?",00:15:07
+ntotgqm,111,student,Out of 100. [unclear] Why is it 200?,00:15:21
+ntotgqm,112,tutor,"Oh, hold on. I think I typed it wrong.",00:15:27
+ntotgqm,113,student,Okay.,00:15:31
+ntotgqm,114,tutor,"Okay, so what is the probability for the dice 2?",00:15:32
+ntotgqm,115,student,[unclear],00:15:39
+ntotgqm,116,tutor,"Mm-hmm, okay. And for die 3?",00:15:39
+ntotgqm,117,student,3 out of 6.,00:15:44
+ntotgqm,118,tutor,Last one.,00:15:47
+ntotgqm,119,student,30 out of 200.,00:15:49
+ntotgqm,120,tutor,"Okay, there we go. So now we have all the experimental probabilities for getting a 6, and the theoretical should be 1/6, right? For all, it should be 1/6.",00:15:52
+ntotgqm,121,tutor,"Yeah, or we can say if we simplify it in decimal numbers, it'll be 0.17. So it should be equal to something— this one, this value. Okay.",00:16:03
+ntotgqm,122,student,Yeah.,00:16:16
+ntotgqm,123,tutor,"So, um, you don't have a calculator with you? Yeah? [unclear] Okay, no worries, Ellie. So I'll tell you the values here. Uh, can you type along?",00:16:17
+ntotgqm,124,tutor,This one?,00:16:28
+ntotgqm,125,student,"Yes. So first one is easy, it's 0.16.",00:16:28
+ntotgqm,126,tutor,First one?,00:16:33
+ntotgqm,127,student,"Yeah, this one. Hold on. It's, uh, okay. 0.23. And this is a half, therefore it will be 0.50.",00:16:35
+ntotgqm,128,student,"What did you say? Sorry, not 0.5?",00:17:02
+ntotgqm,129,tutor,"Yeah, okay. And the last one would be not 0.15. Okay, so the actual theoretical one that we should have is, as I said before, it should be",00:17:04
+ntotgqm,130,tutor,0.17. So which one do you think is far away from 0.17?,00:17:26
+ntotgqm,131,student,"Uh, 0.2— 0.5.",00:17:32
+ntotgqm,132,tutor,Mm-hmm.,00:17:34
+ntotgqm,133,student,And 0.23.,00:17:36
+ntotgqm,134,tutor,"Exactly, Ellie.",00:17:38
+ntotgqm,135,student,"Oh, so is it 2 and 3?",00:17:39
+ntotgqm,136,tutor,"Yeah, it is dice 2 and 3. Those are the 2 dice which are biased.",00:17:41
+ntotgqm,137,tutor,Okay.,00:17:48
+ntotgqm,138,background,Okay.,00:17:48
+ntotgqm,139,tutor,"Okay. So Ellie, is this part confusing?",00:17:48
+ntotgqm,140,student,"No, I get it. [unclear]",00:17:52
+ntotgqm,141,tutor,So you do understand.,00:17:52
+ntotgqm,142,student,"It would be 6, so like 16 divided by 105 theoretical. But why is it 0.17?",00:17:54
+ntotgqm,143,tutor,"Oh, this is the theoretical one is? I found that by this one, 1/6.",00:18:02
+ntotgqm,144,student,"Oh, yeah.",00:18:10
+ntotgqm,145,tutor,"And this is equal to 0.17. For us to compare the values easily, I converted everything to decimal point.",00:18:11
+ntotgqm,146,student,Yeah.,00:18:18
+ntotgqm,147,tutor,Does that make sense to you?,00:18:19
+ntotgqm,148,student,Yeah.,00:18:20
+ntotgqm,149,tutor,"Okay, fantastic, Ellie. So I'm really happy that you understood this. So this is how we check whether a coin is biased or a die is biased, okay?",00:18:21
+ntotgqm,150,student,Yeah.,00:18:30
+ntotgqm,151,tutor,"Yeah, so let's go to the third one.",00:18:31
+ntotgqm,152,background,"Out of these two coins, [unclear] But it'd be 3 because obviously they've got the same number.",00:18:39
+ntotgqm,153,tutor,"Exactly, that's right, Ellie. So it's been tested only 6 times, right, altogether?",00:18:45
+ntotgqm,154,student,"Yeah, yeah.",00:18:51
+ntotgqm,155,tutor,"Yeah, fantastic. Since that was a very straightforward question, you'll get 1 mark there. So we have completed this particular question. Ellie, do you have any doubts under this one?",00:18:55
+ntotgqm,156,student,No. Awesome. So let's go to our third main question. There we go. [unclear],00:19:06
+ntotgqm,157,student,"Would you do— wait, I'm going to write— I'm going to—",00:19:16
+ntotgqm,158,tutor,"Okay, Ellie, go ahead.",00:19:27
+ntotgqm,159,student,I just pressed the wrong thing.,00:19:29
+ntotgqm,160,student,And then that would equal. [unclear] [unclear],00:19:42
+ntotgqm,161,student,And then will they go in each? 0.30 go in pink and silver?,00:20:06
+ntotgqm,162,tutor,So you have a condition here. The probability of picking a pink counter is double the probability of picking a silver.,00:20:22
+ntotgqm,163,student,"Oh, I did not see that. Okay, okay.",00:20:28
+ntotgqm,164,tutor,"Yeah, no worries, Ellie. Try that again. No worries. [unclear]",00:20:30
+ntotgqm,165,tutor,"You were right on finding one takeaway, 0.4.",00:20:52
+ntotgqm,166,student,Oh.,00:20:55
+ntotgqm,167,tutor,Yeah.,00:20:57
+ntotgqm,168,student,"Well, it's an L. Oh, yes. I was trying to figure out [UNCLEAR]. So would it be a—",00:20:59
+ntotgqm,169,student,I was trying to figure out 4A.,00:21:25
+ntotgqm,170,tutor,"Did you figure that out, Ellie?",00:21:28
+ntotgqm,171,student,"'Cause, uh, silver, the wall. [unclear] [unclear]",00:21:30
+ntotgqm,172,tutor,"Sorry, you've lagged a bit then. What did you say? Why are you thinking that?",00:21:41
+ntotgqm,173,student,Hello?,00:21:57
+ntotgqm,174,tutor,"Hello, I can hear you now.",00:21:58
+ntotgqm,175,student,Can you hear me?,00:21:59
+ntotgqm,176,tutor,"Yeah, I can now.",00:22:00
+ntotgqm,177,tutor,"Yeah, I can hear you now. [unclear]",00:22:10
+ntotgqm,178,student,What time is this thing in?,00:22:12
+ntotgqm,179,tutor,It's a 25.,00:22:26
+ntotgqm,180,tutor,Hello?,00:22:44
+ntotgqm,181,student,Hello?,00:22:44
+ntotgqm,182,tutor,"Ellie, can you hear me now?",00:22:44
+ntotgqm,183,student,"Yeah, I can hear you now.",00:22:46
+ntotgqm,184,tutor,"Sorry for that, Ellie, that was a connection problem.",00:22:47
+ntotgqm,185,student,Okay.,00:22:50
+ntotgqm,186,tutor,"Yeah, so this is right. Ellie, how did you figure it out to be 0.4 and 0.2 here?",00:22:51
+ntotgqm,187,student,"Because [unclear] 20 is 40, and if you add 40 and 20 together, it's 60.",00:22:57
+ntotgqm,188,tutor,"Yeah, Ellie.",00:23:01
+ntotgqm,189,student,And that's how much we need.,00:23:02
+ntotgqm,190,tutor,"That's a good working out there. So Ellie, you can work it out like this. Since you have this rule here, you can just give a value like x to the silver counter. Okay, so if silver is x, then pink is 2x, right?",00:23:05
+ntotgqm,191,student,Yeah.,00:23:24
+ntotgqm,192,tutor,"Yes. So now you can just add these together, 3x, which is equal to 0.6. So to find x, you divide that by 3, so you get [UNCLEAR]. Okay, and I can see that you have completed the second one on your own there. So fantastic, you get the whole mark here. Okay, that's a good working out there, Ellie. So we have completed this particular lesson. Let's use our last slide as a review, okay? Can you find the mistake?",00:23:25
+ntotgqm,193,student,[unclear] It should be not 0.3.,00:24:02
+ntotgqm,194,tutor,"Mm-hmm. For this part, right?",00:24:09
+ntotgqm,195,student,"Yeah, you should have added 3.",00:24:13
+ntotgqm,196,tutor,Yes.,00:24:16
+ntotgqm,197,tutor,Good point in noting that. And what's the mistake in the second one?,00:24:17
+ntotgqm,198,student,"It shouldn't have times, it should have taken it away from 1 and then divided it by 2. [unclear] Wait, the answer is 0.4. Oh, it does not pick a mango too. Is that not right?",00:24:23
+ntotgqm,199,background,"So how they have found mango is correct, right?",00:24:42
+ntotgqm,200,tutor,Yeah.,00:24:45
+ntotgqm,201,background,But they ask you to find the probability to not pick a mango sweet.,00:24:47
+ntotgqm,202,tutor,Oh.,00:24:50
+ntotgqm,203,background,So this point is correct.,00:24:51
+ntotgqm,204,student,They've tried to find the probability of if they do pick a mango sweet.,00:24:54
+ntotgqm,205,background,"So they have found the probability of picking a mango sweet. So if according to the question, what should be the correct answer then after this point? Is it not 0.2? Is it 0.4? Is it 0.6?",00:25:00
+ntotgqm,206,tutor,"That's right, Ellie. So how did you get that?",00:25:25
+ntotgqm,207,student,Added 0.4 and 0.2 to get 0.6 and then took it away from [UNCLEAR].,00:25:28
+ntotgqm,208,student,One.,00:25:37
+ntotgqm,209,tutor,"Yes, from one, if you take away 0.4, yeah, you get 0.6. That's right, Ellie. So fantastic job in trying that all independently. So that's a good focus throughout. So let's start a new lesson. Ellie, what important points should we note on the probabilities? [unclear]",00:25:38
+ntotgqm,210,student,[unclear],00:26:08
+ntotgqm,211,tutor,"Okay, yeah. So how do we check whether a coin or a dice is biased?",00:26:08
+ntotgqm,212,student,"I don't know how to explain it now, but I know how it is. You find out the number.",00:26:15
+ntotgqm,213,background,"Yeah, theoretical one we should calculate first, then from the table given we should calculate the experimental one. Then we just compare the values. Okay, if it is somewhat closer to the theoretical one, it is okay, it's a fair coin or a fair dice. But if it's more far away from it, it's surely biased. Yeah?",00:26:22
+ntotgqm,214,student,Yeah.,00:26:42
+ntotgqm,215,tutor,"All right, Ellie. So I'm sure that you're confident in that now. So let's go to our next lesson, which is index laws. Can you try this warm-up question?",00:26:44
+ntotgqm,216,student,Yeah.,00:26:58
+ntotgqm,217,tutor,5.,00:26:58
+ntotgqm,218,student,into 10 because you add them.,00:26:58
+ntotgqm,219,background,"Yes, that's right. Since you are okay with that, let's go for the first question.",00:26:58
+ntotgqm,220,student,"Oh. [unclear] Oh, I need to get the right symbols. [unclear]",00:27:07
+ntotgqm,221,student,[UNCLEAR] [unclear],00:27:07
+ntotgqm,222,student,[unclear],00:27:07
+ntotgqm,223,tutor,[unclear],00:27:46
+ntotgqm,224,tutor,[unclear] [unclear],00:27:48
+ntotgqm,225,tutor,"Okay, so Ellie, can you tell me what is this one, the second answer?",00:28:27
+ntotgqm,226,student,"Oh, positive thoughts. [unclear]",00:28:35
+ntotgqm,227,tutor,"Yeah, awesome. Ellie, can you explain me how you got this answer?",00:28:55
+ntotgqm,228,student,8 minus 5.,00:28:59
+ntotgqm,229,tutor,"Fantastic. So these are very straightforward questions, 1 mark each. The first one is a to the power 11, right?",00:29:01
+ntotgqm,230,student,Yeah.,00:29:10
+ntotgqm,231,tutor,"Yeah, okay.",00:29:11
+ntotgqm,232,student,"Oh yeah, I just forgot to change it all.",00:29:12
+ntotgqm,233,tutor,"No worries, Ellie. You have taken the symbol to do that. That's correct. So since you're confident in this one, let's go to the second part. [unclear]",00:29:14
+ntotgqm,234,student,I'm trying to move it. I couldn't see it. I wrote it below it.,00:30:29
+ntotgqm,235,tutor,"Okay, so after you find, write the answer, Ellie, you can just, from the select tool, you can move it. Okay?",00:30:38
+ntotgqm,236,student,It won't let me.,00:30:45
+ntotgqm,237,tutor,"Oh. No worries, Ellie. That's fine. [unclear]",00:30:47
+ntotgqm,238,tutor,"Oh, it worked. On the long [UNCLEAR]. [unclear]",00:30:59
+ntotgqm,239,tutor,"Mm-hmm. Okay, so good job in trying that out all by yourself, Ellie. That's an awesome effort. So yeah, if I have to correct it, I would say your first one is correct. You get 2 marks there. There. And your second one, your coefficient is correct and there's something wrong with the power, so you get one mark here for the coefficient. Okay. Hello? Hello? Um, you can hear me, right?",00:31:33
+ntotgqm,240,student,Yeah. Would it be— would it be 10?,00:32:02
+ntotgqm,241,tutor,How did you know that it's 10 this time?,00:32:06
+ntotgqm,242,student,"Um, because you take one away.",00:32:08
+ntotgqm,243,tutor,"Exactly. If f is just given, the power is 1, right?",00:32:11
+ntotgqm,244,student,Yeah.,00:32:15
+ntotgqm,245,tutor,"Yeah, so 11 take away 1 is 10, so it should be 5f to the power 10. And about the third one, do you have any idea how you can correct it?",00:32:16
+ntotgqm,246,background,[unclear],00:32:26
+ntotgqm,247,tutor,Sorry?,00:32:30
+ntotgqm,248,background,[unclear],00:32:32
+ntotgqm,249,tutor,"Um, no. Hold on. When you get this part, how did you work this out? [unclear] Oh, I thought there was a minus.",00:32:32
+ntotgqm,250,tutor,"That can be positive or negative, but the rule stays the same. You have to just multiply the powers.",00:32:47
+ntotgqm,251,student,3 times 2.,00:32:53
+ntotgqm,252,tutor,"Yeah, that's how you did it. So to get the power of c, you just multiply these two. Okay, it's -2 times 3. Which is?",00:32:55
+ntotgqm,253,student,-6.,00:33:05
+ntotgqm,254,tutor,"-6. So c to the power -6, that part is okay. And what do you think would happen to this 3?",00:33:07
+ntotgqm,255,student,[unclear],00:33:13
+ntotgqm,256,tutor,"Okay, so here's a tricky part, Ellie. If something is given like 3, and within brackets if you are given c,",00:33:20
+ntotgqm,257,tutor,"And you have a power 3 means just this— hold on— this 3 is for only c because c is inside the brackets, and this goes for the— for this one, 3 is outside. But in this case, 3 is also inside the brackets, right?",00:33:30
+ntotgqm,258,student,Yeah.,00:33:53
+ntotgqm,259,tutor,So the meaning of this This is 3c to the power minus 2 is multiplied 3 times.,00:33:54
+ntotgqm,260,student,Yeah.,00:34:01
+ntotgqm,261,tutor,"Okay, so I'll try to write that out. 3c to the power minus 2 is multiplied by 3c to the power minus 2. times 3c to the power -2. This is the actual meaning of— I [unclear] have typed in multiplication wrong. So it is this way. Okay, this is the actual expansion of this cube. Okay? Yeah.",00:34:02
+ntotgqm,262,student,So,00:34:46
+ntotgqm,263,tutor,"the power of c is -2 plus -2 plus -2, -6. That's right. What is 3 times 3 times 3? [unclear]",00:34:46
+ntotgqm,264,student,27.,00:34:56
+ntotgqm,265,tutor,"Mm-hmm. So here you should get 27c to the power -6 as your answer. Is that clear, Ellie?",00:34:57
+ntotgqm,266,student,Yeah.,00:35:07
+ntotgqm,267,tutor,"Yeah. Can you write that out, the final answer?",00:35:08
+ntotgqm,268,student,"Yeah, I've done it. Oh, I still can see 3c to the power minus 6. Ah, yes, now it's updated. That's right. So let's try a similar problem. Okay, can you do this?",00:35:11
+ntotgqm,269,student,Yeah. [unclear],00:35:31
+ntotgqm,270,student,"To do our times. No, that's not it. [unclear]",00:35:39
+ntotgqm,271,tutor,So would it be that?,00:35:52
+ntotgqm,272,student,"Yeah, that's right. [unclear]",00:35:53
+ntotgqm,273,student,My screen's gone all funny. I can't see anything.,00:36:26
+ntotgqm,274,tutor,"Oh, can you try refreshing the page, Ellie?",00:36:29
+ntotgqm,275,student,"I've done it, I've done it, I've done it.",00:36:32
+ntotgqm,276,student,Uh-uh.,00:36:33
+ntotgqm,277,tutor,Okay. Awesome.,00:36:34
+ntotgqm,278,student,Is that right?,00:36:36
+ntotgqm,279,tutor,Is the power 5 that you have written?,00:36:39
+ntotgqm,280,student,Yeah.,00:36:42
+ntotgqm,281,tutor,"Okay. So here, this is a bit tricky, Ellie. It's 10 minus minus 5.",00:36:43
+ntotgqm,282,student,Yeah. [unclear],00:36:49
+ntotgqm,283,tutor,What is 10 minus minus 5? Is it still 5?,00:36:53
+ntotgqm,284,student,"No, it's 5.",00:37:02
+ntotgqm,285,tutor,"If two minuses are next to each other, they turn to a positive. So it's just 10 plus 5, which is 15. Okay?",00:37:04
+ntotgqm,286,student,Yeah.,00:37:13
+ntotgqm,287,tutor,Yeah. Let's go to the third one.,00:37:14
+ntotgqm,288,student,"Okay, uh, 2a.",00:37:18
+ntotgqm,289,student,So 2 times 2 times 2. [unclear],00:37:25
+ntotgqm,290,tutor,"Is it just 2 times 2 or is it 2 times 2 times 2? Because it is a cube, right? Yeah. There we go. Awesome job in figuring it out on your own there, Ellie. So That's a good working out. What important point should we note under this one if you have a question like this?",00:37:30
+ntotgqm,291,student,[UNCLEAR],00:37:30
+ntotgqm,292,tutor,"Okay, so if it is inside the bracket and the power is given for all the bracket thing, should be very careful to take this power to the coefficient also. Okay, don't neglect the coefficient. This one also you have to take the power. Okay?",00:38:02
+ntotgqm,293,student,Yeah.,00:38:22
+ntotgqm,294,tutor,"Yeah, so that's it there then. Let's try the next question since we have 2 minutes. [unclear] This looks difficult. Okay, you can just give it a try since you know the index rules.",00:38:23
+ntotgqm,295,tutor,So try to solve m separately and n separately. [unclear] [unclear],00:38:45
+ntotgqm,296,tutor,Would there be a plus in between them?,00:39:13
+ntotgqm,297,student,Or a minus?,00:39:34
+ntotgqm,298,tutor,"No, Ellie, since they are getting multiplied. It's just multiplication in between.",00:39:35
+ntotgqm,299,student,"Oh, okay.",00:39:42
+ntotgqm,300,tutor,"Yeah, and can you check the power of n for me?",00:39:43
+ntotgqm,301,student,Yeah. [unclear],00:39:49
+ntotgqm,302,tutor,Can you tell me how you got this 3?,00:39:50
+ntotgqm,303,student,"Oh, it's because I didn't realize there was a—",00:39:52
+ntotgqm,304,tutor,"Fantastic, Ellie. So that is correct now. Yeah. That's fine. You can just put it x. If not, m to the power 11 and n to the power -1 would do. If you can give it like this also, since in between there is multiplication. Okay.",00:39:59
+ntotgqm,305,student,Yeah.,00:40:16
+ntotgqm,306,tutor,"So Ellie, we are in the last few seconds of our session today, so let's continue to do that question in our next session. Okay.",00:40:17
+ntotgqm,307,student,Okay.,00:40:24
+ntotgqm,308,tutor,Yeah. So what important points can you recall from today's session?,00:40:25
+ntotgqm,309,student,"What, uh, also what bias means.",00:40:31
+ntotgqm,310,tutor,"Mm-hmm, okay.",00:40:36
+ntotgqm,311,student,And how to times [UNCLEAR].,00:40:38
+ntotgqm,312,tutor,"Yeah, and these are some index rules also.",00:40:38
+ntotgqm,313,student,Yep.,00:40:48
+ntotgqm,314,tutor,"So what is the total probability of a table? If we get a table, what's the total probability?",00:40:49
+ntotgqm,315,student,[unclear],00:40:58
+ntotgqm,316,tutor,"One. There we go. So throughout today's session, Ellie, you explained all your answers and you worked it out step by step.",00:40:58
+ntotgqm,317,student,Yeah.,00:41:06
+ntotgqm,318,tutor,"And after I end the session, you will get a quiz on the probability. Please do that and then you can leave, okay?",00:41:06
+ntotgqm,319,student,"Okay, bye.",00:41:12
+ntotgqm,320,tutor,"Have a great week ahead, Ellie. Take care, bye.",00:41:13
+ntotgqm,321,student,Bye.,00:41:15

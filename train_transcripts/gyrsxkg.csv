@@ -1,0 +1,300 @@
+session_id,utterance_id,role,content,timestamp
+gyrsxkg,0,tutor,Hello?,00:00:00
+gyrsxkg,1,background,[unclear],00:00:00
+gyrsxkg,2,student,Hello?,00:00:00
+gyrsxkg,3,tutor,"Yeah, how are you, [STUDENT_NAME]?",00:00:00
+gyrsxkg,4,student,Hello.,00:00:02
+gyrsxkg,5,tutor,"Yes, can you hear me?",00:00:03
+gyrsxkg,6,student,Yes.,00:00:05
+gyrsxkg,7,tutor,"Okay, how are you?",00:00:06
+gyrsxkg,8,student,Good.,00:00:09
+gyrsxkg,9,tutor,"Good, okay, so how was your day today? How was it?",00:00:10
+gyrsxkg,10,student,Pardon?,00:00:17
+gyrsxkg,11,tutor,How was your day?,00:00:19
+gyrsxkg,12,student,Good.,00:00:21
+gyrsxkg,13,tutor,"Okay, so what did you do during your holidays, [STUDENT_NAME]? Did you go somewhere?",00:00:23
+gyrsxkg,14,student,"Yeah, I went to France.",00:00:28
+gyrsxkg,15,tutor,"Okay, so how was it?",00:00:30
+gyrsxkg,16,student,Good.,00:00:32
+gyrsxkg,17,tutor,"Okay, so did you see the [UNCLEAR]?",00:00:33
+gyrsxkg,18,student,I went to France to go fish.,00:00:37
+gyrsxkg,19,tutor,"Okay, okay. So do you remember what we did last?",00:00:40
+gyrsxkg,20,student,No.,00:00:46
+gyrsxkg,21,tutor,"No, okay. So it's about solving real-life problem with remainders, right? So do you remember now?",00:00:47
+gyrsxkg,22,student,"Yeah. Okay, so you were in this slide, okay, and you did the first question and you have to continue with question B, right? [STUDENT_NAME]?",00:00:54
+gyrsxkg,23,student,[unclear],00:01:11
+gyrsxkg,24,tutor,"Yes, you have to continue with question B from today, right? So can you start doing B, B, C, and D?",00:01:13
+gyrsxkg,25,tutor,If I have 14 meters of [unclear] [unclear],00:01:38
+gyrsxkg,26,tutor,I don't understand this question.,00:02:21
+gyrsxkg,27,student,"Okay, so it is about if I had 40 meters of bunting for the school fair, what length of bunting will be left over if I cut the length of How did you understand, [STUDENT_NAME]? [STUDENT_NAME]?",00:02:35
+gyrsxkg,28,student,Yeah?,00:02:57
+gyrsxkg,29,tutor,"Did you understand the question? So you have 40 meters of [UNCLEAR], right? And you're cutting it to lengths of 6 meters. So how much will you have remain? Left over? [unclear]",00:02:57
+gyrsxkg,30,tutor,[STUDENT_NAME]? [STUDENT_NAME]?,00:03:33
+gyrsxkg,31,student,"Will it be, um, 34 left over?",00:03:36
+gyrsxkg,32,tutor,"Yes. Okay, so how did you get that?",00:03:41
+gyrsxkg,33,student,"I counted to 40, and then from 40 I counted down to... I counted like to 39, 38, 37, 36... [unclear]",00:03:47
+gyrsxkg,34,tutor,"Okay, so in this question we have to subtract.",00:04:05
+gyrsxkg,35,tutor,"Like to find the answer, why did you subtract 6?",00:04:10
+gyrsxkg,36,student,"Because it says if I cut it into 6 of 6 lengths of 6 meters, that means you have to subtract.",00:04:15
+gyrsxkg,37,background,"Okay, so he had 40 meters. Say this is the [unclear] and he had 40 meters and he's cutting into lengths of 6 meters. That means he's cutting into 6 like this. One, it should be 6. Then another piece, another piece. Like that, he's cutting into 6 meters. One will be 6, another piece would be another 6, another piece would be another 6. Okay, so after he cut like that, how, how much will be left over? [unclear] Okay, so to do that, what do you have to do?",00:04:29
+gyrsxkg,38,tutor,Now he had 40.,00:05:03
+gyrsxkg,39,student,You would subtract 40 by 6.,00:05:05
+gyrsxkg,40,tutor,"Why do you need to subtract? Actually, he had to divide it into 6. He had a 40-meter [unclear] and he's cutting into lengths of 6. One, then he gets another piece, another piece, like that he's cutting it. Right? So you had to divide it into 6 and check how much is the remainder. So if you divide 40 by 6, how much will you get as the remainder? [unclear]",00:05:08
+gyrsxkg,41,student,Would you get 8.,00:05:41
+gyrsxkg,42,tutor,8? How did you get 8?,00:05:51
+gyrsxkg,43,tutor,How many 6s are there in 40?,00:06:12
+gyrsxkg,44,student,[unclear],00:06:16
+gyrsxkg,45,tutor,How many 6s are there in 40?,00:06:17
+gyrsxkg,46,student,[unclear],00:06:20
+gyrsxkg,47,tutor,Is that 3? [unclear] Is it 5?,00:06:25
+gyrsxkg,48,background,"Okay, so how much is 6:5?",00:06:34
+gyrsxkg,49,tutor,"6:5, are they 40?",00:06:38
+gyrsxkg,50,background,"Is it 6:5, 40?",00:06:41
+gyrsxkg,51,tutor,Is it 35?,00:06:43
+gyrsxkg,52,background,"Okay, so can you tell me your 6 timetables? I'm not fluent with my 6 times tables though.",00:06:48
+gyrsxkg,53,tutor,"It's okay, you can try. I'll just correct you if you say anything wrong. It's okay.",00:06:58
+gyrsxkg,54,student,6.,00:07:04
+gyrsxkg,55,tutor,Yeah.,00:07:05
+gyrsxkg,56,student,12.,00:07:06
+gyrsxkg,57,tutor,Yes.,00:07:08
+gyrsxkg,58,student,18.,00:07:10
+gyrsxkg,59,tutor,Okay. [unclear],00:07:11
+gyrsxkg,60,tutor,Is 24 next?,00:07:22
+gyrsxkg,61,student,"Yes, 24. Okay, there.",00:07:24
+gyrsxkg,62,tutor,And then is it 20...? [unclear] Is it 30 next?,00:07:29
+gyrsxkg,63,student,"Yes, it's 30. Okay, then after 30?",00:07:34
+gyrsxkg,64,tutor,Is it 36?,00:07:38
+gyrsxkg,65,student,"Yes, 36. Okay, then after 36?",00:07:40
+gyrsxkg,66,student,Is it 32? [unclear],00:07:48
+gyrsxkg,67,tutor,"Yes, 42. Okay, so now can you tell me how many 6s are there in 40?",00:07:53
+gyrsxkg,68,student,5?,00:08:04
+gyrsxkg,69,tutor,Is it 5? Can you check again?,00:08:06
+gyrsxkg,70,student,6.,00:08:08
+gyrsxkg,71,tutor,"6. Okay, that's correct. So 6 sixes are 36. Okay, then how many remainder? [unclear]",00:08:10
+gyrsxkg,72,student,4 as the remainder.,00:08:38
+gyrsxkg,73,tutor,"Yes, very good. So the remainder is 4. So that means you are going to cut this piece into 6, right? After you cut into 6, there will be 4 remaining, 4 meters remaining, right? This piece would be 4 meters. After you cut into 6 pieces, you will have 4 meters remaining. So then the answer would be 4 meters. What length of bunting will be left over if I cut into lengths of 6 meters would be— the answer is 4 meters. Did you understand that, [STUDENT_NAME]? [unclear]",00:08:41
+gyrsxkg,74,student,Yeah.,00:09:19
+gyrsxkg,75,tutor,"Okay, so answer would be 4 meters, right? You're cutting this bunting into 6 and you will get 4 meters remaining. Okay, so then can you try the C, question C?",00:09:20
+gyrsxkg,76,tutor,Question C. There are 18 children to take to a school football match. Each car can take 4 children. How many cars are needed? [unclear] [unclear],00:09:34
+gyrsxkg,77,student,"Um, 18... [unclear]",00:10:00
+gyrsxkg,78,student,Is it— do we need 14 cars?,00:10:32
+gyrsxkg,79,tutor,"14 cars? You have 18 children, right? You have only 18 children. There are 18 children to take to a school football match. So each car can take 4 children.",00:10:36
+gyrsxkg,80,student,Yeah.,00:10:49
+gyrsxkg,81,tutor,"Yeah, right. Yeah. So there are 18. Say it's your class. In your class, you have 18 children. Right? And in each car you can take 4 children each.",00:10:49
+gyrsxkg,82,student,Yeah.,00:11:01
+gyrsxkg,83,tutor,"Okay, so how many cars will you need?",00:11:03
+gyrsxkg,84,student,Would you need 10?,00:11:07
+gyrsxkg,85,tutor,Is it 10? So how did you get 10?,00:11:10
+gyrsxkg,86,student,"Oh no, do you need 18 cars?",00:11:12
+gyrsxkg,87,tutor,Why do you need 18 cars? Because you have only 18 children.,00:11:16
+gyrsxkg,88,student,Oh.,00:11:20
+gyrsxkg,89,tutor,And 4 children in one car. Right? In one car you can put 4 children. Say this is the car. Right? You can put 4 children in it. And you have only 18 children. So how many cars do you need for that? [unclear] How will you find that out? [unclear],00:11:21
+gyrsxkg,90,tutor,[unclear] [unclear],00:11:21
+gyrsxkg,91,tutor,[unclear] [unclear] [unclear] [unclear],00:11:21
+gyrsxkg,92,tutor,Would you need 6 cars?,00:12:52
+gyrsxkg,93,student,"6 cars, okay. So why do you think you need 6 cars?",00:13:00
+gyrsxkg,94,tutor,"Well, no, do you need 5?",00:13:04
+gyrsxkg,95,student,"Okay, so can you tell me why do you need 5 cars? [unclear]",00:13:07
+gyrsxkg,96,tutor,"Yes, [STUDENT_NAME]? So can you tell me why do you need tricars? [unclear]",00:13:17
+gyrsxkg,97,tutor,"No, you can tell me the reason. I will tell whether it's correct or not. Because you have 18 children and you have like one car has 4, another car has another 4, another one 4, like that. So how many cars?",00:13:45
+gyrsxkg,98,student,I forgot. Is it 5 or—,00:14:01
+gyrsxkg,99,tutor,"Yes, 5 is correct. Very good. So can you tell me why did you think it's 5? [unclear] Like, how will you find that if like you need 5 cars? How will you find that out? [unclear]",00:14:04
+gyrsxkg,100,tutor,"Okay, we had to divide 18 by 4, right? In each car, they can put 4 children, so we had to divide 18 by 4. So if you divide 18 by 4, what— how much will you get?",00:14:40
+gyrsxkg,101,student,"5. Is it 5? How many? Like, how much is 4 fives?",00:14:53
+gyrsxkg,102,tutor,4 fives. [unclear] Would it be 20?,00:15:00
+gyrsxkg,103,background,"Yes, 20. So is it correct? You have only 18 here.",00:15:10
+gyrsxkg,104,tutor,"Pardon, what did you say?",00:15:22
+gyrsxkg,105,student,"Yes, so how many 4s are there in 18?",00:15:28
+gyrsxkg,106,tutor,20?,00:15:31
+gyrsxkg,107,student,How many 4s?,00:15:34
+gyrsxkg,108,background,[unclear],00:15:34
+gyrsxkg,109,student,"Oh, 5.",00:15:36
+gyrsxkg,110,tutor,Is it 5?,00:15:39
+gyrsxkg,111,background,"4, 8.",00:15:44
+gyrsxkg,112,student,Is it 18?,00:15:49
+gyrsxkg,113,tutor,"12, 16. Right, so 4 fours are 16. Then the answer would be, if you divide 18 by 4, 4 remainder 2. Right, 4 fours are 16, then it's a 4 remainder 2. So we need 4 cars, right? So 4 fours are 16, we need 4 cars, and there will be 2 children left. That is the remainder 2. So for those 2 children also we will need a car, right?",00:15:54
+gyrsxkg,114,student,Yeah.,00:16:22
+gyrsxkg,115,tutor,"Yeah, so that's why we need 5 cars. But in that last 5th car there will be only 2 children. There won't be 4, but there will be 2 children in that last 5th car. Okay? Okay, so can you do the last one now? [unclear]",00:16:23
+gyrsxkg,116,tutor,What did you say?,00:16:50
+gyrsxkg,117,student,Can you do the last one?,00:16:51
+gyrsxkg,118,tutor,Can I go to the toilet real quick?,00:16:53
+gyrsxkg,119,student,Sorry?,00:16:57
+gyrsxkg,120,tutor,Can I go to the toilet?,00:16:58
+gyrsxkg,121,student,Okay. [unclear] [unclear],00:17:00
+gyrsxkg,122,tutor,[unclear],00:17:00
+gyrsxkg,123,student,[unclear] [unclear],00:17:00
+gyrsxkg,124,tutor,[unclear],00:17:00
+gyrsxkg,125,student,[unclear] [unclear],00:17:00
+gyrsxkg,126,tutor,[unclear] [unclear],00:17:00
+gyrsxkg,127,tutor,[unclear] [unclear],00:17:00
+gyrsxkg,128,tutor,[unclear] [unclear],00:17:00
+gyrsxkg,129,tutor,[unclear] [unclear],00:17:00
+gyrsxkg,130,tutor,Yeah.,00:18:35
+gyrsxkg,131,student,[unclear] [unclear],00:18:35
+gyrsxkg,132,tutor,[unclear] [unclear],00:18:35
+gyrsxkg,133,tutor,[unclear],00:18:35
+gyrsxkg,134,tutor,I'm back.,00:19:31
+gyrsxkg,135,student,"Okay, [STUDENT_NAME] is a child/student. Do the last one. [unclear] [unclear]",00:19:33
+gyrsxkg,136,tutor,[unclear] [unclear],00:19:33
+gyrsxkg,137,tutor,[unclear] [unclear],00:19:33
+gyrsxkg,138,tutor,"Oh, sick! [unclear]",00:20:47
+gyrsxkg,139,tutor,Where did all the writing go?,00:21:21
+gyrsxkg,140,student,"I think you erased it, right?",00:21:27
+gyrsxkg,141,tutor,"I pressed my erase button, then I rubbed out the, um, like ones, and then all the numbers disappeared.",00:21:30
+gyrsxkg,142,tutor,"Yes, I think you cleared it all, that's why all went off. It's okay, so can you try it again?",00:21:38
+gyrsxkg,143,student,Can you— I think you can— So could you— about— I have to count in 7 to 10. [unclear],00:21:48
+gyrsxkg,144,student,I think you can make 35.,00:22:06
+gyrsxkg,145,tutor,"35. So how did you get that? So it takes 7 minutes to make a pom-pom, right?",00:22:11
+gyrsxkg,146,student,"I counted up in my 7s to 30, but because there's no 30, I took that— I didn't know what one to pick, so I picked 35.",00:22:16
+gyrsxkg,147,tutor,"Okay, so to make one, Pom-pom, it takes 7 minutes, right?",00:22:27
+gyrsxkg,148,student,Yeah.,00:22:34
+gyrsxkg,149,tutor,"That is 7 to make one. He— how many complete pom-poms, right? Complete one that he can make in 30 minutes.",00:22:35
+gyrsxkg,150,student,Yeah.,00:22:48
+gyrsxkg,151,tutor,"Yeah, so one 7-minute, he can make one. So that means in another 7 minutes He can make another one, the second one. Then another 7 minutes, he will make the third one. Like that. How many compounds can he make in 30 minutes? Right now, I saw you were just drawing like this, right? I think you were counting in 7s, right? So without doing that, it will take much time, right? If you do like that. So how will you— how will you do this question without doing like that? [Speaker] Counting off of my 7s to 30.",00:22:49
+gyrsxkg,152,tutor,"Yes, yes, you need to know your 7 times tables till 30. So what is— you can— can you tell me 7 times table?",00:23:29
+gyrsxkg,153,student,7.,00:23:39
+gyrsxkg,154,tutor,Yes.,00:23:40
+gyrsxkg,155,student,14.,00:23:42
+gyrsxkg,156,tutor,Okay.,00:23:44
+gyrsxkg,157,student,21.,00:23:45
+gyrsxkg,158,tutor,Yeah. [unclear],00:23:47
+gyrsxkg,159,student,28.,00:23:50
+gyrsxkg,160,tutor,Okay. [unclear],00:23:53
+gyrsxkg,161,student,Is it 35 next?,00:24:01
+gyrsxkg,162,tutor,"Yes, 35. Okay. So in this, the first 7 minutes, he will make 1.",00:24:03
+gyrsxkg,163,student,Yeah.,00:24:11
+gyrsxkg,164,tutor,"Then the second 7 minutes, he goes, he makes 2. 2. Then the third one, he makes 3. And the fourth— I mean, the fourth 7-minute, he is making—",00:24:13
+gyrsxkg,165,tutor,So he makes 4.,00:24:22
+gyrsxkg,166,background,"Yes, so he makes 4 because he has only 30 minutes, right? Not 35.",00:24:24
+gyrsxkg,167,tutor,Yeah.,00:24:29
+gyrsxkg,168,background,"So he can make only 4 pom-poms, I mean complete ones, and he will have 2 minutes remaining.",00:24:29
+gyrsxkg,169,tutor,Yeah.,00:24:35
+gyrsxkg,170,background,Right? It is 28:30. So you can make only 4.,00:24:36
+gyrsxkg,171,tutor,"4, that's right.",00:24:39
+gyrsxkg,172,background,"And then [UNCLEAR]. So to do this, this question, you must know your timesavers very well. And what you have to do is you can just divide 30 by 7, right? When you divide 30 by 7, you get 4 and a remainder 2, right? The remainder 2 is minutes here, that is 2 minutes. And then you must know that you need only— that you can make only 4, right? So you have to understand the question when you do this type of things, okay? [unclear]",00:24:40
+gyrsxkg,173,tutor,"Okay, now you can do the last one. [unclear]",00:25:08
+gyrsxkg,174,tutor,"Tara is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When it is divided by 8, the remainder is 1. What is— what could the number— what could— what number could she be thinking of? [unclear]",00:25:16
+gyrsxkg,175,tutor,Could the number be...,00:26:00
+gyrsxkg,176,student,"Could the number be 60? No, 63.",00:26:04
+gyrsxkg,177,tutor,63. So how did you say it's 63? [unclear],00:26:12
+gyrsxkg,178,tutor,"Okay, right. Thinking of a 2-digit number. When it is divided by 6, 5, right? When that number, if you divide it by 5, the remainder would be 2. And if you divide it by 8, the remainder is 1. [unclear]",00:26:24
+gyrsxkg,179,student,Um... [unclear],00:26:40
+gyrsxkg,180,student,I don't know the number.,00:27:00
+gyrsxkg,181,tutor,How will you do this question?,00:27:02
+gyrsxkg,182,student,I don't know.,00:27:10
+gyrsxkg,183,tutor,"Okay, so here now, Tara is thinking of a 2-digit number. So it can be anything like 2-digit numbers means numbers with 2 digits, right? Something like this. Or like this, something like that. Okay, so when it is divided by 5, the remainder is 2, right? So you have to think of the 5 multiples, the multiples of 5. So what are the multiples of 5? The 5 times table?",00:27:12
+gyrsxkg,184,student,"5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65,",00:27:39
+gyrsxkg,185,tutor,"Okay, so it would be 15, 20, 25, right? So we are dividing it by 5, right? And the remainder is 2. So if you divide a number by 5 and if the remainder is 2, so we have to add another 2 to get that number, right? If you add another 2, it would these numbers, you will get 7, 12. Now adding 2, right? You are adding 2 to 15, so it will be 17. And you are adding another 2 to 20, then it's 22. And if you add—",00:27:48
+gyrsxkg,186,student,[unclear],00:28:30
+gyrsxkg,187,tutor,It is 27. Now did you understand that?,00:28:30
+gyrsxkg,188,tutor,Pardon?,00:28:39
+gyrsxkg,189,background,"Yes, now say you are dividing 10 by 5.",00:28:39
+gyrsxkg,190,tutor,10—,00:28:44
+gyrsxkg,191,background,"I mean, sorry, yeah, you are dividing 12 by 5. When you divide 12 by 5, you will get a remainder 2.",00:28:44
+gyrsxkg,192,tutor,Mm-hmm.,00:28:53
+gyrsxkg,193,background,"Yes, so if you divide 17 by 5, will you get a remainder 2? [unclear]",00:28:55
+gyrsxkg,194,tutor,Would you get a remainder 1?,00:29:05
+gyrsxkg,195,student,"If I divide 17 by 5, I'm dividing 17 by 5.",00:29:08
+gyrsxkg,196,tutor,"Oh yeah, you won't get a remainder.",00:29:12
+gyrsxkg,197,student,"Yes, we will get a remainder of 2. Now I'm dividing 17 by 5, I will get a remainder of 2. If I divide 22 by 5, I will get a remainder of 2. If I divide 27 by 5, still I will get a remainder of 2. Okay, so these— this is how we find that out. First we have to write the multiples of 5 and then add 2 for those. If you add 2, we get these numbers. Okay, so that is the first step. And then we can write the multiples of 8 because they are talking about dividing in 8. We write the multiples of 8. So what are the multiples of 8? [unclear] [STUDENT_NAME], what are the multiples of 8? Can you tell the first 4?",00:29:15
+gyrsxkg,198,student,"4? [unclear] 8, 16, 24, 32.",00:30:03
+gyrsxkg,199,tutor,"Okay, correct. Very good. Right, now what we have to do, we add 1 to that because they are talking about a remainder 1. We are going to add 1. Now we still add 1 to all these.",00:30:09
+gyrsxkg,200,tutor,8 and 1 is 9.,00:30:24
+gyrsxkg,201,background,"9, 10, 11, 12, 13, 14, 15, 16.",00:30:25
+gyrsxkg,202,tutor,16 and 1 is 17.,00:30:29
+gyrsxkg,203,background,"17, 18, 19, 20.",00:30:31
+gyrsxkg,204,tutor,21 and 1 is 25. [unclear],00:30:35
+gyrsxkg,205,background,26.,00:30:38
+gyrsxkg,206,tutor,"Okay, so these are these numbers, right? So Tara is thinking of a 2-digit number. When divided by 5, you are going to get 2 remainder. And when you divide by 8, the remainder is 1. So what number could she be thinking of? So what do you think the number is now? [unclear]",00:30:39
+gyrsxkg,207,student,"Is it gonna be, um, is it 589?",00:31:05
+gyrsxkg,208,tutor,It's a 2-digit number. It has to be something from here and here. What is in both?,00:31:12
+gyrsxkg,209,student,"Is it— is it 20— well, no, is it 17?",00:31:18
+gyrsxkg,210,tutor,"Yes, so 17 is the number. So can you just divide 17 by 5 and see whether you are getting remainder 2? [unclear]",00:31:26
+gyrsxkg,211,student,How do I divide again? You have to divide 17 by 5.,00:31:42
+gyrsxkg,212,student,I forgot how to divide.,00:31:49
+gyrsxkg,213,tutor,You forgot?,00:31:52
+gyrsxkg,214,student,Yeah.,00:31:53
+gyrsxkg,215,tutor,"17 by 5? Okay, so how many 5s are there? Yeah, how many 5s are there in 17?",00:31:53
+gyrsxkg,216,student,"5, 10, 15, 3.",00:32:00
+gyrsxkg,217,tutor,"3. Okay, then what is the remainder? [unclear]",00:32:03
+gyrsxkg,218,student,Is it 2?,00:32:13
+gyrsxkg,219,tutor,"2. So then that is correct, right? So when it is divided by 5, the remainder is 2. So that is correct. So when it is divided by 8, now you're going to divide this 17 by 8. So can it divide 17 by 8? [unclear]",00:32:15
+gyrsxkg,220,student,Divide what?,00:32:29
+gyrsxkg,221,tutor,17 by 8. 8 divided by 17.,00:32:33
+gyrsxkg,222,tutor,How many 8s are there in 17?,00:32:44
+gyrsxkg,223,student,8... 2.,00:32:49
+gyrsxkg,224,tutor,"2. Okay, so 8 2s are 16, and what is the remainder? Is it 1? Yes, it's 1. So that means Tara has thought it can be 17, right? So then what number could she be thinking of? It is 17 because you can get a remainder 2 when divided by 5 and a remainder 1 when divided by 8. So that's correct, right? These two will be correct. So the answer would be 17.",00:32:54
+gyrsxkg,225,tutor,Okay.,00:33:26
+gyrsxkg,226,student,"Okay, so [STUDENT_NAME], so can you tell me what did you learn from this lesson?",00:33:27
+gyrsxkg,227,student,I learned how to divide numbers.,00:33:33
+gyrsxkg,228,tutor,"Okay, so have you forgotten all those dividing? Do you remember now?",00:33:40
+gyrsxkg,229,student,Yeah.,00:33:47
+gyrsxkg,230,tutor,"Okay, so we can go to the next lesson now. [unclear] Okay, so rounding decimals to the nearest whole number, right? So in this, we are going to round decimals. Now usually you round whole numbers. Now this, you are rounding decimals to the nearest whole number, right? So the first one is round 5.6 to the nearest whole number. So what will you get when you round 5.6?",00:33:49
+gyrsxkg,231,student,"You would get, um, the nearest whole number?",00:34:17
+gyrsxkg,232,student,Would you get 6?,00:34:21
+gyrsxkg,233,tutor,"Okay, so can you put your answer here? Okay, so can you tell me how did you get 6?",00:34:26
+gyrsxkg,234,student,"Because, um, if— so everything above 5 rounds up, everything below 5 rounds down.",00:34:37
+gyrsxkg,235,student,"Yes, and because 6 is closer to x and not 5, I rounded it to 6 instead of 5 because it's closer.",00:34:47
+gyrsxkg,236,tutor,"Yes, very good. That's correct. So as you said, now in this we can see the tenths. We have 6 tenths, right? It is more than 5, so we had to round it up and you get 6. That's correct. Okay, so you can do these questions.",00:34:59
+gyrsxkg,237,tutor,"Now they have to look at the value of the tenths or use the number line. You can use the number line or by looking at the value of the tenths, you can round this to a nearest whole number. So can you round this? [unclear]",00:35:13
+gyrsxkg,238,tutor,I'm done.,00:35:43
+gyrsxkg,239,student,"Okay, so can you tell me the first one? 9.9.",00:36:00
+gyrsxkg,240,tutor,"Because 9 rounds up and it's way closer to the next rounding number, so I put it at 10.",00:36:04
+gyrsxkg,241,tutor,"Okay, very good, that's correct. Okay, then this one?",00:36:11
+gyrsxkg,242,student,"I noticed that 4 was under 5, so I put 3.",00:36:15
+gyrsxkg,243,tutor,"Yes, so it's 4, we have only 4 tenths, so it's below 5, so we have to round it down. Then we get 3. Okay, what about the next one? [unclear] [Speaker] I could have done either. I could have done 20 or I could have done 21, but I went to go with 21.",00:36:21
+gyrsxkg,244,tutor,"Okay, so your answer is correct, 21. But actually here, when you have 5—",00:36:39
+gyrsxkg,245,student,"Oh no, you can't. You can't go down, you just have to go up. [unclear]",00:36:45
+gyrsxkg,246,tutor,"Yes, so it is like this. Here you have 5 or more than 5. If you have 5 also, you have to round it up. Right, so you cannot round it down, you have to round it up. So it has to be 21, it's correct. Okay, then the last one.",00:36:52
+gyrsxkg,247,student,"I looked at the tens, there was nothing there, and I saw 3 rounds down, so I put out a 0.0. [unclear]",00:37:05
+gyrsxkg,248,tutor,"Yes, okay, so when you write these numbers, you can just write 10, 3, 0, right? No need to put the decimal number because the answer is 30. They're asking about whole numbers. If you don't put the decimal also, it's correct. Okay, very good. Okay, we can do the last question.",00:37:17
+gyrsxkg,249,student,Tara is measuring the length of her bracelet. She has rounded it to the nearest centimeter. The rounding length is 10 centimeters. What could the exit length of her bracelet be? Give 2 possible.,00:37:34
+gyrsxkg,250,student,It could be 9 [unclear] 9.7. I'm done.,00:37:59
+gyrsxkg,251,tutor,"Okay. Okay, is this 9.7?",00:38:36
+gyrsxkg,252,student,Yeah.,00:38:40
+gyrsxkg,253,tutor,"And this is 9.5? 5, right?",00:38:41
+gyrsxkg,254,student,Yeah.,00:38:43
+gyrsxkg,255,tutor,"Okay, so Tara is measuring the length of her bracelet. She has rounded it to the nearest centimeters. The rounded length is 10 centimeters. What could the exact length of the bracelet be? Okay, so can you tell me why did you come to this answer? How did you get this?",00:38:44
+gyrsxkg,256,student,I was just thinking of any answer above 5.,00:39:01
+gyrsxkg,257,tutor,"Above 5, okay.",00:39:10
+gyrsxkg,258,student,[unclear],00:39:12
+gyrsxkg,259,tutor,Pardon?,00:39:12
+gyrsxkg,260,student,"Okay, right. So yeah, you mean above 9.5?",00:39:17
+gyrsxkg,261,tutor,Yeah.,00:39:22
+gyrsxkg,262,student,Okay.,00:39:24
+gyrsxkg,263,tutor,"So she has rounded already, right, to the nearest centimeter, and the rounded length is 10 centimeters. So you must think of a number that when you you round it, you have to get 10. So 9.7 and 9.5 is correct. Very good. Right, so you have to write centimeters when you write your answer, right? Because it's— yeah, centimeters. Oh yeah, yeah, you have to write the units or it is just numbers, right? So that's correct. Very good. So if I ask you like this, is this answer correct? [unclear] Why is that?",00:39:25
+gyrsxkg,264,student,Because 10.5 would round up to 11.,00:40:01
+gyrsxkg,265,tutor,"Okay, then what about this?",00:40:06
+gyrsxkg,266,student,And it has to be below 10.,00:40:08
+gyrsxkg,267,tutor,"Okay, then what about this?",00:40:12
+gyrsxkg,268,student,That one is still no.,00:40:15
+gyrsxkg,269,tutor,Why is it not?,00:40:19
+gyrsxkg,270,student,"Because it has to be— because it says she rounded her length into 10 centimeters, so it can't be 10.4 centimeters.",00:40:21
+gyrsxkg,271,tutor,"Okay, so if I round 10.4 to the nearest whole number, how much will I get?",00:40:32
+gyrsxkg,272,student,10.,00:40:39
+gyrsxkg,273,tutor,10. So will this be wrong?,00:40:40
+gyrsxkg,274,background,Yes. [unclear],00:40:43
+gyrsxkg,275,tutor,"It won't, right? 10.4 is also correct, right? A number comes— a number between 9.5 centimeters and 10.4. Any number between that— I mean a decimal— 9.5, 9.6, 9.7 until 10.4 can be the answer, right? Anything between that, because 10.4 also when we round it, you get 10. Okay?",00:40:44
+gyrsxkg,276,student,Yeah.,00:41:13
+gyrsxkg,277,tutor,"Okay, very good, right? Excellent. So we can go to the next one now.",00:41:15
+gyrsxkg,278,tutor,"Okay, so understanding fractions greater than 1, right? So we are going to talk about fractions that are greater than 1 because usually you talk about fractions that are lower than 1, right? So write this one as an improper fraction. Can you write this as an improper fraction? [unclear] [unclear]",00:41:25
+gyrsxkg,279,tutor,"Okay, so you have written here 6, right?",00:41:57
+gyrsxkg,280,student,Yeah.,00:42:00
+gyrsxkg,281,tutor,"And 5. Okay, so how did you get this?",00:42:01
+gyrsxkg,282,student,"I, um, I just went with any number because it could have been any.",00:42:05
+gyrsxkg,283,tutor,How did you get this 6?,00:42:13
+gyrsxkg,284,student,"I just took any number that was above 5, so I just chose 6.",00:42:19
+gyrsxkg,285,background,"You have to write this fraction as an improper fraction. The one given here, this have to be changed into improper fraction. How will you change this to improper fraction? An improper fraction. [unclear]",00:42:25
+gyrsxkg,286,tutor,"Okay, so 5 ones are 5, and 5 and 3 is 8. So the numerator would be 8 and the denominator would be 5. So that is the answer to this question.",00:42:49
+gyrsxkg,287,tutor,Okay.,00:43:07
+gyrsxkg,288,background,"Right? This fraction, how to change it into improper fraction? We times 5 by 1 and then add the 3. 5 ones are 5, 5 3 is 8. We write that as the numerator and we write [UNCLEAR].",00:43:07
+gyrsxkg,289,tutor,Hello?,00:43:19
+gyrsxkg,290,tutor,"Yes, can it do this one?",00:43:31
+gyrsxkg,291,student,How many cakes are there in total? Count in multiples. [unclear] [Speaker] What's this 9 for at the bottom?,00:43:34
+gyrsxkg,292,tutor,"Yes, you had right. How many cakes are there in total here? [unclear] [unclear]",00:44:11
+gyrsxkg,293,tutor,"[STUDENT_NAME], you have to write how many cakes are there in total. And you have to count in multiples.",00:44:29
+gyrsxkg,294,student,"1, 2, 3, 4, 5.",00:44:45
+gyrsxkg,295,student,Is it going to be— is this a number [UNCLEAR]?,00:44:51
+gyrsxkg,296,tutor,"Okay, that's correct. It's 18 if you count in total. But when you write this in multiples, you can write the 6 times ever, right? The first one is 6, then the next one you write as 12, and then from here as 18. So that's what they say, counting multiples. [unclear]",00:44:58
+gyrsxkg,297,tutor,Okay.,00:45:16
+gyrsxkg,298,background,"Okay, so our time is up, right? So you can do the questions that you get from the previous lesson and fill this reflection form. Okay, have a nice day. Bye.",00:45:17

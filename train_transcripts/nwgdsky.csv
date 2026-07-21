@@ -1,0 +1,302 @@
+session_id,utterance_id,role,content,timestamp
+nwgdsky,0,tutor,Hello.,00:00:00
+nwgdsky,1,background,[unclear],00:00:00
+nwgdsky,2,student,Hello.,00:00:01
+nwgdsky,3,tutor,"Hi, how are you? I'm all right.",00:00:02
+nwgdsky,4,tutor,"Okay, great. So how was your break? Easter break?",00:00:06
+nwgdsky,5,student,"Oh, it's good.",00:00:10
+nwgdsky,6,tutor,"Okay, awesome. It's good to hear from you back again, and I hope you had a great time for the— I think 2 weeks, right? Was it?",00:00:12
+nwgdsky,7,student,Yeah.,00:00:22
+nwgdsky,8,tutor,"Yeah, okay. So are you ready for your lessons?",00:00:23
+nwgdsky,9,student,Yes.,00:00:28
+nwgdsky,10,tutor,"Yes, great. So do you remember that we worked on with the fractions from the last time we did?",00:00:29
+nwgdsky,11,student,"Uh, yes.",00:00:38
+nwgdsky,12,tutor,"Yes, okay, okay. So let's have a little bit of refreshing our memory. So there's only one part remaining in this section to be finished. Let's just roughly go through that, okay?",00:00:40
+nwgdsky,13,tutor,Yeah.,00:00:55
+nwgdsky,14,student,"Yeah, okay. Give me a minute. Okay, here you go. So the last time we did this part, the [unclear] question, and today I want you to just go through this question just to see that you remember the things we did, okay?",00:00:57
+nwgdsky,15,student,Okay.,00:01:24
+nwgdsky,16,tutor,"Okay, it's fine, Callum. Just let's just try this out, try these questions together, okay?",00:01:26
+nwgdsky,17,student,Yeah.,00:01:32
+nwgdsky,18,tutor,"Okay, can you read out the question?",00:01:34
+nwgdsky,19,student,Sarah and Chris share some sweets. Sarah eats 2/7 of the sweets and Chris eats 3/8 of the sweets. What fraction is left?,00:01:37
+nwgdsky,20,tutor,"Okay, so the student has already given an answer down here. Can you tell me whether the answer is correct or not?",00:01:48
+nwgdsky,21,student,It's not correct. [unclear],00:02:02
+nwgdsky,22,tutor,"Okay, so why is it not correct?",00:02:06
+nwgdsky,23,background,"No,",00:02:09
+nwgdsky,24,tutor,50-50% kind of guess. Why is it not correct?,00:02:13
+nwgdsky,25,student,Because... because they didn't do it right. Don't really know. [unclear],00:02:19
+nwgdsky,26,background,"Okay, so the question tells us that",00:02:34
+nwgdsky,27,tutor,Sarah eats 2/7 of the sweets and Chris eats 3/8 of the sweets. So how can we calculate the total amount of sweets that Sarah and Chris ate?,00:02:38
+nwgdsky,28,student,Add them together.,00:02:54
+nwgdsky,29,tutor,"Yes, we add these two fractions together. Okay, so the first part in here, this part is correct, isn't it? This adding part is correct. Okay, that part is fine. So how about this one here? What the student has done?",00:02:55
+nwgdsky,30,student,"Uh, he's added the denominators without making them the same.",00:03:15
+nwgdsky,31,tutor,"Yes, exactly. Good job. We have to make them the same, isn't it? We have to make the denominator same. So how are we going to do that?",00:03:23
+nwgdsky,32,tutor,Going to find the lowest number that they both go into.,00:03:34
+nwgdsky,33,student,Yes. So can you tell me the lowest common denominator? [unclear] 48. Is it 56?,00:03:45
+nwgdsky,34,tutor,"Yes, it's 56. Good job.",00:04:01
+nwgdsky,35,student,56. Okay.,00:04:04
+nwgdsky,36,tutor,Okay. So can you just do the calculation here?,00:04:06
+nwgdsky,37,student,"Uh, yes.",00:04:11
+nwgdsky,38,tutor,"Yes. [unclear] 7 times 8 gives you 56. That is a calculation. But since we did that, we need to do it to the numerator as well. Because what if we do just [UNCLEAR]?",00:04:13
+nwgdsky,39,student,"Yes, I want you to do it to the numerators and write the new fractions.",00:04:13
+nwgdsky,40,tutor,"Okay, okay.",00:04:42
+nwgdsky,41,student,Okay.,00:04:44
+nwgdsky,42,tutor,This would be 2 and 7. [unclear] Timesing it by 8. So we'll put that. That's 56. And then 8 is 16.,00:04:46
+nwgdsky,43,tutor,"Yes, good job. So how about the next fraction, this one?",00:05:09
+nwgdsky,44,student,3 and 8.,00:05:14
+nwgdsky,45,tutor,"3 and 8. And that would be, uh, [unclear] 56 times by 7. 7 times 3 is 21.",00:05:16
+nwgdsky,46,student,"Yes, good job. Okay, so now we have to add this one to this one, right?",00:05:32
+nwgdsky,47,tutor,"Uh, yes.",00:05:39
+nwgdsky,48,tutor,"Yeah, so what will we be getting as the fraction when we add these two?",00:05:41
+nwgdsky,49,student,We would get... we would get... [unclear] It's 21 over... that's like 21 over 56 is 21.,00:05:47
+nwgdsky,50,tutor,We would get... [unclear],00:06:06
+nwgdsky,51,student,37 out of 56.,00:06:12
+nwgdsky,52,tutor,"Yes, 37 out of 56. You have your calculator with you, right?",00:06:17
+nwgdsky,53,student,Yes.,00:06:23
+nwgdsky,54,tutor,"Yes, good job. Okay, awesome. So now can you tell me, 37 out of 56, what does that fraction tell us?",00:06:24
+nwgdsky,55,tutor,That tells us how many sweets have been eaten. [unclear],00:06:37
+nwgdsky,56,student,"Yes, the total number of sweets that Sarah and Chris ate. Okay, so the question asks what fraction is left. So how we are going to find that one?",00:06:41
+nwgdsky,57,tutor,"I'm gonna do 37 take away 56, whatever is left over. [unclear]",00:06:54
+nwgdsky,58,tutor,"Yes, exactly.",00:07:00
+nwgdsky,59,student,The amount of sweets left.,00:07:04
+nwgdsky,60,tutor,"Yes, exactly. Can you tell me the answer then?",00:07:08
+nwgdsky,61,student,It would be 19.,00:07:12
+nwgdsky,62,tutor,"Okay, as a fraction?",00:07:16
+nwgdsky,63,student,"Oh, 19 over 56.",00:07:19
+nwgdsky,64,tutor,"Yes, good job. 19 over 56. You did great, Callum. Okay, shall we go to the next question as well? Let's break it down as previous and do— okay, and you read it out.",00:07:22
+nwgdsky,65,tutor,Two-thirds of the class are boys. One half of the class of the girls wear glasses. What fraction of the class are girls that wear glasses? Wow.,00:07:37
+nwgdsky,66,student,Okay.,00:07:52
+nwgdsky,67,tutor,"The student has given an answer. Can you tell me, checking that, whether it is correct or not?",00:07:54
+nwgdsky,68,student,"No, because they didn't do the numerator again.",00:08:03
+nwgdsky,69,tutor,"Okay, it is actually— the given answer is not correct, but it's not because of numerator. So we go through the question.",00:08:09
+nwgdsky,70,tutor,"Yes, please.",00:08:19
+nwgdsky,71,student,"Yes. Okay, good. Let's focus on the first sentence given. Okay, so the two-thirds of a class are boys. So can you tell me with that, what is the fraction of girls in the class?",00:08:20
+nwgdsky,72,tutor,One-third.,00:08:37
+nwgdsky,73,student,"One-third. Good job. Okay, so out of that one-third girls",00:08:39
+nwgdsky,74,tutor,"It says in the second sentence, half of the girls wear glasses.",00:08:46
+nwgdsky,75,student,[unclear],00:08:50
+nwgdsky,76,tutor,"Okay, okay. So they ask us what fraction of the class are girls that wear glasses. We know the fraction of the girls, the total fraction of the girls is 1/3, and out of that, half of the girls wear glasses. So now what do we have to do?",00:08:52
+nwgdsky,77,tutor,"Uh, we do 1/3 divided by 2. That's what I think, at least.",00:09:12
+nwgdsky,78,student,"Okay. No, so there's 1/3 of girls, and then we know half of them wear glasses.",00:09:19
+nwgdsky,79,tutor,Yes.,00:09:34
+nwgdsky,80,student,"So I said of. So here It comes off. And you remember when we have this type, what are we going to do next?",00:09:34
+nwgdsky,81,student,"Um, make the denominators the same. So, no, we can't. [unclear]",00:09:46
+nwgdsky,82,tutor,"No, Callum, it's fine, it's fine. Okay, so when we get this type of sentence, that half of one-third, we are going to do is that multiplication. Okay, so we are going to multiply 1/3 by 1/2.",00:09:54
+nwgdsky,83,student,Oh.,00:10:15
+nwgdsky,84,tutor,Because it is— this half indicates a portion of this 1/3.,00:10:15
+nwgdsky,85,student,Okay.,00:10:24
+nwgdsky,86,tutor,"Okay, so can you do the calculation? [unclear] [unclear]",00:10:25
+nwgdsky,87,tutor,This is really simple. You can just do it without the calculator.,00:10:37
+nwgdsky,88,student,I can obviously do it. Oh. 1 times 1 is 1. 3 times 2 is 6. It's 1 over 6.,00:10:57
+nwgdsky,89,tutor,Yes. Good job. [unclear],00:11:05
+nwgdsky,90,student,That was pretty easy.,00:11:07
+nwgdsky,91,tutor,Yes. Good job. Okay. So did you understood what we did here?,00:11:12
+nwgdsky,92,student,Yes.,00:11:18
+nwgdsky,93,tutor,"Yes. Okay, great. So we have finished with this lesson. Give me a few seconds to load up the next lesson, okay? [unclear]",00:11:20
+nwgdsky,94,tutor,"Okay, so here's your next lesson. So for this one, we are going to do expanding and factorizing single brackets. So first, before we start, I want you to try and match the top ones with the bottom ones. Okay.",00:11:37
+nwgdsky,95,student,Okay.,00:11:58
+nwgdsky,96,tutor,"Right. Okay, okay, I got this.",00:11:59
+nwgdsky,97,student,You can use the shape tool down there to get the line. It will be easy.,00:12:05
+nwgdsky,98,tutor,"Okay, okay, so, all right. [unclear] Oh, okay, so this is the first one.",00:12:12
+nwgdsky,99,tutor,Uh-huh.,00:12:24
+nwgdsky,100,student,"Okay, then it's 2x to the 8th. That's in brackets. You just want to get rid of the brackets. [unclear] Okay, hold on. Wait, yeah. Oh yeah, okay. This would be— this would be this one.",00:12:25
+nwgdsky,101,tutor,Okay.,00:12:50
+nwgdsky,102,student,And then this one over here would be this one. And then this one would be this one.,00:12:54
+nwgdsky,103,tutor,"Okay. [unclear] Big [unclear] for all— getting all the 4 Questions correct. Good job. Yeah, after a great start from this lesson, so shall we go to a few more practice questions like the exam?",00:13:10
+nwgdsky,104,tutor,Yeah.,00:13:28
+nwgdsky,105,student,"Yeah, okay. Here you go. So try out from the first question. If you need any help, let me know, okay? [unclear] These expressions.",00:13:29
+nwgdsky,106,tutor,"Okay, I can do this. So let's get my text down. Let's go with simple. So it'd be— [unclear] No, that's 9. Shift. Okay, so 2 times x is 2x. Then we're just taking away 6. Close brackets. [unclear]",00:13:43
+nwgdsky,107,tutor,"Okay, so you got the answer correct. The answer is actually correct, but keep in mind when you expand these brackets, you don't need to put again the brackets, okay?",00:14:12
+nwgdsky,108,student,"Okay, okay.",00:14:28
+nwgdsky,109,tutor,You can just write 2x take away 6.,00:14:29
+nwgdsky,110,student,Okay.,00:14:32
+nwgdsky,111,tutor,"Okay, let's go to the B part.",00:14:34
+nwgdsky,112,student,"[unclear] Okay, right. I know x is like, it just means 1. So 1x plus times 1x, 1x squared. Pretty sure at least. Hold on, let me get my symbols out. Little box. [unclear]",00:14:36
+nwgdsky,113,tutor,"Nope. Go up in the box. Mini 2, let's go. Funny. Now we can go to 3. And then that is— that's plussing. 3x.",00:15:10
+nwgdsky,114,student,Okay. So can you tell me why did you put 1 here?,00:15:30
+nwgdsky,115,tutor,Because 1 times 1 is 1.,00:15:38
+nwgdsky,116,student,"Okay. So normally it actually says there's this in here, that is 1x, it indicates that's 1x, but Although it says 1x, we normally don't put 1.",00:15:42
+nwgdsky,117,tutor,Okay.,00:15:58
+nwgdsky,118,student,"Okay, so we only put the number if it is more than 1, like 2, 3, 5, 6, like continue upwards.",00:15:58
+nwgdsky,119,tutor,So it is just x².,00:16:06
+nwgdsky,120,student,"Yeah, it's not [UNCLEAR]. Yes, exactly. It will be just x² 3x. There's no need to put 1 here. The answer is correct.",00:16:07
+nwgdsky,121,tutor,Okay.,00:16:18
+nwgdsky,122,student,Okay.,00:16:19
+nwgdsky,123,tutor,How do you even see?,00:16:20
+nwgdsky,124,student,The next term.,00:16:21
+nwgdsky,125,tutor,"Right. Okay, so... [unclear] Well, this one is a doobly. Hold on. 2x times y. Now, I'm assuming it becomes 2xy.",00:16:22
+nwgdsky,126,student,"Because— no, it wouldn't, right? Because it would be like 2x, 2y, because you're timesing 2x by y. That's the only difficulty here. I'm gonna go off my gut feeling, it's gonna be this, and then I'm gonna plus— no, that's an equal sign. And then I'm going to plus 6x and then squared. Squared. That is my final answer.",00:16:47
+nwgdsky,127,tutor,"Okay, your answer is correct. [unclear]",00:17:31
+nwgdsky,128,student,Yes.,00:17:37
+nwgdsky,129,tutor,"Okay, so I heard that you are going with gut feeling here. Your gut feeling is correct. 2x multiplying by y, we get 2xy. Okay, that is correct. Okay, so you did a great job here. You know, I think you know how to expand expressions. So let's go and see More of these. Let's practice more.",00:17:38
+nwgdsky,130,student,Okay.,00:18:06
+nwgdsky,131,tutor,"So in these questions, be careful of the sign, the plus and the minus sign. Okay?",00:18:06
+nwgdsky,132,student,Okay.,00:18:13
+nwgdsky,133,tutor,"Okay, go for it.",00:18:14
+nwgdsky,134,student,"This one is 4 times 2 is 8, take away 4x.",00:18:18
+nwgdsky,135,tutor,Yes. Your answer is correct. Next time.,00:18:29
+nwgdsky,136,student,"Oh, okay. Oh, I see. I see the issue here. It's a minus x, which in my opinion would make the numbers to be like minus 2x. That's what I think it would be. Minus 2— no, that's a 3. 2x plus minus x, and then symbols so we can get the squared. Squared. [unclear]",00:18:35
+nwgdsky,137,student,"Alright, check.",00:19:17
+nwgdsky,138,tutor,"Okay, are you done?",00:19:20
+nwgdsky,139,student,"Yes, yes, I'm done.",00:19:22
+nwgdsky,140,tutor,"Yes, yes, okay. So in here, you first multiply -x by 2, right?",00:19:24
+nwgdsky,141,student,Yeah.,00:19:31
+nwgdsky,142,tutor,"Yes, okay. So you ended up with -2x, and the first part is correct.",00:19:32
+nwgdsky,143,student,Okay.,00:19:39
+nwgdsky,144,tutor,"Let's see about— yes, okay, let's focus on the— about the second part. Actually, the x² part is correct because x times x, it becomes Yeah, that is correct. How about the sign? We usually do not put signs as plus and minus together in an equation. So can you tell me what happens when minus sign multiplied by plus sign? [unclear]",00:19:40
+nwgdsky,145,tutor,Divide. That's right. [unclear],00:20:11
+nwgdsky,146,tutor,"Okay, let's see about that. So can you tell me, a plus number multiplied by a plus number, the answer, will it be a plus number or a minus number?",00:20:18
+nwgdsky,147,student,A plus number.,00:20:37
+nwgdsky,148,tutor,"Yes, good job. Plus number. Okay, so now can you tell me A minus number— I'm sorry, minus number multiplied by a minus number, what will be the answer?",00:20:38
+nwgdsky,149,student,A minus number.,00:20:54
+nwgdsky,150,tutor,"No, the answer will be—",00:20:57
+nwgdsky,151,student,"Oh wait, no, it will be positive because—",00:20:58
+nwgdsky,152,tutor,"Yes, the answer will be positive. Okay, good job. Okay, so the next one— sorry, plus number, again positive number multiplied by a negative number, what will be the answer?",00:21:01
+nwgdsky,153,student,Plus number.,00:21:18
+nwgdsky,154,tutor,"No, it will be negative.",00:21:21
+nwgdsky,155,student,[unclear],00:21:23
+nwgdsky,156,tutor,"Okay, yes, this is kind of a few rules that we have to keep in mind when we are multiplying numbers. Okay?",00:21:27
+nwgdsky,157,student,Okay.,00:21:36
+nwgdsky,158,tutor,"If both the numbers have positive signs, then the end result will be positive. If the both signs have negative signs, the end result will be again positive. But if the both numbers that you are multiplying has different signs, like plus, the positive and negative, the results will be negative.",00:21:37
+nwgdsky,159,tutor,Okay.,00:22:00
+nwgdsky,160,student,Okay. So what will be here? Minus x into plus x? [unclear],00:22:01
+nwgdsky,161,student,"Would it be take away x minus x squared, take away x squared?",00:22:11
+nwgdsky,162,tutor,"Yes, it will be take away x squared. Good job.",00:22:18
+nwgdsky,163,student,Okay.,00:22:23
+nwgdsky,164,tutor,"Okay, so we go to the next part.",00:22:25
+nwgdsky,165,student,Okay.,00:22:29
+nwgdsky,166,tutor,"Oh, this one, this one's definitely interesting. It's definitely an interesting one. Right, if ab times a, that wouldn't do anything but give a the squared b, a squared b, a squared b, that's what it would be. a gets squared number, numbers, [unclear]",00:22:31
+nwgdsky,167,tutor,"That's a square root. Squared number. [unclear] Squared, and then the b. Nope, I don't want that squared. That doesn't look right. Whatever, it works. a squared b plus 2ab.",00:22:59
+nwgdsky,168,tutor,"Yes, your answer is correct. Good job, Callum. Okay, so we have more questions. This is a little bit expanded than we practiced. Okay, shall we try this out?",00:23:25
+nwgdsky,169,tutor,"Oh, these ones. [unclear] They're actually not that difficult. Right.",00:23:48
+nwgdsky,170,student,"Okay, can you, before starting, can you tell me what is the first thing you're gonna do in this question?",00:23:56
+nwgdsky,171,tutor,I'm gonna do 2 times x and then 2 times 3.,00:24:04
+nwgdsky,172,student,"Okay. Okay, you can go ahead.",00:24:10
+nwgdsky,173,tutor,"Okay, so, right, that would be 2x take away 6, and then we do something. Let me do— I think it's plus. [unclear] And then we do 3 times x, which is 3x plus",00:24:13
+nwgdsky,174,tutor,"It's possible. Wait, what would happen to the 3? Would it be— oh, no. I'm gonna go with it. If it's wrong, it's wrong. 3x plus 6. [unclear]",00:24:44
+nwgdsky,175,tutor,"Okay, is this your final answer?",00:25:12
+nwgdsky,176,student,"Yes, my final answer.",00:25:16
+nwgdsky,177,tutor,"Okay, so let's see what you have done. In this type of questions, Callum, see, first we are— what we are going to do is that first we're going to expand expand each bracket individually. So you did that part correctly.",00:25:19
+nwgdsky,178,student,Okay.,00:25:40
+nwgdsky,179,tutor,"So first you expanded this part and you got 2x [unclear] 6. That's correct. And then you've expanded the second bracket and then you got 3x 6. That's correct. And in here they say this first bracket and this second bracket, then they had addition in the middle. So you have used that as well, addition, and you got this part correct, expanding these two brackets.",00:25:40
+nwgdsky,180,tutor,"Okay, so after you expanded the bracket, we have this equation, and we can go further from here. We can simplify because we have the common, like, similar terms. We can collect the similar terms. Can you identify them?",00:26:14
+nwgdsky,181,student,[unclear] the 6s.,00:26:35
+nwgdsky,182,tutor,"Yes, we can calculate the 6s here. So what happens to the 6s?",00:26:38
+nwgdsky,183,student,I'm assuming they cancel each other out.,00:26:45
+nwgdsky,184,tutor,"Yes, exactly. They cancel each other out because we have -6 and +6, so they cancel each other out. So what happens to the other two terms, 2x and positive 3x?",00:26:49
+nwgdsky,185,tutor,They combined to make 5x.,00:27:02
+nwgdsky,186,student,"Yes, exactly. They combine. So what will be our final answer?",00:27:05
+nwgdsky,187,tutor,It will be 5x.,00:27:13
+nwgdsky,188,student,"Yes. [unclear] Good job. Yes, exactly. Your answer is correct, 5x. So that's what we are going to do for these two next questions as well. So can you try out the B question?",00:27:18
+nwgdsky,189,tutor,Mm-hmm. All right.,00:27:33
+nwgdsky,190,student,"Okay. So first, it's 9 plus [unclear] plus 3m, and then we're going to take away. Because of the 3. I'm going to do take away 3m, or we have a similar one, and— [unclear]",00:27:37
+nwgdsky,191,tutor,"Yeah, and then take away 12. But since we have 3m minus 3m and plus 3m, they cancel each other out. So it would be— 9 plus minus 12. No, because it'd be 9 minus 12 plus my thing. I think it'd be 9 minus 12. I hope, I pray.",00:28:00
+nwgdsky,192,student,"Okay, so until— okay, you got 90 into 9 correct. And then 3 into plus m, 3m. Correct. And minus 3m into m, you got minus 3m. Correct. And here, minus 3 into minus 4, you put minus 12.",00:28:37
+nwgdsky,193,tutor,"Oh, that makes it positive.",00:29:01
+nwgdsky,194,student,"Yes, because two negative signs, they are multiplying. Yeah. [unclear]",00:29:03
+nwgdsky,195,tutor,It'd be plus 12.,00:29:12
+nwgdsky,196,student,"Yes, it will be plus 12. Okay, so you told me that the plus 3m cancels out my negative 3m here. So now what we are— what— with what we are left with?",00:29:17
+nwgdsky,197,tutor,"We are left with 9 plus 12, which we can do, which gives us",00:29:32
+nwgdsky,198,student,21. We got 21. The answer is 21.,00:29:37
+nwgdsky,199,tutor,"Yes, good job. The answer is 21. Yes, correct. Good job. So keep in mind to go further, to simplify other expressions further as far as you can, and be aware of the signs, okay?",00:29:41
+nwgdsky,200,tutor,Yes.,00:30:04
+nwgdsky,201,student,"Yes, okay. So with that in mind, let's go to the C part.",00:30:05
+nwgdsky,202,tutor,"Okay. Right. 2x times 2 gives us 4x because— yeah. I'm going to plus 2x squared. Yeah, okay, that is that. And then let's do takeaway. [unclear] Okay, and then we're going to do takeaway 3x plus 6. Now, anything we can simplify?",00:30:10
+nwgdsky,203,student,"Okay, before simplify, can you check— double check the plus— the positive and the negative signs again?",00:31:08
+nwgdsky,204,tutor,Oh no.,00:31:18
+nwgdsky,205,tutor,"Okay, 2x, I think the first part's good. I think the second part's the problem. Which, is it a negative? Because... [unclear]",00:31:25
+nwgdsky,206,tutor,"Okay, you got it right, Callum. So what will be the final answer when you collect the terms?",00:31:45
+nwgdsky,207,student,"Oh. Um, we've got a load of x's, so I'm assuming we'll do 2x², which is 4. plus 4. Now we just 4x [unclear] plus 2x is 6, take away 3x gives us 3x squared, take away 6. Can",00:31:56
+nwgdsky,208,student,you write it down? [unclear],00:32:26
+nwgdsky,209,student,"Okay, so you expand the brackets correctly and got this part correct. So that is 4x plus 2x squared take away 3x",00:32:50
+nwgdsky,210,tutor,"6. That is correct. Okay, so what I want you to know is that, uh, although you have x terms here in 3 of these, like 4x, 2x², and 3x, we can't calculate all of these 3 and get as 3x². [UNCLEAR] Okay, it's",00:32:50
+nwgdsky,211,tutor,"Actually similar to the fractions that we previously did as without common denominator. Only here, only 4x and 3x have the common x term, only one x.",00:33:27
+nwgdsky,212,student,[unclear] squared.,00:33:43
+nwgdsky,213,tutor,2x² has x². So you can't calculate— you can take away 3x or add 4x to 2x².,00:33:45
+nwgdsky,214,student,So we are going to keep it separately as 2x².,00:33:56
+nwgdsky,215,tutor,Okay.,00:34:02
+nwgdsky,216,student,Okay.,00:34:03
+nwgdsky,217,tutor,That changes it.,00:34:04
+nwgdsky,218,student,"Yes, that changes our final answer. So what will be?",00:34:08
+nwgdsky,219,tutor,"Okay, so it's 4x take away 3x gives us 1x.",00:34:12
+nwgdsky,220,student,Mm-hmm.,00:34:16
+nwgdsky,221,tutor,Because I could just write x for that because that means the same thing.,00:34:18
+nwgdsky,222,tutor,"Yes, then I'll be plussing 2x squared through. [unclear] Square number. And 2. And then we do the— no, now we do the takeaway 6.",00:34:22
+nwgdsky,223,student,"Yes, good job.",00:34:45
+nwgdsky,224,tutor,You did it correct.,00:34:47
+nwgdsky,225,student,Okay.,00:34:48
+nwgdsky,226,tutor,"Okay. So keep in mind what I told you here, okay? Be careful whether it is an x² or just an x.",00:34:50
+nwgdsky,227,student,Mm-hmm.,00:35:03
+nwgdsky,228,tutor,"Okay? Okay. So let's move on. [unclear] Give me a second. Okay. Okay. I'm sorry. Okay, here you go. Now we have done with expanding all the expressions. Now we are going to do fully factorize the expressions. Can you start with the first term?",00:35:04
+nwgdsky,229,tutor,Is this the one you put them in the brackets?,00:35:34
+nwgdsky,230,student,"Yes, exactly.",00:35:38
+nwgdsky,231,tutor,Okay.,00:35:43
+nwgdsky,232,student,Mm-hmm.,00:35:43
+nwgdsky,233,tutor,That's fine. That's fine.,00:35:44
+nwgdsky,234,student,"Um, okay. They both— okay, I think I know. I think I know. I think it's 5, then the bracket, then it's— no, is it? No, because it can't be that. It'd be 5 bracket, then x take away 3, close the brackets. Do we need brackets? I think we need brackets.",00:35:48
+nwgdsky,235,tutor,"Yes, exactly. Good job. Your answer is correct. So when we are expanding an expression, we remove the brackets and we are not going to put it again. But when we are fully factorizing the expression, we are putting back in the brackets.",00:36:19
+nwgdsky,236,tutor,"Okay, so how— what is this [unclear] means?",00:36:37
+nwgdsky,237,student,"Uh, it means times.",00:36:42
+nwgdsky,238,tutor,"Yeah, it's the, uh, the, the highest common factor, isn't it?",00:36:46
+nwgdsky,239,student,"Oh yes, the highest common factor. Yes.",00:36:51
+nwgdsky,240,tutor,"Yes, the highest common factor. We are taking out the highest common factor and putting it out, and what is remaining, we put it inside the bracket. When we expand this bracket, we get the previous expression like this.",00:36:54
+nwgdsky,241,student,Yeah.,00:37:10
+nwgdsky,242,tutor,"Yes, good job. You are doing really great. So let's move on to the next one.",00:37:11
+nwgdsky,243,background,"Okay. All right. It's a Y. The fact that This would also be y because it's y squared. And then, and then, it's 3y, so it's just 3. Because, yes. Yes! That is correct, I believe.",00:37:18
+nwgdsky,244,tutor,"Yes, exactly. It is correct. So always the highest common factor does not have to be a number. It also can be an unknown term.",00:37:51
+nwgdsky,245,student,Yeah.,00:38:03
+nwgdsky,246,tutor,"Okay, you are in the right track. Okay, let's go for the C part. It's a little bit different from the previous two.",00:38:04
+nwgdsky,247,student,Okay. I think I may have— I think I may get it. [unclear],00:38:13
+nwgdsky,248,tutor,"Right. I'm assuming that AB is on this side because I think that is true, and then this would just be a 3. We're plussing, but since there's a 9a², it would actually be— then it would be plussing 9a². A, close the brackets.",00:38:20
+nwgdsky,249,student,"Okay, so can you tell me if you expand this? Okay, so you expand this, you will end up with this expression as well, but there's one more common factor inside the bracket as well.",00:38:52
+nwgdsky,250,tutor,"Can you find it? Yeah, so you took out the common unknown term out, but there's a highest common factor inside.",00:39:15
+nwgdsky,251,student,9? [unclear] 3?,00:39:27
+nwgdsky,252,tutor,"Yes, it's 3. You can take away 3 out as well.",00:39:31
+nwgdsky,253,student,Oh.,00:39:36
+nwgdsky,254,student,Mhm.,00:39:39
+nwgdsky,255,tutor,"So it would be— this would be 3AB. This would just be [UNCLEAR], I think. Yeah. And then this would be 3. Maybe.",00:39:40
+nwgdsky,256,tutor,"Yes, but this one, when you take out the whole 3ab out, so this doesn't become 0. Because when we expand the brackets again to get this, the whole expression, the 3ab multiplied by 0 becomes 0. It doesn't make right, right? So we are putting 1 here.",00:40:04
+nwgdsky,257,student,"Uh, one because Yeah, yeah, yeah, because we are putting 1, so when we are again multiplying, we can get 3ab. Yeah. Yes. Okay. Okay, so what do we have learned from here? [unclear]",00:40:27
+nwgdsky,258,student,"That I'm good at factoring, factorising.",00:40:49
+nwgdsky,259,tutor,"Yes, that's definitely one point. You are good at factorising. That's good. You are good at factorising. It's really good. And the first thing we have learnt is that the common term that we are— I'm sorry.",00:41:00
+nwgdsky,260,student,common multiplier. We take out the highest common multiplier.,00:41:00
+nwgdsky,261,student,"Yes, we can. It can be— we can take out highest common factor, and then also we can take out the common unknown term as well.",00:41:21
+nwgdsky,262,tutor,Yes.,00:41:31
+nwgdsky,263,student,"And in some time, some instances, we can take out both the highest common factor and then unknown terms out, both together out as well.",00:41:32
+nwgdsky,264,tutor,Yeah.,00:41:44
+nwgdsky,265,student,Okay.,00:41:45
+nwgdsky,266,tutor,So shall we try out a few more questions?,00:41:46
+nwgdsky,267,student,Yes. Let's practice.,00:41:50
+nwgdsky,268,tutor,"Okay, so here you go. I'll read the first one.",00:41:52
+nwgdsky,269,student,"Right. Mm-hmm. Okay. So the highest common factor here is 3. Very clear to see. The 3 is going to be here. Now since 9 doesn't have x, it's not going to have an x on it. I know that. So this is going to be 2x because 3 times 2 is 6. The x has to be there. I'm going to take away, I'm going to do 3, I'm going to close the brackets, and we're going to say that is the answer.",00:41:57
+nwgdsky,270,tutor,"Yes, your answer is correct.",00:42:31
+nwgdsky,271,student,Oh yeah.,00:42:35
+nwgdsky,272,tutor,"Okay, so you found out the highest common factor as 3 for both 6 and 9. Since the both terms do not have x, only one has x, we are going to keep x inside and we factorize it. 3 inside brackets, 2x, [unclear] 3. Good. Okay, let's try out B part as well.",00:42:36
+nwgdsky,273,tutor,"Okay. Ooh, ooh, very interesting. I think it's A. I think I'm going to take away A here because of the fact they both have A. And then I put in the 4 here and it gets A. But since this square, this is also A, so this will be this.",00:43:00
+nwgdsky,274,tutor,"Yes, good job. [unclear] Okay, so since 4 and here, although we haven't put any number, it's 1. 4 and 1 doesn't have any highest common factor, so we don't have to take any number out. Only we are taking out a. Okay, good job. Let's go to the c part. [unclear]",00:43:27
+nwgdsky,275,student,Okay.,00:43:53
+nwgdsky,276,tutor,"Okay, indeed. Well, the highest common factor is 5. Hmm, that's a percentage. 5?",00:43:58
+nwgdsky,277,student,Yeah.,00:44:09
+nwgdsky,278,tutor,"Oh, okay. That's gonna be something else because this 5 gets squared. Maybe it's [UNCLEAR].",00:44:11
+nwgdsky,279,tutor,Can't have no— [unclear],00:44:22
+nwgdsky,280,tutor,"It has to carry the G, but it doesn't carry the F because then 20 would have F.",00:44:26
+nwgdsky,281,tutor,"So we close the bracket there, we make the bracket, and then we go, 5 times what gives us 5 is 1.",00:44:34
+nwgdsky,282,tutor,But it also— ooh.,00:44:42
+nwgdsky,283,tutor,Ooh.,00:44:47
+nwgdsky,284,tutor,"No, wait. [unclear] What is it going to have? It's going to be one. Is it going to have— it can have one g, and then it must already have f² with it, because I'm assuming. So we'll just put the f² there. [unclear]",00:44:49
+nwgdsky,285,tutor,"And then since that, we just do the plus— nope, that's the equal sign. Just do the plus. And then since it's going to be g, it's just going to be 4. And then we close the brackets. And we think that is correct.",00:45:22
+nwgdsky,286,tutor,"Yes, your answer is correct. But also, again, keep in mind that we don't have to put one here, okay?",00:45:42
+nwgdsky,287,student,"Oh yeah, because [unclear] is...",00:45:53
+nwgdsky,288,tutor,"Yes, yeah, it does indicate when we are just putting G, it indicates that in front of that there's one, okay?",00:45:55
+nwgdsky,289,tutor,"Yeah. Okay, so when you are writing the expression, do not change the place of the terms, like g in front and then f squared in behind. Just write the given to the given order, okay? So you will not get big— you will not get confused. Okay, so since we have come to the end of our today's session, I'm going to end the session today here. And also, we have done a lot of part from today's lesson. From the end of today's session, when I end the session, there will be a little bit of a feedback form and also a few questions for you to answer.",00:46:07
+nwgdsky,290,tutor,All right.,00:46:52
+nwgdsky,291,student,Okay?,00:46:53
+nwgdsky,292,tutor,Yeah.,00:46:54
+nwgdsky,293,student,"Okay, so answer the questions and please be sure to give the feedback as well. Okay?",00:46:54
+nwgdsky,294,tutor,Yes.,00:47:00
+nwgdsky,295,tutor,Alright.,00:47:01
+nwgdsky,296,student,"Okay, so see you next week, Callum.",00:47:01
+nwgdsky,297,tutor,You too.,00:47:04
+nwgdsky,298,student,"Okay, bye.",00:47:06
+nwgdsky,299,tutor,"Bye, have a lovely day.",00:47:08
+nwgdsky,300,student,"You too, thank you.",00:47:11

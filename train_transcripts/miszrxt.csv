@@ -1,0 +1,276 @@
+session_id,utterance_id,role,content,timestamp
+miszrxt,0,tutor,Hello?,00:00:00
+miszrxt,1,background,[unclear],00:00:00
+miszrxt,2,student,"Hello, hi, can you hear me?",00:00:00
+miszrxt,3,tutor,"Yeah, I can hear you.",00:00:01
+miszrxt,4,student,"Okay, how are you doing?",00:00:04
+miszrxt,5,tutor,"I'm doing good, how are you?",00:00:05
+miszrxt,6,student,"I'm doing very good, thank you for asking. So yeah, is it Gideon?",00:00:07
+miszrxt,7,student,"Yeah, Gideon.",00:00:13
+miszrxt,8,tutor,What is it?,00:00:15
+miszrxt,9,student,Gideon.,00:00:16
+miszrxt,10,tutor,Gideon?,00:00:18
+miszrxt,11,student,"Gideon, yeah.",00:00:19
+miszrxt,12,tutor,Am I pronouncing it?,00:00:19
+miszrxt,13,student,"Yeah, you are.",00:00:20
+miszrxt,14,tutor,"Okay. Okay, all right then. So yeah, how has your week been, Gideon?",00:00:21
+miszrxt,15,student,My week's been good. How about you?,00:00:26
+miszrxt,16,tutor,"It's been great here, yeah. Thank you again for asking. So yeah, shall we get started with your lesson for today?",00:00:30
+miszrxt,17,tutor,"Right, so let's continue with the lesson using the product rule for counting. So I guess you did this lesson last week, yeah? You did the first two weeks, yeah? The first two weeks on self— [unclear]",00:00:40
+miszrxt,18,student,"Yeah, but I was struggling a bit because I didn't— I've never done this before.",00:00:53
+miszrxt,19,tutor,"Oh, okay, all right, that's okay then. Let's go through the question together. So as I am aware, you did this question as you were struggling. We had to go through this question together, am I right?",00:00:57
+miszrxt,20,student,Yeah.,00:01:08
+miszrxt,21,tutor,"Okay, right. So let's understand what the question is telling us. So a head teacher needs to select a head boy, head girl, deputy head boy, and deputy head girl. They can choose from 12 boys and 15 girls for the positions. Okay, how many different combinations are possible? All right, so okay, how many",00:01:09
+miszrxt,22,tutor,"Okay, how many boys are left to choose from once if one is already picked?",00:01:37
+miszrxt,23,student,11.,00:01:43
+miszrxt,24,tutor,11. And how many girls are left to choose from once when one is picked?,00:01:45
+miszrxt,25,student,14.,00:01:52
+miszrxt,26,tutor,"14. Right, so whenever you have these kinds of questions, Gideon, let's go through this small explanation over here to understand what we really need to do here.",00:01:53
+miszrxt,27,tutor,Okay. So we are really selecting 2 items from each set. Yeah?,00:02:03
+miszrxt,28,student,Yeah.,00:02:08
+miszrxt,29,tutor,"So from the girls and the boys, we are choosing a head girl and a deputy head girl, and then a head boy, and then a deputy head boy, right?",00:02:08
+miszrxt,30,student,Mm-hmm.,00:02:20
+miszrxt,31,tutor,"Yeah. So when the order of the items— here where the order of the items matter, we use the formula. N times n minus 1. This is the formula that we really use to get that, right?",00:02:22
+miszrxt,32,student,Mm-hmm.,00:02:37
+miszrxt,33,tutor,"So for each set we are selecting from, and then we multiply the result. So if the order of the items doesn't matter, we have the answer, right? So if a set contains the items A and B, the order of the items matters. Selecting A, then B is different to B, then A, right? So we have— how many sets are we choosing from? We are really choosing from 2 sets, which is the boys and the girls, isn't it?",00:02:38
+miszrxt,34,student,Yeah.,00:03:09
+miszrxt,35,tutor,"Yeah, so let's answer this first question. [unclear] Yeah, you write it down.",00:03:11
+miszrxt,36,tutor,"Right. And how many items are in each set? In the boys set, how many are there? And in the girls set, how many are there in total?",00:03:26
+miszrxt,37,student,"4. No, is it 2? [unclear]",00:03:34
+miszrxt,38,tutor,"We have 2 sets, which is the girls and the boys, right? Now how many girls are there in total and how many boys are there in total? I mean, they're asking you how many items are there in each set.",00:03:40
+miszrxt,39,student,"Oh, 12 and 15.",00:03:52
+miszrxt,40,tutor,"12 and 15. So let's write that as well. Okay, now comes the real work. Use the formula for each set and multiply the result. Alright, so here, first set, okay, since it is 12 boys there, if one is picked, we will have 11. You're going to use this formula.",00:03:55
+miszrxt,41,tutor,"So n 1, which is 11 times 12. Okay? Is that clear? Yeah,",00:04:19
+miszrxt,42,student,that's— I understand that. Alright.,00:04:28
+miszrxt,43,tutor,"And then we use the multiple formula for each set and multiply the result here. So here, what you need to basically do here is 12 times 11, and then for the girls it is 15 times 14. Right? So to see the total, you need to multiply them together, A and B. All right? So for A, you find it here. Use this formula and find. And for B, which is the boys, you find it separately. And their result, you multiply them together.",00:04:32
+miszrxt,44,student,"[unclear] 32. Times [unclear] times them all, Malachi.",00:05:07
+miszrxt,45,student,What is it?,00:05:21
+miszrxt,46,tutor,You have to times the results of—,00:05:24
+miszrxt,47,student,For both of them?,00:05:30
+miszrxt,48,tutor,"Yeah, yeah, exactly. You'll get a very big number, so that's going to be our result.",00:05:31
+miszrxt,49,student,I got—,00:05:38
+miszrxt,50,student,"27,720.",00:05:39
+miszrxt,51,tutor,"27,720. So that is going to be the total number of different combinations that are going to be possible. Okay?",00:05:42
+miszrxt,52,student,"Yeah. [unclear] Yeah, will that be the final answer then?",00:05:55
+miszrxt,53,tutor,"Yeah, that's going to be our final answer.",00:06:00
+miszrxt,54,student,"Yeah, I understand that.",00:06:02
+miszrxt,55,tutor,"Okay, right. So let's go to move on to question B now. Okay, now did you understand these statements here?",00:06:05
+miszrxt,56,student,[unclear],00:06:18
+miszrxt,57,tutor,"Okay, all right. So if the order of the items doesn't matter, we have the answer, right? So here, the ordered, I mean, if the order of the items, as in, What do they mean by the items? The head boy and the head girl. I mean, deputy head boy and the head boy. And the deputy head girl and the head girl. That's what they mean by the items there. Okay? So if the order doesn't matter, we just can half the answer. Right?",00:06:20
+miszrxt,58,student,"If a set contains the items A and B, now for the first one, you'll have for the head this one. You'll need a boy, you'll need a girl. For deputy, you'll need a boy, you'll need a girl. So that means they really matter to each other, isn't it?",00:06:52
+miszrxt,59,student,Yeah.,00:07:08
+miszrxt,60,tutor,So that means the order really matters. So you just multiply them all together.,00:07:10
+miszrxt,61,student,Mm-hmm.,00:07:14
+miszrxt,62,tutor,"Okay, right. So let's go to question B here. A hockey league consists of 16 teams. Each team will need to play the other teams twice in a season. How many matches will there be? All together. Right. How many teams are in the hockey league? According to the question.",00:07:16
+miszrxt,63,student,16.,00:07:37
+miszrxt,64,tutor,16. Right. So now shall we use the formula here to get the answer?,00:07:38
+miszrxt,65,student,Yeah. So it would just be 15 times 16. [unclear] Then do we have to half it?,00:07:44
+miszrxt,66,student,"Um, okay, uh, does the order of the items matter if we need each team to play to the other twice in a season?",00:07:57
+miszrxt,67,tutor,No.,00:08:08
+miszrxt,68,student,"Hmm, doesn't it matter?",00:08:11
+miszrxt,69,tutor,I don't know.,00:08:16
+miszrxt,70,student,"Okay, let's say, um, you have You know, you have a— you're going to play with one team twice, isn't it?",00:08:18
+miszrxt,71,student,Yeah.,00:08:29
+miszrxt,72,tutor,"All right, so if let's say you're playing with A and B once, okay, A, B, and it was different, A, isn't it?",00:08:30
+miszrxt,73,student,"Oh yeah, yeah.",00:08:39
+miszrxt,74,tutor,"Yeah, so that way you— that they are— I mean, the order of the items really matter. Here. AB is different to BA.",00:08:41
+miszrxt,75,student,Yeah.,00:08:51
+miszrxt,76,tutor,That is why you don't halve it. Your answer will be 16 times 15 only.,00:08:51
+miszrxt,77,student,Okay. Did I just put 240 here?,00:08:56
+miszrxt,78,tutor,Yeah. [unclear],00:09:02
+miszrxt,79,student,Is that very clear with you?,00:09:04
+miszrxt,80,tutor,Yeah.,00:09:06
+miszrxt,81,student,"All right. In case if you have any doubts, you can let me know, okay?",00:09:07
+miszrxt,82,tutor,Yeah.,00:09:11
+miszrxt,83,student,"Okay. All right, so the marking scheme.",00:09:13
+miszrxt,84,student,"For this one, you get 1 mark. And for your final answer, 27,720, you would get 1 mark. Okay. All right. I mean, not this one. The working— the final answer and the working 12 times 11 and then 15 times 14, timesing that part, you'll get 1 mark. And here, for showing 16 times 15, you'll get 1 mark, and for this you'll get another 1 mark. That's how the marks is distributed. Okay.",00:09:17
+miszrxt,85,student,Yeah.,00:09:47
+miszrxt,86,tutor,"All right, so having said that, let's move on to a similar question to this. [unclear]",00:09:49
+miszrxt,87,student,Should I just write the answer here?,00:10:12
+miszrxt,88,tutor,"Well, yeah, you can show me you're working for the first one, A, here, and write your answer in the blank given, okay? And for B, you can break in and show your final answer here, okay?",00:10:15
+miszrxt,89,tutor,"Gideon, can you just give me a second? [unclear] Right, yeah, go ahead. [unclear]",00:10:37
+miszrxt,90,student,"And you would then divide 5, 7.5 megawatt peak. [unclear]",00:11:13
+miszrxt,91,student,Yeah. [unclear],00:11:41
+miszrxt,92,tutor,"I didn't know. I just forgot what you said there, but it was that. [unclear]",00:11:42
+miszrxt,93,tutor,Is this right?,00:12:07
+miszrxt,94,student,Yeah.,00:12:11
+miszrxt,95,tutor,"Okay, for the first one, 23 times 22, because the order matters here, right? A football team manages A team manager needs to choose a new captain and a deputy team captain. So there are 23 players in the team. How many combinations are possible? So here, basically, the order really matters, isn't it? So that's correct, 506. Can you hear me, Gideon?",00:12:12
+miszrxt,96,student,Yeah.,00:12:43
+miszrxt,97,tutor,"Yeah. [Speaker:Background]...yeah. [Speaker:Tutor] Okay. So the second one, a rugby league consists of 20 teams.",00:12:45
+miszrxt,98,tutor,"Each team will need to play the other teams twice in a season. How many matches will there be altogether? Right, what did you exactly do here?",00:12:51
+miszrxt,99,student,I did 20 times 19 times 18. I don't know if that's right though.,00:13:01
+miszrxt,100,tutor,Why did you multiply it by 18 again?,00:13:07
+miszrxt,101,student,"Because it said twice, so I thought like you're supposed to times by 19 and then times by 18.",00:13:10
+miszrxt,102,tutor,"We did a similar question to this over here. [unclear] We had to turn twice. So basically what they're trying to tell using the statement here is, Gideon, that the order here also matters. Each team will need to play the other teams twice in a season, right? So that basically means that, you know, uh, the order of the items matter if we need each team to play the other team— other— twice in a season. [unclear]",00:13:22
+miszrxt,103,student,Yeah.,00:14:02
+miszrxt,104,tutor,"So that— to explain that, to get that, only they have given you that statement. So you don't need to multiply by 18 here. So you just have to understand that you don't have to halve your value.",00:14:03
+miszrxt,105,student,Yeah.,00:14:15
+miszrxt,106,tutor,"Okay, so that's going to be 20 times 19 only. Is that clear? [unclear] So for the working, you'll get 1 mark for each, and for your final answer, you'll get 1 mark. And yeah, good job on that, Gideon. So let's go for another exam-style question. [unclear]",00:14:16
+miszrxt,107,student,Is it 756?,00:14:37
+miszrxt,108,tutor,What is it?,00:15:03
+miszrxt,109,student,756.,00:15:05
+miszrxt,110,tutor,"756. And can I know your working, please? How you break that?",00:15:09
+miszrxt,111,student,I just did 28 times 27.,00:15:17
+miszrxt,112,tutor,"Mm, 28 times 27?",00:15:21
+miszrxt,113,student,"Yeah, 28 times 27.",00:15:24
+miszrxt,114,student,Does the order matter here or not? Or doesn't it matter? [unclear],00:15:29
+miszrxt,115,tutor,It does matter. [unclear],00:15:39
+miszrxt,116,student,Yeah. [unclear],00:15:44
+miszrxt,117,tutor,"Oh no, I don't know. [unclear]",00:15:50
+miszrxt,118,tutor,"Right, if you have quite a look at this, an ice cream parlor has special offer on choosing 2 different flavours. It has 28 different flavours to choose from. How many different combinations of 2 flavours are possible? Yeah? So here, what you have to first understand is Will the order really matter here? Okay, so the arrangement of the selected items, will it really matter? Let's say picking one flavor and picking another flavor, let's say picking A and B, is it the same as picking B and A? Right?",00:16:03
+miszrxt,119,student,"Yeah, I understand.",00:16:42
+miszrxt,120,tutor,"Right, so if If you, let's say, you pick, you know, chocolate flavour and then you pick a vanilla flavour, right?",00:16:44
+miszrxt,121,student,Yeah.,00:16:53
+miszrxt,122,tutor,And then you choose to pick a vanilla flavour and then chocolate flavour. Does that order really matter there?,00:16:53
+miszrxt,123,student,No.,00:17:00
+miszrxt,124,background,No.,00:17:01
+miszrxt,125,tutor,"No. So when it comes to that one, the order doesn't really matter here, isn't it?",00:17:01
+miszrxt,126,student,Yeah.,00:17:08
+miszrxt,127,background,Yeah.,00:17:09
+miszrxt,128,tutor,"So whatever the answer that you kept there, you need to halve it.",00:17:09
+miszrxt,129,student,So it's 378.,00:17:13
+miszrxt,130,tutor,"378. But for the first one, since it was about choosing a new captain and a deputy team captain, how we see that is, now let's say you pick Max as the president and Bob as the vice president, yeah?",00:17:17
+miszrxt,131,student,Yeah.,00:17:35
+miszrxt,132,tutor,"In the first instance, let's say Max Max as the president and Bob as the vice president. Now this is not the same as picking Bob as the president and Max as the vice president, isn't it? This is not the same. The order matters here, isn't it?",00:17:36
+miszrxt,133,student,Yeah.,00:17:54
+miszrxt,134,tutor,"So this is where when the order really matters, you don't have to half it. But here the order doesn't matter because it's chocolate [UNCLEAR], you know. Vanilla, chocolate, and strawberry, strawberry and chocolate, that's going to be the same.",00:17:55
+miszrxt,135,student,Yeah.,00:18:10
+miszrxt,136,tutor,"So 28 times 7, so, and then you divide that by 2, half it, 378. You get that?",00:18:10
+miszrxt,137,student,Mm-hmm.,00:18:18
+miszrxt,138,tutor,Yeah?,00:18:20
+miszrxt,139,student,Yeah.,00:18:21
+miszrxt,140,tutor,Right. Shall we try a similar question to this please?,00:18:21
+miszrxt,141,student,I got 435.,00:18:35
+miszrxt,142,tutor,"435, all right. So how did you choose that this order doesn't matter here?",00:18:38
+miszrxt,143,student,"Because, like, it says the other players, so it doesn't matter which order. It could be like anyone.",00:18:49
+miszrxt,144,student,Here they exactly say a word once. Each other only once.,00:18:58
+miszrxt,145,tutor,Yeah.,00:19:05
+miszrxt,146,student,"Since playing each other only once, the order doesn't really matter. Yeah?",00:19:06
+miszrxt,147,tutor,Yeah.,00:19:11
+miszrxt,148,student,"Yeah, so it could be like, you know, Bob can be playing with Max, or Max could be playing with Bob. It doesn't matter. But If it is twice, the order matters. Isn't it?",00:19:13
+miszrxt,149,student,Yeah.,00:19:30
+miszrxt,150,tutor,"Yeah? So if they are playing each season each other twice, the order will matter because it's like the first one, it's A versus B, which is AB, and then it is BA. That's going to be different. Here, since it is only once, it doesn't matter. Right? You have to understand that carefully. Alright, Gideon? Is that very clear with you? [Speaker:Gideon]... [UNCLEAR] Yep.",00:19:32
+miszrxt,151,tutor,"Alright, so let's move on to our next lesson. Before we move on, here we go with some reflection questions. There we go. So they have already done this. They've got the wrong answer here. So you see where they have gone wrong. So it's hard for you that way. You can work it on your own and then and compare it with the answers here. Yeah, go ahead.",00:20:00
+miszrxt,152,student,"The first one, there was also times it, not add it, so it should be 54.",00:20:24
+miszrxt,153,tutor,"54, good job. Okay, the next one.",00:20:32
+miszrxt,154,student,It should be 8. It should be [UNCLEAR].,00:20:38
+miszrxt,155,student,So like they should half it to get 20— to get 28.,00:20:44
+miszrxt,156,tutor,"Right. Okay, why do you think we have to half it here?",00:20:52
+miszrxt,157,student,"Because the combinations of two different toppings. Yeah, you have to again compare it with the ice cream flavor. So tell me two of your favorite toppings.",00:20:57
+miszrxt,158,student,"Um, I don't know, cheese.",00:21:18
+miszrxt,159,tutor,"Okay. And yeah, all right, okay. So let's take it as cheese and then let's take it as a seafood one, okay? So it doesn't matter if you get the seafood and then cheese, or cheese and seafood. You're going to get them. Yeah?",00:21:23
+miszrxt,160,student,Yeah.,00:21:40
+miszrxt,161,tutor,"Right? So it isn't— the order doesn't really matter. Right? Yeah. So here you have to half it. 56 has to be half. Yeah. So good job, Gideon. Let's keep moving to our next lesson. Okay. Drawing and reading from histograms. So just give me a second. I'll just check if that's the right lesson for you. [unclear]",00:21:41
+miszrxt,162,tutor,"Yep, that's correct. Right, so yeah, have you learned about this at school?",00:22:12
+miszrxt,163,student,"Yeah, I have.",00:22:19
+miszrxt,164,tutor,"Okay, so drawing and reading from histograms, circle the correct formula. Okay, so before that, tell me what is a histogram basically?",00:22:21
+miszrxt,165,student,"It's like on a table and it's like, it looks like a bar chart.",00:22:33
+miszrxt,166,tutor,"Yeah. So it really shows you how frequently different values appear in a dataset, isn't it?",00:22:38
+miszrxt,167,student,Yeah.,00:22:47
+miszrxt,168,tutor,"Yeah, okay. Right, so let's get started. Circle the correct formula. Which is the correct formula for frequency? [unclear] Density.",00:22:48
+miszrxt,169,student,It's the second one. Frequency density equals frequency divided by class width.,00:23:00
+miszrxt,170,tutor,"Class width, good job. Yeah, correct. So that means you have a good idea about this. So let's go with this exam-style question, Gideon.",00:23:06
+miszrxt,171,student,[unclear] It might take me a while to calculate it.,00:23:13
+miszrxt,172,student,"It's okay, Tutor. [unclear]",00:23:25
+miszrxt,173,tutor,"And yes, it would be 5 over 2 times 20, which is 10.",00:23:31
+miszrxt,174,student,"I got 0.7, 0.3, and 2.4. [unclear]",00:24:21
+miszrxt,175,tutor,"Right. Yeah, okay. So please show your method, at least for the first one, okay? [unclear]",00:24:26
+miszrxt,176,student,I got 4.,00:24:52
+miszrxt,177,tutor,"Have you written down? Yeah, good job. So for using the correct equation, frequency over class width, and then substituting the value, right, answer is— for these 3 correct ones, you get 1 mark. For using the equation, you get another 1 mark. All right.",00:24:53
+miszrxt,178,student,Yeah.,00:25:12
+miszrxt,179,tutor,"And for substituting correctly, you'll get another 1 mark. This is how the marking scheme is distributed. And then let's go to the next exam style. Question, Gideon. [unclear] [unclear]",00:25:13
+miszrxt,180,student,"50 times 10, we've got 5. [unclear] And then for this one, 10 divided by 5, and these, and 2 belongs here. And the balance.",00:25:37
+miszrxt,181,student,It's 10. [unclear],00:26:01
+miszrxt,182,tutor,"No, I'm just still working it out.",00:26:03
+miszrxt,183,student,Okay. I got 4 and then for the first one and then I got 4 again.,00:26:06
+miszrxt,184,tutor,"Right, okay, good job. Yeah, please show me your working here.",00:26:26
+miszrxt,185,student,So I use the equation and then I just did 0.4 times 10 to equal 4. [unclear] [unclear],00:26:32
+miszrxt,186,tutor,Where did you get 0.4 though?,00:26:58
+miszrxt,187,student,"0.4 is on, it's on like the graph, so it goes up in, if it goes up in one, then each like square equals 0.1. That makes sense?",00:27:02
+miszrxt,188,student,It's up there.,00:27:17
+miszrxt,189,tutor,"Yeah, nice. Nice work. Okay, complete the histogram as well.",00:27:19
+miszrxt,190,student,"Yes, I need to [unclear] do it. Yeah.",00:27:29
+miszrxt,191,student,Yes. [unclear] [unclear],00:28:10
+miszrxt,192,student,[unclear] [unclear],00:28:39
+miszrxt,193,student,[unclear] [unclear],00:28:39
+miszrxt,194,tutor,"Okay, it's just 2 or 2.1 because the lines are [UNCLEAR]. Oh, it's okay as it is. The computer, you can tell me. Is it just 2 or 2.1? [Speaker:Gideon] 2.",00:29:02
+miszrxt,195,tutor,There we go. Good job.,00:29:14
+miszrxt,196,student,"It's just hard to draw on a computer, so",00:29:23
+miszrxt,197,student,"Oh, yeah, yeah, it's [UNCLEAR]. [Speaker:Tutor] Okay, you can draw the next one. [unclear]",00:29:26
+miszrxt,198,student,Go ahead. [unclear],00:30:08
+miszrxt,199,student,"Right, good job. Can you tell me the value of the—",00:30:40
+miszrxt,200,student,2.6.,00:30:43
+miszrxt,201,tutor,"2.6, good job, Gideon. Amazing stuff. So yeah, 1 mark for attempting to find the area of the bar, you get 1 mark, see, for the first one, okay? And then for both the frequencies, 4 and 4, you get 1 mark. And when it comes to question B, right, for 1 correct frequency density or 1 correct you get 1 mark. For both the correct bars, you get 2 marks. So that's how you get the 2 marks for this one. [unclear] All right, let's move on to our next question. Before that, do you have any questions to ask?",00:30:45
+miszrxt,202,student,No.,00:31:23
+miszrxt,203,tutor,"Okay, there we go.",00:31:25
+miszrxt,204,student,Yeah. [unclear] [unclear],00:32:29
+miszrxt,205,student,My final answer is 32 over 43.,00:33:32
+miszrxt,206,tutor,32 over?,00:33:40
+miszrxt,207,student,43.,00:33:42
+miszrxt,208,tutor,"32 is right. How do you get 43 though? Like, you add them all up. So I got 16, and 16 plus 9 plus 14, and then plus [unclear] to get 43. Where are the other 2? I got 14 and then 20 times 0.35.",00:33:45
+miszrxt,209,tutor,"Yeah, you have 13, 9, and 14, right? [unclear] Find the total areas of the bars. What are the next two? [unclear]",00:34:20
+miszrxt,210,student,"Oh, I've put in the first one. What is it? Wait, I think I swapped that onto the wrong thing. I think this is supposed to be over here. [unclear]",00:34:37
+miszrxt,211,tutor,"48, because you have to find the total area of all the bars. Yeah? Okay, alright.",00:34:57
+miszrxt,212,student,"Okay, good job, Gideon. Yeah, then yeah, this is a 4 marks question. Finding the areas for the 2 bars correctly— I mean, for at least 2 bars, you would get 1 mark. If you get for all the bars, you could get 2 marks there. For adding, you would get 48, you would get 1 mark. 32, you would get 1 mark. And for your final answer, 32 or 48, you would get 1 mark. I would recommend you to do your steps over here so that I can see where you went wrong, but that's",00:35:03
+miszrxt,213,tutor,"Then shall we try a challenge question now, since you were like very good with all the questions?",00:35:34
+miszrxt,214,tutor,"I don't know how to do this one. [unclear] The histogram shows the information about the mass of items in a warehouse. Find an estimate for the median mass of the items. Okay, so can you tell me the total area of the bars here?",00:36:03
+miszrxt,215,student,Okay.,00:36:19
+miszrxt,216,tutor,"You have to find the total— you can start by finding the total areas of the bars, all right?",00:36:22
+miszrxt,217,student,Yeah.,00:36:28
+miszrxt,218,tutor,And then you can draw a vertical line through the bar where you think half of the area will lie on both the sides. Right?,00:36:29
+miszrxt,219,student,Yeah.,00:36:38
+miszrxt,220,tutor,"So finding the area to the left of the line in that bar, and use the height and area to find the width. Add this width to the lower class boundary of the bar to find the estimate of the median.",00:36:39
+miszrxt,221,tutor,"Okay, I'll tell you step by step. Start by finding the total areas of the bars, please.",00:36:54
+miszrxt,222,student,I'm doing that right now. [unclear],00:36:59
+miszrxt,223,tutor,Okay.,00:37:02
+miszrxt,224,student,I keep on reading through the [unclear],00:37:20
+miszrxt,225,student,Is it total 61?,00:38:36
+miszrxt,226,tutor,What is it?,00:38:40
+miszrxt,227,student,61. [unclear],00:38:41
+miszrxt,228,tutor,"61, yeah, that's right. Yeah, good job. So that's the total area of the bars there. Okay, right. So now what you can do is now draw a vertical line through the bar where you think half of the area will lie on both the sides. You basically have to draw a line which is symmetric. [unclear]",00:38:50
+miszrxt,229,tutor,"Okay, now first, if you add, I mean, you're getting 61, right?",00:39:20
+miszrxt,230,student,Yeah.,00:39:25
+miszrxt,231,tutor,"So basically you have to have 30.5 and 30.5 from both the sides. I mean, you have to draw a symmetric line in the middle. Okay? So you have 30.5 this side, and you'll have 30.5 this side. Where did you get 30 from?",00:39:25
+miszrxt,232,student,61 divided by 2.,00:39:48
+miszrxt,233,tutor,Oh. All right?,00:39:50
+miszrxt,234,student,Yeah.,00:39:55
+miszrxt,235,tutor,"So where would you think you would need to draw a line there? So for the first one, what is the— [unclear] You got this one that you got 17, isn't it?",00:39:57
+miszrxt,236,student,Yeah.,00:40:05
+miszrxt,237,tutor,"And then you got 18 for this, am I right?",00:40:06
+miszrxt,238,student,"Yeah, and then 12 on the next one.",00:40:09
+miszrxt,239,tutor,"Okay, 17, and how much do you need to add more to get 30.5? [unclear] Round another 4.5.",00:40:12
+miszrxt,240,student,4.5?,00:40:30
+miszrxt,241,tutor,"13.5, if I'm not wrong. [unclear]",00:40:31
+miszrxt,242,student,30.5.,00:40:37
+miszrxt,243,tutor,"For finding the area of the bar that is required, you already have 17 here, so from 30.5 you take away 17, so that's 13.5, isn't it?",00:40:43
+miszrxt,244,student,Yeah.,00:40:53
+miszrxt,245,tutor,"You would need another 13.5 from this to get to 30.5, isn't it?",00:40:54
+miszrxt,246,student,Yeah.,00:41:00
+miszrxt,247,tutor,"Yeah, so here you would need 13.5. So for finding the width of the bar required, if you want to get the width of the bar, what would you do here? 30.5— 13.5, it has to be divided by 3.6, if I'm not wrong.",00:41:01
+miszrxt,248,student,Isn't it?,00:41:20
+miszrxt,249,tutor,"So that will give you around 3.75. So basically it is— the median would be, if you add it with the lower [unclear] class boundary of the bar to give the estimate for the median, that would be 13.75. It's okay, there's a challenging question, so this could be a challenge for you, but then you were very good with all the other questions. That's a great, uh, work done. So did you understand how we actually did this?",00:41:23
+miszrxt,250,student,"A bit, yeah.",00:41:55
+miszrxt,251,tutor,"Okay, right. So 17 is here, so you need to find— to get to 30.5, you need another 13.5. Did you understand up to that part?",00:41:58
+miszrxt,252,student,Yeah.,00:42:07
+miszrxt,253,tutor,"Okay, now we need to find the width of the— but we know that the height height, and we have to find the width that is required first of all, isn't it?",00:42:09
+miszrxt,254,student,Yeah.,00:42:20
+miszrxt,255,tutor,"Yeah, so, um, what you would do is find the area to the left of the line, okay? In that [UNCLEAR], use the height and the area to find the width. You would use the height and the width to find— I mean, your height and the area to find the width. So basically, you know that the height is 3.6 here, isn't it?",00:42:21
+miszrxt,256,student,Yeah.,00:42:49
+miszrxt,257,tutor,"So you need 13.45 from this, isn't it?",00:42:51
+miszrxt,258,student,Yeah. [unclear],00:42:55
+miszrxt,259,tutor,"13.5 divided by 6— I mean, 3.6. So that will give you the width you need here. So that's going to be 3.75, isn't it?",00:42:59
+miszrxt,260,student,Yeah.,00:43:13
+miszrxt,261,tutor,"Now this 3.75, it has to be, um, added with the lower bound— lower class boundary of the bar given. So the lower class boundary is, um, really 13. So you need to add with that. That's going to be 3— 13 points. 75. Yeah. [unclear] Yeah. Yeah. All right. So yeah, let's go for our reflection then. What have they done wrong?",00:43:15
+miszrxt,262,student,"Well, the first one, they're supposed to do frequency divided by the class width, but they just did the other way around. They did class width divided by frequency.",00:43:52
+miszrxt,263,tutor,Which is wrong.,00:44:00
+miszrxt,264,student,"Yeah, what should have— yeah, they should have done which way there? How many numbers can you tell me?",00:44:01
+miszrxt,265,background,"9 divided by 5, 12 divided by 5, 7 divided by 10, and then 8 divided by 20.",00:44:08
+miszrxt,266,student,"Yeah, correct. Good job. And yeah, the next one, please. Can you see where the student has gone wrong? [unclear]",00:44:17
+miszrxt,267,student,They put the frequency density as the frequency.,00:44:33
+miszrxt,268,tutor,Exactly. So what should they have done instead?,00:44:38
+miszrxt,269,student,"They should have put, for the first one it should have been 20 and then second one it should have been 15 and then—...and for the bottom one, last one.",00:44:42
+miszrxt,270,tutor,"Yeah, 20 again for the last one. All right, Gideon, that was brilliant work coming from you throughout the session today. Do you have any questions to ask, Gideon?",00:45:00
+miszrxt,271,student,"No, that's it.",00:45:10
+miszrxt,272,tutor,"Okay, all right then. So please make sure that you do the post-session quiz and reflect on your session as well. All right?",00:45:12
+miszrxt,273,tutor,"Okay, bye-bye.",00:45:17
+miszrxt,274,student,"Yeah, bye. Take care. Have a great day.",00:45:19

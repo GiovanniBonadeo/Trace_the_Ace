@@ -1,0 +1,386 @@
+session_id,utterance_id,role,content,timestamp
+efpappp,0,background,[unclear],00:00:00
+efpappp,1,tutor,Hello?,00:00:00
+efpappp,2,tutor,"Hello, can you hear me?",00:00:10
+efpappp,3,student,Yes.,00:00:12
+efpappp,4,tutor,How are you?,00:00:13
+efpappp,5,student,Good.,00:00:15
+efpappp,6,tutor,How has your day been so far?,00:00:16
+efpappp,7,student,What?,00:00:19
+efpappp,8,tutor,How has your day been so far?,00:00:20
+efpappp,9,student,Good.,00:00:24
+efpappp,10,tutor,Okay. Anything interesting happen at school today?,00:00:24
+efpappp,11,student,I'm what?,00:00:29
+efpappp,12,tutor,Did anything interesting happen at school today?,00:00:31
+efpappp,13,student,No.,00:00:34
+efpappp,14,tutor,"Okay, right. So do you have anything to share with me before we start?",00:00:35
+efpappp,15,student,No.,00:00:41
+efpappp,16,tutor,"Okay, we're off to a good start. Can you read today's topic?",00:00:43
+efpappp,17,student,Topic?,00:00:48
+efpappp,18,tutor,"Yes, what is today's topic?",00:00:50
+efpappp,19,student,Compare numbers with up to 2 decimal places using money.,00:00:55
+efpappp,20,tutor,What do you mean by comparing numbers?,00:01:02
+efpappp,21,student,Comparing. Comparing numbers.,00:01:06
+efpappp,22,tutor,"Yeah, what do you mean by comparing numbers? [unclear]",00:01:11
+efpappp,23,student,"Oh, I know! Like this, this one. Like these symbols?",00:01:17
+efpappp,24,tutor,Yes.,00:01:29
+efpappp,25,background,Do you know what they are called? What is the name of this one?,00:01:30
+efpappp,26,tutor,Write the correct symbol.,00:01:36
+efpappp,27,background,Write the correct symbol to complete [unclear],00:01:45
+efpappp,28,tutor,What? I can't read it.,00:01:57
+efpappp,29,student,Statement.,00:01:59
+efpappp,30,tutor,"Oh, statement. Write the correct symbol to complete this statement. So 5.4 and 5.25, which one is bigger?",00:02:00
+efpappp,31,student,"Of course, 5.4.",00:02:12
+efpappp,32,tutor,Why do you say this is bigger?,00:02:15
+efpappp,33,student,Because it has more numbers than 5.25.,00:02:18
+efpappp,34,tutor,"And like, more— yeah.",00:02:23
+efpappp,35,student,"What do you mean, more numbers?",00:02:26
+efpappp,36,tutor,"And like, more— 5.4 is more than 5.25 because it has like more mini numbers.",00:02:29
+efpappp,37,student,"Like, this is 4, this is 25, but 25 is bigger than 4.",00:02:41
+efpappp,38,tutor,No.,00:02:48
+efpappp,39,student,"Yeah, 25 is bigger than 4.",00:02:50
+efpappp,40,tutor,How?,00:02:53
+efpappp,41,student,"Like 25, and this is just 4. This is 25, so it's bigger.",00:02:55
+efpappp,42,tutor,Okay.,00:03:03
+efpappp,43,student,Why is this one bigger than 5.4?,00:03:05
+efpappp,44,tutor,"Because that's, um, zero [UNCLEAR].",00:03:09
+efpappp,45,student,"0.4, and that's 0.25.",00:03:15
+efpappp,46,tutor,"Okay, very good. 0.4 is bigger than 0.25.",00:03:19
+efpappp,47,student,Yeah.,00:03:25
+efpappp,48,tutor,"Yes, that's excellent. Okay, can you try the next one?",00:03:26
+efpappp,49,student,Yeah. Write the [unclear] using number.,00:03:33
+efpappp,50,background,Okay. So— That's then 2 pounds 6 cents. 2.6 pence.,00:03:39
+efpappp,51,tutor,Okay. 2.6 literally means 2.60. [unclear] means 60. Do we have 60 here?,00:03:52
+efpappp,52,student,"No. Oh, I got it. This is not 2.6.",00:04:06
+efpappp,53,tutor,Correct. So doing that and put in there— [unclear],00:04:09
+efpappp,54,student,Can you rewrite 2.0 as 6?,00:04:14
+efpappp,55,tutor,"Yes, exactly. Now this is just 6. But when you have 60, it becomes 2.6, okay?",00:04:23
+efpappp,56,student,Okay.,00:04:32
+efpappp,57,tutor,"Right, wonderful. That's very correct.",00:04:33
+efpappp,58,tutor,"Okay, so if you have two numbers like this, 3.36 and 3.32, can you circle this number? [unclear] Okay, good. What about this one? If you have 1.53 6 and 1.5— [unclear]",00:04:36
+efpappp,59,tutor,Oops. What happened?,00:05:10
+efpappp,60,student,"Okay, let me rewrite it. 1.56 and 1.5237.",00:05:16
+efpappp,61,tutor,There you go.,00:05:24
+efpappp,62,student,This one.,00:05:31
+efpappp,63,tutor,Why? This one got a lot of numbers. Why do you say this is bigger then?,00:05:32
+efpappp,64,student,"Because that's 1.56 and that's 1.52387, and that's not more than that one because that one has bigger numbers than that one.",00:05:40
+efpappp,65,tutor,"Okay, but 8 and 7, they are bigger numbers.",00:05:59
+efpappp,66,student,I know.,00:06:07
+efpappp,67,tutor,They are bigger than 5 and 6.,00:06:08
+efpappp,68,student,"I know. Because that's 1, 2, 3, 4, 5, 6. So that's 0.000[UNCLEAR].",00:06:10
+efpappp,69,student,7.,00:06:23
+efpappp,70,tutor,"8. Okay. Right, right, right. In other words, whenever you compare two numbers, you need to compare the first digit. Look, ones column. They are the same, right?",00:06:24
+efpappp,71,student,Yeah.,00:06:38
+efpappp,72,tutor,And what do you call the next column? What is the name of the next column?,00:06:38
+efpappp,73,student,"Uh, 5? 0.5?",00:06:43
+efpappp,74,tutor,"Yeah. So yeah, it's the tenths. So they are the same. Now look at the next column, 0.06 column, hundredths column. It's a 6 and it's a 2. So which one is greater? [unclear]",00:06:45
+efpappp,75,tutor,6 is greater than 2. So that is why 1.56 is bigger. Okay?,00:06:59
+efpappp,76,student,Yeah.,00:07:07
+efpappp,77,tutor,"Right. Can you try this question? You can write the decimal as most money. Okay, so first we get the... [unclear]",00:07:08
+efpappp,78,tutor,"Oh, can you please write it clearly?",00:07:27
+efpappp,79,student,"Yeah, I have.",00:07:32
+efpappp,80,background,"Okay, okay.",00:07:36
+efpappp,81,tutor,"Okay, and not that one. So that's the— okay, right. So whenever you compare two numbers, which column do you compare first? [unclear] Which column do you compare first? [unclear]",00:07:41
+efpappp,82,tutor,"Okay. So imagine you have a number like this, 4.56, and [UNCLEAR]. Right. So whenever— what is the name of this column?",00:08:14
+efpappp,83,student,4.56.,00:08:37
+efpappp,84,tutor,"No, what is the name of this column?",00:08:38
+efpappp,85,student,Ones.,00:08:40
+efpappp,86,tutor,Ones. So first you need to compare the ones column. So what can you tell about the ones column in both numbers? [unclear] What? What can you say about the ones column in both?,00:08:41
+efpappp,87,student,"On the ones column, nothing.",00:08:58
+efpappp,88,tutor,Those are 4.,00:09:01
+efpappp,89,student,Can you see?,00:09:02
+efpappp,90,tutor,"Yeah, those are 4. It's the same. So we need to move to the next column. What is the name of the next column?",00:09:03
+efpappp,91,student,Tens.,00:09:12
+efpappp,92,tutor,Tens column. So what can you say about the tens column? Which number has greater tens?,00:09:13
+efpappp,93,student,"That [UNCLEAR]. [Speaker:Tutor] Yes, this is the biggest number because it has the greater tens. Okay?",00:09:21
+efpappp,94,tutor,Okay.,00:09:30
+efpappp,95,student,Right.,00:09:31
+efpappp,96,tutor,Can you try this question? Would you rather have 6 pence or 23 5 pence? Which will give you the greatest [unclear] in... what's them again? Pounds? [unclear],00:09:32
+efpappp,97,student,"Okay, I have 6 20p, 6 20p, oh, 23p, 23 5p, 23 5p. So that's me, that's me. [unclear]",00:09:59
+efpappp,98,student,Give it a try. 20 [UNCLEAR]. [Speaker:Tutor] How did you get these answers?,00:10:24
+efpappp,99,student,I don't know.,00:11:02
+efpappp,100,tutor,"Do you mean you don't know? Okay, did you understand the question?",00:11:06
+efpappp,101,student,Not really.,00:11:11
+efpappp,102,tutor,"Okay, would you rather have 6 20p or 23 5ps. So how do you see which one's greater? You need to find the total. So can you work out the value of 6 20ps first? What is the value of 6 20p?",00:11:13
+efpappp,103,student,"6 20p, so that's 26.",00:11:35
+efpappp,104,tutor,"No, no, no, no. Imagine like this.",00:11:40
+efpappp,105,student,Oh. So you mean like that?,00:11:43
+efpappp,106,tutor,Like this. So you have— this is a 20p. You have 6 of them. [unclear],00:11:48
+efpappp,107,student,Yeah.,00:11:55
+efpappp,108,tutor,So this is a 20p. You have 6 of them. So what is the total of 6 20ps?,00:11:58
+efpappp,109,student,"Oh, I got it now.",00:12:05
+efpappp,110,tutor,"Okay. Can you work out the total? Okay. Right. Can you try this question? Would you rather have six pens or 23,5 pence? Which would you get you the greatest rider in. What's them again? Pounds",00:12:08
+efpappp,111,tutor,"Okay, very good. In pounds, okay? Not p, it's pounds.",00:12:38
+efpappp,112,student,Okay.,00:12:43
+efpappp,113,tutor,"Like this. Right, 1.20. Very good. Now just like this, you need to work out the amount for 23.5, please. Can you do that?",00:12:44
+efpappp,114,student,[unclear] Okay. So 24.5. [unclear],00:12:59
+efpappp,115,tutor,"Without the circles, without the circles, how do you think you can find the total? What do you do to work out that?",00:13:14
+efpappp,116,student,My fingers?,00:13:23
+efpappp,117,tutor,No.,00:13:26
+efpappp,118,student,"Oh, I got it, I got it, I got it, I got it. So 23 times... what's times? [unclear]",00:13:27
+efpappp,119,tutor,"You can use the X. X letter, letter X.",00:13:40
+efpappp,120,student,"Oh, okay. Times 5.",00:13:44
+efpappp,121,tutor,"Very good, 23 times 5.",00:13:50
+efpappp,122,student,"Okay, I will do it in the other way.",00:13:53
+efpappp,123,tutor,"Okay, so there is 24. So, okay, 3 times 5. What is 3 times 5? 3 times 5 is 15. So then I'll do rather like this, um, so then I will Then what is 2 times 5? [unclear]",00:13:56
+efpappp,124,tutor,Is 10. 2 times 5.,00:14:27
+efpappp,125,student,"22 times 5 is 10. Now we'll put them here, then the 15 on the table of 15. So",00:14:33
+efpappp,126,tutor,10 15 is 25. Okay.,00:14:47
+efpappp,127,student,"And then I'll do 5, so then 8. I have then 8. Then with 8 I'll do 15 again. 15 is 30.",00:14:54
+efpappp,128,tutor,"Okay, and then I'll put 40. So 40. So then I used 3, 2, 50. [unclear] That I used actually. So 40. Sorry, I'm not so good in maths.",00:15:14
+efpappp,129,tutor,"Don't say you are not good. You are good. Okay, so if you have 23 like there, and then you have to times this by 5, don't you think the column method is easy? Do you know the column method?",00:15:43
+efpappp,130,student,Yes.,00:15:59
+efpappp,131,tutor,"Yeah, how do you work out this one? What's the first thing you need to do?",00:16:00
+efpappp,132,student,"First thing, we should— we need to change the x I'm right here.",00:16:08
+efpappp,133,tutor,"Okay, let me put it there. Okay, happy?",00:16:14
+efpappp,134,student,And then under the table you need to put another line.,00:16:18
+efpappp,135,tutor,"Oh my goodness, okay. [unclear]",00:16:24
+efpappp,136,student,And you need to change the 5 with the 23. No. No.,00:16:31
+efpappp,137,tutor,Oh yeah!,00:16:41
+efpappp,138,student,"No, we do.",00:16:42
+efpappp,139,tutor,"Oh yeah, yeah, I know, I know, yeah.",00:16:43
+efpappp,140,student,"So, okay. Now I will do it. [unclear]",00:16:46
+efpappp,141,tutor,So what is the first thing you need to do?,00:16:54
+efpappp,142,tutor,"Wait, I need to figure out [UNCLEAR]. [Speaker:Callum] And for a dance club?",00:17:10
+efpappp,143,tutor,"So, okay, so 10,",00:17:24
+efpappp,144,tutor,"No, no, no, no. First you need to do 5 times 3. Okay?",00:17:33
+efpappp,145,student,Okay. [unclear],00:17:41
+efpappp,146,tutor,"So what is 5 times 3? 15. But you don't put 15 here. You only put the 5 and take the 1 to the remainder, to the next column. So 5 No, you put only the 5. You take the 1 over to the next column. Carry over that. OK? Right. That's good. Can you move the 5 to the corner? Can you move the 5 to the corner? [unclear]",00:17:42
+efpappp,147,student,Here? Right here?,00:18:16
+efpappp,148,tutor,"Yeah, like here in the corner. Okay, yeah, very good. 5 times 3 is 15, so you only need to put the last digit and carry over the 1. Okay, now we need to do 5 times 2. What is 5 times 2?",00:18:23
+efpappp,149,student,That's 10.,00:18:43
+efpappp,150,tutor,10. And what do we do with the remainder? [unclear] You need to add the remainder. What is 10 1? 10,00:18:45
+efpappp,151,student,"1 is 30. No, 10",00:18:59
+efpappp,152,tutor,"1. Oh, it's 20,",00:19:04
+efpappp,153,student,"20. No, just add",00:19:06
+efpappp,154,tutor,"1 to 10. 11? Yes, 11.",00:19:08
+efpappp,155,student,So,00:19:14
+efpappp,156,tutor,"you put that here. You put that here, okay?",00:19:15
+efpappp,157,tutor,"Just 11, 11. So the answer is 115 pence. All right?",00:19:19
+efpappp,158,student,"All right, yeah.",00:19:24
+efpappp,159,tutor,And how do we write this in pounds? Can you convert it to pounds and write it here?,00:19:26
+efpappp,160,student,"Of course. [unclear] So first of all, I need to put that And then I need to put one— [unclear]",00:19:32
+efpappp,161,tutor,Yes.,00:19:51
+efpappp,162,student,One five.,00:19:53
+efpappp,163,tutor,Very good. So what is the total of 6 20ps?,00:19:57
+efpappp,164,student,6 20pence.,00:20:02
+efpappp,165,tutor,"Yeah, what is the total? What did we get? Wait, so like...",00:20:04
+efpappp,166,tutor,One pound.,00:20:11
+efpappp,167,student,So that's the two pounds and... [unclear],00:20:13
+efpappp,168,tutor,"No, one pound twenty. One pound twenty. Six twentypence is the same as one pound twenty. Okay?",00:20:21
+efpappp,169,student,Okay.,00:20:29
+efpappp,170,tutor,And what is the total of 23 fivepence? What did we get? 23 fivepence.,00:20:30
+efpappp,171,student,It's £1.15.,00:20:39
+efpappp,172,tutor,"Yeah. So which would give you the greatest amount? [unclear] Which is greater? Can you circle the greatest amount? You're supposed to circle it. Very correct. This is how you answer this question, okay?",00:20:43
+efpappp,173,tutor,Okay. What do you think about this question? Did it give you a tough time?,00:21:04
+efpappp,174,student,Yes.,00:21:08
+efpappp,175,tutor,Okay. Will you be able to answer a similar question now?,00:21:10
+efpappp,176,student,Yeah.,00:21:16
+efpappp,177,tutor,"Oh, that's [UNCLEAR]. Very good. Okay. So that is the end of this topic, comparing decimal numbers. How would you rate this lesson out of 5? [Speaker:Background] No, I have more questions.",00:21:18
+efpappp,178,tutor,Can we give it a 5?,00:21:31
+efpappp,179,student,4.9.,00:21:38
+efpappp,180,tutor,Okay. What happened to the remaining 0.01? [unclear],00:21:39
+efpappp,181,student,"Okay, right. Good. Okay. So, your friend says 5.6 is greater than 5.78. Is that correct?",00:21:49
+efpappp,182,student,No.,00:22:14
+efpappp,183,tutor,No? Why not?,00:22:14
+efpappp,184,student,Because that's half— [unclear],00:22:16
+efpappp,185,tutor,Because that's 5.78 tenths And that's a pound. And that's 5 pounds. And that's 4 pounds. And that's 6 pence. And 60 pence. And that's 70. And 78 pence. So that's more.,00:22:19
+efpappp,186,tutor,"Very good, very good. Thank you for correcting him. Shall we move to a new topic now?",00:22:36
+efpappp,187,student,Yes.,00:22:42
+efpappp,188,tutor,Any guesses what the next lesson would be?,00:22:43
+efpappp,189,student,[unclear] I don't know.,00:22:45
+efpappp,190,tutor,"Okay, let's see. Multiplying and dividing numbers by 10 and 100. Okay?",00:22:52
+efpappp,191,student,Okay.,00:23:01
+efpappp,192,tutor,Right. Have you done this at school recently?,00:23:03
+efpappp,193,student,"Uh, I can't remember.",00:23:09
+efpappp,194,tutor,Okay. What happens when you multiply a number by a 10? [unclear],00:23:12
+efpappp,195,tutor,"Multiply a number by 10. Yeah, what happens when you multiply a number by 10?",00:23:20
+efpappp,196,student,I don't know.,00:23:31
+efpappp,197,tutor,Does it get bigger or does it get smaller?,00:23:31
+efpappp,198,student,Smaller.,00:23:37
+efpappp,199,tutor,When you multiply—,00:23:38
+efpappp,200,student,"Oh no, bigger, bigger, bigger, bigger. Yes, for example, if you have 2 times 10, what is the answer?",00:23:39
+efpappp,201,student,20.,00:23:47
+efpappp,202,tutor,20. So can you see the 2 has become a 20? It has gotten bigger.,00:23:49
+efpappp,203,student,Yeah.,00:23:56
+efpappp,204,tutor,"Yes, when you multiply a number by a 10, it gets 10 times bigger, okay?",00:23:57
+efpappp,205,student,Okay.,00:24:04
+efpappp,206,tutor,And what happens when you divide it?,00:24:05
+efpappp,207,student,Divide it. [unclear],00:24:09
+efpappp,208,tutor,"What happens? Yeah, what happens when you divide?",00:24:11
+efpappp,209,student,It would be 2.,00:24:17
+efpappp,210,tutor,Does it get smaller or does it get bigger?,00:24:23
+efpappp,211,student,Smaller.,00:24:27
+efpappp,212,tutor,"Yes, exactly. So can you try the first question?",00:24:28
+efpappp,213,background,Learning,00:24:37
+efpappp,214,background,complete the [unclear] calculation.,00:24:38
+efpappp,215,tutor,"Okay, so now, uh, so wait, I need to do something quickly. Okay. [unclear]",00:24:41
+efpappp,216,tutor,"I need to put here this... [unclear] Okay, I will do now. So Your friend says 5.6 is greater than 5.78 is correct? No. Why not? Because that half. Because that's 5.78. 10. It's completely 6. Oh my God! I know. [unclear]",00:25:10
+efpappp,217,tutor,What would the answer be?,00:26:09
+efpappp,218,student,"Okay, I will do it now. So 2 times 2, 9, 10, 6.",00:26:11
+efpappp,219,background,"See, he got 10 times slower.",00:26:22
+efpappp,220,student,But that's the point.,00:26:25
+efpappp,221,tutor,Okay. [unclear],00:26:28
+efpappp,222,student,One.,00:26:34
+efpappp,223,tutor,"Oh, I got it, I got it, I got it!",00:26:36
+efpappp,224,student,Is two. Is,00:26:45
+efpappp,225,student,I need to work it out first.,00:26:55
+efpappp,226,tutor,Okay. Did it help?,00:26:58
+efpappp,227,student,"Yeah, a little bit.",00:27:03
+efpappp,228,tutor,Okay. So what do you think the answer is? Any ideas so far?,00:27:06
+efpappp,229,student,I think the answer is [UNCLEAR].,00:27:14
+efpappp,230,tutor,"First of all, I need to [UNCLEAR]. [Speaker:Callum] I can't work it out. Okay, just put an answer. We'll see if you're right. Just give it a try. It's okay if you go wrong.",00:27:19
+efpappp,231,student,So I need to put the... the... maybe... [unclear],00:27:53
+efpappp,232,tutor,Okay. So let me tell you. Shall I teach you an easy method to work this out?,00:28:06
+efpappp,233,student,Yes.,00:28:12
+efpappp,234,tutor,"So we have 2.06 times 100, is it?",00:28:13
+efpappp,235,student,[unclear],00:28:17
+efpappp,236,tutor,"Yes. So we will take a place value chart like this and write our question. 2.06, okay?",00:28:18
+efpappp,237,student,Yeah.,00:28:28
+efpappp,238,tutor,"So as you move to the left, look at this, as you move to the left, what's happening to the columns? Are they getting bigger or smaller? [Speaker:Callum]...bigger. [Speaker:Tutor] Yes, exactly. So whenever you want to multiply something, you need to move to your left side. Okay, so we need to move to the left. We need to move to the left. So let us now times this by 100. How many zeros does the 100 have?",00:28:29
+efpappp,239,tutor,Okay.,00:29:08
+efpappp,240,student,[unclear],00:29:10
+efpappp,241,tutor,"Two zeros. So you need to move all your digits two places to the right— to the left, sorry. You need to move your digits to the left. So 2 goes here. Okay?",00:29:11
+efpappp,242,student,Okay.,00:29:24
+efpappp,243,tutor,0 goes here. This 6 goes here. You need to move your digits two places to the left side. So your answer is 206. Is this clear to you?,00:29:26
+efpappp,244,student,Yeah.,00:29:44
+efpappp,245,tutor,Can you explain what we did here?,00:29:46
+efpappp,246,student,"Um, I can't explain really, but I know— oh my God, how did I— didn't know the [UNCLEAR]. So, [unclear]",00:29:50
+efpappp,247,tutor,"First, you need to type in your number. And then, because it's multiplying by 100, you need to move your digits 2 places to the left side. You need to move them all 2 places to the left.",00:30:02
+efpappp,248,student,Okay.,00:30:20
+efpappp,249,tutor,Okay?,00:30:22
+efpappp,250,student,Okay.,00:30:23
+efpappp,251,tutor,And then it becomes 260. Let me clear this off and give you a question. So we have 3.5. Can you times this by a 10 and tell me what the answer is? How would you times this by a 10? Maybe you need to use the place value chart.,00:30:24
+efpappp,252,student,"Okay, so I have [unclear] Okay. How many places would you move it? [unclear]",00:30:52
+efpappp,253,tutor,"How many places you move? Yeah, okay, you move it one place.",00:31:05
+efpappp,254,student,Yeah.,00:31:12
+efpappp,255,tutor,Now would you place the 3 here?,00:31:12
+efpappp,256,student,And what?,00:31:16
+efpappp,257,tutor,"The 3 goes here, okay? And the 3 that was in the 1's column. We'll now move into the tens column. Okay?",00:31:18
+efpappp,258,student,Okay.,00:31:30
+efpappp,259,tutor,Where will you move the 5 to?,00:31:31
+efpappp,260,student,The 5— [unclear],00:31:34
+efpappp,261,tutor,5 is in the tens column. Where will you move the 5?,00:31:39
+efpappp,262,student,Same column.,00:31:46
+efpappp,263,tutor,"No, you need to move all the digits One place to the left. So the 5 will move here.",00:31:48
+efpappp,264,tutor,"Oh, okay. Oh, I already worked it out. [unclear] So 35 is the answer. Okay?",00:31:57
+efpappp,265,student,[unclear],00:32:03
+efpappp,266,tutor,"Yes, very good. It's correct. Okay. Can you answer this one?",00:32:03
+efpappp,267,student,Yes.,00:32:16
+efpappp,268,tutor,For your learning.,00:32:16
+efpappp,269,tutor,Write the number. [unclear],00:32:22
+efpappp,270,student,"Okay, so...",00:32:26
+efpappp,271,tutor,Divide the number by 10.,00:32:35
+efpappp,272,student,First you need to write the number and then divide it by 10.,00:32:38
+efpappp,273,tutor,"So I need to write the numbers, okay. What is the number shown? [unclear]",00:32:44
+efpappp,274,student,41.2.,00:33:02
+efpappp,275,tutor,"And then you divide this by 10, what happens?",00:33:03
+efpappp,276,student,"If I divide by 10, uh... I think I got it. [unclear]",00:33:06
+efpappp,277,student,So the 10 is completely gone. [unclear],00:33:22
+efpappp,278,tutor,I don't know.,00:33:56
+efpappp,279,student,"Okay, so let us use the place value chart. So here, write the number 41.2. Okay?",00:33:58
+efpappp,280,tutor,"Okay. 3.1.2. So when you multiply it, what direction did we move our numbers?",00:34:06
+efpappp,281,student,"Uh, wait. [unclear]",00:34:17
+efpappp,282,tutor,"When you multiply, you put it to the—",00:34:20
+efpappp,283,student,To that.,00:34:23
+efpappp,284,tutor,"Yeah. Because when multiplying, we moved it to the left. So now that you want to divide, you need to move to the right side. When it comes to division. Okay?",00:34:25
+efpappp,285,student,Okay.,00:34:39
+efpappp,286,tutor,"So when you divide it by 10, how many places would you move your number? [unclear]",00:34:40
+efpappp,287,student,"Um, 1?",00:34:48
+efpappp,288,tutor,"10 has 1 zero, so you need to move all your digits one place to the right. So 4 is in the tens column. You need to move it to the ones column. Column. Can you put the 4 here?",00:34:52
+efpappp,289,student,"The 4, yeah, yeah.",00:35:08
+efpappp,290,tutor,"Yes. Right. The 1 is in the ones column, so where would you move it? Where would you move the 1? Very good, you move it to the tens. Where would you move the 2 that's already in the tens column? Here. So what is your answer?",00:35:12
+efpappp,291,student,"Uh, 4.12. So that has to be your answer, 4.12. You need to move each digit one place to the right-hand side. Okay?",00:35:33
+efpappp,292,student,Okay.,00:35:46
+efpappp,293,tutor,"Right. So here, can you try this? [unclear] This is the ones column. Can you see this?",00:35:47
+efpappp,294,student,"Yeah. But that's [UNCLEAR]. [Speaker:Tutor] And this is the tens, and this is the hundreds. Okay?",00:36:05
+efpappp,295,student,Okay.,00:36:11
+efpappp,296,tutor,So what is the number represented here?,00:36:12
+efpappp,297,student,12.,00:36:16
+efpappp,298,tutor,No. Look at this. They are the tens. How do we write 3 tens?,00:36:21
+efpappp,299,student,"I got it, I got it, I got it. I got it. Here, 0.3.",00:36:27
+efpappp,300,tutor,"Okay. And when you divide it, you need to move them one place to the right. So what happens when you move to the right? 0.3 becomes 0.03. Very good. Just like that, can you try this?",00:36:38
+efpappp,301,student,Yeah. That's [UNCLEAR].,00:36:55
+efpappp,302,tutor,Like everyone? Okay.,00:36:58
+efpappp,303,student,So that's 2.1.,00:37:01
+efpappp,304,tutor,"Okay, and then you divide it, what happens?",00:37:07
+efpappp,305,student,"When I divide it, it's 0.21.",00:37:12
+efpappp,306,tutor,"Excellent. This is how this works, okay? Right. Can you see this one?",00:37:18
+efpappp,307,student,Yeah.,00:37:29
+efpappp,308,tutor,"Yeah, so this is called— what do you call this chart?",00:37:30
+efpappp,309,student,"Uh, we did yesterday. [unclear] Place value chart.",00:37:34
+efpappp,310,tutor,"Okay, so what do you know about the Gattic-No chart?",00:37:44
+efpappp,311,student,That you're gonna circle,00:37:49
+efpappp,312,student,"A number that is closer to a number like this. 4 is with 6 and [UNCLEAR]. [Speaker:TUTOR] Okay, right. So can you see 2 numbers are already shaded?",00:37:52
+efpappp,313,student,Yeah.,00:38:11
+efpappp,314,tutor,What is already shaded? 3 and?,00:38:13
+efpappp,315,student,3.6.,00:38:15
+efpappp,316,tutor,"Yes, can you type the number here?",00:38:17
+efpappp,317,student,Okay. 3.6.,00:38:20
+efpappp,318,tutor,"So we are going to multiply 3.6 by 10, okay?",00:38:27
+efpappp,319,student,Okay.,00:38:32
+efpappp,320,tutor,How can you use the [unclear] chart to find the answer? How can you multiply this by 10?,00:38:33
+efpappp,321,student,Easy.,00:38:41
+efpappp,322,tutor,Okay. [unclear] How did you get 36?,00:38:44
+efpappp,323,student,"Because that's times 10, and times 10 is like that the number goes one times up.",00:38:54
+efpappp,324,tutor,"Yes. So 3 goes to 30, 0.6 goes to 6. Very good.",00:39:02
+efpappp,325,student,We do 3.6 times 100 now.,00:39:10
+efpappp,326,tutor,0.6 [unclear],00:39:14
+efpappp,327,student,300.,00:39:15
+efpappp,328,tutor,"Easy. Okay, this time, how many places did you go up?",00:39:19
+efpappp,329,student,"2, and by 0.660 and 2.",00:39:30
+efpappp,330,tutor,Yeah. Why did you move it 2 places up?,00:39:35
+efpappp,331,student,"Because that's 3 times [UNCLEAR]. 3 times [UNCLEAR] is 300, so you need to do that.",00:39:41
+efpappp,332,tutor,"Yes, you need 300 has 2 zeros, so you need to move up twice. Okay?",00:39:49
+efpappp,333,student,Okay.,00:39:57
+efpappp,334,tutor,Can you try the next one?,00:39:58
+efpappp,335,tutor,"Okay, so can you mark 125 on the Getting to Know chart first?",00:40:01
+efpappp,336,student,What?,00:40:10
+efpappp,337,tutor,Can you mark 125 on the Getting to Know chart?,00:40:12
+efpappp,338,student,"Uh, yeah. [unclear] Okay, I'll do it. 1, 2, 3. So the 1, 2, 3. [unclear]",00:40:16
+efpappp,339,tutor,"And that's wrong. Boom. Okay. 100, 2, 20, 5. 5, okay. And if you divide it by 10, what's your answer?",00:40:29
+efpappp,340,student,Okay. I'll do— [unclear],00:40:46
+efpappp,341,tutor,"How's that going to do that? So when you multiply, you moved up, isn't it?",00:41:06
+efpappp,342,student,Ah.,00:41:15
+efpappp,343,tutor,"So when you divide, you need to do the opposite. You need to move down.",00:41:15
+efpappp,344,student,Down. Okay. So that's 125 times 10.,00:41:21
+efpappp,345,tutor,Divided by 10.,00:41:27
+efpappp,346,student,"Oh yeah, divide by 10.",00:41:29
+efpappp,347,tutor,So you need to move your numbers one place down. So 100 becomes a 10. You need to move them all one place down. Okay? What happens to the 20?,00:41:31
+efpappp,348,tutor,But why?,00:41:46
+efpappp,349,student,"By the 20, so by the 20 will go to the 2s.",00:41:49
+efpappp,350,tutor,Very good. What happens to the 5?,00:41:55
+efpappp,351,student,The 5 is gonna go to the 0.5.,00:41:59
+efpappp,352,tutor,"Okay, so what is the answer now? 10, 2, 0.5, what is it together? 12.5.",00:42:03
+efpappp,353,tutor,So what did you understand? What— to which direction do you move if you want to divide? [unclear],00:42:16
+efpappp,354,student,I forgot it.,00:42:22
+efpappp,355,tutor,You need to move your numbers down. Okay?,00:42:35
+efpappp,356,student,Yeah. Okay.,00:42:38
+efpappp,357,tutor,"If you want to multiply, where do you move your numbers? [unclear]",00:42:40
+efpappp,358,student,Why am I going to move my numbers by the E?,00:42:45
+efpappp,359,tutor,"You need to put them up if you want to times it, okay?",00:42:53
+efpappp,360,student,Okay.,00:42:56
+efpappp,361,tutor,Great. Can you do the next one? 125 divided by 100.,00:42:57
+efpappp,362,student,Okay. The first one needs to be 0. Can you move each digit down? How many places do you move down? [unclear],00:43:05
+efpappp,363,student,2.,00:43:23
+efpappp,364,tutor,"Yes. So if you move this 2 places down, where would you put them? One here, okay. [unclear]",00:43:24
+efpappp,365,tutor,"What do you think about this lesson, Callum?",00:43:46
+efpappp,366,student,Good.,00:43:51
+efpappp,367,tutor,What did you learn from this one here?,00:43:53
+efpappp,368,student,Yes.,00:43:59
+efpappp,369,tutor,What did you learn from here?,00:43:59
+efpappp,370,student,I learned Can you give me a summary? [unclear] This thingy here. [unclear],00:44:01
+efpappp,371,tutor,"You get it, the chart? Okay.",00:44:12
+efpappp,372,student,"Yeah, with that too.",00:44:14
+efpappp,373,tutor,What do you do when multiplying and what do you do when dividing? Can you tell me?,00:44:18
+efpappp,374,student,I'm what?,00:44:23
+efpappp,375,tutor,What do you do when multiplying?,00:44:25
+efpappp,376,student,"I'm multiplying. You need to put the number down. No, we need to move them up when you multiply.",00:44:27
+efpappp,377,student,"Oh yeah, but divide— [unclear]",00:44:41
+efpappp,378,tutor,"Yeah, dividing, you move them down. Okay?",00:44:43
+efpappp,379,student,Okay.,00:44:48
+efpappp,380,tutor,"Okay, so that is it for today. Shall we continue the next one next week?",00:44:48
+efpappp,381,tutor,Yes.,00:44:55
+efpappp,382,background,Complete the quiz before you go. Bye.,00:44:56
+efpappp,383,student,Bye.,00:45:00
+efpappp,384,tutor,Take care.,00:45:01

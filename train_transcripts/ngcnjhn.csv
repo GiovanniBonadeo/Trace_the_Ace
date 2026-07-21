@@ -1,0 +1,358 @@
+session_id,utterance_id,role,content,timestamp
+ngcnjhn,0,tutor,Hello?,00:00:00
+ngcnjhn,1,student,Hello.,00:00:02
+ngcnjhn,2,tutor,Huh?,00:00:04
+ngcnjhn,3,student,"Hi, how are you doing? [Speaker:Tutor]... Hello?",00:00:05
+ngcnjhn,4,student,Hello? Can you hear me?,00:00:18
+ngcnjhn,5,tutor,"Uh, you're [UNCLEAR].",00:00:21
+ngcnjhn,6,student,"Um, alright, one minute. How about now?",00:00:23
+ngcnjhn,7,tutor,"Uh, yeah, you're back.",00:00:35
+ngcnjhn,8,student,"Oh, okay, great. So, uh, yeah, how are you doing?",00:00:39
+ngcnjhn,9,tutor,"Good, you?",00:00:44
+ngcnjhn,10,student,How are you doing?,00:00:45
+ngcnjhn,11,tutor,"Good, you?",00:00:47
+ngcnjhn,12,student,"I'm doing good, [UNCLEAR]. Thank you for asking. So yeah, how was your day so far?",00:00:49
+ngcnjhn,13,tutor,"Good. Yeah, good, pretty much.",00:00:55
+ngcnjhn,14,student,So did you have maths today?,00:00:57
+ngcnjhn,15,tutor,Sorry?,00:01:01
+ngcnjhn,16,student,Did you have maths today? Did you have math sessions today?,00:01:02
+ngcnjhn,17,student,"Oh yeah, we did.",00:01:09
+ngcnjhn,18,tutor,"Okay, okay. All right, how was it?",00:01:11
+ngcnjhn,19,student,[unclear],00:01:13
+ngcnjhn,20,tutor,"Oh, it was okay. All right then, so shall we start? Yeah?",00:01:13
+ngcnjhn,21,student,"Yeah, sure.",00:01:19
+ngcnjhn,22,tutor,"Yeah, yeah, by the way, I'm Evander.",00:01:20
+ngcnjhn,23,student,"Oh, hi.",00:01:23
+ngcnjhn,24,tutor,"Hi, yeah, so yeah, let's start. Yeah, so what is the lesson for today?",00:01:24
+ngcnjhn,25,student,So it says today you will learn about rounding numbers to the nearest tenth.,00:01:34
+ngcnjhn,26,tutor,All right. Can you try the learning goal?,00:01:39
+ngcnjhn,27,student,Okay. [unclear],00:01:42
+ngcnjhn,28,tutor,"All right. Can you try the prior learning as well? Okay. So, yeah, that's a good try.",00:01:51
+ngcnjhn,29,tutor,"Gideon, and now let's move on to the next slide, yeah?",00:02:05
+ngcnjhn,30,student,Okay.,00:02:08
+ngcnjhn,31,tutor,"Yeah, so can you read this out?",00:02:10
+ngcnjhn,32,student,"Yeah. [unclear] Sorry, I can't.",00:02:16
+ngcnjhn,33,tutor,"Yeah, let's read this first, yeah? So they say before we round to the nearest tenth, we need to recap how we round whole numbers. Yeah, the whole numbers. So let's try rounding up whole numbers first, and then let's move on to the tenths. Yeah, the decimal places. So here— yeah, how did you get 669?",00:02:24
+ngcnjhn,34,student,"So first I saw there was 1, 2, 3, 4, 5, 6 hundredths, and then there was 1 tenth, and there was 2, 4, 6 ones.",00:02:48
+ngcnjhn,35,tutor,"Okay, can you try out the B-pack?",00:02:57
+ngcnjhn,36,student,How did you get that answer?,00:03:10
+ngcnjhn,37,tutor,"Well, I saw my, um, the original one was, um, wait, hang on one second. Well, I— oh wait, sorry. Oh, for God's sake. [unclear]",00:03:13
+ngcnjhn,38,tutor,"Okay. Yeah, how did you get that now?",00:03:34
+ngcnjhn,39,student,"I saw 616. If it's anything over 5, you need to round it, but if it's 4 or below, you need to leave it as it is.",00:03:37
+ngcnjhn,40,tutor,Okay.,00:03:48
+ngcnjhn,41,student,Yeah. And how about the feedback? [unclear],00:03:49
+ngcnjhn,42,student,"Yeah, how do you get this answer?",00:04:06
+ngcnjhn,43,tutor,"When it said round to the nearest number, did it mean 620 to the nearest number, or did it mean 616 to",00:04:09
+ngcnjhn,44,student,616. This room.,00:04:17
+ngcnjhn,45,tutor,Okay.,00:04:20
+ngcnjhn,46,student,Okay.,00:04:20
+ngcnjhn,47,tutor,Hold on a second.,00:04:22
+ngcnjhn,48,student,Mm-hmm.,00:04:26
+ngcnjhn,49,tutor,How did you get that?,00:04:28
+ngcnjhn,50,student,"Well, I know— oh, I just realized. [unclear] Yeah.",00:04:30
+ngcnjhn,51,student,"So I saw, um, 600, um— [unclear]",00:04:44
+ngcnjhn,52,tutor,You've made it to 700. Where do you think? [unclear],00:04:49
+ngcnjhn,53,tutor,"Yeah, just let me know the answer, I'll type it for you. Yeah, that's good. Okay, how did you get 700?",00:05:21
+ngcnjhn,54,student,"Because if it's more than 5, you round up.",00:05:29
+ngcnjhn,55,tutor,"Okay, so which number did you look at? [unclear]",00:05:34
+ngcnjhn,56,student,I looked at the 6s in the hundred column.,00:05:38
+ngcnjhn,57,tutor,"You looked at this number. So since this was greater than 5, you're saying that it's 700, yeah?",00:05:42
+ngcnjhn,58,student,"Yeah, it rounds up to the nearest hundred, it's 700, because if it's over 5, you have to round up to the nearest hundred.",00:05:50
+ngcnjhn,59,tutor,"Okay, so here, if you just apply that same concept, to this number, wouldn't your answer change for this?",00:05:58
+ngcnjhn,60,student,No.,00:06:09
+ngcnjhn,61,tutor,Oh.,00:06:11
+ngcnjhn,62,student,No.,00:06:12
+ngcnjhn,63,tutor,OK.,00:06:13
+ngcnjhn,64,student,"Because it says round to the nearest 10. 10 can't round up. It can't round to the nearest 10 because you have to leave it as it can be. But then if you're rounding up 10, then you have to round up the ones, which is 6, because if it's 5 or more, you have to do [UNCLEAR]. You have to round up, so that's why I put 620.",00:06:14
+ngcnjhn,65,tutor,"Okay, okay. So here, Gideon, I hope that I'm pronouncing your name correctly. Yeah, right?",00:06:35
+ngcnjhn,66,student,Huh?,00:06:47
+ngcnjhn,67,tutor,"I'm pronouncing your name correctly, right?",00:06:48
+ngcnjhn,68,student,Say again? [unclear],00:06:51
+ngcnjhn,69,tutor,"Gideon, okay, sorry about that. Yeah. So here, if they say round to the nearest 10, so which is the tens value in this? What is the tens value in this number? [unclear] Yeah, 1. So what do we see is we just draw a line like this and we check at the next number. Alright?",00:06:52
+ngcnjhn,70,student,Yeah.,00:07:17
+ngcnjhn,71,tutor,"So since this is greater than 5, we say we Add 1 to the tens column here. We increase it by 1. Yeah, so it became 620. So here, if you apply the same concept to this number, so here, which is the hundreds value? What is the hundreds value? [unclear]",00:07:17
+ngcnjhn,72,student,6.,00:07:46
+ngcnjhn,73,tutor,So what are we going to do is we're going to draw a line next to it and we are going to look at this number. Yeah.,00:07:47
+ngcnjhn,74,tutor,"So, is that number greater than 5 or less than 5?",00:07:53
+ngcnjhn,75,student,10%.,00:07:57
+ngcnjhn,76,background,Greater than 5? 16 is greater than 5?,00:07:58
+ngcnjhn,77,student,"No, we don't actually look at 16. We just look at this number, only this number. Yeah?",00:08:01
+ngcnjhn,78,background,"Yeah, it's greater than 5, yes.",00:08:08
+ngcnjhn,79,student,Only one. You don't consider it to be 16. It's just this one.,00:08:11
+ngcnjhn,80,background,"Yeah, yeah. Is it greater than 5?",00:08:15
+ngcnjhn,81,student,"Oh, yeah, yeah. No, it's not greater than 5.",00:08:18
+ngcnjhn,82,background,Greater than 5. So what do we do to the 16?,00:08:20
+ngcnjhn,83,tutor,You have to leave it as it is.,00:08:23
+ngcnjhn,84,student,"Yeah, so when 616 is rounded to the nearest hundred, what do we get then?",00:08:25
+ngcnjhn,85,tutor,600.,00:08:32
+ngcnjhn,86,student,"600, yeah, alright. So I'll just read this part. So they say if the value of the columns to the right of the amount we are rounding to is 5 or more, we round up, and if it is less than 5, we round down. You actually know that, so yeah, let's move on.",00:08:33
+ngcnjhn,87,tutor,OK. So what do they say here in this green box?,00:08:51
+ngcnjhn,88,student,"When rounding numbers to one decimal place, we are rounding to the nearest tenth. We need to look at the hundredths column to see if we need to round up or down.",00:08:55
+ngcnjhn,89,tutor,"OK. So earlier we looked at whole numbers, and here we're going to look at decimal places. So one decimal place means that we are rounding to the nearest tenth.",00:09:06
+ngcnjhn,90,student,What?,00:09:18
+ngcnjhn,91,student,"The nearest— sorry, the nearest tenth is—",00:09:19
+ngcnjhn,92,tutor,Yeah.,00:09:21
+ngcnjhn,93,student,2.,00:09:22
+ngcnjhn,94,tutor,The nearest tenth.,00:09:23
+ngcnjhn,95,student,"So we need to look at hundredths column. Yeah, to see if it's greater than 5 or if it's less than—",00:09:24
+ngcnjhn,96,student,"No, it's less than 5.",00:09:31
+ngcnjhn,97,student,It's less than 5.,00:09:32
+ngcnjhn,98,student,Yeah.,00:09:34
+ngcnjhn,99,student,So you have to leave as is.,00:09:34
+ngcnjhn,100,tutor,"Yeah, so let's— can you quickly type the number that you get here?",00:09:36
+ngcnjhn,101,student,Yes.,00:09:40
+ngcnjhn,102,student,"Oh, wait, sorry. [unclear]",00:09:55
+ngcnjhn,103,tutor,"All right. Yeah, now can you try out the B part?",00:09:57
+ngcnjhn,104,tutor,"It'll be there. No, wait, sorry, sorry. No, no, no, sorry, I messed up. It'll be like somewhere around there. [unclear]",00:10:14
+ngcnjhn,105,student,"Here, you mean?",00:10:33
+ngcnjhn,106,tutor,Yep.,00:10:34
+ngcnjhn,107,student,"Yeah, like, yeah, somewhere in this kind of area, yeah.",00:10:35
+ngcnjhn,108,tutor,"Okay, why do you think so?",00:10:39
+ngcnjhn,109,student,"Because the number we have, currently have, is 6.24. It's not going over, it's not going over 6.2 because it's 6.24. So it's not going to, so it's not going past that. So if it's 4, it's around this kind of area.",00:10:41
+ngcnjhn,110,tutor,"Okay, so what do you think would be the middle number? If this is 6.2 and if this is 6.3, what would be the middle one? 6 point... 6 point... 6.05? No, 6 point something. [unclear]",00:10:58
+ngcnjhn,111,tutor,"Yeah, 6 point something. What is that something?",00:11:17
+ngcnjhn,112,student,The 2? 6.25? No.,00:11:23
+ngcnjhn,113,tutor,"Yeah, yeah, it is 6.25.",00:11:28
+ngcnjhn,114,tutor,"Oh, so the answer is there then?",00:11:33
+ngcnjhn,115,student,"Yeah, answer is here because this would be 6.21, 22, and then it goes like that until 6.3. Alright? So this is where it would be. So now can you try out the [UNCLEAR]? [unclear]",00:11:37
+ngcnjhn,116,tutor,"Okay, why do you think that we need to round up to 6.3?",00:11:57
+ngcnjhn,117,student,"Because if the value of the hundredths digit is 5 or more, we round up.",00:12:12
+ngcnjhn,118,tutor,"Mm-hmm. So we have 6.24, and what is the hundredths value?",00:12:17
+ngcnjhn,119,tutor,"Oh wait, you meant— did you mean 6.25 rounded up or 6.24?",00:12:23
+ngcnjhn,120,student,"Yeah, 6.24.",00:12:27
+ngcnjhn,121,tutor,"Oh no, it stays the same.",00:12:30
+ngcnjhn,122,student,So then can you change your answer here? Yeah?,00:12:32
+ngcnjhn,123,student,"Yeah, and based on this graph, if you could see, since 6.24 lies this side, it goes to this number. So any number that lies in this range would round up to this number. Yeah, this is round down, and this is about rounding up on this side. [unclear]",00:12:49
+ngcnjhn,124,tutor,"Yeah, so here they say if the value of the hundreds digit is 5 or more, we round up. If it is less than 5, we round down. And now let's move on to the phoneme. Yeah, I'll do the phoneme part and you could do your turn by yourself. Yeah.",00:13:12
+ngcnjhn,125,student,Okay.,00:13:29
+ngcnjhn,126,tutor,So they say let's round this number to the nearest tenth. The number shown is— so what is the number shown here?,00:13:30
+ngcnjhn,127,student,"Okay, um, [unclear]",00:13:37
+ngcnjhn,128,tutor,It's 6 point— yeah.,00:13:40
+ngcnjhn,129,student,"Yeah, it's 6.77.",00:13:51
+ngcnjhn,130,tutor,Not 77.,00:13:54
+ngcnjhn,131,student,"Oh, sorry. [unclear]",00:13:58
+ngcnjhn,132,tutor,"Okay, they're saying that to look at the hundredths column to see if you are rounding up or down. Yeah, it's rounding up. And there are now 10 tens, yeah, in the tens column. So we need to regroup the tens.",00:14:07
+ngcnjhn,133,tutor,No.,00:14:25
+ngcnjhn,134,student,"Yeah. [unclear] Let's just read that. Let's read that and then let's go ahead with that, yeah? So here they say there are now 10 tens in the tens column. So we need to regroup the tens. The number rounded to the nearest tenth is. [unclear]",00:14:27
+ngcnjhn,135,tutor,"Wait, sorry?",00:14:46
+ngcnjhn,136,student,"Yeah, you know, the number up to the nearest 10 is 7.00.",00:14:47
+ngcnjhn,137,tutor,"Yeah, 7. We could say 7, yeah. Yeah, so now can you try out the yarning by yourself?",00:14:55
+ngcnjhn,138,student,"So, from 1 to 12. [unclear] [Speaker:Gideon]...6 times 2, 12 times 1, 4 times 3.",00:15:05
+ngcnjhn,139,tutor,Alright.,00:15:42
+ngcnjhn,140,student,"Hold up, how did you get 6 over here?",00:15:43
+ngcnjhn,141,tutor,"Well, if it's under 5, if it's under 4, you have to leave it as it is, and 6.10 is under 6.4, so you need to leave it as it is.",00:15:47
+ngcnjhn,142,student,"Yeah, my question is, so here we have 2.01, right? So how do you get 6.1 here? Oh, I thought that was just like you can pick any random number. [unclear]",00:15:59
+ngcnjhn,143,tutor,What is that noise in your background? It keeps snapping.,00:16:21
+ngcnjhn,144,student,Can you hear it now?,00:16:26
+ngcnjhn,145,tutor,Yeah.,00:16:29
+ngcnjhn,146,tutor,"Hold up, let me just— How about now? Can you hear something like that? [unclear]",00:16:31
+ngcnjhn,147,student,"No, no, I don't.",00:16:46
+ngcnjhn,148,tutor,"Okay, I'm sorry about that.",00:16:48
+ngcnjhn,149,student,"Yes, fine.",00:16:51
+ngcnjhn,150,tutor,"Yeah, so here, yeah, good try. Good job, actually. Fantastic job, Gideon. So it's correct. And yeah, so let me actually give you a praise card. Awesome effort. And yeah, let's move on to the YouTube slide. Yeah, can you try out the impact?",00:16:52
+ngcnjhn,151,student,[unclear] [unclear],00:17:13
+ngcnjhn,152,student,Well...,00:18:16
+ngcnjhn,153,tutor,What about the B part?,00:18:43
+ngcnjhn,154,student,This one?,00:18:45
+ngcnjhn,155,tutor,Oh. [unclear],00:18:48
+ngcnjhn,156,student,"Alright, so here, yeah, it's 4.49, and rounded to the nearest tenth is 4.5. So which number did you look at to round to the nearest tenth?",00:18:55
+ngcnjhn,157,student,"I looked at the hundreds, I saw it was a 9, and if it's over 5, then you have to round to the next one, which would have been 4.50.",00:19:05
+ngcnjhn,158,tutor,"Alright, so here, and it's 3.2, yeah, that's correct. So in this, where would the 3.2 turn like? [unclear]",00:19:18
+ngcnjhn,159,student,"3.2 line was there. Where would it lie in this number line? 3.22, this number.",00:19:29
+ngcnjhn,160,tutor,"Oh, okay, sorry.",00:19:40
+ngcnjhn,161,student,"Yeah, it would lie there. And yeah, how do you get this answer? [unclear]",00:19:45
+ngcnjhn,162,tutor,"Because the one over here would be 3.21, and that would be 3.22.",00:19:51
+ngcnjhn,163,student,"Yeah, this one, 2402. How do you get this as your seed path?",00:20:00
+ngcnjhn,164,tutor,"I looked at the 2 and I already knew that would— that wouldn't round up to the nearest number, and the same for the 0 as well, it wouldn't round up. And so the same as all the other numbers there, they wouldn't round up either.",00:20:06
+ngcnjhn,165,student,"Okay, so here when When it actually doesn't round up, what we do is that it's going to round down, right? So we just forget about what's there after that point here. [unclear]",00:20:20
+ngcnjhn,166,student,Alright.,00:20:38
+ngcnjhn,167,tutor,"Since it's a 0 here, we'll be looking at the hundreds column here. Since this is less than 5, we just keep it as it is. So we just forget about this and we just write only this number. Okay? It's 24 then. And yeah, this is correct. Excellent focus again and good job done. Now let's move on to the [unclear] for the 5. Can you try this?",00:20:39
+ngcnjhn,168,student,Okay. [unclear],00:21:15
+ngcnjhn,169,student,"Oh, okay.",00:21:23
+ngcnjhn,170,student,Tara says that 35 has more factors than 12 because 35 is bigger than [UNCLEAR].,00:21:50
+ngcnjhn,171,tutor,"All right, so how did you come up with that answer?",00:22:10
+ngcnjhn,172,student,"Oh wait, sorry, I meant... [unclear] [unclear]",00:22:14
+ngcnjhn,173,tutor,"Alright, so how did you come up with that concept?",00:22:55
+ngcnjhn,174,student,"Because any— because, um—",00:22:58
+ngcnjhn,175,student,"In order to round it up, since [unclear] says she's seen a tennis racket that she wants to buy. She says it costs £24.50 to the nearest 10p. That means the 50p has to be— the max it can be is £24.54.",00:23:01
+ngcnjhn,176,tutor,Mm-hmm. Okay. So how do you get 53 here and 52?,00:23:28
+ngcnjhn,177,student,[unclear],00:23:32
+ngcnjhn,178,tutor,"Wait, sorry?",00:23:34
+ngcnjhn,179,student,So how do you get this answer here? So I understand that it needs to be—,00:23:37
+ngcnjhn,180,tutor,Yeah.,00:23:43
+ngcnjhn,181,student,"Yeah. I found out that answer because the answer had to be within 24.51, 24.52. 24.52, 24.53, 24.54, because if it was 24.55, then it would go over and it would be rounded to the nearest hundred.",00:23:44
+ngcnjhn,182,tutor,"Okay, so this answer is correct. Yeah, and that's actually great thinking. And there's actually another answer as well. What about [UNCLEAR]?",00:24:08
+ngcnjhn,183,tutor,What about you? It's gone silent. I don't know whether you're talking or not.,00:24:21
+ngcnjhn,184,student,Can you hear me now? Hi. Can you hear me?,00:24:26
+ngcnjhn,185,tutor,"I'm sorry, I can't hear anything you're saying right now.",00:24:31
+ngcnjhn,186,student,Can you hear me?,00:24:34
+ngcnjhn,187,tutor,"No, I can't hear you. [unclear]",00:24:36
+ngcnjhn,188,student,Okay. Okay.,00:24:45
+ngcnjhn,189,tutor,"Yeah, go on. [unclear]",00:24:47
+ngcnjhn,190,student,"I can see the blue bubble around your character, which means you're talking.",00:25:08
+ngcnjhn,191,tutor,But I can't— I still can't hear you.,00:25:12
+ngcnjhn,192,student,"Um, now? How about now?",00:25:15
+ngcnjhn,193,tutor,"No, I can't hear a thing you're saying. [unclear]",00:25:19
+ngcnjhn,194,student,"Yeah, the volume's turned up.",00:25:24
+ngcnjhn,195,tutor,Okay.,00:25:29
+ngcnjhn,196,student,"Uh, no, I've tried it. It doesn't work. I turned the controls up and I, uh, yeah, it doesn't work. None of these work.",00:25:36
+ngcnjhn,197,tutor,Can you try refreshing from—,00:25:45
+ngcnjhn,198,student,"No, I still can't hear you.",00:25:48
+ngcnjhn,199,tutor,From your end? Can you— refreshing— can you try refreshing from your—,00:25:50
+ngcnjhn,200,student,"Oh, okay, yeah, yeah, yeah. Uh, how's— come on.",00:25:57
+ngcnjhn,201,student,Hello?,00:26:10
+ngcnjhn,202,tutor,"Hello, can you hear me now?",00:26:11
+ngcnjhn,203,student,I can't hear you.,00:26:12
+ngcnjhn,204,tutor,"Oh yeah, I can hear you now. Okay, alright. Yeah, so this answer is perfectly correct. So there's also another thinking to it. Let me just bring that answer up. What about 24.45?",00:26:13
+ngcnjhn,205,student,"No, that can't— yeah, that can be a possible answer.",00:26:30
+ngcnjhn,206,tutor,"Yeah. And 24.56 as well, isn't it?",00:26:33
+ngcnjhn,207,student,[unclear],00:26:37
+ngcnjhn,208,tutor,"Oh, sorry, 4.46. Yeah?",00:26:39
+ngcnjhn,209,student,"Yeah, that could also be possible.",00:26:42
+ngcnjhn,210,tutor,"Yeah. Yeah. So it could be until 4.9, yeah? 24.49, yeah.",00:26:43
+ngcnjhn,211,student,Yeah.,00:26:49
+ngcnjhn,212,tutor,"All right. So yeah, that's it with this lesson. So what do you think about this lesson?",00:26:49
+ngcnjhn,213,student,"Yeah, it was okay.",00:26:55
+ngcnjhn,214,tutor,Okay. And anything new that you learned in this lesson? Anything specific?,00:26:57
+ngcnjhn,215,tutor,Anything new?,00:27:02
+ngcnjhn,216,student,"No, not really.",00:27:04
+ngcnjhn,217,tutor,"Okay. Yeah, so should we move on to the next lesson then, yeah?",00:27:05
+ngcnjhn,218,student,Yeah. [unclear],00:27:11
+ngcnjhn,219,tutor,"Alright, what is your second lesson for the day? [Speaker:Gideon]...estimating the positions of tenths, hundredths on a number line.",00:27:11
+ngcnjhn,220,tutor,Yeah. Can you try out the learning goals? [unclear],00:27:34
+ngcnjhn,221,student,Yeah.,00:27:57
+ngcnjhn,222,tutor,So how did you get that answer?,00:27:57
+ngcnjhn,223,student,"So I counted 1.1, 1.2, 1.3, 1.4, 1.5, 1.6.",00:28:00
+ngcnjhn,224,tutor,"Okay, so yeah, let's move on to the— you do slide directly. Yeah, can you try out the A part?",00:28:08
+ngcnjhn,225,student,"Okay, [UNCLEAR].",00:28:18
+ngcnjhn,226,tutor,"Oops, sorry, one second. Wait one sec. [unclear]",00:28:20
+ngcnjhn,227,student,"Oh wait, no, sorry, sorry. [unclear]",00:28:38
+ngcnjhn,228,tutor,One sec. [Speaker:Gideon]...does have actors. I guess who knows that. [unclear],00:28:41
+ngcnjhn,229,student,Those are all the factors. There are only two factors.,00:28:57
+ngcnjhn,230,student,Yeah. So... [unclear],00:29:14
+ngcnjhn,231,tutor,Okay. Yeah?,00:29:36
+ngcnjhn,232,student,Yeah.,00:29:38
+ngcnjhn,233,tutor,"OK. So yeah, this answer is correct, 8.2. And how did you manage to get this answer?",00:29:39
+ngcnjhn,234,student,"So I saw that it was going to 8.6, but I noticed it was going a little bit beyond 8.6, so I assumed it was 8.61.",00:29:46
+ngcnjhn,235,tutor,"Yeah, that's perfectly correct. And yeah, this one, so you're seeing that 0.16 lies here.",00:29:57
+ngcnjhn,236,student,Yeah.,00:30:06
+ngcnjhn,237,tutor,That's correct. And what do you think about the middle number? What should that be?,00:30:06
+ngcnjhn,238,student,That was 0.6— 0.5.,00:30:12
+ngcnjhn,239,tutor,"0.5, and this is 0.6, and this is 0.69. Yeah. Awesome job, Gideon, and awesome effort as well. So now let's move on to the [UNCLEAR].",00:30:15
+ngcnjhn,240,tutor,"Yeah, can you try this out?",00:30:31
+ngcnjhn,241,student,"Okay, one second. [unclear] Okay. Oops. [unclear]",00:30:34
+ngcnjhn,242,tutor,Okay. So why do you think that it's 1.6 kilograms?,00:31:05
+ngcnjhn,243,student,"Well, because I know that in the middle, that would be 1.5 kilograms because that's halfway. So that would be 1.5, so I can see that it's a little bit over, so I knew that would most likely be 1.6. 1.6 kg.",00:31:09
+ngcnjhn,244,tutor,"Okay, you're saying that this would be 1.5, yeah?",00:31:26
+ngcnjhn,245,student,"Yeah, and then the next one, because there was a fair distance between them, I was assuming the one with the arrow would be 1.6 kg.",00:31:30
+ngcnjhn,246,tutor,"Yeah, but if you just maybe take like this, okay?",00:31:39
+ngcnjhn,247,tutor,So...,00:31:51
+ngcnjhn,248,student,Yes.,00:31:52
+ngcnjhn,249,tutor,And we have this line here. Okay?,00:31:53
+ngcnjhn,250,student,Yeah.,00:31:58
+ngcnjhn,251,tutor,"So... So... The alpha point is actually 1. Okay? So how it comes is that, so from here to here, it's 1 kilogram, and from here to here, it's 1. Kilogram, and here to here it's another one. Yeah? So with that in mind, what do you think would the other point act? Yeah, it would be 1.2 kilograms. So what do you think about this lesson?",00:31:58
+ngcnjhn,252,student,[unclear],00:32:35
+ngcnjhn,253,tutor,"Yeah, it wasn't that hard. Yeah. Yeah. Actually managed to do all the questions here. Yes, now let's move on to the next one. What is your third lesson for the day?",00:32:37
+ngcnjhn,254,student,"Multiplying and dividing numbers and decimals by 100 and 1,000.",00:32:54
+ngcnjhn,255,tutor,"By 10 and 100, yeah?",00:33:01
+ngcnjhn,256,student,Yes.,00:33:04
+ngcnjhn,257,tutor,"Okay, can you try out the learning goal?",00:33:05
+ngcnjhn,258,student,"Okay, one second. [unclear]",00:33:08
+ngcnjhn,259,tutor,"Okay, how did you manage to get 2060?",00:33:29
+ngcnjhn,260,student,"Yeah, so I know that in 100 there's 2 zeros, which means that's 2 digits. So I moved the numbers up each 2 digits and left the decimal point where it was.",00:33:35
+ngcnjhn,261,tutor,"Okay, can you try out the prior learning as well?",00:33:51
+ngcnjhn,262,student,Okay. [unclear],00:33:55
+ngcnjhn,263,student,"Oh wait, I see. Wait, wait. I see what's going on there. Oh. [unclear] And then that would be...",00:34:14
+ngcnjhn,264,student,4 times 2 and 8 times 1. 4 money factors. [unclear],00:34:30
+ngcnjhn,265,tutor,So 42 with a 2 over 10.,00:34:36
+ngcnjhn,266,student,"OK, so how did you get 4 of— what do you call this— 42.2 here?",00:34:54
+ngcnjhn,267,tutor,"So what I did basically was I saw that there was a whole, but then there was a fraction, 2/10, so I knew that the whole would be the remainder because if you go over the limit then you would get a whole along with your fraction, so I knew The 42 in there were the wholes of 2 over 10.",00:35:02
+ngcnjhn,268,tutor,Hold up. So you mean that you just brought one of this to this side here? So we have got 4 tens here. That's correct. And how many ones do we have here? [unclear],00:35:26
+ngcnjhn,269,student,"Yeah, 1 one.",00:35:44
+ngcnjhn,270,tutor,And how many How many tens do we have here?,00:35:45
+ngcnjhn,271,student,2 over 10.,00:35:48
+ngcnjhn,272,tutor,"Yeah, 2 tens. So what would the number be then?",00:35:50
+ngcnjhn,273,student,42 with 2 over 10. [unclear],00:35:53
+ngcnjhn,274,tutor,"OK. So, yeah, shall we move on to the next slide then? That's a good try.",00:35:58
+ngcnjhn,275,student,Yeah.,00:36:03
+ngcnjhn,276,tutor,Let's— yeah. So what does this say here?,00:36:04
+ngcnjhn,277,background,"Before multiplying and dividing decimals by 10, 100, or 1,000, 10 or 100, we need to understand the value of the digits change depending on its position.",00:36:09
+ngcnjhn,278,student,"So here we have buns, okay? And this is the tens value. What does it mean by tens? That means that it's 10 times smaller. And then we have a hundred. So from this tens to hundreds, it's another 10 times smaller. Okay?",00:36:18
+ngcnjhn,279,tutor,"Yeah, we can [UNCLEAR].",00:36:36
+ngcnjhn,280,tutor,"Uh, you mean at school?",00:36:40
+ngcnjhn,281,student,"Yeah, we already did this. We did this like a few months ago, I think.",00:36:42
+ngcnjhn,282,tutor,"Oh, uh, hold up, let me check on that.",00:36:48
+ngcnjhn,283,student,I think it was in 2024-ish. [unclear] I'm not on a laptop. [unclear],00:36:52
+ngcnjhn,284,tutor,"Okay, so we need to actually start from where we stopped. Alright?",00:37:19
+ngcnjhn,285,student,Why do we need to restart?,00:37:24
+ngcnjhn,286,tutor,I think we stopped— they've stopped here.,00:37:26
+ngcnjhn,287,tutor,"Oh, okay.",00:37:30
+ngcnjhn,288,student,"No, hold on, hold on. [unclear]",00:37:32
+ngcnjhn,289,student,"Okay, so since I think they've done it like a very long time back, so let's actually do it again.",00:37:56
+ngcnjhn,290,tutor,"Oh yeah, we did.",00:38:03
+ngcnjhn,291,student,"Yeah, yeah. Let's actually do it again.",00:38:04
+ngcnjhn,292,tutor,"No, it wasn't that long ago. I still remember pretty much everything of that.",00:38:06
+ngcnjhn,293,student,"Yeah, yeah, but it's not actually in my records, so let's do it again, yeah? There might be a small change. I think so. So this is 1 whole, okay? And here we have the B part. And they've given us— what is this? Is this tenths? [unclear]",00:38:09
+ngcnjhn,294,student,3 tenths.,00:38:29
+ngcnjhn,295,tutor,"Yeah, 3 tenths. And that gets divided by a tenth. So what would it be then?",00:38:31
+ngcnjhn,296,student,3 tenths divided by 1 tenth.,00:38:39
+ngcnjhn,297,tutor,"Yeah, so, okay, before that, how would you write 3 tenths in terms of a decimal?",00:38:42
+ngcnjhn,298,student,"In terms of— 3 tenths would be 0.30, wouldn't it?",00:38:48
+ngcnjhn,299,tutor,"Yeah, 3. We actually read the numbers after the decimal point as it is. So if it's 3 and a 0, we read it as 3-0. Yeah? And what would it be when you divide 0.3 by a 10?",00:38:55
+ngcnjhn,300,student,"So if you divide it, you can see there's one 0, which means—",00:39:10
+ngcnjhn,301,student,"If you were timesing it, you would move the numbers left, but when you're dividing, you need to move them right, and the decimal point stays the same. So if you're moving it once to the right, your answer would be 0.03.",00:39:15
+ngcnjhn,302,tutor,"Great job. And now let's do the C part. Yeah, can you do it for me?",00:39:33
+ngcnjhn,303,student,OK.,00:39:38
+ngcnjhn,304,student,"Wait, just to check, this is... the numbers representing... [unclear] 200 and 1/10, right?",00:39:43
+ngcnjhn,305,tutor,I'm back.,00:39:56
+ngcnjhn,306,student,200 and 1/10.,00:39:57
+ngcnjhn,307,tutor,You mean 201.,00:39:58
+ngcnjhn,308,student,"You mean this one, yeah?",00:40:00
+ngcnjhn,309,tutor,"Yeah, that's what I'm saying, 201, right?",00:40:02
+ngcnjhn,310,student,"No, this is a whole. In the front, it's a 1. So how would you write a 1? If you see, the number here would be 1 point. Since that we've got—",00:40:05
+ngcnjhn,311,tutor,"Oh, OK. OK. OK. Yeah. Yeah. OK. [unclear] That number there would be— oops.",00:40:15
+ngcnjhn,312,student,OK. How did you get a full there?,00:40:31
+ngcnjhn,313,student,"So I already knew that the ones, there was two of them. Oh wait, sorry. Oh, I already, I already realized I messed up. So I knew that because there was two holes and then there was one tent.",00:40:33
+ngcnjhn,314,tutor,Mm-hmm.,00:40:50
+ngcnjhn,315,tutor,What will you get when you divide it by 10?,00:41:01
+ngcnjhn,316,student,Um... [unclear],00:41:04
+ngcnjhn,317,tutor,You can't hear anything?,00:41:08
+ngcnjhn,318,student,"Excuse me, one sec.",00:41:16
+ngcnjhn,319,tutor,"Yeah, sure. [unclear]",00:41:19
+ngcnjhn,320,student,"Yes, she can hear me.",00:41:25
+ngcnjhn,321,tutor,"Okay, excuse me, uh, could you quickly refresh your page? Oh wait, no, she can't. Oh, you— she can— she can't— you can't hear her. You just have to— [unclear]",00:41:36
+ngcnjhn,322,student,"Yes, okay, I can hear you.",00:41:55
+ngcnjhn,323,tutor,"Sorry, I was just helping my friend with his microphone because he was—",00:42:09
+ngcnjhn,324,student,"Yeah, that's right.",00:42:16
+ngcnjhn,325,student,"Yeah, that's fine, no worries.",00:42:17
+ngcnjhn,326,tutor,"Okay, so divided by 10, the answer would be... [unclear]",00:42:20
+ngcnjhn,327,student,"Yeah, 0.21.",00:42:27
+ngcnjhn,328,tutor,"Yeah, good job there, and let me actually give you a praise card. Awesome effort, and great explanation as well. And yeah. So can you read this?",00:42:37
+ngcnjhn,329,student,"The Gagneto place value chart is useful when multiplying and dividing numbers by 10, 100, or 1,000. [unclear]",00:42:49
+ngcnjhn,330,tutor,"Okay, so are you aware of the Gattegill chart?",00:43:00
+ngcnjhn,331,student,"No, I haven't heard of it before.",00:43:04
+ngcnjhn,332,tutor,That's fine. So when,00:43:09
+ngcnjhn,333,tutor,"Let's actually get to know that then, yeah? So, here, so this is the [unclear] chart, okay? So what does it say is that, now let's take this number 3, alright? So if we multiply 3 by 10, what would the number be? What would we get?",00:43:12
+ngcnjhn,334,student,You would get 3 remainder 1.,00:43:35
+ngcnjhn,335,tutor,"No, when you multiply 3 by 10, 3 times 10 is 30.",00:43:37
+ngcnjhn,336,tutor,"30. So basically, to multiply, you go like this. Okay? So you get a 30. When multiplying, you get— you move up on the chart. You move up for multiplication. All right?",00:43:43
+ngcnjhn,337,student,Yeah.,00:43:57
+ngcnjhn,338,tutor,"Yeah. And similarly, what do you get when you divide 30 by 10?",00:43:57
+ngcnjhn,339,student,"Uh, you— 3.",00:44:02
+ngcnjhn,340,tutor,"Yeah. So basically,",00:44:04
+ngcnjhn,341,tutor,"When dividing, you go down. Okay?",00:44:06
+ngcnjhn,342,student,Yeah.,00:44:09
+ngcnjhn,343,tutor,"So it's like this chart works in tens. So when you actually multiply 4 by 10, you get a 40. And then when you multiply 40 by a 10, it becomes a 400. And then going down, when you divide a 5,000 by a 10, it becomes a 500. And when you divide 500 by a 10, it becomes a 50. So it's like that. Yeah?",00:44:11
+ngcnjhn,344,student,Yeah.,00:44:31
+ngcnjhn,345,tutor,"So let's actually continue this the next week. So how was the session today, Gideon?",00:44:31
+ngcnjhn,346,student,"Oh, it was okay.",00:44:38
+ngcnjhn,347,tutor,"Okay. And yeah, so make sure to just work out the questions that you'll be directed to once the session is ended. Yeah?",00:44:41
+ngcnjhn,348,student,[unclear] Is it over?,00:44:51
+ngcnjhn,349,tutor,"Yeah, it's actually over. And so I hope you have a great day ahead. I mean a weekend ahead.",00:44:54
+ngcnjhn,350,student,Don't we still have like 15 minutes?,00:45:01
+ngcnjhn,351,tutor,"No, it's actually the 45 minutes is over.",00:45:06
+ngcnjhn,352,student,"Oh, 45 minutes.",00:45:10
+ngcnjhn,353,tutor,Yeah. OK. So let's actually continue the next week then. So have a great day ahead and bye.,00:45:12
+ngcnjhn,354,student,Bye.,00:45:20
+ngcnjhn,355,tutor,Thank you for joining.,00:45:21
+ngcnjhn,356,student,Bye.,00:45:22

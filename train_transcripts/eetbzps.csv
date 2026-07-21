@@ -1,0 +1,306 @@
+session_id,utterance_id,role,content,timestamp
+eetbzps,0,tutor,Hello.,00:00:00
+eetbzps,1,background,[unclear],00:00:00
+eetbzps,2,student,Hello.,00:00:01
+eetbzps,3,tutor,Hello. Can you hear me?,00:00:02
+eetbzps,4,student,Yeah.,00:00:04
+eetbzps,5,tutor,"Okay, Ronan. Welcome back to another session at EduQuest Tutoring. How are you today?",00:00:06
+eetbzps,6,student,Good.,00:00:12
+eetbzps,7,tutor,Good. Doing good. How was your day so far? Good.,00:00:13
+eetbzps,8,tutor,"Good. Okay, nice to hear that. Right, so Ronan, in the previous session we were learning about rounding numbers to the nearest 10,000 and 100,000. Do you remember anything about the last session?",00:00:19
+eetbzps,9,student,Yeah.,00:00:33
+eetbzps,10,tutor,"Okay, so let me ask you a few questions. What is the purpose of rounding numbers?",00:00:35
+eetbzps,11,student,"So, [unclear]",00:00:41
+eetbzps,12,student,"Like, you have 15,000, round to the nearest 10,000 is 20,000.",00:00:45
+eetbzps,13,tutor,"Oh, yeah, okay. So, more than that, we could take this example. Can you answer that question for me? I mean, we have completed a lot of slides, but just a quick recap. Answer this question. [unclear]",00:00:55
+eetbzps,14,student,"Uh, no. That's not the correct answer. It's supposed to round off to the nearest 10,000. Oh, round off to nearest 10,000. What is the 10,000s digit here? [unclear]",00:01:11
+eetbzps,15,tutor,"5. To round off to 10,000s, you have to look at the thousands digit. So it's less than 5. So what is the answer here?",00:01:29
+eetbzps,16,student,"[unclear] 250,000.",00:01:37
+eetbzps,17,tutor,"Yes, so 250,000. So what you just did now is you made a complex number with so many digits easier to read or identify. So do you understand? This number has so many digits That number, you made it simple by rounding off. That's the purpose of rounding, to make numbers simple. Do you understand?",00:01:45
+eetbzps,18,student,Okay.,00:02:11
+eetbzps,19,tutor,"Mm-hmm. Okay, and then we talked about the multiples of rounding because we needed— we learned about two methods. One of that is using the number line to round off numbers. So do you remember how to use the number line?",00:02:12
+eetbzps,20,student,"Uh, no.",00:02:31
+eetbzps,21,tutor,"You don't remember. Okay, so in that— in this case, uh, you'd be given a particular number and if you're asked to round off that number to the nearest thousand, you have to choose the multiples of thousand for this number. In this case, 56,163 lies between 56,000 and 57,000. That means the gap from here to here is just 1,000. Do you understand?",00:02:33
+eetbzps,22,student,Yeah. [unclear],00:03:02
+eetbzps,23,tutor,"So, after you have done that, you have to mark this number on this number line. So 56,500 is here. 163 is over here. Okay? Now that you have marked, the next step is to look at which end the marked point is closer to. Closer to. So here it is actually closer to this end, which is 56,000. So we can say this number rounded to nearest thousand is 56,000, because in the number line, after we marked that number, it is closer to 56,000. Do you understand?",00:03:02
+eetbzps,24,student,Mm-hmm.,00:03:45
+eetbzps,25,tutor,"So example, if it was like, uh, let's say 50—",00:03:46
+eetbzps,26,tutor,"Uh, let's say it was 763, so it could be somewhere over here, 763. And in this case, it is closer to 57,000. Your answer would differ based on the digits and the place you mark it. Okay, so that's how a number line works for rounding numbers. Other than that, you may already know the usual method, looking at the digits, whether it's more than 5 or less than 5. That method you already know, right?",00:03:50
+eetbzps,27,student,Yeah.,00:04:22
+eetbzps,28,tutor,"Okay, so I want you to answer this question, only this row. Again, I want you to use which one? Which method do you prefer, number line or [unclear] method?",00:04:23
+eetbzps,29,student,Number line.,00:04:37
+eetbzps,30,tutor,"Number line? No, I didn't ask you to do that one. I asked you to do the top one. [unclear]",00:04:40
+eetbzps,31,tutor,"Number 9 is actually a lot of work, but its values is easier, but and your answer is wrong. What makes you say that is your correct answer? How did you arrive at the answer?",00:04:53
+eetbzps,32,tutor,"It's like this, Ronan. Now this is the number that is given here. To round off to thousands, this is the thousands, yeah? To round off to thousands, you have to look at the previous place value. To round off to ten thousand, this is the ten thousand, you have to look at thousands. To round off hundred thousand, this is the hundred thousand, you have to look at ten thousands. You always have to look at the previous place value digit to round it up or to round down. Do you understand?",00:05:13
+eetbzps,33,student,[unclear],00:05:41
+eetbzps,34,tutor,"So 782,009 rounded to nearest thousand. This is your thousand and your previous digit is zero. So would you round this up or down?",00:05:41
+eetbzps,35,student,Down.,00:05:53
+eetbzps,36,tutor,Down. So what is your correct answer here?,00:05:55
+eetbzps,37,student,"Hmm, yeah.",00:05:58
+eetbzps,38,tutor,"Rounding down doesn't mean that you make this number as zero. Rounding down means you keep it as it is. Do you understand? You keep the digit as it is and replace the rest of the place values with zeros. That is the main point. The students, uh, think rounding down means you have to decrease the number, make it zero. No, rounding down is keeping the digit as it is. So your answer there must be 700 and— yes?",00:06:04
+eetbzps,39,student,"782,000.",00:06:34
+eetbzps,40,tutor,"Thousand. No, not the 9. No, not the 9. I said from here onwards everything becomes 0. We are rounding to thousands, so everything else is 0. Only changes may happen or changes may not happen to this place value. Do you understand?",00:06:37
+eetbzps,41,student,Mm-hmm.,00:06:55
+eetbzps,42,tutor,"So give the correct answer. 782,000. Okay, now Ronan, to round off to nearest 10,000, you will look at which place value?",00:06:56
+eetbzps,43,student,"[unclear] 1,000.",00:07:08
+eetbzps,44,tutor,"1,000. That means the thousands. You have to look at the thousands, and your digit is less than 5. So would you round it up or down?",00:07:11
+eetbzps,45,student,Down.,00:07:20
+eetbzps,46,tutor,Down. So give the correct answer. Let's see. [unclear] No. Look here.,00:07:21
+eetbzps,47,tutor,"This is your place value. Sorry. This is the place value to round off, 10,000. This is the place value to look at. Okay? So, as said, you are rounding it down. So would you make any changes to the 10,000th digit?",00:07:36
+eetbzps,48,student,No.,00:07:57
+eetbzps,49,tutor,"No. So from here onwards, everything is zero. Here onwards. In the previous question, the limit was here onwards. Now the limit is from 10,000 onwards, everything is placeholder. So what is the answer? [unclear]",00:07:58
+eetbzps,50,tutor,700? Yes. Now do you think you're getting a hold of it?,00:08:15
+eetbzps,51,student,Mm-hmm.,00:08:20
+eetbzps,52,tutor,"Okay, so Ronan, to round off hundred thousands, you will look at which digit?",00:08:22
+eetbzps,53,student,"Uh, 10,000.",00:08:30
+eetbzps,54,tutor,"10,000, it's more than 5, so will you make any changes to that 100,000 digit?",00:08:32
+eetbzps,55,student,Yeah.,00:08:39
+eetbzps,56,tutor,What will you do then?,00:08:40
+eetbzps,57,student,"Uh, you round it to the nearest—",00:08:42
+eetbzps,58,tutor,7 becomes?,00:08:44
+eetbzps,59,student,8.,00:08:46
+eetbzps,60,tutor,"8. And from here onward, what happens to the rest of the digits?",00:08:47
+eetbzps,61,student,Becomes a 0.,00:08:51
+eetbzps,62,tutor,"0, very good. I'm really glad you have grasped the concept. So the rounding is an easy concept, but it has very small minute rules that, you know, changes the answer. I hope you understood by now how it works. Any questions?",00:08:52
+eetbzps,63,student,"Yeah, no, no.",00:09:16
+eetbzps,64,tutor,No questions or yes questions?,00:09:17
+eetbzps,65,student,No questions.,00:09:21
+eetbzps,66,tutor,"Okay, so in this case, you wrote 300,000 here. That was correct. Fill the bottom row as well. Okay, why do you think the answer is same in all of these instances?",00:09:23
+eetbzps,67,student,Because all of the numbers,00:09:57
+eetbzps,68,student,"That go before 9s. So you're gonna have to round it up. And from the nearest 1,000, it goes up, it goes up. So 10.",00:10:00
+eetbzps,69,tutor,Yes.,00:10:16
+eetbzps,70,student,"And then keeps on going up and then [UNCLEAR]. [Speaker:Tutor] Yeah, it keeps on increasing. Exactly. So in this case, to round up to 10,000, you'd have to look into the 9s digit. So when you increase this, this will increase. Since the maximum digit you can place in a place value column is 9, it would cause an increase here, constant increase here, eventually leading to 3 and making all of these zeros. Likewise, the same happens in all of the instances. Okay, so thank you for your explanation. Do you have any questions to ask me? Is there anything confusing you?",00:10:16
+eetbzps,71,student,No.,00:10:52
+eetbzps,72,tutor,"Okay, so what is one key learning you learned, or let's say a misunderstanding you had about rounding and it got cleared today? What do you think it is?",00:10:53
+eetbzps,73,student,You're gonna have to look at the number before the number—,00:11:04
+eetbzps,74,tutor,"Yes, you have to not look at that column they are asking you to round, you have to look at the previous one. And also, after you have looked at that, you have to place zeros from the non-words. That is important. Okay? Moving on, read this place. [unclear] [Speaker:Ronan]...Hockey is thinking of a number. When rounded to the nearest 10,000, it's 350,000. When rounded to the nearest 100,000, it is 400,000. Can you— [UNCLEAR]",00:11:08
+eetbzps,75,tutor,Yes.,00:11:44
+eetbzps,76,student,Can you give a number he could be thinking of?,00:11:46
+eetbzps,77,tutor,Yes.,00:11:52
+eetbzps,78,background,"So, did you understand the question?",00:11:53
+eetbzps,79,student,No.,00:11:55
+eetbzps,80,background,"Okay, right. You don't understand the question. Right. Let's say x is the number. We don't know what that number is. Okay. When rounded to ten thousands, he ends up in what number?",00:11:57
+eetbzps,81,student,Ten thousand... [unclear],00:12:19
+eetbzps,82,student,"350,000.",00:12:22
+eetbzps,83,tutor,"350,000. Okay, right. So now you tell me, to round off to ten thousands, which digit do you— I mean, which place value determines the rounding of ten thousand? [unclear] To round off the ten thousands, you looked at which place value?",00:12:24
+eetbzps,84,student,One thousand.,00:12:46
+eetbzps,85,tutor,"Not one thousand. Okay, so here also, this place value, this digit, had made this number as 5. Can you understand?",00:12:48
+eetbzps,86,student,Mm-hmm.,00:13:00
+eetbzps,87,tutor,"That is the information in that first point. Second point, you have to understand that when rounded off to— this is the R, by the way— when rounded off to 100,000, your unknown number ends up in what number?",00:13:02
+eetbzps,88,student,"Uh, 400,000.",00:13:20
+eetbzps,89,tutor,"400,000. Now you tell me, to round off to 100,000, which place value do you look at? Yes, that means, Ronan, uh, this one. This digit here has made this number as 4. Okay, now all you have to do is you can put zeros for the rest of these place values. Find some digits that could round off, that could fit both of these criteria. That means you have to find digits for ten thousands as well as thousands that could round off to 400,000.",00:13:22
+eetbzps,90,student,[unclear],00:14:08
+eetbzps,91,tutor,"Any digit? First of all, be mindful about 350,000. To round up to 5 here, what digit is most suitable in the thousands place? [unclear]",00:14:09
+eetbzps,92,tutor,"Huh? To round up to 5 here, what digit is most suitable in the thousands place?",00:14:19
+eetbzps,93,student,Uh... 5 to 9.,00:14:28
+eetbzps,94,tutor,Um... What number are you going to give there?,00:14:33
+eetbzps,95,student,6.,00:14:36
+eetbzps,96,student,"No, 6.",00:14:41
+eetbzps,97,tutor,"It's like this. Let's take an approach like this, step by step. Can you give any number that would round off to 350,000 when rounded to nearest 10,000? Any number.",00:14:43
+eetbzps,98,student,"[unclear] 10,000 for 50,000.",00:15:02
+eetbzps,99,tutor,"When you round off to nearest 10,000, It must give you 350,000. [unclear]",00:15:07
+eetbzps,100,tutor,"So I said you have to be mindful about the thousands digit. What number can you give that rounds off to nearest— I mean, you must have many digits because this is the rounded off answer. The rounded off number is 350,000. It's already made simple. So you have to find a complex number that would have rounded off to 350,000. Can you understand?",00:15:16
+eetbzps,101,student,No. [unclear],00:15:37
+eetbzps,102,tutor,"We're doing the inverse here. In this case, Ronan, if I suddenly ask you, give me a number that rounds up to 250,000, you can— you have to be mindful about this digit because when round nearest 10,000, so this is the digit that rounds up to 10,000.",00:15:38
+eetbzps,103,tutor,"So that's why I would say this answer. This number can round off to nearest 10,000. We're just doing the opposite here. All of these cases, what you were doing is, so far, you were given a complex number and it was— you made it simple. Here, the simple number is given. You're doing— you have to find the complex number. Do you understand?",00:16:04
+eetbzps,104,student,"Mm-hmm. [unclear] So any number that could round off to 350,000. Can you tell me any number? [Speaker:Ronan]...for [UNCLEAR]",00:16:28
+eetbzps,105,tutor,"4,000? No, not like that. Example, let's go in a smaller context, okay? Then we'll move to that. If I ask you, Ronan, give me any number that could round off to 250, then you can say answers like 254. So when rounded to nearest tens, okay, when rounded to nearest tens, it must give you 250. That means you have to be mindful about the ones place value. This is the tens. Now you are looking at the previous, so you have to be careful about that. If you give me 254, the number will round down to 250. If you give me answers like, uh, let's say 249, this 9 is more than 5. This will round up to 250. Do you understand? Both of these answers are correct. This is rounding up to 250 because your ones digit is more than 5. This one is rounding down to 250 because your ones digit is less than 5. Any case, both of them are rounding to 250. Do you understand?",00:16:40
+eetbzps,106,student,Mm-hmm.,00:17:53
+eetbzps,107,tutor,"Now my question is, I'm already giving you the number 350,000. Find numbers here, any number, a long number like this one that rounds you up or down to 350,000. I can say example. Yeah, yeah, that's correct. This one will round down or up to 350,000?",00:17:54
+eetbzps,108,student,Down.,00:18:18
+eetbzps,109,background,"Down, it will round down to 350,000. Very good. So now, your question on 354,000.",00:18:19
+eetbzps,110,tutor,"Yes, your answer is correct. You have found a number only for the first case. Now you have to see whether it's suitable to round off to 400,000. Do you think this number rounds off to 400,000 when rounded to 100,000?",00:18:28
+eetbzps,111,student,Uh... [unclear],00:18:46
+eetbzps,112,tutor,"Which digit should you look at? Now, your first criteria is always...",00:18:47
+eetbzps,113,student,Thousands.,00:18:52
+eetbzps,114,tutor,"Yes, 10,000 is 5, so obviously 3 will round off to?",00:18:53
+eetbzps,115,student,[unclear],00:18:57
+eetbzps,116,tutor,"400,400. So now we have to go step by step for such problems. That's what I want to tell you, Ronan. You found the answer for the first one and you have to check whether it's suitable for the second one. If it is not suitable, you can change a few digits and make it suitable. Okay? I appreciate your effort for that, for trying it out. Any questions?",00:18:58
+eetbzps,117,student,No.,00:19:19
+eetbzps,118,tutor,"It was nothing much but just doing the inverse of what you were doing, opposite. Simple number was given, you had to figure out a complex number. That's all. Okay, so, uh, that's all from this lesson. Do you have anything to ask me before I take you to the next? [unclear]",00:19:21
+eetbzps,119,student,No.,00:19:39
+eetbzps,120,tutor,"No, that's a big no. Okay, right, uh, we have like 25 minutes. Comparing numbers with up to 2 decimal places is your next lesson. Have you done comparison between decimal places before?",00:19:41
+eetbzps,121,student,I don't think so.,00:19:55
+eetbzps,122,tutor,"You haven't? Oh, right. You haven't done any questions like this, comparisons, you know, using these symbols?",00:19:57
+eetbzps,123,student,We have.,00:20:10
+eetbzps,124,tutor,You have? Then give a try to the learning goal question. [unclear],00:20:12
+eetbzps,125,tutor,"Bring your pointer tool to the screen and— yeah, okay, Leo is your answer. Are you sure? Final answer, right?",00:20:24
+eetbzps,126,student,Yeah.,00:20:31
+eetbzps,127,tutor,"Okay, so you're supposed to find who jumped the furthest. What makes you say it's Leo?",00:20:32
+eetbzps,128,student,Because 2.5 is just technically,00:20:40
+eetbzps,129,student,2.50.,00:20:43
+eetbzps,130,tutor,2.50. Then 2.9 is technically 2.90. What do you think of that?,00:20:46
+eetbzps,131,student,"I didn't see [UNCLEAR]. [Speaker:TUTOR] Okay, you have to see everything. Don't hurry up, there's enough time. It's not an exam for you to rush. Oh, Callahan. Okay, Daphne. Okay, anyways, yeah, your answer is correct. Right, spelling mistakes.",00:20:51
+eetbzps,132,tutor,"Observe every detail, Ronan, okay?",00:21:09
+eetbzps,133,student,Mm-hmm.,00:21:13
+eetbzps,134,tutor,"Right. Try this one. [unclear] Oh, you said you haven't done, but you're doing the answers correctly. I'm really glad. How do you know this one is greater than this one?",00:21:16
+eetbzps,135,student,"No, we have done it. You have done it. Okay, why do you think 1.31 is greater than 0.62?",00:21:33
+eetbzps,136,student,"Because 0.62 isn't— it don't have any whole numbers, but 1.31, it has the whole number.",00:21:40
+eetbzps,137,tutor,"Exactly. So the ones number, the ones column has 1 here and it has no ones here, 0. Right, so in this Lesson 7, you will compare decimal numbers using an understanding of the place value. Place values, and also we'll understand the value of digits after the decimal point.",00:21:52
+eetbzps,138,background,"tens, hundreds, thousands. You have heard of those? No? And then you will understand how to compare numbers when they have different number of decimal places. Before I move on to the next slide, tell me, do you know what is the meaning of decimal place? [unclear] Not— I'm not talking about the place value. Now in this case, here, see, decimal place values. How do you call this place value?",00:22:11
+eetbzps,139,student,One-tenth.,00:22:38
+eetbzps,140,tutor,"Tenth, yeah, tenths. And the next one is?",00:22:40
+eetbzps,141,student,Hundredths.,00:22:44
+eetbzps,142,tutor,"Hundredths, yeah. So likewise, THS. But I'm asking you, do you know what is decimal place?",00:22:46
+eetbzps,143,student,"I'm pretty sure, yeah.",00:22:57
+eetbzps,144,tutor,"Okay, what do you mean by that? Now if I ask you, if I give a number, 1.32, I ask you how many decimal places does this have? [unclear]",00:22:59
+eetbzps,145,student,3.,00:23:16
+eetbzps,146,tutor,What's your answer for this? If I ask you how many decimal places does this number have?,00:23:17
+eetbzps,147,student,3. 3 is your answer.,00:23:21
+eetbzps,148,student,Mm-hmm.,00:23:23
+eetbzps,149,tutor,"Now, decimal place means— remember the numbers, how many numbers you have after the point. This is second decimal place. 2 decimal places are there here. Do you understand? This is the second decimal place number. Why? Because it has 2 numbers after the point. How many decimal places this number has?",00:23:25
+eetbzps,150,student,One.,00:23:49
+eetbzps,151,tutor,One. So this is first decimal place. Do you understand?,00:23:50
+eetbzps,152,student,Mm-hmm.,00:23:53
+eetbzps,153,background,Yeah.,00:23:54
+eetbzps,154,tutor,"Okay, another one. 2.369. How many decimal places this one?",00:23:55
+eetbzps,155,background,[unclear],00:24:00
+eetbzps,156,student,Two.,00:24:04
+eetbzps,157,background,"Three, I mean.",00:24:05
+eetbzps,158,tutor,"One, two. So this is the third decimal place number. It extends all until the third place value. Do you understand?",00:24:07
+eetbzps,159,student,Yeah.,00:24:15
+eetbzps,160,tutor,So in this lesson you will be coming across the word decimal place again and again. That's why I wanted to highlight on that. So you will be comparing numbers with two decimal places. Two. Both of them have two decimal places. Or you will be— and also you'll be comparing numbers with one decimal place and two decimal— different place values too. So different decimal places as well.,00:24:16
+eetbzps,161,tutor,Okay.,00:24:40
+eetbzps,162,student,Yeah.,00:24:41
+eetbzps,163,tutor,Mm-hmm. Read this.,00:24:41
+eetbzps,164,student,"Before comparing decimals with up to 2 decimals, we need to be able to compare the numbers with the same number of decimal places.",00:24:45
+eetbzps,165,tutor,Yes. Now do you understand? I have just now taught you what is decimal place. So now can you understand what is being said over here?,00:24:55
+eetbzps,166,student,Kind of.,00:25:02
+eetbzps,167,tutor,"Yes. So before you compare different numbers like this, here you have questions like this. Let me show you. Here it is 0.7, 0.63. This is one digit after the decimal point, so this is one decimal place, this is two decimal places. Different decimal places. Before you compare such numbers, compare numbers with same decimal place. 2 and 2. Can you understand? [unclear] What is the answer for this? Okay, right. Read this please.",00:25:04
+eetbzps,168,student,"We need to first compare the whole numbers, then the fraction part of the number.",00:25:32
+eetbzps,169,tutor,"Yes. Fractional parts means what, Ronan?",00:25:36
+eetbzps,170,student,"Uh, the 0.483. [unclear]",00:25:40
+eetbzps,171,tutor,"Yeah, I mean the fractional parts means place values of the digits after the decimal point. This side onwards is whole numbers. So we had to compare the ones here. What can you say about the ones?",00:25:47
+eetbzps,172,student,"Uh, whole number.",00:26:02
+eetbzps,173,tutor,"Yeah, that is, what can you say about— while after you compare, can you see which one is greater and smaller?",00:26:05
+eetbzps,174,student,Yeah.,00:26:11
+eetbzps,175,tutor,"Yeah, so once you have seen which is the greatest, you can stop comparing the rest of the place values because you've already figured out which is the greater in the greatest place value in this particular case. Okay, so use the correct symbol and",00:26:13
+eetbzps,176,student,Do this. [unclear],00:26:31
+eetbzps,177,tutor,"Yes, I hope you are aware. Just a quick recap. The brackets will always open up to bigger number and smaller— and point at the smaller number. That you already know, no? Brackets— the brackets will always open to the bigger number.",00:26:37
+eetbzps,178,background,"6 and 3, 3 and 6. It will open to bigger number and point at the smaller number. Okay, so here of course your answer is correct. Right now, uh, 1.72. Okay, what makes you say this is the greater one?",00:26:54
+eetbzps,179,student,Because the fraction bit is higher than 12.,00:27:15
+eetbzps,180,tutor,"Yeah, rather than looking at like as a whole 12 and 72, go one by one. Why the ones are the same, so you have to compare the tens, which is 1 and 7. 7 is greater. So do you have to compare the rest of the place values?",00:27:20
+eetbzps,181,student,No.,00:27:33
+eetbzps,182,tutor,"No, very good. Try the next one. Yes, read this also.",00:27:34
+eetbzps,183,student,"When the whole number parts are the same, compare the next column.",00:27:43
+eetbzps,184,tutor,"Yes, so that's what we just did just a while ago. So, so far, do you have an understanding of what is decimal place, fractional parts?",00:27:50
+eetbzps,185,student,"Hmm, yeah.",00:28:01
+eetbzps,186,tutor,"Okay, any questions?",00:28:03
+eetbzps,187,student,No.,00:28:05
+eetbzps,188,tutor,"Moving forward, read this.",00:28:07
+eetbzps,189,student,"When comparing decimals, it is important to understand the value of the digits and the [UNCLEAR].",00:28:10
+eetbzps,190,student,They're relative size.,00:28:17
+eetbzps,191,tutor,"Yes. So now you're going to do like this with different number of decimal places. Here we did same number, no? 2 decimal, 2 decimals, 2 decimals, 2. Here different. 1.2 is shown in a visual. This is 1 whole and 2 parts of that is 1.2. 1.1, this is 1 whole, the ones, This is the tens, and one square out of the tens is actually the hundreds. That's why it is 1.11. You have to understand the visual because you have questions to identify the number without the number being given. Okay, so fill these blanks, please.",00:28:19
+eetbzps,192,student,Yeah.,00:29:02
+eetbzps,193,tutor,Bring the text tool and... [unclear],00:29:04
+eetbzps,194,student,One whole.,00:29:06
+eetbzps,195,tutor,"Yeah, if you write one whole. [unclear]",00:29:07
+eetbzps,196,tutor,"Not 11 tenths, 1 tenth. You have 1. Look here, your number was 1.11, so how many tenths you have?",00:29:16
+eetbzps,197,student,1 tenth.,00:29:30
+eetbzps,198,tutor,1 tenth. You can't have 2 digits in one place value.,00:29:32
+eetbzps,199,student,"5,600,000.",00:29:38
+eetbzps,200,tutor,"Fill this again. One tall, one tenth, and the last one is actually the hundredth. If 100. Did you understand?",00:29:40
+eetbzps,201,student,Yeah.,00:29:47
+eetbzps,202,tutor,"Okay, now we'll write the numbers. 1.2, 1.11. You will start comparing from?",00:29:48
+eetbzps,203,student,"The [unclear] holes are the same, so",00:29:55
+eetbzps,204,student,"The [UNCLEAR]. [Speaker:Tutor] Tens. So yeah, use the symbol now. Yes, exactly. You have two tens here and only one tens. Although this is a zero here, the tens are the higher, so we have to go with that. Okay, right. Now here, Ronan, I will be teaching you the follow me. Observe carefully and you can do the your turn.",00:30:01
+eetbzps,205,tutor,"Okay, we will— here you will have an understanding how to compare decimal, different number of decimal places. So it can help to write down the numbers beneath each other. In this case also, that's why you got it wrong at first glance. If you write it under each other, it's always easier to identify. You will have a question, a similar question like this one here, right beneath each other to identify the highest score. Okay, so here also, that's what I'm going to do. I'm going to write 0.7, under that 0.63. So I can change— see, the wholes are 0, and I can see this is the greater one. Do I need to consider this one to compare? [unclear]",00:30:28
+eetbzps,206,student,We have to compare the cents.,00:31:14
+eetbzps,207,tutor,"So since I have already figured out 7 is greater, I do not need to compare the hundreds. So let's say the first number has 7 tenths, second number has 6 tenths, so I can keep comparing the next place value and say this is the greater one. Any questions?",00:31:17
+eetbzps,208,student,No.,00:31:35
+eetbzps,209,tutor,Try your turn. [unclear],00:31:37
+eetbzps,210,tutor,What can you say about the wholes?,00:31:51
+eetbzps,211,student,"The wholes are the same, so you're gonna have to compare the tenths. And 3 is bigger than 1, so you don't have to compare the [UNCLEAR]. [Speaker:Tutor] Yes, look at the highest place value. In this case, highest place value was ones. So since it's the same, you moved on to the next. Very good, Ronan. Do these now. Figure out what number this is and type here first. Figure out the number. [unclear] You can use the text tool if the drawing is hard.",00:31:56
+eetbzps,212,student,Yes. Should I read it?,00:32:33
+eetbzps,213,tutor,"You can use the text tool. I remember you used the text here, no?",00:32:34
+eetbzps,214,student,Twice. [unclear] Okay.,00:32:37
+eetbzps,215,tutor,"Wait, sorry. Yeah.",00:32:39
+eetbzps,216,tutor,Now figure out this number.,00:32:41
+eetbzps,217,student,1.5.,00:32:43
+eetbzps,218,tutor,"Okay, so now do you have any— what you have written is like this. So what you have written is that, and your 5 is in which column?",00:32:48
+eetbzps,219,student,Tenth.,00:33:01
+eetbzps,220,tutor,Is it correct? Is this showing tenths? [unclear],00:33:03
+eetbzps,221,student,[unclear],00:33:07
+eetbzps,222,tutor,"Yes, you have to replace the placeholders if there is no tens or if there is a missing place value. Be mindful about that. Now you use the correct symbol.",00:33:07
+eetbzps,223,student,"Okay, wait, is this like this?",00:33:24
+eetbzps,224,tutor,Yeah.,00:33:27
+eetbzps,225,student,"Okay, right. Correct answer. Next one. [unclear]",00:33:29
+eetbzps,226,tutor,That's correct. Next one.,00:33:37
+eetbzps,227,student,One point— [unclear],00:33:43
+eetbzps,228,tutor,"Yes, we have to make— you have to use any numbers, any digit more than 0 here. Okay, here's a praise card for you. Read this now. As I said, this is a question like this one, but in a systematic approach. Read.",00:33:46
+eetbzps,229,student,The table shows how far some children jumped in a long jump competition. Who jumped the furthest and won the competition?,00:34:07
+eetbzps,230,tutor,Furthest means what should you find? [unclear],00:34:17
+eetbzps,231,student,"The highest. So, row— no.",00:34:20
+eetbzps,232,student,[unclear],00:34:27
+eetbzps,233,tutor,"So you have the place value chart. First of all, cross off the numbers that you think would not go to the place value chart. You can take only the top highest, top 3 highest, and include it here and compare. Okay, why do you think 2.84 would not be suitable? [Speaker:Ronan]...the highest one. [Speaker:BACKGROUND] Because the whole is 2 and the rest, except for 2.9, is 3.",00:34:27
+eetbzps,234,tutor,"Yeah, exactly. So it's actually 2 and you have bigger holes than that, no? Yeah, it's good crossing that off. Okay, now we'll take the rest. 3.4 you have given, 3.19 and 3.09. Compare. [unclear]",00:35:01
+eetbzps,235,student,"Because maths, the whole numbers are the same. So look at the tens and the tens is 4 and the rest have a 1 or 0. So we don't have to look at the other columns and just put maths.",00:35:23
+eetbzps,236,tutor,"Yes. So superb job figuring that out and thank you for your explanation. So one thing, one mistake that most of my students did is they chose Lucy as the highest because they were like, it's 19 and Max is just 4. Max is not 4, max is actually 40, right? So, uh, that's how it is. Any questions?",00:35:35
+eetbzps,237,student,No.,00:35:57
+eetbzps,238,tutor,"Right, so you have been working really great on this lesson. Shall I move on to the next lesson? We have 9 minutes.",00:35:58
+eetbzps,239,student,"Uh, if you want.",00:36:05
+eetbzps,240,tutor,"I should, but if you have any questions on this, I will wait. [Speaker:Tutor]...and create? [Speaker:Ronan] No.",00:36:09
+eetbzps,241,tutor,"Okay, let me check when your stats are starting. You're in year 6. [unclear] And where are we now? We are in— what is the next lesson? Multiplying and dividing whole numbers. Let me check and be back. Multiplying and dividing whole numbers. We have— oh, we actually have some more lessons to cover before you reach the SAS program. A lot of lessons, actually. Okay. Right. Multiplying and dividing whole numbers and decimals by 10 and 100. This have you done before in school?",00:36:18
+eetbzps,242,student,Yeah.,00:36:58
+eetbzps,243,tutor,You have done. Give a try to the learning goal. [unclear],00:36:59
+eetbzps,244,student,"Uh, should I do it, the answer?",00:37:08
+eetbzps,245,tutor,"Yeah, you have to type the answer here.",00:37:10
+eetbzps,246,student,"Hmm, wait, when it times...",00:37:14
+eetbzps,247,tutor,"When it times, does it go to the left or right?",00:37:20
+eetbzps,248,student,Yeah.,00:37:23
+eetbzps,249,tutor,"You tell me, is it when it times you go to left or right?",00:37:24
+eetbzps,250,student,Uh...,00:37:27
+eetbzps,251,tutor,"Okay, thank you for trying out, but actually you have moved the digits to the right. It goes to the left. It goes to the left when you multiply this side. So, you try again. What do you think is the answer? [unclear]",00:37:35
+eetbzps,252,student,"Okay, 20.6. Let's try this together. Your question was 2. 0.06 times 100. I'm writing this on the left side because multiplication is to the left side. How many places should I move the digits? [unclear]",00:37:57
+eetbzps,253,tutor,"Oh, 100 times.",00:38:11
+eetbzps,254,student,"Uh, 2.",00:38:15
+eetbzps,255,tutor,"Yes, we have times by 100. 1, 2, 0, 1, 2, 6. What is the answer?",00:38:17
+eetbzps,256,background,It is 206.,00:38:24
+eetbzps,257,tutor,"Yes, 206. Anyways, awesome effort. Thank you for trying it out. Try this question. [Speaker:Ronan]... Write the number it shows. 4.2. [Speaker:Tutor] Yes. Now you have to divide that number by 10. [Speaker:Ronan]...",00:38:28
+eetbzps,258,tutor,"So when you divide, would you be moving to the left or right?",00:38:53
+eetbzps,259,student,Left.,00:39:01
+eetbzps,260,tutor,"Left? Are you sure? When you divide, you move to the left? [unclear] When you multiply, you move to the left. When you divide, you move to the right.",00:39:04
+eetbzps,261,student,It's a 4.12.,00:39:21
+eetbzps,262,tutor,"Okay, um, what is the answer here?",00:39:30
+eetbzps,263,student,4.12.,00:39:36
+eetbzps,264,tutor,"Yes, not 12, it's 1, 2. Type the answer. [unclear] [unclear]",00:39:37
+eetbzps,265,tutor,"Okay, right. So before we move on, just some quick basics for you to know about decimals. Okay, read this number.",00:39:53
+eetbzps,266,student,5.69.,00:40:02
+eetbzps,267,tutor,"5.69. We don't say 69 because this is not in the tens place and this is not in the ones place. They are Tens and hundreds. You have to read all the— you have to say it separately. 6, 9. No matter how many digits I write, you're going to say it separately. The other thing is this one. I'll teach it in terms of place value. As you can see, Ronan, ones are greater than— sorry, tens are greater than ones. Hundreds are greater than tens. Do you agree with that?",00:40:05
+eetbzps,268,student,Mm-hmm.,00:40:36
+eetbzps,269,tutor,The same happens this way. Ones are greater than the tens.,00:40:37
+eetbzps,270,student,"Tens are greater than the hundreds. That is why I am saying when you multiply a number, the value increases. To increase a number, we move to the left side because left side has the bigger place values. Do you understand? If you remember like this, it's easier. Left side always has bigger place values when you point at the left. That's why when multiplying, we move to left side, and when dividing, we move to Right side, because when you go this way around, it's actually smaller. Hundred thousand— one hundred is smaller than tens, tens is smaller than ones. Can you understand? [unclear] Okay, I'll show you the fact like this. 2 times 3, what is the answer?",00:40:41
+eetbzps,271,student,"Uh, 2 times 3 is 6.",00:41:29
+eetbzps,272,tutor,"6. So from 2, you made the number to 6. Multiplication always increases the value. If it is 6 divided by 3, what is the answer?",00:41:31
+eetbzps,273,student,6 divided by 3 is 2.,00:41:44
+eetbzps,274,tutor,"2. So, uh, as you can see, from a 6 you are going to a 2. The value is decreasing here. Multiplication always increases value. Division always decreases the value. Do you understand?",00:41:50
+eetbzps,275,student,Uh-huh.,00:42:04
+eetbzps,276,tutor,"That is why when dividing we move to smaller values because it will decrease. When multiplying we move to bigger values because it will increase. Rather than remembering left and right, it's— if you look at— think of the place value, it's easier. Okay, any questions?",00:42:06
+eetbzps,277,student,No. [Speaker:Background]... [UNCLEAR],00:42:23
+eetbzps,278,tutor,"Read this. Before multiplying and dividing decimals by one— 10 or 100, we need to understand how the value of the digit change depends on its position.",00:42:24
+eetbzps,279,tutor,"Yes, so all of these goes like this. I'll teach you in terms of the whole numbers first. 1, this is 1. 1 times 10 is?",00:42:40
+eetbzps,280,student,1 times 10 is 10.,00:42:47
+eetbzps,281,tutor,"Then again, 10 times 10 is?",00:42:50
+eetbzps,282,student,100.,00:42:52
+eetbzps,283,tutor,"100. And then when you come this side, 100 divided by 10 is?",00:42:54
+eetbzps,284,student,"100 times 10 is 1,000.",00:43:00
+eetbzps,285,tutor,"No, 100 divided by 10. I'm going this side now, this side. 100 divided by 10 is?",00:43:03
+eetbzps,286,student,[unclear],00:43:09
+eetbzps,287,tutor,"10 divided by 10 is 1. The opposite happens, the inverse. Same happens for these also. It is 10 times bigger when you go to this side, 10 times bigger. 10 times smaller when you come to the",00:43:10
+eetbzps,288,tutor,"Right side. Okay, here, that is the visual show. Here, incisors. Okay, so remember that this is one whole, one portion out of that is 1/10. That is why we write like",00:43:24
+eetbzps,289,background,"one portion out of 10 equal parts. If you divide the one whole into 10 equal parts and one portion is this one. [unclear] And the hundredths are actually this 10 divided into 100— sorry, 10 parts again. That's what cube is, that time piece. So you writing 30 here is completely wrong because 1/10 is 0.1, this is 3/10. Then what is the answer?",00:43:42
+eetbzps,290,student,I would just [unclear] 0.3.,00:44:16
+eetbzps,291,tutor,0.3.,00:44:21
+eetbzps,292,student,Yeah.,00:44:25
+eetbzps,293,tutor,"Okay. Then 0.3 made 10 times smaller, you will end up in the hundreds, which is 0.01. Why am I saying it is smaller? Because we are dividing by 10. So what is the answer here?",00:44:26
+eetbzps,294,student,0.,00:44:41
+eetbzps,295,student,0.03.,00:44:43
+eetbzps,296,tutor,"Yes, 0.03. Quickly complete this one. How many wholes do you have here?",00:44:46
+eetbzps,297,student,"2 wholes and [UNCLEAR]. [Speaker:Tutor] 2 wholes, and from here onwards there's no more wholes, so we place the decimal. How many tenths do you have?",00:44:52
+eetbzps,298,student,1 tenth.,00:45:02
+eetbzps,299,tutor,"1 tenth. So 2.1, we are going to make it 10 times smaller. We'll use the place value chart.",00:45:03
+eetbzps,300,student,"Uh, 2.1, making 10 times smaller. What is the answer? [unclear]",00:45:11
+eetbzps,301,student,"Uh, 0.21.",00:45:16
+eetbzps,302,tutor,"Yes, we move it only one place to the right side to divide. 0.21 is the correct answer. Okay, right. So Ronan, that's all for today. I hope you have had a basic understanding about how decimals work. Any questions before I end the session?",00:45:21
+eetbzps,303,student,No.,00:45:37
+eetbzps,304,tutor,"Now listen to me. You will be displayed a quiz on 2 lessons, not from this because we didn't complete. The first 2 lessons, you will be displayed a quiz. Take your time and do that and leave a feedback on today's session. I will check on it. Have a nice day, Ronan. Bye.",00:45:39

@@ -1,0 +1,121 @@
+session_id,utterance_id,role,content,timestamp
+intzacr,0,background,[unclear],00:00:00
+intzacr,1,tutor,"Hi, baby.",00:00:00
+intzacr,2,student,Hi.,00:00:01
+intzacr,3,tutor,How are we doing today?,00:00:02
+intzacr,4,student,I'm fine.,00:00:04
+intzacr,5,tutor,"All right, so are you ready for today's session?",00:00:05
+intzacr,6,student,Mm-hmm.,00:00:08
+intzacr,7,tutor,"Okay, so we have to work with working with probabilities in tables. Okay, so before we start today's session, Elara, can you tell me what you mean by probabilities?",00:00:10
+intzacr,8,student,The likelihood of something happening.,00:00:22
+intzacr,9,tutor,"Yes, very well done. The probabilities mean the chance of that something will happen. Very well done. So Shall we quickly go through this first question?",00:00:24
+intzacr,10,tutor,"Yeah, sure. [unclear]",00:00:35
+intzacr,11,student,I agree with Hisham.,00:00:44
+intzacr,12,tutor,"Yes, so Hisham says he's correct. Why do you agree with Hisham? How do you get that answer, whether he's correct?",00:00:47
+intzacr,13,student,I added all the colors which gave me 0.8.,00:00:55
+intzacr,14,student,"[unclear] 0.2, yellow is 0.8, which gives you 1.",00:00:58
+intzacr,15,tutor,"Yes, very well done and a good explanation. So let's go to our lesson today. We have to start from here, this question. Okay, can you read the question and give it a try?",00:01:04
+intzacr,16,student,"Susan has a bag of cuddly counters. They are white, purple, and silver. The probability of picking a pink counter is double the probability of picking a silver counter. Complete the table. [unclear]",00:01:20
+intzacr,17,background,So how are you going to work out on this?,00:01:37
+intzacr,18,tutor,Pardon?,00:01:47
+intzacr,19,background,So how are you going to start this? How are you going to work out on this?,00:01:48
+intzacr,20,tutor,Could I reread the question quickly?,00:01:53
+intzacr,21,background,I can. All right. [unclear],00:01:56
+intzacr,22,student,"Oh, I'm not sure what to do. I feel like I should",00:02:16
+intzacr,23,student,"Add, um, white and purple. I'll start with that.",00:02:19
+intzacr,24,tutor,"So first you have to find the total of white and purple. Okay, all right. So what is the total we have there?",00:02:28
+intzacr,25,student,"Um, 0.40.",00:02:36
+intzacr,26,tutor,0.40.,00:02:40
+intzacr,27,background,40.,00:02:41
+intzacr,28,tutor,"40. Yes, 0.40. Then what should be our next step?",00:02:43
+intzacr,29,student,I'm subtracting 1 by 0.40.,00:02:46
+intzacr,30,tutor,"Yes, very well done. We have to subtract that by 1, then we will be having some answer. Then we have to check this part. The probability of picking a pink counter is double the probability of picking a silver counter. So you can assign a letter, something like A. If the probability of picking a silver counter is A, what should be the pink?",00:02:50
+intzacr,31,tutor,"So would you do 1 take away 0.40, which gives you 0.60? And then I feel like you should divide 0.60 by 2, but I'm not sure if that would work.",00:03:16
+intzacr,32,student,"All right, so why do we have to divide it?",00:03:31
+intzacr,33,tutor,"To find, um, actually, no, again, right, that wouldn't work. Okay, so let's go, uh, let's see. Now up to here it's, uh, clear. All right, first we have to add these two together and we have to subtract it by one, then we will be having the answer which is 0.6. Okay, is it clear up to, uh, this part?",00:03:35
+intzacr,34,student,Yeah.,00:03:58
+intzacr,35,tutor,"Okay, now let's consider what does it say by here. The probability of picking a pink counter is double the probability of picking a silver counter. Let's get a letter for this. If we say the probability of picking a silver counter is A, what should be the probability of picking a pink counter?",00:03:59
+intzacr,36,student,"Um, 2A.",00:04:19
+intzacr,37,tutor,"2A, very well done. Now, the total of this A and 2A should be equal to what?",00:04:20
+intzacr,38,student,"Um, 0.40— I mean, sorry, 0.60.",00:04:27
+intzacr,39,tutor,0.60. Now simply you can build up a equation like,00:04:31
+intzacr,40,background,"2a a 0.6. Now you can find the value of a, isn't it? Yeah. All",00:04:37
+intzacr,41,student,"right,",00:04:49
+intzacr,42,tutor,now you can work out on the next part. Pardon? Now,00:04:50
+intzacr,43,student,you,00:04:55
+intzacr,44,tutor,can find the value of a and find the probability of picking a silver counter and the probability of picking a pink counter.,00:04:55
+intzacr,45,tutor,"Yes, I'll get it up. [unclear]",00:05:03
+intzacr,46,tutor,You working on this?,00:05:31
+intzacr,47,student,Yeah.,00:05:33
+intzacr,48,tutor,Do you have a calculator with you there?,00:05:35
+intzacr,49,student,"Um, yeah, but I think I figured it out. I'm not sure if it's like the best, though. Um, could you see that silver equals to 0.20 and pink equals to 0.40?",00:05:37
+intzacr,50,tutor,"Very well done. So when you solve this calculation, you will be getting 0.248. So which means this is 0.20, and here it will be 0.40. Very well done, Elara.",00:05:47
+intzacr,51,student,Thank you.,00:05:56
+intzacr,52,tutor,"And you'll be getting, uh, 2 marks for this part and 2 marks for, uh, okay, 2 marks for this part. And the next",00:05:57
+intzacr,53,background,find the probability of selecting a counter that is not pink.,00:06:07
+intzacr,54,background,"Okay, so add them all together, then subtract by 0.40. So 1 over— wait, can I quickly get my calculator?",00:06:12
+intzacr,55,tutor,"Mhm, yeah, sure, you can take it. [unclear]",00:06:26
+intzacr,56,student,Sorry for the wait. Would it be 0.6 over 1?,00:07:21
+intzacr,57,tutor,"Yeah, so now we know the probability of getting a pink counter is 0.4. You just figure it out through this equation. So simply what we have to do is take this away from 1, then you'll be getting the probability of not getting a pink counter. 0.40 take away 1 means the probability of not getting a pink counter is 0.6.",00:07:26
+intzacr,58,student,Yeah.,00:07:51
+intzacr,59,tutor,"Right, so 2 marks for each answer. Very well done. Okay, now let's go to our next question. All right, so the last question of this, uh,",00:07:51
+intzacr,60,tutor,Let's have a look. Shall we give this one a try?,00:08:04
+intzacr,61,student,"Oh yeah, sure. [unclear] [unclear]",00:08:08
+intzacr,62,tutor,"Here you are given a hint. Okay, yes?",00:08:46
+intzacr,63,student,"Never mind, you're saying.",00:08:50
+intzacr,64,tutor,"Okay, so here you are given a hint if you need any help.",00:08:53
+intzacr,65,tutor,This one.,00:08:56
+intzacr,66,student,Thank you.,00:08:58
+intzacr,67,tutor,"Yeah, okay.",00:09:03
+intzacr,68,student,"I'm sorry, I'm a little confused, to be honest.",00:09:16
+intzacr,69,tutor,"All right, so that's fine. Okay, so let's see how we can do this. The table shows the probability of picking orange, lemon, or lime sweets from a bag. Now these are the probabilities, all right? Orange is 0.6, here it's 0.3, and lime is 0.1. If we see, the total is equal to 1. Okay, so given there are 20 sweets in the bag, okay, now we have the total. 20 is the total of sweets.",00:09:17
+intzacr,70,student,Mm-hmm.,00:09:44
+intzacr,71,tutor,"Here there are 20 sweets in the, uh, bag. How many are lime flavored? Now the only data we have is the data, the probability and the total. Okay, now this is a [UNCLEAR]. We are, uh, we have, uh, we are asking an expected frequency, which means how many of you will get from these probabilities. Okay, so let's see. Given a probability or a relative frequency, we can calculate the expected number of times An event will happen over a given number of trades. That's fine. So what we have to do is the expected frequency, expected amount of sweets we will have using the probability and the total number of the event. Okay, so all we need to do is multiply the probability by the number of trials. Here, the probability— now we are asking the how many are the lime flavored? So",00:09:45
+intzacr,72,tutor,"So what we have to do is we have been asked about lime. So therefore, the probability of lime is— this is the event, okay? The probability of lime is 0.1. So simply what we have to do is times this by the number of trials. Here, the number of trials are 20. The single events— we have 20 sweets, okay? In total, we have 20 sweets. So 20 times 0.1. Or else the probability times the number of trials. This, uh, this equation is very important, okay? This equation, if you have been asking about an expected frequency, so this is very important, uh, equation. Keep this in mind. So what you have to do is substitute these values to this equation and get the answer. 20 times 0.1. So what is—",00:10:42
+intzacr,73,tutor,So would the answer be 2?,00:11:35
+intzacr,74,background,[unclear],00:11:36
+intzacr,75,tutor,2. Very well done. So there will be 2 limes. And how many lemons will be there?,00:11:37
+intzacr,76,student,[unclear] 6.,00:11:51
+intzacr,77,tutor,"Yes, very well done. There are 6 lemons. And how many oranges will be there?",00:11:55
+intzacr,78,student,"[unclear] 12. So if you check, the total will be 20, right? So that's what's simply asking. Okay, so good job once again. I hope you understand this part.",00:12:00
+intzacr,79,student,Yes.,00:12:13
+intzacr,80,tutor,"If you have any questions, you're welcome. Okay, so let's go to our next lessons. [unclear] Using index laws. Okay, all right. Wouldn't it be Malcolm?",00:12:13
+intzacr,81,tutor,"Yes, Malcolm. So why do you think that it's Malcolm?",00:12:35
+intzacr,82,student,"Because you add the two— oh my God, it's called the [unclear] again.",00:12:39
+intzacr,83,tutor,"Yes. So when there are index, so what does it mean by index, Elara?",00:12:44
+intzacr,84,student,"And when the number has the power to insert, like, I don't know, you can say 6.",00:12:50
+intzacr,85,tutor,"Yeah, very well done. How many times to use the number in the multiplication, which means simply the power. Okay, here it's 4, here we have 6. When in this kind of calculation, what we have to do is add these two together, add the powers together. Right, very well done. So let's go to our first question. [unclear]",00:12:56
+intzacr,86,student,Thank you.,00:13:31
+intzacr,87,tutor,"Exactly. Why is it 3, Elara? Don't we have to add that? [unclear]",00:13:51
+intzacr,88,tutor,"Yes, very well done. If it is a division, we have to subtract the values, not addition. If it is a multiplication, we have to add the values. Okay, you can go on with this. [unclear]",00:14:02
+intzacr,89,tutor,"Yes, exactly. We have the times, the indexes, 2 times 3. Okay, good job once again. So let's go to our next question here. Thank you.",00:14:18
+intzacr,90,tutor,"Yes. 10D to the power of 7. [unclear] From where do you get 16, Elara? Here.",00:14:43
+intzacr,91,student,"I'll take out, so I'll take away 20 from here. Okay, so let's check once again. This is a division, all right? It's a division. 20 divided by 4. [unclear] And you have to remember always, even though we don't write it, there is a 1 here. That's the meaning of my gesture. [unclear] Very well done.",00:15:02
+intzacr,92,tutor,"5x to the power of 10. [unclear] Okay, let's check this once again. (3c 2)³. Now we have to do this separately. 3³ and -2³. We have to do these two separately. That is the meaning of this. Okay,",00:15:33
+intzacr,93,tutor,we have to times the terms inside the bracket separately.,00:16:18
+intzacr,94,tutor,In the terms?,00:16:23
+intzacr,95,student,"I'm really sorry, Siri keeps on turning on for some reason and it keeps on, I don't know, like muting you each time. Could you repeat yourself?",00:16:24
+intzacr,96,tutor,Hello?,00:16:35
+intzacr,97,student,"Sorry, can you hear me?",00:16:37
+intzacr,98,tutor,Yes.,00:16:39
+intzacr,99,student,"Siri keeps on turning on automatically for some reason, I don't know why, and it keeps on muting you. Could you repeat yourself, please?",00:16:40
+intzacr,100,tutor,Do you have any commitments after this? Elara?,00:16:48
+intzacr,101,student,Pardon?,00:16:52
+intzacr,102,tutor,"Hello? I can't hear you clearly. Can you type on the screen? Your voice is glitching. All right. So, yes. Can you hear me clearly, Elara?",00:16:53
+intzacr,103,tutor,Hello? Hello? Hello? [unclear] [unclear],00:17:22
+intzacr,104,tutor,Can you hear me?,00:18:16
+intzacr,105,student,"Yes, now can you hear me?",00:18:17
+intzacr,106,tutor,"Yeah, I'm sorry, it kept saying trying to connect.",00:18:19
+intzacr,107,student,"Yeah, that's fine, Elara. Okay, that's totally fine. Okay, so when we have this kind of questions, Elara, what we have to do is we have to separately times the terms inside the",00:18:23
+intzacr,108,tutor,"Okay, hello.",00:18:37
+intzacr,109,student,Hello.,00:18:38
+intzacr,110,tutor,"All right, so when you have this kind of a question, Elara, what we have to do is we have to times the terms inside the brackets separately from the term outside the bracket, which means we have to do 3 to the power 3 times (c 2) to the power 3. We have to do these two separately. 3 times 3 to the— uh, 3 times 3 to the power 3 and minus 2 to the power 3.",00:18:39
+intzacr,111,student,"Oh, so would the answer be, um, 9c to the power of negative 6?",00:19:06
+intzacr,112,tutor,"Negative 6 is correct, yes. What do we have here? 3 to the power 3. 3 times 3 times 3.",00:19:12
+intzacr,113,student,"Oh my God, sorry. [unclear] So 27.",00:19:20
+intzacr,114,tutor,"Yes, very well done. It's 27c to the power of minus 6. Okay, so good job once again, 2 marks for the answer.",00:19:24
+intzacr,115,student,Thank you.,00:19:33
+intzacr,116,tutor,"All right, so anyhow, uh, you did an amazing job throughout today's, uh, session up to here, Elara. All right, so you did, uh, answered all the questions correctly, so that's, uh, really great. So, but, uh, since we don't have much time today, we have to wind up the session from here. So let's see each other next week. All right. [unclear]",00:19:34
+intzacr,117,student,I'm sorry for being late. I assumed I had to do regular math lessons. I didn't know.,00:19:55
+intzacr,118,tutor,"Okay, that's fine. So try to join on time next week. So let's meet on next week. Goodbye.",00:19:59
+intzacr,119,student,"Thank you, Miss [UNCLEAR].",00:20:06

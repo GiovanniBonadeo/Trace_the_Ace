@@ -1,0 +1,390 @@
+session_id,utterance_id,role,content,timestamp
+hdouqnd,0,student,"For example, if I—",00:00:00
+hdouqnd,1,tutor,Hello.,00:00:02
+hdouqnd,2,student,"If I did 0.7 times 10, that would become 7.",00:00:03
+hdouqnd,3,tutor,Hello.,00:00:12
+hdouqnd,4,student,"But if I did 0.7 divided by 10, that would become 0.07.",00:00:13
+hdouqnd,5,tutor,Hello? [unclear],00:00:31
+hdouqnd,6,student,Yes.,00:00:32
+hdouqnd,7,tutor,"Ah, okay. Hi, how are you, Tobias?",00:00:32
+hdouqnd,8,student,Good.,00:00:38
+hdouqnd,9,tutor,"Good? Okay, but you don't sound good. Did something happen?",00:00:39
+hdouqnd,10,student,"Um, no.",00:00:44
+hdouqnd,11,tutor,"Okay, so how was your school?",00:00:46
+hdouqnd,12,student,Good.,00:00:48
+hdouqnd,13,tutor,Good? Okay.,00:00:49
+hdouqnd,14,tutor,"So, where did we stop last?",00:00:52
+hdouqnd,15,student,Times 100.,00:00:56
+hdouqnd,16,tutor,Oh yeah. So what is the lesson?,00:00:57
+hdouqnd,17,student,Using mental strategies to divide.,00:01:03
+hdouqnd,18,tutor,"Yes, using mental strategies to divide. Okay, before going to the slide we stopped, I just want you to— yeah, very good. So how did you get the answer?",00:01:07
+hdouqnd,19,student,"So first I did 5 times 20, I know that's 100. Take 5 away, that's 5 times 19, 95.",00:01:17
+hdouqnd,20,tutor,"Yes, very good. Excellent. Yeah, so actually we have only the last slide to do in this lesson, so I'll just put it down. Okay?",00:01:26
+hdouqnd,21,student,Okay.,00:01:34
+hdouqnd,22,tutor,"Okay, what is the question?",00:01:36
+hdouqnd,23,student,"[unclear] says to calculate 1,800 divided by 15, I'll first divide 1,800 by 10 and then divide the answer by 5. Do you agree? Explain why. And solve it.",00:01:37
+hdouqnd,24,tutor,Yes. What do you think?,00:01:54
+hdouqnd,25,student,"Um, no.",00:01:58
+hdouqnd,26,tutor,No? Yeah. So why do you think so?,00:02:01
+hdouqnd,27,student,"Because if we divide by 15, it's easier, I think.",00:02:03
+hdouqnd,28,tutor,Okay. So what is the method she has used?,00:02:09
+hdouqnd,29,student,"So, um, she said divide by 10 first and then divide the answer by 5.",00:02:14
+hdouqnd,30,tutor,"Yes, will it work? Like partitioning, she has partitioned 10, 15 by 10 and 5, right?",00:02:20
+hdouqnd,31,student,Yeah.,00:02:29
+hdouqnd,32,tutor,So normally what do we do? What is the other method we use?,00:02:31
+hdouqnd,33,student,We use [unclear] method.,00:02:37
+hdouqnd,34,tutor,"Yes, so normally we use the factor method, right?",00:02:40
+hdouqnd,35,student,Yeah.,00:02:44
+hdouqnd,36,tutor,"Yes, so what are the factors we can take for 15?",00:02:45
+hdouqnd,37,student,"Um, 15 and 2— no, 3 and 5.",00:02:50
+hdouqnd,38,tutor,"Yes, exactly, 3 and 5. So by using 3 and 5, we can solve this question, right? [unclear] Yeah, the exact same way she said, but we can't take 10 and 5, we have to take 3 and 5. Shall we do the question?",00:02:55
+hdouqnd,39,student,Yeah.,00:03:11
+hdouqnd,40,student,"So wait, so what did you say?",00:03:15
+hdouqnd,41,tutor,"Okay, so factors we take is 2, 3, and okay, 5, right?",00:03:19
+hdouqnd,42,student,Yeah.,00:03:28
+hdouqnd,43,tutor,"Yes. Okay, first do the normal method you do. Can you divide 1,800 by 15? [unclear]",00:03:29
+hdouqnd,44,student,"Um, yeah.",00:03:38
+hdouqnd,45,student,"Yeah, can you repeat that?",00:03:41
+hdouqnd,46,tutor,"I know, yeah. Okay, [unclear] method.",00:03:43
+hdouqnd,47,student,"Yes, okay.",00:03:47
+hdouqnd,48,background,"that they've highlighted 0.9, 0.05.",00:03:47
+hdouqnd,49,student,"Wait, 15. Yes, 15.",00:03:47
+hdouqnd,50,background,0.95.,00:03:47
+hdouqnd,51,tutor,"Yeah. Yeah, okay. Try it out.",00:04:06
+hdouqnd,52,student,So 15 divided by 1 equals 0.,00:04:10
+hdouqnd,53,tutor,Yes.,00:04:14
+hdouqnd,54,student,"0. 15 divided by 8 equals 0. Wait, 15 divided by 18 equals 1.",00:04:18
+hdouqnd,55,tutor,"Yes, exactly, very good.",00:04:32
+hdouqnd,56,student,15 divided by 30 equals 2.,00:04:34
+hdouqnd,57,tutor,Yes.,00:04:39
+hdouqnd,58,student,15 divided by 0 equals 0.,00:04:40
+hdouqnd,59,tutor,"Yes, so what is the answer?",00:04:44
+hdouqnd,60,student,120.,00:04:46
+hdouqnd,61,tutor,"Yes, 120. Okay, now let's use the factor method, okay?",00:04:49
+hdouqnd,62,student,Okay.,00:04:55
+hdouqnd,63,tutor,"Okay, in factor method, what do we do is we take 15 and take the 2 factors.",00:04:56
+hdouqnd,64,student,"Yes, 3 and 5. Okay, so what do we do is we divide 1,800 first by 3.",00:05:05
+hdouqnd,65,background,5.,00:05:05
+hdouqnd,66,student,"Okay, what is the answer?",00:05:05
+hdouqnd,67,background,"It is... [unclear] 6,000.",00:05:20
+hdouqnd,68,student,600.,00:05:28
+hdouqnd,69,tutor,"Yes, 600. Very good. And then what do we do is we divide 600 by— how much? 15. What is left?",00:05:29
+hdouqnd,70,student,5.,00:05:44
+hdouqnd,71,tutor,5. Exactly. So what is the answer?,00:05:45
+hdouqnd,72,student,Is it 120?,00:05:49
+hdouqnd,73,tutor,"Yes, it is 120. So see, we have to take the factors, right?",00:05:52
+hdouqnd,74,student,[unclear],00:05:57
+hdouqnd,75,tutor,"Yeah, yes, you know it. So normally you can use a method that is easy for you, okay?",00:05:58
+hdouqnd,76,student,Okay.,00:06:06
+hdouqnd,77,tutor,"Okay, very good. So do you have any questions?",00:06:08
+hdouqnd,78,student,No.,00:06:11
+hdouqnd,79,tutor,"Okay, then I think we can start a new lesson, right?",00:06:12
+hdouqnd,80,student,Yeah.,00:06:15
+hdouqnd,81,tutor,"We have multiplication, right? [unclear]",00:06:24
+hdouqnd,82,student,Multiplying two-digit numbers using long multiplication.,00:06:31
+hdouqnd,83,tutor,"Yes, multiplying two-digit numbers using long multiplication. Yeah. I'm not that good at long division.",00:06:36
+hdouqnd,84,tutor,"Long multiplication, right? Okay.",00:06:55
+hdouqnd,85,student,Yeah.,00:06:57
+hdouqnd,86,tutor,Can you say the method you normally use?,00:06:58
+hdouqnd,87,student,"So, 7 times 5 equals 35. [unclear]",00:07:03
+hdouqnd,88,tutor,Yes.,00:07:12
+hdouqnd,89,student,Then you do [unclear],00:07:15
+hdouqnd,90,tutor,"Okay, okay. Actually, you said the first thing correct, right? Let's try. So you said 35. We wrote 5 over here. Where do you think we'll put 3?",00:07:22
+hdouqnd,91,student,At the bottom.,00:07:35
+hdouqnd,92,tutor,"Yeah, so actually, yeah. So normally, where do you put?",00:07:39
+hdouqnd,93,student,"Uh, you put 3 at the bottom.",00:07:44
+hdouqnd,94,tutor,"Okay, I think let's just—",00:07:47
+hdouqnd,95,student,Yeah.,00:07:49
+hdouqnd,96,tutor,"Okay, not there actually. We have to— yeah, let's learn about this when we do like go on with the lesson. Okay?",00:07:51
+hdouqnd,97,student,Okay.,00:07:58
+hdouqnd,98,tutor,"Okay, so let's try this one first. We have to find 14 multiplied by 32.",00:07:59
+hdouqnd,99,student,14 times 32. So,00:08:05
+hdouqnd,100,student,First you do 14 times 30.,00:08:09
+hdouqnd,101,tutor,"Yes, very good. Actually, that was half a correct. So, but we can see that 14 has also been partitioned, right?",00:08:15
+hdouqnd,102,student,Yeah.,00:08:23
+hdouqnd,103,tutor,10 and 4. What about here? What will come here?,00:08:24
+hdouqnd,104,student,14 and 32.,00:08:30
+hdouqnd,105,tutor,"Oh, no, actually",00:08:33
+hdouqnd,106,student,We wrote 14 over here.,00:08:35
+hdouqnd,107,tutor,"Oh, 3 and 2. 30 and 2.",00:08:37
+hdouqnd,108,student,"Yes, exactly. 30 and 2. You can write 30 over here.",00:08:41
+hdouqnd,109,background,Okay. [unclear],00:08:49
+hdouqnd,110,student,"Yes, very good. Now let's solve this. Let's start from 1s. Okay?",00:08:57
+hdouqnd,111,tutor,Okay.,00:09:03
+hdouqnd,112,student,2 times 4 is how much?,00:09:04
+hdouqnd,113,tutor,2 times 4 equals 8.,00:09:07
+hdouqnd,114,student,8. You can write it over here. Then 2 times [unclear] is?,00:09:09
+hdouqnd,115,tutor,20.,00:09:19
+hdouqnd,116,student,"Oh, 20.",00:09:20
+hdouqnd,117,tutor,And 30 times 4?,00:09:24
+hdouqnd,118,student,120.,00:09:26
+hdouqnd,119,tutor,"Yes, exactly. And 30 times 10? 300. Very good. Now what we can do is we'll add the first column— first row.",00:09:30
+hdouqnd,120,student,300 and 120 equals 420. 20 and 8 equals 28. Then all together equals 448.,00:09:41
+hdouqnd,121,tutor,"Yes, exactly. So you can write that answer over here.",00:09:53
+hdouqnd,122,tutor,So how did we solve that question?,00:10:01
+hdouqnd,123,student,"So we partitioned all the numbers and we did first, we did 2 times, no, 4 times 2, that equals 8. Then we do 2 times 10 equals 20, 3 times 10 equals 300, then 2 times 10 equals 20. 30 times 4 equals 120, then add them all up.",00:10:07
+hdouqnd,124,tutor,"Yes, exactly, add them all up. Yes, exactly, very good. Very well done. Good work. Now let's learn about the normal— this— how to do this calculation. Okay?",00:10:30
+hdouqnd,125,student,Okay.,00:10:42
+hdouqnd,126,tutor,"Okay, what are they saying here?",00:10:43
+hdouqnd,127,background,We use long multiplication when multiplying two-digit numbers or more. This helps to make the calculation...calculation easier to solve.,00:10:46
+hdouqnd,128,tutor,"Yes, exactly. So what are they saying here?",00:10:56
+hdouqnd,129,student,Multiply the top number by the ones.,00:11:01
+hdouqnd,130,tutor,Yes. What did you understand?,00:11:06
+hdouqnd,131,student,That you have to multiply the top number by the ones.,00:11:10
+hdouqnd,132,tutor,Yes. What is in the ones place?,00:11:14
+hdouqnd,133,student,3.,00:11:19
+hdouqnd,134,tutor,"Yes, 3. So what you can do is you can multiply 3 by 34.",00:11:21
+hdouqnd,135,student,Yeah.,00:11:26
+hdouqnd,136,tutor,What is the answer?,00:11:27
+hdouqnd,137,student,3 times 34 equals [unclear] 102.,00:11:30
+hdouqnd,138,tutor,"Yes, very good, 102. So you can write that over here.",00:11:39
+hdouqnd,139,student,Divide. Because—,00:11:47
+hdouqnd,140,tutor,"Yes, very good. Okay, let's just write that in the separate squares, then it will be easier for us to add.",00:11:49
+hdouqnd,141,student,"Okay. Oh, okay. [unclear]",00:11:58
+hdouqnd,142,tutor,"Okay, thank you. Okay, now let's look at the next steps. What are they saying?",00:12:12
+hdouqnd,143,student,Multiply the top number by the tens.,00:12:19
+hdouqnd,144,tutor,"Yes, what can we do?",00:12:22
+hdouqnd,145,student,"Uh, so multiply 34 times 1.",00:12:25
+hdouqnd,146,tutor,"Yes, 1.",00:12:34
+hdouqnd,147,student,Times 10.,00:12:35
+hdouqnd,148,tutor,"Yes, times 10. Why are we taking 10?",00:12:36
+hdouqnd,149,student,Because it's [unclear] times by 13 and 10 is the first number.,00:12:40
+hdouqnd,150,tutor,"Yes, exactly, very good. And what are they saying here?",00:12:47
+hdouqnd,151,student,"When we multiply by 10, we place 0 as a placeholder, so we are multiplying by 10, not 1.",00:12:53
+hdouqnd,152,tutor,"Yes, okay. So what is the answer that is coming? 34 multiplied by 10?",00:13:01
+hdouqnd,153,student,240.,00:13:08
+hdouqnd,154,tutor,"Yes, you can write it over here. [unclear] And the last step is what?",00:13:16
+hdouqnd,155,student,Other part tissue products.,00:13:28
+hdouqnd,156,student,Add the partial grid marks.,00:13:33
+hdouqnd,157,tutor,"Yes, you can add these too.",00:13:35
+hdouqnd,158,student,"Okay, can you check this one?",00:13:42
+hdouqnd,159,tutor,Which one?,00:13:44
+hdouqnd,160,student,The 10th place.,00:13:47
+hdouqnd,161,tutor,This one?,00:13:50
+hdouqnd,162,student,Yeah. [unclear],00:13:52
+hdouqnd,163,tutor,0 4 0.,00:13:55
+hdouqnd,164,student,"Because if you're adding a number by 0, you can't like find the answer will be 0.",00:13:57
+hdouqnd,165,tutor,"Oh no, actually it is not like that. It comes to when it comes to multiplication, okay? So normally if 0 is [unclear] and you have to add, we take 4 as well, okay?",00:14:08
+hdouqnd,166,student,Okay.,00:14:23
+hdouqnd,167,tutor,"Okay, so just assume that you have 4 apples and I don't have anything. So altogether, how much would we have?",00:14:24
+hdouqnd,168,student,4.,00:14:33
+hdouqnd,169,tutor,"Wait, yeah. Oh, where did the numbers go?",00:14:33
+hdouqnd,170,student,"Um, I don't know.",00:14:40
+hdouqnd,171,tutor,"Okay, it's okay. I'll just fill it. Okay, no worries.",00:14:41
+hdouqnd,172,student,Okay. [unclear],00:14:46
+hdouqnd,173,tutor,"That, you know, you've got to divide or times by something.",00:14:54
+hdouqnd,174,student,0.12.,00:14:54
+hdouqnd,175,tutor,"Okay, done with this slide as well. So do you have any questions?",00:14:54
+hdouqnd,176,background,No. [unclear],00:15:14
+hdouqnd,177,tutor,"Now let's try this one. I think you can do this, right?",00:15:20
+hdouqnd,178,student,"Oh yes, 42 times 3 equals 126.",00:15:24
+hdouqnd,179,tutor,"Yes, very good. And this one?",00:15:39
+hdouqnd,180,student,"42 times 20, so 820.",00:15:46
+hdouqnd,181,tutor,42 times 20.,00:15:56
+hdouqnd,182,student,840.,00:15:58
+hdouqnd,183,tutor,"Yes, exactly. [unclear]",00:16:00
+hdouqnd,184,student,Does it let me click it? Yeah. [unclear],00:16:08
+hdouqnd,185,tutor,"Yes, then what you can do is add them up.",00:16:15
+hdouqnd,186,student,"Then add them up. Yeah, so 8 plus— no, wait, so 6 plus 0 equals 6. 2 plus 4 equals 6. 8 plus 1 equals 9.",00:16:19
+hdouqnd,187,tutor,"Yes, very good. Yes, excellent. Very well done. Okay, now you can try this one as well.",00:16:34
+hdouqnd,188,student,"So, 36 times 1 equals 36. 36 times 20 equals 600— [unclear] 612.",00:16:46
+hdouqnd,189,tutor,"Yeah, let's just— 36 times 20.",00:17:01
+hdouqnd,190,student,"Oh, so it'll be 612— 672. [unclear]",00:17:10
+hdouqnd,191,tutor,"Okay, let's just check it again. How do you multiply normally? 36 times 20. So 36 times 10 equals 360.",00:17:22
+hdouqnd,192,tutor,Yes.,00:17:31
+hdouqnd,193,student,Then 36 times 2 equals 600— equals 60— [unclear] 72.,00:17:33
+hdouqnd,194,tutor,"Yeah, 72, exactly.",00:17:45
+hdouqnd,195,student,So it will be 720.,00:17:48
+hdouqnd,196,tutor,Yes.,00:17:52
+hdouqnd,197,student,So it will be 720.,00:17:53
+hdouqnd,198,tutor,Yes.,00:17:58
+hdouqnd,199,student,So yeah.,00:17:59
+hdouqnd,200,tutor,"Yes, very good.",00:18:01
+hdouqnd,201,student,Yeah.,00:18:03
+hdouqnd,202,tutor,720. Then what we have to do?,00:18:05
+hdouqnd,203,student,"Oh, add them up.",00:18:11
+hdouqnd,204,tutor,Yes.,00:18:13
+hdouqnd,205,student,"6 0 6. Yes, as",00:18:14
+hdouqnd,206,tutor,you know.,00:18:18
+hdouqnd,207,student,"3 2 5. Yes, exactly.",00:18:21
+hdouqnd,208,tutor,5. 0,00:18:29
+hdouqnd,209,student,"7 7. Yes, very good. Excellent.",00:18:29
+hdouqnd,210,tutor,"So now you know how to do that, right? Okay, now we have [unclear] more questions. Yeah, you can try this one. Sure.",00:18:34
+hdouqnd,211,tutor,So you can use this one over here.,00:18:48
+hdouqnd,212,student,"Okay, wait, I'm right. So [unclear]",00:18:53
+hdouqnd,213,student,36.,00:19:16
+hdouqnd,214,tutor,"Oh, write 36 over here on the top.",00:19:17
+hdouqnd,215,student,"Yeah. 36 times 15. 36 times 5 equals, um... [unclear]",00:19:21
+hdouqnd,216,student,"Is it, um, is it, um, 100 and, uh, 100, is it 100 and 80?",00:19:46
+hdouqnd,217,tutor,"Yes, exactly, 180.",00:20:01
+hdouqnd,218,tutor,"Yes, very well done. [unclear]",00:20:10
+hdouqnd,219,student,"Yes, excellent. Very well done. Okay, good. Okay, now you can write the answer over here. [unclear]",00:20:24
+hdouqnd,220,student,So 64 times 30 equals— will it be— 64 times 30 equals 100— [unclear] would be 192 times 64 times 30.,00:20:46
+hdouqnd,221,tutor,"Okay. No, actually, no.",00:21:25
+hdouqnd,222,student,"Uh, yeah. Let's just write it. I think we'll get it straight away. [unclear] 32, right? So first let's find the ones.",00:21:28
+hdouqnd,223,background,So it will be 128.,00:21:44
+hdouqnd,224,student,"Yes, exactly, 128. And now let's see 64 times 30.",00:21:49
+hdouqnd,225,tutor,64 times 30 equals...,00:21:55
+hdouqnd,226,student,Is it 188?,00:21:59
+hdouqnd,227,tutor,No. So let me just check. 64 times 30... [unclear],00:22:02
+hdouqnd,228,student,"Oh yeah, so will it be 108, 184?",00:22:11
+hdouqnd,229,tutor,No. So how did you solve the question?,00:22:21
+hdouqnd,230,student,"First I did 4 0 4. Wait, 6 9— oh, 6 3 9. Oh, we have to multiply.",00:22:24
+hdouqnd,231,tutor,"Oh, 4 times 0 4.",00:22:35
+hdouqnd,232,student,"6 times 3 18. Add the 1 in the next column, 180.",00:22:39
+hdouqnd,233,student,184.,00:22:45
+hdouqnd,234,tutor,"Okay, not that way, right? So normally, okay, what did you last time do? You did like this, like 64 and 64 times— you have to keep one zero here. [unclear]",00:22:47
+hdouqnd,235,student,"3 times 64, can you repeat?",00:23:03
+hdouqnd,236,background,3 times 64 equals 128.,00:23:08
+hdouqnd,237,tutor,3 times 64?,00:23:12
+hdouqnd,238,student,128.,00:23:19
+hdouqnd,239,tutor,"128. Yeah, wait, give me a second. Something is missing. [unclear]",00:23:22
+hdouqnd,240,tutor,Let me just check. Give me a minute. [unclear],00:23:38
+hdouqnd,241,student,Okay. 64 tons of that.,00:23:56
+hdouqnd,242,tutor,"Okay, 64 times 3, not 64 times 2. [unclear]",00:24:05
+hdouqnd,243,student,"Okay, so will it be 64 times 3? Will it be 192?",00:24:15
+hdouqnd,244,tutor,"Yes, exactly, 192. So it will be like this if you multiply. 1,920. 20.",00:24:29
+hdouqnd,245,student,Oh yeah.,00:24:39
+hdouqnd,246,tutor,"Yeah, okay. Now you can write it over here.",00:24:40
+hdouqnd,247,student,"Oh, where? Okay, 1,000. Wait, wait, where shall I write it? Over here?",00:24:43
+hdouqnd,248,tutor,"Yeah, you can write 1 over here and 920.",00:24:55
+hdouqnd,249,tutor,"Oh, wait.",00:25:03
+hdouqnd,250,student,"You can write 1 here, near the plus sign.",00:25:05
+hdouqnd,251,tutor,"Oh, okay. [unclear]",00:25:16
+hdouqnd,252,student,920.,00:25:22
+hdouqnd,253,tutor,Oh.,00:25:25
+hdouqnd,254,student,"Yes, now you can.",00:25:27
+hdouqnd,255,tutor,"So, a plus 0 equals a. [unclear]",00:25:28
+hdouqnd,256,student,"Wait, what number is over here?",00:25:39
+hdouqnd,257,tutor,"Oh, it's 2.",00:25:42
+hdouqnd,258,student,Oh yeah.,00:25:44
+hdouqnd,259,tutor,You wrote it over here.,00:25:45
+hdouqnd,260,student,2 2 4. 1 9 10. So plus 0.,00:25:47
+hdouqnd,261,student,So you put a zero and you put one at the bottom. One plus one equals one.,00:25:59
+hdouqnd,262,tutor,"Oh, one plus one equals?",00:26:06
+hdouqnd,263,student,Two.,00:26:08
+hdouqnd,264,tutor,"Yes, exactly. Very good. Okay, I think you now understand it very well.",00:26:08
+hdouqnd,265,student,Yeah.,00:26:15
+hdouqnd,266,tutor,"Yes, good working out. Now let's see the next slide. [unclear]",00:26:16
+hdouqnd,267,student,"Oh, explain the error.",00:26:23
+hdouqnd,268,background,33.,00:26:28
+hdouqnd,269,student,"Well, first he does 33 times 6, and that equals— he gets that right.",00:26:29
+hdouqnd,270,tutor,Yes.,00:26:35
+hdouqnd,271,student,"Then he does 33 times 30, but he gets it wrong because 33 times 30 equals 999. So yeah, that's how he got it wrong.",00:26:36
+hdouqnd,272,tutor,"Yes, so he has multiplied it by just 3, right?",00:26:53
+hdouqnd,273,student,Yeah.,00:26:57
+hdouqnd,274,tutor,"Instead, we have to multiply by 30. Yeah, so can you solve this question over here?",00:26:58
+hdouqnd,275,student,"Oh, me?",00:27:05
+hdouqnd,276,tutor,Yes.,00:27:06
+hdouqnd,277,student,"Oh, so first you do, um, uh, here you do 8 9, that equals 10 and 7. Yeah, [unclear]",00:27:07
+hdouqnd,278,tutor,"let's correct, let's correct this part and write again over here.",00:27:17
+hdouqnd,279,student,"17. 9 9 18. There's a 1. 9. 1 9 10. Plus the 1, 11. Then put 1 there. Yes, that's really good,",00:27:21
+hdouqnd,280,tutor,"right? You can do it by all in the mind. Yeah, very good. Okay, good working out. Yeah, we are done with this lesson as well. So do you have any questions?",00:27:40
+hdouqnd,281,student,No.,00:27:51
+hdouqnd,282,tutor,"No. Okay. Yeah, so I think— yes, I forgot to give you the star, right? [unclear] So have you tried this lines and shapes over the—",00:27:52
+hdouqnd,283,tutor,Yeah.,00:28:15
+hdouqnd,284,student,"Oh, yes.",00:28:16
+hdouqnd,285,tutor,Yeah. It's a nice [UNCLEAR].,00:28:18
+hdouqnd,286,student,Yeah. So—,00:28:18
+hdouqnd,287,tutor,Okay.,00:28:28
+hdouqnd,288,student,So—,00:28:30
+hdouqnd,289,tutor,So what are you doing at school these days? No Christmas parties?,00:28:33
+hdouqnd,290,student,"Uh, no.",00:28:43
+hdouqnd,291,tutor,No?,00:28:45
+hdouqnd,292,student,"So 6 divided by 1 equals 0. 6 divided by 62, that equals 10. [unclear]",00:28:46
+hdouqnd,293,tutor,Let's just check again. We missed something. What is that?,00:28:57
+hdouqnd,294,student,The zero.,00:29:07
+hdouqnd,295,tutor,"Yes, we put zeros. And how much should come here? Is it 6?",00:29:09
+hdouqnd,296,tutor,Yeah.,00:29:15
+hdouqnd,297,student,Let's just go through the question again. Let me [UNCLEAR]. Show me how you took this one.,00:29:15
+hdouqnd,298,background,So I did 6 divided by 1 equals 0 and put 6.,00:29:15
+hdouqnd,299,student,Put 6 over here. Is it 6? What do we put?,00:29:30
+hdouqnd,300,background,"6, 1.",00:29:36
+hdouqnd,301,student,"Yes, 1.",00:29:38
+hdouqnd,302,student,"Yes, we put 1 on here.",00:29:39
+hdouqnd,303,tutor,"And that equals 2. Then 6 divided by a, a equals... yeah, so equals 1.",00:29:43
+hdouqnd,304,student,Yes. [unclear] And 6 divided by 4 equals 0. Then you do a remainder 2.,00:29:55
+hdouqnd,305,student,"Yes, yes. So actually what we do is 6 divided by 8 is 1, right? So we take the remaining over here, the 2 over here. [unclear] And then let's divide it by 6 divided by 24. 4, exactly. Very good. Very well done.",00:30:06
+hdouqnd,306,background,Can I just give you another question?,00:30:32
+hdouqnd,307,tutor,"I think you can do the questions, right? Let's just try the questions. [unclear]",00:30:37
+hdouqnd,308,student,"Okay, so now we have calculated the following using the formula method of chart division. [unclear]",00:30:46
+hdouqnd,309,student,that we're going to run to the name of the [UNCLEAR].,00:30:46
+hdouqnd,310,student,"So, 5 divided by 1 equals 0, then you put 1 here.",00:31:32
+hdouqnd,311,tutor,"Okay, let's go from the first place. So let's go from here.",00:31:38
+hdouqnd,312,student,5 divided by 6 equals 1.,00:31:43
+hdouqnd,313,tutor,"Yes, we have how many remaining?",00:31:47
+hdouqnd,314,student,1.,00:31:51
+hdouqnd,315,tutor,"Yes, what do we do then? For that you put 1.",00:31:52
+hdouqnd,316,student,The next column.,00:31:55
+hdouqnd,317,tutor,Yes.,00:31:57
+hdouqnd,318,student,5 divided by 16 equals 3.,00:31:59
+hdouqnd,319,tutor,Yes. How much remaining?,00:32:05
+hdouqnd,320,student,Then 1. [unclear],00:32:06
+hdouqnd,321,tutor,Yeah.,00:32:11
+hdouqnd,322,student,"So, and then 2, then there's 1 remaining. Yeah, so...",00:32:12
+hdouqnd,323,student,"Then for, yeah, then number 3, then you put 3 there, 3. Then 5 divided by 3 equals 0. So I have this 4 left over here.",00:32:22
+hdouqnd,324,tutor,Yes.,00:32:40
+hdouqnd,325,student,"So you put, it doesn't, yeah, so you put 4 there and 5 divided by 3 equals 0.",00:32:42
+hdouqnd,326,student,So then it'll be 8 remainder 3.,00:32:48
+hdouqnd,327,tutor,"Okay, let's just check again. So we had 11 over here, right? 11 divided by 5 is how much?",00:32:52
+hdouqnd,328,student,11 divided by 5 equals 2.,00:32:59
+hdouqnd,329,tutor,2. How much is remaining? [unclear] 5 times 2 is 10. Right? So how much is remaining?,00:33:03
+hdouqnd,330,student,Hello.,00:33:32
+hdouqnd,331,background,Hello. [unclear],00:33:34
+hdouqnd,332,student,Yeah.,00:33:35
+hdouqnd,333,background,"5 times— okay, 11.",00:33:37
+hdouqnd,334,student,5 divided by 5 equals—,00:33:42
+hdouqnd,335,tutor,5 divided by 11 is?,00:33:46
+hdouqnd,336,student,2.,00:33:48
+hdouqnd,337,tutor,So how many is remaining?,00:33:49
+hdouqnd,338,student,1.,00:33:51
+hdouqnd,339,tutor,"Yes, 1. So what do we do for that 1?",00:33:52
+hdouqnd,340,student,5 divided by 13.,00:33:56
+hdouqnd,341,tutor,"Yes, 5 divided by 13. So what is the answer?",00:33:59
+hdouqnd,342,student,"1,222.",00:34:03
+hdouqnd,343,tutor,"Yes, and remaining?",00:34:07
+hdouqnd,344,student,3.,00:34:09
+hdouqnd,345,tutor,"Exactly, very good. Yeah, so now you can write the answer over here. Remaining 3, you just can write it over here, remaining 3. Okay, very good. Yeah, now you can try this one. [unclear]",00:34:09
+hdouqnd,346,tutor,It's hard to place all these numbers in the squares correctly. [unclear],00:34:33
+hdouqnd,347,tutor,Yeah.,00:34:38
+hdouqnd,348,student,Okay.,00:34:42
+hdouqnd,349,tutor,"Okay, how much we have to take here? Is it one?",00:34:54
+hdouqnd,350,student,"Yeah, there's one remaining, so it will be one.",00:34:57
+hdouqnd,351,tutor,"Okay, let's just check. So 4 divided by 3 is 0. How much is remaining?",00:35:02
+hdouqnd,352,student,1.,00:35:10
+hdouqnd,353,tutor,"Is it 1? We have 3, right?",00:35:11
+hdouqnd,354,student,"Yes, we have 3.",00:35:15
+hdouqnd,355,tutor,So what do you think? What we have to do?,00:35:16
+hdouqnd,356,student,3.,00:35:19
+hdouqnd,357,tutor,"Yes, 3. Let's take 3 over here.",00:35:20
+hdouqnd,358,student,"Yeah, okay. So then, um, 4 divided by 32 equals",00:35:27
+hdouqnd,359,student,"So, equals 8.",00:35:37
+hdouqnd,360,tutor,"Yes, 8.",00:35:43
+hdouqnd,361,student,"Because 8, then 4 divided by 6 equals 1, then there's 2 remaining. So, um... [unclear]",00:35:45
+hdouqnd,362,background,"Yes, exactly, very good.",00:35:58
+hdouqnd,363,tutor,"So answer is 816. Very good, very well done. Okay, we have another one more slide to go. What is that? What is the question?",00:35:59
+hdouqnd,364,student,"Mrs. Jones has saved £7,284. She says it equals... Equally between 3 grandchildren, how much do they receive each?",00:36:19
+hdouqnd,365,tutor,"Yes, you can do it again.",00:36:32
+hdouqnd,366,student,"So, 7,284 divided by 3.",00:36:35
+hdouqnd,367,student,"So, 3 into 7. 3 into 7 equals 2.",00:36:52
+hdouqnd,368,tutor,Yes.,00:36:59
+hdouqnd,369,student,1 remaining.,00:37:01
+hdouqnd,370,tutor,Yes.,00:37:03
+hdouqnd,371,student,3 into 12 equals 4. 3 into 6 equals 2.,00:37:03
+hdouqnd,372,tutor,Yes. How many remaining?,00:37:09
+hdouqnd,373,student,2.,00:37:12
+hdouqnd,374,tutor,Yes.,00:37:14
+hdouqnd,375,student,2. Then 3 into 24. 4 equals... [UNCLEAR]...equals 8.,00:37:16
+hdouqnd,376,tutor,"Yes, exactly, 8. Very good. Very well done. So the answer is 2,428. And each... and we missed something. What is that?",00:37:16
+hdouqnd,377,student,Also those as to the...,00:37:40
+hdouqnd,378,tutor,Yeah.,00:37:42
+hdouqnd,379,student,parts.,00:37:42
+hdouqnd,380,background,Yeah.,00:37:42
+hdouqnd,381,student,"Yeah. So is this... um, to the receive each?",00:37:46
+hdouqnd,382,student,"Yes, and we have to write the sign as well.",00:37:50
+hdouqnd,383,tutor,"Oh, oh yeah, okay, let me write it.",00:37:57
+hdouqnd,384,student,It's there in the symbols as well. You just can take the symbols and— [unclear],00:38:00
+hdouqnd,385,tutor,"Yes, very good. Okay, so this lesson is finished as well. I think you are— yeah, you are doing great with this lesson. So next week we can start a new lesson. And have a great week, okay?",00:38:06
+hdouqnd,386,tutor,Okay.,00:38:20
+hdouqnd,387,student,See you next week. Bye.,00:38:20
+hdouqnd,388,background,Bye. Bye.,00:38:22

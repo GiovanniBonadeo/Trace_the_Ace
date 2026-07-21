@@ -1,0 +1,320 @@
+session_id,utterance_id,role,content,timestamp
+cpnlptm,0,tutor,Hello?,00:00:00
+cpnlptm,1,background,[unclear],00:00:00
+cpnlptm,2,student,"Hi, Jenson. How are you doing today?",00:00:00
+cpnlptm,3,tutor,"Hi, how are you?",00:00:04
+cpnlptm,4,student,I'm doing great. So how has your day been?,00:00:05
+cpnlptm,5,student,"It's been doing alright. It's been alright, yeah.",00:00:09
+cpnlptm,6,tutor,"Yeah, okay, that's great to hear. So yes, today's lesson is finding arc length and area of sectors. And if you remember, we actually started this last week.",00:00:12
+cpnlptm,7,student,Yeah.,00:00:24
+cpnlptm,8,tutor,Right? Yes. Awesome. So do you remember what we did in the last week?,00:00:25
+cpnlptm,9,student,"No, about— oh no, I was really struggling.",00:00:31
+cpnlptm,10,tutor,"Yeah, so mainly we had a couple of equations to remember. To do this lesson, right?",00:00:34
+cpnlptm,11,tutor,Yeah.,00:00:41
+cpnlptm,12,background,"So, yes, do you happen to remember the equations?",00:00:42
+cpnlptm,13,student,"Pi r squared is the area of a circle, I know that.",00:00:50
+cpnlptm,14,tutor,Pi r squared.,00:00:55
+cpnlptm,15,student,Or is that the circumference?,00:00:56
+cpnlptm,16,tutor,So for circumference also you have another equation which is—,00:00:59
+cpnlptm,17,student,Is that 2πr?,00:01:02
+cpnlptm,18,tutor,"Yeah, that's 2πr. So yeah, that's all right. The area of the circle and circumference, those equations are correct. But we learned an equation for arc length. Do you remember?",00:01:04
+cpnlptm,19,student,"No, I don't think so.",00:01:19
+cpnlptm,20,tutor,"Ah, okay, no worries. So do you see this part over here, the arc length equation that I highlighted?",00:01:20
+cpnlptm,21,student,"Yeah, the degrees divided by 360 times pi and diameter. [Speaker:Tutor]... [UNCLEAR] Yes. And what is arc length again?",00:01:26
+cpnlptm,22,student,What do you mean? What arc length?,00:01:39
+cpnlptm,23,tutor,The length of one of those arcs of the circle.,00:01:44
+cpnlptm,24,student,"Circle. So on this circle, which part is considered as the arc length?",00:01:50
+cpnlptm,25,tutor,The— Do you want me to draw it on?,00:01:57
+cpnlptm,26,tutor,"Yeah, you could just use your point. Oh, there you go. Yes, that is arc length, right? Very well done. So you might need to remember this equation, all right? Theta over 360 times phi times the—",00:02:02
+cpnlptm,27,student,[unclear] diameter.,00:02:19
+cpnlptm,28,tutor,"Diameter, yeah, yeah. And then we also learned an equation for the area of the sector. Which was quite similar but also a little bit different at the same time. So do you remember what that was?",00:02:20
+cpnlptm,29,student,[unclear] Do you have to include the length of the radius and the— you have to include the radius as well? [unclear],00:02:37
+cpnlptm,30,tutor,"No, not the radius. Let me show you. So the area of the sector is theta over 360 pi times r squared. So yes, the radius is what you'll be using, but similar to the arc length equation.",00:02:56
+cpnlptm,31,student,Yeah.,00:03:16
+cpnlptm,32,tutor,Right?,00:03:17
+cpnlptm,33,student,Yeah.,00:03:18
+cpnlptm,34,tutor,"Okay, so is that— yes, shall we recall the two equations once more before going ahead with that?",00:03:21
+cpnlptm,35,student,So the circumference— [unclear] the length of the arc is the angle divided by 360 times pi diameter.,00:03:29
+cpnlptm,36,tutor,Yeah.,00:03:42
+cpnlptm,37,student,And then the The area is 3— the angle divided by 360 times πr².,00:03:43
+cpnlptm,38,tutor,"Yes, right, there you go. So this is quite similar. If you remember, you told me area of a circle is πr², right?",00:03:54
+cpnlptm,39,student,Yeah.,00:04:04
+cpnlptm,40,tutor,"Yeah, so then if it's a sector, all you have to do is get πr² and multiply it with the angle divided by the [Speaker:Tutor].../360. [Speaker:Jenson] Yeah.",00:04:05
+cpnlptm,41,tutor,"Okay, so that way you can remember this easily. Yeah, right?",00:04:16
+cpnlptm,42,student,Yeah.,00:04:20
+cpnlptm,43,tutor,"Okay, awesome. Then I feel as I'm— we Jenson move on to the place where we stopped off. This is the question we have to start today with. Yeah, I think now you're all good to give this a try. Shall we go ahead with it?",00:04:21
+cpnlptm,44,background,So Below is the sector of a circle with the radius of 2 centimeters. Find the area of the sector to 3 significant figures. So can I use my calculator?,00:04:37
+cpnlptm,45,tutor,"Yes, exactly, you have— you Jenson have to use your calculator.",00:04:50
+cpnlptm,46,student,"So you do 30 divided by 360, which is, uh, 0— no, yeah, 30 divided by 360. Which is 0. [unclear] and then how many? 3 significant figures. Okay. 0.83. So then you've got that and then you times that by π. So I'll put my",00:04:54
+cpnlptm,47,background,"0.083 times π, which is?",00:05:22
+cpnlptm,48,student,"0.083π....times pi equals 0.260— no, 261. And then when— with that, don't you— do you times by the diameter as well?",00:05:28
+cpnlptm,49,student,"Since it's area, what was the equation for area? Was it— [unclear] You times it by the radius squared, so you times it by 4.",00:05:52
+cpnlptm,50,student,"Yeah, yeah, yeah, exactly.",00:06:02
+cpnlptm,51,tutor,Which gives us... [unclear],00:06:08
+cpnlptm,52,student,This is 1.044.,00:06:15
+cpnlptm,53,tutor,Yes.,00:06:24
+cpnlptm,54,student,But it's 1.04 because it's to 3 significant figures.,00:06:25
+cpnlptm,55,tutor,Mm-hmm.,00:06:32
+cpnlptm,56,student,Like that?,00:06:33
+cpnlptm,57,tutor,"Yep, exactly. That is the area.",00:06:34
+cpnlptm,58,background,"And then for the perimeter, you have to find the arc length first.",00:06:42
+cpnlptm,59,tutor,"So we do the same thing again. So, I mean, we can keep the 0.83, 0.083.",00:06:50
+cpnlptm,60,student,Yeah.,00:06:56
+cpnlptm,61,tutor,"And then we still have to times it by pi, which Jenson give us 0.261. But, and then we have to times it by, again, we have to times it by 4.",00:06:59
+cpnlptm,62,background,Okay.,00:07:11
+cpnlptm,63,tutor,"Because you do, um, Oh no, yeah, you still have to times it by 4, which gives us 1.04 again.",00:07:12
+cpnlptm,64,tutor,So why do we have to times by 4 over here?,00:07:21
+cpnlptm,65,student,"Because the radius is 2 centimeters and you have to times it by diameter, don't you?",00:07:24
+cpnlptm,66,tutor,"Yes, exactly.",00:07:29
+cpnlptm,67,student,"So if we put our numbers in, so 1.04 is there.",00:07:31
+cpnlptm,68,tutor,Mm-hmm.,00:07:36
+cpnlptm,69,student,"2, 2, we can work that out. That would be 2 plus 2 is 4, plus 1.04 is 5.04. 4. So that was my final answer.",00:07:38
+cpnlptm,70,tutor,"Mm-hmm. Yes, 5.5.",00:07:48
+cpnlptm,71,student,"[unclear] centimeters as well, actually.",00:07:53
+cpnlptm,72,tutor,"Yes, centimeters. And hold on, what about the units of this one, the answer before?",00:07:55
+cpnlptm,73,student,Centimeters squared.,00:08:01
+cpnlptm,74,tutor,"Centimeters squared, yes, exactly. Right, so there you go. Now, very well done. I'm really proud with the fact that you— with how you did these two questions. So Big thumbs up for that. And if you take a look at the marks, you have 2 marks here and 3 marks here. So why do you think there's a different number of marks for Part A and B?",00:08:04
+cpnlptm,75,student,"Because for Part B— well, no, yeah, for Part A you only have to find out the area and you've got the equation for that, whereas for Part",00:08:31
+cpnlptm,76,student,"B, you can— you have— you've got the equation, but then you have to add the two angles as well. [unclear]",00:08:42
+cpnlptm,77,tutor,"Yes, yes, yes, the two sides, because here we are working our perimeter and the equation just gives you arc length, right? Very well explained there. So that is about arc length, area of the— area of the sector, and perimeter. So brilliantly explained.",00:08:50
+cpnlptm,78,tutor,Brilliant! Now I'm going to let you try out another exam-style question.,00:09:07
+cpnlptm,79,student,"Below is a sector of a circle, radius 40 centimeters. It has a perimeter of 105.13 centimeters to 2 decimal places. Find the size of angle [UNCLEAR]. [Speaker:Tutor] Okay, so we have to work backwards. So we've got the perimeter. So then we can divide the [UNCLEAR]. Okay, well, I'll write it down. 105 point— what was it? 105.13. [Speaker:Jenson] 13, yeah.",00:09:13
+cpnlptm,80,tutor,"So then we first, we divide that by pi. So, um, divided by pi.",00:09:44
+cpnlptm,81,student,So why do you divide it by pi?,00:09:56
+cpnlptm,82,tutor,"Because to get that answer, we would have already timesed by pi.",00:09:58
+cpnlptm,83,tutor,"Oh, so is this—",00:10:03
+cpnlptm,84,student,"Oh no, we need to divide by radius squared first.",00:10:04
+cpnlptm,85,tutor,"So I have one question. What does this— what is this value, 105.13? Is that a—",00:10:08
+cpnlptm,86,background,That's our perimeter.,00:10:15
+cpnlptm,87,tutor,Perimeter.,00:10:17
+cpnlptm,88,background,Yeah.,00:10:19
+cpnlptm,89,tutor,"So now, which equation are you using? Is it the equation for area of the circle?",00:10:20
+cpnlptm,90,background,The radius squared one. The radius squared equation.,00:10:26
+cpnlptm,91,tutor,"Ah, okay, so radius squared equation is actually for area of the sector, right?",00:10:32
+cpnlptm,92,student,Is it?,00:10:38
+cpnlptm,93,tutor,"Yes, this is for area of the sector. [unclear]",00:10:40
+cpnlptm,94,student,"Okay, well, all right, okay, we have to do— so we first have to take away from this 80, I think. So take away 80, which gives us 105.13, take away 80, 25.13, which gives us the length of this, the arc.",00:10:43
+cpnlptm,95,tutor,"Length of the arc, yes, exactly.",00:11:17
+cpnlptm,96,student,"So then with that being 21.1— 25.13, then we can find out the length of the arc, which is π times diameter. So then the diameter would be 80, so we have to do— would we have to divide by 80?",00:11:20
+cpnlptm,97,tutor,"Yeah, so you could do this. Arc length, we'll use the letter L. So you could basically write the equation and substitute the values and then",00:11:39
+cpnlptm,98,tutor,"What you have to find is theta. So you can make theta the subject and figure it out, because at this point you know what this is, you know what the diameter is, you only have to find theta, which can be done. Yeah?",00:11:49
+cpnlptm,99,student,"Yeah, so we've got— [unclear] Okay, right, I'll do it. Alright, we've got the diameter, so we have to divide by— we have to divide by 80, don't we?",00:12:04
+cpnlptm,100,student,"Yes, the arc length has to be divided by 80, yes.",00:12:19
+cpnlptm,101,tutor,"Which gives us 25.13, answer divided by 80. 25.13 divided by 80 is 0.314125. 0.3— what? [unclear]...4, 1, 2, 5.",00:12:25
+cpnlptm,102,tutor,Okay.,00:12:45
+cpnlptm,103,student,"Then once we've got this, we have to divide by pi.",00:12:46
+cpnlptm,104,tutor,Hmm.,00:12:51
+cpnlptm,105,student,So divide by pi.,00:12:51
+cpnlptm,106,tutor,Okay.,00:12:53
+cpnlptm,107,student,"So the answer divided by pi— [unclear] Wait, let me just do this again. 0.314125 divided by pi gives us 0. [unclear] pi gives us 0.099989493.",00:12:54
+cpnlptm,108,student,Mm-hmm.,00:13:23
+cpnlptm,109,tutor,"Then with that, you times that number by 360.",00:13:28
+cpnlptm,110,tutor,Uh-huh.,00:13:36
+cpnlptm,111,student,"Uh, let me just— why is it not— there we go. Uh, then you do that times 360, which Jenson give us our answer. So we do answer times 360, so 35.36.",00:13:36
+cpnlptm,112,tutor,"Uh-huh, yeah, 36.",00:13:56
+cpnlptm,113,student,36 degrees.,00:13:58
+cpnlptm,114,tutor,So...,00:14:01
+cpnlptm,115,student,Yeah. [Speaker:Tutor]...36 degrees. [Speaker:Background] [unclear],00:14:04
+cpnlptm,116,tutor,"Absolutely, 36 degrees is the angle. So now, how was this question different to what we did in the last question?",00:14:08
+cpnlptm,117,background,Because we had to rearrange the equation and work backwards.,00:14:18
+cpnlptm,118,tutor,"Work backwards, yes. And when you do work backwards here, you had two equations, right? So how did you know which one you had to use?",00:14:22
+cpnlptm,119,student,"Because I knew that we had the perimeter, which means if we just take— if we just divide— took away the two radiuses, then we could find the arc length. And then once I got the arc length, I knew what to do.",00:14:31
+cpnlptm,120,tutor,"Yes. So like you explained there, the important bit is figuring out which equation to use, because both equations are there. And now, for example, you can't use the area equation because area wasn't given, right?",00:14:47
+cpnlptm,121,tutor,"So like you— the first step was figuring that out, and afterwards, yes, you work your way backwards. Very well done. So that was a very good strategy you used over there and very impressive. So here you go with another token. And let me give you just one more question, a similar question to try out over here, and then we are done. [unclear]",00:15:01
+cpnlptm,122,tutor,"So below is the sector of a circle, angle 144. It has an area of 6π centimeters squared. Find the radius of the sector.",00:15:29
+cpnlptm,123,student,"Okay, so first... [unclear]",00:15:39
+cpnlptm,124,student,An area of 6π centimeters. So then do we work back from the area?,00:15:56
+cpnlptm,125,tutor,"Yeah, we could do that. Yeah.",00:16:04
+cpnlptm,126,student,So what was the area equation again? Was that that radius squared one?,00:16:07
+cpnlptm,127,tutor,"Yes, yes, that was the one. Shall we copy this from here? I think that would be easy. Let's see if we can copy it.",00:16:13
+cpnlptm,128,tutor,"Hold on. Copy. I don't think that Jenson work. Hold on. [unclear] No, that did not work. It's okay. So yeah, area is equal to? A equal to theta angle over 360. [unclear]",00:16:19
+cpnlptm,129,student,Sorry.,00:16:57
+cpnlptm,130,tutor,"Oh, no, it's okay. Times pi and r squared. Okay?",00:16:59
+cpnlptm,131,student,Yeah.,00:17:06
+cpnlptm,132,tutor,"Yeah, this is the equation.",00:17:08
+cpnlptm,133,background,So we've got the area.,00:17:10
+cpnlptm,134,tutor,But we don't have the radius.,00:17:15
+cpnlptm,135,student,"Hmm. Okay, so do we divide by pi?",00:17:20
+cpnlptm,136,tutor,Yeah.,00:17:32
+cpnlptm,137,student,"So, right, okay, right, divide it by— okay, 6π centimeters, so it would be 6— so we divide it by π, it would just be 6 centimeters.",00:17:33
+cpnlptm,138,tutor,"Mm-hmm, yep.",00:17:42
+cpnlptm,139,student,"6 centimeters. Then once we've got 6 centimeters, we can— would we times it by 360 or divide it by 360?",00:17:44
+cpnlptm,140,tutor,What do you think?,00:17:57
+cpnlptm,141,background,360.,00:17:59
+cpnlptm,142,student,Times by 360 because we're doing the inverse.,00:18:01
+cpnlptm,143,tutor,"Yes, exactly.",00:18:04
+cpnlptm,144,student,So 6 times 360 is—,00:18:05
+cpnlptm,145,student,"2160. Then once we've got this number, would we square root it?",00:18:10
+cpnlptm,146,tutor,"Square root it? Hmm, what about the theta? Did we forget the theta value?",00:18:29
+cpnlptm,147,student,"Yeah, 144. So would we divide it by 144?",00:18:39
+cpnlptm,148,tutor,"Yes, exactly. We divide it by [UNCLEAR]. [Speaker:Jenson] Which gets us 15. And then do we— [unclear]",00:18:53
+cpnlptm,149,tutor,Yeah.,00:19:20
+cpnlptm,150,student,And then do we square root 15?,00:19:20
+cpnlptm,151,tutor,Yes. Why do we square root 15?,00:19:24
+cpnlptm,152,student,Because it's radius squared and we need to just find the radius.,00:19:26
+cpnlptm,153,tutor,"Yes, wonderful. So you square root it.",00:19:29
+cpnlptm,154,student,"3.9. So then, yeah, 3.9, and then what would be centimeters? I'll just add that on.",00:19:34
+cpnlptm,155,tutor,"Yeah, 3.9 centimeters. Exactly. Okay, so very good work done. And yeah, so like you said, this is also another inverse question. Right? So what was the most important thing we learned over here in this slide?",00:19:45
+cpnlptm,156,student,Um... to rearrange the equation.,00:20:02
+cpnlptm,157,tutor,"To rearrange the equation. So, and what should you make sure to not miss when you rearrange an equation?",00:20:07
+cpnlptm,158,student,The angle value.,00:20:16
+cpnlptm,159,tutor,Angle value. So because angle value is also there. And...,00:20:18
+cpnlptm,160,tutor,"A small strategy you could do is, since you're doing it on computer, it's fine, but when you do it on paper, jot down the equation, and after the equation, always write a, substitute the values, and rewrite the equation. Okay, so a is 6π, theta is 144, and then that Jenson show you that r is the only word that you don't know.",00:20:23
+cpnlptm,161,student,Yeah.,00:20:47
+cpnlptm,162,tutor,"Yeah, okay, okay. So that is also an amazing work over there. And now we're going to move on to the final slide, which is the review slide, since we're done with the lesson. So all I want you to do is go through these two and check if they've done this correctly.",00:20:48
+cpnlptm,163,student,"So, uh, find the area of this sector. So it gives us the",00:21:08
+cpnlptm,164,student,"It gives us the radius and it gives us the theta value, so it is area equals then the theta value, so [unclear] and then go down, divide by 360, and then it's pi",00:21:13
+cpnlptm,165,student,The pi radius squared.,00:21:40
+cpnlptm,166,tutor,Uh-huh.,00:21:43
+cpnlptm,167,student,"Oh no, I don't want to do that. I need to get rid of that. [unclear] Squared. So that is my equation that I need to use for this one.",00:21:44
+cpnlptm,168,tutor,Mm-hmm.,00:21:57
+cpnlptm,169,student,So then I do— so we can get that. So we do 30 divided by 360.,00:22:00
+cpnlptm,170,tutor,So then that would give us 0.0833.,00:22:14
+cpnlptm,171,student,Mm-hmm.,00:22:24
+cpnlptm,172,tutor,"Then once we've got this, we have to times it by π, so then answer times pi. That gives us 0.262. And then we times that by the diameter. So we've got 7, so the diameter is 14.",00:22:29
+cpnlptm,173,tutor,Mm-hmm.,00:22:49
+cpnlptm,174,student,"Oh no, it's [unclear] squared, isn't it? So, oh yeah, right. So you need to times by 49.",00:22:51
+cpnlptm,175,tutor,"49, yeah.",00:22:55
+cpnlptm,176,student,So 0.262 times 49. Is 12.8.,00:22:56
+cpnlptm,177,tutor,"Yes, 12.8 centimeters squared. And where do you think they've been wrong in this question over here? Why isn't the answer—",00:23:04
+cpnlptm,178,student,They've divided 30 by 180 rather than 360.,00:23:17
+cpnlptm,179,tutor,Brilliant. So very good job in figuring the mistake there. So that is why— that is the importance of remembering the correct equation. Yeah.,00:23:22
+cpnlptm,180,student,Yeah.,00:23:32
+cpnlptm,181,tutor,"Okay, then what about this one, the second question? [unclear]",00:23:33
+cpnlptm,182,student,"So, find the perimeter of this sector. So you do— for this perimeter we have to find out the arc length.",00:23:39
+cpnlptm,183,tutor,Uh-huh.,00:23:57
+cpnlptm,184,student,"So that would be our diameter one, so I'll write that down.",00:23:59
+cpnlptm,185,tutor,"Hmm. Also, you could just check if this is correct, and if it's not correct, try writing it down. Otherwise, it's just— yeah.",00:24:06
+cpnlptm,186,student,So 110 divided by 360 is right.,00:24:15
+cpnlptm,187,tutor,Yeah.,00:24:19
+cpnlptm,188,student,"You times it by pi, which is right. And you times by 12, which is correct. So then I'll do that on my calculator to see what that's like first.",00:24:21
+cpnlptm,189,tutor,"Uh-huh, yeah, that's better.",00:24:35
+cpnlptm,190,student,"110 divided by 360. Is that the answer? Times by pi. Oh, no, wait. [unclear]",00:24:40
+cpnlptm,191,student,"110 divided by 360, and now the answer times by pi, and then times by 12, which gives us 11.52, which is correct. But then they haven't added on the two [UNCLEAR], the two radiuses, so you have to add on",00:24:52
+cpnlptm,192,student,12.,00:25:18
+cpnlptm,193,tutor,Okay.,00:25:21
+cpnlptm,194,student,"Which gives us 23.5. So they haven't added on the [UNCLEAR]. They haven't added on the diameter at the end because that's what we need to find the perimeter. [Speaker:Tutor] Yes. So that's where they went wrong, right?",00:25:23
+cpnlptm,195,student,Yeah.,00:25:37
+cpnlptm,196,tutor,Yes. So what would the answer be if they do add the two radiuses?,00:25:38
+cpnlptm,197,student,23.5. I'll write that down. [unclear],00:25:45
+cpnlptm,198,tutor,"Absolutely, 23.5 centimeters would be the answer. So now you came across a couple of possible mistakes that could happen in these type of questions, right?",00:25:52
+cpnlptm,199,student,Yeah.,00:26:03
+cpnlptm,200,tutor,What do you— what would you remember from this slide when you do work out questions similar to these questions?,00:26:04
+cpnlptm,201,student,You have to get the equation first. And then you have to make sure they've done everything right so you can check on the mistakes.,00:26:12
+cpnlptm,202,background,"Yes, exactly. And before we do move on to the next lesson, can you just sort of recall the two equations again that we learned here?",00:26:20
+cpnlptm,203,student,Area equals the angle divided by 360. Times pi times radius squared. And the length of the arc is the length equals the angle divided by 360 times pi times diameter.,00:26:34
+cpnlptm,204,tutor,"Yes, there you go. So all this, remember it down. And if you feel like you wouldn't remember it down, make sure to jot it down somewhere, all right?",00:26:51
+cpnlptm,205,student,Yeah.,00:27:00
+cpnlptm,206,tutor,"That's okay. Awesome. So you've done amazing work. This lesson. So keep up the great independent work. And now we're going to move on to the next lesson. So give me a minute, a second. Hold on. Uh, there it is. Calculating compound interest and depreciation is what we're gonna learn about today. So, uh, there is a small question right over here.",00:27:01
+cpnlptm,207,tutor,"And, yes, they're basically asking you who is correct. Shall we see if it's Samira or Natasha that's correct?",00:27:31
+cpnlptm,208,student,"Yeah. Okay, so Olaf puts £2,000 in a bank account with annual interest rate of 1%. Samira says after 10 years he Jenson have £2,200. Natasha says no, he Jenson have £2,209.",00:27:42
+cpnlptm,209,tutor,"Who is correct? So every year it goes up by 1%, is that correct?",00:27:59
+cpnlptm,210,student,Mm-hmm.,00:28:08
+cpnlptm,211,tutor,"So 1% of 200,000 is— [unclear] Well, no, 2,000, sorry, divided by 100 is 20. So if you do 20 times 10, which is 200,",00:28:11
+cpnlptm,212,tutor,Samira is correct.,00:28:25
+cpnlptm,213,background,Samira is correct. [unclear],00:28:28
+cpnlptm,214,tutor,"Aha, okay. So here Samira is not correct, right? So Natasha is correct because now I understand what you were trying to say. So if you get 1% and if you add it 10 times, then you would get the answer. That does seem correct. But if you think about it, Say the first year you have £2,000 and 1% of that would be 20, right?",00:28:32
+cpnlptm,215,student,Yeah.,00:29:01
+cpnlptm,216,tutor,"So that is £2,020. So the second year also, the 1% is calculated not from 2,000 but from 2,020, because now the new amount you have is 2,020. [unclear] So that way, if you calculate it and if you go on It's not £20 every year. The amount of— amount of the percentage increase adds on. So it's £20 the first year, and the next year it's a bit higher. It goes on like that. That reason, Natasha is a person who's correct, and we have an equation for that, so we'll go through it and figure that out. Okay?",00:29:01
+cpnlptm,217,student,[unclear],00:29:42
+cpnlptm,218,tutor,"Awesome. That was a great try over there, Jenson. Big thumbs up for that. Good work. Now, do you remember the equation, by the way, for interest, compound interest?",00:29:44
+cpnlptm,219,student,No.,00:29:57
+cpnlptm,220,tutor,"No? Okay, that's fine. So, right, let's give this a try. Let's go through this and see what they're asking. This is also another exam-style question. [unclear]",00:29:58
+cpnlptm,221,tutor,"Okay. Emmanuel has £15,000 he wants to invest. Calculate the amount of money he invested. He invested it for 3 years. So the interest rate for West Bank is £2 per year compound interest. So first off, £15,000.",00:30:14
+cpnlptm,222,student,Mm-hmm.,00:30:29
+cpnlptm,223,tutor,"If we do 1% of £15,000.",00:30:31
+cpnlptm,224,student,Mm-hmm.,00:30:33
+cpnlptm,225,tutor,"So £15,000 divided by 100, that gives us £150. So it'll be going up £300 on the first year.",00:30:34
+cpnlptm,226,tutor,Uh-huh.,00:30:43
+cpnlptm,227,student,"So the first year he has £15,300. The second year, 2% of £15,300, so £15,300 divided by 1 would be— no, divided by 100, sorry. £15,300 divided by 100 would be £153, times 2 would be £306. So it'd go up to £15,606.",00:30:45
+cpnlptm,228,tutor,Uh-huh.,00:31:13
+cpnlptm,229,student,"And then off that, the next year, 1% of that, £15,606 divided by 100 is £156.06. So £156.06 times that by 2 is £312.12. So £15,606 or [UNCLEAR]. £606 plus £312.12. [unclear]",00:31:15
+cpnlptm,230,tutor,"Would give us £15,918.12. So, £15,000. I'll put the pound sign in as well.",00:31:47
+cpnlptm,231,student,Yeah.,00:31:57
+cpnlptm,232,tutor,"Yeah. £15,912.",00:31:57
+cpnlptm,233,tutor,"Yep, that is...",00:32:02
+cpnlptm,234,student,"Let me just put my point. There we go. Oh, no, there's a [unclear] 1,918.",00:32:03
+cpnlptm,235,tutor,"Yeah, yeah, yeah, 918 and 12 pence, right? Ah, there you go, that's perfect. So now you understand why the question, why the answer you gave earlier was not correct, right?",00:32:14
+cpnlptm,236,student,"Yeah, I understand now.",00:32:28
+cpnlptm,237,tutor,"So can you just say it in, like, explain that in words to me?",00:32:30
+cpnlptm,238,student,"So the first thing I did, I took the interest of the first amount every single year, but now I took that interest off the new amount every single year.",00:32:37
+cpnlptm,239,tutor,"Mm-hmm. Yes. So as you did figure out here, every year the total amount you have keeps on increasing with the interest being added to it, right?",00:32:47
+cpnlptm,240,student,Yeah.,00:32:58
+cpnlptm,241,tutor,"Okay, so now that you did it, this— perfect, the answer is correct and everything. But one thing to see is it's just 3 years, right? So if it's 3 years, you can easily add it on and work it out like this. But if the— if we go back, the first question was 10 years. Now 10 years, it's quite difficult to add on 10 answers and go.",00:32:58
+cpnlptm,242,student,"Yeah, it would take a long time.",00:33:23
+cpnlptm,243,tutor,"Yes, so for that we have an equation for you to remember. So we Jenson go through that equation over here and I'll let you try a similar question to that. Okay, so they say to work out compound interest. And do you know the reason why we call this compound interest?",00:33:25
+cpnlptm,244,student,No.,00:33:45
+cpnlptm,245,tutor,The reason why we call it compound interest is if it's,00:33:46
+cpnlptm,246,tutor,"Just if I just wanted you to find the interest of [unclear] 15,000, that's just interest. But compound interest is, we call it that because every year you get that interest and that is added to your initial amount. And then in the next year, you find the interest for that new amount, right? So every year the interest you get is all like increased. So that's why we call it compound interest. Here they say when something increases by a fixed percentage each year, we use this one. This is the formula. Final answer, the final value is equal to original value, which is 15,000 in this case, times by the multiplier to the power of n.",00:33:50
+cpnlptm,247,student,Yeah.,00:34:41
+cpnlptm,248,tutor,"Okay, so multiplier to the power of n. Now we'll just talk a little bit about what n is first. So n represents the number of times we are applying the percentage change. So how many years are we talking about here?",00:34:41
+cpnlptm,249,student,3 years.,00:34:56
+cpnlptm,250,tutor,"So that is the n here. The original value was [UNCLEAR]. We know the multiplier. How we find that is, to find the multiplier for a percentage increase, we need to find 100 100% plus the percentage given in this [unclear] here.",00:34:57
+cpnlptm,251,tutor,Yeah.,00:35:14
+cpnlptm,252,student,"And convert into a decimal, right? For example, if I get this question, final value, I'll just write final. Original value was 15,000 times, for multiplier, you need to get 100%, 100% and add the percentage we have here. What is the percentage they have given?",00:35:14
+cpnlptm,253,student,2%.,00:35:41
+cpnlptm,254,tutor,2%. So 100 plus 2 is equal to 102%. But how do you write this as a decimal? [unclear],00:35:42
+cpnlptm,255,background,"One second, I was just sneezing. 1.02.",00:35:54
+cpnlptm,256,tutor,Are you all good?,00:36:00
+cpnlptm,257,background,"Yeah, I'm all right now, thanks.",00:36:01
+cpnlptm,258,tutor,"Okay, awesome. So yes, like you said, 1.02, and that is your multiplier. And multiplier to the power of n, where n is 3 because the number of years is 3. So, Jenson, could you try typing this in your calculator? And I'm pretty sure we should get the same answer you got back in the other slide.",00:36:02
+cpnlptm,259,student,So what would you like me to type in my calculator? [unclear] 100?,00:36:27
+cpnlptm,260,tutor,"What, so—",00:36:30
+cpnlptm,261,student,"No, no, this one. 15,000 times 1.02 to the power 3. Just to double-check if we get the same answer. [unclear]",00:36:31
+cpnlptm,262,tutor,"£15,918.12.",00:36:45
+cpnlptm,263,student,"Exactly the same answer you got, right?",00:36:48
+cpnlptm,264,tutor,Yeah.,00:36:51
+cpnlptm,265,student,"So both the methods are correct. But this method can be used— [unclear] Yeah, a lot quicker and can be used for a bigger number of years. But if the number of years is smaller, your method is perfectly fine as well.",00:36:52
+cpnlptm,266,tutor,Yeah.,00:37:06
+cpnlptm,267,student,Right?,00:37:07
+cpnlptm,268,tutor,"Can I just have another recap over the method, please?",00:37:07
+cpnlptm,269,background,"Yes. So what we do is to find the total amount, the final amount, you get the original amount, the amount we start with. Okay?",00:37:11
+cpnlptm,270,student,Yeah.,00:37:22
+cpnlptm,271,tutor,And you multiply it with a multiplier. Here there's a multiplier to the power n.,00:37:23
+cpnlptm,272,student,Yeah.,00:37:29
+cpnlptm,273,tutor,"So if we are talking about a percentage increase, we get the percentage and add it to 100%. Okay?",00:37:31
+cpnlptm,274,student,"Yeah, so— [unclear] 102 into a decimal. 102% into a decimal. And times the decimal and do the multiplier by the number of years and then times it by your 100%.",00:37:42
+cpnlptm,275,tutor,"Sorry, I'm sorry, I couldn't hear you. What was it again?",00:37:55
+cpnlptm,276,student,So you get your— [unclear],00:38:01
+cpnlptm,277,tutor,"5 minutes, miss. So you get your 100% number and then you times it by— well, you get your whatever your interest rate is, and you put it into 100, and then you go into a decimal, and then you times that decimal by 100% with the multiplier of [unclear] years.",00:38:04
+cpnlptm,278,tutor,"Yes, exactly. So that's basically— now, the reason why we— do you know the reason why we add 100 to the given percentage?",00:38:28
+cpnlptm,279,student,"Um,",00:38:36
+cpnlptm,280,student,Because it's 102% of the original amount.,00:38:42
+cpnlptm,281,tutor,"Yes, exactly. So because it has to increase by 2%, and to do that we need the original 100% plus an extra 2% every year. That's why we add the 100% to 2% to get this answer as a multiplier, and we apply this for 3 years. That is the meaning behind this equation. Original value times multiply to the power of n.",00:38:46
+cpnlptm,282,tutor,Yeah.,00:39:14
+cpnlptm,283,background,Okay? Do you want to jot this equation down somewhere?,00:39:14
+cpnlptm,284,student,"Yeah, I'll write it down now.",00:39:19
+cpnlptm,285,background,Awesome.,00:39:23
+cpnlptm,286,student,Do you want me to write it down on a piece of paper that I've got here?,00:39:23
+cpnlptm,287,background,"Yeah, anything that like a piece of paper that you can keep would be helpful for you. Final value equals original value into multiplier to the power of n.",00:39:27
+cpnlptm,288,student,"Yep, I've got it.",00:39:48
+cpnlptm,289,tutor,"Okay, awesome. So now let's use that equation and try this question over here.",00:39:49
+cpnlptm,290,student,Okay.,00:39:57
+cpnlptm,291,student,"So Tony bought her flat for £140,000. It increases in value by 12% each year. How much would it be worth after 4 years to the nearest pound? So right, we've got first £140,000, which is our original value.",00:39:58
+cpnlptm,292,tutor,Uh-huh.,00:40:17
+cpnlptm,293,student,"And then we've got— do we add it? We add it, don't we? Or do we— Yeah, we have it. No, times it. Times.",00:40:18
+cpnlptm,294,tutor,Times.,00:40:28
+cpnlptm,295,student,Times by 1.12.,00:40:29
+cpnlptm,296,tutor,"Yeah, yeah.",00:40:35
+cpnlptm,297,student,To the power of— to the power 4.,00:40:37
+cpnlptm,298,tutor,4.,00:40:44
+cpnlptm,299,student,Then this would give us our answer if put into a calculator.,00:40:45
+cpnlptm,300,student,"So 140,123 times 1.12 to the power... I don't have a power 4 button on my calculator. I only have to the power 2 and to the power 3.",00:40:50
+cpnlptm,301,tutor,Isn't there a key on your calculator that shows you like a blank sort of like [unclear] just a box like this and then a box up here where you could type any number? The key should look like this. There. Can you tell me what sort of a calculator you're using? Is it a—,00:41:05
+cpnlptm,302,student,I'm using an electronic calculator.,00:41:27
+cpnlptm,303,tutor,"Aha. So there should be a sign that says like this. So do you have the— do you know the model of the calculator? Can you just tell me the model of the calculator? Is it [UNCLEAR]? No, it's [UNCLEAR]. H-E-L-E-C-T. C-T. Okay. Let me see. So, okay. So then there is a key that looks like this, sort of like a small— [Speaker:Tutor] Like a stash. Yeah, that's like a to the power symbol that has sort of like a cap. You see that right next to the x squared key?",00:41:31
+cpnlptm,304,student,"Yeah, I see, I see, I see.",00:42:23
+cpnlptm,305,tutor,"So you have to type 1.12, then this sort of a cap, and then press 4. That basically means to the power.",00:42:25
+cpnlptm,306,student,"Ah, right. Is that so?",00:42:35
+cpnlptm,307,student,"If I tell you, this answer might be wrong because of my calculator, but 220,292.7.",00:42:37
+cpnlptm,308,tutor,"Oh yeah, that's correct. 200, it's 20, sorry, it's 220,292.7. Oh yeah, 93. So this is the answer. Yeah, that is correct.",00:42:48
+cpnlptm,309,tutor,Yeah.,00:43:05
+cpnlptm,310,background,"So yes, that is correct. Okay, wonderfully done. So that is correct, like I said, and now you know what this key means on your calculator, right?",00:43:06
+cpnlptm,311,student,"Yeah, thank you for telling me.",00:43:16
+cpnlptm,312,background,"Awesome. So then we Jenson continue here on the next day, and remember the equation that we did today, all right? So any questions before we wrap it up for today?",00:43:18
+cpnlptm,313,student,"No, but thanks for your help with the calculator and the maths.",00:43:28
+cpnlptm,314,tutor,"Awesome. No worries at all. So try out the position questions and the feedback form. And yeah, so hope you have an amazing day ahead and I Jenson see you after the break.",00:43:32
+cpnlptm,315,student,Thank you.,00:43:41
+cpnlptm,316,tutor,Bye-bye. Have a nice vacation.,00:43:43
+cpnlptm,317,student,Thank you. You too.,00:43:45
+cpnlptm,318,tutor,Thank you.,00:43:52

@@ -1,0 +1,239 @@
+session_id,utterance_id,role,content,timestamp
+ierndup,0,tutor,Hello?,00:00:00
+ierndup,1,background,[unclear],00:00:00
+ierndup,2,student,Hello.,00:00:00
+ierndup,3,tutor,"Hi, Leland.",00:00:00
+ierndup,4,student,Hello.,00:00:01
+ierndup,5,tutor,"Hi, Leland. Can you hear me?",00:00:02
+ierndup,6,student,"Yes, I can hear you.",00:00:04
+ierndup,7,tutor,"Okay, hello. So, welcome back to the new term. How are you today?",00:00:06
+ierndup,8,student,I'm good. How are you?,00:00:11
+ierndup,9,tutor,"I'm good as well. Thank you for asking. All right, so how was your holidays, Leland?",00:00:13
+ierndup,10,student,It was good.,00:00:19
+ierndup,11,tutor,"It was good. Okay, so are you excited to be back at school?",00:00:22
+ierndup,12,student,You could say.,00:00:27
+ierndup,13,tutor,"Okay, okay. All right, okay, Leland. So we are going to get started with a new lesson today. So are you ready for the lesson?",00:00:29
+ierndup,14,student,Yeah.,00:00:38
+ierndup,15,tutor,"Okay, right, that's great. All right, Leland, so today's lesson is about solving problems using the order of operations. Okay, so the topic might sound a bit, uh, what do you say, uh, so did you understand what this topic meant?",00:00:40
+ierndup,16,student,Yes.,00:01:06
+ierndup,17,tutor,"Mm-hmm, okay, that's great then. So then can you try out the learning goal question first?",00:01:06
+ierndup,18,student,Okay.,00:01:13
+ierndup,19,tutor,"Okay, all right. [unclear]",00:01:15
+ierndup,20,tutor,Hello?,00:01:37
+ierndup,21,student,"Uh, yes, ma'am. [unclear]",00:01:38
+ierndup,22,tutor,Hello?,00:01:40
+ierndup,23,student,"Uh, nothing. My connection just went off and I have to restart, so.",00:01:41
+ierndup,24,tutor,"All right, all right. Okay, all good now.",00:01:48
+ierndup,25,tutor,"21. Okay, very good. So how did you get this answer, Leland?",00:01:58
+ierndup,26,student,So I know that this 3 and the 2. So I have this thing called bid mass.,00:02:06
+ierndup,27,tutor,"Yes, very good.",00:02:17
+ierndup,28,tutor,Okay.,00:02:20
+ierndup,29,student,"B for brackets, I for indices, D for division, M for multiplication, A for addition, and S for subtraction. And if a question comes up with different operations like this one, then you have to use [unclear] in the order.",00:02:22
+ierndup,30,student,"There were no brackets there, but there were indices, so I had to work out the indices first, which is 9. 3 times 3 is 9. And then there was no division, but then there was— so the brackets is 2 times 6.",00:02:46
+ierndup,31,tutor,Yeah.,00:03:11
+ierndup,32,student,"So we have to do 2 times 6, which is 12.",00:03:11
+ierndup,33,tutor,Okay.,00:03:15
+ierndup,34,student,"And then the indices, and then the addition.",00:03:16
+ierndup,35,tutor,"Yes, exactly. Right, very well done. So the final answer in this case would be 21, and also spot on on your explanation. Okay, so you have actually explained the whole concept of using the order of operations. Okay, so very well explained.",00:03:18
+ierndup,36,tutor,"Alright, Leland. So since you were able to do this on your own and you sound pretty confident about this, okay, so we can skip the prior learning question and also skip the concept slides and directly move on to the practice slide. Okay, so there are 4 questions given here, so would you like to give that a try? [unclear]",00:03:39
+ierndup,37,tutor,"Hello, Leland, can you hear me?",00:04:05
+ierndup,38,student,"Yes, I can hear you.",00:04:08
+ierndup,39,tutor,"Okay, so can you try out these questions?",00:04:10
+ierndup,40,student,Sure.,00:04:13
+ierndup,41,tutor,"Okay, all right. And you can let me know when you're done, okay?",00:04:17
+ierndup,42,student,Okay.,00:04:22
+ierndup,43,tutor,All right. [unclear] [unclear],00:04:24
+ierndup,44,student,[unclear] [unclear],00:05:22
+ierndup,45,student,[unclear] [unclear],00:05:31
+ierndup,46,student,"Okay, I'm done.",00:05:55
+ierndup,47,tutor,"All right. Okay, so very well done in trying out all the questions on your own. So let's discuss them one by one. Okay, so would you mind taking me through this question, Leland, and tell me how you got this answer?",00:05:58
+ierndup,48,student,"[unclear] Again, brackets comes first, so 45 take away 21, which is 24. And then 3 squared is 9, 3 times 3 is 9. So 24 take away 9 is 15.",00:06:13
+ierndup,49,tutor,"Very good. Yes, that's the correct answer. And can you take me through the next 3 questions as well?",00:06:36
+ierndup,50,student,"Okay, so these are all [UNCLEAR]. So brackets first, 3 times 6 is 18.",00:06:44
+ierndup,51,tutor,Okay.,00:06:44
+ierndup,52,student,"2 cubed, now you have to do 2 times 2 times 2. So 2 times 2 is 4, times 2 is 8. And so 18 and 8.",00:06:49
+ierndup,53,student,is 26.,00:06:49
+ierndup,54,tutor,"Mm-hmm. Okay, that's correct. And we move on to question C.",00:06:49
+ierndup,55,student,"9 times 8 is 72, and 2 squared is 4. So 72 take away 2 squared is 68.",00:07:16
+ierndup,56,tutor,"Yes, that's correct. And the final one.",00:07:31
+ierndup,57,student,"31. Oh wait, I mean 30. 5 squared is 25, and 30 divided by 5 is 6. So 6 add 25 is 31.",00:07:36
+ierndup,58,tutor,"Is 31. Okay, very well done. Yes, good job done there. So shall we move on to the next part of the question? [unclear] Yeah. Okay, so this is an application question. Just look into the question and tell me how you would figure out the answer for this one.",00:07:54
+ierndup,59,student,Which number is missing from this calculation? [unclear],00:08:18
+ierndup,60,tutor,"Yes. Okay, so is that the final answer?",00:08:41
+ierndup,61,student,Yes.,00:08:45
+ierndup,62,tutor,"Yes, very good. That is the correct answer. So how did you figure this out?",00:08:47
+ierndup,63,student,"So 3, I was looking in how many— and 33 is a common multiple of 3, so I was looking what you have to times 3 by to get 33. And then I saw 11, and so I thought, yeah, and I was like, how do you get from 4 to 11? So I added 7 and it became 11. So 4 7 is 11, times 3 is 33. Yes,",00:08:52
+ierndup,64,tutor,"excellent work done there, Leland. So yes, that is the correct answer. Very well done there. We've actually completed the whole lesson in like 5 minutes. Very well done. Okay, so what do you think about this lesson, Leland? It",00:09:26
+ierndup,65,student,was pretty easy. It,00:09:41
+ierndup,66,tutor,"was pretty easy. Yes, I do agree with you. Okay, so since we have enough time, shall we move on to a new lesson, the next lesson?",00:09:43
+ierndup,67,student,[unclear],00:09:52
+ierndup,68,tutor,"Yeah, okay, so just bear with me for a minute until I load the next lesson, okay? Right, so the next lesson is gonna be about 1, 2, 3.",00:09:54
+ierndup,69,background,and the...,00:09:54
+ierndup,70,tutor,"All right. All right. Okay, so do you see the new lesson now?",00:09:54
+ierndup,71,student,Yes.,00:10:23
+ierndup,72,tutor,"Okay, so this is the next lesson, Leland, which is about finding missing angles. Okay? So have you worked with angles before?",00:10:25
+ierndup,73,student,Yes.,00:10:36
+ierndup,74,tutor,"Yes. Okay, perfect. All right, so as usual, let's get started with the learning goal question and then move forward. Okay, so can you try out this question? [unclear]",00:10:38
+ierndup,75,student,130.,00:11:09
+ierndup,76,tutor,"130, very good. And can you tell me how you figured out that this is going to be 130 degrees?",00:11:12
+ierndup,77,student,Because— so 40 is the top degree.,00:11:22
+ierndup,78,student,We always know that triangles with 3 sides always add up to 180 degrees. [unclear],00:11:28
+ierndup,79,tutor,Very good.,00:11:41
+ierndup,80,student,"180 degrees. So 40, and we can see at the bottom it's a right angle. So 40 and 90, 40 and 90 is 200 degrees. Is 130. What's left for the last corner? 50. So 50 and 130 is, uh, 180. So that's how we know it's 50. So 50 and x is on a straight line, which means it's on the degree 180.",00:11:43
+ierndup,81,tutor,[UNCLEAR],00:11:43
+ierndup,82,student,"50 take away 130, that's 80. Is 130. [unclear]",00:12:16
+ierndup,83,tutor,"Yes, very well explained, Leland. So you've actually explained two important theories when it comes to angles. Okay, so the first one being said that all the angles in a, in a triangle adds up to 180. So that's the first rule we need to figure out, that this is going to be 50°. Okay, so that's And the next rule, or the next theory, is that a straight line is always 180 degrees. Yeah, so that's how we figure out that 130 would be the angle here. Okay, so very well done there. All right, so we can actually skip the prior learning question. Okay, and we can move on to the practice slide. [unclear]",00:12:23
+ierndup,84,student,Yeah.,00:13:11
+ierndup,85,tutor,"Okay, so there are 2 questions given here, so you can give them a try. [unclear]",00:13:11
+ierndup,86,student,What's the missing angle of x? 70 degrees or 70 and 20? [unclear] 60. [unclear] [unclear],00:13:16
+ierndup,87,tutor,[unclear] [unclear],00:13:38
+ierndup,88,tutor,[unclear] [unclear],00:13:50
+ierndup,89,student,[unclear] [unclear],00:14:06
+ierndup,90,student,[unclear] [unclear],00:14:14
+ierndup,91,student,So. [unclear],00:14:31
+ierndup,92,student,Mm-hmm. [unclear],00:14:56
+ierndup,93,student,Okay. Is that all?,00:15:31
+ierndup,94,student,I think so.,00:15:47
+ierndup,95,tutor,"Okay, okay. All right, so good job done then trying out the questions on your own. So let's get started with the first question. Okay, so this is pretty similar to the one that we did in the learning goals slide. Yeah, so can you tell me how you got this answer, Leland? [unclear]",00:15:50
+ierndup,96,student,70 and 90 is 160. So what's left is 20. So 160 [unclear] 180 is 20.,00:16:11
+ierndup,97,tutor,"Okay, but is 20 the angle that we need to figure out?",00:16:31
+ierndup,98,background,So this would be 20.,00:16:36
+ierndup,99,student,[unclear],00:16:40
+ierndup,100,tutor,"Yeah. But we actually need to figure out this, yeah?",00:16:40
+ierndup,101,student,Yes.,00:16:46
+ierndup,102,tutor,Mm-hmm.,00:16:47
+ierndup,103,student,[unclear],00:16:49
+ierndup,104,tutor,"Yeah, there you go. 160. Okay. And it's all right because this is just typing it on a screen or a computer, but when you write it on your notebook, just make sure you put the degree symbol. Okay?",00:16:56
+ierndup,105,student,[unclear],00:17:13
+ierndup,106,tutor,"Right. And I think you can find the degrees in these symbols. Okay, so if you look at the toolbar, Leland, can you see there is an option called symbols?",00:17:16
+ierndup,107,student,Yes.,00:17:29
+ierndup,108,tutor,"Yeah, so if you click on that, and then if you click on the screen, you will get a box that contains all the symbols. So I think you can figure out that they have this. Oh, okay. [unclear] Yeah, what happened to the answers given here? I think they just disappeared.",00:17:31
+ierndup,109,tutor,"Okay, can you type them again?",00:17:59
+ierndup,110,student,Okay. [unclear],00:18:02
+ierndup,111,tutor,"Right, okay.",00:18:04
+ierndup,112,tutor,"So yes, this is 160, and I'll just put down the degrees for you, okay? I mean, like— [unclear]",00:18:21
+ierndup,113,tutor,"Right, there you go. Okay, Leland, so—",00:18:44
+ierndup,114,tutor,Can you tell me what were the principles behind figuring out these angles? What were the knowledge that you used to figure out these angles?,00:18:48
+ierndup,115,student,[unclear],00:18:59
+ierndup,116,tutor,Let's start with E. Yeah.,00:18:59
+ierndup,117,student,"Okay, so E, because it has 30 degrees and there's a right angle. E is on a straight line, which means 30 and 90 is 120. And D is on a straight line, so 130 [unclear] 180 is 60.",00:19:07
+ierndup,118,tutor,Very good. Yeah.,00:19:35
+ierndup,119,tutor,"Okay, so how did you know that it's going to be the same for G?",00:19:39
+ierndup,120,student,"Because the line that makes it 30 degrees is a straight, is straight for— is straight for— is straight, so it goes right across B, and the line that [unclear]",00:19:44
+ierndup,121,student,"The line that goes through E as well, the two lines that make E, [unclear] for G because they're both straight.",00:20:08
+ierndup,122,tutor,"Right, that's correct. Okay, and that's one way that you can look at it. Okay, so if I just tell you another way where you can figure out the value of G is by looking at these two angles. Okay, so do you know what these two angles are called? It has a special name. Angle E and angle G.",00:20:19
+ierndup,123,student,No.,00:20:39
+ierndup,124,tutor,"Okay, they are called vertically opposite angles. Okay, so vertically opposite angles will always have the same angle. Okay, can you see that they're just opposite to each other?",00:20:42
+ierndup,125,student,Yes.,00:20:54
+ierndup,126,tutor,"Yeah, so because of that, if this is 60 degrees, this also has to be 60 degrees. Okay, but the method that you explained is much more precise because you know the value of 90 and 30, and this obviously has to be 60. Okay, so yes, very well done. And finally, we have F. So how do you know that it's going to be 120?",00:20:56
+ierndup,127,student,"Because F— F is, um— [unclear] the same value as the 30 and the right angle because E is 60, which if— [unclear]",00:21:23
+ierndup,128,student,"So G is 60, right? And G is on a straight line, which means to make a whole it has to get to 180. So 60 and 120 is 180.",00:21:39
+ierndup,129,student,[unclear],00:21:54
+ierndup,130,tutor,"Yes, very good. Okay, very well done. Okay, so in this question, Leland, I see that you have used the theory of using angles on a straight line would be 180. Yeah, so that is mainly the theory that you have used here, right? Okay, so let me just teach you another theory which you can find here. Okay, so I'll just draw some lines. So this is the first line, and this is going to be the second line. Okay, let's just assume that these two are the only lines which are present. Okay, so what was the angle you would get here when you add these two together?",00:21:54
+ierndup,131,student,120.,00:22:36
+ierndup,132,tutor,"120. Okay, so let me just write 120 here. And what was the angle that you figured out in F?",00:22:39
+ierndup,133,student,[unclear],00:22:53
+ierndup,134,tutor,"It's 120 again. Okay, and what was the angle that we had in E?",00:22:53
+ierndup,135,background,60.,00:23:00
+ierndup,136,tutor,"60. And again in G, it's a 60. Okay, so that means this angle, okay, this angle that I'm pointing at is vertically opposite to this angle given here. Okay, so these two are vertically opposite and they are similar. Meanwhile, these two are also vertically opposite and similar. Okay, does that make sense?",00:23:03
+ierndup,137,student,Yes.,00:23:29
+ierndup,138,background,Yes.,00:23:31
+ierndup,139,tutor,"And also, do you know there is another rule? Do you know there's a rule called angle— [unclear] Yeah.",00:23:31
+ierndup,140,student,"So I think the [unclear] is if there's angles under a straight line and above the straight line, all the angles on the— all the angles around the straight line have to all add up to 360 to make a full—",00:23:42
+ierndup,141,tutor,"Yes, exactly. That is the point that I was going to explain now. So yes, you say angle at a point point. Okay, because this is the point, so angles around a point would be— would add up to 360. So you can just confirm if your answers or angles are correct by adding all these together. So yeah, we have 120 plus 60, which is 180, and then we've got the same value below as well. So 180 plus 180 would give us 360.",00:24:05
+ierndup,142,student,"[unclear] Okay, so all clear up to that point?",00:24:36
+ierndup,143,student,Yes.,00:24:41
+ierndup,144,tutor,"Yes, amazing. And right now, this is the [unclear] for the question, and we have a different theory here. So can you give that a try?",00:24:42
+ierndup,145,student,Okay. A shaded isosceles triangle is drawn...down inside a rectangle of [unclear] size and [UNCLEAR].,00:24:55
+ierndup,146,tutor,Okay.,00:24:55
+ierndup,147,student,"The half of this, 35 and 35 is 70. [unclear] [unclear]",00:25:13
+ierndup,148,tutor,"110 degrees. Very well done, that's the correct answer. So what is the theory that you used here in this question?",00:25:30
+ierndup,149,student,"Well, I know that 35 degrees is on one side, and I can see that an isosceles triangle, all sides are the same, so 35 degrees must be on the other side. And since angle A and the 35 degrees are on a straight line above, 35 and 35, 70, take away the 180 that the A is including with the 35 degrees, is 110.",00:25:40
+ierndup,150,tutor,"Very well said. Yes, that is the correct answer. And just one more question about it. So you said that isosceles triangle has all sides",00:26:13
+ierndup,151,tutor,"In the same length, is that what I heard?",00:26:23
+ierndup,152,student,Yes.,00:26:26
+ierndup,153,tutor,"Um, no. If it's an equilateral triangle, yes, we have all the sides in the same length. But when it's an isosceles triangle, we just have two sides of the same length while the other one has to be different. Okay, it's just two sides, not all sides. Okay.",00:26:28
+ierndup,154,student,Okay.,00:26:48
+ierndup,155,tutor,"All right, so if it's an equilateral triangle, yes, the one that you said applies to that. So that means all three sides would be the same. Okay, right. So with that being said, um, yes, that's the end of this lesson as well. Uh, but before we move on to the next lesson, I'll just— we can just go through some of the theories that they have given here. Okay, you actually did not need any support, but let's just go through these as well. Okay, so they say we can use our knowledge of angles and properties of shapes to find the missing angles. Okay, so as you said, angles on a straight line add up to 180. You just explained that. And then angles at a point total up to 360, which we did. Yeah, that's also correct. And we can use our knowledge of triangles to work out the missing angles. So Yes, as you said, the angles of a triangle add up to 180. By using that and by using the knowledge on angles on a straight line, you can figure out these angles. Okay. All right, Leland, if you have any questions before we move on to the next lesson?",00:26:50
+ierndup,156,student,[unclear] No.,00:28:00
+ierndup,157,tutor,No. So you think you did a pretty good job today in this lesson?,00:28:02
+ierndup,158,student,Yes.,00:28:07
+ierndup,159,tutor,"Yes, yes, I do agree with you. Okay, right, so let's move on to the new lesson. [unclear] Area, okay. I don't know if this is [UNCLEAR], but—",00:28:08
+ierndup,160,student,"Okay, so this is about calculating areas, but I feel like you've done this lesson before. I have no idea why it's appearing again. [unclear]",00:28:08
+ierndup,161,tutor,"I'm sorry, I couldn't hear you, Leland. What was it?",00:29:07
+ierndup,162,student,We have calculated areas and perimeters before.,00:29:15
+ierndup,163,tutor,"Yeah, that's the thing. So I'm pretty sure you've done this before, but for some reason it has appeared again. Okay, so it's in your learning objectives, like the next learning objective.",00:29:20
+ierndup,164,tutor,"It has to be this, okay? But it's all right. Let's just do the questions and move on to the new lesson. Is that all right with you?",00:29:31
+ierndup,165,student,Yes. [unclear],00:29:38
+ierndup,166,tutor,"Yeah, you just have to do the calculations, okay? Because I don't think we'll need more support in using those. So let's just do the questions, okay? If that's all right with you. So can you get the answer for this? Okay, [unclear]",00:29:41
+ierndup,167,tutor,"and also make sure you write down the units. Okay, if not, you will be not getting the complete marks for this. So what do you think would be the units in this case? [unclear]",00:30:09
+ierndup,168,tutor,Is it just centimeters?,00:30:26
+ierndup,169,student,Mm-hmm. Centimeters.,00:30:31
+ierndup,170,tutor,"No, it has to be square centimeters. So if you just write centimeters, it's not the correct answer. Okay? So it has to be 24 square centimeters because you multiply the centimeters with this centimeter. So when you multiply it twice, it becomes square centimeters.",00:30:38
+ierndup,171,student,"Yes, that's it. [unclear]",00:30:59
+ierndup,172,tutor,Right. So let's move on to the practice slides.,00:31:02
+ierndup,173,student,[unclear],00:31:09
+ierndup,174,tutor,Okay. So can you try this out? [unclear],00:31:10
+ierndup,175,student,[unclear] [unclear],00:31:14
+ierndup,176,student,[unclear] [unclear],00:31:27
+ierndup,177,tutor,"It's more frequent than just once in a while, and that the [unclear] will take more time.",00:31:47
+ierndup,178,student,"I think, yes, those things will take more time. [unclear]",00:32:00
+ierndup,179,tutor,[UNCLEAR] [unclear],00:32:00
+ierndup,180,tutor,[unclear],00:32:00
+ierndup,181,tutor,I have one question. [unclear] How do you know how many number of places you have to set them up with a 3?,00:32:30
+ierndup,182,tutor,Give me question 1 number. [unclear],00:32:55
+ierndup,183,tutor,Okay. All right. So are these your final answers?,00:33:52
+ierndup,184,student,Yes.,00:33:57
+ierndup,185,tutor,Okay. So don't you think you're missing something in the answers? [unclear] [unclear],00:34:00
+ierndup,186,tutor,"It's okay, Leland. You can just write to Type 2 over here. It's fine. I just— yeah. [unclear]",00:34:20
+ierndup,187,tutor,"Well, I can't see the rest of this. Can you just write it somewhere here? Yeah, it's better to move it. Yes, there you go. All right. So let's discuss the first part. So this is some sort of compound shape, okay? It's not just a regular shape. Okay, Leland, so how did you get 19 square centimeters for this one?",00:34:50
+ierndup,188,student,"[unclear] 3 times 2 is 6, and then 3 times 1 is— 3 times 2 is 6, and then 3 times 1 is— 2 times 1 is what? 3. So 6 and 3 is 9. And 5 times 2 is 10. Then 10 is [UNCLEAR]. 9 plus 10.",00:35:16
+ierndup,189,tutor,Okay. But do you need to actually multiply all those numbers like that?,00:35:16
+ierndup,190,student,Yeah.,00:35:53
+ierndup,191,tutor,"So if you had to divide this, Okay, so if you had to partition this shape into a regular one, how would you partition it?",00:35:53
+ierndup,192,student,[unclear],00:36:03
+ierndup,193,tutor,"Maybe you can use the line tool here and tell me how you would separate these shapes. Okay, okay, so you have two rectangles, yeah? So this would be the first rectangle and this would be the second rectangle. So now can you just tell me what is— so we are looking only at the shaded part, okay? So can you tell me what would be the area of this rectangle? [unclear]",00:36:05
+ierndup,194,student,6.,00:36:05
+ierndup,195,tutor,"Right, so it's 6 square centimeters, okay?",00:36:05
+ierndup,196,student,Yes.,00:36:47
+ierndup,197,tutor,"Okay, and what would be the area of this rectangle here?",00:36:49
+ierndup,198,student,[unclear],00:36:54
+ierndup,199,tutor,"Oh, 6. 6 again, okay. So that will be 6 plus 6 square centimeters. Yeah? So yes, that would give you 12. Square centimeters. Okay, so next time when you get a compound shape like this, I feel like it's better to just separate it into normal, like, compound shapes. Okay, there you can get the direct area and then add the areas together. Okay, is that clear? [unclear]",00:36:55
+ierndup,200,tutor,"Right. Okay, great. So yes, the next one is correct. It's 18 square centimeters. And that is— yes, 28 square centimeters is just multiplying the two numbers together. And yes, it's 5 centimeters. See, this is why I say that writing the units is important, okay? Because if you have not— if you have not written the units, okay, this would also look like an area. Does that make sense?",00:37:34
+ierndup,201,student,[unclear],00:38:05
+ierndup,202,student,[unclear],00:38:08
+ierndup,203,tutor,"Yes, okay, so that's why we say writing down the unit is extremely important. So yes, 8 times 5 would give you 40 square centimeters. So you can just divide these two numbers and get 5 centimeters. Okay, very well done. Right, moving to the application question. Okay, so can you figure out the answer for this one?",00:38:08
+ierndup,204,tutor,Okay.,00:38:35
+ierndup,205,student,Okay. This area of this shape is 168 centimeters squared. Find the missing [UNCLEAR]. [unclear],00:38:36
+ierndup,206,tutor,"All right. Okay, 3 centi— I feel like something is missing.",00:39:02
+ierndup,207,tutor,"Yeah, there you go. 3 centimeters. Very good. Okay, so can you please explain to me how you got 3 centimeters here?",00:39:25
+ierndup,208,student,"[unclear] 12 times 12 is 144, and we need to find out how much— 144, we need to get 24 in order to get to 168. And 8",00:39:33
+ierndup,209,student,/24 is 3.,00:39:33
+ierndup,210,tutor,"Mm-hmm, right. Very good. That is exactly how you would do this question. Okay, very well done. All right, Leland, so we have actually completed this lesson as well. Okay, so we've got around 4 minutes left to end the session. Okay, so what do you feel about the lessons that we did today? I [unclear] confident, but then—",00:39:33
+ierndup,211,tutor,"Yes, you did a very good job and you sounded very confident with the concepts and theories that all these lessons had. Okay, so very well done and that's a very good job, so keep it up. So shall we just check what we've got in the next lesson as well and then we can wrap it up?",00:40:20
+ierndup,212,student,Okay.,00:40:39
+ierndup,213,background,Okay.,00:40:40
+ierndup,214,tutor,"Yeah, sure. Okay, so let's see what we've got in our new lesson. Wait, hold on. One minute. Let's have a look. [unclear]",00:40:41
+ierndup,215,student,Yep. [unclear],00:40:54
+ierndup,216,tutor,Okay. All right. I think— I feel like this is going to be an easy lesson as well. So calculate,00:41:25
+ierndup,217,tutor,"the perimeter and unknown sides. Okay, so can you work out the learning goal question?",00:41:25
+ierndup,218,student,"Okay, um, calculate the perimeter of this regular hexagon. [unclear] [unclear]",00:41:25
+ierndup,219,tutor,"Very good, 30 centimeters. Okay. Okay, so what do you call a hexagon? What is a hexagon?",00:42:12
+ierndup,220,student,A shape with 5 sides.,00:42:24
+ierndup,221,tutor,"Is it 5 sides actually? We have 1, 2, 3, 4, 5, 6.",00:42:28
+ierndup,222,student,6.,00:42:36
+ierndup,223,tutor,"Yeah, 6 sides. Yes, okay. Right. And is that all? What can you say about each side? Like, are they equal? Similar? [unclear] Yes, very good. Yes, that's the important part here. Okay, so that's why we could figure out the perimeter of this figure. So you can simply do 5 times 6, which is 30. Okay, good job. And we've got around 1 minute left. Okay, so maybe you can just do the first question here.",00:42:36
+ierndup,224,student,[unclear] [unclear],00:43:10
+ierndup,225,tutor,28 centimetres. Good. Okay. Can you try the next question as well?,00:43:26
+ierndup,226,student,Okay. What was the [UNCLEAR]? [unclear],00:43:35
+ierndup,227,tutor,"Very good, 27 centimeters. Okay, all right, Leland. So let's stop it here and we can continue from this place next session. Okay, all right. So we've done a lot of lessons today. So what do you think was your favorite lesson out of these? [unclear]",00:43:51
+ierndup,228,tutor,Yeah?,00:44:17
+ierndup,229,student,It was—,00:44:19
+ierndup,230,tutor,"I'm sorry, I couldn't hear you. Yeah?",00:44:20
+ierndup,231,student,The one at the start that we did.,00:44:24
+ierndup,232,tutor,"The one at the start. Okay, what did we start with? Was it the order of operations? Yeah?",00:44:26
+ierndup,233,student,"Yeah, yeah.",00:44:33
+ierndup,234,tutor,"Yes, yes, yes, even I do find it quite interesting, yeah, because you have to pick and choose which one comes first and which one comes next, yeah?",00:44:34
+ierndup,235,student,Yeah.,00:44:45
+ierndup,236,tutor,"Yes, okay, Leland, all right, so I hope you had a good session today. So let's end the session for today, okay? So have you— hope you have a good [UNCLEAR], okay? So I'll see you next week, bye!",00:44:46
+ierndup,237,tutor,Bye. [unclear],00:45:00

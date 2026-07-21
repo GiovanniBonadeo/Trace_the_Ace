@@ -1,0 +1,309 @@
+session_id,utterance_id,role,content,timestamp
+gmaiopw,0,tutor,Hello?,00:00:00
+gmaiopw,1,background,[unclear],00:00:00
+gmaiopw,2,background,Hello?,00:00:00
+gmaiopw,3,tutor,Hello?,00:00:00
+gmaiopw,4,background,Hello?,00:00:01
+gmaiopw,5,tutor,"Hello, hi.",00:00:01
+gmaiopw,6,background,Hi.,00:00:02
+gmaiopw,7,tutor,"Hi, how are you today?",00:00:03
+gmaiopw,8,background,I'm okay.,00:00:05
+gmaiopw,9,tutor,"All right, Calloway, so how is school?",00:00:07
+gmaiopw,10,student,It's been okay.,00:00:09
+gmaiopw,11,tutor,"All right, great. Okay, just give a moment. Okay, so I need to manually upload your lesson as this is a lesson what we have already completed, Calloway. Okay, so can you just give me a few seconds?",00:00:11
+gmaiopw,12,student,Yeah.,00:00:25
+gmaiopw,13,tutor,"Okay, thank you so much. So let me manually upload the lesson for you. [unclear] Rounding numbers. [unclear]",00:00:26
+gmaiopw,14,tutor,"All right. So we are going to learn about rounding numbers to the nearest hundred and thousand today. Okay? So what do you know about rounding, Calloway?",00:00:42
+gmaiopw,15,student,"I know how to do it, and like I've done it before.",00:00:57
+gmaiopw,16,tutor,"OK, great. OK, so you have done rounding numbers to the nearest 10, I think, right?",00:01:01
+gmaiopw,17,student,"Yeah, I've done 10, 100, and 1,000.",00:01:06
+gmaiopw,18,tutor,"OK, that's great. You have done it at school, is it?",00:01:09
+gmaiopw,19,student,Yeah.,00:01:12
+gmaiopw,20,tutor,"OK, brilliant. So shall you try this learning goal question then?",00:01:13
+gmaiopw,21,background,"Uh, yeah. It says round 5,391 to the nearest 100. So if we do 100, we have to look at the tens column, and as it's a 9, We know it's going to go up, so it's going to be 5,400.",00:01:17
+gmaiopw,22,tutor,"Mm-hmm. All right, that's great. So that's a great answer you came up with. Can you try the prior learning question as well?",00:01:36
+gmaiopw,23,student,"Round 100 and— [unclear] No, 812 to the nearest 10. So we're going to look at the ones, which is a 2, so we'll make it go down.",00:01:44
+gmaiopw,24,student,So they are [unclear] and 10.,00:01:54
+gmaiopw,25,tutor,"810. Okay, I think you have a very good understanding about rounding numbers to the nearest 10, 100, and also maybe 1,000 as well. So you did great here. Okay, so let me move on to the you do side. I'm going to skip the other sides as you have a very good understanding about this. Okay.",00:02:01
+gmaiopw,26,tutor,"So in the [unclear] slide, we have 3 questions here. Which one would you like to try first?",00:02:23
+gmaiopw,27,student,"Number 1. So round 2,715 to the nearest hundred. So we'll start with the hundreds. So we'll look at the tens column, which is a 1. So we round down. So we're going to do— it's going to be 2,700.",00:02:27
+gmaiopw,28,tutor,"Okay, great.",00:02:47
+gmaiopw,29,student,"And the 2,000— [unclear] 2,715, round this to the nearest thousand. So we're looking at the hundredths column, which is 7, so it's going to make us go up. So we're going to have 3,000.",00:02:49
+gmaiopw,30,tutor,"We're going to have 3,000. Brilliant. Okay, that's a great answer you came up with. So if you want to round to the nearest thousand, which column do we need to look at to decide if we should round up or down?",00:03:05
+gmaiopw,31,student,"So if we're to round to the nearest thousand, we look at the hundreds. And if it's 5 and above, you go up. If it's 4 and below, you go down.",00:03:18
+gmaiopw,32,tutor,"Alright, so let me just change this question for you, okay? So if we have instead of 2,000— I will just type the number. Instead of 2,715, if we have 2,000— [unclear]",00:03:28
+gmaiopw,33,tutor,"990. Okay, and if I ask you to round this to the nearest hundred, what would you do?",00:03:41
+gmaiopw,34,student,"So you— if you didn't know what nearest hundred to that number is, you look at the tens, which is 9, so you round up, which will give you, um, 2,000— no, 3,000, because—",00:03:50
+gmaiopw,35,tutor,"Exactly, uh-huh, yes. Keep going.",00:04:02
+gmaiopw,36,background,"And then if we do So the answer for that 2,999 rounded to the nearest 100 would be 3,000.",00:04:06
+gmaiopw,37,tutor,"Alright, so that's a brilliant explanation there. So great explanation sticker for you, Calloway. So shall we go to the second question then?",00:04:15
+gmaiopw,38,student,"Yeah, so Tutor is round 5,325 to the nearest 1,100.",00:04:25
+gmaiopw,39,student,"We have to do it in this spot. So 1,000. So we're looking at the thousands. We're going to look at the hundreds, which is a 3. So we'll be rounding down. So we're doing 5,000 and— no, wait, what? Yeah, 5,000 it would be.",00:04:34
+gmaiopw,40,tutor,"It could be. It would be 5,000 because we are rounding to the nearest thousand, right? Okay, then we need to round it to the nearest hundred.",00:04:55
+gmaiopw,41,student,"So rounding to the nearest hundred, so we're doing hundreds, so we're going to look at the tens, which is a 2. And so, which is, so we'll go down. So we're going to do 5,300.",00:05:04
+gmaiopw,42,tutor,"Great, it would be 5,300. So once again, you came up with some Excellent answers for these questions here. So Calloway, now I can write, like through your explanation especially and the way how you [unclear] things out. So I saw that you have a very good idea about what we are doing here, right? So can you tell me like what is the rule of rounding?",00:05:21
+gmaiopw,43,student,"So when you do rounding, depending on what you're looking at, you look at the column after it.",00:05:48
+gmaiopw,44,student,"And what if that's less? It's 4 and less, you go down. If it's 5 and more, you go up.",00:05:56
+gmaiopw,45,tutor,"Alright, wonderful. So that was really nice. Okay, then shall we try the last question then?",00:06:02
+gmaiopw,46,student,"So [unclear] says which 2 numbers round to 5,600 when rounded to the nearest hundred? So we need to look at it and we have to write the A, B, C, D, or E. So if 5,600, it could go to— if you round it to the hundredths, there's no zeros, it could go to 5,000 and— well, if you rounded it to the next— [unclear]",00:06:10
+gmaiopw,47,tutor,"If there's no zeros, then it would be— So we don't know what these numbers are. Some of them we can identify.",00:06:46
+gmaiopw,48,student,"Oh, it would go to 5,500. So— [unclear] But if there was a number in the tens and it was bigger, then it would have gone to 5,700.",00:06:53
+gmaiopw,49,tutor,Okay. So what's the question asking us?,00:07:10
+gmaiopw,50,student,If we want the nearest—,00:07:13
+gmaiopw,51,student,100.,00:07:15
+gmaiopw,52,tutor,"Alright, great. Now there are 5 numbers which shows here with the letters. You can see, right? But we don't know the numbers. Some of them we can identify as there are markings here. The intervals are there. Now what does this A represent, if you think? If you look at this.",00:07:16
+gmaiopw,53,student,"5,450.",00:07:33
+gmaiopw,54,tutor,"Great. What about B? B, can we exactly say what it is?",00:07:36
+gmaiopw,55,student,"No, because it isn't in the middle and it's closer to 5,000. And also it's closer to 5,500, but it could be anything.",00:07:41
+gmaiopw,56,tutor,"Exactly, it could be anything. We can just have a guess or we can estimate, but we cannot think of the exact number. So we don't know what it is, but we can see it is closer to 5,500. And if you look at C, C also [UNCLEAR], right? [Speaker:Background] Yeah, it's like after the middle, but it's getting closer to 5,600.",00:07:49
+gmaiopw,57,student,"So like, it could be anything.",00:08:12
+gmaiopw,58,tutor,"Alright, so now, but we know something. We know C is more than 5,550. And D is less than 5,650. And E is more than 5,650. Okay, so we know something about that.",00:08:14
+gmaiopw,59,tutor,"So if we know something about that, they are asking, there are two numbers, but we don't know, we only know the letters, so we don't know the exact numbers. There are two numbers which when we round to the nearest hundred, we get 5600. That means when we round it to the nearest hundred means we are checking which 200 is it close to, like is it 5400 and 5500, or 5500 and 5600, or or as 5600 and 5700. But they say when we round it, it goes to 5600. So when you look at this number line here, which two letters or which two numbers are closer to 5600? That means when you round to the nearest hundred, you get the answer 5600. What do you think? [unclear]",00:08:37
+gmaiopw,60,tutor,Hello?,00:09:29
+gmaiopw,61,tutor,Hello?,00:09:30
+gmaiopw,62,background,Hello?,00:09:32
+gmaiopw,63,tutor,"Yes, Calloway. Can you hear me?",00:09:33
+gmaiopw,64,background,Yeah.,00:09:36
+gmaiopw,65,tutor,"All right. Okay, so when you look at this number line here, now there are two letters here. I don't know, it could be A, B, C, D, or E. They say when you round to the nearest hundred, we can round it to 5,600. It could be rounded up or rounding down, but here we get—",00:09:37
+gmaiopw,66,background,"Oh, that makes more sense. So I meant like when you rounded [unclear]",00:09:55
+gmaiopw,67,tutor,So which 2 letters you think would be closer to 5600?,00:10:01
+gmaiopw,68,student,C and D.,00:10:10
+gmaiopw,69,tutor,"Exactly, C and D. Why can't E be the answer? Can you tell me?",00:10:12
+gmaiopw,70,student,It can't be answered because it's more close to 5700.,00:10:19
+gmaiopw,71,tutor,Exactly. Can you think of Can you estimate E and tell me?,00:10:23
+gmaiopw,72,student,"It's probably going to be 5,600 and like 70.",00:10:28
+gmaiopw,73,tutor,"Okay, 5,670. And then if we round to the nearest hundred, what is the answer you would get?",00:10:35
+gmaiopw,74,student,"You would get 5,700.",00:10:41
+gmaiopw,75,tutor,Brilliant. So that is why E cannot be our answer. Can you tell me how C and D could be the possible answer? Can you just give me an example like this and explain,00:10:44
+gmaiopw,76,student,"Yeah, so C and D could be it because C is bigger than 5,050, which would go down to 5,500, so it would probably be like something like 5,570, which we round up to 5,600. And then D is a little less than 5,000— [unclear] Yeah, 5,650, but",00:10:55
+gmaiopw,77,student,"It's not that less, so maybe like 5,630.",00:11:20
+gmaiopw,78,tutor,Great.,00:11:25
+gmaiopw,79,student,"Which would round down to 5,600.",00:11:27
+gmaiopw,80,tutor,"Amazing. Now, is that clear why C and D are the only possible answers that we can have?",00:11:30
+gmaiopw,81,student,"Yeah, because B is more close to 5,500 and A is in the middle, is 5,450.",00:11:37
+gmaiopw,82,tutor,"Alright, that's brilliant. Okay, so you have some great understanding and I love to see how you work things out and how you kept thinking about these questions here. So good working out sticker for you, Calloway. You did great. Alright, so here we are going to the last question of this lesson, which is our go further slide. Now since we did this question here, I think you have a clear understanding about what you need to do in this go further step. OK, can you read the question first?",00:11:48
+gmaiopw,83,student,"It says the number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? You have two possible answers. So for this, they're probably— it's either going to be close to 5,000 or their last number is like 5,499 or something.",00:12:20
+gmaiopw,84,tutor,"Mm-hmm, great.",00:12:42
+gmaiopw,85,student,"Because like then that number and any numbers past 5,000 would have like a less than 50.",00:12:44
+gmaiopw,86,tutor,Exactly.,00:12:53
+gmaiopw,87,student,[unclear],00:12:55
+gmaiopw,88,tutor,So can you think of a number like that and write it here?,00:12:56
+gmaiopw,89,student,"So like 5,499.",00:13:00
+gmaiopw,90,tutor,"Great. So should we round up or down to get 5,000?",00:13:06
+gmaiopw,91,student,"Well, if we're looking at the nearest thousand— wait, no, because if you did the thousand, then the hundredths is a 4, which will make it go down. So that can't be right. So maybe— [unclear]",00:13:09
+gmaiopw,92,tutor,So—,00:13:28
+gmaiopw,93,tutor,"So now we know when we need to round to the thousand, which column do we need to look at?",00:13:37
+gmaiopw,94,student,"We have to look at the hundreds, so it can't be 4 because it will go down. So it probably has to be something 5, 5 something. So like maybe 5,501. I don't know. No, because that would be— that would go up. I need to go up, so— Which digit can you think would come here if we need to round it down?",00:13:41
+gmaiopw,95,student,"Well, if you round— if you need to round it— if you want to round it to 5,500, it would have to be 5,000-something. But like, it can't be 5,599 because that would go up because of hundreds is [UNCLEAR]. [Speaker:Tutor] Yeah, so the answer should be 5,000 when we round to the nearest thousand.",00:14:08
+gmaiopw,96,student,"Yeah, so I think— what? Yeah, it would be 5,000. 5,000.",00:14:28
+gmaiopw,97,tutor,"Okay, now we know if we round to the nearest thousand, we need to look at the hundreds column digit to decide if we should round up or down, right? Now we have to— since you have written 5 in the thousands column, that means do we change the digit? When we round it down? No, right? Because it should be 5,000 as the answer. So what do you think the hundred digit should be? [unclear]",00:14:36
+gmaiopw,98,tutor,But you wrote the answer early. Why do you think that it was incorrect?,00:15:06
+gmaiopw,99,student,"Well, I wrote— when I wrote 5,499, well, that would have been— Yes, why do you think it's incorrect? Can you write it? [unclear]",00:15:16
+gmaiopw,100,student,It would have been incorrect because—,00:15:26
+gmaiopw,101,tutor,"Okay, now just think, just forget about all this question here. Just forget the whole thing about this question here. And if I ask you to round 5,499 to the nearest thousand, what is the answer would be?",00:15:28
+gmaiopw,102,student,"Well, that will go, it will go down to 5,400.",00:15:40
+gmaiopw,103,tutor,"To the thousand. Not the hundreds. I'm asking you to round to the thousands. So if you want to round to the nearest thousand, which column do we need to look at?",00:15:46
+gmaiopw,104,student,"Well, you look at the— so it would be 4,000. If you do that, it would round down to 4,000.",00:15:57
+gmaiopw,105,tutor,"Mm-hmm. Okay, let's get back to here. Now when you— 5,325. When I asked you to round it to the nearest thousand, you said it's 5,000 because— Why? When we round to the thousand, we need to look at the [UNCLEAR]. [Speaker:Calloway] Because if you look at the hundreds and the number is less than 5, you'll go down.",00:16:03
+gmaiopw,106,tutor,"Oh, because you're making [UNCLEAR]. [Speaker:Calloway] It should make the thousands a 400 in our case.",00:16:24
+gmaiopw,107,tutor,"Okay, not the hundreds. We only need to look at the hundreds digit to look.",00:16:29
+gmaiopw,108,student,"No, I meant the thousands. The thousands have turned into a 4, so then the whole answer will be 400.",00:16:33
+gmaiopw,109,student,[unclear],00:16:43
+gmaiopw,110,tutor,"Since we have 3 here, we don't need to change the thousands here, right? Do we?",00:16:43
+gmaiopw,111,student,"No, but then it will be 5,400, which is our answer.",00:16:52
+gmaiopw,112,tutor,"Uh-huh. Okay. Yeah, what I'm asking is here, can you explain to me how you got this 5,000 here as the answer?",00:16:59
+gmaiopw,113,student,"So you got 5,000 there is because the 3 is less than the 5, which would have made— so you go downwards, which would make it a 5,000.",00:17:06
+gmaiopw,114,tutor,"Exactly. Likewise, if I ask you to round 5,499 to the nearest thousand, what is the answer would be?",00:17:18
+gmaiopw,115,student,"It would be 5,000.",00:17:25
+gmaiopw,116,tutor,Brilliant. So isn't this correct then?,00:17:29
+gmaiopw,117,student,Yes.,00:17:33
+gmaiopw,118,tutor,"Yes, it is, right? So if you want to round it down and get 5,000, so the hundred digits could be 4. Then what are the other digits can come here for the hundred?",00:17:34
+gmaiopw,119,background,[unclear] Because it doesn't really matter what's in the tens and the zeros because it doesn't really matter.,00:17:47
+gmaiopw,120,tutor,"Exactly, it doesn't matter. It doesn't matter what's in the tens and the ones. We only need to look at the hundreds. Digit. So 100 digits has to be— what could be the 100 digit if you have 5 here in the thousands column?",00:17:53
+gmaiopw,121,student,"Well, it would have to be like 121, but then that's too obvious.",00:18:05
+gmaiopw,122,background,That's too obvious. No one would do that because that's— they're too obvious. So I'm going to do 5— [unclear],00:18:10
+gmaiopw,123,tutor,"Okay, that's great. All right, that's wonderful. And can you think of another number what we can round up and get 5,000? Now you already came up with two answers. Actually, you don't have to do, but I want you to try something more. So can you think of another number what we can round up? Now this time we rounded down both these numbers, right? Rounded down to get 5,000. Can, can you think of a number which we can round up to get it into 5,000 when we round it down?",00:18:17
+gmaiopw,124,student,"Well, if the number was like something like 459 or some [unclear]",00:18:47
+gmaiopw,125,student,[unclear],00:18:58
+gmaiopw,126,tutor,"Yes, it could be 4,000. Then the thousands have 4 if you want to round it up.",00:18:58
+gmaiopw,127,student,"It could be like 4,567.",00:19:03
+gmaiopw,128,tutor,"67, great. It could be a number. So you can think about like any number between 4,500 and 5,499, right? It can't be anything bigger than 5,499. Why can't it be bigger than 5,499?",00:19:08
+gmaiopw,129,student,"Because if you did that, then— [unclear]",00:19:28
+gmaiopw,130,tutor,"What if it's 5,450? What would be that?",00:19:31
+gmaiopw,131,student,"If you did that and rounded up, then it would round up to like 6,000, wouldn't it?",00:19:36
+gmaiopw,132,tutor,"Brilliant, 6,000. Great answer. All right, so you came up with some brilliant solutions for this question here, and here we go with the big tick and also excellent focus throughout this question here. So can you take me through the steps what we followed to finally get these two answers here?",00:19:41
+gmaiopw,133,student,"So we like just figured out what we could— what like numbers we were— we could use to like get to 5,000. So we like— we use like numbers in the 5,000s because if it was like 4 or something,",00:20:01
+gmaiopw,134,student,"Like, if it was 4, because like you could do the 4,000s, but we did in the 5,000s, so we thought, and we knew that we could, we have to do less than to get down, round down.",00:20:15
+gmaiopw,135,tutor,Exactly.,00:20:28
+gmaiopw,136,student,"So we did 5,499 and 5,399. [unclear] You can also go round up, so then we did",00:20:29
+gmaiopw,137,student,"4,567.",00:20:45
+gmaiopw,138,tutor,"All right. So can the number 4,430— can we round it up and get 5,000?",00:20:48
+gmaiopw,139,student,What did you say? I don't know.,00:20:55
+gmaiopw,140,tutor,"4,430.",00:20:58
+gmaiopw,141,student,"Is this— so that will round us down to 3,000 because it's less than a 5. The 4 in the hundreds column is less than 5.",00:21:01
+gmaiopw,142,tutor,"Great answer. That was great. Good job over there. An outstanding performance. I really love the way how you work things out and how you explain to me. It's an awesome effort here. So you did amazing throughout this lesson here, Calloway. So how do you feel about this lesson?",00:21:11
+gmaiopw,143,student,I feel pretty good and confident.,00:21:29
+gmaiopw,144,tutor,Okay. So what do you think are the important things we need to remember when we work out with questions like this?,00:21:32
+gmaiopw,145,student,"Like, just think of all the possible answers.",00:21:41
+gmaiopw,146,tutor,"Yeah, great. Okay, so can you just give me another, like, few seconds until I manually choose the next lesson for you?",00:21:45
+gmaiopw,147,student,Yeah.,00:21:55
+gmaiopw,148,tutor,"Okay, thank you so much. So here we go, and the next lesson should be this, right? [unclear]",00:21:56
+gmaiopw,149,tutor,"All right, so I marked your lesson as completed so you can do the quizzes at the end of the session. Okay, so now we are going to start a new lesson. This is about writing tense as decimals. What do you know about this topic? [unclear] I think I know what it is. I think it's just the way it's worded. I don't really know what it means, but I think I know how to do it.",00:22:03
+gmaiopw,150,tutor,"Alright, you think you know what to do. Okay, right, that's great. Then shall we try the learning goal question and the prior learning question?",00:22:40
+gmaiopw,151,student,"Write the blue shaded part as a decimal. Alright, so we need to count the actual parts first. So, where's my pointer? Okay.",00:22:46
+gmaiopw,152,student,"So there's 3, 4, 5, 6, 7, 8, 9, 10. So there's 10 whole ones, and then there's 4 shaded. So 0.4?",00:22:55
+gmaiopw,153,tutor,Great. So how do you write 0.4 as a fraction? How would you say this as a fraction?,00:23:10
+gmaiopw,154,student,A fraction would be 4/10.,00:23:17
+gmaiopw,155,tutor,"Great. 4 out of 10, 4/10, right? So here also we show it in our decimal places. After the first decimal, after the decimal point, the first column is the tenths column, right? So this was— we have 4 tenths. All right, can you try the prior learning part?",00:23:20
+gmaiopw,156,student,"Yeah, prior learning. Write the orange shaded part as a fraction. Sorry, I'm just a bit tired. [unclear] Yeah, okay, so let me just count the parts. So there's 3, 4, 5, 6, 7, 8, 9, 10. So there's 10 whole parts and we have [unclear] 3 of the 10 parts.",00:23:36
+gmaiopw,157,tutor,"Okay, that's great. So how would you write this as a decimal?",00:24:05
+gmaiopw,158,student,0.3.,00:24:10
+gmaiopw,159,tutor,0.3. Now is that clear about the relationship between the fractions and the decimals for you?,00:24:12
+gmaiopw,160,student,Yeah.,00:24:18
+gmaiopw,161,tutor,"Alright, great. So you did amazing here once again. So good working out sticker for you. And since you have a good and clear understanding about this topic, I'm going to skip the first few slides and straight away going to the [unclear] slide. There we have 3 questions here. Shall we try Part A?",00:24:19
+gmaiopw,162,student,"Yeah, it says write the show part as a decimal. So there is So there's 4, 5, 6, 7, 8, 9, 10. Okay, so there's 10 whole ones, so I remember that. And then there's 3, 6, 7 [UNCLEAR]. It's gonna be 0.8. [Speaker:Tutor] Mm-hmm, it will be 0.8.",00:24:37
+gmaiopw,163,student,"Oh, 8.",00:25:04
+gmaiopw,164,tutor,Mm-hmm.,00:25:05
+gmaiopw,165,student,"Okay, and then so it's the next one's the same size. I'm guessing it's 10 again, but let's just see.",00:25:07
+gmaiopw,166,student,"There's 3, 6, 9, 10, and then there's 3 of them coloured, so that's 0.3.",00:25:13
+gmaiopw,167,tutor,"OK, what is the question asking us?",00:25:26
+gmaiopw,168,student,"What the part that is not shaded is a decimal— oh, I didn't see that. So I guess it would be 0.7.",00:25:28
+gmaiopw,169,tutor,"Brilliant. So if the shaded part is 0.3, the not shaded part should be 0.7, right? Okay, shall we try the next one?",00:25:36
+gmaiopw,170,student,"Yes, it says how much water is in the jug? Write your answer in the answer [UNCLEAR]. [Speaker:Tutor] Are you alright, Calloway?",00:25:44
+gmaiopw,171,student,"Yeah, just a bit tired.",00:25:54
+gmaiopw,172,tutor,"Okay, did you have a good sleep last night?",00:25:56
+gmaiopw,173,student,Yeah.,00:25:59
+gmaiopw,174,tutor,"You're feeling tired, is it?",00:26:00
+gmaiopw,175,student,"No, I had a good sleep last night. 8 hours and 45 minutes, so",00:26:04
+gmaiopw,176,student,Just a bit tired. [unclear],00:26:10
+gmaiopw,177,tutor,"All right, are you ready to continue with this?",00:26:12
+gmaiopw,178,student,Yes.,00:26:16
+gmaiopw,179,tutor,"Okay, that's great. If there's anything at all, you can tell me, okay?",00:26:16
+gmaiopw,180,student,"Okay. So we count the decimals between the two lines, you see? So there's 1, 2, 3, 4, 5, 6, 7, 8, 9, 9— I think there's 10. I believe there's 10.",00:26:20
+gmaiopw,181,tutor,"It's 10, yes. There are 10.",00:26:47
+gmaiopw,182,student,"And then it's half of its colour, so it would be 5 litres.",00:26:49
+gmaiopw,183,tutor,Mm-hmm. Is it 5 litres altogether? There is 1 litre.,00:26:53
+gmaiopw,184,background,[unclear],00:26:58
+gmaiopw,185,student,So 0.5 litres.,00:26:59
+gmaiopw,186,tutor,"0.5. Half of it would be 0.5. Okay, so what about if we have water level up to here? Sorry, right, this line. I'm sorry, I can't draw it. [unclear]",00:27:01
+gmaiopw,187,student,"So that would be— so that's 5, 6, 7, 8, 9, so 0.9.",00:27:17
+gmaiopw,188,tutor,"Exactly, it would be 0.9 liters, right? All right, so that was a great answer. And also, there's something really amazing what you did. You remembered to use the unit of given measurement because they're asking us to write our answer in liters, right? Most of the time, that is something we always forget, but you did remember that, so that was great. So once again, awesome effort, [UNCLEAR], for you. And here we are going to the last slide of this lesson. Okay, so it says, how, how long is this ribbon? And it's At the end is 1 meter and it says the ribbon is something meters long. So we need to remember to put— we need to remember it's meters. So I'm going to count it. So there's 1, 2, 3, 4, 5, 6, 7, 8, 9. So there's 9 altogether and the ribbon— [unclear] it's 9 meters? 0.9?",00:27:24
+gmaiopw,189,tutor,"Okay, so if you look at it, where does the ribbon start?",00:28:26
+gmaiopw,190,student,So does it start at the 0? So I guess it's 0.8 because it doesn't start at the 0.,00:28:29
+gmaiopw,191,tutor,"Exactly, it would be 0.8.",00:28:34
+gmaiopw,192,background,0.8.,00:28:37
+gmaiopw,193,tutor,"0.8, alright. That's a bit tricky because as soon as we see it, we might think it's 0.9, right? Okay, so here we go because if we take away 0.2 because we have one— 0.1 take away from here, 0.1 take away from this side, so both 0.2 take away from 1 meter, which is 0.8 meters. So what 0.8 meters is equal to in centimeters?",00:28:39
+gmaiopw,194,student,"Um, like [unclear] centimeters?",00:29:06
+gmaiopw,195,tutor,Yes. How many centimeters are equal to 1 meter?,00:29:11
+gmaiopw,196,tutor,100.,00:29:17
+gmaiopw,197,student,"How many [UNCLEAR]? [Speaker:Tutor] 1 meter is equal to 100 centimeters, so 0.8 would be?",00:29:20
+gmaiopw,198,background,80.,00:29:27
+gmaiopw,199,tutor,"80. Great. Okay, I just asked you that question. That is not actually related to this question, but I just wanted to know about it. Okay, so all right, so what if I say that The ribbon, the length of the ribbon is this much.",00:29:29
+gmaiopw,200,tutor,"Okay, so if it's— so when you count them decimals into there and then just take away one because there isn't, um, is it start— does it start at the zero? [unclear] So it's 6, I take away 1 is 5?",00:29:48
+gmaiopw,201,student,"5, right, so it would be 0.5. Meters long, right? All right, so you did brilliant. Actually, you did brilliant in the whole lesson here today. Okay, so, um, what do you think about this lesson and what made the learning easier for you in this lesson?",00:30:04
+gmaiopw,202,student,"I think what just like made easier is because like it— I can't— I already know sort of how to do decimals and how to do like um, [unclear] and stuff. I like— I think it, it's just gonna be like that. It's just one of the things. It's like easy.",00:30:26
+gmaiopw,203,tutor,"Okay, that's very nice to know. Okay, right. So here we are going to the next lesson because we have already completed this lesson as well. So is there anything that you would like to ask me about this particular lesson?",00:30:49
+gmaiopw,204,student,"No, no, no, no.",00:31:05
+gmaiopw,205,tutor,Are you all good?,00:31:06
+gmaiopw,206,student,Yeah.,00:31:08
+gmaiopw,207,tutor,Then can you just give me again a few seconds until I manually upload the next lesson for you? Okay?,00:31:08
+gmaiopw,208,student,"Yeah, it's okay.",00:31:17
+gmaiopw,209,tutor,All right. And this time we have— a moment. Right. Dividing numbers by 100.,00:31:18
+gmaiopw,210,tutor,Okay. Now what do you think would happen when we divide a number by 10 or 100?,00:31:31
+gmaiopw,211,student,"I already know how to do this, so I didn't know.",00:31:36
+gmaiopw,212,tutor,"Okay, great. Then can you try the learning goal question and prior learning question?",00:31:39
+gmaiopw,213,background,"Yeah, so 70 divided by 100, so it's just like moving it 2 places because there's only 2 [UNCLEAR]. So it would be 0.7.",00:31:45
+gmaiopw,214,tutor,"Great, it would be 0.7. Do we need to put the 0 afterwards?",00:31:58
+gmaiopw,215,student,No.,00:32:04
+gmaiopw,216,tutor,"No, even if you put, it's not wrong, but we don't need it actually because there's no value of it, right? Okay, right, and next one.",00:32:05
+gmaiopw,217,background,"So this is divided by 10, so that would be, um, just set— it would be technically 74 or 74 [unclear] [Speaker:Calloway].../ [UNCLEAR] 74.0 or 74?",00:32:13
+gmaiopw,218,tutor,"It would be 74, right? We don't need to go to the decimal places because if it moves two places to the right— sorry, one place to the right side, it would be 74 because it would go after the decimal point, as you said. But since there's no nothing in the decimals, we don't need to use it, right? Okay, so since now once again you have a very good understanding handy about this lesson as this, so I'm going to skip the first few slides. So we have not done this before, right? I checked in our program and we have not done it. So you have done it at school?",00:32:29
+gmaiopw,219,student,"Yeah, we do it. I think we started it like in year 4. We've been doing it for a while.",00:33:06
+gmaiopw,220,tutor,"Okay, great. Well, here we are at [unclear] slide. Okay, can you try these questions here?",00:33:11
+gmaiopw,221,student,"Yes, so it says divide the following numbers by 100. So 20 divided by 100 would just be 0.2.",00:33:18
+gmaiopw,222,tutor,Mm-hmm.,00:33:29
+gmaiopw,223,student,"Okay, so then 7 divided by 100, is it just like 0? [unclear]",00:33:31
+gmaiopw,224,tutor,"If you want, use the place value chart or the get ignore chart.",00:33:43
+gmaiopw,225,student,"I mean, I would just believe it's 0, but let me see. So if you move that 2 places, that would be there, then it would be a 0 there, and then that would be a 0 there. So 0.07.",00:33:48
+gmaiopw,226,tutor,Great. So do you have any idea about how to use the get ignore chart here? Have you used the GATTAC chart before?,00:34:07
+gmaiopw,227,student,"Yeah, we used it like once, but I still sort of remember how to use it.",00:34:13
+gmaiopw,228,tutor,"Okay, so if we divide a number by 10 using the GATTAC chart, what would happen?",00:34:18
+gmaiopw,229,student,"So like, if I remember correctly, you just bring it, you just go down 2 because it's [unclear] divided by 100.",00:34:25
+gmaiopw,230,tutor,"So if you bring it down 2, it should be there.",00:34:35
+gmaiopw,231,tutor,"Brilliant. And now if I ask you to use the Gattegno chart to divide 85 by 100, how would you do it?",00:34:38
+gmaiopw,232,student,"So we find 85. Now there's not actually 85, but we're just going to say it would be between the 80 and the 90. So I'm going to just like [UNCLEAR]. I don't know. [Speaker:Tutor] Okay, first of all, you can find the answer. 85 divided by 100. Then I will tell you how to use the Gattegno chart to divide 85 by 100. Okay, so what do you think? [unclear]",00:34:45
+gmaiopw,233,student,So 85 divided by 100 would be— so let me get it. So it'd be like 0.8.,00:35:11
+gmaiopw,234,tutor,"0.8, and then?",00:35:19
+gmaiopw,235,student,0.85.,00:35:23
+gmaiopw,236,tutor,"Great, because now we have to write 5 because there's a value there, right? When you have 0, we don't need to, but since we have value, we have to write. Okay, so let's I'm going to show you how we can use the Gattegno chart because I'm sure that this will be helpful for you in some day. Okay, so if we have a number like this, 85, in the Gattegno chart we don't have 85 straight away, so we can circle 80 and 5. Now if we divide by 100, what would happen to the number? It would move 2 places.",00:35:26
+gmaiopw,237,student,"It will move 2 places, so the [unclear] will be the 0.8 and then the 5 will be",00:35:56
+gmaiopw,238,tutor,In the 0.05. Then we need to add them together. So 0.8 add 0.05 is 0.85. [unclear],00:36:01
+gmaiopw,239,student,Yeah.,00:36:11
+gmaiopw,240,tutor,"Okay, great. Now can you try the last question?",00:36:13
+gmaiopw,241,student,"Yeah. So 46 divided by 100 would be 0.46. All right, so that was great. So you were amazing. Okay, you did great and you did wonderful, fantastic answers as well. So here we go with good working [unclear] for you, Calloway. And here we are straight away going to the last slide of this lesson. Can you read this question?",00:36:17
+gmaiopw,242,student,"Yes, it says a chef wants to divide the soup he has made into 100 servings. Can you take me through all OK, he has made— Hello? Calloway, can you— [unclear]",00:36:47
+gmaiopw,243,student,"Can you please move the orange thing, please?",00:37:01
+gmaiopw,244,tutor,I'm sorry?,00:37:04
+gmaiopw,245,student,"Can you move that? Yeah, that. Thank you. Right. A chef wants to divide the soup he has made into 100 servings. He has made 15 litres of soup. How much soup will be in one serving?",00:37:06
+gmaiopw,246,tutor,So what calculation are we completing here?,00:37:19
+gmaiopw,247,student,So we're doing 100 divided by 15.,00:37:21
+gmaiopw,248,tutor,"Okay, exactly. 15 litres divided by?",00:37:25
+gmaiopw,249,student,100.,00:37:27
+gmaiopw,250,tutor,"100. Okay, so what happens when you divide 15 litres of soup by 100?",00:37:30
+gmaiopw,251,student,1.5.,00:37:36
+gmaiopw,252,tutor,Would it be 1.5? 15 divided by 100. What happens when you divide 15 by 100? Can you use the place value [unclear] and show me what happens?,00:37:38
+gmaiopw,253,student,"Oh, that was divided by 10, so it would be 0.15.",00:37:49
+gmaiopw,254,tutor,0.15. So how much soup would be in one serving?,00:37:53
+gmaiopw,255,student,Like 0.15.,00:37:59
+gmaiopw,256,tutor,0.15.,00:38:02
+gmaiopw,257,background,[unclear],00:38:04
+gmaiopw,258,tutor,"Liters. Great, because they're asking about how much soup. So there's a unit of measurement given, the liters, so we have to write our answer in liters as well, right? Okay, so that's a great answer. So good job trying this question by yourself. So you did great here. So can you tell me, Calloway, when you divide a number by 100, how many places should we move the digits to the right side?",00:38:07
+gmaiopw,259,student,You mean [unclear] 3?,00:38:36
+gmaiopw,260,tutor,Uh-huh. If you divide by 100?,00:38:39
+gmaiopw,261,student,"No, 2.",00:38:43
+gmaiopw,262,tutor,2 times. Then if you divide by 10?,00:38:45
+gmaiopw,263,student,1 time.,00:38:48
+gmaiopw,264,tutor,"1. Then if we divide by 1,000, what do you think?",00:38:49
+gmaiopw,265,background,3.,00:38:53
+gmaiopw,266,tutor,"3 times. Brilliant. Okay, right. So here we have come to the end of this lesson. [unclear] So can you just tell me, like, what do you think are the important things we need to remember when we divide numbers by 100, 10, or 10?",00:38:54
+gmaiopw,267,student,Just to remember the place value.,00:39:11
+gmaiopw,268,tutor,"Great, yes, remember the place value. And then what kind of things we can get help with when— if we want to divide a number and if we don't know how to do it in our head? What are the things we can do?",00:39:14
+gmaiopw,269,background,"Place value and [unclear] but I mean, I'm able to do it in my head, it's just like—",00:39:25
+gmaiopw,270,tutor,"Yes, you can do it in your head, yes, that's great. Yes, or else if we struggle a bit, we can use a place value chart or a Gaddig chart as well, right? Okay, so here we are going to the next the next lesson as we have 5 more minutes. Okay, so can you just give me a little time once again?",00:39:32
+gmaiopw,271,student,Yeah.,00:39:49
+gmaiopw,272,tutor,"Okay, right, so I'm going to go to the next lesson what we have. [unclear] So let me mark this as completed. Okay, so this is our next lesson, which is using multiplication to convert units of measure. Okay, right. So now, uh, what do you know about the units of measurement? Now, we— do you— what do you know about how to convert them and all? If you do know about the kilometers and meters.",00:39:49
+gmaiopw,273,student,[unclear],00:40:31
+gmaiopw,274,student,"So we know how to do it and stuff, and then I think we've also started doing like timesing stuff, like doing this kind of thing at school.",00:40:33
+gmaiopw,275,tutor,"Okay, then can you try these two questions first?",00:40:43
+gmaiopw,276,student,"Yeah, so we do [unclear] kilograms equals something meters.",00:40:47
+gmaiopw,277,student,"So, um, we're gonna— so that would be 8,000.",00:40:59
+gmaiopw,278,tutor,"Great, 8,000. So how many meters are equal to 1 kilometer?",00:41:06
+gmaiopw,279,student,"Uh, 1,000. So we do [unclear] for this.",00:41:10
+gmaiopw,280,tutor,"Exactly. So it would be 8,000 meters, right? So what about the prior learning question?",00:41:15
+gmaiopw,281,student,"This would be 6,000.",00:41:22
+gmaiopw,282,tutor,"It would be 6,000. Great. All right, so you have wonderful understanding about the converting of units of measure as well. So I'm going to skip the first few slides, and here we are at Unit 7, and we have 4 questions here. Shall we try Part A?",00:41:24
+gmaiopw,283,student,"Yes, it says match each [unclear] to the correct conversion. So 5 kilograms",00:41:44
+gmaiopw,284,student,"Would, pardon me, would be into 5,000 grams?",00:41:51
+gmaiopw,285,tutor,"Great, okay, it would be 5,000 grams because 1 kilogram is equal to?",00:41:56
+gmaiopw,286,student,"1 kilogram is into 1,000, so 5 would be 5,000.",00:42:01
+gmaiopw,287,background,"Okay, and then 2.5 kilograms would be into 2,500 grams?",00:42:09
+gmaiopw,288,tutor,"Brilliant, okay, it would be 2,500 grams.",00:42:15
+gmaiopw,289,background,And 1.5 grams would be 500 grams? Half is 500.,00:42:18
+gmaiopw,290,student,"And then 25 grams would be 25,000 grams.",00:42:25
+gmaiopw,291,tutor,"Exactly, because 25 times 5,000 is 25,000, right? Then shall we try next one? Which one would you like to try next? B?",00:42:31
+gmaiopw,292,background,"B. Complete the following using greater or— greater and less than or equals. So 7 kilograms into 800 meters, so that would be— 7 would be 7,000, and so— and I would also equal to [unclear] kilograms, so it would be that.",00:42:42
+gmaiopw,293,tutor,"Mm-hmm. Okay, so when we have two units of measures like this— okay, now I don't think we have enough time to complete this today. So would you mind if we try from— start from this one next time?",00:43:10
+gmaiopw,294,student,Yeah.,00:43:23
+gmaiopw,295,tutor,"Okay. So we have like complete— I think we completed 3 lessons today and this one is also almost all over, right? We have only 2 more slides in this lesson as well. So you did brilliant. You did really great. It's not about the answers what you gave me, Calloway. It's not only about the answers. That was great as well, but especially the way how you explain your answers to me, reasoning out, because then I saw like how you have the knowledge about this topic, right? So then it's easy for me to adapt according to that. So it was very nice of you, so keep going on with that. So how about today's session overall for you?",00:43:24
+gmaiopw,296,student,"So, uh, what did we do in the first [UNCLEAR]?",00:44:08
+gmaiopw,297,tutor,Mm-hmm. [unclear] [Speaker:Calloway]...by rounding numbers to the nearest hundred and thousand. [Speaker:Tutor] So that was good. Then we did— did we do like decimals?,00:44:15
+gmaiopw,298,background,"Yes, we did writing tens as decimals. Then dividing numbers by 100.",00:44:26
+gmaiopw,299,tutor,"So that is all these lessons that we finished have been really helpful. And this one we're doing right now, Okay, [unclear]",00:44:31
+gmaiopw,300,tutor,"all right. Okay, then we have come to the end of today's session, Calloway. I hope that you will have some rest now because I can see that you are very tired. Okay, so hope to see you again next time then. Is there anything that you would like to ask from me? No,",00:44:44
+gmaiopw,301,student,"that's the thing. Okay,",00:45:02
+gmaiopw,302,tutor,"then don't forget about quizzes, Calloway. And also, since you did really great, okay, so I want you to do the quizzes. Okay, like, don't do it in a hurry, okay? So take your time, read the questions, and do it well, okay? [unclear] All right then, have a nice day. Bye-bye.",00:45:03
+gmaiopw,303,student,"Yes, Thaddeus, bye!",00:45:22
+gmaiopw,304,tutor,Thank you so much. Bye.,00:45:25
+gmaiopw,305,student,Bye!,00:45:27
+gmaiopw,306,tutor,"Bye, Calloway.",00:45:29
+gmaiopw,307,student,Bye.,00:45:30

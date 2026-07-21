@@ -1,0 +1,337 @@
+session_id,utterance_id,role,content,timestamp
+grfkunm,0,tutor,Hello.,00:00:00
+grfkunm,1,student,Hello.,00:00:01
+grfkunm,2,tutor,Hello.,00:00:04
+grfkunm,3,student,[unclear],00:00:07
+grfkunm,4,tutor,Hello.,00:00:11
+grfkunm,5,background,We're logged in.,00:00:12
+grfkunm,6,tutor,Okay.,00:00:13
+grfkunm,7,background,Yeah.,00:00:15
+grfkunm,8,tutor,All right. [unclear],00:00:17
+grfkunm,9,tutor,Can you hear me?,00:00:18
+grfkunm,10,student,"Oh yeah, now I can.",00:00:25
+grfkunm,11,tutor,"All right, so how are you doing?",00:00:27
+grfkunm,12,student,I'm doing fine.,00:00:30
+grfkunm,13,tutor,That's great to hear. Are you all set to start the session then?,00:00:32
+grfkunm,14,background,Yeah.,00:00:37
+grfkunm,15,tutor,"All right, so today we are going to continue what we did last week, which is addition and subtraction. So today we have to start from, uh, yeah, question. Okay. Okay. So do you remember what we worked out last week? [unclear]",00:00:41
+grfkunm,16,student,"No, not really.",00:01:00
+grfkunm,17,tutor,"Okay, no worries. Um, I will take you through how we worked this question last week. So you can use the same method to work out the next question, okay?",00:01:06
+grfkunm,18,student,Mm-hmm.,00:01:17
+grfkunm,19,tutor,"Right. So first of all, can you read the question that we have here? [unclear] Sorry? [unclear] Yes. Okay. You can also read this to understand how we're going to work out this question.",00:01:19
+grfkunm,20,student,[unclear],00:01:46
+grfkunm,21,tutor,Can you read it aloud?,00:01:52
+grfkunm,22,student,"When numbers are close to a multiple of 10, we can use rounding. [unclear]",00:01:55
+grfkunm,23,student,[unclear],00:02:06
+grfkunm,24,tutor,"Did you read it, Callum?",00:02:06
+grfkunm,25,student,Yeah.,00:02:08
+grfkunm,26,tutor,"Right, so here when the numbers are close to multiple of 10, we can both round it. I'm asking to work out our question. Can you also read this part?",00:02:10
+grfkunm,27,student,"Okay, let's put the larger number first and addition is [UNCLEAR]. [unclear]",00:02:26
+grfkunm,28,tutor,"Yes, addition is commutative. Means even though you change the numbers, your answer is not going to change. Like 199 398 is going to be the same as adding 398 first and then 199. You understand? Yeah.",00:02:32
+grfkunm,29,student,So,00:02:53
+grfkunm,30,tutor,"we're gonna start with 398. Okay, so we are adding 398. And to understand what we're doing next?",00:02:54
+grfkunm,31,student,"Instead of adding 199, I'd say you could do it— [unclear] 199 is the same as 200 minus 1.",00:03:04
+grfkunm,32,tutor,"So you're rounding your 199 to the nearest hundred, which is 200. Now you're going to add 200, not 199. Okay?",00:03:15
+grfkunm,33,student,Yeah.,00:03:27
+grfkunm,34,tutor,"Can you mention it here, the number that you're going to add?",00:03:28
+grfkunm,35,student,That— that— this here is— [unclear],00:03:32
+grfkunm,36,tutor,"Now, do 398 add to— how much is that, Callum?",00:03:38
+grfkunm,37,student,598.,00:03:47
+grfkunm,38,tutor,"Yes, that is 598. But that is not our final answer. There is an adjustment that you have to make. What is that adjustment?",00:03:49
+grfkunm,39,student,Take away one?,00:04:02
+grfkunm,40,tutor,"Yes, you have to take away one. Can you mention it here? [unclear]",00:04:03
+grfkunm,41,tutor,Right. Now you have 598 here in total. You're taking— [unclear],00:04:21
+grfkunm,42,student,You cross that one [unclear] and the one there. [unclear] And then 14.,00:04:29
+grfkunm,43,tutor,"Yes, that is your final answer.",00:04:35
+grfkunm,44,student,I think 8.,00:04:38
+grfkunm,45,tutor,Write it there. There you go. Did you understand how we worked it out?,00:04:40
+grfkunm,46,student,"Yeah. Okay, so well done. We took a little recap on what we learned in the previous week to understand the method, and now we are going to move on to the next one. Okay, so here we have 599 and 551. Okay.",00:04:45
+grfkunm,47,student,Yeah.,00:05:08
+grfkunm,48,tutor,"So, right, so here, which number do you think should be used for rounding?",00:05:10
+grfkunm,49,student,[unclear],00:05:16
+grfkunm,50,tutor,Right. Very good. How would you round 599?,00:05:16
+grfkunm,51,student,By adding 1 to get to 600.,00:05:24
+grfkunm,52,tutor,"Very good. So when you round 599 by adding in 1, how much would that be?",00:05:28
+grfkunm,53,student,600.,00:05:36
+grfkunm,54,tutor,Very good. Can you mention 600 here?,00:05:38
+grfkunm,55,student,Yeah.,00:05:45
+grfkunm,56,tutor,"Right, 600 and how much now? [unclear]",00:05:46
+grfkunm,57,student,551.,00:06:00
+grfkunm,58,tutor,551. Can you mention it here? [unclear],00:06:01
+grfkunm,59,tutor,Right. What is 600 add 551?,00:06:10
+grfkunm,60,student,[unclear],00:06:14
+grfkunm,61,tutor,"1,151.",00:06:20
+grfkunm,62,background,"4,500.",00:06:23
+grfkunm,63,tutor,Very good. Is that our final answer though?,00:06:24
+grfkunm,64,background,No.,00:06:30
+grfkunm,65,tutor,No. What is the adjustment that you have to make there?,00:06:30
+grfkunm,66,student,You've got to take away one.,00:06:33
+grfkunm,67,tutor,"Very good. When you take away one, what's the answer that you get?",00:06:37
+grfkunm,68,student,"1,150.",00:06:41
+grfkunm,69,tutor,There you go. So what is the final answer?,00:06:45
+grfkunm,70,student,"1,000... [unclear]",00:06:49
+grfkunm,71,tutor,"Very good. Well done, Callum. There you go. So when you do one thousand— when you get your final answer, 1,151, you will also get 1 mark for working out that question right. Okay, another small reminder to you that when you write 1,150, that's a 4-digit number. So when you have more than 3 digits in a number, you have to separate your thousands and the hundreds with a comma, isn't it?",00:06:54
+grfkunm,72,student,Okay.,00:07:25
+grfkunm,73,tutor,That is also important. Okay. [unclear],00:07:27
+grfkunm,74,tutor,"Right. Okay, now can you try this question as well?",00:07:34
+grfkunm,75,student,"Uh, yeah. And then 5 subtract 4, you can't do, so you cross on the 5, turn it into a 4, and add a 1, which makes 14. So the answer for that one would be 9.",00:07:38
+grfkunm,76,student,"And then 4 takes away 4, which means— [unclear]",00:07:56
+grfkunm,77,tutor,Can you explain me how you're going to work it out?,00:08:27
+grfkunm,78,student,"So I'm going to do 995 and I'm going to add on 5 to get on 1000. To get 1,000.",00:08:30
+grfkunm,79,tutor,"That's 10,000. You have 9,995, so you add 5 to it, it becomes 10,000.",00:08:49
+grfkunm,80,student,Yeah.,00:08:59
+grfkunm,81,tutor,Right.,00:09:00
+grfkunm,82,student,And then I'm gonna add on— [unclear] I'm gonna add—,00:09:02
+grfkunm,83,student,"I'm gonna add another 5, and then I'm gonna [UNCLEAR].",00:09:13
+grfkunm,84,tutor,"Okay, so now you rounded 9,995 and you got it as 10,000, right?",00:09:13
+grfkunm,85,student,Yeah.,00:09:33
+grfkunm,86,tutor,Can you write it here?,00:09:35
+grfkunm,87,tutor,"All right. After that, what do you have to do? [unclear] You have to add the remaining number to it.",00:09:46
+grfkunm,88,student,Yeah.,00:09:57
+grfkunm,89,tutor,Yes. Can you add it?,00:09:58
+grfkunm,90,student,[unclear] I don't know.,00:10:04
+grfkunm,91,tutor,"Well, I'd write the answer.",00:10:06
+grfkunm,92,background,"Yes. So what is the answer that you get when you add 3,205 to 10,000?",00:10:10
+grfkunm,93,student,"13,205.",00:10:18
+grfkunm,94,background,"Awesome. You get 13,205. But is this your final answer?",00:10:21
+grfkunm,95,student,No. I think you take away 5.,00:10:28
+grfkunm,96,background,"Yes. The 5 extra 5 that you added earlier. This should be taken away at the end. That is the adjustment that you have to make, right? Take away the 5 and see how much you get.",00:10:32
+grfkunm,97,student,[unclear],00:10:43
+grfkunm,98,tutor,"There you go, very good. You get 13,200, and that's your final answer. Can you write it here?",00:10:45
+grfkunm,99,student,Yeah.,00:10:56
+grfkunm,100,tutor,"All right, so here you go, another 1 mark for you for successfully working out that question also. So now do you have a better understanding on how to do rounding and then how to do adjusting to solve questions like this?",00:10:59
+grfkunm,101,student,"Um, yes, I think so.",00:11:16
+grfkunm,102,tutor,"Okay, awesome. That was a very good effort putting to work out these questions. Well done there, Callum. With that question, we are going to move on to another SAT style question, and here it is.",00:11:19
+grfkunm,103,tutor,"So in these questions, what is the strategy that you're going to use? [unclear] You're going to use the strategy of counting on to find the difference. You start from a number, you count on from there to see what is the difference between the two numbers, okay?",00:11:33
+grfkunm,104,student,Yeah.,00:11:56
+grfkunm,105,tutor,Right. Shall we start?,00:11:58
+grfkunm,106,tutor,This one?,00:12:00
+grfkunm,107,student,"Yeah, yeah.",00:12:01
+grfkunm,108,tutor,"Okay, get started, Callum.",00:12:03
+grfkunm,109,student,"5 and 9, but I don't think you have to really do because it just wouldn't work. So this could be a 15 if you carried the 1 over. [unclear] So this number could be 6 because if you add 6 to 9, is 15. [unclear] If you add 6 and 9, that could be 15, but— oh wait, it is subtract.",00:12:06
+grfkunm,110,tutor,Yes.,00:12:44
+grfkunm,111,student,"Oh, sorry.",00:12:48
+grfkunm,112,tutor,Do you need help with working out that question?,00:12:51
+grfkunm,113,student,"Yes, please.",00:12:55
+grfkunm,114,tutor,All right. Can you tell me what you notice about the two numbers in this calculation?,00:12:57
+grfkunm,115,student,[unclear],00:13:02
+grfkunm,116,tutor,Pardon?,00:13:02
+grfkunm,117,student,which would be 4.,00:13:02
+grfkunm,118,tutor,What do you notice about these two numbers in the calculation?,00:13:02
+grfkunm,119,student,"5, so put it before.",00:13:02
+grfkunm,120,tutor,Do you think like they're very far away or they're close by numbers? [unclear],00:13:02
+grfkunm,121,tutor,Yeah? Yeah. What do you think? Are they close by numbers or are they very far away numbers to each other?,00:13:20
+grfkunm,122,student,Close by.,00:13:35
+grfkunm,123,tutor,"Right. Okay. So this is a subtraction question, but rather than using subtraction, what else can you do to find out the answer here? You [unclear]",00:13:37
+grfkunm,124,tutor,"can count on. Yes, very good. From which number do you count on? 996.",00:13:54
+grfkunm,125,student,Very,00:14:03
+grfkunm,126,tutor,good. Can you count on from 996 and see what is the difference? Yeah.,00:14:04
+grfkunm,127,student,"Okay,",00:14:12
+grfkunm,128,tutor,you can start.,00:14:13
+grfkunm,129,tutor,Callum. [unclear],00:14:14
+grfkunm,130,student,So I've counted 7 times up.,00:14:17
+grfkunm,131,tutor,"Okay. So when you counted 7 up, did you get 1,003?",00:14:30
+grfkunm,132,student,Yeah.,00:14:35
+grfkunm,133,tutor,"Very good, Callum. Well done. Which means how much is the difference between these 2 numbers?",00:14:37
+grfkunm,134,student,7.,00:14:44
+grfkunm,135,tutor,"Yes, it is 7. Can you write it here? There you go. Well done. You get 1 mark for finishing off that [unclear] question, and very well done for the effort put in to do it. Right, there we go. Now, shall we do the next one?",00:14:45
+grfkunm,136,student,"Yeah. OK, how do you think you can do this question? [unclear]",00:15:07
+grfkunm,137,student,So I think like I start from 198 and then I count up and get to 212.,00:15:13
+grfkunm,138,tutor,"Very good, Callum.",00:15:27
+grfkunm,139,student,"And then however much I've counted up, that's the difference.",00:15:30
+grfkunm,140,tutor,"Yes, exactly. Very good.",00:15:35
+grfkunm,141,student,"100,000.",00:15:39
+grfkunm,142,tutor,Yeah.,00:15:42
+grfkunm,143,student,"100,000. [unclear] [unclear] I think the answer is 19.",00:15:43
+grfkunm,144,tutor,Sorry?,00:16:08
+grfkunm,145,student,I think the answer is 19.,00:16:09
+grfkunm,146,tutor,Can you double-check there? I think you need to count again and see.,00:16:12
+grfkunm,147,background,"871. And if it was right, it would make this number in the [unclear]",00:16:19
+grfkunm,148,student,14.,00:16:44
+grfkunm,149,tutor,"Oh, 14. Yes, there you go. The difference is 14. Can you write it?",00:16:45
+grfkunm,150,student,Yeah.,00:16:54
+grfkunm,151,tutor,"Well done, here you go, one more mark for you. Good job and very well done on trying it again and again until you get the correct answer. That was amazing. All right, with that question we are now going to move on to our next SAT style question, and here it is. Now here in these two questions, what is the strategy that you're going to use?...inverse.",00:16:54
+grfkunm,152,tutor,"Yes, you're going to use the inverse method. All right, do you know the inverse method?",00:17:22
+grfkunm,153,student,I don't think so.,00:17:30
+grfkunm,154,tutor,"Okay, what do you think the word inverse suggests, or what does it mean?",00:17:33
+grfkunm,155,student,"Maybe like... I don't really know. All right, it means the opposite or the other way around. Okay.",00:17:39
+grfkunm,156,student,Yeah.,00:17:50
+grfkunm,157,tutor,What is the inverse of addition?,00:17:51
+grfkunm,158,student,So... [unclear],00:17:56
+grfkunm,159,tutor,Very good. And what is the inverse of subtraction?,00:18:00
+grfkunm,160,student,Addition. And I just checked it out.,00:18:04
+grfkunm,161,tutor,"There you go. Very well done. Now, how are you going to use the inverse to solve this question?",00:18:06
+grfkunm,162,student,And then 2 to get to 3 would be 1. I'm just going to check that's right. 3 subtract 1 is 2. I don't really know. [unclear],00:18:14
+grfkunm,163,tutor,"So, 5 to 9.",00:18:35
+grfkunm,164,background,Right. What is the calculation given there?,00:18:37
+grfkunm,165,student,"So, half of 9 would be 5.",00:18:41
+grfkunm,166,background,Then add something equal to 405.,00:18:44
+grfkunm,167,tutor,"Okay, all right. So that is an addition calculation. What is the inverse of addition? [unclear] Yeah?",00:18:48
+grfkunm,168,student,Yes.,00:19:02
+grfkunm,169,tutor,What is the inverse of addition? [unclear],00:19:02
+grfkunm,170,tutor,What is the opposite of addition?,00:19:10
+grfkunm,171,student,subtraction.,00:19:10
+grfkunm,172,tutor,"Yeah, exactly. So you have to use subtraction to solve that.",00:19:10
+grfkunm,173,background,"Oh, okay.",00:19:21
+grfkunm,174,tutor,Got it?,00:19:23
+grfkunm,175,background,Yeah.,00:19:24
+grfkunm,176,tutor,Nice. [unclear],00:19:26
+grfkunm,177,tutor,"Okay, did you work it out?",00:19:45
+grfkunm,178,student,9 minus something.,00:19:47
+grfkunm,179,tutor,Not 9.,00:19:51
+grfkunm,180,student,Is it 3 to 8?,00:19:54
+grfkunm,181,background,I think it would be 4.,00:19:55
+grfkunm,182,tutor,"Oh yeah, because it's asking how many bikes will have in the factory at the end of the month.",00:19:59
+grfkunm,183,student,"For this one, you would do [unclear] to get to 6, guys, is 4. So...",00:20:03
+grfkunm,184,tutor,Okay.,00:20:15
+grfkunm,185,student,"Uh, I'll show you.",00:20:16
+grfkunm,186,tutor,"Did you get the answer, Callum?",00:20:19
+grfkunm,187,student,Not yet.,00:20:22
+grfkunm,188,tutor,"Have a bit of help, please.",00:20:23
+grfkunm,189,student,"Oh, there you are. All right. Okay. Let me take you to the next slide to show how it happens. Right? So we are going to solve 10 add blank equals 405. Let's see how we use the inverse method to work out this calculation. Can you read what it says here?",00:20:24
+grfkunm,190,student,[unclear],00:20:46
+grfkunm,191,tutor,"what the order, so the missing number comes first. All right, we're going to swap the order because it's addition. There's no problem in swapping the order. So we're going to swap the order. So the missing number comes first, and then you add 10, and then you get the answer 405. Okay?",00:20:46
+grfkunm,192,student,[unclear],00:21:08
+grfkunm,193,tutor,"But you're going to use your inverse calculation here. Inverse of addition is subtraction. So instead of adding 10, what do you have to do?",00:21:09
+grfkunm,194,student,1 take away 10.,00:21:23
+grfkunm,195,tutor,And that take away 10 is from?,00:21:25
+grfkunm,196,student,405.,00:21:29
+grfkunm,197,tutor,"There you go. So 405 take away 10, what is that equal to? [unclear]",00:21:31
+grfkunm,198,background,We added it.,00:21:37
+grfkunm,199,student,"So 5 minus 3, that answer would be 2. [unclear]",00:21:39
+grfkunm,200,student,"So I can say 345 and then I add 50, so that gives me 95, and then I add 2, that gives me 97.",00:21:49
+grfkunm,201,tutor,How much is 105 take away 10?,00:22:04
+grfkunm,202,student,Yeah.,00:22:10
+grfkunm,203,student,395.,00:22:10
+grfkunm,204,tutor,Awesome! That's 395. Can you write the answer? [unclear] Which means what is missing here? [unclear] There you go! Awesome! Awesome. Did you get it now?,00:22:10
+grfkunm,205,student,Yeah.,00:22:40
+grfkunm,206,tutor,"Right. There you go. You've learned something new today, how to use your inverse calculations. Now can you try the next question? [unclear] Okay, go ahead, Callum.",00:22:42
+grfkunm,207,student,You have 5 up here.,00:22:57
+grfkunm,208,background,"Oh, I know. Okay. All right. Thank you.",00:22:58
+grfkunm,209,student,"So I had 206, so I did 206, that's what I said, and then [unclear]",00:23:04
+grfkunm,210,tutor,[UNCLEAR],00:23:04
+grfkunm,211,student,"So I do... so to subtract something, it was called, I do 2 add 1, which is 6, and I'm just going to check it's right. 6 sub... if the 6 was there, [unclear]",00:23:38
+grfkunm,212,tutor,Do you need help with working out that question?,00:24:05
+grfkunm,213,student,I think I've nearly got it.,00:24:19
+grfkunm,214,tutor,Okay.,00:24:22
+grfkunm,215,student,"Yeah, actually, I can have a bit of help.",00:24:32
+grfkunm,216,tutor,"Okay, no worries. Let me help you with it. So the question is, you have something, you have to take away 262 to get the answer 328, right? This is a subtraction calculation. What is the inverse of subtraction?",00:24:36
+grfkunm,217,student,addition.,00:24:36
+grfkunm,218,tutor,"Very good. So in that case, to 328, what do you have to do? [unclear]",00:24:36
+grfkunm,219,student,Take away 262.,00:25:04
+grfkunm,220,tutor,Take away 262 is what's given. So the inverse of that [unclear],00:25:08
+grfkunm,221,tutor,It is adding 262.,00:25:14
+grfkunm,222,student,Okay.,00:25:20
+grfkunm,223,tutor,Did you understand? So we already have take away 262. Inverse means the opposite. You have to add 262. So here you have to mention that you're going to add 262.,00:25:20
+grfkunm,224,student,Okay. [unclear],00:25:36
+grfkunm,225,tutor,Can you mention it there?,00:25:44
+grfkunm,226,student,"Like, the move one to get to three would be two. So, um, four, three, big square, two, big square. I've just nearly worked it out now.",00:25:46
+grfkunm,227,tutor,Right. How much is 228 at 262 now? [unclear],00:26:02
+grfkunm,228,student,"8,308 minus— no, 7,600. [unclear]",00:26:11
+grfkunm,229,tutor,"7,590.",00:26:21
+grfkunm,230,tutor,It's 590. Very good. It's 590. Write it here below. [unclear],00:26:34
+grfkunm,231,student,"Well, but then that would be 3, so it would be— [unclear]",00:26:57
+grfkunm,232,tutor,"So 1,095, so I've got 5, and then 16, I've got— [unclear]",00:27:03
+grfkunm,233,tutor,"Right, so which means what's the missing number here?",00:27:14
+grfkunm,234,student,"1,095. [unclear]",00:27:18
+grfkunm,235,tutor,Sorry? Very [unclear],00:27:21
+grfkunm,236,tutor,"good. Yes, the answer is 590. Did you understand it, Callum? I",00:27:28
+grfkunm,237,student,think so. Okay.,00:27:34
+grfkunm,238,tutor,Do you have any doubts or do you have any questions to ask me about it? No.,00:27:37
+grfkunm,239,student,Okay.,00:27:45
+grfkunm,240,tutor,All right. Are you ready to tackle another question like this then?,00:27:45
+grfkunm,241,student,"Uh, yeah.",00:27:50
+grfkunm,242,tutor,Right. So here we go again. We've got similar type of questions where we're going to use the method of inverse to solve it. Shall we start with the first one?,00:27:52
+grfkunm,243,student,"Uh, yeah.",00:28:02
+grfkunm,244,tutor,"Okay, let's get started, Callum. If you need any help, let me know.",00:28:03
+grfkunm,245,student,Okay. [unclear] [unclear],00:28:08
+grfkunm,246,tutor,x equals 1.8x plus 2. [unclear],00:28:08
+grfkunm,247,tutor,"Yeah, 618. Okay, if you also can explain me the method that you're using to work it out, would be amazing.",00:28:49
+grfkunm,248,student,Okay.,00:29:04
+grfkunm,249,student,"Yeah. [unclear] I've started with— I've started to take away 60 from 82, from 782. And then— so then I've got— so then I've got 22. And then— I took away 2, so I've got 720. So then, on that one, I didn't think—",00:29:08
+grfkunm,250,tutor,I think that's the answer.,00:29:44
+grfkunm,251,student,[UNCLEAR] difference.,00:29:44
+grfkunm,252,tutor,"OK, so what's the final answer you get?",00:29:47
+grfkunm,253,student,720.,00:29:51
+grfkunm,254,tutor,Can you double-check if it's 120? [unclear],00:29:54
+grfkunm,255,tutor,How many bikes are made in the factory?,00:30:02
+grfkunm,256,student,Is it lower? Yeah. [unclear],00:30:10
+grfkunm,257,tutor,So I'll see.,00:30:17
+grfkunm,258,background,Do the calculation again.,00:30:20
+grfkunm,259,student,"I'll check. 540, no, 5,468. [unclear]",00:30:24
+grfkunm,260,student,"So there was 1,400— 6,846 more bags. [unclear]",00:30:33
+grfkunm,261,tutor,"Can I have some help, please?",00:30:46
+grfkunm,262,student,Would I—,00:30:49
+grfkunm,263,tutor,Sorry?,00:30:51
+grfkunm,264,student,"Can I have a bit of help, please?",00:30:52
+grfkunm,265,tutor,"Okay, so you're doing 782 take away 60, right?",00:30:54
+grfkunm,266,student,Yeah.,00:31:01
+grfkunm,267,tutor,"So from 782, when you take away 60, what is the only column that's going to change here?",00:31:02
+grfkunm,268,student,The [unclear] tens.,00:31:12
+grfkunm,269,tutor,Exactly. The tens column is going to be the only column that will change. And you're taking away 60 from 80. So what is remaining in the tens column?,00:31:15
+grfkunm,270,student,[unclear],00:31:29
+grfkunm,271,tutor,"20. There you go, very good. Remaining is 20. So what's the final answer then?",00:31:29
+grfkunm,272,student,20.,00:31:36
+grfkunm,273,tutor,"It's 722. Ah, understand?",00:31:38
+grfkunm,274,student,Yeah. [unclear],00:31:47
+grfkunm,275,tutor,Yeah. Right. Did you understand it?,00:31:57
+grfkunm,276,student,Yeah.,00:32:04
+grfkunm,277,tutor,Okay. Can you work? Good job there. Here's one mark for trying out the question. And can you go on with the next one?,00:32:05
+grfkunm,278,student,"Yeah, I think so.",00:32:14
+grfkunm,279,student,No.,00:32:18
+grfkunm,280,tutor,One next to the 5 to make it 15. [unclear],00:32:19
+grfkunm,281,student,"No, that's not the one.",00:32:25
+grfkunm,282,tutor,"So you've got a zero, 8, 6, 1.",00:32:29
+grfkunm,283,student,"Wait, but you carry a 1 down.",00:32:33
+grfkunm,284,tutor,"Sorry, we'll cross out 6, turn that into a 5, and then the 1.",00:32:36
+grfkunm,285,student,Is the answer 125? [unclear],00:32:44
+grfkunm,286,tutor,All right. What is the method that you used to get that answer?,00:32:52
+grfkunm,287,student,I used inverse.,00:32:59
+grfkunm,288,tutor,Okay. So what was the inverse calculation?,00:33:04
+grfkunm,289,student,"So I did 95 take away— no, I did 90 take away 70. So then I got—",00:33:09
+grfkunm,290,tutor,Did you do take away?,00:33:19
+grfkunm,291,student,Yeah.,00:33:21
+grfkunm,292,tutor,But take away is already what's given there. What is the inverse of take away?,00:33:23
+grfkunm,293,student,"Oh, addition.",00:33:28
+grfkunm,294,tutor,Exactly.,00:33:31
+grfkunm,295,student,"Because, well, we've done that bit, we've added that bit, but we haven't— this going over here, these were sold. So you chose it back to this number. [unclear] So I did—",00:33:36
+grfkunm,296,student,"90 and 70, so then I got 100 and [UNCLEAR].",00:34:01
+grfkunm,297,tutor,"Let's do it in the Column method, you have 175 and you're adding 90 to it. What is the answer that you will get? [unclear]",00:34:01
+grfkunm,298,student,365. Check that again.,00:34:35
+grfkunm,299,student,"But then when you told me, I recognized that you meant [unclear] and 16 plus 8 is 24. So you take the 8 and then subtract 12. It's got 7, how can you subtract 1? And then 5...",00:34:55
+grfkunm,300,tutor,"Sorry, it's not 90 that we have to add, isn't it? It's 95.",00:35:11
+grfkunm,301,student,"Oh, so it's 207.",00:35:17
+grfkunm,302,tutor,"Yes, it will be 270. [unclear] Amazing. All right. Can you write the answer there?",00:35:22
+grfkunm,303,student,Yeah.,00:35:39
+grfkunm,304,tutor,270 take away 175 is what gives you 95. Is that understood now?,00:35:41
+grfkunm,305,student,[unclear],00:35:49
+grfkunm,306,tutor,"All right, so that was a lot of effort put into trying and understanding the questions and also working it out really well. So here's a sticker for all the amazing effort that you put in, Callum. Good job. And with that, we have actually come towards the end of today's session. And let's talk a little bit about how was today's session. So do you remember the strategies that we used in today's session? Can you tell me what the strategies were?",00:35:51
+grfkunm,307,student,It was inverse.,00:36:28
+grfkunm,308,tutor,Very good.,00:36:30
+grfkunm,309,student,And rounding.,00:36:33
+grfkunm,310,tutor,Rounding. We used rounding. What else did we use?,00:36:35
+grfkunm,311,student,"[unclear] I forgot the name of it, but—",00:36:37
+grfkunm,312,tutor,Was it adjusting?,00:36:56
+grfkunm,313,student,"Oh, yeah.",00:36:58
+grfkunm,314,tutor,Adjusting. And what else? [unclear] [unclear],00:36:59
+grfkunm,315,tutor,"Right. The next one was about counting on, isn't it?",00:37:13
+grfkunm,316,student,"Oh, yeah.",00:37:16
+grfkunm,317,tutor,"Right. So now, do you understand well what inverse method is?",00:37:18
+grfkunm,318,student,I think so.,00:37:25
+grfkunm,319,tutor,Right. Would you mind to explain me what the inverse method is?,00:37:27
+grfkunm,320,student,So it's like,00:37:32
+grfkunm,321,student,"If you've got a question and it's got a blank number, then inverse means the opposite. So if it's take away blank, you'd add on [UNCLEAR].",00:37:34
+grfkunm,322,student,"Yeah, you add on, right?",00:38:00
+grfkunm,323,tutor,"Yes, very good. So if it is a takeaway question, you do addition to find out the missing number in that calculation, right?",00:38:04
+grfkunm,324,student,Yeah.,00:38:13
+grfkunm,325,tutor,"Good job, that was an amazing explanation, Callum. Very well done. And what is the inverse of addition? [unclear] [unclear]",00:38:14
+grfkunm,326,tutor,"Very good, subtraction. All right, that was pretty much it about today's session. Did you enjoy doing it?",00:38:26
+grfkunm,327,student,Yeah.,00:38:36
+grfkunm,328,tutor,"All right, did you understand all what we discussed?",00:38:37
+grfkunm,329,student,Yeah.,00:38:41
+grfkunm,330,tutor,"Very nice. Okay, so I also did enjoy doing the session with you. It was amazing. You put in a lot of effort to work it out. You tried again and again. So that was all very good of you. Keep up that good work, Callum.",00:38:42
+grfkunm,331,student,Yeah.,00:38:58
+grfkunm,332,tutor,All right then. So next up you have your quiz questions coming up and then your reflection sheet. Please do fill them as well. Okay?,00:38:59
+grfkunm,333,student,Yeah.,00:39:08
+grfkunm,334,tutor,All right then. I'll see you next week. Have a wonderful day ahead. Bye.,00:39:08
+grfkunm,335,student,Bye.,00:39:15

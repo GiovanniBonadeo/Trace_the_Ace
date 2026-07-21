@@ -1,0 +1,380 @@
+session_id,utterance_id,role,content,timestamp
+gakdnfw,0,tutor,Hello.,00:00:00
+gakdnfw,1,background,[unclear],00:00:00
+gakdnfw,2,student,Hi.,00:00:00
+gakdnfw,3,background,Hello.,00:00:01
+gakdnfw,4,tutor,"Hi, Gideon. Can you hear me?",00:00:02
+gakdnfw,5,background,"Yeah, kinda.",00:00:04
+gakdnfw,6,tutor,"Okay, so Gideon, how are you doing?",00:00:06
+gakdnfw,7,student,Hello?,00:00:11
+gakdnfw,8,tutor,How's your day? [unclear],00:00:11
+gakdnfw,9,student,"Oh, it's good.",00:00:12
+gakdnfw,10,tutor,Any mathematics today in school?,00:00:17
+gakdnfw,11,student,"Oh no, we had music day.",00:00:20
+gakdnfw,12,tutor,"Okay, sounds great. And do you want to share anything else interesting with me before we move on to the lesson?",00:00:25
+gakdnfw,13,student,No.,00:00:32
+gakdnfw,14,tutor,"Okay, so let's get into the lesson, right?",00:00:34
+gakdnfw,15,tutor,"Yeah, and I hope that you can remember you were learning this lesson, rounding numbers to the nearest 10,000 and 100,000, on your last session as well, right?",00:00:37
+gakdnfw,16,student,Yeah.,00:00:46
+gakdnfw,17,tutor,"Yeah, but you couldn't complete it, so we're picking up from the [unclear] you left off on your last session, right?",00:00:47
+gakdnfw,18,student,Yeah.,00:00:54
+gakdnfw,19,tutor,"Okay, but before we move on to the next slide, shall we recall this learning goal question on this introduction slide?",00:00:55
+gakdnfw,20,tutor,Yeah.,00:01:06
+gakdnfw,21,background,"Okay, so can you try this? Work out loudly. Go ahead.",00:01:07
+gakdnfw,22,student,"Oh, shall I read this bit? Wait.",00:01:16
+gakdnfw,23,tutor,"Yes, the [unclear] question. Yes, yes.",00:01:22
+gakdnfw,24,student,"Round 2,554. Wait. And round to 25,456,000— oh wait.",00:01:25
+gakdnfw,25,tutor,How can you read that number?,00:01:41
+gakdnfw,26,student,I don't know.,00:01:44
+gakdnfw,27,background,"Do you know there are two groups? By inserting the comma, it's obvious, right? We have the ones group and the thousands group on this number.",00:01:46
+gakdnfw,28,student,Yeah.,00:01:55
+gakdnfw,29,background,"So you can read group by group, right? [unclear]",00:01:56
+gakdnfw,30,tutor,I can't really hear you. Can you hear me now?,00:01:58
+gakdnfw,31,student,"Oh yeah, I can hear you now.",00:02:09
+gakdnfw,32,tutor,"Okay, so starting with the hundred thousands column, and the second one is ten thousands column, and the third column is the thousands column. And moving on to the second part of this number, second group, This starts with the digit 5 in the hundreds column, and the digit 6 is in the tens column, and the 1 is in the ones column, right? So we can read the thousands separately, also the hundreds separately for the number [UNCLEAR], right? So 254,561. That's the way we can read these numbers, right?",00:02:11
+gakdnfw,33,tutor,Okay.,00:02:48
+gakdnfw,34,student,Can you read the number now?,00:02:49
+gakdnfw,35,student,"254,000. Since that is the thousands [UNCLEAR].",00:02:56
+gakdnfw,36,tutor,Oh yes.,00:02:59
+gakdnfw,37,student,"254,561.",00:03:00
+gakdnfw,38,tutor,"Yes, there you go. Fabulous work on reading out that number on your own. Okay, so let's try this question, right? So now you need to round this 254,561 to the nearest 10,000.",00:03:06
+gakdnfw,39,tutor,So what would be to round that up?,00:03:22
+gakdnfw,40,student,"The 6 will be— would it be 6— wait, would it be 6 ten-thousands?",00:03:25
+gakdnfw,41,tutor,"So that will be changed into the 6 ten-thousands if you are rounding up, right? Since you need to round to the nearest ten-thousand, which place value column you will look at? [unclear] Would that be—",00:03:34
+gakdnfw,42,tutor,"So you need to round to nearest 10,000, right? So which place value column you will look at?",00:03:48
+gakdnfw,43,student,Would I look at— [unclear],00:03:56
+gakdnfw,44,tutor,"The thousands digit. The digit right next to the ten thousands column. This is 4 in the thousands, right? So if you have 4, you will be rounding up or down?",00:04:03
+gakdnfw,45,student,Down.,00:04:16
+gakdnfw,46,tutor,"Down. So if you are rounding down, what happens to these 5 ten-thousands? Does that change or stay same if you are rounding down?",00:04:16
+gakdnfw,47,student,"[unclear] Wait, no. Would it change?",00:04:26
+gakdnfw,48,tutor,"It still stays same because you are rounding down, right? You are not going to add any ten-thousands. Here because you are rounding down. You have 4 1,000s, which is less than 5, so you will be rounding down to 250,000, isn't it? So can you write the answer here?",00:04:34
+gakdnfw,49,student,250... [unclear],00:04:54
+gakdnfw,50,tutor,"Yeah, 250,000, right? Not just 250. [unclear]",00:05:00
+gakdnfw,51,tutor,"Do you write the letters also in numbers? They should be the digits, right? Go ahead.",00:05:11
+gakdnfw,52,student,Divide it by 10.,00:05:18
+gakdnfw,53,tutor,"No, you should be writing numbers in digits.",00:05:21
+gakdnfw,54,student,"Oh, I did that before.",00:05:25
+gakdnfw,55,tutor,Go ahead and write that number.,00:05:29
+gakdnfw,56,tutor,"250,000.",00:05:37
+gakdnfw,57,student,Do I write thousand?,00:05:39
+gakdnfw,58,tutor,"No, you need to make this as 250,000. This is just 250. It can't be, right? You should have 6 digits. This is a 6-digit number. Do you understand?",00:05:40
+gakdnfw,59,student,"Oh, so I need to add like another numbers after it.",00:05:52
+gakdnfw,60,tutor,"You need to make this as 250,000.",00:05:57
+gakdnfw,61,student,"Yeah, I know that, but I don't get what you're kind of like— I don't know what I need to do after that.",00:06:00
+gakdnfw,62,tutor,"This is just 250, but the 2 should be in the 100,000 scale, so you need to have 3 more digits.",00:06:05
+gakdnfw,63,student,"Oh, like any?",00:06:12
+gakdnfw,64,tutor,"No, you should have 250,000. You can't have any other numbers. How will you write 250,000?",00:06:15
+gakdnfw,65,student,"I just put it there. Oh no, then I don't see. Yes, there you go. This is the way we can write the 250,000, right?",00:06:23
+gakdnfw,66,student,Mm-hmm.,00:06:35
+gakdnfw,67,tutor,"Okay, so let's try the prior learning question. Go ahead.",00:06:36
+gakdnfw,68,student,"Write 2 multiples of 100,000 that say 3,364... [unclear]",00:06:41
+gakdnfw,69,student,lies between.,00:06:41
+gakdnfw,70,tutor,"So what are the two multiples of 100,000 that comes— that this number lies in between? Yeah, the previous multiple and the next multiple of 100,000 for this number.",00:06:59
+gakdnfw,71,background,[unclear],00:07:10
+gakdnfw,72,student,So would it be— thanks— would it be,00:07:10
+gakdnfw,73,student,Would it be— would it be like— would it be this side?,00:07:22
+gakdnfw,74,tutor,The starting point will be what?,00:07:31
+gakdnfw,75,student,"[unclear] Would it be 3? So do you think 3 is a multiple of 100,000 if you are counting on in 100,000s? [unclear]",00:07:33
+gakdnfw,76,student,"So, like, [UNCLEAR]. Oh, I get it. So I need to write, get my text down, and all of that. Would it be— would it be—",00:07:54
+gakdnfw,77,tutor,"Can you tell me the multiples of 100,000?",00:08:09
+gakdnfw,78,student,"10,000?",00:08:12
+gakdnfw,79,tutor,"Pardon? Multiples of 100,000, can you tell me? Shall we count on the multiples of 100,000?",00:08:18
+gakdnfw,80,student,Yeah.,00:08:28
+gakdnfw,81,tutor,"So starting the first multiple of 100,000 is 100,000, right? [unclear] 200,000, 300,000, 400,000, 500,000, 600,000, like that it goes up in 100,000s each time, right?",00:08:30
+gakdnfw,82,background,"Yeah. Now you need to figure out— we have counted on the multiples of 100,000, right? So you have an idea what are the multiples of 100,000. Now you need to figure out what are the two multiples that this number falls in between. [unclear] This exact number is between two multiples, right?",00:08:46
+gakdnfw,83,student,Seven?,00:09:08
+gakdnfw,84,background,That is too far. We can have lesser multiple.,00:09:10
+gakdnfw,85,student,I didn't get what the question was.,00:09:14
+gakdnfw,86,tutor,"Start with 364,209.",00:09:15
+gakdnfw,87,student,Then would it be 309?,00:09:20
+gakdnfw,88,tutor,Pardon?,00:09:23
+gakdnfw,89,student,Would it be 309?,00:09:24
+gakdnfw,90,tutor,"Yes, 300,000. That would be one multiple, right? So can you type that in the starting point?",00:09:26
+gakdnfw,91,student,Would it be [UNCLEAR]?,00:09:33
+gakdnfw,92,tutor,"300,000.",00:09:33
+gakdnfw,93,student,Would it be—,00:09:35
+gakdnfw,94,tutor,And the next multiple is?,00:09:39
+gakdnfw,95,student,"Um, would it be 7,000?",00:09:46
+gakdnfw,96,tutor,"How can you have 7,000? Is that a multiple of 100,000? No, right? [unclear]",00:09:49
+gakdnfw,97,student,"Would it be 400,000?",00:09:55
+gakdnfw,98,tutor,"Yes, of course. That would be the next nearest multiple of 100,000 for this number. So if they are asking the multiples of 100,000, All should be ending with 100,000, 100,000, 100,000, right? [unclear] No other columns will have any digit other than the 100,000s because those are the multiples of 100,000. So we do like counting only in 100,000s. So like 400,000, 500,000, 600,000, 700,000, 800,000, 900,000, like that it goes up in 100,000s, right?",00:09:58
+gakdnfw,99,tutor,Yeah.,00:10:33
+gakdnfw,100,background,"[unclear] 7,000, or we have to come up with 8,000. That won't be a multiple of 100,000, right? Are you clear with that?",00:10:34
+gakdnfw,101,student,Yeah.,00:10:43
+gakdnfw,102,tutor,"Okay, great. So let's move on to the slide where you left off, right?",00:10:43
+gakdnfw,103,student,Okay.,00:10:48
+gakdnfw,104,tutor,"Okay, here you go. So you have done the follow-me part on one of your previous sessions, right? So you need to start with the your turn part for today. So can you go ahead? Do you want me to take you through the follow-me part again to give you a quick idea? Or are you confident enough to move on to the 'your turn' part?",00:10:48
+gakdnfw,105,student,Yeah.,00:11:11
+gakdnfw,106,tutor,Do you want me to take you through this [unclear] part again? Or you can do it on your own?,00:11:11
+gakdnfw,107,student,Yeah.,00:11:18
+gakdnfw,108,tutor,Do you need?,00:11:19
+gakdnfw,109,background,Parent?,00:11:21
+gakdnfw,110,tutor,"I'll retype the answers that we have worked on your last session, right? And then I'll quickly take you through this so that then you will be trying on your own in 'your turn' part, right?",00:11:22
+gakdnfw,111,background,Yeah.,00:11:34
+gakdnfw,112,student,Okay.,00:11:34
+gakdnfw,113,tutor,"Okay, let me type the halfway point. So 950,000 is the halfway point of this number, and we got 976,532. [unclear]",00:11:38
+gakdnfw,114,tutor,532. [unclear],00:11:38
+gakdnfw,115,student,"Okay, let's have a look on this. So let's round 926,532 to the nearest 100,000. And we have just discussed the multiples of the 100,000s, right? It goes up in 100,000s each time. And the question A is asking us to estimate the position of this number 926,532 on this number line. So the starting point says previous multiple of 100,000 and ending is the next multiple of 100,000. Since this number has already 900,000 and something, the previous multiple will be 900,000.",00:12:06
+gakdnfw,116,tutor,Okay.,00:12:44
+gakdnfw,117,student,"Because this is more than 900,000, so the previous multiple is 900,000. The next multiple of 100,000 is 1 million. Right? So the halfway point here is, since it has a 100,000 gap, 50,000 will be added to the halfway point. So it's 950,000.",00:12:45
+gakdnfw,118,tutor,"And we have a place value chart as well. So start with 100,000s, 10,000s, 100s, 10s, and 1s. We have different digits. To round the nearest 100,000, we need to look at the digit in 10,000s column, which is right next to 100,000s column. We have the digit 7 there. The digit in 10,000s place is 7, so we will be rounding up. As per the rounding rule, if we have 5 or more, we will be rounding up. So we will be rounding up to the next multiple of 100,000, which is the 1 million, right?",00:13:04
+gakdnfw,119,student,Yes.,00:13:36
+gakdnfw,120,tutor,"Okay, go ahead with your turn part.",00:13:36
+gakdnfw,121,student,Yes.,00:13:38
+gakdnfw,122,tutor,And read it loudly. [unclear],00:13:39
+gakdnfw,123,student,Now—,00:13:41
+gakdnfw,124,tutor,Can you read this question for us?,00:13:41
+gakdnfw,125,student,"Round to 27,200.",00:13:45
+gakdnfw,126,tutor,"Can you check? There's a way to read numbers, right? Group by group. Do you remember?",00:13:51
+gakdnfw,127,student,Yeah.,00:14:01
+gakdnfw,128,tutor,"So this will be read as 976,532. Can you read that?",00:14:04
+gakdnfw,129,student,"Um, two— two thousand seventy-two hundred two— [unclear]",00:14:13
+gakdnfw,130,tutor,"So how will you read these three digits, first three digits? How will you read this?",00:14:20
+gakdnfw,131,student,[unclear],00:14:27
+gakdnfw,132,tutor,How will you read this first 3 digits of this number?,00:14:27
+gakdnfw,133,student,27.,00:14:34
+gakdnfw,134,tutor,Can you recheck 3 digits?,00:14:34
+gakdnfw,135,student,"Oh, 272.",00:14:37
+gakdnfw,136,tutor,"And since this is the thousands group, we need to add 1,000, right? When we are reading that. So it would be 272,000 and?",00:14:39
+gakdnfw,137,student,"272,256.",00:14:56
+gakdnfw,138,tutor,"Yes, that's the way to read that number. Okay, go ahead and round this to the nearest 100,000.",00:14:57
+gakdnfw,139,student,"Estimate the position of 272,256 on the number line. Okay, great work on identifying the previous multiple of 100,000 for this number. Okay, so what will be the next multiple of 100,000?",00:15:02
+gakdnfw,140,student,"Would it be— oh, why is that— oh, I'm on the different— that's nice. Would it be— [unclear] Would it be 10,000? No, 1,000.",00:15:25
+gakdnfw,141,tutor,"Can you recheck? Do you think 1,000 is a multiple of 100,000? We have discussed already what are the multiples of 100,000, right? [unclear]",00:15:41
+gakdnfw,142,tutor,"Would it be 12,000? Do you think 12,000 is a multiple of 100,000?",00:15:58
+gakdnfw,143,student,Yeah.,00:16:07
+gakdnfw,144,tutor,"We have just counted down the multiples of 100,000 together. Do you remember?",00:16:09
+gakdnfw,145,tutor,"It goes up in 100,000 each time, right? So after the 200,000, what is the next multiple? 300,000. Yes, it is. [unclear] is not a multiple of 100,000, right?",00:16:14
+gakdnfw,146,student,Yeah.,00:16:32
+gakdnfw,147,tutor,"Yeah, always keep that in— remember, keep that in mind. The multiples of 100,000 have Only hundred thousand digits, the rest of the digits will be zeros, right?",00:16:33
+gakdnfw,148,student,Yeah.,00:16:46
+gakdnfw,149,tutor,"Okay, so these are the two multiples of 100,000 that this number lies in between. Now you need to position this number on this number line like I did here.",00:16:47
+gakdnfw,150,student,Yeah.,00:17:00
+gakdnfw,151,tutor,You need to figure out where is this number on this number line.,00:17:01
+gakdnfw,152,background,"Oh, where this— what, uh— These two numbers here? What, these two numbers here?",00:17:04
+gakdnfw,153,tutor,"No, these are the previous and next multiples, right? This is the exact number. You need to figure out where this number is on this number line.",00:17:16
+gakdnfw,154,student,"Okay, um, I— [unclear] Would it go like here?",00:17:25
+gakdnfw,155,tutor,Can you recheck? What is the halfway point of this number line?,00:17:35
+gakdnfw,156,background,"5,000.",00:17:38
+gakdnfw,157,tutor,Can you recheck?,00:17:43
+gakdnfw,158,background,"500,000.",00:17:44
+gakdnfw,159,tutor,"How it can be 5,000? How it can be 500,000? The number line ends in 300,000 only. You don't have 500,000, right? [unclear] So how are you figuring out the halfway point? Do you know that? Do you know how we can figure out the halfway point?",00:17:45
+gakdnfw,160,student,Count?,00:18:08
+gakdnfw,161,tutor,How we can count?,00:18:11
+gakdnfw,162,student,Don't know.,00:18:14
+gakdnfw,163,tutor,So what is the gap of this number line?,00:18:15
+gakdnfw,164,student,I don't know.,00:18:20
+gakdnfw,165,tutor,"So it starts with 200,000, ends in 300,000. So what is the gap in between?",00:18:24
+gakdnfw,166,tutor,You can take away the starting point from the ending point.,00:18:34
+gakdnfw,167,student,"So 300,000 take away 200,000 is 1,000.",00:18:39
+gakdnfw,168,tutor,"So 300,000 take away 200,000 is just 1,000?",00:18:44
+gakdnfw,169,student,Yeah.,00:18:49
+gakdnfw,170,tutor,"Can you recheck? Can you recheck? 300,000 take away 200,000.",00:18:50
+gakdnfw,171,tutor,Is what?,00:19:02
+gakdnfw,172,student,Uh... [unclear],00:19:05
+gakdnfw,173,tutor,"300,000 take away 200,000.",00:19:09
+gakdnfw,174,student,"Yeah, I'm just doing that now.",00:19:16
+gakdnfw,175,tutor,What is the gap?,00:19:20
+gakdnfw,176,student,"Uh, I don't know. Hang on.",00:19:21
+gakdnfw,177,tutor,"It's 100,000, isn't it? You can just take away away 300,000 and 200,000, right? [unclear] 300,000, if you are taking away 200,000 out of it, you will be left with 100,000, right?",00:19:23
+gakdnfw,178,student,"Yeah, that's what I said.",00:19:39
+gakdnfw,179,tutor,"You said 1,000. You said not 100,000, right? You said just 1,000. There's a huge difference between 1,000 and 100,000, right? They are different in values. They are not same, right? So actual gap is 100,000, right? And we have how many intervals here? Can you count on how many intervals are here?",00:19:40
+gakdnfw,180,student,"What, even including this one here?",00:20:04
+gakdnfw,181,tutor,"No, the gaps. How many gaps? You can find the jumps. How many jumps? [unclear]",00:20:08
+gakdnfw,182,student,"Would be here. I don't even need to count because it says 1/10, so I just tell—",00:20:19
+gakdnfw,183,tutor,How many gaps? How many intervals?,00:20:26
+gakdnfw,184,student,1—,00:20:29
+gakdnfw,185,tutor,"10? 10. And the gap is 100,000, and you have 10 intervals, so what is one interval worth? [unclear] Yeah.",00:20:30
+gakdnfw,186,student,"10,000. [unclear]",00:20:39
+gakdnfw,187,student,Am I doing the questions now?,00:20:55
+gakdnfw,188,tutor,Pardon?,00:20:58
+gakdnfw,189,student,Am I doing the questions now? I don't know where I'm at.,00:20:59
+gakdnfw,190,tutor,"Yeah, I asked you a question. I hope you're looking on. Do you get the question?",00:21:02
+gakdnfw,191,student,I forgot the question.,00:21:09
+gakdnfw,192,tutor,"If the gap is 100,000 and if you have 10 intervals, what is one interval worth?",00:21:10
+gakdnfw,193,student,"One, two...",00:21:17
+gakdnfw,194,tutor,"You have 10 intervals, right? And all the 10 intervals has a worth of 100,000. This gap is. So if you divide it by 10, the one gap will be 10,000, isn't it? So you can count on in 10,000 each time on this each gap, right?",00:21:20
+gakdnfw,195,student,Mm-hmm.,00:21:37
+gakdnfw,196,tutor,"So coming to the first gap, this is 210,000. 220,000, 230,000, 240,000, 250,000. Like that it goes up. So what is the halfway point? I just say it. [unclear]",00:21:39
+gakdnfw,197,student,"No, it's 350,000.",00:21:55
+gakdnfw,198,tutor,"250,000. Yes. Can you type it?",00:22:01
+gakdnfw,199,student,"Oh, okay. [unclear]",00:22:05
+gakdnfw,200,tutor,"Is that 350,000?",00:22:13
+gakdnfw,201,student,"Oh, it's 2.",00:22:17
+gakdnfw,202,tutor,"Yeah, it should be 2. Okay, now you need to figure out where is 272,256. And you know, right? Each gap is 10,000. [unclear] There is 272,256.",00:22:19
+gakdnfw,203,student,Is it like— is it— [unclear],00:22:48
+gakdnfw,204,tutor,"How it can be less than 250,000? Because here is the 250,000. Of course, this is more than 250,000, this number is, right? You need to get an idea while going through this number line, right? Don't keep guessing.",00:23:13
+gakdnfw,205,tutor,"It can't become here, right? Because the halfway point was already 250,000, and you have a larger number than this to point on, right? [unclear] So I also said that each gap was 10,000, isn't it? So what is the number here? After the 250,000, what is the next number here? The next number will be 260,000.",00:23:30
+gakdnfw,206,tutor,"260,000. And here it is, 270,000.",00:24:03
+gakdnfw,207,student,Okay.,00:24:08
+gakdnfw,208,tutor,"270,000. And the exact number is more than 270,000 or less than? More than, right? So it comes here. So can you rub out the previous line that you draw? Okay, so can you use a different color and type the exact number here then?",00:24:09
+gakdnfw,209,student,Yeah.,00:24:26
+gakdnfw,210,tutor,"And here also, if it is in the middle, that would be 225,000, right?",00:24:27
+gakdnfw,211,student,Yeah.,00:24:33
+gakdnfw,212,tutor,So it comes quite to the left side.,00:24:33
+gakdnfw,213,student,So the answer would be—,00:24:36
+gakdnfw,214,tutor,"It wouldn't be exact middle, right? Would it be— [unclear]",00:24:38
+gakdnfw,215,student,"Would be 750,000.",00:24:44
+gakdnfw,216,tutor,"How you can be 700 and something? Can you recheck? [unclear] Just 300,000, right? You can't have 700 and something like that.",00:24:51
+gakdnfw,217,student,"I mean, I mean, I should get it.",00:25:05
+gakdnfw,218,tutor,"So this is 270,000 here on this exact line, right? And the next line is 280,000. So in the middle, that will be 275,000. But the number is 272,000 and something. So this line, you should take this quiet left. [unclear] You should take this line quiet to the left side, right? Not in the middle of these two lines.",00:25:07
+gakdnfw,219,student,Perfect.,00:25:38
+gakdnfw,220,tutor,"If it is in the middle of these two lines, that will be 275,000, right?",00:25:38
+gakdnfw,221,tutor,"Yeah, quiet to the left, like closer to this line here. Yeah, that's fine. Can you make it as a line? Yes, there you go. Now you can type the number that you got on the question, yeah?",00:25:45
+gakdnfw,222,student,"So the answer would be 200— no, wait, no. Would it be 700?",00:25:59
+gakdnfw,223,tutor,"Do you have any 700,000s? Can you recheck the number? You can go through the question and you can see the number, right? Don't be in a hurry, take your time. Don't keep guessing also.",00:26:10
+gakdnfw,224,student,"So, I didn't get what—",00:26:26
+gakdnfw,225,tutor,"It starts with 200,000s.",00:26:29
+gakdnfw,226,student,"Oh, so it'll be 200 and it's—",00:26:31
+gakdnfw,227,tutor,7.,00:26:34
+gakdnfw,228,student,"Yeah, this is the number, 272,256, right?",00:26:35
+gakdnfw,229,tutor,"So is that just 270,000? No, right? You need to write this number.",00:26:42
+gakdnfw,230,student,"Oh, that. Oh, yeah.",00:26:50
+gakdnfw,231,tutor,A number.,00:26:52
+gakdnfw,232,background,Yeah.,00:26:55
+gakdnfw,233,tutor,Do you understand? [unclear] Do you have any questions on this? [unclear],00:26:58
+gakdnfw,234,tutor,"The 270,000 is on this exact line, right? Because each line goes up in 10,000. So it is 260,000 here, 270,000 here, 280,000 here, 290,000 here, and it ends in 300,000. Right? Okay, the same number. Now we got a place value chart. How many place value columns we have here?",00:27:10
+gakdnfw,235,student,6.,00:27:40
+gakdnfw,236,tutor,6. Can you name one by one?,00:27:40
+gakdnfw,237,student,"Um, is it 10,000? Wait, 1,000.",00:27:42
+gakdnfw,238,background,Can you recheck? Can you recheck what am I pointing on?,00:27:49
+gakdnfw,239,student,"100,000.",00:27:53
+gakdnfw,240,tutor,"Yes, and the second one is?",00:27:59
+gakdnfw,241,student,"10,000.",00:28:03
+gakdnfw,242,tutor,Uh-huh.,00:28:06
+gakdnfw,243,student,"1,000, 100, 10, 1.",00:28:07
+gakdnfw,244,tutor,"1s, right? And can you read this number again?",00:28:14
+gakdnfw,245,student,"20— wait. 2,000— [unclear] Wait, 272,256.",00:28:19
+gakdnfw,246,tutor,"Where is the thousand in the middle? When you are reading the thousands group, you need to include thousands as well, isn't it? You can't just read the digits. 272,256. That's the way to read the number. Can you read it again? [unclear]...wait, no. [unclear]",00:28:30
+gakdnfw,247,tutor,"No, you need to— you know, right, how to read? If you group it by inserting a comma also, you can group it, right? So that we have thousands group here and ones group, so you can separately read them as a whole number in one go.",00:29:01
+gakdnfw,248,tutor,Go ahead.,00:29:22
+gakdnfw,249,student,"27, 2. 272.",00:29:23
+gakdnfw,250,tutor,"Thousand. You say it has thousand, right? This is the thousands group, right?",00:29:26
+gakdnfw,251,student,"2,072.",00:29:33
+gakdnfw,252,tutor,"No, 222,000.",00:29:34
+gakdnfw,253,student,"272,256.",00:29:37
+gakdnfw,254,tutor,"Okay. Can you read once more for me, please? [unclear]",00:29:41
+gakdnfw,255,tutor,"Yeah, go ahead.",00:29:48
+gakdnfw,256,student,"2,000... no, I don't know. [UNCLEAR]...2,272,256.",00:29:48
+gakdnfw,257,tutor,"Yes, great, great work on reading out this number finally. Yes, there you go. Don't give up, right? You can read the numbers even this is a long number. A larger number. It has 6 digits on it. Yeah?",00:30:08
+gakdnfw,258,tutor,"Mm-hmm. [Speaker] Okay, so what is this question he's asking?",00:30:19
+gakdnfw,259,tutor,"The number shown in the place value chart B, the digit in 10,000 place is... [unclear] [Speaker] Is that 7?",00:30:25
+gakdnfw,260,student,No.,00:30:38
+gakdnfw,261,student,It's a 7. [unclear],00:30:42
+gakdnfw,262,tutor,So you can figure out where is— what's the digit in the ten-thousandths place.,00:30:50
+gakdnfw,263,student,"Ten-thousandths is 7, isn't it?",00:30:55
+gakdnfw,264,tutor,"Yes, so you can type it.",00:30:58
+gakdnfw,265,student,I put 7. And then the C is saying 2,00:31:00
+gakdnfw,266,tutor,Are you typing?,00:31:12
+gakdnfw,267,student,"Yeah, I did.",00:31:14
+gakdnfw,268,tutor,But I don't see the digit. Can you refresh your page? Yeah? [unclear],00:31:18
+gakdnfw,269,tutor,Can you see it now? [unclear],00:31:34
+gakdnfw,270,tutor,"So since the ten-thousands digit is 7, you will be rounding up or rounding down?",00:31:50
+gakdnfw,271,student,Down. Rounding up.,00:31:58
+gakdnfw,272,tutor,"Okay, so if you are rounding up, you will be rounding up to which multiple?",00:32:04
+gakdnfw,273,student,"3,000.",00:32:08
+gakdnfw,274,tutor,"Is this 3,000?",00:32:11
+gakdnfw,275,student,"300,000. [unclear]",00:32:13
+gakdnfw,276,tutor,"Yes, it is. So, uh, the 272,256 is closer to which multiple? You can type it.",00:32:15
+gakdnfw,277,student,Okay. [unclear],00:32:23
+gakdnfw,278,tutor,"Okay, got it. I'm just gonna put my phone. Okay, there you go. And are you ready to move on to the next slide?",00:32:27
+gakdnfw,279,student,Yeah.,00:32:43
+gakdnfw,280,tutor,"Okay, let me take you to the You Do slide. Here you have some more questions to be practiced with. So here you got place value charts to help with and a number line. You can use whatever you prefer, right? So if you prefer using the place value charts, you can use them, or else you can use this number line as well. And let's get started with question 1. Go ahead.",00:32:44
+gakdnfw,281,student,"Round these numbers to the nearest thousand and ten thousand and, like, a hundred thousand.",00:33:08
+gakdnfw,282,tutor,"Uh-huh. So first, let's round this number. What is this number? [unclear]",00:33:22
+gakdnfw,283,student,"782,009.",00:33:30
+gakdnfw,284,tutor,"Yes. So let's round this number to the nearest 1,000 first. So the number has been already given on the place value chart as well. If you need, you can use it, right? So you need to round this to the nearest 1,000. So can you check on the digit where you need to look at, and you can decide you will be running up or down and all, right? Go ahead. Work out loudly. [unclear]",00:33:34
+gakdnfw,285,tutor,"Read out loudly. What, this number?",00:34:01
+gakdnfw,286,student,"Yeah, this is the first number you got here.",00:34:04
+gakdnfw,287,tutor,Okay.,00:34:06
+gakdnfw,288,student,"So if you round this to the nearest thousand, where will you look at?",00:34:07
+gakdnfw,289,tutor,Would I have to read this number?,00:34:12
+gakdnfw,290,tutor,"No, you don't need to read. You need to round this number.",00:34:15
+gakdnfw,291,student,Oh.,00:34:18
+gakdnfw,292,tutor,Go ahead.,00:34:19
+gakdnfw,293,student,Would it be 8...?,00:34:20
+gakdnfw,294,tutor,"No, you need to round to nearest 1,000 first, right? So if you are rounding to nearest 1,000, which number you will look at? Which column you will look at?",00:34:24
+gakdnfw,295,student,[unclear] This number?,00:34:34
+gakdnfw,296,tutor,"Well, let's try this number.",00:34:41
+gakdnfw,297,student,"Yeah, same number is here, but in the place value chart, right? And you need to round to nearest thousand, so you will be looking at which digit then? [unclear]",00:34:43
+gakdnfw,298,tutor,Okay.,00:34:54
+gakdnfw,299,student,What digit you will be looking at?,00:34:56
+gakdnfw,300,tutor,Would that be the 2?,00:34:58
+gakdnfw,301,student,"No, you need to round to nearest thousand, right? So if you need to round to nearest thousand, What place value column you will look at to decide? [unclear] The place value column right next to it, isn't that? So what is the place value column right next to the thousands column?",00:35:02
+gakdnfw,302,student,So would it be 0?,00:35:29
+gakdnfw,303,tutor,"Yeah, 0 in the which column? Because we have 2 zeros.",00:35:33
+gakdnfw,304,tutor,We should be looking at?,00:35:37
+gakdnfw,305,student,The hundreds.,00:35:39
+gakdnfw,306,tutor,"Place value column. Hundreds, right? Always keep in mind, if you are rounding to any degree of accuracy, we should be looking at the place value column right next to it. So if you are rounding to nearest to 1,000, we will be looking at the hundreds column. And if you are rounding to nearest to 10,000, we will be looking at thousands column. And if you are rounding to the nearest 100,000,",00:35:39
+gakdnfw,307,tutor,"We will be looking at the place value column right next to it, which is 10,000, right? Always look at the right next place value column, right? And now we need to round to nearest to 1,000, so we will be looking at the 0 in the hundreds. Since it is a 0, what will you do? You will be rounding up or down? [unclear] If you have a 0, you will be rounding—",00:36:05
+gakdnfw,308,student,"Oh, down.",00:36:30
+gakdnfw,309,tutor,"Oh, down. Down, right? So if you are rounding down, what will be the answer? You will be rounding to?",00:36:31
+gakdnfw,310,student,Would it be 6821?,00:36:38
+gakdnfw,311,tutor,Where is the 6 you got? From where you got the digit 6? Do you have any 6 here?,00:36:44
+gakdnfw,312,student,Am I meant to write the question down? I don't get what I'm kind of actually doing.,00:36:51
+gakdnfw,313,tutor,"No, you need to round this now, right?",00:36:56
+gakdnfw,314,tutor,"My question is, from where you got this 6? You don't have any 6 here.",00:37:02
+gakdnfw,315,student,[unclear],00:37:09
+gakdnfw,316,tutor,"No, the number is 782,009. You need to round to nearest thousand, so the hundred digit is 0, so you will be rounding down, right?",00:37:11
+gakdnfw,317,student,Yeah.,00:37:23
+gakdnfw,318,tutor,"So if you are rounding down, what would be the answer?",00:37:24
+gakdnfw,319,tutor,1.,00:37:29
+gakdnfw,320,student,1?,00:37:31
+gakdnfw,321,tutor,781.,00:37:32
+gakdnfw,322,student,"[unclear] If you are rounding down, you are not taking away, right? You keep this as same, right?",00:37:34
+gakdnfw,323,tutor,So how do you round up? I don't get how to round up.,00:37:43
+gakdnfw,324,student,"If you are rounding up, you will be adding 1 more thousand. But if you are rounding down, you can—",00:37:46
+gakdnfw,325,tutor,"Oh, so will it be 2,000?",00:37:51
+gakdnfw,326,student,"Yes, it will be 2,000 and the 700,000 and 8 80,000 will stay same, right? It won't change. No, the 7 and 8 will stay same too.",00:37:53
+gakdnfw,327,student,"Oh, 7... [unclear]",00:38:04
+gakdnfw,328,tutor,"Yeah, it will also stay same because you are rounding down, and the rest of the digits will turn as zeros. So what's the answer?",00:38:09
+gakdnfw,329,student,782.,00:38:16
+gakdnfw,330,tutor,"Isn't it a thousand, right? This is not just 782. This is 782,000. Do you get that?",00:38:26
+gakdnfw,331,student,"Kinda. No, I don't get it.",00:38:36
+gakdnfw,332,tutor,"number, right? [unclear] This is a 6-digit number, right?",00:38:36
+gakdnfw,333,student,Yeah.,00:38:48
+gakdnfw,334,tutor,How will you read this?,00:38:49
+gakdnfw,335,tutor,782. Do you read that as 782 only?,00:38:56
+gakdnfw,336,student,No. Yeah.,00:39:04
+gakdnfw,337,tutor,"It's not a 3-digit number. You have 3 more zeros here in the hundreds, tens, and ones.",00:39:05
+gakdnfw,338,background,"782,000.",00:39:10
+gakdnfw,339,tutor,"Yes, it is, right? So it is 782,000, okay?",00:39:13
+gakdnfw,340,tutor,"Yeah, and now you need to round the same number to the nearest 10,000 this time. So you can take me through this place value chart and go ahead, work out.",00:39:19
+gakdnfw,341,student,"Work out the nearest 10,000?",00:39:31
+gakdnfw,342,tutor,"Yes. You can use your pointer. Okay, go ahead.",00:39:36
+gakdnfw,343,student,"Okay, thank you. [unclear] decimal point. Do you have any decimal point here? This is not a decimal number, right?",00:39:40
+gakdnfw,344,student,I don't know. I don't know what it is.,00:39:49
+gakdnfw,345,tutor,"What you done now? We have just discussed how to round nearest 1,000, right? The same way you can round to nearest 10,000 as well. You change the answer as well. [unclear]",00:39:55
+gakdnfw,346,background,"Oh, I was just rubbing out the dots I did.",00:40:10
+gakdnfw,347,tutor,"Do you know how to round nearest 10,000? [unclear]",00:40:15
+gakdnfw,348,tutor,"Nice. So if we are rounding to nearest 10,000, can you point on the 10,000s place value column first? On this place value chart, can you point on the 10,000s place?",00:40:19
+gakdnfw,349,student,"Yeah, let me just get my pointer out. Okay, where is the ten thousands place? [unclear] I don't see your pointer. Okay, so you are rounding to nearest ten thousand, so you will be looking at? [unclear]",00:40:32
+gakdnfw,350,student,"Hey, I know.",00:40:57
+gakdnfw,351,tutor,"No, I already said you always, you need to look at the place value column right next to it, right? Oh, 7. [unclear] Oh, I think I get it. Is it going to be 780,000 years after those?",00:40:59
+gakdnfw,352,tutor,"Can you type the answer? Because you are rounding to ten thousands, you will be looking at the thousands. You have 2 here, so you'll be rounding down. So 8 will stay same, 7 will stay same.",00:41:19
+gakdnfw,353,tutor,"Rest of the all digits turn as zeros. [unclear] This is 78,000. This won't be the answer. Can you recheck?",00:41:32
+gakdnfw,354,student,2...,00:41:45
+gakdnfw,355,tutor,"Yes. Yes. And shall we try the nearest 100,000 as well, right? So the same number, this time you're gonna round to nearest 100,000.",00:41:45
+gakdnfw,356,background,"206 again. Can you recheck? Can you recheck? So if you are rounding to nearest hundred thousand, which column you will look at? [unclear]",00:41:56
+gakdnfw,357,student,The 7.,00:42:10
+gakdnfw,358,tutor,"The 7 is in the hundred thousands, right? So you will be looking at which place value column?",00:42:12
+gakdnfw,359,student,7.,00:42:17
+gakdnfw,360,tutor,"The 7 already in the hundred thousands column. So you will be looking at— 8 in the 10,000. So if you have 8, you will be running up or down? If you have 8, you'll be running up or down? [unclear] If you have 5 or more, you'll be running up, right?",00:42:19
+gakdnfw,361,student,"Oh yeah, up.",00:42:45
+gakdnfw,362,tutor,"Up. So if you are running up, you need to add one more 200,000 here, and rest of the digits will turn as zeros. So it goes to the next multiple. It won't be 100,000— 700,000. You are rounding up to the next multiple, so you are adding one more 100,000 here. So the 7 turns as 800,000, right? [unclear]",00:42:46
+gakdnfw,363,tutor,"800,000. You are running up there, right? So it turned into 100,000.",00:43:09
+gakdnfw,364,student,"Yes, but let me change it.",00:43:20
+gakdnfw,365,tutor,"Okay, and we are running out of the time actually, right?",00:43:23
+gakdnfw,366,student,Yeah. [unclear],00:43:27
+gakdnfw,367,tutor,"Okay, so let's wrap up, right? We already reached the end of the time, end of the session. So before we wrap up for today, can you tell me what are the important things that you learned from today's lesson?",00:43:30
+gakdnfw,368,student,"Rounding up to the nearest 10,000, so 1,000.",00:43:40
+gakdnfw,369,tutor,"Okay, so if you are rounding up to the— rounding to the nearest 10,000, which place value column you will look at? [unclear] If you are rounding to the— I'm not asking the digits, right? The place value columns only, right?",00:43:47
+gakdnfw,370,tutor,"So if you are rounding to nearest 10,000, which place value column you will look at?",00:44:09
+gakdnfw,371,student,"Uh, they don't— don't know.",00:44:16
+gakdnfw,372,tutor,"If you are rounding to 10,000, you will look at which place value column?",00:44:19
+gakdnfw,373,student,The first one?,00:44:25
+gakdnfw,374,tutor,"No, the right next place value column, which is the thousands, right?",00:44:28
+gakdnfw,375,student,Yeah.,00:44:34
+gakdnfw,376,tutor,"Always keep that in mind, right? Don't get stuck. Take your time. Don't give up, right? I'm here to help you, right? Okay, so please do your multiple choice quizzes once you end this session. They pop up on your screen. Please do them before you go. And let's meet on your next session. Until then, have a great week. Bye-bye.",00:44:35
+gakdnfw,377,student,"Yeah, bye.",00:44:56
+gakdnfw,378,background,[unclear],00:44:56

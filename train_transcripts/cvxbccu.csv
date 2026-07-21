@@ -1,0 +1,215 @@
+session_id,utterance_id,role,content,timestamp
+cvxbccu,0,tutor,Hello.,00:00:00
+cvxbccu,1,background,[unclear],00:00:00
+cvxbccu,2,student,"Hello. Hi, Lachlan.",00:00:00
+cvxbccu,3,tutor,Hello.,00:00:01
+cvxbccu,4,student,Hi.,00:00:02
+cvxbccu,5,tutor,Can you hear me clearly?,00:00:03
+cvxbccu,6,student,Yeah. Can you hear me? [unclear],00:00:04
+cvxbccu,7,tutor,Yeah.,00:00:07
+cvxbccu,8,background,Okay.,00:00:08
+cvxbccu,9,tutor,"All right, and how are you doing, Lachlan?",00:00:10
+cvxbccu,10,background,Hmm.,00:00:12
+cvxbccu,11,tutor,Hmm. Can you hear me? Hello?,00:00:15
+cvxbccu,12,background,Hi.,00:00:18
+cvxbccu,13,tutor,Hello?,00:00:18
+cvxbccu,14,background,Hello?,00:00:20
+cvxbccu,15,tutor,"Hi, hi, Lachlan. Can you hear me very clearly?",00:00:20
+cvxbccu,16,background,Yes.,00:00:23
+cvxbccu,17,tutor,"All right, so because I thought you couldn't hear me when you said hello, right? Okay, so with that, Lachlan, how's your week going on? [unclear]",00:00:25
+cvxbccu,18,tutor,"It's okay. All right, amazing. So with that, we are going to start our lesson for the day, and it's about working with y mx c. So do you remember that we started this lesson already? We learned about gradient, intercept, all those. Yeah. Yeah,",00:00:35
+cvxbccu,19,student,so,00:00:55
+cvxbccu,20,tutor,"with that, we need to start today's lesson with this slide. But before that, let me ask you, when you have the equation y ax c, so can you tell me which one is the gradient and which one is the intercept? The gradient",00:00:56
+cvxbccu,21,student,is the [UNCLEAR].,00:01:24
+cvxbccu,22,tutor,C.,00:01:29
+cvxbccu,23,student,Is it? Are you sure?,00:01:29
+cvxbccu,24,tutor,It's the ax.,00:01:31
+cvxbccu,25,student,"You remember we studied this one together? So gradient was how much? Wait, let me show this slide. When I show this slide, you will remember. This one.",00:01:32
+cvxbccu,26,tutor,Yeah.,00:01:48
+cvxbccu,27,student,"Sorry, it's mx c. I'm sorry. It's mx c. Yes, so Lachlan, you can go through this. In this, when you have y 3x 2, yeah, so what do you think? Which one is the gradient and which one is the intercept? The gradient's the",00:01:49
+cvxbccu,28,student,3x. 3. 3 is,00:02:13
+cvxbccu,29,tutor,"the gradient, not the x, right? And In that case, m will be the gradient. Okay, intercept will be -2. It's very important to put the sign. Okay, don't miss it. So I think in your last session you already started the first question, but it's okay, you can write the answer here again. Can you write it here?",00:02:16
+cvxbccu,30,student,Yeah.,00:02:36
+cvxbccu,31,tutor,"Yeah, for the first equation of y 3x 2, 3 is the gradient and -2 is the intercept. Very good, that's right. And what about the second one? Make sure you check the equation carefully. If it is not arranged, rearrange it.",00:02:38
+cvxbccu,32,student,The gradient's 2.,00:02:55
+cvxbccu,33,tutor,And how did you know that?,00:02:59
+cvxbccu,34,student,Because it's got the x next to it.,00:03:03
+cvxbccu,35,tutor,"Yep, but it's a minus, right? So in that case, do you think—",00:03:06
+cvxbccu,36,student,"The minus 2. No, no, no, no, you have to [unclear] Lachlan. Now you have to arrange this to the way of mx c. Is this in the format of mx c? No. So",00:03:11
+cvxbccu,37,student,what,00:03:27
+cvxbccu,38,tutor,should you do in that case if you want to make it that way? Do you,00:03:27
+cvxbccu,39,student,"divide it? No, you",00:03:32
+cvxbccu,40,tutor,"have to just make it mx c. So you keep y on one side, okay? If you want to get x to the other side, what happens to that then? If you want to get it to the other side.",00:03:36
+cvxbccu,41,student,Take away the x. The 2. Take away the 2.,00:03:49
+cvxbccu,42,tutor,Now it's already taken away. You have to—,00:03:54
+cvxbccu,43,student,Yeah.,00:03:58
+cvxbccu,44,tutor,"Lachlan, you have to listen to the question carefully. You already have a negative sign. If you want to make it to, like, cancel, what should you do?",00:04:01
+cvxbccu,45,student,Make it a positive?,00:04:10
+cvxbccu,46,tutor,"Exactly. So if you add the 2x, the other side also you have to add a 2x, right? So it will be y equals— yeah, tell me. y equals— [unclear] Lachlan, seems like you're not concentrating. Is that so? Because it feels like Something is distracting you. Is it with the mic or something?",00:04:12
+cvxbccu,47,student,"No, I'm listening.",00:04:40
+cvxbccu,48,tutor,"No, it seems like your voice is very low as well. Okay, can you bring your mic a bit closer if you don't mind?",00:04:43
+cvxbccu,49,student,"Yeah, one minute.",00:04:51
+cvxbccu,50,tutor,"Yeah, I think now it's fine.",00:04:53
+cvxbccu,51,student,Is that better?,00:04:56
+cvxbccu,52,tutor,Can you speak a bit now?,00:04:57
+cvxbccu,53,student,"Yes, Lachlan, thank you so much. I felt like you were having some audio issues. That's it. I asked you if anything is distracting. Right? Okay, so y equals— when you take this -2x to the other side, it will be positive 2x. All right, so be in the format of y mx c. mx is given, so your c will be a 3. Mm-hmm. Okay,",00:04:59
+cvxbccu,54,student,so,00:05:27
+cvxbccu,55,tutor,"in that case, which is your gradient— your 2 is right, but How did we get the 2? We had to take it to the other side to make it positive. So remember, when you have an equation, make sure you rearrange in the format of y mx c. And what [unclear] is your intercept? 3. Yes,",00:05:27
+cvxbccu,56,student,your,00:05:52
+cvxbccu,57,tutor,intercept is 3. Now it's your— you have to try the next one. Let me give you some time.,00:05:52
+cvxbccu,58,tutor,"Give me a moment, Lachlan. [unclear]",00:06:02
+cvxbccu,59,tutor,"All right, Lachlan, I'm back. So yes, can you try the next one? Third one?",00:06:09
+cvxbccu,60,student,So gradient would be 6.,00:06:30
+cvxbccu,61,tutor,"Yeah, but do you think it's in the format of y mx c, or is there any changes to be made? It's normal,",00:06:34
+cvxbccu,62,student,Is it? [UNCLEAR].,00:06:46
+cvxbccu,63,tutor,You should have only one y.,00:06:46
+cvxbccu,64,student,"Ah, so they change it.",00:06:52
+cvxbccu,65,tutor,"Hmm, so how can you make it to 1y?",00:06:55
+cvxbccu,66,student,Divide by 3.,00:07:01
+cvxbccu,67,tutor,"Exactly, there we go, Lachlan. If you divide one side by 3, since it's an equation, what happens to the other side?",00:07:03
+cvxbccu,68,student,You divide the other side by 3.,00:07:10
+cvxbccu,69,tutor,"Exactly, there we go, Lachlan. So remember, y mx c means that it should be 1y, okay? If you have 3y's, make sure you divide it accordingly. Accordingly, right? So write that rearranged equation here underneath. If you divide by 3, how much will you get?",00:07:13
+cvxbccu,70,student,[unclear],00:07:30
+cvxbccu,71,tutor,y equals— uh-huh. If you divide by 3—,00:07:33
+cvxbccu,72,student,[unclear],00:07:39
+cvxbccu,73,tutor,"Did you divide 6 by 3? Oh, if you divide one side, you have to divide everything by 3, okay? Because it's an equation, otherwise it will not be equal. Now you can identify which is your gradient and which is your intercept. [unclear]",00:07:40
+cvxbccu,74,tutor,"Yeah, that's right. 2 and a -3. Good job, because you didn't forget to put the minus. Because when it comes to the intercept or even the gradient, your signs are very important. If you have a positive, you don't need to put it because we know it's a positive integer. Okay, right. So can you tell me what was the learning you had from this question, Lachlan?",00:07:59
+cvxbccu,75,tutor,The learning?,00:08:25
+cvxbccu,76,student,Yep.,00:08:26
+cvxbccu,77,tutor,What do you mean?,00:08:29
+cvxbccu,78,student,"Like there were certain errors that you made, like, so what did you learn from this?",00:08:29
+cvxbccu,79,tutor,"Oh, that you need to add the minus, like don't just put the 2, keep the minus with it.",00:08:36
+cvxbccu,80,student,"Yeah, and also you see when it comes to y mx c equation, if it is not in that format, make sure you rearrange it. So in order to make— rearrange this, if I want to make one the subject, I have to take it away. So it's already a minus, so if I want to remove it, I need to do the inverse, which is addition. So since I do it one side, the other side also it becomes 2x 3. Okay, okay. So Lachlan, next question is about plotting your graph. So can you read this question for me? By",00:08:43
+cvxbccu,81,student,"plotting y 2x —minus 1, and y equals minus 3x plus 9, for 0—",00:09:18
+cvxbccu,82,tutor,It's less than x and less than or equal to 5.,00:09:30
+cvxbccu,83,student,Less than or equal to 5.,00:09:33
+cvxbccu,84,tutor,Then find the point of the intersection of the two lines.,00:09:35
+cvxbccu,85,background,Exactly. So do you know how to plot the graphs using the equations given?,00:09:39
+cvxbccu,86,student,Slightly.,00:09:49
+cvxbccu,87,tutor,"Slightly. So can you give it a try? And then, because it's good to try, right? It doesn't matter if you get it right or wrong. Just give it a try. [unclear] [unclear]",00:09:49
+cvxbccu,88,tutor,"Well, I'm stuck on this one.",00:10:18
+cvxbccu,89,student,"Alright, so let's try together. Okay, good. Right, so when you plot a graph, you need to first consider the equations given. What are the two equations given?",00:10:23
+cvxbccu,90,tutor,y 2x 1 and y -3x 9. And the,00:10:35
+cvxbccu,91,tutor,"next one? Exactly. So they are the two equations. So when you plot it, you need to know what does the gradient and the intercept tells us. So can you read what does m means, which is your gradient? Can you read it? M tells",00:10:39
+cvxbccu,92,student,us how many units to go up or down by for every unit we move to the right.,00:10:58
+cvxbccu,93,student,[unclear],00:11:09
+cvxbccu,94,tutor,"Yes, yes. So it depends on how many units you need to go up or down. If it is positive, you go up. If it is negative, you go down. Okay, that is what your m tells you about. Now let's say if it is 2, which is your gradient, is your m, right? Which is 2 means you have to go up by 2 units. You get it? Because it's positive. Is that okay?",00:11:09
+cvxbccu,95,student,[unclear],00:11:35
+cvxbccu,96,tutor,But what does your intercept tell us?,00:11:36
+cvxbccu,97,student,Radius?,00:11:40
+cvxbccu,98,background,C tells us where the graph crosses the y-axis. We can start drawing our graph from here.,00:11:41
+cvxbccu,99,tutor,"Exactly. So your starting point should be using your intercept. That is where your graph crosses So let's say in this case, if it is -1, in your y, where do you see a -1? In your y-axis.",00:11:50
+cvxbccu,100,student,The bottom.,00:12:09
+cvxbccu,101,tutor,"In the bottom. Can you put a mark there, maybe a dot or something, so you know that's where your graph should start for that equation? Uh, properly on the -1. Properly on the -1. This is -1. You know why I just tell you to do properly is because when it comes to graph, it's very important to jot it down properly, okay? Otherwise our graph might go wrong. Okay, Lachlan? [unclear] Okay, Lachlan, put a mark. I show you the first mark.",00:12:12
+cvxbccu,102,student,It is a line.,00:12:47
+cvxbccu,103,tutor,"This is -1. I put a mark something like this. Is that okay? No? Right. Now you see what you have to go up by. How many units, Lachlan? [unclear] How many units you have to go up by?",00:12:48
+cvxbccu,104,student,2.,00:13:04
+cvxbccu,105,tutor,"2. So what you need to do is go 1 to the right and go up by 2. 1 to the right is here. 2 units up means 1, 2, you reach here. Put a [unclear] here, or a cross maybe. Exactly. One to the right, two up here. Where should you put the next one? One to the right, two up, properly on the line. I mean, on to that— you can't miss the joining part. Exactly, Lachlan. Now keep on marking. [unclear] There we go. One to the right and two up. That one to the right is similar for everything. Okay. All right. Uh-huh. Okay, that's enough. Now you can draw your line using the line tool inside the shapes. It's inside the shapes.",00:13:06
+cvxbccu,106,student,Yep.,00:14:07
+cvxbccu,107,tutor,"Yeah, that's right. Just connect those dots. [unclear] Okay, but did you forget this one where we crossed our graph?",00:14:08
+cvxbccu,108,student,Yeah.,00:14:18
+cvxbccu,109,tutor,"Yes, there we go, Lachlan. So can you see we started with our intercept, which is our -1 in the y-axis, and then we kept on going up twice, one to the right, twice up. Okay, can you do the same thing for the next graph? I mean the next equation. It's the same logic, Lachlan. Yeah.",00:14:19
+cvxbccu,110,student,[unclear] Should I clear all this on here?,00:14:43
+cvxbccu,111,tutor,"Oh no, no, no, no, you can't clear it. You know why? Because if you clear it, you can't see where the intersection point is.",00:14:46
+cvxbccu,112,student,Oh yeah.,00:14:53
+cvxbccu,113,tutor,"Do the same thing. It won't, it won't be a problem. Yeah.",00:14:54
+cvxbccu,114,student,So put a [unclear] on the 9.,00:15:02
+cvxbccu,115,tutor,"Okay, very good. It's a positive 9. Okay, the next thing, do you think the graph says it should go up or down according to the gradient? Down, because it's a minus. So 1 to the right and 3 down. Yeah, mark it exactly. But do you think it's 3 down? One to the right, 1, 2, 3. Should be on 6. Erase that part. Okay. Okay, I'll erase it for you.",00:15:05
+cvxbccu,116,student,Alright.,00:15:41
+cvxbccu,117,tutor,"It's not erasing. Can you try it? Alright. Now it's gone. Okay, do it. One to the right, 3 down. Do you mark? Yes. Keep on doing it.",00:15:42
+cvxbccu,118,student,"Yeah, it's not the first line per row. [unclear]",00:16:05
+cvxbccu,119,tutor,"Yes, that's right.",00:16:09
+cvxbccu,120,student,So that's the very bottom.,00:16:11
+cvxbccu,121,tutor,"Yes, one to the right and then three bottom. Downwards into -3. There we go, that's enough. So you can join the dots and see where's the line. So normally if you're using, um, I mean if you're drawing in your book or something, you can use your ruler. Okay, yeah, right. So what is the intersection point here? They have asked the intersection point.",00:16:19
+cvxbccu,122,student,[unclear],00:16:47
+cvxbccu,123,tutor,"2 and 2 and 3. So that means the point of intersection is (2, 3). Is that okay? So first of all, you work out your intercept. Based on that, you cross your line, and then based on that, you see how many to go up or down using your gradient. Clear, Lachlan?",00:16:48
+cvxbccu,124,student,Yeah.,00:17:11
+cvxbccu,125,tutor,And then we have one more to try then. Give it a go. Just identify the two equations and start to draw.,00:17:13
+cvxbccu,126,student,Yeah. [unclear],00:17:24
+cvxbccu,127,tutor,I'll give you some time.,00:17:24
+cvxbccu,128,student,"Yeah, I don't really know how to put them together. I'm not entirely sure. [unclear]",00:17:27
+cvxbccu,129,background,"Look, I don't know what to do with the minus x. -x means it's -1x, so that means the gradient is 1. Okay, so when they give you a -x or a +x, remember it's the positive 1 or negative 1.",00:17:39
+cvxbccu,130,student,So I go across 1 and down 1.,00:17:55
+cvxbccu,131,tutor,"Yes, 1 to the right and then you go down by 1. Exactly. That 1 to the right is common for every graph. Okay. [unclear]",00:17:58
+cvxbccu,132,student,[unclear] [unclear],00:18:08
+cvxbccu,133,student,[unclear],00:18:21
+cvxbccu,134,tutor,"Okay, seems like you have done it right. Yes, it crosses at 5. And then can you do the same thing for the other graph? Be careful, it's a half.",00:18:36
+cvxbccu,135,student,So is it go half?,00:18:48
+cvxbccu,136,tutor,What does it mean?,00:18:49
+cvxbccu,137,student,Half to the right.,00:18:50
+cvxbccu,138,tutor,Yes. [unclear] One to the right and then half up or down?,00:18:51
+cvxbccu,139,student,"Up. Because it's positive. [unclear] Exactly. It should be like, you know, estimated-wise, it should be a half. Yes, good job. Go with the same line to the right and go up a half. Yeah. [unclear] Okay. Yeah, that would be fine. [unclear] All right. So what's the intersection point?",00:18:57
+cvxbccu,140,student,2 and 3.,00:19:49
+cvxbccu,141,tutor,"Yes, please put it in the line given because the question is asking us to find the point of intersection. So I'll tell you how the marks are allocated here. So if you notice, Lachlan, for plotting out this graph of -x 5, you score 1 mark. Okay, and then for this 1/2x 2, you score 1 more mark, and then identifying this point, 1 more mark. And then, um, so for correctly identifying everything, you score 1 mark, which is 4 altogether, right? So if your answer is right, basically you're getting, um, 4 marks, because only if your graph is plotted properly, you will get your intersection right, isn't it?",00:19:51
+cvxbccu,142,student,Yeah.,00:20:39
+cvxbccu,143,tutor,"Yes. So can you tell me, like, uh, What do you think about this question, and what did you learn basically from this?",00:20:40
+cvxbccu,144,student,[unclear],00:20:48
+cvxbccu,145,tutor,"Yes, based on the intercept only, we decide whether to go— I mean, where your graph cuts, I mean, starting point. And then based on your gradient, you think whether to go up or down. Remember that, okay?",00:20:58
+cvxbccu,146,student,[unclear],00:21:12
+cvxbccu,147,tutor,Right. Now let's try this question set. Can you read it for me?,00:21:13
+cvxbccu,148,student,A line is drawn on the grid below. Find an equation for the straight line in the form y mx c. Exactly. So,00:21:20
+cvxbccu,149,tutor,"can you tell me how do you find this equation? Here it's the opposite thing. They have plotted the graph for us. We need to find the equation. Will you mind giving it a try, Lachlan? [unclear] Okay.",00:21:30
+cvxbccu,150,student,So do you need to find the y-intercept and then the gradient?,00:21:47
+cvxbccu,151,tutor,"Exactly. If you know that, you can easily identify your equation.",00:21:50
+cvxbccu,152,tutor,Okay. [unclear],00:22:18
+cvxbccu,153,student,"Exactly. It's your y-intercept, right? Because where your graph crosses is your intercept. Good job. And then?",00:22:19
+cvxbccu,154,student,Gradient. [unclear],00:22:34
+cvxbccu,155,tutor,Great.,00:22:42
+cvxbccu,156,student,You need to go—,00:22:43
+cvxbccu,157,tutor,Stuck with the gradient.,00:22:52
+cvxbccu,158,background,"How did we find the gradient in a graph normally? How did we draw it? If the gradient was given, what did we do?",00:22:56
+cvxbccu,159,student,You went across and then up.,00:23:07
+cvxbccu,160,tutor,"Yes, so if you start from your -1, go across, and by how much you reach the next point?",00:23:10
+cvxbccu,161,student,One across and two up.,00:23:20
+cvxbccu,162,tutor,"That means what is your gradient? Is it just 2? Yeah, it's a 2. Correct. It's a positive 2. Then what will be your equation?",00:23:23
+cvxbccu,163,student,[unclear],00:23:40
+cvxbccu,164,tutor,Okay.,00:23:41
+cvxbccu,165,student,2x.,00:23:41
+cvxbccu,166,tutor,Okay.,00:23:41
+cvxbccu,167,student,-1.,00:23:51
+cvxbccu,168,tutor,"Definitely, Lachlan, because you knew that your -1 is where your graph cuts, and then from that part you see across and how many times you reach the next point, which is the 2. Since it's going up, it's a positive. If it goes down, make sure you know it's a negative 2x, right?",00:23:54
+cvxbccu,169,student,Right.,00:24:11
+cvxbccu,170,tutor,"Quite easy, right? What do you say?",00:24:12
+cvxbccu,171,student,It's alright.,00:24:13
+cvxbccu,172,tutor,"It's alright, because if you know the logic behind it, you can easily identify. Now let's say, Lachlan, let's identify another graph there. In this case, okay, you— can you tell me what is the equation? First find your intercept and then your gradient.",00:24:17
+cvxbccu,173,student,The [unclear],00:24:42
+cvxbccu,174,tutor,"Actually, Mary says it's 4/(5x 2). Do you agree with her? It's a question. I gave it to you to test your understanding on that. Good, that means Mary is right in her intercept one, right? What about the gradient? [unclear]",00:24:49
+cvxbccu,175,student,"It's correct, isn't it?",00:25:30
+cvxbccu,176,tutor,Is it? It's going up or down?,00:25:32
+cvxbccu,177,student,"No, it's going down. So which means it's a minus. So there can be errors like this. So you tell me, where could people go wrong in this type of a question on identifying the equation?",00:25:36
+cvxbccu,178,student,They could get it wrong when they think— when it's actually going down but they say it's going up.,00:25:50
+cvxbccu,179,tutor,"Exactly. That's where your signs play an important role. They might think— you might— I mean, people could go wrong with the signs. If it is upwards, they can put a negative sign, or maybe mostly they go wrong with negatives, right?",00:25:56
+cvxbccu,180,student,Mm-hmm.,00:26:09
+cvxbccu,181,tutor,"Okay, great. So with that, we are here to learn on what we learned in today's lesson. So can you read this, ""What have we learned?"" slide? Can you read the question for me?",00:26:10
+cvxbccu,182,background,[unclear] Read the what?,00:26:27
+cvxbccu,183,tutor,"Yes, read the question, Lachlan.",00:26:29
+cvxbccu,184,student,"What, all of it?",00:26:32
+cvxbccu,185,tutor,"No, first read this. What are they asking us to do?",00:26:34
+cvxbccu,186,background,Can you correct the answers to the question below?,00:26:36
+cvxbccu,187,tutor,"Yeah, so they have given you the gradient and the intercept, so you need to find the equation of the line. They are saying based on this equation, they are saying that the gradient and intercept is this. And I mean, this graph is different question. Okay, Lachlan, this is a different question. This is a different question. Do you agree that the gradient is 6 and the intercept is -15?",00:26:39
+cvxbccu,188,student,Yes.,00:27:11
+cvxbccu,189,tutor,"But already they say the question is wrong, so you are agreeing with them, are you?",00:27:13
+cvxbccu,190,background,"Oh, they need to get rid of the free.",00:27:18
+cvxbccu,191,tutor,"Exactly, you have to think that way, Lachlan. Okay, so always check. Yeah.",00:27:21
+cvxbccu,192,student,[unclear],00:27:26
+cvxbccu,193,tutor,"What could be done then? Yeah, you do it. I have given you time. Okay, you divide it by 3 because you need to get rid of that 3 and make y the subject. So yes, that will be all good. And what will be your gradient? You have to separate it. What is your g and what is your y— I mean intercept i?",00:27:27
+cvxbccu,194,student,"So the gradient would be [unclear] 2, and intercept -5. So can you even find the next equation of the line? Don't worry about that orange line, just, uh, you do the method you do.",00:28:08
+cvxbccu,195,student,[unclear] How [unclear],00:28:28
+cvxbccu,196,tutor,do you think Lachlan? Poison,00:29:09
+cvxbccu,197,student,would be... [unclear],00:29:19
+cvxbccu,198,tutor,Is that correct? Uh-huh. Which one? I can't see what you have written. I'm sorry.,00:29:29
+cvxbccu,199,student,I've written y 4x 4. 4x 4.,00:29:46
+cvxbccu,200,tutor,Why 4x?,00:29:53
+cvxbccu,201,tutor,"-4. Can you explain? Okay, let's check your answer. You have to explain how you got it.",00:29:56
+cvxbccu,202,student,Because I thought the gradient was 4.,00:30:04
+cvxbccu,203,tutor,"How can you say the gradient is 4? Your intercept, your intercept is -4, isn't it?",00:30:10
+cvxbccu,204,background,"Yeah, after [UNCLEAR].",00:30:20
+cvxbccu,205,tutor,"Okay, great. What about your gradient?",00:30:21
+cvxbccu,206,student,4x.,00:30:26
+cvxbccu,207,tutor,4x. How?,00:30:28
+cvxbccu,208,student,Because it goes up 4.,00:30:29
+cvxbccu,209,tutor,"Uh, 1 to the right? 1, 2. [unclear] How can you say it goes 4 times up?",00:30:34
+cvxbccu,210,student,So it'll be 2x.,00:30:48
+cvxbccu,211,tutor,"Exactly, it's 2x 4, right? They have made a mistake. They have shifted it 2 to the right, which is wrong. You have to go once and twice up. That's how you reach that point. Am I right? So your answer should be— yeah, write it here. Write the equation fully. y 2x 4. Is that clear to you now? Be careful with the equations and the— I mean, lines they have drawn. So overall, what do you think about the lesson, Lachlan? I think it was alright.",00:30:50
+cvxbccu,212,tutor,"It was alright. In this lesson, it's all about concentri— I mean, not concentration, I'm saying observing. Observing the lines carefully because the lines and the equation should be observed carefully to identify the proper answer or equation. Alright? [unclear] Okay then, that's it for the day. Lachlan, we can try the next lesson the next time. Have a great week. Bye.",00:31:38
+cvxbccu,213,student,Bye. [unclear],00:32:06

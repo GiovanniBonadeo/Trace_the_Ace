@@ -1,0 +1,286 @@
+session_id,utterance_id,role,content,timestamp
+cqlmcpo,0,student,Hello?,00:00:00
+cqlmcpo,1,background,[unclear],00:00:00
+cqlmcpo,2,tutor,Hello?,00:00:01
+cqlmcpo,3,student,Hi.,00:00:02
+cqlmcpo,4,tutor,"Hi Desmond, how are you doing today?",00:00:03
+cqlmcpo,5,student,"I'm good. Are you ready for today's session, Desmond?",00:00:05
+cqlmcpo,6,student,"Yes, I am.",00:00:09
+cqlmcpo,7,tutor,"Okay, right. My name is [unclear] and I will be your tutor for this session, okay?",00:00:10
+cqlmcpo,8,student,Okay.,00:00:15
+cqlmcpo,9,tutor,"Right, can you read the topic of today's lesson, Desmond?",00:00:17
+cqlmcpo,10,student,Finding number pairs that total 100.,00:00:21
+cqlmcpo,11,tutor,"Okay, right. Do you think you have learned this at school before?",00:00:25
+cqlmcpo,12,student,Yes.,00:00:29
+cqlmcpo,13,tutor,"Hmm, right. Okay, can you answer the first question here? Hello?",00:00:30
+cqlmcpo,14,student,Yes.,00:00:41
+cqlmcpo,15,tutor,"Yeah. Can you answer the question here, Desmond?",00:00:42
+cqlmcpo,16,student,I'm... I don't know what the answer is.,00:00:49
+cqlmcpo,17,tutor,"Okay, 46 plus what number gives you 100? So in here, it's like this, Desmond. You have 46, to that you have to add another number, and the answer is going to be 100, like this. Okay? Yeah. Can you fill the missing digits now?",00:00:57
+cqlmcpo,18,student,Not quite yet.,00:01:34
+cqlmcpo,19,tutor,"Okay. 6 plus something gives you 0. Can 6 plus something gives you 0 when we add them, Desmond?",00:01:37
+cqlmcpo,20,student,No.,00:01:48
+cqlmcpo,21,tutor,"No. So it should be 10, right? In here. Okay, so 6 plus what gives you 10?",00:01:49
+cqlmcpo,22,student,[unclear],00:01:56
+cqlmcpo,23,tutor,"4. Yes, 6 plus 4 gives us 10. So we write 0 here, take the 1 up here, and now we have 5, not 4, right? 4 plus 1 is 5. And how do you make it 10?",00:02:02
+cqlmcpo,24,student,We add 6.,00:02:20
+cqlmcpo,25,tutor,No. Now we have 5 here. 5 plus what gives you 10?,00:02:22
+cqlmcpo,26,student,5.,00:02:28
+cqlmcpo,27,tutor,5.,00:02:29
+cqlmcpo,28,student,So the answer is 54.,00:02:30
+cqlmcpo,29,tutor,"Yes, the answer is 54. That's how you do this, Desmond, okay?",00:02:32
+cqlmcpo,30,student,Okay.,00:02:37
+cqlmcpo,31,tutor,"Right, can you come answer the next question now? Complete the number pair to 10.",00:02:38
+cqlmcpo,32,student,"Okay. 3 7 10. Yes, 3",00:02:47
+cqlmcpo,33,tutor,"7. And if it is 2, what is the answer? 2 8. 8. 4",00:02:55
+cqlmcpo,34,student,6.,00:03:08
+cqlmcpo,35,tutor,6. 5 plus?,00:03:09
+cqlmcpo,36,student,5.,00:03:18
+cqlmcpo,37,tutor,"5. Okay, right. You need to remember all these things to find number pairs that total up to 100. Okay, right. Now in here, we are going to learn how to Find numbers that add up to 100. Right, in here, can you read this one?",00:03:19
+cqlmcpo,38,student,We can use a hundred square or bead string to help us think about number pairs that total 100.,00:03:41
+cqlmcpo,39,tutor,"Okay, right. Now here we have a hundred square. What do you notice in a hundred square, Desmond?",00:03:52
+cqlmcpo,40,student,That all the numbers lead up to 100.,00:04:01
+cqlmcpo,41,tutor,"Yes, we have numbers up to 100 in here. Okay, right. In here we have to find out the number that goes with 45 to give us 100. Okay, right. Now in here they have shaded 45. To get 100, how many more do we need, Desmond? How do we find that? See, in here, each row counts up to 10. Do you see that?",00:04:05
+cqlmcpo,42,student,[unclear],00:04:40
+cqlmcpo,43,tutor,"Yes, here we have 10, here we have another 10, here we have another 10, another 10, like that. Okay, so how many such rows are not shaded in here, Desmond? If you count them in rows like this. 10.",00:04:41
+cqlmcpo,44,student,20.,00:05:02
+cqlmcpo,45,tutor,20.,00:05:03
+cqlmcpo,46,student,30.,00:05:06
+cqlmcpo,47,tutor,30.,00:05:06
+cqlmcpo,48,student,40.,00:05:09
+cqlmcpo,49,tutor,40.,00:05:10
+cqlmcpo,50,student,50.,00:05:12
+cqlmcpo,51,tutor,"50. That is all the rows. And then after that, we have to count these small squares. Like separately, okay? So 50, 1, 52, 53, 54, 55. Yes. So how much is not shaded, Desmond? [unclear]",00:05:13
+cqlmcpo,52,tutor,55. So 45 plus what number gives us 100?,00:05:45
+cqlmcpo,53,student,[unclear],00:05:54
+cqlmcpo,54,tutor,"55. Can you write it here? Yeah, can you write the answer using the text tool? Okay. So if you partition 100 into 2 parts, if one part is 45, what should be the other part, Desmond?",00:05:54
+cqlmcpo,55,student,"55. 55. Okay, so that's how you use a hundred square to find out the number pairs that total 100. Okay. Right, and here we have a bead string. Do you see that bead string in here?",00:06:17
+cqlmcpo,56,student,Yes.,00:06:36
+cqlmcpo,57,tutor,"Right, what is the number shown in here from this point to this point? What is this number? How do you identify the number using a bead string? See, here we have one color up to here, which means we have a 10 there, right? Then we have another color. [unclear]",00:06:37
+cqlmcpo,58,student,"20, 30, 40,",00:07:03
+cqlmcpo,59,tutor,And then?,00:07:11
+cqlmcpo,60,student,45.,00:07:12
+cqlmcpo,61,tutor,"Yes. In here, Desmond, have you seen a bead string before?",00:07:14
+cqlmcpo,62,student,Yes.,00:07:19
+cqlmcpo,63,tutor,"Okay, so in a bead string, okay, all these beads are together. So we can just move them apart to get the number we want, and then we count the rest of the beads in the bead string, and that would give us the number [unclear] in here. Okay, so it's like that. Just separate the beads into 2 parts as we want. We have taken 45 beads to this side, and if we count the rest of the beads in here, we can find the missing number. Okay?",00:07:20
+cqlmcpo,64,student,Okay.,00:07:54
+cqlmcpo,65,tutor,"Right, so how do we find the missing number here? So here we took 45 away, and how do we count the rest of the beads? We always count in tens first, okay? So we'll start from here. 10, 20, 30, 40, 50, and then we have 55.",00:07:55
+cqlmcpo,66,student,[unclear],00:08:21
+cqlmcpo,67,tutor,"55. So there we have 55 beads. So that's how you use a bead string. To find the missing number. Okay, because in a bead string you have 100 beads, so you can just separate them the way you want and then find the missing number. Did you understand this one, Desmond?",00:08:22
+cqlmcpo,68,student,Yes.,00:08:43
+cqlmcpo,69,tutor,"Okay, right now let's do the follow-me question. So in here, I'll be taking you through the follow-me question, and then I'll give you the chance to work out the your-turn question.",00:08:44
+cqlmcpo,70,tutor,"Right. 100 take away something has given us 69. Right. In here, it's not an addition calculation like before, Desmond. Earlier it was like something plus something gives you 100. But now in here, it's like the inverse of addition, which is subtraction. But still we can write this One like 69 plus something gives you 100, isn't it?",00:08:55
+cqlmcpo,71,student,Yes.,00:09:30
+cqlmcpo,72,tutor,"We can rewrite the same calculation as an addition calculation. Because if you subtract something from 100 and if the answer is 69, when you add that missing number to 69, you should get 100, right?",00:09:31
+cqlmcpo,73,tutor,"Okay, so in here we have written this one like an addition calculation. So first we have to shade 69 on the 100 grid. So here, 10, 20, 30, 40, 50, 60, and then I have shaded 69. Right, now I have to find out the unshaded part, right? So I'm always starting from the tens, right? 10, 20, 30, 31. [unclear] So the missing number here is 31.",00:09:46
+cqlmcpo,74,student,What?,00:10:32
+cqlmcpo,75,tutor,"If you partition 100 into 2 parts, on one part we have 69 And on the other part we have 31. Is that clear?",00:10:32
+cqlmcpo,76,student,Clear.,00:10:45
+cqlmcpo,77,tutor,Right. Can you answer the next question now?,00:10:46
+cqlmcpo,78,student,100 minus 74 equals something. [unclear],00:10:48
+cqlmcpo,79,tutor,How do you write it as an addition calculation like I did before?,00:11:11
+cqlmcpo,80,student,[unclear],00:11:15
+cqlmcpo,81,tutor,"74 plus something. Gives you 100. Okay? Right. So what is the first thing that you need to do, Desmond?",00:11:19
+cqlmcpo,82,student,[unclear],00:11:40
+cqlmcpo,83,tutor,"From 100, you have to take away 74. Take away 74 first. How do you take away 74 from this 100 grid? You don't even have to write it as addition calculation. Just take away 74 squares from the 100 grid. Just draw lines and shade them. [unclear]",00:11:42
+cqlmcpo,84,tutor,Hello?,00:12:07
+cqlmcpo,85,student,Yeah?,00:12:09
+cqlmcpo,86,tutor,"Yes, Desmond. You can shade 74 now, like we did here. Just draw lines and shade them. 74. 10. Count, count and shade. 10.",00:12:11
+cqlmcpo,87,student,20. 30. [unclear] 40. 50.,00:12:27
+cqlmcpo,88,student,60.,00:12:49
+cqlmcpo,89,tutor,Mm-hmm.,00:12:50
+cqlmcpo,90,student,70.,00:12:55
+cqlmcpo,91,tutor,70. And then 74.,00:12:56
+cqlmcpo,92,tutor,"Yes, well done. Now how much is left to get 100? You start with the tens first.",00:13:14
+cqlmcpo,93,student,[unclear],00:13:26
+cqlmcpo,94,tutor,"10, 20, 26.",00:13:31
+cqlmcpo,95,tutor,"26. Well done. Can you write the answer, Desmond, in here? Partition 100 into 2 parts and write it here. [unclear] What do you need to write here? [unclear]",00:13:39
+cqlmcpo,96,tutor,74. And the other one is? [unclear],00:14:15
+cqlmcpo,97,tutor,"Okay, good job. Right. So I think now the concept of this lesson is clear, right? Now let's practice some more questions in this slide, Desmond.",00:14:27
+cqlmcpo,98,student,Okay.,00:14:41
+cqlmcpo,99,tutor,"Yeah, you can answer this question now.",00:14:43
+cqlmcpo,100,student,33 plus something equals 100. Yes. They have shaded 32 for you. You just have to count the rest of the numbers.,00:14:47
+cqlmcpo,101,student,10.,00:15:10
+cqlmcpo,102,tutor,"You can put a small line in here, Desmond, just to show that you have [unclear] like this. It's easy. [unclear]",00:15:13
+cqlmcpo,103,student,50.,00:15:30
+cqlmcpo,104,tutor,60.,00:15:35
+cqlmcpo,105,student,68.,00:15:43
+cqlmcpo,106,tutor,68. Good job.,00:15:46
+cqlmcpo,107,tutor,"You can write the answer, Desmond.",00:15:53
+cqlmcpo,108,student,Let me press the text tool. [unclear],00:15:55
+cqlmcpo,109,tutor,"Right. Now let's try to find the answer without using the hundred square, Desmond. Okay? Right now, just think about the hundred grid. Like, imagine the hundred grid in your head and try to find the answer for this one. Now they have shaded 45. Okay? So how do you find the remaining number? [unclear]",00:16:16
+cqlmcpo,110,student,I know how to do it.,00:16:47
+cqlmcpo,111,tutor,Yeah?,00:16:49
+cqlmcpo,112,student,"Yeah, I know the answer from the previous slide.",00:16:50
+cqlmcpo,113,tutor,"Yes, okay. In here, Desmond, you can answer like this, okay? From 45 to 50, we can directly jump. Okay, because you know that 45 to 50 is just 5, right? And from 50 to 100 is 50.",00:16:55
+cqlmcpo,114,student,Is 50.,00:17:15
+cqlmcpo,115,tutor,"Is 50. So when you add 50 and 5 together, you get 55 as the answer. That is the easiest way to answer these questions when you don't have a hundred grid with you. Okay.",00:17:16
+cqlmcpo,116,student,10.,00:17:32
+cqlmcpo,117,tutor,Right. Shall we practice it this way? Practice this question that way. What is the missing number here? [unclear] Take away what gives you 26? Think about this one as addition sub-problem.,00:17:32
+cqlmcpo,118,student,8.,00:17:52
+cqlmcpo,119,tutor,26? No.,00:17:53
+cqlmcpo,120,student,[unclear],00:17:57
+cqlmcpo,121,tutor,"No. Okay, 26 to— we jump to— do it this way. 26 to 30. That is the closest multiple of 10 to 30, right? And then from 30 to 100. It's easy. How much more do we have to add to get to 30?",00:17:57
+cqlmcpo,122,student,[unclear],00:18:27
+cqlmcpo,123,tutor,"26 plus? 6 plus what gives you 10? It's just we are making it up to 10, right? This 6, 1, we are making it up to 10.",00:18:27
+cqlmcpo,124,tutor,"Count on, count on from 26, Desmond.",00:18:52
+cqlmcpo,125,student,[unclear],00:18:54
+cqlmcpo,126,tutor,"No, I mean from 26 to 30, what is the difference? Like how much more do you need to add? It's like this, from 45 to 50 we have to add 5. 26 to 30, we have to add? 4. Is that clear? Because 26 plus 4 is 30. 30 plus what gives you 100? [unclear]",00:18:57
+cqlmcpo,127,tutor,"I cannot hear you, Desmond.",00:19:30
+cqlmcpo,128,student,Okay.,00:19:32
+cqlmcpo,129,tutor,"Here we have 3, here we have 10. 10. What is the number pair that add up to 10? [unclear] 3. Here, you told the answer. 3 7, right? So here, 30 10. 70.",00:19:35
+cqlmcpo,130,student,30,00:20:03
+cqlmcpo,131,tutor,70 is 100.,00:20:04
+cqlmcpo,132,student,Yes.,00:20:07
+cqlmcpo,133,tutor,"Okay, right. So what should be the answer here when you add these two up? Missing number should be the sum of these two. That is... [unclear] What is the total of 70 and 4?",00:20:07
+cqlmcpo,134,student,[unclear],00:20:44
+cqlmcpo,135,tutor,"It's 74, Desmond. You just have to add them together. Like in here, you just wrote the answer as 55 by adding these two, right? So in here also, you have to do the same thing because you don't always get a hundred square to do this one. This is how you have to mentally do it, okay?",00:20:44
+cqlmcpo,136,student,[unclear],00:21:01
+cqlmcpo,137,tutor,"Right, now try the next one. Try this method, it's easy because always we are working with number pairs up to 10, right? So start from 64 and count on. After 64, you find What? Next multiple of 10 is? [unclear] After 60, what do you find? What are multiples of 10, Desmond? [unclear] 10, 20, 30, 40, 50. These are multiples of 10. So after 64, what is the multiple of 10 that you find? After 60, what is the next multiple?",00:21:04
+cqlmcpo,138,student,[unclear],00:21:04
+cqlmcpo,139,tutor,70.,00:22:13
+cqlmcpo,140,tutor,"Right. After you come to 70, you can directly go to 100 because these are just multiples of 10 that you have to add. It's easy. Right? Okay. From 64 to 70, how much do you have to add? Here we are counting the squares, Desmond. See, if you are in 64, to get to 30, how much more do you have to add?",00:22:16
+cqlmcpo,141,tutor,"1, 2, 3, 4, 5, 6. Okay, now that row is completed. After that, it's just counting these rows. 10, 20, 30. Yes, from 70 to 100, that is 30. So how much we have added all together when we came from 64 to 100? We have added this and that together. 30 and 6 together gives you?",00:22:43
+cqlmcpo,142,student,36.,00:22:43
+cqlmcpo,143,tutor,"36. Is that clear, Desmond?",00:22:43
+cqlmcpo,144,student,[unclear],00:23:31
+cqlmcpo,145,tutor,Right. Here we are doing that 100 square method in our head by writing like this. Okay? Yeah. Can you answer this question now? [unclear],00:23:32
+cqlmcpo,146,student,Complete the number sentence as below. 6 74 100. Is [unclear] correct? Explain your answer. Hello?,00:23:49
+cqlmcpo,147,tutor,"Yes, yes, Desmond, you can try this out now. Just think about this, okay? 36 plus what number gives you 100? First you find that number. If the answer that you get is 74, then hockey is correct. But if you get a different one, okay, then hockey is not correct. Simple. Okay.",00:24:09
+cqlmcpo,148,student,Is it correct?,00:24:44
+cqlmcpo,149,tutor,"Okay, we have to check that, Desmond. 36 From 36, now we have to go to 100. What is our first stop in the middle? After 36, we have to count up to—",00:24:47
+cqlmcpo,150,student,74.,00:24:47
+cqlmcpo,151,tutor,"No, no. Now we are like— it's like this is your home. This is where your home is. Okay? And this is— 100 is your school. This is your school. Okay? And in the middle— now let's say you are going in a bus. Okay? So in the middle you stop at certain places before you go to the school, right? There are stops in between your house and your school. Right? So what is the next stop here? After 36, you find— what is the next multiple of 10 after 30? [unclear]",00:25:09
+cqlmcpo,152,student,"Desmond, if you are here, now this is 36. You have to somehow go to this corner. Corner, right? And at this corner you have what? What do you see here in the corner after 36?",00:26:02
+cqlmcpo,153,student,[unclear],00:26:19
+cqlmcpo,154,tutor,These are all the multiples.,00:26:19
+cqlmcpo,155,student,37?,00:26:19
+cqlmcpo,156,tutor,"Yes, wherever you are, you have to come to this corner all the time. Then only you can count these rows like this. Is that clear?",00:26:23
+cqlmcpo,157,student,Yes.,00:26:32
+cqlmcpo,158,tutor,"Right? In here, to get to the corner, we have to come to 40. How many more do we need to come to 40? 36 plus...",00:26:32
+cqlmcpo,159,student,4.,00:26:32
+cqlmcpo,160,tutor,"Yes, 36 plus 4. And then we can just count the number of rows from 40 to 100. Okay, from 40 to 100, how many rows are there?",00:26:47
+cqlmcpo,161,tutor,"See, now we have completed up to 40. After you have come to 40, now you have 10. You have to count like that. Right. Now in here, Desmond, it's just numbers that add up to 10, okay? Now just forget about 0 at the end of this number. It is just 4 and 10 in the front, right? So 4 plus what gives you this 10? You don't even have to look at a hundred square for this one.",00:27:03
+cqlmcpo,162,student,6.,00:27:34
+cqlmcpo,163,tutor,"Yes, yes. 4 plus 6 give you 10. Therefore, 40 plus 60 gives you 100. Is that clear?",00:27:36
+cqlmcpo,164,student,[unclear],00:27:46
+cqlmcpo,165,tutor,"Right, okay. So how much more did we add all together to get to 100? All together we added?",00:27:47
+cqlmcpo,166,student,64.,00:27:47
+cqlmcpo,167,tutor,"64, yes. So that is our answer. But Hockey has written 74 here. Is she correct?",00:27:47
+cqlmcpo,168,student,No.,00:28:10
+cqlmcpo,169,tutor,"No. Did you understand this question, Desmond?",00:28:11
+cqlmcpo,170,student,Yes.,00:28:15
+cqlmcpo,171,tutor,"Right, okay, good. Now I'll give you one more question to answer....right, in a different slide. Can you find the missing number in this calculation? 72, [unclear]",00:28:16
+cqlmcpo,172,student,I can't see the slide.,00:28:31
+cqlmcpo,173,tutor,You can't see? Shall I move to the previous one?,00:28:35
+cqlmcpo,174,student,No.,00:28:39
+cqlmcpo,175,tutor,Can you see this one?,00:28:40
+cqlmcpo,176,student,Yes.,00:28:42
+cqlmcpo,177,tutor,"Okay. Right, I'll write the new calculation in here, Desmond. You have to find out the missing number. You can use that mental method to find the answer. Right? Just stop in between and then count. So first start from 72. What is your next step, Desmond?",00:28:43
+cqlmcpo,178,student,"[unclear] After 72, when you count, you find a multiple of 10. What is it? [unclear] What comes after 70? That's how you find it, Desmond. There's nothing difficult.",00:29:12
+cqlmcpo,179,student,80.,00:29:12
+cqlmcpo,180,tutor,"Yes. Here, this is 72. So after 70-something, you should find 80, right? So the next",00:29:32
+cqlmcpo,181,tutor,"Stop should be 80. After 80, we can directly jump to 100 because it's easy, right? 72 to 80, how much is it? [unclear]",00:29:39
+cqlmcpo,182,student,I don't know.,00:30:08
+cqlmcpo,183,tutor,"Okay, look at this one. From 72 to 80, how many more squares are there? To get to 80, how much more do you need? Count the number of squares.",00:30:10
+cqlmcpo,184,student,8.,00:30:35
+cqlmcpo,185,tutor,"8, yes. So here it's 8. And from 80 to 100, how much? Think about 8 and 10. [unclear] How much is it? Now we have come to 80.",00:30:36
+cqlmcpo,186,student,20.,00:31:01
+cqlmcpo,187,tutor,"Yes, 20. Well done. So here it's 20. How much have we added all together? Here we have added 8, here we have added 20. Altogether we have added",00:31:03
+cqlmcpo,188,student,28.,00:31:27
+cqlmcpo,189,tutor,28. So the missing number here is?,00:31:27
+cqlmcpo,190,student,28.,00:31:31
+cqlmcpo,191,tutor,28. I hope it's clear to you now.,00:31:31
+cqlmcpo,192,student,It is clear.,00:31:36
+cqlmcpo,193,tutor,"Right, okay. I'll give you one more calculation. Right.",00:31:37
+cqlmcpo,194,background,How many minutes is the end of the session?,00:31:44
+cqlmcpo,195,tutor,"We have 10 minutes more, Desmond.",00:31:47
+cqlmcpo,196,student,Okay.,00:31:49
+cqlmcpo,197,tutor,"Right. If you practice it this way, Desmond, you never have to worry about adding numbers to get to 100. Okay, please practice this method.",00:31:52
+cqlmcpo,198,student,Okay.,00:32:00
+cqlmcpo,199,tutor,"Right now, you will be very confident about yourself when you practice it. Because you can simply get the answer in just 2-3 seconds when you practice this. You can be really happy about yourself at the end of the day. Okay?",00:32:00
+cqlmcpo,200,student,Okay.,00:32:17
+cqlmcpo,201,tutor,"Right, okay. Now I'll give you the chance to work this out. Just remember that method. 47 to another stop and then to the destination, like that.",00:32:17
+cqlmcpo,202,student,Okay.,00:32:29
+cqlmcpo,203,tutor,We start off at 47. What is the next stop? [unclear] [unclear],00:32:32
+cqlmcpo,204,student,I don't know.,00:32:42
+cqlmcpo,205,tutor,"What is the next multiple after 40, Desmond? 10, 20, 30, 40, 50, like that, right? Like, I mean, in here we have 47. Yes, it's easy. 50. And what is your destination? [unclear]",00:33:02
+cqlmcpo,206,student,100.,00:33:22
+cqlmcpo,207,tutor,Yes. Now count from 47 to 50. It is 7.,00:33:24
+cqlmcpo,208,tutor,Not 7.,00:33:34
+cqlmcpo,209,student,"No, not 7.",00:33:34
+cqlmcpo,210,tutor,"47 to 50, count on.",00:33:35
+cqlmcpo,211,student,3.,00:33:37
+cqlmcpo,212,tutor,"40. Yes, it's just 3. From 50 to 100, it's?",00:33:38
+cqlmcpo,213,student,[unclear],00:33:45
+cqlmcpo,214,tutor,50. Yes. Altogether we have added?,00:33:46
+cqlmcpo,215,tutor,"No, from here to here, how much did we add? From here to here we added 3.",00:34:01
+cqlmcpo,216,student,3.,00:34:09
+cqlmcpo,217,tutor,"And from here to here we added 50. Altogether, I mean both of these values together gives us 53. So the missing number here is 53. Okay.",00:34:09
+cqlmcpo,218,tutor,"Right. One more question, Desmond. Right. 68 plus something equals 100. Try to work this out alone. [unclear]",00:34:24
+cqlmcpo,219,student,I don't know.,00:35:17
+cqlmcpo,220,tutor,"Just think about multiples of 10, Desmond. After 68, what is the next multiple after 60? Here you say 60, right? I mean, when you are reading this number 68, that 60 word is there, right? So after 60, what is the next multiple of 10?",00:35:21
+cqlmcpo,221,student,70.,00:35:21
+cqlmcpo,222,tutor,"70, yes. Don't say that you don't understand this one. It's easy. Just give it a try. 68 to 70. After 70, we just directly jump to 100. Okay. 68 to 70, what is the number?",00:35:39
+cqlmcpo,223,student,[unclear],00:35:55
+cqlmcpo,224,tutor,"2. 70 to 100, how much? [unclear]",00:36:04
+cqlmcpo,225,student,So the answer is 32.,00:36:12
+cqlmcpo,226,tutor,"32. Well done, yes. Appreciate your effort, Desmond. Do you need to try one more?",00:36:14
+cqlmcpo,227,student,Yes.,00:36:24
+cqlmcpo,228,tutor,"Right, okay.",00:36:25
+cqlmcpo,229,tutor,"Right, find the answer now. Okay, not 45. [unclear] Yes, this one. So we start off with 86. Do you like that, Desmond? And what is the next stop?",00:36:40
+cqlmcpo,230,student,90.,00:36:40
+cqlmcpo,231,tutor,"90. Good job. After 90, we are directly heading to?",00:37:39
+cqlmcpo,232,student,100.,00:37:39
+cqlmcpo,233,tutor,"100. Yes, it's like a bus journey, right? Yes. Okay, so 86 to 90, what is it? 4. 4. And 90 to 100, that is? 10. 10. So the answer is 14. Well done, yes. Are you happy now?",00:37:46
+cqlmcpo,234,student,"Yes. Okay. You have to practice this a lot, isn't it, Desmond?",00:38:13
+cqlmcpo,235,student,Yes.,00:38:13
+cqlmcpo,236,tutor,"Otherwise, we can just complete the lesson and go to the other lesson. But what if you can't answer the questions from this one, right? There's no point completing this lesson and moving to another one, right? If you can't answer the question. That's why I'm giving you questions like this. Okay? See, when we practice a lot of sums like this, you can Quickly get the answer. Right. We'll do one more.",00:38:21
+cqlmcpo,237,student,Till I— when— till I go home.,00:38:48
+cqlmcpo,238,tutor,"Yes, we only have 5 minutes more, Desmond. So we'll practice as much as we can. [unclear]",00:38:52
+cqlmcpo,239,tutor,Okay. Find everything that's enough.,00:39:18
+cqlmcpo,240,student,"Wait, wait, wait. I'm thinking it in my head.",00:39:20
+cqlmcpo,241,tutor,Okay. [unclear],00:39:22
+cqlmcpo,242,tutor,What is the answer?,00:39:42
+cqlmcpo,243,student,66.,00:39:47
+cqlmcpo,244,tutor,"Well done. Good job. How did you find the answer that quickly, Desmond? Did you use this method or did you use another method?",00:39:49
+cqlmcpo,245,student,I used the hundred square. Do you have it with you?,00:39:58
+cqlmcpo,246,student,"No, but I just remember what it looks like.",00:40:04
+cqlmcpo,247,tutor,"Okay, right. Good job. Can you find the answer for this one then? 100 minus [unclear] gives you 78. Find the missing number now. [unclear]",00:40:08
+cqlmcpo,248,student,Is the answer 30?,00:40:26
+cqlmcpo,249,student,No.,00:40:26
+cqlmcpo,250,tutor,"Now you have to count on starting from 78, Desmond. 78, stop, and the destination 100. What is the next stop?",00:40:56
+cqlmcpo,251,student,80.,00:40:56
+cqlmcpo,252,tutor,"80. So from here to here, it's?",00:40:56
+cqlmcpo,253,student,2.,00:41:22
+cqlmcpo,254,tutor,2. And here to here?,00:41:23
+cqlmcpo,255,student,20.,00:41:30
+cqlmcpo,256,tutor,20. Altogether?,00:41:31
+cqlmcpo,257,student,22.,00:41:34
+cqlmcpo,258,tutor,"22. So if you take away 22 from 100, you can get 78. So even though it's a subtraction calculation or an addition problem, Desmond, you can still They will still look at the number that is given and they will find the missing number. Okay?",00:41:36
+cqlmcpo,259,student,Yes.,00:41:53
+cqlmcpo,260,tutor,"Right, okay. What do you think about today's lesson, Desmond? Was it hard? It was at first, right?",00:41:54
+cqlmcpo,261,student,Yes.,00:42:05
+cqlmcpo,262,tutor,"Okay, but what do you feel about the lesson now?",00:42:06
+cqlmcpo,263,student,I feel about it— [unclear],00:42:13
+cqlmcpo,264,student,It was kind of hard.,00:42:17
+cqlmcpo,265,tutor,"Okay, how is your progress now? [unclear] How is your progress during the session? Like earlier when you joined the session, were you able to answer questions like this?",00:42:19
+cqlmcpo,266,student,No.,00:42:32
+cqlmcpo,267,tutor,"No, but now when I give you a question, can you answer?",00:42:34
+cqlmcpo,268,student,Yes.,00:42:38
+cqlmcpo,269,tutor,"Yes, that means you have made a good progress. Right? You have improved yourself after this session. Okay? Are you happy about that?",00:42:40
+cqlmcpo,270,student,Yes.,00:42:48
+cqlmcpo,271,tutor,"Right. Okay, shall I give you one more problem, Desmond? The last one, promise, last one.",00:42:50
+cqlmcpo,272,student,"Okay, I trust you.",00:42:55
+cqlmcpo,273,tutor,"Okay, last one, right? 37 plus something equals 100.",00:42:59
+cqlmcpo,274,student,"100. Yeah. Yeah, find the answer, Desmond.",00:43:07
+cqlmcpo,275,student,So 37 to 40.,00:43:27
+cqlmcpo,276,tutor,"Okay, good job. 40. [unclear] So the first answer, which would be 3, and then the next answer would be 60.",00:43:30
+cqlmcpo,277,tutor,Mm-hmm.,00:43:48
+cqlmcpo,278,student,The answer is 63.,00:43:50
+cqlmcpo,279,tutor,"Yay, good job! Right, well done, Desmond. Can you write the answer there? Right. Good job, Desmond. Good job. I'm really happy that you could answer this question correctly without me helping you. Okay?",00:43:52
+cqlmcpo,280,student,[unclear],00:44:18
+cqlmcpo,281,tutor,"Right. So at the end of this session, right now I'm going to end the session, right? We have come to the end of this lesson as well. We have completed this lesson. So you will get a quiz at the end of this one. So please make sure you answer those two questions as well. Then you can be really happy that you have learnt something new today and you could answer those two questions correctly. So take some time, don't rush, okay? Always just do like this. Always think about this [unclear] journey, right? And then answer the question, right?",00:44:19
+cqlmcpo,282,student,Right.,00:44:53
+cqlmcpo,283,tutor,"Okay. Have a nice day, Desmond. Goodbye. I'll see you next week. Bye.",00:44:54
+cqlmcpo,284,student,Bye. [unclear],00:44:59

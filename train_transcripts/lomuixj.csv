@@ -1,0 +1,331 @@
+session_id,utterance_id,role,content,timestamp
+lomuixj,0,tutor,Hello?,00:00:00
+lomuixj,1,background,[unclear],00:00:00
+lomuixj,2,student,"Hello, can you hear me?",00:00:01
+lomuixj,3,tutor,Hello? [No speech],00:00:07
+lomuixj,4,tutor,"Hello, 123.",00:00:07
+lomuixj,5,student,I can hear you now.,00:00:23
+lomuixj,6,tutor,"Oh, I can hear you now.",00:00:25
+lomuixj,7,background,Awesome.,00:00:26
+lomuixj,8,tutor,Hi.,00:00:27
+lomuixj,9,student,Could you tell me how to get your name correctly?,00:00:28
+lomuixj,10,tutor,"Oh, how to say my name?",00:00:32
+lomuixj,11,student,Yes.,00:00:34
+lomuixj,12,tutor,Soren.,00:00:35
+lomuixj,13,student,Soren. Did I get it correctly? Is that Soren?,00:00:36
+lomuixj,14,student,[UNCLEAR],00:00:36
+lomuixj,15,tutor,It's Christmas.,00:00:42
+lomuixj,16,student,"Okay, sorry about that. I'm done with [UNCLEAR]. I'll be your new tutor for today.",00:00:43
+lomuixj,17,background,Okay.,00:00:43
+lomuixj,18,student,"Okay, so we have a new lesson for today. Have you learned about cumulative frequencies and box plots?",00:00:51
+lomuixj,19,background,Yeah. Then could you try this question as a warm-up?,00:01:01
+lomuixj,20,student,"Wait, this is a medium. [unclear]",00:01:07
+lomuixj,21,tutor,"So upper quartile is like here now. I'm not sure, I didn't see what I did.",00:01:33
+lomuixj,22,student,"Okay, could you tell me how we got the median?",00:01:38
+lomuixj,23,background,It's the midpoint between all the—,00:01:42
+lomuixj,24,student,Yes.,00:01:47
+lomuixj,25,background,[unclear],00:01:47
+lomuixj,26,student,"Exactly. Do you remember upper quartile is like the 75th value? [Speaker] Yeah, like 3/4.",00:01:48
+lomuixj,27,tutor,"Yeah, so it's just one value. [Speaker] Oh, okay, wait. 1, 2, 3, 4, 5. But how? Because the numbers aren't like—",00:01:58
+lomuixj,28,student,"Now, if you remove this part, you have 5 numbers left. What's the midpoint of these 5? [unclear]",00:02:12
+lomuixj,29,student,Oh.,00:02:22
+lomuixj,30,tutor,"Yeah, so this upper half of the data, this is the midpoint again. It's like the median of the upper half.",00:02:23
+lomuixj,31,student,"Yeah, and this is the [UNCLEAR].",00:02:30
+lomuixj,32,tutor,"Yeah, there you go, exactly. So this is what we are going to do today. Let's recall what you already know and let's hopefully learn something new as well, yeah?",00:02:30
+lomuixj,33,student,Alright.,00:02:41
+lomuixj,34,tutor,Do you have any questions on this one so far?,00:02:42
+lomuixj,35,student,"Um, no.",00:02:46
+lomuixj,36,tutor,"I think we have something similar, not in this one. Could you try this one first? [unclear] [unclear]",00:02:48
+lomuixj,37,tutor,There you are. What do you know about cumulative frequency?,00:03:19
+lomuixj,38,student,"That as I go down, I just add up the frequencies.",00:03:24
+lomuixj,39,tutor,"Yeah, exactly. It's like a running total of the frequencies, isn't it?",00:03:31
+lomuixj,40,student,"Yep. Okay, so here it's 3 marks. One if you get the first number correct. If you get 2 more correct, 2 marks altogether. And for all the values, you'd get 3 marks. So well done on getting all 3 marks over here. I think you don't have any questions on this because you tried it by yourself. Shall we then move on to your next one?",00:03:37
+lomuixj,41,student,Yeah.,00:04:01
+lomuixj,42,tutor,Okay. Have you done the [UNCLEAR]? Like this.,00:04:02
+lomuixj,43,student,"Yeah, a while ago though. Wait, this is the [unclear] reading time.",00:04:07
+lomuixj,44,tutor,"Sure, yeah.",00:04:12
+lomuixj,45,student,"Wait, pardon?",00:04:15
+lomuixj,46,tutor,"You have done it a while ago, yeah?",00:04:17
+lomuixj,47,student,Yeah.,00:04:19
+lomuixj,48,tutor,"Do you think you can try it again, or do you want to try together?",00:04:21
+lomuixj,49,student,I can try it.,00:04:26
+lomuixj,50,tutor,"I'll give you some time to try. If you need help, we'll try together. Yeah. [unclear]",00:04:27
+lomuixj,51,student,We are actually a complex confused.,00:04:33
+lomuixj,52,tutor,"Okay, shall we then talk a bit about the theory and then try the questions one by one?",00:04:52
+lomuixj,53,tutor,Alright. Could you read this part?,00:04:58
+lomuixj,54,student,"What is it? [unclear] Frequency graph can be used to estimate values. 50% of the data lies below the median. 25% of the data lies below the lower quartile. 75% of the data lies below the upper quartile. We can use these percentages and our curve to locate the the medium, low quartile, and upper quartile.",00:05:02
+lomuixj,55,tutor,"Yeah, did that make sense? It's a lot.",00:05:27
+lomuixj,56,student,"Yeah, I understand, I understand like the theory part of it, but I don't understand like which part of the graph, like the y-axis or the x-axis, to like find the medium.",00:05:31
+lomuixj,57,tutor,"Okay, let's start with the cumulative frequency. Let's start with the total frequency. What's the total frequency of the graph?",00:05:43
+lomuixj,58,student,200.,00:05:50
+lomuixj,59,tutor,"200, there you go. And we know median lies on the 50%. So what is 50% of 200?",00:05:50
+lomuixj,60,student,100.,00:05:59
+lomuixj,61,tutor,100. So where is the 100 on the graph?,00:05:59
+lomuixj,62,background,"I was confused, it doesn't line up like perfectly or something.",00:06:02
+lomuixj,63,tutor,Then you could have an estimate.,00:06:07
+lomuixj,64,background,"Oh, okay.",00:06:10
+lomuixj,65,tutor,"So like roughly here, it's [UNCLEAR].",00:06:12
+lomuixj,66,tutor,Like 31?,00:06:16
+lomuixj,67,student,Yeah.,00:06:17
+lomuixj,68,tutor,"Yeah, it's fine, it's fine. You can estimate. Do you want to try now?",00:06:18
+lomuixj,69,student,Sure.,00:06:23
+lomuixj,70,tutor,Okay.,00:06:24
+lomuixj,71,student,What have to do this?,00:06:25
+lomuixj,72,tutor,So far we have found— yes. [unclear],00:06:28
+lomuixj,73,student,"Oh, I can see here.",00:06:33
+lomuixj,74,tutor,Yeah.,00:06:35
+lomuixj,75,student,Okay.,00:06:36
+lomuixj,76,tutor,"That's fine. So you didn't have any questions. You were confused with the estimation part, right?",00:06:38
+lomuixj,77,student,Yeah.,00:06:45
+lomuixj,78,tutor,"Yeah, okay, then that's fine. I'm not going to explain anything. But do you have any questions?",00:06:46
+lomuixj,79,student,No.,00:06:51
+lomuixj,80,tutor,No? Okay. That's one more question. Shall I go back? Do you want to try the next one again here? [unclear],00:06:52
+lomuixj,81,student,So first one was 31 minutes. [unclear],00:07:09
+lomuixj,82,student,How do we find the interquartile range?,00:07:41
+lomuixj,83,background,"Oh wait, is it once we have— wait, oh.",00:07:48
+lomuixj,84,student,Almost. What is one quarter of 200 and three quarters of 200?,00:07:51
+lomuixj,85,tutor,"Where? Oh, 50.",00:08:01
+lomuixj,86,student,"Yes, the 50th is the lower quarter.",00:08:04
+lomuixj,87,tutor,"And 150 is the upper one, isn't it?",00:08:10
+lomuixj,88,student,"Exactly, there you go.",00:08:12
+lomuixj,89,tutor,Okay. [unclear],00:08:13
+lomuixj,90,tutor,"Yes, there you go.",00:08:23
+lomuixj,91,student,31 minutes.,00:08:40
+lomuixj,92,tutor,"31 minutes and yeah, 11 minutes. Well done. The next one, just that. [unclear]",00:08:42
+lomuixj,93,student,"Well, it's so hard to draw on a— okay. Oh, that was 25%.",00:08:56
+lomuixj,94,tutor,Could you tell me how you got that 25%?,00:09:20
+lomuixj,95,student,"Because [unclear] 150, so I just did 150.",00:09:25
+lomuixj,96,tutor,"Yes, there you go.",00:09:30
+lomuixj,97,student,"Oh, okay.",00:09:33
+lomuixj,98,tutor,So that is 2 marks for question B and 2 marks for question C. Question C as well. I don't think this was a tricky question. You already knew how to do this. Yeah?,00:09:36
+lomuixj,99,student,Yeah.,00:09:47
+lomuixj,100,tutor,"Yeah, okay, awesome. So wonderful effort on this one. Shall we then skip to the next one? Okay. [unclear]",00:09:48
+lomuixj,101,student,"Oh, yeah. [unclear]",00:10:00
+lomuixj,102,student,"Wait, how am I meant to find out? Oh, with the interquartile range. Oh, okay, cool.",00:11:05
+lomuixj,103,tutor,Thank you. So what can you tell me about a box plot? Plot? What does it tell us about the data?,00:11:18
+lomuixj,104,student,"Like the frequency, like how close— [unclear]",00:11:28
+lomuixj,105,tutor,"Yeah, like the spread of the data.",00:11:32
+lomuixj,106,student,Yeah.,00:11:35
+lomuixj,107,tutor,"Yeah, we have the lowest, highest. So they hadn't given you the highest value and the upper quartile. How did you find them?",00:11:36
+lomuixj,108,student,"Oh, the upper quartile, I used the interquartile range and I just added it to the lower quartile. And then to find the maximum value, I did the least type plus the range.",00:11:44
+lomuixj,109,tutor,"Yeah, that's what you did here, right?",00:11:57
+lomuixj,110,student,Yeah.,00:11:58
+lomuixj,111,tutor,"Yeah, great. Good working out over there. Well done. So this is, yeah, 3 marks question. One for the upper quartile and the highest values. And for, yeah, for if you get at least 3 values correct on the box plot, that's another 1 mark. And for the complete box plot, another one mark. That's how your three marks are located. That's it for the lesson. I think that wasn't tricky, was it?",00:11:59
+lomuixj,112,student,"Oh, that's it.",00:12:28
+lomuixj,113,tutor,Yeah. We do have a challenge. Shall we try the challenge as well? It's more like a reasoning.,00:12:29
+lomuixj,114,student,"Oh, not enough of these ones.",00:12:44
+lomuixj,115,tutor,You can just explain what you observe.,00:12:50
+lomuixj,116,student,"Oh, but is that a typing thing or not? Oh, okay, wait, no, no, I got it. [unclear]",00:12:53
+lomuixj,117,tutor,[UNCLEAR],00:12:53
+lomuixj,118,student,[UNCLEAR] [unclear],00:12:53
+lomuixj,119,tutor,[unclear],00:12:53
+lomuixj,120,student,[unclear],00:12:53
+lomuixj,121,tutor,"I think you meant to have a higher— I can't see the higher part, but that's what you typed, right?",00:13:39
+lomuixj,122,student,Yeah.,00:13:45
+lomuixj,123,tutor,"Okay. So yes, that is correct. What does it mean if you have a lower median?",00:13:46
+lomuixj,124,student,That majority of the people scored like low or something. [unclear],00:13:54
+lomuixj,125,tutor,"Yeah, exactly. If you think about the context, we'd say it's this one. The second one has more higher masses, right?",00:14:00
+lomuixj,126,student,Mm-hmm.,00:14:09
+lomuixj,127,tutor,"And in terms of interquartile range, what can we explain about that? [unclear] Can you tell about this range over here of the mass and this range over here of the mass?",00:14:10
+lomuixj,128,tutor,the first one's smaller.,00:14:10
+lomuixj,129,student,"Yes, I mean, it has a lot of consistent values.",00:14:10
+lomuixj,130,tutor,Oh yeah.,00:14:31
+lomuixj,131,student,"Yeah, this one has the most spreaded data. Yeah, you're getting 2 marks for talking about the median and the interquartile range. Don't think that was a challenge for you, was it?",00:14:32
+lomuixj,132,tutor,"Wait, is that how you answer it?",00:14:44
+lomuixj,133,student,Yeah.,00:14:45
+lomuixj,134,tutor,"Oh, okay, cool.",00:14:47
+lomuixj,135,student,"Yeah, you can add the interpretation of yours. Okay. [unclear]",00:14:49
+lomuixj,136,tutor,Any other questions? Nah.,00:15:06
+lomuixj,137,student,Okay.,00:15:08
+lomuixj,138,tutor,Let's move on then. Let's try this. Let's try to find the mistakes. Do you see any?,00:15:08
+lomuixj,139,student,"Wait, does this— is this not to relate to each other?",00:15:22
+lomuixj,140,tutor,What do you mean?,00:15:28
+lomuixj,141,student,"Because how's— oh, is this one of the mistakes?",00:15:29
+lomuixj,142,tutor,Yeah.,00:15:33
+lomuixj,143,student,"Oh, okay. [unclear]",00:15:34
+lomuixj,144,tutor,"Soren, what do you think they might have made this mistake? Why do— why might they have made the mistake?",00:15:48
+lomuixj,145,student,"They times it by the— by the midpoint, maybe?",00:15:55
+lomuixj,146,tutor,"Yeah, exactly. Good observation. Yes. So well done for correcting that mistake over there. And do we have any mistakes on the box flat. Oh, I'm pretty sure the lowest value is going to start here. Do you want to change the whole thing now, or I leave it?",00:16:02
+lomuixj,147,student,"Yeah, sure. [unclear]",00:16:30
+lomuixj,148,tutor,"Okay, this is where the lowest value is here. This is going to be the local tower.",00:16:32
+lomuixj,149,student,"And then this is another medium. Wait, 7 11 18. Wait, 28 as well. Wait.",00:16:39
+lomuixj,150,tutor,7 plus 15?,00:17:06
+lomuixj,151,student,"Wait, the lower quartile is 15?",00:17:09
+lomuixj,152,tutor,"Yeah, and the [UNCLEAR].",00:17:11
+lomuixj,153,student,The median is 19. So how does that work?,00:17:11
+lomuixj,154,tutor,Could you tell me why you add 7 and 11?,00:17:19
+lomuixj,155,student,"Oh, oh, wait.",00:17:22
+lomuixj,156,tutor,"Yeah, there you go. That's the upper border and the highest value.",00:17:27
+lomuixj,157,tutor,[unclear],00:17:36
+lomuixj,158,student,There we go. Awesome effort for correcting all the mistakes. And that's it. Any questions?,00:17:39
+lomuixj,159,student,No.,00:17:58
+lomuixj,160,tutor,"Okay, let's move on to the next one then. [unclear]",00:17:58
+lomuixj,161,student,"Also, do the tutors change every time or is this just—",00:18:02
+lomuixj,162,tutor,"I think this is the only session I have been allocated, so probably your tutor is on leave.",00:18:11
+lomuixj,163,student,"Oh, okay, cool.",00:18:16
+lomuixj,164,tutor,Do you want me to change anything? Am I good?,00:18:21
+lomuixj,165,tutor,"No, no, no, fine, fine.",00:18:27
+lomuixj,166,student,"Have you heard about this one, CAPTCHA Recaptcha Math? Okay, let's try this one then. [unclear]",00:18:29
+lomuixj,167,tutor,Huh? Did you say something?,00:18:54
+lomuixj,168,student,[unclear],00:18:55
+lomuixj,169,tutor,Okay.,00:18:56
+lomuixj,170,student,"There we go. Okay, let's move on to the question since we already know about it. Could you try this one? [unclear]",00:19:01
+lomuixj,171,student,"Oh, what did I do? My screen just glitched, but it's calm.",00:19:30
+lomuixj,172,background,Wait. [unclear],00:19:40
+lomuixj,173,tutor,"Oh wait, it's 90. Sorry, my bad.",00:19:52
+lomuixj,174,student,"Yeah, it is 90. What did you write here? Is this a 4?",00:19:58
+lomuixj,175,tutor,"Yeah, that says you're 4 over 15.",00:20:01
+lomuixj,176,student,"That's true, that's true. There you go, it is 90 indeed. And, uh, that's one mark for 90 and another mark for, uh, this one over hear what you did. So well done for clearly showing the working out. And that's it. I don't think I'll have to explain anything. You did really well on the question. Shall we move on to the next one then?",00:20:04
+lomuixj,177,student,Yeah. [unclear] [unclear],00:20:26
+lomuixj,178,tutor,You can.,00:20:48
+lomuixj,179,student,Thank you. Cool. [unclear],00:20:52
+lomuixj,180,tutor,"Wonderful effort again. Again, one mark for the final answer, one for the next one.",00:21:27
+lomuixj,181,tutor,"Well, that's— okay. This is a bit different. Could you read it and see if it makes sense? [unclear] [unclear]",00:21:34
+lomuixj,182,student,Oh. [unclear],00:22:03
+lomuixj,183,student,"My headset fell off, that's why.",00:22:36
+lomuixj,184,tutor,Can you hear me?,00:22:41
+lomuixj,185,student,"Yeah, my headset fell off, but I just put it back on.",00:22:42
+lomuixj,186,tutor,"We're off the [UNCLEAR]. He lost some tags. Um, it makes it, uh, overestimate— no, underestimate. [unclear]",00:22:47
+lomuixj,187,student,"Uh, it is an overestimate. Could you like give me an example or maybe explain it?",00:23:01
+lomuixj,188,background,"Oh wait, if, if some lost— wait. Oh, so it works [UNCLEAR].",00:23:09
+lomuixj,189,tutor,"Yes. How do we know that? So it's not actually 12, it's more than that, isn't it?",00:23:09
+lomuixj,190,student,"Oh, right.",00:23:31
+lomuixj,191,tutor,Did that make sense?,00:23:32
+lomuixj,192,student,"Yeah, yeah, it does.",00:23:33
+lomuixj,193,tutor,Is everything okay with your headset?,00:23:36
+lomuixj,194,student,"Yeah, it is now.",00:23:39
+lomuixj,195,tutor,"Okay, awesome. So yeah, it would become bigger, therefore it would be an overestimate that they have made so far.",00:23:40
+lomuixj,196,student,"Wait, but if— [unclear] If there was more fishes with the tags, yeah.",00:23:50
+lomuixj,197,tutor,"Shall I show you an example here? Could you compare these two? What's going on here and here? This is another example, not related to this particular question.",00:23:59
+lomuixj,198,student,"Okay. Wait, would you want to see if you want to work it out?",00:24:11
+lomuixj,199,tutor,"Not work it out. They have worked it out. They have got x 75 and x 60 for this one. If you notice, this numerator is smaller than this one. Yeah. This",00:24:16
+lomuixj,200,student,is,00:24:26
+lomuixj,201,tutor,"the new— Oh, you're [unclear]",00:24:27
+lomuixj,202,student,understanding that now. Okay. Do,00:24:30
+lomuixj,203,tutor,you want to go back and check what we did here?,00:24:32
+lomuixj,204,student,"You know, I understand because there would have been more fishes with the number.",00:24:37
+lomuixj,205,tutor,"Yeah, let's say if it's not 12, maybe 15. Can you calculate how many would we have for the estimate if the number is 15 here? That would be the denominator here then.",00:24:44
+lomuixj,206,student,"It would be— oh wait, I don't see. It would be— [unclear]",00:25:02
+lomuixj,207,tutor,"Well, I'm getting a point, but something like 17, 8.",00:25:09
+lomuixj,208,student,It is 80 because the numerator here is 30.,00:25:14
+lomuixj,209,background,It's 30.,00:25:21
+lomuixj,210,student,"Oh yeah, I forgot to change that. [unclear]",00:25:22
+lomuixj,211,student,Yeah.,00:25:31
+lomuixj,212,tutor,"Yeah, okay. Shall we try another similar question?",00:25:34
+lomuixj,213,student,Sure.,00:25:43
+lomuixj,214,tutor,This is again reasoning like that. Underestimate.,00:25:48
+lomuixj,215,tutor,"Yes, there you are. Wonderful working out. [unclear]",00:26:24
+lomuixj,216,student,"You don't have to write the explanation, but you could give an example.",00:26:29
+lomuixj,217,background,An example? Would they want me to give an example?,00:26:36
+lomuixj,218,student,"Yes, because we have 2 marks, so you would have to give an example, or maybe you can explain. That's also fine. How do you— do you comfortable with writing an explanation? [unclear]",00:26:40
+lomuixj,219,tutor,"Yeah, that would be better because it's clearer with an example. They'll understand that you know what's going on here.",00:26:58
+lomuixj,220,tutor,That's a good example.,00:27:15
+lomuixj,221,student,"Wait, I'll write it to you because it's easier to—",00:27:16
+lomuixj,222,tutor,"Okay, sure.",00:27:18
+lomuixj,223,student,"There you go. Really good example here. So you get 2 marks, one for the— you have to state that if it's an underestimate, that's 1 mark, and for your reason with an example. That's another one mark. Okay, that's all about this lesson. Do we have any questions so far?",00:27:24
+lomuixj,224,student,No.,00:27:45
+lomuixj,225,tutor,No. Great effort. We completed two lessons today. But let's find some mistakes here. Do you see any mistakes here?,00:27:45
+lomuixj,226,background,"Yeah, they didn't— [unclear]",00:28:01
+lomuixj,227,student,Instead of finding the factor that increased by the [unclear] the subtraction.,00:28:03
+lomuixj,228,tutor,"Exactly. It should work like equivalent fractions rather than adding to some reason. So that is incorrect there. And the next one, does that make sense? Oh, they didn't. They just found out her recapture instead of like the one she released. Should I do it?",00:28:11
+lomuixj,229,student,"Yes, please. [unclear] [unclear]",00:28:39
+lomuixj,230,tutor,"Wait, we added that wrong.",00:28:54
+lomuixj,231,student,And... [unclear],00:29:01
+lomuixj,232,tutor,There we go. So that's all about CAPTCHA reCAPTCHA. You were very confident with that method as well. Shall we move on to the next one? Are we going too far?,00:29:10
+lomuixj,233,student,No.,00:29:24
+lomuixj,234,tutor,"No, okay. So let's try another one. I think we can maybe complete this one as well if you have learned about [UNCLEAR].",00:29:24
+lomuixj,235,student,I hate circle theorems.,00:29:24
+lomuixj,236,tutor,"Okay, any reason?",00:29:36
+lomuixj,237,student,"I don't really like diagrams and math, I don't know. I don't know how to do these well.",00:29:41
+lomuixj,238,tutor,"It's fine. It's very common for people to have different biases towards different topics. It's totally fine. Yeah. Well, that is all correct. How do you know?",00:29:46
+lomuixj,239,student,I didn't do it in class too long ago.,00:30:06
+lomuixj,240,tutor,"Ah, okay. Shall we do a few questions? Then let's take time to think about them as well.",00:30:09
+lomuixj,241,tutor,"If you want me to go to the theorems first, I can.",00:30:16
+lomuixj,242,student,"No, I'll try first. [unclear]",00:30:21
+lomuixj,243,tutor,"Okay, sure.",00:30:22
+lomuixj,244,student,"So if you can barely read that, because it's hard to type, to write on this.",00:30:24
+lomuixj,245,tutor,Do you prefer using the pencil?,00:30:40
+lomuixj,246,student,"Um, what do you mean?",00:30:45
+lomuixj,247,tutor,You can use the text tool to type.,00:30:47
+lomuixj,248,student,"Oh, okay, cool.",00:30:53
+lomuixj,249,tutor,"Hit 1, 3, 3. [unclear]",00:31:06
+lomuixj,250,tutor,"Oh, so x 47. Okay. [unclear] Wait,",00:31:32
+lomuixj,251,student,what was it? [unclear],00:31:43
+lomuixj,252,tutor,"Wait, is that right?",00:32:09
+lomuixj,253,student,"That's the first step, and then—",00:32:13
+lomuixj,254,tutor,"Oh, okay.",00:32:15
+lomuixj,255,student,Yeah.,00:32:16
+lomuixj,256,tutor,Are y and f1 equal now?,00:32:17
+lomuixj,257,student,"Yes, but how do we know they are equal? [unclear]",00:32:21
+lomuixj,258,tutor,What do you notice about these two sites?,00:32:26
+lomuixj,259,student,"Oh, they're with radii.",00:32:30
+lomuixj,260,tutor,"Yeah, there you go. So it's an ISIS elite. [unclear]",00:32:31
+lomuixj,261,tutor,"There we go. Okay, fantastic effort, but we need to give a reason to get the final mark for this one.",00:32:55
+lomuixj,262,student,Yeah.,00:33:06
+lomuixj,263,tutor,"What would be the reason for this? If this is 47, why is this 47?",00:33:07
+lomuixj,264,tutor,Something like segments. All angles are the same segment.,00:33:15
+lomuixj,265,student,"Exactly, there you go. Great recalling. So you're getting 3 marks for this one for that reason, and for the calculation, 2 marks. This one, what might be the most important step that you did here?",00:33:18
+lomuixj,266,background,[unclear],00:33:31
+lomuixj,267,student,What do you mean?,00:33:46
+lomuixj,268,background,Because I did two steps.,00:33:48
+lomuixj,269,student,That's true. What would be the most important step?,00:33:53
+lomuixj,270,background,That the angle at the center is twice at the circumference.,00:33:57
+lomuixj,271,student,"Exactly. That you have to give us a reason. That will give you one mark for the reason. Okay, uh, sorry, this is 4 marks, right? So yeah, another reason that you have to tell is that this is a nice [unclear] and that's why I'll see if I should say good for them. Oh, that was your question before, sorry. Yeah, yeah, sorry, it wasn't clear for me. So yes, uh, this one you have to give another, uh, reason. That's why we have 4 marks here. Sorry about that again. [unclear]",00:34:05
+lomuixj,272,tutor,"Okay, so you know your reasons and you have done the calculations by yourself as well. I think you are confident with this, aren't you?",00:34:37
+lomuixj,273,student,Yeah.,00:34:46
+lomuixj,274,tutor,Shall we then move on to the next one? [unclear],00:34:48
+lomuixj,275,student,"Oh, sorry about my— [unclear]",00:35:04
+lomuixj,276,student,Yes.,00:35:31
+lomuixj,277,tutor,That's 3 marks there. [unclear],00:35:40
+lomuixj,278,tutor,"That's too much, one for the reason. Yeah, there you go, one for the reason and one for the calculation. And that one was easy for you as well, wasn't it?",00:36:04
+lomuixj,279,student,Yeah.,00:36:19
+lomuixj,280,tutor,"Okay. There you go. How about the last one? Tangents and chords, do you remember? [unclear] [unclear]",00:36:20
+lomuixj,281,tutor,Is that nice to you?,00:36:52
+lomuixj,282,student,"Yeah, exactly. [unclear]",00:37:05
+lomuixj,283,tutor,"Yeah, I'm kind of not sure what to do here. Wait, is this the same angle?",00:37:12
+lomuixj,284,student,"Yeah, exactly.",00:37:34
+lomuixj,285,student,"Oh, okay, wait. Um, where's my [UNCLEAR]? [unclear]",00:37:40
+lomuixj,286,tutor,"Exactly, there you are.",00:38:08
+lomuixj,287,student,"Oh, and then also, Soren, is this a tangent?",00:38:12
+lomuixj,288,tutor,"Tangent, yeah. [unclear] You could say, meet the radius, to be more specific.",00:38:25
+lomuixj,289,student,[unclear],00:38:47
+lomuixj,290,tutor,"Thank you. Okay, so that's 3 marks for that one over there. Well done.",00:38:48
+lomuixj,291,tutor,"Thank you, Background, for recalling that. This one? [unclear] Oh wait, I don't need to do all of that, right?",00:38:52
+lomuixj,292,student,Yes.,00:39:39
+lomuixj,293,tutor,"Wait, 64. [unclear] Oh, I see, I did. Okay, that's fine. [unclear]",00:39:40
+lomuixj,294,tutor,Is that your final answer?,00:39:59
+lomuixj,295,student,No. We're 100 and...,00:40:02
+lomuixj,296,tutor,Shall I give you a clue?,00:40:08
+lomuixj,297,tutor,Have you heard about Alternate Segment Theorem?,00:40:11
+lomuixj,298,student,"Yeah, I don't remember it. Oh, no, I don't remember it. I don't remember it.",00:40:16
+lomuixj,299,tutor,"Okay, then how about I'll take you to the next one. Could you read this part? This part.",00:40:24
+lomuixj,300,student,"The angle that lies between a tangent and a chord is equal to the [UNCLEAR]. [unclear] by the same chord in the alternate segment, if that makes sense. So you could look at the picture here, and can you connect this with this?",00:40:34
+lomuixj,301,student,"Oh, okay.",00:40:52
+lomuixj,302,tutor,So they're the same. You don't have to do any calculation. Which angle is the alternate angle here?,00:40:55
+lomuixj,303,student,65?,00:41:01
+lomuixj,304,tutor,"Ah, yes. There you go. So you could tell that, just you could say Alternate Segment Theorem, or you can explain it, and for saying 65, that is 2 marks over there. [unclear]",00:41:02
+lomuixj,305,tutor,"So all about all the circle theorems. You did really well. I'm not sure why you were feeling less confident. But I think you are really confident with circle theorems as well. Okay, we have 2 minutes left. How about we just move on to the finding mistakes? Do we have any mistakes? Yeah.",00:41:18
+lomuixj,306,student,"Yeah, they should have [unclear] 3/6 here. And then did 180 minus 46— oh yeah, minus 92, which gives you 88, and then divide that by 2 to give you the one at the [UNCLEAR].",00:41:51
+lomuixj,307,tutor,"Exactly, so it's 44. And what is the reason?",00:41:51
+lomuixj,308,student,"Because two radii make an isosceles triangle, and then the angle at the centre is double the one at the circumference.",00:42:22
+lomuixj,309,tutor,"Exactly. Fantastic, [UNCLEAR]. Well done on both the reasons. OK, that's that. Do we have any mistakes here?",00:42:34
+lomuixj,310,student,"This one should be 55, I think.",00:42:34
+lomuixj,311,tutor,"Yes, and do you remember the reason?",00:42:49
+lomuixj,312,student,"Yeah, because alternate— alternate what? [unclear]",00:42:53
+lomuixj,313,tutor,"Segment, yeah.",00:42:58
+lomuixj,314,student,"Oh, segment.",00:42:59
+lomuixj,315,tutor,"Yes, that's it. So it is 55 indeed. Well done for recalling that as well. We still have a little minute left. Shall we recall all the theorems before we move on?",00:43:00
+lomuixj,316,student,Yeah.,00:43:17
+lomuixj,317,tutor,"Sorry, before we end, what did we learn on— what did we discuss on the first question? Which theorems?",00:43:17
+lomuixj,318,student,"Oh, do you want me to read them out because I have them?",00:43:27
+lomuixj,319,tutor,You don't have to read. You can just explain what you already know.,00:43:29
+lomuixj,320,student,Oh.,00:43:34
+lomuixj,321,tutor,I didn't show you this before because you already knew this.,00:43:34
+lomuixj,322,student,"Oh, I was— [unclear] Angles of the same segment, like, have the same angle.",00:43:40
+lomuixj,323,tutor,"Yes. And then you already told me this on the [unclear] correction question, so I'll skip to the next one. What theorems did we talk about here?",00:43:47
+lomuixj,324,student,"Angles in a semicircle equal 90 degrees, and then opposite angles in a quadrilateral equal 180.",00:43:58
+lomuixj,325,tutor,"Exactly. And one last thing, we talked about tangents a little bit. What do you remember about that?",00:44:09
+lomuixj,326,student,That the tangent meets the radius at 90 degrees.,00:44:16
+lomuixj,327,tutor,"And also we talked a little bit about alternate segment, which is also with the tangent and the chord. That is a perfect summary of what we did so far. We'll end with that then. Do you have any questions?",00:44:20
+lomuixj,328,student,"No. Okay, well done today. Great effort. Keep it up. And then, bye.",00:44:33
+lomuixj,329,student,"Oh, bye. [unclear]",00:44:40

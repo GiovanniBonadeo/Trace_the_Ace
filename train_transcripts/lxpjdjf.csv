@@ -1,0 +1,260 @@
+session_id,utterance_id,role,content,timestamp
+lxpjdjf,0,tutor,Hello.,00:00:00
+lxpjdjf,1,background,[unclear],00:00:00
+lxpjdjf,2,student,Hello.,00:00:01
+lxpjdjf,3,tutor,Hello.,00:00:02
+lxpjdjf,4,background,Hello?,00:00:04
+lxpjdjf,5,tutor,"Hello, [STUDENT_NAME], can you hear me?",00:00:07
+lxpjdjf,6,background,No?,00:00:13
+lxpjdjf,7,student,Hi.,00:00:14
+lxpjdjf,8,tutor,"Hi, [STUDENT_NAME], can you hear me clearly?",00:00:16
+lxpjdjf,9,student,"Yeah, I can hear you.",00:00:19
+lxpjdjf,10,tutor,"All right, [STUDENT_NAME], so how are you doing?",00:00:21
+lxpjdjf,11,student,"Good, thanks. And you?",00:00:24
+lxpjdjf,12,tutor,"I'm doing good too, thank you. So how has your half-term break been?",00:00:26
+lxpjdjf,13,student,It's been good.,00:00:29
+lxpjdjf,14,tutor,Mm-hmm. So what did you do?,00:00:32
+lxpjdjf,15,student,"So I've been chilling. My dad was poorly, so I had to take him to hospital.",00:00:35
+lxpjdjf,16,tutor,Okay. Is he good?,00:00:43
+lxpjdjf,17,student,"Yeah, it's better now.",00:00:45
+lxpjdjf,18,tutor,"Okay, okay, okay. Alright, so now back to school, yeah?",00:00:48
+lxpjdjf,19,student,Yep.,00:00:54
+lxpjdjf,20,tutor,Back to study. So do you like coming back to school? And how—,00:00:55
+lxpjdjf,21,student,"Yeah, to see my friends.",00:00:59
+lxpjdjf,22,tutor,"Oh, that's very nice, [STUDENT_NAME]. So shall we get started with the lesson, [STUDENT_NAME]?",00:01:02
+lxpjdjf,23,student,Yep.,00:01:06
+lxpjdjf,24,tutor,"Okay, so this is a lesson that we have been doing in the last session as well. So writing simple fractions as decimals.",00:01:08
+lxpjdjf,25,tutor,"[STUDENT_NAME], would you like to do the learning goal question here?",00:01:15
+lxpjdjf,26,student,"Yep. So 2/5 as a decimal. So 5, it would be 10 because it goes, it's closer to 10. So, um, so, oh, now I've had that week off, I've forgotten what to do. So 10 into 10 and then We put the 2, so it would be 0— hold on. [unclear]",00:01:18
+lxpjdjf,27,tutor,"Yeah. All right, so can you tell me how did you get this answer, [STUDENT_NAME]?",00:01:58
+lxpjdjf,28,student,Because— [unclear],00:02:06
+lxpjdjf,29,tutor,"So when you change the 5, the denominator 5 to 10, you're timesing it by 2, right?",00:02:20
+lxpjdjf,30,student,Yeah.,00:02:28
+lxpjdjf,31,tutor,"Okay, so what do you think about the numerator? Would it change or would it remain as it is? [unclear]",00:02:29
+lxpjdjf,32,tutor,"Okay, so can you try thinking of what we did? Do you remember? We have to change the denominator. If they change the denominator, we have to change the numerator as well.",00:02:42
+lxpjdjf,33,student,"So we would times the denominator— no, whatever the top one's called.",00:02:52
+lxpjdjf,34,student,"Yes, yes, yes.",00:03:00
+lxpjdjf,35,background,by 2.,00:03:00
+lxpjdjf,36,student,Yes.,00:03:00
+lxpjdjf,37,background,It would be 4.,00:03:02
+lxpjdjf,38,tutor,"Okay, so what's the fraction that you would get here now?",00:03:05
+lxpjdjf,39,student,"Um, 4/10.",00:03:09
+lxpjdjf,40,tutor,"4/10. Now if you write this as a decimal, then what do you think the answer would be?",00:03:12
+lxpjdjf,41,student,0.4.,00:03:17
+lxpjdjf,42,tutor,"Wonderful. So that's going to be 0.4. Now you remember how to work out this question, right?",00:03:21
+lxpjdjf,43,tutor,"Yeah. So can we only change the denominator to 10, or can we change it to any other number?",00:03:26
+lxpjdjf,44,student,We can change it to 10 or 100.,00:03:33
+lxpjdjf,45,tutor,"Wonderful, [STUDENT_NAME]. So that is what you have to remember. So you either change to 10 or 100, and whatever the number you use to times the denominator, you times that with the numerator as well. All right, [STUDENT_NAME], so shall we get started with this question for today then?",00:03:37
+lxpjdjf,46,tutor,"Yeah, would you like to give it a try for this?",00:03:53
+lxpjdjf,47,student,"Yeah, so... so Sam's brother weighs 123... no, 27.3. Sam weighs 27 and a quarter kg.",00:03:57
+lxpjdjf,48,background,Is that a quarter? Could you repeat please?,00:04:14
+lxpjdjf,49,tutor,Is that a quarter?,00:04:19
+lxpjdjf,50,student,"No, and a half.",00:04:21
+lxpjdjf,51,tutor,"Half, yes, amazing. [unclear] [unclear]",00:04:23
+lxpjdjf,52,tutor,How are you going to work out this?,00:04:48
+lxpjdjf,53,student,"So, because 27.3 kg is smaller than 27.5, because—",00:04:51
+lxpjdjf,54,tutor,How do you know that?,00:05:05
+lxpjdjf,55,student,"Because 27.5 is 27.5,",00:05:06
+lxpjdjf,56,student,That's 27.2 kilograms.,00:05:11
+lxpjdjf,57,tutor,"Okay, so they're asking how much more does Sam weigh than his brother. So how did you get 2 kilograms, can you tell me?",00:05:15
+lxpjdjf,58,student,"Because it's 2— not— oh, I meant to put 0.02 kilograms.",00:05:22
+lxpjdjf,59,tutor,"Okay, can you show me how you did the subtraction? Can you show me here?",00:05:29
+lxpjdjf,60,student,Yep. Sorry.,00:05:35
+lxpjdjf,61,tutor,"Yes, thank you. [unclear] Can you write it here because I can't see what you're writing there.",00:05:37
+lxpjdjf,62,student,"Oh, I see. Oh, yeah.",00:05:51
+lxpjdjf,63,tutor,Can you write it somewhere here?,00:05:53
+lxpjdjf,64,student,Yes. [unclear],00:05:55
+lxpjdjf,65,tutor,"Okay, so which one is bigger now?",00:06:08
+lxpjdjf,66,student,27.5.,00:06:14
+lxpjdjf,67,tutor,"Okay, so from which number would you take away the other number?",00:06:17
+lxpjdjf,68,student,"So you would take 5 from— no, 3 from 5.",00:06:22
+lxpjdjf,69,tutor,"Okay, so can you write it that way? Okay, I will write it that way and give you. Now you're going to take away from 27.5, you're going to take away 27.3, yeah?",00:06:29
+lxpjdjf,70,student,Yeah.,00:06:40
+lxpjdjf,71,tutor,"Okay, wait, let me write that as well. Okay, now can you work out this?",00:06:42
+lxpjdjf,72,student,[unclear] 5 minus 3 is 2. 7 minus 7 is 0. 2 minus 2 is 0. [unclear],00:06:49
+lxpjdjf,73,tutor,What did you get?,00:07:00
+lxpjdjf,74,student,0.3.,00:07:02
+lxpjdjf,75,tutor,"So you can just write one 0. You don't have to write both the zeros, OK?",00:07:05
+lxpjdjf,76,student,OK.,00:07:09
+lxpjdjf,77,tutor,So can you write down the answer for me there?,00:07:10
+lxpjdjf,78,tutor,Yes.,00:07:23
+lxpjdjf,79,student,3.,00:07:24
+lxpjdjf,80,tutor,How did you get 3?,00:07:27
+lxpjdjf,81,student,What? [unclear],00:07:30
+lxpjdjf,82,tutor,"So you can write it here, the answer. [unclear]",00:07:30
+lxpjdjf,83,tutor,What should be the unit?,00:07:52
+lxpjdjf,84,student,"Unit, so it would be 27 point—",00:07:57
+lxpjdjf,85,tutor,"No, no, no, the unit. What should be the—",00:08:03
+lxpjdjf,86,student,0.2?,00:08:06
+lxpjdjf,87,tutor,"Kilograms, that you should write, okay?",00:08:12
+lxpjdjf,88,tutor,"Yep. Okay, [STUDENT_NAME]. So now, that's amazing how you worked out this question. So would you like to tell me, so how did you figure out that 27.5 kilograms is 27.5?",00:08:20
+lxpjdjf,89,student,"Wait, could you repeat please?",00:08:33
+lxpjdjf,90,tutor,How did you figure out that 27.5 kilograms is 27.5?,00:08:35
+lxpjdjf,91,student,Because if it— because half of 28 kilograms is 27.5.,00:08:41
+lxpjdjf,92,tutor,"Hmm, that was not very clear, [STUDENT_NAME]. Can you repeat what you told me?",00:08:52
+lxpjdjf,93,student,I don't know how to explain it.,00:08:57
+lxpjdjf,94,tutor,"OK. So OK, now can you tell me if you have half kilogram, how would you convert that to a decimal?",00:09:00
+lxpjdjf,95,student,0.5.,00:09:10
+lxpjdjf,96,tutor,Yes. How did you do that? How did you do that?,00:09:11
+lxpjdjf,97,student,"Because it's half of a— it's half of a— of a decimal that is 1, so it's half of it.",00:09:13
+lxpjdjf,98,tutor,"Okay. Now can you tell me now if you have half and if you have to think of converting the denominator to either 10 or 100, how would you do that then? [unclear]",00:09:26
+lxpjdjf,99,tutor,So now let's think that half is a fraction given to you. And you need to convert this to a decimal. So can you think of the way that we have learned?,00:09:45
+lxpjdjf,100,student,So we need to put the 2 into— Something that they both fit into.,00:09:55
+lxpjdjf,101,tutor,"Okay, can you tell me what number it goes into?",00:10:04
+lxpjdjf,102,student,It can go into 4.,00:10:07
+lxpjdjf,103,tutor,4. But can we get the denominator as 4?,00:10:09
+lxpjdjf,104,student,Yeah.,00:10:14
+lxpjdjf,105,tutor,"What is the denominator that we need to get to find it to a decimal? What we studied just previously? [unclear] So we try to convert the denominator to either 10 or 100, remember?",00:10:14
+lxpjdjf,106,student,Yeah.,00:10:33
+lxpjdjf,107,tutor,"Okay, so if you— which number would you convert it to, 10 or 100?",00:10:34
+lxpjdjf,108,student,"Um, 10.",00:10:39
+lxpjdjf,109,tutor,"Okay, so if your denominator is 10, then what is going to be your numerator?",00:10:42
+lxpjdjf,110,student,"Um, so you times it by 5, so 1 times 5 is 5. Wonderful. Now what is the decimal that you would get here?",00:10:47
+lxpjdjf,111,student,0.5.,00:10:56
+lxpjdjf,112,tutor,"Wonderful. So did you figure out how we got this fraction to a decimal then? [unclear] So this is 0.5, therefore this becomes 27.5. Did that make sense, [STUDENT_NAME]?",00:10:59
+lxpjdjf,113,student,Yep.,00:11:14
+lxpjdjf,114,tutor,"Okay. So you can always make use of this, you know, converting the denominator to 10 or 100 and change your numerator so that you can easily get your decimal, [STUDENT_NAME]. You can use for whatever the question that you get. Alright?",00:11:17
+lxpjdjf,115,student,Yep.,00:11:32
+lxpjdjf,116,tutor,"Okay, [STUDENT_NAME]. Now we have reached to the end of this lesson and you did an amazing job with this question here.",00:11:34
+lxpjdjf,117,student,Thank you.,00:11:39
+lxpjdjf,118,tutor,"And— [unclear] So would you like to tell me, so what are the important things that you learned in this lesson, [STUDENT_NAME]?",00:11:40
+lxpjdjf,119,student,I learnt how to put a fraction into a decimal.,00:11:48
+lxpjdjf,120,tutor,Mm-hmm. How do we usually do that?,00:11:56
+lxpjdjf,121,student,"So if you had 2/5, you would put 5 into 10, and then you chop the same [unclear]",00:12:02
+lxpjdjf,122,tutor,"Hello, can you hear me?",00:12:19
+lxpjdjf,123,student,I can hear you.,00:12:21
+lxpjdjf,124,tutor,"OK, can you repeat what you told?",00:12:23
+lxpjdjf,125,student,"So if you have 2/5, you would put the denominator, the 5, times it by 2 to get 10, times the top by— [unclear] 2, which would be 4. Your answer would be 0.4.",00:12:25
+lxpjdjf,126,tutor,"Okay, that's amazing, [STUDENT_NAME]. So similarly, you can also, you know, if you get any other number, you can try converting it to 100 and do the same. So [STUDENT_NAME], before we move on to the next lesson, do you have any questions on what we have learnt? [unclear]",00:12:46
+lxpjdjf,127,student,"Hello, can you hear me?",00:13:04
+lxpjdjf,128,tutor,"Yes, I can hear you. Can you hear me, [STUDENT_NAME]?",00:13:06
+lxpjdjf,129,student,Yep.,00:13:08
+lxpjdjf,130,tutor,"Okay. So before I take you to the next— Hello? [STUDENT_NAME], can you hear me?",00:13:10
+lxpjdjf,131,student,Yep. [unclear],00:13:19
+lxpjdjf,132,tutor,Okay. So do you have any questions from the lesson that we have learnt?,00:13:19
+lxpjdjf,133,student,No.,00:13:27
+lxpjdjf,134,tutor,"All good. So let's move on to the next lesson, [STUDENT_NAME].",00:13:28
+lxpjdjf,135,student,"Yep, okay.",00:13:34
+lxpjdjf,136,tutor,"Alright, so what is this lesson about?",00:13:36
+lxpjdjf,137,student,Today we will learn about comparing fractions using reasoning.,00:13:38
+lxpjdjf,138,tutor,"Okay, so can you do the learning goal question?",00:13:45
+lxpjdjf,139,student,"Yep, use those crocodile things or equivalent to compare fractions. [unclear] [unclear]",00:13:48
+lxpjdjf,140,tutor,"All right, so can you tell me how did you figure this out?",00:14:07
+lxpjdjf,141,student,Because 3/9 is bigger than 3/5.,00:14:12
+lxpjdjf,142,tutor,Why did you think so?,00:14:18
+lxpjdjf,143,student,Because the denominator is bigger than the [unclear],00:14:20
+lxpjdjf,144,student,The denominator with 9 is bigger than the denominator with 5.,00:14:25
+lxpjdjf,145,tutor,"Okay. So usually we cannot compare like that. So the answer is going to be the other way around actually. The answer is going to be something similar to this, okay? But no worries. That's a great try, [STUDENT_NAME]. Let's learn about this and let's see how we can work out this question. Now can you try doing this?",00:14:32
+lxpjdjf,146,student,"I said complete the part-whole model. So, [unclear]",00:14:53
+lxpjdjf,147,tutor,"[STUDENT_NAME], are you there?",00:15:03
+lxpjdjf,148,student,"Yeah, I'm here.",00:15:18
+lxpjdjf,149,tutor,"Okay, so what do you think you have to do here?",00:15:20
+lxpjdjf,150,student,I have to... [unclear] I do not know how to explain it.,00:15:28
+lxpjdjf,151,tutor,"Okay, so can you work out this question?",00:15:41
+lxpjdjf,152,student,Which one?,00:15:45
+lxpjdjf,153,tutor,Or do you feel like you're stuck with this?,00:15:46
+lxpjdjf,154,student,I'm stuck.,00:15:49
+lxpjdjf,155,tutor,"Okay, [STUDENT_NAME]. No worries, [STUDENT_NAME]. So let's figure out how to work out these type of questions together, okay?",00:15:52
+lxpjdjf,156,student,Mm-hmm.,00:15:58
+lxpjdjf,157,tutor,"Alright, [STUDENT_NAME]. Now let me take you to the first slide. Can you read what is given here in the green colour box?",00:16:00
+lxpjdjf,158,background,"Before comparing fractions, we need to make sure we can use [UNCLEAR]....to make a whole?",00:16:05
+lxpjdjf,159,tutor,"Okay. So before comparing fractions, we need to make sure we can use fractions to make a whole. So normally, if you are given a part of the fraction, we have to think how much more is remaining to make it as a whole. Did that make sense?",00:16:16
+lxpjdjf,160,student,Yeah.,00:16:34
+lxpjdjf,161,tutor,So here you have half here and another half here. So two halves together make how much?,00:16:35
+lxpjdjf,162,student,A whole.,00:16:41
+lxpjdjf,163,tutor,"One whole. Which means 1 and 1 when you add it's 2, and the denominator is 2, so 2 over 2 becomes one whole. So can you read given— what is given here?",00:16:43
+lxpjdjf,164,background,What— when the number and the denominator of a fraction—,00:16:55
+lxpjdjf,165,tutor,Numerator.,00:17:00
+lxpjdjf,166,background,Numerator. [unclear] And the denominator of a fraction are the same.,00:17:01
+lxpjdjf,167,student,It is equivalent to one whole.,00:17:07
+lxpjdjf,168,tutor,"Yes, what this tells us, if the numerator and the denominator are same, it means they are equal to one whole. Now you have 2/5 here, okay. To make it a one whole, how much more is remaining from 5/2? If 2/2 are colored, how much more is remaining?",00:17:10
+lxpjdjf,169,background,[unclear],00:17:29
+lxpjdjf,170,student,"Could you repeat? You were lagging. Okay, now here we have 2/5, right?",00:17:30
+lxpjdjf,171,student,Yeah.,00:17:37
+lxpjdjf,172,tutor,"So to make it one whole, how much more should we add here to the numerator?",00:17:38
+lxpjdjf,173,student,[unclear] 7/5?,00:17:44
+lxpjdjf,174,tutor,"Why do you think 7/5? Now here, shall we look at this figure given here? So here you have 5 parts, right?",00:17:50
+lxpjdjf,175,student,Yep.,00:17:58
+lxpjdjf,176,tutor,And 2 parts are shaded. So how many more parts are remaining to make it a whole?,00:17:59
+lxpjdjf,177,student,3. [unclear],00:18:06
+lxpjdjf,178,tutor,"3. And the denominator would be 5. So that is how we figure out how much more is left. Now, when you add the numerators, it's going to be 5, and the denominator is 5. So this is a 1 whole. Did that make sense how we figured it out?",00:18:08
+lxpjdjf,179,student,Yep.,00:18:27
+lxpjdjf,180,tutor,"Okay, now shall we move on to this? Now what do you think the numerator would be here? [unclear] Did you tell me anything, [STUDENT_NAME]?",00:18:27
+lxpjdjf,181,student,"7, 8, 9. The numerator would be 9.",00:18:41
+lxpjdjf,182,tutor,Can you show me where the 9 would be?,00:18:47
+lxpjdjf,183,student,"Here. So this is the denominator, [STUDENT_NAME]. The top number is the numerator. The bottom number is known as the denominator. Yes, the denominator is going to be 9. So what do you think about the numerator? [unclear]",00:18:50
+lxpjdjf,184,tutor,"To make it a whole. Wonderful. So that's going to be 4/9. So what should be the the numbers that would come here in the numerator and denominator to make it one whole? [unclear] That's amazing, [STUDENT_NAME]. So now you understood how to make one whole, right?",00:19:13
+lxpjdjf,185,student,Yeah.,00:19:35
+lxpjdjf,186,tutor,"Okay, so you have to see how much more is remaining to make it one whole. Now let's go to the next part. So can you read what is given here?",00:19:37
+lxpjdjf,187,student,"When comparing fractions, we can use— we can use our understanding of how close the fraction is in one whole.",00:19:46
+lxpjdjf,188,tutor,"Okay. Now what we are going to do is when you want to compare fractions, we see which— how much closer is the fraction to make it one whole, and then we can compare. Okay?",00:20:00
+lxpjdjf,189,student,Can you read this here?,00:20:15
+lxpjdjf,190,background,You don't always have to make a [unclear] have a common denominator to compare them.,00:20:18
+lxpjdjf,191,tutor,"Okay, so always we don't have to make a common denominator to compare the fraction. Now we have to figure out if 2/3 is greater or 2/5 is greater. Okay, and then what they have done is they have divided equally to half here. Alright, now shall we look at the first question here? Is two-thirds greater than half? So now let's look at this. Is this greater than— [unclear]",00:20:25
+lxpjdjf,192,student,Two-thirds is greater.,00:20:57
+lxpjdjf,193,tutor,Greater. Now you are going to write that. So two-thirds is greater than half. Now let's look at the next one. Is two-fifths greater or less than half? [unclear],00:21:00
+lxpjdjf,194,tutor,"By looking at the figure, what do you think?",00:21:17
+lxpjdjf,195,student,Less.,00:21:19
+lxpjdjf,196,tutor,"Less. So let's also write that down. Now, which fraction is closest to 1 whole? Is 2/3 closer to 1 whole or 2/5 closer to 1 whole?",00:21:20
+lxpjdjf,197,background,2/3.,00:21:32
+lxpjdjf,198,tutor,2/3. Wonderful. So how did you figure out that 2/3 is closer to 1 whole?,00:21:35
+lxpjdjf,199,student,"Because 2/3 is 2 out of 3, where 2/5 is 2 out of 5.",00:21:41
+lxpjdjf,200,tutor,"Yes, so you have only 1 more left here to make it a 1 whole, whereas you have 3 more left here to make it a 1 whole. Which fraction would give you the bigger share? So let's read this question. 2 biscuits shared between 3 people, or 2 biscuits shared between 5 people. So Which part will you get the bigger part?",00:21:48
+lxpjdjf,201,student,In 5.,00:22:13
+lxpjdjf,202,tutor,2 biscuits shared between 5 people?,00:22:17
+lxpjdjf,203,student,"Yeah, I think.",00:22:19
+lxpjdjf,204,tutor,"Okay, now you have 2 biscuits, okay? And you are sharing with 5 of your friends. At the same time, you have 2 biscuits and you are sharing with 3 of your friends. So will the 3 friends get bigger share or the 5 friends get bigger share? [unclear]",00:22:22
+lxpjdjf,205,tutor,3. So the fraction which would give you bigger share is 2/3. So 2/3 is greater than 2/5 here. Did that make sense?,00:22:40
+lxpjdjf,206,student,Yep.,00:22:50
+lxpjdjf,207,tutor,"Okay. So [STUDENT_NAME], now did you figure out how to compare fractions?",00:22:52
+lxpjdjf,208,student,"Yep. So what you can always do is think which one is closer to one whole, and then you can think about the bigger fraction.",00:22:58
+lxpjdjf,209,tutor,"Alright, now let's go on to the next slide. So you're going to follow me carefully here. Let's think about the relationship between the numerator and the denominator. Is this fraction a large or small part of the whole? Now you have 5/6 and 7/11. Okay, 5 is larger part of 6 than 7 is of 11. So do you see, feel that this 5 is actually larger part when you are dividing into 6 equal parts, but 7 seems to be less when it's 11 parts. So now you have to place the symbol here. So which means we know 5/6 is larger than 7/11. So the fraction symbol would be this.",00:23:11
+lxpjdjf,210,student,[unclear] Does that make sense?,00:23:57
+lxpjdjf,211,student,Yep.,00:23:59
+lxpjdjf,212,tutor,Now can you try this question?,00:24:00
+lxpjdjf,213,student,Compare 7/10 and 8/9 using the same strategy. [unclear] [unclear],00:24:03
+lxpjdjf,214,tutor,"So you have to fill all these, okay?",00:24:26
+lxpjdjf,215,student,"Yep. 3, 5, 4, 5, 6, 7.",00:24:28
+lxpjdjf,216,tutor,"So, 8 lines. [unclear]",00:24:49
+lxpjdjf,217,student,"3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14.",00:24:52
+lxpjdjf,218,tutor,"And so, the— [unclear]",00:25:12
+lxpjdjf,219,student,[UNCLEAR] [unclear],00:25:12
+lxpjdjf,220,student,[unclear] Which fraction has the larger part?,00:25:12
+lxpjdjf,221,student,8/9.,00:25:12
+lxpjdjf,222,tutor,"Okay, so what do you have to write there?",00:25:12
+lxpjdjf,223,student,8/9. [UNCLEAR],00:25:12
+lxpjdjf,224,tutor,You can write it down using numbers.,00:25:51
+lxpjdjf,225,student,Yep. [unclear],00:25:57
+lxpjdjf,226,tutor,You have to write 8 here and 9 here. 8 is a larger part of 9.,00:26:12
+lxpjdjf,227,student,Yep.,00:26:18
+lxpjdjf,228,tutor,Then...,00:26:19
+lxpjdjf,229,student,Then... is 7... [unclear],00:26:23
+lxpjdjf,230,tutor,Wonderful. Now can you write the symbol down?,00:26:40
+lxpjdjf,231,student,Yeah.,00:26:43
+lxpjdjf,232,tutor,"There we go. So that was wonderfully done, [STUDENT_NAME]. So that is how we compare fractions. So now do you find it easy? [unclear]",00:26:52
+lxpjdjf,233,tutor,So do you find comparing fractions easy?,00:27:03
+lxpjdjf,234,student,Yeah.,00:27:07
+lxpjdjf,235,tutor,"All right, [STUDENT_NAME]. So now we have reached almost the end of the session. So before we wrap up our session, so would you like to tell me what are the important things that you have learned today?",00:27:09
+lxpjdjf,236,student,So the important things that I learned is to put— fractions into— or what's it called? I forgot what it's called. A fraction into a thingy.,00:27:21
+lxpjdjf,237,tutor,Decimal?,00:27:37
+lxpjdjf,238,student,"Yeah, a decimal.",00:27:38
+lxpjdjf,239,tutor,Okay. So what did you learn about this comparing fractions now?,00:27:40
+lxpjdjf,240,student,I learnt you can— you compare by— [unclear] [unclear],00:27:46
+lxpjdjf,241,tutor,"Hello, [STUDENT_NAME]? Can you hear me?",00:27:56
+lxpjdjf,242,student,"Yeah, I can hear you.",00:27:59
+lxpjdjf,243,tutor,"Yes, so—",00:28:00
+lxpjdjf,244,student,You got to explain it. I don't know how to explain it.,00:28:00
+lxpjdjf,245,tutor,"Okay, so you think how closer it is to one whole to compare the fraction. Now can you tell me, so how can we compare this fraction? Just can you explain me?",00:28:04
+lxpjdjf,246,student,"Yeah, first—",00:28:15
+lxpjdjf,247,student,"You would— wait, could you repeat please?",00:28:18
+lxpjdjf,248,tutor,Can you explain me how we can compare this fraction?,00:28:22
+lxpjdjf,249,student,"So if we have 3 [UNCLEAR], yeah, we would need to— I'm trying to— [unclear]",00:28:27
+lxpjdjf,250,tutor,"Okay, okay, no worries. Can you tell me how to work out this? How to make it one whole?",00:28:47
+lxpjdjf,251,student,"So, 4 sets, you've got 4 out of 6, so you will need 2, 3, 1. What should be the denominator?",00:28:53
+lxpjdjf,252,student,4.,00:29:11
+lxpjdjf,253,tutor,4. How did you get 4 there? [unclear],00:29:12
+lxpjdjf,254,background,I can get— I've got 2/6.,00:29:18
+lxpjdjf,255,tutor,"Wonderful. To make it one whole, it's going to be 2/6. Amazing, [STUDENT_NAME]. So you remember how to work out that now. So I hope you had a good session with me today, did you?",00:29:24
+lxpjdjf,256,student,Yeah.,00:29:38
+lxpjdjf,257,tutor,"Okay. So once the session ends, you will get some questions, so make sure you answer them and reflect on your session. So until we meet in our next session, you can have a great week ahead. Bye-bye.",00:29:38
+lxpjdjf,258,student,Bye. [unclear],00:29:49

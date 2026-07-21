@@ -1,0 +1,415 @@
+session_id,utterance_id,role,content,timestamp
+feumega,0,tutor,Hello? [unclear],00:00:00
+feumega,1,tutor,Hello?,00:00:06
+feumega,2,tutor,Hello?,00:00:12
+feumega,3,tutor,"Can you hear me, Lachlan? [unclear]",00:00:19
+feumega,4,student,Hello?,00:00:24
+feumega,5,tutor,Hello.,00:00:28
+feumega,6,tutor,"Hi, Lachlan, can you hear me?",00:00:30
+feumega,7,student,Yeah.,00:00:32
+feumega,8,tutor,"Alright, great. So how are you doing today, Lachlan?",00:00:33
+feumega,9,student,"Good, and you?",00:00:35
+feumega,10,tutor,"I'm doing great too, and thanks for asking. So how has your day been so far? It's been okay.",00:00:37
+feumega,11,tutor,"That's nice. Right, so may I know what is your favourite subject?",00:00:44
+feumega,12,student,Home time.,00:00:44
+feumega,13,tutor,Sorry?,00:00:44
+feumega,14,student,Home time.,00:00:57
+feumega,15,background,"Alright, okay, so alright, that's also an interesting topic. Alright, okay, so nice to hear all these things, Lachlan, so we can get started with that. So are you ready for that?",00:00:58
+feumega,16,student,Yeah.,00:01:11
+feumega,17,tutor,"All right, nice. So as you can see over here on the slide itself, so we are going to continue our lesson on identifying types of numbers. And so today's plan is to continue with this lesson and we'll be covering the remaining questions and then we'll be moving on with the next lesson. All right?",00:01:12
+feumega,18,student,Okay.,00:01:32
+feumega,19,tutor,"All right. So with that, may I know like what is a prime number?",00:01:33
+feumega,20,tutor,A prime number is— [unclear],00:01:40
+feumega,21,student,Just tell me what you— [unclear],00:01:50
+feumega,22,tutor,"I don't remember. At least, will you be able to tell me what is the opposite term of a prime number?",00:01:51
+feumega,23,student,[unclear],00:02:09
+feumega,24,tutor,"All right, it's like this. So a prime number means the numbers that have only two factors. What are they?",00:02:11
+feumega,25,student,"The zero and Um, oh, for God's sake, I forgot now.",00:02:24
+feumega,26,tutor,"All right, that's totally fine, Lachlan. By the way, if you like, you can make notes on the things that we're discussing while we go through the sessions. [unclear]",00:02:36
+feumega,27,student,"Okay, okay.",00:02:44
+feumega,28,tutor,"Right, so if we quickly recap what is a prime number, so a prime number means the numbers that have only two factors, one and itself. For example, if you take number 2, what are the factors of number 2?",00:02:45
+feumega,29,student,"Sorry, I was just trying to write that down. [unclear] What, like the multiples?",00:03:02
+feumega,30,tutor,What are the factors? What do you mean by the word factors?,00:03:12
+feumega,31,student,"Number that goes into it, like 4. I don't know, 4.",00:03:22
+feumega,32,tutor,"Alright, it's like this, right? So if you quickly recap on these 3",00:03:29
+feumega,33,background,"multiples, prime number, and factors. Okay, so would you be able to tell me what are multiples?",00:03:34
+feumega,34,background,Multiples is what number goes into,00:03:44
+feumega,35,tutor,That number.,00:03:48
+feumega,36,student,Mm-hmm. So can you tell me some multiples of 2?,00:03:49
+feumega,37,background,"2, 4, 6, 8.",00:03:55
+feumega,38,tutor,"Exactly. The times table of that particular number. So if we are considering number 2, that will be 2, 4, 6, 8, which means the 2 times table. So that's all about multiples. And if you look into the word factor,",00:03:58
+feumega,39,tutor,What is that?,00:04:13
+feumega,40,student,Factor is something that goes into 12.,00:04:17
+feumega,41,tutor,"Alright, if we take the same number 2, what are the factors of 2? [unclear]",00:04:26
+feumega,42,student,"Sorry, someone came in, it's distracting me.",00:04:31
+feumega,43,tutor,Aha.,00:04:36
+feumega,44,tutor,"Sorry, what was the question again?",00:04:40
+feumega,45,student,"Okay, so we were discussing about these three",00:04:42
+feumega,46,background,"multiple, prime number, and factor. And we have already discussed the multiples of 2, so let's look into what are the factors of 2. [unclear]",00:04:47
+feumega,47,background,"Factors of 2 is 1, uh...",00:04:57
+feumega,48,tutor,"problem. [UNCLEAR] One is one of the factors, and what are the rest?",00:04:57
+feumega,49,student,Um... [unclear],00:05:11
+feumega,50,tutor,So what made you to think that 1 is a factor of 2?,00:05:18
+feumega,51,student,Because 1 times 2 is 2.,00:05:21
+feumega,52,tutor,Exactly. So then what is the other factor of 2 then? You just told me.,00:05:24
+feumega,53,student,One.,00:05:32
+feumega,54,tutor,From which number do you need to multiply one to get into two?,00:05:34
+feumega,55,student,Two.,00:05:38
+feumega,56,tutor,Exactly. So both one and two are factors of two.,00:05:39
+feumega,57,background,Yeah.,00:05:43
+feumega,58,tutor,"Alright, okay. So as you mentioned me, factors are the numbers that we multiply together to get into a particular number. In this case, it is two.",00:05:44
+feumega,59,background,Yeah.,00:05:52
+feumega,60,tutor,Alright. And now can you tell me how many factors are there for number two?,00:05:54
+feumega,61,student,2.,00:06:01
+feumega,62,tutor,Exactly. So is there anything else other than these two?,00:06:01
+feumega,63,background,[unclear],00:06:04
+feumega,64,tutor,"No. Exactly. So that's why we call out 2 also as a prime number, because there's only two factors for prime",00:06:05
+feumega,65,background,1 and itself. Okay?,00:06:14
+feumega,66,background,Yeah.,00:06:18
+feumega,67,tutor,All right. So now are we clear on the difference between these three concepts?,00:06:19
+feumega,68,background,Can I— could you just— I just need to write them down. Would you rather just—,00:06:23
+feumega,69,tutor,"Yes, please....prime number, number that... [unclear]",00:06:27
+feumega,70,tutor,"Alright, do you want me...",00:06:34
+feumega,71,student,Would you best decide.,00:06:37
+feumega,72,tutor,"Yes, okay. So you can write down prime number.",00:06:38
+feumega,73,student,"Okay, hang on one second.",00:06:42
+feumega,74,tutor,Alright. Go.,00:06:44
+feumega,75,student,"Okay, so we can write down a whole number greater than 1.",00:06:49
+feumega,76,background,A number... so you're starting from multiple of 3?,00:06:55
+feumega,77,tutor,"All right, so we are just discussing about these 3 concepts, right?",00:06:59
+feumega,78,student,Yeah.,00:07:04
+feumega,79,tutor,"Multiple, prime number, and factor.",00:07:04
+feumega,80,student,Yeah.,00:07:08
+feumega,81,tutor,"Just these 3, right?",00:07:08
+feumega,82,student,"Yes, yes, sorry, [UNCLEAR].",00:07:09
+feumega,83,tutor,"Okay, so let's begin with the word, this term, prime number.",00:07:09
+feumega,84,student,Okay.,00:07:17
+feumega,85,tutor,Right. Hope you have already written that. Yep?,00:07:18
+feumega,86,student,Yeah.,00:07:22
+feumega,87,tutor,"Okay, so in front of that, you can make a note as a whole number greater than 1.",00:07:24
+feumega,88,student,"A number that is greater than 1, yeah.",00:07:29
+feumega,89,tutor,That has exactly 2 factors.,00:07:36
+feumega,90,student,"Has exactly 2 factors, yeah.",00:07:40
+feumega,91,tutor,And you can put a small comma and write itself and 1.,00:07:45
+feumega,92,student,"Itself and 1, there you go. Right, and then we can write down the term multiple.",00:07:50
+feumega,93,tutor,"Yeah, I've got it.",00:08:01
+feumega,94,student,"Okay, so do you want me to write it down or mention me that explanation as well?",00:08:03
+feumega,95,tutor,"Yes, just please.",00:08:08
+feumega,96,student,"All right, so you can make a note of that as the result of multiplying a number by another number.",00:08:10
+feumega,97,tutor,"The result of [UNCLEAR]...the result of multiplying another number, a number with another number.",00:08:17
+feumega,98,tutor,"Exactly. In front of that, with the bracket, you can mention as times table of that particular number.",00:08:17
+feumega,99,student,"Another number. Okay. Could you do the factor form, please, as well?",00:08:38
+feumega,100,tutor,Okay. So we can write as— you can mention the word Factor and then write a number which divides—,00:08:43
+feumega,101,student,Number which divides—,00:08:51
+feumega,102,tutor,Yeah. Into a number.,00:08:55
+feumega,103,student,Into a number. Yeah.,00:08:58
+feumega,104,tutor,To give a whole number answer.,00:09:02
+feumega,105,student,To give a whole number answer.,00:09:04
+feumega,106,tutor,"Yeah, right. In simplest, we get the understanding. For example, if we divide 2 by 2, we are getting into 1, and also we If we divide 2 by 1, we are getting into 1— into 2, right? So in that case, we are not coming across with any remainders.",00:09:11
+feumega,107,tutor,Yeah.,00:09:28
+feumega,108,student,"All right, so now are we all good with these 3 concepts?",00:09:29
+feumega,109,background,Yes.,00:09:33
+feumega,110,student,"All right, awesome. So with that understanding, let's quickly move on to the place that we stopped in our previous session. So as you can see over here, it is your turn. So can you work on this question on your own?",00:09:34
+feumega,111,tutor,"Yes. All right, go ahead, Lachlan. [unclear]",00:09:46
+feumega,112,tutor,"I'm trying to think. I think that's it, I don't know. [unclear] 14, 22. [unclear] I think that's it that I can remember.",00:10:21
+feumega,113,tutor,"Alright, Lachlan, so",00:11:05
+feumega,114,tutor,Okay. Can you go through the question and tell me what do you understand from this question?,00:11:07
+feumega,115,student,The numbers that multiply to the number which divides into a number to give a whole number. [unclear],00:11:14
+feumega,116,tutor,"Alright. Okay, so if you go through this question, what are they specifically asking from us to do? [Speaker] To find 3 factors of 60 which sum to 40.",00:11:26
+feumega,117,tutor,"Mm-hmm. In that case, what do we need to do? [Speaker] Find factors of 60, which— I don't know. [Speaker] Right there. [Speaker] Yeah. [Speaker] That's great. So that will be our first step. And then what should be the second step?",00:11:38
+feumega,118,tutor,which sum to 40.,00:11:38
+feumega,119,student,Nice. So can you tell me what you mean by the word sum?,00:11:38
+feumega,120,tutor,Add up to 40.,00:12:07
+feumega,121,student,"Exactly. Now you got it, and we are pretty sure about the 2 steps of this question as well. So that's an excellent workout. Yes, so now would you be able to give it another try?",00:12:09
+feumega,122,tutor,"Okay then, so... [unclear] Okay, so it's not 40. Never mind. 160 is not one, is it? Because it doesn't add up to 40. So do I get rid of this one because it doesn't add up to 40?",00:12:20
+feumega,123,tutor,"Okay. By the way, Lachlan, can you tell me how many marks are we getting for this question?",00:12:47
+feumega,124,tutor,Sorry.,00:12:53
+feumega,125,student,"So can you tell me, what do you think, like, what are the steps that we are getting the marks for?",00:12:53
+feumega,126,background,[unclear],00:12:58
+feumega,127,student,"For showing how we worked it out, and then getting the answer.",00:13:02
+feumega,128,tutor,"Mm-hmm. Alright, so if we have a look on the 2 steps that we considered, what was the very first step? [unclear] Find 3 factors of 60.",00:13:10
+feumega,129,tutor,"Okay, so in this question they are specifically asking find 3 factors of 60 which sum to 40. That means only 3 factors of 60 that will be adding up to 40. That is clear. But in this case, in the very first step, if we have shown all the factors of 60, we are getting 1 mark. And if you have only identified 5 factors, then you are getting only another 1 mark. And for adding and showcasing that from all the factors of 60, only these 3 factors should be added together to make 40, we'll be getting another 1 mark. So I just walk you through how the marks are being given. So give it another try over here then. [unclear]",00:13:28
+feumega,130,tutor,Okay. [unclear],00:14:14
+feumega,131,tutor,Thank you.,00:14:15
+feumega,132,student,Have a good evening.,00:14:17
+feumega,133,tutor,You too.,00:14:19
+feumega,134,background,[UNCLEAR],00:14:19
+feumega,135,tutor,"Alright, so in that case, as we just discussed that we need to come up with all the factors of 60, so shall we work on that step then?",00:14:25
+feumega,136,background,"Yes, please.",00:14:39
+feumega,137,tutor,"All right, Lachlan. So would you be able to figure out all the factors of 60? And then we can move on with the second step.",00:14:42
+feumega,138,student,[unclear] So 2 and 30.,00:14:48
+feumega,139,tutor,Nice job.,00:15:00
+feumega,140,student,2 and 30. [unclear],00:15:02
+feumega,141,tutor,"I think that's it, isn't it?",00:15:07
+feumega,142,background,"Actually, I've no idea.",00:15:16
+feumega,143,tutor,"Alright, so what you can do is you can keep on checking because 60 is a large number. So definitely starting from 1 to 60, there's a lot of numbers. So you can just check starting from 1, 2, 3, 4, like that way. On and on it goes. So you can check one by one.",00:15:18
+feumega,144,tutor,"Okay. Hang on. I know that it's— [unclear] [unclear] [Speaker] It does go in threes because— I don't know, actually no. Would 5 be one because it's in the 5 times table, 60?",00:15:36
+feumega,145,tutor,"Mm-hmm. By the way, can you tell me how can we recognize the factors of a particular number systematically?",00:16:18
+feumega,146,tutor,Is it because it's got the zero in it?,00:16:28
+feumega,147,student,Mm-hmm. What do you mean by the word systematically?,00:16:31
+feumega,148,tutor,I don't know.,00:16:36
+feumega,149,student,"Okay, so the general idea of the word systematically means going in an order, right? Because if you come across with a large number like 60, for example, it might be a bit confusing to recognize all the factors. So we need to be systematic to recognize all the factors, and also it should be in an order. So then we won't make our life in a struggling position. Okay, so in that case, what we can do is we can keep on looking into the next sample. So that means going one and one, on and on. So as we have recognized that it is 1 times 60, then what is the next [unclear] that you are coming across after 1?",00:16:39
+feumega,150,tutor,2.,00:17:24
+feumega,151,student,Yes. So is it possible for us to divide 60 by 2? [unclear],00:17:24
+feumega,152,tutor,"Mm-hmm. All right, that's nice. So if it is so, then from which number that you need to multiply 2 to get into 60?",00:17:27
+feumega,153,tutor,40.,00:17:49
+feumega,154,student,"Nice, so we can write that down. So we have come up with another set of factors. So that is the systematic way that we can follow. So shall we write that down?",00:17:50
+feumega,155,background,"What? What, 240?",00:18:06
+feumega,156,tutor,"Yes, please, Lachlan. We have to figure out— I've",00:18:11
+feumega,157,background,[unclear] already written it down.,00:18:14
+feumega,158,tutor,"Okay, at the moment I can't see, that's totally fine anyway. All right.",00:18:16
+feumega,159,student,"Just, I can try write it again.",00:18:20
+feumega,160,tutor,"That would be great, Lachlan.",00:18:23
+feumega,161,student,Can you see it now? [unclear],00:18:25
+feumega,162,tutor,"Okay, in that case, would you be able to refresh your page to see whether that would work?",00:18:28
+feumega,163,student,"What do you mean, like just erase all of it?",00:18:36
+feumega,164,tutor,"No need. At the top of the— this screen, you can find an icon like this.",00:18:39
+feumega,165,student,"Oh yeah, hang on.",00:18:46
+feumega,166,tutor,Yes. [unclear],00:18:48
+feumega,167,student,"All right. Okay. So not yet actually. So yes, now would you be able to try writing it down one more time?",00:18:52
+feumega,168,tutor,[unclear],00:19:09
+feumega,169,student,"Okay, all right. So then give me a second. Let me quickly refresh my page from my end as well to see whether that would work. Okay, give me a second. Did it work? Oh, [unclear]",00:19:09
+feumega,170,tutor,"you're not yet, Lachlan. So hope you can clearly hear me, by the way. Yeah,",00:19:33
+feumega,171,student,I can hear you. All,00:19:37
+feumega,172,tutor,"right, nice. At the moment, I can't see anything. That means I can only see 1 and 60 with 60. So— Oh.",00:19:38
+feumega,173,student,"Okay,",00:19:46
+feumega,174,tutor,"that's totally fine. And by the way, let me type down some numbers. Can you see? Can you check? Yeah,",00:19:47
+feumega,175,student,I can see it. Yes.,00:19:53
+feumega,176,tutor,"Now can you try typing down so then I can check with the— I can see them as well. Hang on, should I just— let me see if I can do it. Let me do this way, hang on. Can you see it now?",00:19:55
+feumega,177,tutor,"Yes, I can see that.",00:20:06
+feumega,178,student,"Okay, I'll just do a different text box.",00:20:08
+feumega,179,tutor,"Alright, that would be [UNCLEAR].",00:20:13
+feumega,180,student,"Yeah, can you see it now?",00:20:13
+feumega,181,tutor,"I able to see that a while ago, that means over here, but not now. Oh, I can— hang on. Can you see that? [unclear]",00:20:20
+feumega,182,tutor,"Yes, over here.",00:20:32
+feumega,183,student,"Okay, if I move it over then you can see it more.",00:20:34
+feumega,184,tutor,"Yes, I can see that you're moving this one as well.",00:20:38
+feumega,185,student,"Okay, there you go, that's why. There you go.",00:20:40
+feumega,186,tutor,"Alright, okay. So now, as we have recognized the next one, so what is the next number that we can try out? [unclear]",00:20:45
+feumega,187,tutor,"Okay, what is it?",00:20:59
+feumega,188,student,"Yes, exactly. So is it possible for us to divide 60 equally by 3?",00:21:00
+feumega,189,tutor,Yeah.,00:21:07
+feumega,190,student,Then from which number do we need to multiply 3 to get into 60?,00:21:10
+feumega,191,background,3... [unclear],00:21:13
+feumega,192,tutor,"3, 6, 9, 12, 15, 18, 21, 24, 27, 10.",00:21:27
+feumega,193,student,Shall I ask a small question? From which number do you need to multiply 3 to get into 6?,00:21:37
+feumega,194,tutor,"Oh, 2.",00:21:43
+feumega,195,tutor,"Right, so in that case, what do you think that from which number do you need to multiply 3 to get 60?",00:21:46
+feumega,196,student,[unclear] 20.,00:21:51
+feumega,197,tutor,"Super work. Okay, so that is a nice effort so far. So this is the systematic order or the way that we can work out this type of question. Right, so then what is the next number that we can check?",00:21:53
+feumega,198,background,4.,00:22:08
+feumega,199,tutor,"All right, go ahead, Lachlan. [unclear]",00:22:10
+feumega,200,tutor,for unintelligible words... [unclear],00:22:10
+feumega,201,tutor,"Yeah, I can hear when I press the—",00:22:38
+feumega,202,student,So it's definitely not your fingers. That's a bit strange.,00:22:41
+feumega,203,background,"Yeah, it is.",00:22:47
+feumega,204,tutor,I'm stuck.,00:22:48
+feumega,205,background,Right.,00:22:49
+feumega,206,tutor,"Alright. So when you come across with a large number, there's an easy technique that we can try out, right? So that means we can check what is 4 times 10, what is 4 times 20, and if it is coming in the middle, then we have to cross-check a middle number.",00:22:50
+feumega,207,tutor,So what is 4 times 10?,00:23:07
+feumega,208,student,40.,00:23:10
+feumega,209,tutor,Then what is 4 times 20?,00:23:11
+feumega,210,student,"Um, 80.",00:23:15
+feumega,211,tutor,Right. Is 60 coming in the middle of these two or outside?,00:23:17
+feumega,212,student,"No, outside.",00:23:22
+feumega,213,tutor,That means after 80.,00:23:25
+feumega,214,student,"Oh, sorry, in the middle.",00:23:27
+feumega,215,tutor,Exactly.,00:23:29
+feumega,216,student,"Before. [unclear] In that case, it should be something in the middle. That means 4 times 11, 4 times 12, something like that. So will you be able to check now?",00:23:30
+feumega,217,tutor,4 times... 12? [unclear],00:23:40
+feumega,218,student,Shall we quickly multiply these two and see whether we are getting it to 60?,00:23:52
+feumega,219,tutor,Yeah. [unclear],00:23:56
+feumega,220,tutor,Oh no.,00:24:03
+feumega,221,student,"Alright, so what does that tell us?",00:24:06
+feumega,222,tutor,That's wrong.,00:24:11
+feumega,223,student,"Alright, there's no need to worry when you do mistakes because through mistakes we learn a lot of things. So that tells us that we need to have another check. That's it. Okay? Alright, let's give it another try. [unclear]",00:24:13
+feumega,224,student,"Oh, 11? No, because that would be 40. That would be 44.",00:24:34
+feumega,225,tutor,"Right. So you told me that 4 times 10 is 40, right?",00:24:38
+feumega,226,student,Yeah.,00:24:44
+feumega,227,tutor,And 4 times 20 is 80.,00:24:46
+feumega,228,student,Yeah.,00:24:50
+feumega,229,tutor,"Oh, 50 is 4 times 15.",00:24:53
+feumega,230,tutor,Nice job. So what made you think that it should be 15?,00:24:56
+feumega,231,student,Because it's in the middle.,00:24:59
+feumega,232,tutor,"Exactly. So these are different techniques that we can use to make our life easier, right? So sometimes there's no need to remember all the times tables if you're confident in different techniques, actually. Right. So now it's your chance to check on the other numbers as well.",00:25:02
+feumega,233,background,[unclear],00:25:19
+feumega,234,tutor,"Okay, 5 and—",00:25:20
+feumega,235,tutor,Because I know that 60 is in the 5 times table. [unclear],00:25:26
+feumega,236,tutor,5 times— hang on one second.,00:25:36
+feumega,237,tutor,"Hang on, is it 17?",00:25:59
+feumega,238,student,"Mm-hmm. Okay, so shall we cross-check? [unclear]",00:26:01
+feumega,239,tutor,"Yeah. Oh, hang on. 5, 6, 7, 8. Oh no, because I could do 8, 5. That's not right. [unclear]",00:26:09
+feumega,240,student,So shall we try out the same method that we tried for 4?,00:26:34
+feumega,241,tutor,Yes.,00:26:37
+feumega,242,student,What was the method?,00:26:39
+feumega,243,tutor,Pardon?,00:26:41
+feumega,244,tutor,What was the method that we used to check this one?,00:26:42
+feumega,245,student,To see what the middle of 10 and 20 was.,00:26:46
+feumega,246,tutor,"Mm-hmm, right. So before that, we tried with 10 and then checked how much close it is with 10 and then 20. So shall we do the same thing? What is 5 times 10?",00:26:51
+feumega,247,background,5 times 10. [unclear],00:27:05
+feumega,248,student,50.,00:27:09
+feumega,249,tutor,"Nice. So from that, what is the gap to 60?",00:27:11
+feumega,250,student,30?,00:27:19
+feumega,251,background,"Oh, I can hear it now. [unclear]",00:27:20
+feumega,252,tutor,"Okay, from 50 to 60, what is the gap?",00:27:23
+feumega,253,student,"50 to 60? 50 to 60, 10.",00:27:28
+feumega,254,tutor,Exactly. So then would you be able to come up with from which number do you need to multiply 5 to get you to 60?,00:27:37
+feumega,255,student,"10? No, because that would be 50. 5... 20... [unclear]",00:27:46
+feumega,256,tutor,No.,00:28:06
+feumega,257,background,Thank you.,00:28:07
+feumega,258,tutor,"Okay, so can you— yes, you just told me that 5 times 10 is 50.",00:28:07
+feumega,259,background,Yeah.,00:28:14
+feumega,260,tutor,"And then, so you also told me that there's a gap of 10 in between 60 and 50.",00:28:17
+feumega,261,background,Yeah. So how many 5s are there between— how many 5s are there within 10?,00:28:26
+feumega,262,tutor,[unclear],00:28:33
+feumega,263,student,"So if there's a gap of 10 over here, how many 5s are there within 10?",00:28:37
+feumega,264,tutor,2.,00:28:43
+feumega,265,student,Exactly. So then what does that tell us?,00:28:45
+feumega,266,tutor,"Uh, [UNCLEAR].",00:28:51
+feumega,267,tutor,"There needs to be only 5, 2 5s over here, right?",00:28:54
+feumega,268,student,Yeah.,00:29:00
+feumega,269,tutor,So what is 5 times 11?,00:29:02
+feumega,270,background,55.,00:29:05
+feumega,271,tutor,And what is 5 times 12?,00:29:07
+feumega,272,background,[unclear],00:29:09
+feumega,273,tutor,"Oh, 60?",00:29:10
+feumega,274,student,Exactly.,00:29:14
+feumega,275,tutor,Okay.,00:29:17
+feumega,276,student,Yeah.,00:29:18
+feumega,277,tutor,Right.,00:29:18
+feumega,278,tutor,Then let's check on the rest as well. [unclear],00:29:20
+feumega,279,student,That's really annoying me because I don't know.,00:29:36
+feumega,280,tutor,This would be the easiest one that you can come across.,00:29:42
+feumega,281,tutor,"Okay. 6 and— oh, actually that's a bit stupid, Clara. [unclear]",00:29:45
+feumega,282,student,"Alright, as long as you are doing a great job, there's nothing to worry. Okay? Because a continuous practice is what really matters.",00:29:54
+feumega,283,tutor,Yeah.,00:30:03
+feumega,284,student,"Alright. So, is there any other numbers— that means, is there any other factors that you can come across with?",00:30:05
+feumega,285,tutor,No.,00:30:13
+feumega,286,student,"Mm-hmm. All right, that's a confidence there, 11. So that's great, okay. So nice to see that you're able to recognize all the factors of 60 over here. That's tremendous. And yes, so what should be our next step?",00:30:13
+feumega,287,tutor,To find what one adds up to 40.,00:30:27
+feumega,288,student,"Mm-hmm. How many factors needs to— out of all these factors, how many needs to add up to 40? [unclear]",00:30:31
+feumega,289,tutor,What one adds up to 40? Okay. Shall we go through the question one more time?,00:30:41
+feumega,290,student,Yeah.,00:30:49
+feumega,291,tutor,Mm-hmm.,00:30:51
+feumega,292,student,"Oh wait, find 3 factors. So you pick out 3 from here that add up to 40.",00:30:54
+feumega,293,tutor,Exactly. So now it's your chance to work it out.,00:30:58
+feumega,294,student,Okay. [unclear],00:31:03
+feumega,295,tutor,"Wait, so do you do— so say like 3 and 20, so that's 3 plus 20 is 23, and then you do 4 plus 15, whatever that is, add that up as well?",00:31:12
+feumega,296,student,"Okay, that means in this case, out of all these factors, right? So how many factors have you recognized over here? [unclear]",00:31:23
+feumega,297,tutor,Sorry?,00:31:38
+feumega,298,student,6.,00:31:39
+feumega,299,tutor,Okay.,00:31:40
+feumega,300,student,"So when we say factors, are we considering this as one set or two factors?",00:31:41
+feumega,301,tutor,"Oh, two. Two factors.",00:31:50
+feumega,302,student,Exactly.,00:31:52
+feumega,303,tutor,12.,00:31:53
+feumega,304,student,"So how many factors? Exactly. So there are 12 factors for 60. So out of all these 12 factors, Which 3 factors would add up to 40?",00:31:53
+feumega,305,student,Okay. Hang on one second.,00:32:04
+feumega,306,tutor,"All right. Take your time, Lachlan.",00:32:09
+feumega,307,student,Thank you. [unclear] [unclear],00:32:11
+feumega,308,tutor,"Oh, so then 8 times minus 6. Oh.",00:32:37
+feumega,309,student,2.,00:32:44
+feumega,310,tutor,"Oh no. I got to 42, but that's not right. [unclear] Oh, this is confusing me for no reason.",00:32:45
+feumega,311,tutor,"By the way, Lachlan, there's nothing to worry or getting confused, right? Take your time and just give it a try. [unclear]",00:33:11
+feumega,312,tutor,"Oh, 1310.",00:33:36
+feumega,313,student,"All right, that's a good guess actually because you have nicely recognized that 30 plus 10 equals to 40. But how many factors do we need to come up with that that is up to 40?",00:33:41
+feumega,314,tutor,"Oh, 3.",00:33:55
+feumega,315,student,"Exactly. So you have come to a nice position actually. So now you just have to think how you can extend these 2 factors to 3 factors. Think, take it as a hint.",00:33:57
+feumega,316,tutor,"30 plus... [unclear] Oh, 30 plus...",00:34:12
+feumega,317,tutor,"Okay, 30 plus 5 plus 4. Wait, 5. Hang on, wait. 30, 35, 36, 37, 38, 39, 40. Oh, there's only one 5. Hang on. 34. Oh, 30 plus 4 plus 5.",00:34:39
+feumega,318,tutor,"Are you done with obtaining your answer, Lachlan?",00:35:09
+feumega,319,student,Yeah.,00:35:14
+feumega,320,tutor,So what are the 3 factors of 60 that adds up to 40?,00:35:15
+feumega,321,student,30 plus 4 plus 5. [unclear],00:35:24
+feumega,322,tutor,"Okay, so can you tell me? So shall we write that down? [unclear]",00:35:29
+feumega,323,tutor,"Right, so shall we add all these factors together and see what answer we get?",00:35:43
+feumega,324,student,Yeah.,00:35:50
+feumega,325,tutor,"30 plus 4 is 34. And then 34 plus 5 is 34 plus 5 plus 6. [unclear] Oh, it's 39. Oh, it's 6.",00:35:52
+feumega,326,tutor,"All right, so nice to see you. After a lot of effort, you have recognized your final answer. That's a tremendous effort, Lachlan.",00:36:04
+feumega,327,student,Thank you.,00:36:12
+feumega,328,tutor,"And you're welcome. And compared to our previous session, I can notice a lot of enthusiasm, and you're not giving up actually, and you're trying your fullest effort. So I really appreciate that quality. Keep up your good work.",00:36:13
+feumega,329,student,Thank you.,00:36:26
+feumega,330,tutor,"Alright, you're welcome, Lachlan. And by the way, so as we have come to the end of this question, let me quickly walk you through how the marks are being given. So one mark is being given for recognizing at least 5 factors of 60, but in this case, as they have recognized all the factors of 60, so you will be going ahead with 2 marks over here. And then The other 1 mark will be given for recognizing the 3 factors of 60 that adds up to 40. And for writing it down, you will be getting 1 mark. Right? So this is all about the marks breakdown.",00:36:27
+feumega,331,tutor,Yeah.,00:37:04
+feumega,332,student,"And in that case, it showcases us how important it is to write down all the factors like this way to get the total score. [unclear] Right?",00:37:04
+feumega,333,tutor,Yeah.,00:37:14
+feumega,334,student,"Okay. So now can you tell me after working out the score, question. Just assume you got the same question in your exam. So what are the things that you need to remember?",00:37:15
+feumega,335,student,"You need to remember the numbers that divide into a number— into the number that you'll get given, and then write all the factors down, and then see what num— what numbers [unclear] from the factors, that list adds up to the number which you're supposed to sum up to.",00:37:27
+feumega,336,tutor,"Mm-hmm, exactly. So that's a nice explanation, Lachlan. And can you tell me what are the different strategies that we can use to identify the factors of a particular number?",00:37:53
+feumega,337,student,Find what numbers go— the numbers between— [unclear] Yeah.,00:38:02
+feumega,338,tutor,"Alright, so when finding the factors, what are the things that we need to be careful? [unclear]",00:38:14
+feumega,339,tutor,Can you remember a particular word that I told you while working on this question? [unclear],00:38:33
+feumega,340,tutor,"Oh, it's a long word. I can't remember what it's called now. Doesn't it begin with an S or something?",00:38:39
+feumega,341,background,[unclear],00:38:47
+feumega,342,tutor,Exactly. Can you see this?,00:38:49
+feumega,343,student,"Yeah, systematically.",00:38:51
+feumega,344,tutor,"Exactly. So in simplest, we say that we need to recognize the factors in an order. For example, we can go through like this",00:38:53
+feumega,345,background,"1, 2, 3, 4, and likewise. We can check whether we can divide this number equally by— with the use of these numbers, so we can recognize the other number easily.",00:39:00
+feumega,346,tutor,Yeah.,00:39:12
+feumega,347,student,"All right, so that is one of the strategies. Other than that, you can also use a factor tree. Have you heard about that word?",00:39:13
+feumega,348,tutor,"Um, yeah.",00:39:21
+feumega,349,student,"So you can use a factor tree as well to recognize the factors of a particular number. So those are main two strategies, right? So with that, we can move on with the next exam-style question. Lachlan, do you have any doubts over here?",00:39:22
+feumega,350,tutor,"Nice. All right. So with that awesome effort, let's quickly move on with this one. And here is your chance to attempt it. Go ahead, Lachlan. [unclear]",00:39:36
+feumega,351,student,Let me just think. [unclear],00:39:46
+feumega,352,tutor,"It's 2, 1. [unclear]",00:39:55
+feumega,353,student,"Wait, isn't prime number like the even numbers?",00:40:15
+feumega,354,tutor,"OK. So at the beginning of our lesson, Can you remember the definition that we wrote in your notebook?",00:40:24
+feumega,355,student,"[unclear] A prime number is a number that is greater than 1 that has exactly 2 factors, itself and 1.",00:40:32
+feumega,356,tutor,"Alright, so you can go through that definition and also these given numbers and see what numbers over here have only 2 factors, that means 1 and itself.",00:40:42
+feumega,357,tutor,So then you can come up with the prime numbers.,00:40:54
+feumega,358,background,5 divided by 30.,00:40:56
+feumega,359,tutor,Is 248 not right?,00:41:00
+feumega,360,background,Yes. [unclear],00:41:04
+feumega,361,tutor,"Okay, let me ask you a small question. Is 8 given over here in the list?",00:41:04
+feumega,362,student,"Oh no, sorry.",00:41:11
+feumega,363,background,"Where they've gone wrong, they haven't—",00:41:15
+feumega,364,tutor,So you can go— You can check each of these numbers by going through that definition and come up with the same numbers.,00:41:18
+feumega,365,tutor,A number that is greater than 1 that has exactly 2 factors. [unclear] 2 factors and itself and 1. 2... [unclear],00:41:25
+feumega,366,tutor,I did the work out on paper.,00:41:45
+feumega,367,student,I don't know.,00:41:53
+feumega,368,tutor,potentially.,00:41:53
+feumega,369,student,I don't know.,00:41:53
+feumega,370,background,"All right, Lachlan.",00:42:11
+feumega,371,tutor,"So in that case, shall we work out this problem together?",00:42:12
+feumega,372,student,"Yes, please.",00:42:16
+feumega,373,tutor,"All right, here we go. So here we can see the same question given on the slide. That means the list has been given, and from this list we need to figure out 3 different prime numbers, right? And here you can see the definition I just told you. A prime number is a whole number greater than 1 with exactly 2 factors factors itself and 1. So in that case, over here we can see number 1. So can it be a prime number?",00:42:17
+feumega,374,tutor,No.,00:42:49
+feumega,375,student,Exactly. Why is that?,00:42:50
+feumega,376,tutor,Because it has to be a number greater than 1.,00:42:52
+feumega,377,student,"Exactly, right. So then we can cross that out, right? Always when we come across with this like a list like this, always it is better to cross out the numbers that we are pretty sure, so then you can easily come up with this prime number.",00:42:58
+feumega,378,tutor,[UNCLEAR],00:42:58
+feumega,379,student,"Okay, right. Now we know that for a prime number there needs to have only two factors, one and itself. And then if we go through the 2 times table, so what is the first number of the 2 times table?",00:43:14
+feumega,380,tutor,[UNCLEAR],00:43:14
+feumega,381,student,"All the other numbers, right, in the 2 times table, can they be prime numbers?",00:43:35
+feumega,382,tutor,"[UNCLEAR]...to find the other one, using the one we already have.",00:43:35
+feumega,383,student,"If we are getting the multiples of 2, can they be prime numbers?",00:43:35
+feumega,384,background,No.,00:43:54
+feumega,385,student,Why is that? Because they won't multiply to 2.,00:43:55
+feumega,386,tutor,"Exactly, because anyway, if we take number 4, definitely 2 becomes a factor of 4, right?",00:44:05
+feumega,387,background,[unclear],00:44:12
+feumega,388,tutor,"Yeah. If we take number 8, number 6, right? 6, 8, 10, 12, whatever the number it is, definitely 2 becomes a factor. So we know that to be a prime number, only",00:44:13
+feumega,389,tutor,"One in itself should be there. So in that case, we can cross out all the even numbers in this row. So we'd be able to cross them out.",00:44:25
+feumega,390,background,[unclear],00:44:34
+feumega,391,tutor,"And by the way, Lachlan, it seems like we are running out of time for today, so would it be okay if we discuss this further in the coming session?",00:44:34
+feumega,392,student,"Yeah, because you're not here next week, are you?",00:44:43
+feumega,393,tutor,"Alright, so that means definitely we'll be meeting after",00:44:47
+feumega,394,tutor,"the holidays, that means in the next year.",00:44:47
+feumega,395,student,Yeah.,00:44:47
+feumega,396,tutor,"Alright, okay. So, by the way, can you tell me what are the main things that you learned so far in this session?",00:44:52
+feumega,397,background,"I learned what a prime number is, multiple, factor, and the factors of— the different factors of 60.",00:45:03
+feumega,398,tutor,"Nice, so we learned a lot of things. So can you tell me, how confident are you with recognizing factors of a particular number by now?",00:45:14
+feumega,399,student,"I mean, I feel not like confident. It's just like I'll remember one time and then the next time I'll just totally freeze and won't remember it.",00:45:24
+feumega,400,tutor,"Alright, so in that case, what we can do is you can follow the systematic order, like the way that we just discussed, so then you can easily recognize the other set of numbers. Just remember these words. Systematically or [UNCLEAR].",00:45:35
+feumega,401,tutor,Yes.,00:45:35
+feumega,402,student,"Right. So then, can you tell me which part of this lesson you felt like you have done a really good job?",00:45:52
+feumega,403,tutor,The factor bit because I got there in the end.,00:45:59
+feumega,404,student,"All right, exactly. And also when it comes to decision, as I mentioned earlier, you have done a really good job and I really appreciate your quality of not giving up. So keep up the good work.",00:46:03
+feumega,405,tutor,Okay.,00:46:14
+feumega,406,student,"Yes. So then, as you know, so you will be getting some questions to be answered as well as a feedback form to be filled at the end. So remember to fill both of them at the end.",00:46:15
+feumega,407,tutor,Okay.,00:46:25
+feumega,408,student,And then let's meet after the holidays and have a great holiday.,00:46:26
+feumega,409,tutor,You too.,00:46:30
+feumega,410,student,Bye-bye.,00:46:31
+feumega,411,background,be on the 6th of November. [unclear],00:46:31
+feumega,412,tutor,and [UNCLEAR] [unclear],00:46:31
+feumega,413,tutor,and [unclear],00:46:31

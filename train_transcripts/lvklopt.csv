@@ -1,0 +1,193 @@
+session_id,utterance_id,role,content,timestamp
+lvklopt,0,student,Hello.,00:00:00
+lvklopt,1,background,[unclear],00:00:00
+lvklopt,2,tutor,Hello.,00:00:00
+lvklopt,3,background,Hi.,00:00:01
+lvklopt,4,tutor,Can you hear me?,00:00:02
+lvklopt,5,student,"Yeah, yeah, I can hear you.",00:00:03
+lvklopt,6,tutor,"Hi, how are you?",00:00:05
+lvklopt,7,student,"I'm good, you?",00:00:07
+lvklopt,8,tutor,"I'm doing good, thanks a lot for asking. Yeah, so yeah, I think last [unclear] was a holiday.",00:00:09
+lvklopt,9,student,"Yeah, it was.",00:00:17
+lvklopt,10,tutor,"Yeah, all right, okay. So yeah, all right. So I think it's all good to get started with our lesson today. Yeah, are you ready?",00:00:19
+lvklopt,11,student,"Yeah, I'm ready.",00:00:27
+lvklopt,12,tutor,"Okay, so yes, in today's lesson, the [UNCLEAR], we are going to work with the topic dividing a number and writing the remainder as a fraction or decimal, right? So of course we are going to work with this long division methods, and we are going— actually, we'll be getting a remainder in that one, and we will be working with writing them as a fraction or decimal, particularly in this lesson, right? Okay.",00:00:28
+lvklopt,13,student,"Yeah, yeah.",00:01:00
+lvklopt,14,tutor,"All right, okay. So yes, [STUDENT_NAME], as usual, I just want you to give it a try for this learning goal question, right? Can you go ahead and give it a try?",00:01:02
+lvklopt,15,tutor,"[STUDENT_NAME], hello?",00:01:26
+lvklopt,16,student,"Yeah, [UNCLEAR].",00:01:28
+lvklopt,17,tutor,"Okay, okay, okay. Yeah, yeah, all right. [unclear]",00:01:30
+lvklopt,18,student,Just a little confused on how to write it as a fraction. That's the only part I didn't learn much at.,00:02:29
+lvklopt,19,tutor,"Yes, all right, fine with that. Actually, that's it for this. That's what we have this lesson, right? So once we go with the lesson, you'll understand how we can write them, right? Okay, so [STUDENT_NAME], what do you think about the decimal part? Do you think that, yeah, that's the final answer?",00:02:37
+lvklopt,20,student,"Uh, yeah, yeah. [unclear]",00:02:56
+lvklopt,21,student,"Yeah, that's [UNCLEAR].",00:03:03
+lvklopt,22,tutor,"Yeah, give me a second. Yes, yeah, so yes, we could— yeah, the decimal part is actually correct, really well done with that. Yeah, yeah, actually we can come up with the fraction part as well, right? So yeah, I'll be explaining that one once we go with the upcoming slides as well, right? Okay. So yeah, let me move to the next slide. So yeah, before we move, yeah, [STUDENT_NAME], can you give it a try for this one as well, this question, prior learning one? You can go with the steps here, right? So actually they have given a space for that. [unclear]",00:03:07
+lvklopt,23,student,Yeah. [unclear],00:03:51
+lvklopt,24,tutor,"Yeah, exactly. Yeah, really well done. So yeah, [STUDENT_NAME], yeah, this is the decimal working out, but whenever we are having When we ask for us to come up with the remainder part, how we can work out that without going with the decimal one? [unclear]",00:03:59
+lvklopt,25,student,Not too sure about that.,00:04:34
+lvklopt,26,tutor,"For example, yeah, let me guide you through about it. For example, let's assume that we are going to divide 200, uh, sorry, 200 by 3. Uh, actually we can come up with, uh, by— we— there's no, uh, 3 in the 2, so we'll be checking with the 20. 20, we are having 6, isn't it? [unclear]",00:04:37
+lvklopt,27,student,Yeah.,00:05:04
+lvklopt,28,tutor,"So yeah, yeah, the 2 is remaining. So 20, another 20, we are having another 6. If we, uh, came up with a 6, uh, it's going to be 18, isn't it? 6 times 3. [unclear]",00:05:05
+lvklopt,29,tutor,"Yeah, in that case the remaining will be 2, isn't it? So we'll be writing it as like this. Okay, so the answer is going to be 66 and a remainder with 2. Uh, if he, if you're asked to go with the decimal calculation as well, we can go with that. But if you're asked to just to come up with the remainder part",00:05:21
+lvklopt,30,tutor,It will come up like this. Okay. Is that clear?,00:05:43
+lvklopt,31,student,"Yeah, now it's clear for me.",00:05:47
+lvklopt,32,tutor,"Yeah, actually, first we have checked whether with the 20 we are having 6, 6 times 3, which will come up with 18, and we are having 2 remainder. So we'll be passing the 2 here, 20, and we'll be working out 20 divided by 3 again. So it's going to be 6. And so, uh, which is 18. 6 times 3, 18. So, uh, obviously if we go taking away from 20, it's going to give us 2, which is the remainder, right?",00:05:50
+lvklopt,33,student,Yeah.,00:06:23
+lvklopt,34,tutor,"Yeah, okay. So yeah, that's what, uh, expecting at this stage, right? Okay, finally that. Okay, you have gone a step forward with this one, finding the decimal one. Okay, so yeah, I'll, um, Yeah, without wasting much with the decimal part, we can give it a try for this sum of the question. Let's try to come up with how we can come up with the fraction part as well, right? Yeah. So yeah, I just want you to explain with this example, right? So before this one, yeah, [STUDENT_NAME], can you read this green [unclear] for me first?",00:06:24
+lvklopt,35,student,Division tells us how many times a number can be split into equal parts.,00:07:00
+lvklopt,36,student,"When a number will not divide exactly, we are left with a remainder. We can write the remainder as a fraction or decimal.",00:07:05
+lvklopt,37,tutor,"Yeah, okay. So yeah, whenever we divide a number by another number, when there's the— if it means actually we are just grouping when you're dividing, when each of the group doesn't have equal amount Actually, we'll be having a remainder, which one, which is one of the group will not have the same as other groups. For example, if I do the 16 divided by 5, okay, we can have 3 in a group and 3 in a group and 3 in a group and 3 in a group and 3 in a group, which will give us 15. And in the next group, we'll be having 1, isn't it? [unclear]",00:07:13
+lvklopt,38,student,Yeah.,00:08:02
+lvklopt,39,tutor,"Yes, that's what the simple explanation for this one. So 3, 3, 3, 3, 3. And for these groups, these first 5 groups, we are having the same amount of numbers, but in this last group, we are having only some part, which is actually the remainder. And Actually, we could come up with the answer for this one as the whole amount, okay? And for the remainder part, that's what actually we have to come up with the fraction part, right? So let me explain you with an example. Let's— let me come up with the calculation, which is— I'm going to take 25, right? 25. I'm going to divide Sorry, 35. I'm going to divide it by 3, right? So yeah, we could see that we are having 1 in the 3. And how many 3 in the 5?",00:08:03
+lvklopt,40,student,"Uh, 1.",00:09:07
+lvklopt,41,tutor,"1, exactly. It's going to be 1. And what's the remainder we'll be having?",00:09:08
+lvklopt,42,student,"Uh, 2.",00:09:14
+lvklopt,43,tutor,"Exactly, this could be 2. All right, now, yeah, we can— if we are not coming with the remainder, we can move forward with the decimal part. Now, but now I'm going to explain how we can come up with the fraction part. So as we have worked out till this one, we could see that we are having 11 wholes, 11 wholes, or [UNCLEAR]. I'm having 11 wholes and 2 remaining, which means actually we have divided by 3, and among 3, 2 has been remained. So the fraction part is going to be 2 divided by 3, right? So that's how the fraction part will be there. Did it make sense, or—",00:09:16
+lvklopt,44,student,"Yeah, no. Yeah, now it makes sense.",00:10:06
+lvklopt,45,tutor,"Yeah, so yeah, to make it more understandable, let me come up with a quick example. So let's try to divide 7 by 3, right? Which means we are going to group— we are going to group by each group should have 3 elements, right? So the first group will have 3 elements, and the next group will have 3 elements, and the third group will have 1 element, which is the remaining part. Okay, so we are having 3, 6, and 7. So, uh, for this one, this one, if we work it as a fraction part, we can come up with 3 divided by 3. Okay, 3, uh, divided by 3 here. And here in this part, we are having 1 divided by 3, isn't it? Because we are only having 1 among 3, right? [unclear]",00:10:10
+lvklopt,46,student,"Yeah, yeah.",00:11:08
+lvklopt,47,tutor,"Yes. So yeah, we know that the 3 divided by 3 will give us 1, and this is 1. So altogether, 2 whole parts and another fraction part. So the answer is going to be, for this one, 2, and the fraction part is going to be 1 divided by 3. So 1/3, right?",00:11:10
+lvklopt,48,student,Yeah.,00:11:31
+lvklopt,49,tutor,"So [STUDENT_NAME], did it make sense how we can work with the fraction part as well, or do you still have any doubts with that?",00:11:32
+lvklopt,50,student,Now I understand how to do it.,00:11:39
+lvklopt,51,tutor,"Okay, all right. So yes, so let's move, come back to the place where we left. All right, okay. So yes, so in this question we are having 75 divided by 4. So obviously we'll be working with this one, uh, 1 and 18 and remainder 3, right? So since we are remain— dividing it by 4, so we'll be having the whole amount 18 and, uh, 3 remainders among 4. So, uh, 3/4 is going to be the fraction part, and this is the whole, uh, part, right? So that's how, uh, the fraction part is going to be if we divide a number that when the— when the each group doesn't have equal parts, right? But if you are asked to come up with the decimal part, yeah, we'll be go— going move forward with the decimal section as well, right? So as you worked out in the previous slide, I hope you can complete this one as well. What do you think?",00:11:42
+lvklopt,52,student,Yeah. [unclear],00:12:45
+lvklopt,53,student,[unclear],00:12:47
+lvklopt,54,tutor,"Yeah, 75 divided by 4. Yep, exactly, exactly. So that's going to be 18.75, right? So really well done. So yeah, let's move forward and yeah, try to grasp some concept about this one. Okay, so let me quickly explain this one much more easier. Afterwards, you'll crystal clear and you can move forward with this one, right? So",00:12:47
+lvklopt,55,tutor,"So I'm going to explain now 68 divided by 5, right? So yeah, let's first try to come up with the remainder part. So we'll be working with 18 divided by 5. So obviously it's going to give me 3 and remainder 3, isn't it?",00:13:12
+lvklopt,56,student,"Yeah, yeah, yeah.",00:13:38
+lvklopt,57,tutor,"You know that 5 into 3, which is going to 15, another 3, this is going to give us 18, right? Now we are having 3 wholes, so our fraction part is going to be 3 here. And sorry, our whole part, which is 3, and the fraction part is going to be— we are dividing it by 4. So among 4, among 4 3 has been remaindered. 3 has been remaindered, right? So that's how we can find the fraction part. Okay, and if you are going to work with the decimal part, yeah, uh, simply as that, we can move forward with, uh, 18 divided by 5, uh, which is going to give us 3, and the 3 is remainder another 30, so it's going to give us 60, so which means 6, right? Am I correct?",00:13:40
+lvklopt,58,student,Yeah.,00:14:36
+lvklopt,59,tutor,For this one?,00:14:36
+lvklopt,60,student,Yeah.,00:14:37
+lvklopt,61,tutor,"Yes, exactly. [unclear] So yep, yeah, I think you have now understood the concept for working with the fraction part as well. Yeah, [STUDENT_NAME], I think you can move forward this your turn part. Are you confident enough?",00:14:38
+lvklopt,62,tutor,"Yeah, I'm confident enough.",00:14:56
+lvklopt,63,background,"All right, [STUDENT_NAME], now take your time and move forward with your turn part. [unclear] [unclear]",00:14:59
+lvklopt,64,student,Okay. [unclear],00:15:56
+lvklopt,65,student,I can't hear you right now.,00:16:18
+lvklopt,66,tutor,Sorry. Okay.,00:16:22
+lvklopt,67,student,"Yeah, not—",00:16:24
+lvklopt,68,tutor,"So yeah, really well done. Okay, all right. So yeah, really well done with coming up with the correct answer for this one. And yeah, seems like you are quite understood about the fraction part as well. That's a simple, simple concept, right?",00:16:24
+lvklopt,69,tutor,"So yeah, so since you are quiet enough, let's move with some questions. Yeah, to make it a practice, right? Okay, so here you have been given a space to go with your steps here, and you can write down your answer here as well for both of the questions, right? Okay, so [STUDENT_NAME], move forward and go ahead and [unclear]",00:16:38
+lvklopt,70,student,[unclear] [unclear],00:16:38
+lvklopt,71,student,[unclear] [unclear],00:16:38
+lvklopt,72,tutor,"I thought you meant you wanted to do a test now, and I would say that's not the best use of time. [unclear]",00:17:38
+lvklopt,73,student,[unclear] [unclear],00:17:38
+lvklopt,74,student,[unclear] [unclear],00:17:38
+lvklopt,75,tutor,"Okay, so [STUDENT_NAME], are you done with the questions?",00:18:39
+lvklopt,76,student,"Yeah, I'm done.",00:18:42
+lvklopt,77,tutor,"All right, okay. So let me check. Yeah, 98 divided by 4. 24 remainder 2. Okay, yeah, correct. Good. So [STUDENT_NAME], for this part, yeah, this is actually correct, right? So, uh, which means 24 and the fraction part is 2/4, right? So can you come up with, uh, making, uh, this fraction part into, into a simple format? [unclear]",00:18:44
+lvklopt,78,tutor,"Yeah, can you make the fraction part simpler? [unclear]",00:19:12
+lvklopt,79,tutor,"No, actually, yeah, we could see that it's 2 among 4, isn't it? This fraction part means 2/4, right?",00:19:22
+lvklopt,80,student,Yeah.,00:19:32
+lvklopt,81,tutor,"Yeah. So, yep, it's going to be 2/4. We can come up with the equivalent fraction, which can be written as, uh, half, isn't it? [unclear]",00:19:33
+lvklopt,82,student,Yeah.,00:19:49
+lvklopt,83,tutor,"Yep. So which is half, right? So yeah, over— so, uh, on behalf of 2/4, we can come up with the, uh, we can come up with the fraction, uh, which is 24 and half, right? So whole 24, which can't be changed, right? 24 is a fixed one, and we can just come up with the equivalent fraction for this fraction part. Is that clear?",00:19:51
+lvklopt,84,student,"Yeah, it's clear now.",00:20:19
+lvklopt,85,tutor,"Okay, so yeah, we can come up with like this one as well, right? So when we are, uh, making, uh, it as an equivalent fraction, for example, half, uh, the whole part won't change, right? The whole part, uh, whole part wouldn't change as 12 or something like that, right? It's going to remain unchanged, right? And the fraction part is the only thing going to be simplified, right? That's the thing, okay? So [STUDENT_NAME], did you get it?",00:20:21
+lvklopt,86,student,"Yeah, yeah, I get it.",00:20:53
+lvklopt,87,tutor,"Okay, all right. So yeah, so let's move forward and to the next one. 167 divided by 5, so 33... [unclear] And remainder 2. Well done. Uh, yeah, 33. Okay, so, so [STUDENT_NAME], can you check this decimal part once again, whether is it correct? [unclear]",00:20:54
+lvklopt,88,tutor,Hello?,00:21:32
+lvklopt,89,student,Yeah.,00:21:36
+lvklopt,90,tutor,"Okay, maybe you can try erasing this remainder part and try working out the decimal part as well here. If it— [unclear] Yeah, I think you corrected it, right? 33.4, right?",00:21:37
+lvklopt,91,student,"Yeah, yeah.",00:21:53
+lvklopt,92,tutor,"Okay, obviously that's the correct one. Okay.",00:21:55
+lvklopt,93,tutor,"So yeah, so you earlier, you came up with 33.5. What's the [unclear] there?",00:21:57
+lvklopt,94,student,I accidentally divided 20 by 4.,00:22:04
+lvklopt,95,tutor,"Aha, all right, all right, fine. Yeah, so yeah, we have one more question left. Yeah, let's move forward and try to give— let's give it a try for that one as well. Yeah.",00:22:10
+lvklopt,96,tutor,"A simple word problem. Yeah, I think you can read the question and go ahead and give it a try. [unclear] But yes, [STUDENT_NAME], I think the answer is incorrect. So [STUDENT_NAME], maybe can you check the answer and give it one more try? [unclear]",00:22:23
+lvklopt,97,student,[unclear],00:24:17
+lvklopt,98,student,I'm not really sure on this question. [unclear],00:24:36
+lvklopt,99,tutor,"So yeah, let me break down the question into simpler parts, right? Afterwards, I think you can work out the question, right? Okay, so yeah, Hi-Fi bars are chocolate bars that can split into into 5 equal pieces. So it's a brand chocolate, right? And the chocolate can be split into 5 equal pieces, right?",00:24:48
+lvklopt,100,student,Yeah.,00:25:12
+lvklopt,101,tutor,"Now, a teacher, Gwen, wants to give all her pupils, 76 pupils, one piece for— one piece of chocolate for each of the students, which means each of the students among 76 pupils. At the end of the term reward, right? So yeah, he, uh, if we analyze the problem and try to understand how many, uh, pieces, uh, she or she has needed, we could see that, uh, he has to give 76 pieces, isn't it? If you are— if she is trying to give for each student.",00:25:13
+lvklopt,102,student,"Yeah, yeah. It means not the 76 chocolates, it's actually 76 pieces, right? [unclear]",00:25:53
+lvklopt,103,student,Yeah.,00:26:03
+lvklopt,104,tutor,"Which means, for example, let's take a chocolate bar, which is a chocolate bar. Let's consider this as a chocolate bar, and we— there are 5 equal parts. 1, 2, 3, 4, 5, right? 5 equal parts. And like these parts, the teacher needed 76 pieces, right? For example, let's assume that teacher has one— Teacher has bought one chocolate, right? One chocolate teacher has bought. How many students she can give with the one chocolate?",00:26:06
+lvklopt,105,student,"Uh, 76. [unclear]",00:26:41
+lvklopt,106,tutor,"Sorry, [STUDENT_NAME], for example, I am asking whether teacher has bought one chocolate, right? One chocolate bar which can be split into 5 parts and can be given to 5 students, isn't it?",00:26:47
+lvklopt,107,student,"Yeah, yeah.",00:27:02
+lvklopt,108,tutor,"And let's take— let's assume that teacher has bought 2 chocolates, right? How many students she can give the chocolates?",00:27:04
+lvklopt,109,student,"Uh, 10.",00:27:14
+lvklopt,110,tutor,"Exactly, it's going to be 10, right? So likewise, we could see that where, uh, if we buy 3, she can give to 15 students, right? Likewise, to find out how many chocolates we needed, we can go with the calculation 67— [unclear] 76 divided by 5, isn't it? I think so. [unclear]",00:27:19
+lvklopt,111,student,"Yeah, yeah.",00:27:45
+lvklopt,112,tutor,"Yeah, so before I come up with— let's assume that only there is 13 students in the classroom, right? For example, let me— to make it more simpler, I'm just going to assume only there's 13 students in the classroom, right?",00:27:47
+lvklopt,113,student,Yeah.,00:28:04
+lvklopt,114,tutor,"Now if When there's 13 students in the classroom, let's assume that Teacher has bought 2 chocolates, right? Can Teacher give chocolates for all of the students? What do you think?",00:28:04
+lvklopt,115,student,"No, there'd be 3 left.",00:28:16
+lvklopt,116,tutor,"Exactly, there will be 3 left. What about if Teacher buys 3 chocolates? Can she give?",00:28:19
+lvklopt,117,student,"Yes, she can.",00:28:27
+lvklopt,118,tutor,"Yeah, she can give. Yeah. So, uh, yeah, actually, to come up with a calculation part for this question, actually what we have to do is we have to work out 13 divided by— sorry, 13 divided by, uh, 5, isn't it? Which means, uh, 1 chocolate can be shared among 5 students, right?",00:28:29
+lvklopt,119,student,Yeah.,00:28:54
+lvklopt,120,tutor,So it's going to be 13 divided by 5. What will be the answer if we divide 13 by 5? [unclear],00:28:55
+lvklopt,121,student,It would be 2.6.,00:29:04
+lvklopt,122,tutor,"2 and remainder— 2 and something, isn't it? 2 and remainder 3.",00:29:11
+lvklopt,123,student,"3, yeah.",00:29:17
+lvklopt,124,tutor,"Yes, exactly.",00:29:23
+lvklopt,125,tutor,"So yes, I think, yeah, if we buy 2 chocolates and some parts of the chocolate, some fraction part of the chocolates, Teacher can give to all students. But the chocolate part, the chocolate parts cannot be buy as some small parts. So in this case, Teacher has to buy 3 chocolates, isn't it?",00:29:24
+lvklopt,126,student,"Yeah, yeah.",00:29:46
+lvklopt,127,tutor,"Exactly. So is it clear, so how we worked out the question?",00:29:48
+lvklopt,128,student,"So you would divide the number by 5, or how many pieces of chocolate there are, and then you'd have an answer and a remainder. So you would— so the teacher would like buy more chocolates than there is in the answer.",00:29:53
+lvklopt,129,tutor,"Exactly, yeah. Okay, so yes, [STUDENT_NAME], I think you got some idea to work with this question furthermore. I think now it's clear, right?",00:30:18
+lvklopt,130,student,"Yeah, yeah, now it is.",00:30:28
+lvklopt,131,tutor,"Okay, okay, okay. If it's okay now, I think you can just give it one more try. That's right. Yeah, let me erase the [UNCLEAR]. Yeah.",00:30:31
+lvklopt,132,tutor,Now you can [UNCLEAR]. [unclear],00:30:44
+lvklopt,133,tutor,"Mm-hmm. Okay, exactly. You came up with the 16 chocolate, right? That's really well done. Yeah. So you have tried working out the division problem and you came up with 50. And this remainder as well. So yes, Teacher has to buy 16 chocolates to, uh, uh, he has to buy 16 because he can't buy the fraction part. So, uh, that one is correct. But, uh, yeah, [STUDENT_NAME], can you check this once again whether the question B— [unclear]",00:31:49
+lvklopt,134,tutor,"Exactly, exactly. Yes. So, yeah. So, so [STUDENT_NAME], I think you just realized that the 4 parts has been remaining, isn't it?",00:32:54
+lvklopt,135,student,Yeah.,00:33:05
+lvklopt,136,tutor,"Yes. So because since we are running— since we are only need one piece from the 16th chocolate, the 4 parts 5, among 5 parts is going to remain. So that's what they have been asking. What fraction of Hi-Fi bar will be left over if every people has a piece of chocolate, right? So that's obviously going to be 4/5, right? All right then. So [STUDENT_NAME], is this question clear for you? Now if you get a similar question like this with a different perspective, can you— are you sure, are you confident enough to try that one as well?",00:33:08
+lvklopt,137,student,[unclear],00:33:45
+lvklopt,138,student,"Yeah, I'm confident now.",00:33:46
+lvklopt,139,tutor,"Okay, all right. So yes, so that's it for this lesson, right? Yeah, so I hope we can move to the next lesson. Before we move, [STUDENT_NAME], did you study anything useful from this lesson, especially working with this slide?",00:33:49
+lvklopt,140,student,"Yeah, on how to... [unclear]",00:34:10
+lvklopt,141,student,Put decimals as fractions.,00:34:14
+lvklopt,142,tutor,"Exactly. Yes, so, so at the initial, I think you have some misconception, or you didn't actually have idea how to come up with the fraction. Now I think you can come up with the fraction as well for each of them, right?",00:34:18
+lvklopt,143,student,"Yeah, yeah.",00:34:34
+lvklopt,144,tutor,"Yes, and",00:34:37
+lvklopt,145,tutor,"Yeah, and also we have came up with the decimal part for each of them as well, and also a simple word problem related to that, which a little bit trickier one rather than we work with the earlier question, right? And yes, so I think it's all good. So before we move to the next lesson, do you have any doubts with this lesson? Anything to discuss?",00:34:42
+lvklopt,146,student,[unclear],00:35:04
+lvklopt,147,student,"No, no doubt anymore. I understand it now.",00:35:05
+lvklopt,148,tutor,"Okay, all right. So, all right, so let's move to the next lesson for today. Yep, so the next lesson we are having is multiplying a decimal by a decimal. Okay, we are going to work with multiplying a decimal by the decimal, right? So yes, before we move to the lesson, uh, yep, as usual, I think I just want you to give it a try for learning goal question. [unclear]",00:35:09
+lvklopt,149,background,[unclear],00:36:33
+lvklopt,150,tutor,"Exactly, 0.18. Well done. Okay. So [STUDENT_NAME], can you tell me how you worked out that one?",00:36:33
+lvklopt,151,student,"So if both numbers are a decimal, you wouldn't go over the point, so you would times—",00:36:41
+lvklopt,152,student,"behind the 0, which would give you 128 as the answer. [unclear]",00:36:41
+lvklopt,153,tutor,"Exactly, exactly. Yep, so seems like you are quite confident with working with decimal multiplication. So yeah, let's move forward and try to have some questions. So if you have any doubts, we can come up with the concept slide and discuss them. Discuss more about it, right? Okay. Go ahead. [unclear]",00:36:59
+lvklopt,154,tutor,"Yep. [unclear] 0.048, 0.732. Yes, right. So you're pretty well done with working out this question and correctly as well. Yeah, yeah, I think this is simply as well as working with the decimal— as working with the whole numbers with the multiplication, isn't it?",00:38:36
+lvklopt,155,student,"Yeah, yeah.",00:38:59
+lvklopt,156,tutor,"Yes, okay. So yeah, we have one more question left, a simple word problem. Yeah, [STUDENT_NAME], I just want you to give it a try for this one as well. [unclear]",00:39:02
+lvklopt,157,background,"Yes, 8.282. Okay. Yes, so can you come up with the units as well? So it's essential to, uh, yeah, write the units as well when answering those questions. [unclear]",00:39:54
+lvklopt,158,student,"Yeah, yeah. Thanks. Yeah. [unclear]",00:40:19
+lvklopt,159,tutor,Hello?,00:40:51
+lvklopt,160,background,"Yes, hello?",00:40:51
+lvklopt,161,student,"Yeah, uh, yeah, there is a—",00:40:53
+lvklopt,162,tutor,"Yes, so [STUDENT_NAME], yeah, the answer is correct. So actually, when, uh, when, uh, answering the question related to these length problems, uh, an area, uh, we can— we have to come up with the units as well, isn't it?",00:40:56
+lvklopt,163,background,Oh.,00:41:11
+lvklopt,164,tutor,"Yeah, I just reminded you to put that one. [unclear]",00:41:13
+lvklopt,165,tutor,"So, yeah, is it so?",00:41:46
+lvklopt,166,student,Yeah.,00:41:51
+lvklopt,167,tutor,"So is it 8.282 squared, is it so? The unit is going to be?",00:41:58
+lvklopt,168,student,"Uh, yeah, from what I'm sure.",00:42:04
+lvklopt,169,tutor,"Um, yeah, actually, I think, for example, when we are working, uh, with the, uh, gram, uh, sorry, not the gram, when you are working with the centimeters, if we, uh, come up with the area, we'll be going with the centimeter squared, isn't it?",00:42:11
+lvklopt,170,student,"Oh, yeah, yeah, yeah, and now I understand.",00:42:30
+lvklopt,171,tutor,"Yep, yep, exactly, exactly. Yeah, that's what I'm expecting from you, if I did that. Yep, okay. So [STUDENT_NAME], now can you tell me how you able to come up with the answer? Actually, what you have done? What's the workout you have go with that?",00:42:37
+lvklopt,172,student,"So, uh,",00:42:54
+lvklopt,173,student,"First, you would times these two, or the numbers after the— before the point to get an N, to times the [UNCLEAR], the 02. So you would times the 02 by 4.1, and it would— the first, it would give you 20A if you times it [unclear] So, timesing it by 4 will give it A. And also, so it's a bit weird to explain how the way I've learned it, but yeah.",00:42:55
+lvklopt,174,tutor,"Yeah, yeah, actually I can understand what you're trying to say. Yeah, yeah, I got it. So actually, first you'll be working out with the whole part, which is 4, and you are trying to multiply this whole part, which is 2. Right? Am I correct? Is that what you are referring to?",00:43:38
+lvklopt,175,student,"Yeah, yeah.",00:43:55
+lvklopt,176,tutor,"Afterwards, yeah, you will be working with this decimal part, which is 0, 2, and 4. And afterwards you will be working with this decimal part and these two, right?",00:43:56
+lvklopt,177,student,"Yeah, yeah.",00:44:08
+lvklopt,178,tutor,"Okay, okay, so that's a good method. Yeah, that's obviously correct. And yeah, it could be a very fast method as well when you are working out this one as well. So, and also, what else are the methods we can work with this decimal multiplication?",00:44:10
+lvklopt,179,student,Not too sure about that.,00:44:31
+lvklopt,180,tutor,"Okay, so shall we go with the methods like for, for in this case, 2.02 2.02. Can we go with any methods like this one? What do you think? As the long multiplication method, what do you think? [unclear]",00:44:35
+lvklopt,181,student,"Yeah, let's see. So—",00:44:55
+lvklopt,182,tutor,"Yeah, yep. Okay, so in that way also we can go, right? So [STUDENT_NAME], haven't you ever worked with like this one? [unclear] multiplication like this?",00:45:05
+lvklopt,183,student,"Yes, yeah, I have sometimes.",00:45:21
+lvklopt,184,tutor,"Okay, okay. So once we came up with some different lessons, obviously we'll be working with this one as well, right? So after, at that time, you'll be quite confident with this one. And if needed, we can discuss about this in in our next session as well, right?",00:45:24
+lvklopt,185,student,"Yeah, yeah, yeah.",00:45:41
+lvklopt,186,tutor,"All right, all right. So [STUDENT_NAME], so since we are running out of time, we have to wrap up the session, right? So [STUDENT_NAME], I think this lesson was— you are quite confident, and I hope while working with the question, it made you a quick revision, right?",00:45:43
+lvklopt,187,student,"Yeah, it did.",00:46:01
+lvklopt,188,tutor,"Okay, all right. So yes, so that's it for today. So let's wrap up. So as I usually say, after I end the session, we will receive a couple of questions, right? Make sure to give your best at this question because they are the question that's going to assess you, right? And also, please fill the feedback form as well, right?",00:46:03
+lvklopt,189,student,[unclear],00:46:24
+lvklopt,190,tutor,"So yes, that's it for today. So [STUDENT_NAME], I hope you really enjoyed today's session. And yes, goodbye. Have a nice day.",00:46:26
+lvklopt,191,student,Have a nice day too. [unclear],00:46:36

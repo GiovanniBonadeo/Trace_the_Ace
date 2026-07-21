@@ -1,0 +1,387 @@
+session_id,utterance_id,role,content,timestamp
+npfnabl,0,student,Hello? Hello? Hi. [unclear],00:00:00
+npfnabl,1,tutor,"How are you, Rowan? How are you doing?",00:00:06
+npfnabl,2,student,Good.,00:00:13
+npfnabl,3,tutor,Great. What have you been up to? How was your weekend?,00:00:15
+npfnabl,4,student,It was good.,00:00:19
+npfnabl,5,tutor,Anything interesting that happened over the weekend?,00:00:21
+npfnabl,6,student,Not really.,00:00:25
+npfnabl,7,tutor,"Not really, okay, just a regular weekend, yeah?",00:00:26
+npfnabl,8,student,Yeah.,00:00:29
+npfnabl,9,tutor,"Okay, brilliant. So today's lesson is actually going to be a bit of a different one, okay? We've not done something like this before, so today's lesson is using known facts to find factors. What do you know about What is a factor?",00:00:30
+npfnabl,10,student,"That is like a multiple of a number that you're like knowing. So say that what the learning goal says, write all the factors of 12. So 6, 3...",00:00:46
+npfnabl,11,tutor,"OK, could you list down all the factors from smallest to biggest of 12? All the factors of 12?",00:00:58
+npfnabl,12,student,"Yeah. [unclear] 2, 3, 6. 4, 6, and 12 itself.",00:01:06
+npfnabl,13,tutor,"OK, interesting. Can you tell me why these are factors of 12, Rowan?",00:01:36
+npfnabl,14,student,"Because all of like, say like 2, so 2, 4, 6, 8, 10, 12 goes in. 3, 6, 9, 12 goes in. 4, 8, 12 goes in. 6, 12, and 1 times 12 is 12, so you know that that would be in 2.",00:01:40
+npfnabl,15,tutor,"Good job. Actually, all the factors you've listed are correct, Rowan, but you've missed one. Can you tell which one you've missed?",00:01:56
+npfnabl,16,student,"Um, 1?",00:02:03
+npfnabl,17,tutor,"Exactly. But 1 is a factor of every number, right?",00:02:04
+npfnabl,18,student,Yeah.,00:02:10
+npfnabl,19,background,"But you still have to put it in, okay?",00:02:10
+npfnabl,20,student,Yeah.,00:02:12
+npfnabl,21,background,"That's 1, 2, 3, 4, 6, and 12, because 12 can be divided by all of the numbers you mentioned.",00:02:12
+npfnabl,22,student,Yeah.,00:02:21
+npfnabl,23,background,"Good job. So yes, those are the factors of 12. Well done. So we'll jump right into the first slide. Here we go. So, um, factors are numbers we can multiply together to get another number. So in this case, 2 times 4 gives us 8, right?",00:02:21
+npfnabl,24,student,Yeah.,00:02:36
+npfnabl,25,background,That means 2 and 4 are both factors of 8.,00:02:37
+npfnabl,26,student,Yeah.,00:02:42
+npfnabl,27,tutor,8 is in the 2 times table and 8 is also in the 4 times table. Could you maybe fill in the boxes here and tell me how you are filling them in?,00:02:43
+npfnabl,28,student,"So 1 times something equals 8. So I know 1 times 8 equals 8. 2 times something equals 8. 4 times 2 equals 8. 4 times something equals 8, that's the exact same, just the other way. So 4 times 2 equals 8. Factor pairs for 8: 1, 8, 2 would be 16.",00:02:54
+npfnabl,29,tutor,"Actually, what do they mean? Can you tell me what 16 means, Rowan?",00:03:22
+npfnabl,30,student,"That I thought factor pairs of 8, so 1 goes into 8 2 goes into 16 and then—",00:03:28
+npfnabl,31,tutor,"Actually, they are trying to see which 2 numbers multiply to give 8. So 1 times 8 gives you 8.",00:03:37
+npfnabl,32,student,2 times 4 gives 8.,00:03:43
+npfnabl,33,tutor,There you go. And— [unclear],00:03:45
+npfnabl,34,student,"That's a little bit confusing, don't worry.",00:03:48
+npfnabl,35,background,Times 2 equals 8.,00:03:50
+npfnabl,36,tutor,"Yes. So the factors of 8, could you list, based on what we've done here, what are all the factors of 8?",00:03:53
+npfnabl,37,student,"2, 4, and 8.",00:04:03
+npfnabl,38,tutor,Fantastic. Those are all the factors of it all. Or are there any other factors that we probably didn't look at? Or are you sure that those are the only factors of it? [unclear],00:04:08
+npfnabl,39,student,11? No.,00:04:30
+npfnabl,40,tutor,Why not?,00:04:34
+npfnabl,41,student,"Because I thought of 11 times 8, which is 88, but it don't be like a pair of 8, like.",00:04:36
+npfnabl,42,tutor,"Yeah, exactly. Factors, interestingly, Rowan, factors of a number can only be less than that number. They cannot be more than that number.",00:04:43
+npfnabl,43,tutor,Yeah. So let me ask you something interesting. Is 16 a factor of 8?,00:04:53
+npfnabl,44,student,No.,00:04:58
+npfnabl,45,tutor,"Okay, why not?",00:05:00
+npfnabl,46,student,"Because if 8, 16, but we're looking at 8, so it would only go up to 8.",00:05:02
+npfnabl,47,tutor,"Good job. That's a really good explanation. I like that one, Rowan. But is 8 a factor of 16?",00:05:09
+npfnabl,48,background,[unclear],00:05:15
+npfnabl,49,student,Yes.,00:05:21
+npfnabl,50,tutor,"Yes, it is. Well done, because 8 goes into 16, right? But 16 does not go into 8. Yeah?",00:05:21
+npfnabl,51,student,Yeah.,00:05:28
+npfnabl,52,tutor,"Okay, so I'm gonna be doing— actually, it's interesting that you said 16 because my question here is exactly 16. So you have a task here, Rowan. While I'm doing this question, I want you to make sure I'm not doing any mistakes, okay? So let's use a table. [unclear] I'm going to fill this out. 1 times 16 gives me 16, yeah?",00:05:28
+npfnabl,53,student,Yeah.,00:05:50
+npfnabl,54,tutor,2 times... [unclear] That'd be 6?,00:05:52
+npfnabl,55,student,"Yeah, no.",00:05:58
+npfnabl,56,tutor,"No, no, no, no, no, no, no. Wait, 2 times 6 gives me 12. I'm trying to get to 16, right? Would that be 8?",00:05:59
+npfnabl,57,student,Yes.,00:06:07
+npfnabl,58,tutor,"Yeah, I think that's about right. 3 times— okay, they've put an X here. I wonder why. 3, 6, 9, 12, 15, 18— ah, okay, 16 is not in the 3 times table, so that's where they've put an X, which means 3 is not a factor there.",00:06:08
+npfnabl,59,student,[unclear],00:06:29
+npfnabl,60,tutor,"Yeah, we can't use it the other time. Okay, that's interesting. 4, that's 4, 8, 12, 16, that's 4 times 4, I think.",00:06:29
+npfnabl,61,student,Yeah.,00:06:38
+npfnabl,62,tutor,"4 times 4 is 16. Good job. Thank you, Rowan. I got a little stuck here for some reason, but that's okay. Everyone makes mistakes, yeah? So list all the factors of 16. So 1 is a factor. 2 is a factor. 4 is a factor. 4 is a factor again, but I don't need to put it again, right? Yeah, yeah. So I guess I could put 8 and then 16. Yeah. Okay, brilliant. So I actually just went down and up like that. Yeah. Okay, thank you. So that makes sense. Could you show me how to do your one? I think you're going to have more factors than me, or maybe the same.",00:06:39
+npfnabl,63,student,"Okay, now find all the factors of 20. Complete the table. Factors of 20. So 1 would be 20. 2 would be 5. And 3—",00:07:24
+npfnabl,64,tutor,"Tell me how 1 is with 20, Rowan.",00:07:40
+npfnabl,65,student,"Because if you know that 1 is a factor, then, um, you know 1 times 20 is 20.",00:07:43
+npfnabl,66,tutor,"That's correct, actually. Yeah, good job. Yes, that's correct.",00:07:53
+npfnabl,67,student,"Um, 5 2, 4, 6... Oh wait, no, wait, hang on. [unclear] 10.",00:07:55
+npfnabl,68,tutor,"Okay, how is it 10, Rowan?",00:08:12
+npfnabl,69,student,"Because how many 2s go into 20? So 2, 4, 6, 8, 10, 12, 14, 16... 18, 19, 20, so that's 10.",00:08:15
+npfnabl,70,tutor,"Good job, yes, that makes sense, yeah. [unclear]",00:08:28
+npfnabl,71,student,"3 you can't do, so you have to put an X. And then 5 is on this one.",00:08:39
+npfnabl,72,tutor,How is the last one 5?,00:08:58
+npfnabl,73,student,"Because 4, 8, 12, 16, which is 4 fingers, say, and then you know that there's another 20, which is 5, and 5 times 4 equals 20.",00:09:00
+npfnabl,74,background,Good job.,00:09:11
+npfnabl,75,tutor,"So I think the fact that you're quite confident with your times tables really helped here, didn't it, Rowan?",00:09:12
+npfnabl,76,student,Yeah.,00:09:17
+npfnabl,77,tutor,"Yeah, okay.",00:09:18
+npfnabl,78,student,"One, ten, oh wait, no, five, and then ten, then twenty.",00:09:30
+npfnabl,79,tutor,"Mm-hmm. 1, 5, 10, 20. They're all correct, but I think you missed one. And 3? Oh, wait, 3, you can't put 3, yeah?",00:09:47
+npfnabl,80,student,Yeah.,00:09:55
+npfnabl,81,tutor,3 doesn't make sense because that's where you put an X. What about [UNCLEAR]? [Speaker:Rowan] Yeah. [Speaker:Background]...13. [Speaker:Tutor] So how I did my question was I started from here and I went up like that.,00:09:55
+npfnabl,82,tutor,Yep. [unclear],00:10:13
+npfnabl,83,student,"1, 4, 5, 10, 20.",00:10:21
+npfnabl,84,tutor,"Yes, but I think there's one more number if I'm not mistaken. Two as well, yeah?",00:10:26
+npfnabl,85,student,Yeah.,00:10:31
+npfnabl,86,tutor,"Yes, good job, Rowan. You can put—",00:10:32
+npfnabl,87,student,"Oh, I don't know what happened.",00:10:34
+npfnabl,88,tutor,"Okay, I think everything got rubbed out, yeah?",00:10:37
+npfnabl,89,student,Yeah.,00:10:40
+npfnabl,90,tutor,"That's okay, don't worry about it. Do you— let me see if you remember what we did without looking at what— I mean, it's not there anymore, right?",00:10:41
+npfnabl,91,student,"Yeah. 2 was 10, 3 was [UNCLEAR], 4 was 5.",00:10:49
+npfnabl,92,student,"So, 1, 2, 4, 5, 10, and 20.",00:11:03
+npfnabl,93,tutor,Nice. That's looking quite solid. [unclear],00:11:22
+npfnabl,94,student,Yeah.,00:11:27
+npfnabl,95,tutor,"Good job, Rowan. Unfortunately, I think you accidentally rubbed these out, but that's okay. This is what I did, right? What you are doing is more important, so good job. That's basically all there is to learn, but let's practice a few questions again. Can you walk me through these practice questions? [unclear]",00:11:31
+npfnabl,96,student,1 times 15 equals 15.,00:11:53
+npfnabl,97,tutor,3 times something.,00:11:57
+npfnabl,98,student,5.,00:12:02
+npfnabl,99,tutor,5.,00:12:03
+npfnabl,100,student,1 times... [unclear] 15 equals 15. 3 times 5 equals 15. Factors of 22. 1 times 22 equals 22.,00:12:04
+npfnabl,101,student,"This is 11. Write all the factors of 25. 1, 5, and 25. [unclear]",00:12:30
+npfnabl,102,tutor,"Okay, how did you get that so quick, Rowan? Does it just have 3 factors? [unclear] Seems like it, yeah. Even I'm wondering.",00:12:48
+npfnabl,103,student,"4, 9.9, that's 20.",00:13:08
+npfnabl,104,tutor,"That's 20, and it goes up to 24, right?",00:13:15
+npfnabl,105,student,Yeah.,00:13:18
+npfnabl,106,tutor,I think you're right. I think that's it. Yeah?,00:13:20
+npfnabl,107,student,Yeah.,00:13:22
+npfnabl,108,tutor,"That's actually really interesting. Good job, Rowan. I think that's all the factors, to be honest. Yeah?",00:13:23
+npfnabl,109,student,Yeah.,00:13:29
+npfnabl,110,tutor,"Well done, well done. Shall we do a bit of a hard one, actually? I think you're finding this [unclear] quite easy. Yeah?",00:13:30
+npfnabl,111,student,Yeah.,00:13:39
+npfnabl,112,tutor,You up for a 7?,00:13:39
+npfnabl,113,student,Sure.,00:13:41
+npfnabl,114,tutor,Okay. List out all the factors of 30.,00:13:42
+npfnabl,115,student,Okay. One. [unclear],00:13:49
+npfnabl,116,tutor,A 2 goes in. [unclear],00:14:02
+npfnabl,117,student,3 goes in.,00:14:20
+npfnabl,118,tutor,Just tell me why do you say 3 goes in?,00:14:23
+npfnabl,119,student,"Because I counted up all the way up to 30 and my 3, so 3, 6, 9, 12.",00:14:27
+npfnabl,120,tutor,"Good, good, yeah, that makes sense.",00:14:32
+npfnabl,121,student,"Not 4. 5 goes in because 6 times 5 is 30. 6 goes in. [unclear] 8, 16, 24, no. 9, 18, no. 10? [unclear]",00:14:44
+npfnabl,122,tutor,Why do you think 10 goes in?,00:15:13
+npfnabl,123,student,"Oh wait, no.",00:15:16
+npfnabl,124,tutor,"I think you're right though. Let me just think. 10, 20, 30. Yeah, yeah, 10 works. Yeah, 10, 20, 30.",00:15:18
+npfnabl,125,student,"And then on this line, just 30.",00:15:28
+npfnabl,126,tutor,"Okay, 1 is correct, 2, 3, 5, 6, 10, 30. Okay, I'm just checking, Rowan, and apparently there's one more number that we are missing. I wonder what that is. Everything here is correct, to be honest. There's one more number that's missing. Huh. [unclear] [Speaker:Tutor]...um... 4, 8, 12, 16, 20, 24, 28... [Speaker:Rowan] Is it?",00:15:32
+npfnabl,127,tutor,It's not 4?,00:16:06
+npfnabl,128,student,No.,00:16:09
+npfnabl,129,tutor,Huh. Is it 7?,00:16:11
+npfnabl,130,student,"7, 14, 21, 28... no.",00:16:13
+npfnabl,131,student,"8, 16, 24, 32, 9, 18, 27.",00:16:18
+npfnabl,132,tutor,"27, right? It's not 9 either. Could it be a number larger than 10? Shall we just try 11?",00:16:26
+npfnabl,133,student,"No, that don't go in. 12? No, it goes into 36. [unclear] 13.",00:16:34
+npfnabl,134,tutor,"I don't think so, right?",00:16:49
+npfnabl,135,student,No. Wait.,00:16:51
+npfnabl,136,tutor,14?,00:16:55
+npfnabl,137,student,14.,00:16:56
+npfnabl,138,tutor,"Is it 14? No, I don't think it's 14.",00:16:59
+npfnabl,139,student,No.,00:17:01
+npfnabl,140,tutor,"Double of 14 is 28, so yeah, that doesn't go in.",00:17:03
+npfnabl,141,student,15?,00:17:06
+npfnabl,142,student,15.,00:17:12
+npfnabl,143,tutor,"Wait, is it?",00:17:13
+npfnabl,144,student,"Yeah, because I did 15. I know 15 and 15 is 30.",00:17:15
+npfnabl,145,tutor,"Oh yeah, yeah, I guess you're right. Okay, so that's, that's the missing number, huh? Yeah, that makes sense. Okay, I was wondering what the missing number was because I counted here. It's 1, 2, 3, 4, 5, 6, 7. But the answer is there are 8 factors, so I was wondering if if they were wrong or if we were wrong, but I guess we were wrong, yeah?",00:17:21
+npfnabl,146,student,Yeah.,00:17:39
+npfnabl,147,tutor,"But we definitely worked together to find that interesting. Actually, Rowan, here's something interesting. Once we get to 15, we can immediately jump to 30. We don't need to check 16, 17, 18. Why do we not need to do that?",00:17:40
+npfnabl,148,student,"Because you know that if you know that 15 and 15 equals 30,",00:17:57
+npfnabl,149,tutor,"Yeah, exactly. We know 15 and 15 is 30. 16 and 16 is definitely gonna be more than 30, right?",00:18:06
+npfnabl,150,student,Yeah.,00:18:13
+npfnabl,151,tutor,"So we don't— once we get to the halfway point, we don't need to look further. Yeah, we can just jump to the final number. Good job, Rowan. I actually enjoyed working on this. It felt like we were working as a team. Yeah, good job. Here's the last slide in this lesson. [unclear]",00:18:14
+npfnabl,152,student,And he says that 9 has—,00:18:33
+npfnabl,153,tutor,Have we seen seen this name pop up in previous lessons? [unclear],00:18:35
+npfnabl,154,student,Yeah.,00:18:40
+npfnabl,155,tutor,"I think we have, right? Because I feel like I've seen this name plenty of times. Yeah, sorry, you can get started.",00:18:41
+npfnabl,156,student,Hokey says that 9 has 4,00:18:47
+npfnabl,157,background,"1, 3, 3, and 9. Explain his mistake. He's put 3 twice when you don't have to.",00:18:50
+npfnabl,158,tutor,"Okay, what would you say is the correct answer then?",00:18:58
+npfnabl,159,student,"9 has 4 factors. So 1, yes. And 3, yeah. And 3 is... [unclear] 4, 8, 9, 5, 10, 9. It's only got 3 factors?",00:19:03
+npfnabl,160,tutor,"Okay, I think you're right. It just has 1, 3, and 9, yeah.",00:19:23
+npfnabl,161,student,"Yeah, because he didn't need to put 3 twice because he does know that 3 times 3 [Speaker:Rowan]...is 9, but he didn't have to put it twice. [Speaker:Tutor] Okay, so why do you think he put 3 twice?",00:19:28
+npfnabl,162,student,"Because he might have thought that— so he knew 3 goes into 9, but then he knew that 3 times 3 maybe equals 9.",00:19:40
+npfnabl,163,tutor,"Ah, okay, okay, that makes sense. That makes a lot of sense, doesn't it, Rowan?",00:19:50
+npfnabl,164,student,Yeah.,00:19:55
+npfnabl,165,tutor,"He knows that 3 is a factor, but he put it twice because, like you said, He did 3 times 3, yeah?",00:19:55
+npfnabl,166,student,Yeah.,00:20:02
+npfnabl,167,tutor,"Good job, good understanding there, Rowan. Not only did you find the right answer here, you also understood why he made this mistake, yeah?",00:20:02
+npfnabl,168,student,Yeah.,00:20:11
+npfnabl,169,tutor,"Good job. So we are done with this lesson. How do you feel about it, Rowan?",00:20:11
+npfnabl,170,student,It was kind of easy.,00:20:16
+npfnabl,171,tutor,"It was kind of easy, and definitely you got the answers correct, but what do you think was more important than your correct answers?",00:20:18
+npfnabl,172,student,Knowing like the most— the— your like multiplication table.,00:20:28
+npfnabl,173,tutor,"Okay, that actually came in handy, right? That helped us quite a bit, yeah?",00:20:34
+npfnabl,174,student,Yeah.,00:20:39
+npfnabl,175,tutor,"But apart from that, how do you think you did? How did you compare with your explanations?",00:20:40
+npfnabl,176,student,Good.,00:20:47
+npfnabl,177,tutor,"Yeah, I think your explanations was the highlight here, yeah? Remember, Rowan, correct answers is not what I'm looking for. I'm looking for explanations and You did a really good job there. Yeah, so well done. Could you briefly just walk me through what this slide was about? What do you think was the purpose of this slide?",00:20:48
+npfnabl,178,student,"To show you, like that, 'cause it says at the top, like there's like a little fact thing. It's like 2 times 4 equals 8. And they said for the 2 and the 4 factor, factor. So, and they're saying that it goes up to 8. So, and they're just trying to say like they put counters",00:21:06
+npfnabl,179,student,Here because they're showing that like they're showing to use them. So you know that one lot is 8 and then 2 lots is 4 or 4 lots is 2.,00:21:26
+npfnabl,180,tutor,"Good job. Yeah, I think the counters is kind of to maybe to help someone to figure out exactly what's going on. Yeah.",00:21:38
+npfnabl,181,student,Yeah.,00:21:46
+npfnabl,182,tutor,"But I don't think you use them much, did you?",00:21:48
+npfnabl,183,student,No.,00:21:51
+npfnabl,184,tutor,Okay. What do you think was the purpose of this slide?,00:21:52
+npfnabl,185,student,Saying like all the factors of like 2016 and showing you like [unclear] like the factors.,00:21:59
+npfnabl,186,tutor,"Yeah, exactly. Now on this one, Rowan, which one do you think you enjoyed more, this or this one?",00:22:07
+npfnabl,187,student,The second one we did.,00:22:17
+npfnabl,188,tutor,"Yes, why do you think this one was better?",00:22:20
+npfnabl,189,student,More challenging.,00:22:22
+npfnabl,190,tutor,"Definitely more challenging, right? And do you remember we both kind of missed the 15?",00:22:24
+npfnabl,191,student,Yeah.,00:22:28
+npfnabl,192,tutor,"But then we were figuring out, we were like racking our heads to find out what that number was, but eventually we did find it, yeah?",00:22:29
+npfnabl,193,student,Yeah.,00:22:35
+npfnabl,194,tutor,"Good, and this last one, last one was a pretty good one, Rowan, because I like how you Not only did you get the right answer, you explained why this is wrong. Yeah, good job. Good job indeed. We're done with this lesson. Let's move right into the next one. Here we go. The next one is calculating areas. Interesting one. Have you done this in school before? Areas?",00:22:36
+npfnabl,195,student,Yeah.,00:23:03
+npfnabl,196,tutor,"OK, what's an area? How would you define area?",00:23:04
+npfnabl,197,student,It's like what's inside of a shape.,00:23:07
+npfnabl,198,student,"Like perimeter, I think, is the outside and the area is like the inside, I think.",00:23:10
+npfnabl,199,tutor,"That's a great explanation. Yes, perimeter is the outside of the shape and area is what's inside. Yeah. Okay. Can you calculate the area of this rectangle?",00:23:15
+npfnabl,200,student,"So 8 and 3. I think because it's only an area, you're just going to have to do 8 times 3, which is 24.",00:23:26
+npfnabl,201,student,Centimeters.,00:23:36
+npfnabl,202,tutor,"Yes, actually 24 is correct. Good job, Rowan. 8 times 3, you just have to multiply the length and the width. Yeah, yeah, 24 is correct, but centimeters, it's not correct. Do you know how to fix this? This is an interesting one actually, because even, even I, you know what, even I, even I would say 24 centimeters, but I realized that's not the answer.",00:23:39
+npfnabl,203,student,It's 24 squared.,00:24:04
+npfnabl,204,tutor,"24 centimeters squared. Good job. Looks like you've done this in school before, yeah?",00:24:12
+npfnabl,205,student,Yeah.,00:24:17
+npfnabl,206,tutor,"I'll actually teach you how to put the squared, Rowan. Could you— what you are doing is correct, but I'll show you a better way to use the tools, okay? Could you just erase the centimeter squared? Just keep the 24, okay? [unclear] It gets rid of it all. Wait, hang on.",00:24:18
+npfnabl,207,tutor,That's okay.,00:24:38
+npfnabl,208,student,So 24.,00:24:40
+npfnabl,209,tutor,"Yes, now I want you to click on the Symbols tool. Hey, is this the first time we are using the Symbols tool?",00:24:42
+npfnabl,210,student,I don't know.,00:24:49
+npfnabl,211,tutor,"Not sure, yeah?",00:24:51
+npfnabl,212,student,Yeah.,00:24:52
+npfnabl,213,tutor,"So do you see when you click the Symbols tool, Rowan, there is an option that Say a tiny— a box with a tiny 2.",00:24:53
+npfnabl,214,student,Like that?,00:25:02
+npfnabl,215,tutor,"There you go. But now you have to type cm. Could you type cm? Fantastic, there you go. Now you can click somewhere else. Your answer is complete.",00:25:04
+npfnabl,216,student,Yeah.,00:25:13
+npfnabl,217,tutor,"That's 24 centimeters squared. Well done. Yeah, good job. Could you also— I know you know the answer to this question, Rowan. What's the answer here?",00:25:13
+npfnabl,218,student,24 centimeters squared.,00:25:24
+npfnabl,219,tutor,Exactly. Could you perhaps take it one step further and explain why this is 24? What do the boxes here mean?,00:25:26
+npfnabl,220,student,It's saying that the width I think could be 4 because there's 4 cubes.,00:25:37
+npfnabl,221,tutor,"Sorry, Silas, could you use your pointer? That way I could see what you're explaining.",00:25:45
+npfnabl,222,student,"Yeah. Here there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4 cubes going down like that. And then there's 1, 2, 3, 4, 5, 6. So we know here would be 6 and here would be 4 for the length and width.",00:25:49
+npfnabl,223,tutor,"Yes, exactly. Yes, and what— good job, good job in identifying that. So what's the 24 here? How do you show the 24 here?",00:26:03
+npfnabl,224,student,"So all you could do, you could see that here because there's 6, you can put 6 centimetres for now, and then you know that there's 4 there, so 4 centimetres. So all you got to do is just 6 times 4 equals 24.",00:26:10
+npfnabl,225,tutor,"Nice. Shall we do something, Rowan? Shall we count the boxes here? All the boxes here.",00:26:31
+npfnabl,226,student,"Yeah. [unclear] 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24. 20, 21, 22, 23, 24.",00:26:38
+npfnabl,227,tutor,"Aha, so I think that's what area means, right? What is that? So multiplying the length and width gives you that, yeah? [unclear] Could you find the areas of all these shapes, Rowan? So obviously, counting like this is a really bad idea. Why do you say so, Rowan?",00:26:57
+npfnabl,228,student,Because it will just take forever. That's why you need to know that your multiplication—,00:27:19
+npfnabl,229,background,Exactly.,00:27:23
+npfnabl,230,tutor,"Exactly, knowing the multiplication table really helps, right? I like that.",00:27:24
+npfnabl,231,student,Yeah.,00:27:27
+npfnabl,232,tutor,"Like, imagine if this was like 60 and if this was 40, you'd probably have to count like hundreds of squares, right?",00:27:29
+npfnabl,233,student,Yeah.,00:27:35
+npfnabl,234,tutor,Which is really inconvenient. So could you explain how you're going to do these 3 questions?,00:27:36
+npfnabl,235,background,Use the area model and arrays for multiplication can help us solve problems relating to finding the area of side lengths of a rectangle. So on A— am I supposed to do A?,00:27:42
+npfnabl,236,tutor,"Yeah. Oh no, I think they've already done that for you, right? Because they've given 70.",00:27:56
+npfnabl,237,student,"Yeah. So what they're saying, that 10 times 7 is 70, and it doesn't matter which way, 7 times 10 equals 70. So 5 on B, 5 times 6, I know is 30, because if there is 6 We know there's 6 counters there and 5 counters down, so then we know 6 times 5 is 30.",00:28:00
+npfnabl,238,tutor,Nice.,00:28:24
+npfnabl,239,student,[unclear] Do I do the centimeters squared?,00:28:24
+npfnabl,240,tutor,"Good question, Rowan. Normally, if they haven't given centimeters here or here, you don't have to put it here, okay? You can just leave it as the final answer.",00:28:30
+npfnabl,241,student,"Yeah. 8 times 3 times 8, so there's 3 cubes down here and 8 across, we know that, so 8 times 3 is 24.",00:28:40
+npfnabl,242,tutor,Nice.,00:28:55
+npfnabl,243,student,"D, 7 times something equals 28. I know that 7 times 4 equals 28 because I know 7 times 3 is 21, and then I know that 7 times 4 is 28.",00:28:56
+npfnabl,244,tutor,"Good job. And actually, Rowan, you didn't find the area here. You actually found the missing side, right?",00:29:10
+npfnabl,245,student,Yeah.,00:29:16
+npfnabl,246,tutor,"So if they didn't give you this, how would you know that the missing side is 4 by just looking at this diagram?",00:29:18
+npfnabl,247,student,"Because if you— you could do 28 divided by 7, or if you just know straight away, then you know that's 7 times 3 might be 21, so then you know that 7 times 4 is 28.",00:29:25
+npfnabl,248,tutor,"Yeah, that works. That definitely works, Rowan. I like that. So good, great explanations on this slide actually. Here we go.",00:29:41
+npfnabl,249,student,"The area of a shape is the space within a shape. The square centimeter, centimeter squared, is the standard [unclear] of the measure for area that is used most frequently. Let's look at [unclear] the area of a rectangle.",00:29:51
+npfnabl,250,tutor,What are they trying to explain here?,00:30:12
+npfnabl,251,student,"That the finger on the blue kind of thing is saying that it's 1 centimetre and 1 centimetre, 1 centimetre, 1 centimetre, and they're saying that it's 1 centimetre squared.",00:30:15
+npfnabl,252,tutor,"Okay, so basically that, if we were to imagine this box on our finger, that's 1 centimeter squared. Yeah, so that's pretty small, isn't it?",00:30:29
+npfnabl,253,student,Yeah.,00:30:37
+npfnabl,254,tutor,"Definitely. Yeah, you can explain this to me, Rowan.",00:30:38
+npfnabl,255,student,"Let's look at finding the area of a rectangle. 4 rows of 5 square centimeters or 5 columns of 4 squared centimeters. So here it's saying there's 4 here and 5 across, and then it's saying 5 times 4 equals. So I know that 5 times 4 is 20 centimetres squared, and then even if it's the other way around, it's the same 20 centimetres squared.",00:30:41
+npfnabl,256,tutor,"Good job. And they've already given the 20 centimetres squared, right?",00:31:08
+npfnabl,257,student,Yeah.,00:31:12
+npfnabl,258,tutor,"Just asking, Rowan, why do you think they've done this twice? Like, what are they trying to— what's the message they're trying to show here?",00:31:13
+npfnabl,259,student,They're trying to show that it's the same equal lengths. And that it can be any way.,00:31:18
+npfnabl,260,tutor,"Okay, that makes sense. Basically, it doesn't matter which one you put first. Yeah, it's going to be the same answer regardless. Okay, that's pretty accurate. Good job. So on this slide, I'm going to be doing my question, Rowan, and you're going to be monitoring, okay, making sure I don't make any mistakes, just like last time, and then you can do yours, okay?",00:31:27
+npfnabl,261,student,Yeah.,00:31:45
+npfnabl,262,tutor,"So let's calculate the area of this rectangle. Right, so this is 6 centimeters by 8 centimeters. So the area of a rectangle is always length into width. So 8 times 6. This is— hold on— 8, 16, 24, 32, 40. Is that 48?",00:31:46
+npfnabl,263,student,[unclear],00:32:07
+npfnabl,264,tutor,"Yes. Yeah, I think so, right? Yeah, 48 is 48. So, so the area of this is 48 centimeters squared. I'm just going to put 48 inside like that and put the centimeters squared like so. Yeah, yeah. So the next one, this rectangle has an area of 80 centimeters squared. OK, I'm actually going to use your method here, Rowan. You told me you can divide, right?",00:32:08
+npfnabl,265,student,Yeah.,00:32:39
+npfnabl,266,tutor,"I'm going to, I'm going to see if that works. So 80 centimeters squared divided by 10. Okay, that's quite straightforward. I know that that's 8, right? 80 divided by 10 is 8.",00:32:39
+npfnabl,267,student,Yeah.,00:32:51
+npfnabl,268,tutor,"So that would be— I think the missing side would be 8 centimeters, wouldn't it?",00:32:51
+npfnabl,269,student,Yeah. [unclear],00:32:58
+npfnabl,270,tutor,Show me how you're going to do this.,00:32:59
+npfnabl,271,student,Calculate the area of this rectangle. Rectangle. So we're going to have to do 3 centimetres times 12 centimetres equals 36 centimetres squared.,00:33:04
+npfnabl,272,tutor,[unclear],00:33:24
+npfnabl,273,student,This rectangle has an area of 54 centimetres squared. So 9 and 54. So I know that that is,00:33:24
+npfnabl,274,tutor,"I know that is 6 on this side because 9 times 6— 9 times 6 equals 54 centimetres squared. Work out the missing side length. So we're going to have to do— [unclear] [Speaker:Rowan]...5... no, 6 centimeters. [Speaker:Tutor] I'm really glad you're putting centimeters, by the way. Good job. [Speaker:Rowan]...times 9 centimeters equals 54 centimeters. 54 centimeters squared. And the short side— the short side is 6 centimeters.",00:33:40
+npfnabl,275,tutor,"Yes, the short side is 6 centimeters. Well done, Rowan. I just want to ask you, do you know any other units of measure? Units of measurement for length.",00:34:43
+npfnabl,276,student,Meters.,00:34:55
+npfnabl,277,tutor,Apart from centimeters.,00:34:55
+npfnabl,278,student,Mm-hmm.,00:34:58
+npfnabl,279,tutor,"Yeah, that's one.",00:35:00
+npfnabl,280,student,Meters. Kilometers?,00:35:03
+npfnabl,281,tutor,"Yes, kilometers. Which one's longer, meters or centimeters?",00:35:05
+npfnabl,282,student,Meters.,00:35:10
+npfnabl,283,tutor,"Yes, good job. How many centimeters in 1 meter?",00:35:12
+npfnabl,284,student,100.,00:35:18
+npfnabl,285,tutor,"Okay, looks like you've done this quite a lot in school. Can I kindly know where you've done this in school? Like, was it in math?",00:35:18
+npfnabl,286,student,"Yeah, in math.",00:35:25
+npfnabl,287,tutor,"Yes, and which one's bigger, meters or kilometers?",00:35:27
+npfnabl,288,student,"Kilometers, I think.",00:35:32
+npfnabl,289,tutor,"And how many— yes, it is, you're right. How many meters in 1 kilometer?",00:35:34
+npfnabl,290,student,"1,000.",00:35:39
+npfnabl,291,tutor,"1,000, yes. So normally, let's just say you're talking about your distance from from home to school, would you say it in centimeters, meters, or kilometers?",00:35:41
+npfnabl,292,student,Kilometers.,00:35:52
+npfnabl,293,tutor,"Why would you not say it in centimeters, Rowan?",00:35:54
+npfnabl,294,student,"Because it's like every little bit, so it's easier to do the bigger numbers, so then— [unclear]",00:35:57
+npfnabl,295,tutor,That's a good explanation.,00:36:03
+npfnabl,296,student,Wow.,00:36:06
+npfnabl,297,background,Yep.,00:36:07
+npfnabl,298,tutor,"And if you were to maybe speak about the length of a pencil, What unit of measurement would you use?",00:36:08
+npfnabl,299,student,Meters.,00:36:14
+npfnabl,300,tutor,"Meters or centimeters also, right? Because they are pretty small, right? But definitely not kilometers, yeah?",00:36:16
+npfnabl,301,student,Yeah.,00:36:22
+npfnabl,302,tutor,"Good job. So let's do a few practice questions now, Rowan, but this time you don't have anything to help you. Let's see if you can do this.",00:36:23
+npfnabl,303,student,So calculate the area of the shapes below. So it says here 1 centimeter and 1 centimeter equals 1 cube.,00:36:30
+npfnabl,304,student,"So, 1, 2, on A, I know there's 3 at the top here, and then 2 is down. I've got 1 little one right here. 1, 2, I've got 3 here.",00:36:38
+npfnabl,305,student,"And then I've got 2 here, and then I've got 5 centimeters here. So we're going to have to add them all up. So 5... 16 centimeters squared.",00:37:04
+npfnabl,306,tutor,"Okay, that's actually the perimeter, Rowan. Good job! You— let me check, give me a second. 5, 6, 7, 8, 9, 10, 11, 12, 13, 14— good job, that is 16. But that's the perimeter, right? Remember perimeter is when you add the outside, yeah? 16. What would the area inside be and how do you get it?",00:37:26
+npfnabl,307,student,12 centimeters squared.,00:37:47
+npfnabl,308,tutor,How did you get that?,00:37:49
+npfnabl,309,student,"All I needed to do was just count like the squares in the middle, so—",00:37:51
+npfnabl,310,student,"There's 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.",00:37:56
+npfnabl,311,tutor,"Good job, I like that, Rowan. So that's the area, but since you mentioned perimeter, I'll just add that in also. What's the perimeter of this shape?",00:38:02
+npfnabl,312,student,16 centimeters.,00:38:10
+npfnabl,313,tutor,"Yes, just 16 centimeters, right? Not squared, yeah?",00:38:13
+npfnabl,314,student,Yeah.,00:38:16
+npfnabl,315,tutor,You can put that. [unclear],00:38:17
+npfnabl,316,tutor,Nice. What would be the perimeter and area of this shape?,00:38:27
+npfnabl,317,student,"The perimeter would be 18 for the perimeter, and for the area would be [unclear]",00:38:33
+npfnabl,318,student,18.,00:38:52
+npfnabl,319,tutor,"Interesting, it's actually both 18, yeah?",00:38:54
+npfnabl,320,student,Yeah.,00:38:56
+npfnabl,321,tutor,Did you do 3 times 6 here?,00:38:56
+npfnabl,322,student,[unclear] Yeah.,00:38:58
+npfnabl,323,tutor,"Good job, they both seem correct. Well done. Next.",00:39:02
+npfnabl,324,background,"Perimeter, C, so if we're doing the perimeter on this one, it would be [unclear] That would be 22 centimetres. And the area is 28 because 7 times 4 is 28.",00:39:06
+npfnabl,325,tutor,"I like your confidence, Rowan. The last one.",00:39:35
+npfnabl,326,student,"Find the missing side length. Something equals 40. 8, 16, 32, 40. So the missing length is 5 centimeters.",00:39:39
+npfnabl,327,tutor,5 it is. And what would the perimeter of this one be?,00:39:55
+npfnabl,328,student,"Now that we know it's 5, so— [unclear]",00:40:01
+npfnabl,329,student,26.,00:40:07
+npfnabl,330,tutor,"26, yes, well done, Rowan. I really like your confidence on this one. We have just one more question left, and this is a really interesting one. How would you do this?",00:40:09
+npfnabl,331,student,The area of this shape is 168 centimeters squared. Find the missing length side of x. So 12 times 12 is 144.,00:40:19
+npfnabl,332,tutor,Yep.,00:40:34
+npfnabl,333,student,"144 times— wait, this one's 144 times 8? [unclear]",00:40:34
+npfnabl,334,tutor,"So yes, this part is 144, right?",00:40:56
+npfnabl,335,student,Yeah.,00:41:00
+npfnabl,336,tutor,"OK. How would you use that information to help you, Rowan?",00:41:02
+npfnabl,337,student,144 times 8 or add 8.,00:41:06
+npfnabl,338,tutor,Interesting. They're saying that the total area of the shape is 168 centimeters. So how is that connected to the 144?,00:41:13
+npfnabl,339,student,We're going to have to do 168 take away 144.,00:41:22
+npfnabl,340,tutor,"Okay, and what would that give you?",00:41:30
+npfnabl,341,student,[unclear] 24?,00:41:31
+npfnabl,342,tutor,"Yes, that is 24. So what part of this is 24? Because I think we already know that this is 144.",00:41:46
+npfnabl,343,student,"Yeah, so—",00:41:53
+npfnabl,344,student,If it's 24.,00:41:56
+npfnabl,345,tutor,"That means this part must be 24, right?",00:42:00
+npfnabl,346,student,Yeah.,00:42:03
+npfnabl,347,tutor,"Okay, could you put that there, Rowan? I like how you figured that on your own.",00:42:04
+npfnabl,348,student,24. So now we might need to do 24 subtract 8.,00:42:10
+npfnabl,349,background,[unclear],00:42:17
+npfnabl,350,tutor,"Interesting. What do you think? So 24 is the area of this tiny rectangle, right?",00:42:19
+npfnabl,351,student,Yeah.,00:42:24
+npfnabl,352,tutor,"Okay, so how do you find the missing side when you know one side and the area?",00:42:25
+npfnabl,353,student,Maybe 144 by 24.,00:42:32
+npfnabl,354,background,It depends on the—,00:42:36
+npfnabl,355,tutor,"I think it's 24 divided by 8, right?",00:42:37
+npfnabl,356,student,Yeah.,00:42:39
+npfnabl,357,tutor,Like 40 divided by 8 here to find the missing side?,00:42:40
+npfnabl,358,student,Yeah.,00:42:44
+npfnabl,359,tutor,"I think you could do the same, yeah?",00:42:45
+npfnabl,360,background,3x equals 3 centimeters.,00:42:47
+npfnabl,361,tutor,"Does that make sense? Like, would it work?",00:42:50
+npfnabl,362,student,Yeah.,00:42:52
+npfnabl,363,tutor,"It works, yeah.",00:42:54
+npfnabl,364,student,"So x equals 3— not— yeah, 3 centimeters.",00:42:55
+npfnabl,365,tutor,"Well done, Rowan. So we seem to be done with this lesson. Could you walk me through how this lesson was?",00:43:04
+npfnabl,366,student,"Yeah, it was like good and it was kind of easy.",00:43:12
+npfnabl,367,tutor,"Kind of easy, good job. Normally when it's easy, that means you're quite confident with it. You're like, you've done it before in school and whatnot. And why do you think this lesson is important? Like, where would you use this in real life?",00:43:16
+npfnabl,368,student,"You might use it if like you're, I don't know, a builder and you're like doing shapes and you need to find like the perimeter or the area of it.",00:43:28
+npfnabl,369,tutor,"Definitely, that's actually a really good example, Rowan. Builders, do you know, Do you know what's the job of— do you know the person who actually designs houses? Do you know what they're called?",00:43:38
+npfnabl,370,student,[unclear],00:43:51
+npfnabl,371,tutor,Have you heard of the term architect? [Speaker:Rowan]... [UNCLEAR],00:43:55
+npfnabl,372,tutor,"An architect is someone who draws, you know, houses and whatnot, yeah?",00:44:00
+npfnabl,373,student,Yeah.,00:44:05
+npfnabl,374,tutor,Buildings.,00:44:06
+npfnabl,375,student,Yeah.,00:44:08
+npfnabl,376,tutor,"Get the shape of it. Are you kind of interested in that? Like, is that something, a job you would like to pursue?",00:44:08
+npfnabl,377,student,"No, it's just because my dad does it.",00:44:14
+npfnabl,378,tutor,"Ah, really? Your dad? No, okay, so that's probably how you know all this, yeah?",00:44:17
+npfnabl,379,student,Yeah.,00:44:20
+npfnabl,380,tutor,"Brilliant, brilliant, Rowan. So actually, we are done with both lessons. We have 20 seconds left, and I'm pretty sure we can't get started with another lesson in that time.",00:44:21
+npfnabl,381,student,Yeah.,00:44:30
+npfnabl,382,tutor,"It was a real pleasure working with you, Rowan. Once I end the lesson, there'll be around 3 to 4 questions from the 2 lessons that we did, okay? You answer them because your teacher and myself would like to see how you performed in this, okay?",00:44:31
+npfnabl,383,student,Okay.,00:44:44
+npfnabl,384,tutor,"Goodbye, and I'll see you next week.",00:44:45
+npfnabl,385,student,Bye. [unclear],00:44:46

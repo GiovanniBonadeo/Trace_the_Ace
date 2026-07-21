@@ -1,0 +1,388 @@
+session_id,utterance_id,role,content,timestamp
+iklaiak,0,tutor,"Hi, can you hear me?",00:00:00
+iklaiak,1,student,Hello?,00:00:02
+iklaiak,2,tutor,Hello?,00:00:04
+iklaiak,3,student,Hello.,00:00:05
+iklaiak,4,tutor,"Hi, [STUDENT_NAME], can you hear me now?",00:00:06
+iklaiak,5,student,Yeah.,00:00:08
+iklaiak,6,tutor,"Okay, all right. So I didn't hear you earlier, that's why. So how are you, [STUDENT_NAME]?",00:00:09
+iklaiak,7,student,"Good, thank you. How are you?",00:00:15
+iklaiak,8,tutor,I'm doing great as well. Thanks for checking on me. So how is December?,00:00:17
+iklaiak,9,student,"Good, thank you.",00:00:23
+iklaiak,10,tutor,Are you excited for Christmas?,00:00:24
+iklaiak,11,student,"Yeah, I'm also excited because I'm going camping on Friday.",00:00:26
+iklaiak,12,tutor,"Oh, is it this Friday?",00:00:33
+iklaiak,13,student,Yeah.,00:00:34
+iklaiak,14,tutor,"Oh, that's amazing. So are you going with your friends?",00:00:35
+iklaiak,15,student,With Scouts.,00:00:41
+iklaiak,16,tutor,"Scouts, oh, okay, that's nice, that's interesting. So you're excited for it?",00:00:43
+iklaiak,17,student,Yeah. [unclear],00:00:48
+iklaiak,18,tutor,"Alright, that's amazing. So have you put up the tree and started decorating for Christmas?",00:00:50
+iklaiak,19,student,"Not yet, but like, but soon.",00:00:56
+iklaiak,20,tutor,"Soon, okay, that's nice. Alright, so that's really nice talking to you about that. And shall we move on to the lesson today?",00:00:59
+iklaiak,21,student,Okay.,00:01:07
+iklaiak,22,tutor,"Okay, great. So today we're going to start with a new lesson. So that's comparing and ordering fractions. Okay?",00:01:08
+iklaiak,23,student,Okay. [unclear],00:01:15
+iklaiak,24,tutor,So can you just try on the first question here?,00:01:15
+iklaiak,25,student,Okay. Write the fractions in order from smallest to largest. Okay. [unclear],00:01:22
+iklaiak,26,student,So when it comes to [unclear] like [unclear],00:01:45
+iklaiak,27,tutor,"Okay, that's a really nice try. So could you tell me how did you get to the answer?",00:01:49
+iklaiak,28,student,"Okay, so I looked at the denominators and I saw that 2 was smaller than 5 and 10, so I put 1/2 and then 3/10 and 2/10.",00:01:55
+iklaiak,29,tutor,"Okay, okay, alright. I see the reasoning there. Okay, thank you so much for explaining that out. So you're almost there. So let's learn how to do that in our upcoming slides, okay? But before that, could you give it a try on this one as well?",00:02:13
+iklaiak,30,student,"Okay, find a common multiple of 4, 5, and 10.",00:02:27
+iklaiak,31,tutor,"Yeah, common multiple, right?",00:02:31
+iklaiak,32,student,"Yeah. So... [unclear] It's a common multiple, like, um, uh, oh wait.",00:02:33
+iklaiak,33,tutor,"What is a multiple, [STUDENT_NAME]? What do you understand by a multiple of 4? What would you say?",00:02:47
+iklaiak,34,student,"Would it be like 4, 8, 12?",00:02:53
+iklaiak,35,tutor,There you go.,00:02:55
+iklaiak,36,student,"Okay. Okay, so 4... [unclear]",00:02:57
+iklaiak,37,student,Would it be 20?,00:03:06
+iklaiak,38,tutor,"Alright, okay, how did you get to that answer?",00:03:08
+iklaiak,39,student,"So, I didn't really even use the 4, but I counted 5, 10, 10, 20, sorry, and then 5, 10, 15, 20, and then I did it quite slowly with 4 and it got me to 20.",00:03:11
+iklaiak,40,tutor,"There you go. Yes, that was a really fantastic effort from you, and that's a great explanation as well. Keep up that amazing work. Okay, and let's look at it, how we could do this in an easier way. Okay, so I'm going to take you to this slide. So could you give it a try on reading all this?",00:03:30
+iklaiak,41,student,"Okay. When comparing or ordering a set of fractions, it is easy to compare them if the denominators are the same.",00:03:48
+iklaiak,42,student,"Let's compare 1/5 and 4/15. 15 is a multiple of 5, so we can use 15 as the common denominator.",00:03:58
+iklaiak,43,tutor,"Okay, so far what did you understand? Like maybe the green highlighted box from that, what did you understand?",00:04:08
+iklaiak,44,student,Yeah.,00:04:20
+iklaiak,45,tutor,What did you understand from that? [unclear],00:04:21
+iklaiak,46,student,"So I understood that when comparing or ordering a set of fractions, it's like when you compare two— it's like with these two, you go, how many 5s go into 15? And that will be 3. So you have to do the same to the 1. So that will be 3/15.",00:04:25
+iklaiak,47,tutor,"Uh-huh, there you go. Okay, now why are we converting it to a denominator of 15? Why are we converting 1/5 to denominator of 15?",00:04:49
+iklaiak,48,student,"Um, because, um, um, I think because the denominators always have to be the same.",00:04:59
+iklaiak,49,background,[unclear],00:04:59
+iklaiak,50,tutor,Why? Why does it have to be the same?,00:05:12
+iklaiak,51,tutor,Could you read the green part once again a bit louder so that maybe let's see if we are getting something from that.,00:05:18
+iklaiak,52,student,"When comparing or ordering a set of fractions, it's easier to compare when if the denominators are the same.",00:05:25
+iklaiak,53,tutor,"Mm-hmm. Does it ring a bell any— why do we have to have a denominator, a common denominator?",00:05:32
+iklaiak,54,student,[unclear],00:05:43
+iklaiak,55,tutor,Because it's easier to compare them.,00:05:43
+iklaiak,56,student,"Exactly right. Now for an example, when I say I shared something with one of my friends and I got half of something, and then I'm saying in another instance I got, let's say, 2/5 of something. Now how would you know which is a greater portion, 1/2 or 2/5? How can you figure it out when I say it that way? Or what do you think if I say I got 2/5 of chocolate and my friend got 3/5 of the chocolate? Now, which is easy for you to compare? [unclear]",00:05:46
+iklaiak,57,tutor,Is it with the same denominator or with a different denominator?,00:06:24
+iklaiak,58,student,Is it with the same denominator?,00:06:28
+iklaiak,59,tutor,"Yeah. So now, like I told you, let's say I got 1/2. [unclear] And my friend got 2/5. Okay, that's one scenario. And the other scenario, I got 2/5 and my friend got 3/5. Now, out of these 4 fractions, like, let's take the first 2 as one set and the second— the last 2 as another set. Now, out of these, which is more easy for you to compare? And tell me which has the greater portion.",00:06:30
+iklaiak,60,student,This one.,00:07:02
+iklaiak,61,tutor,There you go. So how do you know that it's easy? These Why do you think 3/5 is greater than 2/5?,00:07:03
+iklaiak,62,student,"Because the denominators are the same, so 3/5 would be bigger than 2/5.",00:07:08
+iklaiak,63,tutor,"Exactly. Now when you are just giving a glance of this particular fraction here, do you think it's easier for you to figure out which is the greater fraction?",00:07:14
+iklaiak,64,student,Would it be 1/3?,00:07:28
+iklaiak,65,tutor,Okay. Do you think that's the greatest fraction?,00:07:30
+iklaiak,66,student,"Uh, yeah.",00:07:35
+iklaiak,67,tutor,"Mm-hmm. Okay, are you sure or do you think you're taking a guess?",00:07:37
+iklaiak,68,student,"Uh, probably taking a guess.",00:07:41
+iklaiak,69,tutor,"A guess, right? Now, now do you see, um, like comparing with same denominator and comparing with different denominators, that itself tells you that having a common denominator is easier to compare, right? So that's the reason when you have different denominators like this, we are making it to a common denominator. Are you clear? Yeah, it's just like... [unclear] It's just because I think it's quite hard just to like do like this bit. I'm like... because I think... yeah.",00:07:43
+iklaiak,70,tutor,So do you think this is harder for you to do?,00:08:21
+iklaiak,71,student,"Like this, like try and find the denominators.",00:08:25
+iklaiak,72,background,"Exactly. So now do you remember in the first question that you found a common multiple? For all these 3 numbers, right? So same way, whatever the denominators you have, you had to find the least common multiple and then try to find what would be the numerator. Isn't that easy?",00:08:29
+iklaiak,73,student,"Yeah, so say 5— how many 5s? So this would be 3.",00:08:49
+iklaiak,74,tutor,Mm-hmm.,00:08:54
+iklaiak,75,student,And then this would be 3. So it would be 3/15. [unclear],00:08:55
+iklaiak,76,student,Okay.,00:09:04
+iklaiak,77,background,"And then 1/15 is the same as— 1/15, 1/5 is the same. Is it 3/15?",00:09:11
+iklaiak,78,tutor,"Yeah, so this is what it says equal, right?",00:09:24
+iklaiak,79,tutor,So that is same as?,00:09:28
+iklaiak,80,student,3/5.,00:09:29
+iklaiak,81,tutor,"Okay, now shall we try to compare? Yeah, so you can write the fraction that you got here.",00:09:31
+iklaiak,82,student,"Okay. And, um...",00:09:38
+iklaiak,83,tutor,"Which is bigger now? [unclear] There you go. It's the same question once again, but with the original fraction. Do you see? 1/4 and 4/5.",00:09:45
+iklaiak,84,student,Oh yeah.,00:09:57
+iklaiak,85,tutor,Now what do you think the answer is?,00:09:58
+iklaiak,86,student,I keep struggling on this question.,00:09:59
+iklaiak,87,tutor,"OK, this is the same thing. 1/5 is equal to 3/15.",00:10:08
+iklaiak,88,student,"Oh, so that will actually be 3/15. [unclear]",00:10:15
+iklaiak,89,tutor,"Yeah, yeah.",00:10:17
+iklaiak,90,student,3/15. So it would be that.,00:10:20
+iklaiak,91,tutor,"Exactly, it's gonna be the same thing, right? Do you see that? Now this is the reason that we have to find a common denominator, right? So I think you did a fantastic effort on this question, so there's a sticker for that. Right, now if I'm going to take you to this [UNCLEAR], I'm gonna show you how we can work out this question. So I want you to carefully listen to this so that it will make it more easy for you to understand. Okay?",00:10:25
+iklaiak,92,student,Okay.,00:10:57
+iklaiak,93,tutor,"Okay, first and foremost thing when you get fractions like this, I won't say don't get nervous or don't think that it's going to be a hard question. Okay? Take your time. Let's gonna do step by step. So we have 3 fractions with different denominators. So what is my first step? I need to find a common denominator. Okay?",00:10:58
+iklaiak,94,student,Yeah.,00:11:20
+iklaiak,95,tutor,"That's the first step. So remember that. So I have 1/3, 4/15, 2/5. So now, when I look at 3, 15, and 5, I know that 3 has 3, 6, 9, 12, 15, and there's 15 here, and then 5, 10, 15. And I see that 15 is common in all these 3 multiples.",00:11:21
+iklaiak,96,student,Yeah.,00:11:43
+iklaiak,97,tutor,"So I'm gonna write— so I'm gonna write here, 15 is a multiple of 3 and 5. Okay, is that [unclear] so far?",00:11:43
+iklaiak,98,student,"Uh, yeah.",00:11:52
+iklaiak,99,tutor,"Right. So let's move to the second one. So now what I'm going to do, my second step, is write the fractions so that they have the same denominator. Now I'm going to make this 1/3 to a fraction that equals to 15. [unclear] Equals to a denominator of 15, right?",00:11:53
+iklaiak,100,student,Yeah.,00:12:10
+iklaiak,101,tutor,So let me do the denominator first because I know the common denominator.,00:12:10
+iklaiak,102,student,"So would it be 3/15? Okay, I think you're almost there. So how do I make 3 into 15? Oh, sorry, 3 to 15. [unclear] Times it by 5. There you go. So whatever you do to the bottom number, you do it to the top number. So that's also times by 5.",00:12:14
+iklaiak,103,student,That'll be 5.,00:12:38
+iklaiak,104,tutor,"5. Amazing. Yeah, thanks for helping me. Okay, and the second part. So now 5 times 15. So what do I do?",00:12:39
+iklaiak,105,student,[unclear],00:12:52
+iklaiak,106,tutor,So would it be 6 here?,00:12:53
+iklaiak,107,student,"Yes, 2 times— oh, thank you for that. Yes, now I see this 1/3 equals to 5/15 and this 2/5 equals to 6/15. Okay, now see, this is 5 and this is 4 and this is 6. I obviously know now 4 is the smallest and 5 is the second smallest and 6 is the largest, right?",00:12:56
+iklaiak,108,student,Yeah.,00:13:18
+iklaiak,109,tutor,"But when I write the fractions in order, I need to make sure that I write the original fraction, not the fraction that I converted. Okay? So I'm going to go with the smallest because it says smallest, not just— [unclear]",00:13:18
+iklaiak,110,student,and 1/3.,00:13:18
+iklaiak,111,tutor,"Yes, and 15. And the second one is 1/3. Because that's 5/15, so that's 1/3. And the last one, the largest one would be 2/5. Oh, remember I said we can't write the fraction that we created.",00:13:35
+iklaiak,112,student,Yeah.,00:13:54
+iklaiak,113,tutor,"Okay, so you had to go with the original fraction. That is 2, there you go, yes, thank you. Yes, go on.",00:13:55
+iklaiak,114,student,"Okay, [UNCLEAR]. Yay! There you go. Are you clear with this so far?",00:14:01
+iklaiak,115,student,"Um, a bit, but I think, um, for—",00:14:09
+iklaiak,116,tutor,"Let me tell you the 3 steps, okay? Remember that. First, common denominator. Second, you find the fractions with the same denominator. And third, you have to arrange with the original fraction.",00:14:11
+iklaiak,117,student,Okay.,00:14:24
+iklaiak,118,tutor,Let's give it a try on this now.,00:14:26
+iklaiak,119,background,[unclear] the order of fractions below from smallest to largest. Find the common denominator.,00:14:27
+iklaiak,120,student,"So 12... 4, 8, 12... 3, 6, 9, 12... So I think it's 12.",00:14:33
+iklaiak,121,tutor,"Mm-hmm, that's a great start.",00:14:39
+iklaiak,122,student,"And then 2/3 equals 12, I know 12, so... And then 3, 6, 9, 12... that's 4, so that will be 8.",00:14:45
+iklaiak,123,student,"And then 12. And then how many? 4, 8, 12. So that will be 9.",00:14:59
+iklaiak,124,tutor,Mm-hmm.,00:15:10
+iklaiak,125,student,"And then, so it will be 7/12 would be the smallest.",00:15:11
+iklaiak,126,tutor,Mm-hmm.,00:15:16
+iklaiak,127,student,And then it would—,00:15:24
+iklaiak,128,student,And then 7/12 and 3/4.,00:15:27
+iklaiak,129,tutor,Shall we look at that once again? [unclear] [unclear],00:15:40
+iklaiak,130,tutor,9/4 is equal to 9/12. Is that the second smallest?,00:15:53
+iklaiak,131,student,"Isn't it 7/12, 3/4, and then 8/12— 2/3, sorry.",00:15:59
+iklaiak,132,tutor,"Okay, what is 2/3 equals to?",00:16:06
+iklaiak,133,student,2/3 equals 8/12.,00:16:09
+iklaiak,134,tutor,"Yeah, so let's look at these 3 fractions, right? So these are the 3 fractions. And tell me now which is the smallest fraction out of these",00:16:12
+iklaiak,135,student,7/12.,00:16:23
+iklaiak,136,tutor,What is the next smallest?,00:16:23
+iklaiak,137,student,"2/3. Oh yeah, 2/3. [unclear]",00:16:28
+iklaiak,138,student,And then it would be 3/4.,00:16:35
+iklaiak,139,tutor,"And there you go, yes. So what was challenging here?",00:16:45
+iklaiak,140,student,Probably just finding like the [UNCLEAR].,00:16:49
+iklaiak,141,tutor,"Yes, so from this, what do you think you should always remember when you do a question like this?",00:16:57
+iklaiak,142,student,The denominators have to be the same.,00:17:03
+iklaiak,143,tutor,"Yeah, I mean, when you're ordering, now let's say now you have converted everything, right? So you've converted and found out what are the fractions now. So now you know what is the smallest and the biggest, but there's a small challenge when you write it in the correct order with the original fractions, right? Then what do you think you need to do to make it always correct?",00:17:07
+iklaiak,144,student,So you have to like work from the smallest to the greatest and look very carefully.,00:17:27
+iklaiak,145,tutor,"Exactly. We need to look very carefully and also double-check your answers always, okay?",00:17:34
+iklaiak,146,student,Yeah.,00:17:40
+iklaiak,147,tutor,"So that will definitely help you because you did fantastic work on the first one and the second one and on the third one as well. But I think we might get confused in the third one. So that's why I want you to look a little carefully, okay? Okay, that's amazing. No worries, welcome. And I'm just gonna quickly take you back to this. Do you think you could try this again?",00:17:41
+iklaiak,148,student,"Okay. So I'll just erase it. Okay, it's [UNCLEAR]. 2 tens. Wait, can I write it like out?",00:18:05
+iklaiak,149,tutor,"Yeah, yeah.",00:18:18
+iklaiak,150,student,Thank you.,00:18:22
+iklaiak,151,tutor,"Maybe you can use this. Oh wait, there you go. Yeah, you can use that space.",00:18:24
+iklaiak,152,student,2 tens is equal— [unclear],00:18:29
+iklaiak,153,background,"What was the first step, [STUDENT_NAME]?",00:18:32
+iklaiak,154,student,Pardon?,00:18:37
+iklaiak,155,background,What was the first step?...to... [unclear],00:18:38
+iklaiak,156,tutor,Do you want to go back?,00:18:54
+iklaiak,157,student,"Yes, please.",00:18:55
+iklaiak,158,tutor,Okay. What was the first step?,00:18:56
+iklaiak,159,student,"Find the common denominator. Oh yeah, find the common denominator.",00:18:58
+iklaiak,160,tutor,Yes. What's the common denominator?,00:19:01
+iklaiak,161,student,So it would be 10.,00:19:05
+iklaiak,162,tutor,"There you go, yes.",00:19:07
+iklaiak,163,student,"So it would be 10, okay. 10, so, and then we do, and then [unclear] 210.",00:19:09
+iklaiak,164,tutor,"A tutor is already there. Yeah, okay, no problem. And then proof. [unclear] Oh, is it? Oh.",00:19:32
+iklaiak,165,tutor,"No worries, we'll take our time, no worries. Okay, the first one is already in the denominator. What you should do for the second one and the third one.",00:20:02
+iklaiak,166,student,"Okay, so that would be how many 5s go into 10, which is— so would that be 6 times?",00:20:12
+iklaiak,167,tutor,"Yeah, you're doing really amazing.",00:20:26
+iklaiak,168,student,"I'll put this there for now. And then I can— this is 10. And then how many? 2, 4, 6, 8, 10. That would be 5. So that would be 5/10.",00:20:27
+iklaiak,169,tutor,"Mm-hmm, yeah.",00:20:46
+iklaiak,170,student,And then— [unclear],00:20:48
+iklaiak,171,student,[unclear] So it'll be like 2 tenths. So I'm just gonna write. So this would be 6 tenths. So it would be 1/2.,00:20:49
+iklaiak,172,tutor,"Okay, what is 1/2 equals to, [STUDENT_NAME]?",00:21:07
+iklaiak,173,student,"Oh, 2/5 tenths.",00:21:13
+iklaiak,174,tutor,"Yeah, so shall we keep the fractions next to— yeah, exactly, yes. Next to the original fraction, then you will not get confused.",00:21:15
+iklaiak,175,student,"Okay, amazing. [unclear] The smallest to largest. Okay, so it's 2/10.",00:21:23
+iklaiak,176,tutor,Mm-hmm.,00:21:30
+iklaiak,177,student,"3/5— oh wait. No, 1/2.",00:21:36
+iklaiak,178,tutor,Mm-hmm.,00:21:39
+iklaiak,179,student,And then 3/5.,00:21:43
+iklaiak,180,tutor,"Okay, yay! That was an amazing new learning from you, and I'm super happy that you didn't forget this time about the original fraction, and you did fantastic work there. Okay, keep up that work. So are you feeling confident now?",00:21:46
+iklaiak,181,student,"Uh, yeah.",00:22:00
+iklaiak,182,tutor,"Yeah? Okay, right. We'll try to practice a few more questions in the [UNCLEAR], so you can work out these two questions.",00:22:01
+iklaiak,183,student,"Okay, find the missing",00:22:10
+iklaiak,184,background,"less than, equal to, greater than, less than, or equal to. Write each pair with a common denominator.",00:22:12
+iklaiak,185,tutor,Okay. [unclear],00:22:19
+iklaiak,186,tutor,"Oh, right. [unclear]",00:22:42
+iklaiak,187,student,"And then, wait, how have I got 6 tenths again? Wait. Oh wait, I'll just write [UNCLEAR].",00:22:56
+iklaiak,188,tutor,"Okay, what are the symbols that you are supposed to use?",00:23:12
+iklaiak,189,student,"Yeah, okay, so",00:23:15
+iklaiak,190,tutor,OK. Why do you think that 6/10 is bigger?,00:23:32
+iklaiak,191,student,"Well, I think it's quite hard, like doing it this way, but without like doing it, because I don't really get how you do it, like 6/10 and 3/5.",00:23:36
+iklaiak,192,tutor,OK. What was the answer when you converted 3/5 to a common denominator of 10?,00:23:47
+iklaiak,193,student,6/10 again.,00:23:53
+iklaiak,194,tutor,Yeah. So what does that—,00:23:56
+iklaiak,195,student,"Oh, so it's equal to.",00:23:57
+iklaiak,196,tutor,There you go. Yes.,00:23:58
+iklaiak,197,tutor,"See, you got the answer, but I think you just got confused, right? That's all right. [unclear]",00:24:02
+iklaiak,198,student,"I think that's next to the backspace. Oh, there you go. Yeah, you got it.",00:24:12
+iklaiak,199,tutor,"There you go. Yes. Be confident, right? You're doing it. What you did is right. So yeah, great work. Let's work on the next one.",00:24:19
+iklaiak,200,student,"B, 2/3 something is 7/9. Okay, so the denominator will be 9.",00:24:26
+iklaiak,201,tutor,Mm-hmm.,00:24:36
+iklaiak,202,student,"And then 3/6, and you divide 3 to get into 9, so would you say that would be 6/9?",00:24:40
+iklaiak,203,student,"So, um, 7/9 is bigger.",00:24:54
+iklaiak,204,tutor,"Yay! Yes, I see that you're being very confident now, right? Fantastic. And, uh, one more thing that I really appreciate, that, you know, uh, I mean, I think you're really amazing in doing finding the common denominator faster. That's amazing. Great, let's work on this.",00:24:58
+iklaiak,205,student,"Okay, so write each set of fractions with a common denominator, then put them in order from smallest to largest. Okay.",00:25:19
+iklaiak,206,tutor,"Yeah. Which one are you going to start with, the first one or the second one?",00:25:31
+iklaiak,207,student,Probably the first one.,00:25:37
+iklaiak,208,tutor,"Okay, right.",00:25:39
+iklaiak,209,student,Can you help me a little bit on this one then?,00:25:41
+iklaiak,210,tutor,"Okay. I mean, this is just simple as what you did earlier, but this time we have [UNCLEAR]. Fractions. Now what do you want to ask me?",00:25:43
+iklaiak,211,student,"Okay, so we see which one's the common denominator.",00:25:52
+iklaiak,212,tutor,There you go.,00:25:57
+iklaiak,213,student,"Yeah, so 5, 10, 15, 20, 20, 4, 8, 12, 15, 16, 17, 18, 19, 20. So would 20 be the common denominator?",00:25:58
+iklaiak,214,tutor,"There you go, yes.",00:26:10
+iklaiak,215,student,20. So,00:26:12
+iklaiak,216,student,"We'll put 20. Oh yeah, so 20. [unclear]",00:26:15
+iklaiak,217,tutor,I'll draw it for you.,00:26:25
+iklaiak,218,student,"Thank you. 5, 10, 15, 20. That'll be 4, so that'll be 8/20th.",00:26:29
+iklaiak,219,student,"Um, no, that— how many tens go to 20? Twice, so that'll be 6. And, uh, 20— 4, 8, 12, 13, 14— oh wait, 4, 8, 12, 15, 16, 17, 18— [unclear]",00:26:44
+iklaiak,220,student,"18, 24, 8, 12, 16, and 20.",00:27:11
+iklaiak,221,tutor,"So that would be 5, so would it be 5/20? And then, so, and then that would just be 4/20. That would just be 4/20. So... [unclear]",00:27:21
+iklaiak,222,tutor,Yeah.,00:27:36
+iklaiak,223,student,So 4/20 would be the smallest.,00:27:42
+iklaiak,224,tutor,Mm-hmm.,00:27:47
+iklaiak,225,student,"And then it would be 5/20. And then 6— oh no, it will be 1/4, sorry.",00:27:51
+iklaiak,226,tutor,"Yeah. Oh, that's nice that you identified that on your own. That's great. Let me cross that out as well.",00:28:07
+iklaiak,227,student,Uh-huh. And then it would be 3/10.,00:28:15
+iklaiak,228,tutor,Okay.,00:28:18
+iklaiak,229,student,And then it would be 2/5.,00:28:23
+iklaiak,230,tutor,"There you go. See, was that hard? Was that hard for you?",00:28:28
+iklaiak,231,student,No.,00:28:34
+iklaiak,232,tutor,"No, see, you can do it to yourself, right? So I see that you're doing it, you've started doing independently. That's amazing, right? So how about the last one? Can you give it a try?",00:28:35
+iklaiak,233,student,"Okay. [unclear] 6, 9, 12. I think the denominator is 18. So, 6, 12... Yeah, it's 18. So, I'll do the line. [unclear]",00:28:47
+iklaiak,234,tutor,"Oh yeah, I'll do the line for you.",00:29:06
+iklaiak,235,student,"Oh, thank you. Great. 18, so I'm just going to do the 18s first.",00:29:09
+iklaiak,236,tutor,"Yeah, that's better, yes.",00:29:21
+iklaiak,237,student,"And then 9 into 18. That would be 2, so that would be 4 18s. How many 3s go into 18? 6, so that would be 6.",00:29:24
+iklaiak,238,student,And how many eighths? So that would be 3.,00:29:47
+iklaiak,239,tutor,Mm-hmm.,00:29:50
+iklaiak,240,student,"And of course, like, 4. So it would be 1/6.",00:29:53
+iklaiak,241,tutor,Mm-hmm.,00:30:01
+iklaiak,242,student,"Uh, just— thank you. 1/6, um—",00:30:05
+iklaiak,243,student,"3/18th. [unclear] Oh wait, no, it wouldn't be that one.",00:30:31
+iklaiak,244,student,"So, 3 6s. I'll put this down here. Then it would be 4 8s— 2 9s.",00:30:43
+iklaiak,245,student,"5/18. [unclear] And then 6— oh wait, 1/3.",00:30:43
+iklaiak,246,tutor,"Yes, and you know what? You did this all by yourself. Aren't you proud?",00:31:18
+iklaiak,247,student,I got the main part.,00:31:25
+iklaiak,248,tutor,Yes.,00:31:27
+iklaiak,249,student,Thank you.,00:31:28
+iklaiak,250,tutor,"Yes, awesome effort. Amazing work, right? And, um, how are you feeling about this, uh, chapter now?",00:31:29
+iklaiak,251,student,Good.,00:31:38
+iklaiak,252,tutor,"Good. Yes, and I'm so proud that you are being very confident and you're doing it on your own. Um, yeah, keeps coming up. Look, if I, if I catch something, [unclear] just comes up. Uh, never mind.",00:31:39
+iklaiak,253,tutor,"Okay, alright. That's alright, maybe—",00:31:57
+iklaiak,254,student,"Oh, it does! [unclear] If I go yes, it will come up with 'and this.'",00:31:59
+iklaiak,255,tutor,"Oh, I think it's just your keyboard, isn't it?",00:32:07
+iklaiak,256,student,"Then it says no. Yeah, S, sir.",00:32:12
+iklaiak,257,tutor,"Alright, yes, so shall we move on to the last question of this lesson?",00:32:15
+iklaiak,258,student,Yeah.,00:32:21
+iklaiak,259,tutor,"Yeah, it's going to be a word problem. Okay, let's see how you're going to work this out.",00:32:22
+iklaiak,260,student,"Okay, so [unclear] has a jug containing 7/10 of a litre of a bottle. Cedar has a jug containing 3/5 of a water bottle. Choose the jug containing the most water. Okay, so how many 5s, 10s? So it'll be 2, um, okay, so 10 10. Okay, 10. [unclear] Wait, 7 tens. Ah, something's happening.",00:32:28
+iklaiak,261,tutor,Do you want me to take that off the pen?,00:33:06
+iklaiak,262,student,"Yes, please.",00:33:08
+iklaiak,263,tutor,Okay.,00:33:09
+iklaiak,264,student,7/10 and 3/5. [unclear],00:33:15
+iklaiak,265,tutor,Okay.,00:33:31
+iklaiak,266,student,And the thing is comparing them is to— [unclear],00:33:31
+iklaiak,267,student,"So it would be 10 and then 6, so it would be 6/10 and 7/10.",00:33:46
+iklaiak,268,tutor,And who should contain the most water?,00:34:03
+iklaiak,269,student,"Sorry, that's very messy.",00:34:09
+iklaiak,270,tutor,"That's okay, that's okay. What do you think the answer is?",00:34:11
+iklaiak,271,student,6... 10. [unclear],00:34:16
+iklaiak,272,tutor,"Okay, a sixth-tenth is for 3 fifths. And then... how do you do the other one, like 7/10?",00:34:30
+iklaiak,273,tutor,What is the question?,00:34:42
+iklaiak,274,student,Hokey has a jug containing 7/10 of a litre bottle. [unclear] has a jug containing 3/5 of a litre bottle. Whose jug contains the most water?,00:34:44
+iklaiak,275,tutor,What do you think now?,00:34:56
+iklaiak,276,student,I think [unclear],00:34:58
+iklaiak,277,student,Is it Cedar?,00:35:04
+iklaiak,278,tutor,Mm-hmm. What is the fraction that Cedar has?,00:35:06
+iklaiak,279,student,3/5 of a liter bottle.,00:35:12
+iklaiak,280,tutor,Which is equal to?,00:35:15
+iklaiak,281,student,3/6 tenths.,00:35:18
+iklaiak,282,tutor,Mm-hmm. And Hokey?,00:35:19
+iklaiak,283,student,7/10 of a liter bottle.,00:35:23
+iklaiak,284,student,[unclear],00:35:26
+iklaiak,285,tutor,"Oh yes, so also hokey has.",00:35:26
+iklaiak,286,student,Okay. Are you clear or are you confused with the question?,00:35:30
+iklaiak,287,background,"I think because 7/10 is bigger than 6/10, so it's hokey.",00:35:35
+iklaiak,288,tutor,"There you go, exactly. Was it challenging or was it —easier.",00:35:45
+iklaiak,289,student,It keeps coming up with different things.,00:35:53
+iklaiak,290,tutor,"Oh, I think it must be your keyboard. That's all right. Maybe let's try to use the draw tool to write it, if you—",00:35:56
+iklaiak,291,student,"Wait, I'm just gonna try and use something else. Give me a sec.",00:36:02
+iklaiak,292,tutor,Okay.,00:36:08
+iklaiak,293,student,It might just be this that I'm using. [unclear],00:36:11
+iklaiak,294,student,Oh.,00:36:19
+iklaiak,295,background,Oh. [unclear],00:36:20
+iklaiak,296,student,"Yeah, it's my keyboard. I'll use the draw tool.",00:36:21
+iklaiak,297,background,You can just use the draw tool and just write it. That's fine.,00:36:31
+iklaiak,298,student,"Oh, it's very messy.",00:36:38
+iklaiak,299,background,"Okay, that's all right. But you said the answer. No worries. If you want, I can help you with that. [unclear]",00:36:41
+iklaiak,300,tutor,"Okay, are you okay with this?",00:36:49
+iklaiak,301,student,"Yeah. Oh, I spelt it wrong anyway.",00:36:50
+iklaiak,302,tutor,"That's all right. Yes, and I'm so glad, and I really want to appreciate for you never giving up, kept trying, and then you finally, you did it, right? You aced this lesson. Amazing.",00:36:54
+iklaiak,303,student,Okay.,00:37:06
+iklaiak,304,tutor,"So, and now we're going to move on to next lesson, but I want you to reflect and tell me how is How was the lesson for you earlier and how are you finding it now and what are the important things that you learned?",00:37:07
+iklaiak,305,student,So earlier I felt like I couldn't do it and now I can do it like fluently.,00:37:19
+iklaiak,306,tutor,"Mm-hmm. And do you remember earlier you looked at the denominator alone to find which is the smallest and the largest fraction? Was that— I mean, do you think can we do that way?",00:37:28
+iklaiak,307,student,"Sorry, can you repeat that please?",00:37:38
+iklaiak,308,tutor,Do you remember earlier when I asked you to work out this question? You wrote 1/2 here and 3/5 here and 2/10 here.,00:37:42
+iklaiak,309,student,Yeah.,00:37:50
+iklaiak,310,tutor,"Because you're looking at the denominator, so you thought the 2 [UNCLEAR]. So do you think is that the way this works?",00:37:50
+iklaiak,311,student,No.,00:37:58
+iklaiak,312,tutor,"No, so I think you have understood that clearly. So what are the 3 important steps?",00:37:59
+iklaiak,313,student,"So what you do, you find the number that they all— I don't know what it's called— the number that they all—",00:38:05
+iklaiak,314,tutor,Common.,00:38:12
+iklaiak,315,student,"The common denominator. And then you like, I think, compare them.",00:38:13
+iklaiak,316,tutor,[unclear],00:38:24
+iklaiak,317,student,Compare them.,00:38:24
+iklaiak,318,tutor,"Yeah, but before comparing, what do you have to do? What did you do here? [unclear]",00:38:27
+iklaiak,319,tutor,You found the equivalent fraction.,00:38:40
+iklaiak,320,student,Yeah.,00:38:41
+iklaiak,321,tutor,"Right, you converted it.",00:38:42
+iklaiak,322,student,And then we compared them.,00:38:43
+iklaiak,323,tutor,"Yes. And when you write your final answer, can we write the fraction that we converted or the equivalent fraction that we did?",00:38:45
+iklaiak,324,student,"No, you write this—",00:38:54
+iklaiak,325,student,"This, like not that one, this one.",00:38:57
+iklaiak,326,tutor,"Original numbers, exactly. Great job at pointing at the right one. Yes, amazing. Are you clear with this then?",00:39:00
+iklaiak,327,student,Yeah.,00:39:07
+iklaiak,328,tutor,"Yes, so then we'll move on to our next lesson. I see the thanks, thank you. All right, welcome. Now we'll move on to our next lesson and see what we're gonna do. Okay, this is also something to do with fractions. So we're gonna add and subtract fractions with different denominators.",00:39:07
+iklaiak,329,tutor,"Okay, so let's give it a try on the learning goal question first.",00:39:25
+iklaiak,330,student,Complete the,00:39:29
+iklaiak,331,background,2/5 and 3/10. So I'm just going to think what I think it is.,00:39:33
+iklaiak,332,tutor,Okay. [unclear],00:39:43
+iklaiak,333,tutor,"Mm-hmm. Okay, that's a nice try. So what did you do to get to the answer?",00:39:50
+iklaiak,334,student,"I just had— I just added 5 10 15, and then 3 2 5. 5. Okay, there you",00:39:58
+iklaiak,335,tutor,"go. So that's a nice attempt, right? But I think we can actually learn this one as well. Like in terms of the denominators. Okay, but before that, can you give it a try on this question?",00:40:10
+iklaiak,336,student,"Um, okay, so 3/4 equals something 12. [unclear] 9/12.",00:40:24
+iklaiak,337,tutor,"Mm-hmm, okay, there you go. Yes, so that's wonderful work, right? Now actually, when you add fractions, we do not add the denominators together like this. Okay, but don't worry, we'll learn how we could do that in the next slide. Okay, okay, I'll help you and explain why we don't do that as well. Okay, shall we read this part?",00:40:38
+iklaiak,338,student,"Okay, when adding or subtracting fractions, the denominators need to be the same. [unclear]",00:41:02
+iklaiak,339,tutor,"Okay, what does it say? 1/4 1/2 3/4. We want both fractions to have the denominator of 4. So 1/4 1/2. Wait, come on. [unclear]",00:41:08
+iklaiak,340,tutor,1/4. And then we,00:41:24
+iklaiak,341,student,put 1/4 something. Then 2 times— 1 times 2 and 2 times 4.,00:41:27
+iklaiak,342,tutor,Did you understand anything so far from what you read?,00:41:38
+iklaiak,343,student,I didn't really get like this bit.,00:41:41
+iklaiak,344,tutor,"Okay, no worries. Now it's the same thing like we did earlier in the earlier lesson. Okay, now you— I mean, there's this rule that we cannot add fractions or add denominators together if they are not the same. Now for an example, let's say 1/4 and 1/2. Can you add the way that you added earlier and tell me what would be your answer then?",00:41:47
+iklaiak,345,student,[unclear] Would it be 3/4?,00:42:11
+iklaiak,346,tutor,"Yeah, 3/4 is the answer that they have written, right? Now let's say the way that you did earlier was 1/4 and 1/2. Can you add then tell me what would be your answer for this?",00:42:18
+iklaiak,347,student,"Like how you added earlier. You added the numerators and the denominators, right? So what would be the answer?",00:42:32
+iklaiak,348,tutor,It will be 2/6.,00:42:38
+iklaiak,349,student,"Yes, so that would be 2/6, right? Now I'll just show it to you how it would be. Now can you look at one quarter here? Do you agree that this is one quarter?",00:42:42
+iklaiak,350,background,"Uh, yeah, one fourth.",00:42:52
+iklaiak,351,student,"One fourth, yeah. And this is one half. Do you agree with that?",00:42:55
+iklaiak,352,student,Yeah.,00:42:58
+iklaiak,353,tutor,"Yes, so when you look at the diagrams, they are connecting, they're adding the shaded parts, right? Then you get this part. Do you agree with this?",00:42:59
+iklaiak,354,student,"Um, yeah.",00:43:10
+iklaiak,355,tutor,"Yeah, I mean, I'm just asking only about the shapes. Now forget about the numbers. Now this purple part and this is the blue part. Together you have both the parts here.",00:43:13
+iklaiak,356,student,Yeah.,00:43:23
+iklaiak,357,tutor,Are you [unclear] with that?,00:43:24
+iklaiak,358,tutor,Right.,00:43:25
+iklaiak,359,student,Yeah.,00:43:25
+iklaiak,360,tutor,"And now when you see it, you have 3/4 colored out of the whole.",00:43:25
+iklaiak,361,student,Yeah.,00:43:32
+iklaiak,362,tutor,"So that's how you get it. Now when you add fractions, we have to maintain a common denominator. So then only you can share it equally. Like earlier we did when we had different denominators, we had to find a common denominator. So that's the first step again when you are adding fractions. Now, if I draw 2/6, I'm going to show you how it would look. I'm going to draw the same way, right? Same length. And I'm going to divide into 6 equal parts.",00:43:34
+iklaiak,363,student,So we're using the area model trying to break down like big numbers.,00:44:07
+iklaiak,364,tutor,"If I color, this would be 2.",00:44:15
+iklaiak,365,tutor,"6, isn't it?",00:44:19
+iklaiak,366,student,"Uh, yeah.",00:44:20
+iklaiak,367,tutor,"Do you think this part and this part is equal? [unclear] We added 1/4 and 1/2, right? Do you think if we add these two, will we get 2/6? Is this the part?",00:44:22
+iklaiak,368,student,Yeah.,00:44:34
+iklaiak,369,tutor,"Are you sure? Like when you color this one and this one, do we get this part?",00:44:37
+iklaiak,370,student,No.,00:44:41
+iklaiak,371,tutor,"No, it has to be comparatively more, isn't it?",00:44:42
+iklaiak,372,student,Yeah.,00:44:45
+iklaiak,373,tutor,"The shaded area. So that is why 2/6, when you add this way, you don't really get the exact answer. Okay? We have to actually convert. So that's why they are converting this 1/2 into a denominator of 4. So then 2 times what makes 4? 2. 1 times 2 is 2. I'm just showing it to you. So this is 2. So what is 1 plus 2?",00:44:46
+iklaiak,374,student,1 2 is 2. 1,00:45:12
+iklaiak,375,tutor,"2? Oh, sorry,",00:45:16
+iklaiak,376,student,3. So [UNCLEAR].,00:45:20
+iklaiak,377,tutor,"the denominator, when it is same, we do not add. So we keep it as it is. Yeah. Okay.",00:45:20
+iklaiak,378,student,I,00:45:28
+iklaiak,379,tutor,"can explain it to you, explain you further clearly in our next session because we're running out of time now. So, but I think you reflected really well. And we'll learn more about it in our next session. Okay?",00:45:28
+iklaiak,380,student,Right.,00:45:41
+iklaiak,381,tutor,So I really hope you should have a great time in your camping.,00:45:41
+iklaiak,382,student,Thank you.,00:45:45
+iklaiak,383,tutor,And enjoy your weekend as well.,00:45:46
+iklaiak,384,student,Thank you.,00:45:48
+iklaiak,385,tutor,So have a great day ahead. Bye.,00:45:49
+iklaiak,386,student,Bye.,00:45:52

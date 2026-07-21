@@ -1,0 +1,338 @@
+session_id,utterance_id,role,content,timestamp
+ifydkcq,0,tutor,Can you hear me well?,00:00:00
+ifydkcq,1,student,Yeah.,00:00:01
+ifydkcq,2,tutor,"Alright, how are you doing today, Tobias?",00:00:03
+ifydkcq,3,student,I'm doing good.,00:00:06
+ifydkcq,4,tutor,That's nice. How was school today?,00:00:09
+ifydkcq,5,student,School's great.,00:00:11
+ifydkcq,6,tutor,"Okay. Alright, Tobias, so are you ready for today's lesson?",00:00:14
+ifydkcq,7,student,Yeah.,00:00:19
+ifydkcq,8,tutor,"Okay, so shall we get to our lesson today?",00:00:21
+ifydkcq,9,student,Yeah.,00:00:25
+ifydkcq,10,tutor,"Okay, so we're going to be learning about solving area and perimeter problems today. All right?",00:00:26
+ifydkcq,11,student,Yeah.,00:00:34
+ifydkcq,12,tutor,"Okay, so first I want you to work this question, the learning goal question, please.",00:00:35
+ifydkcq,13,student,Do I read it?,00:00:43
+ifydkcq,14,tutor,Yes.,00:00:44
+ifydkcq,15,student,What is the area and perimeter of the shape? [unclear],00:00:46
+ifydkcq,16,tutor,Do you know how to find area and perimeter of a shape?,00:00:57
+ifydkcq,17,student,No.,00:01:01
+ifydkcq,18,tutor,"Okay, so you haven't worked this with school before, yeah?",00:01:03
+ifydkcq,19,student,Yeah.,00:01:08
+ifydkcq,20,tutor,"Okay, so what about this question here, the prior learning?",00:01:10
+ifydkcq,21,student,What is the area and perimeter of the shape? [unclear],00:01:16
+ifydkcq,22,student,I don't know. I don't know it.,00:01:22
+ifydkcq,23,tutor,"Okay, then let's move on to our next slide. So here in this lesson today, we are going to be learning how to find area and perimeter of shapes. Okay?",00:01:27
+ifydkcq,24,student,Yeah.,00:01:41
+ifydkcq,25,tutor,"All right, so first let's look at a rectangle. All right? Can you read what's written here?",00:01:42
+ifydkcq,26,student,The area is the amount of space inside the boundary.,00:01:49
+ifydkcq,27,tutor,"Okay, so the area inside of the shape is called the area. Okay, space inside. Right? So now this rectangle, the space inside this rectangle, okay, is called the area. But now we're going to be looking and how we're going to be calculating this area. All right. So in this rectangle here, okay, they haven't given you any length. They've given you squares. Okay?",00:01:54
+ifydkcq,28,student,Yeah.,00:02:29
+ifydkcq,29,tutor,"So we have 4 squares, okay, and 5 squares here for the length. And we have 4 squares for width. Okay. Each square representing 1 centimeter.",00:02:29
+ifydkcq,30,student,[unclear],00:02:47
+ifydkcq,31,tutor,"All right. So we can count the area by counting the total number of squares given. Okay. So that will be 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15. 16, 17, 18, 19, 20. So we have 20 squares inside. Alright?",00:02:48
+ifydkcq,32,student,Yeah.,00:03:15
+ifydkcq,33,tutor,"So the area, the space inside, would be 20 squares. Okay? But this we could do only if we have equal number of squares, equal size of squares inside the shape. Right? And if we have a big shape, it would take so much time counting all the squares individually, right?",00:03:15
+ifydkcq,34,student,Yes.,00:03:39
+ifydkcq,35,tutor,So that's why we're going to be using a formula which will help us to work out area of any shape easily. Okay? So area is always length into the width. We multiply the length by the width of the shape.,00:03:40
+ifydkcq,36,tutor,Okay?,00:03:59
+ifydkcq,37,student,Yeah.,00:04:00
+ifydkcq,38,tutor,"So can you see here? So this is the length, the longest side of the shape. All right? This is the length of the rectangle. [unclear] And this is the width of the rectangle. 4 centimeters. All right?",00:04:01
+ifydkcq,39,student,Yeah.,00:04:22
+ifydkcq,40,tutor,So how do we find an area of a shape? Its area is always equal to length— [unclear],00:04:23
+ifydkcq,41,tutor,—multiplied by the width. Okay?,00:04:31
+ifydkcq,42,student,Yeah.,00:04:39
+ifydkcq,43,tutor,"So if you multiply the length by the width of the shape, we can find the area inside. We can find how much space this shape has on the inside. Okay?",00:04:40
+ifydkcq,44,student,Yeah.,00:04:56
+ifydkcq,45,tutor,So what would 5 times 4— we're multiplying the length by the width— what would that give you?,00:04:57
+ifydkcq,46,student,20?,00:05:05
+ifydkcq,47,tutor,"That's right. So you can put in your answer here. All right, so you get 20 centimeters.",00:05:07
+ifydkcq,48,tutor,"All right. So area, you can also do it width multiply length. Okay? Since multiplication, we can do it multiply either way, you would get the same answer. Right? So you don't have to be length by width all the time. You can multiply the width by the length as well. Okay? And this is the [unclear] that we use for area. Okay?",00:05:19
+ifydkcq,49,student,So—,00:05:44
+ifydkcq,50,tutor,Yeah.,00:05:45
+ifydkcq,51,student,"So basically, this is the area of the shape.",00:05:46
+ifydkcq,52,tutor,"Yeah, that's right. So you remember how we had to count the number of squares inside to find the area?",00:05:53
+ifydkcq,53,student,Yeah.,00:06:01
+ifydkcq,54,tutor,"Right? So this is the same way, but we are using a different way how we can use to find the area of a shape.",00:06:02
+ifydkcq,55,tutor,Okay.,00:06:11
+ifydkcq,56,student,[unclear],00:06:12
+ifydkcq,57,tutor,"All right. So if you want to find the area of a shape, we multiply the length and the width. All right. So this way of finding area, we use it when we don't have any length or any width given, and they're giving you equal size squares inside. Okay. And they mention, they should mention you that Each square is a centimeter long. Then we can count the number, simply count the number of squares inside. Total number of squares will equal the area. Okay? And that we can use all the time, because not all shapes will have squares inside, right?",00:06:15
+ifydkcq,58,student,Yeah.,00:06:57
+ifydkcq,59,tutor,"So some shapes, we will simply have the length and the width given. So we have to know that to find the area, we have to multiply the length and the width. Okay?",00:06:57
+ifydkcq,60,student,Yeah.,00:07:08
+ifydkcq,61,tutor,"And area, we always use the squared unit. Okay? Since the length and the width are centimeters, we have to use centimeters squared to show that this is the area unit. Alright?",00:07:09
+ifydkcq,62,student,Okay.,00:07:23
+ifydkcq,63,tutor,"So if the length or the width was in meters, we would be using meters squared. Okay?",00:07:24
+ifydkcq,64,student,Yeah.,00:07:33
+ifydkcq,65,tutor,"And if the length were in kilometers, we would be using kilometers squared. Okay? So I just wanted to introduce you to the unit. You've come across this unit before, have you?",00:07:34
+ifydkcq,66,student,Yeah.,00:07:51
+ifydkcq,67,tutor,"Yes, we use the squared unit. To show that this is the area. All right? So you can read what's written here in this yellow box.",00:07:53
+ifydkcq,68,student,The area of a rectangle can be found by multiplying the length by the width.,00:08:05
+ifydkcq,69,tutor,Okay. So was that clear to you?,00:08:11
+ifydkcq,70,student,What was the question?,00:08:17
+ifydkcq,71,tutor,"Okay, so what I will ask you is, was this clear to you, how we can find the area of a shape?",00:08:20
+ifydkcq,72,student,yeah.,00:08:20
+ifydkcq,73,tutor,"Okay, alright, then let's move on to perimeter. What do you think the perimeter is? Can you read what's written here?",00:08:20
+ifydkcq,74,student,The [unclear] perimeter is the distance around the outside.,00:08:39
+ifydkcq,75,tutor,"Alright, so perimeter is the distance around the shape. Okay, So now this would be the perimeter. All right? This is the length, the distance around the shape would be the perimeter. All right? So to find the perimeter, what we do is we add all the lengths and all the widths. Okay? So now we go, since this is 5 centimeters, then this also has to be 5 centimeters. Right?",00:08:44
+ifydkcq,76,student,Yeah.,00:09:24
+ifydkcq,77,tutor,"Because they're the same length. And if this is 4 centimeters, then this width has to be 4 centimeters as well. Right?",00:09:24
+ifydkcq,78,student,Yeah.,00:09:35
+ifydkcq,79,tutor,Because it's an equal shape. Okay. So now how we find the perimeter is we have to add all these lengths. We add 4 plus 5 plus 4 centimeters plus 5. Adding all the sides will give you the perimeter of a shape.,00:09:36
+ifydkcq,80,student,Yeah.,00:09:59
+ifydkcq,81,tutor,Okay. All right. Can you work this one out?,00:09:59
+ifydkcq,82,student,"So to do 5 plus 5, 5 plus 5 equals 10.",00:10:03
+ifydkcq,83,student,That's right.,00:10:11
+ifydkcq,84,student,"As you do 4 4, 4 4 8, and then you add 10 by 8, and that equals to 18. So 5 centimetres plus 5 centimetres plus 4 centimetres plus 4 centimetres is 18 centimetres. Yep, that's right.",00:10:12
+ifydkcq,85,tutor,"There you go. Well done, Tobias. So now, do you know the difference between finding a perimeter and area?",00:10:34
+ifydkcq,86,student,By area is just by multiplying the width and the length. [unclear],00:10:43
+ifydkcq,87,tutor,That's right.,00:10:53
+ifydkcq,88,student,"But for B, you add all of them together, like 5 5.",00:10:55
+ifydkcq,89,student,"plus 4 plus 4, and that would equal to 18.",00:10:55
+ifydkcq,90,tutor,"Yes, that's right. So perimeter is always finding the distance around the outside of the shape. OK? And to find perimeter, we always add all the lengths around the shape. OK? But area is the space inside the shape. And in order to find that, we multiply the length by the width of the shape. Okay?",00:10:55
+ifydkcq,91,student,Yeah.,00:11:35
+ifydkcq,92,tutor,So now we're clear with how to find the area and how to find the perimeter of the shape. Yeah?,00:11:36
+ifydkcq,93,background,Yeah.,00:11:46
+ifydkcq,94,tutor,Okay. So is there anything that you want— confused about that you want me to re-explain or repeat myself?,00:11:47
+ifydkcq,95,student,No.,00:11:56
+ifydkcq,96,tutor,"Okay, so we're all clear, yeah?",00:11:56
+ifydkcq,97,student,Yeah.,00:11:59
+ifydkcq,98,tutor,"Okay, then let's move on to the next slide. Okay? All right. So can you read what's written here?",00:12:00
+ifydkcq,99,student,"The area is the amount of space inside a 2D shape, and the perimeter is the distance around the 2D shape.",00:12:08
+ifydkcq,100,tutor,"Yes, so that's what we mentioned earlier, right? So area is the space inside the shape, and perimeter is the distance around the shape.",00:12:18
+ifydkcq,101,tutor,OK. So now they want you to find the area and the perimeter of this shape. They've given you the area and the perimeter of this shape here. OK. Now they want you to find the area and the perimeter of this rectangle [UNCLEAR].,00:12:28
+ifydkcq,102,student,Yeah.,00:12:50
+ifydkcq,103,tutor,"Okay, so how would you find the area of this rectangle?",00:12:51
+ifydkcq,104,student,"For the area, I would multiply the length and the width together, and that would equal to 35. So the area, it would be 35 centimeters squared.",00:12:57
+ifydkcq,105,tutor,"That's right, well done. Audience, it solves the [UNCLEAR].",00:13:12
+ifydkcq,106,student,"And for the perimeter, I would do this. I would add them together, which is both sides of the length and the width. So this is basically like 7 times 2 and 5 times 2.",00:13:12
+ifydkcq,107,tutor,That's fine.,00:13:41
+ifydkcq,108,student,"And 7 times 3 equals 14, and 5 times 2 equals 10. So you add them together and that would equal to 24. So the perimeter would be 24 centimeters.",00:13:41
+ifydkcq,109,tutor,"There you go. Well done, Tobias. And I love how you use multiplication because it's simply the same length that we're adding twice, so we could multiply by 2 to",00:13:56
+ifydkcq,110,tutor,"do the same, right?",00:13:56
+ifydkcq,111,student,Yeah.,00:13:56
+ifydkcq,112,tutor,"OK, so good working out. Now I can see that you are confident with working out area and perimeter of a regular shape. Yeah?",00:14:07
+ifydkcq,113,student,Yeah.,00:14:17
+ifydkcq,114,tutor,Now let's move on to our next slide here. Here we're going to be looking at how to find the area and the perimeter of a compound shape. OK?,00:14:18
+ifydkcq,115,student,Yeah.,00:14:30
+ifydkcq,116,tutor,So do you know what a compound shape is?,00:14:31
+ifydkcq,117,student,No.,00:14:34
+ifydkcq,118,tutor,"Right, so if you see, look at this shape. Yes, these are two different shapes put together. Yeah?",00:14:35
+ifydkcq,119,student,Yeah.,00:14:46
+ifydkcq,120,tutor,"Can you see the shape here? So this shape is not all even. They don't have all even sides like the rectangle over here. Yes, this is a regular shape, so we have the same length, and the same width, right? This shape here is different. Alright, so if you remember, let me take you to our very first slide. Okay, there in the learning goal question, we were given a shape like this, right?",00:14:46
+ifydkcq,121,student,Yeah.,00:15:20
+ifydkcq,122,tutor,"Okay, so usually you are just given a shape like this, and asked to find the area and the perimeter. So now this is called a compound shape because this shape is not even, right?",00:15:21
+ifydkcq,123,student,[unclear],00:15:33
+ifydkcq,124,tutor,So what we have to do when we come across a shape like this is we have to divide this into two separate shapes so that we can make it easier to find the area and the perimeter.,00:15:34
+ifydkcq,125,tutor,"Alright. So that is what we're going to be looking at now. Okay. So now this shape, they've split it into two shapes. Okay. So that it will make it easier to work out the area and the perimeter because this is not an even shape. Right. So now let me see what they want me to do first. So now these questions here, the [unclear] slide, These are questions for me to work out. Alright? Once I work this out, okay, you can carefully watch me, and then you can try all the questions on your turn by yourself. Alright?",00:15:51
+ifydkcq,126,student,Yeah.,00:16:31
+ifydkcq,127,tutor,"Okay. So question A asks me to find the area inside each of the rectangles. So I see that this is [UNCLEAR]. I have the length of 5 and a width of 3, so my area would be 3 times 5, and that would be 15 centimeters squared.",00:16:32
+ifydkcq,128,student,"So here I have the lengths of 4 and 7, so I multiply them together to find the area, and that will give me 28 centimeters squared.",00:16:54
+ifydkcq,129,tutor,"Okay, so now I have to find the total area of this shape. So to find the total area of this shape, I add both the areas together, 15 and 28 centimeters squared, and that would give me 43. Okay? So was that clear?",00:17:05
+ifydkcq,130,student,Yeah.,00:17:27
+ifydkcq,131,tutor,How I found the total area of this shape?,00:17:28
+ifydkcq,132,student,Yeah.,00:17:31
+ifydkcq,133,tutor,I add the areas of both the shapes.,00:17:32
+ifydkcq,134,tutor,"Okay. Let's look at question C. They want me to label the missing side lengths. So you can see here in this shape that not all these sides have been labeled. Alright, so I'm going to label them. So I can see that this is 5 centimeters,",00:17:35
+ifydkcq,135,tutor,"So then this length here has to be 5 centimeters as well, because this is a rectangle. And then I can see that this length here is 4, so this has to be 4 as well. So then that will be 4 centimeters. Okay, so now this is the tricky part. So now I know that this is 7 centimeters,",00:18:01
+ifydkcq,136,tutor,"Right. So I have to find what this length would be. But I can tell that this is 3 centimeters because since this is 3, since this width is 3, then this has to be 3 as well. [unclear] So I subtract 3 from 7,",00:18:29
+ifydkcq,137,tutor,"Because this entire length— wait, let me show you. Because this entire length is 7, right?",00:18:56
+ifydkcq,138,student,Yeah.,00:19:07
+ifydkcq,139,tutor,"Because it's [unclear] on this side. But I only want to find this length here, from here to here, right? So then I subtract this 3 centimeters. Because this is 3, so if I subtract 3 from 7, then I will know that this area is— this length here would be 4.",00:19:08
+ifydkcq,140,student,Yeah.,00:19:39
+ifydkcq,141,tutor,Yeah?,00:19:40
+ifydkcq,142,student,Yeah.,00:19:41
+ifydkcq,143,tutor,"Yeah, so I'm confused about how I found the length of just this",00:19:42
+ifydkcq,144,student,[unclear],00:19:52
+ifydkcq,145,tutor,"Yeah, so this is a total, then it's 7. I know that because this is 7 on this side as well. Then I know that this rectangle here has a width of 3. So this part here has to be 3. Then if I subtract this 3 from the total 7, I'll be able to find the length of this remaining part here.",00:19:52
+ifydkcq,146,tutor,"Okay. So now I have found the lengths of all sides. Okay. So I know the length of this side, this side, this side, all sides I found all the lengths. Now I'm going to calculate the perimeter. Okay. So to find the perimeter, I have to add all the lengths. Okay?",00:20:12
+ifydkcq,147,student,Yes.,00:20:40
+ifydkcq,148,tutor,"To find the perimeter, I have to add the lengths, the outer lengths only. So this side, then I'll be adding these lengths, this length here, this length here, this length here, and this length here. So the distance around the shape, I have to add all these. So that will be 3...",00:20:40
+ifydkcq,149,tutor,"Plus 5, and we have another 4, and then we have 7 centimeters, and then we have another 4 again, another 4, and another 5. So my total would be— [unclear] centimeters would be the perimeter of this shape. Alright, Tobias, was this clear to you? Were you able to keep up?",00:21:04
+ifydkcq,150,student,Yeah.,00:21:39
+ifydkcq,151,tutor,"Okay, so now it's your turn. You can work these questions out by yourself. Go ahead.",00:21:40
+ifydkcq,152,student,"So we can see that this shape is divided. The two widths are are 4 and 2, and then the perimeter— no, I mean the length would be 3 and 9. So then we're going to have to times them, multiply them together. 3 times 4 equals 12.",00:21:49
+ifydkcq,153,tutor,fine.,00:21:49
+ifydkcq,154,student,"And then you do 9 times 2, which is 18. And now to find the area, we should add both of the numbers together. 12 and 18, and that would equal to 30. [unclear]",00:21:49
+ifydkcq,155,tutor,That's fine. That will be a total.,00:22:27
+ifydkcq,156,student,"So 30 centimeters squared would be our total area. And now we should label the missing side lengths. So I can see that the 3 is a length, so we should write 3 underneath. I can see that the 9 is a length, so we should write 9 underneath.",00:22:31
+ifydkcq,157,tutor,That's right.,00:22:49
+ifydkcq,158,student,"But these two, we have the same for like the base or something for this. So for— so now we're gonna do— we're gonna do 4 centimeters minus 2 centimeters, which equals to 2 centimeters, which would mean Which would mean that this area would be 2 centimeters.",00:22:50
+ifydkcq,159,tutor,"Yes, that's right. Yes, so you know that this length is 2 now. All right, there you go, well done. Now you have to calculate the perimeter.",00:23:21
+ifydkcq,160,student,"To calculate the perimeter, I should do 2 plus 2 plus 2. 3 3 9 9 4. Adding them together, we're",00:23:31
+ifydkcq,161,student,"going to break it down. So we've got 4 6 10 18 28, and 28 4 would equal to 32. So the perimeter of the shape",00:23:51
+ifydkcq,162,student,Would be 32 centimeters.,00:24:07
+ifydkcq,163,tutor,"Yep, that's right. Brilliantly solved, Tobias. Great working out. Okay. All right. So now you know how to solve the perimeter and area of a compound shape as well. Right?",00:24:10
+ifydkcq,164,student,Yeah.,00:24:25
+ifydkcq,165,tutor,Okay. So should we move on to our next slide here? We've got some questions to solve. You can go ahead.,00:24:25
+ifydkcq,166,tutor,And work out the first question.,00:24:33
+ifydkcq,167,student,"So this one says calculate the areas and perimeter of these shapes. For A, we have 9 and 3, so I'm going to write the missing areas to help me out. 9 centimetres and then we have 3 centimetres. First we do 9 times 3 for the area, and 9 times 3 would equal to 27. So the area of the shape would be 27.",00:24:36
+ifydkcq,168,tutor,[UNCLEAR],00:24:36
+ifydkcq,169,student,"And the perimeter will be a shorter number as we have to add them all together. So adding— so 9 9 and 3 3 is the same as 9 times 2 and 3 times 2. 9 times 2 equals 18 and 3 times 2 equals 6. So then we do 18 6, which would equal to 24. So the perimeter of the shape would be 24.",00:25:02
+ifydkcq,170,tutor,"Okay, well done. Great explanation.",00:25:28
+ifydkcq,171,student,"And for the next one, we have a compound shape this time. So I think we do— and I think for the area, we should do 3 times 8, which would equal to 24. [unclear] 10 times 2 would equal to 20.",00:25:30
+ifydkcq,172,student,"So for this, I think— so for this, we should be adding them together, which would equal to 44. So the area will be 44 centimeters squared.",00:25:53
+ifydkcq,173,tutor,That's right.,00:26:05
+ifydkcq,174,student,"And for the perimeter, we should add them all together. And since this is a compound shape, I should write 3 centimeters here, and I should write 10 centimeters here.",00:26:06
+ifydkcq,175,student,"But for this, we do 8 minus 2, which equals— oh, sorry, 8 minus 2, which equals to 6. So this area would be 6 centimetres.",00:26:19
+ifydkcq,176,tutor,That's fine. So now you have all the lengths.,00:26:32
+ifydkcq,177,student,"And now we do 3 plus 3— oh, sorry, 3 plus 3 plus 8. Plus 10, plus 10, plus 2, and plus 6. So since we have 2 tens—",00:26:35
+ifydkcq,178,tutor,I think you've missed the 3 here. Okay.,00:26:54
+ifydkcq,179,student,"Yeah, for the 2 tens and for the 2 3s, we should do 3 plus 3 equals 6, plus 8 equals 14, plus 10 or 20, which would equal to 34 plus 2 equals 36 plus 6 would equal to 42. So the perimeter for the shape would be 42 centimetres.",00:26:57
+ifydkcq,180,tutor,"That's right, well done. Great working out. So now this shape here, yeah, they haven't split the shape. You have to do it yourself. All right?",00:27:22
+ifydkcq,181,student,"Yeah, I think I've split the shape here.",00:27:34
+ifydkcq,182,tutor,OK.,00:27:40
+ifydkcq,183,student,"So I'm going to write my 3 centimetres at the top. And now we're going to add each question— I mean, not each, do the area.",00:27:40
+ifydkcq,184,tutor,OK. Why did you write 3 centimetres here on top?,00:27:52
+ifydkcq,185,student,Because I think I— because I accidentally— [unclear],00:27:56
+ifydkcq,186,student,I think it's supposed to be 4.,00:28:03
+ifydkcq,187,tutor,"Yeah, so this would be 4, right?",00:28:06
+ifydkcq,188,student,Yeah.,00:28:09
+ifydkcq,189,tutor,Okay.,00:28:10
+ifydkcq,190,student,"So 4 centimeters. So next, for the area, we do 3 times 4, which equals to 12. And then we do 9 times 3, which equals to 27. And then you add 27 by 12, And 27 plus 12, so we're going to break it down again. 20 plus 10 equals 30, plus 2 equals 32, and plus 7 would equal to 39. So the answer would be 39.",00:28:12
+ifydkcq,191,tutor,That's right. Well done. That would be 39 centimeters squared. OK.,00:28:48
+ifydkcq,192,student,"And for the perimeter, again we have this line here.",00:28:53
+ifydkcq,193,student,"So we got, I think, a 3 and a 9. So I think you do 9 minus 3, which equals to 6. So then this—",00:28:58
+ifydkcq,194,tutor,That's right.,00:29:08
+ifydkcq,195,student,I'm just going to write it here— would be 6 centimetres. And now we should do 3 plus 3 plus 4. [unclear],00:29:09
+ifydkcq,196,tutor,"Okay, so what is 6 centimetres?",00:29:19
+ifydkcq,197,student,Because the 9 and the 3 are between it.,00:29:24
+ifydkcq,198,tutor,Is. Yeah. So this length here is the same as this length.,00:29:28
+ifydkcq,199,student,"Oh, should this be like a 3?",00:29:40
+ifydkcq,200,tutor,"Yes, that's right.",00:29:43
+ifydkcq,201,student,So— [unclear],00:29:45
+ifydkcq,202,tutor,Can I just write 3 up here?,00:29:45
+ifydkcq,203,tutor,"There you go. So this would be 3, right? Because they're both the opposite lengths, they're the same lengths, right?",00:29:49
+ifydkcq,204,student,Yeah. [unclear] We're going to continue by doing 3 plus 3 plus 3 plus 4 plus 4,00:29:56
+ifydkcq,205,student,"And plus 9. We're going to break it down. So 3 times 3 would equal to— would equal to— yeah, it would equal to 9.",00:30:15
+ifydkcq,206,tutor,That's right.,00:30:30
+ifydkcq,207,student,"And 4 plus 4 would equal to 8. So 9 plus 8 equals to 17. Or should we do 9 plus 9 would equal to 18? 18 plus 8, that would equal to 26. So the perimeter for the shape would be 26 centimeters.",00:30:31
+ifydkcq,208,tutor,Okay. So why don't we work out this once more. So have you— so we have 3 here. This is one length. [unclear],00:30:49
+ifydkcq,209,tutor,Yeah.,00:31:07
+ifydkcq,210,student,Then we need to add 4 centimeters here.,00:31:07
+ifydkcq,211,tutor,Yeah.,00:31:13
+ifydkcq,212,student,I think you forgot there's 6.,00:31:13
+ifydkcq,213,tutor,"Oh yeah, the 6.",00:31:16
+ifydkcq,214,student,"We have a 6, this length here is a 6.",00:31:18
+ifydkcq,215,tutor,"Yeah, should I add the 6?",00:31:22
+ifydkcq,216,student,"Yeah, that's right. The 6 is the length that you've missed out.",00:31:26
+ifydkcq,217,student,"So for this, we're going to do 3 plus 3 plus 3 equals 9, plus 9 equals 18, 18 plus 6 equals 24, plus 4 equals 28, and plus another 4 would equal to 32. So the perimeter for this shape would not be 26, but instead it would be... [unclear]",00:31:34
+ifydkcq,218,student,It would be 32.,00:32:00
+ifydkcq,219,tutor,"That's right. OK, well done, Tobias. So what do you think you could do, Tobias, next time to avoid missing the adding of the lengths? When you're adding lengths, to avoid missing any lengths, what do you think you could do?",00:32:03
+ifydkcq,220,student,I think I should label each side.,00:32:20
+ifydkcq,221,tutor,"Yeah, if not, maybe you could [unclear] as you type in each, so that we would make sure that all of these— once maybe you type in all the numbers that you're going to add, maybe you could double-check once more if you've included all the 3 centimeters. Okay, so I have 3 centimeters, that's right. Then I have 2 4-centimeters. Okay, that's included as well. Maybe you could do a light [unclear] to make sure that all the lengths are included. Yeah?",00:32:25
+ifydkcq,222,student,Yeah.,00:32:59
+ifydkcq,223,tutor,"OK. So well done, Tobias. Great working out. OK. You did a brilliant job here working out the areas of compound shapes, especially here how you split the shapes into two and you work it all by yourself. Right?",00:32:59
+ifydkcq,224,student,Yeah.,00:33:15
+ifydkcq,225,tutor,So let's move on to our next slide here. So now this is,00:33:15
+ifydkcq,226,tutor,"That is a challenging question. But now since you know how to work out areas and parameters, I'm sure you're going to be able to figure this out. All right? You can go ahead and give this a read.",00:33:20
+ifydkcq,227,student,So Haki has started to make a path using identically sized square slabs. Calculate the perimeter and area of the path so far. So this would be [UNCLEAR].,00:33:35
+ifydkcq,228,tutor,"OK. So this will be for game, Tobias. What do you think is the key word in this question?",00:33:35
+ifydkcq,229,student,Identically.,00:33:51
+ifydkcq,230,tutor,That's right. We have to keep in mind that all these squares are identically sized. They all have the same size. OK? All right. And what do they want you to work out?,00:33:53
+ifydkcq,231,student,They want me to calculate the perimeter and the area of a [UNCLEAR].,00:34:06
+ifydkcq,232,tutor,OK. So they want you to find the perimeter and the area of this part.,00:34:06
+ifydkcq,233,tutor,Okay. All right. So how would you solve this?,00:34:16
+ifydkcq,234,student,"So I think I should count the squares width and length, and this would equal to 2 centimeters. Is it 2?",00:34:21
+ifydkcq,235,student,Yes.,00:34:42
+ifydkcq,236,tutor,OK. So what is the only information they've given you here?,00:34:43
+ifydkcq,237,student,That the path is 80 centimetres [UNCLEAR].,00:34:50
+ifydkcq,238,tutor,"That's right. So they told you that from here to here, this length, this distance is 80 centimetres. Right?",00:34:50
+ifydkcq,239,student,Yes.,00:35:05
+ifydkcq,240,tutor,"So how can you use this distance they've given, 80 centimeters, to find any length of these squares?",00:35:05
+ifydkcq,241,student,"Um, I think we should divide?",00:35:17
+ifydkcq,242,tutor,"Okay, that's right. So how would you divide them?",00:35:22
+ifydkcq,243,student,"So we should just like divide all the squares together by 80, and the amount of squares we have would be",00:35:26
+ifydkcq,244,student,"7? Well, 80 doesn't go into 7.",00:35:36
+ifydkcq,245,tutor,Okay. Okay. All right. So how— why do you think dividing 80 centimeters by the total number of squares would help us to find the length of the squares?,00:35:40
+ifydkcq,246,student,So I think it would be like easier to find the area and the perimeter of the shape.,00:35:55
+ifydkcq,247,student,"OK. But we have to also keep in mind that 80 centimeters is not the distance from here to here, or it is not the length of the squares here. It is only the distance from here, from this point here, OK, to this point here. But if you see, This distance, 80 centimeters, ends here. Right?",00:36:02
+ifydkcq,248,student,[unclear],00:36:32
+ifydkcq,249,tutor,"It begins here, and it ends here. Okay? Now let's do some imagination. All right? So we don't have any squares here, right? We don't have any squares here. But let's imagine that there are some squares here. So there would be one square here, right? Then there would be another square here, right?",00:36:33
+ifydkcq,250,student,Yeah.,00:37:02
+ifydkcq,251,tutor,So how many squares do you think makes up this 80 centimeters?,00:37:03
+ifydkcq,252,student,I think 9? [unclear],00:37:13
+ifydkcq,253,tutor,"We're looking— so if you see, 80 centimeters is only from here to here. [unclear]",00:37:18
+ifydkcq,254,student,Yeah.,00:37:32
+ifydkcq,255,tutor,"So from here, from this starting point square to all the way here is 80 centimeters. Right?",00:37:33
+ifydkcq,256,student,"Yeah. So there is 1, 2, and if we were to imagine that there are squares here, we could see that that would be 4 squares that will take up the space of 80 centimeters.",00:37:43
+ifydkcq,257,student,[unclear],00:38:01
+ifydkcq,258,tutor,"Yeah? Yeah? Because can you see this square here and this square here? They're all equally sized, right?",00:38:04
+ifydkcq,259,student,Yeah.,00:38:12
+ifydkcq,260,tutor,"So we know that 4 squares covers up the distance of 80 centimeters. So if we divide 80 by 4, okay, if we divide it by 4, okay, we can divide it by 4. 1, 2, 3, 4. We're dividing it into 4. 4 parts, then we will be able to find the length of one side of the square. Yes? Was that clear to you, Tobias? Or do you want me to repeat myself?",00:38:13
+ifydkcq,261,student,"Can you repeat, please?",00:38:52
+ifydkcq,262,tutor,OK. All right. So do you understand— did you understand the part where I mentioned that we're going to imagine that there's another square,00:38:54
+ifydkcq,263,student,"here, then another square here.",00:38:54
+ifydkcq,264,tutor,Yeah?,00:38:54
+ifydkcq,265,student,"Yeah. Because they've mentioned here that all squares are identically sized. Okay? So the only information they've given you is that this length here is 80 centimeters. So using this distance given here, we are going to be finding the length of a square.",00:39:08
+ifydkcq,266,student,[UNCLEAR],00:39:08
+ifydkcq,267,tutor,"Okay. So let's look at this. So we know that from starting point here, this square, to all the way here, it is 8 centimeters. So we are going to be dividing this into 1, 2, 3, 4. We're going to be dividing it by 4 so we can find the length of one square here. Right?",00:39:32
+ifydkcq,268,student,Yeah.,00:40:04
+ifydkcq,269,tutor,Is that clear?,00:40:05
+ifydkcq,270,student,Yeah.,00:40:06
+ifydkcq,271,tutor,Okay. So what would happen if you divide 80 by 4?,00:40:09
+ifydkcq,272,student,"Um, that would equal to 4 to 20?",00:40:17
+ifydkcq,273,tutor,"That's right. So we got 80 If you divide it by 4, we will be getting 20 centimeters. Right?",00:40:23
+ifydkcq,274,student,[unclear],00:40:35
+ifydkcq,275,tutor,"So that would mean that the length of one side of this, yeah, the length here, this one length is 20.",00:40:36
+ifydkcq,276,student,Yeah.,00:40:50
+ifydkcq,277,tutor,"Okay. So this one length is 20, so then we have another 20, another 20, another 20. 4 20s making up this length of 80 centimeters. Right?",00:40:51
+ifydkcq,278,student,Yeah.,00:41:04
+ifydkcq,279,tutor,Okay. So now we know the length of one square.,00:41:05
+ifydkcq,280,student,Yeah.,00:41:12
+ifydkcq,281,tutor,Which is 20. So how are we going to be using this length To find the area of this [unclear] of this part.,00:41:14
+ifydkcq,282,student,"I think we do 20 times 4, 20 times 80.",00:41:28
+ifydkcq,283,tutor,Okay. So first let's find the area of one square. How would you find the area of one square?,00:41:35
+ifydkcq,284,student,"By, uh...",00:41:44
+ifydkcq,285,tutor,"So you know one length. You only know the length of one side, which is 20.",00:41:47
+ifydkcq,286,student,Yeah.,00:41:52
+ifydkcq,287,tutor,"And all squares are identically sized, which means if this side is 20, then this side has to be 20 as well, right? Because squares have the same sides.",00:41:53
+ifydkcq,288,student,Yeah.,00:42:05
+ifydkcq,289,tutor,"Right? So how would you find the area area of one square? Let's focus on this one square. Okay, now we're going to find the area of one square.",00:42:06
+ifydkcq,290,student,I think... you do it... you... I don't know.,00:42:21
+ifydkcq,291,tutor,So what is area? You remember how we found the area?,00:42:30
+ifydkcq,292,student,Yeah.,00:42:34
+ifydkcq,293,student,Is the [unclear] inside the square?,00:42:36
+ifydkcq,294,tutor,Area is— that's right. Area is equal to length into width. Yeah?,00:42:39
+ifydkcq,295,student,Yeah.,00:42:49
+ifydkcq,296,tutor,So this square has a length and width of 20.,00:42:50
+ifydkcq,297,student,Yeah.,00:42:56
+ifydkcq,298,tutor,"Remember how we found the length of the square on one side? But we also know that this side has to be 20 as well, because this is a square. Square has all sides, all equal sides, right?",00:42:56
+ifydkcq,299,student,Yeah.,00:43:12
+ifydkcq,300,tutor,So the area of one square would be 20 times 20?,00:43:13
+ifydkcq,301,student,Yeah.,00:43:19
+ifydkcq,302,tutor,Okay. So what would 20 times 20 be?,00:43:21
+ifydkcq,303,student,[unclear] 20 times 20 would be 400.,00:43:26
+ifydkcq,304,tutor,There you go. Well done. So that would be 400. So now you know the area of one square. So one square is 400 centimeters squared. How many squares do we have here?,00:43:33
+ifydkcq,305,student,So we have 7 squares.,00:43:51
+ifydkcq,306,tutor,"That's right, we have 7 squares. So how would you find the area of 7 squares?",00:43:54
+ifydkcq,307,student,"I think you would do 400 times 7, which is 2,800.",00:44:01
+ifydkcq,308,tutor,"There you go, well done. Okay, so we know the area of 1 square, which is 400. So to find the area of this entire part, we know that there are 7 squares, so we multiply it by 7.",00:44:07
+ifydkcq,309,tutor,"Okay, well done. And how would you find the perimeter of this pathway?",00:44:21
+ifydkcq,310,student,"For the perimeter, I think all the squares, the length would be 20 and the [unclear] the length would be 400. So because there's like",00:44:30
+ifydkcq,311,student,"7 squares, I think, and there's like 2 20s in each one, which is 40 times 7, which equals to 280. And then we do 800 times 7, which would equal to 5,600.",00:44:45
+ifydkcq,312,tutor,Okay.,00:45:10
+ifydkcq,313,tutor,"So let's look at it this way. So we know that one side is 20 centimeters. So let's see how many sides we have on the outside, on the outer side, okay? So we have 1, 2, 3, 4, 5, 6, 7, 8,...9, 10, 11, 12, 13, 14, 15, 16. So we have 16 sides, right?",00:45:11
+ifydkcq,314,student,Yeah.,00:45:53
+ifydkcq,315,tutor,"Because every [unclear] is adding all the outer lengths, the distance around the shape. So we have 16 sides.",00:45:54
+ifydkcq,316,tutor,"Yes, we know that all these 16 sides are equal. They are all 20.",00:46:02
+ifydkcq,317,student,Yes.,00:46:09
+ifydkcq,318,tutor,Could you find the perimeter? [unclear],00:46:10
+ifydkcq,319,student,"I think you do 20 times 16, which would equal to 320. So the perimeter for this shape would be",00:46:16
+ifydkcq,320,student,320 centimeters.,00:46:29
+ifydkcq,321,tutor,"There you go. Well done. Brilliantly solved, Tobias. So that was the 320. So was it the part about finding the perimeter clear to you?",00:46:32
+ifydkcq,322,student,Yeah.,00:46:41
+ifydkcq,323,tutor,"Yeah? So because we know that one length is 20, and we have 16 sides. OK. But you also found the area by yourself, which is really brilliantly solved. Are you still confused about how we found the length of one square?",00:46:43
+ifydkcq,324,student,No.,00:46:59
+ifydkcq,325,tutor,No. So is everything all clear to you?,00:47:00
+ifydkcq,326,student,Yeah.,00:47:03
+ifydkcq,327,tutor,"Yeah? So how do you feel about this question, Tobias?",00:47:04
+ifydkcq,328,student,I feel like this question was a bit challenging and tricky.,00:47:08
+ifydkcq,329,tutor,Yes. But I think you did great. Yeah?,00:47:15
+ifydkcq,330,student,Yeah.,00:47:18
+ifydkcq,331,tutor,"OK. So they had a lot of thinking to do here because this is not a very usual compound shape, nor is it a regular shape for us to easily figure out. The length, yeah? So finding the length of one side was the tricky part, and then the rest was easy, yeah?",00:47:18
+ifydkcq,332,student,Yes.,00:47:37
+ifydkcq,333,tutor,"OK. So we are out of time, Tobias, and I will have to end the session right here. I hope we can continue next week, all right?",00:47:37
+ifydkcq,334,student,Yeah.,00:47:46
+ifydkcq,335,tutor,"OK. So till then, take care, all right? Bye.",00:47:47
+ifydkcq,336,student,Bye. [unclear],00:47:50

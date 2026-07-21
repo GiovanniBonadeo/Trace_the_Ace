@@ -1,0 +1,475 @@
+session_id,utterance_id,role,content,timestamp
+dslwdtn,0,tutor,Hello.,00:00:00
+dslwdtn,1,background,[unclear],00:00:00
+dslwdtn,2,student,Hello.,00:00:03
+dslwdtn,3,tutor,"Hi, Desmond.",00:00:05
+dslwdtn,4,student,Hi.,00:00:07
+dslwdtn,5,tutor,How are you?,00:00:08
+dslwdtn,6,tutor,Good.,00:00:10
+dslwdtn,7,student,How is your day going?,00:00:12
+dslwdtn,8,tutor,Good.,00:00:14
+dslwdtn,9,student,So tell me something about your day.,00:00:15
+dslwdtn,10,tutor,I did maths and now I'm doing S. And I did guided reading in English.,00:00:20
+dslwdtn,11,student,So what did you do in maths today?,00:00:28
+dslwdtn,12,tutor,Maths? [unclear] I forgot.,00:00:31
+dslwdtn,13,tutor,"Okay, no problem. So thank you so much for sharing all that with me, Desmond. Shall we start studying?",00:00:37
+dslwdtn,14,student,Mm-hmm.,00:00:44
+dslwdtn,15,tutor,"Okay, do you remember in your last session you were doing dividing using short division?",00:00:46
+dslwdtn,16,student,Yes.,00:00:51
+dslwdtn,17,tutor,"Right? And you must have completed— you must be on this slide, right? On the [unclear] slide.",00:00:52
+dslwdtn,18,student,Yeah.,00:00:59
+dslwdtn,19,tutor,"Yeah, and today we are going to start from the C part of it because A and B must have been completed, right?",00:00:59
+dslwdtn,20,tutor,"Yes, so let's start from the C part. Can you read the question?",00:01:08
+dslwdtn,21,student,"4,805 divided by 4.",00:01:13
+dslwdtn,22,tutor,"Hmm, so how are we going to write here? All right.",00:01:16
+dslwdtn,23,tutor,Right. So how are you going to do this?,00:01:39
+dslwdtn,24,student,[unclear] Newton's tables.,00:01:43
+dslwdtn,25,tutor,"Okay. 4 goes into 0, 0 times, and then 4 goes into 5 how many times?",00:01:47
+dslwdtn,26,tutor,"Yeah, one. Very good. Yay, that's your answer. You can write your answer here.",00:02:01
+dslwdtn,27,student,Is it Desmond?,00:02:08
+dslwdtn,28,tutor,Yeah. You forgot something in this number. [unclear] You forgot something in this number.,00:02:09
+dslwdtn,29,student,"Four. What about a comma? Yeah, you see a comma here after the thousands? [unclear]",00:02:24
+dslwdtn,30,tutor,"So we got to put that here as well. And you have done a superb job here in dividing this number by 4. And for that, you have used your times tables so very well. Let me give you a good working out card for that, Desmond. And now this slide is completed. We are now moving on to the [UNCLEAR]. Go further slide. Let's read the question. [unclear] 486 cupcakes. They are packed into boxes of 4. How many are needed?",00:02:35
+dslwdtn,31,tutor,How many boxes are needed? Yeah?,00:03:06
+dslwdtn,32,student,Mm-hmm.,00:03:08
+dslwdtn,33,tutor,Yes. So do you understand the question?,00:03:10
+dslwdtn,34,student,Yes.,00:03:13
+dslwdtn,35,tutor,"Okay, so what do you have to do to find the number of boxes?",00:03:14
+dslwdtn,36,student,"We have to [unclear] divide the number by 4. Very good, yes. All right, let's do it. [unclear]",00:03:18
+dslwdtn,37,student,That's gonna be one.,00:03:29
+dslwdtn,38,tutor,Yeah.,00:03:34
+dslwdtn,39,student,Two.,00:03:37
+dslwdtn,40,tutor,Mm-hmm.,00:03:40
+dslwdtn,41,student,"One. [unclear] Two. Wait, no, three.",00:03:41
+dslwdtn,42,tutor,"Okay, so now what do you think? How many boxes are needed?",00:03:46
+dslwdtn,43,student,121 remainder 2 boxes.,00:03:57
+dslwdtn,44,tutor,"So do you think it makes sense if we give the answer like that, like remainder 2 number of boxes?",00:04:01
+dslwdtn,45,student,No.,00:04:08
+dslwdtn,46,tutor,So what do we need to do here? What does it mean? What is the remainder 2 representing here in context?,00:04:10
+dslwdtn,47,tutor,in context of this problem.,00:04:10
+dslwdtn,48,student,[unclear],00:04:18
+dslwdtn,49,tutor,Yeah.,00:04:19
+dslwdtn,50,student,There's 2 boxes there.,00:04:19
+dslwdtn,51,tutor,2 boxes?,00:04:23
+dslwdtn,52,student,That doesn't need it.,00:04:24
+dslwdtn,53,tutor,So what are we dividing?,00:04:27
+dslwdtn,54,student,486.,00:04:30
+dslwdtn,55,tutor,Which is the number of?,00:04:32
+dslwdtn,56,student,4.,00:04:34
+dslwdtn,57,tutor,"Which is the number of cupcakes here, right?",00:04:35
+dslwdtn,58,student,Yes.,00:04:38
+dslwdtn,59,tutor,"And we are finding the number of boxes, right?",00:04:39
+dslwdtn,60,tutor,"Mm-hmm. So when we put the number of cupcakes into a group of 4s, we got 121 groups. And according to the remainder, 2 cupcakes are left, right?",00:04:43
+dslwdtn,61,student,Yeah.,00:04:59
+dslwdtn,62,tutor,"So what do you think? How many boxes are needed? [unclear] For sure, yeah.",00:05:00
+dslwdtn,63,student,121.,00:05:10
+dslwdtn,64,tutor,What about those 2 cupcakes which are left?,00:05:12
+dslwdtn,65,student,Put them in one box.,00:05:15
+dslwdtn,66,tutor,So what will be the total number of box then? [unclear],00:05:18
+dslwdtn,67,student,"Oh, 120.",00:05:24
+dslwdtn,68,tutor,"We need another box, right? 121 are there, full boxes, right? And then we need one more box. One more. So that means the number should be 122. Understand that, Desmond? [unclear] Yeah. All right, so that is why in these kind of questions it's important that we understand what is the remainder meaning here, right? Right, Desmond? You understand what I mean?",00:05:27
+dslwdtn,69,student,"Yes. And you also understand why it is 122, the number of boxes?",00:06:00
+dslwdtn,70,student,Yes.,00:06:05
+dslwdtn,71,tutor,"Yeah, all right. And what if instead of— other question here right now is how many boxes are needed? What if the question was like how many full boxes will be there? Then what would be [UNCLEAR]?",00:06:06
+dslwdtn,72,student,121 remainder 2.,00:06:21
+dslwdtn,73,tutor,"So just 121 we can say, right? Yes, because that will be the number of full boxes. The another box, the 122nd box, won't be full. It will only have 2 cupcakes, right? [unclear] And the full box need to have 4 cupcakes, and that for that answer should be 121, right?",00:06:25
+dslwdtn,74,student,Yes.,00:06:52
+dslwdtn,75,tutor,"Yes. You have done a fabulous job here in dividing and in understanding the question. So you get an awesome effort card for that. And with that, Desmond, we have completed the lesson. And can you tell me what is the most important thing that we have to be careful of while doing short division?",00:06:53
+dslwdtn,76,student,The most important thing about— is about short division is the remainder too.,00:07:16
+dslwdtn,77,student,"Because if you get a remainder, you have to just— whatever the question is, you have to put that remainder in a box like this question. [unclear]",00:07:23
+dslwdtn,78,tutor,"Yeah, like whenever we are doing the short division for a word problem, we need to understand what is asked in the question, right? And it depends on that whether we round the remainder up or we round it down, right?",00:07:34
+dslwdtn,79,student,Yes.,00:07:51
+dslwdtn,80,tutor,"Yes, all right. So with that, we have completed this lesson. Now let's move on to the next lesson.",00:07:52
+dslwdtn,81,student,Okay.,00:07:59
+dslwdtn,82,tutor,The next lesson is adding and subtracting decimals using non-facts. So do you know how to add and subtract decimals using non-facts?,00:07:59
+dslwdtn,83,student,"Uh, no. [unclear]",00:08:09
+dslwdtn,84,tutor,"Okay, so like, You know, but you are a— you're not that confident. Can I say that?",00:08:14
+dslwdtn,85,tutor,Mm-hmm.,00:08:21
+dslwdtn,86,background,"Okay, no problem. We'll do it together wherever you need help, right?",00:08:22
+dslwdtn,87,tutor,Okay.,00:08:26
+dslwdtn,88,background,"Yeah, so let's try the learning goal question.",00:08:28
+dslwdtn,89,tutor,Okay.,00:08:30
+dslwdtn,90,student,And— [unclear] Solve the calculation using known facts. And— so what's the calculation? [unclear],00:08:33
+dslwdtn,91,tutor,Okay. That's right. How did you do it?,00:08:47
+dslwdtn,92,student,"I did it because I know if you add 7 and 6, it's going to equal 13. So if it's 0.13 take away 0.07, it will be 0.06.",00:08:50
+dslwdtn,93,tutor,So how do you read this?,00:09:04
+dslwdtn,94,student,0.13.,00:09:05
+dslwdtn,95,tutor,"Yes, 1, 3, right? 0.13. So also, you are absolutely correct because you use the fact 13 take away 7 is 6, right? [unclear] And how do you know that it has— the answer has to be 0.06 and not 0.6?",00:09:09
+dslwdtn,96,student,It won't be 0.6 because— wait.,00:09:29
+dslwdtn,97,student,Are you telling me it's— because it is 0.6.,00:09:36
+dslwdtn,98,tutor,"No, it is 0.06 only. But how do you know that? I want to know that. Your answer is absolutely correct. [unclear]",00:09:41
+dslwdtn,99,student,"Since 0.07 and 0.06 is going to equal 0.13, Then I just divide— take away— 0.13 take away 0.07, which I already know the answer, which is 0.036. [unclear]",00:09:54
+dslwdtn,100,tutor,"Okay, all right, you have explained it very well. So basically, if we look at our numbers, like you have used the numbers 13 and 7, right?",00:10:12
+dslwdtn,101,student,Yes.,00:10:22
+dslwdtn,102,tutor,"So if, if I have to create a relation between your numbers 13 and 7. I'll look at both of the numbers. If I look at 13 here and if I look at this number here, it's 0.13. Hasn't it made 100 times smaller?",00:10:23
+dslwdtn,103,student,"No, 10 times. Yeah, 200 times smaller.",00:10:45
+dslwdtn,104,tutor,"100 times smaller, right? And 7 is also made 100 times smaller, isn't it? Right?",00:10:49
+dslwdtn,105,student,Yes.,00:10:58
+dslwdtn,106,tutor,"That is why the answer to this problem also has been made 100 times smaller. That is why it is 0.06, not 0.6. Okay?",00:11:00
+dslwdtn,107,student,Okay.,00:11:09
+dslwdtn,108,tutor,"Yes, so that's how we, we can explain it, right?",00:11:11
+dslwdtn,109,student,Yes.,00:11:16
+dslwdtn,110,tutor,"Yeah, but you are fantastic here in using your non-fact, so I would like to give you a good working out card for that. And since you are you already have a very good understanding of taking away the decimal numbers using your known facts. We are not going through the concept. We are only going to do some practice. All right?",00:11:17
+dslwdtn,111,student,Okay.,00:11:37
+dslwdtn,112,tutor,Yeah. So let's read the question.,00:11:38
+dslwdtn,113,student,"Using known facts— using your known facts, calculate 0.7 plus 0.4. Since 0.03 is [UNCLEAR]— wait, one—",00:11:41
+dslwdtn,114,student,That means that has to be 1.1.,00:11:53
+dslwdtn,115,tutor,Yay! Well done. Now how do you explain it? Why is it not 0.11 but 1.1?,00:11:56
+dslwdtn,116,student,"It's not 0.11 because that would be divided by— no, take away by—",00:12:04
+dslwdtn,117,tutor,"Divided, yes.",00:12:12
+dslwdtn,118,student,"Yeah, divided.",00:12:13
+dslwdtn,119,tutor,By?,00:12:15
+dslwdtn,120,student,"By, um— [unclear]",00:12:17
+dslwdtn,121,student,3.,00:12:22
+dslwdtn,122,tutor,"Hmm, okay, see. [unclear]",00:12:23
+dslwdtn,123,student,10.,00:12:25
+dslwdtn,124,tutor,"10, yes. So what non-fact have you used for it?",00:12:25
+dslwdtn,125,student,"Non-fact is 7 add 3, which is—",00:12:31
+dslwdtn,126,tutor,7 add 4.,00:12:34
+dslwdtn,127,student,Which is— oh yeah.,00:12:36
+dslwdtn,128,tutor,Yeah. Which is equal to?,00:12:39
+dslwdtn,129,student,[unclear],00:12:44
+dslwdtn,130,tutor,"Yeah, that's 11. So if we look at this 7 and the 0.7, how many times it is made smaller?",00:12:44
+dslwdtn,131,student,How much times it's made smaller?,00:12:57
+dslwdtn,132,tutor,Yeah.,00:12:59
+dslwdtn,133,student,10 times smaller.,00:13:00
+dslwdtn,134,tutor,Yes. Same goes for the 4 as well?,00:13:01
+dslwdtn,135,student,Yes.,00:13:04
+dslwdtn,136,tutor,"That is why you made your answer 11, 10 times smaller as well, right? Yes, yes, and you deserve an awesome effort card once again here for doing this. Now let's move on to the B part.",00:13:05
+dslwdtn,137,student,"Um, the B",00:13:21
+dslwdtn,138,background,calculate 0.15 to [unclear] 0.98.,00:13:22
+dslwdtn,139,tutor,"How do you read this, Desmond?",00:13:26
+dslwdtn,140,student,0.15.,00:13:29
+dslwdtn,141,tutor,Yes.,00:13:31
+dslwdtn,142,student,"Oh, I missed it.",00:13:33
+dslwdtn,143,tutor,It's okay.,00:13:34
+dslwdtn,144,student,"So it's going— since 0.08 add 5, it will be 15. No, it won't.",00:13:36
+dslwdtn,145,tutor,[unclear],00:13:51
+dslwdtn,146,student,7.,00:13:51
+dslwdtn,147,tutor,Yeah.,00:13:52
+dslwdtn,148,student,"So 0.08— I mean, 8 add 7 is 15.",00:13:53
+dslwdtn,149,tutor,Very good.,00:14:02
+dslwdtn,150,student,So that will be 0.07.,00:14:03
+dslwdtn,151,tutor,"Yay! Yes, very good. Well done once again. You've used your fact very well here. Okay, let's move on to the C part now.",00:14:09
+dslwdtn,152,student,"If 36 64 is 100, what is 0.36 add 0.864? Very good, very well read.",00:14:19
+dslwdtn,153,student,"Since that 36 plus 64 is 100, that's going to be 10 times— that's going to be divided by 100, so that's going to be 10.",00:14:32
+dslwdtn,154,tutor,You said it should be divided by 100?,00:14:46
+dslwdtn,155,student,I don't know.,00:14:49
+dslwdtn,156,tutor,What is this divided by? What is 36 divided by to get 0.36?,00:14:51
+dslwdtn,157,student,10 divided by 10.,00:14:57
+dslwdtn,158,tutor,Check it again.,00:15:01
+dslwdtn,159,student,10.,00:15:03
+dslwdtn,160,tutor,What do we divide 36 by to get 0.36?,00:15:04
+dslwdtn,161,student,10.,00:15:09
+dslwdtn,162,tutor,"If we divide it by 10, we'll get 3.6. And this is 0.36.",00:15:10
+dslwdtn,163,student,"Oh, 100.",00:15:19
+dslwdtn,164,tutor,"This is divided by 100, right? The digits have moved to the place—",00:15:21
+dslwdtn,165,student,"So it's going to be 1,000. And this is also divided by 100, right?",00:15:26
+dslwdtn,166,student,"Yes, it can be 1,000.",00:15:32
+dslwdtn,167,tutor,"But why 1,000?",00:15:35
+dslwdtn,168,student,"It's 1,000 because 100 times 100 is 1,000 since 10 times [unclear] is 100.",00:15:38
+dslwdtn,169,tutor,"I don't think. It should be times because both the numbers in the calculations are divided. They are made smaller. So the answer should also be smaller, right?",00:15:43
+dslwdtn,170,tutor,Yes.,00:15:55
+dslwdtn,171,student,By the same amount of time. So this should also be divided by a—,00:15:56
+dslwdtn,172,tutor,"Yes, yes. [unclear]",00:16:03
+dslwdtn,173,student,"Yeah, and 100 divided by 100 is—",00:16:06
+dslwdtn,174,tutor,1.,00:16:10
+dslwdtn,175,student,Yeah.,00:16:11
+dslwdtn,176,tutor,So that is the answer. Yeah.,00:16:13
+dslwdtn,177,student,"So is that correct? What I put? You put— you put 10 right now, right? I can see 10. [unclear]",00:16:16
+dslwdtn,178,tutor,But 100 divided by 100 is?,00:16:23
+dslwdtn,179,student,1.,00:16:29
+dslwdtn,180,tutor,"1 should be the answer, right?",00:16:31
+dslwdtn,181,student,Yes.,00:16:34
+dslwdtn,182,tutor,Do you have any confusion?,00:16:35
+dslwdtn,183,student,No.,00:16:37
+dslwdtn,184,tutor,"You see, Desmond, here also we did the same thing because 7 was made 10 times smaller. 4 was made 10 times smaller. So you made the answer 11 10 times smaller as well, right?",00:16:38
+dslwdtn,185,tutor,Yes.,00:16:52
+dslwdtn,186,student,"Right, Desmond?",00:16:52
+dslwdtn,187,tutor,Yeah.,00:16:53
+dslwdtn,188,student,Yeah.,00:16:53
+dslwdtn,189,tutor,"So here also we observed that 36 was made 100 times smaller. 64 was made 100 times smaller. So we made 100 also 100 times smaller. That's how we got 1, right?",00:16:54
+dslwdtn,190,student,Yes. [unclear] Yeah. Yeah.,00:17:07
+dslwdtn,191,tutor,"Yes. All right. Now let's move on to the deep pipe. I need 0.5 kilograms of flour and 0.7 of white flour per recipe. What is the total mass of flour I need? 1.1, 1.2?",00:17:13
+dslwdtn,192,tutor,1.2 it is.,00:17:36
+dslwdtn,193,student,Because I know—,00:17:39
+dslwdtn,194,tutor,Yeah?,00:17:41
+dslwdtn,195,student,"Because I know 7 and 3 is 10, and then we have 0.2, which will have 2 left, so yeah, it'll be 12. So that— so I know 0.7 add 0.5 kilogram will equal 1.2 kilograms.",00:17:42
+dslwdtn,196,tutor,"Yes, very well explained. Well done. So you said kilograms, so put the [unclear] as well here.",00:18:01
+dslwdtn,197,tutor,"Yes. Fantastic job you have done. You also have— you not only did the great calculation, but you also understood the question very well. So you deserve a good [unclear] card here for working it out all by yourself. So I wanted to say something, but I forgot. Okay. So— We have now completed this slide. It's time to move on to the next slide now, right?",00:18:12
+dslwdtn,198,tutor,Yes.,00:18:41
+dslwdtn,199,student,"Okay, so here we go. Let's read. What is the total volume of liquid in the measuring beakers in liters? All right, so that's, um, since it's 1 off to 1 liter, that's going to be 100 off to 1 liter, that's going to be 900, and that is 4 [unclear]",00:18:42
+dslwdtn,200,tutor,900 what?,00:19:03
+dslwdtn,201,student,"Litre. No, millilitres.",00:19:05
+dslwdtn,202,tutor,"Millilitres, okay.",00:19:08
+dslwdtn,203,student,"So 900 millilitres add 400 millilitres, that's going to be 13 millilitres. No, litres. Wait, no, 1.3 litres.",00:19:11
+dslwdtn,204,tutor,"1.3, yes, litres.",00:19:25
+dslwdtn,205,tutor,"Very good. So when you added them in milliliters, it was 1,300 milliliters, right?",00:19:28
+dslwdtn,206,student,Yes.,00:19:35
+dslwdtn,207,tutor,"Yes, and then you have converted that into [unclear] back again. And I am so impressed that you not only have added here, but you also have shown a very good understanding of converting between units of measure. That's great. And for that, you— I want to give you an awesome effort card. Well done.",00:19:36
+dslwdtn,208,student,Thank you.,00:20:01
+dslwdtn,209,tutor,"Also, what will be that in decimals? Because the whole idea of doing this hello was—",00:20:03
+dslwdtn,210,student,"What in decimals? 0.13. No, wait, wait, what?",00:20:10
+dslwdtn,211,tutor,"This, this, the amount of water.",00:20:17
+dslwdtn,212,student,Oh.,00:20:20
+dslwdtn,213,student,0.4.,00:20:20
+dslwdtn,214,tutor,"Yes, and that?",00:20:22
+dslwdtn,215,student,0.9.,00:20:24
+dslwdtn,216,tutor,"Yes, exactly, 0.9, and that's 0.4, and when we add them together, we get 1.3 liters, right?",00:20:26
+dslwdtn,217,student,Yeah.,00:20:34
+dslwdtn,218,tutor,"Yes, okay, well done. And with that, we have completed this LO, and I would like to ask you, what made learning easier here on this LO?",00:20:35
+dslwdtn,219,student,"It made it easier because I know liters can be divided by 100 to get to— wait, is it 100? To get to— [unclear] Milliliters [unclear] 1,000 will get to liters. And liters times by 1,000 will get to milliliters.",00:20:46
+dslwdtn,220,tutor,Exactly. Very good. And you know what? This is the same thing that we are going to do next.,00:21:10
+dslwdtn,221,tutor,"This is our next LO, converting between units of measure. Yeah. So let's move on to the next LO now. You see, this is converting between units of measure. So do you know how to— I could see on the last question that you know converting between liters and milliliters. Do you know other units as well?",00:21:17
+dslwdtn,222,student,Yeah.,00:21:40
+dslwdtn,223,tutor,"Okay, that's great. Can we try the learning goal question? Complete a conversion between units of measure. Complete this conversion. One quarter equals—",00:21:41
+dslwdtn,224,tutor,One quarter of meter.,00:21:53
+dslwdtn,225,student,75.,00:21:53
+dslwdtn,226,tutor,How did you get this?,00:21:58
+dslwdtn,227,student,Me?,00:22:04
+dslwdtn,228,tutor,Yeah.,00:22:06
+dslwdtn,229,student,I got this because I know half is— [unclear]...500. So I know 75 can get to 500. So that's how I got to it.,00:22:07
+dslwdtn,230,tutor,So do you know how many centimeters are there in a meter?,00:22:23
+dslwdtn,231,student,"Yes, 100.",00:22:28
+dslwdtn,232,tutor,100. Very good. And then what is one quarter of that?,00:22:29
+dslwdtn,233,student,"Oh, I'm [unclear] now.",00:22:35
+dslwdtn,234,tutor,One quarter of 100.,00:22:40
+dslwdtn,235,student,"Yeah, 50. [unclear]",00:22:42
+dslwdtn,236,tutor,"Yes, that's 25, right?",00:22:47
+dslwdtn,237,student,Yes.,00:22:50
+dslwdtn,238,tutor,"Yeah, okay. So, good job you have done. It's mainly about the calculation, but you knew how to convert, right?",00:22:51
+dslwdtn,239,student,Yeah.,00:23:00
+dslwdtn,240,tutor,"Yeah, so for trying your best, I would like to give you an awesome effort card. Can we try the prior learning question as well?",00:23:01
+dslwdtn,241,student,Yes.,00:23:07
+dslwdtn,242,student,"What would meter— yes, please. What would [unclear] 45 centimeters in meters?",00:23:08
+dslwdtn,243,tutor,Hmm.,00:23:17
+dslwdtn,244,student,"Oh. Wait, in meters.",00:23:17
+dslwdtn,245,tutor,Yeah.,00:23:23
+dslwdtn,246,student,"Oh, um.",00:23:24
+dslwdtn,247,tutor,"That's right. Yes, that's how we write it. meters, in meters. Yeah.",00:23:29
+dslwdtn,248,student,Same,00:23:36
+dslwdtn,249,tutor,"with the meters also? Yeah, very good. So how do you do this? Can you tell me? I",00:23:37
+dslwdtn,250,student,did this because I know 1 meter and 45 centimeters is 145 centimeters. Yeah.,00:23:41
+dslwdtn,251,tutor,So,00:23:49
+dslwdtn,252,student,"then I divided by that by 10, which will get me to 1.45 meters. Did",00:23:50
+dslwdtn,253,tutor,you divide by 10?,00:23:56
+dslwdtn,254,student,100.,00:23:58
+dslwdtn,255,tutor,"You divide that by 100, right? Because you know that there are 100 centimeters in a meter, so if you have to convert the centimeters back to meters, you have to divide by 100, right?",00:24:00
+dslwdtn,256,student,Yes.,00:24:13
+dslwdtn,257,tutor,"Yes. All right, very well explained. So, uh, because there are some more units as well, so I guess we can go through the concept once and we can quickly revise all the units, right?",00:24:14
+dslwdtn,258,student,Right.,00:24:29
+dslwdtn,259,tutor,"Yes, so let's learn. Let's read it from here.",00:24:30
+dslwdtn,260,student,Knowing some keys unit conversion can help in real life when solving problems. 1 kilogram is equal to 1 [UNCLEAR].,00:24:33
+dslwdtn,261,tutor,Kilometer.,00:24:42
+dslwdtn,262,student,"1 kilometer equal to 1,000 meters. 1 meter equals 200 centimeters. 1 centimeter equals 10 millimeters. 1 liter is equal to 1,000 milliliters. 1 kilogram 1,000 grams. 1 pound is equal to 100 grams.",00:24:43
+dslwdtn,263,tutor,That's right. You knew all of them?,00:25:04
+dslwdtn,264,student,"Yes, sir.",00:25:08
+dslwdtn,265,tutor,"Okay, that's great. So these are very important. [unclear] Yeah, that's, that's nice. So these are very important and these are needed to convert between the units, right? Yeah, okay, let's do it. Yeah. What about this?",00:25:09
+dslwdtn,266,student,Okay.,00:25:31
+dslwdtn,267,tutor,"Mm-hmm. It should be 8. So if we have to convert the kilograms to grams, what do we do?",00:25:32
+dslwdtn,268,student,"Times by 1,000.",00:25:41
+dslwdtn,269,tutor,"And if we have to do the other way around, if we have to convert the grams back to kilograms?",00:25:44
+dslwdtn,270,student,"Divide it by 1,000.",00:25:47
+dslwdtn,271,tutor,"Divide by 1,000. Good job.",00:25:49
+dslwdtn,272,tutor,"Okay, let's complete these as well. This is part of this. 4 pounds is equal to how many peas? 400. What about this? There you go. Now let's move on to the C part. Yes, that's right. Can you tell me what did we do to get this?",00:25:52
+dslwdtn,273,student,I got that because in the top bit it says 1 centimeter is equal to 10 millimeters.,00:26:19
+dslwdtn,274,tutor,Right.,00:26:26
+dslwdtn,275,student,"So if it's 3, it's going to be 30 millimeters. 0.5, which is going to be 0.5 millimeters. So that's how I got 35. [unclear]",00:26:27
+dslwdtn,276,tutor,"So 0.5 should be 5 after multiplying that by 10, right? Like how you multiplied 3 by 10, right?",00:26:39
+dslwdtn,277,student,Yeah.,00:26:47
+dslwdtn,278,tutor,Yeah. So basically we can,00:26:47
+dslwdtn,279,tutor,"Simply multiply 3.5 by 10, which will give us 35, right?",00:26:49
+dslwdtn,280,student,Yes.,00:26:55
+dslwdtn,281,tutor,"And yes, that is correct as well. Can you tell me what calculation do we do to convert the milliliters to liters?",00:26:56
+dslwdtn,282,student,"We do that because millimeters is— if you look at the top where it gave us some hints, it says 1 liter equals to 1,000 milliliters.",00:27:02
+dslwdtn,283,student,"So I know 2,000 is 2 liters, and then the 500 is 0.5 milliliters.",00:27:15
+dslwdtn,284,tutor,"Yeah, so can I basically say that to convert milliliters to liters, we divide by 1,000? Yeah?",00:27:25
+dslwdtn,285,student,"Yeah, and then times 5,000 to get to liters, 2 milliliters.",00:27:32
+dslwdtn,286,tutor,"Yeah, very good. Okay, so you see how important these units are?",00:27:37
+dslwdtn,287,tutor,Right?,00:27:41
+dslwdtn,288,student,Yes.,00:27:42
+dslwdtn,289,tutor,"Yeah. Okay. And you have done a great job here in doing all of them all by yourself. So good working out [unclear] for you, Desmond. Now we are moving on to the next slide, which is called Follow Me and Your Turn. So first I'm going to show you, as you must be used to it, I am first going to show it to you here on the Follow Me part, how to convert the fractional and decimal units. And then you will do your turn yourself, right?",00:27:42
+dslwdtn,290,student,Yes.,00:28:12
+dslwdtn,291,tutor,"Okay, so while I'm doing this, please listen to me carefully. So it says, let's look at converting with fractions and decimal quantities. So on the last slide, we mostly did the whole numbers, but we can also— like we saw on the warm-up question, we can get to convert the fraction and decimal quantities as well. Like here we can see in the first question, 2/5 of a kilometer is equal to something meters. So first I have to look at the units that are given. So it is kilometer and meter. So for that, I should know that 1 kilometer is equal to 1,000 meters, right?",00:28:13
+dslwdtn,292,tutor,Yes.,00:29:01
+dslwdtn,293,student,"And then I can simply figure out what is 2/5 of 1,000 meters, right?",00:29:03
+dslwdtn,294,student,Mm-hmm.,00:29:09
+dslwdtn,295,tutor,"So for that, I first have to— like, you know how to find fraction of amounts?",00:29:10
+dslwdtn,296,student,Yeah.,00:29:17
+dslwdtn,297,tutor,"We first divide by the denominator and then multiply by the numerator, right?",00:29:17
+dslwdtn,298,student,Yes.,00:29:24
+dslwdtn,299,tutor,"So first I have to divide this 1,000 by 5 because there are 5 total parts, which is represented by the denominator. So if I divide 1,000 by 5, I get 200, right?",00:29:25
+dslwdtn,300,student,"Um, and you forgot number 1.",00:29:39
+dslwdtn,301,tutor,"About that, I am figuring out, then I will write it, okay? Because this is a part of it. These are the steps that I am going to follow to figure it out, right? These are the steps that I need to follow to find this out, okay? [unclear]",00:29:44
+dslwdtn,302,tutor,"Yeah, so first I divide 1,000 by 5, I get 200. So that turns out to be the value of one part here, right?",00:30:01
+dslwdtn,303,student,Yeah.,00:30:12
+dslwdtn,304,tutor,"But I need two parts of it. So for that, I will multiply this 200 that I figured out by 2, which will give me 400 meters. So this 400 is my answer. I got it right?",00:30:14
+dslwdtn,305,student,"Yeah, yeah. No, no, no, no.",00:30:32
+dslwdtn,306,tutor,What happened? You don't agree with my answer?,00:30:39
+dslwdtn,307,student,"No, because you haven't done this. Because it's 250, it's not— 250 kilometers, not 200.",00:30:45
+dslwdtn,308,student,Because 1/5 is...,00:30:55
+dslwdtn,309,tutor,1/5 is equal to 200. 2/5 is equal to 400.,00:30:56
+dslwdtn,310,student,"Oh, well, okay.",00:31:02
+dslwdtn,311,tutor,"You see, it's like we are dividing a kilometer into 5 equal parts, and we need 2 parts of it, right? According to the fraction.",00:31:03
+dslwdtn,312,student,"Eee... yeah, yeah, you are, yeah.",00:31:12
+dslwdtn,313,tutor,"Isn't it? So if it's 200, this is also 200, 200, 200, 400, then 600, 800, and 1,000.",00:31:15
+dslwdtn,314,student,"Yeah, yeah, yeah, yeah, yeah, yeah.",00:31:23
+dslwdtn,315,tutor,You agree with me now?,00:31:25
+dslwdtn,316,student,Yes.,00:31:27
+dslwdtn,317,tutor,"Okay, all right. Now it says 0.25 liters is equal to something milliliters. So for this, we don't even have to go through this fractional concept. We can directly multiply this by 1,000 because we learned that to [unclear] convert the liters into milliliters, we have to multiply by 1,000. Because 1 liter is equal to 1,000 milliliters, right?",00:31:28
+dslwdtn,318,student,Yeah.,00:31:55
+dslwdtn,319,tutor,"So if I multiply 0.25 by 1,000, I get 250 milliliters, right? [unclear]",00:31:56
+dslwdtn,320,student,Yeah.,00:32:08
+dslwdtn,321,tutor,"Right? Also, if we have to look through the concept of fraction, 0.25 As a fraction is same as 1/4. And if I find 1/4 of 1,000, I have to divide it by 4, which again will give me 250, right? Any confusion? Any question about this?",00:32:10
+dslwdtn,322,student,[unclear],00:32:33
+dslwdtn,323,tutor,Desmond?,00:32:34
+dslwdtn,324,student,No.,00:32:36
+dslwdtn,325,tutor,"Okay, alright. So I really appreciate that you were listening to me carefully and you were also asking where you were not understanding. So I would like to give you an excellent focus Good score for that. Are you now ready for your turn, Desmond?",00:32:38
+dslwdtn,326,student,Yeah.,00:32:56
+dslwdtn,327,tutor,"All right, let's do it.",00:32:57
+dslwdtn,328,student,"6, uh, I think I'll pick 600.",00:33:00
+dslwdtn,329,tutor,Why is it 600? [unclear] We are finding— what are we finding here in the first part? [unclear],00:33:08
+dslwdtn,330,tutor,3/4. [unclear],00:33:22
+dslwdtn,331,student,3/4 of a kilogram.,00:33:31
+dslwdtn,332,tutor,I don't know what 1/4 is.,00:33:32
+dslwdtn,333,student,"So how do you find 1/4 of 1,000? 1,000, uh, at 6.",00:33:37
+dslwdtn,334,tutor,"You just divide 1,000 by 4 simply. [unclear] And if you divide 1,000 into 4, what do you get if you divide 1,000 by 4?",00:33:47
+dslwdtn,335,student,1.,00:34:02
+dslwdtn,336,tutor,"1,000 by 4. Can you do it here? You are so good with your short division. Let's see. Can you do this?",00:34:03
+dslwdtn,337,student,I don't know. I don't know. I'm confused. It's hard.,00:34:20
+dslwdtn,338,tutor,But you did it here.,00:34:27
+dslwdtn,339,student,"Yeah, that was [UNCLEAR]. [unclear]",00:34:30
+dslwdtn,340,student,"75. That's what I'm guessing, 75.",00:34:38
+dslwdtn,341,tutor,"4 divided by 1,000— 1,000 divided by 4, you think that's 75?",00:34:46
+dslwdtn,342,student,Yeah.,00:34:51
+dslwdtn,343,tutor,"But when you were dividing 100 by 4,",00:34:54
+dslwdtn,344,tutor,Yeah.,00:34:58
+dslwdtn,345,student,25.,00:34:58
+dslwdtn,346,tutor,Yeah.,00:35:00
+dslwdtn,347,student,And it is just 10 times bigger than that.,00:35:01
+dslwdtn,348,tutor,"Yeah, I know.",00:35:05
+dslwdtn,349,student,"So you just need to make that 25, 10 times bigger.",00:35:06
+dslwdtn,350,tutor,"Um, 25 times 10 times bigger.",00:35:11
+dslwdtn,351,student,Yeah.,00:35:14
+dslwdtn,352,tutor,"20, um, uh.",00:35:14
+dslwdtn,353,student,"Yes, it's 250, right?",00:35:18
+dslwdtn,354,tutor,I don't know.,00:35:23
+dslwdtn,355,tutor,"Also, you can try dividing. You were— we were doing short division on the first, um, [UNCLEAR].",00:35:24
+dslwdtn,356,student,Mm-hmm.,00:35:33
+dslwdtn,357,tutor,6.,00:35:40
+dslwdtn,358,student,6.,00:35:42
+dslwdtn,359,tutor,"So now you got 100,000 divided by 4 is 250. Now we are finding 3/4 of 400.",00:35:43
+dslwdtn,360,student,400.,00:35:55
+dslwdtn,361,tutor,So now you got— it should be the same. We are multiplying one part by 3.,00:35:55
+dslwdtn,362,student,How is it— how is it the same?,00:36:02
+dslwdtn,363,tutor,What is same?,00:36:06
+dslwdtn,364,student,"Um, 400. No, 600. No, yeah, 600. But you have to multiply that by 3, right?",00:36:08
+dslwdtn,365,student,"Oh, 750.",00:36:19
+dslwdtn,366,tutor,You write 750 here after multiplying 250 by 3. Right?,00:36:23
+dslwdtn,367,student,"Um, [unclear] times by what?",00:36:32
+dslwdtn,368,tutor,"We are multiplying 250 by 3. That's how we get— when we multiply this by 3, what do we get? You just write the answer here. 750.",00:36:38
+dslwdtn,369,student,I just write the answer?,00:36:55
+dslwdtn,370,tutor,Yeah.,00:36:57
+dslwdtn,371,student,So it's 750?,00:36:59
+dslwdtn,372,tutor,Yes.,00:37:01
+dslwdtn,373,student,How is it 750?,00:37:03
+dslwdtn,374,tutor,Because we need 3 parts according to the fraction. [unclear],00:37:06
+dslwdtn,375,tutor,"Yeah, so that is why we multiply 250 by 3.",00:37:12
+dslwdtn,376,student,Yeah.,00:37:19
+dslwdtn,377,tutor,"Yeah, when you multiply 250 by 3, we get 750. Right?",00:37:22
+dslwdtn,378,student,Yes.,00:37:31
+dslwdtn,379,tutor,So that's how we get it. So 3/4 of a kg is kilogram.,00:37:33
+dslwdtn,380,student,[unclear] 400.,00:37:38
+dslwdtn,381,tutor,But why do you think it is 400?,00:37:42
+dslwdtn,382,student,I don't know. My brain is not working after that calculation.,00:37:47
+dslwdtn,383,tutor,"But just, you need to clear your thoughts right now, okay? Just, just get it blank and then 3 started. So we were finding 3/4 of a kg, right?",00:37:56
+dslwdtn,384,student,Yes.,00:38:11
+dslwdtn,385,tutor,"And for that, first we need to know how many grams.",00:38:13
+dslwdtn,386,student,"I know, I know. [unclear]",00:38:17
+dslwdtn,387,tutor,You understand it now?,00:38:21
+dslwdtn,388,student,Yes.,00:38:23
+dslwdtn,389,tutor,"Okay, so can we now move on to the second question?",00:38:24
+dslwdtn,390,student,Yeah.,00:38:28
+dslwdtn,391,tutor,"Okay, let's do it. A half of a meter is 1— 0.5— [unclear] 500 centimeters.",00:38:29
+dslwdtn,392,tutor,How many centimeters are there in 1 meter?,00:38:47
+dslwdtn,393,student,"500? No, 100.",00:38:50
+dslwdtn,394,tutor,100. And what is half of that?,00:38:53
+dslwdtn,395,student,75. What is half of 100?,00:38:56
+dslwdtn,396,student,75.,00:38:59
+dslwdtn,397,tutor,Half of 100?,00:39:01
+dslwdtn,398,student,25.,00:39:03
+dslwdtn,399,tutor,"That is a quarter. Half, if you split 100 into 2 parts?",00:39:05
+dslwdtn,400,student,50.,00:39:11
+dslwdtn,401,tutor,Yeah.,00:39:12
+dslwdtn,402,student,So it's— how is it 50 centimeters?,00:39:14
+dslwdtn,403,tutor,"It will be 50 centimeters. Also, you know that to, to, uh, Convert the meters to centimeters, multiply by 100, right? [unclear] So it should be 50, right?",00:39:18
+dslwdtn,404,student,Yes.,00:39:34
+dslwdtn,405,tutor,"Yeah, I really appreciate that you do not give up on a question. You keep trying and you get the answer, right?",00:39:36
+dslwdtn,406,student,"10, 10, 10.",00:39:46
+dslwdtn,407,student,That's 10.,00:39:50
+dslwdtn,408,tutor,100 divided by 2.,00:39:52
+dslwdtn,409,student,"Yeah, it's 10.",00:39:54
+dslwdtn,410,tutor,How many times 2 goes into 10?,00:39:56
+dslwdtn,411,student,10.,00:39:59
+dslwdtn,412,tutor,How many times 2 goes into 10?,00:40:01
+dslwdtn,413,student,[unclear] 100.,00:40:02
+dslwdtn,414,tutor,100 divided by 10 is 10. 100 divided by 2 is 50.,00:40:07
+dslwdtn,415,student,[unclear] How is it 50?,00:40:11
+dslwdtn,416,tutor,Because 2 goes into 10 5 times.,00:40:17
+dslwdtn,417,student,"Yeah, but it's times— 10 times 10 is— [unclear]",00:40:20
+dslwdtn,418,tutor,"10 times 10 is 100, but 50 times 2 is 100.",00:40:26
+dslwdtn,419,student,Okay.,00:40:32
+dslwdtn,420,tutor,"It's not 10, right?",00:40:33
+dslwdtn,421,student,Yes.,00:40:35
+dslwdtn,422,tutor,Yes.,00:40:39
+dslwdtn,423,tutor,"So I would like to give you an awesome effort card because you kept trying your best and you got your answers, right?",00:40:42
+dslwdtn,424,student,Yes. [unclear],00:40:50
+dslwdtn,425,tutor,"Okay, so since you have learned, are you ready for some practice?",00:40:53
+dslwdtn,426,student,No.,00:40:57
+dslwdtn,427,tutor,You're not ready for the practice?,00:40:59
+dslwdtn,428,student,No. I don't want to practice.,00:41:01
+dslwdtn,429,tutor,Shall we keep discussing that?,00:41:04
+dslwdtn,430,student,[unclear],00:41:10
+dslwdtn,431,tutor,Like practicing some questions based on converting between the units?,00:41:10
+dslwdtn,432,student,No. Fine.,00:41:16
+dslwdtn,433,tutor,"Okay, so here we go. Let's read question number A.",00:41:20
+dslwdtn,434,student,600 centimeters equals... [unclear],00:41:27
+dslwdtn,435,tutor,"Yes, you did it! How did you do this? Tell me. You're doing it. Okay, let's do the C part as well.",00:41:38
+dslwdtn,436,student,Mm-hmm.,00:41:55
+dslwdtn,437,tutor,"You see, you're doing it. Your brain's working very well, right?",00:42:02
+dslwdtn,438,student,"Um, yes.",00:42:09
+dslwdtn,439,tutor,Okay.,00:42:11
+dslwdtn,440,student,3/4 has 750— [unclear],00:42:13
+dslwdtn,441,tutor,"Yeah, yeah. What would you say?",00:42:17
+dslwdtn,442,student,750.,00:42:20
+dslwdtn,443,tutor,You said 750?,00:42:22
+dslwdtn,444,student,No.,00:42:27
+dslwdtn,445,tutor,Yeah.,00:42:27
+dslwdtn,446,student,So what do you think?,00:42:28
+dslwdtn,447,tutor,250.,00:42:29
+dslwdtn,448,student,250 would be one quarter. [unclear],00:42:31
+dslwdtn,449,tutor,"Oh, okay.",00:42:38
+dslwdtn,450,student,"One quarter is 250. So three quarters should be? Yes, 750. There you go. You got it. Right?",00:42:41
+dslwdtn,451,student,"Yes, [UNCLEAR].",00:42:50
+dslwdtn,452,tutor,"Let's move on to the E part now. E part says— yay, well done!",00:42:51
+dslwdtn,453,student,"[unclear] equals 2,200 milliliters.",00:43:08
+dslwdtn,454,tutor,"Yes, you did all the questions all by yourself. I did not help you at any question. You were able to do it. Seems you are very good with converting between the units already, right?",00:43:13
+dslwdtn,455,student,Yes.,00:43:27
+dslwdtn,456,tutor,So what was confusing you here on the [unclear] slide?,00:43:29
+dslwdtn,457,student,The— no.,00:43:32
+dslwdtn,458,tutor,Because there was like lots of steps to follow?,00:43:34
+dslwdtn,459,student,And no.,00:43:38
+dslwdtn,460,tutor,And you like to keep it simple?,00:43:40
+dslwdtn,461,student,No. [unclear],00:43:44
+dslwdtn,462,tutor,"I guess you keep it simple because you did that so effortlessly. And even that, yeah, I really, really appreciate that. I would like to give you a good working out card for doing it independently. Yeah, so Desmond, for today we will keep it till here. We will continue this lesson in our next session. All right?",00:43:45
+dslwdtn,463,student,"Okay. Yes. Now you tell me, how did you like the session?",00:44:07
+dslwdtn,464,student,Yes.,00:44:11
+dslwdtn,465,tutor,How did you like it?,00:44:14
+dslwdtn,466,student,I don't know. I just like it.,00:44:16
+dslwdtn,467,tutor,"You liked it, yeah?",00:44:19
+dslwdtn,468,student,Yes.,00:44:21
+dslwdtn,469,tutor,"Okay. Anyway, I enjoyed a lot teaching you because you are so focused throughout the session, and for that I would like to give you an Excellent Focus Card as well. So before you go, Desmond, please don't forget to check your understanding and—",00:44:22
+dslwdtn,470,student,"Yes. Also, do not forget to reflect on your session and let me know how did you like it.",00:44:37
+dslwdtn,471,student,Okay.,00:44:43
+dslwdtn,472,tutor,"Yes. We'll meet next week. Till then, take care of yourself. Bye-bye. Have a good day.",00:44:43
+dslwdtn,473,student,Bye.,00:44:49

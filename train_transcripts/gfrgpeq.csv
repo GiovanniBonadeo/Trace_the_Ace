@@ -1,0 +1,421 @@
+session_id,utterance_id,role,content,timestamp
+gfrgpeq,0,background,[unclear],00:00:00
+gfrgpeq,1,tutor,Hello? Hello?,00:00:00
+gfrgpeq,2,background,It's me.,00:00:05
+gfrgpeq,3,tutor,Hello?,00:00:07
+gfrgpeq,4,background,"Hello, hi, can you hear me? Can you hear me? Hello?",00:00:08
+gfrgpeq,5,tutor,Hello?,00:00:14
+gfrgpeq,6,background,"Hi, can you hear me?",00:00:15
+gfrgpeq,7,tutor,Yeah.,00:00:16
+gfrgpeq,8,background,Awesome. How are you doing today?,00:00:17
+gfrgpeq,9,tutor,"Well, are you a new teacher?",00:00:20
+gfrgpeq,10,background,"Yes, I'm sorry, I forgot to introduce myself. I'm [TUTOR_NAME] and I'll be your tutor for the day. Is that okay?",00:00:22
+gfrgpeq,11,tutor,Yeah.,00:00:28
+gfrgpeq,12,background,Awesome. I do have a question. How do I pronounce your name? Is it Felix?,00:00:29
+gfrgpeq,13,student,"Um, it's, uh... [unclear] Felix.",00:00:35
+gfrgpeq,14,tutor,"Felix, is that so?",00:00:40
+gfrgpeq,15,student,Yes.,00:00:43
+gfrgpeq,16,tutor,"Awesome, okay, I'm sorry I didn't know how to say your name, so yeah, thanks for helping me, okay?",00:00:44
+gfrgpeq,17,student,"Wait, just a weird off-question. Are you British?",00:00:50
+gfrgpeq,18,tutor,No. Why did you ask that?,00:00:55
+gfrgpeq,19,student,Because you sound like you have a British accent.,00:01:00
+gfrgpeq,20,tutor,"Okay, okay, so more like a British accent, is that so?",00:01:03
+gfrgpeq,21,tutor,Yes.,00:01:10
+gfrgpeq,22,background,"Okay, alright, okay. So if you don't understand me or if you feel like I'm talking too fast, please let me know since this is our very first session, yeah? So I didn't— I mean, I don't know how much I should slow down or I should fast up myself because we are practicing today, yeah?",00:01:10
+gfrgpeq,23,tutor,Alright.,00:01:28
+gfrgpeq,24,background,"So yeah, let me know if you feel like I'm talking too fast or too slow or too loud or even too low, okay? Let me know.",00:01:29
+gfrgpeq,25,tutor,Okay.,00:01:38
+gfrgpeq,26,background,Alright?,00:01:38
+gfrgpeq,27,tutor,Yes.,00:01:38
+gfrgpeq,28,background,So yeah. How was your day today?,00:01:38
+gfrgpeq,29,tutor,Good.,00:01:43
+gfrgpeq,30,tutor,Mm-hmm. That good was a little bit dull. Is everything okay?,00:01:43
+gfrgpeq,31,tutor,Yes. I just sound a little bit [UNCLEAR].,00:01:48
+gfrgpeq,32,tutor,"You mean, I think because we're kind of like coming closer to the end of the day and I think you're very tired. Is that so?",00:01:51
+gfrgpeq,33,tutor,Yes.,00:01:58
+gfrgpeq,34,tutor,"Understandable. A full day at school, yeah? Felix, did you do anything interesting at maths today?",00:01:59
+gfrgpeq,35,student,We didn't really do maths today. It's because... [unclear],00:02:08
+gfrgpeq,36,tutor,"No, because we had PE and then we had a long English session.",00:02:14
+gfrgpeq,37,student,We didn't do it because we did PE because it's a PE day and then we did English but it was almost going to be lunchtime so we didn't get to do it.,00:02:18
+gfrgpeq,38,tutor,"Alright, no worries. So I see that you have...",00:02:30
+gfrgpeq,39,student,We're doing angles.,00:02:34
+gfrgpeq,40,tutor,So the like measuring angles or like acute angles and stuff? Is that so?,00:02:39
+gfrgpeq,41,student,"Yes, I don't know.",00:02:46
+gfrgpeq,42,tutor,"No worries, that's okay. That's for another day maybe. So yeah, let's do the lesson that you have already started. Yeah?",00:02:48
+gfrgpeq,43,student,Yeah.,00:02:56
+gfrgpeq,44,tutor,"This is one of the lessons you started last time, grouping and counting in tens. And I see that you have written an answer over here. So I'm going to make you the tutor now. Can you teach me how you got this answer?",00:02:56
+gfrgpeq,45,student,"Oh, I can teach you? Okay, so...",00:03:10
+gfrgpeq,46,tutor,Yeah.,00:03:12
+gfrgpeq,47,tutor,"So you don't have to count the blocks because there's already 5. So you do 5, add— you do 1, add 1. You do 10, add 10. You actually— so then you line it, and then you do 0, that bit, so you'd make the 0. And then you do [unclear] and then you do 1 and then you do 1 and 2, that makes 20. But how I got that answer, I just did 20 and then add 5.",00:03:13
+gfrgpeq,48,tutor,"So that was 25, is that so?",00:04:04
+gfrgpeq,49,tutor,25.,00:04:08
+gfrgpeq,50,tutor,"Okay, tell me a bit more.",00:04:09
+gfrgpeq,51,student,"And if you do— this is another way how to get 20. So if you do— if you do 10, 10, 10, 5, you do— [unclear]",00:04:11
+gfrgpeq,52,tutor,"So 0 plus 5, that would be—",00:04:31
+gfrgpeq,53,student,"0 is 0, and you do 1 and 2. You do",00:04:33
+gfrgpeq,54,tutor,That would be 22. So that's not your answer yet.,00:04:38
+gfrgpeq,55,background,"And also, can you help me with the multiples of 10? What do we mean by multiples of 10, Felix?",00:04:44
+gfrgpeq,56,student,"The multiples of 10 is like, it's like 10, and you will have to like see, like you kind of like [UNCLEAR].",00:04:49
+gfrgpeq,57,background,Okay.,00:05:00
+gfrgpeq,58,tutor,What would be the next then? 30? Next would be?,00:05:05
+gfrgpeq,59,student,40.,00:05:09
+gfrgpeq,60,tutor,Okay. So how do we know that it's 40 and not 50? How do we know that?,00:05:11
+gfrgpeq,61,student,"It's because going in 10 times tables. It wouldn't be that if you didn't go in your, um, what's it called? If you went in your 2 times tables, it'll be 2, 4, 8, 22, 24, 26, and that's not right. And if you do 3 times tables, still not right. And the 5 times tables, still not right. So you have to do about the 10 table.",00:05:17
+gfrgpeq,62,background,"Tutor, can I ask you another question as well?",00:05:53
+gfrgpeq,63,tutor,"Yes, student. [Speaker] Okay, so each time it's increasing by how much, Felix?",00:05:56
+gfrgpeq,64,student,"Huh? [Speaker] Each time when you go like 10, 20, 30, so each time it increases by how much?",00:06:03
+gfrgpeq,65,student,It increases by one bit. [Speaker] One bit in which place value column? Is it in the ones column or the tens column? One is increasing it? [unclear] [unclear],00:06:09
+gfrgpeq,66,tutor,"I mean, like, is it increasing one, or I'm asking whether it's increasing by 10 each time, like 10 becomes 20, 20 becomes 30. Do you understand my question?",00:06:28
+gfrgpeq,67,student,Yes.,00:06:38
+gfrgpeq,68,tutor,"Okay, so what do you think? Is it increasing by one or by 10?",00:06:40
+gfrgpeq,69,student,10.,00:06:46
+gfrgpeq,70,tutor,"That's right. So that's the reason it's called the 10 times table, yeah? Because it increases by 10 each time. Does it make sense?",00:06:47
+gfrgpeq,71,tutor,Yes.,00:06:58
+gfrgpeq,72,background,Yes.,00:06:58
+gfrgpeq,73,tutor,"So I'm going to give you a sticker to start with first for the awesome explanation you gave me as a tutor, okay?",00:06:58
+gfrgpeq,74,student,So...,00:07:05
+gfrgpeq,75,tutor,Yeah?,00:07:07
+gfrgpeq,76,student,"You know, can you give me the hardest... not the hardest question, because I have this little like blackboard. Can you give me some... Questions and can I answer it?",00:07:08
+gfrgpeq,77,tutor,Of course. Give me a second to show what you have already done. Is it okay?,00:07:20
+gfrgpeq,78,student,Yes.,00:07:25
+gfrgpeq,79,tutor,"So I believe that you have completed these slides according to your previous tutor. You have completed even this slide, I believe, last time. [unclear]",00:07:25
+gfrgpeq,80,student,Yes.,00:07:33
+gfrgpeq,81,tutor,So today we're going to start off with some kind of toys. Do you like toys?,00:07:34
+gfrgpeq,82,student,Yes.,00:07:39
+gfrgpeq,83,tutor,"Okay, so it's going to be about toys, okay? Go ahead. Would you like to try it on your own first? Would you like to try it on your own first? Like to read it and try to do this? I'll be just watching you.",00:07:39
+gfrgpeq,84,tutor,Yeah.,00:07:51
+gfrgpeq,85,background,[unclear],00:07:53
+gfrgpeq,86,tutor,Okay.,00:07:54
+gfrgpeq,87,background,I'm gonna take my headphones off.,00:07:55
+gfrgpeq,88,tutor,Okay. Why? Can I know? Can I know why are you taking headphones off? Because I wouldn't be able to hear you or converse with you.,00:07:58
+gfrgpeq,89,student,Because they're annoying me.,00:08:08
+gfrgpeq,90,tutor,"Okay. All right. Please put it on when you speak back, okay? Is it okay?",00:08:09
+gfrgpeq,91,tutor,"Okay. Yeah, I'll have them on like this bit.",00:08:15
+gfrgpeq,92,tutor,Okay. No worries.,00:08:19
+gfrgpeq,93,tutor,So if you're the student and I'm teaching you.,00:08:22
+gfrgpeq,94,background,"Yes, you are the teacher.",00:08:27
+gfrgpeq,95,tutor,"So do add 10. So, [UNCLEAR]. So, student.",00:08:29
+gfrgpeq,96,tutor,What is 10p 10p? Is,00:08:38
+gfrgpeq,97,background,it 11p? No.,00:08:43
+gfrgpeq,98,tutor,"So you have a zero, right? Yes.",00:08:46
+gfrgpeq,99,background,"So,",00:08:51
+gfrgpeq,100,tutor,"and then get the count, 1. Mm-hmm.",00:08:51
+gfrgpeq,101,background,What's,00:08:56
+gfrgpeq,102,tutor,after— what's after 1? 2.,00:08:56
+gfrgpeq,103,background,"Yes,",00:08:59
+gfrgpeq,104,tutor,it'll be 20. And then we do 20. Add 6. Now what would it be?,00:09:00
+gfrgpeq,105,tutor,Probably 26.,00:09:13
+gfrgpeq,106,student,"Yes, you're right.",00:09:16
+gfrgpeq,107,tutor,So is that our answer here?,00:09:18
+gfrgpeq,108,student,No.,00:09:21
+gfrgpeq,109,tutor,Then what do we do next?,00:09:22
+gfrgpeq,110,student,"You have to [UNCLEAR]. Wait, let me ask my teacher. [unclear]",00:09:26
+gfrgpeq,111,tutor,"Hello, Felix, are you there? Hello?",00:09:42
+gfrgpeq,112,student,I'm back.,00:09:57
+gfrgpeq,113,tutor,"Okay, nice. [Speaker:Tutor]...student, so let me just get... So, I found another way to do it.",00:09:59
+gfrgpeq,114,tutor,Can you teach me? How would you do this?,00:10:10
+gfrgpeq,115,student,"Yes, I will. So, if I have 20 and 6, where would— okay, so can you do that for me?",00:10:12
+gfrgpeq,116,tutor,I'm not sure how to get that answer. Is it [unclear] something? 20-something what?,00:10:22
+gfrgpeq,117,tutor,"I mean, the answer is 20-something, like 22, 24, or something.",00:10:31
+gfrgpeq,118,student,I can't tell you. You need to think.,00:10:36
+gfrgpeq,119,tutor,"Okay, but you can help me, right? Because you're the Teacher.",00:10:38
+gfrgpeq,120,student,Yes.,00:10:42
+gfrgpeq,121,tutor,Okay.,00:10:44
+gfrgpeq,122,student,"So, you turn the zero into a six. [unclear]",00:10:46
+gfrgpeq,123,tutor,Is everything okay?,00:10:51
+gfrgpeq,124,tutor,Yes.,00:10:56
+gfrgpeq,125,student,"And then you turn the 2, and I want that answer.",00:10:58
+gfrgpeq,126,tutor,So that would be 26 if you turn the 0 into a 6.,00:11:02
+gfrgpeq,127,student,"Yeah, but it won't be 26, it'll be—",00:11:05
+gfrgpeq,128,tutor,Why? [Speaker:Felix]...p.,00:11:07
+gfrgpeq,129,tutor,Okay. [Speaker:Felix]...p.,00:11:08
+gfrgpeq,130,background,"Mm-hmm. I do have a question for you, Tutor.",00:11:10
+gfrgpeq,131,tutor,Yeah?,00:11:16
+gfrgpeq,132,background,How many tens do we have? Do we have only 2 tens? How many 10ps do we have?,00:11:17
+gfrgpeq,133,tutor,3. [Speaker] So will it be 20 still though?,00:11:25
+gfrgpeq,134,tutor,"Oh no. So it will be 30. [Speaker] 30, yeah. So how would you change your answer? [unclear] [Speaker] So guys... [unclear] [Speaker] Very good. So what if I write the answer as just 36? Would you give me the mark?",00:11:29
+gfrgpeq,135,tutor,But no.,00:11:54
+gfrgpeq,136,tutor,Why? Why won't you give me the marks?,00:11:56
+gfrgpeq,137,student,Because... did you not hear me? Like... okay. If I wanna buy... um... let me just see... I wanna buy... [unclear] I wanna buy... a teddy bear.,00:11:58
+gfrgpeq,138,tutor,Okay.,00:12:16
+gfrgpeq,139,tutor,"Okay, you're buying a teddy bear. Let me circle that for you. Then what else are you buying?",00:12:21
+gfrgpeq,140,student,I want to buy a boat.,00:12:26
+gfrgpeq,141,tutor,Okay.,00:12:28
+gfrgpeq,142,student,A toy boat. Then a beach— a beach ball.,00:12:29
+gfrgpeq,143,tutor,Okay.,00:12:34
+gfrgpeq,144,student,"And last but not least, I want to buy a trumpet thing.",00:12:36
+gfrgpeq,145,tutor,"Okay, the drum, yeah? How much? You see that it's got a little tag, right?",00:12:42
+gfrgpeq,146,tutor,Mm-hmm.,00:12:51
+gfrgpeq,147,student,That will say— let me just guess. I'm gonna put something as 10p. I'm gonna put this as 6-something. I'm gonna put this at 10-something. I want to put this at 10-something.,00:12:52
+gfrgpeq,148,tutor,Okay.,00:13:12
+gfrgpeq,149,student,"Now, what does it say under all the stuff that I did?",00:13:14
+gfrgpeq,150,tutor,"10p, is that so?",00:13:21
+gfrgpeq,151,student,"Yeah, so you need to change it into the 20p because if I just— [unclear] If I got the answer right but I didn't get the p and I didn't add the p, so if I got 100, 100, and it was supposed to be P, I would get a wrong answer. But if you do 100 with a P, you'll get the right answer.",00:13:23
+gfrgpeq,152,tutor,"Very good, very good explanation. So you basically mean like since we are talking about money, we have to write P, yeah?",00:13:55
+gfrgpeq,153,student,Yes.,00:14:02
+gfrgpeq,154,tutor,"Very good, amazing explanation so far. Let me erase my answer because that's wrong, yeah? Yeah. How do you feel about the lesson, Felix?",00:14:03
+gfrgpeq,155,student,Yeah?,00:14:13
+gfrgpeq,156,tutor,How do you feel about the lesson?,00:14:14
+gfrgpeq,157,student,"I mean, good.",00:14:16
+gfrgpeq,158,tutor,"Are you okay with them? Yeah, so how would you rate yourself for this lesson out of 10?",00:14:17
+gfrgpeq,159,student,"Um, probably 10.",00:14:22
+gfrgpeq,160,tutor,"That's true. I would give 10 out of 10 as well because you were an awesome tutor and an awesome student. Yeah, both in this lesson. So yeah, let's have you in the future before.",00:14:26
+gfrgpeq,161,tutor,Have you been a tutor before in a session?,00:14:39
+gfrgpeq,162,student,Yeah.,00:14:41
+gfrgpeq,163,tutor,"Okay, that sounds nice then. So you are, I mean, you know what to do, yeah? So yeah, I'll go get into the next lesson then. Is that okay? Since you're okay with this?",00:14:43
+gfrgpeq,164,student,Yeah.,00:14:55
+gfrgpeq,165,tutor,Right. I'm going to mark this as completed. Sorry. Can you see the new slides?,00:14:55
+gfrgpeq,166,student,I think yes. And I would remember the [unclear] because I would like how good I'm having it. That's cool.,00:15:01
+gfrgpeq,167,tutor,"I'm back. Oh, that's easy. [Speaker] Can you see the new slides?",00:15:11
+gfrgpeq,168,tutor,"Yes. [Speaker] Okay, so the new lesson that we're going to learn today is called using tens and ones to make two-digit numbers. So what's a two-digit number, Felix?",00:15:15
+gfrgpeq,169,student,I've got it. [Speaker] Okay.,00:15:27
+gfrgpeq,170,student,"I've got the answer. [Speaker] You remember you should not just write the answer. You could also teach me, okay?",00:15:30
+gfrgpeq,171,student,Yeah. [Speaker] Go ahead. How would you write the answer here?,00:15:36
+gfrgpeq,172,student,"So, see this little circle thing? [unclear]",00:15:41
+gfrgpeq,173,tutor,"Yes, this circle thing. Do you know that you can get your own pointer?",00:15:48
+gfrgpeq,174,student,Yeah.,00:15:53
+gfrgpeq,175,tutor,Can you bring out your own pointer that has your name?,00:15:54
+gfrgpeq,176,student,Okay.,00:15:58
+gfrgpeq,177,tutor,"Yeah, and then you can be a professional tutor and you can teach me how to do this. Go ahead. and then we're gonna do something, the answer. Okay, so if you do it, so if you do, if you do 10 out of 10, that would be... Are",00:15:58
+gfrgpeq,178,tutor,we doing this?,00:16:28
+gfrgpeq,179,tutor,Hmm?,00:16:30
+gfrgpeq,180,background,Are we doing this?,00:16:30
+gfrgpeq,181,tutor,Yeah.,00:16:32
+gfrgpeq,182,background,"If you do— I'm trying to get up to 5. So if you do 10 and 10, how much would that be?",00:16:32
+gfrgpeq,183,tutor,20.,00:16:38
+gfrgpeq,184,background,Okay.,00:16:40
+gfrgpeq,185,tutor,"And then if you do— and do that again, it would make 20. And then you do 20 and 20.",00:16:41
+gfrgpeq,186,background,Mm-hmm.,00:16:49
+gfrgpeq,187,tutor,And 20.,00:16:51
+gfrgpeq,188,background,You have to do it. It would be—,00:16:53
+gfrgpeq,189,tutor,That makes— 40.,00:16:54
+gfrgpeq,190,tutor,"Okay, and what about this?",00:16:56
+gfrgpeq,191,student,"40 add 60. 6, is it? Is it 6, sir?",00:17:00
+gfrgpeq,192,tutor,"Which one? That one's 6, yeah.",00:17:07
+gfrgpeq,193,student,6. It would be 60.,00:17:08
+gfrgpeq,194,tutor,So 40 add 6 would be?,00:17:13
+gfrgpeq,195,student,46.,00:17:14
+gfrgpeq,196,tutor,That's right. So shall we write the answer over there?,00:17:15
+gfrgpeq,197,student,Yes.,00:17:19
+gfrgpeq,198,tutor,"Okay, so can I ask you a question about the ones and tens?",00:17:20
+gfrgpeq,199,tutor,So how do you know this is a 1 and how do you know this is a 10?,00:17:26
+gfrgpeq,200,student,"Because if it's a 10, it's like [unclear] and if it's a 10, it would be in a line and if it was like just a normal 1, it would be in a box.",00:17:31
+gfrgpeq,201,tutor,"Awesome. And can you see, Felix, there's something called Point Tool over here. Can you see that? It says point.",00:17:49
+gfrgpeq,202,tutor,Yeah.,00:17:58
+gfrgpeq,203,background,"Can you click on that? Can you click on that? And then bring out the cursor. Can you see that that's your cursor? So if you want to point something on the screen, you can use this, okay? It has your name over there.",00:17:59
+gfrgpeq,204,tutor,Yeah.,00:18:11
+gfrgpeq,205,background,Awesome. So shall we move on then to the next slide?,00:18:12
+gfrgpeq,206,tutor,Yes.,00:18:17
+gfrgpeq,207,background,So since I feel like you already know the concept about the listen. So I feel like we can jump straight into the questions. Is it okay?,00:18:18
+gfrgpeq,208,tutor,Yeah.,00:18:27
+gfrgpeq,209,background,"Alright, so I'm going to jump straight into the questions. So, yeah. Can you work these out?",00:18:28
+gfrgpeq,210,tutor,"Oh, can I demo [UNCLEAR]?",00:18:34
+gfrgpeq,211,background,"I mean, okay, let's do one thing. Let's do one thing. I'll do question A because I'm going to be your student, okay?",00:18:37
+gfrgpeq,212,tutor,Yeah.,00:18:45
+gfrgpeq,213,background,"And you're going to be doing question B, C, and D. Is that okay?",00:18:46
+gfrgpeq,214,tutor,"Okay, C and D, yay! I get to do all of them.",00:18:49
+gfrgpeq,215,background,"Alright, I'll do question A, okay?",00:18:51
+gfrgpeq,216,tutor,"So the thing is, you're gonna see whether I'm doing it correctly or wrong. I mean, if I'm doing a [UNCLEAR]. I'm sorry if I'm making a mistake, okay?",00:18:54
+gfrgpeq,217,student,Yeah.,00:19:02
+gfrgpeq,218,tutor,"Alright, so okay, I'll count then. So 3 dots, 4 cubes, sorry, 5. Okay, I have 8 over there, so I'll just write that down so I don't forget. So there's 8 over here. Let's see, 1, 2, 3, 4, 5, 6. So I have 6 over here. So is it right if I write like 8 and 6? Is that right? [unclear]",00:19:03
+gfrgpeq,219,tutor,"No, no, no, no, no. You've done it all wrong. [Speaker] Okay, how do you correct me? I mean, what am I missing?",00:19:33
+gfrgpeq,220,tutor,Take this one out. Take this one for that one. [Speaker] Why?,00:19:43
+gfrgpeq,221,tutor,That one for this one. And then put a 1.,00:19:48
+gfrgpeq,222,tutor,Put a zero at the end of that.,00:19:52
+gfrgpeq,223,background,Mm-hmm. So can I know why?,00:19:57
+gfrgpeq,224,tutor,Huh?,00:20:01
+gfrgpeq,225,background,"I mean, can I know why we need to swap it?",00:20:02
+gfrgpeq,226,tutor,"It's because you just said that you just counted and it said it was 8, and you got 6 as well on the other one, and",00:20:05
+gfrgpeq,227,tutor,"You put them in the, like—",00:20:18
+gfrgpeq,228,student,"Okay, so should I go with like—",00:20:22
+gfrgpeq,229,tutor,"And one. You lit— so even though you can't see, you put the 8 in the tens when it was actually the ones. You need to rub that—",00:20:24
+gfrgpeq,230,tutor,Okay.,00:20:33
+gfrgpeq,231,student,Rub that out. 8 there.,00:20:34
+gfrgpeq,232,tutor,"So I was like doing this like this, yeah? That's the mistake, is that so?",00:20:36
+gfrgpeq,233,student,Yeah.,00:20:40
+gfrgpeq,234,tutor,"All right, okay. That made sense. And do I need to write 6 or 60 over here? What do you think is correct?",00:20:40
+gfrgpeq,235,tutor,Over here? Do I write 6 or put 60?,00:20:48
+gfrgpeq,236,student,You have to put 0.,00:20:53
+gfrgpeq,237,tutor,Let's think about that. How many tens do we have here?,00:20:56
+gfrgpeq,238,student,It's good.,00:21:00
+gfrgpeq,239,tutor,How many tens do we have there?,00:21:01
+gfrgpeq,240,student,6.,00:21:04
+gfrgpeq,241,tutor,6. So do we need to write 6 tens?,00:21:05
+gfrgpeq,242,student,No.,00:21:08
+gfrgpeq,243,tutor,"Hmm. Here we have just count the number of tens and write it. No need to write the value of 10, like we don't need to write 60 over there. We can just count the number of tens and write. Does it make sense?",00:21:09
+gfrgpeq,244,tutor,Yes.,00:21:20
+gfrgpeq,245,background,So we can just write 6 over there because we have only 6 tens. Does it make sense?,00:21:21
+gfrgpeq,246,tutor,Mm-hmm.,00:21:26
+gfrgpeq,247,background,"Okay. So in the same way, could you do the rest of the questions?",00:21:26
+gfrgpeq,248,tutor,Mm-hmm.,00:21:30
+gfrgpeq,249,background,Could you teach me and do it?,00:21:31
+gfrgpeq,250,tutor,Mm-hmm.,00:21:32
+gfrgpeq,251,background,"I mean, let's do the questions first and then I'll pick a question. You can teach only that question. Is it okay?",00:21:34
+gfrgpeq,252,tutor,Yes.,00:21:39
+gfrgpeq,253,background,Yeah. So you do the questions independently first? And then I'll pick a question.,00:21:40
+gfrgpeq,254,tutor,"Yeah, and then I get to be— and then I say, [unclear] or not.",00:21:45
+gfrgpeq,255,background,"So can you do all the questions, rest of the questions then?",00:21:51
+gfrgpeq,256,tutor,"Okay. Okay, this is going to be very long, sir, so— wait, let me see.",00:21:54
+gfrgpeq,257,background,"How many tens do you think we have here, and how many ones do you think we have here? Wait, I'll count again. 1, 2, 3, 4, 5, 6, 7, 8, 9.",00:22:04
+gfrgpeq,258,tutor,So how many gems?,00:22:26
+gfrgpeq,259,student,9.,00:22:30
+gfrgpeq,260,tutor,"Very good. So how do I write the 9? I'm just checking my calculation is right. Yes, it is. [unclear]",00:22:31
+gfrgpeq,261,tutor,"Okay, then what do we do?",00:22:49
+gfrgpeq,262,student,"2, 3, 4, 5. [unclear]",00:22:57
+gfrgpeq,263,tutor,So how do I read this?,00:23:05
+gfrgpeq,264,tutor,Huh?,00:23:12
+gfrgpeq,265,tutor,How do I read this now?,00:23:13
+gfrgpeq,266,tutor,"6, 3, 9, 8.",00:23:15
+gfrgpeq,267,tutor,98? What? We together? How do I read this together? Like this?,00:23:21
+gfrgpeq,268,tutor,97.,00:23:27
+gfrgpeq,269,tutor,"Okay, 97. Very good. Next? What about the next question? [unclear] How do you do this question now? Question C.",00:23:28
+gfrgpeq,270,tutor,Question C? Okay. Are you my student? Are you the class?,00:23:40
+gfrgpeq,271,background,"I just want you to— I mean, you can do the questions first, okay? C and D, and then I'll pick a question, then you can teach me like your teacher, okay?",00:23:47
+gfrgpeq,272,tutor,Okay.,00:23:54
+gfrgpeq,273,background,"You just do them first, and then I'll pick a question. Oh, that's easy! 11, 12, 13, 14, 15, 16, 17, 18. [unclear]",00:23:55
+gfrgpeq,274,tutor,"Okay, what about this?",00:24:12
+gfrgpeq,275,student,42.,00:24:16
+gfrgpeq,276,tutor,"Very good, that was pretty fast. So, yeah, how do you feel about these slides so far and this lesson?",00:24:21
+gfrgpeq,277,tutor,You're the best tutor.,00:24:30
+gfrgpeq,278,student,"Thank you very much. That's so kind of you. And yeah, how do you feel about the lesson so far? I mean, this lesson? [unclear]",00:24:35
+gfrgpeq,279,tutor,Sorry?,00:24:43
+gfrgpeq,280,tutor,Do you have an accent?,00:24:50
+gfrgpeq,281,background,"Do I have an accent speaking English, you mean?",00:24:53
+gfrgpeq,282,tutor,Yeah.,00:24:56
+gfrgpeq,283,background,"So usually this is the way I speak, but yeah, it changes day to day. So usually I don't speak like this, but when I got used to speaking to students, then I changed my accent. I don't know what— I mean, how it was before. I totally forgot about that because I've been doing this for years now. [unclear]",00:24:57
+gfrgpeq,284,tutor,"Yeah, totally forget about it. So yeah, how do you feel about this lesson? Do you feel like you're okay with that?",00:25:20
+gfrgpeq,285,student,"Yeah, I feel like I am.",00:25:26
+gfrgpeq,286,tutor,"Okay, so we have one more slide and I want to say something. You are the best student I had today and I would say the best maybe. Okay, so I'm going to give you a star for being an awesome student and of course an awesome tutor as well. Okay?",00:25:28
+gfrgpeq,287,student,Okay.,00:25:43
+gfrgpeq,288,tutor,"So shall we move on to the next slide? Yes. And if— I'm really sorry if the style is not that neat, okay? I'm not a very good artist, okay? I'm very bad with drawing.",00:25:43
+gfrgpeq,289,tutor,I don't really care.,00:25:55
+gfrgpeq,290,background,"Alright, okay, then nice. So yeah, let's get on to the last picture. Go ahead.",00:25:57
+gfrgpeq,291,student,"Ah, this is easy.",00:26:07
+gfrgpeq,292,background,"Here you are, Tutor. Remember, [unclear] is your student. Go ahead.",00:26:11
+gfrgpeq,293,tutor,"Okay, so Noah now.",00:26:14
+gfrgpeq,294,background,"What does Felix say? Can you read it for me, please?",00:26:16
+gfrgpeq,295,tutor,"Okay, he made this the one, but he didn't. He's so dumb.",00:26:22
+gfrgpeq,296,background,"Okay, why do you think he's incorrect?",00:26:26
+gfrgpeq,297,tutor,"Okay, let me do the circle. [unclear] It's a bad circle. You could use the shapes tool if you want. [unclear] I mean the shapes tool if you want, you can use that to draw circles. Do you know how to use shapes tool?",00:26:30
+gfrgpeq,298,tutor,"Yeah, I'm just using the whiteboard.",00:26:51
+gfrgpeq,299,background,"Okay, okay.",00:26:54
+gfrgpeq,300,tutor,"That's it, circle. Let's do down.",00:26:56
+gfrgpeq,301,background,"Why is this not 51, Felix?",00:27:04
+gfrgpeq,302,tutor,You mean 51?,00:27:07
+gfrgpeq,303,tutor,Okay.,00:27:10
+gfrgpeq,304,background,Why isn't this 51?,00:27:10
+gfrgpeq,305,tutor,"What student, what is your answer?",00:27:13
+gfrgpeq,306,background,"So Max says that he has made the number 51, is that right?",00:27:16
+gfrgpeq,307,tutor,Oh my God.,00:27:22
+gfrgpeq,308,background,Sorry?,00:27:25
+gfrgpeq,309,tutor,Do you think this is correct?,00:27:25
+gfrgpeq,310,tutor,No.,00:27:28
+gfrgpeq,311,background,"Okay, why?",00:27:29
+gfrgpeq,312,tutor,"Wait. [unclear] Whoever got 51, you are at— [unclear]",00:27:30
+gfrgpeq,313,tutor,"So what is this number then, if this is not 51?",00:27:37
+gfrgpeq,314,student,I'm just drawing the numbers that you did to see if you think it is 51 all the class. [unclear],00:27:41
+gfrgpeq,315,tutor,Where are you drawing? Is it in your whiteboard or are you drawing over here?,00:27:50
+gfrgpeq,316,student,On the whiteboard.,00:27:58
+gfrgpeq,317,tutor,I can't see if you're drawing on the whiteboard. [Speaker:Tutor]...can I?,00:28:00
+gfrgpeq,318,student,Who did 51?,00:28:04
+gfrgpeq,319,tutor,Mm-hmm.,00:28:06
+gfrgpeq,320,student,"But yeah, it says... yeah, it says yes if I did. Who did 51?",00:28:08
+gfrgpeq,321,tutor,So is he correct here?,00:28:15
+gfrgpeq,322,student,"No, because why would 51 be correct? So look, it says it has one counter and 5.",00:28:17
+gfrgpeq,323,tutor,"Mm-hmm. So... It's 10, 10, 11, 12, 13, 14, 15.",00:28:26
+gfrgpeq,324,tutor,That's right. [unclear],00:28:38
+gfrgpeq,325,tutor,"If you didn't get 15, you are wrong. You weren't right. If you got 15, you are right. And you didn't.",00:28:39
+gfrgpeq,326,background,"So he didn't get 51, he got 15, yeah? So can you use your own words and type out your answer? It says explain your thinking, yeah? So can you type out like why he is incorrect and what's the actual answer he has written? Can you write that for me?",00:28:47
+gfrgpeq,327,tutor,Okay.,00:29:06
+gfrgpeq,328,tutor,"Use your own words. It's okay if the spellings are wrong and stuff. Don't worry about that. So just use [UNCLEAR], okay? [unclear]",00:29:07
+gfrgpeq,329,tutor,You're very good with your spellings.,00:29:23
+gfrgpeq,330,tutor,"You can click here, right there. Okay, that it was 51. Okay. [unclear] Okay. So, but it is what? Instead of 51, what it is? I mean, what's this number?",00:30:40
+gfrgpeq,331,tutor,Yes? [unclear],00:31:13
+gfrgpeq,332,tutor,"So, it's not done?",00:31:38
+gfrgpeq,333,background,"It was, yeah. Sorry. Hello? Felix? Are you there? Felix, are you there?",00:31:41
+gfrgpeq,334,student,Yeah.,00:31:53
+gfrgpeq,335,background,"Okay, sorry, I thought you couldn't hear me. So, it was what?",00:31:54
+gfrgpeq,336,tutor,"Wait, let me move this. [unclear]",00:31:58
+gfrgpeq,337,tutor,I don't know what it was. [unclear],00:32:03
+gfrgpeq,338,tutor,And it— [unclear],00:32:12
+gfrgpeq,339,background,What did you say about that? [unclear] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Tutor]... [unclear] [unclear],00:32:29
+gfrgpeq,340,tutor,"Very good, very good, amazing. I clearly see how much effort you were putting in to write that. Awesome. Okay, I'm going to give you a sticker for that. Very good. So yeah, how do you feel about this lesson as well? Because we have completed this as well. We completed 2 lessons for the day. How do you feel about it?",00:33:29
+gfrgpeq,341,student,Good. How would you rate yourself?,00:33:49
+gfrgpeq,342,tutor,Average. [Speaker:Background]...for this lesson out of 10? Is it average or 10 out of 10?,00:33:54
+gfrgpeq,343,tutor,"Um, good.",00:34:01
+gfrgpeq,344,background,"Okay, so my rating would be 10 out of 10 for this. Okay, and yeah, we have 10 more minutes, Felix. Are you okay if we continue with another lesson? You sound tired though.",00:34:03
+gfrgpeq,345,tutor,"Yeah, I am.",00:34:18
+gfrgpeq,346,background,"Okay, so we have only 10 more minutes left, so let's move on to the next lesson. Is it okay?",00:34:19
+gfrgpeq,347,tutor,Okay.,00:34:27
+gfrgpeq,348,background,Is that all right?,00:34:28
+gfrgpeq,349,tutor,"Okay, let me mark this as completed. I thought that's a yes. Okay, so again, I think we are coming again with place value charts, and I know you already know what to do. Placing two-digit numbers in a place value chart. Can you read this question and try to do this? Yes. Yes, Felix. Hello. [unclear]",00:34:32
+gfrgpeq,350,tutor,"Can you read this question, Felix? Okay, so why do you think this is 34?",00:35:09
+gfrgpeq,351,student,Because...,00:35:21
+gfrgpeq,352,tutor,"I mean, just a small answer is enough. I know you're very tired. You already speak a lot. Just pick this. [unclear]",00:35:23
+gfrgpeq,353,tutor,"Very good. [unclear] That's right. Very good. So yeah, that's okay. So I'll jump straight to the questions now. Go ahead.",00:35:36
+gfrgpeq,354,tutor,And what is this number? [unclear],00:35:48
+gfrgpeq,355,tutor,"So how do you think we're going to do this as a number sentence? Write a number sentence for this number. So how do you think we're going to do this as a number sentence? What do you think happens over here? [unclear] Do we write 70 over there? What are the numbers we are adding? You can't pick num— I mean, equal sign is here, so 70 and 4 goes where?",00:36:14
+gfrgpeq,356,tutor,9.,00:36:52
+gfrgpeq,357,tutor,So the equal sign is here. Addition sign is here. So you can move the numbers. Do you know how to move them?,00:36:54
+gfrgpeq,358,tutor,"Yeah, I do.",00:37:03
+gfrgpeq,359,background,Very good. So let's move the [unclear] with that.,00:37:05
+gfrgpeq,360,tutor,"I've done this very long, long time ago. Is that so?",00:37:07
+gfrgpeq,361,student,Yes.,00:37:14
+gfrgpeq,362,background,"Okay, carry on. But you haven't done this in BrainBoost, yeah? [unclear]",00:37:15
+gfrgpeq,363,tutor,So what would you write over there? [unclear],00:37:30
+gfrgpeq,364,tutor,"You sound really, really tired. So do you have anything else after this as well to learn or something?",00:37:39
+gfrgpeq,365,tutor,"And after this After BrainBoost as well, do you have anything else to do?",00:37:47
+gfrgpeq,366,tutor,"After BrainBoost, are we doing anything else?",00:37:52
+gfrgpeq,367,student,"No, it's home time.",00:37:55
+gfrgpeq,368,tutor,"Okay, I think it's better because you're very tired. Yeah? So yeah, so let's do question C. How many tens are in the number 51? [unclear] Very good, go ahead, let's write it. Next, what is the value of 2 in the number 26? What's the value of 2?",00:37:58
+gfrgpeq,369,tutor,1.,00:38:25
+gfrgpeq,370,background,[unclear],00:38:26
+gfrgpeq,371,tutor,Is 2 in the ones column or the tens column?,00:38:28
+gfrgpeq,372,background,Tens.,00:38:30
+gfrgpeq,373,tutor,"I mean, is it in the ones column or the tens column? So what's the value since we have 2 over there in the tens column? 20.",00:38:33
+gfrgpeq,374,tutor,"That's right, so the value should be 20. Very good. Go ahead. 20. Awesome. So yeah, do you have any question for me so far?",00:38:43
+gfrgpeq,375,student,I don't think so.,00:38:53
+gfrgpeq,376,tutor,"Okay, so what's the value of 7 here? What do you think? [unclear] Since 7 is in the tens column, what's the value of 7? [unclear]",00:38:56
+gfrgpeq,377,tutor,"Since it's in the tens column, is it just 7 again?",00:39:12
+gfrgpeq,378,student,7... 7... 7...,00:39:18
+gfrgpeq,379,tutor,"7-0, that is 70, yeah? 70. So do you have any questions so far with all these slides? Sorry.",00:39:21
+gfrgpeq,380,student,"I don't think so. Okay, so let's do one final slide for the day and then let's do some reflection and we can end the session. Okay? Because we have only 5 more minutes. Go ahead. The last slide for the day. [unclear]",00:39:30
+gfrgpeq,381,tutor,"So, 2-digit numbers. Go ahead. [unclear]",00:39:45
+gfrgpeq,382,tutor,"Very good. One more. So, okay. If you are allowed to use the same digit again, what is the largest 2-digit number you can make? You can use the same digit again. Okay?",00:39:59
+gfrgpeq,383,student,[unclear],00:40:18
+gfrgpeq,384,tutor,"So, for example, if you use 2 ones, you can use again 2, like 22.",00:40:19
+gfrgpeq,385,tutor,"So... that's right, 77. Why did you go for 77? Why do you think 77 is the largest number?",00:40:28
+gfrgpeq,386,student,"Because it's the largest number, and if I did anything, like if I did 107, I would have to do something a little bit higher, so I picked that because that... because if I did 7 and 7, it's higher.",00:40:36
+gfrgpeq,387,tutor,"That's true. Okay, what if, what if we can't use the same card again like, like we did over here? We can't use the same card again, so then what would be the largest number? Let's write another answer over here. So what then, what would be the answer?",00:40:53
+gfrgpeq,388,student,[unclear],00:41:13
+gfrgpeq,389,tutor,"I mean, if you can't use the same number again. So will it be solely— I mean, now what would be the number? Sorry.",00:41:15
+gfrgpeq,390,tutor,"3? Wait, no. [unclear]",00:41:23
+gfrgpeq,391,tutor,9.,00:41:29
+gfrgpeq,392,background,9.,00:41:30
+gfrgpeq,393,tutor,"So largest number, will it be 9? Can we— do we have a 9 here?",00:41:31
+gfrgpeq,394,student,"No, but if there was, we could do 99.",00:41:37
+gfrgpeq,395,tutor,"Okay, I'm— okay, that's true. I'm just saying that we're going to use the same cards over here, okay? But we can use them only once. For example, if we use 7, you can't use it again. Okay? If that's the case, what would be the largest number?",00:41:41
+gfrgpeq,396,tutor,"If that's the case, then what would be the largest number, Felix?",00:42:03
+gfrgpeq,397,student,[unclear],00:42:09
+gfrgpeq,398,tutor,"So for example, if you use 7 here, so you can't use 7 again because you have already taken. Does it make sense? So if that's the case, what would be the largest number over here? Can you write it over there?",00:42:09
+gfrgpeq,399,tutor,I don't know.,00:42:23
+gfrgpeq,400,background,"After 7, what's the next largest number over here? We have 2.",00:42:25
+gfrgpeq,401,tutor,9.,00:42:30
+gfrgpeq,402,background,"I mean, over here we have only 3",00:42:32
+gfrgpeq,403,background,"7, 0, and 2. So what's the next number?",00:42:33
+gfrgpeq,404,tutor,"It can be 7, 8, 9.",00:42:37
+gfrgpeq,405,background,That's right. Does it make sense?,00:42:39
+gfrgpeq,406,tutor,Mm-hmm. Yeah.,00:42:41
+gfrgpeq,407,tutor,"Okay, so today we did 3 lessons. Let me tell you what we did.",00:42:44
+gfrgpeq,408,student,3 lessons in one? Did we do 3 lessons in one?,00:42:50
+gfrgpeq,409,tutor,"Yes, so in today's session itself, we did 2, 3 lessons. Like, we started with grouping and counting in tens. We completed that. Using tens and ones to make 2-digit number, we completed that. And the last lesson we did today was making 2-digit numbers in a place value chart. So we really completed 3 lessons. So how do you feel about it? I mean, have you done this much lessons before at school? I mean, at [UNCLEAR]?",00:42:55
+gfrgpeq,410,tutor,Huh?,00:43:22
+gfrgpeq,411,background,"I mean, have you done 3 lessons in one session before?",00:43:23
+gfrgpeq,412,tutor,No.,00:43:27
+gfrgpeq,413,background,"Okay, I think we did a lot today, yeah?",00:43:28
+gfrgpeq,414,tutor,Yeah.,00:43:31
+gfrgpeq,415,background,"Okay, all right then. So thank you very much for being so much focused and so much work. I mean, like you were working hard. To complete them. So thank you very much for that.",00:43:33
+gfrgpeq,416,tutor,You're welcome.,00:43:43
+gfrgpeq,417,background,"So before you go, let me upload the one final slide. So yeah, as soon as I end this session, Felix, there would be some questions popping out. These questions are really, really important because these questions are based on what we learned today. So please do them. And also please reflect on your session by filling the feedback form. Is that alright?",00:43:45
+gfrgpeq,418,tutor,Yes.,00:44:11
+gfrgpeq,419,background,"Okay then. Have a very nice day. See you next time. Enjoy the rest of your day. Bye-bye. Just a second, let me end the session.",00:44:12

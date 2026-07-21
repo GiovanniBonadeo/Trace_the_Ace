@@ -1,0 +1,309 @@
+session_id,utterance_id,role,content,timestamp
+boswonk,0,background,[unclear],00:00:00
+boswonk,1,tutor,Hello?,00:00:00
+boswonk,2,student,Hello?,00:00:02
+boswonk,3,tutor,Hello?,00:00:04
+boswonk,4,student,Hello?,00:00:05
+boswonk,5,tutor,Can you hear me?,00:00:06
+boswonk,6,student,Yes.,00:00:07
+boswonk,7,tutor,"Great. It's Rosalind, right? Did I get your name correctly?",00:00:08
+boswonk,8,student,Yes.,00:00:12
+boswonk,9,tutor,I'm [TUTOR_NAME]. I'll be your new tutor for today. Should I call you Rosalind or Rose? [unclear],00:00:13
+boswonk,10,tutor,"Rosalind. Okay, awesome. We have a new lesson for today. Have you learned about comparing decimals?",00:00:20
+boswonk,11,student,Yes.,00:00:32
+boswonk,12,tutor,Yeah? Okay. Then shall we start with this question? Could you try it first?,00:00:34
+boswonk,13,student,Okay. [unclear],00:00:38
+boswonk,14,tutor,Could you tell me what we have to do here for this question? What did he ask us to do?,00:01:05
+boswonk,15,student,To find who jumps the furthest.,00:01:15
+boswonk,16,tutor,"Exactly, good observation. So when you jump the furthest, are we supposed to find the largest distance here or the smallest distance here?",00:01:18
+boswonk,17,student,The largest.,00:01:28
+boswonk,18,tutor,"Exactly. So we have to compare these numbers and figure out the largest one, right? What do you notice about the ones column values?",00:01:29
+boswonk,19,student,They're all 2.,00:01:38
+boswonk,20,tutor,"Exactly, good observation. And therefore, let's look at the next column. We have a 4 tenths, 5 tenths, 0 tenths, and 9 tenths. Which tenths is the largest? 4, 5, 0, or 9?",00:01:40
+boswonk,21,student,9.,00:01:56
+boswonk,22,tutor,"9, there you go. That means we don't have to go looking further to the hundredths column. We can decide that Katie has the largest distance. Okay?",00:01:57
+boswonk,23,background,Okay.,00:02:08
+boswonk,24,tutor,"Okay. This is what we are going to do today, this kind of, these kind of questions. Shall we write down for Katie here? [unclear] [unclear]",00:02:09
+boswonk,25,tutor,There we are. Do you have any questions on this?,00:02:38
+boswonk,26,student,No.,00:02:41
+boswonk,27,tutor,No. Shall we try this question as well?,00:02:43
+boswonk,28,student,Yes.,00:02:48
+boswonk,29,tutor,What do we have to do here?,00:02:48
+boswonk,30,student,Find which one's the bigger number.,00:02:55
+boswonk,31,tutor,"Exactly. Here, how do we decide which one's the biggest?",00:02:59
+boswonk,32,student,[unclear],00:03:02
+boswonk,33,tutor,Like how do we do that?,00:03:13
+boswonk,34,student,I don't know.,00:03:15
+boswonk,35,tutor,"Okay, let's do it together, shall we? If you remember, here we started comparing the ones column. Do you remember?",00:03:15
+boswonk,36,student,Yeah.,00:03:25
+boswonk,37,tutor,"Yeah, we could do the same thing here. We can look at the ones column here and here. What do you notice about the ones here and here?",00:03:25
+boswonk,38,student,"[unclear] There's a zero on the 0.62, and there's a one on the 1.32.",00:03:35
+boswonk,39,tutor,"Exactly. So here it's like you have no ones at all, But here you have one once in the once column, isn't it?",00:03:45
+boswonk,40,student,Yeah.,00:03:54
+boswonk,41,tutor,"Yeah, it's like you have one apple here, you have no apples here. Which one is bigger, having an apple or not having an apple?",00:03:55
+boswonk,42,student,Having an apple.,00:04:05
+boswonk,43,tutor,"I know. There you go. So this number is larger. That's how we compare whole numbers, isn't it?",00:04:06
+boswonk,44,student,Yeah.,00:04:11
+boswonk,45,tutor,"Yeah, when you have decimals, it's kind of like the same. We keep looking for the place value columns and we compare them and we decide which one's the largest. And that's what we are going to do today. Shall we try that today then?",00:04:12
+boswonk,46,student,Yeah.,00:04:26
+boswonk,47,tutor,Yeah. How about we'll try this kind of questions first over here and let's talk about our place values as well. Then move on to the tricky questions. Yeah?,00:04:27
+boswonk,48,student,Yeah.,00:04:40
+boswonk,49,tutor,"Okay. Could you read this one? [unclear] Before comparing decimals with up to 2 decimal places, we need to be able to compare numbers with the same numbers of decimal places.",00:04:41
+boswonk,50,tutor,Did that make any sense to you?,00:05:04
+boswonk,51,student,What really?,00:05:08
+boswonk,52,tutor,"The same number of— okay, it's like this. Now if you look at these two numbers, what can you tell me about this column and this column? What are these columns first?",00:05:09
+boswonk,53,student,That's a tenth. [unclear] And a hundredth.,00:05:21
+boswonk,54,tutor,"There you go, hundredth. What do you notice about these two columns? What numbers do we have inside?",00:05:27
+boswonk,55,student,There's a 4 in the tenths and a 3 in the hundredths.,00:05:42
+boswonk,56,tutor,"Yep. The first number we have, 43. And then on the next one?",00:05:48
+boswonk,57,student,There's a 4 in the tenths and 6 in the hundredths.,00:05:55
+boswonk,58,tutor,There you go. Good observation. So we have the same number of decimal columns. Don't we?,00:05:59
+boswonk,59,student,Yeah.,00:06:05
+boswonk,60,tutor,"Yeah, here we have the tenth column and the hundredth column. So we have two decimal place columns. And this number as well, we have two place value columns after the decimal point. Yeah? That's what they meant over here, same number of decimal places. So this is the simplest question where we compare decimals. When you have the same number of decimal place value columns. Question like comparing this one? But did that make sense? Do you have any questions? [unclear] Okay. Now the thing is here, we also have a whole number, isn't it?",00:06:06
+boswonk,61,student,Yeah.,00:06:50
+boswonk,62,tutor,"Yeah. We have the ones column as well. If you notice here, we have the ones column. And what numbers do we have in the ones column?",00:06:50
+boswonk,63,student,One and zero.,00:06:59
+boswonk,64,tutor,"Exactly. So when you compare numbers, you always start with the largest place value column here. Since we only have the ones, which is the first place value column here, we start there. And we check which is larger. So having one apple or zero apples, which one's the largest?",00:07:01
+boswonk,65,student,One apple.,00:07:22
+boswonk,66,tutor,"One apple. There you go. And after you decide that, you don't have to go looking for the next column. That is because this is the largest column. So if you have one whole apple, doesn't matter if you have 0.4 apples or 0.4 here as well. Did that make sense?",00:07:23
+boswonk,67,student,Yes.,00:07:46
+boswonk,68,tutor,Yeah? [unclear] I'll give you another example to make it more sense. [unclear],00:07:47
+boswonk,69,tutor,"We try the question first, shall we? Yeah, yeah, okay. Now, can you tell me which number is larger here, 1.43 or 0.46?",00:07:58
+boswonk,70,student,1.43.,00:08:08
+boswonk,71,tutor,Exactly. Could you tell me how you know that?,00:08:10
+boswonk,72,student,"Because I looked at the ones, and the one's bigger than zero, so it should be the bigger number. [Speaker] I guess bigger numbers and smallest one.",00:08:13
+boswonk,73,tutor,"Yeah, exactly. Fantastic explanation. Let me give you a thumbs up for that. Now, can you find the crocodile symbols on your keyboard and type it over here? The correct symbol. [unclear]",00:08:25
+boswonk,74,tutor,There you go. Let me take that answer. And this one's interesting. Let's look at this question. Can you first read the numbers here?,00:08:48
+boswonk,75,student,1.12. [unclear],00:09:01
+boswonk,76,tutor,"Yeah, we could say 1.12 because we are rather talking about one-tenth and two-hundredths. So rather than saying 12, we say 1, 2. That's fine. And this one?",00:09:07
+boswonk,77,student,1.72.,00:09:20
+boswonk,78,tutor,There you go. Okay. Now here we have 1 apple in the ones column. Here also we have 1 apple. What do we do then? How do we compare which one is the largest?,00:09:22
+boswonk,79,background,You look at the tenths.,00:09:34
+boswonk,80,tutor,"Exactly. We look at the next column, or we look at the tenths. Now in the tens you have again one apple. Here you have 7 apples. Which number is larger?",00:09:37
+boswonk,81,student,7.,00:09:46
+boswonk,82,tutor,"There you go. That means this number should be the largest. And you don't have to go to the next column, do you?",00:09:47
+boswonk,83,student,"Yeah, you don't have to.",00:09:55
+boswonk,84,tutor,"You don't have to. There you go. Okay, could you put the correct symbol here then? There we go. Let me take that. Similarly, would you like to try the question B over here?",00:09:57
+boswonk,85,tutor,Yes. There you are. Could you tell me how you know?,00:10:12
+boswonk,86,student,"Because I couldn't look at the ones because they're zeros, so I looked down in the next column and I saw 3 and 1, and 3 is bigger than 1, so I chose that one. Fantastic. I'm so proud of that explanation that you gave me. So another thumbs up for you. And that's how we compare decimals if they have the same number of decimal columns, like all these questions we did. And how do you feel about all these questions we did?",00:10:26
+boswonk,87,student,Good.,00:10:58
+boswonk,88,tutor,"Good. Before we move on, let's read this one and this one. They're like a summary of what we did. Could you read it for me?",00:10:59
+boswonk,89,student,"We need to first compare the whole number, then the fraction, or part of the number. [unclear] When the whole number parts are the same, compare the next column.",00:11:09
+boswonk,90,tutor,"Yes, exactly like what you did here and here.",00:11:30
+boswonk,91,tutor,"Here, we need to first compare the whole numbers. What are fractional parts? What did you understand by that?",00:11:34
+boswonk,92,student,"Fractional parts are the decimal numbers. The columns after the decimal point. We call them fractional parts because if you know, we can write a decimal as a fraction. Did you know that?",00:11:44
+boswonk,93,student,Yes.,00:12:01
+boswonk,94,tutor,"Yes, therefore fractional is like a similar word, I'd say. Okay, okay, okay. Can you now summarize what we did here? You could use these sentences if you like, but can you describe it with your own words?",00:12:01
+boswonk,95,student,Not really. [unclear],00:12:20
+boswonk,96,tutor,Okay. I'll make the question like this. How do we compare two decimals? How do we start?,00:12:26
+boswonk,97,student,You look at the ones.,00:12:41
+boswonk,98,tutor,"Exactly. Let's compare the whole numbers. And then if they are the same,",00:12:44
+boswonk,99,student,"You check, then you look on the other column next to it.",00:12:52
+boswonk,100,tutor,"Exactly. And if they are the same, again you go to the next one, yeah?",00:12:58
+boswonk,101,student,Yeah.,00:13:04
+boswonk,102,tutor,"Yeah, there you go, okay. So do you feel confident with everything we did so far?",00:13:05
+boswonk,103,student,Yes.,00:13:11
+boswonk,104,tutor,"Yeah, shall we move on to the next one then? Now let's look at these two numbers. What do you notice about this number and this number?",00:13:11
+boswonk,105,student,That one's less than the other number.,00:13:25
+boswonk,106,tutor,"Yeah, if you remember from the previous question, you always have the same number of decimal columns. We have [unclear] both. Here we only have tens. Here we have tens and hundreds both, yeah?",00:13:28
+boswonk,107,student,Yeah.,00:13:43
+boswonk,108,tutor,"Yeah, so let's figure out how to compare them. Could you read this first?",00:13:44
+boswonk,109,student,"When comparing decimals, it is important to use the [unclear] of digits and their relative size.",00:13:50
+boswonk,110,tutor,"Yeah. So here we have to think about the value. But the method is kind of similar to what we did before. We compare place value columns, but we have to think about the value as well. So how about Let's figure out how many wholes do we have and how many tenths do we have in this number. Can you try this? [unclear]",00:14:01
+boswonk,111,tutor,There you are.,00:14:27
+boswonk,112,tutor,"Exactly. We have 2 in the tenths column, so we have 2 tenths. How about the next number, 1.11? How many wholes, how many tenths, and how many hundredths? [unclear]",00:14:42
+boswonk,113,tutor,"There you go. Fantastic effort. Now let's compare them using the place value charts. Could you write the two numbers here? 1.2 on this one, 1.11 on this one. [unclear] [unclear]",00:15:07
+boswonk,114,tutor,"There you are, great. Now, as usual, we'll start comparing the biggest place value column. So here we have the ones. Let's compare the ones, shall we? Which one is—",00:15:38
+boswonk,115,student,They're both the same.,00:15:53
+boswonk,116,tutor,"Exactly, they are the same. What do we do next?",00:15:55
+boswonk,117,student,Look at the next column.,00:15:58
+boswonk,118,tutor,"Exactly. Which is larger, 2 tenths or 1 tenth?",00:16:00
+boswonk,119,student,2 tenths.,00:16:05
+boswonk,120,tutor,"2 tenths, exactly. Now therefore, you don't have to go looking for the next column. And then again, we don't have anything here, do we?",00:16:05
+boswonk,121,student,Yeah.,00:16:16
+boswonk,122,tutor,"Yeah. If the numbers are confusing, when you see, let's say, you have 1.2, You have 1.11. Some might say, okay, 2 is larger— sorry, 2 is smaller than 11, so maybe 1.2 is smaller. Is that correct though?",00:16:17
+boswonk,123,student,"No, because you could add a zero to the question because it's free, so it could be 1.11.",00:16:40
+boswonk,124,student,[unclear],00:16:52
+boswonk,125,tutor,"Exactly. If it's confusing, we can add a placeholder zero. Let me put a zero here for you. And that way we can be very sure that this is larger, not always smaller. Yeah?",00:16:52
+boswonk,126,student,Yeah.,00:17:05
+boswonk,127,tutor,Okay. And could you put the correct symbol here? There we go. Great effort on this question.,00:17:06
+boswonk,128,tutor,What did we learn new on this slide?,00:17:18
+boswonk,129,student,"That if it's two, if it's one, if it doesn't have a hundredths and it only got tenths, you could always add a zero into it.",00:17:23
+boswonk,130,tutor,"Exactly. That's a good explanation. Let me give you another thumbs up for that explanation. So yes, we have to think about the values. Therefore, we can add the placeholder 0 if we are not sure about the columns. Shall we do some practice here? We'll try this one together, and then I'll give you this one to work on, yeah? [unclear] Would you read this for me?",00:17:42
+boswonk,131,student,It can help to write the number [unclear] beneath each other to compare. Let's compare 0.7 and 0.63.,00:18:09
+boswonk,132,tutor,"There we go. So we can write them underneath each other on the place value chart. Could you do that for me, please?",00:18:24
+boswonk,133,student,Okay. [unclear],00:18:31
+boswonk,134,tutor,"Now, yeah, thank you. And could you do this one now?",00:18:55
+boswonk,135,student,We can put a zero if a hundredths column.,00:18:59
+boswonk,136,tutor,"Column. So, extra work, we can put a placeholder zero here. Could you do that as well? [unclear] There we go. Okay, now it's very clear which number is larger, isn't it?",00:19:03
+boswonk,137,student,Yeah.,00:19:20
+boswonk,138,tutor,Yeah. Do we compare the ones?,00:19:20
+boswonk,139,student,No.,00:19:23
+boswonk,140,tutor,"No, they're the same, so no point. Let's go to the next one. Which number is larger?",00:19:24
+boswonk,141,student,Seven.,00:19:28
+boswonk,142,tutor,"There you go. Great observation. Now let's look at the question. First, write each number in the chart that you did Well done there. And then the first number has how many tens in the first number? [unclear]",00:19:29
+boswonk,143,tutor,7 tens. And the second number has 6 tens. Very good. So which number is the largest?,00:19:48
+boswonk,144,student,0.7.,00:20:04
+boswonk,145,tutor,"Exactly, 0.7. Can you find the correct symbol here then? There you are. I'm pretty sure you're really confident with everything so far. Are you?",00:20:05
+boswonk,146,student,Yes.,00:20:17
+boswonk,147,tutor,"Yes? Okay, then can you prove it to me by trying this question by yourself? [unclear] [unclear]",00:20:18
+boswonk,148,tutor,"There you go. Well done on trying it by yourself. Great effort. And also well done for using the placeholder 0 to help you. Great effort on everything. Now then, shall we move on to our practice questions?",00:20:57
+boswonk,149,student,Yes.,00:21:22
+boswonk,150,tutor,Okay. So this is— all these questions are similar to what we did so far. Can you first try with question A? Let's start with A. [unclear] [unclear],00:21:22
+boswonk,151,student,Nice outfit. [unclear],00:21:52
+boswonk,152,tutor,"Hmm, okay. There's a tiny mistake here. Now here, can you tell me how do you get the 2 here?",00:22:18
+boswonk,153,student,Because there's 2 bars?,00:22:28
+boswonk,154,tutor,"Yes, this 1 bar represents 1/10, so when you have 2 bars, you would say you have 2/10, don't you?",00:22:31
+boswonk,155,student,Yeah.,00:22:39
+boswonk,156,tutor,"Yeah. But in the next picture, do we have any bars?",00:22:40
+boswonk,157,student,"No, I can't.",00:22:46
+boswonk,158,tutor,"No, it's just— [unclear] [unclear]",00:22:47
+boswonk,159,tutor,"There you go, well done for correcting that. Could you tell me how you know?",00:23:16
+boswonk,160,student,"Because there's no 10, so it should be a 0 because zeros",00:23:22
+boswonk,161,student,Like you put it for like nothing in our bar chart.,00:23:31
+boswonk,162,tutor,"Exactly. We have no tenths. We only have five hundredths, isn't it?",00:23:36
+boswonk,163,student,Yeah.,00:23:41
+boswonk,164,tutor,"Yeah, we could also think about like this. From the whole hundredths grid, how many are shaded?",00:23:42
+boswonk,165,student,Five.,00:23:50
+boswonk,166,tutor,"Five. So 5 out of 100 means five hundredths, and that's why we put the 5 in the hundredths column. Not in the tense. Yeah?",00:23:50
+boswonk,167,student,Yeah.,00:23:59
+boswonk,168,tutor,"Yeah, that's another way to look at it. So well done for correcting the mistake. Let me give you a sticker for that. Now I think you know how to compare them, don't you? There you go, brilliant effort. Well done on question A. Shall we try B then?",00:24:00
+boswonk,169,tutor,There you are. [unclear] Good thinking. Could you tell me why you pick up Joe?,00:24:29
+boswonk,170,student,Because zero,00:24:47
+boswonk,171,student,"Because I looked in the zeros and there's nothing there, so— and it says what digit could go in this empty space to make this correct. So I put 2 because 2 is bigger than 0.",00:24:50
+boswonk,172,tutor,"Exactly, very good reasoning. 2 is bigger in the tens. So is 2 the only answer that we can write here?",00:25:08
+boswonk,173,student,No. You can't just put zero in it though.,00:25:16
+boswonk,174,tutor,"Exactly. Except zero, you can write anything, can you?",00:25:21
+boswonk,175,student,Yeah.,00:25:24
+boswonk,176,tutor,"Yeah, there you go. Well done, I'm so proud of you for that nice thinking. And let me go back to question B. Was it tricky here?",00:25:25
+boswonk,177,student,No.,00:25:37
+boswonk,178,tutor,It looks almost the same to me. Can you tell me how you come up with this answer?,00:25:38
+boswonk,179,student,"Because the other one's 3. [unclear] The other one was 2.06, so I would add another 0 to 2.6, so it made 60, and then that is 6.",00:25:44
+boswonk,180,tutor,"Exactly, there you go. Wonderful effort on that one and great explanation as well. Let me ask you one more thing. If they ask you to compare 2.6 Compare this with this number. Which symbol do we put in the middle? [unclear]",00:26:04
+boswonk,181,student,Equals.,00:26:27
+boswonk,182,tutor,"There you go. It is indeed equals. That was a tricky question, but you didn't fall for it. Well done. Let's go to the challenge, shall we? Do you remember the— let me go back. Remember the warm-up question we did?",00:26:28
+boswonk,183,student,Yeah.,00:26:44
+boswonk,184,tutor,"Yeah, so it's similar to that. First, can you try it by yourself? Think about everything we did so far. Can you try this?",00:26:45
+boswonk,185,student,Okay. [unclear] [Speaker:Tutor]... [UNCLEAR],00:26:53
+boswonk,186,student,Yeah.,00:27:35
+boswonk,187,tutor,"Yeah, okay. Could you explain your thinking to me, how you come up with this answer?",00:27:35
+boswonk,188,student,"Because I've gone through all of the numbers and Ben's is smaller than Max's. James's is bigger than Max's. Jamie's is bigger than Max's, and Lucy's is smaller than Jamie's, and Charlie's is smaller than Jamie's, and then Rover... [unclear] [Speaker:Tutor]...had 2.9, and I put a zero on Max's, that made 3.40, and I put a zero on Lucy's [unclear] and it was 2.90, and that's bigger than Jamie, so she had the longer jump.",00:27:42
+boswonk,189,tutor,"Well, that's a tiny bit— I think you might have missed your ones column. Did you compare your ones columns?",00:28:42
+boswonk,190,student,Oh no.,00:28:50
+boswonk,191,tutor,Shall we try the question again then?,00:28:51
+boswonk,192,student,Yeah.,00:28:53
+boswonk,193,tutor,"Yeah, could you take some time for that once, Elara?",00:28:54
+boswonk,194,background,Where is that? [unclear] [unclear],00:28:58
+boswonk,195,tutor,"Yes, now indeed, Max. Can you tell me how you found it?",00:29:27
+boswonk,196,student,"Because I looked in the ones and I saw JB's and Rover's is 2s, that's smaller than 3. Then I looked in the tenths",00:29:31
+boswonk,197,student,And Ben's was smaller. Max's was bigger. Lucy's was smaller and Charlie's was smaller. So it was Max.,00:29:47
+boswonk,198,tutor,"Exactly. Brilliant observation and wonderful explanation as well. [unclear] thumbs up for that. And I don't think this was a challenge for you, was it?",00:30:06
+boswonk,199,student,"No, it wasn't.",00:30:16
+boswonk,200,tutor,Great. So well done on the great effort throughout the lesson. And that's it for the lesson. Any questions?,00:30:17
+boswonk,201,student,No.,00:30:28
+boswonk,202,tutor,"No. So if you get a question like this now in the future, do you feel confident you'll be able to do it by yourself?",00:30:29
+boswonk,203,student,Yes.,00:30:38
+boswonk,204,tutor,"Yeah, that's great, wonderful. We have a little more time left, shall we try out another lesson?",00:30:38
+boswonk,205,student,Yeah.,00:30:45
+boswonk,206,tutor,"Yeah, before we move on, can you tell me one thing you learned today about this lesson?",00:30:45
+boswonk,207,student,"If it's not a [UNCLEAR], if there's nothing in the hundreds, always add a zero. [Speaker:Tutor] Great. Good tip. That would help you a lot to compare decimal numbers. Okay, let's keep that in mind and let's move on to the next one. What do you think they're going to do now?",00:30:54
+boswonk,208,student,[unclear] Multiplying and dividing by tenths and hundredths.,00:31:18
+boswonk,209,tutor,"Yes. So for other numbers other than 10 and 100, you might use your short division, the formal multiplication methods. But when you multiply by 10 and 100, do you know you can use your place values?",00:31:29
+boswonk,210,student,Yeah.,00:31:44
+boswonk,211,tutor,"Yeah, okay, great. Let's start with that then, shall we? Have you learned how to use your place value chart to divide or times by 10?",00:31:45
+boswonk,212,student,Yes.,00:31:55
+boswonk,213,tutor,Yes? Shall we then try... [unclear] Now what do we try? We'll try this one first. Can you write this number here and then divide the number by 10? [unclear] [Speaker:Callista]... [UNCLEAR] [unclear],00:31:56
+boswonk,214,tutor,There you go. Can you tell me how you come up with 4.12?,00:32:31
+boswonk,215,student,"Because I know dividing's smaller, so the smallest ones are going going left. So I moved the numbers one place because there's one zero.",00:32:49
+boswonk,216,tutor,Yep.,00:33:07
+boswonk,217,student,That's how I got the answer.,00:33:08
+boswonk,218,tutor,Exactly. Wonderful explanation. So you know how to divide by 10. And then can you times this number by 100? How would you do that?,00:33:10
+boswonk,219,student,That's gonna go...,00:33:21
+boswonk,220,student,"Right, 2 times.",00:33:23
+boswonk,221,tutor,"Exactly, 2 times this time. So what would be your new number? [unclear] There you go, wonderful effort on that question. I think you already are confident with the lesson, are you?",00:33:26
+boswonk,222,tutor,"Yeah, great. Then how about we skip the learning part and we start directly with the practice questions? Do you know what this chart is? [unclear] chart?",00:33:51
+boswonk,223,student,No.,00:34:06
+boswonk,224,tutor,"No? Okay, it is similar to the place value chart. Like, what do you notice about the chart? What can we see here? [Speaker] It's going down, so it's going 1,000, 2,000, 3,000, 4,000, 5,000, 6,000, 7,000, 8,000, 9,000, and that's going down in hundreds, tens, ones, tenths, and hundredths.",00:34:07
+boswonk,225,tutor,"Yeah, that's a fantastic observation. So yeah, we have the numbers written, but we also have the place value columns like the place value chart, yeah?",00:34:37
+boswonk,226,student,Yeah.,00:34:49
+boswonk,227,tutor,Yes. And let's read the question first. Can you read it here?,00:34:50
+boswonk,228,student,Use the [unclear] chart to work out 0.45 times 100.,00:34:55
+boswonk,229,tutor,"So you already know that you don't need the chart, but let's see how we can use the chart. If you notice, they have highlighted the 0.9 and the 0.05 separately. And then when you times by 100, would the number become bigger or smaller?",00:35:09
+boswonk,230,student,Bigger.,00:35:27
+boswonk,231,tutor,"Bigger. Therefore, how many times bigger do we go on the place value column? Do we go once or twice if it's 100?",00:35:28
+boswonk,232,student,Twice.,00:35:34
+boswonk,233,tutor,"Twice. Similarly, you go up 2 times on the [unclear] chart. So it's very similar to the place value chart, isn't it?",00:35:35
+boswonk,234,student,Yeah.,00:35:43
+boswonk,235,tutor,"Yeah, there you go. What do you do with this one then? Can you maybe draw some arrows and tell me? [unclear] There, and there you go, exactly. Now we'll just highlight those numbers. So you have landed on 5, and I here landed on 19. All together, what is the total of 90 and 5?",00:35:44
+boswonk,236,student,95.,00:36:12
+boswonk,237,tutor,"Exactly. And that's what you answer if you do it with the place value chart as well, isn't it? So that's how you use the [unclear] chart. Do you think it's easier?",00:36:13
+boswonk,238,student,Yeah.,00:36:25
+boswonk,239,tutor,"Yeah? Okay, great. If you see it in the future, now you know what to do, don't you?",00:36:26
+boswonk,240,student,Yeah.,00:36:31
+boswonk,241,tutor,"Yeah, awesome. Shall we try question 2 then? I'll give you some time to think about it and read this one as well.",00:36:32
+boswonk,242,student,Yeah. [unclear] [unclear],00:36:44
+boswonk,243,tutor,You need some clue to start with.,00:37:44
+boswonk,244,student,Yeah.,00:37:47
+boswonk,245,tutor,"Yeah. Okay. Let's look at the first number here. We have 543. And maybe times by 100, times by 10, divide by 100 or divide by 10 would give you the answer 5.43. So what has happened to this bigger number when it comes to here?",00:37:48
+boswonk,246,student,They divided by [unclear] 100.,00:38:13
+boswonk,247,tutor,There you go. So you didn't need my help at all. How do you know it's dividing by 100?,00:38:18
+boswonk,248,student,"Because it's moved 2 times and it's going left, not right.",00:38:23
+boswonk,249,tutor,"Exactly, the number has become smaller. 500 has become 5, so definitely they are dividing. And since 2 places, divide by 100. Yeah, okay. Since you already used that card, shall we cross that out?",00:38:31
+boswonk,250,student,Yeah.,00:38:49
+boswonk,251,tutor,Yeah. Now would you like to try B or C by yourself?,00:38:50
+boswonk,252,student,C.,00:38:56
+boswonk,253,tutor,Okay. What would you do here? What's going on?,00:38:58
+boswonk,254,student,It's dividing by 10.,00:39:03
+boswonk,255,tutor,Why do you think it's dividing by 10?,00:39:09
+boswonk,256,student,Because it's going [unclear],00:39:11
+boswonk,257,student,It's going right.,00:39:15
+boswonk,258,tutor,"Well, we— here we have a 0. So is this number becoming a 1.2? Is this becoming larger here, or is this becoming smaller here?",00:39:18
+boswonk,259,student,Smaller.,00:39:36
+boswonk,260,tutor,"Smaller. If it— wait, is it getting smaller? We have 0.12 on this side, but on this side we have 1.2. Which one is the largest?",00:39:37
+boswonk,261,student,0.12.,00:39:50
+boswonk,262,tutor,Is it? You have 0 apples and you have 1 apple. Which one is the largest?,00:39:53
+boswonk,263,student,1.2.,00:40:01
+boswonk,264,tutor,"Yeah, there you go. If you remember from the previous lesson, we are comparing our decimals. So this number becomes larger. That means do we divide or times?",00:40:02
+boswonk,265,student,Times.,00:40:16
+boswonk,266,tutor,Times. There you go. And times by?,00:40:16
+boswonk,267,student,10.,00:40:19
+boswonk,268,tutor,10. There you are. [unclear],00:40:20
+boswonk,269,tutor,You type that here. Can you find the time symbol? [unclear] We have the symbols tool. You can use that as well. Shall I do it for you then? [unclear],00:40:33
+boswonk,270,tutor,"You don't have to go back to text. You can use the symbols tool to type as well. And when you type with the symbols tool, yeah, there you go. There you go, times by 10. Okay, we have a little time left. Shall we try B and D as well?",00:41:01
+boswonk,271,student,Yeah.,00:41:29
+boswonk,272,tutor,Yeah. What's going on here? Getting larger or smaller?,00:41:30
+boswonk,273,student,Larger.,00:41:36
+boswonk,274,tutor,"There you go. If it's getting larger, do we divide or times?",00:41:36
+boswonk,275,student,Times.,00:41:42
+boswonk,276,tutor,Times. Yeah. Times by how many though?,00:41:43
+boswonk,277,student,100.,00:41:47
+boswonk,278,tutor,"100. It's the only option left, so there you go. And also it's 2 places, isn't it? [unclear]",00:41:48
+boswonk,279,tutor,There you are. Wonderful. One more to go. Do you want to check or do you want to just go with the answer left?,00:42:01
+boswonk,280,student,Go with the answer left.,00:42:08
+boswonk,281,tutor,"Okay. Now just to be sure, Let's double-check the answer with inverse. Do you know what inverse is?",00:42:09
+boswonk,282,student,Yes.,00:42:27
+boswonk,283,tutor,"Yeah, what is inverse?",00:42:28
+boswonk,284,student,"So if it's divide, you multiply, and if it's multiply, you divide.",00:42:31
+boswonk,285,tutor,"Exactly, wonderful explanation. So let's say if you divide 40.3 by 10 and get the answer 4.03, the opposite would be to times your answer by 10, isn't it?",00:42:36
+boswonk,286,tutor,"Yeah, yeah, okay, let's check that. If you times 4.03 by 10, what's your answer? What do we get?",00:42:48
+boswonk,287,student,[unclear],00:43:03
+boswonk,288,tutor,"Exactly, which is the number we have here, isn't it?",00:43:04
+boswonk,289,student,Yeah.,00:43:07
+boswonk,290,tutor,"Yeah, that means dividing by 10 is the correct answer, because if you do the inverse, you're gonna end up at the number that you started with. Yeah?",00:43:08
+boswonk,291,student,Yeah.,00:43:18
+boswonk,292,tutor,"Yeah, okay. So that's how we use inverse to double-check the answers. Shall we do that with question C?",00:43:19
+boswonk,293,student,Yeah.,00:43:29
+boswonk,294,tutor,"Yeah, okay. How do we do the inverse for question C?",00:43:29
+boswonk,295,student,Divide.,00:43:32
+boswonk,296,tutor,"Yep, we have to divide the answer, 1.2, by 10. What do you get then?",00:43:34
+boswonk,297,student,0.12.,00:43:45
+boswonk,298,tutor,"Exactly, which is what we have here, isn't it?",00:43:48
+boswonk,299,student,Yeah.,00:43:51
+boswonk,300,tutor,"Yeah, there you go. Okay, so well done for the extra effort on double-checking the answers. Since we are running out of time, shall we try these the next week?",00:43:52
+boswonk,301,student,Yeah.,00:44:05
+boswonk,302,tutor,Yeah.,00:44:06
+boswonk,303,tutor,Okay. I think we can try one of them. Can you try B?,00:44:08
+boswonk,304,student,Yes.,00:44:18
+boswonk,305,tutor,Yeah. [unclear],00:44:25
+boswonk,306,tutor,"There you are. Wonderful effort. And we will end with that for today. We have the challenging question, so you can try it the next time. Do you have any questions on what we did?",00:44:28
+boswonk,307,tutor,Yeah. No. I will end for today then. Bye. Have a great week ahead. [unclear],00:44:39

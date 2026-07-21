@@ -1,0 +1,328 @@
+session_id,utterance_id,role,content,timestamp
+mrvdotu,0,student,Hello?,00:00:00
+mrvdotu,1,background,[unclear],00:00:00
+mrvdotu,2,tutor,Hi.,00:00:01
+mrvdotu,3,student,"Hi, Elian, can you hear me?",00:00:01
+mrvdotu,4,tutor,"Um, sort of.",00:00:05
+mrvdotu,5,tutor,How about now? Can you hear me? Hello?,00:00:08
+mrvdotu,6,student,Yeah.,00:00:12
+mrvdotu,7,tutor,"Yes, okay. So good afternoon and welcome back, Elian. How are you doing today?",00:00:13
+mrvdotu,8,student,"Good, just sad because I was doing [UNCLEAR], but I can't do it now.",00:00:20
+mrvdotu,9,tutor,Are you okay?,00:00:20
+mrvdotu,10,student,Yeah.,00:00:30
+mrvdotu,11,tutor,Do you like to talk about it?,00:00:30
+mrvdotu,12,student,"No, it's fine. Okay, if you need anything, you can ask me, okay?",00:00:32
+mrvdotu,13,student,[UNCLEAR],00:00:32
+mrvdotu,14,tutor,"Okay. Okay, so let me introduce myself. I am Noha, and I'm going to be your tutor today, okay?",00:00:38
+mrvdotu,15,student,Okay.,00:00:46
+mrvdotu,16,tutor,"Okay, so are you sure that we can continue our session?",00:00:47
+mrvdotu,17,student,"Uh, yeah.",00:00:51
+mrvdotu,18,tutor,Everything's fine?,00:00:52
+mrvdotu,19,student,Yeah.,00:00:53
+mrvdotu,20,tutor,"Okay then. So tell me, how was school today?",00:00:54
+mrvdotu,21,student,"Uh, good.",00:00:57
+mrvdotu,22,tutor,"Good? Okay, would you like to tell a little more about school?",00:00:59
+mrvdotu,23,student,"At lunchtime, I rode on the bikes.",00:01:06
+mrvdotu,24,tutor,And then?,00:01:14
+mrvdotu,25,student,Then I played with my friends. I went back in. I did decorating.,00:01:17
+mrvdotu,26,tutor,Wow.,00:01:24
+mrvdotu,27,student,"And now I'm at tutoring. Yes. Okay, so what was the first thing that you told Elian? You rode bike, is that what you told?",00:01:25
+mrvdotu,28,student,Yeah.,00:01:34
+mrvdotu,29,tutor,"Yes. Oh, okay, great. And, uh, can you tell me how was your week? Are you enjoying your week?",00:01:36
+mrvdotu,30,student,"Uh, yeah.",00:01:43
+mrvdotu,31,tutor,"Yes. Okay, great. So are we ready to start with our lesson?",00:01:44
+mrvdotu,32,student,Yes.,00:01:49
+mrvdotu,33,tutor,"Yes. Okay, I must say, Elian, if you need anything, you can always talk to me, okay?",00:01:51
+mrvdotu,34,tutor,Okay.,00:01:58
+mrvdotu,35,student,Okay then. Any guesses what our lesson today is going to be?,00:01:59
+mrvdotu,36,background,Rounding numbers to the nearest hundred and thousand.,00:02:04
+mrvdotu,37,tutor,"Yes, very good. Now can you tell me what do you know about rounding numbers to the nearest hundred and thousand?",00:02:08
+mrvdotu,38,background,"To round numbers to the nearest hundred, you have to look at the tens digit. To add numbers to the thousands, you have to look at the hundreds digit.",00:02:17
+mrvdotu,39,tutor,"Very good. Okay then, can you go ahead and give this question a try?",00:02:28
+mrvdotu,40,student,"Uh, yeah.",00:02:33
+mrvdotu,41,tutor,Okay. [unclear],00:02:36
+mrvdotu,42,student,"Oh, can you tell me how did you get— okay, can you tell me how did you get your answer there?",00:02:42
+mrvdotu,43,student,"Because you round it to the nearest hundred, you have to look at the tens column, and because it's 9, which is more than 5, you round it up, which makes it so it is 400.",00:02:52
+mrvdotu,44,tutor,"Very good, yes. So when you are rounding it to the nearest hundred, we look at the tens digit. Since we have a 9, which is above 5, we round the 3 up, making it a 4. Good job! So there you go with the good working out. Praise God for that. Are you ready to work on some more questions?",00:03:07
+mrvdotu,45,student,"Uh, yeah.",00:03:28
+mrvdotu,46,tutor,"Yeah, okay. Elian, you said that you were sad because of PE.",00:03:29
+mrvdotu,47,student,"Uh, no. [unclear] But it's fine.",00:03:35
+mrvdotu,48,tutor,It's fine? Are you sure?,00:03:39
+mrvdotu,49,student,Yeah.,00:03:42
+mrvdotu,50,tutor,"Yeah, okay then. Can you go ahead and give these questions a try?",00:03:43
+mrvdotu,51,student,"Around 2,715 to the nearest hundred, 2,700. [unclear] And then to the nearest thousand,",00:03:52
+mrvdotu,52,tutor,"is 3,000.",00:03:52
+mrvdotu,53,student,"Okay, so are we missing something when we are writing the numbers? [unclear]",00:03:52
+mrvdotu,54,tutor,Yeah.,00:04:24
+mrvdotu,55,student,What are we missing?,00:04:25
+mrvdotu,56,tutor,"Yeah, very good. Okay, so now if you are rounding 2,750 to 2,800, which digit did you look at?",00:04:27
+mrvdotu,57,student,The tens.,00:04:40
+mrvdotu,58,tutor,"Okay, so what is the digit that we have in the tens column?",00:04:42
+mrvdotu,59,student,One.,00:04:46
+mrvdotu,60,tutor,One. So did we round it down or did we round it up?,00:04:48
+mrvdotu,61,student,Down.,00:04:51
+mrvdotu,62,tutor,"Down. Okay, so can you tell me when do we round a number up and down?",00:04:53
+mrvdotu,63,student,"To round a number down, it has to be 4 or less. To round a number up, it has to be 5 or more.",00:05:00
+mrvdotu,64,tutor,"Yes, very good, Elian. So if you have— if the digit is less than 4, we would round it down, and if it is 5 and more, we round it up. Good. So now tell me, if you are rounding it to the nearest thousand, then which digit would you look at?",00:05:07
+mrvdotu,65,student,"Uh, to round it to the nearest thousand, you have to look at the hundreds digit.",00:05:25
+mrvdotu,66,tutor,Good. So what do we have in the hundreds column?,00:05:29
+mrvdotu,67,student,700.,00:05:36
+mrvdotu,68,tutor,So what did you do? Did you round it down or did you round it up?,00:05:37
+mrvdotu,69,student,Up.,00:05:41
+mrvdotu,70,tutor,"Up, very good. So there you go with 3,000. Okay, so can you go ahead and give this question a try?",00:05:43
+mrvdotu,71,student,"Round 5,325 [unclear] to hundreds and",00:05:52
+mrvdotu,72,tutor,"1,000.",00:05:58
+mrvdotu,73,student,"Oh, okay. Okay. And then... [unclear] [unclear]",00:06:04
+mrvdotu,74,tutor,"Wait, now.",00:06:30
+mrvdotu,75,student,Is everything okay?,00:06:31
+mrvdotu,76,tutor,"Uh, yeah.",00:06:34
+mrvdotu,77,student,"Ah, okay, great. Excellent work there. Now can you tell me, how did you get to these answers?",00:06:35
+mrvdotu,78,tutor,"To round 5,325 to the nearest To round it to the nearest thousand, you have to look at the hundreds column. The hundreds column is 300, and because that's less than 5, you round it down. To round it to the nearest hundred, you have to look at the— [unclear] To round it to the nearest hundred, you have to look at the tens column. Because it's 2, you round it down, which makes it 5,300.",00:06:45
+mrvdotu,79,tutor,"Yes, fantastic, Elian!",00:07:13
+mrvdotu,80,tutor,"Okay, now can you go ahead and do the final question, Ajay?",00:07:16
+mrvdotu,81,background,"Which two numbers round to 5,600 when rounded to the nearest hundred?",00:07:23
+mrvdotu,82,tutor,"Hmm, what do you think?",00:07:31
+mrvdotu,83,student,If 500— [unclear] What do you think? What are the numbers that if you round with the—,00:07:34
+mrvdotu,84,student,C and D.,00:07:47
+mrvdotu,85,tutor,"Okay, so can you tell me how did you figure that out?",00:07:52
+mrvdotu,86,student,"Well, C, because this bit is 5, 5, 5. 5, 0.",00:07:58
+mrvdotu,87,tutor,"Very good, 5,550.",00:08:12
+mrvdotu,88,student,"And the hundreds digit is 5. If it's 5, you round it up. So rounding that up is 5,600. Then D. [Speaker] That looks— well, if the 5,650 is here—",00:08:17
+mrvdotu,89,tutor,"OK. [Speaker] And that's [UNCLEAR]— that's closer to 5,600 than 5,700 because the half is here and it's",00:08:43
+mrvdotu,90,student,Behind the half.,00:09:00
+mrvdotu,91,tutor,"Yeah, very good. So you can clearly see now, if you see, CC is much closer to 5,600 than 5,500, right?",00:09:03
+mrvdotu,92,student,"Uh, yeah.",00:09:14
+mrvdotu,93,tutor,"And the same thing here, 5D is much more closer to 5,600 than 5,700. Okay, but when you are rounding into the nearest hundred, did you look at the hundreds? [unclear]",00:09:15
+mrvdotu,94,tutor,Pardon?,00:09:37
+mrvdotu,95,background,"If you are rounding it to the nearest hundred, do you look at the digit in the hundreds or the digit in the tens column?",00:09:38
+mrvdotu,96,tutor,Tens.,00:09:47
+mrvdotu,97,background,"Very good. So we look at the digit in the tens column and then we decide if you round it up or down. Okay, there you go. So not only for giving fantastic answers, Elian, also for giving Wonderful explanation on how you work this question. There you go with the awesome effort prize card. Okay, did amazing job. [unclear]",00:09:48
+mrvdotu,98,student,"Uh, thank you.",00:10:10
+mrvdotu,99,tutor,"Okay, no problem. So are we ready to work on the final question of the lesson?",00:10:12
+mrvdotu,100,student,"Uh, yeah.",00:10:18
+mrvdotu,101,tutor,"Okay, now can you go ahead and tell me how you would give this question, work this question out?",00:10:20
+mrvdotu,102,student,A number is rounded to the nearest thousand. The answer is,00:10:25
+mrvdotu,103,student,"5,000. What could its original number have been?",00:10:29
+mrvdotu,104,background,It could have been— [unclear],00:10:33
+mrvdotu,105,tutor,Mm-hmm. Okay. How did you figure those answers out?,00:10:37
+mrvdotu,106,student,"Because— so if we have 5,000,",00:10:48
+mrvdotu,107,student,Okay.,00:10:57
+mrvdotu,108,tutor,"Both of these. 4,999 is— because the digit is 9, that means you add it up, which makes it 400— [unclear] 500.",00:10:59
+mrvdotu,109,student,"And then 5,000. And then if you have 5,001, if you look at the hundreds digit, then you can see that is a 0. So because it's 0, You have to bound it down.",00:11:24
+mrvdotu,110,tutor,Very good.,00:11:55
+mrvdotu,111,student,"And that is 5,000.",00:11:58
+mrvdotu,112,tutor,"That is 5,000. Yes, good job. So can you also tell me some other possible answers? [unclear]",00:12:01
+mrvdotu,113,student,"You could have 5,000",00:12:10
+mrvdotu,114,student,"Very good, 5,490 also can be answer. What else? How about— [unclear] Very good, 4,670. Good job. How about 4,500? Can that be answer?",00:12:18
+mrvdotu,115,background,"Uh, yes, that's—",00:12:37
+mrvdotu,116,student,"Yes, yes, very good. 4,500 also can be an answer, right? Okay, so there you go with the Very good working out. Praise God, Elian, for figuring that out by yourself. You did a very good job there. So now— [unclear] No problem. So before we move on to our next lesson, can you tell me what did you learn in this lesson?",00:12:39
+mrvdotu,117,student,"How to round numbers, for example, 100 and 1,000.",00:13:03
+mrvdotu,118,tutor,"Okay, very good. So can you tell me 3 things that you need to remember when you are working questions with rounding numbers to the nearest hundreds and thousands?",00:13:14
+mrvdotu,119,student,"Something to remember is that if it's [unclear] and you round up, if it's 5 or less, you round it.",00:13:26
+mrvdotu,120,student,"No, if it's 5 or more, you round it up, and if it's 4 or less, then you round it down.",00:13:40
+mrvdotu,121,tutor,"Very good. Now, if you are rounding to the nearest hundred, then what digit would you look at?",00:13:48
+mrvdotu,122,student,"Uh, the tens.",00:13:55
+mrvdotu,123,tutor,"Very good. Okay, so are we ready to move on with our next lesson?",00:13:56
+mrvdotu,124,background,Yes.,00:14:01
+mrvdotu,125,tutor,"Yes. Okay, any guesses what that could be? [unclear]",00:14:02
+mrvdotu,126,background,"Uh, decimals.",00:14:07
+mrvdotu,127,tutor,"Okay, good. So we have",00:14:09
+mrvdotu,128,tutor,"writing tens of decimals. Okay, can you tell me how did you figure this out?",00:14:09
+mrvdotu,129,student,Because there is 10 cubes.,00:14:09
+mrvdotu,130,tutor,Okay.,00:14:23
+mrvdotu,131,student,There's only 4 shades of them.,00:14:24
+mrvdotu,132,tutor,Uh-huh.,00:14:28
+mrvdotu,133,student,And 10 of these is equal to 1 or 1.0. Then,00:14:29
+mrvdotu,134,student,Something less than 1 would go into like the 0 point.,00:14:38
+mrvdotu,135,tutor,"So, are you telling what is equal to 1? This small part, is this part equal to 1?",00:14:46
+mrvdotu,136,student,No.,00:14:54
+mrvdotu,137,tutor,Then what is equal?,00:14:55
+mrvdotu,138,student,Each of these parts are equal to 0.1. Very good. So what is 0.1? How would you say that? Is that a one whole? Is it a 100 or is it a one-tenth?,00:14:57
+mrvdotu,139,student,One-tenth.,00:15:15
+mrvdotu,140,tutor,One-tenth. Very good. So how many tenths are shaded here?,00:15:17
+mrvdotu,141,student,"Um, 10 tenths.",00:15:21
+mrvdotu,142,tutor,"How many, how many tenths are shaded in blue?",00:15:25
+mrvdotu,143,student,"Oh, um, 4 tenths. 4 tens. Very good. Okay, so are we ready to work on some more questions?",00:15:29
+mrvdotu,144,student,Yeah.,00:15:38
+mrvdotu,145,tutor,"Yeah, are you ready to find some more tens? Okay, there you go. You've got 3 questions here. Would you like to give them a try?",00:15:39
+mrvdotu,146,student,Yeah. [unclear],00:15:46
+mrvdotu,147,student,"Um, what is [unclear] as a decimal?",00:15:48
+mrvdotu,148,background,0.7.,00:15:53
+mrvdotu,149,tutor,"Okay, good. [unclear] How can you tell me how did you find this answer?",00:15:58
+mrvdotu,150,student,Because in total there are 10.,00:16:13
+mrvdotu,151,tutor,Okay.,00:16:20
+mrvdotu,152,student,"And then the water stops where it's in the middle, so 5, let's just say this is 10, that'd be 5. And then because it's litre and it's— and this is actually 1, that's going to be 0.1.",00:16:22
+mrvdotu,153,tutor,"Is it 1/10? Will this be 1/10? All these tiny parts, would they be equal to 1 or 1/10?",00:16:43
+mrvdotu,154,student,"Uh, no. It would be equal to 1/10.",00:16:55
+mrvdotu,155,tutor,Very good. So each of these divisions is going to be worth 1/10. So how many divisions are covered by water?,00:17:03
+mrvdotu,156,student,"Um, 5/10.",00:17:12
+mrvdotu,157,tutor,"5/10. Very good. So good job in remembering to put the [UNCLEAR]. Elian? That is 0.5. Okay, now can you tell me— so now I see you have written the part that is not shaded as a decimal, so that is 0.7. So can you tell me what is the part that is shaded as a decimal? How would you write that? The part that is shaded as— [unclear]",00:17:14
+mrvdotu,158,student,The part that shaded as a just,00:17:44
+mrvdotu,159,tutor,"Yeah, what would your answer be?",00:17:46
+mrvdotu,160,student,For A or C?,00:17:53
+mrvdotu,161,tutor,"For B, sorry, for B. Okay, for B. Now you have written the not shaded part as a decimal, so what would the shaded part be as a decimal?",00:17:57
+mrvdotu,162,student,0.3.,00:18:07
+mrvdotu,163,tutor,"0.3, very good. Then how would you write the not shaded part as a decimal? [unclear]",00:18:09
+mrvdotu,164,tutor,The non-shaded part is the decimal.,00:18:17
+mrvdotu,165,student,Yes.,00:18:19
+mrvdotu,166,tutor,0.7.,00:18:19
+mrvdotu,167,background,"The non-shaded in this question A, what would that be? The question A, the part that is not shaded?",00:18:23
+mrvdotu,168,student,0.8.,00:18:31
+mrvdotu,169,background,"0.8, good job. Okay, so are we ready to work on our final question?",00:18:32
+mrvdotu,170,student,Yeah.,00:18:38
+mrvdotu,171,background,"Yeah, okay.",00:18:40
+mrvdotu,172,tutor,How are you going to rate this question now?,00:18:42
+mrvdotu,173,student,How long is the ribbon? The ribbon is [unclear] 7.8 meters long.,00:18:45
+mrvdotu,174,tutor,How did you find that?,00:18:52
+mrvdotu,175,student,"Well, because this was placed in Curveback T, I used my imagination. To move this back to 0, which means that I will have— I'll go here to here, which means I'll have 2 spaces left.",00:18:55
+mrvdotu,176,tutor,"You ready? Good. Yeah, fantastic job. So the ribbon is how many meters long?",00:19:22
+mrvdotu,177,student,0.8 meters long.,00:19:31
+mrvdotu,178,tutor,"0.8. So there you go with the awesome effort. Thanks, [UNCLEAR], for figuring that out by yourself. You did a wonderful Good job again. So can you tell me— no problem. Before we move on to our next lesson, can you tell me what did you learn? [unclear]",00:19:33
+mrvdotu,179,student,I learned about decimals.,00:19:50
+mrvdotu,180,tutor,Decimals. So would you like to tell about it?,00:19:54
+mrvdotu,181,student,"For a decimal, to find a decimal, for example, if you have 1 and it's telling you there are some parts that need to be figured out, and then, for example, somebody says, ""I think this is 5,"" then that would be wrong. So you always have to put 0.something if it's a 1. If it's a 0.1, it'd be [UNCLEAR].",00:19:59
+mrvdotu,182,tutor,"Okay. 0.05. If it was a 0.01, um, probably be 0.005.",00:19:59
+mrvdotu,183,tutor,"Yeah, very good. Yeah, okay.",00:20:47
+mrvdotu,184,student,"Uh, yeah.",00:20:52
+mrvdotu,185,tutor,"Yes, all right. So now if you want to find one-tenth, that means a one whole should be divided into how many equal parts? [unclear]",00:20:54
+mrvdotu,186,tutor,One whole should be divided into how many equal parts?,00:21:06
+mrvdotu,187,student,One whole should be divided into 10 equal parts.,00:21:13
+mrvdotu,188,tutor,"Very good, very good. So if you are finding one tenth, that means one whole should be divided into 10 equal parts. Okay, there you go.",00:21:17
+mrvdotu,189,tutor,"See, awesome effort for that. All right, so moving on to our next lesson. Okay, any guesses what that could be? [unclear]",00:21:28
+mrvdotu,190,background,Solving problems involving fractions.,00:21:43
+mrvdotu,191,tutor,"Okay, so can you tell me what do you know about fractions?",00:21:48
+mrvdotu,192,background,"Fractions, um,",00:21:53
+mrvdotu,193,student,There's a denominator and numerator.,00:21:56
+mrvdotu,194,tutor,"Very good, there's a denominator and numerator. Okay, so now can you see that we have a question here?",00:21:59
+mrvdotu,195,student,Susie has 400 grams of sugar. She uses 1 fifth to make [unclear] sugar for her exam. Calculate how much sugar she has left.,00:22:08
+mrvdotu,196,background,400 grams.,00:22:16
+mrvdotu,197,tutor,One... [unclear],00:22:23
+mrvdotu,198,student,Maybe you have to turn one bit. [unclear],00:22:26
+mrvdotu,199,tutor,"Ah, how do you turn bits?",00:22:33
+mrvdotu,200,student,"No. I think you have to... [Speaker] Find out what 1/5 is equal to. So if I have 400 grams and then 1/5, and then 5 goes into 40, um, 5 goes into 40, um, 8.",00:22:42
+mrvdotu,201,tutor,How are you going to find 1 pound? [Speaker] Okay.,00:23:08
+mrvdotu,202,tutor,"Uh, and then 400 minus 80 is equal to 320. So she has 20 grams left. [unclear]",00:23:13
+mrvdotu,203,tutor,"Okay, very good. So how much sugar she has left with if she uses 80 grams?",00:23:44
+mrvdotu,204,student,"Uh, 320 grams.",00:23:50
+mrvdotu,205,tutor,"320 grams. Now can you tell me, Elian, how did you find 150, 200?",00:23:58
+mrvdotu,206,tutor,Pardon?,00:24:10
+mrvdotu,207,student,How did you find 1/5 of 400? What did you do there?,00:24:10
+mrvdotu,208,background,"So, 1/5 of 400, basically I did... so how much... [unclear] With the things that I learnt at school, I figured out how much 5 goes into 40, which is 8. I times 8 by 10, which was 80. And then I did 400 minus 80, which was 320. And that was my answer.",00:24:15
+mrvdotu,209,tutor,"Very good. So yeah, so that's exactly how we would work this question out, okay? You did an amazing job once again. So tell me, do you like jam?",00:24:57
+mrvdotu,210,student,Yeah.,00:25:07
+mrvdotu,211,tutor,"Yeah, okay then. Can you see that we've got 2 questions here? [unclear]",00:25:09
+mrvdotu,212,student,"In a 20-kilometre race, Jack completes a swim, a run, and a bike ride. Swim is 1/10 of the total distance. The run is 1/2 of the total distance.",00:25:15
+mrvdotu,213,tutor,What distance would this bike ride?,00:25:29
+mrvdotu,214,student,"Well, I do one, then ten. [unclear]",00:25:31
+mrvdotu,215,tutor,"You can also make use of this bar, okay?",00:25:40
+mrvdotu,216,student,"Oh, I don't use bars when I'm working out fractions. And I have",00:25:46
+mrvdotu,217,tutor,"One, then two here.",00:25:55
+mrvdotu,218,student,"Then I have to figure out the closest denominator for both of them. So it's going to be [unclear] 8 and 10, which is the same as 10. So the denominator is going to be 1/10. But then, um, 1/2 is equal to, um, a half, obviously. So that'll be 5/5. [unclear]",00:25:59
+mrvdotu,219,tutor,Okay.,00:26:46
+mrvdotu,220,tutor,"Okay, then can you go ahead and shade 5 tenths here? Okay, you want to shade— shade— [unclear]",00:26:49
+mrvdotu,221,student,"Okay, so this is the [unclear] and then you have 1 tenth also. So that would be",00:26:58
+mrvdotu,222,student,One.,00:27:16
+mrvdotu,223,tutor,"Hmm, very good. That would be one 10. How many tens are left?",00:27:16
+mrvdotu,224,student,"Um, 4 tens.",00:27:22
+mrvdotu,225,tutor,"4 tens, very good. So if they ask what distance was his bike ride? So if they ask us in distance, then what are we going to do?",00:27:26
+mrvdotu,226,background,"Um, the 4/10 is the fraction that he bites. Okay, so 4/10 is the fraction he bites. Now they're asking us to find the distance. How will we find that? [unclear]",00:27:48
+mrvdotu,227,tutor,"Bye. [unclear] Okay, so let's work it out together, okay? Shall we?",00:28:15
+mrvdotu,228,student,"Uh, yeah.",00:28:19
+mrvdotu,229,tutor,"Okay, now can you tell me what is the total distance just complete?",00:28:21
+mrvdotu,230,student,Total distance just complete.,00:28:28
+mrvdotu,231,student,"It's, um, um, uh, how?",00:28:32
+mrvdotu,232,tutor,"Yeah, very good. What is the value of it?",00:28:40
+mrvdotu,233,student,"Uh, 14. [unclear]",00:28:43
+mrvdotu,234,tutor,"So if you read the question once again, um, can you tell me what is the total distance of the ray [unclear]",00:28:46
+mrvdotu,235,tutor,"My microphone is [unclear] now, so I can't hear you.",00:29:05
+mrvdotu,236,student,Can you hear me now? Hello?,00:29:11
+mrvdotu,237,tutor,Yeah.,00:29:14
+mrvdotu,238,student,"Yeah, great. Now can you tell me what is the total distance of the roof? It's— the total distance is— [unclear] 20 kilometers.",00:29:15
+mrvdotu,239,tutor,"Very good. So the total distance is 20 kilometers. Okay. Now, can you see that we have a hole here? Can you tell me how much this hole is equal to? How many kilometers?",00:29:34
+mrvdotu,240,student,20 kilometers.,00:29:48
+mrvdotu,241,tutor,"Very good, 20 kilometers. Okay, now can you tell me into how many parts have they divided it into?",00:29:51
+mrvdotu,242,student,"Um, 10.",00:29:59
+mrvdotu,243,tutor,Very good. Now can you tell me how much 1/10 of the distance would be?,00:30:02
+mrvdotu,244,student,1/10 of [unclear] would be,00:30:08
+mrvdotu,245,student,120.,00:30:19
+mrvdotu,246,tutor,"If the entire thing, if the whole is equal to 20, if you divide it into 10 equal parts, how much one part is going to be equal to? [unclear]",00:30:20
+mrvdotu,247,student,"Um, 2.",00:30:34
+mrvdotu,248,tutor,Very good. So 1/10 is equal to how many kilometers? [unclear],00:30:37
+mrvdotu,249,tutor,"Very good. So the distance he swam is equal to 2 kilometers. Okay, then can you tell me how many kilometers did he run?",00:30:46
+mrvdotu,250,student,10 kilometers.,00:30:56
+mrvdotu,251,tutor,"Very good. So if he ran for 10 kilometers and swam for 2 kilometers, how many kilometers are left?",00:30:57
+mrvdotu,252,student,8 kilometers.,00:31:07
+mrvdotu,253,tutor,8 kilometers. So what is that 8 kilometers? What distance is that?,00:31:09
+mrvdotu,254,student,"Um, 8/10.",00:31:16
+mrvdotu,255,tutor,So the 4/10 is equal to how many kilometers? [unclear],00:31:20
+mrvdotu,256,tutor,"Yes, but if it's 8 kilometers, because we know 2— 1/10 is equal to 2 kilometers. So half, half of the total distance would be 5/10. The 5/10 is equal to how many kilometers? [unclear]",00:31:26
+mrvdotu,257,tutor,"Is equal to 10 kilometers. Very good, 10 kilometers. If this is 10 kilometers and if this is 2 kilometers, so what is the— how many kilometers are left? 4 kilometers. [unclear] If this— if it's 4 squares—",00:31:46
+mrvdotu,258,tutor,"Very good, 4 tenths, right?",00:32:16
+mrvdotu,259,student,Yeah.,00:32:20
+mrvdotu,260,tutor,"4 tenths, good job. So 4 tenths is equal to 8 kilometers. So shall we go ahead and write that? [unclear]",00:32:22
+mrvdotu,261,student,Um...,00:32:36
+mrvdotu,262,tutor,"Is that clear, Elian?",00:32:36
+mrvdotu,263,student,"Uh, yeah.",00:32:39
+mrvdotu,264,tutor,Are you sure?,00:32:41
+mrvdotu,265,student,Yeah.,00:32:43
+mrvdotu,266,tutor,"Okay, so can you quickly tell me how you worked this question out?",00:32:44
+mrvdotu,267,student,"So first up, I added",00:32:51
+mrvdotu,268,student,"The 1/10 and 1/2 together, which was like [UNCLEAR]. And then 5/10 took up this much space, but because it was out of 20 kilometres, you have to times it by 2. So the 5/10 was equal to 10, and then the 1/10, because of this is 2 kilometres, and then 10 adds 12 is equal to 12, obviously. No, no, no, no.",00:32:57
+mrvdotu,269,tutor,What happened? [unclear],00:33:42
+mrvdotu,270,student,"No, that's okay. No, that's okay.",00:33:45
+mrvdotu,271,student,"equals 12, which means that, um, a 4/10 of this left, but then if you times it by 2, it's 8, and then kilometres because he runs kilometres.",00:33:45
+mrvdotu,272,tutor,"Very good, yeah. So as we know that because Jack runs 20 kilometres, this entire bar is equal to 20 kilometres. And then it is divided into 10 equal parts. So 1/10 is going to be 2 kilometers, right? So he swims 2 kilometers and then he runs half of the distance. That would be 5/10.",00:33:45
+mrvdotu,273,tutor,"So 6/10 is equal to 12 kilometers and the rest, which is 4/10, would be equal to 8 kilometers. Is that clear?",00:34:35
+mrvdotu,274,student,Yeah.,00:34:44
+mrvdotu,275,tutor,"Okay, now can you go ahead and give this question a try? How would you work this one out?",00:34:45
+mrvdotu,276,background,Tina has saved £240. She spends 1/4 of it on a computer game. How much money does she have left?,00:34:53
+mrvdotu,277,tutor,How would you work that out?,00:35:05
+mrvdotu,278,student,"Well, 4 into 24...",00:35:07
+mrvdotu,279,student,"4, 8, 12, 16, 20, 24, 6, and then 60. And then, um, how much money does she have left? 240. [UNCLEAR]",00:35:07
+mrvdotu,280,tutor,Mm-hmm.,00:35:11
+mrvdotu,281,student,"And 60. Equals... I'll just do this. 0, 0, 1, 3. So he has 3. [unclear]",00:35:23
+mrvdotu,282,tutor,"So Tina, save. 340 minus 60 equals... [unclear]",00:35:56
+mrvdotu,283,student,"Very good, 180 what?",00:36:15
+mrvdotu,284,tutor,Pounds.,00:36:21
+mrvdotu,285,student,"180 pounds, good job. Okay, now we're going to make use of this bar here, okay?",00:36:22
+mrvdotu,286,student,Okay.,00:36:30
+mrvdotu,287,tutor,"All right, so can you tell me how much is this bar worth? The whole is equal to how much?",00:36:30
+mrvdotu,288,student,4. [unclear],00:36:38
+mrvdotu,289,tutor,How much is it equal to?,00:36:40
+mrvdotu,290,student,60 each.,00:36:45
+mrvdotu,291,tutor,"Very good. So 1/4 is equal to 60, right? Good. So can you see that Tutor has saved £240? So the whole is equal to £240. And why have we divided into 4 equal parts? Can you tell me?",00:36:47
+mrvdotu,292,student,"We've divided into 4 equal parts because, um, 6 times 4 equals 24, but then 60 times 4 equals 240.",00:37:10
+mrvdotu,293,tutor,"Okay, but why have you divided into 4? Do you know why?",00:37:19
+mrvdotu,294,background,[unclear],00:37:23
+mrvdotu,295,student,"Oh, because the denominator is 4.",00:37:25
+mrvdotu,296,tutor,"Very good. Yeah, can you see that Tina spends 1/4? So because she spends 1/4, the denominator is 4. That means we know we are going to divide the whole into 4 equal parts. Is that clear?",00:37:31
+mrvdotu,297,student,Yeah.,00:37:48
+mrvdotu,298,tutor,"Yeah, okay. So how did you find the one foot? [unclear]",00:37:49
+mrvdotu,299,student,"I had to find out. I found out. How much 4 goes into 24, which is 6. But then because it's 240, you have to times it by 10.",00:37:54
+mrvdotu,300,tutor,10.,00:38:19
+mrvdotu,301,student,"And that was 60. And then I had 60, so...",00:38:20
+mrvdotu,302,tutor,"Can you say that £60 is how much he has spent, and we are left with how many pounds if you add them all?",00:38:28
+mrvdotu,303,background,"180. 180. Okay, very good job. So can you tell me what did you learn in this slide?",00:38:36
+mrvdotu,304,student,"Um, how to, uh, find how to— more about fractions and how to like find a fraction of a whole number.",00:38:46
+mrvdotu,305,tutor,"Very good. And the amounts also, right? So you, you were able to find 4/10 were equal to 8 kilometers here, right?",00:39:01
+mrvdotu,306,student,Yeah.,00:39:11
+mrvdotu,307,tutor,"Yes, okay then. Can you go ahead and give this question a try? Oh, and I must say, Elian, you did a really good job here, so there you go with the good working [unclear] for that. You did an amazing job there, okay?",00:39:13
+mrvdotu,308,student,Thank you.,00:39:27
+mrvdotu,309,tutor,No problem. Can you go ahead and give this question a try?,00:39:28
+mrvdotu,310,student,"on the scooter for a half hour and play football for 3 half hours. This is 50... no, no, sorry. [UNCLEAR]",00:39:28
+mrvdotu,311,tutor,"Okay, Elian, since we are running out of time, we will have to stop right here, okay?",00:39:46
+mrvdotu,312,student,"Oh, okay.",00:39:56
+mrvdotu,313,tutor,"So before you go, before you go, once I end the session, you would get some questions to do, so make sure you read them very carefully and then we're them out, okay?",00:39:57
+mrvdotu,314,student,Okay.,00:40:07
+mrvdotu,315,tutor,"Okay, so can you tell me what do you think of our session today?",00:40:08
+mrvdotu,316,student,"We were doing— it was good. We were doing fractions, rounding, and decimals.",00:40:13
+mrvdotu,317,tutor,"Yeah, very good. And can you tell me, did you enjoy our session together?",00:40:21
+mrvdotu,318,student,Yeah.,00:40:27
+mrvdotu,319,tutor,"Yeah, okay, did you like it?",00:40:28
+mrvdotu,320,student,Yeah.,00:40:33
+mrvdotu,321,tutor,"Yeah, I had a great time too. Okay, so can you quickly tell me what did we learn today?",00:40:34
+mrvdotu,322,student,"Fractions, decimals, and [UNCLEAR].",00:40:41
+mrvdotu,323,tutor,"Okay, now I'm going to ask you some questions, okay? If you're rounding to the nearest hundred, then what digit would you look?",00:40:41
+mrvdotu,324,student,At the tens.,00:40:51
+mrvdotu,325,tutor,"Tens, very good. And I must say, Elian, you did a fantastic job today. You did a wonderful job working the questions on your own, and also you did a great job explaining to me how you worked your questions out. Okay, so keep up the good work. I'll meet you next week. Okay, have a nice day. Bye.",00:40:52
+mrvdotu,326,student,You too. Bye. [unclear],00:41:10

@@ -1,0 +1,307 @@
+session_id,utterance_id,role,content,timestamp
+mulosvb,0,tutor,Hello?,00:00:00
+mulosvb,1,background,Can you hear this?,00:00:00
+mulosvb,2,tutor,"Hello? Can you hear me? [unclear] Hi. Hi, can I know what's your name?",00:00:02
+mulosvb,3,background,[STUDENT_NAME].,00:00:12
+mulosvb,4,tutor,"[STUDENT_NAME]? Okay, [STUDENT_NAME], right? Okay, I heard something. Okay, all right. So hi, [STUDENT_NAME], how are you today?",00:00:13
+mulosvb,5,student,"Good, how are you?",00:00:20
+mulosvb,6,tutor,"Good, so how was the weekend and stuff like that?",00:00:22
+mulosvb,7,student,"Uh, it was okay.",00:00:26
+mulosvb,8,tutor,"Hmm, all right, okay. So I think— give me a minute. Yes, okay, right. So we have a lesson that we kind of, you know, started last week but we couldn't complete the lesson. Do you remember what is two decimal place?",00:00:30
+mulosvb,9,student,"Yeah, so it's like when you're like rounding to like behind two decimal places. Like, it's like, you know, the, um, like the decimal point, it's like two places below the decimal point. [unclear]",00:00:47
+mulosvb,10,tutor,"Yes, exactly right. And last week I just— we just learned about how we round numbers to —few degrees, right? Like rounding numbers to 2 decimal places. So round 2.147 to the nearest hundredths. So what do you think what you need to do when you're rounding to the nearest hundredths, [STUDENT_NAME]?",00:01:06
+mulosvb,11,student,[unclear],00:01:30
+mulosvb,12,background,"into the tenths column and see if it's a 1, you go to the Is that what we did last week?",00:01:30
+mulosvb,13,student,[unclear],00:01:44
+mulosvb,14,tutor,"What do you think, [STUDENT_NAME]?",00:01:46
+mulosvb,15,student,"Oh, yeah, into this column and then—",00:01:48
+mulosvb,16,tutor,"Exactly, the column that's in front of the hundredths column, okay? So that's a 7. So what does that mean?",00:01:50
+mulosvb,17,student,2.15.,00:01:58
+mulosvb,18,tutor,"It would be 2.15, right? We started this question off, but",00:02:00
+mulosvb,19,tutor,"Let's just try a few other questions and let's see how it works, right? Now— okay, now you have 0.375 liters. When you're rounding this number to 2 decimal places, what do you think is the answer? [unclear]",00:02:05
+mulosvb,20,student,Uh—,00:02:24
+mulosvb,21,tutor,Which number are we doing?,00:02:32
+mulosvb,22,student,[unclear],00:02:33
+mulosvb,23,tutor,Okay.,00:02:34
+mulosvb,24,student,Round it to 2 decimal places.,00:02:34
+mulosvb,25,tutor,0.38.,00:02:40
+mulosvb,26,student,"Okay, so how did it become a 0.38?",00:02:41
+mulosvb,27,tutor,Because I rounded it.,00:02:44
+mulosvb,28,student,Yes. Which column did you look into for you to round it?,00:02:47
+mulosvb,29,tutor,The hundreds.,00:02:51
+mulosvb,30,student,Yes.,00:02:53
+mulosvb,31,tutor,"Yeah, you have to— when you're rounding to the 2 decimal place, which is basically the hundredths column, you always look into the thousandths column. Okay, so since there's a 5, you can round it up to 0.38, as you told me, right? And then last week we kind of completed this one as well. So today we have to start this question. Now this could be a bit more challenging, or it could be a very different question from all what we have done, right? So can you first read the question and ask [STUDENT_NAME]? [unclear]",00:02:57
+mulosvb,32,student,"When she rounds her number to one decimal place, she gets 2.6. When she rounds the number to two decimal places, she gets 2.55. What could the number be? Give four possible answers.",00:03:31
+mulosvb,33,tutor,"Yes, so usually they give you the number and ask you to round it. Now this son, they have already rounded the number. You have to think what number she could be thinking of, right? How do you understand this question?",00:03:47
+mulosvb,34,student,[unclear],00:04:03
+mulosvb,35,tutor,"What are the important things you should keep in mind, [STUDENT_NAME]?",00:04:03
+mulosvb,36,student,"She rounded to 1 decimal place and she got 2.6, and then she rounded to 2 decimal places and she got 2.5. [unclear]",00:04:22
+mulosvb,37,tutor,"So what number, when you're— can you think of a number that would be rounded to 2.55?",00:04:34
+mulosvb,38,student,2.47. But— but 2.,00:04:41
+mulosvb,39,tutor,Now I have a question.,00:04:49
+mulosvb,40,student,2.45?,00:04:51
+mulosvb,41,tutor,"I have a question. Okay, let's just— okay, when they say 2 decimal places, if you're rounding to 2 decimal places, which column do you have to look into? [unclear]",00:04:53
+mulosvb,42,background,Hundredths.,00:05:04
+mulosvb,43,tutor,"Hundredths. Yes, 2 decimal places, the hundredths column. So which column do you have to look into if you're rounding?",00:05:06
+mulosvb,44,student,[unclear],00:05:16
+mulosvb,45,tutor,"Now let's say we have a number, right? So we have to round it to 2 decimal places. That is this. So which column do you have to look into if you're rounding it to 2 decimal places?",00:05:16
+mulosvb,46,student,The hundredths? The thousandths?,00:05:29
+mulosvb,47,tutor,"You have to look into the thousandths column. That is the column that's next to the hundredths column or in front, okay? So there should be a number there. That's when you can decide to round, okay? Okay, so over here you also should have 3 numbers after the decimal point for you to tell if you're rounding, how to round it to 2.55, right? Does that make sense?",00:05:34
+mulosvb,48,student,Yeah.,00:05:58
+mulosvb,49,tutor,"Okay, so could you think of a number that would be rounded to 2.55 then?",00:05:59
+mulosvb,50,background,[unclear],00:06:05
+mulosvb,51,student,2.553.,00:06:07
+mulosvb,52,tutor,"Okay, let's just check if that's right. Okay, you told 2.553. Okay, why do you think that this number would Why would it be rounded to 2.55?",00:06:10
+mulosvb,53,student,"Because when you look into the thousandths column, then it's a 3, so you round down, so it would be 2.55.",00:06:20
+mulosvb,54,tutor,"Excellent, [STUDENT_NAME]. Awesome, right? So this could be a possibility. Now, we just check this point, right? We just check if this is— Okay, you also should make sure that this number applies to this one. So when she round this number to one decimal place, does she get 2.6? [unclear]",00:06:31
+mulosvb,55,tutor,If she round this number?,00:06:57
+mulosvb,56,student,Yes.,00:06:58
+mulosvb,57,tutor,Yes. Okay. Can you tell me why she gets 2.6 if she round it to one decimal place?,00:06:59
+mulosvb,58,background,"Because when you look into this column, it's a 5, so you round it up. So it would be 2.6.",00:07:04
+mulosvb,59,tutor,"Exactly, [STUDENT_NAME]. So one option is 2.553. So you can write that in one of the blanks that's given because that's one possible number. And you could also, like how we attempted this question, I want you to think of another 3 numbers just like that, right? So can you write the very first one so we can move on to the next one?",00:07:12
+mulosvb,60,student,"Yes, I'll try. [unclear]",00:07:34
+mulosvb,61,tutor,"So one possible answer is 2.553. Okay, what else? [unclear] Okay, why did that become a 2 now?",00:07:38
+mulosvb,62,student,Because any of the numbers below 5 would work.,00:07:50
+mulosvb,63,tutor,"Yes, definitely, right? So you can write any answer that is below 5 on the thousandths. Column, which you are doing. Okay, what about like if I choose this one? Why do you think if I choose this as my number, 2.557, why do you think I'm— I will be right?",00:07:55
+mulosvb,64,student,You would— [unclear],00:08:19
+mulosvb,65,tutor,No. Why?,00:08:22
+mulosvb,66,student,"Because, um, like",00:08:26
+mulosvb,67,student,"Your number is like above 5, so like if you're rounding it, that'll be 2.56.",00:08:29
+mulosvb,68,tutor,"Exactly right. This won't— this number won't adhere to these two rules that's given here, right? So you can't write any number that is above 5 on the thousand column. All what your possible answers are right, and my answer of that is wrong. Okay, so amazing, uh, [STUDENT_NAME], with a little help. I'm happy that you tried it on your own, right? So good effort there. In working that out on your own. Right, so now we are moving on to the last little support slide that I think is required before we, you know, complete this lesson. So can you first read this question out?",00:08:36
+mulosvb,69,student,[unclear] Let's show the number 1.548 using place value counters.,00:09:14
+mulosvb,70,tutor,Yes.,00:09:25
+mulosvb,71,tutor,"Okay, now let's say I'm going to round this number to— [unclear] When rounding to the nearest hundred, two decimal places, we need to look at the number of thousands right now. How do you round this number to two decimal places?",00:09:26
+mulosvb,72,student,"You would look into the thousandths column, and it's an 8, so you go to the hundredths column and change it to a 5, so it would be 1.55.",00:09:41
+mulosvb,73,tutor,"It would be 1.5. So the same number, but if you're rounding it to one decimal place, then how would that change your answer?",00:09:53
+mulosvb,74,student,"You look into the hundredths column. It's a 4. And then you go to the tenths column and it's a 5. So you change that to— well, no, you don't change it to anything. It would just be 1.5.",00:10:00
+mulosvb,75,tutor,"It would be just 1.5, right? So these are like the little— [unclear] Basic rule that you need to remember when it comes to the rounding, right? So always remember, when they're asking you to round to the nearest hundred, then you have to look the column that is in front of the hundred. If, for example, if they're asking you to round to the nearest ten, then which column do you have to look into?",00:10:13
+mulosvb,76,student,The hundredths column. [unclear],00:10:38
+mulosvb,77,tutor,"Right, so it's very important that you pay attention to which column you need to look into when you're rounding. OK? All right, so that's all up on the rounding to 2 decimal places. So do you have any question before we move ahead, [STUDENT_NAME]? [unclear] OK, so then let's move ahead with the next one. So just tell me if you could see the slides, right?",00:10:40
+mulosvb,78,student,"Yeah, I can see the slide.",00:11:09
+mulosvb,79,tutor,"OK, so what— can you read the topic?",00:11:11
+mulosvb,80,student,finding common multiples.,00:11:11
+mulosvb,81,tutor,"Yeah, so what do you know about the word multiples, [STUDENT_NAME]?",00:11:17
+mulosvb,82,student,"Common multiples are like when you times— so it's like you do the multiplication and then it's like the number that— like, it's like the product of the number. [unclear]",00:11:21
+mulosvb,83,tutor,"Exactly, so those are the multiples. So basically you can recall your multiplication— I mean, the times table. So the answer you get— so when I say multiples of 2, what do you think your answers are going to be? Can you write me the first 3 multiples of 2? [unclear]",00:11:32
+mulosvb,84,tutor,"2, 4, 6, exactly, right? So if I ask you the multiples of 10, then how does that go?",00:11:52
+mulosvb,85,student,"10, 2 times 5, 10. 10, 20, 30. Exactly, keeps on like that, right? So over here we are going to learn how to find common multiples, right? So can you first try reading the learning goal question so I can check your prior understanding there?",00:12:03
+mulosvb,86,student,"Right, 2 common multiples of both 3 and 4. [unclear]",00:12:23
+mulosvb,87,tutor,Write 2 common multiples.,00:12:32
+mulosvb,88,student,[unclear],00:12:39
+mulosvb,89,tutor,"Okay, so what do you know about the word common multiples? What does that mean, [STUDENT_NAME]?",00:12:39
+mulosvb,90,student,Like they both have it. It's like that times something equals that.,00:12:45
+mulosvb,91,tutor,"Yes. So if you try to list down your 3 times table and 4 times table, you will find few numbers that are common on both. So one is 12, and what do you think the other is?",00:12:53
+mulosvb,92,student,"Uh, I, uh, let me quickly just recall. [unclear]",00:13:06
+mulosvb,93,tutor,"Yes, just try to, you know, list down the multiples of 3, multiples of 4, then it will be quite easy for you to find what is common, right?",00:13:13
+mulosvb,94,student,"All right, um, I guess, okay. [unclear]",00:13:23
+mulosvb,95,student,It's 24.,00:13:44
+mulosvb,96,tutor,"It is 24. Awesome. So, right.",00:13:46
+mulosvb,97,student,"Alright, so likewise, could you also give it a try for the prior learning question? It's quite easy.",00:13:52
+mulosvb,98,tutor,"Okay. So yeah, so basically you have to write your 6 times",00:14:05
+mulosvb,99,background,"6, 12, 18, 24, and— [unclear] So for us to learn about common multiples, we basically should have a little idea about multiples.",00:14:09
+mulosvb,100,tutor,"Right, so that's why I decided to take you through the prior learning questions. So I think let's try moving on to this question before we move ahead, right? So before we try out the YouDo, I think it's really important that we try a little more questions before, you know, we move on to YouDo. So find the first 2 common multiples of 2 and 5, right? So first you write [unclear] 2, list the multiples of 5, and find 2 common multiples of 5. 2 and 5. Could you try that?",00:14:25
+mulosvb,101,student,Okay.,00:14:59
+mulosvb,102,tutor,"If you already know the answer, then you can just try writing the answer, right?",00:15:00
+mulosvb,103,student,"Yeah, okay. [unclear] [unclear]",00:15:05
+mulosvb,104,tutor,"6. See, okay, now you don't have to go all the way. You see over here, they have given multiples of 2 and they have only given few dotted lines, right? So you don't need to go all the way. You just can find from the very first few",00:15:37
+mulosvb,105,student,"Sorry, it's just the first one that came to mind.",00:15:52
+mulosvb,106,tutor,"Alright, no problem, right? So over here we have 2, 4, 6, 8, 10, 12, 14, 16, 18, and 20, right? So with these multiples, they're asking you to find the common multiples, not anything apart, right?",00:15:56
+mulosvb,107,tutor,Okay... So 10s already there on both so I'm just gonna circle them. There's one more that is there— what is that? [unclear] [unclear],00:16:26
+mulosvb,108,student,So why does it have a next common multiple?,00:16:52
+mulosvb,109,background,They don't have a next common multiple.,00:16:58
+mulosvb,110,student,Really?,00:17:02
+mulosvb,111,background,"See, we have 10, 12, 14, 16, 18, 20 is there, don't you see?",00:17:03
+mulosvb,112,student,That looks like 22.,00:17:10
+mulosvb,113,tutor,"But you know, right? After 18 is 20.",00:17:12
+mulosvb,114,student,"Yeah, but when I looked, I thought that said 26.",00:17:15
+mulosvb,115,tutor,"All right, no problem. But you know, like, it's basically multiples of 2. So yeah, anyways, right? So common multiple is when you have the number on both the multiples. Now since you tried more, uh, you know, the learning all questions all by yourself, I think we're not Let's just directly move on to the usual slide, right? So can you first read the question, Ape? [unclear]",00:17:19
+mulosvb,116,background,Which number below is a common multiple of 2 and 7?,00:17:44
+mulosvb,117,background,It's 14.,00:17:54
+mulosvb,118,background,"Yes, it is 14, so you can circle that.",00:17:58
+mulosvb,119,background,Okay. [unclear],00:18:03
+mulosvb,120,tutor,a common multiple of 3 and 4 itself. [unclear],00:18:03
+mulosvb,121,tutor,almost 4.,00:18:03
+mulosvb,122,tutor,"Like, okay.",00:18:22
+mulosvb,123,student,24. If I ask you to find another common multiple of 4 and 6 that's less than 40?,00:18:27
+mulosvb,124,tutor,One is 24. Can you think of another one as well?,00:18:34
+mulosvb,125,student,"Um, 48.",00:18:38
+mulosvb,126,tutor,"48? 48 is more than 40. It has to be less than 40, right?",00:18:42
+mulosvb,127,background,And then you do 3 take— 2 take 3. You cannot do [UNCLEAR].,00:18:51
+mulosvb,128,tutor,There are another 2 multiples that is less than 40.,00:18:56
+mulosvb,129,tutor,So one is [UNCLEAR]. Can you think of another one?,00:19:01
+mulosvb,130,student,That will become a 9.,00:19:04
+mulosvb,131,tutor,"Actually, at the beginning itself.",00:19:11
+mulosvb,132,background,12.,00:19:16
+mulosvb,133,tutor,"Right, yes. So these are what— so I'm going to give you a very big",00:19:18
+mulosvb,134,tutor,"I mean, a high five for working, showing much attention and trying that by yourself. So now we are moving on to a little more— the question can get a bit challenging, right? So over here they have given a Venn diagram. Do you know what a Venn diagram is?",00:19:27
+mulosvb,135,student,Yeah.,00:19:46
+mulosvb,136,tutor,"Okay, so how do you— what do you understand when you look at this Venn diagram?",00:19:47
+mulosvb,137,tutor,"That's multiple of 3, that's multiple of 5. Those are the common multiples.",00:19:54
+mulosvb,138,student,"Yes, so which one is a common [UNCLEAR]?",00:20:00
+mulosvb,139,background,"1, 7, 5.",00:20:03
+mulosvb,140,student,The middle one.,00:20:04
+mulosvb,141,tutor,"Yes, the blue region is basically the common multiples. So which number is in the wrong position on the Venn diagram? Can you try figuring that out? Which one is wrong?",00:20:06
+mulosvb,142,student,7.,00:20:16
+mulosvb,143,tutor,"Okay, why do you think that is wrong?",00:20:17
+mulosvb,144,student,[unclear],00:20:19
+mulosvb,145,tutor,"Yes, it has to come in the middle because it's common to multiple of 3 as well. So what else? Do you find any other number that is in a wrong position or all right?",00:20:19
+mulosvb,146,student,It's all right.,00:20:33
+mulosvb,147,tutor,"Exactly. It's only the 15 that has to come in the middle because it is a common multiple for both, right? So I think, yes, we have completed that one over there so we could move on to the next lesson because you definitely did a very good job there. So give me a moment till I try loading the next lesson, okay? I have to find the next lesson because— okay, just see if you can see the lesson. Not this, we already did this, right?",00:20:35
+mulosvb,148,student,[unclear] [unclear],00:21:07
+mulosvb,149,student,Okay... I found it!,00:21:11
+mulosvb,150,tutor,Okay— lesson. [unclear],00:21:30
+mulosvb,151,student,Yeah.,00:21:40
+mulosvb,152,tutor,"Adding and subtracting fractions including mixed numbers, right? So do you know what are mixed numbers they're talking about?",00:21:42
+mulosvb,153,student,Yeah.,00:21:51
+mulosvb,154,tutor,So what is a mixed number according to you?,00:21:52
+mulosvb,155,student,Like a number that has a whole and then a fraction as well.,00:21:56
+mulosvb,156,tutor,"Exactly. So we are going to learn how we can add and subtract fractions when it comes to mixed numbers as well, right? So first, let's— I just I just want to check your, you know, prior knowledge on this topic, so can you just give it a try for the learning goal question?",00:22:00
+mulosvb,157,student,"Okay, so... solve this calculation... [unclear]",00:22:17
+mulosvb,158,tutor,"Well, those are perfect straight lines, really.",00:22:31
+mulosvb,159,student,"So we need to find a common multiple, which is the lowest common multiple, or as my teacher likes to call it, the [UNCLEAR]. That's 12, so I'm just gonna put 12 as the denominator. And then 4 times what gets you 12? That 4 times 3. So then you— whatever you do to the bottom, you have to do to the top. So 1 times 3 is 3. And then that will be 2— I don't know what's going on. Like, I literally— [unclear] 2 times 5 by 2, which is 10. So technically now you're just doing 10 subtract 3, which is 7 over 12.",00:22:36
+mulosvb,160,tutor,"Yes, definitely that's how you do it. So can you tell me why, you know, you just can't subtract this, and why do you have to find a common, like, denominator and stuff, and— Why do you think we are doing this?",00:23:25
+mulosvb,161,student,"Because if there weren't a common denominator, like if it's not the same denominator, then you can't like—",00:23:39
+mulosvb,162,tutor,"Yes. [unclear] To have a very good understanding there. So when the denominators look different, you can't add or subtract, and that's the reason why we are doing that. So thank you for taking me through the steps that you already know, right? So excellent, focusing in, having a good idea on how it works, right? Okay, [unclear] fraction. So what do you know about equal and fractions, [STUDENT_NAME]? What do you know, the meaning?",00:23:46
+mulosvb,163,student,"They're just like, they're the same number, it's just represented differently. So like—",00:24:15
+mulosvb,164,tutor,"Exactly, they kind of have the same value, but the fraction may look different, but the value or the size looks the same, right? So for us to learn about adding and subtracting fractions, we should have a little idea on equivalent fractions as well. So that's why they kind of asked this question for us to see how well you know about this on topic, right?",00:24:22
+mulosvb,165,student,[unclear],00:24:44
+mulosvb,166,tutor,"Since you knew how to find common denominators and multiple of both denominators, we directly can move into Okay, I think there's a different question there as well, so we'll try this one out because we have to learn how mixed numbers work as well, right? So first let's try doing this and then we can go on to the next slide, right? So can you read this with me? Yes, what are you whispering, [STUDENT_NAME]?",00:24:45
+mulosvb,167,student,[unclear],00:25:16
+mulosvb,168,tutor,"That's all right, you can just tell me if you're comfortable. [unclear]",00:25:20
+mulosvb,169,student,"Yeah, okay. So when adding and subtracting fractions, the denominators need to be the same so that we are adding parts that are the same size.",00:25:23
+mulosvb,170,tutor,"Yes, so as you already told me, since the denominators are different, we need to find a common denominator, right? So 1/3 plus 3/8, so the lowest common multiple of 3 and 8, what do you think that is?",00:25:34
+mulosvb,171,student,"32? No, 16.",00:25:47
+mulosvb,172,tutor,"No, 16? It's 24, right? 16, you can't— you don't have it on the 3 times table, right?",00:25:52
+mulosvb,173,student,Oh yeah.,00:26:03
+mulosvb,174,tutor,"Yes, okay. So now we know our common denominator is 24. So you know what— how it works. So could you take me through what is your new fraction. Times",00:26:04
+mulosvb,175,tutor,8. So,00:26:16
+mulosvb,176,student,"you do 3 times a, which is 24. So then you do that times 8 as well, because I've to [unclear] the bottom, you must do to the top. So that's 8 as well. And then for that one, you just— because 3 times a is 24, but yeah. So then that happens. [unclear]",00:26:17
+mulosvb,177,tutor,Mm-hmm.,00:26:39
+mulosvb,178,student,"So yeah, that's it.",00:26:40
+mulosvb,179,tutor,"So now basically you're just going to add the fraction as the denominators are same. So 8 9 would give you? Um,",00:26:48
+mulosvb,180,student,there we go. 17. It,00:26:59
+mulosvb,181,tutor,"would give you just 17. So your final answer is 17/24, right? So now what are we going to do is— [STUDENT_NAME], now we just learned how to add or subtract fraction when they just give you a fraction like this. Now we are going to learn how to subtract mixed numbers. [unclear]",00:27:04
+mulosvb,182,tutor,"And this is something very important. That's why I just took you to the previous slide to learn it, okay? So you know what a mixed number is. You will have a whole number in front and you will have a fraction. So now, do you know how to, you know—",00:27:24
+mulosvb,183,student,Yeah. [unclear],00:27:40
+mulosvb,184,tutor,"Okay, so let's just try to look into this together, right? We can partition the mixed number into whole number and fractions. You just try to subtract the whole number differently or separately, and then you can consider the fractions separately. So 2 take— first we are going to look into the whole. So 2 take away 1, how much is that?",00:27:40
+mulosvb,185,student,"Um, 1.",00:28:09
+mulosvb,186,tutor,"It is 1. I am going to write 1 there because it is the remainder. So now what I have is I have 3/4 and 5/8. So what I am going to do is make the denominator of the fraction the same. So 3/4, how can I change that? [unclear] is what I am going to look into, right?",00:28:12
+mulosvb,187,student,[unclear],00:28:32
+mulosvb,188,tutor,"Yeah. So what I am going to do is, [STUDENT_NAME], give me a minute. Let me just show you it using a different color so you don't get confused, right? So this is the two fractions that we are going to look, 3/4 and 5/8. Now what I can do is I just can make sure that I change this fraction to a denominator of 8. 8. Okay, this can already— it's already in 8, no? So I don't need to change this. So I can change 3/4 to a denominator of 8. So what happens is 4 times 2 gives me 8. So I multiply the numerator also by 2, which gives me a 6.",00:28:36
+mulosvb,189,student,[unclear],00:29:16
+mulosvb,190,tutor,So now I have 6/8 over here and 5/8 over here. So now basically I will just take away that. So what happens when I take away 6/5/8 from 6/8? How much do I end up getting if I take away this?,00:29:16
+mulosvb,191,student,You get a decimal. [unclear],00:29:36
+mulosvb,192,student,"No, it's 1/8. Sorry.",00:29:39
+mulosvb,193,tutor,"It's 1/8 because 6/8 take away 5/8 would give me 1/8, right? Now I know I have a whole number there and I have a fraction and I'm just separately worked the whole number and the fraction separately, and I am just going to combine both so that I get my mixed number. So that's 1 whole, and the fraction is going to be 1/8. So this is my mixed number.",00:29:42
+mulosvb,194,student,[unclear],00:30:12
+mulosvb,195,tutor,"No, give me a minute. I don't know why I can't write. Okay, 8. Okay, give me a minute. Okay. So this is my mixed number. Is that clear, [STUDENT_NAME]?",00:30:12
+mulosvb,196,student,Yeah.,00:30:23
+mulosvb,197,tutor,"Okay, so you basically have to do the wholes differently and the fraction differently for you to find your final answer. So can you now try out the your turn part for me?",00:30:24
+mulosvb,198,student,"Yeah, so, okay. [unclear]",00:30:38
+mulosvb,199,tutor,"Okay, I've just guided you on what you have to do, yes.",00:30:42
+mulosvb,200,tutor,It's 0 because you're just taking 1 away from 1. Make the denominator of the fraction the same. [unclear],00:30:45
+mulosvb,201,tutor,Mm-hmm. [unclear],00:30:58
+mulosvb,202,tutor,"Yes. So your final answer is? Yes. So this time it's not a mixed number because your whole number That is subtracted with 0, so it's just 3/12. Okay? So now we know how to subtract fractions, add fractions with different denominator, and we also know how to subtract or add [unclear] add mixed numbers, right?",00:31:04
+mulosvb,203,student,"Okay, yeah.",00:31:31
+mulosvb,204,tutor,So now let's give it a try for some of the questions that you find on UDOO. All right? So can you take me through the step on how you're going to do question,00:31:32
+mulosvb,205,tutor,"Okay, so I'm gonna do like— [unclear] That was an accident, sorry.",00:31:44
+mulosvb,206,student,How did that happen?,00:31:48
+mulosvb,207,tutor,"Um, so I'm just gonna— oh, why do they have to be different denominators?",00:31:51
+mulosvb,208,background,"Yes, then why do you—",00:31:59
+mulosvb,209,tutor,So let's just— I'm gonna quickly do this so I don't have to do it all the time.,00:32:01
+mulosvb,210,tutor,"Alright, okay, very smart. So at the beginning I was wondering why you're drawing lines, but now I understand why.",00:32:14
+mulosvb,211,student,"Yeah, so this is 12. So then— oh, that's a really big 2. Anyway, so—",00:32:23
+mulosvb,212,tutor,So then... [unclear],00:32:33
+mulosvb,213,student,"4 to get to 12, we have to times it by 3. So times 1 by 3. Oh, this literally just be 3, 3. This would be 4.",00:32:37
+mulosvb,214,tutor,Yes.,00:32:52
+mulosvb,215,student,So 3 4 is 7. So it would be 7/12. Yes.,00:32:54
+mulosvb,216,tutor,That is 7/12. Excellent. All right. Okay. So moving on to question B. [unclear],00:32:59
+mulosvb,217,student,18.,00:33:12
+mulosvb,218,tutor,Okay. Why do you think 18? Do you find 18 in the 5 times table?,00:33:17
+mulosvb,219,student,No.,00:33:25
+mulosvb,220,tutor,"Oh, I thought you were doing C. Sorry.",00:33:25
+mulosvb,221,tutor,"Oh, okay. I'm so sorry. It's actually [UNCLEAR]. Either way, I was focusing on B because that's the next question. Sometimes I accidentally go to C.",00:33:28
+mulosvb,222,student,Also no problem. [unclear],00:33:40
+mulosvb,223,tutor,"Say that you do 3 times— say you do 5 times 2, which is 10. This is impossible to write on a computer. [unclear] 13 over 15.",00:34:00
+mulosvb,224,tutor,"Yes. 13, 15 is what you get when you add those two up. All right, now we move on to question C. [unclear] That doesn't need any. This time the calculation is different, right? It's a subtraction. So make sure that you keep that in mind.",00:34:21
+mulosvb,225,student,Okay.,00:34:37
+mulosvb,226,student,Subtract 244 from 556?,00:34:45
+mulosvb,227,tutor,Yes.,00:34:59
+mulosvb,228,student,Because there's a [unclear] they both share that 14 and Taylor has more than that.,00:35:00
+mulosvb,229,background,14.,00:35:06
+mulosvb,230,tutor,"Yes, that's a 9.",00:35:13
+mulosvb,231,student,Yes.,00:35:15
+mulosvb,232,tutor,"It's 5— awesome, yes, it's 5/18 is when you do subtraction there. Okay. So question D, so maybe I'll just erase this off so that, you know, you can write your answer completely. [unclear] So your common denominator [unclear]",00:35:17
+mulosvb,233,background,"Okay, how did that become a 9?",00:35:51
+mulosvb,234,student,"Because you've got 4, 4 to get to— oh, okay, sorry.",00:35:57
+mulosvb,235,student,"That was weird. Okay, let me just— so that became— okay, so to get the value, you just times it by 5, so that would be 15.",00:36:04
+mulosvb,236,tutor,Yeah.,00:36:15
+mulosvb,237,student,"And then this, you times it by 3, so that would be 9.",00:36:17
+mulosvb,238,tutor,Mm-hmm.,00:36:21
+mulosvb,239,student,So that's the— [unclear],00:36:23
+mulosvb,240,background,So how did that become—,00:36:28
+mulosvb,241,tutor,"So sorry to interrupt, but can you tell me how you got a 9 there?",00:36:30
+mulosvb,242,student,"Because you've got 5, 5 to get to 20, you times it by all of this.",00:36:34
+mulosvb,243,tutor,Did you notice where you went wrong?,00:36:42
+mulosvb,244,student,Yeah.,00:36:44
+mulosvb,245,tutor,"Yeah, all right, no problem.",00:36:46
+mulosvb,246,student,12.,00:36:48
+mulosvb,247,tutor,Yes.,00:36:52
+mulosvb,248,student,5 [UNCLEAR].,00:36:52
+mulosvb,249,student,/20.,00:36:52
+mulosvb,250,tutor,"Yes, definitely, [STUDENT_NAME]. Well done there. All right, so now we are moving on to the next question, which is a mixed number. So this is very— so how do you do this? Let's see if you could recall what we did in the previous slide, right? So how do you attempt this question, [STUDENT_NAME]?",00:37:02
+mulosvb,251,student,You have to add that. So just keep this in mind. We don't need to worry about that anymore. [unclear],00:37:23
+mulosvb,252,tutor,Yes.,00:37:31
+mulosvb,253,student,"And then 2 and 8, that's 16.",00:37:34
+mulosvb,254,tutor,"Okay, now I have a question. Right now, why did you decide",00:37:42
+mulosvb,255,tutor,"16, yes.",00:37:47
+mulosvb,256,student,This is a common multiple between 2 and 8 is 16.,00:37:49
+mulosvb,257,tutor,"Yes, but over here you can see that when you look into your 2 times table, you can also have a denominator of 8, right? So this fraction— [unclear]",00:38:00
+mulosvb,258,tutor,"So, you know, instead of making questions— [unclear]",00:38:14
+mulosvb,259,student,"Yeah, normally if I was like thinking properly, I probably would have done that. But like, since today I'm kind of off, it's like, I don't know.",00:38:17
+mulosvb,260,tutor,"No, no, that's all right. That happens, you know, you know, when we are tired and stuff, you know, that's normal. So yeah, so, and it's a 3, right?",00:38:27
+mulosvb,261,tutor,Because it's a [UNCLEAR].,00:38:41
+mulosvb,262,student,Yeah.,00:38:44
+mulosvb,263,tutor,Okay.,00:38:45
+mulosvb,264,student,So 7 over 8.,00:38:46
+mulosvb,265,tutor,Okay. And what about the whole number?,00:38:52
+mulosvb,266,student,"You could— oh, this is 3 wholes.",00:38:55
+mulosvb,267,tutor,This is also equivalent to—,00:38:58
+mulosvb,268,student,"No, you just can leave it as a mixed number. Number. Okay. That's totally fine. [unclear] It's totally fine for you to leave it as a mixed number because we are basically learning about—",00:39:01
+mulosvb,269,tutor,"Wait, no. It's not 27 anyway.",00:39:19
+mulosvb,270,student,"Yes. So we just no need to, you know, [unclear] because that's not what they are just asking. It's a mixed number. It's totally fine. Right.",00:39:23
+mulosvb,271,tutor,"So one last question. So let's just try to, you know, make sure we complete this because we have less than 3 minutes. So do you think you can do this or should we do this next week?",00:39:31
+mulosvb,272,student,Maybe next week.,00:39:44
+mulosvb,273,tutor,Okay.,00:39:45
+mulosvb,274,student,"Okay. Which is anyway we have like 2 minutes left. So we can do a bit of reflection then, right?",00:39:46
+mulosvb,275,background,Yeah.,00:39:53
+mulosvb,276,student,"All right. So let's do question F next week. And let's see how it works, right? But before we, let's say, wind up, right, we quite did a lot of 3 lessons, I guess, today. So how was the 3 lessons, [STUDENT_NAME]?",00:39:54
+mulosvb,277,student,"They were, like, good. We learned about [unclear] decimal words.",00:40:09
+mulosvb,278,tutor,"Oh, 2 decimal. Yes, that's the very first topic we looked into.",00:40:21
+mulosvb,279,student,"We learned about factors, and then we learned about, um—",00:40:25
+mulosvb,280,tutor,"Not factors, no.",00:40:31
+mulosvb,281,student,"No, multiples, sorry. And then we learned about, um— [unclear] What else was it called? Uh, wait, we literally just did it now. Uh, it was like improper fractions, I think.",00:40:32
+mulosvb,282,background,"It's actually— no, it's actually adding, subtracting mixed numbers, right?",00:40:44
+mulosvb,283,student,"Oh yeah, yes. So we just learned these 3 topics, right? So what It's something, a rule that you should remember when it comes to rounding.",00:40:48
+mulosvb,284,student,[unclear],00:40:57
+mulosvb,285,tutor,"Like you should look at the column before the like the— yeah, so let's say we have the number 3.5767, right? Now if you are rounding this to the nearest 2 decimal, you're rounding the 2 decimal place, which column do you have to look into, [STUDENT_NAME]?",00:41:00
+mulosvb,286,student,The—,00:41:17
+mulosvb,287,background,[unclear],00:41:17
+mulosvb,288,student,This one.,00:41:18
+mulosvb,289,tutor,"Yes, so now that's a 7. What does that mean?",00:41:20
+mulosvb,290,student,"They basically round up, so it's 357. [unclear] 3.57.",00:41:23
+mulosvb,291,tutor,"It's 3.57, right? So that is something that you should remember when it comes to rounding. But why do you remember common multiples?",00:41:29
+mulosvb,292,student,"Common multiples, I remembered like that, like they're both",00:41:40
+mulosvb,293,student,[unclear],00:41:48
+mulosvb,294,tutor,"Yeah? Yes, they are basically—",00:41:48
+mulosvb,295,student,I don't really know.,00:41:49
+mulosvb,296,tutor,"Yes, you don't know how to explain. That's totally fine. But I know that you tend to remember what we did because you were able to recall all 3 lessons. And when it comes to mixed numbers, how do you add or subtract mixed numbers, [STUDENT_NAME]? What we did over here.",00:41:51
+mulosvb,297,student,You— [unclear],00:42:08
+mulosvb,298,tutor,Mm-hmm.,00:42:17
+mulosvb,299,student,"You subtract the wholes or add the wholes first, so then like just don't worry about them and then add them at the end.",00:42:17
+mulosvb,300,tutor,"Yes. And then you do your find the common denominator and do as usually how you do, right? So next week maybe probably we'll continue and maybe complete this lesson. But for today, if you were to rate yourself out of 10, 1 to 10, how much would you give yourself?",00:42:24
+mulosvb,301,student,Like 7.,00:42:39
+mulosvb,302,tutor,"Why less? I think you really deserve a 9 because you definitely did an excellent job there, right? So there you go with a very big thumbs up for focusing and giving your thoughts in and being very interactive, I would say. So have a nice day then. Bye-bye. Take care.",00:42:42
+mulosvb,303,student,"Oh, bye.",00:42:59
+mulosvb,304,background,[unclear],00:42:59
+mulosvb,305,student,Bye. Bye. Take care.,00:43:00

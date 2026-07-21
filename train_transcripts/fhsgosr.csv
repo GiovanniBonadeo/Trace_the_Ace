@@ -1,0 +1,339 @@
+session_id,utterance_id,role,content,timestamp
+fhsgosr,0,background,[unclear],00:00:00
+fhsgosr,1,tutor,Hello.,00:00:00
+fhsgosr,2,student,Hello.,00:00:03
+fhsgosr,3,tutor,"Hi, [STUDENT_NAME]. Can you hear me?",00:00:07
+fhsgosr,4,student,Yeah.,00:00:10
+fhsgosr,5,tutor,"All right, amazing. How are you doing today, [STUDENT_NAME]? [unclear]",00:00:11
+fhsgosr,6,tutor,"[STUDENT_NAME], I can't hear you really well. Can you come a bit closer to the microphone?",00:00:18
+fhsgosr,7,student,Yeah.,00:00:23
+fhsgosr,8,tutor,"Okay, I can hear you now. How are you doing today?",00:00:24
+fhsgosr,9,student,Good.,00:00:28
+fhsgosr,10,tutor,And how was your holidays?,00:00:30
+fhsgosr,11,student,Brilliant.,00:00:34
+fhsgosr,12,tutor,Sorry?,00:00:37
+fhsgosr,13,student,Brilliant.,00:00:38
+fhsgosr,14,tutor,"It was brilliant, all right. Did you do anything fun or interesting?",00:00:39
+fhsgosr,15,student,Yeah.,00:00:44
+fhsgosr,16,tutor,Anything you would like to share with me before we start the session?,00:00:46
+fhsgosr,17,student,Yeah. [unclear],00:00:49
+fhsgosr,18,tutor,"Sorry, [STUDENT_NAME], can you repeat the question?",00:00:52
+fhsgosr,19,student,I got to go Kids Go 2 times.,00:01:02
+fhsgosr,20,tutor,And was that a fun experience?,00:01:07
+fhsgosr,21,student,Yeah.,00:01:09
+fhsgosr,22,tutor,"Was it [UNCLEAR]? Okay, that's great. That's amazing. I'm glad that you did have a nice holiday. Do you feel good to be back at school?",00:01:10
+fhsgosr,23,student,Yeah.,00:01:10
+fhsgosr,24,tutor,"That's great. That's really nice to hear. All right, [STUDENT_NAME], shall we get started with the session now?",00:01:11
+fhsgosr,25,student,Yeah.,00:01:30
+fhsgosr,26,tutor,"Okay, so before your holidays, you started the lesson. Recognize odd and even numbers. Yeah.",00:01:32
+fhsgosr,27,student,Yeah.,00:01:40
+fhsgosr,28,tutor,"Yes. What do you remember from this lesson, [STUDENT_NAME]?",00:01:42
+fhsgosr,29,student,The numbers.,00:01:46
+fhsgosr,30,tutor,"The numbers, yes. And how do we recognize odd and even numbers?",00:01:51
+fhsgosr,31,student,"Because if it's 2, 4, or 6, or 6,",00:01:57
+fhsgosr,32,student,It's even.,00:02:01
+fhsgosr,33,tutor,"Yes, if you can divide the objects into even pairs, I mean, [unclear] groups of 2, they would be even. But if you have any remaining, it would be an odd number. Is that correct?",00:02:04
+fhsgosr,34,student,Yeah.,00:02:18
+fhsgosr,35,tutor,"Yes, okay. All right, good job in recalling what you did, [STUDENT_NAME]. So today we need to start with the You Do slide. Question C over here. Okay, can you tell me, is 18 an odd or an even number? [unclear]",00:02:19
+fhsgosr,36,student,Even.,00:02:42
+fhsgosr,37,tutor,"Even. Okay, why do you think it's even?",00:02:43
+fhsgosr,38,student,It's because it is an even number.,00:02:47
+fhsgosr,39,tutor,"Sorry, can you say that again? [unclear]",00:02:54
+fhsgosr,40,tutor,"Okay, alright. And you can see if you divide it into groups of 2, you would have nothing remaining. Correct?",00:02:56
+fhsgosr,41,student,Yeah.,00:03:09
+fhsgosr,42,tutor,"Yeah, so it is an even number. Alright, [STUDENT_NAME], can you put your answer in there please? And we'll move on to the next slide. [unclear]",00:03:10
+fhsgosr,43,tutor,"Even number. All right, well done, [STUDENT_NAME]. Very good job in completing the last question. Let's move on to the Go Further slide. Can you read this question, please?",00:03:26
+fhsgosr,44,student,"Yeah. Copy says a number which starts with 3 is odd. Is [unclear] statement always true, never true, or sometimes true?",00:03:38
+fhsgosr,45,tutor,"Okay, explain your answer. So what do you think?",00:03:57
+fhsgosr,46,student,No.,00:04:02
+fhsgosr,47,tutor,No as in never true or sometimes true?,00:04:04
+fhsgosr,48,background,Sometimes true.,00:04:10
+fhsgosr,49,tutor,"Sometimes true. Okay, can you explain why sometimes true?",00:04:12
+fhsgosr,50,background,Because 3 is an odd number.,00:04:16
+fhsgosr,51,tutor,Mm-hmm. Is that why?,00:04:20
+fhsgosr,52,background,Yeah.,00:04:32
+fhsgosr,53,tutor,"Okay, so Hoki says a number which starts with 3 is odd. So is that Is that, isn't then according to your explanation, wouldn't that be always true? [unclear]",00:04:33
+fhsgosr,54,tutor,"Right. Is it true, is it like always true or sometimes true?",00:04:46
+fhsgosr,55,student,Always.,00:04:54
+fhsgosr,56,tutor,"Okay, let's think of a number that starts with 3.",00:04:57
+fhsgosr,57,background,4. What about 31?,00:05:00
+fhsgosr,58,student,Yeah.,00:05:08
+fhsgosr,59,tutor,How many groups of 2 can you make with 31? [unclear],00:05:09
+fhsgosr,60,student,31 twos.,00:05:17
+fhsgosr,61,tutor,"Yes, how many twos can you make in 31?",00:05:20
+fhsgosr,62,student,Yeah.,00:05:25
+fhsgosr,63,background,"Okay, maybe we'll draw an array to help us. Okay, let me draw one for you over here. [unclear]",00:05:39
+fhsgosr,64,tutor,"Let me just quickly count the parts we have. 1, 2, 4, 6, 8, 14, 15. Okay. So— [unclear]",00:06:02
+fhsgosr,65,tutor,"Okay, now we have 31 here. [STUDENT_NAME], do you see that? 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17. Okay, hold on, I have to move a bit more. [unclear] 18. [unclear]",00:06:20
+fhsgosr,66,student,[unclear] [unclear],00:06:47
+fhsgosr,67,student,[unclear] [unclear],00:07:05
+fhsgosr,68,tutor,"Okay, this is really long, isn't it? [STUDENT_NAME], are you there?",00:07:11
+fhsgosr,69,student,Yeah.,00:07:22
+fhsgosr,70,tutor,"Okay, let me just quickly count how many parts we have here. 1, 2, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 24, 26, 28, 30. Okay, need one more here. Okay, now we have 31. Is that correct?",00:07:23
+fhsgosr,71,student,Yeah.,00:07:50
+fhsgosr,72,tutor,"Okay. How many groups of 2 do you see, [STUDENT_NAME]? [unclear] So I made it easy for you to understand by already grouping them into 2. So let's count how many groups of 2 we see, okay?",00:07:51
+fhsgosr,73,tutor,This is one. [unclear],00:08:07
+fhsgosr,74,student,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,",00:08:09
+fhsgosr,75,student,15.,00:08:33
+fhsgosr,76,tutor,15. And do we have anything remaining?,00:08:35
+fhsgosr,77,student,Yeah.,00:08:41
+fhsgosr,78,tutor,"Yes, we have one remaining. So as you can see, even though this number starts with a 3 and it ends with a 1, that's an odd number. But if we did 32, [STUDENT_NAME], okay, this number still starts with a 3, But now it becomes an even number. If we did 32, it would be an even number. You think this statement is always true or sometimes true? If the number starts with 3, it's an odd number. Is it always true or sometimes true? [unclear]",00:08:42
+fhsgosr,79,student,Yes.,00:09:24
+fhsgosr,80,student,Sometimes true.,00:09:26
+fhsgosr,81,tutor,"Sometimes true because even the number can begin with an odd number, but if it ends with an even number, right? So Hawkeye's statement is sometimes true. Is that clear, [STUDENT_NAME]?",00:09:27
+fhsgosr,82,student,Yeah.,00:09:44
+fhsgosr,83,tutor,"Okay. All right, so good job in trying your best to explain that to me.",00:09:45
+fhsgosr,84,tutor,"[STUDENT_NAME], before we move on to our next lesson, would you be able to tell me what you've learnt about recognising odd and even numbers?",00:09:52
+fhsgosr,85,student,Yeah.,00:10:02
+fhsgosr,86,tutor,Can you tell me one thing you've learnt?,00:10:04
+fhsgosr,87,student,"Odd numbers always end in [unclear] 2, 0, 4, or 6.",00:10:06
+fhsgosr,88,tutor,Did you say zero?,00:10:20
+fhsgosr,89,student,Yeah.,00:10:22
+fhsgosr,90,tutor,Do odd numbers always end with zero? [unclear],00:10:26
+fhsgosr,91,student,No.,00:10:35
+fhsgosr,92,tutor,"If it ends with zero, it could be an even number, right? So think of it this way. [STUDENT_NAME], if you divide the number into two parts, by two, okay, then you would get an even number. But if you split it into two parts and you get a number remaining or a missing value, then that would be an odd number. Okay?",00:10:37
+fhsgosr,93,student,[unclear],00:11:04
+fhsgosr,94,tutor,"Okay. All right, [STUDENT_NAME], let's move on to our next step.",00:11:05
+fhsgosr,95,tutor,Can you read the lesson topic please?,00:11:10
+fhsgosr,96,student,Sharing and grouping.,00:11:21
+fhsgosr,97,tutor,"Sharing and grouping. Okay, [STUDENT_NAME], I want you to try the learning goal question.",00:11:24
+fhsgosr,98,student,[unclear] has 20 pencils. He has pencils between 5 boxes. How many pencils are in each box? [unclear],00:11:31
+fhsgosr,99,tutor,Okay. You can try this question before we try that one. You can put your answer here. What's your answer going to be?,00:11:55
+fhsgosr,100,student,5. [unclear],00:12:04
+fhsgosr,101,tutor,"Sorry, can you say that again, [STUDENT_NAME]?",00:12:14
+fhsgosr,102,student,18.,00:12:17
+fhsgosr,103,tutor,18. How did you get 18?,00:12:18
+fhsgosr,104,student,"Because if you count back 5 times, you're going to get 18.",00:12:22
+fhsgosr,105,background,"Okay, it says Lucy has 20 pencils and she shares the pencils between 5 boxes. So if she shares the 20 pencils into 5 boxes, how many pencils would there be in each box or in one box? What do you need to do, [STUDENT_NAME]? [unclear]",00:12:30
+fhsgosr,106,student,If I have 5 pencils—,00:12:55
+fhsgosr,107,tutor,"Okay, you're almost there. So she has— pencils and she puts it into 5 boxes, each box 4 pencils. Does that make sense?",00:13:00
+fhsgosr,108,tutor,Yeah.,00:13:11
+fhsgosr,109,background,"We'll come back to this a little later. All right, [STUDENT_NAME], can you try the filing question, please?",00:13:11
+fhsgosr,110,student,[unclear] 3 full bags.,00:13:25
+fhsgosr,111,tutor,There are 16 sweets here. Can you share that among— between 4 bags? How many sweets in each bag? You can use this visual [UNCLEAR]. Share.,00:13:29
+fhsgosr,112,tutor,Hello.,00:13:55
+fhsgosr,113,student,Hello.,00:13:59
+fhsgosr,114,tutor,Hi. [unclear],00:14:01
+fhsgosr,115,tutor,"Yes, what's the entropy?",00:14:03
+fhsgosr,116,student,Is it going to be 4?,00:14:06
+fhsgosr,117,tutor,"4, that is correct. How'd you get that?",00:14:11
+fhsgosr,118,student,Because it has 4 paths. If you use,00:14:15
+fhsgosr,119,student,[unclear],00:14:21
+fhsgosr,120,tutor,"Yes, that is correct. If you divide between 4 bags, you would get 4 sweets in each bag. Well done, [STUDENT_NAME]. So can you put your answer in here, please? Okay. On to the next slide.",00:14:21
+fhsgosr,121,background,[UNCLEAR],00:14:21
+fhsgosr,122,tutor,"All right. Good job interpreting the prior learning question by yourself. Okay, let's learn more about this lesson over here. Okay, can you read this for me please? The green box.",00:14:44
+fhsgosr,123,student,[UNCLEAR]...of... as... either sharing or grouping.,00:14:44
+fhsgosr,124,tutor,"Okay, yes, so we can think of division as sharing or grouping. OK? Let's read question number 1. Can you read this for me, please?",00:14:44
+fhsgosr,125,student,There are 15 fish and 3 fishbowls. How many fish go in each fishbowl so that there are [unclear] number in each bowl?,00:15:20
+fhsgosr,126,tutor,"Yes, OK. So we— what do you think we need to do in this question, [STUDENT_NAME]? [unclear]",00:15:38
+fhsgosr,127,tutor,Do 5 times 3 or do 5 divided by 3?,00:15:47
+fhsgosr,128,student,5 divided by 3.,00:15:52
+fhsgosr,129,tutor,"I'm sorry, 15 divided by 3, right? So you have to divide the 15 fish into the 3 fishbowls so that each fishbowl has equal or same number of fish.",00:15:54
+fhsgosr,130,tutor,Yeah?,00:16:09
+fhsgosr,131,student,Yeah.,00:16:10
+fhsgosr,132,tutor,"Okay, let's try answering question A here. What is the unknown piece of information here? What do we know and what do we not know in this question? [unclear]",00:16:12
+fhsgosr,133,tutor,"We don't know how many fish would go in each bowl, so that's what we're going to work out. You can think of this as an example of sharing. We're going to share the 15 fish between 3 bowls. So 15 divided by 3— [unclear]",00:16:34
+fhsgosr,134,student,Yeah. [unclear],00:16:51
+fhsgosr,135,tutor,"How will we divide the 15 fish equally between the 3 bowls? Maybe you can visualize it in the 3 bowls, [STUDENT_NAME]. So one goes in this fish bowl, one in, and one in this. Okay, now we've got 3 fish. Can you do all of them so that we've picked up all the 15 fish? [unclear]",00:17:01
+fhsgosr,136,tutor,Mm-hmm. What would the answer be?,00:17:33
+fhsgosr,137,student,Okay. Now I'm going to put the 6th fish into each bowl.,00:17:43
+fhsgosr,138,tutor,"So now we've got 1, 2, 3, 4, 5, 6 fish, 7, 8, 9, 10, 11, 12, 13, 14, and 15. So how many fish in each bowl?",00:17:54
+fhsgosr,139,student,[unclear],00:18:11
+fhsgosr,140,tutor,Can you say that again?,00:18:17
+fhsgosr,141,student,[UNCLEAR],00:18:17
+fhsgosr,142,tutor,"How many fish in each bowl? 1, 2, 3, 4, 5. [STUDENT_NAME], can you hear me?",00:18:22
+fhsgosr,143,student,[UNCLEAR],00:18:22
+fhsgosr,144,tutor,"Okay, can you come a bit closer to the microphone, [STUDENT_NAME]? I can't hear you.",00:18:35
+fhsgosr,145,student,"It is... [unclear] Yes, it's a little bit better. Okay, so when we count how many fish in each bowl, how many do you see, [STUDENT_NAME]?",00:18:43
+fhsgosr,146,student,5.,00:18:59
+fhsgosr,147,tutor,5?,00:19:01
+fhsgosr,148,background,5.,00:19:02
+fhsgosr,149,tutor,"You see 5? Yeah, do you see 5? Yes, so 15 divided by 3 or 5. Think of it as sharing between 3 would be 5. Correct?",00:19:02
+fhsgosr,150,student,Yeah.,00:19:16
+fhsgosr,151,tutor,"Is that clear how I did that question, [STUDENT_NAME]? I just took the 15 fish and I shared it among the fishbowls until I used up all 15. Okay. Then can we move on to question 2? Can you read the question, please? [unclear] [STUDENT_NAME] wants to put 3 fish in each fishbowl. He has 15 fish. How many fishbowls will he need?",00:19:18
+fhsgosr,152,tutor,"Okay, [STUDENT_NAME], how would you answer this question?",00:19:52
+fhsgosr,153,student,9.,00:19:56
+fhsgosr,154,tutor,Now this question is an example of grouping.,00:19:58
+fhsgosr,155,tutor,Okay.,00:20:02
+fhsgosr,156,student,Yeah.,00:20:03
+fhsgosr,157,tutor,"Okay, what is the unknown piece of information in this question?",00:20:05
+fhsgosr,158,background,"Yeah, [unclear] same as for one. Sorry if I'm doing it correct.",00:20:12
+fhsgosr,159,tutor,Yes. So here we need to find how many fishbowls we will need. So we can use the same thing. So the 15 fish have to be grouped into 3. So what's the [UNCLEAR]?,00:20:19
+fhsgosr,160,tutor,"[STUDENT_NAME], can you hear me?",00:20:19
+fhsgosr,161,student,Yeah.,00:20:40
+fhsgosr,162,tutor,"Okay, yes. So we're going to take the 15 food, we're going to group them into 3. So once again we're doing 15 divided by 3. So what's the answer?",00:20:41
+fhsgosr,163,student,I don't know. [unclear],00:20:54
+fhsgosr,164,tutor,"3. Okay, how did you get 3?",00:20:56
+fhsgosr,165,student,"If you use [unclear] on an example, it's going to help you a lot. [unclear]",00:21:03
+fhsgosr,166,tutor,Hello? [unclear],00:21:30
+fhsgosr,167,student,I gotta go to the toilet. I gotta go to the toilet.,00:21:31
+fhsgosr,168,tutor,You want to go to the toilet?,00:21:37
+fhsgosr,169,student,Yeah.,00:21:39
+fhsgosr,170,tutor,"Okay, okay, all right, sure, of course. [unclear]",00:21:40
+fhsgosr,171,tutor,Yesterday. Are you going to the park? Are you staying in the session?,00:22:09
+fhsgosr,172,student,I'm staying.,00:22:13
+fhsgosr,173,tutor,"Oh, I thought you said you wanted to leave. No? [unclear] Okay. So, [STUDENT_NAME], should I explain this question to you?",00:22:17
+fhsgosr,174,student,Yeah.,00:22:38
+fhsgosr,175,tutor,"Okay. So now, [STUDENT_NAME], in this question we don't know how many fish bowls are needed. So we can count in our 3s to work this out, okay? Because we know [unclear] wants to put 3 fish in each bowl. So when we count in our 3s until we reach 15, shall we do that? So 3, What comes after 3? [unclear] When we're counting it. 6, all right.",00:22:39
+fhsgosr,176,student,"9, 12, 15.",00:23:12
+fhsgosr,177,tutor,"15, there you go. Now we reached 15. So how many fishbowls are there? 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.",00:23:20
+fhsgosr,178,tutor,"5. We need 5 fishbowls. Is that [UNCLEAR]? [STUDENT_NAME]. Because 3 fish would go into 1 fishbowl. So the first 3 fish would go into this fishbowl. The second 3 fish would go to this. Then we'd need 5 fishbowls. Is that clear, [STUDENT_NAME]?",00:23:30
+fhsgosr,179,student,"Yeah. Yes. So this is grouping. Okay. We group the 15 fish. Okay. Any questions, [STUDENT_NAME]? Anything you didn't understand from this slide?",00:23:30
+fhsgosr,180,student,No questions.,00:24:13
+fhsgosr,181,tutor,"Okay, then shall we move on to the next slide?",00:24:16
+fhsgosr,182,student,Yeah.,00:24:19
+fhsgosr,183,tutor,"Okay, this is the follow-me slide, so let me take you through, okay?",00:24:22
+fhsgosr,184,background,Okay.,00:24:31
+fhsgosr,185,tutor,"Okay. Division as sharing helps us to solve fraction problems. Okay? Let's take a look at the question here. A school stall has [unclear] cupcakes. They sell 1/4 of the cupcakes. How many cupcakes did they sell? Now here I'm going to find 1/4 of 12 cupcakes. Okay. So to find 1/4 of 12 cupcakes, [STUDENT_NAME], that would be the same as dividing 12 by 4. [unclear]",00:24:32
+fhsgosr,186,tutor,Okay. So I'm going to divide these 12 cupcakes into 4 groups. So that's one group. That's my second group. My third and fourth group. So how many cakes in each group? [unclear],00:25:06
+fhsgosr,187,background,"3. Yes, that is correct.",00:25:37
+fhsgosr,188,tutor,"So when I do 12 divided by 4, that is 3 cupcakes in each group. So they sold 3 cupcakes. [unclear] Because they sold only one quarter of cupcakes. That's how much they've sold.",00:25:41
+fhsgosr,189,student,Yes.,00:26:00
+fhsgosr,190,tutor,"Is it clear, [STUDENT_NAME]? Any questions?",00:26:01
+fhsgosr,191,student,No.,00:26:06
+fhsgosr,192,tutor,"Okay, would you— [unclear] Ruby, can you hear me?",00:26:07
+fhsgosr,193,background,Yeah.,00:26:15
+fhsgosr,194,tutor,"Okay, I'm so sorry, [STUDENT_NAME], but your voice is [UNCLEAR]. I need you to come closer. That's all right. Can you hear me?",00:26:17
+fhsgosr,195,tutor,"Okay, I can hear you now. That's better. Okay, [STUDENT_NAME], can you [unclear] your turn, please?",00:26:32
+fhsgosr,196,student,Yeah. Division as grouping helps us to solve problems relating to multiplication.,00:26:38
+fhsgosr,197,background,"Yes, so division as grouping helps us to solve problems relating to multiplication. Can you read the question I've given you, [STUDENT_NAME]?",00:26:51
+fhsgosr,198,student,Yes. I've tried all cupcakes. I've tried 12 cupcakes. Each table is given 4 cupcakes. How many tables must there be? [unclear] [unclear],00:27:01
+fhsgosr,199,background,"So it can't be 11, can it?",00:27:28
+fhsgosr,200,background,Yeah.,00:27:31
+fhsgosr,201,background,20 add 9.,00:27:32
+fhsgosr,202,background,We need to put the cupcakes into groups of 4.,00:27:33
+fhsgosr,203,background,"Okay, so you need to put these cupcakes into groups of 4. So can you first annotate the diagram?",00:27:40
+fhsgosr,204,background,How would you put them into groups of 4? You can use your tools to show me. [unclear],00:27:51
+fhsgosr,205,tutor,"Groups of 4, okay? That means I need to keep 4 cupcakes in each group. [unclear]",00:27:59
+fhsgosr,206,tutor,"Okay, that's a very interesting way to divide it, to group it. Amazing. Okay, yes. How many groups do you have? [STUDENT_NAME]? [unclear] You grouped them into 4s, is that correct? Is that an answer?",00:28:33
+fhsgosr,207,student,Yeah.,00:28:58
+fhsgosr,208,tutor,"Okay, and this is your next group, is that correct?",00:28:59
+fhsgosr,209,student,Yeah.,00:29:03
+fhsgosr,210,tutor,"Okay, and this is your next group, is that correct?",00:29:05
+fhsgosr,211,student,Yeah.,00:29:09
+fhsgosr,212,tutor,"Okay, so how many groups do you have? How many have you circled? So one? Correct? Or did I confuse you, [STUDENT_NAME]? Hello? [unclear] Yes. So how many groups are there?",00:29:10
+fhsgosr,213,student,Four.,00:29:35
+fhsgosr,214,tutor,You've grouped them into fours. How many do you see?,00:29:39
+fhsgosr,215,tutor,"How many? Let me show— oh no, I'm so sorry [STUDENT_NAME], I accidentally dropped it off. So sorry about that. Okay, so you know you're not supposed to group them into [UNCLEAR].",00:29:43
+fhsgosr,216,student,Four cupcakes.,00:30:09
+fhsgosr,217,tutor,"Yeah, so that's four. This is the other four, and this is the other four. Do you see that?",00:30:11
+fhsgosr,218,student,Yeah.,00:30:19
+fhsgosr,219,tutor,"Okay, so how many do we see altogether? How many groups do you see? One, two, three. [unclear]",00:30:19
+fhsgosr,220,student,So how many parts are there?,00:30:26
+fhsgosr,221,tutor,"One, two, three parts, so then we'll get",00:30:30
+fhsgosr,222,background,"3, right? So how many tables do we need? [unclear] Imagine these circles as the tables and you've placed 4 cupcakes on each table. So how many tables?",00:30:35
+fhsgosr,223,background,"1, 2, 3, 4, 5, 6, 7, 8. [unclear]",00:30:54
+fhsgosr,224,tutor,"Okay. So you need 3 tables, right? On each table, 4 cupcakes. So you need 3 tables. Is that clear?",00:31:00
+fhsgosr,225,student,Yeah.,00:31:09
+fhsgosr,226,background,Yeah.,00:31:10
+fhsgosr,227,tutor,Yes. Okay. So this is the same as doing 12 divided by 4. You can work that out over here as well. So the first 4 cupcakes go on one table. The second 4 cupcakes go on the second table. And the last 4 cupcakes go on the third table. So 12 divided by 4 is 3. [unclear],00:31:12
+fhsgosr,228,tutor,"[STUDENT_NAME], are you there?",00:31:41
+fhsgosr,229,student,The answer is 3.,00:31:47
+fhsgosr,230,tutor,"Yes. You got 3? [unclear] [STUDENT_NAME], can you hear me?",00:31:50
+fhsgosr,231,student,Yeah.,00:32:02
+fhsgosr,232,tutor,"Yes. So we need 3 group— 3 tables, right? 1, 2, 3. [STUDENT_NAME]?",00:32:03
+fhsgosr,233,student,Yes? Is that clear how we get B? [unclear],00:32:17
+fhsgosr,234,student,Yes.,00:32:24
+fhsgosr,235,tutor,"Okay. All right, [STUDENT_NAME], before we move on to the next slide, would you be able to tell me what you know about sharing and grouping? [STUDENT_NAME]?",00:32:25
+fhsgosr,236,student,Yes.,00:32:46
+fhsgosr,237,tutor,"Yes, can you tell me— can you explain what you've done in the Your Turn slide, please?",00:32:47
+fhsgosr,238,student,I do [unclear] sharing and grouping.,00:32:56
+fhsgosr,239,tutor,Can you tell me what you know about grouping?,00:33:03
+fhsgosr,240,student,"Yes. Grouping is you're [unclear] sharing, you put them into even parts.",00:33:07
+fhsgosr,241,tutor,"You group the number of parts, right?",00:33:22
+fhsgosr,242,student,Yes.,00:33:27
+fhsgosr,243,tutor,"Yes, for example, if you had 12 cupcakes and you had to put 4 cupcakes on each table, you would make Groups of 4.",00:33:28
+fhsgosr,244,student,Yeah.,00:33:40
+fhsgosr,245,tutor,So how many is that all? [unclear] That gives you 3 tables. Okay. All right. Shall we move on to the next slide?,00:33:41
+fhsgosr,246,student,"Yeah. Good job in trying your best to work out your slide. Okay, that's a lovely drawing. What is that? Is that a spider?",00:33:59
+fhsgosr,247,student,Yeah.,00:34:12
+fhsgosr,248,tutor,"Okay, I can see you're very good at drawing. Very lovely. Okay, I'm going to move on to the next slide, okay?",00:34:14
+fhsgosr,249,student,Okay. [unclear],00:34:24
+fhsgosr,250,tutor,"Okay. All right, [STUDENT_NAME], it's the You Do slide. Can you read question 8?",00:34:25
+fhsgosr,251,tutor,Yeah.,00:34:30
+fhsgosr,252,student,Yeah?,00:34:31
+fhsgosr,253,tutor,No.,00:34:35
+fhsgosr,254,student,"Here are two images showing 6 divided by 3. This one shows [unclear] and this one shows 2, 3, 4, 5, 6. [unclear]",00:34:36
+fhsgosr,255,tutor,That was some good reading. Okay. So both of these images were 15 divided by 3. Which one do you think is sharing and which one do you think is grouping?,00:35:03
+fhsgosr,256,student,I think that one is— I think— These 3 are sharing and these 5 are grouping.,00:35:17
+fhsgosr,257,tutor,Okay. Can you explain why you might think this is grouping? [unclear],00:35:32
+fhsgosr,258,student,I don't know.,00:35:40
+fhsgosr,259,tutor,"Okay. Okay. When you look at these 2 images,",00:35:42
+fhsgosr,260,tutor,"[STUDENT_NAME], which image shows that 15 have been shared equally into 3 groups? Which one shows that 15 has been shared equally into 3 groups?",00:35:48
+fhsgosr,261,student,[unclear] This one or this one? The red one or the yellow one?,00:36:06
+fhsgosr,262,student,The yellow one.,00:36:19
+fhsgosr,263,tutor,The yellow one?,00:36:21
+fhsgosr,264,student,Yeah.,00:36:25
+fhsgosr,265,tutor,Do you see 3 groups there or do you see groups of 3?,00:36:26
+fhsgosr,266,student,Groups of 3.,00:36:30
+fhsgosr,267,tutor,Groups of 3. It's just grouping. You're grouping the 15 into groups of 3. Is that clear?,00:36:34
+fhsgosr,268,student,Yeah.,00:36:42
+fhsgosr,269,tutor,"So this is grouping, [STUDENT_NAME]. Can you type grouping here?",00:36:43
+fhsgosr,270,student,Yeah.,00:36:49
+fhsgosr,271,tutor,"If you need the spelling, it's over here, okay? [unclear] [unclear]",00:36:52
+fhsgosr,272,student,Fine. [unclear],00:37:07
+fhsgosr,273,tutor,"[STUDENT_NAME], do you want me to type it for you? Or do you want to type it?",00:37:43
+fhsgosr,274,background,Go ahead.,00:37:51
+fhsgosr,275,tutor,There you go.,00:37:51
+fhsgosr,276,background,L-A-H-U-I-N-G. [unclear],00:37:52
+fhsgosr,277,tutor,"Well done, [STUDENT_NAME].",00:38:02
+fhsgosr,278,background,over there.,00:38:02
+fhsgosr,279,tutor,"Okay. Yes, that's grouping. Now in this image, see the 15 has been divided into or shared into 3 groups. Shared equally to 3 groups. So this is division. Sharing. This is sharing. Is that clear, [STUDENT_NAME]?",00:38:02
+fhsgosr,280,student,[unclear],00:38:35
+fhsgosr,281,tutor,That's sharing. [unclear],00:38:35
+fhsgosr,282,tutor,"Do you want me to spell it out for you, [STUDENT_NAME]?",00:39:02
+fhsgosr,283,student,Yeah.,00:39:06
+fhsgosr,284,tutor,"9, 9, 6, 10, 2, 3, 4, 5, 6, 7, 8, 9, 10. [unclear]",00:39:07
+fhsgosr,285,tutor,"Well done, [STUDENT_NAME]. So that is sharing. [STUDENT_NAME], any questions from that? Anything you want to clarify? [unclear]",00:39:26
+fhsgosr,286,background,Hello?,00:39:37
+fhsgosr,287,student,Hello.,00:39:39
+fhsgosr,288,tutor,"Hi, [STUDENT_NAME]. Questions? Do you want to ask me anything? [unclear] Okay. If it's all good, can we try question B?",00:39:41
+fhsgosr,289,student,Yeah.,00:39:51
+fhsgosr,290,tutor,Do you want me to read the question for you?,00:39:57
+fhsgosr,291,student,Yeah.,00:40:00
+fhsgosr,292,tutor,"Okay. It says, Miss Smith asked Harry to get 60 apples from the kitchen. The apples come in bags of 10. How many bags does Harry need to get? [unclear]",00:40:01
+fhsgosr,293,tutor,"Okay, what do you think about this question?",00:40:21
+fhsgosr,294,student,He needs 10 bags.,00:40:25
+fhsgosr,295,tutor,"10 bags. Okay, why do you think it's 10?",00:40:28
+fhsgosr,296,background,I'm not sure. In the text it says [unclear],00:40:31
+fhsgosr,297,tutor,"Yeah, they come in— the apples come in bags of 10. So do you think this question is grouping or sharing?",00:40:42
+fhsgosr,298,student,Grouping.,00:40:51
+fhsgosr,299,tutor,"Grouping. So we're grouping the 60 apples into bags of 10, correct?",00:40:53
+fhsgosr,300,student,Yeah.,00:41:02
+fhsgosr,301,tutor,"So in one bag, how many apples would you get?",00:41:03
+fhsgosr,302,student,[unclear],00:41:05
+fhsgosr,303,tutor,"You would get 10, right? Because each bag has 10 apples. So how many bags would you need?",00:41:07
+fhsgosr,304,student,[unclear],00:41:15
+fhsgosr,305,tutor,So you do 60 divided by 10?,00:41:23
+fhsgosr,306,student,Yeah.,00:41:28
+fhsgosr,307,tutor,"Mm-hmm. So let me visualize this for you. Okay, let's say these are the apples. Okay. You get 10 apples in each group. [unclear] Okay. Sorry, I know my drawing isn't really good. You would get 10 apples in each bag. Right? So how many apples do you need to get 60? How many bags would you need to bring 60 apples?",00:41:28
+fhsgosr,308,student,[unclear],00:42:06
+fhsgosr,309,tutor,You can also relate this to multiplication. [unclear] [unclear],00:42:08
+fhsgosr,310,tutor,"[STUDENT_NAME], can you hear me?",00:42:21
+fhsgosr,311,student,Yes.,00:42:23
+fhsgosr,312,tutor,Yes.,00:42:25
+fhsgosr,313,background,"We have 60 apples and the apples come in bags of 10. So, each bag carries 10 apples, so you would need 6 bags to get 60 apples.",00:42:26
+fhsgosr,314,background,Yeah.,00:42:42
+fhsgosr,315,tutor,Right? [STUDENT_NAME]?,00:42:42
+fhsgosr,316,student,Yeah?,00:42:49
+fhsgosr,317,background,[UNCLEAR],00:42:49
+fhsgosr,318,student,Is that clear?,00:42:50
+fhsgosr,319,background,[UNCLEAR],00:42:50
+fhsgosr,320,student,"Okay. Okay, let's do this. Let's count in our tens, okay? Until we reach 60 and see how many tens that is. Okay?",00:42:51
+fhsgosr,321,background,Okay.,00:43:04
+fhsgosr,322,student,So the first bag has 10. The second bag would have? Let's count in our tens. What comes after 10? [unclear] When you're counting in your tens.,00:43:06
+fhsgosr,323,student,"I like 10, 20, 30, 40, 50, 70.",00:43:21
+fhsgosr,324,tutor,"60. Okay, now we've reached 60. How many bags is that, [STUDENT_NAME]? So that's one bag. This is the second bag. Third bag. Fourth bag. Fifth bag. And the sixth bag. So how many bags is that?",00:43:34
+fhsgosr,325,student,[unclear],00:43:53
+fhsgosr,326,tutor,Six bags. Is that clear?,00:43:55
+fhsgosr,327,student,Yeah.,00:43:58
+fhsgosr,328,tutor,"Yeah, so you— Harry would have to bring 6 bags. [STUDENT_NAME], we don't have enough time to try question C, so we'll come back to that question next week. [unclear] All right, [STUDENT_NAME].",00:43:58
+fhsgosr,329,student,Yeah.,00:44:17
+fhsgosr,330,tutor,Yes. What have you learned from today's session?,00:44:18
+fhsgosr,331,student,We are sharing and grouping.,00:44:21
+fhsgosr,332,tutor,Sharing and grouping. What is your understanding on sharing? [unclear],00:44:25
+fhsgosr,333,tutor,"Okay. Alright, [STUDENT_NAME], we'll learn more about that in our next lesson. So I'll be ending the session now. I know you tried your best throughout the session. Keep up the good work. You can try your quiz and you can leave feedback on how you think this session went. [unclear]",00:44:46
+fhsgosr,334,tutor,Yeah.,00:45:02
+fhsgosr,335,background,You're welcome.,00:45:03
+fhsgosr,336,tutor,Have a nice day. Bye.,00:45:04
+fhsgosr,337,background,Bye.,00:45:07

@@ -1,0 +1,324 @@
+session_id,utterance_id,role,content,timestamp
+hggqxqe,0,student,Hello.,00:00:00
+hggqxqe,1,background,[unclear],00:00:00
+hggqxqe,2,background,"Hi, how are you?",00:00:01
+hggqxqe,3,student,"I'm good, thank you. How are you? I'm doing great. So how was the last weekend?",00:00:03
+hggqxqe,4,student,"Yeah, it was great. I had 3 days off.",00:00:07
+hggqxqe,5,tutor,"Oh, it is? Okay, I just read here. Okay, so Felix, we were discussing about solving area and pyramid problems, right? So, uh, what do you mean by area, Felix?",00:00:12
+hggqxqe,6,student,"Area means the [unclear] amount of surface inside, getting inside of it. Space inside the area. [unclear]",00:00:25
+hggqxqe,7,tutor,Perimeter is the outline.,00:00:35
+hggqxqe,8,student,"The distance around the 2D shape, right? Exactly. So, do you remember how we worked this out?",00:00:40
+hggqxqe,9,tutor,"I think, yeah.",00:00:48
+hggqxqe,10,student,"Yeah, so Janet is decorating her living room. This is the living room and she wants to put a new curtain board around the edge, right? So what do you mean by around the edge?",00:00:50
+hggqxqe,11,tutor,So it's a perimeter.,00:01:00
+hggqxqe,12,student,"A perimeter, right? Okay, it costs 9.99 pounds per 50 centimeters, so how much will it cost altogether, right? So that's the thing that we had to work hard. So what did we do first?",00:01:04
+hggqxqe,13,tutor,"First, we found the perimeter.",00:01:17
+hggqxqe,14,student,"Perimeter, and then?",00:01:19
+hggqxqe,15,tutor,"We divided it by 50, and can we—",00:01:21
+hggqxqe,16,student,"So before dividing by 50, so the perimeter would, uh, So we found the perimeter in meters, right? So before divided by 50, what did we do, Felix?",00:01:24
+hggqxqe,17,student,We converted to centimeters.,00:01:36
+hggqxqe,18,tutor,"Centimeters, and then divided by 50, and then what did we do?",00:01:38
+hggqxqe,19,student,Then we times it by 9.99.,00:01:41
+hggqxqe,20,tutor,"Yeah, that's what we did, right? So, and, um, [unclear]",00:01:46
+hggqxqe,21,tutor,"Okay, so then— oh, do you remember how we worked this out?",00:01:54
+hggqxqe,22,student,Yeah.,00:02:00
+hggqxqe,23,tutor,"So Ian has dug a flower bed in his garden. A diagram is shown below, and he wants to cover it with flower seeds, and costing £1.99 per packet. Each packet covers 3 meters squared. So how much will it cost to cover the",00:02:00
+hggqxqe,24,student,Entire flower bed.,00:02:21
+hggqxqe,25,tutor,Okay.,00:02:23
+hggqxqe,26,student,What did we do?,00:02:24
+hggqxqe,27,tutor,First we found the area.,00:02:26
+hggqxqe,28,student,"Area. Okay, what kind of— okay, so what is the— what kind of part we have out of this whole circle?",00:02:28
+hggqxqe,29,tutor,Three-quarters.,00:02:38
+hggqxqe,30,student,Three-quarters. So how did we find the area?,00:02:39
+hggqxqe,31,tutor,I think we first found the area and subtracted one-quarter.,00:02:42
+hggqxqe,32,student,"Yeah, but Which calculation? Yeah, sorry, which equation did we use to find the area?",00:02:46
+hggqxqe,33,tutor,I think it's... [unclear],00:02:52
+hggqxqe,34,student,"Okay, how do you find the area of a circle, the whole circle? Yeah, πr², and since we only have 3/4, what did we do?",00:02:55
+hggqxqe,35,tutor,We subtracted 1/4 and 1 over...,00:03:07
+hggqxqe,36,student,"We can't do that. Yeah, we We can subtract 1/4 πr², but since we have 3/4, what can we do to this πr²?",00:03:11
+hggqxqe,37,tutor,"Uh, I think we have to—",00:03:21
+hggqxqe,38,student,"We can just multiply πr² by 3/4, right?",00:03:26
+hggqxqe,39,tutor,Oh.,00:03:34
+hggqxqe,40,student,"So if you did this calculation, you get 3/4, because when you take away 1/4, you would get 3/4πr². Right, that is step 2. But then what did we do?",00:03:34
+hggqxqe,41,student,"Then we saw— I mean, solved the equation.",00:03:47
+hggqxqe,42,tutor,Yeah.,00:03:52
+hggqxqe,43,student,Along with— I mean— [unclear],00:03:53
+hggqxqe,44,tutor,"You found the area, and then?",00:03:55
+hggqxqe,45,student,"See, crossing each [UNCLEAR]. Oh, we times it by 3.",00:03:59
+hggqxqe,46,tutor,"Times by 3, right. But ours is 3 meters square, so what are we going to find? You have to find, uh, what cost this is.",00:03:59
+hggqxqe,47,student,"Okay, to find cost, what do we have to find first?",00:04:15
+hggqxqe,48,tutor,"I mean, how many, uh, how much area— I— you're sorry, uh, I mean, it's, uh, divided by 3.",00:04:20
+hggqxqe,49,student,"Oh, divided by 3, right? Okay, so when you divide this by 3—",00:04:28
+hggqxqe,50,tutor,"Wait, when we divide it and we have to, you know, round it up.",00:04:32
+hggqxqe,51,student,"Ah, yes, we had to round it up, right? So why did we round up, Felix?",00:04:37
+hggqxqe,52,background,"Uh, like, even if we, if we round it down, we don't have, uh, we won't have enough seats for the entire floor, right?",00:04:42
+hggqxqe,53,student,"All right, so the number of packets can't be a decimal number, right? So you have to round it up to a whole number, which is number of— we can't buy packets in decimals. We're gonna round it up because if you round it down We won't have enough seeds to cover the entire flower bed, right? Exactly. [unclear] And we have to start from this one. So I think we discussed this one also. So we have to start from the your turn part. So before that, somebody remember from this question? How did we work this out?",00:04:50
+hggqxqe,54,student,I don't think we worked out this question.,00:05:26
+hggqxqe,55,tutor,"Oh, okay. So shall we start working it out? Sorry.",00:05:29
+hggqxqe,56,student,Yeah. [unclear],00:05:32
+hggqxqe,57,tutor,"Yeah, find the area of the shaded shape.",00:05:38
+hggqxqe,58,student,"Yeah, shaded shape, exactly.",00:05:44
+hggqxqe,59,tutor,"So this is a trapezium, right?",00:05:47
+hggqxqe,60,student,"Yes, exactly.",00:05:49
+hggqxqe,61,tutor,"So, what's closely that—",00:05:51
+hggqxqe,62,tutor,I think this is the question. For the entire area?,00:05:59
+hggqxqe,63,student,"Yeah, yes, it's correct. [unclear]",00:06:21
+hggqxqe,64,tutor,First we will find this. [unclear],00:06:25
+hggqxqe,65,student,8 plus 18 is 26 times 4.,00:06:43
+hggqxqe,66,tutor,10.,00:06:57
+hggqxqe,67,student,Yeah.,00:06:58
+hggqxqe,68,tutor,All divided by— [unclear] [unclear],00:06:58
+hggqxqe,69,student,"Yeah, okay, then. Units, it should be—",00:07:28
+hggqxqe,70,tutor,Pardon?,00:07:39
+hggqxqe,71,student,Units. [unclear],00:07:40
+hggqxqe,72,tutor,"So the shape inside is also a trapezium or something else, or a square?",00:07:49
+hggqxqe,73,student,Yes.,00:08:07
+hggqxqe,74,tutor,"What do you notice about that? Like, what are the attributes that you notice? What do we have? How many sides?",00:08:10
+hggqxqe,75,background,4. I think it's a [UNCLEAR].,00:08:20
+hggqxqe,76,tutor,"Okay, so Felix, what do you notice about the sides? Rhombus.",00:08:20
+hggqxqe,77,student,I think that's it.,00:08:31
+hggqxqe,78,background,Do you need to also do any type?,00:08:32
+hggqxqe,79,student,All sides are equal.,00:08:36
+hggqxqe,80,student,"All sides are equal, and what else?",00:08:38
+hggqxqe,81,tutor,"Uh, wait. No, so I think the parallel sides are equal.",00:08:40
+hggqxqe,82,student,"Oh, parallel. Yes, so what is it?",00:08:43
+hggqxqe,83,tutor,Rectangle.,00:08:47
+hggqxqe,84,student,"Ah, if it is parallel, what do you call it? There's a special [UNCLEAR].",00:08:49
+hggqxqe,85,tutor,Parallelogram.,00:08:49
+hggqxqe,86,student,"All right, there you go.",00:08:53
+hggqxqe,87,tutor,Okay. I think it's 8 times— is it 48 centimeters? Square.,00:08:55
+hggqxqe,88,tutor,"Yeah, it's correct. So you times the length of the side by the perpendicular height. Yeah. [unclear]",00:09:05
+hggqxqe,89,student,30 minus 48.,00:09:20
+hggqxqe,90,tutor,130. I think it's 90. Is it 90-something? [unclear],00:09:33
+hggqxqe,91,tutor,Is it 98?,00:09:43
+hggqxqe,92,student,"Oh, now you take away 48 from 130, would you get something like 98?",00:09:48
+hggqxqe,93,tutor,I don't know.,00:09:54
+hggqxqe,94,student,What should be the last digit? Yeah.,00:09:55
+hggqxqe,95,tutor,I'll just do it manual. [unclear],00:09:58
+hggqxqe,96,student,Yeah. So we're left with 85.,00:10:09
+hggqxqe,97,tutor,It's 82.,00:10:20
+hggqxqe,98,student,"Oh, yes. So you got 85 times 82. [unclear]",00:10:22
+hggqxqe,99,tutor,"Yeah, centimeters squared. Right, very good. So you get one mark for finding the area of the trapezium and one mark for finding the area of the parallelogram, and then another one mark for getting the correct answer. So you'll get 3 marks in total. Right, so Okay, good working out. And, uh, how do you think we work this out, Felix? Do you know how to work it out? Just tell me your idea.",00:10:32
+hggqxqe,100,student,"First we have to, uh, find the area, right?",00:11:09
+hggqxqe,101,tutor,Yeah.,00:11:12
+hggqxqe,102,student,Find the area of the shape.,00:11:13
+hggqxqe,103,tutor,"Yeah, [UNCLEAR].",00:11:16
+hggqxqe,104,student,You don't know how to work it out? Just tell me your thinking.,00:11:16
+hggqxqe,105,tutor,"First, we have to find the area of this whole entire area.",00:11:20
+hggqxqe,106,student,Entire? What do we have? The shape? [unclear],00:11:26
+hggqxqe,107,tutor,A right-angled triangle.,00:11:28
+hggqxqe,108,student,"A right-angled triangle, yeah. And then how do you find the area of a right-angled triangle?",00:11:30
+hggqxqe,109,tutor,Subtract this.,00:11:35
+hggqxqe,110,student,Subtract— what is that?,00:11:36
+hggqxqe,111,tutor,That is a quarter of a circle.,00:11:40
+hggqxqe,112,student,Quarter of a circle. So how do you find the area of a quarter of a circle?,00:11:43
+hggqxqe,113,tutor,1/4πr².,00:11:50
+hggqxqe,114,student,"πr². Yeah, yes, exactly. And how do you find the area of a triangle?",00:11:50
+hggqxqe,115,tutor,"Area, half times base times height.",00:11:57
+hggqxqe,116,student,"Half times base times height, exactly. Right, so before we move on to the next lesson, Felix, can you summarize what we are— so we already summarized everything, right?",00:12:00
+hggqxqe,117,tutor,Yeah.,00:12:10
+hggqxqe,118,student,"Okay, so Felix, what do you think is the most common mistake that one can do while working on this one?",00:12:11
+hggqxqe,119,tutor,"Like dividing or multiply, switching between dividing or multiplying.",00:12:19
+hggqxqe,120,student,"Yeah, and not realizing that the number of packets can't be a decimal number, right? So one might get the decimal number and then multiply it by 1. Yeah, like, uh, [UNCLEAR]. Yeah, round it down. Exactly. Yeah, that is the most common mistake. And well done over here, and we are going to move on to the next lesson. Okay.",00:12:24
+hggqxqe,121,tutor,What,00:12:48
+hggqxqe,122,student,"is next? Okay, so we are going to discuss about calculating the volume of prisms and cylinders. All right, so, um, so what do you mean by prism, Felix? Should [unclear]",00:12:48
+hggqxqe,123,background,I do this question first?,00:13:06
+hggqxqe,124,student,"Oh yeah, sure.",00:13:08
+hggqxqe,125,tutor,I think this one could be one.,00:13:10
+hggqxqe,126,student,Just some [UNCLEAR].,00:13:14
+hggqxqe,127,tutor,And this one.,00:13:14
+hggqxqe,128,student,Yep.,00:13:18
+hggqxqe,129,tutor,What did I say again?,00:13:20
+hggqxqe,130,student,Uh...,00:13:25
+hggqxqe,131,tutor,And cylinder.,00:13:27
+hggqxqe,132,student,"Cylinder, haha.",00:13:33
+hggqxqe,133,tutor,"Okay, so what do you notice about— what is common about all of these shapes, Felix?",00:13:35
+hggqxqe,134,student,"Like there's an equal number of— I mean, same shape at two ends, and there's a— [unclear]",00:13:46
+hggqxqe,135,tutor,What do you think makes the shape of prism?,00:13:57
+hggqxqe,136,tutor,Like two shapes connected with the points.,00:14:00
+hggqxqe,137,student,"Okay, so to be a prism, it should have a flat— it should have flat faces. [unclear] Yeah, all the shapes, all the faces should be flat, and it should have identical ends and the same cross-section along its length. So over here, yes, so as you explained earlier, so we have flat faces of— all of the faces are flat, and we have identical ends, and then we have same cross-section along its length, right? All of these have these attributes. What about this cylinder?",00:14:07
+hggqxqe,138,student,"Uh, two circles and, uh, something in between, having space in between.",00:14:44
+hggqxqe,139,tutor,So what do you think? It's a prism.,00:14:49
+hggqxqe,140,student,"There is a flat face, but it's not— [unclear]",00:14:54
+hggqxqe,141,student,Every face has to be flat. What about this? Is it flat?,00:15:00
+hggqxqe,142,tutor,"No, one side is curved. [unclear] It's not.",00:15:06
+hggqxqe,143,student,"It's not a prism because it has a curved surface, curved face, right? So if it has a curved face, even though we have the same cross-section along its length, It's not a prism, right? Yeah, so only these 4, right? Yes. Um, did you learn something new over here? [unclear]",00:15:13
+hggqxqe,144,student,Prisms are shapes with flat surfaces and have identical ends.,00:15:37
+hggqxqe,145,tutor,"Okay, so what did we learn about cylinder?",00:15:43
+hggqxqe,146,student,Cylinder is not a prism because it has a curved face.,00:15:45
+hggqxqe,147,tutor,Boat shape.,00:15:49
+hggqxqe,148,tutor,"Exactly. And prism has flat faces only and identical ends and same cross-section along its length. All right, so we're going to move on to first one. Can you read the question in your head and then underline the important keywords?",00:15:52
+hggqxqe,149,student,"One minute. So a cuboid is a prism, right?",00:16:07
+hggqxqe,150,tutor,"Cuboid is a prism, yeah.",00:16:11
+hggqxqe,151,student,Like a cuboid like this?,00:16:12
+hggqxqe,152,tutor,"Yeah, do we have flat faces?",00:16:14
+hggqxqe,153,student,Yeah.,00:16:16
+hggqxqe,154,tutor,"Yeah, do we have the same cross-section along its length?",00:16:17
+hggqxqe,155,student,Yes.,00:16:20
+hggqxqe,156,tutor,"Yes, so it is a prism.",00:16:21
+hggqxqe,157,background,A cuboid container has 14 [UNCLEAR].,00:16:25
+hggqxqe,158,tutor,"Yeah, I got 35. [unclear]",00:16:25
+hggqxqe,159,tutor,Okay.,00:16:59
+hggqxqe,160,student,[unclear] What do you think? What do you understand?,00:17:00
+hggqxqe,161,tutor,"First, there is a cuboid number 1.",00:17:04
+hggqxqe,162,tutor,Yep.,00:17:08
+hggqxqe,163,student,And there's a cuboid number 2.,00:17:09
+hggqxqe,164,tutor,Uh-huh.,00:17:11
+hggqxqe,165,student,"Not really, other than the steps are a bit confusing. Maybe I need more practice.",00:17:16
+hggqxqe,166,tutor,Yeah. [unclear],00:17:25
+hggqxqe,167,student,Yeah. [unclear],00:17:26
+hggqxqe,168,student,I think first you have to draw a cube void for the first one.,00:17:47
+hggqxqe,169,tutor,I think we have to— we cannot draw a rectangle for that one.,00:17:51
+hggqxqe,170,student,Yeah.,00:17:55
+hggqxqe,171,tutor,"All right, smart thinking. Good drawing.",00:18:04
+hggqxqe,172,student,Thank you. [unclear],00:18:08
+hggqxqe,173,tutor,"All right. So first one, it's length, height, it's 30 centimeters. [unclear] 40, and that one is 30. [unclear] Not 30, 20. And length is 50.",00:18:29
+hggqxqe,174,tutor,"Okay. So here the water is, it's full of water.",00:19:24
+hggqxqe,175,student,Yeah. [unclear],00:19:40
+hggqxqe,176,tutor,Yeah.,00:19:48
+hggqxqe,177,student,"And if we pour this one to this one, then what will be its— what will be the height of this?",00:19:49
+hggqxqe,178,tutor,"Yeah, right. What do you think is the first step?",00:20:00
+hggqxqe,179,student,"[unclear] container, it's okay. [unclear] the height of the water in the larger cuboid. Okay, first we have to find the volume of the first cuboid, I think.",00:20:02
+hggqxqe,180,tutor,Exactly.,00:20:17
+hggqxqe,181,student,So volume is 40 times [unclear],00:20:20
+hggqxqe,182,tutor,Times 20.,00:20:35
+hggqxqe,183,tutor,60... [UNCLEAR],00:20:35
+hggqxqe,184,tutor,60... [unclear] Yeah.,00:20:35
+hggqxqe,185,tutor,"Yeah, I think this is true.",00:21:29
+hggqxqe,186,student,"Yeah, that's—",00:21:33
+hggqxqe,187,tutor,"And then we— so this is the volume. If we port, uh, you have to find How do we calculate the height if, uh, this is this?",00:21:36
+hggqxqe,188,background,"Yeah, so over here, um, so this is the total volume, right, Felix?",00:22:02
+hggqxqe,189,student,Yeah.,00:22:06
+hggqxqe,190,background,"So if you put this volume into this, you have to calculate the height, right? So what is the width and what is the length?",00:22:07
+hggqxqe,191,student,"Uh, 10 and 50.",00:22:15
+hggqxqe,192,background,"10 and 50. So now if you want to find the Volume of this cuboid, what do you do? Volume of the cuboid? Yeah, this one. What do you do? What do you multiply? Uh, 50 times 10 times, uh, the height. The height? Do we know the height? So let's say the water will be filled up to this, uh, level. So you have to find the height now. Right? So what do we do if you don't know it? What do we do?",00:22:17
+hggqxqe,193,tutor,"Uh, excuse me.",00:22:52
+hggqxqe,194,student,Sorry?,00:22:55
+hggqxqe,195,tutor,I know it's 50 times 500.,00:22:56
+hggqxqe,196,student,Uh-huh. Then?,00:23:02
+hggqxqe,197,tutor,X.,00:23:04
+hggqxqe,198,student,"Ah, X, right. H or X. You can use, uh, yeah, algebra. Then?",00:23:04
+hggqxqe,199,tutor,[unclear],00:23:09
+hggqxqe,200,student,It is equal to?,00:23:09
+hggqxqe,201,tutor,"Uh, equal to—",00:23:17
+hggqxqe,202,student,"After filling, after filling this water into this one, so if you find 50 times 10 times h, what would you get? Area. Do we get area?",00:23:18
+hggqxqe,203,tutor,"Uh, I mean the volume.",00:23:31
+hggqxqe,204,student,"Volume, right. What is the volume?",00:23:33
+hggqxqe,205,tutor,Volume is— [unclear],00:23:37
+hggqxqe,206,tutor,Where is it? You already found it?,00:23:40
+hggqxqe,207,student,"Is it 2,400? I mean 24,000.",00:23:42
+hggqxqe,208,tutor,"Yeah, you've— so the volume hasn't been changed, right? Felix, has it been changed?",00:23:45
+hggqxqe,209,student,"Uh, the volume is not changed.",00:23:51
+hggqxqe,210,tutor,"Yeah, it is the same, right? So when, when you poured the water out of this—",00:23:53
+hggqxqe,211,student,But it doesn't say that it has same volume.,00:23:58
+hggqxqe,212,tutor,"Okay, so a cube-shaped container with, uh, you is filled with water. This water is then poured into a larger cuboid container. So this whole thing has been poured into a larger cuboid container.",00:24:02
+hggqxqe,213,tutor,Yes.,00:24:21
+hggqxqe,214,student,"Yeah, so what is the volume of this water now?",00:24:22
+hggqxqe,215,tutor,Up to this one.,00:24:27
+hggqxqe,216,student,"Oh yeah, what is the volume?",00:24:29
+hggqxqe,217,tutor,No.,00:24:31
+hggqxqe,218,student,"Okay, so when you poured water from a smaller container to a bigger container, will it be full?",00:24:32
+hggqxqe,219,tutor,"No, that— [unclear]",00:24:44
+hggqxqe,220,student,"It won't, right? So let's consider only water is filled only to this level. So it is H. So what is the volume of this?",00:24:46
+hggqxqe,221,tutor,500— I mean—,00:24:57
+hggqxqe,222,tutor,Yeah.,00:25:00
+hggqxqe,223,student,"500H equals 2,000— I mean 24,000. [unclear]",00:25:00
+hggqxqe,224,tutor,That is? [unclear],00:25:09
+hggqxqe,225,tutor,5 divided by 24? [unclear],00:25:31
+hggqxqe,226,tutor,So is this the answer?,00:26:03
+hggqxqe,227,student,Then why is it 4 and 4? I suppose because it's r squared.,00:26:08
+hggqxqe,228,tutor,Yeah. [unclear],00:26:14
+hggqxqe,229,tutor,"Can you check again? Is it 4.8? Okay, so how many zeros did you cancel over here? How many zeros did you cancel over here?",00:26:26
+hggqxqe,230,student,Then I said 48.,00:26:40
+hggqxqe,231,tutor,"48, right? All right, so okay, good job. And, uh, you're getting one mark for calculating the volume in the original cuboid, and over here. And again, one mark for the expression, this expression. And then another one mark for setting these equal to each other, and then you'll get one mark for finding h. Actually, you'll get 4 marks in total, right? So Felix, um, can you tell me, um, so what did you learn over here? Okay, so first of all, Felix, tell me, uh, what has been changed?",00:26:40
+hggqxqe,232,student,"Uh, the height.",00:27:30
+hggqxqe,233,tutor,"The height has been changed, and then? The length and the width. Then the length and width. What is— what is the same? What is the constant? Volume. Volume is the constant, right? So you can equal it to a— into the volume, right? So it is a constant, right? Um, shall we do another one like this? Yeah. Yeah. Container A has the same as container [UNCLEAR]. Find the height of B.",00:27:32
+hggqxqe,234,tutor,Volume is 2 times— [unclear],00:28:12
+hggqxqe,235,student,"Yeah, I understand. I'm just missing pi and stuff.",00:28:16
+hggqxqe,236,tutor,8 times 15.,00:28:21
+hggqxqe,237,tutor,Yeah.,00:28:32
+hggqxqe,238,student,[unclear],00:28:37
+hggqxqe,239,tutor,Yeah.,00:28:39
+hggqxqe,240,student,Good. [unclear],00:28:48
+hggqxqe,241,student,I think I understand it.,00:29:30
+hggqxqe,242,tutor,It should be 360 into 180. [unclear],00:30:23
+hggqxqe,243,student,"Right, very good, Felix. So Felix, you'll get one mark for finding the volume of the first cuboid, and then another one mark for writing an expression for the volume. 60h over here, and then, um, write an equation, another 1 mark, and for finding the correct answer, another 1 mark. So you'll get 4 marks in total. Well done. So Felix, what do you think is the most common mistake that one can do while working this out?",00:30:31
+hggqxqe,244,student,"Um, accidentally trying to find the whole wall height instead of [UNCLEAR].",00:31:00
+hggqxqe,245,tutor,Yeah.,00:31:00
+hggqxqe,246,student,That's what I was about to do.,00:31:05
+hggqxqe,247,tutor,"Ah, okay, okay. So when you fold bought something out of a smaller one, you want the big one won't be filled, right? Yeah. And someone might not realize that volume is a constant here, right? Volume is always same. So, okay, and we are gonna move on to the next one. Can you read and underline important keywords?",00:31:07
+hggqxqe,248,student,Yeah.,00:31:35
+hggqxqe,249,tutor,"Okay, I got this.",00:31:36
+hggqxqe,250,student,Prism A is after wing of Prism B. [unclear] of Prism B. Okay. Yep. [unclear],00:31:40
+hggqxqe,251,student,Yeah.,00:32:12
+hggqxqe,252,tutor,Yeah.,00:32:20
+hggqxqe,253,student,Yeah. [unclear],00:32:24
+hggqxqe,254,student,Yeah. [unclear],00:32:29
+hggqxqe,255,student,Yeah.,00:32:55
+hggqxqe,256,tutor,All right.,00:33:20
+hggqxqe,257,student,"Yeah, I got it. All right. [unclear]",00:33:21
+hggqxqe,258,student,[unclear] [unclear],00:33:46
+hggqxqe,259,student,[unclear] [unclear],00:34:02
+hggqxqe,260,tutor,"It's not 1,800.",00:34:26
+hggqxqe,261,student,"Yeah, so can you explain what did you do over here?",00:34:28
+hggqxqe,262,tutor,"Yeah, I think I found my mistake.",00:34:38
+hggqxqe,263,student,All right. [unclear] [unclear],00:34:41
+hggqxqe,264,tutor,"Oh yeah, before that Felix, what did you do over here? Can you explain?",00:35:06
+hggqxqe,265,student,"Uh, uh, timesing all of them together.",00:35:09
+hggqxqe,266,tutor,"Ah, timesing all of them together. Haha. So okay, uh, so what were you trying to find?",00:35:14
+hggqxqe,267,student,Volume.,00:35:23
+hggqxqe,268,tutor,"Volume of the first one, this one?",00:35:24
+hggqxqe,269,student,"Yeah. Yeah, so it's a prism, right? Yeah, yeah. So how do you find the volume of prism usually? [unclear]",00:35:27
+hggqxqe,270,tutor,Isn't it length times width times height?,00:35:36
+hggqxqe,271,student,"Oh, to find the volume of a prism, Felix, you have to multiply the cross-sectional area by the length.",00:35:40
+hggqxqe,272,tutor,"Uh, what is the cross-sectional area?",00:35:50
+hggqxqe,273,tutor,"Yeah, what is the cross-sectional area? Huh? Uh, when you cut it in half, so let's say you're cutting this in half, what kind of shape would you get if you look at it from the side?",00:35:53
+hggqxqe,274,student,Still a triangle.,00:36:08
+hggqxqe,275,tutor,A triangle. So that is the cross-sectional area. How do you find the area of a triangle?,00:36:09
+hggqxqe,276,student,Half bh.,00:36:14
+hggqxqe,277,tutor,"All right, so what is the area?",00:36:16
+hggqxqe,278,tutor,What is the cross-sectional area now?,00:36:18
+hggqxqe,279,student,Yeah.,00:36:20
+hggqxqe,280,tutor,So it's half times space times height.,00:36:25
+hggqxqe,281,student,"Half, yeah. [unclear]",00:36:29
+hggqxqe,282,tutor,Yeah. [unclear],00:36:35
+hggqxqe,283,tutor,"So 48, it's 24.",00:36:46
+hggqxqe,284,student,"Yeah, 24. And then what do you do? So you have found the cross-sectional area, then what do you do?",00:36:52
+hggqxqe,285,tutor,Times height.,00:36:57
+hggqxqe,286,student,"You times it by height, right?",00:36:58
+hggqxqe,287,tutor,So times 6.,00:37:01
+hggqxqe,288,student,Yeah.,00:37:07
+hggqxqe,289,tutor,Is it 6? Is it high? The length of Felix. So this is how we do it. [unclear] Area.,00:37:12
+hggqxqe,290,student,Times 10.,00:37:26
+hggqxqe,291,tutor,Times length.,00:37:28
+hggqxqe,292,student,240.,00:37:30
+hggqxqe,293,tutor,Yeah. So that's 240. Like that.,00:37:32
+hggqxqe,294,tutor,Yeah.,00:37:36
+hggqxqe,295,background,"All right, so Felix, we don't have enough time to work this out today, right? So I'm so sorry to disturb you.",00:37:37
+hggqxqe,296,student,No problem.,00:37:42
+hggqxqe,297,background,"Yeah, all right, Felix, so before we end the session, can you tell me what did we learn about prisms?",00:37:43
+hggqxqe,298,student,"Prisms are, you know, vertical shapes with identical ends and vertical faces. I mean, straight faces. [unclear]",00:37:48
+hggqxqe,299,background,And it should have same cross-section along its length. Why do you think a cylinder is not a prism?,00:37:59
+hggqxqe,300,tutor,Because it has a curved face.,00:38:08
+hggqxqe,301,background,"Curved face, right. And over here, um, all right, so we already discussed the possible mistakes over here and over here. Felix, why do you think this is a prism?",00:38:10
+hggqxqe,302,student,"Uh, because it has two same faces.",00:38:24
+hggqxqe,303,background,So I didn't do anything? [unclear] And we have the same cross-sectional area along the length. So how do we find the area of the prism?,00:38:27
+hggqxqe,304,student,Cross-sectional area times length.,00:38:39
+hggqxqe,305,tutor,"Length, right. So you have to find the cross-section first. What do you notice about the second one? Is it a prism?",00:38:42
+hggqxqe,306,student,"Uh, which one?",00:38:48
+hggqxqe,307,tutor,"This one, this one.",00:38:49
+hggqxqe,308,student,"Uh, this has same face here and here. It has a flat face, so it's—",00:38:51
+hggqxqe,309,tutor,Flat faces.,00:38:59
+hggqxqe,310,student,"Yeah, so it's a prism.",00:39:01
+hggqxqe,311,tutor,"Prism, right. So how do you find the— if you want to find the volume of this prism, how do you find it?",00:39:03
+hggqxqe,312,student,Cross-sectional area times length.,00:39:09
+hggqxqe,313,tutor,"Okay, so what do we— how do we find the cross-sectional area over here?",00:39:11
+hggqxqe,314,student,Should we find the square and the rectangle and add them?,00:39:16
+hggqxqe,315,tutor,"Add them, exactly. And then to find the volume, what do you do?",00:39:19
+hggqxqe,316,tutor,"Find the volume, then we times it by the length.",00:39:25
+hggqxqe,317,student,The length. [unclear],00:39:29
+hggqxqe,318,tutor,"Which should give us— yeah, it should give us—",00:39:29
+hggqxqe,319,student,"Yeah, exactly. So the length is not given, it is L. So we have to find the length. Right, so Felix, I hope you learned something new and good summarizing, and do your quiz at the end, and I'm going to see you next week then. Bye-bye, have a good week. Bye.",00:39:31
+hggqxqe,320,background,Thank you. [unclear],00:39:47
+hggqxqe,321,student,[UNCLEAR] [unclear],00:39:47
+hggqxqe,322,student,[unclear],00:39:47

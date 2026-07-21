@@ -1,0 +1,339 @@
+session_id,utterance_id,role,content,timestamp
+agoklck,0,tutor,Hi.,00:00:00
+agoklck,1,background,[unclear],00:00:00
+agoklck,2,student,Hello.,00:00:03
+agoklck,3,tutor,Hi.,00:00:04
+agoklck,4,student,Hi.,00:00:06
+agoklck,5,background,[UNCLEAR],00:00:06
+agoklck,6,tutor,Hello.,00:00:07
+agoklck,7,student,Hello.,00:00:09
+agoklck,8,tutor,"Hi, how are you today?",00:00:10
+agoklck,9,student,I'm good.,00:00:13
+agoklck,10,tutor,"Great, how was your day so far, Tobias? We hadn't done anything yet, but I would say it's good.",00:00:14
+agoklck,11,tutor,"Okay, cool. So how did your weekend go?",00:00:21
+agoklck,12,student,It was good.,00:00:26
+agoklck,13,tutor,Did you enjoy it?,00:00:29
+agoklck,14,student,Yeah.,00:00:31
+agoklck,15,tutor,"Okay, great. So do you have any plans for the week?",00:00:32
+agoklck,16,student,"For the week, I will be going to a country, Poland.",00:00:39
+agoklck,17,tutor,Great. Are you excited?,00:00:46
+agoklck,18,student,Yeah.,00:00:48
+agoklck,19,tutor,"All right. I hope you have a great time, Tobias. So do you have anything else to share with me, or shall we move on to our lesson for today?",00:00:50
+agoklck,20,student,Move on to our lesson.,00:00:59
+agoklck,21,tutor,Okay. So here we go. Today you will be learning about adding and subtracting amounts of money in [UNCLEAR]. All right?,00:01:01
+agoklck,22,tutor,"So Tobias, can you go ahead and give the learning goal a try? What does it say?",00:01:12
+agoklck,23,student,It says Selma buys a pencil case costing £2.65. She pays with a £5 note. How much change does she get? So she paid with a £5 and it costs £2.65.,00:01:16
+agoklck,24,student,"So, um, 100 pennies makes 1 pound.",00:01:41
+agoklck,25,tutor,"Yes, good job.",00:01:47
+agoklck,26,student,"So for the 65p, I think it took like a little part, a little bit of the 5 pounds.",00:01:50
+agoklck,27,tutor,Pardon?,00:02:04
+agoklck,28,student,"I think the pea took a little bit, like half of one pound. And then for the two pounds, it took away three, so then it was a three pound. So then she had to pay three pounds and [UNCLEAR]. [unclear]",00:02:06
+agoklck,29,student,"No, wait. I didn't think £3.",00:02:46
+agoklck,30,tutor,Okay. So here can you tell me what operation you will have to use to figure out the change?,00:02:49
+agoklck,31,student,Subtracting?,00:02:56
+agoklck,32,tutor,"Yes, subtracting. Amazing. So what are the two values you need to subtract?",00:02:58
+agoklck,33,student,£2.65. Take away from £5 note.,00:03:06
+agoklck,34,tutor,"Yes, there you go. £2.65 from £5 note. So here, what can you do to figure out the answer? [unclear] What do you think? Any idea?",00:03:13
+agoklck,35,student,I think to use the formal method.,00:03:37
+agoklck,36,tutor,"Okay, good job. So as you told me, 100 pence will be equal to £1. Yeah?",00:03:42
+agoklck,37,student,Yeah.,00:03:48
+agoklck,38,tutor,So how much will £2 be equal to? How many pence will that be? 200.,00:03:49
+agoklck,39,tutor,200. So how many pence in total in £2.65?,00:03:56
+agoklck,40,student,"In total, then there will be 265 pence.",00:04:01
+agoklck,41,tutor,"Yes, 265 pence. All right. So in £5, how many pence do you have?",00:04:07
+agoklck,42,student,"Uh, 500. [unclear]",00:04:16
+agoklck,43,tutor,"Yes, 500. So now, do you think it will be easier to subtract?",00:04:20
+agoklck,44,student,"Mm, yeah.",00:04:25
+agoklck,45,tutor,"Okay, so how much do you think it will be if we take away 265 from 500? [unclear] So why is it 200?",00:04:30
+agoklck,46,student,"Oh wait, 500. [unclear] And then over here, you give a minus sign.",00:04:49
+agoklck,47,tutor,"So can you take away— when we are subtracting using column method, do we type in the larger number at the bottom?",00:05:03
+agoklck,48,student,No.,00:05:12
+agoklck,49,tutor,"Oh, no.",00:05:14
+agoklck,50,student,"500, and then 700. [unclear] Okay, so then we start from the back, and then 0 take away 5, we can't do that.",00:05:18
+agoklck,51,student,"So... [unclear] Oh wait, sorry. [unclear]",00:05:43
+agoklck,52,student,"Okay, we can't take away because it's 0 take away 5, and we can't take away anything from 0.",00:05:53
+agoklck,53,tutor,"Okay, so what should you do?",00:06:06
+agoklck,54,student,"We should go to the tens, but it's a zero as well, so we go to the hundreds and then we cross it out, it will become a 4, and then this will become a 10.",00:06:09
+agoklck,55,tutor,Mm-hmm.,00:06:25
+agoklck,56,student,"And then over here, you still can't do it because it's still not a zero, and so then we We go to the tens column and then there's a 10 there, so we press [UNCLEAR].",00:06:27
+agoklck,57,tutor,"Yes, so we have 10 here. We need to exchange it to the zero. What should you do?",00:06:27
+agoklck,58,student,"Hmm. Because if we exchange the one, then the one will be a zero and then it will be another zero.",00:06:53
+agoklck,59,tutor,"Yes, so what you will do is you will cross the 10 out. So how much is 10 take away 1?",00:07:03
+agoklck,60,student,[unclear] 9.,00:07:11
+agoklck,61,tutor,"9. So here instead of 10 you'll get a 9, and here you will get a 10. So now you have 10 take away 5. Are you clear?",00:07:12
+agoklck,62,student,Yeah.,00:07:23
+agoklck,63,tutor,"Okay, so how much is 10 take away 5?",00:07:24
+agoklck,64,student,So 10 take away 5 equals 5.,00:07:27
+agoklck,65,tutor,Amazing.,00:07:32
+agoklck,66,student,"So then we write over here 5, and then 9 take away 6. [unclear] It will be 3.",00:07:33
+agoklck,67,tutor,Amazing.,00:07:48
+agoklck,68,student,"Then it will be 4 take away 2. 2. Yes, there you go. So how much is that? So how many pounds and how many pence is that into 235 pence?",00:07:50
+agoklck,69,student,2 and then 35.,00:08:12
+agoklck,70,tutor,"Yes, there you go. So what is your answer?",00:08:16
+agoklck,71,student,2 pounds and 35p.,00:08:20
+agoklck,72,tutor,"Yes, there you go. £2.35. That was a very nice job on how you were able to convert it to pence and then figure out your final answer. Amazing work on this side, Tobias. [unclear] So let me give you a smiley for your hard work here. All right? Good job on the learning goals. How about prior learning? What was it? Can you look at the [UNCLEAR]?",00:08:23
+agoklck,73,student,So you have to write the amount of money shown.,00:08:55
+agoklck,74,tutor,Yes.,00:09:00
+agoklck,75,student,"So then I see £2, so I'll write down £2 because there's 1 and 2. So then that. Then we have to add 5, 10, 50, and 2 because there's These are the p's. So...",00:09:00
+agoklck,76,tutor,Yes. Good job.,00:09:24
+agoklck,77,student,"I start from the biggest number, so 50, 60, and then 61, 62, 63, 64, 65, 66, 67.",00:09:27
+agoklck,78,tutor,Mm-hmm. There you go. So £2 and...,00:09:41
+agoklck,79,student,67p.,00:09:46
+agoklck,80,tutor,Yes. There you go. £2.67. Alright. So this is the amount which is shown over here. Are you clear?,00:09:46
+agoklck,81,student,Yes.,00:09:55
+agoklck,82,tutor,"Okay, there you go. Very well done, Tobias, in being able to figure out the amount of money shown on the picture over here. Now we all get to move on to our next slide. [unclear] Okay, so here we go. So Tobias, we completed this slide last session. Do you remember what we learned over here?",00:09:56
+agoklck,83,student,that we can add and subtract using a number line.,00:09:56
+agoklck,84,tutor,"Yes, there we go. So here, Tobias, we figured out how we can use the number line to figure out the change amount. All right, so can you tell me, when figuring out the change amount, what operation should we use? Should we use addition or should we use subtraction? [unclear]",00:09:56
+agoklck,85,student,Addition?,00:10:48
+agoklck,86,tutor,"Yes. So when figuring out the change value, Tobias, we always need to subtract, just like we did over here. So when we had to figure out the change she got, we need to subtract £2.65 from £5. Yeah? Always remember, we need to subtract when we have to figure out the change amount. All right? So earlier we used column subtraction. Fraction to figure out the change amount. Yeah?",00:10:51
+agoklck,87,student,Yeah.,00:11:20
+agoklck,88,tutor,But here we're using the number line. [unclear],00:11:21
+agoklck,89,student,Yeah.,00:11:25
+agoklck,90,tutor,"Yeah. So we're using the number line to figure out the change amount. Okay? So when we had to figure out the change amount from £5, from a £5 note, when the cost is £7, what did we do? What did we do here?",00:11:27
+agoklck,91,student,"So here we were starting from 75p, and then we had to make one jump to £1. So then you had to work out how many p would that be to make it to £1, and we had to make a big jump to £5.",00:11:45
+agoklck,92,tutor,"Yes, there you go. So what was the value we got here?",00:12:07
+agoklck,93,tutor,"From 75 pence to get to £1, how many pence is it?",00:12:17
+agoklck,94,student,175? [unclear],00:12:22
+agoklck,95,tutor,"Alright, so here, 75 pence, add how many pence will give you £1? [unclear]",00:12:31
+agoklck,96,tutor,"100. Is 100 at 75 equal to £1, Tobias?",00:12:43
+agoklck,97,student,No.,00:12:52
+agoklck,98,tutor,How many pins at 75 pins will be equal to £1?,00:12:53
+agoklck,99,student,Wait.,00:12:58
+agoklck,100,student,"So we have to get 100. Wait, we have to exchange, subtract over here. So... [unclear]",00:13:02
+agoklck,101,tutor,"So here, 75 pence at 25 pence will be equal to £1 because 75 pence at 25 pence is equal to £100. Yeah?",00:13:17
+agoklck,102,student,"Okay, yeah.",00:13:42
+agoklck,103,tutor,"75 pence, add 25 pence, will be £1 over here. All right, and £1 add how many pounds will give you £5? [UNCLEAR]",00:13:42
+agoklck,104,student,I think 600 pence.,00:13:57
+agoklck,105,tutor,One. And how much is equal to five?,00:14:00
+agoklck,106,student,"One, two, three, four, five. So we have one, two, three, four, five, six. [unclear]",00:14:07
+agoklck,107,student,"So if we have like one pound, then we have to add in four more to be five.",00:14:22
+agoklck,108,tutor,"Exactly. So this is going to be £4. So when we have to figure out the final answer, what did we do? [unclear] We added both of them up together. All right?",00:14:28
+agoklck,109,student,Okay.,00:14:48
+agoklck,110,tutor,"Okay. So on this slide, we were— we completed the follow me part. So can you go ahead and give your turn a try? What does it say? It says, Mr. Green buys a new game. He pays by using the [unclear] notes and coins. He receives £1.70 change. How much did the game cost?",00:14:49
+agoklck,111,student,Yes.,00:15:17
+agoklck,112,tutor,"Then it says, Mr. Green paid with",00:15:17
+agoklck,113,student,"Uh, 5, 6, 7, 8, 9. 9 pounds, because when we add them all, then it will make 9.",00:15:22
+agoklck,114,tutor,Amazing.,00:15:31
+agoklck,115,student,So then it says a pound piece. Okay.,00:15:32
+agoklck,116,tutor,But it's 9 pence.,00:15:38
+agoklck,117,student,"Oh wait, pounds.",00:15:41
+agoklck,118,tutor,"Yeah, but we already have the pound sign over here, so writing 9 alone would be enough. All right. Okay, good job in being able to figure out how much Mr. [unclear] paid. Yes, Tobias, we have the pound symbol over here. Okay, so we do not have to type in. Okay, okay, okay, good. So we figured out £9. So what does question B say?",00:15:43
+agoklck,119,student,"So I think it says find the difference between the change given and the amount paid. So the difference between— wait, so when we have £1.70p, we have to make a jump to something. So—",00:16:10
+agoklck,120,tutor,So we start with £1.70p. Where do we end at? [unclear],00:16:39
+agoklck,121,student,9 pounds.,00:16:50
+agoklck,122,tutor,"Amazing, there you go. We need to end at 9 pounds. Good job in being able to spot that, Tobias. So this is the amount of change he receives and this is the amount he paid. You're right. Amazing work. So now what should we do? What do you think?",00:16:51
+agoklck,123,student,Add to how many jumps?,00:17:12
+agoklck,124,student,make the number...,00:17:12
+agoklck,125,tutor,"Okay, so what do you think the next jump will be? What number will this be? [unclear]",00:17:12
+agoklck,126,student,I think... [unclear],00:17:33
+agoklck,127,student,"170p, because when we add them together but in p's, then it will be 170.",00:17:52
+agoklck,128,tutor,"So it will have the same value which is over here. So we're making a jump, Tobias. So we should have a new number over here. So what do you think this is going to be? [unclear]",00:17:59
+agoklck,129,student,I don't think I know.,00:18:20
+agoklck,130,tutor,"Okay, no problem. So Tobias, can I go ahead and work out the follow me part once again so that you will be clear with it?",00:18:28
+agoklck,131,student,Yeah.,00:18:37
+agoklck,132,tutor,"Okay, so listen very carefully because this question is similar to the ""Your Turn."" Okay? So listen very carefully, and if you do have any doubts or confusions, feel free to ask me, all right?",00:18:37
+agoklck,133,student,Okay.,00:18:49
+agoklck,134,tutor,"Okay, cool. So here the question says, ""Anna buys a book for £5.10."" All right? ""She pays using 3 coins. How much change did she receive?"" So this is a question. So as the first step, what we need to do is figure out this. We need to figure out how much Anna paid. So Anna paid what? How many pounds? So we have 2, 4, 6, 8. So paid with 8 pounds. All right. [unclear]",00:18:49
+agoklck,135,tutor,"Okay, okay. So as the B part, it says find the difference between the cost of the book and the amount of change. So when you do the number line, the starting of the number line should be the cost of the book, which is £6.10, which should be written over here. And at the final, at the very end, should be £8, the amount he paid. All right. [unclear]",00:19:21
+agoklck,136,tutor,"All right. The next thing we need to do is we need to make a jump, Tobias. All right. So when we make a jump, this [unclear] is made to the nearest pound. All right. So how many pounds do we have over here? [unclear] Exactly, we have 6 pounds. So what comes after 6 pounds?",00:19:47
+agoklck,137,student,7 pounds?,00:19:47
+agoklck,138,tutor,We have 7 pounds. So what we need to do is we need to type in 7 pounds over here. So we need to figure out the next pound which will go after this. Are you clear?,00:19:47
+agoklck,139,student,Yeah.,00:20:28
+agoklck,140,tutor,"Now what we need to do is, Tobias, we need to check the difference between this amount and this amount. Now in order to figure that out, let's find the [UNCLEAR]. How much is 6 pence in 10 pounds?",00:20:29
+agoklck,141,student,"Um, 610p.",00:20:29
+agoklck,142,tutor,"Yes, amazing! There you go, 610 pence. And how much is 7 pounds in pence?",00:20:54
+agoklck,143,student,Hmm. [unclear],00:21:07
+agoklck,144,tutor,Amazing. 710. There you go. So we have 610 pence and we have 710. So what is the difference between 610 and 700?,00:21:08
+agoklck,145,student,Hmm. That 700 is a bigger number.,00:21:21
+agoklck,146,tutor,"Yes, exactly. It's a bigger number. How much is it big by? How much is it bigger than 610? [unclear]",00:21:25
+agoklck,147,student,I think 90 pounds?,00:21:37
+agoklck,148,tutor,"No, 90 pence. Amazing. So 610, the difference between 610 pence and 70 pence will be 90 pence. Therefore, the difference here, the value of this is going to be 90 pence. Are you clear?",00:21:44
+agoklck,149,student,Yeah.,00:21:59
+agoklck,150,tutor,"Okay, now, now that we have figured out 90 pence over here, we need to figure out what this is going to be. So from 7 pounds to 8 pounds, we just need to add 1 more pound. Yes?",00:22:00
+agoklck,151,student,Yeah.,00:22:11
+agoklck,152,tutor,"This is going to be 1.1 pound over here. All right, so therefore, Anna will receive 1 pound and 90 pence as a change. So are you clear with how I figured out my answer? Tobias?",00:22:12
+agoklck,153,student,Yeah.,00:22:29
+agoklck,154,tutor,Do you have any doubts or confusions around this?,00:22:29
+agoklck,155,student,No.,00:22:34
+agoklck,156,tutor,Are you sure?,00:22:35
+agoklck,157,student,Yeah.,00:22:36
+agoklck,158,tutor,"Alright, if you do have any doubts or confusions at any part of the lesson, please do not hesitate to ask, alright?",00:22:37
+agoklck,159,student,Okay.,00:22:45
+agoklck,160,tutor,"Okay, so Tobias, on your turn, we already figured out how much Green paid, which was £9, and we also figured out that the number line started with £1.70 and ended with £9. Pounds. So what do you think this value is going to be? Have you gotten any idea now?",00:22:46
+agoklck,161,student,So it's between 1 and 9.,00:23:05
+agoklck,162,tutor,Yes.,00:23:09
+agoklck,163,student,So I think it would be [unclear] 5 pounds.,00:23:13
+agoklck,164,tutor,Okay. So how did I figure out 7 pounds over here? Can you recall?,00:23:24
+agoklck,165,student,You figured out 7 pounds because there's a 6 there and there's an 8 at the end and 7's in the middle.,00:23:30
+agoklck,166,tutor,"All right. So here, Tobias, I did not figure out the midpoint. All right. I figured out which pound will go after 6 pounds. So that's why I asked you what will come after 6 pounds. Pounds. Yeah?",00:23:45
+agoklck,167,student,[unclear],00:23:58
+agoklck,168,tutor,"Okay. So when we are figuring out the next pound, we need to check what will go after this. So what do you think will go over here? Hmm. So how many pounds do we have over here on this number?",00:23:59
+agoklck,169,student,Over here we have one pound.,00:24:18
+agoklck,170,tutor,"Exactly, we have 1 pound. So what is the next pound after 1 pound?",00:24:23
+agoklck,171,student,2 pounds.,00:24:28
+agoklck,172,tutor,Exactly. So what should go over here?,00:24:29
+agoklck,173,student,2 pounds.,00:24:31
+agoklck,174,tutor,2 pounds. There you go. Are you clear?,00:24:32
+agoklck,175,student,Yeah.,00:24:35
+agoklck,176,tutor,"We do not figure out the number which goes in the middle, Tobias. We figure out the next pound. Okay?",00:24:36
+agoklck,177,student,Okay.,00:24:43
+agoklck,178,tutor,"All right, there you go. That was a remarkable job on how you were able to figure it out. So now that we have figured out the next pound here, can you tell me what the difference is going to be.",00:24:44
+agoklck,179,student,"Um, I think the difference— wait, so here is 170p. [unclear] And in the middle is 200p. Then end is 900p.",00:24:56
+agoklck,180,student,Okay. [Speaker] So that I think that it is different because every single one is getting smaller to bigger and bigger and bigger.,00:25:22
+agoklck,181,tutor,"Yes, there you go. So what do you think will be the value of this? [Speaker] Hmm. So— [Speaker] Hmm. [unclear] 170 pens to 200 pens, how many pens is it? So 70, 80, 90, and then 100. So then that'll be £3. [unclear]",00:25:32
+agoklck,182,tutor,£3?,00:26:02
+agoklck,183,student,"Wait, I think it's £3.",00:26:12
+agoklck,184,tutor,"Will it be £3, Tobias? Can you take a closer look? We have £1.70 over here and we have 200 pence over here. So do you think £3 will go over here? Will that make sense?",00:26:16
+agoklck,185,student,No.,00:26:33
+agoklck,186,tutor,No. So what do you think the answer here is going to be?,00:26:33
+agoklck,187,student,"3 pence. [unclear] So Tobias, how did I get 90 pence over here? Can you recall?",00:26:38
+agoklck,188,student,"Hmm... because... [unclear] because when we counted up how many green paid, then it was paid that... wait, the change that Mr. Green had. Then he was paid £9, so then the end will be £9.",00:26:46
+agoklck,189,tutor,"Tobias, I'm talking about the follow me part. How did I get 90 pence over here?",00:27:12
+agoklck,190,student,Oh. [unclear],00:27:17
+agoklck,191,tutor,Because you counted on?,00:27:17
+agoklck,192,tutor,How do you count on?,00:27:34
+agoklck,193,student,"Like by doing 10 and then 20, 30, 40, 50, 60, 70, 80, 90, and then 100.",00:27:38
+agoklck,194,background,"Yes, so we counted from 610 all the way to 700 to get to 90. So can you do the same thing over here, Tobias? You have 170 pence over here and you have 200 pence over here. So what is the difference? How much is it going to be?",00:27:52
+agoklck,195,student,"So 70, 80, 90, and then it will be 100. Oh, so 2p.",00:28:10
+agoklck,196,tutor,"Will it be 2, Tobias? Can you please take a closer look? How much is 170 pence to 180 pence? Oh, so it'd be 20p because we counted 70, 80, 90, and then 100.",00:28:21
+agoklck,197,tutor,200. Is that 20p? [unclear],00:28:47
+agoklck,198,student,No.,00:28:51
+agoklck,199,student,No.,00:28:58
+agoklck,200,tutor,How much is it?,00:29:00
+agoklck,201,student,Uh... I think... [unclear],00:29:04
+agoklck,202,tutor,How much is 170 10? So,00:29:07
+agoklck,203,student,170 10 will be 100 and...,00:29:15
+agoklck,204,student,80.,00:29:26
+agoklck,205,tutor,"Yes, there you go. So how much is 180 add 10?",00:29:27
+agoklck,206,student,180 add 10 is 190.,00:29:31
+agoklck,207,tutor,How much is 190 add 10?,00:29:36
+agoklck,208,student,So 90 add 10 is 200.,00:29:41
+agoklck,209,tutor,200. So how many tens did I add? [unclear],00:29:45
+agoklck,210,student,So 3 tens. 3 tens. So how much is 3 tens equal to?,00:29:49
+agoklck,211,student,3 tens is equal to 30.,00:29:56
+agoklck,212,tutor,30 pence. So how many pence is that?,00:30:01
+agoklck,213,student,"Uh, 30.",00:30:06
+agoklck,214,tutor,30 pence. What is the difference between 170 pence to 200 pence?,00:30:09
+agoklck,215,student,"Hmm, the difference is that, um,",00:30:13
+agoklck,216,student,We count it in tenths.,00:30:20
+agoklck,217,tutor,How much more is it? What is the value?,00:30:23
+agoklck,218,student,"Uh, 30 pence more.",00:30:28
+agoklck,219,tutor,So what should we type in over here?,00:30:32
+agoklck,220,student,30 pence.,00:30:35
+agoklck,221,tutor,"Okay, there you go. Can you go ahead and type it in? [unclear]",00:30:37
+agoklck,222,student,"Oh wait, the sign's already there.",00:30:41
+agoklck,223,tutor,"Okay, there you go. Remarkable job in being able to [unclear] 30 pence. So how can we figure this out?",00:30:43
+agoklck,224,student,"So then there's 2 pounds and 9 pounds. So then 2, 3, 4, 5, 6, 7, 8, 9. So then that'll be 7 pounds.",00:30:54
+agoklck,225,tutor,"Amazing, there will be £7.",00:31:13
+agoklck,226,student,"Okay, so, oh wait, yeah.",00:31:15
+agoklck,227,background,So what do you think will be the cost of the new game?,00:31:21
+agoklck,228,student,The cost will be 30p and £7.,00:31:26
+agoklck,229,background,Can you go ahead and type that in?,00:31:31
+agoklck,230,student,Yeah. [unclear],00:31:33
+agoklck,231,student,So £7.30.,00:31:39
+agoklck,232,tutor,"Yes, there you go. I truly appreciate your hard work, Tobias, in being able to try your best and get to your final answer. I truly appreciate your effort on this slide. Amazing work. Okay, Tobias, when we had to figure out the cost, what did we do over here on the slide of this question?",00:31:45
+agoklck,233,student,I marked it out with the number line and [UNCLEAR]. And put the pounds into pence.,00:32:04
+agoklck,234,tutor,"Okay, there you go. So what was the first step we did over here, Tobias? What do you think?",00:32:11
+agoklck,235,student,"Hmm, the first step was like count how much money he received as change.",00:32:17
+agoklck,236,tutor,"Okay, how much was it?",00:32:29
+agoklck,237,student,£9.,00:32:32
+agoklck,238,tutor,Was £9 the amount of money he received? [unclear],00:32:34
+agoklck,239,student,"No, it's what he paid with.",00:32:41
+agoklck,240,tutor,"Exactly, £9 is the amount he paid with. So after we figured out £9, what did we do?",00:32:44
+agoklck,241,student,"After when we figured out £9, then we gone to the number line and then we were finding the difference between the change given and the amount",00:32:51
+agoklck,242,student,that he paid.,00:32:51
+agoklck,243,tutor,"Yes, okay. So how much did he pay?",00:32:51
+agoklck,244,student,He paid £9.,00:33:15
+agoklck,245,tutor,"He paid £9 and the change he received was £1.70. So in order to figure out the cost of the new game, what did we do?",00:33:20
+agoklck,246,student,"used the number line, how many jumps it will take to go to",00:33:20
+agoklck,247,student,"Wait, we used the number line to take how many jumps it will take to go to the next pound.",00:33:36
+agoklck,248,tutor,"Yes, there you go. So what was the next pound we figured out?",00:33:48
+agoklck,249,student,"The next pound that we figured out, that was the end one, then was £9 because he paid with £9.",00:33:53
+agoklck,250,tutor,"Yes, good job. So how did we get to 30 pence over here?",00:34:06
+agoklck,251,student,"[unclear] We got £7. No, we got for the number line, we got £2 and at the end £9. And then altogether it was £7.30.",00:34:09
+agoklck,252,tutor,"There you go, £7.30. Good job in being able to take me through what we learned on this question. So are we all good to move on to our next slide and try a few questions, Tobias?",00:34:28
+agoklck,253,student,Yeah.,00:34:40
+agoklck,254,tutor,"Before that, do you have any doubts or confusions?",00:34:40
+agoklck,255,student,No.,00:34:44
+agoklck,256,tutor,"Okay, so if you do have any doubts or confusions, feel free to ask me, all right?",00:34:45
+agoklck,257,student,Yeah.,00:34:50
+agoklck,258,tutor,"Okay, so here we go. And can you go ahead and give question A a try? What does it say?",00:34:51
+agoklck,259,student,"It says, 'A mobile's a comic for [unclear] 25p. He pays with a £5 note. How much change will he receive?",00:34:58
+agoklck,260,tutor,So how do you think we can figure out the answer to this question?,00:35:07
+agoklck,261,student,I think it's the same thing that we did first.,00:35:12
+agoklck,262,tutor,Okay.,00:35:15
+agoklck,263,student,Like for the prior learning or the other one.,00:35:15
+agoklck,264,tutor,"Yes, okay. So in that I think it was £2.65, can you see? [unclear]",00:35:20
+agoklck,265,tutor,"OK, cool. Can you go ahead and work this out on the slide, please?",00:35:32
+agoklck,266,student,"Yeah. So then there's— so if we do the £2 and 2 pence, then it will be 200— wait— and 25, because when we add that one together. Good job.",00:35:37
+agoklck,267,student,"So then we do the bottom one. So then it'll be 500 in pens, and then I'll do the takeaway sign.",00:36:01
+agoklck,268,tutor,"So can we take a closer look? Are we doing the subtraction, column subtraction correctly?",00:36:16
+agoklck,269,student,"Oh wait, adding. [unclear]",00:36:22
+agoklck,270,tutor,Should we be adding? To figure out the change?,00:36:26
+agoklck,271,tutor,Can you check how the numbers are placed? [unclear] The larger number go at the bottom.,00:36:30
+agoklck,272,student,"Oh yeah, I forgot about that one.",00:36:40
+agoklck,273,tutor,"Okay, cool. So...",00:36:43
+agoklck,274,student,"And then take away. Take away. We do it. So then we can't do that, so we go to the tens, but we can't do that either because it's a zero. So then we take away, that becomes a 4. [unclear]",00:36:56
+agoklck,275,tutor,"Okay, and then this becomes a 10. But then we still can't add the first one. So then we have to go back to the 10, take this out, and 10 take away 1 equals 9. So then this would become a 9, and this would become a 10. So then take 10 take away 5 equals 5. [unclear]",00:37:21
+agoklck,276,student,And then 9 take away 2 equals 7. And then 4 take away 2 again will be 2.,00:37:52
+agoklck,277,tutor,"Yes, there you go. So how much change will that be?",00:38:13
+agoklck,278,student,275.,00:38:19
+agoklck,279,tutor,"Okay, so shall we type the answer in pounds and pence, Tobias? How will you do it?",00:38:19
+agoklck,280,student,"Hmm, pounds and pence, then it'll be 2— no, the pound sign first, and then 2 pounds and [unclear]",00:38:27
+agoklck,281,student,75p.,00:38:27
+agoklck,282,tutor,"Yes, there you go. It's £2.75. I'm really very happy and proud on how you were able to work this out independently. Outstanding effort on this slide, Tobias. All right. So there you go with your next big sticker for working it out. How about question B? Can you read it out for me? [unclear]",00:38:27
+agoklck,283,student,So it says Miss Hall buys a milkshake for £2.55. She pays with the following,00:39:09
+agoklck,284,background,"£2 and £2. That will make £4. So then, how much change will she receive?",00:39:20
+agoklck,285,tutor,"So in order to figure this answer, what do you think you will have to do, Tobias? The same thing that we did but like with different numbers.",00:39:29
+agoklck,286,tutor,"Okay, you can just tell me the method, what you should be doing.",00:39:36
+agoklck,287,student,"Okay, so we do 55, take away 200, so then...",00:39:41
+agoklck,288,tutor,So why should you take away 55 from 200?,00:39:50
+agoklck,289,student,"Oh wait, we add them together. And then it will be 4... Down. [unclear]",00:39:53
+agoklck,290,student,So why would it be 4 down?,00:40:07
+agoklck,291,tutor,"Because when we added a 2-pound and another 2-pound, it will make 4.",00:40:09
+agoklck,292,student,So will it be 4 over here?,00:40:16
+agoklck,293,tutor,"Oh wait, 400.",00:40:22
+agoklck,294,student,"Amazing, it's going to be 400.",00:40:24
+agoklck,295,tutor,And this will go at the top because it's the biggest.,00:40:26
+agoklck,296,student,"Yes, amazing. So what operation will you use?",00:40:29
+agoklck,297,student,[unclear] Take away.,00:40:32
+agoklck,298,tutor,"Exactly. You will have to subtract. All right. Good job in taking me through how you will work out question B. So since we're running out of time, it's good that you told me what you will be doing over here. All right. So that is the correct method. You basically will have to subtract 255 pounds from 400 pounds. All right. So there you go with your next quick sticker, Tobias, in working this out and giving it a try.",00:40:37
+agoklck,299,tutor,"Since we are running out of time, okay, you can complete this.",00:41:02
+agoklck,300,student,Yeah.,00:41:07
+agoklck,301,tutor,And then take a recap. [unclear],00:41:08
+agoklck,302,student,"So then 10 take away 5 is 5, like the same.",00:41:11
+agoklck,303,tutor,Yeah.,00:41:17
+agoklck,304,student,And then 9 take away 5 will be 4. And then 3 take away 2 will be 1.,00:41:18
+agoklck,305,student,One.,00:41:28
+agoklck,306,tutor,Then how much will your answer be?,00:41:30
+agoklck,307,student,"One pound. So, wait. One pound and [unclear] 45 pence.",00:41:32
+agoklck,308,tutor,"Yes, there you go. One pound and 45 pence. Amazing work, Tobias, in being able to work out both of the questions independently without",00:41:46
+agoklck,309,tutor,"Anyhow, I'm really very happy about the progress you're making. So can you take me through all what we learned in the lesson today? So what do you think we learned on the Your Turn part?",00:41:54
+agoklck,310,student,So I think we have learned about how to count coins and how to add and subtract. [unclear],00:42:06
+agoklck,311,tutor,Yes.,00:42:26
+agoklck,312,student,20p.,00:42:26
+agoklck,313,tutor,"So when we had to figure out the cost of the new game, what did we do? How did we use the number line to help us out?",00:42:26
+agoklck,314,student,By counting how much pounds that would be when the next number of 1 and then,00:42:37
+agoklck,315,student,"After £1, it's £2.",00:42:49
+agoklck,316,tutor,Mm-hmm. So how did we get £30.07 over here?,00:42:50
+agoklck,317,student,By— after £1 will be £2. So then at the end will be £9 because he paid with £9.,00:43:00
+agoklck,318,tutor,Okay. So how did we get £30.30 over here?,00:43:09
+agoklck,319,student,"We get 30 pence from... because if it's like... if we put it into pence, then it will turn into 30 when we add and subtract.",00:43:15
+agoklck,320,tutor,How is that possible?,00:43:37
+agoklck,321,student,"Oh wait, uh, we not [unclear] when we add and subtract.",00:43:40
+agoklck,322,tutor,"So we got 170 pence over here, and how much should we get over here?",00:43:48
+agoklck,323,student,"Uh, we will get—",00:43:54
+agoklck,324,tutor,We got 200 pence. So what is the difference between 170 to 200?,00:44:00
+agoklck,325,student,"That it's bigger, it's a bigger number.",00:44:06
+agoklck,326,tutor,How much is the value?,00:44:09
+agoklck,327,student,"So the value is... [unclear] Yeah, 40 pence.",00:44:13
+agoklck,328,tutor,Then how did we get 7 pounds over here?,00:44:18
+agoklck,329,student,"So 7 pounds, we got that when we turned that into pence, and then—",00:44:22
+agoklck,330,tutor,"Did we turn it into pence here, Tobias? We basically counted on from £2 to £9. Do you remember? We counted on from 2 to 9 to get to 7.",00:44:33
+agoklck,331,student,Oh yeah.,00:44:49
+agoklck,332,tutor,"So that is how we got £7 here, and we got 30 pence over here. And when we had to figure out the change values on both of the questions, what did we do? What operation did we use?",00:44:50
+agoklck,333,student,We use the full method.,00:45:01
+agoklck,334,tutor,"What operation did we use, addition or subtraction?",00:45:03
+agoklck,335,student,"Oh, subtraction.",00:45:06
+agoklck,336,tutor,"Exactly, we used subtraction. Good job in being able to take me through all what we learnt in the lesson today. So there you go with your final [UNCLEAR]. Tobias did a very good job in paying good attention and also trying your best throughout. Okay, keep up your good work and I'll meet you the next time, okay?",00:45:08
+agoklck,337,student,Okay. Bye.,00:45:26

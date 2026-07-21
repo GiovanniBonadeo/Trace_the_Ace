@@ -1,0 +1,160 @@
+session_id,utterance_id,role,content,timestamp
+kbplnfq,0,tutor,Hello.,00:00:00
+kbplnfq,1,background,[unclear],00:00:00
+kbplnfq,2,student,Hello.,00:00:00
+kbplnfq,3,tutor,"Can you hear me clearly, Soren?",00:00:01
+kbplnfq,4,student,Yeah.,00:00:04
+kbplnfq,5,tutor,"Okay, that's great. So how are you doing, Soren?",00:00:05
+kbplnfq,6,tutor,"Good. Good. Okay, what did you learn at school today?",00:00:12
+kbplnfq,7,student,Uh... uh... [unclear],00:00:16
+kbplnfq,8,tutor,Uh-huh. Okay. So let's get started. Today we are going to start with the,00:00:21
+kbplnfq,9,background,partitioning numbers up to 10 million. Okay? We have a question over here. Could you please answer it? [unclear],00:00:28
+kbplnfq,10,tutor,"Okay, that's correct. All right, so what do you understand by the term partitioning? [unclear]",00:00:57
+kbplnfq,11,tutor,"It means breaking down a number into smaller values. Okay, here we go. Could you please read this out? Read it.",00:01:09
+kbplnfq,12,tutor,Did you say [UNCLEAR]?,00:01:33
+kbplnfq,13,student,"Yes, please. Partitioning is where we split the numbers into smaller parts.",00:01:33
+kbplnfq,14,tutor,Mm-hmm. They have provided a large number in here and expect us to partition this into 5 values. Could you please fill in these 2 blanks?,00:01:41
+kbplnfq,15,tutor,"Okay, so one of the easiest way of partitioning a number is breaking down the number, breaking down the digits based on its values. So the 2 belongs to the millions column, so the value of which is 2 million. But then, that isn't the only way of partitioning. We can also partition in different ways. Can you go through this? And let me know whether they have partitioned the number correctly. [unclear]",00:02:22
+kbplnfq,16,tutor,Do you think that they partitioned these two numbers?,00:03:05
+kbplnfq,17,student,Yeah. First one is good. And what about the bottom one? [unclear],00:03:09
+kbplnfq,18,tutor,"Yes, it's—",00:03:15
+kbplnfq,19,tutor,"Okay, all are good. So yeah, they have shown how else we could partition this number over here. So all these add up to the larger number, 2,302,040. So good job in answering these questions, Soren. Let's move forward. This is the [unclear] slide, hence I will be doing— we are going to have a look on this Gantt chart. Have you worked with such categorical charts before, Soren?",00:03:37
+kbplnfq,20,student,[unclear],00:04:05
+kbplnfq,21,tutor,"So this chart doesn't stop from here. It just keeps on continuing because the value of numbers doesn't stop at a point. Yeah, so it can be even lesser than this. So what could be lesser than 0.1? And if I add another row below that, it would be 0.01. Okay, so what I'm trying to show you is the Catechnot chart is not limited only to these numbers. Okay, so what is shown in a Catechnot chart? So unlike a place value chart, in a Catechnot chart, this shows the value of all 9 digits. So when you move up the Catechnot chart, what happens to the numbers, Soren?",00:04:11
+kbplnfq,22,student,[unclear]...comes by 10.,00:04:56
+kbplnfq,23,tutor,"Yes, it's bigger by 10. And what happens when you move down the categorical chart?",00:05:00
+kbplnfq,24,student,[unclear],00:05:06
+kbplnfq,25,tutor,"Exactly, the numbers get smaller by 10. So this time they expect us to highlight the values of these digits in the categorical chart. So let's start with digit 2. So it belongs to the millions column. Do I have 2 million in here?",00:05:06
+kbplnfq,26,student,Yeah.,00:05:27
+kbplnfq,27,tutor,"So let's highlight it. So I'm going to draw a box around the number. Okay, go ahead. All right, what is the value of this digit over here?",00:05:28
+kbplnfq,28,student,"500,000.",00:05:39
+kbplnfq,29,tutor,"And do we have 500,000 in the Gattic Nut Chart?",00:05:40
+kbplnfq,30,student,Yeah.,00:05:43
+kbplnfq,31,tutor,So that's the difference between a Gattic Nut Chart and a Place Value Chart.,00:05:45
+kbplnfq,32,tutor,"All the values are provided. 8,000. [unclear]",00:05:48
+kbplnfq,33,tutor,"Okay, good answering over there, Soren. So done with this slide. Let's continue with the slide. Could you do the same for the static [UNCLEAR]? [unclear]",00:06:23
+kbplnfq,34,tutor,"It seems like you haven't highlighted anything in these two rows, right? Why is that? [unclear]",00:07:24
+kbplnfq,35,tutor,"Exactly. So there are no values in the thousands and ones column, hence there's nothing to be highlighted in these two rows. Wonderful understanding there, Soren. Let's continue with this question. Again, they expect you to partition this [unclear]",00:07:39
+kbplnfq,36,tutor,"Okay, there's only one black, but there's two digits to be covered. What are you going to do?",00:08:11
+kbplnfq,37,student,Um... [unclear],00:08:19
+kbplnfq,38,tutor,"There's an account partition 24, there's only one box. Okay, so what would be the value in here, Soren?",00:08:25
+kbplnfq,39,student,20.,00:08:39
+kbplnfq,40,tutor,What about the number 4?,00:08:39
+kbplnfq,41,student,There's no extra boxes for it.,00:08:42
+kbplnfq,42,tutor,"Okay, but then they haven't provided us an extra box, right? What are we going to do this time? [unclear]",00:08:44
+kbplnfq,43,tutor,"Do you remember we did such a similar thing in here as well? Here, of course, we partition the digits one by one. But when can you see in here? At these instances, they have put the value of both the digits together. So when it comes to partitioning, there's a lot of different ways of partitioning. Yeah, so let's try to put the value of all these digits together in here, Soren. Shall we? Because there's only one [UNCLEAR]. Exactly, good understanding, Soren. Let's continue with these questions to get a better understanding.",00:08:57
+kbplnfq,44,student,7 million plus,00:08:57
+kbplnfq,45,tutor,"Okay, there you go. Yes, that is correct. Continue with the next one, please. [unclear] All right, Soren. So done with partitioning these two larger numbers too. Could you please read out this number for me, Soren?",00:10:10
+kbplnfq,46,student,"3,561,000. [unclear]",00:10:34
+kbplnfq,47,tutor,Okay. The last question. Okay. So what is the difference between this question and this question?,00:10:44
+kbplnfq,48,student,I'm not adding— I'm adding the numbers to get that answer.,00:11:04
+kbplnfq,49,tutor,"Exactly. Here, of course, you have to partition the values, break it down into small enough. Here, you have to add the numbers, right, to work out the larger value, the sum of it. Okay, that was a good explanation there, and your answer is also correct, Soren.",00:11:10
+kbplnfq,50,tutor,"So we had a look on how we can partition numbers up to 10 million by doing this lesson. Let's continue with a new topic now. [unclear] This time we are going to do adding and subtracting multiples of 10. What are multiples of 10, Soren?",00:11:29
+kbplnfq,51,tutor,Can you give me some examples?,00:11:56
+kbplnfq,52,student,[unclear] anything that's in the tens.,00:11:59
+kbplnfq,53,tutor,"In the tens times table, that's correct. We got a question in here. [unclear]",00:12:05
+kbplnfq,54,tutor,Not always.,00:12:28
+kbplnfq,55,student,Mm-hmm.,00:12:33
+kbplnfq,56,tutor,Okay.,00:12:36
+kbplnfq,57,student,Okay.,00:12:37
+kbplnfq,58,tutor,"The options are either sometimes or always or never. Out of these three, which one do you pick?",00:12:38
+kbplnfq,59,tutor,It's not always. [unclear] Do you mean sometimes?,00:12:50
+kbplnfq,60,student,"Can it be, is it just this question or any questions?",00:12:57
+kbplnfq,61,tutor,In any instance.,00:13:03
+kbplnfq,62,student,If any questions. [unclear],00:13:07
+kbplnfq,63,tutor,Maybe sometimes true? Always or never true?,00:13:15
+kbplnfq,64,student,Sometimes.,00:13:23
+kbplnfq,65,tutor,"Sometimes, that is correct. Okay, but in this instance, what is the answer for this addition problem?",00:13:24
+kbplnfq,66,tutor,"Okay, so seems like in this instance only one digit is changing when we add a thousand, right? So you are telling it won't be the same always, right? It will be the same only sometimes. So could you give me an example where more than one digit changes when you add a thousand?",00:13:39
+kbplnfq,67,student,"Um, like [unclear]",00:14:01
+kbplnfq,68,tutor,"Okay, there you go. Exactly. If it is a 9, that means when you add a thousand, even the ten thousand digit will also change. Brilliant up there, Soren. [unclear] Okay, let's continue with the slide. Could you please read this out?",00:14:09
+kbplnfq,69,tutor,Let's explore what happens when we add any power of 10 to a number. [unclear],00:14:28
+kbplnfq,70,student,What are powers of 10?,00:14:34
+kbplnfq,71,tutor,Anything in tens multiple.,00:14:36
+kbplnfq,72,student,"Okay, is 20 a power? Is it a result of a power of 10?",00:14:39
+kbplnfq,73,tutor,"Yeah, because 10 times 2.",00:14:45
+kbplnfq,74,student,"Okay, so 20 is a multiple of 10. How do you see seen this kind of numbers, like 10 to the power 2, 10 to the power 3? Have you seen this kind of numbers before, Soren?",00:14:48
+kbplnfq,75,student,[UNCLEAR],00:14:48
+kbplnfq,76,tutor,"So those are actually powers of 10. Okay, so if we expand this, this is how it",00:15:06
+kbplnfq,77,background,"10 multiplied by 10 multiplied by 10. Okay, can you see there's 3 tens in here getting multiplied into each other? So this is a power of 10. Okay, so that's the difference between a power and a multiple of 10. Okay, are you clear so far?",00:15:13
+kbplnfq,78,student,Yeah.,00:15:31
+kbplnfq,79,tutor,"So powers of 10 are 10 times 1 is 10, 10 to the power— 10 to the power 2, that is 10 times 10 is 100, and 10 to the power 3, 10 times 10 times 10 is 1,000. These are some examples of powers of 10. Okay, are you clear with what are multiples of 10 and what are powers of 10?",00:15:32
+kbplnfq,80,student,Yeah.,00:15:55
+kbplnfq,81,tutor,"Okay, let's not go into in-depth understanding onto this because we are not going to cover this in this chapter. Okay, let's continue with these questions. Now, Soren, let's write the number that is shown in here in [UNCLEAR].",00:15:57
+kbplnfq,82,tutor,[unclear],00:16:17
+kbplnfq,83,tutor,Please check your answer.,00:16:17
+kbplnfq,84,tutor,I don't see any 20s in here.,00:16:32
+kbplnfq,85,tutor,"131,300. Wonderful answer. Okay, continue with the same in here. [unclear]",00:16:45
+kbplnfq,86,tutor,"So which columns have changed, Soren?",00:17:13
+kbplnfq,87,student,"The million, the million and the thousand.",00:17:17
+kbplnfq,88,tutor,"Millions and thousands. Okay, could you please write the column names in here? [unclear]",00:17:22
+kbplnfq,89,tutor,We can get thousands here on the next room.,00:17:38
+kbplnfq,90,student,Okay.,00:17:42
+kbplnfq,91,tutor,So we got another question. [unclear] [unclear],00:17:45
+kbplnfq,92,tutor,"Okay, did you do the addition mentally, Soren?",00:18:08
+kbplnfq,93,student,Yeah.,00:18:12
+kbplnfq,94,tutor,"Okay, I appreciate all your efforts in the end. Let's continue with the next slide. Follow-me part will be done by the Tutor, then you can answer this. They have given some counters, some dots to represent a number. So the number is 3, 2, 6, 1, 5, 3, [UNCLEAR]. So the number is— could you please read out this number for me? Could you please read this number for me?",00:18:13
+kbplnfq,95,student,[unclear],00:18:13
+kbplnfq,96,tutor,Daddy asked me a question.,00:18:55
+kbplnfq,97,background,"Yes, Soren, is everything okay there?",00:19:02
+kbplnfq,98,tutor,"Yes, what was the question?",00:19:06
+kbplnfq,99,background,"Okay, oh good. So yeah, could you please read this number for me?",00:19:07
+kbplnfq,100,tutor,"3,261,537.",00:19:11
+kbplnfq,101,background,Exactly.,00:19:16
+kbplnfq,102,tutor,"So they have provided another number in here, and they are asking which columns have changed. So I can see the column thousands and the column tens has changed. So of these two columns, which column has increased and which column has decreased? So the thousands has reduced into zero, and the hundreds has increased into [UNCLEAR]. Sorry, the tens has increased [UNCLEAR]. So the thousands column has reduced and the tens column has increased. Thank you for answering this question. Do you have any questions in here, Soren? If not, you can start with the autumn part.",00:19:17
+kbplnfq,103,student,Yeah. [unclear],00:19:17
+kbplnfq,104,tutor,[UNCLEAR] [unclear],00:19:17
+kbplnfq,105,tutor,[unclear] [unclear],00:19:17
+kbplnfq,106,tutor,"Okay. All right, Soren. Good job in answering this. Let's continue with some more questions.",00:20:55
+kbplnfq,107,tutor,You are going to put all these digits together to make the stamp.,00:21:01
+kbplnfq,108,tutor,"Good understanding of the question. Continue with these. What would be 16,554 Jacoby 100? [unclear]",00:21:28
+kbplnfq,109,tutor,Did you do these calculations mentally?,00:22:40
+kbplnfq,110,student,[UNCLEAR],00:22:40
+kbplnfq,111,tutor,"Okay, that shows you are very confident with mental calculations on the board. Good job, keep it up. And the last question of this lesson. [unclear]",00:22:45
+kbplnfq,112,tutor,You can provide the answer.,00:23:12
+kbplnfq,113,student,So can I just do this? Can I do this?,00:23:20
+kbplnfq,114,tutor,Yes.,00:23:24
+kbplnfq,115,student,Okay. [unclear],00:23:24
+kbplnfq,116,tutor,"Okay. All right. That is correct, Soren. So, so he added 20,000 to his number, right? So could you tell me which columns changed when he did the addition?",00:23:48
+kbplnfq,117,student,hundred thousand and ten thousand.,00:23:48
+kbplnfq,118,tutor,"Yes, all right. That is correct, Soren. With that, we have completed this topic too. Let's continue with another lesson now. Have you done rounding at school before, Soren? [unclear] Rounding numbers?",00:23:48
+kbplnfq,119,student,Yes.,00:24:23
+kbplnfq,120,tutor,"Okay, so we need to round any whole number.",00:24:25
+kbplnfq,121,tutor,We have a question here. Okay. Could you tell me whether he has rounded the number up or down?,00:24:29
+kbplnfq,122,student,Up. [unclear],00:24:46
+kbplnfq,123,tutor,"Okay. And with that,",00:24:48
+kbplnfq,124,tutor,"Let's start with doing some questions. Let's look at rounding a number to the nearest 1,000 and the nearest 100,000. So they have given us a number in here and written it over here. [unclear] Here we go. First of all, they expect us to round the number to the nearest thousandths. What are the two multiples of 1,000 that is very closer to this number, Soren? [unclear]",00:24:54
+kbplnfq,125,tutor,That comes before the number. What comes after the number?,00:25:30
+kbplnfq,126,student,"5,257,000.",00:25:35
+kbplnfq,127,tutor,Exactly. Could you please write it on that line?,00:25:38
+kbplnfq,128,student,Yeah.,00:25:41
+kbplnfq,129,tutor,"Now, Soren, if they ask you to round this number to the nearest 1,000, what would be your answer? This or this?",00:25:53
+kbplnfq,130,student,The first one.,00:26:02
+kbplnfq,131,tutor,Why do you think so?,00:26:05
+kbplnfq,132,student,Because... [unclear],00:26:07
+kbplnfq,133,student,[unclear],00:26:18
+kbplnfq,134,tutor,"Yes. So the digit next to the thousands column is 1. If it is 1, will you be rounding it up or down?",00:26:18
+kbplnfq,135,student,Down.,00:26:29
+kbplnfq,136,tutor,"Down. Excellent understanding. Continue with the next question, please. [unclear]",00:26:31
+kbplnfq,137,tutor,So what should be your answer? [unclear],00:26:42
+kbplnfq,138,tutor,"Go round this number to the nearest 100, 100,000. What should be your answer, Soren?",00:27:16
+kbplnfq,139,student,"1,300,000.",00:27:16
+kbplnfq,140,tutor,"Exactly. So to start, you have to round the number up. Yes, we got up 6 in here. Uh, we got a 5 in here. All good. So now, Soren, uh, we have completed the first slide. Let's continue with the following [unclear] section. They have provided me a number in here and expecting me to round it to the nearest million. Let's write down the multiples between which the number is first of all here. So I'm dealing with millions this time. So my number starts with 1 million, so that would be the first multiple before the provided number. What do you think the next multiple should be?",00:27:16
+kbplnfq,141,student,"Uh, 2 million.",00:28:10
+kbplnfq,142,tutor,"2 million, that is correct. As I'm rounding this number to the nearest million, I need to look at the digits next to the millions column, which is a 7. So I think I need to round it down. Am I correct? [unclear]",00:28:13
+kbplnfq,143,tutor,What do you think?,00:28:28
+kbplnfq,144,student,"No, because the number is above 5.",00:28:29
+kbplnfq,145,tutor,Exactly. What if the number is 5?,00:28:34
+kbplnfq,146,student,It goes up.,00:28:38
+kbplnfq,147,tutor,"Exactly. Okay, wonderful understanding of the concept again. 5 or more, we round up. Hence, my answer is 2. Yes. Let's do the same with the next question too. They have given me a number. It's I think we need to round to the nearest ten thousandths. So in the ten thousandths column, we have 5. So I think the previous multiple would be 90,000. Soren, what do you say?",00:28:39
+kbplnfq,148,student,[unclear],00:29:05
+kbplnfq,149,tutor,No? Then what would be the previous multiple?,00:29:07
+kbplnfq,150,student,"Um, 880,000?",00:29:10
+kbplnfq,151,student,"Well, next. [unclear] 800,000.",00:29:19
+kbplnfq,152,tutor,"Okay, alright. Actually, Soren, the mistake over here is I have missed the digits in the millions and hundreds column. Did you notice?",00:29:26
+kbplnfq,153,student,Yeah.,00:29:37
+kbplnfq,154,tutor,"Yeah, so that was a mistake there. So that's an easier area where most of the students go wrong if they get the digits before it. So 1,790,000 is the multiple before. And what would be the multiple after, Soren?",00:29:38
+kbplnfq,155,student,"1,800,000.",00:29:54
+kbplnfq,156,tutor,"Exactly. Okay, that shows you are confident with the questions. So now, as we are rounding to the nearest 10,000, I have a 7 in here. Am I going to round it up or down? [unclear] [unclear] My answer would be 1,800,000, the multiple which comes after. So you did an exceptional work in here, Soren. You identified where I went wrong, corrected my answers, and provided the correct answers. Okay, and let's continue with these questions in our next session. Soren, have a wonderful day. See you. Bye.",00:29:58
+kbplnfq,157,tutor,[unclear],00:30:37
+kbplnfq,158,tutor,[unclear],00:30:38

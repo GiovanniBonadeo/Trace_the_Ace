@@ -1,0 +1,326 @@
+session_id,utterance_id,role,content,timestamp
+isxoxiz,0,background,[unclear],00:00:00
+isxoxiz,1,tutor,Hello.,00:00:00
+isxoxiz,2,student,Hi.,00:00:01
+isxoxiz,3,tutor,"Hi, how are you?",00:00:02
+isxoxiz,4,student,I'm good.,00:00:05
+isxoxiz,5,tutor,Great. How has your day been so far?,00:00:06
+isxoxiz,6,student,Good.,00:00:09
+isxoxiz,7,tutor,Okay. Am I too loud?,00:00:10
+isxoxiz,8,student,No.,00:00:14
+isxoxiz,9,tutor,Okay. Just let me know if I'm too loud. Okay?,00:00:16
+isxoxiz,10,student,Okay.,00:00:19
+isxoxiz,11,tutor,"Alright, so today you will learn about rounding numbers to the nearest 10,000 and 100,000. Have you heard about this topic before?",00:00:22
+isxoxiz,12,student,Yes.,00:00:35
+isxoxiz,13,tutor,"Okay, interesting. So let's see if you could work out this learning goal question here for me.",00:00:37
+isxoxiz,14,student,Okay. [unclear],00:00:43
+isxoxiz,15,student,"Well, 255,000 [unclear] so that would be 50,000.",00:00:49
+isxoxiz,16,tutor,Okay. Would you type your answer here for me?,00:01:02
+isxoxiz,17,student,"Do I put the 200,000 in front?",00:01:06
+isxoxiz,18,tutor,OK. [unclear],00:01:20
+isxoxiz,19,student,"Alright, can you explain how you worked this out?",00:01:22
+isxoxiz,20,background,"I looked at the digit before the ten thousands and 5 or more you round it upwards, 4 or less you round it downwards.",00:01:28
+isxoxiz,21,tutor,"OK. In case if I asked you to work out this prior learning question, how would you work this out?",00:01:38
+isxoxiz,22,student,"[unclear] It would be 3,600 and 3,700.",00:01:45
+isxoxiz,23,tutor,"Okay, you were close with your answer there. I'd like to give you a big thumbs up for the brilliant explanation.",00:01:59
+isxoxiz,24,tutor,"Now let's move on to the next page. All right, over here— [unclear]",00:02:08
+isxoxiz,25,student,Yes?,00:02:21
+isxoxiz,26,tutor,"All right, so over here I would be working out the follow me part.",00:02:22
+isxoxiz,27,student,Yes?,00:02:29
+isxoxiz,28,tutor,I want you to watch carefully to how I work this out so that when it comes to your turn I would like you to work this out on your own. Do we have a deal on that?,00:02:30
+isxoxiz,29,student,Yeah.,00:02:40
+isxoxiz,30,tutor,"Alright. So over here it says, let's round 976,532 to the nearest 100,000. The question A says, estimate the position of 976,000 532 on the number line. So here I have my number line. Okay.",00:02:42
+isxoxiz,31,student,Yeah.,00:03:09
+isxoxiz,32,tutor,"So what I'm supposed to do over here is estimate the position, means to just randomly say where this number could go on this number line. So I cannot figure out where this number would go if I don't find out the starting number and the end of our number line, right?",00:03:10
+isxoxiz,33,student,Yeah.,00:03:30
+isxoxiz,34,tutor,"Exactly. So to make it easy for me, what I'm gonna do is they have told us previous multiple of 100,000. So to figure that out, I know that this number is a 6-digit number, right?",00:03:30
+isxoxiz,35,student,Yeah.,00:03:44
+isxoxiz,36,tutor,"Since it is a 6-digit number, I'm gonna think of the multiples of 100,000 because 100,000 is a 6-digit number, right?",00:03:45
+isxoxiz,37,student,"Yeah. Because we know that from 100,000 only 6-digit numbers comes.",00:03:56
+isxoxiz,38,student,Yeah.,00:04:03
+isxoxiz,39,tutor,"So therefore, my previous multiple of 100,000 would be— since I know this 976,532 starts off with the 900, right?",00:04:04
+isxoxiz,40,student,Yes.,00:04:15
+isxoxiz,41,tutor,"So therefore, my previous multiple of 100,000 would be 900,000. Yeah.",00:04:17
+isxoxiz,42,tutor,"And the next multiple of 100,000, since I know that this number is going to be between two numbers, so the first number is going to be 900,000 and the other one would be 1 million. Am I correct?",00:04:26
+isxoxiz,43,student,Yeah.,00:04:40
+isxoxiz,44,tutor,"So now since I figured out the first number and the last number of the number line, still something is missing. Very odd for me to— [unclear]",00:04:42
+isxoxiz,45,student,You're lagging.,00:04:51
+isxoxiz,46,tutor,"Exactly. So what I would do is I would see the middle number. So what do you think would be the halfway point of these two digits? So I know the middle number between 900,000 and 1 million would be 50,000, right?",00:04:56
+isxoxiz,47,student,Yes.,00:05:14
+isxoxiz,48,tutor,"So that would be 950,000.",00:05:14
+isxoxiz,49,tutor,"So 900,000, 50,000. So that would be the halfway point. So since I know this is the halfway point and the value of it, I can easily know where this number would go. So if this is 50, this is going to be 60, 70. So 76 would be somewhere in between 70 and 80, right?",00:05:18
+isxoxiz,50,student,Yes.,00:05:38
+isxoxiz,51,tutor,So therefore I would just mark down somewhere over here that this number would come somewhere over here. [unclear],00:05:39
+isxoxiz,52,student,Yes.,00:05:47
+isxoxiz,53,tutor,"All right. So the next question says, to round to the nearest 100,000, we need to look at the digit in the 10,000 column. That we already know, right?",00:05:48
+isxoxiz,54,student,Yes.,00:05:58
+isxoxiz,55,tutor,"Whenever they ask us to round it to the nearest 100,000 or 1,000, we always look into the number right next to it. So since they're talking about 100,000, I would look at the ten-thousands column, which is going to be a 7. So the digit in the ten-thousand place is going to be the digit 7. Since 7 is more than 5, I'm going to round it up by adding 1 to the hundred-thousands column, where my number would be closer to 1 million.",00:05:59
+isxoxiz,56,student,Yes.,00:06:33
+isxoxiz,57,tutor,"All right, so do you have any doubts on how I work this out?",00:06:34
+isxoxiz,58,student,"Yeah, not really nice.",00:06:38
+isxoxiz,59,tutor,"Alright, okay, so now let's see how you could work out the [unclear] part over here for me.",00:06:41
+isxoxiz,60,student,Pardon?,00:06:47
+isxoxiz,61,tutor,Let's see how you could work out the [unclear] part here for me.,00:06:48
+isxoxiz,62,student,"Okay, so round 232,256 to the nearest 100,000.",00:06:53
+isxoxiz,63,student,"Estimate the position of 272,256 on the number line. So the previous multiple of 100,000 is 200,000, and the next multiple of 100,000 [Speaker:Chloe- Faye]...100,000 is 300,000. And then on the number line, it says, because that's the middle, so it would be 2,000... [UNCLEAR] [Speaker:Chloe- Faye]...100,000 is 300,000. And then on the number line, it says, because that's the middle, so it would be 2,000... [unclear] [unclear] And on the number line, it would be— because 5, 6, 7, so 72 would be right there.",00:07:07
+isxoxiz,64,tutor,"Okay, alright.",00:08:18
+isxoxiz,65,tutor,"OK, go on.",00:08:22
+isxoxiz,66,student,"And it would be there because that is the closest to the 270,000, which is there. [unclear]",00:08:25
+isxoxiz,67,tutor,Exactly.,00:08:40
+isxoxiz,68,student,"And then if we go on to the next number, the digit in the 10th thousands place is 7.",00:08:47
+isxoxiz,69,tutor,OK.,00:08:59
+isxoxiz,70,student,"So I write that there and then 272,256 is closer to 300,000 so I would write that there. [unclear]",00:09:01
+isxoxiz,71,tutor,"OK. Alright. Can you explain me how you worked out this question over here, the question C?",00:09:20
+isxoxiz,72,student,Because I looked at the thousands and I looked at the ten-thousands place and I saw that it was a [unclear] so I rounded the hundredths place,00:09:26
+isxoxiz,73,student,"One more, which is 300,000, so all them digits would turn into a zero.",00:09:44
+isxoxiz,74,tutor,"Exactly. In case, okay, let's say in case instead of 7 this number was a 4, then what do you think your answer would be?",00:09:51
+isxoxiz,75,student,"200,000.",00:10:04
+isxoxiz,76,tutor,"Okay, and why?",00:10:07
+isxoxiz,77,student,"Because 4 is less than 5, so it would round So it would stay the same.",00:10:08
+isxoxiz,78,tutor,"Exactly, and the rest of the numbers would be a [UNCLEAR], right? [Speaker:Chloe- Faye] Yeah.",00:10:15
+isxoxiz,79,tutor,Exactly. I would like to give you a big high five there for the awesome effort put in for working this out.,00:10:19
+isxoxiz,80,student,Thank you.,00:10:27
+isxoxiz,81,tutor,"You're most welcome. Alright, so now let's move on to the last question over here. Here you have to work this out on your own. Okay, let's see how you work it out for me.",00:10:28
+isxoxiz,82,student,"Okay, so I",00:10:40
+isxoxiz,83,student,"So for the nearest thousand, I would look at this place chart and it says to the nearest thousand and I look at the thousands column. I look at the digit after it, so it would be just 780,000. 82,000. [unclear]",00:10:43
+isxoxiz,84,student,"Then the 10,000s is there and look at the digit after it and it would be 78,000. 780,000.",00:11:10
+isxoxiz,85,tutor,Mm-hmm.,00:11:26
+isxoxiz,86,student,"Then to the nearest 100,000s, I look at At the 10,000th place, it's more than 5, so I round that one up to 800,000, the new number. [unclear]",00:11:31
+isxoxiz,87,student,"Then with the next number, I'll do the exact same to the nearest thousand.",00:11:50
+isxoxiz,88,tutor,5. This one has— B has quite caught me out.,00:11:59
+isxoxiz,89,tutor,"Okay. It's kind of a little bit tricky, right?",00:12:04
+isxoxiz,90,student,Yeah.,00:12:10
+isxoxiz,91,tutor,"Okay, so let's see if you could give it a try. It's a bit challenging.",00:12:11
+isxoxiz,92,student,Yeah. I don't think I'll be able to get it without any help.,00:12:15
+isxoxiz,93,tutor,"Don't worry. But let's try, okay?",00:12:20
+isxoxiz,94,student,Mm-hmm.,00:12:25
+isxoxiz,95,tutor,Alright. Because the best thing of working out maths is to try it.,00:12:26
+isxoxiz,96,student,"So to the nearest thousand, would it be 3,100? No, 300,000 and one— 300,000 placeholder 1,000.",00:12:36
+isxoxiz,97,tutor,"Okay, you're very close, but can you explain me how you got that answer?",00:12:51
+isxoxiz,98,student,"Because I looked at the thousandths, kind of, I looked at the digit after it and I added one onto that, but it's 10. So I obviously added the one onto that, which is 10 again, so I added the one onto that.",00:12:56
+isxoxiz,99,tutor,So what would this digit turn into?,00:13:14
+isxoxiz,100,student,A 3.,00:13:17
+isxoxiz,101,tutor,And what happens to the rest of the numbers?,00:13:18
+isxoxiz,102,student,They turn into a zero.,00:13:21
+isxoxiz,103,tutor,"Okay, they turn into a placeholder. So how would your number look like?",00:13:22
+isxoxiz,104,student,"300,000.",00:13:28
+isxoxiz,105,tutor,"300,000. There you go. I'd like to give you an excellent focus there.",00:13:30
+isxoxiz,106,student,[unclear],00:13:36
+isxoxiz,107,tutor,"You're most welcome. All right, the nearest 10,000 now.",00:13:37
+isxoxiz,108,student,"Would it be the same? OK, why do you think it would be the same?",00:13:46
+isxoxiz,109,student,"Because if you add— if I'm in the thousands column and I add 1 into there, it would be a 0, so I add 1 onto there and it would be a 3.",00:13:53
+isxoxiz,110,tutor,"Exactly. Yes, you are right. And I would like to give you another big thumbs up there for the brilliant explanation.",00:14:07
+isxoxiz,111,student,Thank you.,00:14:15
+isxoxiz,112,tutor,You're welcome.,00:14:16
+isxoxiz,113,student,Would the last number be the exact same? [unclear],00:14:18
+isxoxiz,114,tutor,OK. Can you just tell me how?,00:14:23
+isxoxiz,115,student,"Because if I am looking in the 10,000s and it's 9 or more, so I add 1 onto there and that becomes a 3, and then all the other digits become a 0 placeholder.",00:14:27
+isxoxiz,116,tutor,"Okay, yes, you're right. [unclear] Okay, in case if I ask you to use this number, can you tell me where would this number be estimated in this number line? How would you show it to me?",00:14:45
+isxoxiz,117,student,"So I would look for the 7. So that's 5, 6, 7, and it would be there.",00:15:03
+isxoxiz,118,student,"So that's 7, and then 7,802 would be closer to there.",00:15:11
+isxoxiz,119,tutor,"Okay, but what do you think would be the answer over here?",00:15:28
+isxoxiz,120,student,"70,000.",00:15:33
+isxoxiz,121,student,"700,000.",00:15:37
+isxoxiz,122,tutor,"700,000. Would you type it down for me? Okay, that would be your previous multiple of 100,000. What do you think would be the next?",00:15:39
+isxoxiz,123,student,"800,000.",00:15:50
+isxoxiz,124,tutor,"Okay, so how did you figure out that this is gonna be over here? This number is gonna be [UNCLEAR]. [Speaker:Chloe- Faye] Because if this over here is a 7",00:15:52
+isxoxiz,125,student,"There is closer to the 8, so I thought to the 708,000.",00:16:02
+isxoxiz,126,tutor,"Because we know that if this is gonna be 750,000, you know, this is gonna be 60,000, 70,000, so this is somewhere closer to 80,000, right?",00:16:13
+isxoxiz,127,student,Yes.,00:16:25
+isxoxiz,128,tutor,"Okay, so If this is going to be 60 and this is going to be 70, where do you think this number would go?",00:16:26
+isxoxiz,129,student,I think it would go just... [unclear] I think I'll point an arrow.,00:16:35
+isxoxiz,130,tutor,Let's see if you figured out.,00:16:47
+isxoxiz,131,tutor,"Okay, you're very close. First, can you read this number here for me?",00:16:54
+isxoxiz,132,student,"782,009.",00:17:00
+isxoxiz,133,tutor,"Hmm, okay. So if this is 50,000, this is 60,000, this is 70,000, 80,000, 90, and 100, which is 800,000. So where do you think this 82,000 go?",00:17:03
+isxoxiz,134,student,[unclear],00:17:25
+isxoxiz,135,tutor,"Okay, why do you think it would go there now?",00:17:25
+isxoxiz,136,student,"Oh, because it's near the 8,000.",00:17:27
+isxoxiz,137,tutor,"Exactly, because it's passing 80,000, right?",00:17:32
+isxoxiz,138,student,Yes.,00:17:36
+isxoxiz,139,tutor,"It is passing the 80,000, but it is less than 90,000. So therefore it would be between the 80 and the 90. Is that clear?",00:17:37
+isxoxiz,140,student,Yeah.,00:17:46
+isxoxiz,141,tutor,Alright. I'd like to give you a big thumbs up there for the brilliant explanation and for working this out.,00:17:47
+isxoxiz,142,student,Thank you.,00:17:56
+isxoxiz,143,tutor,You're welcome. Now we have our last question for this chapter. Let's see how you could work this out for me.,00:17:57
+isxoxiz,144,student,"So, [unclear] thinking of a number, my mum says it's 10,000, it is 3,400. [unclear]",00:18:04
+isxoxiz,145,student,"350,000. When I add this to the next 10, 100,000, it is 400,000.",00:18:14
+isxoxiz,146,tutor,Can you give a number you could be thinking of?,00:18:20
+isxoxiz,147,student,"So right now I am thinking it is 349,000 because if you add the 1, it'd be",00:18:23
+isxoxiz,148,student,"3,500,000.",00:18:42
+isxoxiz,149,tutor,"350,000. Okay, would you mind typing your answer here for me?",00:18:43
+isxoxiz,150,student,Yes. [unclear],00:18:51
+isxoxiz,151,tutor,"All right, so since you got your answer here saying 349,000, I will give you a way how to check if your answer is correct or wrong. Okay?",00:18:53
+isxoxiz,152,student,Yeah.,00:19:06
+isxoxiz,153,tutor,"So let's see if you could work it out for me. Okay? So now what I want you to do is, since you figured out this answer, I want you to round this particular number which you got as your answer. Okay? 349,000. [unclear] You have to round it. Round to nearest The first one says 10,000, right?",00:19:06
+isxoxiz,154,student,Yeah.,00:19:36
+isxoxiz,155,tutor,"So we're going to round this number to the nearest 10,000.",00:19:37
+isxoxiz,156,student,Yes.,00:19:41
+isxoxiz,157,tutor,What do you think your answer would be over here?,00:19:43
+isxoxiz,158,student,"I think it would be [unclear] 350,000.",00:19:46
+isxoxiz,159,tutor,"350,000. So the same answer They're saying the same answer which Hockey is thinking of.",00:19:58
+isxoxiz,160,background,Yeah.,00:20:06
+isxoxiz,161,tutor,"Okay, when you round it to the nearest 100,000. So now we're going to round the same number to the nearest 100,000.",00:20:06
+isxoxiz,162,student,Yeah.,00:20:16
+isxoxiz,163,tutor,"Nearest 100,000. [unclear] Okay.",00:20:18
+isxoxiz,164,tutor,"Alright, can you explain me how you got this answer?",00:20:31
+isxoxiz,165,student,"I got that answer because if it is rounded— oh, it would be rounded to 300,000.",00:20:35
+isxoxiz,166,tutor,"Hmm, so therefore we got the first one correct when they asked us to round it to the nearest 10,000. We looked into the thousands column, which is a 9.",00:20:49
+isxoxiz,167,student,Yeah.,00:20:59
+isxoxiz,168,tutor,"Which is more than 5. You round it up by adding 1 to the ten thousands column, and you got 350,000, right?",00:21:00
+isxoxiz,169,student,Yeah.,00:21:08
+isxoxiz,170,tutor,"But when you round the same number to the nearest hundred thousand, [unclear] 300,000 because the digit right next to it was a lesser number, right?",00:21:10
+isxoxiz,171,student,Yes.,00:21:21
+isxoxiz,172,tutor,So then what do you think you could change? How would you change your number now? How would you change your final answer here?,00:21:22
+isxoxiz,173,student,"Well, I would change the 4 into a 5. So I would cross that one out and put 5 and cross the 9 out and turn that into a 0. Because then if you round it to— oh no, I'm still wrong.",00:21:29
+isxoxiz,174,tutor,"Um, why do you think you're wrong?",00:22:05
+isxoxiz,175,student,"Because if you round it to the nearest 10,000— [unclear] Oh no, I'm correct.",00:22:08
+isxoxiz,176,tutor,"Okay, why do you think you are correct?",00:22:17
+isxoxiz,177,student,Because zero— because if you round zero in— because you can't round— because so far the number stays the same. So if it's [unclear] and then it would be correct and that one would turn into a 4?,00:22:22
+isxoxiz,178,tutor,"Exactly. Yes, you are right. Because since it is a 0, if it is less than 0, the number would stay the same, right?",00:22:46
+isxoxiz,179,student,Yeah.,00:22:55
+isxoxiz,180,tutor,"And then when you round it to the nearest 100,000, since there is a 5 over here, you would round it up and it would give you 400,000, right?",00:22:56
+isxoxiz,181,student,"Yeah. [unclear] But since this number is already been given over here, yeah, is there any closer you can think of? Any number that is closer to 350,000?",00:23:03
+isxoxiz,182,student,[unclear],00:23:20
+isxoxiz,183,tutor,"Exactly, it could be 351,000 or it could be 352,000, 354,000.",00:23:21
+isxoxiz,184,tutor,Yeah.,00:23:31
+isxoxiz,185,student,"But it cannot go more than that because if it was 355,000, so when you round that up, it would go more, right?",00:23:32
+isxoxiz,186,tutor,"Yes, it would.",00:23:40
+isxoxiz,187,student,"Exactly. So we would go somewhere in between 350,000 to 354,000.",00:23:42
+isxoxiz,188,tutor,Yeah.,00:23:49
+isxoxiz,189,student,Is that clear?,00:23:50
+isxoxiz,190,tutor,Yeah.,00:23:51
+isxoxiz,191,student,"Now you can choose any of your answer, you can place it over here.",00:23:51
+isxoxiz,192,student,I would choose... [unclear],00:23:58
+isxoxiz,193,tutor,Alright. Okay.,00:24:05
+isxoxiz,194,student,Yeah.,00:24:08
+isxoxiz,195,tutor,Alright. Yay! We're done with this lesson. Do you have any doubts on this lesson?,00:24:09
+isxoxiz,196,student,No.,00:24:16
+isxoxiz,197,tutor,Alright. Okay. I would like to ask you one last question on this chapter. Okay? Can you tell me What are the two things that you will remember from this lesson that you learned today?,00:24:17
+isxoxiz,198,student,"That 300,000 added to the nearest 100,000 isn't actually 400,000, it is 300,000 because it isn't a 5. Because right here it isn't a 5, so you keep the number the same, not change that to a 400 there.",00:24:27
+isxoxiz,199,tutor,Exactly. And what else?,00:24:55
+isxoxiz,200,student,Always make [unclear] so you get the number correct so you can check your answers out.,00:25:01
+isxoxiz,201,tutor,"Exactly. When you get these type of questions, when you get these type of tricky questions, you can type your answer and you can go through the keywords that they have mentioned. So over here, the keywords were nearest 10,000 and nearest 100,000, and they've given us the values. Those were the clues that they gave us. So using those clues, you can figure out your answer. Is that clear?",00:25:12
+isxoxiz,202,student,Yes.,00:25:37
+isxoxiz,203,tutor,"Alright, so now let's move on. [unclear]",00:25:39
+isxoxiz,204,tutor,"Okay, give me a second. Can you see the slide?",00:25:41
+isxoxiz,205,student,Yeah.,00:25:50
+isxoxiz,206,tutor,"All right, comparing numbers with up to 2 decimal places. All right, we have another learning goal question. Let's see how you could work this out for me.",00:25:51
+isxoxiz,207,student,"So I would put these all in a line, um, near the— on the side where James's, Leo's, Beth's, and Pete's, and then I'd see which one's bigger and I would compare them, and whoever's is smaller— biggest, I would put in this gap right here.",00:26:03
+isxoxiz,208,tutor,"Okay, so Who do you think has jumped the furthest?",00:26:33
+isxoxiz,209,student,Right now I am thinking James or Katie.,00:26:39
+isxoxiz,210,tutor,"Okay, between those two, what do you think would be the highest?",00:26:45
+isxoxiz,211,student,Katie.,00:26:49
+isxoxiz,212,tutor,"Okay, why do you think Katie would be the one?",00:26:51
+isxoxiz,213,student,Because 2.4 [unclear] meters is smaller than 2.9 because 2.99 means 90... [unclear],00:26:55
+isxoxiz,214,tutor,"Yes, you're close.",00:27:14
+isxoxiz,215,student,"Or it could be [UNCLEAR]. [Speaker:Tutor] Okay, well, Why did you change your mind? Why do you think Leo would be the one who jumped the furthest?",00:27:19
+isxoxiz,216,student,Because he jumped 2.5— 50 metres. And I think that is the furthest.,00:27:31
+isxoxiz,217,tutor,"Okay, you were very close with your answer there. OK, but don't worry. OK? Shall we try out the prior learning question?",00:27:48
+isxoxiz,218,student,Yeah.,00:27:57
+isxoxiz,219,tutor,OK.,00:27:58
+isxoxiz,220,student,I think it is that one. [unclear],00:28:04
+isxoxiz,221,tutor,OK. Can you explain to me why you think that this number is larger than this one?,00:28:08
+isxoxiz,222,student,"Because it is 1.31, which is a bigger number than 62.",00:28:17
+isxoxiz,223,tutor,"Okay, because we realize that 1 is a whole number which is larger than the 0, right?",00:28:23
+isxoxiz,224,student,Yeah.,00:28:31
+isxoxiz,225,tutor,"Great. Okay, so now let's move on to the next page.",00:28:32
+isxoxiz,226,student,Okay.,00:28:37
+isxoxiz,227,tutor,"We're here. All right, I would like you to read this for me.",00:28:39
+isxoxiz,228,student,"When comparing decimals, it is important to understand the value of the digits and their relative size.",00:28:44
+isxoxiz,229,tutor,"Okay, what did you understand from this?",00:28:53
+isxoxiz,230,student,So that I can compare decimals and I think I will get it last because I [unclear] understand the value of the digits and their relative size.,00:28:57
+isxoxiz,231,tutor,"Yes, you're right. Would you like to give it a try for the first one?",00:29:15
+isxoxiz,232,student,OK.,00:29:20
+isxoxiz,233,tutor,OK.,00:29:21
+isxoxiz,234,student,"So for the first one, 1.2 is 1 whole and 20 tenths. [unclear]",00:29:21
+isxoxiz,235,tutor,Okay. All right. Could you explain me how did you get this answer?,00:29:36
+isxoxiz,236,student,Because 1 whole— because 1.2 has 1 whole and 20 tenths. [unclear],00:29:39
+isxoxiz,237,tutor,"Exactly. Because this is going to be a number that is smaller than the one whole number, which is before the decimal point, right?",00:29:49
+isxoxiz,238,student,Yeah.,00:29:58
+isxoxiz,239,tutor,Yes. How about this one?,00:29:59
+isxoxiz,240,student,"So 1.11 has 1 whole and 11 tenths. Oh, 1 tenth and 100.",00:30:06
+isxoxiz,241,tutor,"Okay, what made you change that 11 tenths to 1 whole?",00:30:21
+isxoxiz,242,student,Because I just realized that there was a hundred underneath.,00:30:28
+isxoxiz,243,tutor,"Yes, exactly, because we know that this 1 is in the ones column, right?",00:30:35
+isxoxiz,244,student,Yeah.,00:30:41
+isxoxiz,245,tutor,"And then after the decimal point, this would be your tens column and hundredths column, which is getting smaller, right? So this 1 would come under the tens column. Column, and this one would come under the hundreds column. So over here, the question B says, use greater or the lesser or equal to compare the numbers in the place value charts. So do you know how we could use these signs?",00:30:42
+isxoxiz,246,student,"Um, we could use them to see which numbers are bigger and which is smaller.",00:31:14
+isxoxiz,247,tutor,And when do you use the equal sign?,00:31:20
+isxoxiz,248,student,When both the numbers are the exact same.,00:31:24
+isxoxiz,249,tutor,"Exactly. Alright, so now let's see how we could work out this question.",00:31:27
+isxoxiz,250,student,I am thinking you put the [UNCLEAR]. I am going to write the 1.2 in this one and the 1.11 in this one.,00:31:35
+isxoxiz,251,student,And see which is greater and smaller then.,00:31:49
+isxoxiz,252,tutor,"Okay, alright.",00:31:52
+isxoxiz,253,student,Or equal. And then [unclear] and then,00:31:53
+isxoxiz,254,student,I would think that it would be this one because 1.22 is 1.20 and that one is— that is 1.2 and that one is 1.11.,00:32:16
+isxoxiz,255,tutor,Mm-hmm.,00:32:46
+isxoxiz,256,student,And 1.2 equals 1.20 because you don't need to add the placeholder in.,00:32:47
+isxoxiz,257,tutor,"Mm-hmm. Yes, you are right.",00:32:54
+isxoxiz,258,student,"And then this one has the last digit in it with the 11, so 1.11, which [unclear] this one's bigger.",00:32:58
+isxoxiz,259,tutor,"Okay, over here, can you tell me how would you read this number?",00:33:10
+isxoxiz,260,student,1.11.,00:33:15
+isxoxiz,261,tutor,"1.11. Yes, you're right. And we wouldn't say it as 1.11, right?",00:33:17
+isxoxiz,262,student,"No, we wouldn't. [unclear]",00:33:23
+isxoxiz,263,tutor,"Exactly. And over here, like how we wrote over here, that one is coming under the whole and the other one comes under the tens column and the other one comes under the hundreds column. Likewise, this is just 1.2. We would mark that this 2 would come just under the tens column. Okay?",00:33:25
+isxoxiz,264,student,Yes.,00:33:46
+isxoxiz,265,tutor,Instead of mentioning 20. Is that clear?,00:33:47
+isxoxiz,266,student,Yeah.,00:33:50
+isxoxiz,267,tutor,"Because when you type 20, it would be the 20 tens column, remember?",00:33:51
+isxoxiz,268,student,Yes.,00:33:55
+isxoxiz,269,tutor,"Yes, you're right. So shall we recorrect this answer over here? [Speaker:Chloe- Faye]...over where? [Speaker:Tutor] Yeah.",00:33:56
+isxoxiz,270,student,So I would cross out the [UNCLEAR]? [Speaker:Tutor] Yes.,00:34:14
+isxoxiz,271,tutor,So I would like to give you a big high ten there for the awesome effort put in.,00:34:29
+isxoxiz,272,student,"Oh, thank you.",00:34:34
+isxoxiz,273,tutor,"You're most welcome. Alright, so here we have the follow-me part. I would be working this out for you. You have to watch carefully to how I work this out so that when it comes to your turn, you will have to work this out on your own. Okay?",00:34:35
+isxoxiz,274,student,Yes.,00:34:50
+isxoxiz,275,tutor,"Alright, so here we go. It can help to write the numbers beneath each other to compare. Let's compare 0.7 and 0.63. We can put a 0 in the hundreds column.",00:34:51
+isxoxiz,276,student,Yeah.,00:35:11
+isxoxiz,277,tutor,"So the next point over here would be— I'm going to write it down so that it will be easy for me to compare it. Okay, so my 0 comes over here and the 0.7 comes right under the tens column. And over here it is 0.6 under the tens column and 3 under the hundreds column.",00:35:12
+isxoxiz,278,student,Yeah.,00:35:35
+isxoxiz,279,tutor,"Question A says, first write each number in the place value chart. So that is what I did over here.",00:35:36
+isxoxiz,280,student,Yes.,00:35:43
+isxoxiz,281,tutor,"The next part is saying the first number has [unclear] 7/10. Okay, because it says tenths, I know the first number has 7 tenths, right?",00:35:44
+isxoxiz,282,student,Yeah.,00:35:56
+isxoxiz,283,tutor,So it's going to be 7 tenths. And the second number has 6 tenths.,00:35:56
+isxoxiz,284,student,Yeah.,00:36:03
+isxoxiz,285,tutor,"So since the first digit, first two digits has a zero, I cannot compare the number easily, right?",00:36:04
+isxoxiz,286,student,Okay.,00:36:11
+isxoxiz,287,tutor,"So then I move to the next digit, which is in the tenths column.",00:36:13
+isxoxiz,288,tutor,"So when I look into the tenths column, I can see a 7 tenths and a 6 tenths. So I can compare these two digits, right?",00:36:16
+isxoxiz,289,student,Yes.,00:36:25
+isxoxiz,290,tutor,"So I know that when I compare these two, that the 7 is greater than the 6, correct?",00:36:26
+isxoxiz,291,student,Yes.,00:36:33
+isxoxiz,292,tutor,"So therefore, the 0.7 would be greater than the 0.63.",00:36:34
+isxoxiz,293,student,Yes.,00:36:42
+isxoxiz,294,tutor,"So I would place down my greater sign, the crocodile mouth, towards the 0.7. Okay?",00:36:43
+isxoxiz,295,student,Yes.,00:36:52
+isxoxiz,296,tutor,"Alright, so now let's see how we could work out the [unclear] part.",00:36:54
+isxoxiz,297,student,"So I put the 2s in their column, which would be there.",00:36:57
+isxoxiz,298,student,"Then I would see where they count. So on the first number it is a 3 and on the second number it is a 1. Then this one has another number so I put that in there. And then I look to see which number is greater [UNCLEAR]. So obviously you can see that this is 2.30 that you just don't need to add the zeros, so therefore it is bigger than 2.18. [unclear]",00:37:07
+isxoxiz,299,tutor,Okay. Go on.,00:37:45
+isxoxiz,300,student,And then the highest place value column is 2.3.,00:37:51
+isxoxiz,301,student,"Yes, because when you look into— okay, I would like to ask you a question before that. Okay, can you tell me which column helped you the most to decide which is greater and smaller? [unclear]",00:38:01
+isxoxiz,302,tutor,"The tens column. Very good. Because when you looked in directly, because we know that there was 2 in both the numbers in the ones column, so we moved to the tens column. So there it helps us decide because we had a 3 and a 1, so we know that 3 is larger than 1, so therefore 2.3 would become the largest value over here. All right, I would like to give you a big thumbs up there for working this out.",00:38:14
+isxoxiz,303,student,Thank you.,00:38:44
+isxoxiz,304,tutor,Thank you.,00:38:45
+isxoxiz,305,student,You're welcome.,00:38:45
+isxoxiz,306,tutor,"All right, so now let's move on to the next page.",00:38:46
+isxoxiz,307,tutor,So here you have a few more questions where you will have to work them out on your own. Okay?,00:38:51
+isxoxiz,308,student,"Yes, so this would be 1.25, and then this number will be [Speaker:Chloe- Faye]...be 1.05. And straight away I can see which number is bigger. I can see that that number, that 1.25, is bigger. [UNCLEAR] [Speaker:Chloe- Faye]...be 1.05. And straight away I can see which number is bigger. I can see that that number, that 1.25, is bigger. [unclear] And then if I do B, complete using the correct symbol, I can see that 2.60 is better than 2.06.",00:38:58
+isxoxiz,309,tutor,"Chloe- Faye, I'm so sorry to interrupt you. I think we ran out of time. Okay?",00:39:58
+isxoxiz,310,student,Yeah.,00:40:06
+isxoxiz,311,tutor,"But don't worry. We would catch up with this slide in the next week, okay?",00:40:06
+isxoxiz,312,student,Okay.,00:40:10
+isxoxiz,313,tutor,"Alright, so before we end the session, I would like to ask you a question, okay?",00:40:12
+isxoxiz,314,student,Yes.,00:40:17
+isxoxiz,315,tutor,Can you tell me two things that you will remember from this particular lesson?,00:40:18
+isxoxiz,316,student,"That you should always check in the tense column to see if there is [unclear] [Speaker:Chloe- Faye]...bigger than the number underneath it. [Speaker:Tutor] Yes, exactly. And you have to always remember, just look into the particular column which would help us decide which is the greater value or the lesser value, right?",00:40:26
+isxoxiz,317,student,Yeah.,00:40:49
+isxoxiz,318,tutor,"Exactly. So in case if I ask a question like, in these two numbers, which column helps you the most to decide which one is the is greater? What column would you say?",00:40:51
+isxoxiz,319,student,I would say the 10th.,00:41:02
+isxoxiz,320,tutor,"Exactly, it would be the 10th column. All right, I would like to give you a big high five there for the awesome effort put in throughout the lesson. I'll see you next week then.",00:41:06
+isxoxiz,321,student,Bye.,00:41:17
+isxoxiz,322,tutor,"Bye, have a nice day.",00:41:19
+isxoxiz,323,student,I will.,00:41:21
+isxoxiz,324,tutor,You too. Thank you. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear],00:41:22

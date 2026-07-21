@@ -1,0 +1,488 @@
+session_id,utterance_id,role,content,timestamp
+matfmcw,0,background,[unclear],00:00:00
+matfmcw,1,tutor,Hello.,00:00:00
+matfmcw,2,student,Can you hear me?,00:00:02
+matfmcw,3,tutor,Hello.,00:00:06
+matfmcw,4,student,"Can you hear me, [STUDENT_NAME]?",00:00:07
+matfmcw,5,tutor,Yeah.,00:00:10
+matfmcw,6,student,"Yeah, how are you doing today?",00:00:11
+matfmcw,7,student,I'm doing good. How are you doing?,00:00:13
+matfmcw,8,tutor,"I'm doing great. Thank you for asking. So today your session is gonna be with me, [STUDENT_NAME]. Don't worry, we are gonna learn it in a fun way, and you can stop me at any time and feel free to ask as many [unclear] questions you have. Okay?",00:00:16
+matfmcw,9,student,Okay.,00:00:30
+matfmcw,10,tutor,"All right, so today we'll be learning about finding square numbers. Okay, so as usual, we have two questions over here. Can you tell me what the question is in the learning goal?",00:00:31
+matfmcw,11,student,8 squared equals 2.,00:00:44
+matfmcw,12,tutor,Do you know what 8 squared is equal to?,00:00:47
+matfmcw,13,student,Is it equal to 6— 16?,00:00:50
+matfmcw,14,tutor,Is it equal to 16?,00:00:55
+matfmcw,15,student,Yeah.,00:00:57
+matfmcw,16,tutor,Are you sure about that?,00:00:58
+matfmcw,17,student,No.,00:01:00
+matfmcw,18,tutor,"Okay, what does it mean by 8 squared, [STUDENT_NAME]?",00:01:01
+matfmcw,19,student,Does it mean we times 8 by 2?,00:01:07
+matfmcw,20,tutor,"Um, no, it doesn't mean we times 8 by 2.",00:01:12
+matfmcw,21,student,Does it mean we times it— does it mean we times 8 by itself?,00:01:16
+matfmcw,22,tutor,"Yes, that's really correct. Um, 8 squared means we times 8 by 8.",00:01:21
+matfmcw,23,student,Yeah.,00:01:27
+matfmcw,24,tutor,"So if that's If you ask the question, what would be the answer? What is equal to 8 times 8? [unclear]",00:01:29
+matfmcw,25,student,I'm just counting on my fingers.,00:01:45
+matfmcw,26,tutor,All right. [unclear],00:01:47
+matfmcw,27,tutor,Anybody not got a reader?,00:02:05
+matfmcw,28,student,No.,00:02:20
+matfmcw,29,tutor,Hello? [unclear],00:02:25
+matfmcw,30,background,"[STUDENT_NAME], are you there?",00:02:28
+matfmcw,31,student,Yeah.,00:02:29
+matfmcw,32,background,"Yeah, so it's a little bit challenging, isn't it? When we times 8 by 8 and we have to find the answer for that.",00:02:30
+matfmcw,33,student,"Yeah, I don't really know my 8s that well.",00:02:38
+matfmcw,34,background,"Okay, that's totally fine, [STUDENT_NAME]. Maybe we can learn about that particular question a little bit more and then we can come back to this question and try it, alright?",00:02:41
+matfmcw,35,tutor,Okay.,00:02:50
+matfmcw,36,background,"Okay, let's keep that question as it is. And can you tell me what the question is in the prior learning side?",00:02:50
+matfmcw,37,tutor,"Okay, write a calculation for the array.",00:02:58
+matfmcw,38,background,"Yeah, so we have an array given over here. Can you tell me how many counters do we have over here?",00:03:01
+matfmcw,39,tutor,9.,00:03:07
+matfmcw,40,background,9. So something times something will be giving us 9. Yeah?,00:03:08
+matfmcw,41,tutor,Okay.,00:03:15
+matfmcw,42,background,"Yeah. What times what will give us 9, [STUDENT_NAME], according to the array which is given?",00:03:16
+matfmcw,43,student,9 times 3.,00:03:21
+matfmcw,44,tutor,9 times 3. Are you sure about that? 9 times 3. Do you know what 9 times 3 is?,00:03:24
+matfmcw,45,student,27.,00:03:30
+matfmcw,46,tutor,"27. So the answer over here should be a 9, isn't it?",00:03:31
+matfmcw,47,background,[unclear],00:03:35
+matfmcw,48,tutor,"Yeah, since we have 9 counters altogether. Yeah, shall we start with that? Can you write the number 9 over here?",00:03:37
+matfmcw,49,student,"Okay. Wait, what did you say?",00:03:45
+matfmcw,50,tutor,"And do you know the reason Why do you think we write the number 9 over here, [STUDENT_NAME]? [unclear]",00:03:47
+matfmcw,51,student,Because there are 9 counters and 9 is the answer.,00:03:51
+matfmcw,52,tutor,"Yes, that's great. So since we have 9 counters, we know that the total is going to be 9 anyways. Now we have to find out what number should be multiplied by the same number to get to number 9. Can you give a guess?",00:03:55
+matfmcw,53,student,Is it 3 times 3?,00:04:10
+matfmcw,54,tutor,"Yes, brilliant. That's impressive as well. So can we write the answer over here which you just told?",00:04:13
+matfmcw,55,tutor,Okay.,00:04:19
+matfmcw,56,background,[UNCLEAR],00:04:19
+matfmcw,57,tutor,"Good job, [STUDENT_NAME]. So what made you think, or how did you find out that it should be 3 times 3, which is equal to 9?",00:04:22
+matfmcw,58,student,"Well, I know that 3 3s equals 9.",00:04:34
+matfmcw,59,tutor,Okay. And did this array help you in any kind?,00:04:43
+matfmcw,60,student,Yeah.,00:04:48
+matfmcw,61,tutor,"Yeah, how did it help you, [STUDENT_NAME]?",00:04:49
+matfmcw,62,student,"It told me that the answer is 9, so I placed the 9 down.",00:04:53
+matfmcw,63,tutor,"Yes, and also to find out what the number would go in here, for an example, we had 3 over here, yes?",00:04:56
+matfmcw,64,student,Yeah.,00:05:03
+matfmcw,65,tutor,"So if you [unclear] onto the column, we can see a 3, and if we look onto the row, we can see another 3. So when this is multiplied by this, we get a total of 9. Okay?",00:05:03
+matfmcw,66,student,Okay.,00:05:15
+matfmcw,67,tutor,"Alright, so with that, let's move on to the Let's Learn slide. Can you tell me what the text is, what is given in the green color bubble?",00:05:16
+matfmcw,68,student,"Okay, a square number is the product of a number that is multiplied by itself.",00:05:26
+matfmcw,69,tutor,"A square number is the product of a number that is multiplied by itself. So that's what you told, and we found out in the very first question. Yeah, now do you have a clear picture on what a square number is?",00:05:32
+matfmcw,70,student,"Yeah, I've learned about square numbers in school before.",00:05:46
+matfmcw,71,tutor,"Okay, so we'll make it a little bit of a revision today by having a few examples for square numbers. Okay, so what's the very first square number given, [STUDENT_NAME]?",00:05:49
+matfmcw,72,student,"Um, 1 squared.",00:06:01
+matfmcw,73,tutor,"1 squared, which also means 1 times 1. So when we multiply 1 by 1, what is the answer we get?",00:06:03
+matfmcw,74,student,One.,00:06:11
+matfmcw,75,tutor,"One. Good job. Then we have the second square number. What's the second square number, [STUDENT_NAME]?",00:06:12
+matfmcw,76,student,Two squared.,00:06:18
+matfmcw,77,tutor,"Two squared. So when it says two squared, do we have to add two and two?",00:06:19
+matfmcw,78,student,"Uh, yeah.",00:06:26
+matfmcw,79,tutor,Do we have to add two and two?,00:06:28
+matfmcw,80,student,"Uh, we can, or we can times it.",00:06:30
+matfmcw,81,tutor,"Yeah, but when it's square numbers, we have to times it, okay?",00:06:33
+matfmcw,82,student,Okay.,00:06:37
+matfmcw,83,tutor,"All right, what's 2 times 2 then?",00:06:38
+matfmcw,84,student,4.,00:06:40
+matfmcw,85,tutor,"4, good job. What's the third square number?",00:06:41
+matfmcw,86,student,3 squared.,00:06:45
+matfmcw,87,tutor,And what does it give you when we do 3 squared?,00:06:47
+matfmcw,88,student,"Uh, 3 times— [unclear]",00:06:52
+matfmcw,89,tutor,Say that again?,00:06:53
+matfmcw,90,student,Yeah.,00:06:56
+matfmcw,91,tutor,"Yeah, what do we get when we do 3 squared?",00:06:56
+matfmcw,92,student,"Uh, 9.",00:07:00
+matfmcw,93,tutor,"9, impressive. And the fourth square number? We need to put in another 4, so— because we times it by itself, so— and 4 times 4 is 16.",00:07:02
+matfmcw,94,tutor,"16, that's brilliant. Finally, we have the 5th square number, [STUDENT_NAME]. What's the 5th square number?",00:07:18
+matfmcw,95,student,It is most likely going to be 5.,00:07:26
+matfmcw,96,tutor,"Mm-hmm, okay. [unclear]",00:07:29
+matfmcw,97,student,"Since everyone's going by one, it's probably the next square number is probably going to be 5.",00:07:32
+matfmcw,98,tutor,"Yeah, so according to the sequence, it's going to be 5. And when it says 5 squared, we have to add a 5. Okay, and what would go in the next blank? Okay, 5 times 5, is it?",00:07:39
+matfmcw,99,student,Yeah.,00:07:53
+matfmcw,100,tutor,"What does it give you? 25. Good job, [STUDENT_NAME]. So I think you have refreshed a lot of your lessons which you have learned at school before. Yeah.",00:07:55
+matfmcw,101,student,Yeah.,00:08:04
+matfmcw,102,tutor,"Yeah, that's really great. And that's all for the first question. And let's move on to question B. Before we start off, can you tell me what is given in the orange colour circle? [unclear]",00:08:04
+matfmcw,103,student,"A square is made with sides of equal length. To find the area of a square, we multiply the length by the width.",00:08:16
+matfmcw,104,tutor,"Okay. Can you tell me what you understood by that, [STUDENT_NAME]?",00:08:28
+matfmcw,105,student,Yes. [unclear] I didn't really understand anything about it.,00:08:37
+matfmcw,106,tutor,"Alright, let me help you with that, okay? So for an example, let's take this example over here. The third square number, yeah, are you able to see that?",00:08:42
+matfmcw,107,student,Yeah.,00:08:52
+matfmcw,108,tutor,"Yes. So in the third square number, the text says a square is made with sides of equal lengths, isn't it? That's what a square is. So when it comes to a square, the length will be equal to the breadth, which means all of the sides of the square is going to be equal.",00:08:53
+matfmcw,109,tutor,[unclear],00:09:11
+matfmcw,110,student,"Meanwhile, to find the area of the square, what we have to do is we are going to simply multiply the length and the breadth. Okay, so since the lengths are equal, it's just going to be the same. So if we have 3 squares in the length, we have— we will be having 3 squares in the breadth as well. So that would make it a 3 times 3, which will give us 9. Is that clear?",00:09:12
+matfmcw,111,student,Yeah.,00:09:39
+matfmcw,112,tutor,"Okay, [STUDENT_NAME]. Well done. And I think I'll give you a sticker for the excellent work you've done till now.",00:09:40
+matfmcw,113,student,Thank you.,00:09:47
+matfmcw,114,tutor,And can you tell me— welcome— and can you tell me what the question is in question B?,00:09:47
+matfmcw,115,student,6 squared is equal to something times something is equal to something.,00:09:53
+matfmcw,116,tutor,"Yes. So when you say 6 squared, what are the numbers we can have? What should be times by what?",00:10:00
+matfmcw,117,student,6.,00:10:07
+matfmcw,118,tutor,"6, okay.",00:10:08
+matfmcw,119,student,6 squared is 32.,00:10:11
+matfmcw,120,tutor,"First of all, we can write the numbers, yeah, just like we did before. So when it says 6 squared, that means we have to multiply the number by itself. Can we write that first?",00:10:16
+matfmcw,121,student,"I mean, [unclear] 36, I mean.",00:10:27
+matfmcw,122,tutor,"Yeah, that would be the answer, [STUDENT_NAME]. So before that, we have to expand this 6 squared, yeah?",00:10:30
+matfmcw,123,student,Yeah.,00:10:36
+matfmcw,124,tutor,Yeah. So what does it mean by 6 squared? Does it mean 6 add 6?,00:10:37
+matfmcw,125,student,It means 6 times 6.,00:10:42
+matfmcw,126,tutor,"Yeah, so that's what we have to write in the blanks given over here. Can you see the multiplication symbol?",00:10:44
+matfmcw,127,student,Yeah.,00:10:50
+matfmcw,128,tutor,Shall we do that?,00:10:52
+matfmcw,129,student,Yeah. [unclear],00:10:54
+matfmcw,130,tutor,"Yeah, what you can do is you can use a raise to— there we go. 6 times 6 would give you, just like what you said,",00:10:54
+matfmcw,131,tutor,36. Good job. How do you feel about that now?,00:11:03
+matfmcw,132,student,Great.,00:11:08
+matfmcw,133,tutor,"Great. Yeah. Now we can move on to the next slide, which is the Follow Me and Your Turn side road. Do you know how this slide works?",00:11:09
+matfmcw,134,student,Yeah.,00:11:18
+matfmcw,135,tutor,Yeah. How does it work?,00:11:20
+matfmcw,136,student,"So, I'm not very good at explaining.",00:11:23
+matfmcw,137,tutor,"Okay, that's totally fine. So do you think you'll be doing the follow-me part as well?",00:11:29
+matfmcw,138,student,"No, I do the [unclear] slide.",00:11:35
+matfmcw,139,tutor,"Yes, you will be doing the [unclear] slide, and I will be talking you through the follow-me part, and I want you to focus very well on how I am attempting all the questions. All right?",00:11:38
+matfmcw,140,student,Okay.,00:11:49
+matfmcw,141,tutor,"Okay, first of all, I'm gonna start off with reading the question, which says, square numbers always have an odd number of factors. Okay, square numbers always have an odd number of factors. So let's take the square number 36. 6 times 6, is it? Just like what we worked out before.",00:11:50
+matfmcw,142,student,Yeah.,00:12:11
+matfmcw,143,tutor,"Yeah, and list all the factor pairs. So factors, do you know what factors mean, [STUDENT_NAME]?",00:12:12
+matfmcw,144,student,"Uh, yeah. [unclear]",00:12:19
+matfmcw,145,tutor,What does the term factor mean?,00:12:21
+matfmcw,146,student,So a factor is a number that makes the...,00:12:25
+matfmcw,147,tutor,"Yes. Makes the number 36, isn't it? When we have two numbers and when we use those two numbers to multiply.",00:12:31
+matfmcw,148,student,They're two numbers that make the 36.,00:12:42
+matfmcw,149,tutor,"Yes, well done, [STUDENT_NAME]. So the first question says complete the factor bug. So do you know how a factor bug works?",00:12:45
+matfmcw,150,student,Yeah.,00:12:54
+matfmcw,151,tutor,"Yeah, so we have to find out what number multiplied by another number which will be giving us 36. As you can see, we have number 1 and 36, where we can say that 1 times 36 would give us 36. Then we have 2 and 18, whereas 2 times 18 would be giving us 36. Yes, so 3 times What will be giving us 36, [STUDENT_NAME]? [unclear]",00:12:55
+matfmcw,152,tutor,Would this—,00:13:29
+matfmcw,153,background,"It's gonna be 12, isn't it?",00:13:30
+matfmcw,154,tutor,Yeah.,00:13:33
+matfmcw,155,background,"Yeah, so 3 times 12 would be giving us 36. Finally, we have 4 times something. So 4 times what will be giving us—",00:13:34
+matfmcw,156,student,4 times 9.,00:13:45
+matfmcw,157,tutor,"9, there you go. 9. And finally we have 6, where we can say 6 times 6 is also 36, isn't it?",00:13:46
+matfmcw,158,student,Yeah.,00:13:56
+matfmcw,159,tutor,"Okay, so the next question is asking us to find out how many factors does 36 have. So how can we find that out, [STUDENT_NAME]?",00:13:58
+matfmcw,160,student,We can count all the factors on the [unclear],00:14:10
+matfmcw,161,tutor,"Exactly, yes, that's brilliant. So that's a really brilliant idea where we have to count all of the numbers which we just wrote around the bug. Yeah, so shall we do the counting together?",00:14:14
+matfmcw,162,student,"1, 2, 3, 4, 5, 6, 7, 8, 9.",00:14:25
+matfmcw,163,tutor,9. So how many factors do we have?,00:14:37
+matfmcw,164,student,"9. 9 factors. And finally, the question says, is this an odd number of factors?",00:14:40
+matfmcw,165,student,Yeah.,00:14:48
+matfmcw,166,tutor,"Yeah. So we are going to write the answer as yes. And if that's clear, we can move on to your turn. Is it clear?",00:14:49
+matfmcw,167,background,Okay.,00:15:00
+matfmcw,168,tutor,"Is it clear for you, [STUDENT_NAME]? Is everything clear in this part?",00:15:01
+matfmcw,169,student,Yeah.,00:15:05
+matfmcw,170,tutor,Okay. So can you start off by reading the question? Given in question 8.,00:15:05
+matfmcw,171,student,Okay. Complete the factor book of the number 64 to work out if 64 is a square number or not.,00:15:11
+matfmcw,172,tutor,"Mm-hmm. So we have to find out if 64 is a square number or not. First of all, we are going to write all the factors for that, okay?",00:15:20
+matfmcw,173,student,Yeah. So a factor of 64 is 1 times 64.,00:15:30
+matfmcw,174,tutor,Okay.,00:15:38
+matfmcw,175,tutor,That's 1.,00:15:39
+matfmcw,176,student,32.,00:15:44
+matfmcw,177,tutor,"You are really good at multiplying, isn't it?",00:15:44
+matfmcw,178,student,4 times 8.,00:15:54
+matfmcw,179,tutor,4 times 8? [unclear],00:15:56
+matfmcw,180,student,"I mean, not 4 times 8.",00:15:58
+matfmcw,181,tutor,"You are almost there, [STUDENT_NAME]. You are a bit more close to the answer.",00:16:07
+matfmcw,182,student,[UNCLEAR],00:16:07
+matfmcw,183,tutor,Would it be 4 times 21?,00:16:18
+matfmcw,184,student,"It's not going to be 4 times 21, but you just wrote the number 8, isn't it?",00:16:22
+matfmcw,185,tutor,"Yeah. Yeah, what's 8 times 2?",00:16:30
+matfmcw,186,student,8 times 2 is 16.,00:16:35
+matfmcw,187,tutor,"Okay, so will 4 times 16 give you 64? [unclear] Yeah, do you want to try it out over here? You can just do a quick sum and try if 4 times 16 is going to be equal to 64.",00:16:37
+matfmcw,188,student,Okay.,00:16:58
+matfmcw,189,tutor,So you're going to write 16 times 4. [unclear],00:16:58
+matfmcw,190,tutor,Do you want me to draw a line?,00:17:10
+matfmcw,191,student,"Yes, please.",00:17:15
+matfmcw,192,tutor,"Okay, there you go. And can you please talk me through while you work that out?",00:17:16
+matfmcw,193,student,"Okay, so 6 times 4 is 24, so you put 4 here, then we carry the 2. Then 4 times 1 is 4, and plus 2, which equals 6.",00:17:26
+matfmcw,194,tutor,So does it give you 64?,00:17:53
+matfmcw,195,student,Yeah.,00:17:55
+matfmcw,196,tutor,"Yeah, so what is the number which would go in here? 4 times what is equal to 64?",00:17:56
+matfmcw,197,student,4 times 16.,00:18:03
+matfmcw,198,tutor,"Good job. And the next question is, will it have a [UNCLEAR]?",00:18:04
+matfmcw,199,student,Say that again.,00:18:04
+matfmcw,200,tutor,"A [UNCLEAR]. That means, so over here if you see, it's kind of a tail, okay? So if we have a number down there, that means if we multiply a number by itself, we should be getting the number which is given on the head.",00:18:12
+matfmcw,201,student,Okay.,00:18:12
+matfmcw,202,tutor,So is there any number which is multiplied by itself and we can get 64? [unclear],00:18:13
+matfmcw,203,student,I don't think so.,00:18:34
+matfmcw,204,tutor,You don't think so. Do you want to check that? Yeah?,00:18:40
+matfmcw,205,student,Okay.,00:18:46
+matfmcw,206,tutor,"Okay, let's go to the classroom tools and see that over here. So are you familiar with the times table, [STUDENT_NAME]?",00:18:47
+matfmcw,207,student,Huh?,00:18:55
+matfmcw,208,tutor,Are you familiar with the times table?,00:18:56
+matfmcw,209,tutor,Yeah.,00:19:00
+matfmcw,210,student,Yeah.,00:19:01
+matfmcw,211,tutor,Can you tell me what is— where is 60? Can you show me the number 64?,00:19:01
+matfmcw,212,student,64.,00:19:08
+matfmcw,213,tutor,"And all must be a number where it's times 5, a number. Okay?",00:19:12
+matfmcw,214,student,Okay. [unclear] Is it times by the same number? [unclear],00:19:18
+matfmcw,215,tutor,Yeah?,00:19:32
+matfmcw,216,student,Yeah.,00:19:35
+matfmcw,217,tutor,"Yeah, let me make it easier for you. Give me a second. So this is the 64 which you'd be looking at, isn't it?",00:19:37
+matfmcw,218,student,Yeah.,00:19:46
+matfmcw,219,tutor,So what times what gives you 64 according to this table?,00:19:47
+matfmcw,220,student,Okay. Is it 8 times 8?,00:19:50
+matfmcw,221,tutor,"Yes, it is 8 times 8. So does this bug have a signature?",00:20:04
+matfmcw,222,student,Yeah.,00:20:10
+matfmcw,223,tutor,"Yeah, and what's the number which should go in this space?",00:20:11
+matfmcw,224,student,It should be 8.,00:20:14
+matfmcw,225,tutor,"8. Shall we write that, [STUDENT_NAME]? [unclear] Yes. And the last question of this First slide is the question B. Can you read it out, please?",00:20:17
+matfmcw,226,student,A 64 square number.,00:20:27
+matfmcw,227,tutor,Is it? Is it a square number?,00:20:30
+matfmcw,228,student,Yeah.,00:20:35
+matfmcw,229,tutor,"Yeah. So how can you say that it's a square number, [STUDENT_NAME]? [unclear] What does a square number mean?",00:20:36
+matfmcw,230,student,[unclear],00:20:51
+matfmcw,231,tutor,"Yeah, that's correct. Go on.",00:20:51
+matfmcw,232,student,You can times it by the same number. Yeah.,00:20:59
+matfmcw,233,tutor,Yeah. So is there any number which we used in this path that we multiplied by itself and we got 64?,00:21:05
+matfmcw,234,student,"Yeah, 8.",00:21:15
+matfmcw,235,tutor,"And that's the reason. 8. Yes. And that's the reason why we consider 64 as a square number. Number, okay?",00:21:16
+matfmcw,236,student,"Yes, ma'am.",00:21:23
+matfmcw,237,tutor,Okay.,00:21:24
+matfmcw,238,background,Yes.,00:21:24
+matfmcw,239,tutor,"I hope that's clear, and I'm gonna give you a nice star and a smiley face for your hard work on this slide, [STUDENT_NAME].",00:21:24
+matfmcw,240,student,Thank you.,00:21:32
+matfmcw,241,tutor,Awesome effort. And I want to give— I want you to give your level best in the upcoming slides. Do we have a deal on that?,00:21:33
+matfmcw,242,student,Yes.,00:21:41
+matfmcw,243,background,Yes.,00:21:42
+matfmcw,244,tutor,"So let's move on to the next question. [unclear] So you do slides. We have a few questions in this, and can you read me the first question, [STUDENT_NAME]?",00:21:43
+matfmcw,245,student,Okay. What is the value of 7 squared? [unclear],00:21:52
+matfmcw,246,tutor,"First of all, before we start off working the question, can you tell me what does 7 squared mean?",00:21:57
+matfmcw,247,student,"Uh, 7 times 7.",00:22:04
+matfmcw,248,tutor,Can you please write that down over here?,00:22:07
+matfmcw,249,student,"Oh, I'm also not good with my 7 times tables.",00:22:10
+matfmcw,250,tutor,"Okay, so do you know what is 7 times 7 equal to?",00:22:15
+matfmcw,251,student,"Um, is it 54?",00:22:22
+matfmcw,252,tutor,"It's not 54, [STUDENT_NAME]. You're almost there. [unclear] [unclear]",00:22:28
+matfmcw,253,student,I'm not sure. I'm not sure.,00:22:44
+matfmcw,254,tutor,"Okay, that's totally fine. Can you just write the number 7 times 7 so that it would give us a better understanding what the square number is, okay?",00:22:48
+matfmcw,255,student,Okay.,00:22:57
+matfmcw,256,tutor,"And once you're done with that, I'll show you the classroom tool so that you can get a little bit of help.",00:23:01
+matfmcw,257,tutor,Okay.,00:23:08
+matfmcw,258,student,"And do you know how to write the symbols, [STUDENT_NAME]?",00:23:10
+matfmcw,259,tutor,"Um, yeah.",00:23:14
+matfmcw,260,student,Okay. [unclear],00:23:17
+matfmcw,261,tutor,"7 times 7. Okay, and are we good to go to the classroom, Tutor?",00:23:22
+matfmcw,262,student,Yeah.,00:23:30
+matfmcw,263,tutor,Yeah.,00:23:31
+matfmcw,264,student,"And here we go. And now we have to find out where or what 7 times 7 is equal to. How can we find that out, [STUDENT_NAME]? [unclear]",00:23:32
+matfmcw,265,student,"Okay, so we count, we count, we count like 1, 2, 3, 4, 5, 6, 7.",00:23:46
+matfmcw,266,tutor,"Okay, 49. And also we can check it like this, [STUDENT_NAME]. So first of all, you just go to the row and draw a line. And if you look at the uppermost row, we can see that there are numbers from 1 to 10 again— 1 to 12 again. Yeah. And in that, if you go to the 7th column, you can draw a line and you can find out what the answer is. Okay?",00:23:58
+matfmcw,267,student,Okay.,00:24:22
+matfmcw,268,tutor,All right. So did you notice that what it is equal to when we times 7 by 7?,00:24:23
+matfmcw,269,student,49.,00:24:32
+matfmcw,270,tutor,49. So can you add an equal sign to the equation which you just wrote and write the answer along with it?,00:24:33
+matfmcw,271,student,Okay. [unclear] I don't see an equal sign symbol.,00:24:41
+matfmcw,272,tutor,"Oh, okay. Let me type that for you.",00:24:53
+matfmcw,273,student,I'll just draw it.,00:24:55
+matfmcw,274,tutor,"Okay, or else you can use your keyboard to add the equal sign, okay? It's right beside the backspace, okay?",00:24:57
+matfmcw,275,student,Okay.,00:25:07
+matfmcw,276,tutor,"All right, so 7 times 7 would be equal to 49. Good job. And then we have the next question. Can you read the question, please? [unclear]",00:25:08
+matfmcw,277,student,What number's multiplied by itself to give 100?,00:25:20
+matfmcw,278,tutor,"Yeah, so the answer should be 100. And the question is, what number should it be, and when it's multiplied by itself, it should give us 100?",00:25:26
+matfmcw,279,student,10.,00:25:37
+matfmcw,280,tutor,10. Good job. That was real quick.,00:25:38
+matfmcw,281,student,Yeah.,00:25:41
+matfmcw,282,tutor,Yeah?,00:25:42
+matfmcw,283,student,Yeah.,00:25:43
+matfmcw,284,tutor,"How did you know that it was a 10, [STUDENT_NAME]?",00:25:44
+matfmcw,285,student,"Well, I know that 10 times 10 equals 100.",00:25:47
+matfmcw,286,tutor,"Okay. Do you know what is— so let's say instead of 100, there was 1,000 over here. So what would be the answer?",00:25:50
+matfmcw,287,student,100.,00:25:59
+matfmcw,288,tutor,"100. Good job, [STUDENT_NAME]. And then we have the final question. Can you please read me the question?",00:26:00
+matfmcw,289,student,Is 81 a square number?,00:26:07
+matfmcw,290,tutor,"How do we find out that if a number is a square number or not, [STUDENT_NAME]?",00:26:11
+matfmcw,291,student,We can find out by [UNCLEAR].,00:26:20
+matfmcw,292,student,Multiplying... multiplying numbers to make 81.,00:26:23
+matfmcw,293,tutor,"81. And okay, so let's start working out that, okay? And we have [unclear] over here to help us do the work. So we are going to write all the factors which would fall into the category of 81.",00:26:30
+matfmcw,294,student,Okay.,00:26:47
+matfmcw,295,tutor,And one is already done for you. 1 times 81 is going to be equal to 81. Do you have any other numbers which is multiplied and we can get 81? [unclear],00:26:48
+matfmcw,296,student,"No, I'm not sure.",00:26:59
+matfmcw,297,tutor,"Okay, do you want to check with the classroom tool once?",00:27:05
+matfmcw,298,student,Yeah.,00:27:09
+matfmcw,299,tutor,"Okay, so you have to check 81, yeah?",00:27:11
+matfmcw,300,student,"Yes, right here.",00:27:16
+matfmcw,301,tutor,"Right here, and what's the number?",00:27:20
+matfmcw,302,student,"Uh, 9.",00:27:22
+matfmcw,303,tutor,9 times what?,00:27:24
+matfmcw,304,student,9 times 9.,00:27:26
+matfmcw,305,tutor,9 times 9. Shall we write that and come back to this place?,00:27:28
+matfmcw,306,student,Yeah.,00:27:32
+matfmcw,307,tutor,"Okay, so if it's 9 times 9, [STUDENT_NAME], where would the number go? [unclear] Where would you write it?",00:27:33
+matfmcw,308,student,Right here.,00:27:42
+matfmcw,309,tutor,Do we write it over there?,00:27:45
+matfmcw,310,tutor,Yeah.,00:27:47
+matfmcw,311,student,"So in the previous questions, when we had a number and it's multiplied by itself, we wrote it in the place where it's called a [UNCLEAR], isn't it?",00:27:48
+matfmcw,312,tutor,Oh.,00:27:48
+matfmcw,313,student,"Yeah, can you remember that?",00:28:01
+matfmcw,314,tutor,Yeah.,00:28:03
+matfmcw,315,student,"Yeah. So if you write a number in the place where the stingent is, it means that number should be multiplied by itself. Okay?",00:28:04
+matfmcw,316,student,Okay.,00:28:21
+matfmcw,317,tutor,"Okay, now we are going to find out if there are any more factors which would give us 81. Okay?",00:28:22
+matfmcw,318,student,Okay.,00:28:29
+matfmcw,319,tutor,So this was the last one which we found out. Can you use your pointer tool and tell me if we have more?,00:28:30
+matfmcw,320,student,Okay. [unclear] [unclear],00:28:34
+matfmcw,321,tutor,Yeah?,00:28:47
+matfmcw,322,student,Yeah.,00:28:58
+matfmcw,323,tutor,"Oh, I'm sorry.",00:29:03
+matfmcw,324,tutor,"So do you have any other ideas how we can get to 81, [STUDENT_NAME]?",00:29:07
+matfmcw,325,student,Um... no.,00:29:13
+matfmcw,326,tutor,Okay. So can you write the number 81 over here?,00:29:16
+matfmcw,327,student,Okay. [unclear],00:29:21
+matfmcw,328,tutor,And can you divide the number 81 by 3? [unclear],00:29:26
+matfmcw,329,student,I don't think so.,00:29:43
+matfmcw,330,tutor,"Okay, can we work it out and see if that could be divided or not?",00:29:47
+matfmcw,331,student,Okay.,00:29:53
+matfmcw,332,tutor,"Okay, you can write the number 3 over here. And can you please talk me Talk me through the rest of the process.",00:29:54
+matfmcw,333,student,"Okay, so 3 isn't— I mean, 8 isn't in the 3 times tables, so—",00:30:05
+matfmcw,334,tutor,So how many 3s do we have in the number 8?,00:30:15
+matfmcw,335,student,We have 2 3s in the number 8.,00:30:18
+matfmcw,336,tutor,Okay.,00:30:22
+matfmcw,337,student,So we put 6 here.,00:30:22
+matfmcw,338,tutor,"We don't put a 6 there, isn't it, [STUDENT_NAME]? Are you right?",00:30:24
+matfmcw,339,student,"Not 6, not 6. I always make that mistake.",00:30:28
+matfmcw,340,tutor,Okay. [unclear],00:30:31
+matfmcw,341,student,"We put a 2, I meant to say.",00:30:36
+matfmcw,342,tutor,"A 2. Yeah, and where do we put the 6?",00:30:39
+matfmcw,343,student,"You put the 6, the dot. Yeah, we put a 6 here.",00:30:43
+matfmcw,344,tutor,Right below the 8. Okay.,00:30:52
+matfmcw,345,student,Yeah.,00:30:54
+matfmcw,346,tutor,"So we have 3 2s in the number 8, and we have 6 remaining. Yeah, yeah, do we have 6 remaining?",00:30:54
+matfmcw,347,student,We have 2 remaining.,00:31:06
+matfmcw,348,tutor,"We have 2 remaining, yeah. And when we take away the 6 from 8, we have a 2. Yeah, yeah, yeah. Can you write that as well? [unclear] And we have to bring this down over here.",00:31:07
+matfmcw,349,student,The one?,00:31:22
+matfmcw,350,tutor,Or the one.,00:31:24
+matfmcw,351,student,Yeah.,00:31:25
+matfmcw,352,tutor,And now we have 21. So can you remember the 3 times table? If you can tell me what times 3 would give us 21?,00:31:27
+matfmcw,353,student,7.,00:31:38
+matfmcw,354,tutor,Good job. So how many 3s do we have in the number 21?,00:31:39
+matfmcw,355,student,How? Say that again.,00:31:44
+matfmcw,356,tutor,How many 3s do we have in the number 21?,00:31:47
+matfmcw,357,student,7.,00:31:52
+matfmcw,358,tutor,"7. And where would you write the number 7, [STUDENT_NAME]? [unclear]",00:31:52
+matfmcw,359,student,Would we write the 7 here?,00:31:58
+matfmcw,360,tutor,"We will not be writing it there, but we will be writing it right next to the number 2 on top.",00:32:05
+matfmcw,361,student,Okay.,00:32:10
+matfmcw,362,tutor,"Okay, which means when we divide the number 81 by 3, we get 27. [unclear]",00:32:11
+matfmcw,363,tutor,"Okay, which also means 3 times 27 is equal to 81. Okay, so what are the factors of 81 according to this which we have worked out, [STUDENT_NAME]?",00:32:19
+matfmcw,364,student,Say that again.,00:32:32
+matfmcw,365,tutor,"According to what we just worked out, what are the factors we can take for the number 81?",00:32:34
+matfmcw,366,student,"Um, 3.",00:32:40
+matfmcw,367,tutor,3 and?,00:32:42
+matfmcw,368,student,27.,00:32:43
+matfmcw,369,tutor,27. So can you add that to the factor bug over here?,00:32:44
+matfmcw,370,student,Okay. [unclear],00:32:49
+matfmcw,371,tutor,"Okay, good job. So that's That's all. We are done with completing the factor bug. So the question in this was, is 81 a square number? What do you think, [STUDENT_NAME]?",00:32:55
+matfmcw,372,student,I think it is a square number.,00:33:19
+matfmcw,373,tutor,"Yes, it is a square number, but what's the reason behind that?",00:33:21
+matfmcw,374,student,Because...,00:33:25
+matfmcw,375,tutor,How can we say that it's a square number? [unclear],00:33:28
+matfmcw,376,tutor,"What does it mean by a square number, [STUDENT_NAME]? [unclear] Now what does it mean by a square number?",00:33:37
+matfmcw,377,student,Do you need a little bit of help?,00:33:48
+matfmcw,378,tutor,Yeah.,00:33:55
+matfmcw,379,student,"Okay, so if any of the numbers— so when we take a number Those numbers have some factors, yeah?",00:33:56
+matfmcw,380,student,Say that again. I'm in a noisy room.,00:34:05
+matfmcw,381,tutor,"Alright, can you hear me now?",00:34:07
+matfmcw,382,student,"Uh, yeah.",00:34:09
+matfmcw,383,tutor,"Yeah. So when we take a number, we have few factors for that number, isn't it?",00:34:11
+matfmcw,384,student,Yeah.,00:34:17
+matfmcw,385,tutor,"So if one of those factors is having a square number, which means if a factor is multiplied by itself and we get that particular number, the number is called a square number. So do we have any numbers in these factors which is multiplied by itself and we get 81?",00:34:17
+matfmcw,386,student,"Yeah, 9.",00:34:37
+matfmcw,387,tutor,"Yeah, 9. Yeah, and that's how we can say, uh, it is a square number with the reason. Okay?",00:34:38
+matfmcw,388,student,Okay.,00:34:45
+matfmcw,389,tutor,"All right, can you write down your answer please?",00:34:46
+matfmcw,390,student,Okay. [unclear] Yes. Yeah. And can you write down the answer as well? The reason behind it. [unclear],00:34:48
+matfmcw,391,student,"What, so I write down a sentence?",00:35:04
+matfmcw,392,tutor,"Yeah, you could write a sentence which could support your answer. [unclear] Do you need a little bit help, [STUDENT_NAME]?",00:35:05
+matfmcw,393,student,Yeah.,00:35:17
+matfmcw,394,tutor,"Okay. So you have to listen to me carefully first and then write it in your own words, okay?",00:35:18
+matfmcw,395,tutor,"Okay. [Speaker] So what you can write is, since we have 9 as a factor of 81, which is multiplied by itself and we get 81. [unclear] [Speaker] Was that clear? [unclear] [Speaker] Was that clear, [STUDENT_NAME]?",00:35:24
+matfmcw,396,student,"Hold on, say that again. I couldn't hear you. Okay, since 9 is a factor of 81— [unclear]",00:35:47
+matfmcw,397,tutor,"Yeah, did you hear that?",00:35:54
+matfmcw,398,student,Yeah.,00:35:59
+matfmcw,399,tutor,"Okay, since 9 is a factor of 81, and when it's multiplied by itself, we get 81. That's all.",00:36:00
+matfmcw,400,student,Okay.,00:36:08
+matfmcw,401,tutor,"Okay, can you write that?",00:36:09
+matfmcw,402,student,Yeah. [unclear],00:36:10
+matfmcw,403,tutor,"9 is a factor, yeah? [unclear]",00:36:14
+matfmcw,404,tutor,"Factor of 81. Good job. And the rest of the one you had to write, when 9 is multiplied by itself, we get 81.",00:36:26
+matfmcw,405,student,Yeah. [unclear],00:36:38
+matfmcw,406,tutor,"Are you there, [STUDENT_NAME]?",00:36:47
+matfmcw,407,student,"Yeah, I'm there.",00:37:02
+matfmcw,408,tutor,"Okay, so yeah, have you completed your answer? [unclear]",00:37:04
+matfmcw,409,tutor,"Wait, what was the question again?",00:37:12
+matfmcw,410,student,"Yeah, we were working on the question C, yeah? And the question was, is 81 a square number? And you have written the answer as yes, and we have to write a reason or explain your thinking and support your answer, yeah?",00:37:15
+matfmcw,411,tutor,Okay.,00:37:30
+matfmcw,412,student,And so far you have written 9 is a factor of 81. And you have to write why it's considered as a square number. So you can say that 9 is times by itself.,00:37:31
+matfmcw,413,tutor,Oh.,00:37:44
+matfmcw,414,student,Yeah.,00:37:44
+matfmcw,415,tutor,Yeah. Can you write that down as well? 9 is times by itself to get to 81.,00:37:45
+matfmcw,416,background,Okay. [unclear],00:37:51
+matfmcw,417,tutor,Okay.,00:37:52
+matfmcw,418,student,Times by itself. [unclear],00:37:54
+matfmcw,419,tutor,"Yeah, good working out, [STUDENT_NAME]. Yeah, how do you feel about these questions?",00:38:06
+matfmcw,420,student,"I wasn't really sure at the beginning, but I understood it at the end.",00:38:16
+matfmcw,421,tutor,"Yes, I feel like you have learned a lot of new things. Yeah.",00:38:24
+matfmcw,422,student,Yeah.,00:38:28
+matfmcw,423,tutor,"Okay, and I feel like you have made a great progress as well. With that, we can move on to the last slide of today's session, which is the [unclear] slide. Can you tell me what the question is? Sorry.",00:38:29
+matfmcw,424,student,"Okay, can you find 2 square numbers that total 45?",00:38:41
+matfmcw,425,tutor,"What do you understand by this question, [STUDENT_NAME]? What does it say? So it's saying what numbers could make 40— what numbers can we times by to make 45?",00:38:49
+matfmcw,426,tutor,"Yeah, so we have to get 2 numbers which should be the square numbers as well.",00:39:01
+matfmcw,427,student,Okay.,00:39:09
+matfmcw,428,tutor,"Okay, so can you give me 2 numbers that would give us a total of 45? [unclear]",00:39:09
+matfmcw,429,student,"Okay, I'm just thinking.",00:39:16
+matfmcw,430,tutor,Right now.,00:39:20
+matfmcw,431,student,Okay. [unclear],00:39:21
+matfmcw,432,tutor,"They both should be square numbers, all right?",00:39:30
+matfmcw,433,student,Okay.,00:39:33
+matfmcw,434,tutor,"Okay. And if you want me to go to the classroom tools, I can do that as well. Do you want to see that?",00:39:34
+matfmcw,435,student,Yeah.,00:39:40
+matfmcw,436,tutor,"Okay, there you go. [unclear]",00:39:41
+matfmcw,437,tutor,"So let me help you with that a little bit, [STUDENT_NAME]. Basically, the square numbers are these numbers, okay? The ones which I am crossing. Can you see them?",00:39:54
+matfmcw,438,student,Yeah.,00:40:05
+matfmcw,439,tutor,"So it's 1, 4, 9, 16, 25, 36. Yeah?",00:40:06
+matfmcw,440,tutor,Yeah.,00:40:12
+matfmcw,441,student,Yeah.,00:40:13
+matfmcw,442,tutor,So you will be using some of these numbers to get a sum of 45. So which one of these numbers are you going to use to get 45? [unclear],00:40:14
+matfmcw,443,tutor,"So can we use this number over here, [STUDENT_NAME]? [unclear]",00:40:36
+matfmcw,444,tutor,No. What is the number given?,00:40:40
+matfmcw,445,student,36.,00:40:43
+matfmcw,446,tutor,36. So what is the number we have to add to the number 36?,00:40:45
+matfmcw,447,student,We have to add 9.,00:40:50
+matfmcw,448,tutor,"Yes, we have to add 9. So let me take you back to this place. Yeah. So what are the numbers we have to add to get to 45, [STUDENT_NAME]?",00:40:56
+matfmcw,449,student,9.,00:41:09
+matfmcw,450,tutor,9 and?,00:41:10
+matfmcw,451,student,9.,00:41:12
+matfmcw,452,tutor,It was 9 and it was another number.,00:41:14
+matfmcw,453,student,9 and... [unclear] 9 and 5. 9 and 5.,00:41:17
+matfmcw,454,tutor,"Not 9 and 5, [STUDENT_NAME]. Yeah, it was this number.",00:41:22
+matfmcw,455,tutor,"So we have to get a total of 45, isn't it?",00:41:31
+matfmcw,456,student,Yeah.,00:41:35
+matfmcw,457,tutor,"So 36 times 36 at 9 would be equal to 45, isn't it?",00:41:36
+matfmcw,458,student,[unclear] 9 and 35. 9 and 36.,00:41:44
+matfmcw,459,tutor,"Yes, there you go. So you can write the numbers over here. [unclear]",00:41:49
+matfmcw,460,tutor,"9 and 36. Good job. So we are going to talk about this question a little bit, okay?",00:41:59
+matfmcw,461,student,Okay.,00:42:07
+matfmcw,462,tutor,"So we had the question saying, can you find 2 square numbers that total 45? So how did we use this classroom tool to find that out, [STUDENT_NAME]? Can you tell me?",00:42:09
+matfmcw,463,student,"So we found all this, so we put a cross through all the square numbers. [unclear]",00:42:23
+matfmcw,464,tutor,That's correct.,00:42:32
+matfmcw,465,student,"And then we added 9, and then we found 36, and then we add 36 by 9 to make 45. Yes, so we just chose 36 randomly and we checked if there's any number that we could add to the number 36 which could give us a 45, isn't it?",00:42:35
+matfmcw,466,student,Yeah.,00:42:58
+matfmcw,467,tutor,"Yeah, how do you feel about this question now, [STUDENT_NAME]? Are you confident with it?",00:42:59
+matfmcw,468,student,Yeah.,00:43:04
+matfmcw,469,tutor,"Yeah, so that was a new learning. And in the first, in the very first slide, can you remember we could not Try this question over here. Can you give it a try now?",00:43:05
+matfmcw,470,student,64.,00:43:17
+matfmcw,471,tutor,"64. I can see a real big progress in this, isn't it? That's a lot of practice with questions and everything. So how do you feel about this lesson, finding square numbers?",00:43:19
+matfmcw,472,student,I think I learned a lot from it.,00:43:31
+matfmcw,473,tutor,"Yes, you learned a lot and you have refreshed your knowledge as well, yeah? Because you're right after the break and Maybe you have learnt this lesson back at school, but still you have refreshed a lot, isn't it?",00:43:34
+matfmcw,474,student,Yeah.,00:43:46
+matfmcw,475,tutor,"Okay, so on a scale of 1 to 10, how confident are you with this lesson?",00:43:47
+matfmcw,476,student,"Um, probably like a 7.",00:43:52
+matfmcw,477,tutor,"Okay, maybe we can work out more and do a lot of questions, and practice makes perfect, isn't it?",00:43:56
+matfmcw,478,student,Yes.,00:44:03
+matfmcw,479,tutor,"Yeah, with that we can score higher marks. So that's it for today, [STUDENT_NAME]. And make sure you fill up the feedback form before you go. And there will be some questions reflecting on your session. Make sure you try those. And can you tell me how the session was for you today?",00:44:03
+matfmcw,480,student,Okay.,00:44:22
+matfmcw,481,tutor,"Yeah, how was the session for you today?",00:44:23
+matfmcw,482,student,I found [UNCLEAR].,00:44:27
+matfmcw,483,tutor,"Okay, and was it helpful?",00:44:27
+matfmcw,484,student,Very.,00:44:32
+matfmcw,485,tutor,"Okay, and I'll see you next time. Bye.",00:44:33
+matfmcw,486,student,Bye. See you next— [unclear],00:44:36

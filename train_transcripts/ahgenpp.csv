@@ -1,0 +1,271 @@
+session_id,utterance_id,role,content,timestamp
+ahgenpp,0,tutor,Hello?,00:00:00
+ahgenpp,1,background,[unclear],00:00:00
+ahgenpp,2,student,"Hello, can you hear me, [STUDENT_NAME]?",00:00:00
+ahgenpp,3,tutor,"Yeah, I can hear you.",00:00:01
+ahgenpp,4,student,"All right. How are you, [STUDENT_NAME]? How was school today? [unclear]",00:00:05
+ahgenpp,5,tutor,"All right, okay. So today we are going to study about estimating calculations, right? So have you done something like that at school?",00:00:08
+ahgenpp,6,student,"Yes, I have.",00:00:19
+ahgenpp,7,tutor,"All right, all right. Then can you try this question and tell me who is correct?",00:00:21
+ahgenpp,8,background,"Okay, well, you want me to do it?",00:00:27
+ahgenpp,9,tutor,"Okay, who is correct?",00:00:31
+ahgenpp,10,student,"Okay, well, obviously you'd round 3.8 to 4, and then you'd round 4.98 to 13.",00:00:33
+ahgenpp,11,tutor,Mm-hmm.,00:00:41
+ahgenpp,12,student,"So you do like 4 times 13, which is like— let me get that— 4 times 13, is it like 52?",00:00:45
+ahgenpp,13,tutor,"Right, so Out of Mandy, Beatrice, and Emery, who is correct then? [unclear]",00:00:58
+ahgenpp,14,student,"4 times, but Mandy.",00:01:06
+ahgenpp,15,tutor,No.,00:01:10
+ahgenpp,16,student,"What? Yeah, Mandy.",00:01:12
+ahgenpp,17,tutor,"So you say Mandy, right? So that was a nice try, but—",00:01:18
+ahgenpp,18,student,"Oh wait, no, wait, wait, what? What is it? Beatrice? Yes, it's Beatrice, right? Okay, uh, because we need to round all the values to one significant figure first, right? All right, all right. Okay, all right. Can you try this question? [unclear]",00:01:21
+ahgenpp,19,student,"Yep, yep, yep, yep.",00:01:47
+ahgenpp,20,tutor,What's the answer?,00:01:51
+ahgenpp,21,student,"What, so we're not rounding though?",00:01:53
+ahgenpp,22,tutor,"Yeah, for part A you need to write— you can use your calculator and write the answer.",00:01:56
+ahgenpp,23,student,"So I'm not rounding that one, yeah?",00:02:02
+ahgenpp,24,tutor,So you don't have a calculator with you right now?,00:02:05
+ahgenpp,25,student,"No, no, I do.",00:02:08
+ahgenpp,26,tutor,"Oh, okay.",00:02:10
+ahgenpp,27,student,"But I'm not rounding, am I?",00:02:11
+ahgenpp,28,tutor,Mm-hmm. [unclear],00:02:13
+ahgenpp,29,student,"Wait, 3.1 times 5.",00:02:27
+ahgenpp,30,background,[unclear],00:02:31
+ahgenpp,31,student,"Wait, let me just write this down here quickly. [unclear]",00:02:37
+ahgenpp,32,tutor,"Okay, all the numbers, every single one of them?",00:03:02
+ahgenpp,33,student,Yes.,00:03:05
+ahgenpp,34,tutor,All right.,00:03:06
+ahgenpp,35,tutor,Well—,00:03:11
+ahgenpp,36,student,Oh!,00:03:11
+ahgenpp,37,tutor,"No! Oh, I've just bloody got rid of it. Oh wait, here we go. I got it.",00:03:12
+ahgenpp,38,tutor,"Alright, this is what I got. 91.79248534... [unclear]",00:03:35
+ahgenpp,39,student,9.,00:03:59
+ahgenpp,40,tutor,"All right, that's enough, right?",00:04:01
+ahgenpp,41,student,"Oh, okay.",00:04:03
+ahgenpp,42,tutor,"Right, now try to answer Part B.",00:04:04
+ahgenpp,43,student,[unclear],00:04:06
+ahgenpp,44,tutor,It'd be by 1.8.,00:04:08
+ahgenpp,45,student,By 1.8.,00:04:13
+ahgenpp,46,tutor,"Right, so if you get an answer like 91 point, let's say, 4924, like that, then if you ask to round it off to 3 significant figures, then what would be your answer there?",00:04:16
+ahgenpp,47,student,"Uh, 91.5.",00:04:33
+ahgenpp,48,tutor,"91.5. Then if you get like 91.4424, then what would be your answer there?",00:04:36
+ahgenpp,49,student,91.4.,00:04:47
+ahgenpp,50,tutor,"9.4, right. 91.4. What's— why? [unclear] Yeah. 5 or over, you round up. 4 below, you round down.",00:04:48
+ahgenpp,51,tutor,"Yes, that's it. Right, good job, right? Okay, now can you try this?",00:05:00
+ahgenpp,52,student,Estimate the answer to the calculation. Can I use a calculator?,00:05:07
+ahgenpp,53,tutor,"No, you can't use the calculator, right?",00:05:11
+ahgenpp,54,student,[unclear] All right.,00:05:14
+ahgenpp,55,tutor,Yeah.,00:05:15
+ahgenpp,56,student,"So 5 times 20 5 times 20 is 100, half it. 5 times 20 is 100, half it, 50. That's my estimated answer.",00:05:16
+ahgenpp,57,tutor,"Right, okay, well done. That was a nice try, but there is a mistake over here.",00:05:35
+ahgenpp,58,student,how?,00:05:35
+ahgenpp,59,tutor,"So the first one, that's correct, right? You have rounded off to first one significant figure, right? So first one, so 5, that's correct, right? Times this one is 20, right? Right. Then you have to divide that by— if you round it 0.42 to one significant figure, then you would get 0.4, right?",00:05:35
+ahgenpp,60,student,"Oh, run it to one significant figure. Oh.",00:06:07
+ahgenpp,61,tutor,"Okay, this should be 0.4. Then your answer would be 250. [unclear]",00:06:12
+ahgenpp,62,student,Yeah.,00:06:22
+ahgenpp,63,tutor,Right.,00:06:29
+ahgenpp,64,student,[unclear],00:06:32
+ahgenpp,65,tutor,So what's the mistake that you made here?,00:06:34
+ahgenpp,66,student,"Oh, I accidentally rounded up to 0.5, not 0.4.",00:06:38
+ahgenpp,67,tutor,"Right, okay. So can you try this again?",00:06:42
+ahgenpp,68,student,"Of course. What, to one significant figure?",00:06:46
+ahgenpp,69,tutor,Yeah.,00:06:54
+ahgenpp,70,student,"Alright, that'd be 40— well, let me write it out. That'd be easier. [unclear]",00:06:57
+ahgenpp,71,student,320.,00:07:23
+ahgenpp,72,tutor,"Right, okay.",00:07:27
+ahgenpp,73,tutor,Next step.,00:07:28
+ahgenpp,74,student,"And then 320 divided by 5, 0.5. Like that?",00:07:30
+ahgenpp,75,tutor,"Okay, then what's the [UNCLEAR]?",00:07:44
+ahgenpp,76,student,So now it equals to— [unclear],00:07:44
+ahgenpp,77,student,640.,00:08:09
+ahgenpp,78,tutor,"640, right. There you go. Right. Good job. Right. So if you want— so this is a 3 marks question, right? So for correctly rounding off all these 3, right, you would get 2 marks. And for the final correct answer, you would get 1 mark. So you got 3 out of 3. Well done, right?",00:08:10
+ahgenpp,79,student,"Yeah, right.",00:08:36
+ahgenpp,80,tutor,"Okay, try this one now. [unclear] The amount Rio paid for electricity. You know, electricity costs 6.3p. [unclear]",00:08:36
+ahgenpp,81,tutor,"Right, we could do, yeah.",00:09:05
+ahgenpp,82,student,"Yeah, okay, try the first one, right? Part A.",00:09:08
+ahgenpp,83,student,"Yeah, um, wait, so like when it says 62.6 units of electricity a week, would I have to times that by 6.3?",00:09:12
+ahgenpp,84,tutor,Yeah.,00:09:25
+ahgenpp,85,student,"Okay, that's got me confused for a second.",00:09:26
+ahgenpp,86,tutor,"So you just have to go work out the question using estimation like the one previously that we done, right?",00:09:28
+ahgenpp,87,student,"Yeah, right.",00:09:36
+ahgenpp,88,tutor,All right. 60... 6... would be like 6... 360.,00:09:37
+ahgenpp,89,tutor,"Right, so you need to calculate that for 52 weeks, right?",00:09:56
+ahgenpp,90,student,"Yes, yes, yes.",00:10:01
+ahgenpp,91,student,[unclear] times 360 by 52.,00:10:07
+ahgenpp,92,tutor,"Okay, right. So can you think of it, or whether you have to times that by 52?",00:10:13
+ahgenpp,93,student,Sorry?,00:10:27
+ahgenpp,94,tutor,"So you say you have to multiply this by 52, right? Yeah, right. Okay, but there is— okay, the method is correct, right? But unfortunately, there is a small mistake. [unclear] Which is, right, because you are rounding off all the numbers to one significant figure, right?",00:10:28
+ahgenpp,95,student,"Oh, so it'll just be 50 weeks.",00:10:48
+ahgenpp,96,tutor,"Yes, that's it. So you have to apply that for that also. Equals to times by 10, it's like 18,000.",00:10:51
+ahgenpp,97,tutor,"18,000, right. Good job, right.",00:11:19
+ahgenpp,98,tutor,Put that in there.,00:11:23
+ahgenpp,99,student,Okay.,00:11:25
+ahgenpp,100,tutor,"Right. And one more thing, [STUDENT_NAME], right? So when you write this, this is an amount, right? So you need to write the correct units, right?",00:11:28
+ahgenpp,101,student,"So it would be 18,000 [UNCLEAR].",00:11:37
+ahgenpp,102,tutor,"Yes. Right. Good job. That's great. Now how about Part B? What do you think? [unclear] underestimation or overestimation? Is it an underestimation? Oh, it's an underestimation.",00:11:37
+ahgenpp,103,tutor,Why?,00:12:08
+ahgenpp,104,student,Because you've rounded everything down.,00:12:09
+ahgenpp,105,tutor,"Yes, that's it, right?",00:12:11
+ahgenpp,106,student,Yeah.,00:12:13
+ahgenpp,107,tutor,"Exactly, you have to write that, right? Unestimate. And also you need to give the reason, right? [unclear] Everything down, right? Perfect, right?",00:12:15
+ahgenpp,108,student,Yep.,00:12:40
+ahgenpp,109,tutor,"So in this case, if you get like around 55 weeks, then by what we need to multiply?",00:12:40
+ahgenpp,110,student,It round up to 60.,00:12:48
+ahgenpp,111,tutor,Yes. Right?,00:12:50
+ahgenpp,112,student,Yeah.,00:12:53
+ahgenpp,113,tutor,"Right, then, right. Can you try this?",00:12:55
+ahgenpp,114,student,"Yeah. Please follow calculation, use [unclear] to explain whether this is correct or incorrect. Okay.",00:13:04
+ahgenpp,115,tutor,"Right, we can estimate check-ins. So what, 400? The bar weight divided by [unclear] is equals to [unclear]",00:13:14
+ahgenpp,116,tutor,"20, right?",00:13:44
+ahgenpp,117,student,"20, right.",00:13:46
+ahgenpp,118,tutor,"Okay, so what do you think? Can you try the Part B?",00:13:47
+ahgenpp,119,student,Part B?,00:13:55
+ahgenpp,120,tutor,"So whether this calculation is correct or not. For Part B, what would be our answer?",00:13:57
+ahgenpp,121,student,"That calculation is wrong. I mean, the [unclear] calculation is wrong, right?",00:14:03
+ahgenpp,122,tutor,Yes.,00:14:09
+ahgenpp,123,student,"So you got 218, right? So can you try the Part B? What's the mistake?",00:14:09
+ahgenpp,124,tutor,Explain to me what mistake you think Tutor made during this calculation.,00:14:15
+ahgenpp,125,student,"Um, I reckon he just halved it.",00:14:21
+ahgenpp,126,tutor,"Right, so by looking at this, you can say you got 20, but he got 218. So there will be a mistake. In the decimal place, right?",00:14:27
+ahgenpp,127,student,Yes.,00:14:36
+ahgenpp,128,tutor,"He has made a mistake with place values, right? And his answer is out by a power of 10, right? So it should be 21.8, not the 280, right?",00:14:37
+ahgenpp,129,student,Right. [unclear],00:14:51
+ahgenpp,130,tutor,"So we are going to summarize the things that we have learned so far, right? Can you try the part 1?",00:14:53
+ahgenpp,131,student,"Uh, yeah.",00:15:01
+ahgenpp,132,tutor,Mm-hmm.,00:15:02
+ahgenpp,133,student,2 significant figures.,00:15:03
+ahgenpp,134,tutor,Right.,00:15:05
+ahgenpp,135,student,"Because it's [unclear] from the 3, so it's 3.1. Right?",00:15:06
+ahgenpp,136,tutor,3 point?,00:15:11
+ahgenpp,137,student,3.1.,00:15:13
+ahgenpp,138,tutor,"Yes, 3.1. Then can you try the next one?",00:15:16
+ahgenpp,139,student,"Yes. Estimate much money that— okay, well, You do that, rounds up, so it'll be 20. Wait, how many— what, 2 significant figures?",00:15:20
+ahgenpp,140,tutor,Hello?,00:15:46
+ahgenpp,141,student,"Yeah, you have to round, uh, use like round to 2 significant figures, right? So it's 19. [unclear] 19 times by 20 equals—",00:15:47
+ahgenpp,142,tutor,"You better, right, [STUDENT_NAME]? You better round those things into one significant figure, right?",00:16:15
+ahgenpp,143,tutor,"Because you have here 23, right?",00:16:20
+ahgenpp,144,student,So write 1.,00:16:24
+ahgenpp,145,tutor,"1, right.",00:16:25
+ahgenpp,146,student,Okay. So it would be 20 times 20.,00:16:27
+ahgenpp,147,tutor,"That's right, that's right.",00:16:32
+ahgenpp,148,student,We'll see. 20 times 20 is... [unclear],00:16:36
+ahgenpp,149,student,400.,00:16:49
+ahgenpp,150,tutor,"400. Oh, right. And right, that's great. And also, [STUDENT_NAME], in exams, right, they won't tell you for how many significant figures that you need to round, right? So you better round those things to one significant figure, right?",00:16:50
+ahgenpp,151,student,[unclear],00:17:08
+ahgenpp,152,tutor,"All right, so we have completed this lesson, right? So how do you feel? Did you learn something new?",00:17:10
+ahgenpp,153,student,Yep.,00:17:17
+ahgenpp,154,tutor,"All right, right. So we'll go to our next lesson, right? Right. So now we are going to learn about working with ratio. So have you learned about ratios?",00:17:19
+ahgenpp,155,student,Yep.,00:17:37
+ahgenpp,156,tutor,"Have you done some? Right, go ahead. Right, good. Can you try who is correct then? Out of Maxine, Johan, and Zaynab.",00:17:37
+ahgenpp,157,student,"Okay, well, you got to add 2 and 3 together to get 5, divide 20 by 5, give you 4, and then 4 times 2 is 8, 4 times 3 is 12, so it's Johan.",00:17:47
+ahgenpp,158,tutor,"Right, that's great, good job. Right, can you try this now? [unclear]",00:17:59
+ahgenpp,159,student,"No, she is— wait. Yeah, she's right. [unclear]",00:18:11
+ahgenpp,160,tutor,"Right. So if you are asked, justify your answer, then how do you justify that? You just say she is correct because you just halve it each time, which is just divided by 2.",00:18:25
+ahgenpp,161,student,"Right. Okay. Now, if I say, right, like— [unclear] So this is a ratio, right?",00:18:37
+ahgenpp,162,tutor,Yeah.,00:18:57
+ahgenpp,163,background,Then would Amy's statement is correct with regards to this particular ratio?,00:18:57
+ahgenpp,164,tutor,"Uh, will it be 1/5? [unclear]",00:19:05
+ahgenpp,165,background,Right.,00:19:11
+ahgenpp,166,tutor,"Well, like, [unclear]",00:19:13
+ahgenpp,167,background,This is—,00:19:13
+ahgenpp,168,tutor,—multiplied by 5.,00:19:14
+ahgenpp,169,background,"So this is the simplest form, right?",00:19:17
+ahgenpp,170,tutor,Yeah.,00:19:19
+ahgenpp,171,background,"So Amy is to simplify ratio, you need to keep dividing the values on each side by 2, right? So in this particular ratio, do we have to divide that by 2 or 5?",00:19:21
+ahgenpp,172,student,"No, no, no, by 5. So she's wrong.",00:19:33
+ahgenpp,173,tutor,"Right. So all the time this is not applicable, right?",00:19:37
+ahgenpp,174,background,Right.,00:19:42
+ahgenpp,175,tutor,"That's most of the time that is applicable to like even numbers, right? And then also it's not applicable like, for example, you have 18 is to, let's say, 16, right? So initially you can divide that by 2, right? [unclear] 9 and 8, right? Then you can't go further, right?",00:19:43
+ahgenpp,176,student,Uh-huh.,00:20:14
+ahgenpp,177,tutor,"And also, if, if you get a ratio like [unclear]",00:20:16
+ahgenpp,178,tutor,"Let's say around, like, a ratio that's not divisible by— right, 24, right? Let's say 24. Then if you divide that by 2, then you will get 9. Then if you divide that by 2, again 12, right? Then again, you can't divide that by 2 again, right? Because you have a 9 here. Then you have to divide that by 3, right?",00:20:23
+ahgenpp,179,student,Yeah.,00:20:58
+ahgenpp,180,tutor,"Then 3 is to 4. So all the time, this statement is not correct, right?",00:20:58
+ahgenpp,181,student,Yeah.,00:21:05
+ahgenpp,182,tutor,"So [unclear] is incorrect. Then if you are asked to justify your answer, you can just simply write like this kind of ratio, for an example. And you can just say, okay, this ratio does not follow with this particular statement, right?",00:21:06
+ahgenpp,183,student,"Yeah, right.",00:21:24
+ahgenpp,184,tutor,"Okay, now can you try this? [unclear]",00:21:26
+ahgenpp,185,student,"Well, 5 is going to each, right? [unclear]",00:21:30
+ahgenpp,186,student,"Divided by 15, so it'll be 2/3.",00:21:50
+ahgenpp,187,tutor,"2/3, right? So when you write—",00:21:58
+ahgenpp,188,student,Why is the thingy symbol?,00:22:02
+ahgenpp,189,tutor,"2 is to 3, right? Yeah, why is the ratio symbol? [unclear] So if you feel like unable to, you can use just the draw symbol, right? Okay, that's good. Yeah, that's perfect, right? Right. So the one thing is, right, you just need to write like 30s to 40. You just need to show your methods, right? Like Tom and Fatima, right? Then only you can write the answer in the simplest form, right? [unclear] Okay, so in this question, what you need to keep in mind, like what do you need to remember?",00:22:04
+ahgenpp,190,student,What do I need to remember?,00:22:48
+ahgenpp,191,tutor,Yeah.,00:22:50
+ahgenpp,192,student,What is the simplest form? What like numbers go into both of the ratios?,00:22:51
+ahgenpp,193,tutor,"Yeah, so it not necessarily to be divided by 2, right?",00:22:54
+ahgenpp,194,tutor,Yeah.,00:23:00
+ahgenpp,195,background,"Can be anything. Right, can you try this, right?",00:23:00
+ahgenpp,196,student,"Okay, well, 2 3 is 5. 115 5 is 3. Yeah, so if Jonah has 3 biscuits, that's terrible for her. No, that's",00:23:03
+ahgenpp,197,tutor,"fine, right? And she",00:23:23
+ahgenpp,198,student,"has 2. Alice, you do times this by 3, which would then be 3 times 6. [unclear]",00:23:25
+ahgenpp,199,student,"Wait, I meant 5. I meant 5.",00:23:39
+ahgenpp,200,tutor,"No, wait, I was right.",00:23:50
+ahgenpp,201,student,"Well, I've just confused myself so much.",00:23:53
+ahgenpp,202,tutor,"Alright, that's fine, right?",00:23:56
+ahgenpp,203,student,"Wait, hang on, let me read this. Okay, [unclear] has 15 biscuits. No, so this one here. Is 5. So this one would be 5, so it would be 10, right?",00:24:03
+ahgenpp,204,tutor,So what's your answer then? How much— how many Alicia has hair?,00:24:26
+ahgenpp,205,student,She has 10.,00:24:32
+ahgenpp,206,tutor,"10, right? That's correct. Good job. Right, so how did you get the correct answer?",00:24:34
+ahgenpp,207,student,"Well, because obviously 15 divided by 3 is 5.",00:24:44
+ahgenpp,208,tutor,So why are you dividing 15 by 3?,00:24:49
+ahgenpp,209,student,Because that's like the lowest number that goes into 15. Like in 3 multiplications.,00:24:53
+ahgenpp,210,tutor,Okay.,00:24:58
+ahgenpp,211,student,And 5 times 2 is 10.,00:25:00
+ahgenpp,212,tutor,"Right. Okay, that means like you have [unclear] here, then ratio is 2 is to 3, right? Then she has 15, right? Then if you want to convert 3 into 15, you have to multiply that by 5. Then you have to multiply this also by the same factor.",00:25:04
+ahgenpp,213,student,Yes.,00:25:23
+ahgenpp,214,tutor,"Then you end up with 10, right?",00:25:24
+ahgenpp,215,student,Right. [unclear],00:25:26
+ahgenpp,216,tutor,"Okay, can you try this? How much water needs to be added to 200ml squash? [unclear] 7, 8, 9. 7 2 is 9. Would you need 200 divided by 9? That",00:25:30
+ahgenpp,217,tutor,"was a nice try, but unfortunately the answer is incorrect. Can I give it a try? Fruit squash is made by mixing squash and water. So, oh, 200 divided by 2. Wait, let me write out 200 divided by 2, right? [unclear]",00:25:54
+ahgenpp,218,student,"Okay, right there.",00:26:19
+ahgenpp,219,tutor,"Is equal to 100. So it's— if we want 100 milliliters, right, then you need [unclear] squash. Is it like 700 milliliters?",00:26:22
+ahgenpp,220,tutor,"Yes, that's 100 milliliters. Good job. Why? Why it's 700? Why did you divide that by 2 to get 100?",00:26:48
+ahgenpp,221,student,"Obviously because the ratio is 2 is squash and 7 is water. And if you like, because it's giving you the amount of [unclear] squash you have, which is 200 milliliters. So you divide it by the ratio that is the squash one.",00:26:56
+ahgenpp,222,tutor,Okay.,00:27:09
+ahgenpp,223,student,And you just times that by the other ratio that you have.,00:27:11
+ahgenpp,224,tutor,"Right, good job. Right?",00:27:16
+ahgenpp,225,student,Yep.,00:27:19
+ahgenpp,226,tutor,"So, uh, for correctly identifying like this 100, right, you get one mark. And for the final correct answer as 700 milliliters, you get another one mark, right? So for each and every question, you just have to show your steps, right? [unclear]",00:27:19
+ahgenpp,227,student,Yeah.,00:27:37
+ahgenpp,228,tutor,"Okay, there we go. Can you try this one?...money in the ratio 2:3:5, totally receives [UNCLEAR]... Okay, well, 5 + 3 + 2 is 10.",00:27:38
+ahgenpp,229,tutor,Mm-hmm.,00:27:38
+ahgenpp,230,student,So would you do 200 divided by 10 equals to 20.,00:27:47
+ahgenpp,231,tutor,Right.,00:28:07
+ahgenpp,232,student,"And then you do 20 times by 2, and you do 20 times by 3, and you do 20 times by 5, and these are equal to 40, 60, [unclear]",00:28:09
+ahgenpp,233,tutor,"Already. Right. So that's what they get. So how much does Harlan receive? 40, right? 40 pounds. [unclear]",00:28:37
+ahgenpp,234,student,"Yes, both. Yes, yes, yes.",00:28:48
+ahgenpp,235,tutor,"40 pounds. Fine. Good. So you need to include the— right, that's correct. That's the complete answer, right? If Okay, so you just don't have to find these things, right? If you have only found the answer only for Harland, then that's correct, right? All right, so that's the question, right? Yeah. All right, try this one. [unclear]",00:28:49
+ahgenpp,236,student,"Right, sometimes we need to work out the values and make sure you use the difference between two. [unclear]",00:29:26
+ahgenpp,237,tutor,"Well, work out how many parts the difference— so the difference in parts, 3 minus 1 equals 2. So 10 sweets is equal to 2 parts. Okay, find the value of 1 part. [unclear]",00:29:34
+ahgenpp,238,tutor,Use to find the original total.,00:29:58
+ahgenpp,239,student,"So you want me to do the one at the top, yeah?",00:30:05
+ahgenpp,240,tutor,Yeah. So how many flowers did she pick? [unclear] How many flowers did she pick together?,00:30:08
+ahgenpp,241,student,"She do— well, 6 take away 1 is 5.",00:30:18
+ahgenpp,242,tutor,"Right, okay.",00:30:22
+ahgenpp,243,student,So 5 parts is 30 down the lines.,00:30:23
+ahgenpp,244,tutor,Mm-hmm.,00:30:25
+ahgenpp,245,student,"Wait, let me write this down. 5 is equal to 30.",00:30:27
+ahgenpp,246,tutor,Okay.,00:30:35
+ahgenpp,247,student,"Right, okay. And then 30 divided by 5 is equals to— oh, bloody hell. [unclear]",00:30:36
+ahgenpp,248,student,So one part is equal to 6.,00:30:55
+ahgenpp,249,tutor,Okay.,00:30:57
+ahgenpp,250,student,"So you do 6 times 6, which is 36, and then just the one, which is 6. So 6 times 6. Oh, 35, like 6. [unclear] 1 times 6, and that's equal to 6. Oh, not pi. And you just add them together, which is 42.",00:30:59
+ahgenpp,251,tutor,"42, that's it. Good job, right?",00:31:29
+ahgenpp,252,student,And that's the [unclear] you picked.,00:31:31
+ahgenpp,253,tutor,"Yeah. So this is the summary slide, right? Can you try the first one? What's the mistake? Can you figure it out, the mistake? [unclear]",00:31:33
+ahgenpp,254,tutor,"Yeah, what's the mistake?",00:31:43
+ahgenpp,255,student,"They didn't take it away, they added it.",00:31:53
+ahgenpp,256,tutor,"So you need to multiply this by 5, right?",00:31:57
+ahgenpp,257,student,Yes.,00:32:00
+ahgenpp,258,tutor,Both sides. Then you would get like 10 is to 25. How about the next one? [unclear],00:32:00
+ahgenpp,259,tutor,"Well, you'd have to add the two numbers together, yeah.",00:32:14
+ahgenpp,260,student,Alright then.,00:32:17
+ahgenpp,261,tutor,"But then the times, you've got to divide it by 30.",00:32:17
+ahgenpp,262,student,Alright.,00:32:21
+ahgenpp,263,tutor,So then you find out what one part is and times it by the two and then the three.,00:32:23
+ahgenpp,264,student,"Yes, so if you divide 30 by 5, you get 6, right? So you need to times this by 6, both sides. So 12 is [UNCLEAR], right?",00:32:28
+ahgenpp,265,student,Yeah.,00:32:28
+ahgenpp,266,tutor,"So I think we have completed this as well. Good job, [STUDENT_NAME]. You have done a wonderful job today, right? So I think the time is over. I'm going to stop the class now. Have a nice day, right? Thank you for joining.",00:32:38
+ahgenpp,267,student,"Yeah, thank you.",00:32:50
+ahgenpp,268,tutor,"Okay, bye.",00:32:52
+ahgenpp,269,student,Bye.,00:32:53

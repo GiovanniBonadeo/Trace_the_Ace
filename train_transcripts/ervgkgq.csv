@@ -1,0 +1,372 @@
+session_id,utterance_id,role,content,timestamp
+ervgkgq,0,background,[unclear],00:00:00
+ervgkgq,1,tutor,I'm on.,00:00:00
+ervgkgq,2,student,"Hello? Yes, Callum, can you hear me?",00:00:24
+ervgkgq,3,student,"Yep, I can hear you.",00:00:27
+ervgkgq,4,tutor,"Alright, that's awesome. So yeah, Callum, how are you today?",00:00:29
+ervgkgq,5,student,"I'm good, thank you. How are you?",00:00:32
+ervgkgq,6,tutor,"I am doing great, thank you for asking. And yes, so did you do anything special since we last met, Callum?",00:00:35
+ervgkgq,7,student,"Uh, no, no, nothing special. What about you?",00:00:43
+ervgkgq,8,tutor,"Alright, uh, not really. I don't think I have anything special, yeah.",00:00:46
+ervgkgq,9,tutor,"So yes, Callum, so with that, okay, we'll get to today's session. So here we go. We were working about this calculating averages from tables and we were working on stuff like range, mode, median, and mean. So this was a question we were doing in the last class and we used the support slide as well. Just to recall this, Callum, can you recall how do we find the range here when you have a [unclear] table like this?",00:00:52
+ervgkgq,10,tutor,"We have to— sorry, what did you ask again?",00:01:25
+ervgkgq,11,student,"Yes, this is right. So yeah, how do we find the range in these types of questions?",00:01:29
+ervgkgq,12,tutor,"Oh, okay. Yes, so we just did the— in the frequency, we did the highest amount minus the smallest amount, which is 14 minus 7, which is 7.",00:01:34
+ervgkgq,13,student,"Okay, we have a small mistake there. So let's take this out, Callum. Okay, it's all right.",00:01:47
+ervgkgq,14,tutor,So there's a small point here. [unclear],00:01:53
+ervgkgq,15,student,"Oh, it's the values. Never mind. The range tells us the spread of the data, and the range is the highest value minus the lowest value. So it's just 3 minus 1.",00:01:56
+ervgkgq,16,tutor,"So fantastic, Callum. So it's like, for example, frequency is like how many number of times you have this silver. So The value will be considering for the range. And the next thing, to find the modal number of children, to find the mode, like, what's the method you can use here?",00:02:09
+ervgkgq,17,tutor,"Oh, it's the most common number.",00:02:28
+ervgkgq,18,student,"Absolutely, the most common number.",00:02:31
+ervgkgq,19,tutor,Yeah.,00:02:32
+ervgkgq,20,student,So it would be 2.,00:02:33
+ervgkgq,21,tutor,"All right, yes, it would be 2. That's right. So, [unclear]",00:02:37
+ervgkgq,22,tutor,"It will be 2. And we were also working through this median, but we couldn't complete this. So yes, Callum, so I'll give you a chance once again today. Can you go through this [unclear] if you want and check how do we find the median of these types of data?",00:02:44
+ervgkgq,23,student,"Um, yeah, so what we do is— okay, well, the median is the middle number when the data is organized in order. To find this from the frequency table, we need to find the value of the data point in the position, and then that's the— [unclear]",00:03:02
+ervgkgq,24,tutor,—formula to find that.,00:03:24
+ervgkgq,25,student,I didn't really understand this last week because—,00:03:26
+ervgkgq,26,tutor,"Yeah, it was in a rush. Okay, so it's alright, Callum. So we'll try to recollect that once again. So what you told here was really fine. So the median is like the middle value when you arrange the data, when you organize it in an order. So like, reading this one second, Callum, what do you understand from this?",00:03:31
+ervgkgq,27,student,"The median is the middle number, and when we want to find the frequency— [unclear] What do you mean by organizing in order here, Callum?",00:03:56
+ervgkgq,28,student,"So, like in chronological order, like from smallest to largest. [unclear]",00:04:13
+ervgkgq,29,tutor,"All right, okay, there we go. The smallest thing, let's correct that first. So, organizing in the sense, like, for example, here we have 0 and the frequency is 7 times. So that means 0 is repeated 7 times. So they have like [unclear] here. They have 1, 2, 3, 4, 5, 6, 7 zeros.",00:04:20
+ervgkgq,30,tutor,Yes.,00:04:41
+ervgkgq,31,student,"And then you have 1, which would be 11 times, and it goes on like this. You can type the 1 11 times.",00:04:42
+ervgkgq,32,tutor,"Yeah, and then the 2, 14 times.",00:04:47
+ervgkgq,33,student,"14 times, and the 3 would be 7 times. This one is the order they're reading in.",00:04:50
+ervgkgq,34,tutor,Okay.,00:04:58
+ervgkgq,35,student,Yeah.,00:04:58
+ervgkgq,36,tutor,Can I understand?,00:04:58
+ervgkgq,37,student,It's like organized in order. [unclear],00:04:59
+ervgkgq,38,tutor,Yeah.,00:05:02
+ervgkgq,39,student,"So, all the numbers in a list like this. In a list like this. And now, it's a bit— if we have a number which is exactly at the middle. So, like, one thing we can do is we can list all the numbers in order, like, and we can find the middle one. That's going to take a lot of time.",00:05:03
+ervgkgq,40,tutor,Yes.,00:05:20
+ervgkgq,41,student,"So, to find the middle number, we have a technique. Okay, so we have something called— we have an equation like this. So to find what would be our middle number, we have a technique like this. So total frequency plus 1 divided by 2. So do you think you can find me the total frequency for this table?",00:05:21
+ervgkgq,42,student,"Um, yes. So the total— all of the frequency added up together.",00:05:42
+ervgkgq,43,tutor,Absolutely. [unclear],00:05:50
+ervgkgq,44,student,So that would give me—,00:05:52
+ervgkgq,45,tutor,39.,00:05:59
+ervgkgq,46,student,"Absolutely, go for it. You can type it here. And now we are going to use the equation and we are going to find the middle value, the middle number we should be finding.",00:06:00
+ervgkgq,47,tutor,"Yeah, so you would do 39 add 1 divided by 2?",00:06:12
+ervgkgq,48,student,Yes.,00:06:18
+ervgkgq,49,tutor,So that would just be 20. [unclear],00:06:19
+ervgkgq,50,tutor,"Fantastic, that's right. Alright, so we know it's going to be the 20th number. We haven't found the median still, so we know it's going to be the 20th number. So now to find the 20th, so you know in your list, let me come back to this again. So in your list you have either 0, you have a 1, or you will have 2 coming, or you will have 3 coming. So you have to find which number is Either 0, 1, 2, or 3 would be your 20th number. So what do you think would be your 20th number if you write all of them in the length step? So you have a 0 there. And, okay, it would be 7 times, and then you have 1, 1, and it goes on.",00:06:22
+ervgkgq,51,tutor,Yeah.,00:07:07
+ervgkgq,52,student,Would it be [UNCLEAR]?,00:07:07
+ervgkgq,53,tutor,"I'm sorry, what?",00:07:07
+ervgkgq,54,background,"All right. To find that, you have a technique here. So we're going to use this side to find that. So you have only how many zeros here?",00:07:11
+ervgkgq,55,tutor,7.,00:07:21
+ervgkgq,56,student,"7 zeros. So let me write that here. So it's going to be zeros would count up to 7. Now let's count the 1 together. So once all the 1 is written, okay, so for example, you have already 7 zeros. Once all the 1s is written, how many total numbers do you have from the beginning?",00:07:23
+ervgkgq,57,background,18.,00:07:41
+ervgkgq,58,student,"18. So like, you can type that also there. So I'll do this for you. You can do [UNCLEAR]. Thank you. Is it right?",00:07:42
+ervgkgq,59,tutor,Okay.,00:07:49
+ervgkgq,60,student,"There, 1, and then 18. And then you're going to type in the 2s. So have you reached the 20th number still?",00:07:50
+ervgkgq,61,background,"Not yet, no.",00:07:59
+ervgkgq,62,student,"Not yet. So you're still in the 18th number. So now we check on this. When you add the 2s, so like you type, go on typing the 2s, you type 14 2s, so up to how much can you go?",00:08:00
+ervgkgq,63,background,"Oh, to 32.",00:08:13
+ervgkgq,64,student,"Absolutely, 32. So now you're almost at the end. Now you can think and let me know. Number 20, the 20th number would be 0, or will it be 1, or will it be 2, or will it be 3?",00:08:15
+ervgkgq,65,tutor,I think it would be 2.,00:08:31
+ervgkgq,66,background,"Fantastic, there you go. So 2 is going to be in the 20th ring.",00:08:33
+ervgkgq,67,student,"Ah, okay.",00:08:39
+ervgkgq,68,background,There you go. So that's your median. Is that all clear?,00:08:40
+ervgkgq,69,student,"Yeah, I got that now.",00:08:44
+ervgkgq,70,background,"Fantastic. So you have— before we go into the next one, can you like summarize what you have learnt?",00:08:46
+ervgkgq,71,tutor,"Yeah, so the median is the middle number when the data is ordered. And then to find this, you do the total frequency, so you add all the frequency together, plus 1 divided by 2, and that's the total frequency. [unclear]",00:08:53
+ervgkgq,72,student,"Yeah, and that's the median number, to find that.",00:09:13
+ervgkgq,73,tutor,And then you— I don't know what you call this bit.,00:09:21
+ervgkgq,74,student,"Okay, so that's where the median lies. So we have to find what is the 20th number. So to find the 20th number, we can do this method, like up to here, zeros would be up to the 7th number, and 1 would be up to 18th number. And if it is more than 18th number, it's going to be 2, like you will have 2 coming. [unclear] So it's going to be the 20th number with 4 in the second. [unclear]",00:09:25
+ervgkgq,75,tutor,"So that's going to be the mean here. And we have another section, mean. So finding mean. All right, so this was your next question. So in your last class, we were supposed to find the mean as well. What is the mean of roughly? And yeah, we have a separate slide for that. Yes, thank you. So there you go. So we have summarized this section. You can go through this.",00:09:52
+ervgkgq,76,tutor,Let me know when you're ready. [unclear],00:10:19
+ervgkgq,77,student,So what you would do—,00:10:22
+ervgkgq,78,tutor,I guess you have a lot of distractions there.,00:10:28
+ervgkgq,79,student,"Yeah, there's a bee.",00:10:31
+ervgkgq,80,tutor,Alright.,00:10:34
+ervgkgq,81,student,"Okay, it's gone now. Sorry.",00:10:35
+ervgkgq,82,tutor,"It's all fine, Callum. So that's happened.",00:10:39
+ervgkgq,83,student,"Yeah, yeah, it's gone now.",00:10:42
+ervgkgq,84,tutor,Okay.,00:10:50
+ervgkgq,85,student,"So from here, the mean is basically all of the numbers added together divided by how much there is.",00:10:51
+ervgkgq,86,tutor,"Fantastic, yes.",00:11:00
+ervgkgq,87,student,"And then to find the mean, we need to do the total of the frequency times by— I think it's number of children.",00:11:02
+ervgkgq,88,tutor,"Okay, yes, absolutely. X is going to be the number of children.",00:11:12
+ervgkgq,89,student,Yeah. And then—,00:11:16
+ervgkgq,90,tutor,"Yeah, after you times those two together, you divide it by the total amount of the frequency.",00:11:17
+ervgkgq,91,student,Yeah.,00:11:24
+ervgkgq,92,background,Yes.,00:11:24
+ervgkgq,93,tutor,"So it's like total of effects in a sense. First you have to times both of them together, and then you have to do the total.",00:11:25
+ervgkgq,94,tutor,Yeah.,00:11:32
+ervgkgq,95,student,I can do that one.,00:11:33
+ervgkgq,96,tutor,All right.,00:11:35
+ervgkgq,97,student,"So you do 39, which is the total, and then you do the frequency times the number of children.",00:11:35
+ervgkgq,98,tutor,Yep.,00:11:46
+ervgkgq,99,student,So that would be 0.,00:11:47
+ervgkgq,100,tutor,Yes.,00:11:50
+ervgkgq,101,student,11. [unclear] Oops. This one will be 28.,00:11:53
+ervgkgq,102,tutor,Okay.,00:12:01
+ervgkgq,103,student,And this one will be 21.,00:12:03
+ervgkgq,104,tutor,Yep. [unclear],00:12:06
+ervgkgq,105,tutor,"So it's not— okay, there you go. 21, and then I'll add those together. [unclear]",00:12:15
+ervgkgq,106,tutor,60.,00:12:23
+ervgkgq,107,student,"Okay, that's right.",00:12:28
+ervgkgq,108,tutor,"Yes, 60. Okay, and then",00:12:32
+ervgkgq,109,student,"Yes, so then I do the total frequency times by the number of children— wait, what am I doing? Oh yeah, yeah, okay, then I do 60 over— divided by 39.",00:12:37
+ervgkgq,110,tutor,That's right.,00:12:51
+ervgkgq,111,student,That would give me 1.54.,00:12:54
+ervgkgq,112,tutor,"Yes, you can write it for one decimal place, Callum. Okay, yeah.",00:12:59
+ervgkgq,113,student,"Okay, then it'll just be 1.5.",00:13:02
+ervgkgq,114,tutor,That's absolute. [unclear],00:13:05
+ervgkgq,115,student,"So yes, zygo 1.5 is going to be the B. Now as you see here, this is a 3-mark question there. So you are going to get 3 marks here. So we'll see the mark breakdown for this, Callum. So this final answer, you will be getting 1 mark. And the 5A gets exact value, like for multiplying all of this and getting these answers correctly, you're getting 1 mark there. And for the 6C, For addition of all of this, you're giving another mark there. So a total of 3 marks in this question. So I hope now all this stuff is clear. So we have learned about 4",00:13:10
+ervgkgq,116,background,"find the range, find the mode, and then we have the median, and then we have the mean. Is it all clear for you, Callum? [unclear]",00:13:46
+ervgkgq,117,student,"Yeah, that's clear.",00:13:56
+ervgkgq,118,tutor,"All right, okay. So there you go. There's a similar question for you here, Callum. Can you give me the answer?",00:13:58
+ervgkgq,119,background,"Um, yes.",00:14:04
+ervgkgq,120,tutor,"Okay, what is the range of the number? So the range is the biggest value minus the smallest value. So it's 4 minus 1, which is 3.",00:14:06
+ervgkgq,121,student,"Fantastic, that's right. [unclear]",00:14:20
+ervgkgq,122,tutor,"Okay, let me just share one thing. So this is a 2 marker sheet.",00:14:25
+ervgkgq,123,background,"Yeah, we think you will be getting both the 2 marks for this one.",00:14:30
+ervgkgq,124,student,"Oh, okay. No, I need to do my work now as well.",00:14:33
+ervgkgq,125,background,"Okay, there you go.",00:14:36
+ervgkgq,126,tutor,"Yeah, okay. And then the modal number would be 4 because it has the greatest amount of times.",00:14:39
+ervgkgq,127,student,That's right.,00:14:48
+ervgkgq,128,tutor,And then the median number is you do the total frequency.,00:14:49
+ervgkgq,129,student,Yeah.,00:14:56
+ervgkgq,130,tutor,So you just add them all together.,00:14:56
+ervgkgq,131,student,Yeah. [unclear] [unclear],00:14:59
+ervgkgq,132,tutor,"So that should give me 20. Yeah, and then— oh no, wait, you—",00:15:05
+ervgkgq,133,student,"Yeah, I did.",00:15:25
+ervgkgq,134,tutor,I kind of forgot the formula. Is it you add 1 and then divide it by 2?,00:15:27
+ervgkgq,135,background,"You are right, yes. Okay, so to find the median,",00:15:32
+ervgkgq,136,tutor,"To find the total frequency, add plus 1, and then you divide it by 2.",00:15:36
+ervgkgq,137,student,"Okay, yeah. Okay, so then I'll add 1 to it, which is just 11. [unclear]",00:15:41
+ervgkgq,138,tutor,"That would give me 11, which is the median number.",00:16:03
+ervgkgq,139,student,Yeah.,00:16:09
+ervgkgq,140,tutor,"Yeah, and then I'll add the collets together.",00:16:11
+ervgkgq,141,student,Right.,00:16:17
+ervgkgq,142,tutor,"So it would be 4, and then 6 add 2 is 8, plus 4 is 12.",00:16:18
+ervgkgq,143,tutor,"Oh, and then—",00:16:29
+ervgkgq,144,student,My medium number would be 2 because it's reached above the 11.,00:16:33
+ervgkgq,145,tutor,"Okay, so do you think you could check the median steps once again, Callum? I'll give you a chance once again. There's a small mistake in this step over here, and there's a small mistake over here as well. [unclear]",00:16:41
+ervgkgq,146,student,Yes.,00:16:56
+ervgkgq,147,tutor,Very small mistake. [unclear],00:16:57
+ervgkgq,148,tutor,"The first sentence is right, just for your second sentence.",00:17:09
+ervgkgq,149,student,"Yeah. Okay, wait, so I did— yeah, yeah, do you not do 20 1 2?",00:17:14
+ervgkgq,150,tutor,20 plus 1. 20 plus 1.,00:17:27
+ervgkgq,151,student,"Oh, okay. Why did I do that? Oh, why did I do— okay, yeah, yeah, I see. Never mind.",00:17:30
+ervgkgq,152,tutor,"All right, it's all right. That happens.",00:17:38
+ervgkgq,153,student,"So it would just be 21 divided by 2. Yeah, okay, which is just 10.5.",00:17:42
+ervgkgq,154,tutor,"Awesome. That's right, 10.5. But that's not going to make a big deal, but you would be still getting a mark for this 10.5. So that's why that's",00:17:50
+ervgkgq,155,tutor,"Okay, yeah. And then from there, I add—",00:17:58
+ervgkgq,156,student,I think there's a mistake here.,00:18:04
+ervgkgq,157,tutor,Here? Because I added the—,00:18:06
+ervgkgq,158,student,You added the something which should not be added.,00:18:10
+ervgkgq,159,tutor,"Oh, [UNCLEAR]. Great. So it will be 3. And then from there, I'll do— 6 plus 6 times 8, which is 6 times 2, sorry.",00:18:13
+ervgkgq,160,tutor,"Yeah, let me show you this, Callum. Okay, you can take some time, just go through this. Let's come back. [unclear]",00:18:31
+ervgkgq,161,student,"So I would times the— yes, here they times the other unit. Yeah, the story of times in together, you're getting mean. So for median, we don't times, we just count all the frequency together until we get the right.",00:18:43
+ervgkgq,162,tutor,"Oh, you just add them? Okay.",00:19:02
+ervgkgq,163,student,"Yes, you're adding. So yeah, let's— let me go back. [unclear] Here we go.",00:19:04
+ervgkgq,164,tutor,"Oh, so I'll just do 3 6, which is 9. Yes.",00:19:09
+ervgkgq,165,student,And,00:19:17
+ervgkgq,166,tutor,"then 9 4 4 is 11, I think. No, it's 13, sorry.",00:19:17
+ervgkgq,167,tutor,All right.,00:19:24
+ervgkgq,168,student,"Okay, and then my median num— sorry?",00:19:26
+ervgkgq,169,tutor,"Yeah, where would 10.5 fall?",00:19:33
+ervgkgq,170,student,It would be in the 3.,00:19:35
+ervgkgq,171,tutor,"Absolutely, there you go.",00:19:40
+ervgkgq,172,student,"Okay, yeah, it'll be in the 3.",00:19:41
+ervgkgq,173,student,"And then to find the mean, I would do times the frequency with absences. So I would do 1 times 3, 2 times 3, and then 2 times 3, and then [unclear] and then 2 times 8, and then 3 times 8, and then 4 times 8, and then 2 times 8, and then 8 times 4, and then 4 times 8, and then 8 times 4, and then 4 times 8, and then 8 times 4.",00:19:46
+ervgkgq,174,tutor,And then I would— [unclear],00:20:16
+ervgkgq,175,student,"Yes, I've times them all together, and then I would add them all together.",00:20:20
+ervgkgq,176,tutor,Okay.,00:20:30
+ervgkgq,177,student,Which is 55.,00:20:36
+ervgkgq,178,tutor,That's right.,00:20:39
+ervgkgq,179,tutor,"And then to that I would do 55 minus the total frequency, and the total frequency is 20. So 55 divided by 20. [unclear] It'll be 2.75.",00:20:43
+ervgkgq,180,student,Okay.,00:21:06
+ervgkgq,181,tutor,final answer.,00:21:06
+ervgkgq,182,student,Yeah.,00:21:06
+ervgkgq,183,background,final answer.,00:21:06
+ervgkgq,184,tutor,"Alright, okay, so that's a good recollection of your [UNCLEAR]. So we'll check your answers, Callum. So for your step here, for takeaway 1, you're getting 1 mark, and also for your final answer, you're getting 1 mark. So altogether, 2 marks there. And your modal answer is also right, so you're getting 1 mark for that. And for the median, you're scoring 2 marks, so 1 mark is going to be 10.5.",00:21:06
+ervgkgq,185,tutor,"And the other mark is for finding the 10.5 value, so that would be 2 marks. And for your mean number, for multiplying all of this stuff, you're getting 1 mark. And for finding the total of this, you're getting 1 mark. And for your total addition, you're getting— sorry, it's a division— you're getting 3 marks there. So you are scoring 8 out of 8 here.",00:21:40
+ervgkgq,186,tutor,"But we still— there was a mistake somewhere in the middle, so let's— [unclear]",00:22:09
+ervgkgq,187,tutor,Recall that once again.,00:22:16
+ervgkgq,188,tutor,So how do you find the median?,00:22:18
+ervgkgq,189,student,You add all the frequencies together.,00:22:22
+ervgkgq,190,tutor,Yeah.,00:22:27
+ervgkgq,191,student,"Actually, no, that's the range.",00:22:27
+ervgkgq,192,tutor,"Oh, right.",00:22:31
+ervgkgq,193,student,"It's okay. You times the— oh wait, we're doing medium, right?",00:22:31
+ervgkgq,194,tutor,Yes.,00:22:36
+ervgkgq,195,student,"Okay, sorry then. Yeah, you'd add all the frequencies together and then you'd add that to 1 and then divide it by 2.",00:22:37
+ervgkgq,196,tutor,All right.,00:22:49
+ervgkgq,197,student,And then that would give you the median number.,00:22:50
+ervgkgq,198,tutor,"Okay, so place where the median is there, yeah?",00:22:54
+ervgkgq,199,student,Yeah. And then you would add the frequency and the values together. Until you get the value?,00:22:57
+ervgkgq,200,tutor,"Not the value, not the values, just the frequency only. Like you have this 3. [unclear]",00:23:05
+ervgkgq,201,student,"Oh yeah, yeah.",00:23:14
+ervgkgq,202,tutor,"You get the 9, you're just— [unclear]",00:23:14
+ervgkgq,203,student,"Okay, yeah, just the frequencies until you get to the value of the median number.",00:23:16
+ervgkgq,204,tutor,"Okay, all right. So all— so far all of this is good, but there is a small mistake here we should be noting, Taylor. So I know this was a 20, it's all right. So",00:23:24
+ervgkgq,205,tutor,"Now, just asking you this, 20 1, okay, according to your answer, this is how your answer is, 20 1 21 2. Yes. Yeah, let me [unclear]",00:23:36
+ervgkgq,206,tutor,repeat,00:23:48
+ervgkgq,207,tutor,"this. So you think, you have written it like this, 20 1 21 2, and that's equal to 10.5. So,",00:23:49
+ervgkgq,208,tutor,This means like 20 and 1 is also equal to 10.5 because you have written that in a line with equal sign.,00:24:01
+ervgkgq,209,student,"Oh, okay. So then I'll just split up here.",00:24:09
+ervgkgq,210,tutor,"All right, the correction that must be made is you could have just written division by 2 here. So even if you write this way, that would be fine like that. So it's like 20 plus 1 divided by 2.",00:24:15
+ervgkgq,211,tutor,"And that would take 21 minutes, right?",00:24:28
+ervgkgq,212,student,Yeah.,00:24:31
+ervgkgq,213,tutor,"Getting the answer. Yes, splitting would have worked. Okay, so either you could have done this splitting, right? So that is something to be the [UNCLEAR].",00:24:32
+ervgkgq,214,student,"Oh, yeah.",00:24:32
+ervgkgq,215,tutor,"Yeah, this is a good table.",00:24:42
+ervgkgq,216,student,"Yeah, I get that.",00:24:45
+ervgkgq,217,tutor,"All right, good. And now you have a different type of chart. So here we go. So this",00:24:46
+ervgkgq,218,tutor,Is your time to try? [unclear] Let me know if you want help.,00:24:53
+ervgkgq,219,student,The table shows the time students in 8G took to get to school. What is an estimate of the range of the time? Don't know about the estimate of the range.,00:25:00
+ervgkgq,220,tutor,That's tricky.,00:25:18
+ervgkgq,221,tutor,"Yeah, let me ask you this way, Callum. So you got a chart here and you also had a chart in the previous thing. So what is the difference between these two tables?",00:25:20
+ervgkgq,222,student,This one has the greater than and less than.,00:25:30
+ervgkgq,223,tutor,"All right, there's a special name to call both of these tables. Do you remember that? [unclear] Okay, it's all right.",00:25:35
+ervgkgq,224,tutor,So we call this ungrouped frequency table. You don't group this here. So ungrouped frequency table. And this will be called grouped frequency table.,00:25:46
+ervgkgq,225,student,"Okay, yeah.",00:25:57
+ervgkgq,226,tutor,"So in our next page, okay, we have some helpful [UNCLEAR]. So in a grouped frequency table, so in grouped frequency table, you have a completely different story to find this range. Model class, maiden, mixed. Model class is a little bit same, but the range is different.",00:25:59
+ervgkgq,227,tutor,"Yeah, obviously that. So, you have a small point there about the group frequency. Can you go through that? Let me know what you understand. [unclear]",00:26:18
+ervgkgq,228,student,"Yeah. So, in a grouped frequency table, the data has been collected into groups. This helps summarise the data but means we can't work out the exact data points. We can find an estimate for the range from the first value",00:26:26
+ervgkgq,229,tutor,of the first class interval and the last value of the last class interval.,00:26:26
+ervgkgq,230,student,Alright.,00:26:26
+ervgkgq,231,tutor,So what do you get there? [unclear],00:26:51
+ervgkgq,232,student,"So you find the estimate from the— I think it's from this value, the first value and the last value.",00:26:57
+ervgkgq,233,tutor,Alright. So which chart is going to show you the value? Is it time or the frequency?,00:27:08
+ervgkgq,234,tutor,Is it the frequency?,00:27:15
+ervgkgq,235,student,No.,00:27:17
+ervgkgq,236,tutor,All right.,00:27:17
+ervgkgq,237,background,Or the time.,00:27:18
+ervgkgq,238,tutor,"Time will be still showing you the value. So they had told you something like this here. From the first value of the first class interval— let me underline that for you. So first value of the first class interval and the last value of the last class interval. So let's find out first. So first class interval, what do you think is the first class interval here?",00:27:19
+ervgkgq,239,tutor,"Uh, would it be— [unclear]",00:27:47
+ervgkgq,240,tutor,"Oh, would it be 1? All right, so it's from— it's starting from 0, and you had the 2 here, and this is not the 1. This is like showing you the time here.",00:27:50
+ervgkgq,241,background,"Oh, okay, so then would it just be 3?",00:28:01
+ervgkgq,242,tutor,"All right, it's going to be the frequency. So it's like, now the meaning is like this, Tutor. So you have the time here, you have the yellow anything here. So you have the yellow, it shows that it's going to be less than, but it's going to be more than or equal to zero. So the minimum value here, when you like see here, first value of the first class. So this is meant as the first value.",00:28:05
+ervgkgq,243,tutor,"Oh, okay.",00:28:31
+ervgkgq,244,student,This is going to be the second value of the first class.,00:28:31
+ervgkgq,245,tutor,Yeah.,00:28:34
+ervgkgq,246,student,So the first value of the first class here is going to be 0.,00:28:35
+ervgkgq,247,tutor,0.,00:28:40
+ervgkgq,248,student,Yeah.,00:28:42
+ervgkgq,249,tutor,All right. Now we'll find the next part. We're asking you the last value of the last [UNCLEAR]. Can you check the last [UNCLEAR]?,00:28:43
+ervgkgq,250,student,Yeah.,00:28:43
+ervgkgq,251,tutor,All right. And the last value of this?,00:28:54
+ervgkgq,252,student,"Would be 15. 8 or 15. So now you have the smallest [unclear] and you have the biggest value, and now you know how to find the ratio.",00:28:57
+ervgkgq,253,tutor,"So you cut out the largest? Oh, the difference between the largest and the smallest?",00:29:13
+ervgkgq,254,student,Yeah.,00:29:20
+ervgkgq,255,tutor,Absolutely. So find [unclear],00:29:26
+ervgkgq,256,tutor,"And yes, so you can— [unclear]",00:29:31
+ervgkgq,257,student,9. [unclear],00:29:31
+ervgkgq,258,tutor,So is this side all right? [unclear],00:29:59
+ervgkgq,259,student,Hello?,00:30:09
+ervgkgq,260,tutor,"Yes, Callum, are you there?",00:30:10
+ervgkgq,261,student,"Yeah, you just cut out for a bit.",00:30:14
+ervgkgq,262,tutor,Oh.,00:30:18
+ervgkgq,263,student,"Yeah, we've got up to—",00:30:19
+ervgkgq,264,tutor,"The first and the last values, and you just work out the difference between the two?",00:30:24
+ervgkgq,265,student,Absolutely. You select these two numbers and you work out the difference between them.,00:30:30
+ervgkgq,266,tutor,"Oh, so it's just [UNCLEAR]. Oh, is that just the mean?",00:30:35
+ervgkgq,267,student,"Yes. Yes, that's going to be the range.",00:30:35
+ervgkgq,268,tutor,"So yeah, the range. Oh yeah, okay.",00:30:42
+ervgkgq,269,student,"So since this is a two-marker shift, so make sure they're right. Yeah, there you go. So 15 take away 0 is going to be 15. There you go, that's right. So, 1 mark would be given for your steps and the 1 mark is going to be for your final answer. Now, is the range all clear, Callum?",00:30:44
+ervgkgq,270,student,"Yeah, that's all clear.",00:31:02
+ervgkgq,271,tutor,"Alright. So, how do we find the range in the group data once again? Sorry, ungrouped data?",00:31:04
+ervgkgq,272,background,You add the frequency together.,00:31:11
+ervgkgq,273,student,The range.,00:31:15
+ervgkgq,274,background,Yeah.,00:31:17
+ervgkgq,275,background,"Oh, sorry, you take away the smallest from the largest.",00:31:18
+ervgkgq,276,tutor,"Okay, that was 3 take away 0.",00:31:21
+ervgkgq,277,student,Yeah.,00:31:25
+ervgkgq,278,tutor,"And in this case, it would be like the maximum number, the 15, you take away from the 0.",00:31:25
+ervgkgq,279,student,Yeah.,00:31:34
+ervgkgq,280,tutor,"So, like, [UNCLEAR]. So we have worked out the range, Callum, and now the modal class interval. Do you think you can find the modal class interval?",00:31:38
+ervgkgq,281,tutor,Yeah. [unclear],00:31:49
+ervgkgq,282,student,The modal class is the one with the highest frequency.,00:31:49
+ervgkgq,283,tutor,There you go.,00:31:54
+ervgkgq,284,student,So it would be the 5.,00:31:55
+ervgkgq,285,tutor,Okay.,00:32:00
+ervgkgq,286,student,Do I have that sign?,00:32:01
+ervgkgq,287,tutor,"Yes, those symbols will be found in the symbols tool there.",00:32:04
+ervgkgq,288,student,"Okay, good. Yeah, 5L.",00:32:07
+ervgkgq,289,tutor,"Yeah, and what do you call that? [unclear]",00:32:09
+ervgkgq,290,tutor,"All right, so this is going to be your model process, and the model process will get 3. So you're getting 1 mark for this, Callum. And yes, sir, that's it for this slide here. All right, we were talking for a long time. Let me ask you this. Let's check whether you can recollect this, Callum. How do we work out the range of",00:32:20
+ervgkgq,291,student,"You do the first term, kind of, and then you compare it to the last term, which is 15 here. And then to find the range, it's the biggest minus the smallest, and then that would give you the [UNCLEAR].",00:32:42
+ervgkgq,292,tutor,"That's right. And we have a similar question for you here, Callum. So go on, you can get the answer, please.",00:32:42
+ervgkgq,293,student,"So you do the first term, which is 0, And then the last one, which is 10, and then I'll just do 10 minus 0 is 10. [unclear] And then the middle class— I mean, yeah, the middle class interval, the number of fruit and veg a day is 0 to 2.",00:33:08
+ervgkgq,294,tutor,"Awesome. That's right. So yes, both of your answers are right. You're scoring 2 marks for this along with the skipped and your final answer. And then you're scoring 1 mark for this for your correct answers. So there you go. That's how this is working. So we have studied 2 types of frequency tables so far. So what are the 2 types of frequency table once again?",00:33:37
+ervgkgq,295,student,Is it grouped and [UNCLEAR]?,00:34:01
+ervgkgq,296,tutor,"Yes, absolutely. Grouped and ungrouped. And in the ungrouped table, we studied to find a range, modal number, median, and the mean. And in the grouped table, we just have studied two things so far. So what are the two things we have studied so far?",00:34:05
+ervgkgq,297,student,"Um, the estimate for the range and then the middle class.",00:34:21
+ervgkgq,298,tutor,"Middle class, absolutely. So we have to study the median and the mean. So to do that, you have a question to begin with.",00:34:26
+ervgkgq,299,tutor,Yeah.,00:34:36
+ervgkgq,300,student,"So take your timetable and you can give this a try. Let me know if it's difficult, or we can move to the [UNCLEAR].",00:34:37
+ervgkgq,301,tutor,"Okay, so for this one, the median.",00:34:37
+ervgkgq,302,student,Yeah.,00:34:50
+ervgkgq,303,tutor,"So, okay, so I'll do the total frequency altogether, which is 3 6 7 9, which is 25. Good start. Yeah,",00:34:50
+ervgkgq,304,tutor,and then,00:35:09
+ervgkgq,305,student,"I'll do 25 1, which is 26. And then do 26 divided by 2, which is 13, and that's the median. Number, or the value of it, and then I'll add the 3 [unclear] together, so it's 3, and then 3 6 is 9. Right.",00:35:11
+ervgkgq,306,tutor,And,00:35:39
+ervgkgq,307,student,"then, yeah, I'll do 9 7, which is 16. Yeah. Okay,",00:35:40
+ervgkgq,308,tutor,and,00:35:47
+ervgkgq,309,student,then,00:35:47
+ervgkgq,310,tutor,Yeah.,00:35:51
+ervgkgq,311,student,And then my— the median class interval would be 30— [unclear],00:35:51
+ervgkgq,312,tutor,"Oh, okay.",00:35:57
+ervgkgq,313,student,—to then or equal to T.,00:36:04
+ervgkgq,314,tutor,Okay.,00:36:08
+ervgkgq,315,student,And then that number is 45. Awesome. [unclear],00:36:09
+ervgkgq,316,tutor,"Okay, and then find the mean.",00:36:18
+ervgkgq,317,student,Okay.,00:36:23
+ervgkgq,318,tutor,"I would times them together. I mean, would I do— would I times it by the middle number?",00:36:24
+ervgkgq,319,background,Absolutely.,00:36:31
+ervgkgq,320,tutor,"Absolutely. Fantastic thinking, Callum. Yes, you're right.",00:36:32
+ervgkgq,321,student,Okay. So then I would times 3 By— would I do the proper middle number of it?,00:36:36
+ervgkgq,322,tutor,"Yes, yes, exactly, the proper middle number. So it can be a decimal as well. So you're like finding the average of the first two.",00:36:49
+ervgkgq,323,student,"Okay, got it. It's going to be 7.5, which is the middle number. So that would give me 2.5. Then I'll do 6.",00:36:55
+ervgkgq,324,tutor,Divided by— would it be 15? 6 times 15.,00:37:12
+ervgkgq,325,student,So you have the 15 already. So what do you think was it?,00:37:18
+ervgkgq,326,tutor,Would it be— [unclear],00:37:27
+ervgkgq,327,student,You can add both of it and divide by it.,00:37:29
+ervgkgq,328,tutor,Okay.,00:37:31
+ervgkgq,329,tutor,Would it be 25?,00:37:36
+ervgkgq,330,student,Naturally. So 30 and 15 would be 45. 45 divided by— [unclear],00:37:41
+ervgkgq,331,tutor,"Sorry, you cut off.",00:37:51
+ervgkgq,332,student,"Yes, let me repeat. 30 and 15 is going to be 45. What would be 45 divided by 2 to get the middle point?",00:37:56
+ervgkgq,333,tutor,It's 22. Okay.,00:38:05
+ervgkgq,334,student,Absolutely. [unclear],00:38:08
+ervgkgq,335,tutor,Yeah. Okay. 22.5. [unclear],00:38:12
+ervgkgq,336,student,Yeah. [unclear],00:38:21
+ervgkgq,337,tutor,"Okay. Would be 135. And then I'll do— [unclear] And I'll do 7 times 7, 60.",00:38:23
+ervgkgq,338,tutor,Yeah.,00:38:40
+ervgkgq,339,background,Would it be times 5?,00:38:41
+ervgkgq,340,tutor,There's a small mistake over here.,00:38:42
+ervgkgq,341,student,Small mistake?,00:38:45
+ervgkgq,342,background,"Oh, what is it?",00:38:47
+ervgkgq,343,tutor,20 divided by 5.,00:38:49
+ervgkgq,344,background,"Okay, wait. 45 plus 30 is 75, divided by 5. Divided by 2. Oh, sorry, I think I times 2 instead. 37.5.",00:38:51
+ervgkgq,345,tutor,That's right.,00:39:04
+ervgkgq,346,student,That would give me 262.5. And then the last one would be 9 times 52.5.,00:39:05
+ervgkgq,347,tutor,Correct.,00:39:26
+ervgkgq,348,student,That would give me 472.5.,00:39:28
+ervgkgq,349,tutor,Okay.,00:39:34
+ervgkgq,350,student,"And then from there, I would add them all together basically.",00:39:35
+ervgkgq,351,tutor,Yeah. [unclear],00:39:46
+ervgkgq,352,student,And that would give me,00:39:49
+ervgkgq,353,tutor,"And then we'll divide that by the total frequency, which is 25. [unclear]",00:40:01
+ervgkgq,354,tutor,"Yeah, 25. And then that would give me 35.7, which is the mean.",00:40:10
+ervgkgq,355,tutor,Oh yeah.,00:40:22
+ervgkgq,356,student,Fantastic.,00:40:23
+ervgkgq,357,tutor,Okay.,00:40:25
+ervgkgq,358,student,"All right. A wonderful working on, Callum. I'm really impressed with this working on.",00:40:26
+ervgkgq,359,tutor,Thank you.,00:40:30
+ervgkgq,360,student,"So very creative thinking. And yes, let's check out your marks for this, Callum. So for finding that this is the 13th value, you're getting a mark there. And for finding category, you're getting a mark there. Altogether 2 marks there. And for your mean time, I was super impressed with this mean [UNCLEAR].",00:40:31
+ervgkgq,361,tutor,"I think me too. [unclear] And for finding this midpoint, all of these midpoints, you're getting an extra mark there. So you get one mark there. And for multiplying all of this, you're getting one mark there. For adding all of them together, you're getting one mark there. And for your final answer, 35.7, you're getting one mark there. And all together, 4 marks for this, Callum.",00:40:31
+ervgkgq,362,student,"Okay, yeah.",00:41:14
+ervgkgq,363,tutor,"So that was super cool. And just a small thing to be reminded, The unit here would be minutes, so it's always best— [unclear]",00:41:14
+ervgkgq,364,tutor,"Oh, okay, I didn't read that properly.",00:41:22
+ervgkgq,365,student,"So you have 5.7 minutes here. So yes, I think the time is also finishing with that. So you did it really well, Callum. So keep up the good work. And yes, that's it today, Callum.",00:41:24
+ervgkgq,366,student,"Yeah. Okay, thank you.",00:41:36
+ervgkgq,367,tutor,"Yeah, we can wrap up. So yeah, see you next week, Callum.",00:41:39
+ervgkgq,368,student,"Thank you, have a good day. [unclear]",00:41:42
+ervgkgq,369,tutor,[UNCLEAR] [unclear],00:41:42
+ervgkgq,370,tutor,[unclear],00:41:42

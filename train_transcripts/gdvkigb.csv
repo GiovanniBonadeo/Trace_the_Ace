@@ -1,0 +1,216 @@
+session_id,utterance_id,role,content,timestamp
+gdvkigb,0,tutor,Hello?,00:00:00
+gdvkigb,1,background,[unclear],00:00:00
+gdvkigb,2,student,"Hello, do you hear me?",00:00:01
+gdvkigb,3,tutor,"Yeah, I can hear you.",00:00:03
+gdvkigb,4,student,"Okay, how has your day been?",00:00:05
+gdvkigb,5,tutor,It's been good. Sorry I was late.,00:00:07
+gdvkigb,6,tutor,"Alright. [unclear] That's alright, that's alright. So today, the last time you were working on this question, if you remember, because you were supposed to find the nth term, yeah?",00:00:12
+gdvkigb,7,student,Yeah.,00:00:28
+gdvkigb,8,tutor,"And today we're going to work on how to find the nth term. Alright? So first of all, what you need to do is you need to",00:00:29
+gdvkigb,9,tutor,Find the common difference of—,00:00:38
+gdvkigb,10,student,"Yeah, the common difference is 2.",00:00:42
+gdvkigb,11,tutor,"The sequence. So in this case, it's going to be -2 every time, am I right?",00:00:44
+gdvkigb,12,student,Yeah.,00:00:48
+gdvkigb,13,tutor,"But then it's decreasing, right? So that— let's have a look at the sequence in the example. All right, and there you can see it goes like 7, 10, 13, 16, and 19, which is at a difference of 3. All right, so what we need to do is first of all, we need to list down the 3's multiples of the 3 times table like that. Okay, and then we are going to compare our original sequence with the 3 times table. If you ask me why 3 times table— [unclear]",00:00:48
+gdvkigb,14,tutor,"Well, it's because your common difference is 3. Okay. Hello, do you hear me?",00:01:25
+gdvkigb,15,student,Yes.,00:01:29
+gdvkigb,16,tutor,"Okay, let's say our common difference is 2. Then you have to list down your 2 times table. Alright, so since this is 3 here, we're going to list down the 3 times table and we're going to compare our original sequence to it. So if you like, compare them individually like that, you'll be able to see that this— the sequence has been scaled up by 4. Okay, so I'm going to say—",00:01:31
+gdvkigb,17,student,[unclear],00:01:54
+gdvkigb,18,tutor,"Yeah, I'm going to say the common difference is 3n. Okay. And I need to add 4 to it. So that's how my, you know, nth term is going to be. Okay, so in this case, [unclear] what do you think is the common difference? Negative 2, right? In this sequence?",00:01:55
+gdvkigb,19,student,Yes.,00:02:18
+gdvkigb,20,tutor,"Yeah, so that's negative 2. So I'm going to do the second times— 2 times table there. So I'm going to start from 2 Yeah, 2n. I'm going to start from 2, 4, 6, 8.",00:02:19
+gdvkigb,21,tutor,"8, 10.",00:02:36
+gdvkigb,22,student,"Yeah, and it goes on like that. And now I'm going to do the original sequence, which is like—",00:02:39
+gdvkigb,23,tutor,"Yeah, 12, 10, 8, 6. So the difference is 10.",00:02:50
+gdvkigb,24,student,[unclear],00:02:59
+gdvkigb,25,tutor,"Exactly. Okay, but do you see that, you know, it's actually a -2n?",00:02:59
+gdvkigb,26,student,Yeah.,00:03:04
+gdvkigb,27,tutor,"Okay, you see that, right? So what happens here is, in the first one, you know, what do you think has happened?",00:03:07
+gdvkigb,28,student,It should have been—,00:03:17
+gdvkigb,29,tutor,Yeah.,00:03:19
+gdvkigb,30,student,"It should have been -2, -4, -6, -8.",00:03:19
+gdvkigb,31,tutor,"Exactly, because it's -2n, because it's going down. I'm going to change it like like -2, -4, -6, and -8. And now you can decide by how much it has been scaled up or scaled down, right?",00:03:22
+gdvkigb,32,student,Yeah.,00:03:36
+gdvkigb,33,tutor,"Okay, so what do you think? By how much do you think this has been scaled up? Negative? 2 to 12? I think it's +14 every time.",00:03:36
+gdvkigb,34,background,Can you say that again? [unclear],00:03:51
+gdvkigb,35,tutor,"Yeah, so -2 to 12 should be in between a +14, right? Do you get that?",00:03:53
+gdvkigb,36,student,Yes.,00:04:04
+gdvkigb,37,tutor,"Okay, so here to here, you know, to add 14, right? So now you have your nth term already. It's going to be something like negative 2n.",00:04:05
+gdvkigb,38,student,2 14. Yeah.,00:04:20
+gdvkigb,39,tutor,Plus,00:04:22
+gdvkigb,40,student,14. 14. [unclear],00:04:27
+gdvkigb,41,tutor,Or else you can put it out the other way around as 14 2n. It doesn't matter. Okay? Okay. All,00:04:28
+gdvkigb,42,student,right.,00:04:37
+gdvkigb,43,tutor,So I hope you understood what to do there. Okay?,00:04:39
+gdvkigb,44,tutor,Can you explain to me once again what are the steps we use to work it out?,00:04:44
+gdvkigb,45,student,"So first you figured out what's the difference between the numbers. So for example, from 12 to 10 is 2, from 10 to 8 is 2, from 8 to 6 is 2. So then you use— that is the frequency which you use. It will be— then you do your 2 times tables, but it's minus 2, so you have to do your minus 2 times tables, which is the inverse of the 2 times tables, which would be minus 2, minus 4, minus 6, minus 8. And then you put the minus 2 times tables over the numbers that was given to you in the [UNCLEAR].",00:04:53
+gdvkigb,46,tutor,Over the numbers?,00:04:53
+gdvkigb,47,student,"Yeah. And you see what's the difference between the first number, so it'll be minus 2. What do you have to do to minus 2 to get to 12, which is plus 14.",00:05:35
+gdvkigb,48,tutor,"That's right. That's really great explanation, Linus. Good one. All right, so I hope you can try another question of the same type.",00:05:50
+gdvkigb,49,student,"Okay. Minus— 8 minus 3 minus 2, oh, the [unclear] is 5.",00:06:00
+gdvkigb,50,tutor,Exactly. What do you think is the common difference over here?,00:06:08
+gdvkigb,51,student,5.,00:06:13
+gdvkigb,52,tutor,That's right.,00:06:14
+gdvkigb,53,student,So you do 5 times tables.,00:06:16
+gdvkigb,54,tutor,And then you're going to do the 5 times table.,00:06:20
+gdvkigb,55,tutor,Mm-hmm.,00:06:29
+gdvkigb,56,student,"Okay. And then under that would be -8, -3, -3, [unclear] 2. Mm-hmm.",00:06:31
+gdvkigb,57,tutor,"7, and then 12.",00:06:54
+gdvkigb,58,tutor,That's right.,00:06:59
+gdvkigb,59,student,So now the n is 5.,00:07:01
+gdvkigb,60,tutor,"Yeah, so it's 5n. The quotient is 5n.",00:07:04
+gdvkigb,61,student,"Yeah, I'm trying to draw it. [unclear]",00:07:11
+gdvkigb,62,tutor,Okay.,00:07:15
+gdvkigb,63,student,"So 5n, and then you have to do What do you do from 5 to get to -8? Which is— what I like to do is do 5 8, so it'll be 13. That's",00:07:17
+gdvkigb,64,tutor,"right. So to get to -8,",00:07:40
+gdvkigb,65,tutor,"Yeah, what do you need to do then?",00:07:49
+gdvkigb,66,student,"To get to -8, you have to do 5n plus—",00:07:52
+gdvkigb,67,tutor,Is it plus? That's my question.,00:07:57
+gdvkigb,68,student,13.,00:07:59
+gdvkigb,69,tutor,"No, it's -13.",00:08:01
+gdvkigb,70,student,"Because it has gone down, right? 5 is a positive integer and you're going— [unclear] Yeah, -13 could be one. Yeah, so every time you're going—",00:08:04
+gdvkigb,71,tutor,"You know, really low so that, you know, the numbers are really low there. So it's not actually plus here but minus. So your nth term should be 5n—",00:08:13
+gdvkigb,72,student,minus 13.,00:08:13
+gdvkigb,73,tutor,"That's right. Okay, so that's how you find nth term of a sequence. All right, and yeah, so we're We worked through 3 questions. Okay, this was one, and that was pretty simple. They asked you what was the arithmetic progression of, you know, the orange and the blue squares, and it was the blue because it was, you know, going up in a pattern, as in it was +4 every time or something. All right, and then you worked on—",00:08:13
+gdvkigb,74,student,Yeah.,00:09:00
+gdvkigb,75,tutor,"Yeah, and then you worked on the second one, which is this. Okay, in which you are supposed to find, you know, uh, substitute n over there— not this n, actually this one, okay? You will substitute the n, uh, for the general, you know, equation, and then find the first time— first, first 5 terms of the sequence. All right, and then you will also have to find the 50th term as well. So in, in terms of that, what you need to do is you need to substitute n as 50, all right, to find the 50th term.",00:09:01
+gdvkigb,76,student,Okay.,00:09:37
+gdvkigb,77,tutor,"Okay, and the third question was to find the nth term. So you actually worked on 3 different types of questions, right? So which do you think was like very, very new to you, or, you know, which do you feel like you're hearing this for the first time?",00:09:38
+gdvkigb,78,background,"The second one. The second one, is it?",00:09:55
+gdvkigb,79,student,"Wait, no. What's the one before that?",00:10:02
+gdvkigb,80,tutor,"The one before that was, you know, a diagram like this and you were asked to find...",00:10:05
+gdvkigb,81,student,"Oh, you see the one that you showed me before this, this like... No, the... [unclear]",00:10:11
+gdvkigb,82,tutor,It's the ninth term. The ninth term. The one with the 50 at the bottom.,00:10:19
+gdvkigb,83,tutor,"Okay, okay, okay, okay. Finding this, is it?",00:10:25
+gdvkigb,84,student,"Yeah, this bit here, this bit here is what— is what— which is what I've learnt new.",00:10:29
+gdvkigb,85,tutor,"Okay, okay. But other than that, do you feel confident now about this lesson?",00:10:39
+gdvkigb,86,student,"Yes, I do.",00:10:49
+gdvkigb,87,tutor,"Okay, that's great. Okay, so now let's revise a little bit on that. So you need to correct the answers to these questions. Okay?",00:10:51
+gdvkigb,88,student,Okay.,00:11:02
+gdvkigb,89,tutor,So you have to tell me where the student has gone wrong and what's the mistake they've made. All right?,00:11:02
+gdvkigb,90,student,Okay. [unclear] So 3 minus 2 is 1. That's correct. 1 minus 2 is minus 1. That's correct. Minus 1 minus,00:11:09
+gdvkigb,91,student,[UNCLEAR],00:11:09
+gdvkigb,92,tutor,"Okay, so you actually need to look at the nth term and then compare it.",00:11:20
+gdvkigb,93,student,"Oh, okay. 3n 2. So it will be the 3 times tables. Yeah.",00:11:26
+gdvkigb,94,tutor,"But talking about this, the nth term, and you're supposed to find the first 5 terms, what do we do, Linus? Oh,",00:11:37
+gdvkigb,95,student,it's— so you do,00:11:45
+gdvkigb,96,student,"1, 2, 3.",00:11:46
+gdvkigb,97,tutor,Yeah.,00:11:50
+gdvkigb,98,student,So it should be—,00:11:51
+gdvkigb,99,tutor,That's right. You need to subtract 2 every time.,00:11:53
+gdvkigb,100,student,1 minus 2.,00:11:56
+gdvkigb,101,tutor,"Okay. You know, for you to find the first term, you need to— yeah. It's not 1 minus 2, but because you have a quotient of 3 already, so it needs to be like 3 times 1 minus 2.",00:11:56
+gdvkigb,102,student,Okay.,00:12:10
+gdvkigb,103,tutor,"Okay, the second term— [unclear] Second term is going to be 3 times 2.",00:12:11
+gdvkigb,104,student,3 minus 2.,00:12:16
+gdvkigb,105,tutor,Yeah. [unclear],00:12:18
+gdvkigb,106,student,"3 times 3, 1. Okay.",00:12:18
+gdvkigb,107,tutor,"Yeah, something like that. So you have to figure out if that's done right.",00:12:20
+gdvkigb,108,student,Okay.,00:12:26
+gdvkigb,109,tutor,Okay? Do you think they've done it right over here?,00:12:27
+gdvkigb,110,student,No.,00:12:34
+gdvkigb,111,tutor,"No, right? So that's what— what needs to change here. All right?",00:12:37
+gdvkigb,112,student,Yeah.,00:12:43
+gdvkigb,113,tutor,"Okay, so we have one more. Do you think they found the nth term right? If not, how do you think— what's the mistake they've made?",00:12:44
+gdvkigb,114,student,They've done it wrong.,00:13:02
+gdvkigb,115,tutor,Why do you think it's wrong?,00:13:05
+gdvkigb,116,student,Because it's not [unclear] since it's the—,00:13:07
+gdvkigb,117,tutor,Do you think the common difference is right at this point?,00:13:12
+gdvkigb,118,student,Okay.,00:13:14
+gdvkigb,119,tutor,"No, it's not right. The common difference is right.",00:13:15
+gdvkigb,120,student,Okay.,00:13:23
+gdvkigb,121,tutor,"But the part that they've got wrong is when they're doing the 5 times tables over the the equation that was given to them. Yeah, to the sequence that was given to them, it shouldn't be -3 because 5 going to -3 would be— it'll be 8.",00:13:26
+gdvkigb,122,tutor,"So maybe what we can do is we can like list the 5 times tables over that and then compare. Yeah, that's [UNCLEAR].",00:13:48
+gdvkigb,123,student,"Yeah, it's 8.",00:13:48
+gdvkigb,124,tutor,"Exactly. So that needs to change and it has to be 8, right?",00:13:57
+gdvkigb,125,student,Mm-hmm.,00:14:00
+gdvkigb,126,tutor,"OK, OK, that's cool. All right then. I hope that's all good now. And shall we move on to the next lesson?",00:14:02
+gdvkigb,127,student,OK.,00:14:14
+gdvkigb,128,tutor,"OK. So this is the next one that we have lined up, which is working with prime factorization. All right?",00:14:15
+gdvkigb,129,background,"Okay, so there's a warm-up question. Linus, would you like to try?",00:14:27
+gdvkigb,130,student,"Okay. Whose method do you think is the quickest? Macy wants to find the highest common factor of 120 and 320. Tutor says she used [UNCLEAR]. She should list the factors, then find the highest common factor they share. [unclear] says they should find each number as a product of its prime factors and use a Venn diagram to find the highest common factor. And the person who has the method the quickest is Tito.",00:14:37
+gdvkigb,131,tutor,"It's Tito, is what you think.",00:15:16
+gdvkigb,132,tutor,Yeah?,00:15:21
+gdvkigb,133,student,Yes. Yeah.,00:15:21
+gdvkigb,134,tutor,"Okay, okay, that's right, but what I think about it is that Beatrice's way is much quicker for that matter. Okay, we'll see why. Are you actually familiar with these two methods?",00:15:24
+gdvkigb,135,student,I'm only familiar with the first one.,00:15:37
+gdvkigb,136,tutor,"All right, okay. So we'll be learning about the second one too, but yeah, For now, you can actually try the first question the way you know it. Yeah?",00:15:40
+gdvkigb,137,student,Okay.,00:15:51
+gdvkigb,138,tutor,Mm-hmm.,00:15:51
+gdvkigb,139,student,"So, write 84 as a product of its prime numbers. So, it will be— sorry, it will be 1 times 84. [unclear] Wait, no, sorry. It'd be 2 times 42. [unclear]",00:15:54
+gdvkigb,140,tutor,Yeah.,00:16:22
+gdvkigb,141,student,It would be—,00:16:23
+gdvkigb,142,tutor,Okay.,00:16:25
+gdvkigb,143,student,"Sorry, let me just— it'll be—",00:16:30
+gdvkigb,144,tutor,"Okay, so now we are not actually doing the highest HCF, but what you need to do is to write 84 as a product of its prime factors, right? So what do you think prime factoring or prime factorization mean?",00:16:34
+gdvkigb,145,student,Prime factorization is finding what factors can go into 84 and multiply by each other to make 84.,00:16:53
+gdvkigb,146,tutor,"Yeah, and—",00:17:06
+gdvkigb,147,tutor,"Okay, yeah, prime factors, basically the term itself means prime means, you know, it has to be numbers like 2, 3, 5, 7. Have you heard of prime numbers?",00:17:08
+gdvkigb,148,student,"Oh, those are the numbers that can't be multiplied by anything by itself.",00:17:20
+gdvkigb,149,tutor,"Yes, so you're, you know, this 84, this number has to be written in as factors of You know, as factors, they should be prime as well. Yeah, so for that matter, you can't take 8 because 8 is not a prime number. Yeah, yeah, I'm here.",00:17:25
+gdvkigb,150,student,Okay.,00:17:50
+gdvkigb,151,tutor,"All right, shall we work on that together? Because I feel it's better that way.",00:17:51
+gdvkigb,152,student,"Okay, okay.",00:17:55
+gdvkigb,153,tutor,"All right, okay. So, yes. So if you can see this, they say product, you know, the answer when two or more values are multiplied. You're familiar with the terms, isn't it?",00:17:57
+gdvkigb,154,student,Yes.,00:18:08
+gdvkigb,155,tutor,"Okay, now you know that the prime factor is a number— or sorry, a factor that is a prime number. Okay, so the easiest way to write the number as product on [unclear] prime factor is to use the factor tree. Okay, so what you need to do is you need to keep splitting the number. Okay, so the easiest split is going to be something like, you know, using, let's say, 2, and then the other factor is 24. And then next I'm going to like split it again— sorry, not 24, that's 42, right?",00:18:09
+gdvkigb,156,tutor,40— 42.,00:18:44
+gdvkigb,157,student,"Yeah, 42. And the next way that I'm going to split 42 is",00:18:45
+gdvkigb,158,background,You can like split it over. How do you think you can split it? 42 can be split for— as one of the prime— one should be a prime factor.,00:18:55
+gdvkigb,159,student,"28. Wait, no, sorry. [unclear]",00:19:01
+gdvkigb,160,background,How about 21?,00:19:08
+gdvkigb,161,student,14 and 3.,00:19:12
+gdvkigb,162,background,14 and 3?,00:19:18
+gdvkigb,163,student,3.,00:19:20
+gdvkigb,164,tutor,3.,00:19:20
+gdvkigb,165,student,[unclear],00:19:21
+gdvkigb,166,tutor,"Yeah. Okay, so you do 14 and 3. Okay, and then now we have 14 for that matter, and we need to split that again. How do you think we can split it?",00:19:21
+gdvkigb,167,student,You could do 2 and 7.,00:19:40
+gdvkigb,168,tutor,"That's right. Okay, so do you think we can split these any further?",00:19:42
+gdvkigb,169,student,[UNCLEAR],00:19:42
+gdvkigb,170,tutor,"No, and you already have your prime factors of 84. Am I right?",00:19:49
+gdvkigb,171,student,Yes.,00:19:59
+gdvkigb,172,tutor,"Okay, so 2 times 3 times 2 times 7 would actually give you 84 there. Okay?",00:20:00
+gdvkigb,173,student,Okay.,00:20:10
+gdvkigb,174,tutor,"Okay, so if you'd like to do 2 times What do you get? 6. 6 times 2 is?",00:20:11
+gdvkigb,175,student,[unclear],00:20:19
+gdvkigb,176,tutor,12. I think you are not hearing me every once in a while.,00:20:23
+gdvkigb,177,student,"Yeah, every once in a while the thing stops.",00:20:29
+gdvkigb,178,tutor,"Yeah, I get it. Yeah, I was telling you that the product of these prime factors, like 2 times 2 times 3 times 7 would give you 84.",00:20:33
+gdvkigb,179,student,[unclear] Yeah.,00:20:47
+gdvkigb,180,tutor,"Yeah, can you check that once again?",00:20:52
+gdvkigb,181,student,"Okay, so—",00:20:55
+gdvkigb,182,tutor,So do you think that statement is right?,00:20:55
+gdvkigb,183,student,Yes.,00:20:59
+gdvkigb,184,tutor,"Okay, so yes, so that's how we actually split or use a factor tree there, and you can read these instructions. Okay, so first one is that first split the number into a factor pair, where we've done it already. If you can't think of one, try dividing by 2, 3, and 5. Okay, the best way is to have, you know, try dividing it by 2. What do you think?",00:21:01
+gdvkigb,185,student,Yeah.,00:21:31
+gdvkigb,186,tutor,"Okay, and then circle any factors that are prime",00:21:32
+gdvkigb,187,tutor,and stop the— [UNCLEAR],00:21:32
+gdvkigb,188,student,"And stop the branch there. So you need to stop the branch at the prime factors, which we did. Yeah, okay, so that's a stop everywhere. Whenever you get a prime number, you need to stop. And then continue to split any number that are not prime. And then stop when the end of every branch are circled. Write the number as a multiplication of circled prime factors. Simplify your answer by writing it in the index form. So So what do you think is the index form? How do you think you can write 2 times 2?",00:21:38
+gdvkigb,189,student,"It's like, let's say you had the number and the index.",00:22:09
+gdvkigb,190,tutor,"Yeah, so you have 2 times— [unclear] times 2, which could be written as 2 squared. Okay, that's what they actually mean by the index form. What do you think?",00:22:15
+gdvkigb,191,student,It would be 2 squared times 3.,00:22:30
+gdvkigb,192,tutor,"Yeah, that's right. Exactly. All right. Okay, so, okay, let me give you a quick question before we wrap up. So now you need to write 56 as a product of its prime factors, okay? So how would you do it?",00:22:34
+gdvkigb,193,background,Write 56 as a product of its prime numbers.,00:22:52
+gdvkigb,194,tutor,So the first one will be [unclear] the first one will be 2 and [unclear] will be 2 and [unclear],00:22:58
+gdvkigb,195,background,"Yeah, 28.",00:23:34
+gdvkigb,196,background,"Yeah, it can be split further as? [unclear] Could be split further as 7 and 4, 4 and 7.",00:23:40
+gdvkigb,197,background,That's right.,00:24:13
+gdvkigb,198,student,Because... and 7 is the last one.,00:24:15
+gdvkigb,199,tutor,"Yeah, but 4 could be split even more, right?",00:24:18
+gdvkigb,200,student,"Oh yeah, 4 can be split into 2 and 2.",00:24:22
+gdvkigb,201,tutor,"Yeah, so that's 4 and 7. And this can even be split into 2 and 2. 2 and 2. And now you know the prime factors. [unclear]",00:24:25
+gdvkigb,202,tutor,Yeah.,00:24:46
+gdvkigb,203,student,"What are the prime factors? Can you write it as a product of prime factors? Yeah, you can write it as a product.",00:24:46
+gdvkigb,204,tutor,So the prime factors would be 2 cubed.,00:24:51
+gdvkigb,205,student,Yeah.,00:25:01
+gdvkigb,206,tutor,Times 7.,00:25:03
+gdvkigb,207,tutor,"All right, there you go.",00:25:05
+gdvkigb,208,student,I can't write it because we— [unclear],00:25:08
+gdvkigb,209,tutor,"That's right. Okay, so that's good work.",00:25:15
+gdvkigb,210,student,Okay.,00:25:22
+gdvkigb,211,tutor,"Yeah, so how do you feel about prime factorization?",00:25:25
+gdvkigb,212,student,It's good.,00:25:29
+gdvkigb,213,tutor,"Okay, okay. So, all right, so I think we have to end the session right now and continue from the next question the next week. All right, so till then, have a great week, Linus. Bye.",00:25:31
+gdvkigb,214,student,"Okay, have a great day. [unclear]",00:25:44

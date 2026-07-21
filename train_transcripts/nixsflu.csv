@@ -1,0 +1,353 @@
+session_id,utterance_id,role,content,timestamp
+nixsflu,0,tutor,Hello?,00:00:00
+nixsflu,1,background,[unclear],00:00:00
+nixsflu,2,student,Hello?,00:00:00
+nixsflu,3,tutor,"[STUDENT_NAME], hi, how are you?",00:00:01
+nixsflu,4,student,"Good, how are you?",00:00:03
+nixsflu,5,tutor,I'm good as well. How was New Year's?,00:00:05
+nixsflu,6,student,Good. Did you do anything? Stayed in?,00:00:08
+nixsflu,7,student,Yeah.,00:00:14
+nixsflu,8,tutor,"You did? Okay. Alright. So, [STUDENT_NAME], what do we have here? What are we going to learn about today?",00:00:16
+nixsflu,9,student,Finding percentages of amounts.,00:00:22
+nixsflu,10,tutor,Okay. Can you tell me what a percentage is?,00:00:26
+nixsflu,11,background,[unclear],00:00:28
+nixsflu,12,tutor,Yeah?,00:00:38
+nixsflu,13,student,Yes.,00:00:39
+nixsflu,14,tutor,Okay. What is a percentage?,00:00:39
+nixsflu,15,student,5?,00:00:44
+nixsflu,16,tutor,"Yeah. Yes. If you can write it on the board, it's fine as well. [unclear] [unclear]",00:00:46
+nixsflu,17,tutor,Hello?,00:01:17
+nixsflu,18,student,"Yes, [STUDENT_NAME]?",00:01:19
+nixsflu,19,tutor,"I can't hear you, [STUDENT_NAME].",00:01:23
+nixsflu,20,student,"Hello? Okay, now [STUDENT_NAME].",00:01:27
+nixsflu,21,student,A percentage is like that.,00:01:31
+nixsflu,22,tutor,"Okay, so if you were to write a percentage as a fraction, how would you do this? Can you write this as a fraction for me? [unclear]",00:01:36
+nixsflu,23,student,6/10.,00:01:46
+nixsflu,24,tutor,"It is. Okay, awesome. Without simplifying, what would it be, [STUDENT_NAME]? Like now you simplified here, right? But without simplifying, what would the fraction be?",00:01:57
+nixsflu,25,student,60 hundredths.,00:02:09
+nixsflu,26,tutor,"60 hundredths. So percentage is parts per hundred, right? That's what a percentage is. Is that clear?",00:02:12
+nixsflu,27,background,"Yeah. Yeah, so whenever someone asks you what a percentage is, what you have to say is it's the number of parts per 100. So here it's 60 parts per 100, right?",00:02:21
+nixsflu,28,student,Yeah.,00:02:34
+nixsflu,29,tutor,"Okay, good. Now can you try this question out? [unclear] [unclear]",00:02:35
+nixsflu,30,tutor,Yep.,00:02:54
+nixsflu,31,student,"Okay. [STUDENT_NAME], can you tell me how you got your answer?",00:03:13
+nixsflu,32,student,"So what I did is I took the placeholder away, so then I did half of 14, and then I times that by 10.",00:03:22
+nixsflu,33,tutor,"Alright, okay, yes, awesome. But can you tell me why you took half of 140?",00:03:36
+nixsflu,34,student,Because 50 is half of 100.,00:03:44
+nixsflu,35,tutor,"Yes, so 50% is 50 hundredths. And that would, that [unclear] would be half, right? Okay. Awesome. Now, okay. Now let's move to this one then. You did good. Okay, can you try this by yourself?",00:03:48
+nixsflu,36,tutor,Yes. Show the text to me.,00:04:12
+nixsflu,37,student,"Well, it says one million, five hundred and [unclear] thousand. So there's no zero. So there's a zero on that. [unclear]",00:04:19
+nixsflu,38,student,"So like, it can be like 5— [unclear]",00:04:44
+nixsflu,39,tutor,Yeah.,00:04:53
+nixsflu,40,student,And that's in millimeters.,00:04:54
+nixsflu,41,tutor,And 25.,00:04:57
+nixsflu,42,student,And there's nothing— [unclear],00:05:00
+nixsflu,43,tutor,Yeah.,00:05:03
+nixsflu,44,student,"One and one, no one.",00:05:03
+nixsflu,45,tutor,Okay.,00:05:06
+nixsflu,46,background,Yes. Yes. No.,00:05:12
+nixsflu,47,student,"Can you repeat that, please?",00:05:15
+nixsflu,48,background,Ah.,00:05:22
+nixsflu,49,tutor,Yeah.,00:05:27
+nixsflu,50,student,Yeah. [unclear],00:05:28
+nixsflu,51,tutor,What is the value of the 6th digit in [STUDENT_NAME]'s number? [STUDENT_NAME]?,00:05:29
+nixsflu,52,student,"Yeah, 5, 6.",00:05:44
+nixsflu,53,tutor,Yeah.,00:05:49
+nixsflu,54,student,Oh. [unclear],00:05:50
+nixsflu,55,student,"[STUDENT_NAME], are you struggling? [unclear] Kind of? Are you?",00:05:50
+nixsflu,56,student,"Yes. Okay. So, where? [STUDENT_NAME], I can't hear you. [unclear] Yes?",00:06:54
+nixsflu,57,tutor,"Okay, so what is 25%?",00:07:11
+nixsflu,58,student,[unclear],00:07:14
+nixsflu,59,tutor,As a fraction?,00:07:17
+nixsflu,60,student,25/100.,00:07:19
+nixsflu,61,tutor,"Okay, so if you were to simplify it more?",00:07:21
+nixsflu,62,student,5/20.,00:07:30
+nixsflu,63,tutor,"Okay, a little bit more?",00:07:33
+nixsflu,64,student,1/4.,00:07:37
+nixsflu,65,student,One quarter?,00:07:41
+nixsflu,66,tutor,"Yes, okay, so you have to find one fourth of 240, right?",00:07:43
+nixsflu,67,student,"Oh, okay, I get it now. [unclear] [unclear]",00:07:48
+nixsflu,68,student,"1,505,225. [unclear]",00:07:48
+nixsflu,69,tutor,What about 10% here?,00:08:33
+nixsflu,70,student,Yeah. [unclear],00:08:57
+nixsflu,71,tutor,Can I have some help?,00:09:03
+nixsflu,72,student,Yeah.,00:09:08
+nixsflu,73,tutor,"Okay, so what is 10% as a fraction? [unclear]",00:09:10
+nixsflu,74,tutor,5.,00:09:31
+nixsflu,75,student,And then 5 is [unclear],00:09:31
+nixsflu,76,tutor,"10 hundreds, right? So what would it be if you simplify it?",00:09:38
+nixsflu,77,student,Do we divide it by 10 each or 5?,00:09:45
+nixsflu,78,tutor,"So if you look at 10 here and 100 here, you can divide both of these by 10, right?",00:09:54
+nixsflu,79,tutor,Okay.,00:10:03
+nixsflu,80,student,"Or you can divide it by 5 and then, you know, do it one more time. Simplify it again, you know? Yeah, so if you divide this by 5, you get 2 on the top and 20 on the bottom, right? 2/20. And then you're gonna divide it again by 2. And then you get— what do you get? [unclear]",00:10:03
+nixsflu,81,tutor,1/10.,00:10:24
+nixsflu,82,student,"1/10, okay.",00:10:25
+nixsflu,83,tutor,"That's 24. And left, which is 1. That's 1/100. But if you divide it, you can't simplify it anymore.",00:10:27
+nixsflu,84,student,Yes.,00:10:43
+nixsflu,85,tutor,So what would 1/100 of 240 be? [unclear],00:10:45
+nixsflu,86,tutor,"Exactly. Okay, good job, [STUDENT_NAME]. All right, so let's go through this from the beginning. Okay, so 25% of a whole is the same as 25 hundredths of a whole. Yes, this is true. But can you simplify this more?",00:10:56
+nixsflu,87,student,To 5... [unclear] To a quarter.,00:11:10
+nixsflu,88,tutor,"Yes, so it will be 1/4, right?",00:11:20
+nixsflu,89,student,This.,00:11:24
+nixsflu,90,tutor,Yeah.,00:11:24
+nixsflu,91,student,[unclear],00:11:25
+nixsflu,92,tutor,"Yeah? Okay, it's like this, right, [STUDENT_NAME]? Now let's say you have a circle. Okay, and we're gonna divide this into 4, like this. 4 parts. And if we shade one part, what would that be as a fraction? [unclear]",00:11:26
+nixsflu,93,tutor,"This circle is one whole, right? And you are going to divide this into 4 parts and then you're going to shade one. So what would the shaded part be as a fraction?",00:11:53
+nixsflu,94,student,25. [unclear],00:12:09
+nixsflu,95,tutor,"If this is 100, yes, 25.",00:12:15
+nixsflu,96,student,One quarter.,00:12:19
+nixsflu,97,tutor,"Yes, that would be one quarter, yes. Okay, so 25% of the whole is the same as one quarter of the whole, right?",00:12:21
+nixsflu,98,student,Yeah.,00:12:31
+nixsflu,99,tutor,"So if this was 100, so if this whole thing was 100, And you divide 100 into 4 parts and take 1, it would be 25, right? Because 25 times 4 is 100. Yeah?",00:12:32
+nixsflu,100,student,Yeah.,00:12:45
+nixsflu,101,tutor,"So if you consider this to be 1 whole and you divide it into 4 parts and take 1, you would have 1/4, right?",00:12:46
+nixsflu,102,student,Yeah.,00:12:54
+nixsflu,103,tutor,"Okay. Now, can you tell me how you worked these out?",00:12:55
+nixsflu,104,background,"So I did 240 divided by 2, which equals [UNCLEAR].",00:13:01
+nixsflu,105,tutor,"Okay, that means, [STUDENT_NAME], this is something you have to remember, okay? So here you have to find 50% of 240, right? So 50% would be half. Yeah?",00:13:10
+nixsflu,106,student,Yeah.,00:13:25
+nixsflu,107,tutor,"So you have to find half of 240. So this would be the same as dividing 240 by 2, right?",00:13:26
+nixsflu,108,tutor,Yeah. So what about this? The second one?,00:13:40
+nixsflu,109,student,I made 24 into one quarter and then I divided that by 240.,00:13:43
+nixsflu,110,tutor,You divided 240 by?,00:13:55
+nixsflu,111,student,A quarter.,00:13:58
+nixsflu,112,tutor,"Is it a quarter or is it 4, [STUDENT_NAME]?",00:13:59
+nixsflu,113,student,"Oh yeah, 4.",00:14:05
+nixsflu,114,tutor,"You have to find a quarter of 240. 240, which is also equal to 240 divided by 4. Is that clear?",00:14:06
+nixsflu,115,student,Yes.,00:14:16
+nixsflu,116,tutor,"Okay, and what about the next one?",00:14:17
+nixsflu,117,student,"I did a 10 equals 1. I did 1/10 because— and then, then I did 10 divided by 240.",00:14:20
+nixsflu,118,student,240 divided by 10.,00:14:37
+nixsflu,119,tutor,"Okay. You said it the other way around, [STUDENT_NAME].",00:14:40
+nixsflu,120,student,"Oh, is it?",00:14:44
+nixsflu,121,tutor,"240 divided by 10, yes.",00:14:45
+nixsflu,122,student,240 divided by 10.,00:14:49
+nixsflu,123,tutor,"Yes. And then you got 24, okay. And then what about the last one?",00:14:52
+nixsflu,124,student,"I knew that [UNCLEAR]. You can't simplify that anymore, so it would be",00:15:01
+nixsflu,125,student,One.,00:15:06
+nixsflu,126,tutor,Yeah.,00:15:07
+nixsflu,127,student,One hundredth. And then I divide it by—,00:15:09
+nixsflu,128,tutor,Yes. Of 240?,00:15:13
+nixsflu,129,student,Then I'd say 240 divided by 100.,00:15:15
+nixsflu,130,tutor,"Yes, okay. And you got 2.4, okay. Can you tell me what happens when you divide a number by 100? [unclear]",00:15:19
+nixsflu,131,student,The number gets 100.,00:15:29
+nixsflu,132,student,times smaller.,00:15:29
+nixsflu,133,tutor,Yes. So what happens to the digits?,00:15:29
+nixsflu,134,student,They move to the... [unclear],00:15:40
+nixsflu,135,tutor,Is it?,00:15:45
+nixsflu,136,student,the right.,00:15:45
+nixsflu,137,tutor,It is the right. And why do you say it's the right? [unclear],00:15:45
+nixsflu,138,tutor,Come here. Why is it to the right?,00:16:00
+nixsflu,139,student,Because there is a [unclear] smaller.,00:16:08
+nixsflu,140,tutor,Yes. And how many places do you move?,00:16:11
+nixsflu,141,student,2.,00:16:15
+nixsflu,142,tutor,"2, yes. So you move 2 places to the right. You move every digit, okay? 2 places to the right, okay. So this is a really good working out, [STUDENT_NAME]. Good job. Now let's try this one as well. [unclear]",00:16:16
+nixsflu,143,student,I don't agree because—,00:16:43
+nixsflu,144,student,[unclear],00:16:52
+nixsflu,145,tutor,"[STUDENT_NAME], I want you to work it out on the screen, okay? And then let's talk about it, alright?",00:16:52
+nixsflu,146,tutor,Sometimes. [unclear],00:17:18
+nixsflu,147,student,So the value of it—,00:17:19
+nixsflu,148,tutor,"2,482,721.",00:17:21
+nixsflu,149,tutor,"Yes, [STUDENT_NAME]. [unclear]",00:17:42
+nixsflu,150,student,Ah. [unclear],00:17:53
+nixsflu,151,student,Yeah. [unclear],00:18:08
+nixsflu,152,student,[UNCLEAR],00:18:08
+nixsflu,153,tutor,"Ah, okay. [unclear]",00:18:37
+nixsflu,154,student,"Yep, I knew you were going to get to a million digits.",00:19:09
+nixsflu,155,tutor,Started because it was the 5th number out of all the other numbers. So I've got the i and then it continues with 320. [unclear],00:19:14
+nixsflu,156,tutor,and then I put 150.,00:19:14
+nixsflu,157,student,"At first I didn't really understand it and then you explained it a little. [unclear] Okay, so you're not agreeing. 10 hundredths is equal to 1 tenth, and 50 hundredths is equal to half. So you can't divide by 50, right, [STUDENT_NAME]?",00:19:14
+nixsflu,158,student,Yeah.,00:20:07
+nixsflu,159,tutor,What do you have to divide it by?,00:20:08
+nixsflu,160,student,[unclear],00:20:09
+nixsflu,161,tutor,"2, yes, okay. So you have to divide the denominator, which is— okay, you have to divide by the denominator, which is 2, because— okay. There's nothing more to explain there, right? You've done it all. Okay. [unclear] Okay, we're done with the lesson. Can you tell me something you learned today, here in this lesson?",00:20:11
+nixsflu,162,student,"That when you find a percent, to find like 50% You have to change it into a fraction to its simplest form. Then you have to divide the denominator by the numerator.",00:20:37
+nixsflu,163,tutor,"Yes, that is right, [STUDENT_NAME]. But you can only divide by the denominator if you have one as the numerator, okay? Is that clear?",00:20:57
+nixsflu,164,student,Yeah.,00:21:08
+nixsflu,165,tutor,"So in all of these which we found, You know, in all of the percentages here, this was half, right? This is one quarter, and this is one tenth, and this is one hundredth, right? So in all of those, do you notice that the numerator is 1?",00:21:09
+nixsflu,166,student,"Yeah, if the numerator is more than 1, like 2, you have to times the numerator.",00:21:26
+nixsflu,167,tutor,"Yes! Okay, so that's something you know, right? Okay, good job. So let's move on to our next lesson then.",00:21:32
+nixsflu,168,student,"Sorry, I can't really understand [UNCLEAR].",00:21:41
+nixsflu,169,tutor,Okay. What do we have here?,00:21:41
+nixsflu,170,background,Finding factors.,00:21:47
+nixsflu,171,tutor,"Okay. Can you tell me what a factor is? If you don't know how to explain it, you can, you know, write, you know, give me an example.",00:21:49
+nixsflu,172,background,Like the factors of,00:22:04
+nixsflu,173,student,[unclear],00:22:07
+nixsflu,174,tutor,"20, uh...",00:22:07
+nixsflu,175,student,Okay.,00:22:10
+nixsflu,176,tutor,like 2.,00:22:10
+nixsflu,177,student,10.,00:22:10
+nixsflu,178,tutor,Okay.,00:22:15
+nixsflu,179,student,5.,00:22:15
+nixsflu,180,tutor,All right.,00:22:17
+nixsflu,181,student,4. [unclear],00:22:19
+nixsflu,182,student,We have two more here.,00:22:41
+nixsflu,183,tutor,"Oh yeah, 20.",00:22:44
+nixsflu,184,student,"Yeah, and?",00:22:46
+nixsflu,185,tutor,And 1.,00:22:47
+nixsflu,186,student,"Yes, okay. So a factor is numbers we can multiply together to get another number, right? Like 20, you can get by multiplying 20 by 1, and then 2 by 10, and then 5 by 4, right? So these numbers are factors of 20. Is that clear?",00:22:48
+nixsflu,187,student,Yeah.,00:23:10
+nixsflu,188,tutor,"So a factor is numbers that we can multiply. Okay, factors are numbers we can multiply together to get another number. Yeah?",00:23:11
+nixsflu,189,student,Yeah.,00:23:21
+nixsflu,190,background,[unclear],00:23:22
+nixsflu,191,tutor,"Okay, so can you try this question now, [STUDENT_NAME]?",00:23:23
+nixsflu,192,tutor,This one? [unclear],00:23:26
+nixsflu,193,student,3.,00:23:36
+nixsflu,194,tutor,2.,00:23:39
+nixsflu,195,student,2.,00:23:41
+nixsflu,196,tutor,6.,00:23:45
+nixsflu,197,student,12.,00:23:48
+nixsflu,198,student,I don't really know. [unclear] But I've got it because I can see the numerator.,00:23:52
+nixsflu,199,tutor,"I think I found all of them. So we have 1 and 12, and then we have 2 and 6, 3 and 4. Yes, okay.",00:24:04
+nixsflu,200,tutor,"So these are the factors of 12, right? So the numbers that you multiply to get another number. So in this case, it's 12. Okay. Now let's try this. [unclear]",00:24:18
+nixsflu,201,tutor,Do I circle them?,00:24:36
+nixsflu,202,student,Yes. Am I allowed to underline them as well?,00:24:40
+nixsflu,203,tutor,Sorry?,00:24:49
+nixsflu,204,student,Can I underline them?,00:24:50
+nixsflu,205,tutor,"You can do whatever you want, [STUDENT_NAME]. It's okay. [unclear]",00:24:52
+nixsflu,206,student,"Oh, it's not. [unclear]",00:25:00
+nixsflu,207,tutor,Have you caught that?,00:25:03
+nixsflu,208,tutor,Pardon?,00:25:12
+nixsflu,209,student,"I'm glad you caught that, that it's not a [UNCLEAR]. [unclear]",00:25:12
+nixsflu,210,student,"because after we look at the [UNCLEAR] start up to the numerator and numerator, I can see the time is different, so 8 times 3 is 24, and for the b, I can see that 5 is in place now, so it's times by 8.",00:25:12
+nixsflu,211,tutor,"So, 3 times 5, 18. [unclear] What is the value of the yarn, not the mill? [unclear]",00:26:02
+nixsflu,212,student,I think I'm finished.,00:26:30
+nixsflu,213,tutor,"Okay. So, okay, let's go through from the beginning. Which of these factors, which of these numbers is not a factor of 14? There's nothing to explain there, is there? Okay, so it's 5, yes. And which of these numbers is not a factor of 26? [unclear] And factors of 8? [unclear] Yes.",00:26:43
+nixsflu,214,student,"4, 7, 5.",00:27:13
+nixsflu,215,tutor,"Okay, good job. Now let's, um, Do this.",00:27:14
+nixsflu,216,student,"Tutor says that 35 has more factors than 12 because 35 is a larger number. So factors of 12 is 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 23, 25, 27, 29, 31, 33, 35. [unclear]",00:27:22
+nixsflu,217,student,"Ah, ça va?",00:27:50
+nixsflu,218,tutor,Oui.,00:28:08
+nixsflu,219,student,Ah. [unclear],00:28:09
+nixsflu,220,tutor,"Okay. All right, so excellent thinking there, [STUDENT_NAME]. So 12 has 6 factors, right? And 35 only has 4 factors. So what she's saying is wrong. Yeah, because Just because the number is bigger, it doesn't mean that it has more factors, right?",00:28:11
+nixsflu,221,student,Yeah.,00:28:42
+nixsflu,222,tutor,"Okay, so we're done with this lesson as well. Oh, before that, [STUDENT_NAME], so now how did we define factors? [unclear]",00:28:43
+nixsflu,223,student,How do we find?,00:28:56
+nixsflu,224,tutor,"Define factors. I taught you the definition of factors, right? [unclear]",00:29:00
+nixsflu,225,tutor,"It's two numbers you multiply to get another number, right?",00:29:15
+nixsflu,226,student,Yeah.,00:29:19
+nixsflu,227,tutor,"So the two numbers that you multiply would be factors of the number, right?",00:29:19
+nixsflu,228,student,Yeah.,00:29:27
+nixsflu,229,tutor,"Is that clear? Like, let's say 3 times 4 is 12, right? So you multiply 3 and 4 to get 12. So 3 and 4 would be factors of 12.",00:29:28
+nixsflu,230,student,Oh yeah.,00:29:37
+nixsflu,231,tutor,"And another way to define factors is, let's say you have a number. [unclear] That's not a number. Let's take 12 like this, okay? And we're gonna divide it by a number. We have a number, in this case it's 12. We're gonna divide it by another number, and if the remainder is 0, that is if you don't have a remainder, When you divide a number by another number, then the number that you divide it by would be a factor. Okay, so now we're gonna divide 12 by 3, right? So we don't have remainder. Yes?",00:29:38
+nixsflu,232,student,Yeah.,00:30:15
+nixsflu,233,tutor,"So the remainder is 0. So 3 is a factor of 12. Is that clear? So there, uh, we talked about two definitions. Yeah?",00:30:16
+nixsflu,234,student,Yeah. [unclear],00:30:26
+nixsflu,235,tutor,"Okay, so let's take, uh, let's take 28. Is 7 a factor of 28?",00:30:28
+nixsflu,236,student,Yes.,00:30:35
+nixsflu,237,tutor,Yes? Go ahead.,00:30:37
+nixsflu,238,student,Because it's divisible by 7.,00:30:40
+nixsflu,239,tutor,"28 is divisible by 7. Yes, okay. So that's all you have to take from this lesson. Let's move to the next one. [unclear] Okay. Now what do we have?",00:30:45
+nixsflu,240,student,Finding squared numbers.,00:30:59
+nixsflu,241,tutor,"Okay, so what do you mean square numbers, [STUDENT_NAME]?",00:31:01
+nixsflu,242,student,"Like, squared number is the same of timesing a number and timesing that number again, like 8 times 8 or 7 times 7.",00:31:07
+nixsflu,243,tutor,"Yeah, okay, good. Now let's try this. [unclear]",00:31:18
+nixsflu,244,tutor,Correct.,00:31:31
+nixsflu,245,student,"It is 64, yes. So 8 squared would be 8 times 8, and that would be 64, right? Okay.",00:31:32
+nixsflu,246,tutor,Yeah.,00:31:41
+nixsflu,247,student,So let's try this. [unclear],00:31:42
+nixsflu,248,tutor,"of the 7-digit number, you say that the thousand digit is 4.",00:31:42
+nixsflu,249,student,"15,000. [unclear]",00:31:42
+nixsflu,250,student,"number or date contains the digits 5, 6, 7, 8, and 9.",00:31:42
+nixsflu,251,tutor,but you need to know how to divide a pound [UNCLEAR] by a short word.,00:31:42
+nixsflu,252,student,[UNCLEAR] [unclear],00:31:42
+nixsflu,253,student,"Yeah, because you divide by 2.",00:32:47
+nixsflu,254,tutor,Yes.,00:32:53
+nixsflu,255,student,Oh.,00:32:56
+nixsflu,256,tutor,"Yeah, yeah.",00:32:58
+nixsflu,257,student,Yeah.,00:33:01
+nixsflu,258,tutor,Yeah.,00:33:03
+nixsflu,259,student,Okay.,00:33:05
+nixsflu,260,tutor,Very well.,00:33:07
+nixsflu,261,student,"So, having the micro here, yeah? [unclear] [unclear]",00:33:15
+nixsflu,262,tutor,"Yeah, I love the stars.",00:33:36
+nixsflu,263,student,There's 2 missing bits.,00:33:42
+nixsflu,264,tutor,Yeah.,00:33:47
+nixsflu,265,student,So it doesn't make the number complete.,00:33:49
+nixsflu,266,tutor,I don't know. Anything?,00:33:54
+nixsflu,267,tutor,and the blue?,00:33:54
+nixsflu,268,student,and the purple?,00:33:54
+nixsflu,269,tutor,[UNCLEAR],00:33:54
+nixsflu,270,student,yes.,00:33:54
+nixsflu,271,tutor,"54, 63, 72, 81.",00:33:54
+nixsflu,272,student,yes.,00:33:54
+nixsflu,273,tutor,but then...,00:33:54
+nixsflu,274,student,yes.,00:33:54
+nixsflu,275,tutor,yes.,00:33:54
+nixsflu,276,student,yes.,00:33:54
+nixsflu,277,tutor,Yeah.,00:34:30
+nixsflu,278,student,"Yeah. So, [unclear]",00:34:33
+nixsflu,279,tutor,Finished.,00:34:38
+nixsflu,280,student,"Okay. So, what's the value of 7 squared? That will be 49, yes. And what number multiplied by 10 is 100?",00:34:39
+nixsflu,281,tutor,10.,00:34:50
+nixsflu,282,tutor,"Yes. So can you complete this as well, [STUDENT_NAME]?",00:34:53
+nixsflu,283,student,Pardon?,00:34:57
+nixsflu,284,tutor,Can you complete this as well? [unclear] Sorry. Can you complete this as well? Find the factors of 81.,00:34:59
+nixsflu,285,student,So do I just put my 9 there?,00:35:10
+nixsflu,286,tutor,Mm-hmm. Okay. You have 2 more. [unclear],00:35:14
+nixsflu,287,student,I put them on the side here.,00:35:23
+nixsflu,288,tutor,Okay.,00:35:26
+nixsflu,289,student,"It's not that, but I'm asking, do you put them on the side there?",00:35:27
+nixsflu,290,tutor,"Yeah, go ahead. [unclear]",00:35:32
+nixsflu,291,tutor,72. That's right. Ready? [unclear],00:35:59
+nixsflu,292,tutor,Where are you going?,00:36:09
+nixsflu,293,student,There. I don't know.,00:36:24
+nixsflu,294,tutor,[unclear] [unclear],00:36:26
+nixsflu,295,tutor,"Okay, [STUDENT_NAME], I'll tell you one factor, and from that I want you to find the other, okay?",00:36:48
+nixsflu,296,student,Okay.,00:36:55
+nixsflu,297,tutor,One factor is 3. Can you find the other? [unclear],00:36:56
+nixsflu,298,tutor,Is it 27?,00:37:07
+nixsflu,299,student,"It is. Okay, brilliant. Now, um,",00:37:20
+nixsflu,300,tutor,So that is all for this. [unclear] Let's try this one.,00:37:28
+nixsflu,301,student,Can you find two numbers that total 45? What's the square number that equals 45?,00:37:41
+nixsflu,302,tutor,"No, that's not what they're saying. You have to find two square numbers, okay? And when you add them up, it should equal 45. Okay? [unclear]",00:37:52
+nixsflu,303,student,Okay.,00:38:07
+nixsflu,304,tutor,Could it be... 5? [unclear] [unclear],00:38:28
+nixsflu,305,student,[UNCLEAR],00:38:28
+nixsflu,306,tutor,5 25 feet. And,00:38:48
+nixsflu,307,student,then... [unclear],00:39:01
+nixsflu,308,student,"Can I ask now? Because I've only got 5. Because 5 times 5 is 25. Sorry, [STUDENT_NAME], I didn't get you. [unclear]",00:39:20
+nixsflu,309,tutor,"Okay, yes. Okay, now you have to find two square numbers that total 45, right? So can you tell me the square number that is closest to 45? [unclear]",00:39:46
+nixsflu,310,tutor,Let's start there.,00:40:05
+nixsflu,311,student,So what is it?,00:40:08
+nixsflu,312,background,36.,00:40:13
+nixsflu,313,tutor,"It is 36. Now, okay, we have one. Now let's try and see if the other number is a square number.",00:40:14
+nixsflu,314,background,"Because I thought 5 times 5 is 25, and it's 5 times 7. 5 is at the end of 45, so I thought it might be that.",00:40:24
+nixsflu,315,tutor,"Okay, so 5 times 5 is 25. Now you're going to take away 25 from 45, and what would that be? [unclear]",00:40:34
+nixsflu,316,student,20.,00:40:43
+nixsflu,317,tutor,"20, is 20 a square number?",00:40:44
+nixsflu,318,background,Yes.,00:40:50
+nixsflu,319,student,No.,00:40:51
+nixsflu,320,tutor,"No, so we cannot use 5, right [STUDENT_NAME]? Then we have to use something else. So we thought of 36, right? So 36 is 6 times 6. Now let's take away 36 from 45 and see if that number is a square number. [unclear]",00:40:52
+nixsflu,321,tutor,Is it?,00:41:12
+nixsflu,322,student,9.,00:41:13
+nixsflu,323,tutor,Is it 9?,00:41:14
+nixsflu,324,student,"Yes, is 9 a square number?",00:41:15
+nixsflu,325,tutor,Yeah.,00:41:19
+nixsflu,326,background,"Okay, so it's 3 and 6, right?",00:41:20
+nixsflu,327,student,Yeah.,00:41:24
+nixsflu,328,tutor,"Okay, so when you are given a question like this, [STUDENT_NAME], find the square number that is closest to the number that is given, right? Here in this case it's 45. So what's closest to 45 is 36. Yeah, 36 is 6 squared. And then you take away 36 from 45 and you're left with 9. So the square root— sorry, yes.",00:41:24
+nixsflu,329,tutor,"9 is 3 squared, right?",00:41:50
+nixsflu,330,student,Yeah.,00:41:51
+nixsflu,331,tutor,"So your numbers are 3 and 9. Okay. [unclear] Now we're going to move on to the next lesson. We completed 3 today, didn't we?",00:41:52
+nixsflu,332,student,Yeah.,00:42:06
+nixsflu,333,tutor,"Okay. So let's give this a start, okay? Now what do we have here? Using mental strategies to multiply.",00:42:07
+nixsflu,334,tutor,Okay. So we're going to use mental strategies to multiply. Let's try this. [unclear],00:42:18
+nixsflu,335,background,And 4 has to go in the thousands. So the smallest number between all of these is 5. So you put 5 there.,00:42:24
+nixsflu,336,student,"So the thing here is, [STUDENT_NAME], you have to, you know, work it out in your head. Okay, so think of a way you can, you know, solve it in your head.",00:42:39
+nixsflu,337,student,Yeah.,00:42:50
+nixsflu,338,tutor,"You'll have to talk out loud, okay? [unclear]",00:42:56
+nixsflu,339,tutor,"Now we have 18 times 8, right?",00:43:13
+nixsflu,340,student,100 and...,00:43:16
+nixsflu,341,tutor,How can we solve this?,00:43:18
+nixsflu,342,student,"40... [UNCLEAR] No, I did it wrong. [unclear]",00:43:18
+nixsflu,343,tutor,Is it 144?,00:43:53
+nixsflu,344,student,"It is, but can you tell me how you worked it out?",00:43:56
+nixsflu,345,tutor,100 is 10 times 8 and then 8 times 8 and then add them together.,00:43:59
+nixsflu,346,tutor,"Awesome. Yes, that's how you do it. Because what is the method called, [STUDENT_NAME], what you used? [unclear] You know, you took 80 as 10 plus 8 and then you multiply 10 by 8 and 8 by 8, right? And then you added them together. What is it called? [unclear]",00:44:05
+nixsflu,347,tutor,"It's called partitioning. Yeah, so you partition 18, that is you split 18 into 10 and 8, and then do— sorry, multiply it by both of these numbers by 8 and add them together. That's called partitioning. Okay, so that is actually a really good method to use if you want to work it out in your head, right?",00:44:32
+nixsflu,348,tutor,Yeah.,00:44:57
+nixsflu,349,background,"Okay, so very well done. So let's go to this lesson. [unclear] We're going to continue this lesson next week, right, [STUDENT_NAME]? Because our time's up. I'll see you next week then.",00:44:58
+nixsflu,350,student,Bye.,00:45:13
+nixsflu,351,background,Bye-bye. Have a great day.,00:45:15

@@ -1,0 +1,296 @@
+session_id,utterance_id,role,content,timestamp
+izyrent,0,background,[unclear],00:00:00
+izyrent,1,student,Hello?,00:00:00
+izyrent,2,tutor,Hello.,00:00:01
+izyrent,3,student,"Hi, Kieran. Can you hear me?",00:00:01
+izyrent,4,tutor,"Yeah, I'm coming.",00:00:03
+izyrent,5,background,"Okay, how are you?",00:00:04
+izyrent,6,tutor,"I'm good, thank you. How are you?",00:00:06
+izyrent,7,background,"I'm doing [UNCLEAR]. Thank you for asking. So we already started this lesson in the last class, that is working with y = ax + c, and we did 2 questions. This was the last question that we did, right?",00:00:08
+izyrent,8,tutor,Yeah.,00:00:08
+izyrent,9,background,"So for the revision, like, we'll just revise and we'll do a quick recap of what we have done. In our last class. Do you remember how do we find the y-intercept of the equation of a line?",00:00:13
+izyrent,10,student,Yeah.,00:00:39
+izyrent,11,tutor,"Okay, so what's the y-intercept for this?",00:00:40
+izyrent,12,student,"Uh, -1.",00:00:46
+izyrent,13,tutor,And for this one?,00:00:48
+izyrent,14,student,9.,00:00:50
+izyrent,15,tutor,Right. And what about the gradients of both the lines? [unclear],00:00:52
+izyrent,16,tutor,What about the gradient?,00:00:58
+izyrent,17,student,"Ah, 2x and -3x.",00:01:00
+izyrent,18,tutor,"Okay, so the gradient would be the coefficients of the x-axis, 2 and -3, and x is the variable here, like this. This is x and this is y, right? So, uh, we plotted the two lines using the points. From 0 to 5 here, right?",00:01:03
+izyrent,19,student,Yeah.,00:01:25
+izyrent,20,tutor,"And now let's discuss how can we draw a line without using— without plotting the points here, okay? So same line but using a different approach. So first of all, this is y-intercept, right? See, can you mark y-intercept on the axis here for the first one?",00:01:26
+izyrent,21,tutor,"Can you mark the y-intercept on the line, on the graph?",00:01:49
+izyrent,22,student,Yeah. [unclear],00:01:52
+izyrent,23,tutor,Okay. What is the y-intercept for this line?,00:01:58
+izyrent,24,student,"2. Oh wait, -1.",00:02:11
+izyrent,25,tutor,"-1, right. So can you mark -1? y -1. On this line— on this graph, I mean.",00:02:13
+izyrent,26,tutor,huh?,00:02:13
+izyrent,27,student,y -1. Can you mark y-intercept? That is -1 on this graph. Yeah.,00:02:13
+izyrent,28,tutor,That's -1. [unclear],00:02:41
+izyrent,29,tutor,"Yes, and for this one?",00:02:44
+izyrent,30,background,9.,00:02:49
+izyrent,31,tutor,"9, right, correct. So we have got the two y-intercepts here. Let's talk about the first one. So it says the gradient is 2. Let's see what this gradient tells us. So m here tells us how many units to go up up or down by— for every unit we move to the right. That means if the gradient is 2, that means for every unit we move across the x-axis, for every unit— that means for every one unit we move across the x-axis, we need to move up or down, right?",00:02:51
+izyrent,32,student,[unclear],00:03:30
+izyrent,33,tutor,"So this is positive 2. That means we will move up. And if it was -2, we would have moved down. Since this is +2, that means we'll move up. Okay, so I'll do one point over here. I'll mark the first point, and then you can now mark the other points. So as I move one point to the x, so I was at— I was here, right? This -1, (0, -1), this was the point. Now as I am moving across the x-axis, I will move 2 units up. So if I am at 1, I will be moving 2 units up here.",00:03:30
+izyrent,34,background,[unclear],00:04:08
+izyrent,35,student,"Yeah, yeah. So that means as I move from 0 to 1, that is as moving across the x-axis, I will move 2 units up because the gradient is 2. So I have got one point here. Now can you mark the second point for this line?",00:04:11
+izyrent,36,tutor,"So this is the first one. This is the second point. Now if you're moving one unit across the x-axis, how will you move now?",00:04:33
+izyrent,37,student,[unclear] You go to the right.,00:04:45
+izyrent,38,tutor,Yeah. [unclear],00:04:52
+izyrent,39,tutor,Where will be the new X point here?,00:05:05
+izyrent,40,student,What am I doing? I couldn't hear you. You keep cutting off.,00:05:15
+izyrent,41,tutor,"Hello, can you hear me now?",00:05:18
+izyrent,42,student,Yeah.,00:05:21
+izyrent,43,tutor,"Yeah. So I was saying, now we were first, we were at the 0. If we— what will be the point here? Can you tell me? For this -1? [unclear]",00:05:21
+izyrent,44,tutor,"Yes. 0, -1. This was the first point. And for the point that I have plotted, can you tell me what's the point here?",00:05:31
+izyrent,45,student,"1, 1.",00:05:42
+izyrent,46,tutor,Right.,00:05:43
+izyrent,47,tutor,"So I'll write 1, 1 here. So this is the point (1, 1, 1). So we were at 0 for the x-axis, now we are at 1. So as we move from 0 to 1, we are moving 2 units up from -1 to 1, right? From -1 to 1. Now what will be the second number here as we are moving across the x-axis?",00:05:47
+izyrent,48,background,[unclear],00:06:12
+izyrent,49,tutor,What for that? What for this one? That one?,00:06:12
+izyrent,50,background,"This one, 2x 1. Ah.",00:06:19
+izyrent,51,tutor,y,00:06:21
+izyrent,52,background,2x 1. Yeah. For x,00:06:21
+izyrent,53,tutor,"2,",00:06:24
+izyrent,54,background,"what will be the y-coordinate? -1. For x 2,",00:06:25
+izyrent,55,tutor,this,00:06:35
+izyrent,56,background,"is the line, right? Now if we are moving",00:06:35
+izyrent,57,tutor,"Let me show this, like, I'll draw the line for y 2x 1, and then you can draw for y 3 3x 9. Okay? Yeah. So I was saying",00:06:39
+izyrent,58,student,that,00:06:53
+izyrent,59,tutor,"first of all, the first thing would be we'll mark the y-intercept. That was -1. We are not talking about the 9 first. We'll deal with this later on. First of all, we'll mark what is the y-intercept. That is -1. So we have plotted this point (0, -1). Now the second thing is the gradient here. The gradient is 2. So the gradient tells us— if we read this definition here— m tells us how many units to go up or down— down by— for every unit we move to the right. So as we move one unit to the right, the gradient is 2. So this means if the gradient is 2, for every unit— for every one unit we move to the right, will move up by 2. Okay, so here we were at 0, now we are at 1. So if, if we are at 1, that means from this point -1, we'll move 2 units up. This would be 1. Now from 1, we are moving to 2. Now this point, this is 2.",00:06:53
+izyrent,60,student,Yeah.,00:07:58
+izyrent,61,tutor,"Right? So this would be the x-coordinate with us. So we'll, we will have 2 with us. But let's see what will come at the y-coordinate.",00:07:58
+izyrent,62,student,2.,00:08:08
+izyrent,63,tutor,No. [unclear],00:08:08
+izyrent,64,student,How you got 2 here?,00:08:10
+izyrent,65,tutor,Because I went up 2.,00:08:13
+izyrent,66,student,"We are moving 2 units upwards. So we were at 1, right? We are at 1. Now we are moving 2 units up. So you will be at?",00:08:16
+izyrent,67,background,1. 1.,00:08:25
+izyrent,68,tutor,You are moving 2 units up. We are at 1.,00:08:30
+izyrent,69,student,2.,00:08:32
+izyrent,70,tutor,"1, 2 will be 2. And there we will be having 3. Will be [UNCLEAR], right? See, let me mark it. Then I will be able to show it to you. See, this is (2, 3) because we are moving 2 units up, right? So if we are at 1 here, at the y-axis, we are moving 2 units up. 1 and then 2. So it will be at 3 here.",00:08:32
+izyrent,71,student,Yeah.,00:09:06
+izyrent,72,tutor,"In the same way, let's try for x 3. When we have x 3, we are moving 1 unit to the right. Yeah. So",00:09:08
+izyrent,73,student,"3,",00:09:18
+izyrent,74,tutor,and [unclear] here we have y 3. Yes.,00:09:18
+izyrent,75,tutor,"Exactly. In the same way, can you try it for 4? x 4. Right. [unclear] Exactly. Correct. So I'll draw the line here. I'll draw that. I'll erase the points here so that we have a clear space. So this is the line that we have. [unclear]",00:09:23
+izyrent,76,tutor,Yes.,00:10:03
+izyrent,77,student,"Right? Now can you in the same way mark for the y— okay, we have already marked the y-intercept. Now if we have— can you tell me what is the gradient here now? The gradient of what? [unclear] Uh, yeah. What's the gradient here? Um, 9. And what about the y-intercept? Oh wait, the y-intercept is 9. Wait. Right, right, you're right. Yeah, then the y-intercept is 9, the gradient is -3. Yes, if we know the gradient is -3, For every unit we move across, how much do we need to move up or down? What do you think?",00:10:04
+izyrent,78,student,"Um, minus 3.",00:10:50
+izyrent,79,tutor,"Yeah, minus 3, that's right. So we'll start from this line.",00:10:53
+izyrent,80,student,Yeah.,00:10:59
+izyrent,81,tutor,"Okay, this is our starting point. This is the y-intercept. This was our first step, to plot y-intercept.",00:10:59
+izyrent,82,student,Yeah.,00:11:06
+izyrent,83,tutor,"Now if the [unclear] is minus 3, how will you move across?",00:11:06
+izyrent,84,student,3.,00:11:10
+izyrent,85,tutor,"Yeah, 3. Will you move 3 up or down?",00:11:11
+izyrent,86,student,Down.,00:11:17
+izyrent,87,tutor,Absolutely down. So if we— can you tell me the point for yes? Exactly. And the next point would be?,00:11:18
+izyrent,88,student,Do we have to keep going down?,00:11:34
+izyrent,89,tutor,"Yes, yes.",00:11:35
+izyrent,90,student,"1, 2...",00:11:36
+izyrent,91,tutor,Till x is equal to 3.,00:11:39
+izyrent,92,student,3.,00:11:39
+izyrent,93,tutor,Right.,00:11:39
+izyrent,94,student,"1, 2, 3. 1, 2... Wait. 1, 2, 3.",00:11:44
+izyrent,95,tutor,Okay. How did you get this point here?,00:11:53
+izyrent,96,student,[unclear],00:11:56
+izyrent,97,student,"Oh yes, that's wrong. One, two, three.",00:12:01
+izyrent,98,tutor,Right.,00:12:12
+izyrent,99,student,Four.,00:12:14
+izyrent,100,tutor,"That's correct. [unclear] Yes, you're right, and I'll draw the line here. Now can you tell the point of intersection?",00:12:15
+izyrent,101,student,"Um, it's 2, 3.",00:12:27
+izyrent,102,tutor,"Yes, 2, 3. So there are two methods to solve this question. One was the la— in the last class we plotted the points for x 0, 1, 2, 3, 4, 5. We are getting the same points here also, but instead of using the table, we are plotting the point using our knowledge of— using our knowledge of gradient and y-intercept.",00:12:30
+izyrent,103,tutor,Yeah.,00:12:53
+izyrent,104,background,"Let's try to answer a similar type of question here, this one.",00:12:55
+izyrent,105,tutor,"Oh. What on earth? So for the first one, would it start there at X?",00:13:02
+izyrent,106,tutor,What is the y-intercept for this line?,00:13:21
+izyrent,107,student,5.,00:13:24
+izyrent,108,tutor,5.,00:13:25
+izyrent,109,student,So it'd be at 5.,00:13:26
+izyrent,110,tutor,Mm-hmm. Right here. Now how will you move? What is the gradient here?,00:13:29
+izyrent,111,background,-1x.,00:13:41
+izyrent,112,tutor,-1. So x is the? Variable here. [unclear] would be the gradient. Minus 1 is the gradient.,00:13:44
+izyrent,113,student,Yeah. So we have to go 1 down every time.,00:13:53
+izyrent,114,tutor,"Yes, exactly.",00:14:02
+izyrent,115,tutor,"Correct. Yes, so we have got the first line. [unclear] Now can you tell me how will you start plotting the points for the second one?",00:14:15
+izyrent,116,student,"Start to. [unclear] It starts at 2, so that would be there.",00:14:36
+izyrent,117,tutor,What is the gradient here?,00:14:50
+izyrent,118,student,A half.,00:14:54
+izyrent,119,tutor,"Yes, right. So how will you move across?",00:14:57
+izyrent,120,student,0.5 square.,00:14:59
+izyrent,121,tutor,Yeah. [unclear],00:15:03
+izyrent,122,tutor,Will you move up or down?,00:15:07
+izyrent,123,student,Up.,00:15:09
+izyrent,124,tutor,"Up, right.",00:15:10
+izyrent,125,student,"So, for that one, I don't know where half a square is. Is it like that?",00:15:12
+izyrent,126,tutor,"Yes, you're right.",00:15:19
+izyrent,127,student,And then that one will be there. That one will be there. That will be—,00:15:22
+izyrent,128,tutor,How you got this?,00:15:32
+izyrent,129,student,"Um, I just did the half of the square. Oh wait, no, it would be— it'd be lower, wouldn't it? It'd be like there.",00:15:34
+izyrent,130,tutor,Yes.,00:15:43
+izyrent,131,student,And then that will be there. [unclear] And then that will be there.,00:15:44
+izyrent,132,tutor,Correct. It's absolutely true. Now let's draw the line. Now what's the point of intersection?,00:15:58
+izyrent,133,student,[unclear],00:16:11
+izyrent,134,tutor,"Yes, (2, 3). We got the same point here also, that is (2, 3). Now this is how we can mark the lines on the graph.",00:16:12
+izyrent,135,tutor,"What do you think? Which method is easier, like the table one or this one?",00:16:23
+izyrent,136,student,This one.,00:16:27
+izyrent,137,tutor,"Okay, yeah, I'm glad to know that you like this method here. I'll tell you the marking scheme. This was a 4-mark question. So for plotting y-intercept correctly, you will get 1 mark. Okay, and like just for plotting the y-intercept, you will get 1 mark. 1 mark is for plotting each line, so 2 marks for plotting both the lines. And 1 mark is for finding point of intersection. So you will get 4 marks out of 4 for this question, and the marking scheme for the last question is the same. Okay?",00:16:28
+izyrent,138,student,Yeah.,00:17:04
+izyrent,139,tutor,"So, uh, do you remember what's the first step while, uh, marking the line here? Like, while plotting the line, what would be the first step? [unclear]",00:17:05
+izyrent,140,student,Finding the y-axis. [unclear],00:17:17
+izyrent,141,tutor,"Y-intercept. Yeah. So, we'll find the y-intercept and then what will we do next?",00:17:20
+izyrent,142,student,Plot the lines. Find the gradient.,00:17:28
+izyrent,143,tutor,"Yeah. We'll find the gradient. And if it's positive, like what's the difference if the gradient is positive and a negative number? Positive goes up, negative goes down.",00:17:33
+izyrent,144,tutor,"Exactly, that's correct. Now let's move on to the next, and I think this would be the last example question for this lesson.",00:17:46
+izyrent,145,student,Okay.,00:17:54
+izyrent,146,tutor,So can you please read this and let me know how will you start off this question? [unclear],00:17:54
+izyrent,147,student,"Yeah, do you have to write the answer there? [unclear]",00:18:03
+izyrent,148,student,I don't know what the gradient is.,00:18:23
+izyrent,149,tutor,"Oh, I know.",00:18:30
+izyrent,150,student,It's plus minus one.,00:18:30
+izyrent,151,tutor,Okay. So what's the y-intercept here?,00:18:36
+izyrent,152,student,Is it 2? [unclear],00:18:40
+izyrent,153,tutor,Yes.,00:18:42
+izyrent,154,student,The y-intercept is -1.,00:18:43
+izyrent,155,tutor,"Yes, you're right. And how did you get your gradient here? And that's right?",00:18:46
+izyrent,156,student,"Because it goes up 2 squares every time, like, to get into the corner.",00:18:51
+izyrent,157,tutor,Yes. Can you show it to me over here?,00:18:57
+izyrent,158,student,It goes up 2 squares to get to that bit.,00:19:00
+izyrent,159,tutor,"Yes, that's right. And can you try to draw a triangle here, like that shows the change in x and change in y?",00:19:04
+izyrent,160,student,"Yeah, let me do it here. [unclear]",00:19:14
+izyrent,161,tutor,"Right, exactly, that's right. And can you simplify this? Like we have written plus and minus together. So what do you think? What is the sign that we can put here?",00:19:21
+izyrent,162,student,Um... I'm not sure.,00:19:34
+izyrent,163,tutor,"Like we have plus, minus, right? It's the simple numbers additions that we do, addition, subtraction. So if we have plus, minus together, what should we write? Plus and minus would give us?",00:19:39
+izyrent,164,student,A minus.,00:19:53
+izyrent,165,tutor,Right.,00:19:55
+izyrent,166,tutor,"So we'll just, instead of writing plus minus, we can write minus.",00:19:55
+izyrent,167,student,"Just minus, yeah.",00:19:59
+izyrent,168,tutor,"So this would be y 2x 1. Yeah, I'll",00:20:05
+izyrent,169,student,"do it now. Right, so",00:20:09
+izyrent,170,tutor,"a great job done there, Kieran. We were like, based on the previous knowledge, we were able to answer this question. So I'll tell you the marking scale. This was a 3-mark question, and for identifying y-intercept, that is -1, you will get 1 mark. 1 mark is for identifying the gradient, and 1 mark is for the equation of the line. So you have scored 3 out of 3 in this question. Also, Kieran, uh, what do you think, what are the possible mistakes that a person can do while [unclear] this question?",00:20:15
+izyrent,171,student,Get the y-intercept wrong.,00:20:49
+izyrent,172,tutor,"Yeah, that's right. And anything else that you can think of?",00:20:54
+izyrent,173,student,The gradient could be wrong.,00:20:59
+izyrent,174,tutor,"Yeah, gradient could be wrong. They might think that this can be -2, right?",00:21:01
+izyrent,175,student,Yeah.,00:21:06
+izyrent,176,tutor,"Since we know this is upward sloping, like this is moving upwards, like if the shape is like this, this means we are moving upwards. And if the shape is like this, that means we are moving downward. So this is upward sloping, so the gradient would be +2.",00:21:06
+izyrent,177,student,[unclear] Yeah.,00:21:23
+izyrent,178,tutor,"Okay, with this we are done with the lesson, and you have done a great job, Kieran. You were a good learner throughout this lesson. Now let's try to answer the questions that are on your slide— screen. Because these are the two questions for the revision. Okay, we'll start with the first one. You have to identify the mistake here.",00:21:26
+izyrent,179,student,Okay. [unclear],00:21:48
+izyrent,180,tutor,Find the gradient on the y-intercept to y [UNCLEAR].,00:22:05
+izyrent,181,tutor,"Yes. So, do you think the gradient would be 2x?",00:22:35
+izyrent,182,student,I did 3 divided by 6. [unclear],00:22:41
+izyrent,183,tutor,"Yeah. So, this is the gradient, right? This might be a number.",00:22:46
+izyrent,184,student,Yeah.,00:22:53
+izyrent,185,tutor,"So, do you think we'll put an x after this 2?",00:22:53
+izyrent,186,student,"Oh, no.",00:22:57
+izyrent,187,tutor,This would be 2.,00:22:58
+izyrent,188,student,"Just 2, yeah.",00:23:00
+izyrent,189,tutor,"Yeah, that's right. So this is the right equation, that is y 2x 1, like, I mean the rearranged one, and the gradient would be 2 and my intercept -5. What about the second question here? Um, well,",00:23:02
+izyrent,190,student,"this won't be a minus because it's going up, so it'd be positive. Right.",00:23:16
+izyrent,191,tutor,Anything else?,00:23:23
+izyrent,192,student,"It goes up. It would be -2, wouldn't it, instead of positive?",00:23:27
+izyrent,193,tutor,Okay.,00:23:34
+izyrent,194,student,I don't really know.,00:23:35
+izyrent,195,tutor,"Okay, what about the y-intercept here? What's the y-intercept?",00:23:38
+izyrent,196,background,[unclear],00:23:44
+izyrent,197,student,The y-intercept is—,00:23:46
+izyrent,198,student,-4.,00:23:51
+izyrent,199,tutor,"Right, y-intercept is -4. And what is the slope here? [unclear] The slope? What do you mean? The gradient, I mean.",00:23:51
+izyrent,200,student,"Uh, 2.",00:24:09
+izyrent,201,tutor,"Right, the gradient is 2 here. So what will be the equation?",00:24:11
+izyrent,202,background,"y 4x 2. Mm-hmm. Okay,",00:24:18
+izyrent,203,tutor,can you tell me what is the standard equation of a line? y mx,00:24:23
+izyrent,204,background,c. mx c. We have,00:24:31
+izyrent,205,tutor,gradient in front of the x. Now can you substitute the values here? You said y-intercept is -4. And the gradient is 2.,00:24:36
+izyrent,206,student,Yeah.,00:24:48
+izyrent,207,tutor,Now can you substitute the values in this equation? [unclear],00:24:49
+izyrent,208,student,"Oh wait, I've got it wrong, sorry. 2x. [unclear]",00:25:05
+izyrent,209,tutor,"Right. Y 2x 4. Correct. So Kieran, if we have a question on this y mx c, our main, you can say, our main focus would be to find out the y-intercept and the gradient, right?",00:25:28
+izyrent,210,tutor,Yeah.,00:25:46
+izyrent,211,background,"And we'll be able to solve the question further using these two concepts only, right? For the things that we have done so far, this is the required knowledge. Now we'll move on further and we'll start with a new lesson.",00:25:47
+izyrent,212,tutor,Just give me a second. This is applying Pythagoras' theorem. So have you done this topic before?,00:26:05
+izyrent,213,student,Yeah.,00:26:17
+izyrent,214,tutor,"Start with the question that, um, yeah, who do you agree? You can take your time and let me know.",00:26:18
+izyrent,215,student,"Um, it's [UNCLEAR].",00:26:31
+izyrent,216,tutor,"Yes, [UNCLEAR]. What will be the answer for this? You have to find it here.",00:26:31
+izyrent,217,student,"It would be a² 6. It would be 10. Absolutely,",00:26:31
+izyrent,218,tutor,this would be 10. And do you know what's the name for this side here? What do we call it?,00:26:51
+izyrent,219,student,The hypotenuse.,00:26:56
+izyrent,220,tutor,"The hypotenuse, right. We'll start with the first question here, this one.",00:26:58
+izyrent,221,student,"Alright, so you have to— wait— cut the triangle down the middle. And then you'd find the first one, so 8 squared.",00:27:04
+izyrent,222,tutor,70. [unclear],00:27:30
+izyrent,223,student,Yeah. So that would be 73.,00:27:36
+izyrent,224,tutor,"Okay, so over here, Kieran, first of all, awesome efforts on trying out this question. Our aim was to find x, right? This is x here. Can you tell me how did you get this? [unclear] Write the formula for Pythagoras' theorem.",00:28:13
+izyrent,225,student,"a² b² c². I'll just write it here, then we'll move on further. a² b² c². I'll put the squares at the top. Now, can you tell me what were the values given to us for the first triangle, that is ABC? Uh, 3²",00:28:36
+izyrent,226,student,8². Right. Can you,00:28:58
+izyrent,227,tutor,substitute the values here?,00:29:02
+izyrent,228,student,"Uh, yeah. I'll do the squared part if you want me to. [unclear] Maybe 73.",00:29:05
+izyrent,229,tutor,"So this is 73, which is the value of the [UNCLEAR].",00:29:31
+izyrent,230,student,"Yeah, so we have found, like, if I write this over here, if I complete this equation, this would be c², right? And now you got 73. 73 as c². Now we are supposed to find the hypotenuse. Now what would we do next?",00:29:31
+izyrent,231,student,"We've already found the hypotenuse, haven't we?",00:30:01
+izyrent,232,tutor,"c² is 73. The hypotenuse is c, right?",00:30:04
+izyrent,233,student,Yeah.,00:30:08
+izyrent,234,tutor,"We have found the value of c², but we are supposed to—",00:30:09
+izyrent,235,student,So we have to do 73² take away 10².,00:30:13
+izyrent,236,tutor,"Okay, if we have— let me write it here. I'll give you an example. This is not related to the question that we are doing. Suppose you have this. You have a squared is equal to 16. How will you find the value of a?",00:30:18
+izyrent,237,student,[unclear],00:30:35
+izyrent,238,tutor,"Right, exactly. So this would be 4. Now we have c squared, but we need the value of c. What will you do? What will you do here?",00:30:40
+izyrent,239,student,Square root.,00:30:50
+izyrent,240,tutor,"Yes, we'll do the square root of 73. So you can use your calculator.",00:30:52
+izyrent,241,student,"Yeah, it's a decimal answer.",00:30:57
+izyrent,242,tutor,Yes.,00:31:00
+izyrent,243,student,It's like 8.544003745.,00:31:07
+izyrent,244,tutor,"Yes, so you can write it up to one decimal place.",00:31:15
+izyrent,245,student,8.5.,00:31:20
+izyrent,246,tutor,"Yeah, so we have got the CA as 8.5 centimeters. Now we have got this BC, the length of BC. We are supposed to find this x. How will you find it?",00:31:22
+izyrent,247,background,8.5 squared minus 10 squared.,00:31:37
+izyrent,248,tutor,"Right, yeah, yeah, you're right. Okay, uh, let's label the values here. So this is, uh, 8.5. I'll write here 8.5 centimeters. Now can you rearrange? Like, uh, this is a squared plus b squared, c squared is equal to c squared. Can you rearrange the, uh, this equation for the triangle BCD?",00:31:43
+izyrent,249,tutor,So you'd have to do— [unclear],00:32:16
+izyrent,250,student,I don't know.,00:32:24
+izyrent,251,tutor,"Okay. So what if this is the triangle with us? If I draw it over here, I'll draw this triangle.",00:32:28
+izyrent,252,tutor,BCD. [unclear],00:32:44
+izyrent,253,student,"So this is C. Yeah, this is B. And this is D. And we know the lengths of BP and BD. Yeah, that is 10 centimeters. How will you find the length of CD? [unclear] Okay, you can apply the— this is the right angle triangle, right? These are the two right angle triangles with us, right? Now you can apply the Pythagoras theorem here also. So we can only apply Pythagoras theorem in Right angle triangles. So we have got the value here. Now what do you think, how can we use the theorem here? [unclear]",00:32:45
+izyrent,254,tutor,8.5 squared plus 10 squared.,00:33:40
+izyrent,255,student,"Okay, what is the value? What is a, b, and c here?",00:33:44
+izyrent,256,tutor,I don't know. Where's the a?,00:33:48
+izyrent,257,student,"Okay, do you know where is c here?",00:33:52
+izyrent,258,tutor,"This is a separate triangle. We are not talking about this one. Okay, so Kieran will stop here because it will take some time to answer this question. So we are going to start this question again in the next class. Okay?",00:33:55
+izyrent,259,student,Yeah.,00:34:13
+izyrent,260,tutor,"Yeah, so first of all, let's revise, like, let's revise the Till the point we have done. Do you remember how we got this 8.5?",00:34:15
+izyrent,261,student,Yeah.,00:34:25
+izyrent,262,tutor,Can you explain it to me?,00:34:27
+izyrent,263,student,8 squared plus 3 squared equals 73.,00:34:29
+izyrent,264,tutor,"Right, and how do we know that this is C?",00:34:33
+izyrent,265,student,Because you have to square root it.,00:34:37
+izyrent,266,tutor,"Okay, if we have a triangle ABC, how do we know that this BC would be the hypotenuse?",00:34:40
+izyrent,267,student,Because it's the longest side.,00:34:46
+izyrent,268,tutor,"Yes, this is the longest side, so we know that this is the hypotenuse. Okay, Kieran, so we'll stop here and we are going to continue this in the next class. Okay?",00:34:49
+izyrent,269,student,Yeah.,00:34:59
+izyrent,270,tutor,"We will put a quiz to solve, so please do try to attempt that.",00:35:00
+izyrent,271,student,Okay.,00:35:05
+izyrent,272,tutor,"Goodbye, have a nice day.",00:35:05
+izyrent,273,tutor,[unclear],00:35:12
+izyrent,274,tutor,[unclear],00:35:13
+izyrent,275,tutor,[unclear],00:35:38
+izyrent,276,tutor,[unclear],00:35:38
+izyrent,277,tutor,[unclear],00:36:03
+izyrent,278,tutor,[unclear],00:36:04
+izyrent,279,tutor,[unclear],00:36:29
+izyrent,280,tutor,[unclear],00:36:29
+izyrent,281,tutor,[unclear],00:36:54
+izyrent,282,tutor,[unclear],00:36:55
+izyrent,283,tutor,[unclear],00:37:20
+izyrent,284,tutor,[unclear],00:37:20
+izyrent,285,tutor,[unclear],00:37:45
+izyrent,286,tutor,[unclear],00:37:46
+izyrent,287,tutor,[unclear],00:38:11
+izyrent,288,tutor,[unclear],00:38:11
+izyrent,289,tutor,[unclear],00:38:36
+izyrent,290,tutor,[unclear],00:38:37
+izyrent,291,tutor,[unclear],00:39:02
+izyrent,292,tutor,[unclear] [unclear],00:39:02
+izyrent,293,tutor,[UNCLEAR] [unclear],00:39:02
+izyrent,294,tutor,[unclear],00:39:02

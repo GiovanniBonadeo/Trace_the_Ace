@@ -1,0 +1,240 @@
+session_id,utterance_id,role,content,timestamp
+cnetxne,0,student,Hello.,00:00:00
+cnetxne,1,background,[unclear],00:00:00
+cnetxne,2,tutor,"Oh, hi.",00:00:01
+cnetxne,3,student,"Hi, this is Callum.",00:00:02
+cnetxne,4,tutor,"Yep, awesome.",00:00:04
+cnetxne,5,tutor,"So how are you, Callum?",00:00:06
+cnetxne,6,student,"Good, thank you.",00:00:09
+cnetxne,7,tutor,"Nice. And I'm [TUTOR_NAME], by the way, and I'll be your tutor for today.",00:00:10
+cnetxne,8,student,"Okay, cool.",00:00:15
+cnetxne,9,tutor,So how are you feeling today?,00:00:16
+cnetxne,10,student,"Yeah, good, thank you.",00:00:19
+cnetxne,11,tutor,"That's nice, that's nice. And what have you been up to lately?",00:00:21
+cnetxne,12,student,Not much.,00:00:26
+cnetxne,13,tutor,"Not much. All right. So I guess this is the first session I'm doing with you, right?",00:00:28
+cnetxne,14,student,Yeah.,00:00:34
+cnetxne,15,tutor,"Yeah, okay. So let me ask you this. How do you feel about maths?",00:00:35
+cnetxne,16,student,"Yeah, I'm all right with it.",00:00:40
+cnetxne,17,tutor,You're all right with it?,00:00:44
+cnetxne,18,student,Yeah.,00:00:45
+cnetxne,19,tutor,"Okay, so— Yeah, you're saying something?",00:00:47
+cnetxne,20,student,"Yeah. No, I don't really have much to say.",00:00:50
+cnetxne,21,tutor,"Okay, so I want to ask you also, like when you get tough questions in",00:00:54
+cnetxne,22,tutor,Like maths. How do you feel about those?,00:01:01
+cnetxne,23,student,Depends on what it is really.,00:01:06
+cnetxne,24,tutor,"Okay, so let's say for example it's something that you are good with but it's tough. How would you feel then?",00:01:09
+cnetxne,25,student,I don't think I struggle with that.,00:01:20
+cnetxne,26,tutor,"Okay, then it's fine. All right, so with that sorted out, then I guess we can jump straight to today's lesson. And that's calculating volume of cubes and cuboids. I think you've done a bit of this earlier, yeah?",00:01:22
+cnetxne,27,student,Yeah.,00:01:37
+cnetxne,28,tutor,"Okay, so what do you know so far about calculating the volume of a cube or a cuboid?",00:01:38
+cnetxne,29,student,"Um, you just add up— you just times all the— [unclear] like sides together that are shown.",00:01:47
+cnetxne,30,tutor,All right.,00:01:58
+cnetxne,31,student,"Well, [UNCLEAR]. [Speaker:Tutor] So what would those 3 sides be when you do that?",00:01:59
+cnetxne,32,student,"So the base, the width, and the height.",00:02:07
+cnetxne,33,tutor,"Base, width, and height. Awesome. So if you know that, then I guess this will be pretty easy for you. So have you completed this slide too, by the way? Do you remember?",00:02:11
+cnetxne,34,student,I don't think I've done this one yet.,00:02:22
+cnetxne,35,tutor,You completed this one?,00:02:26
+cnetxne,36,student,I don't think so. I'll give it a go.,00:02:28
+cnetxne,37,tutor,"You don't think so? Okay. All right, so let me just go through with this one for you and then you can go ahead and continue the [UNCLEAR]. All right? [Speaker:Callum] Okay, cool. Yep.",00:02:31
+cnetxne,38,tutor,"Okay, so here it says let's look at calculating the volume of a cube. So here we have a cube and only one side is shown. What does that mean? And there's only one side shown.",00:02:41
+cnetxne,39,student,"Um, it's all equal, right?",00:02:53
+cnetxne,40,tutor,"It's all equal, yes, because cubes have all same sides. Yeah. All right, so then we say, although we only know one measurement, we know that the side lengths of squares are the same. So then we can do 4 meters times 4 meters and times another 4 meters. Now, why do you think it's shown like this?",00:02:56
+cnetxne,41,student,"So you can calculate the 4 meters and then, I don't know, you just times the 4 meters and then you can times it off by something else right after.",00:03:21
+cnetxne,42,tutor,"Yes, that's one way. But if you know your cube numbers, you can directly get to your answer. Which is one way of doing it. Yeah? So there's also another little hidden thing to this as to why they're showing two in one like that. What do you think that is? Any guesses?",00:03:36
+cnetxne,43,student,"Um, because it's squared?",00:03:57
+cnetxne,44,tutor,"Because it's squared. Yeah, pretty much. So like when you take area and relate that to volume, What's the difference between area and volume?",00:04:01
+cnetxne,45,student,"Area is like the inside bit, and then— [unclear] I can't remember what volume is. Is that for like a 3D shape?",00:04:15
+cnetxne,46,tutor,"Yeah, pretty much, yes. So can you have a volume of a 2D shape?",00:04:27
+cnetxne,47,student,No.,00:04:34
+cnetxne,48,tutor,"No, exactly. So in other words, if you take a cube like this and if you cut it into thin slices, yeah?",00:04:35
+cnetxne,49,student,Yeah.,00:04:45
+cnetxne,50,tutor,"And you find the area of one of those slice, all right, that will be this part. Yeah, does that make sense?",00:04:45
+cnetxne,51,student,Yeah.,00:04:55
+cnetxne,52,tutor,"The area. And then this would be the length of this. That amount of slices. So in other words, if you put it like that, you can define volume as cross-sectional area into the height, or times by the height. What does cross-sectional area mean?",00:04:55
+cnetxne,53,student,"Um, I don't actually know. [unclear] Any guesses? Try to make sense of those words. What do you think it would mean?",00:05:21
+cnetxne,54,student,Would it be like the center of the shape that's showing?,00:05:33
+cnetxne,55,tutor,"Center of the shape. That's pretty close actually, but not quite. All right. So again, remember when I said you cut it into slices?",00:05:36
+cnetxne,56,student,"Oh, okay. Yeah.",00:05:47
+cnetxne,57,tutor,"All right. So that is basically the area of one of the slices. Yeah, so that is the cross-sectional area. So when you just cut it into half, what you see in there, you measure the area or you calculate the area, and then you times that by the length. Okay?",00:05:48
+cnetxne,58,student,Okay.,00:06:10
+cnetxne,59,tutor,How do you feel about that? Does that explanation make sense?,00:06:10
+cnetxne,60,student,"Uh, yeah, that makes sense.",00:06:13
+cnetxne,61,tutor,"Awesome. All right, so with that, we can do 4 times 4, and how much is 4 times 4? Easy, yeah? You got this.",00:06:15
+cnetxne,62,student,"Uh, 16.",00:06:24
+cnetxne,63,tutor,"16. And then times that by 4, what do you get?",00:06:26
+cnetxne,64,student,"Um, is it 44?",00:06:31
+cnetxne,65,tutor,44. How did you get 44?,00:06:38
+cnetxne,66,student,What times that by 4?,00:06:40
+cnetxne,67,tutor,"Like 16 times 4. Oh, is it 64?",00:06:43
+cnetxne,68,tutor,"64, yes, you got that one right. Awesome.",00:06:49
+cnetxne,69,student,Cool.,00:06:52
+cnetxne,70,tutor,"All right, so that right there is how you find the area of a cube. So are you ready to find the area of the— sorry, the volume of a cube? Yeah? And are you ready to find this one?",00:06:53
+cnetxne,71,student,Yeah.,00:07:07
+cnetxne,72,tutor,"Go ahead then, you got this. You can use this working to help you out with that as well. Okay.",00:07:08
+cnetxne,73,student,Okay. [unclear] [unclear] [Speaker:Callum]... [UNCLEAR] [unclear] [Speaker:Callum]... [unclear] Awesome. And what is the unit that you will be using here? [unclear],00:07:56
+cnetxne,74,student,Oh yeah.,00:09:14
+cnetxne,75,tutor,Meters. [unclear],00:09:18
+cnetxne,76,student,Yeah.,00:09:24
+cnetxne,77,tutor,With a 2. Why is it a 2?,00:09:28
+cnetxne,78,student,"Oh, it's cubed. My bad.",00:09:33
+cnetxne,79,tutor,"Yes. It's fine. Now that you know that it's cubed, it's all good. Because typing that is a little difficult, right? [unclear] Okay, so good job working this one out. So now before you go to the next slide, now that you know how to find the volume of a cube, how will you find the volume of a cuboid?",00:09:34
+cnetxne,80,student,Um...,00:10:04
+cnetxne,81,tutor,What is a cuboid?,00:10:12
+cnetxne,82,student,"I don't know. You know, oh, it's like, it's kind of like a rectangle but a cube.",00:10:13
+cnetxne,83,tutor,"Exactly, yes. Pretty much. So you got two sides that pretty much look like a cube, but it has one longer side. So that's where you get the rectangular shape. Yeah, yeah. So now to find the [UNCLEAR], to find the volume of a cuboid, you will need to know how to find the cross-sectional area. Or the area of a slice. Yeah, and then you just times that by the height, and then you can do volume of a cuboid. So using that knowledge, let's see if you got this. Go ahead. [unclear]",00:10:19
+cnetxne,84,tutor,So how will you do Part A?,00:11:21
+cnetxne,85,student,You times all the things with the [UNCLEAR]. [unclear],00:11:24
+cnetxne,86,tutor,56.,00:11:42
+cnetxne,87,student,Yeah.,00:11:43
+cnetxne,88,tutor,"Okay, how did you get 56 here?",00:11:45
+cnetxne,89,student,"So you times all of them up. So 2 times, well, that would be 4. So 2 times 4. 2 times 7, hold on, 4 times 7 would be 28, and then times that by 2.",00:11:49
+cnetxne,90,tutor,"All right, that is really good. So how did you find out that this would be 4?",00:12:11
+cnetxne,91,student,"Because of like,",00:12:20
+cnetxne,92,student,Is 10 millimeters in each meter in the centimeter.,00:12:25
+cnetxne,93,tutor,"Exactly, awesome. So 10 millimeters in each centimeter, so that becomes 4. So 7 times 4, which is how much? [unclear] And then times that by 2. Awesome. So then I guess you could go ahead and try Part B as well.",00:12:32
+cnetxne,94,tutor,Okay. [unclear] [unclear],00:12:54
+cnetxne,95,student,[unclear] [unclear],00:13:48
+cnetxne,96,student,[unclear] Nice. So I guess one was pretty easy then. What do you think?,00:14:02
+cnetxne,97,student,Yep. [unclear],00:14:16
+cnetxne,98,tutor,"Pretty easy, right? Awesome. So we got one more question on this, which is go further slide. So are you ready for this? So you'll have to take this one step by step, yeah?",00:14:17
+cnetxne,99,tutor,Go ahead.,00:14:35
+cnetxne,100,student,Yeah. [unclear],00:14:36
+cnetxne,101,tutor,"Nice. That was a pretty nice way of doing it. I notice you found the volume of this one directly and then this one, yeah?",00:15:27
+cnetxne,102,student,"Yeah. [unclear] Yeah, because you cut it.",00:15:37
+cnetxne,103,tutor,"Yes, exactly. It's cut into two. And I also notice you found out this distance between this and that, which was 2.",00:15:41
+cnetxne,104,student,Yeah.,00:15:51
+cnetxne,105,tutor,"Which is really good. So I guess you've aced this part one. And now I think it's time to go for your next program, which is— it's gonna take a while, okay, because I have to upload the next lesson. Okay, give me a quick minute. [unclear]",00:15:52
+cnetxne,106,tutor,So probability scales. [unclear],00:16:18
+cnetxne,107,student,"Yeah, that's good.",00:16:27
+cnetxne,108,tutor,"Okay, here we go. So what do you know of probability scales? Have you heard of that in school?",00:16:36
+cnetxne,109,student,"Uh, yeah.",00:16:48
+cnetxne,110,tutor,"Yeah? All right, tell me what you know.",00:16:50
+cnetxne,111,student,[unclear],00:16:51
+cnetxne,112,tutor,You've done this before?,00:16:51
+cnetxne,113,student,"Oh, I think so. So it's like, um, each line is like a fraction in one, like, um, a decimal number.",00:16:54
+cnetxne,114,tutor,"A decimal number, yes, awesome. So then it's, is it, could it ever be greater than 1?",00:17:06
+cnetxne,115,student,"Yeah, if it's on 1.",00:17:14
+cnetxne,116,tutor,If it's on 1. Now what do you mean by that?,00:17:16
+cnetxne,117,student,Like it can be graded as 1.,00:17:21
+cnetxne,118,tutor,"Okay. All right. So then for this question, shall we give that one a try?",00:17:25
+cnetxne,119,student,"Yep. Okay, so is that a little bit to the left? Or is it exactly?",00:17:33
+cnetxne,120,student,"No, it's meant to be exactly in the middle.",00:18:18
+cnetxne,121,tutor,"Okay, awesome. Then you got that one right. Now why do you think that is?",00:18:21
+cnetxne,122,student,Because there's an equal amount of even and odd numbers in a dice.,00:18:29
+cnetxne,123,tutor,Exactly.,00:18:35
+cnetxne,124,student,Six sides.,00:18:36
+cnetxne,125,tutor,Awesome. So then I guess we can jump straight to some questions on this. What do you think? Are you ready for this? Or do you want to go through how it happens as well? Yeah? All right. So go ahead. You can try this one.,00:18:37
+cnetxne,126,student,"Oh, circle it?",00:18:54
+cnetxne,127,tutor,Yeah. You can either circle or underline. Works both ways. [unclear] Circle. Likely. Okay. Why?,00:18:55
+cnetxne,128,background,I think I put it as impossible because I don't think they can swim.,00:19:16
+cnetxne,129,tutor,"Yes, cows don't swim as far as we know.",00:19:23
+cnetxne,130,student,Yeah.,00:19:26
+cnetxne,131,tutor,"All right, but what about finding sand on a beach?",00:19:26
+cnetxne,132,student,That's quite likely.,00:19:33
+cnetxne,133,tutor,It's quite likely or is it certain?,00:19:35
+cnetxne,134,student,"It's not certain. Actually, that is certain because you probably find it.",00:19:40
+cnetxne,135,student,Somewhere.,00:19:46
+cnetxne,136,tutor,"It is certain, yes, because every beach has sand, yeah? So it's a definite possibility, right? And then the probability of seeing a cow swimming in the sea. So now this one, you'll have to look into the language here to actually give it a look, yeah? Because if it's saying just walking on the sea, then maybe, yeah?",00:19:46
+cnetxne,137,tutor,"Maybe it all goes there, but then it's either impossible or unlikely. Yeah?",00:20:12
+cnetxne,138,student,Yeah.,00:20:20
+cnetxne,139,tutor,"Nice. So that's actually pretty fun question, I guess. Nice. Good job on this one. And let's go to question number 2. So now this is where it gets related to the actual maths part.",00:20:21
+cnetxne,140,student,Yeah.,00:20:39
+cnetxne,141,tutor,"Go ahead, you got this. [unclear]",00:20:40
+cnetxne,142,tutor,Is that right?,00:22:25
+cnetxne,143,student,"That is two parts correct. One part we'll have to look into. All right, let's take a look at it. All right, Part A, getting an odd number. How did you do that?",00:22:27
+cnetxne,144,student,So I counted all the odd numbers in it?,00:22:45
+cnetxne,145,tutor,Mm-hmm.,00:22:47
+cnetxne,146,student,"Oh, actually, no, that would be in the middle, wouldn't it?",00:22:49
+cnetxne,147,tutor,"Yes. So you figured out that there's exactly the same number of odd and even numbers, yeah?",00:22:52
+cnetxne,148,student,Yeah.,00:23:01
+cnetxne,149,tutor,"Awesome. So then if that's the case, the chance is exactly in the middle. Awesome. And what is— how will you do part B?...factor of 6?",00:23:02
+cnetxne,150,student,I just counted the factors of 6 and there's only one. So it'd be a 1 out of 8 chance that you get 6.,00:23:17
+cnetxne,151,tutor,"Okay, what are the factors of 6 again? [unclear]",00:23:27
+cnetxne,152,student,"Oh wait, no, because it has 3... And 2, and 1.",00:23:32
+cnetxne,153,tutor,"3, 2, 1, and? There's one more.",00:23:39
+cnetxne,154,student,"Oh, 6.",00:23:44
+cnetxne,155,tutor,"6, yes. So then, how would you do it? [unclear] [unclear]",00:23:45
+cnetxne,156,tutor,"Yes, yes, that is right. Since there are more factors of 6 compared to the total number of possibilities, the chance of getting B is much higher. Awesome. And how did you do Part C?",00:24:09
+cnetxne,157,student,"Multiples of 3, so it's just",00:24:25
+cnetxne,158,student,Mm-hmm.,00:24:28
+cnetxne,159,tutor,"3 and 6, so.",00:24:29
+cnetxne,160,student,Yes.,00:24:31
+cnetxne,161,tutor,Yeah.,00:24:31
+cnetxne,162,student,That was the only— [unclear],00:24:33
+cnetxne,163,tutor,"Exactly. Awesome. So it's good that you figured out what went wrong in that Part B. Like, as soon as you realize what factors were, you figure out the rest. That is a really good job, by the way. So with that, I guess we could go for the last slide on this. [unclear] [Speaker:Callum]... [unclear]",00:24:36
+cnetxne,164,tutor,"Yeah, is that it?",00:26:37
+cnetxne,165,student,"There, okay. Why is that?",00:26:57
+cnetxne,166,student,4 out of 11.,00:27:02
+cnetxne,167,tutor,"4. All right, 4 out of 11. And what's the question asking?",00:27:04
+cnetxne,168,student,How many [unclear] cheating a vow.,00:27:12
+cnetxne,169,tutor,"Mark an X on the probability scale to show the probability of not choosing a robber. Oh, so it would be [UNCLEAR], wouldn't it? [Speaker:Tutor] Exactly. Nice. So any questions on probability? Any doubts that you got?",00:27:24
+cnetxne,170,student,"No, not really.",00:27:52
+cnetxne,171,tutor,"Not really. All right. So, so far on the two lessons that we did, What have we done so far?",00:27:53
+cnetxne,172,student,Volume. [unclear],00:28:03
+cnetxne,173,tutor,And what did we learn in volume?,00:28:08
+cnetxne,174,student,Area.,00:28:10
+cnetxne,175,tutor,"Yes, the area.",00:28:11
+cnetxne,176,student,How to calculate it. And then we've learned probability.,00:28:14
+cnetxne,177,tutor,"Yes, so about volume,",00:28:21
+cnetxne,178,tutor,"Again, let me ask you, on cuboids, how do you find the volume of a cuboid?",00:28:24
+cnetxne,179,student,"Well, depending on what it says. Like, if it's a [unclear] it will only be one number and you just times that one number 3 times to cube it.",00:28:34
+cnetxne,180,tutor,"Okay, all right. So what if they have given a question and explained in words how the numbers would change. Like, for example, I mean something like this, okay? [unclear]",00:28:46
+cnetxne,181,student,"Like, so let me get— [unclear]",00:29:01
+cnetxne,182,tutor,"All right, that's a pretty nice cube, I guess. Okay, so for this one, if they have said this length is 3, okay, and they have said this one over here is twice the length of this side, then how will you do it?",00:29:20
+cnetxne,183,student,"Wait, it's twice the length of 3?",00:29:50
+cnetxne,184,tutor,"Yes, and they have mentioned this as 3 as well. Then what's the value of this? [unclear] 54. Yes, correct. Awesome. So then I guess volumes are secured very nicely, and then comes probability. And in probability, what's the chance of you getting heads when you flip a coin?",00:29:52
+cnetxne,185,student,"Um, half?",00:30:26
+cnetxne,186,tutor,Half.,00:30:27
+cnetxne,187,student,"Callum, 50%.",00:30:28
+cnetxne,188,tutor,"Exactly. Awesome. So then with that, I guess we can go to our next lesson for today. How do you think we're doing so far? Is it too fast or how?",00:30:29
+cnetxne,189,student,It's all right. It's quite a good pace.,00:30:43
+cnetxne,190,tutor,"Quite good pace? Okay, it's nice to know then. Let me see. Averages. What do you know of averages so far? How's it for you?",00:30:45
+cnetxne,191,student,"Wait, what?...average. [unclear]",00:30:56
+cnetxne,192,tutor,"Oh, average.",00:31:02
+cnetxne,193,student,"Yes, averages, yes.",00:31:04
+cnetxne,194,tutor,"Oh yeah, um...",00:31:07
+cnetxne,195,student,Oh...,00:31:08
+cnetxne,196,tutor,I know what averages...,00:31:09
+cnetxne,197,student,"Oh, okay.",00:31:11
+cnetxne,198,tutor,So I know...,00:31:12
+cnetxne,199,student,Mm-hmm.,00:31:12
+cnetxne,200,tutor,"The... wasn't the mean where you times it all up and then... wait, no. You add all the numbers up...",00:31:14
+cnetxne,201,student,"Mm-hmm. And then you times them— no, you divide them by the amount of numbers there are?",00:31:22
+cnetxne,202,tutor,"Exactly, and that is the mean or the average. Awesome. And what is a range?",00:31:30
+cnetxne,203,student,[unclear] From the smallest one to the biggest one?,00:31:36
+cnetxne,204,tutor,Smallest one to the biggest one. And what do you do knowing the smallest and—,00:31:43
+cnetxne,205,tutor,Uh-huh.,00:31:49
+cnetxne,206,student,The smallest. What's the smallest would be like one and the biggest would be like 10.,00:31:51
+cnetxne,207,tutor,"Okay. And then what is the range there then? If you have the smallest one as one and the largest one as 10, how will you find the range?",00:31:59
+cnetxne,208,student,"That would be 1 to 10. Or would it be 5, wouldn't it? [unclear]",00:32:09
+cnetxne,209,tutor,Not really. So range is the difference between the largest and the smallest.,00:32:14
+cnetxne,210,student,"Ah, 9.",00:32:31
+cnetxne,211,tutor,"It's [UNCLEAR]. Yes, exactly. And then what's the mode? This one over here. What is a mode? [Speaker:Callum] I can't really remember that.",00:32:34
+cnetxne,212,tutor,Okay. So remember mode as basically the number that is most commonly repeated or repeated most.,00:32:40
+cnetxne,213,student,Okay.,00:32:52
+cnetxne,214,tutor,Yeah.,00:32:53
+cnetxne,215,student,"And then I remember median as like the middle one in the [UNCLEAR]. [Speaker:Tutor] Exactly. Yes. So when you find the median, can you find the median of this by just looking at the middle number.",00:32:54
+cnetxne,216,student,"Yeah, it— no, you have to look at the one that will be medium to everyone, everything else. So you'd have to order it first.",00:33:13
+cnetxne,217,tutor,"Yes, exactly. Awesome. And I got— I think you've got all the basics to do this whole lesson. Let's go ahead and complete this one then. [unclear]",00:33:22
+cnetxne,218,tutor,"Okay, cool. And that would be 2?",00:33:35
+cnetxne,219,student,"Exactly. Median would be 2, yeah.",00:33:49
+cnetxne,220,tutor,"This one says mean over here, by the way. Oh, my bad.",00:33:57
+cnetxne,221,tutor,Yeah. No problem.,00:34:02
+cnetxne,222,student,I put in the wrong one.,00:34:04
+cnetxne,223,tutor,Okay.,00:34:07
+cnetxne,224,student,So that would be— [unclear],00:34:08
+cnetxne,225,tutor,Yes. And the mode would be? [unclear],00:34:13
+cnetxne,226,student,I can't really remember how to say it now.,00:34:31
+cnetxne,227,tutor,"Yes, the mode is the number that is mostly repeated. Or I guess a better definition would be the number which appears most often in a set of numbers.",00:34:38
+cnetxne,228,tutor,There you go. Awesome. And then the mean. How will you find the mean for this?,00:34:52
+cnetxne,229,student,21. [unclear],00:35:03
+cnetxne,230,tutor,"Awesome. So out of these 3 methods, the mean, mode, and median, All right, all of these three, by the way, are ways to find the average. Okay, and out of those three, what do you think is the most reliable? [unclear]",00:35:10
+cnetxne,231,student,"Probably the median. Oh no, actually no, the mean.",00:35:33
+cnetxne,232,tutor,The mean.,00:35:42
+cnetxne,233,student,Yeah.,00:35:43
+cnetxne,234,tutor,"All right, and why is that?",00:35:43
+cnetxne,235,student,Because like you kind of get a middle answer of all of the numbers combined.,00:35:48
+cnetxne,236,tutor,"Exactly. All right. I just wanted to look into that as well today. And I guess with that, we could end our session for today. So next week, we can continue with the [UNCLEAR]. The You Do slide, and we can do some questions and keep going like that. So I hope you enjoyed today's session. Hope you learned something new. And I'll see you again next week then. And also don't forget to complete the feedback form and also the post-session questions. All right?",00:35:58
+cnetxne,237,student,"Okay, cool.",00:36:30
+cnetxne,238,tutor,So have a great week ahead. You're welcome. Bye-bye. [Speaker:Background]... [UNCLEAR] [unclear] [Speaker:Callum]... [UNCLEAR] [unclear] [Speaker:Callum]... [unclear],00:36:31

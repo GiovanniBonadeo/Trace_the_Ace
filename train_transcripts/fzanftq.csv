@@ -1,0 +1,321 @@
+session_id,utterance_id,role,content,timestamp
+fzanftq,0,background,[unclear],00:00:00
+fzanftq,1,tutor,Hello? Hello?,00:00:00
+fzanftq,2,student,"Hello, yeah, can you hear me?",00:00:04
+fzanftq,3,tutor,Yeah.,00:00:09
+fzanftq,4,student,"All right, hi, so how are you today?",00:00:10
+fzanftq,5,tutor,"I'm good, how are you?",00:00:13
+fzanftq,6,student,"I'm also good, thank you for asking. So before moving forward, can you confirm, am I saying your name correctly? Is it Tamsin?",00:00:14
+fzanftq,7,tutor,"Yeah, Tamsin.",00:00:24
+fzanftq,8,student,"Tamsin, alright. I'm sorry for that. Okay, Tamsin. So I'm Gideon. I'll be your tutor for today's session. Okay?",00:00:26
+fzanftq,9,tutor,Okay.,00:00:34
+fzanftq,10,student,Alright. So today we are going to have the lesson of using Pythagoras' theorem. Alright?,00:00:34
+fzanftq,11,tutor,Yeah.,00:00:42
+fzanftq,12,student,So here's a warm-up question for you. Who do you agree with? So can you read this statement and try to know Who is correct over here?,00:00:43
+fzanftq,13,student,"Yeah, um, Joseph thought to find the missing side, you need to add the other sides together and divide by 2. Lee says no, we need to add the squares of the side and then a square root. So, um, Lee is right.",00:00:52
+fzanftq,14,tutor,"Yes, great job over there. Lee is right because he is using Pythagoras theorem. All right, so let's move on to the first question over here.",00:01:10
+fzanftq,15,student,"So you need to do 3 squared, so 3 times 3, which is 9. And then you need to do 8 times 8.",00:01:20
+fzanftq,16,tutor,Yes.,00:01:34
+fzanftq,17,student,Which is 64. Then you do [unclear] 64. Then you do 64 add 9.,00:01:35
+fzanftq,18,tutor,Okay.,00:01:45
+fzanftq,19,student,"73. And then you do the square root of— square root of 73. [unclear] Which the square root of 73 is— wait, hold on, let me get a calculator.",00:01:46
+fzanftq,20,tutor,"Yes, you can use your calculator to find the square root. [unclear] [unclear] [Speaker] The square root of 73 is 8.5.",00:02:11
+fzanftq,21,tutor,So what's the final answer?,00:02:58
+fzanftq,22,student,The final answer is 8.5.,00:03:01
+fzanftq,23,tutor,"8.5, yes. So the answer is correct, only a little thing over here is missing. Can you find that?",00:03:03
+fzanftq,24,student,Oh.,00:03:10
+fzanftq,25,tutor,"We need to— yes, that centimeter. Alright, good working out in this question, so you get 2 marks for this, Tamsin.",00:03:10
+fzanftq,26,student,Okay.,00:03:19
+fzanftq,27,tutor,"And you did a good job in explaining your explanation verbally, but in exams, just try to write all the steps, okay?",00:03:21
+fzanftq,28,student,Yeah.,00:03:31
+fzanftq,29,tutor,"Because that way you will get marks for every step. [Speaker:Tutor]...do some calculations. Alright, so let's move on to the next question. [Speaker:Tamsin] Okay. So, this one?",00:03:32
+fzanftq,30,tutor,Yes.,00:03:46
+fzanftq,31,student,And this one you do 8 squared.,00:03:46
+fzanftq,32,tutor,Mm-hmm.,00:03:54
+fzanftq,33,student,And then you would—,00:03:56
+fzanftq,34,tutor,Which is 64.,00:03:57
+fzanftq,35,student,"Okay. Then you do 6 squared, which is 36. And then because you're finding like— you're finding this side, minus it from 36. So you're going to do [unclear] minus 36, which equals 28. And then you're going to find the square root of 28. [Speaker:Tamsin]...which is 5.29. [UNCLEAR] Oh, it's a one decimal place. [unclear] Centimetres.",00:04:01
+fzanftq,36,student,"Is it 5.2 or something else? What we wrote before this, 5.29.",00:05:03
+fzanftq,37,tutor,"It would be— it wouldn't be 5.2, it would be— [unclear]",00:05:13
+fzanftq,38,student,"Yes, so you got 5.29, right? Up to 2 decimal places. Now you have to round to 1 decimal place. So what that will be?",00:05:20
+fzanftq,39,background,"5. [Speaker:Tamsin]...3. [Speaker:TUTOR] Yes, and what's the reason for rounding it up?",00:05:28
+fzanftq,40,student,"Because it says correct to one decimal place, and if anything's above 5, you need to round it up to the next number.",00:05:36
+fzanftq,41,tutor,"All right, great explanation over there, Tamsin. So your answer is correct and you get 2 marks for this. Good job. All right, now let's move on to the next question, question number 3 of this lesson. [Speaker] Okay. ABC is an equilateral triangle. A equals— AB equals BC equals CA equals 6 centimeters. Find the height of the triangle.",00:05:43
+fzanftq,42,tutor,Okay. [unclear] [Speaker] I'm not sure on this one.,00:06:11
+fzanftq,43,student,All right. So can you think that— can we use the Pythagoras Theorem over here in this triangle?,00:06:16
+fzanftq,44,student,Yeah.,00:06:23
+fzanftq,45,tutor,"What is— yeah, so what is the requirement of using Pythagoras' theorem? Like, which type of triangle do we need?",00:06:25
+fzanftq,46,student,A right angle triangle.,00:06:35
+fzanftq,47,tutor,Yeah. So can you think of something that how can we get a right angle triangle in this?,00:06:37
+fzanftq,48,student,"Um, I don't know.",00:06:43
+fzanftq,49,tutor,"All right, that's completely fine. Let's move on to the next slide to find this out.",00:06:50
+fzanftq,50,tutor,"Alright, so Pythagoras' theorem can be used with other type of triangles as well when the perpendicular height is used to form right angle triangle within the triangle. Okay, so we have to find this height h, and that is going to work as a perpendicular height. Okay?",00:06:55
+fzanftq,51,student,Yeah.,00:07:13
+fzanftq,52,tutor,"So this often involves using the properties of isosceles and equilateral triangles. So firstly, The first step is label the lengths of the triangle and mark the perpendicular height. So can you use the line tool to draw the line over here in this triangle? The perpendicular height? [unclear]",00:07:14
+fzanftq,53,student,We will draw that through the vertex B and we will take it to the side AC.,00:07:35
+fzanftq,54,tutor,So would you go like that?,00:07:45
+fzanftq,55,student,Yes.,00:07:47
+fzanftq,56,tutor,That's correct.,00:07:48
+fzanftq,57,background,"And then to the [UNCLEAR]. [Speaker:Tutor] No, not this way. Let me tell you. Just a second. We can use the line tool to draw a straight line. So because we need to find the height, okay, so I'll draw it like this.",00:07:49
+fzanftq,58,background,Okay.,00:08:03
+fzanftq,59,tutor,"Okay, so that it matches exactly with the height we need to find because we need to find the height of the triangle. Now we need a right angle triangle. So can you think of how we can be sure that it's going to be a right angle over here? [unclear]",00:08:05
+fzanftq,60,tutor,So for that we are going to use the property of equilateral triangle.,00:08:21
+fzanftq,61,student,Flip it into—,00:08:25
+fzanftq,62,tutor,So what happens— can you recall the property of equilateral triangle?,00:08:26
+fzanftq,63,student,I can't remember.,00:08:32
+fzanftq,64,tutor,"Alright, let me tell you that. So when we draw a perpendicular from one vertex to the opposite vertex like this, which is the height, that divides the base, AC, into equal parts and it makes a 90-degree angle with it. Yeah, there are two things. It makes a 90-degree angle and it is divided into two equal parts. Okay, so now can you find a right-angle triangle over here?",00:08:34
+fzanftq,65,student,"Um, so would it be [UNCLEAR]? [Speaker:Tutor] Yeah.",00:09:05
+fzanftq,66,tutor,"Yes, so these both are— both of these triangles are right angle triangles. We can choose either of them.",00:09:12
+fzanftq,67,student,Okay. [unclear],00:09:18
+fzanftq,68,tutor,Let us mark this as vertex D. Now let's move on to step number 2. Draw and label the triangle ABD. So we can see we have a triangle ABD over here which is a right angle triangle.,00:09:19
+fzanftq,69,student,Okay.,00:09:32
+fzanftq,70,tutor,Now you need to label the lengths of this triangle.,00:09:33
+fzanftq,71,tutor,So what is AB?,00:09:37
+fzanftq,72,student,Would that be 6?,00:09:40
+fzanftq,73,tutor,"Yes, that's going to be 6 because that is given. So you can write 6 over here. Mm-hmm. Alright, and what the length of AD would be?",00:09:41
+fzanftq,74,student,"Um, that also be 6.",00:09:55
+fzanftq,75,tutor,"Okay, so AC is 6, or CA is 6, this whole length AC. Is 6 centimeters. But as I told you, with the property of right angle triangle— with the property of equilateral triangle, AC is going to be bisected into two equal parts. So AE and DC both are equal.",00:09:58
+fzanftq,76,tutor,So would it be 3? Because you divide—,00:10:18
+fzanftq,77,student,"Yes, that's going to be 3. So this is something which you need to remember. Now you can apply Pythagoras' theorem in this triangle to find h.",00:10:20
+fzanftq,78,student,"Okay, so you would do 6 squared, and then, which is 36. Then you do 3 squared, which is 9.",00:10:31
+fzanftq,79,tutor,Got it.,00:10:48
+fzanftq,80,student,"And then you're finding the long side, so you would add them together, which would be... [Speaker:Tamsin]...give you 45. [Speaker:Tutor] Alright, so let's look into the triangle once again. Are we finding the longest side or the shorter side?",00:10:49
+fzanftq,81,student,"Oh, the short side.",00:11:06
+fzanftq,82,tutor,Yes.,00:11:08
+fzanftq,83,student,"So we would— [unclear] do 36 and then we can minus 9 away from that, which would give us 27. [Speaker] And then we would do the square root of 27, which is 5.19. And then do we have to do it to one decimal place?",00:11:10
+fzanftq,84,tutor,"OK, so in this question it's not given. That you need to find it to one decimal place. But if they have asked you, what would be the answer?",00:11:50
+fzanftq,85,student,It would be 5.2.,00:11:59
+fzanftq,86,tutor,"Yes, so you can take— assume that they're asking for the one decimal place.",00:12:01
+fzanftq,87,student,Yeah.,00:12:08
+fzanftq,88,tutor,And what will be the unit?,00:12:08
+fzanftq,89,student,[unclear],00:12:10
+fzanftq,90,tutor,"Yes, so that's the final and complete answer. Good job in trying to learn this new concept. And here we have learned that we can apply Pythagoras' theorem even in the triangles which doesn't seem to be right angle at first, okay, by using certain properties. And the same property of equilateral triangle is also applied to isosceles triangle, okay?",00:12:12
+fzanftq,91,tutor,Yeah.,00:12:36
+fzanftq,92,student,"And we will see this in the next question. And let me tell you about the mark scheme of this. So you get 1 mark for applying the Pythagoras' theorem, which you applied over here, 1 mark for getting 27, And final one mark for getting the right answer.",00:12:37
+fzanftq,93,tutor,Okay.,00:12:52
+fzanftq,94,background,Now this is the next question for you.,00:12:54
+fzanftq,95,student,"Okay. So below is an isosceles triangle with a height of 6 centimeters and the base of [UNCLEAR]. Find x. Okay, so your right angle would be like that. [Speaker:Tutor] Yeah.",00:12:57
+fzanftq,96,student,"And we're finding this side of the triangle, so it would— we'll be finding the long side. So you would do 6 squared equals 36. Then we do 8 squared equals 64.",00:13:04
+fzanftq,97,tutor,"Okay, so would we do 8 squared or something else? Because we need only this much of length. Let's call it D. This is D. [unclear] Yeah.",00:13:31
+fzanftq,98,student,Then it's going to be the length of DC.,00:13:45
+fzanftq,99,tutor,"Oh, so would it just be a— oh, because it's 4.",00:13:49
+fzanftq,100,student,"Yes, that's beautiful, because it's divided into 2 equal parts.",00:13:55
+fzanftq,101,tutor,"Yeah, so that would be 4 squared, which is 16. Then you're going to do 36, because you're finding the long side, we're adding.",00:13:59
+fzanftq,102,student,16. So 36 add 16 is 52.,00:14:13
+fzanftq,103,tutor,Mm-hmm. [unclear],00:14:20
+fzanftq,104,student,"And then you would find the square root of 52, which is 7.2. And you can't round that up, so it would just be 7.2. [unclear]",00:14:24
+fzanftq,105,tutor,"Yes. Alright, great job over there. You get 2 marks for this correct answer. And I really like the way you are doing the questions by explaining all the steps together. So it also helps to understand and remember the concepts. Good job over there. Now we are done with all the questions. Do you have any doubt till now?",00:14:40
+fzanftq,106,student,No.,00:15:03
+fzanftq,107,tutor,"Alright. Now since you were doing quite confident with the questions, I would like you to try this challenge question over here.",00:15:04
+fzanftq,108,tutor,"A girl runs 5 kilometres east and then 8 kilometres north. How far is she [UNCLEAR]? How far is she from her starting point? [Speaker:Tamsin] To answer the question, you will need to use an understanding of compass points. [unclear]",00:15:13
+fzanftq,109,tutor,"Yes, so how do you think you will start answering this?",00:15:43
+fzanftq,110,student,Would I— would I start by like drawing a line down the middle here?,00:15:48
+fzanftq,111,tutor,"Yes, firstly you will assume a starting point and from that point you'll draw a line.",00:15:54
+fzanftq,112,student,We didn't do it last week.,00:16:00
+fzanftq,113,tutor,In the given direction.,00:16:01
+fzanftq,114,student,"Yeah, last week.",00:16:03
+fzanftq,115,tutor,That is east.,00:16:04
+fzanftq,116,student,"Oh yeah, so I would draw a line.",00:16:05
+fzanftq,117,tutor,"Yeah, you may use the shapes tool.",00:16:08
+fzanftq,118,student,"Yeah, like that. And then she went north, so she would go up like this. And then that would create, if you join them up, a right angle triangle.",00:16:10
+fzanftq,119,tutor,Yes.,00:16:23
+fzanftq,120,student,"There's your right angle. So we know she runs 8 5 east and then she runs 5 north, so you would— [unclear]",00:16:25
+fzanftq,121,tutor,"Okay, so let's— yeah, that's the—",00:16:36
+fzanftq,122,student,The other way around.,00:16:39
+fzanftq,123,tutor,"Yeah, but anyways, you are going to get the right answer.",00:16:40
+fzanftq,124,background,Excellent.,00:16:44
+fzanftq,125,student,"Okay, so she runs 5 east and then 8 north, so you're gonna do it like a normal question, so you do 5 squared equals 25, and then 8 squared is 64.",00:16:45
+fzanftq,126,tutor,Yes.,00:17:03
+fzanftq,127,student,"And then because we're finding the long side, we're going to add. So we're going to do 64 add 25, and that is 89.",00:17:04
+fzanftq,128,student,"And then we're gonna find the square root of 89, which is 9.4, and you can't round that up, so it'd be 9.4, and because it's like in km, it'd be like that.",00:17:24
+fzanftq,129,tutor,"Yes, all right, great job. So 9.4 kilometers is the correct answer, and you get 2 marks for this.",00:17:47
+fzanftq,130,tutor,"Alright, so we are done with all the questions of this lesson. Now let's reflect upon what we have learned till now by doing this slide.",00:17:55
+fzanftq,131,student,Okay.,00:18:05
+fzanftq,132,tutor,I hope you know what you have to do. You have to figure out what the student has done wrong and then correct it.,00:18:05
+fzanftq,133,student,"Okay. So with this, so they haven't squared it, so she need— they need to do 3 squared, so that would be 9.",00:18:12
+fzanftq,134,student,Mm-hmm.,00:18:24
+fzanftq,135,tutor,"And then they need to do 4 squared, and that would be 16. And then you add them together. So you do 16, add 9, which is 25. So that's one of the things she done wrong. And then, instead of dividing, she needs to",00:18:24
+fzanftq,136,student,"She's [unclear] to find the square root of 25. And then the square root of 25 is 5, so it would just be 5.",00:18:48
+fzanftq,137,tutor,"Alright, well done. Yes, that's the correct explanation. Now let's move on to the next question.",00:19:02
+fzanftq,138,student,Okay. This one's wrong because she's meant to minus it because she's finding the shorter side instead of the [UNCLEAR].,00:19:08
+fzanftq,139,student,So you would do 144 minus 60.,00:19:19
+fzanftq,140,tutor,Yeah.,00:19:29
+fzanftq,141,student,"Oh, you do 144 minus 64, which would give you... 80.",00:19:30
+fzanftq,142,tutor,So find out—,00:19:50
+fzanftq,143,student,And then you would do— [unclear],00:19:51
+fzanftq,144,tutor,"Find the square root of 80, which is 8.9.",00:19:54
+fzanftq,145,student,Times the—,00:20:02
+fzanftq,146,tutor,Yes.,00:20:03
+fzanftq,147,student,8.9 centimeters.,00:20:03
+fzanftq,148,tutor,"Yes, that's the correct answer. Good job, Tamsin, in doing everything in a great way, and you have also identified the mistakes correctly. So good job over there. Now we'll move to the next lesson, but before that, let's just once recall the new concept that you have learned over here, which was in this question, right?",00:20:09
+fzanftq,149,student,Yeah.,00:20:30
+fzanftq,150,tutor,So can you explain verbally that what you have learned in this slide?,00:20:32
+fzanftq,151,student,"So when you have an equilateral triangle, you need to split it in half to make it into an isosceles triangle,",00:20:37
+fzanftq,152,student,"And then you need to find the right angle. Then you need to find your right angle, and whatever the length is across, you need to divide that by 2 because you've obviously cut that in half.",00:20:49
+fzanftq,153,tutor,Yes.,00:21:04
+fzanftq,154,student,And then you do the same method as Pythagoras to find out your height.,00:21:05
+fzanftq,155,tutor,"Yes, that's correct. The only one thing which I would like to correct is that you said that when we divide it into smaller triangle, it becomes isosceles, right? But it doesn't— it's an equilateral triangle anyway. It says that when we are drawing this perpendicular from vertex B on the side AC, then it is dividing AC into two equal parts, okay?",00:21:13
+fzanftq,156,background,Yeah.,00:21:38
+fzanftq,157,tutor,"That is the property of equilateral triangle, and this property is also followed in the isosceles triangle, okay?",00:21:38
+fzanftq,158,background,[unclear],00:21:45
+fzanftq,159,tutor,Always remember this thing that you need to divide the Base.,00:21:45
+fzanftq,160,student,Yeah.,00:21:50
+fzanftq,161,tutor,"And then proceed with the question. Alright, so do you have any doubt till now?",00:21:50
+fzanftq,162,student,None.,00:21:55
+fzanftq,163,tutor,"Okay, so are we good to proceed to the next lesson?",00:21:56
+fzanftq,164,student,Yeah.,00:21:59
+fzanftq,165,tutor,"Alright, great. Okay, so the next lesson is drawing and interpreting scatter graphs. Now you have to match the image to the description. [Speaker] Okay, so the positive correlation is this one, the negative one is this one and this one. [unclear]",00:22:00
+fzanftq,166,tutor,"Negative, yeah, that's absolutely correct. Good job. Now let's move on to the first question.",00:22:35
+fzanftq,167,student,OK. The data shows some information about the weights and heights of students in a class. Plot the data on a scatter graph below. OK. So you've got the weight here and then the height there. So you need to go across to 40 and then go up to 20. Then you need to go up to 125.,00:22:41
+fzanftq,168,student,Then you need to go to 50 and then go up to 145. [unclear],00:23:10
+fzanftq,169,student,"Then you need to go to 47, which would be in the middle here, and go up to 130.",00:23:25
+fzanftq,170,tutor,"So staying in the middle, it would be there. [unclear] And then you go to 62, which is here, and then go up to 150. So we go up here. [unclear]",00:23:35
+fzanftq,171,student,Yes.,00:23:59
+fzanftq,172,tutor,"And then 55, which would be in the middle here, and then you go up up to 135. It should be here. [unclear] And then you go to 58 and go up to 150. And then 52, and you'd go up to 145, which is here. Like that.",00:24:00
+fzanftq,173,tutor,Alright.,00:24:30
+fzanftq,174,tutor,"Yeah, so all the points marked by you, or all the coordinates are correct. Great job! So you get 2 marks for this question. Okay?",00:24:31
+fzanftq,175,student,Okay.,00:24:40
+fzanftq,176,tutor,"In case you miss a wrong— you miss one of the coordinates to mark correctly, then for at least 5 correct coordinates you get 1 mark. Okay?",00:24:40
+fzanftq,177,student,Okay.,00:24:49
+fzanftq,178,tutor,Now let's move on to the next question.,00:24:50
+fzanftq,179,background,The graph shows the number of ice creams sold by a shop each day against the temperature at midday that day. Describe the relationship between the temperature midday and the number of ice cream sold. [unclear],00:24:54
+fzanftq,180,tutor,"So here, by observing the graph, you need to tell that whether it's a positive correlation, negative correlation, or no correlation.",00:25:10
+fzanftq,181,student,So I'd say the [unclear] is a positive [unclear],00:25:22
+fzanftq,182,tutor,Yes.,00:25:40
+fzanftq,183,student,"And then to explain why, because it seems the number The number of ice creams sold go up, increase. That's what I would say.",00:25:41
+fzanftq,184,tutor,"Alright, so here when they are asking explain why, so we can give a general reason for the given situation. Like here, We can see, as you have written here, that the number of ice creams sold increase with the increase in temperature.",00:26:15
+fzanftq,185,student,Yeah.,00:26:30
+fzanftq,186,tutor,"So here we can write the reason that why it's happening. So we can write something like that the hotter the temperature, the more popular ice cream becomes, because ice cream is cold, so it helps people cool down, something like that.",00:26:31
+fzanftq,187,student,Okay.,00:26:45
+fzanftq,188,tutor,So you need to give the reason according to situation in a general way. Alright?,00:26:45
+fzanftq,189,student,Alright.,00:26:50
+fzanftq,190,tutor,Okay. So now let's move on to a similar question.,00:26:51
+fzanftq,191,tutor,Yes. [unclear] The graph shows the average amount of sleep a person gets against the average amount of time they have spent looking at a screen all day. Describe the correlation— describe the relationship between the number of hours spent looking at a screen.,00:26:56
+fzanftq,192,student,"Yes, and you can answer this one verbally. You can skip the writing part.",00:27:14
+fzanftq,193,tutor,"Okay, so this one, it's a negative correlation because the more screen time they have, the less amount of sleep they get.",00:27:19
+fzanftq,194,student,"Yes, that's correct. Alright, so you get one mark for the A part and one mark for the B part. So good job over there. Now let's move on to the third question. [unclear]",00:27:28
+fzanftq,195,tutor,"Okay, the line— the graph shows the age of a car against its selling price. Draw a line of best fit on the diagram. So",00:27:39
+fzanftq,196,tutor,Could you just go from like one corner and then try to go through as many points as possible like that?,00:27:53
+fzanftq,197,student,"Yes, so this may be the correct one, this may be the correct line, but there are some points which we need to keep in mind while we draw the line of best fit, okay?",00:28:05
+fzanftq,198,tutor,So do you know what are those points?,00:28:18
+fzanftq,199,student,No.,00:28:21
+fzanftq,200,tutor,"Alright, so let's look at the next slide that what are those points. So you may be knowing this, that the line of best fit is a line drawn through a scatter graph which shows correlation, right?",00:28:22
+fzanftq,201,student,Yeah.,00:28:34
+fzanftq,202,tutor,"And the line of best fit should be a straight line, obviously. And the second point is the most important, should have approximately the same number of points on both the lines. Okay, the important point over here is that the line should be having approximately the same number of points on both the sides. And the third point is does not have to pass through (0, 0). It shouldn't pass through the origin.",00:28:34
+fzanftq,203,student,Okay.,00:29:00
+fzanftq,204,tutor,This way we will be able to estimate the answer correctly which is asked in the B part.,00:29:02
+fzanftq,205,student,Yeah.,00:29:08
+fzanftq,206,background,Ahead.,00:29:08
+fzanftq,207,tutor,We can try drawing the line again and keep these points in mind?,00:29:09
+fzanftq,208,student,So we would do it like... [unclear] Like that? [unclear],00:29:14
+fzanftq,209,tutor,Hello.,00:29:44
+fzanftq,210,student,Hello.,00:29:45
+fzanftq,211,tutor,I think we lost the connection from your end. I wasn't able to hear you. Can you hear me now?,00:29:45
+fzanftq,212,student,Yeah.,00:29:51
+fzanftq,213,tutor,"All right. Yes, so the line is correct. And how can you verify this?",00:29:52
+fzanftq,214,student,Could you count how many points are on each side?,00:29:56
+fzanftq,215,tutor,"Yeah. Approximately. In fact, exactly here. Exactly, we have 5 points on both the sides, right?",00:30:01
+fzanftq,216,student,Yeah.,00:30:08
+fzanftq,217,tutor,So that's correct. Now you get 1 mark for the A part. Now let's do the B part.,00:30:10
+fzanftq,218,student,"Use it to estimate the selling price of a car that's 4 years old. So would you go— would you do— do this? So [unclear] because it's 4 years old, go up from 4.",00:30:15
+fzanftq,219,student,Yeah.,00:30:30
+fzanftq,220,tutor,To where the line is and then go across to like that and then—,00:30:31
+fzanftq,221,student,"Yeah, that's absolutely [UNCLEAR]. [Speaker:Tutor] And then because that is— so that would be 1,600 and I'd say That'd be like 300, maybe.",00:30:41
+fzanftq,222,student,"1,600 and 300. It may be 30, right?",00:31:04
+fzanftq,223,tutor,"Oh, yeah.",00:31:08
+fzanftq,224,student,And we need to observe that [UNCLEAR]. [Speaker:TUTOR] I'm not sure.,00:31:09
+fzanftq,225,student,"1,700.",00:31:20
+fzanftq,226,student,Yeah.,00:31:24
+fzanftq,227,tutor,"Okay. So all the answers which you get in this range, they will be correct.",00:31:25
+fzanftq,228,student,Okay.,00:31:30
+fzanftq,229,tutor,"All right. So the answer for this can be 1,650. [unclear] Now let's do a similar question.",00:31:31
+fzanftq,230,student,Okay.,00:31:43
+fzanftq,231,tutor,"The graph shows the cost of flight and length of the flight. 15 flights available from an airline. Draw a line of best fit on the diagram. So you go up like this, and then— [unclear]",00:31:47
+fzanftq,232,student,"Oh, okay. So one of the points was that we cannot draw from the origin, that is (0, 0), okay? So you need to start from",00:32:05
+fzanftq,233,student,Some other point. [unclear],00:32:17
+fzanftq,234,tutor,All right.,00:32:19
+fzanftq,235,student,Like that?,00:32:25
+fzanftq,236,tutor,Yeah. And you may verify that are you getting approximately equal number of points?,00:32:28
+fzanftq,237,student,Yeah.,00:32:40
+fzanftq,238,tutor,Yes.,00:32:41
+fzanftq,239,tutor,So now you can do the B part. [Speaker:Tamsin]...estimate the cost of flights for the journey of 3 hours. So you have 3... So 3 is here. So you're going to go up to the line. And then you're going to go across. All the way across.,00:32:43
+fzanftq,240,student,Yes. So that would be— I think that would be 350.,00:33:10
+fzanftq,241,tutor,"Yes. Yes, that's correct. So in this question, all the answers which are in the range of 340 to 380 are correct. And you got the correct answer, therefore. Good job over there. Now we are done with all the questions of this Lesson 2. So let's try this challenge question now.",00:33:18
+fzanftq,242,student,"Okay, the graph shows the number of ice creams sold by a shop each day against the temperature at midday. Draw a line of best fit on the diagram. So could I start at— could I start here because it's like there's no zero here, or would I still have to start up?",00:33:40
+fzanftq,243,tutor,"Yes, you can start from here because we don't have a zero.",00:34:00
+fzanftq,244,student,"Okay, so I would go up.",00:34:03
+fzanftq,245,student,Like that.,00:34:05
+fzanftq,246,tutor,Mm-hmm.,00:34:05
+fzanftq,247,student,"Like that. And then to make sure I've got equal points— 4, 5, 6, 7— [unclear] Yeah. OK. So use it to predict the temperatures sold— temperature on a day where the 55 ice creams were sold. So this time you would go up. [unclear]",00:34:07
+fzanftq,248,tutor,Do we have to draw the line like—,00:34:34
+fzanftq,249,student,"Yes, you need to extend it.",00:34:37
+fzanftq,250,tutor,"So then we go along to 50, like that, and then we'd go down, like that.",00:34:40
+fzanftq,251,student,Yes.,00:34:52
+fzanftq,252,tutor,So 36.,00:34:53
+fzanftq,253,student,"Yes, that's it.",00:34:55
+fzanftq,254,student,"Yes, so it's asking to predict the temperature. So what's going to be the unit?",00:34:57
+fzanftq,255,tutor,"Oh, degrees. [unclear]",00:35:02
+fzanftq,256,student,"So that's going to be 36 degrees, yes. Alright, so you have got the correct answer and you get 2 marks for this question. Now let's reflect upon whatever we have learned till now by using this slide.",00:35:04
+fzanftq,257,background,"Okay. Describe the correlation in the graph below. [unclear] That one is— this one, is it true? I think it's a negative correlation.",00:35:17
+fzanftq,258,tutor,"Yes, so they have mistaken it to be a no correlation when it's a negative correlation. Correct explanation. Now let's do the second question.",00:35:38
+fzanftq,259,student,"Okay, and then estimate the value of the 3.5-year-old car. Okay, so they've done this one because they haven't— they've drawn it from the wrong direction, the line. So it needs to be from there up like that, and then—",00:35:50
+fzanftq,260,tutor,"Okay, so you think they have drawn the wrong line of [UNCLEAR].",00:36:13
+fzanftq,261,student,Yeah.,00:36:19
+fzanftq,262,tutor,"Okay, so Tamsin, it's not always necessary to draw the line from here. We draw it using the given kind of correlation. So it's a negative correlation, right?",00:36:20
+fzanftq,263,student,Yeah.,00:36:32
+fzanftq,264,tutor,"Yeah, so that's why the line they have made in this way, it's correct. Showing the negative correlation. The only thing we need to keep in mind that it doesn't start from (0, 0). So obviously it's not happening in this case.",00:36:33
+fzanftq,265,tutor,So you may start finding the value for 3.5-year-old car by drawing the line.,00:36:46
+fzanftq,266,student,"So 3.5 is about here. So you go up on the line like that, and then you'll go across.",00:36:52
+fzanftq,267,tutor,Yes.,00:37:03
+fzanftq,268,student,"And that will give you 2,000. So that answer's wrong because they didn't draw the line on top.",00:37:03
+fzanftq,269,tutor,"You may have started from some other point, that's why they got the wrong answer. And your answer is correct. Good job over there. Okay. Do you have any doubt in this lesson?",00:37:12
+fzanftq,270,student,"Uh, no.",00:37:22
+fzanftq,271,tutor,"Alright, so firstly, great job in completing 2 lessons, and now we still have some time to switch to the 3rd lesson. [unclear] So we will do it. Okay?",00:37:23
+fzanftq,272,student,Alright.,00:37:34
+fzanftq,273,tutor,"Okay, so our third lesson is working with probabilities in table. You can start trying this question.",00:37:40
+fzanftq,274,student,"Okay, so, um, working with [UNCLEAR]. Alice says the missing probability must be 0.8, the probability for silver should be 0.2, the missing value should be 0.1. Probabilities have to add up to 1. So you would do 0.1, add 0.3, add 0.3, add 0.1, which would give you 0.8. And then you do 1 minus 0.8. So, um, this one is right.",00:37:47
+fzanftq,275,tutor,"Yes, Hisham is right. So that's the correct explanation. Good job. Now let's move on to the first question of this lesson. [unclear] Okay.",00:38:23
+fzanftq,276,tutor,"A box contains 3 cartons of orange juice, 4 cartons of apple juice, and 2 cartons of pineapple juice. One of these cartons is taken from the box at random. Work out the probability that the carton is— work out the probability that the carton is orange juice. [unclear]",00:38:33
+fzanftq,277,student,To do this? [unclear] Do I need to put it into decimals or into a fraction?,00:39:01
+fzanftq,278,tutor,You can— both answers would be correct. Either it is in decimal or it is in fraction.,00:39:10
+fzanftq,279,student,"Okay. So to find out, all of that added up together, together is 9, and because—",00:39:19
+fzanftq,280,tutor,"Yes. [Speaker:Tamsin]...find out the probability, so it would be 3 out of 9. [Speaker:Tutor] Got it.",00:39:28
+fzanftq,281,student,"And then to find out the apple juice, again, it would be 4 out of 9. And then that's not apple juice, so you would just add 4 and 3 together, and that would be 7 out of 9.",00:39:34
+fzanftq,282,tutor,"Yes, that's correct. So all the answers are correct and you get 3 marks for this, 1 mark for each of the parts. And in the A part, you can also simplify this fraction.",00:39:53
+fzanftq,283,student,Oh yeah.,00:40:03
+fzanftq,284,tutor,"Okay, both of them would be correct, but you can simplify it to get 1/3 as well.",00:40:04
+fzanftq,285,student,Yeah.,00:40:09
+fzanftq,286,tutor,"Yes, that's correct. Now let's move on to the second question.",00:40:11
+fzanftq,287,background,"Amma, Mason, and Cece each throw a coin a number of times. The table shows the number of heads and the number of tails each one recorded. How can we tell from their results that the coin is biased? [Speaker:Tamsin]... [UNCLEAR]",00:40:18
+fzanftq,288,tutor,We can tell because Amar had got heads 210 times when the others barely got it to triple digits.,00:40:34
+fzanftq,289,tutor,"Alright, so can you repeat the explanation once again?",00:40:47
+fzanftq,290,student,Because Amar got heads more times than anyone else.,00:40:53
+fzanftq,291,tutor,"Okay, yeah. So that might be a correct explanation for this particular question, but in general, we need to check the theoretical probability and the experimental probability. Okay, we need to see how much they differ.",00:40:59
+fzanftq,292,student,"Okay, so— [unclear]",00:41:14
+fzanftq,293,tutor,"So would we do all of these added together and then all of those added together, and then we would do the number that we got here and then the number of that minus each other?",00:41:17
+fzanftq,294,student,"Alright, so that— good try from your end, but let's see that what exactly we need to do to check if the coin is biased. Or any other event is biased. Okay, there is another way to make sure that our answer is correct. So we can calculate the experimental probability of an event happening using relative frequency. Experimental probability and relative frequency are almost the same thing.",00:41:30
+fzanftq,295,tutor,Yeah.,00:41:56
+fzanftq,296,student,"Okay, and we find them using this formula. Now here is the main part. We can work out whether we think a situation is biased by comparing this to theoretical probability.",00:41:56
+fzanftq,297,tutor,So do you know what is theoretical probability?,00:42:07
+fzanftq,298,student,"Um, no. [unclear]",00:42:10
+fzanftq,299,tutor,"Okay, so theoretical probability is basically that probability which is based on reasoning. Like if I would ask you that find the probability for a fair coin landing on heads, so what that would be?",00:42:12
+fzanftq,300,student,Um...,00:42:27
+fzanftq,301,tutor,What is the probability of getting a head?,00:42:29
+fzanftq,302,student,"Oh, 50%.",00:42:31
+fzanftq,303,student,"Yes, 50%.",00:42:33
+fzanftq,304,tutor,"Yes, 50%, 0.5, or half, right?",00:42:35
+fzanftq,305,student,Yeah.,00:42:39
+fzanftq,306,tutor,"Now this is the theoretical probability of getting a head. Now we can compare this theoretical probability with the experimental probability. Experimental probability is obviously the one which is done on the basis of some experiment, like here they did this experiment.",00:42:39
+fzanftq,307,student,Okay.,00:42:56
+fzanftq,308,tutor,"Yeah. So can you see, uh,",00:42:57
+fzanftq,309,student,"That whether the number of heads are almost half of the total number of trials in each case. We need to find the total number of trials firstly. Like, Amar has 218 heads and 22 tails.",00:42:59
+fzanftq,310,tutor,"Okay, so... would we do... [unclear]",00:43:14
+fzanftq,311,student,"Okay, so we could have continued this, but since the session time is going to over,",00:43:21
+fzanftq,312,tutor,"So we will continue this in the next session, okay? We will learn this thing in detail.",00:43:28
+fzanftq,313,student,Okay.,00:43:32
+fzanftq,314,tutor,Alright?,00:43:33
+fzanftq,315,student,Alright.,00:43:34
+fzanftq,316,tutor,Now just a quick reminder to fill your feedback form and do your quiz questions.,00:43:35
+fzanftq,317,student,Alright.,00:43:38
+fzanftq,318,tutor,Have a great time ahead.,00:43:38
+fzanftq,319,student,Bye.,00:43:40

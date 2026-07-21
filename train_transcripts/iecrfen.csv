@@ -1,0 +1,223 @@
+session_id,utterance_id,role,content,timestamp
+iecrfen,0,tutor,Hello?,00:00:00
+iecrfen,1,background,[unclear],00:00:00
+iecrfen,2,student,"Yes, can you hear me?",00:00:00
+iecrfen,3,tutor,Not well.,00:00:03
+iecrfen,4,student,Okay. How about now? Can you hear me?,00:00:06
+iecrfen,5,tutor,"Yes, I can hear you now.",00:00:10
+iecrfen,6,tutor,"Okay, so how was your day so far?",00:00:12
+iecrfen,7,student,It's been good. How has yours been?,00:00:15
+iecrfen,8,tutor,Mine also good. Thanks for asking. So today our lesson is about using the product rule for counting. Have you seen this type of problems before?,00:00:18
+iecrfen,9,student,"I think so, yeah.",00:00:31
+iecrfen,10,tutor,"Okay, so here is a warm-up question. So can you tell me who is in between Paul and Bhavya is correct in this scenario?",00:00:34
+iecrfen,11,student,[unclear],00:00:41
+iecrfen,12,background,Is it Paul?,00:00:41
+iecrfen,13,tutor,"Mm-hmm, okay. So can you tell me how many teams will one team play?",00:00:48
+iecrfen,14,student,5 times 3.,00:00:55
+iecrfen,15,tutor,"So let's say if there are 3 teams, say A, B, and C, so can you tell me what will be the result in that case if each team must play the other once?",00:00:58
+iecrfen,16,student,[unclear],00:01:09
+iecrfen,17,tutor,"Let's say that there are, instead of 6 teams, there are only 3 teams. Let's say A, B, and C. So if each team must play the other team once, then how many games will there be in total? [unclear]",00:01:13
+iecrfen,18,student,Is it 15?,00:01:34
+iecrfen,19,tutor,"Okay, can you tell me why?",00:01:41
+iecrfen,20,student,I'm not sure.,00:01:45
+iecrfen,21,tutor,"Okay, not to worry about that. So that actually, that's the content for today's lesson. Okay, so without any delay, Let's move into fourth. So here is an exam style question. Do you think you can solve this one? [unclear]",00:01:47
+iecrfen,22,tutor,"Okay, and are you telling me the answer of question number 8?",00:02:08
+iecrfen,23,student,"I'm not sure what to do, so I'm saying it is fast.",00:02:14
+iecrfen,24,tutor,"So in that case, why don't you read the whole question at first?",00:02:18
+iecrfen,25,student,Yeah.,00:02:28
+iecrfen,26,tutor,So now what do you think will be the answer for question A?,00:02:31
+iecrfen,27,student,Is it 48?,00:02:35
+iecrfen,28,tutor,And how did you get that number?,00:02:40
+iecrfen,29,student,[unclear],00:02:43
+iecrfen,30,tutor,"Okay, and what about question number B?",00:02:45
+iecrfen,31,student,[unclear] 7.,00:03:01
+iecrfen,32,tutor,Can you tell me how you reached that number?,00:03:02
+iecrfen,33,student,336 divided by 48.,00:03:04
+iecrfen,34,tutor,"Okay, yep. So this question and the answer you provided are absolutely correct. So let me just tell you about the marks distribution in this case. So the first question was carrying 2 marks. So one mark was actually writing 6 times 8, and the second mark for actually writing the result, that is 48.",00:03:07
+iecrfen,35,student,Yes.,00:03:28
+iecrfen,36,tutor,"Second mark was actually at first trying to attempt the division of 336 by 48, and the second mark for successfully finding out the answer, that is 7. So that's how this 2 plus 2, 4 marks are Do you have any questions? [unclear]",00:03:28
+iecrfen,37,background,No.,00:03:47
+iecrfen,38,student,"Okay, with that, so this is the next exam style question. Can you try this one?",00:03:49
+iecrfen,39,background,Yeah.,00:04:00
+iecrfen,40,student,Go ahead then. [unclear] [unclear] [unclear],00:04:00
+iecrfen,41,tutor,"Okay, so can you tell me how you, or why did you multiply it, 12 and 15?",00:04:52
+iecrfen,42,student,Because he's asking how many different combinations are possible.,00:04:58
+iecrfen,43,tutor,"But, uh, In the question, there are 4 positions to be filled, like head boy, head girl, deputy head boy, and deputy head girl.",00:05:02
+iecrfen,44,student,Yeah.,00:05:12
+iecrfen,45,tutor,So do you think this combination for all the 4 will be given by this multiplication?,00:05:13
+iecrfen,46,student,"No, do have to [unclear] again.",00:05:20
+iecrfen,47,tutor,"Okay, so let's move on to the next slide so that we can see it in a little bit details. So here",00:05:23
+iecrfen,48,tutor,"Can you write— can you read these sentences for me, Callum?",00:05:33
+iecrfen,49,student,"Here we are selecting 2 items from each set. When the order of the items matters, we use the formula n(n 1) for each set we are selecting from and then multiply the results. Mm-hmm.",00:05:37
+iecrfen,50,tutor,"So if the order of the items doesn't matter, we halve the answer. And if a set contains the items A and B and the order of the items matter, selecting A then B is different to B then A. So that means at first, so how many sets are we choosing from? So let's say we have 12 boys and 15 girls.",00:05:47
+iecrfen,51,tutor,Yeah.,00:06:18
+iecrfen,52,student,"That means we have 6. [unclear] Now, how many items are in each set? So in this case, we are putting the number of boys and number of girls as items. So boys make an item and girls also making an item. So that means in the case for boys, we have 12 boys, so that means we have 12 items in the boys' part and 15 items in the girls' part.",00:06:18
+iecrfen,53,tutor,"Now use the formula for each set and multiply the result. That means if we just multiply 12 and 15, Obviously we will get the combinations for head boy and head girl, but we will not be able to get the combinations for deputy head boy and deputy head girl.",00:06:48
+iecrfen,54,tutor,Yeah.,00:07:05
+iecrfen,55,background,"Let's say now in that case, what can we do?",00:07:06
+iecrfen,56,tutor,Would we times it by—,00:07:11
+iecrfen,57,background,"Mm-hmm, go ahead.",00:07:14
+iecrfen,58,tutor,4.,00:07:16
+iecrfen,59,background,No.,00:07:18
+iecrfen,60,tutor,Or would you times 12 by 2 and 15 by 2 and add it together?,00:07:18
+iecrfen,61,tutor,Pardon?,00:07:22
+iecrfen,62,student,"8 times 12 by 2, because it's from the boys, so 2 head boy and [unclear] head boy.",00:07:24
+iecrfen,63,tutor,"Okay, so here in this case, let's move on to this formula. Focus on this formula. This is n into n minus 1. So let's think of it like this. Yeah, so let's say this rectangle represents the total number of boys. And let's say here are 12 boys, of which I am drawing only one. So suppose if this smaller rectangle represents one boy, then that means in this total rectangle, if there are 12, then if we exclude this single boy, then there should be 11. So that means out of 12 boys, If one boy is selected for the head boy, then I have 11 options to select deputy head boy, isn't it?",00:07:30
+iecrfen,64,student,Yes.,00:08:24
+iecrfen,65,tutor,"So that means what we actually need to do here is we actually need to multiply 12 with 11. How did we arrive at this number 11? Well, it's simple. We have taken we have subtracted 1 from 12. That means 12 is our n here, and n 1 is 11. Okay.",00:08:25
+iecrfen,66,tutor,In,00:08:48
+iecrfen,67,student,"the similar manner, we can go for the girls' part. So in that case, it will be 15 14. Now if we do all these calculations, we will have 27,720 as the required answer in this case. Do you have any questions regarding this first part?",00:08:48
+iecrfen,68,student,Is that the formula you use all the time?,00:09:12
+iecrfen,69,tutor,"Well, if the situation is same, then this is the formula we will go with.",00:09:16
+iecrfen,70,student,Alright.,00:09:20
+iecrfen,71,tutor,"Okay, so this first question was carrying 2 marks. Well, actually it was for first, for writing this whole multiplication sentence. And then finding the correct answer. So this whole sentence, this part, this part contained 1 mark, and the final answer was carrying 1 mark. Together you will have 2. So do you have any question for me regarding the marking scheme?",00:09:23
+iecrfen,72,student,No.,00:09:54
+iecrfen,73,tutor,"Okay, so let's move on to the next one. So a hockey league consists of 16 teams. Each team will need to play the other teams twice in a season. How many matches will there be altogether? Now in this case, how many teams are in the hockey league? So the answer for that question is obviously 16.",00:09:56
+iecrfen,74,student,Mm-hmm.,00:10:17
+iecrfen,75,tutor,"Now if we just follow this given formula, so that means 16 into 16 minus 1, that's 15. So there we have.",00:10:20
+iecrfen,76,student,"But it says twice a season, so don't you times by 2?",00:10:34
+iecrfen,77,tutor,"Well, in this case, the order isn't met— doesn't matter. So if— let me just point it. So if a set contains the items A and B, so let's say In the warm-up question, you had a similar problem like this. So let's say we have two teams, A and B. So AB represents one match. Now, if we— if I write it as BA, will the match be in between two different teams, or will it be the same team?",00:10:39
+iecrfen,78,student,[unclear],00:11:12
+iecrfen,79,tutor,"Oh, it will be the same team. So in this— in the— so in this case, we are taking— we we are speaking in this manner. So that is why we do not need to divide by 2 or multiply by 2.",00:11:13
+iecrfen,80,tutor,Alright.,00:11:26
+iecrfen,81,student,"But in the warm-up question, if you see, the wording was each team must— it should be play— oh, here's a spelling error. So each team must play the other teams once. Once means we needed to actually divide. So that is why 6 teams were there in total. If they are playing the other teams, then that means 5 teams are left. So 6 times 5, there is 30. Now we were actually dividing this 30 by 2 to get the answer 15, but this division will not be applicable in this case, and hence we are also not going to multiply it with 2.",00:11:26
+iecrfen,82,tutor,[unclear] [unclear],00:12:13
+iecrfen,83,tutor,"Okay, so in this case, this problem was also carrying 2 marks. First mark was for writing 16 times 5 to 16 times 15, and the second mark for actually finding the correct answer.",00:12:17
+iecrfen,84,student,Yes.,00:12:31
+iecrfen,85,tutor,So here is a similar question to what we did in the last slide. Why don't you try this one?,00:12:35
+iecrfen,86,tutor,Right. [unclear],00:12:41
+iecrfen,87,tutor,Done.,00:13:25
+iecrfen,88,student,Mm-hmm. Okay. Yep.,00:13:26
+iecrfen,89,tutor,Okay. So let me just ask you a question here. What would be your answer if this twice word was replaced by once?,00:13:30
+iecrfen,90,student,I divide 380 by 2.,00:13:40
+iecrfen,91,tutor,So what would be your answer in that case?,00:13:44
+iecrfen,92,student,190.,00:13:46
+iecrfen,93,tutor,"Okay, yeah, great. So yep, so that's how we should do this type of problems. And this question was carrying 2 marks as it is here, and you have earned 4 out of 4 in this case.",00:13:49
+iecrfen,94,student,That's good.,00:14:04
+iecrfen,95,tutor,"Okay, yep. So this is the next exam style question. Do you want to try this one?",00:14:05
+iecrfen,96,student,"Yeah, I'll try it.",00:14:12
+iecrfen,97,tutor,Go ahead. [unclear],00:14:14
+iecrfen,98,tutor,"Okay. Okay. So, Callum, in this case, I have a question for you. Can you name two of your favorite flavors for ice cream?",00:15:10
+iecrfen,99,student,Vanilla and chocolate.,00:15:20
+iecrfen,100,tutor,"Okay, great. So let me just draw a figure here. Let's say these two circles are joined and then",00:15:22
+iecrfen,101,tutor,Now let's assume this V represents vanilla and C represents chocolate.,00:15:48
+iecrfen,102,student,Yeah.,00:15:56
+iecrfen,103,tutor,"And in this case, C represents also chocolate and V represents vanilla. But as you can see, their orders are different. In the first case, in this case, first we had the chocolate and then we had vanilla. In the second case, we had first the vanilla and then the chocolate. Now, what's your answer is going to be if I ask you that, are these two combinations same or different?",00:15:58
+iecrfen,104,student,They are the same.,00:16:28
+iecrfen,105,tutor,"So if they are same, so that means if we just apply this formula—",00:16:30
+iecrfen,106,student,So [unclear] divided by 2.,00:16:36
+iecrfen,107,student,Is it a yes or no?,00:16:40
+iecrfen,108,tutor,"Obviously yes, but let's clarify that.",00:16:42
+iecrfen,109,student,"But it says two flavors, not one.",00:16:45
+iecrfen,110,tutor,Pardon?,00:16:49
+iecrfen,111,student,"It says two flavors, and you said if it only says once, but the sentence says twice, and you said if it says twice, you have to divide by two.",00:16:51
+iecrfen,112,tutor,"Now actually, let's look at this sentence in here. Look at the words. How many different combinations of two flavors are possible. So if you are first adding chocolate and then vanilla, and if you reverse the item in the next case, then will that be considered as a different combination of two flavors?",00:16:59
+iecrfen,113,student,No.,00:17:17
+iecrfen,114,tutor,"So that's the main topic here. So in this case, what we are doing is we are actually dividing it by 2 because the order that is actually [unclear] in here.",00:17:19
+iecrfen,115,student,Yeah.,00:17:35
+iecrfen,116,tutor,So that means what our answer will be is we just need to divide this number 756 by 2. [unclear],00:17:36
+iecrfen,117,student,378.,00:17:45
+iecrfen,118,tutor,Mm-hmm. So that is going to be our final answer.,00:17:54
+iecrfen,119,tutor,"Let me just tell you about the marks screen. So here the question was carrying 3 marks. One mark was for actually writing 28 times 28 minus 1, or 27, which you have done here. Second mark for actually trying to divide, and the third mark for actually getting the answer correct. Is going to be 378. So do you have any questions regarding this type of problem for me?",00:18:01
+iecrfen,120,student,No.,00:18:30
+iecrfen,121,tutor,"Okay, so here is another question which is similar to the last one. Can you try this one?",00:18:32
+iecrfen,122,student,Yeah. [unclear] [unclear],00:18:40
+iecrfen,123,tutor,"Okay, so yep, so this question was carrying 3 marks, and 1 mark is for writing this multiplication sentence. Then one mark for trying to divide, and the final mark for the right answer which you have got. And as a result of that, you have scored 3 out of 3. [unclear]",00:19:09
+iecrfen,124,tutor,Congratulations on that.,00:19:26
+iecrfen,125,student,Yep.,00:19:29
+iecrfen,126,tutor,"Okay, so we are almost at the end of this. Hello? Before we finish, can you tell me if the student has done the correct calculation in these two cases?",00:19:31
+iecrfen,127,student,"The first one, no, because it's 6 times— no, it's 6 times 9, which is not the first, which is 54. And then in the second one, it's 8 times 7, which is 56, but then you divide by 2 because it's one combination.",00:19:47
+iecrfen,128,tutor,"Okay, very good, everyone. So yeah, I think we have learned something new. Out of this is yellow. Yeah. Okay. So with that, we are at the end of this session. We have almost finished this lesson. And so let's move on to the next one. Okay. Okay. So the next lesson is expanding [UNCLEAR]. Have you seen this type of problems?",00:20:04
+iecrfen,129,student,Yeah.,00:20:04
+iecrfen,130,tutor,So here is another warm-up question for you. What do you think? Is the student correct or not?,00:20:38
+iecrfen,131,student,"Um, no.",00:20:45
+iecrfen,132,tutor,Can you tell me why?,00:20:48
+iecrfen,133,student,"Is it because you're gonna expand this x 2, x 2, x 2, which is— wouldn't it be 3x 8? Okay, so yeah, well,",00:20:50
+iecrfen,134,tutor,"if we are just concerning ourselves with whether the student is correct or not, not, then in that case you are correct. The student has done a mistake here, but the reasoning would be a little bit different. So let's look at those problems like this. So here is a simple question, like you have to just expand and simplify. Do you think you can solve this one?",00:21:04
+iecrfen,135,student,"Yeah, but I've learnt in a grid method.",00:21:29
+iecrfen,136,tutor,"Okay, that's not a problem, [UNCLEAR].",00:21:32
+iecrfen,137,tutor,Okay. [unclear] [unclear],00:21:46
+iecrfen,138,tutor,[UNCLEAR] [unclear],00:21:46
+iecrfen,139,tutor,[unclear] [unclear],00:21:46
+iecrfen,140,tutor,Good. [unclear],00:23:18
+iecrfen,141,tutor,I'm going to get rid of the grid because it's taking up too much space. [unclear],00:24:05
+iecrfen,142,tutor,"I haven't finished the question yet, but I need to get rid of the grid.",00:24:13
+iecrfen,143,student,"Yeah, yeah, no, no, okay, yeah, I understood. [unclear]",00:24:18
+iecrfen,144,student,Yeah.,00:26:19
+iecrfen,145,tutor,"I'm sorry to disturb you a little bit here, Callum, but do you think it will be 5x in a positive sense?",00:27:40
+iecrfen,146,student,"No, it will be negative. [unclear] [unclear]",00:27:49
+iecrfen,147,tutor,"Another thing, is it x or 1?",00:28:03
+iecrfen,148,student,"Well, it's the same thing, so...",00:28:19
+iecrfen,149,tutor,"No, if it is x, then are you sure it's going to be",00:28:23
+iecrfen,150,tutor,Negative 2x.,00:28:27
+iecrfen,151,student,"Oh, you're actually right. 2x squared. [unclear]",00:28:29
+iecrfen,152,tutor,Yeah. [unclear],00:29:15
+iecrfen,153,student,And that becomes 2x³ 3x² 12x 3.,00:30:04
+iecrfen,154,tutor,Are you sure it's going to be -12x?,00:30:14
+iecrfen,155,student,"What can I subtract the 12 by? There's no x's without squared or not. Oh, I know!",00:30:19
+iecrfen,156,tutor,What about our friend -5x here?,00:30:25
+iecrfen,157,student,"I wrote squared here by accident. So, okay, how do I get rid of the squared? Alright, so it's... 2x cubed minus 2x minus 7x minus 30.",00:30:29
+iecrfen,158,tutor,"Okay, so let me just write it in a simple manner. So 2x cubed, then plus, and tell me plus or minus.",00:30:46
+iecrfen,159,student,"Is minus 2x squared? Okay, so sorry, minus 2x squared, then minus 7x, minus 7x, minus 30. [unclear]",00:31:02
+iecrfen,160,tutor,"Okay, so let me just go through the whole thing once. X cubed minus 2x squared, then minus 7x. Okay, and then minus 30. Okay, so wait, I didn't— minus 5x here, minus 5x here, this won't be minus, um, 18— no, minus 17x.",00:31:22
+iecrfen,161,tutor,"Okay, so let's just write it here. [unclear]",00:31:51
+iecrfen,162,tutor,7x is 17x.,00:31:57
+iecrfen,163,student,"Mm-hmm. Okay, so I have written the correct one down here, and here we had -2x², and then we have +5— is it 5²x or 5x²?",00:31:59
+iecrfen,164,tutor,"5x². Oh, I forgot, I forgot one of the numbers.",00:32:18
+iecrfen,165,student,"I'm going to write down one of them. Okay, so let me just read it to you. The answer is 2x cubed minus— no, plus 3x squared minus— no, 17x minus 3. [unclear]",00:32:25
+iecrfen,166,student,Mm-hmm. Yeah.,00:32:48
+iecrfen,167,student,"Is that right? 2x cubed, um, minus— plus 3x minus 12 minus 17x minus [UNCLEAR].",00:32:50
+iecrfen,168,tutor,Is it plus 3x or 3x squared?,00:32:50
+iecrfen,169,student,Plus 3x squared.,00:33:05
+iecrfen,170,tutor,"Mm-hmm. Yep. So that is going to be the final answer, Callum. Let me just write it here in a simple manner. And I will not be using the power way. I will be just writing the power like this. So 2 is— let's assume that 2 is the coefficient. So the number before the variable is the coefficient, and the number after the variable is its power. So that way I can write it in a faster manner. So is it going to be 2x³ 3x² 17x 30. Okay, yep.",00:33:06
+iecrfen,171,tutor,"So yeah, so that is going to be the correct answer and final answer. But as you can see here, this question is carrying 3 marks. So the first mark was actually getting at least 3 out of the 4 terms correct in the form of any double bracket expansion. Any double bracket means You can take x 2 and x 3, which you have taken, or you could have taken x 3 and 2x 5. Well, if some student want, they can also take x 2 and 2x 5 also. That doesn't matter. If there are",00:33:48
+iecrfen,172,student,[unclear],00:34:26
+iecrfen,173,tutor,"at least 3 terms correct out of the 4 terms of any of the first double bracket expansion, the student will be awarded 1 mark, which you have got.",00:34:26
+iecrfen,174,tutor,"The next thing is the further double bracket expansion here. So if I just write it here, well, you have already written it, x² x 6. So this term is— now we are going to multiply this whole bracket term with 2x 5. So in that multiplication, if we get 4 out of 6 terms correct, then we will be awarded the next mark. Means up until now we will be awarded 2 out of 3. The final mark will be awarded for getting the correct answer in this form. [unclear]",00:34:37
+iecrfen,175,student,"No, I don't.",00:35:18
+iecrfen,176,tutor,But can you tell me what do you think about solving this specific problem?,00:35:23
+iecrfen,177,student,"I find it easy, but I just— I don't know what happened, but I just wasn't in the right mindset today.",00:35:32
+iecrfen,178,tutor,"Mm-hmm. Okay, so actually, the way you are proceeding with the grid method, this is the actually correct method. So I don't have anything to tell you there, or you already know that. So you actually don't need my advice in that case. So what I will tell you, or how I will give you as a tip, [UNCLEAR], is be cautious when you are adding these terms together.",00:35:38
+iecrfen,179,student,Yeah.,00:35:38
+iecrfen,180,tutor,"In order to do that, what you can do is, let's say I have different terms here. So let's just represent them as A, then B, B, then C, or whatever the case like this. Let's take variables only. So what we can do is we can actually write them in a— with their designated sign.",00:36:09
+iecrfen,181,student,Mm-hmm.,00:36:42
+iecrfen,182,tutor,"So let's say A was carrying a positive charge, positive a positive sign, but B is carrying a negative sign. So let it like this only. Then again, C is carrying a positive sign like this. So let's just write the way they are and move on to the addition or subtraction.",00:36:42
+iecrfen,183,student,"Yeah, yeah.",00:37:05
+iecrfen,184,tutor,"Okay, so here is another question for you. Why don't you give this one a try?",00:37:07
+iecrfen,185,tutor,All right. [unclear],00:37:13
+iecrfen,186,student,Yeah.,00:39:52
+iecrfen,187,tutor,Hmm.,00:40:01
+iecrfen,188,student,Because they [UNCLEAR].,00:40:01
+iecrfen,189,tutor,Okay.,00:40:01
+iecrfen,190,tutor,"I have a question for you here, Callum. Are you sure it's going to be 6x²?",00:40:30
+iecrfen,191,student,[unclear] [unclear],00:40:34
+iecrfen,192,student,"It won't let me change it, but I meant 6x².",00:40:45
+iecrfen,193,tutor,Pardon?,00:40:50
+iecrfen,194,student,"It won't let me change the x to cube, so I'm just going to leave it.",00:40:51
+iecrfen,195,tutor,"Yeah, okay. [unclear]",00:40:56
+iecrfen,196,tutor,"Okay, so just a little bit another prompt here. You are multiplying— you are multiplying -5x and -3, yeah?",00:41:40
+iecrfen,197,student,"Oh, it's +15x, so the answer is going to be 15 minus— minus 4 goes to 15, so it's going to be 11x. And what will be the sign? [unclear]",00:41:49
+iecrfen,198,tutor,Are you sure it's going to be negative?,00:42:02
+iecrfen,199,student,"Yeah, it's going to be +15x.",00:42:09
+iecrfen,200,tutor,"So as it is going to be positive 15x, so positive 15 minus 4, so that means we will have positive 11x. So yeah, other than that, your answer was correct.",00:42:12
+iecrfen,201,tutor,"So yeah, there you go. Okay.",00:42:25
+iecrfen,202,student,Yeah.,00:42:30
+iecrfen,203,tutor,"So, yep. So this question was carrying 3 marks, and if you hadn't done this final mistake here, you would have gotten 2 out of— you actually would have gotten 3 out of 3, but due to this mistake here, you will be getting 2 out of 3.",00:42:32
+iecrfen,204,student,Yeah.,00:42:51
+iecrfen,205,tutor,"Okay, so we are almost at the end of our session today. So before we end for today, what do you think you have learned from this session, Callum? Can you tell me one or two things?",00:42:53
+iecrfen,206,student,"I've learned the first one, the formula n times n minus 1, and then I have to divide by 2 if it asks for ones. [unclear] Here I've just learned to be careful when I'm timesing because I keep messing up.",00:43:04
+iecrfen,207,tutor,"Yeah, so if I ask you to name one or two things which you think you need to improve upon, what would be your answer in that question, for that question?",00:43:21
+iecrfen,208,student,To do the grids properly and to like the addition and subtraction.,00:43:30
+iecrfen,209,tutor,"Well, I will add another thing there, to be careful about the signs.",00:43:36
+iecrfen,210,student,"Yeah. So if we are not careful about the signs, chances are, although we are being careful about the other thing, our answer will come as a wrong answer. So we obviously don't want to lose marks that way. So my advice is look for the signs also. So before you actually multiply the digits, go for the signs.",00:43:43
+iecrfen,211,student,Yeah.,00:44:07
+iecrfen,212,tutor,"Okay, so with that, We are almost at the end for today's session, and it was actually nice to work with you today, Callum. And we will see—",00:44:09
+iecrfen,213,student,Me too.,00:44:16
+iecrfen,214,tutor,So I will see you in the next session then.,00:44:17
+iecrfen,215,student,"Okay, bye.",00:44:20
+iecrfen,216,tutor,"Okay, yep, bye. And yeah, are you there, Callum?",00:44:22
+iecrfen,217,student,"Yeah, but I don't know how to leave.",00:44:31
+iecrfen,218,tutor,"Okay, so just one thing, as we have completed one lesson today, so you might have a quiz from that one.",00:44:34
+iecrfen,219,tutor,Okay.,00:44:40
+iecrfen,220,student,Okay. [unclear] Bye.,00:44:41
+iecrfen,221,tutor,Bye.,00:44:43

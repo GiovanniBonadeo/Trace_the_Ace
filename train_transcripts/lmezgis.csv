@@ -1,0 +1,400 @@
+session_id,utterance_id,role,content,timestamp
+lmezgis,0,tutor,Hello?,00:00:00
+lmezgis,1,background,[unclear],00:00:00
+lmezgis,2,student,Hi.,00:00:01
+lmezgis,3,tutor,"Hi, Felix.",00:00:02
+lmezgis,4,student,Hi.,00:00:04
+lmezgis,5,tutor,"Hi, how are you?",00:00:05
+lmezgis,6,student,"Good. Okay, how was your day so far, Felix?",00:00:07
+lmezgis,7,student,Good.,00:00:11
+lmezgis,8,tutor,"Good, that's nice to hear, Felix. So are you ready to start the session?",00:00:13
+lmezgis,9,student,Yeah.,00:00:18
+lmezgis,10,tutor,"Okay, so Felix, can you remember what we learned in the last class?",00:00:19
+lmezgis,11,student,[unclear],00:00:23
+lmezgis,12,tutor,"Okay, so we learned how to round numbers to the nearest 10, right? Can you remember? We learned how to round to the nearest 10, and if you have any number, you can find out the number is closer to which multiple. Can you remember?",00:00:25
+lmezgis,13,student,Yeah.,00:00:46
+lmezgis,14,tutor,"Okay. So now, Felix, before we start our today's session, shall we soon recall what we learned in the last class, Felix?",00:00:48
+lmezgis,15,student,Yeah.,00:00:58
+lmezgis,16,tutor,"Okay. So Felix, now can you tell me the multiples of 10?",00:00:59
+lmezgis,17,student,"10, 20, 30, 40, 50, 60, 70, 80, 90, 100.",00:01:06
+lmezgis,18,tutor,"Exactly. So these are the multiples of 100, right? Sorry, multiples of 10, right? Okay. So now when you see the multiples of 10, what can you tell about the numbers? What can you tell about the last digit? Digit in these numbers?",00:01:15
+lmezgis,19,student,[unclear],00:01:31
+lmezgis,20,tutor,But can you tell about the last digit of all the multiples of 10?,00:01:38
+lmezgis,21,student,Multiples of 10?,00:01:45
+lmezgis,22,tutor,Yeah.,00:01:46
+lmezgis,23,student,They all got a 0 on the end.,00:01:46
+lmezgis,24,tutor,"Exactly. So all the numbers ends in zeros, right?",00:01:50
+lmezgis,25,student,Yeah.,00:01:56
+lmezgis,26,tutor,"Okay, so in the last class we learned how to, in a hundred square, how to find out the number is closer to which multiple of 10, right?",00:01:57
+lmezgis,27,student,Yeah.,00:02:08
+lmezgis,28,tutor,"Okay, so now can you tell me, when you take 38, can you highlight 38? [unclear] Where is 38? Exactly. So third, that is 38. Now can you tell me, this 38 is closer to which multiple of 10?",00:02:09
+lmezgis,29,student,[unclear],00:02:31
+lmezgis,30,tutor,"Exactly, it is closer to 40. You can see this 38 is between 30 and 40, right?",00:02:34
+lmezgis,31,student,Yeah.,00:02:42
+lmezgis,32,tutor,"But this 38 is closer to 40 than 30, right, Felix?",00:02:44
+lmezgis,33,student,Yeah.,00:02:50
+lmezgis,34,tutor,"Okay. So now can you tell me, can you highlight the number 72 in this 100 square? [unclear] Okay. So now can you tell me 72 is closer to which multiple of 10? [unclear]",00:02:51
+lmezgis,35,tutor,"Okay, so you can tell— yeah.",00:03:19
+lmezgis,36,student,Yeah.,00:03:22
+lmezgis,37,tutor,"72 is between which two multiples? 72 lies between which two multiples, 80 and?",00:03:22
+lmezgis,38,student,80 and 70.,00:03:37
+lmezgis,39,tutor,"70. So when you take 72, 72 is closer to 70. 70 or 80?",00:03:39
+lmezgis,40,student,"Um, 80.",00:03:47
+lmezgis,41,tutor,"Okay, so you can— if you draw a line from 72— [unclear] Yeah, and you have only one, two with the 70, right? So it is closer to—",00:03:51
+lmezgis,42,student,70.,00:04:05
+lmezgis,43,tutor,"Exactly, it's closer to 70, right? Okay, so now can you mark 55 in the hundred square?",00:04:06
+lmezgis,44,student,What number?,00:04:18
+lmezgis,45,tutor,"55. Okay, so now can you tell me 55 is closer to which two multiples? Which multiple? [unclear]",00:04:20
+lmezgis,46,student,It's closer to 60 than it is to 70.,00:04:35
+lmezgis,47,tutor,"Exactly. So you can see when you take 55, 55 lies between 50 and 60, right? Can you see?",00:04:39
+lmezgis,48,student,Yeah.,00:04:50
+lmezgis,49,tutor,"In the [UNCLEAR], 55 lies between 50 and 60, right? But when you see, 55 is in the halfway point, right? When you take 50 and 60, it's in the halfway point, right, Felix?",00:04:51
+lmezgis,50,student,Yeah.,00:05:08
+lmezgis,51,tutor,"Okay, so when it's in the halfway point, we always round up where it is closer to 60, okay?",00:05:10
+lmezgis,52,student,Okay.,00:05:19
+lmezgis,53,tutor,"Okay, so Felix, now can you tell me what is the number shown in this, this one, this [UNCLEAR]? Can you tell me?",00:05:20
+lmezgis,54,student,32.,00:05:30
+lmezgis,55,tutor,"32. So can you tell me, 32 is closer to which multiple, 30 or 40?",00:05:31
+lmezgis,56,student,"Um, [unclear] 30 or 40.",00:05:40
+lmezgis,57,tutor,"Yes, can you mark? Exactly. So how do you know it's closer to 30? Can you mark on the number line, 32?",00:05:44
+lmezgis,58,student,So 32 is there.,00:05:55
+lmezgis,59,tutor,OK.,00:05:58
+lmezgis,60,student,"And 40 is over in here. But you've only got one— two jumps to get to that. [unclear] 32, it's 1, 2, 3, 4, 5, 6, 7, 8 jumps to get to 40. But it's only 2 jumps to get to 30.",00:05:58
+lmezgis,61,tutor,"Exactly. So 32, if you want to move to 30, it has to jump 2 jumps. And if you want to move to 40, you have to jump 8, right?",00:06:19
+lmezgis,62,student,Yeah.,00:06:30
+lmezgis,63,tutor,"So it is closer to 30, right? Okay, so I think you are very confident on this. So now this is the follow-me slide where I am going to do this follow-me slide. You can follow my steps, and after I complete, you can do your turn slide. Okay?",00:06:30
+lmezgis,64,student,[unclear],00:06:49
+lmezgis,65,tutor,"Okay, so let's make the number 723 and round it to the nearest 10. Okay? So you can see in the place value chart, how many hundreds are there?",00:06:51
+lmezgis,66,student,"Um, 7.",00:07:06
+lmezgis,67,tutor,Exactly. How many tens are there?,00:07:10
+lmezgis,68,student,2.,00:07:13
+lmezgis,69,tutor,2. And how many ones are there?,00:07:14
+lmezgis,70,student,3.,00:07:17
+lmezgis,71,tutor,"Exactly. So this 723 is represented in the place value chart, right? Okay. And now find the multiples of 10 that 723 lies between. Okay, so when you take 723, we'll consider 23. Okay, so when you take this 23 This 23 is between which two multiples of 10?",00:07:18
+lmezgis,72,student,"Uh, 20.",00:07:51
+lmezgis,73,tutor,"20, and what is— exactly, 20 and 23— sorry, 30, right? So when you take this 723, that number is between 720 730, right, Felix?",00:07:53
+lmezgis,74,student,Yeah.,00:08:15
+lmezgis,75,tutor,"So this 723 is between 720 and 730. So in the number line, now I am going to count and mark 723. Okay, so 721, 722, and 723 is over here.",00:08:16
+lmezgis,76,tutor,Yeah.,00:08:38
+lmezgis,77,student,"Okay. So now when you take 723, you can see if it wants to go to 720, how many jumps it has to go?",00:08:39
+lmezgis,78,background,"Uh, 1, 2, 3, then [unclear] 730, it's going to take 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:08:50
+lmezgis,79,tutor,Exactly. So this 723 is closer to which number?,00:09:05
+lmezgis,80,student,Uh... [unclear],00:09:13
+lmezgis,81,tutor,720 or 700? Exactly. So this is closer to 720. Okay?,00:09:14
+lmezgis,82,student,Okay.,00:09:23
+lmezgis,83,tutor,"Okay. And now when you take this in the place value chart, if we are— can you read this sentence for me? Which is in the yellow color shaded part.",00:09:24
+lmezgis,84,student,"If we are rounding to the nearest 10, we look at the ones column to see if we should round up or down.",00:09:34
+lmezgis,85,tutor,"Exactly. So what they tell is— what they say is this. Now, if you are rounding to the nearest 10, then you have to check the column to the right side. What is the column you have to the right? What is the column you have to the right?",00:09:44
+lmezgis,86,student,Ones.,00:10:01
+lmezgis,87,tutor,"Ones column. So if the digit which is in the ones column is 5 or more than 5, you round up. Okay, if it is 5 or more than 5, you round up, and if it is less than 5, you round down. Okay, so now when you take this 723, you can see The digit is 3, right?",00:10:02
+lmezgis,88,student,Yeah.,00:10:28
+lmezgis,89,tutor,"So if it is 3, what do you have to do? You have to round down or you have to round up?",00:10:30
+lmezgis,90,student,Um... round down. [unclear],00:10:40
+lmezgis,91,tutor,"Exactly. You have to round down, right? If it is 5 or more than 5, you round up. If it is less than 5, you round down, right? So you can see now it's 723, so you have to round down where it's 720. Okay, Felix?",00:10:43
+lmezgis,92,student,Okay.,00:11:03
+lmezgis,93,tutor,"Okay, so now I have completed my slide, so this is your turn slide. So can you try this?",00:11:03
+lmezgis,94,student,"Okay. [unclear] 3, 4, 5, 6, 7, 8. [unclear] 9 times 3, 4, 5. So 185.",00:11:11
+lmezgis,95,tutor,So you can write over here.,00:11:36
+lmezgis,96,student,3 multiples of 10 plus the number left. [unclear] Would it be 80 and 50?,00:11:41
+lmezgis,97,tutor,"So now you can see, you can check the tens column, right? So you can check 85. So 85 is between what column? 85 is between the hundreds and ones.",00:12:02
+lmezgis,98,tutor,85 is between which multiples of 10? [unclear],00:12:18
+lmezgis,99,tutor,Can you write down the multiples of 10?,00:12:29
+lmezgis,100,student,"5, 10, 15, 20, 25.",00:12:33
+lmezgis,101,tutor,Can I help for you?,00:12:37
+lmezgis,102,student,Yeah.,00:12:40
+lmezgis,103,tutor,"Okay, so what are the multiples of 10? Can you tell me?",00:12:40
+lmezgis,104,student,"10, 20, 30, 40, 50, 60.",00:12:46
+lmezgis,105,tutor,Okay.,00:12:56
+lmezgis,106,student,70.,00:12:58
+lmezgis,107,tutor,Okay.,00:13:00
+lmezgis,108,student,80.,00:13:01
+lmezgis,109,tutor,Okay.,00:13:02
+lmezgis,110,student,90.,00:13:03
+lmezgis,111,student,100. [unclear],00:13:07
+lmezgis,112,tutor,"So it's enough. Okay. So can you tell me 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100, right?",00:13:09
+lmezgis,113,student,70 and 90.,00:13:21
+lmezgis,114,tutor,Okay. So can you tell me where the 85 should come? Can you show me where 85 should come?,00:13:23
+lmezgis,115,student,85.,00:13:30
+lmezgis,116,tutor,Which number in between?,00:13:33
+lmezgis,117,student,Between 90 and 80. [unclear],00:13:35
+lmezgis,118,tutor,"Exactly. Exactly. It's between 80 and 90, right? So if it is between 80 and 90, that means you have here 100, right? So this number should be between 180 and 190. Right?",00:13:39
+lmezgis,119,student,Yeah.,00:13:58
+lmezgis,120,tutor,"Okay, so can you write down over here?",00:13:59
+lmezgis,121,student,What? [unclear] 90 down.,00:14:03
+lmezgis,122,tutor,"180 over here. It's between 180 and 190, right?",00:14:07
+lmezgis,123,student,"Okay. 1, 8, 6, 0. 180 and 190. Okay.",00:14:12
+lmezgis,124,tutor,"Okay, so it's between 180 and 190. So what is the next question telling you to do? [unclear]",00:14:33
+lmezgis,125,tutor,Exactly. So can you mark the number 185? Where should it come? Can you count and mark?,00:14:46
+lmezgis,126,student,"Wait. 180, 181, 182, 183. Wait, 180, 181, 182, 183, 184, 185. Here.",00:15:02
+lmezgis,127,tutor,"Exactly. Okay, so the number—",00:15:17
+lmezgis,128,student,How many— [unclear] are in the one's column?,00:15:24
+lmezgis,129,tutor,5.,00:15:30
+lmezgis,130,student,"Exactly. So if it is 5, you tell me, do you have to round up or round down?",00:15:31
+lmezgis,131,tutor,Round up.,00:15:39
+lmezgis,132,student,"Exactly. So you have to round up. So if you are rounding up, so this is closer to which multiple?",00:15:41
+lmezgis,133,student,It's in between.,00:15:51
+lmezgis,134,tutor,"Yeah, this is between 180 and 190, right? So it is closer to which multiple? When you are rounding up, what do you have to do? You have to jump back or you have to jump, uh, you have to jump down or you have to jump up? [unclear] Exactly. So from 185, if you jump up, what is the number you have?",00:15:53
+lmezgis,135,student,[unclear],00:16:17
+lmezgis,136,tutor,"From 185, you jump up. So what do you have? What is the number you have?",00:16:17
+lmezgis,137,student,190.,00:16:25
+lmezgis,138,tutor,Exactly. So this 185 is closer to which multiple of 10?,00:16:27
+lmezgis,139,student,90.,00:16:36
+lmezgis,140,tutor,"Exactly. It is closer to 190, right?",00:16:37
+lmezgis,141,student,Yeah.,00:16:43
+lmezgis,142,tutor,"Because you know, you, when you are rounding to the nearest 10, you have to check the ones column, right?",00:16:43
+lmezgis,143,student,Yeah.,00:16:50
+lmezgis,144,tutor,"So if the ones column is 5 or more than 5, you have to round up, right?",00:16:51
+lmezgis,145,student,Yeah.,00:16:57
+lmezgis,146,tutor,"That you have to jump up, right? If it is less than 5, you have to jump down. Okay? Okay, so can you [unclear] Type the answer, the last question.",00:16:57
+lmezgis,147,student,One [UNCLEAR]. So would that be 190?,00:17:10
+lmezgis,148,tutor,Which number you are going to round?,00:17:14
+lmezgis,149,student,I'm going to round 185.,00:17:16
+lmezgis,150,tutor,Exactly. So you have to write 185 rounded to the nearest 10 is—,00:17:20
+lmezgis,151,student,185.,00:17:26
+lmezgis,152,tutor,"Okay. So if you round 185 to the nearest 10, what is the number?",00:17:29
+lmezgis,153,student,198.,00:17:35
+lmezgis,154,tutor,Exactly. Can you type 190?,00:17:36
+lmezgis,155,student,[unclear],00:17:44
+lmezgis,156,tutor,"Okay, so very good working out on this question, Felix. So Felix, now you think that you are the tutor and I am the student, okay?",00:17:45
+lmezgis,157,student,Okay.,00:17:56
+lmezgis,158,tutor,So can you take me through the steps again and explain Explain it to me how you round this 185. [unclear],00:17:57
+lmezgis,159,tutor,Okay.,00:18:09
+lmezgis,160,student,Okay.,00:18:11
+lmezgis,161,tutor,"So, yeah, can you explain it now?",00:18:12
+lmezgis,162,student,"So, the round— let's find another number to the nearest 10. So if we've got 100 in the hundreds column, and we've got 8 tens, and 5 ones. So the answer— the number will be 185. So what multiple— multiples of 10 does this number lie between? So if it's not— it's going to be lying between 80 and 90, so it'd be 180 and 190. And then you'll put the 185 in the middle, and then—",00:18:15
+lmezgis,163,tutor,Okay.,00:18:47
+lmezgis,164,student,"Because that's where you have to mark it. And then how many counters are in the ones column? So that is 5 counters in the ones column, and then you have to do 185. [unclear]",00:18:48
+lmezgis,165,tutor,"Yeah, if you have 5 in the column, do you have to round up or down?",00:19:05
+lmezgis,166,student,You have to round up. So it will be 185 rounded to the nearest 10 is 190. So you have to round up.,00:19:11
+lmezgis,167,tutor,"Exactly. If it is 5 or more than 5, you have to jump forward, right? You have to round, jump up. So that means you have to jump to the 190, right?",00:19:20
+lmezgis,168,student,Yeah.,00:19:33
+lmezgis,169,tutor,"Okay, so very good explanation on that, Felix. So Felix, are you clear now?",00:19:33
+lmezgis,170,student,Yeah.,00:19:40
+lmezgis,171,tutor,"Okay, so Felix, now shall we move on to the next, uh, Slide?",00:19:41
+lmezgis,172,student,Yeah.,00:19:48
+lmezgis,173,tutor,"Okay. So Felix, now I have 4 questions for you. So can you try all 4 questions and after that we'll discuss it? [unclear]",00:19:48
+lmezgis,174,student,"Round these numbers to the nearest 10. So we got 1, 3, 3, 5, 10. So we got 20 here. Should I just write 20?",00:19:58
+lmezgis,175,tutor,"No, you can— first you have to check what is the number shown in this array. Can you tell me what is the number shown?",00:20:09
+lmezgis,176,student,"5, 9, 10.",00:20:15
+lmezgis,177,student,[unclear],00:20:20
+lmezgis,178,tutor,"Exactly. So the number is 26. So now can you tell me when you round to the nearest 10, so that is what is the number if you round 26 to the nearest 10?",00:20:20
+lmezgis,179,student,"Uh, 30.",00:20:34
+lmezgis,180,tutor,"Exactly. 30, right? Okay. So likewise, you check what is the number and then you have to round to the nearest 10 and write down the answer.",00:20:36
+lmezgis,181,tutor,Okay.,00:20:45
+lmezgis,182,student,"So 100, 1, 2, 3, 4, 144. So 144 rounded to the nearest 10 is 150. Is it? [unclear] 144 rounded to the nearest 10. Yes, 150.",00:20:45
+lmezgis,183,tutor,Okay. What is the number here shown? Can you tell me? [unclear],00:21:10
+lmezgis,184,tutor,"No, 244. Okay, so it is 244. So can you tell me, 44 is closer to which multiple of 10?",00:21:16
+lmezgis,185,student,"40 or 50. Exactly, it's closer to 40 or 50. So it's closer to which number, 240 or 50?",00:21:29
+lmezgis,186,tutor,204A.,00:21:39
+lmezgis,187,student,Exactly. So what do you have to write over here now?,00:21:41
+lmezgis,188,tutor,204A.,00:21:43
+lmezgis,189,student,Exactly.,00:21:45
+lmezgis,190,background,Say 999.,00:21:50
+lmezgis,191,tutor,999 is 10. So 900— is it closer to 918? Or 999. So closest to 90 or— closest to 90 or is it closest to 100? Closest to 90 or 100? It's closest to 100. [unclear],00:21:54
+lmezgis,192,tutor,"Yeah, closer to 100. So what do you call it?",00:22:26
+lmezgis,193,student,"So we'll say 100. Now this is 999, right? So this 999 is between which two multiples of 10? [unclear] 99 is between which two multiples of 10?",00:22:28
+lmezgis,194,student,990.,00:22:49
+lmezgis,195,tutor,"Okay, 990 and?",00:22:51
+lmezgis,196,student,100.,00:22:59
+lmezgis,197,tutor,100. Are you sure it's 100 after 990?,00:22:59
+lmezgis,198,student,Yeah. [unclear],00:23:03
+lmezgis,199,tutor,"Okay, after 999, what number comes?",00:23:04
+lmezgis,200,student,"1,000.",00:23:11
+lmezgis,201,tutor,"Exactly. So it's between 999 and 1,000, right?",00:23:13
+lmezgis,202,student,Yeah.,00:23:21
+lmezgis,203,tutor,"Okay, so 999 is closer to which multiple, 990 or 1,000?",00:23:21
+lmezgis,204,student,"1,000.",00:23:27
+lmezgis,205,tutor,"Exactly. Okay, so you can write down the answer. [unclear]",00:23:29
+lmezgis,206,student,"Then 3,104. [unclear]",00:23:47
+lmezgis,207,tutor,"Okay, so now you can see here you have 3,104, right? So we learned in the previous slide, if you want to round to the nearest 10, Which column you have to check? [unclear]",00:24:07
+lmezgis,208,tutor,"Exactly, you have to check the ones column, right? So what is the digit you have in the ones column?",00:24:28
+lmezgis,209,student,"Uh, 4.",00:24:36
+lmezgis,210,tutor,"4. So can you tell me, this 4 is between what two multiples of 10?",00:24:39
+lmezgis,211,tutor,"Now when you take number 4, can you tell me that is between what two multiples?",00:24:50
+lmezgis,212,student,4 and 5.,00:24:58
+lmezgis,213,tutor,"10, multiples of 10.",00:25:00
+lmezgis,214,student,40 and 50.,00:25:03
+lmezgis,215,tutor,Are you sure 4 is in between 40 and 50?,00:25:05
+lmezgis,216,student,[unclear],00:25:09
+lmezgis,217,tutor,"Number 4, number 4 comes Where? Show me the place. Number 4, where should it come?",00:25:11
+lmezgis,218,student,I don't know.,00:25:20
+lmezgis,219,tutor,"Okay, so the number 4 is between 0 and 10, right? Where should 4 come, Felix? 0, 1, 2, 3, 4, right?",00:25:22
+lmezgis,220,student,Yeah.,00:25:34
+lmezgis,221,tutor,"So 4 is between 0 and 10, right? So now you can see here, this is 104, right? Can you see?",00:25:36
+lmezgis,222,student,Yeah.,00:25:46
+lmezgis,223,tutor,"So that means when you take this numbers, I will continue to write the, what do you call, multiples of 10. Okay, 60, 70, 80, then you have 90 on top. I'll write 90, 100, 110, 120. [unclear]",00:25:47
+lmezgis,224,tutor,"Okay, good job on that part, Felix. So Felix, now can you tell me where should this 104 comes? Using your pointer, can you show me where the 104 should come.",00:26:17
+lmezgis,225,student,So 104 come here? [unclear],00:26:34
+lmezgis,226,tutor,"Exactly. Between 100 and— exactly. It comes between 100 and 110, right?",00:26:40
+lmezgis,227,student,10s is enough.,00:26:50
+lmezgis,228,tutor,"That means it's between 300— 3100 and 3110, right, Felix?",00:26:52
+lmezgis,229,student,Yeah.,00:27:01
+lmezgis,230,tutor,"Okay, so now in this, can you mark 104?",00:27:02
+lmezgis,231,student,104?,00:27:07
+lmezgis,232,tutor,Yeah.,00:27:09
+lmezgis,233,student,"Ah, 104 is 100, 200, 300, 3100, 3101, 3102, 3104. [unclear]",00:27:10
+lmezgis,234,tutor,"Yeah, exactly. So it's same 3,000 over here. So now can you tell me, this is closer to which multiple, 3,100 or 3,100?",00:27:32
+lmezgis,235,student,"3,100.",00:27:43
+lmezgis,236,tutor,"Exactly, that is closer to 3,100, right? Okay, so can you write down the answer over here? [unclear]",00:27:45
+lmezgis,237,tutor,"Okay. So very good working out on this slide, Felix. So Felix, now are you clear?",00:28:09
+lmezgis,238,student,Yeah.,00:28:15
+lmezgis,239,tutor,"Okay. So can you tell me, Yeah. Now can you tell me what is the number shown over here?",00:28:17
+lmezgis,240,student,26.,00:28:25
+lmezgis,241,tutor,"Exactly, it's 26. So that 26 lies between which two multiples of 10? Can you tell me where should 26 come between? [unclear] Are you sure? [unclear] Exactly, it's between 20 and 30, right?",00:28:27
+lmezgis,242,tutor,"So now can you tell me when it's 26, it is closer to which multiple of 10, 30 or 20?",00:28:48
+lmezgis,243,student,[unclear],00:28:56
+lmezgis,244,tutor,Yeah. The 26 is closer to 20 or 30?,00:28:59
+lmezgis,245,student,20.,00:29:07
+lmezgis,246,background,30.,00:29:08
+lmezgis,247,tutor,"30, right? So that 6 means it is more than halfway point, right? So that means it's closer to— you have to jump up. It's closer to 30, right, Felix?",00:29:10
+lmezgis,248,student,Yeah.,00:29:23
+lmezgis,249,tutor,"Okay, so Felix, can you tell me when you are rounding to the nearest 10, which place value column you have to check?",00:29:24
+lmezgis,250,student,The what one?,00:29:35
+lmezgis,251,tutor,"Exactly, you have to check ones column. So when do you round up?",00:29:36
+lmezgis,252,student,But what question? What question are we on?,00:29:44
+lmezgis,253,tutor,"No, I'm just asking, when do you round up? Can you tell me? [unclear]",00:29:47
+lmezgis,254,student,When you round up?,00:29:53
+lmezgis,255,tutor,Yeah.,00:29:54
+lmezgis,256,student,When you round up? When you get to 5.,00:29:56
+lmezgis,257,tutor,"Exactly. When the digit in the ones column is 5 or up, you round up, right?",00:30:00
+lmezgis,258,tutor,"When the digit which is in the ones column is 5 or more than 5, you have to round up, right, Felix?",00:30:08
+lmezgis,259,student,[unclear],00:30:15
+lmezgis,260,tutor,"Okay, when do you round down, Felix?",00:30:17
+lmezgis,261,student,When it's under 5.,00:30:20
+lmezgis,262,tutor,"Exactly, when it's less than 5, you round down, right? Okay, so Felix, now I think you are very confident on this topic. So now I am going to give you a challenging question. Are you ready?",00:30:24
+lmezgis,263,student,Yeah.,00:30:36
+lmezgis,264,tutor,"Okay, so here we go, Felix. So can you try this question?",00:30:39
+lmezgis,265,student,"Two different two-digit numbers, both round to 10 when rounding to the nearest 10. The sum of [unclear] numbers is 100. What could the 2 numbers be? Wait, if the sum of the 2 numbers is 100, uh... [unclear] What does that mean?",00:30:44
+lmezgis,266,tutor,Okay.,00:31:20
+lmezgis,267,student,Okay. So can you read the question for me? [unclear],00:31:22
+lmezgis,268,student,Two different two-digit numbers both round to 50 when rounded to the nearest 10.,00:31:28
+lmezgis,269,tutor,Exactly.,00:31:38
+lmezgis,270,student,The sum of the two numbers is 100.,00:31:40
+lmezgis,271,tutor,"Exactly. There are two numbers, okay? So both are two-digit numbers, right? Two different numbers, both are two-digit numbers. When you round these numbers to the nearest 10, then it would be 50. If you round those 2 numbers to the nearest 10, the answer would be 50. Okay?",00:31:43
+lmezgis,272,student,I see.,00:32:04
+lmezgis,273,tutor,"The second [unclear] statement tells us the sum of the 2 numbers is 100. Okay? Whatever those 2 numbers, if you total it, it will be 100. Okay? So now you have to find out what are the two numbers could be. So how will you find out here? What two numbers which is round to the fifth nearest 10 would be 50, and when you add those two numbers, the answer would be 100? So how will you do that?",00:32:05
+lmezgis,274,student,I cannot.,00:32:41
+lmezgis,275,tutor,Okay. So now can you tell me which numbers round to 50? Which numbers round to 50 when you are rounding to the nearest 10? Can you tell me some of the numbers?,00:32:43
+lmezgis,276,student,"[unclear] [Speaker:Tutor]...51. Okay, 51. [Speaker:Felix]...53.",00:32:56
+lmezgis,277,tutor,"Okay, 51, 52. 53.",00:33:07
+lmezgis,278,tutor,53.,00:33:11
+lmezgis,279,student,[unclear] 54.,00:33:12
+lmezgis,280,tutor,"Okay, so what else you have?",00:33:15
+lmezgis,281,student,"51, 52, 53, 54.",00:33:18
+lmezgis,282,tutor,Do you have anything else?,00:33:21
+lmezgis,283,student,"1, 2, 3, 4, 5, 5, 5, 5.",00:33:24
+lmezgis,284,tutor,"Okay, what about 49?",00:33:28
+lmezgis,285,student,49? No.,00:33:30
+lmezgis,286,tutor,"Yeah, if you round 49 to the nearest 10, what would be the answer? 49. [unclear]",00:33:32
+lmezgis,287,tutor,"Exactly. So what are the other numbers you have? Like 49, what are the other numbers which you round to the nearest 10 would be 50?",00:33:40
+lmezgis,288,student,49.,00:33:50
+lmezgis,289,tutor,"Exactly, 48. Then what else?",00:33:57
+lmezgis,290,student,47.,00:34:00
+lmezgis,291,tutor,"Okay, 47. 46, then?",00:34:02
+lmezgis,292,student,46.,00:34:07
+lmezgis,293,tutor,"Okay, 46. Then?",00:34:09
+lmezgis,294,student,45.,00:34:12
+lmezgis,295,tutor,45. Then?,00:34:14
+lmezgis,296,student,Done.,00:34:16
+lmezgis,297,tutor,"Done, exactly. So you can see the numbers start from 45 and ends in 54, right? So those numbers between the 45 to 54 will give— if you round to the nearest 10, the answer would be 50, right?",00:34:17
+lmezgis,298,student,Yeah.,00:34:38
+lmezgis,299,tutor,So now can you select 2 numbers from these which you can add and make 100? What are the [UNCLEAR]?,00:34:38
+lmezgis,300,student,49.,00:34:49
+lmezgis,301,tutor,"Okay, 49 and number?",00:34:51
+lmezgis,302,student,49,00:34:55
+lmezgis,303,tutor,"Exactly, very good working out on that, Felix. I'm really happy and very proud of you. So 49 and 51, so can you add it and see?",00:34:59
+lmezgis,304,student,"Yeah, 4, 5, 6, 7, 8, 9, 10. Oh, [UNCLEAR].",00:35:09
+lmezgis,305,tutor,"Exactly, so this would be 100. It's correct. I am very proud of you, Felix. Okay, so can you tell me other 2 numbers from this which you can add and make 100?",00:35:15
+lmezgis,306,student,"I cross out the numbers I already did. 49, cross out. And 51, cross out.",00:35:29
+lmezgis,307,tutor,"Okay, so what else?",00:35:36
+lmezgis,308,student,"47, no, 48.",00:35:40
+lmezgis,309,tutor,"Okay, 48.",00:35:43
+lmezgis,310,student,Plus 52.,00:35:45
+lmezgis,311,tutor,"Exactly, good job on that. 48 and 52, right?",00:35:49
+lmezgis,312,student,Yeah.,00:35:54
+lmezgis,313,tutor,"Okay, so good job on that. So what are the other pairs?",00:35:54
+lmezgis,314,student,"4, 5, 6, 7, 8, 9, 10. [unclear]",00:35:59
+lmezgis,315,tutor,"Exactly, good job on that, Felix.",00:36:05
+lmezgis,316,student,Bye-bye.,00:36:11
+lmezgis,317,tutor,Bye-bye.,00:36:14
+lmezgis,318,tutor,"Okay, so what are they? Okay, 47 plus 53. Exactly, 47 and 53. [unclear]",00:36:15
+lmezgis,319,student,"4, 5, 6, 7, 8, 9, 10. Okay, also equal 100.",00:36:28
+lmezgis,320,tutor,"Exactly, so 47 and 53 is also 100, right? [unclear]",00:36:35
+lmezgis,321,tutor,46.,00:36:42
+lmezgis,322,student,Plus... 54.,00:36:43
+lmezgis,323,tutor,"Exactly, 46 and 54.",00:36:53
+lmezgis,324,student,"6, 7, 8, 9, 10. 4, that's it, 7, 8, 9, 10....equals 100.",00:36:57
+lmezgis,325,tutor,"Exactly. So this pair also, if you add it, it's 100, right? Okay. So Felix, now you can select any pair of numbers— 48 and 52, or 49 and 51, or 47 and 50.",00:37:09
+lmezgis,326,student,I want to see what 45 plus 50 equals.,00:37:26
+lmezgis,327,tutor,"Okay, so if you want, you can check 45 and 50.",00:37:30
+lmezgis,328,student,[unclear] Should I do 50 or 45 first?,00:37:35
+lmezgis,329,tutor,"Okay, so 45 and—",00:37:39
+lmezgis,330,student,Should I do 45 first?,00:37:41
+lmezgis,331,tutor,Hmm?,00:37:44
+lmezgis,332,student,"Plus 50. 5 plus 7 equals 5. 4 plus 5. 4, 5, 6. 4, 5, 6, 7, 8, 9. So 45 plus 50 equals 95.",00:37:45
+lmezgis,333,tutor,"Exactly. So, but here they have mentioned that the sum of the two numbers is 100, right?",00:38:03
+lmezgis,334,student,"Yeah, yeah. So it can't be that.",00:38:09
+lmezgis,335,tutor,Exactly. So you can select any two.,00:38:12
+lmezgis,336,student,I'm going to use 49 plus 51.,00:38:16
+lmezgis,337,tutor,Exactly. So can you write down the two numbers on the line?,00:38:20
+lmezgis,338,student,"So I [unclear] No, not like that. Let's do it the other way. So 49 and 51.",00:38:24
+lmezgis,339,tutor,Okay. [unclear],00:38:40
+lmezgis,340,student,"Okay. So very good working out on this, Felix. So Felix, in this slide you did a fantastic job and I'm really happy and very proud of you, Felix.",00:38:45
+lmezgis,341,tutor,Are you happy?,00:38:58
+lmezgis,342,student,Yeah.,00:39:01
+lmezgis,343,tutor,"Okay, okay. So Felix, now we have completed this lesson, okay?",00:39:02
+lmezgis,344,student,Okay.,00:39:09
+lmezgis,345,tutor,"Before we move on to the next lesson, Felix, shall we soon recall— sorry, shall we soon summarize what we learn in this lesson?",00:39:10
+lmezgis,346,student,Yeah.,00:39:20
+lmezgis,347,tutor,"Okay, so can you tell me what are the new things you learned today?",00:39:21
+lmezgis,348,student,"Uh, what 999 is closest to? [unclear] And 3104 closest to?",00:39:27
+lmezgis,349,tutor,"Exactly. We learn how to round the numbers to the nearest 10, right?",00:39:39
+lmezgis,350,student,Yeah.,00:39:45
+lmezgis,351,tutor,"Okay, so now can you tell me, when you take this 185, this 185 lies between the— what are the 2 multiples of 10?",00:39:46
+lmezgis,352,student,"Uh, 180, 190.",00:40:00
+lmezgis,353,tutor,"Exactly. So when you take 185, do you have to round up or do you have to round down? [unclear] What do you have to do? Do you have to round up or do you have to round down? Up or down? What do you have to do?",00:40:03
+lmezgis,354,student,Up.,00:40:27
+lmezgis,355,tutor,"Exactly. So you have to round up. So why do you think that you have to round up, Felix?",00:40:28
+lmezgis,356,student,"Because it is 85 and the ones is 5, so it's [UNCLEAR]. If it's 5 or up, you're going to round up. And if it's 4 or below, [unclear]",00:40:38
+lmezgis,357,tutor,"Exactly, good job, very good explanation. So if it is 5 or up, you have to round up. If it is less than 5, you have to round down, right?",00:40:49
+lmezgis,358,student,Yeah.,00:41:02
+lmezgis,359,tutor,"Okay, so Felix, now are you clear on this lesson?",00:41:02
+lmezgis,360,student,Yeah.,00:41:06
+lmezgis,361,tutor,"Okay, shall we move on to the next lesson?",00:41:08
+lmezgis,362,student,Yeah.,00:41:11
+lmezgis,363,tutor,"Okay, so the next lesson would be? [unclear] What do you think? What is the next lesson would be?",00:41:12
+lmezgis,364,student,I don't know.,00:41:25
+lmezgis,365,tutor,"We'll check. The next lesson is multiplying and dividing numbers by 10 and 100. Okay, okay, so here we go, Felix. So Felix, to start with, can you try the first question for me?",00:41:28
+lmezgis,366,student,"Complete the missing number in this calculation. 10 times something equals 2,500. [unclear]",00:41:49
+lmezgis,367,student,I don't know.,00:42:12
+lmezgis,368,tutor,Which number times it by 10 will give you 250?,00:42:15
+lmezgis,369,student,"Do you mean 2,050? 2,500.",00:42:21
+lmezgis,370,tutor,"Yeah, 2,500 is the answer, right? Which number times it by 10 will give you 2,500? [unclear]",00:42:25
+lmezgis,371,tutor,"What you can do here if you want to find the missing number, what you can do?",00:42:40
+lmezgis,372,student,[unclear],00:42:44
+lmezgis,373,tutor,"You can use the inverse operation, right?",00:42:50
+lmezgis,374,student,Okay.,00:42:53
+lmezgis,375,tutor,"So what, yeah, what is the inverse of times?",00:42:53
+lmezgis,376,student,Divide.,00:42:59
+lmezgis,377,tutor,"Divide. So what you can do is you can divide 2,500 by 10, right?",00:43:00
+lmezgis,378,student,"Yeah, but I don't know how to divide.",00:43:07
+lmezgis,379,tutor,"Okay, so just tell me if you are dividing it by 10. Can you divide? Just see how will you divide. [unclear] Okay, you don't know. Okay, now can you tell me how many, um, okay, no problem. So if you divide it by 10, the answer would be 250, where you can see You can't make a group of 10 using 2, right?",00:43:09
+lmezgis,380,student,"You mean 2,500, not 250.",00:43:33
+lmezgis,381,tutor,"Okay. So when you take 25, how many groups of 10 you can make?",00:43:37
+lmezgis,382,student,"25, how many groups of 10? 25, how many groups of 10? [unclear] You can make 2 groups, right? 20. So 5 remaining, right? [unclear] Okay. So Felix, the time is up for today. So we'll stop for today and we'll continue lesson next week, okay?",00:43:43
+lmezgis,383,student,Okay.,00:44:16
+lmezgis,384,tutor,"Okay. So before we wrap up, Felix, can you tell me what are the new things you learned today? [unclear]",00:44:19
+lmezgis,385,tutor,"We learned how to round numbers, right?",00:44:40
+lmezgis,386,student,"Yeah, yeah.",00:44:43
+lmezgis,387,tutor,"Okay, so what was challenging for you in that lesson? [unclear]",00:44:45
+lmezgis,388,tutor,"How's around 999, right?",00:44:57
+lmezgis,389,student,Yeah.,00:45:00
+lmezgis,390,tutor,"Okay, so are you clear now?",00:45:01
+lmezgis,391,student,Yeah.,00:45:03
+lmezgis,392,tutor,"Okay, so Felix, you did a fantastic job on this session, Felix. So keep up your good work, okay?",00:45:04
+lmezgis,393,student,Okay.,00:45:12
+lmezgis,394,tutor,"Okay, Felix, bye-bye. Have a great week.",00:45:13
+lmezgis,395,student,Bye.,00:45:16
+lmezgis,396,tutor,Bye. We'll meet next week.,00:45:18
+lmezgis,397,student,Bye. [unclear],00:45:20
+lmezgis,398,tutor,Bye.,00:45:21

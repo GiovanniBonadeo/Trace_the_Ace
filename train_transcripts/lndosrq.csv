@@ -1,0 +1,306 @@
+session_id,utterance_id,role,content,timestamp
+lndosrq,0,tutor,Hello.,00:00:00
+lndosrq,1,background,[unclear],00:00:00
+lndosrq,2,student,Hi.,00:00:01
+lndosrq,3,tutor,Hi.,00:00:02
+lndosrq,4,student,How are you doing?,00:00:02
+lndosrq,5,tutor,I'm good.,00:00:04
+lndosrq,6,student,"Good. Very well. So, how was your day? [unclear]",00:00:05
+lndosrq,7,tutor,Excellent. So what about the week so far?,00:00:15
+lndosrq,8,student,It was so good because we're going on a trip next week.,00:00:21
+lndosrq,9,tutor,"Wow, excellent. That is good news.",00:00:25
+lndosrq,10,student,Yeah.,00:00:29
+lndosrq,11,tutor,Yes. Did you have fun?,00:00:30
+lndosrq,12,student,"Yeah, it was really fun. Wow, excellent, excellent news! What a great week! Okay, excellent. Okay, Elara, uh, can we start today's lesson? [unclear]",00:00:33
+lndosrq,13,student,Yeah.,00:00:49
+lndosrq,14,tutor,"Yes, so we have started this lesson in the previous session, solving problem involving fractions. So we have stopped Here. So let's walk through this problem together, step by step. Are you okay with that?",00:00:51
+lndosrq,15,student,Yeah.,00:01:11
+lndosrq,16,tutor,Yes. Can you read this first sentence?,00:01:13
+lndosrq,17,student,"Yeah. In two [unclear] race, Jack completes a swim, a run, and a bike ride. The swim is one—",00:01:16
+lndosrq,18,tutor,"Okay, uh, tell me, uh, what is the distance How long is the race?",00:01:25
+lndosrq,19,student,20 kilometers.,00:01:30
+lndosrq,20,tutor,Yes. Can you underline it?,00:01:33
+lndosrq,21,student,Yeah.,00:01:36
+lndosrq,22,tutor,Okay. What are the things Jack has to complete?,00:01:40
+lndosrq,23,student,"Jack completes a swim, a run, and bike ride.",00:01:45
+lndosrq,24,background,"Run, bike ride.",00:01:49
+lndosrq,25,tutor,Can you underline them also?,00:01:50
+lndosrq,26,tutor,"Swim, run, and bike, right? Excellent. Can you read the second sentence?",00:01:55
+lndosrq,27,student,The swim is one-tenth of the total distance.,00:02:04
+lndosrq,28,tutor,"Yes, swim is this one. The first task is one-tenth of the total distance. What is the total distance?",00:02:07
+lndosrq,29,background,One-tenth.,00:02:18
+lndosrq,30,tutor,Total distance.,00:02:20
+lndosrq,31,tutor,The race is—,00:02:21
+lndosrq,32,student,"Oh, the race is 20 kilometers. [Speaker:Tutor]...out of 20, one tenth is swim. How we can find the distance of swimming? [UNCLEAR]",00:02:24
+lndosrq,33,background,I don't know.,00:02:27
+lndosrq,34,tutor,"Okay, excellent. Here, that's why I am here. So we can find the distance of the swim by dividing the total distance, that means 20 kilometers by 10. Did you get that? [unclear]",00:02:40
+lndosrq,35,student,Yeah.,00:02:59
+lndosrq,36,tutor,"Yes, we need to divide 20 kilometers by 10 to find the swimming distance.",00:03:01
+lndosrq,37,background,So you need to do 10 divided by 20?,00:03:09
+lndosrq,38,tutor,Mm-hmm. What is the answer?,00:03:12
+lndosrq,39,background,2.,00:03:17
+lndosrq,40,tutor,"2 kilometers. Can you, um, write here somewhere? [unclear] Yes, kilometers. Very well. So what is the next sentence? The run is one half of the total distance. Yes. How we can find the run distance, running distance? 2 divided by 20. 20 divided by 2. What is the answer? [unclear] [Speaker] I have no idea.",00:03:18
+lndosrq,41,tutor,20 divided by 2 equals? [Speaker] I don't know.,00:04:00
+lndosrq,42,tutor,"Okay, 2 times 5 equals how many? [Speaker] 10.",00:04:07
+lndosrq,43,tutor,Yes. 2 times 8 equal how many?,00:04:13
+lndosrq,44,tutor,19?,00:04:20
+lndosrq,45,student,16.,00:04:22
+lndosrq,46,tutor,"Oh, 16. [unclear]",00:04:24
+lndosrq,47,student,Do you know the half of 20?,00:04:26
+lndosrq,48,tutor,Is it half of 20?,00:04:33
+lndosrq,49,student,Mm-hmm.,00:04:37
+lndosrq,50,tutor,15? [unclear],00:04:41
+lndosrq,51,tutor,No worries.,00:04:44
+lndosrq,52,student,10.,00:04:45
+lndosrq,53,tutor,"10. Wow, excellent, excellent, awesome effort. Okay, so we have— no, we know that the half of the total distance is 10. That means running distance is 10 kilometers. Excellent. Okay, altogether how many kilometers? But here we have 2 tenths.",00:04:46
+lndosrq,54,tutor,Yes. Can you add them together?,00:05:14
+lndosrq,55,student,So 10 plus 2?,00:05:18
+lndosrq,56,tutor,Mm-hmm.,00:05:20
+lndosrq,57,student,"Okay, so 10 plus 2 is 12.",00:05:22
+lndosrq,58,tutor,"12 kilometers. Okay, so far, what are the tasks he has done? [unclear] Swim and run. Swim and run. What is the next task he has?",00:05:27
+lndosrq,59,student,The next task is going to be bike ride.,00:05:46
+lndosrq,60,tutor,Yes. So what distance was his bike ride? So how we can find the bike ride distance?,00:05:49
+lndosrq,61,student,"Um, would we do 12 divided by 20? [unclear]",00:05:59
+lndosrq,62,tutor,"Okay. The total distance is 20. That means swimming, running, and bike riding. So swimming and bike ride is 12, and to complete 20 kilometers, how we can find the distance bike ride? How, how far he needs to go, uh, further? [unclear]",00:06:05
+lndosrq,63,student,"12 kilometers. He has complete 12 kilometers, but the total distance is 20. How many kilometers he need to complete more? [unclear]",00:06:33
+lndosrq,64,tutor,20.,00:06:54
+lndosrq,65,student,Uh-huh.,00:06:57
+lndosrq,66,tutor,20.,00:06:58
+lndosrq,67,student,"Okay, we can find 20 take away 12.",00:07:00
+lndosrq,68,tutor,Can you do it here?,00:07:07
+lndosrq,69,student,Yeah. So 20 take away 12?,00:07:08
+lndosrq,70,tutor,Yes.,00:07:12
+lndosrq,71,student,So 20... [unclear] Take away 12.,00:07:13
+lndosrq,72,tutor,Mm-hmm.,00:07:22
+lndosrq,73,student,And then by 5 halves of...,00:07:26
+lndosrq,74,tutor,"Sorry, 0 take away 2 is 2. And then 1 take away 2 is 1, so it would be 1 kilometers.",00:07:28
+lndosrq,75,tutor,"Okay, can you count from 20— 12 to 20, how many fingers you can, uh, count?",00:07:42
+lndosrq,76,student,"Oh, 12 to 20. Okay, so 12, 13, 13, 14, 15, 16, 17, 18, 19, 20.",00:07:51
+lndosrq,77,tutor,"9. So we have 8 kilometers, right? If you add 8 here, you can get it. So what is the answer? [unclear] 8 kilometers. Yes, excellent. Right, so I'm going to write it now. [unclear]",00:08:02
+lndosrq,78,tutor,"Yes. If you add them together, what is the answer would be?",00:08:29
+lndosrq,79,student,I'm just counting.,00:08:37
+lndosrq,80,tutor,Mm-hmm.,00:08:42
+lndosrq,81,student,20.,00:08:45
+lndosrq,82,tutor,"Yes, that is the total kilometers. That is the total distance of the race. Okay, Elara, can you tell me how we got that swimming distance? [unclear] We just did 10 divided by 20. 20 divided by 10. Yes. How we can find running distance? We did, uh,",00:08:47
+lndosrq,83,student,"We did, um, um, I don't remember.",00:09:23
+lndosrq,84,tutor,20 divided by 2. Yes. How we can find the bike ride distance?,00:09:30
+lndosrq,85,student,We did 20 take away 12.,00:09:39
+lndosrq,86,tutor,"Wow, excellent! What a great effort you are putting into this. That is the way we can get the answer. Here you have another question. Can you try this one question?",00:09:44
+lndosrq,87,tutor,"Okay, Taina has saved £240. She spends one [unclear] of it on a computer game. How much money does she have left?",00:09:58
+lndosrq,88,student,Hmm.,00:10:10
+lndosrq,89,tutor,What is the first step?,00:10:15
+lndosrq,90,student,Pardon?,00:10:18
+lndosrq,91,tutor,What is the first step we have to do?,00:10:19
+lndosrq,92,student,We have to take away. We have to do 4 take away 240.,00:10:22
+lndosrq,93,tutor,Is it take away or divide— division? [unclear],00:10:29
+lndosrq,94,student,"Oh no. Oh wait. We have to— wait, since we have these like Shading thingies. This one, don't we have to shade these like one— like, wait, how we can find quarter of 240? [unclear] How we can find quarter of 240? [unclear]",00:10:36
+lndosrq,95,student,I don't know.,00:11:05
+lndosrq,96,tutor,We need to divide 240 by 4.,00:11:06
+lndosrq,97,tutor,"Here we did 20 divided by 10, 20 divided by 2. Likewise, 240 divided by 4. Can you do it here? 240 divided by 4. Can you do it here? [unclear]",00:11:11
+lndosrq,98,student,Yes. [unclear],00:11:34
+lndosrq,99,tutor,"Okay, you can do it.",00:11:46
+lndosrq,100,student,"Oh, sorry, I was just reading something. Okay, so 4, so let's do, so 4 take away 4. Oh no, take away, divide it, divide. I keep on— Oh, 0 divided by 4, isn't it 0?",00:11:54
+lndosrq,101,tutor,"Uh, 2, there is any, uh, 4 in 2?",00:12:15
+lndosrq,102,student,Yeah.,00:12:20
+lndosrq,103,tutor,"We can get 4 times, how many we can?",00:12:22
+lndosrq,104,student,So 2 divided by 4 is 2.,00:12:26
+lndosrq,105,tutor,We can't do a divide 2 by 4. So we need to look at the next number. So here we have 24. How we can get 24? 4 times how many we can get 24?,00:12:31
+lndosrq,106,tutor,4 times... [unclear],00:12:46
+lndosrq,107,student,Is it 4 times 8.,00:12:49
+lndosrq,108,tutor,"Okay, are you sure about that?",00:13:04
+lndosrq,109,student,No.,00:13:09
+lndosrq,110,tutor,4 times 1 equal how many?,00:13:10
+lndosrq,111,student,4 times 1 is 4.,00:13:14
+lndosrq,112,tutor,4 times 2?,00:13:17
+lndosrq,113,student,4 times 2. [unclear],00:13:19
+lndosrq,114,tutor,"Oh, 4 times 2 is 8.",00:13:29
+lndosrq,115,student,4 times 3?,00:13:33
+lndosrq,116,tutor,12.,00:13:35
+lndosrq,117,student,4 times 4?,00:13:37
+lndosrq,118,tutor,16.,00:13:39
+lndosrq,119,student,4 times 5?,00:13:41
+lndosrq,120,tutor,20.,00:13:44
+lndosrq,121,student,4 times 6?,00:13:45
+lndosrq,122,tutor,"8. 4 times 6 equal how many? [unclear] 4 times 5, 20. If you add 20 to 4, what is the answer?",00:13:50
+lndosrq,123,student,24.,00:14:14
+lndosrq,124,tutor,4 times 6 equal then?,00:14:17
+lndosrq,125,student,24.,00:14:20
+lndosrq,126,tutor,"Yes, so you can put here 4 times 6. [unclear] 6 here.",00:14:21
+lndosrq,127,student,Okay.,00:14:28
+lndosrq,128,tutor,"4 times 6 equals 24, and here we have 0, so we need to put 0 here. Okay, so she spent one quarter of it on a computer game.",00:14:30
+lndosrq,129,tutor,"So we know that one quarter of 240 equals 60 pounds. So if she spent 60 pounds from 240, how many left? [unclear]",00:14:46
+lndosrq,130,student,Um... [unclear],00:15:07
+lndosrq,131,tutor,"Okay, can you write how many she has— Tina has saved, how many money here? Can you write it?",00:15:20
+lndosrq,132,student,So he has— he saved £240.,00:15:29
+lndosrq,133,tutor,And how many she has spent on— [unclear] 60. How many are left now? [unclear],00:15:35
+lndosrq,134,tutor,"What we have to do here? 20. 240 take away 60. Okay, let's walk through this together. Okay, 0 take away 0 equal how many?",00:15:47
+lndosrq,135,student,0.,00:16:08
+lndosrq,136,tutor,"0. You can put 0. 4 equals 6, can we do that? 4 take away 6? [unclear] Can we do that? 4 take away 6?",00:16:09
+lndosrq,137,student,It's 2.,00:16:23
+lndosrq,138,tutor,"Can— oh, just imagine you have 4 apples and I am asking 6 apples. Can you give 6 apples now? [unclear]",00:16:25
+lndosrq,139,tutor,You have 4 apples and I'm asking 6 apples. Can you give 6 apples?,00:16:41
+lndosrq,140,student,"No, because I only have 4.",00:16:49
+lndosrq,141,tutor,"Yes, so we can't do that. 4 take away— we can't do that. So if I am asking 6 apples you need to borrow some apples from your friends. Like here, here, what we have?",00:16:52
+lndosrq,142,student,We have two.,00:17:10
+lndosrq,143,tutor,"We have two. You can borrow one from here to here. If you borrow one from here to here, what is the number here we have? [unclear] [unclear]",00:17:11
+lndosrq,144,tutor,"And here we have 1 because you borrow 1. So here we have 14. 14 take away 6, what is the answer?",00:17:32
+lndosrq,145,student,8.,00:17:47
+lndosrq,146,tutor,"Yes, excellent. You can put 8 here. Okay, and previously there was 2, but we have borrowed 1 from here, and here left is 1. So 1 take away 0 equal how many? [unclear]",00:17:48
+lndosrq,147,tutor,1.,00:18:11
+lndosrq,148,student,"Yes, 1. So be 1....180.",00:18:13
+lndosrq,149,tutor,"Yes, she lift 180 pounds. You can put it here. Yes, don't forget the pounds, okay?",00:18:21
+lndosrq,150,student,Okay.,00:18:33
+lndosrq,151,tutor,"Excellent, excellent, excellent. Okay, can you tell me how we can find the quarter of 240?",00:18:34
+lndosrq,152,tutor,Pardon?,00:18:46
+lndosrq,153,student,How we get quarter of 240? [unclear],00:18:47
+lndosrq,154,tutor,What we have done here?,00:18:59
+lndosrq,155,student,We've done 60 because that's this we did.,00:19:05
+lndosrq,156,tutor,How we can get 60?,00:19:09
+lndosrq,157,student,We did 240 divided by 4. [unclear],00:19:10
+lndosrq,158,tutor,"Yes, so we can find the quarter of 240 by dividing 4. 200 divided by 4. So how we get 180?",00:19:19
+lndosrq,159,student,"We did, um, take away [unclear]",00:19:34
+lndosrq,160,tutor,"240 take away 8. Excellent, awesome effort. Okay, okay. Is there anything you can't understand on these questions?",00:19:39
+lndosrq,161,student,"No, it's just only you practice more sometimes if I don't get one thing.",00:19:53
+lndosrq,162,tutor,"Okay, tell me what didn't you get? [Speaker] So the first time, I think it was probably like when we did this one. Wait.",00:19:58
+lndosrq,163,tutor,And you joined me? [Speaker] When we did this thingy. I didn't know what it— I didn't know what because I don't know.,00:20:08
+lndosrq,164,tutor,"Okay, now you know that? [Speaker] Yeah, because I can do that at school, but—",00:20:18
+lndosrq,165,tutor,"Okay, you— okay, that is a new learning, right?",00:20:24
+lndosrq,166,tutor,Yeah.,00:20:29
+lndosrq,167,student,"Yes, now you know that how to find it. Okay, can you explain me now here, this one?",00:20:31
+lndosrq,168,tutor,"So we just do 0 take away 0 is 0, and then we do— we take the 1 from the 2. So 5 take away 6—",00:20:38
+lndosrq,169,background,14 take away—,00:20:50
+lndosrq,170,tutor,"Oh wait, 14 take away 6. Is 8, and then 1 take away 0, which is 1. So you get 180.",00:20:52
+lndosrq,171,tutor,"Excellent. Awesome, awesome. Okay, uh, is there anything you can't understand? What else?",00:21:04
+lndosrq,172,student,No.,00:21:12
+lndosrq,173,tutor,"No. Yes, excellent. So tell me, uh, which part of these, uh, this question most challenging you?",00:21:13
+lndosrq,174,student,On this one?,00:21:23
+lndosrq,175,tutor,Mm-hmm. Which one?,00:21:25
+lndosrq,176,student,None. None.,00:21:27
+lndosrq,177,tutor,"None. Okay, excellent, excellent. Awesome, awesome, right? I'm really, really impressed with your effort you are putting into this. Okay, here we have another question. Can you read it?",00:21:29
+lndosrq,178,background,"Hockey plays on his scooter for 1.5 hours and plays football for 3/4 hour, how much time does he spend playing in total?",00:21:45
+lndosrq,179,tutor,"Okay, first we have to find what is the half of hour. That means, uh, scooter, and yes, he played football 3/4 hour. So can you first find what is the half of the hour? [unclear]",00:21:55
+lndosrq,180,tutor,"Okay, do you know one hour equal how many minutes?",00:22:20
+lndosrq,181,student,One hour is 60 minutes.,00:22:27
+lndosrq,182,tutor,Yes.,00:22:30
+lndosrq,183,student,So it's gonna be one hour.,00:22:31
+lndosrq,184,tutor,"Okay, so he played one half of one half of, uh, this hour. So how we can find one half of— that means half of 60. [unclear]",00:22:35
+lndosrq,185,student,So would we do like 2 60 divided by 2.,00:23:01
+lndosrq,186,tutor,2.,00:23:10
+lndosrq,187,student,Equal how many?,00:23:11
+lndosrq,188,tutor,60 divided by 2.,00:23:14
+lndosrq,189,student,Mm-hmm. I don't know.,00:23:16
+lndosrq,190,tutor,"Okay, let's find, let's find that part. 60 divided by 2. [unclear]",00:23:20
+lndosrq,191,tutor,Can you do that?,00:23:36
+lndosrq,192,student,So we would do— let's do 0.,00:23:41
+lndosrq,193,tutor,Here you can write. 2 times how many we can get 6? 2 times—,00:23:47
+lndosrq,194,background,"Let me count. 2, 3, 3, 3, 3. 2 times 3, you can put 3 here. And here we have 0, you can put 0. Yes, so he has spent 30 minutes on his scooter.",00:23:56
+lndosrq,195,tutor,"Oh, so half an hour.",00:24:18
+lndosrq,196,student,"Yes, half an hour equals 30 minutes. You can put 30 minutes here.",00:24:21
+lndosrq,197,tutor,Where?,00:24:28
+lndosrq,198,student,Somewhere here.,00:24:29
+lndosrq,199,tutor,"Okay. [Speaker:Background]...5 times 6. [Speaker:Tutor] Okay, next we have to find... [unclear]",00:24:33
+lndosrq,200,tutor,1 hour equals... 60 min... So tell me how we can find 3/4 of 60. [unclear],00:24:43
+lndosrq,201,student,"We would do 4 take— I mean, divide by 60.",00:25:04
+lndosrq,202,tutor,"Yes, so we can find— yes, can you do that? [unclear]",00:25:11
+lndosrq,203,tutor,"Oh, okay. So, um, 40, 8 and 8 is 60. We have 60.",00:25:19
+lndosrq,204,student,"Oh wait, oh yeah, we'll do 60.",00:25:34
+lndosrq,205,tutor,Mm-hmm.,00:25:41
+lndosrq,206,student,"Yes. So 60, and then we'll do— [unclear] So 0 divided by 4 is—",00:25:43
+lndosrq,207,tutor,Start from here. Start from 6.,00:26:07
+lndosrq,208,tutor,6 divided by—,00:26:11
+lndosrq,209,student,1 times how many we can get 6? [unclear],00:26:12
+lndosrq,210,tutor,"Oh, so 6 times 4.",00:26:17
+lndosrq,211,background,"Okay, just imagine you have 6 apples and you are going to give 4. How many 4 groups you can give? How many groups?",00:26:22
+lndosrq,212,tutor,"Yes, you have 6 apples and you are going to—",00:26:42
+lndosrq,213,student,I need to work this out. So 6 apples.,00:26:46
+lndosrq,214,tutor,"Yes, and you are going to—",00:26:50
+lndosrq,215,student,"Oh, I know. Is it 3 or 2?",00:26:52
+lndosrq,216,tutor,"Okay, let's find out. Here you have 6 apples. Can you group 4 apples here? 4 apples.",00:26:58
+lndosrq,217,student,"Oh, 4 apples. [unclear] So we would do... [unclear]",00:27:14
+lndosrq,218,tutor,"Yes, excellent. How many 4 groups we have here?",00:27:27
+lndosrq,219,student,We have 4.,00:27:32
+lndosrq,220,tutor,"1, 1. We have 1 group.",00:27:34
+lndosrq,221,student,1.,00:27:38
+lndosrq,222,tutor,Yes. How many left?,00:27:40
+lndosrq,223,student,2.,00:27:42
+lndosrq,224,tutor,"Yes, you can put 2 here. Yeah, and here you have 0, you need to put 0 here. Okay, 4 times how many we can get? 20. [unclear]",00:27:44
+lndosrq,225,student,"I'm just counting, sir.",00:28:05
+lndosrq,226,tutor,"Okay, count, count.",00:28:07
+lndosrq,227,student,"Wait, we would do [unclear] [Speaker] What do we do?",00:28:21
+lndosrq,228,tutor,Mm-hmm. [Speaker] I don't know.,00:28:34
+lndosrq,229,tutor,"Okay, 4 times 4 equals how many? [Speaker] 16.",00:28:38
+lndosrq,230,tutor,4 times 5? [Speaker] 4 times 5 is 20. [Speaker] Yes. 5. You can put 5 here. 4 times 5 equal 20. So what is the one quarter of [UNCLEAR]? [Speaker:Elara] 15.,00:28:42
+lndosrq,231,tutor,"Yes. How we can find three quarter of 60? What we need to do? One quarter is 15, and you have three quarters. How we can do it? [unclear]",00:29:04
+lndosrq,232,student,We would need to do take away.,00:29:20
+lndosrq,233,tutor,We need to times by 3.,00:29:25
+lndosrq,234,student,Yeah.,00:29:30
+lndosrq,235,tutor,15 times 3. [unclear] Let's find out it. 15 times 3.,00:29:31
+lndosrq,236,tutor,Can you write 3 15s here?,00:29:43
+lndosrq,237,student,Pardon?,00:29:48
+lndosrq,238,tutor,"Can you write 3 15s like here? Okay, can you add them together? [unclear]",00:29:50
+lndosrq,239,background,"Okay, so if 5 5 is 10, [Speaker] After 5 is 15, right? So put 5 here and 1 under here. Then we put 1 1 is 2, add the 1 is 3, add another 1 because we have one here is 4. Yes.",00:29:58
+lndosrq,240,tutor,So [Speaker] 45. 45.,00:30:28
+lndosrq,241,tutor,"Okay, so we know that 3/4 equal 45. You can put 45 here. Yeah. [unclear] Okay, half hour equal 30 minutes. 3/4 hour equal 45 minutes.",00:30:31
+lndosrq,242,tutor,Can you add them together?,00:30:59
+lndosrq,243,student,"Okay, let me just do this way. 30 add 45. Right, so 5 plus 0 is 5. So 4 [Speaker] Plus 3 is 7. So it would be 7— 75. It would be 75.",00:31:03
+lndosrq,244,tutor,"Yes, excellent. 75 minutes. You can put the answer. Wow, what a great effort you are putting into this. Excellent, excellent. 75 minutes. Okay, can you tell me how we get this answer?",00:31:48
+lndosrq,245,student,"We just add— we just add them, then we would add them again because when we add them We get the answer, then over here we add them, and then we get the answer which is here, which is the answer to over here.",00:32:11
+lndosrq,246,tutor,"Yes, excellent. How we get 30 minutes? [unclear]",00:32:29
+lndosrq,247,student,Because half an hour is 30 minutes.,00:32:35
+lndosrq,248,tutor,Yes. How we get 45 minutes?,00:32:39
+lndosrq,249,background,[unclear],00:32:41
+lndosrq,250,tutor,"Um, because 3, 4 is 45.",00:32:45
+lndosrq,251,student,"Yes, 3/4 of hour, 45. Okay, what do you think about this lesson?",00:32:54
+lndosrq,252,tutor,"It was, it was very, very good.",00:33:03
+lndosrq,253,student,"Very good. Wow, excellent. So what are the things you have— tell me one new thing you learned from this lesson. Is probably like the hours, like the [unclear] playtime part.",00:33:06
+lndosrq,254,tutor,"So what about the takeaway, this one? This one? Is that a new learning?",00:33:28
+lndosrq,255,student,"Yeah, this is something I need to learn more. Yes, excellent, excellent. So is there anything you can't understand on this lesson?",00:33:39
+lndosrq,256,student,No.,00:33:50
+lndosrq,257,tutor,"No, excellent. Uh, do you need any more explanation on something?",00:33:51
+lndosrq,258,student,No.,00:33:58
+lndosrq,259,tutor,"Excellent, what a great, great answer. Okay, uh, are you ready to do another lesson today? 20. [unclear]",00:33:59
+lndosrq,260,tutor,"Um, yeah. Okay. Yes, yes. Okay, I know Elara is always ready to accept challenges. Okay, here we have the next lesson. Can you, uh, read this topic?",00:34:12
+lndosrq,261,student,Simplifying fractions. Simplify this fraction.,00:34:30
+lndosrq,262,tutor,Yes. Do you know how to simplify the fraction?,00:34:36
+lndosrq,263,student,I think I can.,00:34:42
+lndosrq,264,tutor,"Okay, can you try this question? You need to simplify.",00:34:44
+lndosrq,265,student,"Oh, I know. These have 9 parts. We're gonna shade in 3. 1, 2, 3. So we have",00:34:47
+lndosrq,266,tutor,"Um, can you shade it in?",00:35:02
+lndosrq,267,student,Mm-hmm.,00:35:04
+lndosrq,268,tutor,"And then there's like, I guess, [UNCLEAR]. [Speaker:Elara] Mm-hmm.",00:35:05
+lndosrq,269,tutor,So 3/4.,00:35:10
+lndosrq,270,student,Mm-hmm.,00:35:16
+lndosrq,271,tutor,"Yeah, 3/4.",00:35:19
+lndosrq,272,student,Okay.,00:35:21
+lndosrq,273,tutor,Is the answer 3/4?,00:35:26
+lndosrq,274,tutor,"Okay, 3/4. What a great effort you are putting into this. Can you, uh, here the prior learning question is asking, uh, can you give equal fraction to half? [unclear]",00:35:28
+lndosrq,275,student,No.,00:35:45
+lndosrq,276,tutor,"Okay, no worries, no worries. We can start from here. Can you read this sentence?",00:35:47
+lndosrq,277,student,"Which one? Oh, before simplify fractions, we need to understand equivalent fractions. Equivalent fractions have the same value or are equal.",00:35:55
+lndosrq,278,tutor,"Yes, equivalent fraction means, uh, here we have 1/2, so we are going to find what is the another fraction that equal to 1/2. The other fraction equal to 1/2. Okay, can you read this sentence?",00:36:06
+lndosrq,279,student,"Oh, um, we can use fraction rules to find equivalent fractions.",00:36:28
+lndosrq,280,tutor,"Yes, this is the fraction wall. Do you know how it works?",00:36:34
+lndosrq,281,student,"I did learn it at school, but That was like a year ago, so I don't think I can remember.",00:36:41
+lndosrq,282,tutor,"Okay, no worries. Here, can you find the, uh, shape— shapes here? So we need to find equivalent shapes bottom of this, uh, this board, like this one. Can you see that this one is equal? Did you see that? Equal. Can you find another equal here? Another one? Yes, that equal to that shape. Start from here and end from here. [unclear] Same size, right? Is it same size? Oh no, it's not the same size. Yeah, I know, I know, I know. Is it [unclear]",00:36:51
+lndosrq,283,tutor,Is it this?,00:37:40
+lndosrq,284,student,"You need to find this way, like, okay, let me find another one. Here, can you find same size?",00:37:44
+lndosrq,285,tutor,Yeah.,00:37:55
+lndosrq,286,student,"Did you get that? Can you find another same size, uh, something here? [Speaker] Same size. I don't think I can find the same size because they're all small. This one's one bigger than the other.",00:37:56
+lndosrq,287,tutor,"Okay, can you go from here to here? Did you find that one from here to here? That is same size, right? [Speaker] Yeah. [Speaker] Uh-huh. [Speaker] Oh, so like [UNCLEAR]. [Speaker:Tutor] Okay. Like that one. Yes, this one. Like, like this one and like this one. Can you find— there is only one more. Can you find it? And like this one. [unclear] We need to end from here.",00:38:10
+lndosrq,288,student,"Oh, okay, wait, hold up, let me just fix. Okay, so we would do this one.",00:38:56
+lndosrq,289,tutor,"Start from here, end from here. Yes, okay. Can you, uh, let's try another one. Okay, can you find this one? Okay, from this side can you find another same size wall? [unclear]",00:39:03
+lndosrq,290,tutor,"Excellent, excellent. Wow. So what do you think about this wall?",00:39:32
+lndosrq,291,student,"At first it was hard because I couldn't remember, but when I did the first thing, like the same size, I know it now.",00:39:39
+lndosrq,292,tutor,"You know it, right? That is a new learning. Wow, excellent! So what do you think? Is it easy or hard now? [unclear]",00:39:48
+lndosrq,293,tutor,Is it easy or hard now?,00:40:00
+lndosrq,294,student,"It's the middle, but I think it's more easier.",00:40:03
+lndosrq,295,tutor,"Yes, that is more easier. We can learn this one in the next session, okay? What do you think about today's session? [unclear]",00:40:07
+lndosrq,296,student,"A little bit. It was easy, actually.",00:40:19
+lndosrq,297,tutor,Easy?,00:40:22
+lndosrq,298,student,"Yeah, it was like challenging but also easy, like a combo.",00:40:23
+lndosrq,299,tutor,Yes. Did you enjoy the session?,00:40:30
+lndosrq,300,student,"Yes, I did, actually. I enjoyed it a lot.",00:40:32
+lndosrq,301,tutor,"Yeah, wow, what a great",00:40:37
+lndosrq,302,tutor,"I'm very happy about that. Okay, Elara, I am going to end the session. After I end the session, there's a post-session questionnaire. It means you have some questions. Please fill that, and after that, there is a feedback form. Can you fill both that post-session question and feedback form?",00:40:38
+lndosrq,303,student,Hello? [unclear],00:40:59
+lndosrq,304,tutor,"Okay, I'm going to end the session. Hello? Okay, have a nice day. I think you have— you are okay. I'm going to end the session. Okay, thank you very much.",00:41:06

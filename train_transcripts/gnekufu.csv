@@ -1,0 +1,333 @@
+session_id,utterance_id,role,content,timestamp
+gnekufu,0,background,[unclear],00:00:00
+gnekufu,1,tutor,Hello.,00:00:00
+gnekufu,2,student,Hello.,00:00:02
+gnekufu,3,tutor,"Hi, [STUDENT_NAME].",00:00:03
+gnekufu,4,student,Hello.,00:00:07
+gnekufu,5,background,Good.,00:00:08
+gnekufu,6,tutor,Hi.,00:00:08
+gnekufu,7,student,Hi. How was your day?,00:00:09
+gnekufu,8,tutor,Good.,00:00:11
+gnekufu,9,student,"That's fine. All right. Okay. Are we good to start with the lesson, shall we?",00:00:12
+gnekufu,10,tutor,Mm-hmm.,00:00:18
+gnekufu,11,student,"All right, cool. So multiplying up to 3 digits using short multiplication. So if you can remember, we just tried so many stuff. We went through, like, doing by rows, and then we learned how to use these counters, like these counters, and find facts. Okay, so we ended up with this question. Where you have to fill in the blank. First of all, would you please read the question, [STUDENT_NAME]?",00:00:19
+gnekufu,12,student,Which digit is missing from the calculation?,00:00:51
+gnekufu,13,tutor,What do you think? How are you going to figure it out?,00:00:54
+gnekufu,14,student,Because... [unclear] What's the first step do you need to do? Where should we start with? [unclear],00:00:58
+gnekufu,15,student,7 times 6.,00:01:21
+gnekufu,16,tutor,"Okay. 6 times 7, we'll say. All right. Go ahead.",00:01:24
+gnekufu,17,student,7 times 6 is 42.,00:01:28
+gnekufu,18,tutor,Okay. All right. And then?,00:01:31
+gnekufu,19,student,And then 6 times something equals [unclear] 48.,00:01:36
+gnekufu,20,tutor,6 times something equals should be here.,00:01:52
+gnekufu,21,student,Sorry?,00:01:56
+gnekufu,22,tutor,Would be A. Would be what?,00:01:57
+gnekufu,23,student,8.,00:02:02
+gnekufu,24,tutor,"8. Okay, so first of all, you need to figure out— here you went with 6 times 7, that is 42. Can you remember that? Yeah, 6 times 7 is 42, right? [unclear] Okay, so here in 42, we have written down the 2. Here's the remaining 4. This is the remaining 4. So normally what we're going to do when we multiply the second number, we're going to add up this remaining to the whatever the number, the result that we are multiplying by. 6 times something and add this 4 is 4. So what should it be? [unclear]",00:02:03
+gnekufu,25,tutor,"Yeah, okay, I'll explain from the very beginning, [STUDENT_NAME]. Maybe we'll go for something very simple. Okay, I want you to do, uh, we'll go say 24 times 2. All right. [unclear] Okay, so here, first of all, we are going with 2 times 4, right?",00:02:46
+gnekufu,26,student,"2 times 4, which equals 8.",00:03:19
+gnekufu,27,tutor,"8. Exactly, that's 8. But what happened here? We had an answer. We had an answer where we have 2 digits. So if we continue this, we can just go to the next column. 2 times 2 is 4. [unclear] Okay, look at this now. Now I want you to explain this one to me. 28 times 2. Now can you do this one? Can you explain me? Can you help me out with this one? What about 2 times 8?",00:03:22
+gnekufu,28,student,Times 8 equals 16.,00:04:00
+gnekufu,29,tutor,"Okay, 16. What about the one? Should I write it here? [unclear]",00:04:04
+gnekufu,30,student,Under the second column.,00:04:09
+gnekufu,31,tutor,"Oh, all right. Okay, I'll note down. We have a remaining one. Okay. And then I'll move up to the next column.",00:04:11
+gnekufu,32,student,"2 times 20, which is 40.",00:04:17
+gnekufu,33,tutor,"Okay, and what happens next?",00:04:20
+gnekufu,34,student,"You add the 4 and the 1, which equals 50.",00:04:24
+gnekufu,35,tutor,"Okay, so I think I should write 50, like 56. Is it clear? Is it right?",00:04:28
+gnekufu,36,student,Mm-hmm.,00:04:35
+gnekufu,37,tutor,"Okay, so I have added this one. I'm cutting this off. Alright?",00:04:36
+gnekufu,38,tutor,Mm-hmm.,00:04:41
+gnekufu,39,student,"Okay. Now the exact same thing happened here. 6 times 7 is 42. You have written 2 here. And 6 times something— here we don't know what is here. 6 times something. 6 times something. The answer, and add this 4, is 4. See?",00:04:42
+gnekufu,40,tutor,"Oh, that would have been a 0 then.",00:05:08
+gnekufu,41,student,Yeah. [unclear] Exactly. So now you need to figure out which number in 6 times table would give a 0 in the end.,00:05:11
+gnekufu,42,tutor,"Would give a 0, and it's 6 times 5.",00:05:25
+gnekufu,43,student,"6 times 5. Okay, we can try that. All right, go ahead. [STUDENT_NAME], 6 times 5 is what?",00:05:30
+gnekufu,44,student,6 times 5 is 30.,00:05:37
+gnekufu,45,tutor,"Okay, and then we have our remaining 4, we add it. How much do we have now?",00:05:40
+gnekufu,46,student,[unclear],00:05:48
+gnekufu,47,tutor,"6 times 5 is 30, that's correct. And then we cut this off and we put a 4 here. So it is 34. We have put 4, and how many remaining now? [unclear]",00:05:49
+gnekufu,48,tutor,I think it's correct. Is it? See? Is it? What do you think? Can you do the next column and check whether it's correct?,00:06:06
+gnekufu,49,student,"6 times 3 is not— no, 6 times 3 is 18. [unclear] 18, and we have this remaining 3. Are you all right, [STUDENT_NAME]?",00:06:17
+gnekufu,50,student,Mm-hmm.,00:06:44
+gnekufu,51,tutor,"Okay, again, so since you figure out somewhat, I will just let you do this on your own. Can you do that? times 6. Okay, can you go ahead and fill in the blanks? I mean, find the answer here while explaining. So",00:06:46
+gnekufu,52,student,6 times 7 equals 42. 2 here and the 4 here.,00:07:11
+gnekufu,53,tutor,Okay.,00:07:23
+gnekufu,54,student,"And then 6 times 5 equals 30. Would be— we put the— 0 plus 4 is 4, and we then put the 3 here.",00:07:23
+gnekufu,55,tutor,Alright.,00:07:37
+gnekufu,56,student,Then 6 times 3— 6 times 3 is— 18.,00:07:37
+gnekufu,57,tutor,"18, that's correct.",00:07:47
+gnekufu,58,student,And 8 plus 3 would be 1 here and 1 exchanged here.,00:07:51
+gnekufu,59,tutor,Yeah.,00:07:59
+gnekufu,60,student,"And 1 plus [unclear] equals 9, so 9. 6 times 3 is 18. Okay, we had a remaining 3. That's correct too. 18 plus 3 is— [unclear]",00:08:00
+gnekufu,61,student,18 plus 3 is 21.,00:08:30
+gnekufu,62,tutor,Can you explain how you Got the 91 here. [unclear],00:08:35
+gnekufu,63,tutor,"Okay, we'll give this a try again.",00:08:44
+gnekufu,64,student,"Just this part and this part. No, it's not. Oh, I'm sorry. I just wanted to remove the 9, but it's not going away.",00:08:53
+gnekufu,65,tutor,"Can you remove the 9? Okay, there you go. Try again. You just had a miscalculation, [STUDENT_NAME]. Don't panic. Focus on the numbers, all right? [unclear] Go ahead.",00:09:07
+gnekufu,66,student,So you already know.,00:09:23
+gnekufu,67,tutor,Mm-hmm.,00:09:25
+gnekufu,68,student,6 times 7 is 42.,00:09:26
+gnekufu,69,tutor,Yes.,00:09:32
+gnekufu,70,student,We would put the— [unclear],00:09:33
+gnekufu,71,tutor,"Yeah, you can just do that part because you already know it, and I'm confident about it too.",00:09:35
+gnekufu,72,student,"It would be the 4 down there. Then 6 times 5 is 30. You put the 0 here, but 0 plus 4 is 4.",00:09:42
+gnekufu,73,tutor,Mm-hmm.,00:09:58
+gnekufu,74,student,We already have the 3 there. [unclear] 6 times 3 is 18.,00:10:00
+gnekufu,75,tutor,18. And how many remaining do we have?,00:10:10
+gnekufu,76,student,8 plus 3. 8 plus 3 is 11. But then we need to exchange.,00:10:15
+gnekufu,77,student,"Which would be 1 here and 2 here because 10 plus another 10 would be 20, but this is in thousands.",00:10:22
+gnekufu,78,tutor,There you go. Now can you check whether you are having both numbers the same?,00:10:36
+gnekufu,79,student,Mm-hmm.,00:10:42
+gnekufu,80,tutor,"So what could be the missing number here? 2, 4, 1, 1. [unclear]",00:10:43
+gnekufu,81,tutor,The missing number could be 5.,00:10:54
+gnekufu,82,student,"Yes, there you go, [STUDENT_NAME]. You can write down the answer.",00:10:56
+gnekufu,83,tutor,"Use the text tool and write down in the blank they have given. Yes, right there.",00:11:06
+gnekufu,84,tutor,"Cool, there you go. All right, are you confident in the question now? [unclear] Okay, I think this one was a little bit tricky for you, but that was awesome effort. Like, you learned something new, I guess, but you had really good effort in it. And even though I asked you to try again and again, you didn't hesitate. That was amazing. All right, we'll move to our new lesson for today. [STUDENT_NAME], do you have any question before Are you confident?",00:11:19
+gnekufu,85,student,Mm-hmm.,00:11:50
+gnekufu,86,tutor,Do you have any doubts or anything that's not clear?,00:11:52
+gnekufu,87,student,[unclear],00:11:54
+gnekufu,88,tutor,No? Okay. All right. You can ask me if you have any questions.,00:11:55
+gnekufu,89,student,Mm-hmm.,00:12:05
+gnekufu,90,tutor,Here we go. We are moving on to using known facts to find factors. So what does non-facts mean? Any idea? What is non-facts?,00:12:07
+gnekufu,91,student,I'm not sure.,00:12:20
+gnekufu,92,background,"It means like something very common that we already know. Anything like anything that we can use without doing any rough work by just using our head, mental methods. And do you know what are factors?",00:12:22
+gnekufu,93,tutor,Yeah.,00:12:38
+gnekufu,94,student,What are factors? Can you tell me?,00:12:39
+gnekufu,95,tutor,Factors are like numbers to make another number.,00:12:42
+gnekufu,96,background,"Like numbers, that's part of it, correct, but you are missing the word multiply. Like numbers that we can multiply together to get another number. Okay?",00:12:47
+gnekufu,97,tutor,Mm-hmm.,00:12:59
+gnekufu,98,background,Sure. Try this question. What does the question say? [unclear],00:13:01
+gnekufu,99,tutor,Using known factors to find factors. Write all the factors of 12.,00:13:08
+gnekufu,100,student,"Okay, do you know what are the factors of 12?",00:13:12
+gnekufu,101,tutor,Mm-hmm.,00:13:16
+gnekufu,102,student,"Go ahead, you can write down. Is that all? Yeah? Is that all? Okay, I'll help you. [unclear]",00:13:17
+gnekufu,103,tutor,"Okay, and then? [unclear]",00:13:50
+gnekufu,104,tutor,"I think that's it. All right, so here's the thing. When you write down factors, all the time it should be even numbers, okay? Unless it is times by itself factors, okay? Because 2 times which number is 12? 2 times— how many 2s goes into 12? [unclear]",00:13:55
+gnekufu,105,student,6.,00:14:32
+gnekufu,106,tutor,"6. Oh, we have 6 here as well. So 2 times 6 is 12. So those 2 are factors. 3 times which number is 12? How many 3s goes into 12?",00:14:33
+gnekufu,107,student,"Uh, 4. How many 3s go into 12? [unclear]",00:14:43
+gnekufu,108,student,4?,00:14:53
+gnekufu,109,tutor,"4. See, part of this number is here too. 3 times 4 is 12. What about 1? How many 1s go into 12?",00:14:55
+gnekufu,110,student,12?,00:15:06
+gnekufu,111,tutor,"12. So 12 is a factor of 12 as well, right? Isn't it?",00:15:07
+gnekufu,112,tutor,"Mm-hmm. Go ahead. You can write it down. [unclear] You can write it down as well. 12 is a factor of 12. So when you're writing down factors all the time, you can follow up the ascending order. Start from 1 and then goes to the higher way.",00:15:13
+gnekufu,113,student,"What, do I just write it?",00:15:42
+gnekufu,114,tutor,"Yes, go ahead please.",00:15:44
+gnekufu,115,student,Did you? [unclear],00:15:54
+gnekufu,116,tutor,"It's okay, take your time [STUDENT_NAME]. [unclear]",00:15:58
+gnekufu,117,tutor,"No, no, no, no, no, no. Do you know what is ascending order?",00:16:19
+gnekufu,118,student,"Oh, yeah.",00:16:22
+gnekufu,119,tutor,I'll help you.,00:16:24
+gnekufu,120,student,Okay.,00:16:26
+gnekufu,121,tutor,One line.,00:16:27
+gnekufu,122,student,2.,00:16:29
+gnekufu,123,tutor,And then?,00:16:30
+gnekufu,124,student,3.,00:16:32
+gnekufu,125,tutor,"1, 2. Okay. 3, 4, 6, 12.",00:16:33
+gnekufu,126,student,4 and 12.,00:16:38
+gnekufu,127,tutor,"Exactly. Here, 6 and 4 should be swapped. Yes, those are the factors of 12. 4, 1, 6 should be swapped. Next time, just take it in your head, all right? Because if you are writing in ascending order, 4 comes before 6. Alright? We can move on. [unclear]",00:16:42
+gnekufu,128,student,Write all numbers that 10 can be divided by so there is not a remainder.,00:16:59
+gnekufu,129,tutor,"Oh, alright. What does that mean?",00:17:09
+gnekufu,130,student,That means write all the numbers that can be divided that can divide 10 into— so there's like not any remaining numbers.,00:17:13
+gnekufu,131,tutor,"Yes, so you can write that down. So what's the answer when you divide 10 by 10?",00:17:28
+gnekufu,132,student,1. [unclear],00:17:38
+gnekufu,133,tutor,"Oh, okay.",00:17:39
+gnekufu,134,student,"Oh, this would be descending. 10. [unclear]",00:17:43
+gnekufu,135,student,Not 8. 5 would be 1. Then 2 would be 1. And then 1 would be 1.,00:17:52
+gnekufu,136,tutor,Can I have a thumbs up?,00:18:08
+gnekufu,137,student,Would 1 be 1?,00:18:10
+gnekufu,138,tutor,"Yes, 1 is always going to be a factor of any number and itself as well. Because every time when we multiply another number, it always has 1 times, right? 1 times 2, 1 times 3. That's how we get the first multiply. Can you understand it?",00:18:12
+gnekufu,139,student,Mm-hmm.,00:18:32
+gnekufu,140,tutor,"Okay. Now go ahead. So as we are in the follow me, your turn, Page. I will first go through the follow-me part. All right, you need to be really concerned and listen to me. If you have any questions, please raise. All right, so let's use the table to find the factors of 16. The number they have given now is 16. Okay, I think they have given me 16 counters here. Do they?",00:18:33
+gnekufu,141,student,"3, 6, 8, and double of it.",00:18:59
+gnekufu,142,tutor,"Here we have 16 counters. So I think this is the factors of 16. Okay, I need to figure out which number should come here to make a 16. 1 times 16 is 16. 2 times which number is 16? [unclear]",00:19:02
+gnekufu,143,tutor,"There you go. Good job. And here they have 3. Is 3 goes into? I think it's not in the 16 times table. That's why they have marked a cross ahead. What about 4? I think 4 is a factor of 16. I need to figure out 4 times which number is 16. How many 4s goes into 16, [STUDENT_NAME]? [unclear]",00:19:20
+gnekufu,144,student,4?,00:19:50
+gnekufu,145,student,4.,00:19:57
+gnekufu,146,tutor,"So 4 times 4 is 16. Okay, quite good. Now I can list down all the factors of 16. I'll use another color and write down here. So I'm going to use the ascending order starting from 1. 1, 2, 4, and then 8, and then lastly 16. Is it clear? [unclear] Would you like to take your turn now?",00:19:57
+gnekufu,147,student,Mm-hmm.,00:20:29
+gnekufu,148,tutor,"Go ahead, [STUDENT_NAME].",00:20:31
+gnekufu,149,student,"Now find all the factors of 20. Complete table. Factors of 20. One times— one times 20. Then two times 10. Wait, should I write 10 or just 2?",00:20:33
+gnekufu,150,tutor,2 times 10 because they have given 2.,00:20:56
+gnekufu,151,student,Then 3 times— 3 times not 12. [unclear],00:21:00
+gnekufu,152,background,What do we do if there is not a factor?,00:21:11
+gnekufu,153,tutor,Pardon?,00:21:17
+gnekufu,154,student,"If this is not a factor, what do we do?",00:21:17
+gnekufu,155,tutor,Cross it out.,00:21:21
+gnekufu,156,student,Sorry?,00:21:24
+gnekufu,157,tutor,Cross it out.,00:21:25
+gnekufu,158,student,"Yes, exactly. [unclear]",00:21:27
+gnekufu,159,tutor,"Quite good. Okay, and then the last one?",00:21:34
+gnekufu,160,student,Then 4 times— 4 is 4th factor of 20.,00:21:37
+gnekufu,161,tutor,How many [unclear] goes into 20?,00:21:46
+gnekufu,162,student,"5 4s, wouldn't it?",00:21:50
+gnekufu,163,tutor,"Yes, it is.",00:21:54
+gnekufu,164,student,You can also do 5 times. You can also do 5 times by 4. 5 times 4 is 20. That's correct. And now we can list all the factors of 20. [unclear],00:21:58
+gnekufu,165,tutor,in ascending order.,00:21:58
+gnekufu,166,student,1.,00:21:58
+gnekufu,167,tutor,1.,00:22:18
+gnekufu,168,student,2.,00:22:21
+gnekufu,169,tutor,"2. We don't have 3, we start from here. And then [UNCLEAR].",00:22:21
+gnekufu,170,student,5.,00:22:21
+gnekufu,171,tutor,5.,00:22:27
+gnekufu,172,student,"10. 10, 11, 20. [unclear]",00:22:29
+gnekufu,173,tutor,"Yeah, good job! Nice one, huh? Okay, [STUDENT_NAME], I think we can try some more questions now. So you can use the space they have given here and fill in the blanks. What's the first question say?",00:22:40
+gnekufu,174,student,"Complete the factor pairs, factor of 15.",00:22:55
+gnekufu,175,tutor,1 times 15 equals 15.,00:22:59
+gnekufu,176,student,2.,00:23:07
+gnekufu,177,tutor,"3 times something equals 15. 5. [unclear] Factors of 22. 1 times 22 would equal 22. 2 times 20— 2 times something equals 22, which would be 11. [unclear]",00:23:08
+gnekufu,178,tutor,11. Write all the factors of 25.,00:23:31
+gnekufu,179,student,"Well, we've got 25. [unclear]",00:23:48
+gnekufu,180,student,"5, then 1. This is ascending order.",00:23:56
+gnekufu,181,tutor,"Yes, so you should write it down beginning— starting from 1. Okay, we write down in the ascending order. This is a rule you just had for— okay, and 1 by 5. 5 times which number is 25? 5 times 5 equals 25.",00:24:05
+gnekufu,182,tutor,Good job. We don't have to write another separate factor to make the 25 by 5. Good job. I think you are good for the tricky question now.,00:24:23
+gnekufu,183,student,"Okay. He says that 9 has 4 factors. One's 1, 3, [unclear] 3, and 1, 3, 3, and 9.",00:24:37
+gnekufu,184,tutor,So Hockey has made a mistake. What is the mistake?,00:24:50
+gnekufu,185,student,He can't use 3 twice.,00:24:54
+gnekufu,186,tutor,"Yes, why?",00:25:01
+gnekufu,187,student,"Because 3— because he already said 3, and it wouldn't really make sense.",00:25:04
+gnekufu,188,student,"Because if you said like, not like 20 has like 10 factors, you can't just say like 1, 1, 1, 1, 1, 1, 5, and like—",00:25:10
+gnekufu,189,tutor,"Exactly. [unclear] So now what you're going to do is actually write down the factors that are actually factors of 9. How many factors does 9 have? 1, [unclear] 1, 3, 1, 3, then 9. So only 3. Can",00:25:24
+gnekufu,190,tutor,you write it down?,00:25:54
+gnekufu,191,tutor,"Sure thing. All right, do you have any questions there for [STUDENT_NAME]?",00:26:04
+gnekufu,192,student,No.,00:26:11
+gnekufu,193,tutor,Are you confident?,00:26:13
+gnekufu,194,student,Mm-hmm.,00:26:15
+gnekufu,195,tutor,"Okay, so I think you can move to the next lesson as we are confident in factors now. What do we have here? Let's see. So, solving real-life problems with remainders. I think you— we already came up with the name remainder in the previous lesson, if you can remember. So what does the remainder mean?",00:26:17
+gnekufu,196,student,"Like leftover, basically.",00:26:41
+gnekufu,197,tutor,"Yes, when you divide a number by another number, you will have a leftover, like a remaining number.",00:26:44
+gnekufu,198,tutor,"Alright, so we'll see what the student goal question said. Can you read it?",00:26:54
+gnekufu,199,student,There are 27 books. The teacher puts 5 books on each table. How many books are left over?,00:26:59
+gnekufu,200,tutor,Can I see the answer?,00:27:08
+gnekufu,201,student,"Yes, I'm waiting.",00:27:11
+gnekufu,202,tutor,"2. Can you tell me how you figured it out? Because 5 times 5 equals 25, and I already know that 5 times 5 plus 2 equals 7, and if I take away 2, it would equal 5.",00:27:14
+gnekufu,203,tutor,That's a good [UNCLEAR]. Can you do the next one?,00:27:41
+gnekufu,204,student,This one?,00:27:41
+gnekufu,205,tutor,Yes.,00:27:44
+gnekufu,206,student,Write the first 5 multiples of 6.,00:27:46
+gnekufu,207,tutor,Mm-hmm. Multiples of 6. Do you know what are multiples?,00:27:49
+gnekufu,208,student,Like a factor?,00:27:55
+gnekufu,209,tutor,"Factors are like the numbers that we use to make a multiple. Two numbers that we multiply together to make a multiple are factors. Okay, here they ask, give multiples of 6. So multiples means basically in a table, like in a times table, the next number that you are getting. Factors means the numbers that you multiply together to have another number.",00:27:58
+gnekufu,210,tutor,Okay.,00:28:29
+gnekufu,211,tutor,Give it a try.,00:28:32
+gnekufu,212,student,"Wait, so multiples is like the times table of [UNCLEAR].",00:28:38
+gnekufu,213,tutor,Like the times table of that number?,00:28:42
+gnekufu,214,student,"Yes, exactly.",00:28:44
+gnekufu,215,tutor,"So wouldn't the first one be 6, then 6, then 12, then 18, then 24, then 30?",00:28:47
+gnekufu,216,tutor,"Sure thing. It was a good start, and it was same till the end as well. So I think you are good to start from here. Let's try some more questions. What does the question say?",00:29:08
+gnekufu,217,student,Which of these division calculations have a remainder of 2?,00:29:18
+gnekufu,218,tutor,"All right, you can go ahead and circle. [unclear]",00:29:22
+gnekufu,219,student,17 divided by... 7 would be 17.27 loops. There would be a remainder of— [unclear],00:29:30
+gnekufu,220,student,"There would be a remainder of 3, so not that one.",00:29:57
+gnekufu,221,tutor,"Wouldn't that? Then 12 divided by— 12 divided by 5, which would be— so what's the remainder? [unclear]",00:30:00
+gnekufu,222,student,"Is [STUDENT_NAME]? [unclear] [Speaker] Yeah, so it would be this one.",00:30:19
+gnekufu,223,tutor,"Yeah, go ahead. [unclear] [Speaker] Oh.",00:30:38
+gnekufu,224,tutor,"That's okay, that's okay. It's all right, mistakes happen. [unclear]",00:30:45
+gnekufu,225,tutor,"Okay, okay, I got it. That's it. 2 divided by 5. So what do you think? Are there any more? Can you check the next number?",00:30:56
+gnekufu,226,student,"32 divided by 5. [Speaker]...divided by 6 would just be 6. There would be no remain. Wait, actually... No, there...",00:31:15
+gnekufu,227,tutor,How many 6s goes into 32?,00:31:15
+gnekufu,228,student,Uh... [unclear],00:31:35
+gnekufu,229,tutor,5.,00:31:40
+gnekufu,230,student,5. What is 6 times 5?,00:31:41
+gnekufu,231,student,"6 times 5 is 30. So it would be that one too, wouldn't it?",00:31:48
+gnekufu,232,tutor,"Yeah. See, they have [unclear] like which of these. So it's not just one, there could be many. Do they have any more?",00:31:56
+gnekufu,233,student,2 divided by 7 divided by 3 equals [unclear],00:32:09
+gnekufu,234,student,"I think that one would be it. 11 divided by 4 would be 4a— 4a— 10— no, 12. It wouldn't be that one. And 8—",00:32:35
+gnekufu,235,student,"/18 would be 8. Yeah, I think this one would be it too.",00:32:35
+gnekufu,236,tutor,"It is. Okay, quite amazing. Can you try the next question? [unclear] If I have 40 meters of of bunting for the school fair. What length of bunting will be left over if I cut into lengths of 6 metres? So that would just be 40 divided by 6. [unclear]",00:32:35
+gnekufu,237,tutor,"40 divided by 6 would be 6. 6 times 5 is 30, then we do that again, again, which would be 36. There would be— [unclear] We would have to do it 6 times 6, and would there be a remainder?",00:33:44
+gnekufu,238,tutor,Yes.,00:34:16
+gnekufu,239,student,The remainder would— the remainder would,00:34:17
+gnekufu,240,student,B4. [UNCLEAR],00:34:17
+gnekufu,241,tutor,"Yes, go ahead. And you need to find, like, they are asking in length, so what else should be there?",00:34:27
+gnekufu,242,student,6 times 6?,00:34:44
+gnekufu,243,tutor,"No, the length. How do we write the length? The measurements? What does the 4 mean? [unclear]",00:34:47
+gnekufu,244,tutor,"So I was just saying the measurements. So one thing like 40 meters of one thing. Meters like you have remaining 4 meters, right? To complete the answer, you should write down the meters as well. Like right here, it should be meters. Can you try this?",00:34:59
+gnekufu,245,tutor,There are 18 children to take to school football match. Each car can take 4 children. How many cars are needed? [unclear] 18 children.,00:35:23
+gnekufu,246,student,Well... 15.,00:35:37
+gnekufu,247,tutor,5? How do you get that? Can you tell me?,00:35:42
+gnekufu,248,student,I know I did. There was 20 children from [UNCLEAR]. You would need 4 cars. But then there would be 2 children left over.,00:35:47
+gnekufu,249,tutor,"Yeah, and then how many cars? How many cars do you think that we need in total to bring all the kids?",00:35:47
+gnekufu,250,student,We would need 5 cars to take all of the kids.,00:36:10
+gnekufu,251,tutor,"Yes! You are so [UNCLEAR]. Go ahead. That was really quick and amazing thinking. Good job, [STUDENT_NAME]. I think this was super perfect question because you need to think a little quite generally as well. Quite good.",00:36:14
+gnekufu,252,tutor,Try this one.,00:36:31
+gnekufu,253,student,It takes 7 minutes to make a pom-pom. How many complete pom-poms can be made in 30 minutes?,00:36:32
+gnekufu,254,tutor,Okay.,00:36:42
+gnekufu,255,student,So that's 7 times 4 equals 30— I mean 20— [unclear],00:36:43
+gnekufu,256,student,It takes 7 minutes to make a pom-pom.,00:36:58
+gnekufu,257,tutor,Mm-hmm.,00:37:00
+gnekufu,258,student,4 pom-poms.,00:37:02
+gnekufu,259,tutor,"Yeah, good job. What are pom-poms? Do you know what are pom-poms?",00:37:04
+gnekufu,260,student,"Yeah, they're like little fuzzy ball.",00:37:11
+gnekufu,261,tutor,"Okay, all right. Okay, let's try the quick question here. This one is a little tricky. [unclear]",00:37:14
+gnekufu,262,tutor,"Tara is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When it is divided by 8, the remainder is 1. What number could she be thinking of? [unclear]",00:37:21
+gnekufu,263,student,So remainder is 2 when divided by 5. So,00:37:35
+gnekufu,264,tutor,"Well, I'm pretty sure it would have like 7 in it, wouldn't it? So, so, minus 2, so. [unclear]",00:37:49
+gnekufu,265,tutor,You can figure it out. What's the first step to do?,00:38:17
+gnekufu,266,student,[unclear] I was thinking of 27.,00:38:20
+gnekufu,267,tutor,Why?,00:38:27
+gnekufu,268,student,"Because if the remainder is 20, if the remainder, if 1 divided by 5, the remainder is 2, and I was thinking like",00:38:29
+gnekufu,269,student,Maybe if you times 5.,00:38:39
+gnekufu,270,tutor,"Okay, what about this one? This one?",00:38:40
+gnekufu,271,student,"When it's divided by 8, the remainder is 1.",00:38:43
+gnekufu,272,tutor,"Okay, what about 27? How many 8s goes into 27?",00:38:47
+gnekufu,273,student,Pardon?,00:38:56
+gnekufu,274,tutor,How many 8s goes into 27? [unclear],00:38:59
+gnekufu,275,student,"3, 7. That would be 3, 8.",00:39:05
+gnekufu,276,tutor,"3, 8. So what's the number 3 times 8 is?",00:39:13
+gnekufu,277,student,3 times 8 is [unclear] 24.,00:39:17
+gnekufu,278,tutor,24. So how many remainings we will have?,00:39:29
+gnekufu,279,tutor,"24, but you were talking about 27. So I think the gap is 3, but you should only have one remainder. So what I want to do is figure out what are the possible numbers in 5 times and then 8 times, and then add the remaining remainder 2 to the 5 times and remainder 1 to the 8 times, and then you figure out which numbers are present in both sides. Can you do that?",00:39:29
+gnekufu,280,tutor,"Go ahead, [STUDENT_NAME], take your time. [unclear]",00:40:00
+gnekufu,281,student,What numbers are in the 5 and 8 times table? 40 and [UNCLEAR].,00:40:20
+gnekufu,282,tutor,You can just figure it out like this. Can I help you a little bit?,00:40:20
+gnekufu,283,student,Mm-hmm.,00:40:31
+gnekufu,284,tutor,"Okay, so it should be 2 digits number. All right, so we will study from 5 times table first. So when it is divided by 5, the remainder is going to be 2. So it should be when you have 5 times table but a remainder 2 as well. So if it is 5, there is going to be— sorry, first 2 situations where the actual number was 7. Likewise, if you keep going, if it is 10 and you add the remainder 2, it should be 12. Do you get it? [unclear]",00:40:32
+gnekufu,285,tutor,"Okay, can you keep going the 5 times table and figure out? And keep parallel with the 8 times as well.",00:41:15
+gnekufu,286,student,"Oh, 13. [unclear]",00:41:22
+gnekufu,287,tutor,"I think I can see a little pattern here. Yes, it is. [unclear]",00:41:25
+gnekufu,288,student,"Yeah, 13.",00:41:34
+gnekufu,289,tutor,Because those would both be 2. [unclear],00:41:38
+gnekufu,290,tutor,So it should be 2-digit number like got it here. So we can already cut off this. Can you keep going both sides? [unclear],00:41:55
+gnekufu,291,tutor,"What's the next number? 5, 10, what should be here?",00:42:22
+gnekufu,292,student,"5, 10, 5.",00:42:26
+gnekufu,293,tutor,What's next? 5. 5 times 1 is 5. 5 times 2 is 10. What is 5 times 3?,00:42:31
+gnekufu,294,student,5 times 3 is 15.,00:42:37
+gnekufu,295,tutor,"15, that's correct. So we're writing 15. And then we add the— sorry. Then we add the remaining 2 and find the original answer, which is 17. What about the 8? 8 times 3?",00:42:40
+gnekufu,296,student,8 times 3 is— [unclear],00:42:59
+gnekufu,297,student,24.,00:43:04
+gnekufu,298,tutor,"24. And then we add the additional one, the remainder one, and it is 25. So you can compare and see whether you have a number that could be thinking of. What number is exact same as when you divide by 5, you— that would give you a remainder of 2. But the same number, when you divide by 8, that would give you a remainder 1. You can compare and see. [unclear]",00:43:06
+gnekufu,299,tutor,"Which one of them is common in both sides, [STUDENT_NAME]?",00:43:49
+gnekufu,300,student,What number is common in both sides? 14.,00:43:53
+gnekufu,301,tutor,Can you compare so far?,00:44:01
+gnekufu,302,student,No.,00:44:04
+gnekufu,303,tutor,Do they have a 7 in here?,00:44:04
+gnekufu,304,student,No.,00:44:06
+gnekufu,305,tutor,Do they have a 12 here?,00:44:06
+gnekufu,306,student,No.,00:44:10
+gnekufu,307,tutor,Do they have a 17 here?,00:44:11
+gnekufu,308,student,No.,00:44:15
+gnekufu,309,tutor,"But I see a 17, don't you?",00:44:16
+gnekufu,310,student,I— [unclear],00:44:18
+gnekufu,311,tutor,See? Do you get this one? Or do you want me to explain you? What do you think? Are you [UNCLEAR]?,00:44:18
+gnekufu,312,student,I already understand this one.,00:44:18
+gnekufu,313,tutor,"Alright, okay. We will go through a little bit. So first of all, Tutor is thinking of a 2-digit number. Do you get that part? It should be 2-digit number. Yeah? So that's why we cut off the first one. And whatever the number is that, when you divide the number by 5, the remainder should be 2. So if this is 17 that we are taking, can you divide 17 by 5 and tell me what's the remainder? [unclear]",00:44:36
+gnekufu,314,student,2.,00:45:04
+gnekufu,315,tutor,"Yeah, so it should be a perfect match. But we have another clue. So whatever the number Tutor is thinking should contain 2. Both of these squares. And then again, when the number is divided by 8, exact same number, but when you divide by 8, the remainder should be 1. So take again 17 and think, when you divide 17 by 8, what's the remainder?",00:45:05
+gnekufu,316,student,[unclear],00:45:33
+gnekufu,317,tutor,Divide 17 by 8. By 8. [unclear],00:45:37
+gnekufu,318,tutor,How many 8s goes in 17?,00:45:45
+gnekufu,319,student,2.,00:45:55
+gnekufu,320,tutor,2.,00:45:56
+gnekufu,321,student,1 remainder 9.,00:46:00
+gnekufu,322,tutor,"Exactly, 1 remainder. So this was correct as well. So we have met up with the actual number. So Tara can be thinking of 17. Do you get that?",00:46:02
+gnekufu,323,tutor,Mm-hmm.,00:46:12
+gnekufu,324,background,"Are you clear now, or would you like to take another turn?",00:46:14
+gnekufu,325,tutor,I'm clear now.,00:46:17
+gnekufu,326,background,"Okay, good job. I think we have run out of time for today, so we will wind up here, and we'll meet next week, shall we?",00:46:19
+gnekufu,327,tutor,Mm-hmm.,00:46:26
+gnekufu,328,background,"All right, you performed really well today, [STUDENT_NAME]. I'm impressed. Keep it up and practice more at home, and you're already good with your times table. Keep it up. And see you next week. Have a good day. Bye-bye.",00:46:28
+gnekufu,329,student,Bye.,00:46:39
+gnekufu,330,tutor,"I'll be waiting for the feedback, and please do [unclear] a couple of questions too, [STUDENT_NAME]. Bye.",00:46:40
+gnekufu,331,student,Bye.,00:46:46

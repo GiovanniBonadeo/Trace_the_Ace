@@ -1,0 +1,254 @@
+session_id,utterance_id,role,content,timestamp
+bosdyjc,0,background,[unclear],00:00:00
+bosdyjc,1,tutor,"Hi, Linus.",00:00:00
+bosdyjc,2,student,Hi.,00:00:01
+bosdyjc,3,tutor,How have you done today?,00:00:02
+bosdyjc,4,student,Good.,00:00:04
+bosdyjc,5,tutor,Are you ready for today's session?,00:00:05
+bosdyjc,6,student,Yes.,00:00:09
+bosdyjc,7,tutor,"Alright, so we were talking about solving area and perimeter problems. Can you tell me, Linus, how do we find an area of a rectangle?",00:00:10
+bosdyjc,8,student,"Um, you add, um, the bit on the inside is the area, right?",00:00:23
+bosdyjc,9,background,Yeah.,00:00:31
+bosdyjc,10,student,So how do we find the area?,00:00:32
+bosdyjc,11,tutor,You find the length and width and then you add that.,00:00:36
+bosdyjc,12,student,Add or times to find the area? [unclear],00:00:42
+bosdyjc,13,tutor,"To find the area, do we have to add or times?",00:00:46
+bosdyjc,14,student,Add.,00:00:53
+bosdyjc,15,tutor,"All right, Linus. So anyways, awesome effort. When we find the area, we have to times length by width. All right? It's not adding. We do adding when we have to find the perimeter, okay? But when you find the area, we have to times length by [UNCLEAR], okay? So here I'll be doing the follow-me part, and then you can start your turn part, okay?",00:00:53
+bosdyjc,16,student,Okay.,00:00:53
+bosdyjc,17,tutor,"Calculate the area and perimeter of this compound shape, okay? Now if I look at these two shapes, this is a compound shape, but here These are two rectangles, okay? Here one rectangle, and blue color one is another rectangle. Total area. [unclear] So I know to find the area of a rectangle, I have to times length by width. All right, now here length is, uh, 5 centimeters and width is 3 centimeters. So 5 times 3, it's 15.",00:01:15
+bosdyjc,18,student,15.,00:01:50
+bosdyjc,19,tutor,15 square centimeters. So one is 15 square centimeters.,00:01:52
+bosdyjc,20,student,"And the next one, yeah, the length is 4 and the width is 7. So when I do 4 times 7, it's 28. [unclear] Now what I have to do is to add these two together. So when I add 25 and 15 and 28, it will be 43 square centimeters. Right, so, and [unclear] label the missing side length. Now I have this length, this, all right. Now this length is missing, okay. To find that, here from here to here it's 7, all right. So to find this part, what I have to do is to take away",00:01:57
+bosdyjc,21,student,3.,00:02:51
+bosdyjc,22,tutor,"Because I know from here to here it's 3. From here to here it's 3. To find this length altogether, from here to here I have 10— 7. I have to take away 3 from 7, so this length is 4 centimeters. And I have to find this from here to here. I know from here to here it's 5 because it's given here. And here to here, it's 4 because it's given here. So I'm going to add that 2 numbers. 5 4 is 9 centimeters. Now, [unclear]",00:02:51
+bosdyjc,23,tutor,"to find the perimeter, what I have to do is I have to calculate the length of the— these, uh, 2 shapes. Okay, so I'm going to start from here and add all these numbers together. 3 5 is 8. 8 4 is 12. 12 plus 4 is 16. 16 plus 7 is 23. And 23 plus 9 is 32. So the perimeter is 32 centimeters. Okay, now is this explanation clear to you, Linus?",00:03:29
+bosdyjc,24,student,"Um, yes.",00:04:07
+bosdyjc,25,tutor,"Okay, shall we start your turn? [unclear]",00:04:08
+bosdyjc,26,student,Yeah. Calculate the area and perimeter of this compound shape. Write the area inside each triangle.,00:04:10
+bosdyjc,27,tutor,Let's write the area of each rectangle first. What is the area of this rectangle?,00:04:30
+bosdyjc,28,student,Um... [unclear],00:04:38
+bosdyjc,29,student,12.,00:04:38
+bosdyjc,30,tutor,"Very well done. It's 12. 4 times 3. So we write 12 here. [unclear] Alright, so 9 times 2 is 18. Now let's calculate the full area of the compound shape. All right, so what is the area of the compound shape?",00:04:38
+bosdyjc,31,student,"Um, 30. [unclear]",00:05:25
+bosdyjc,32,tutor,"30. Very well done. So the area of the compound shape is 30. Now let's do part C, Linus.",00:05:30
+bosdyjc,33,tutor,Label the missing side lengths.,00:05:41
+bosdyjc,34,student,"Okay, so what are the missing sides here? This is [UNCLEAR].",00:05:44
+bosdyjc,35,background,"So at the bottom here it is— wait, sorry. So at the bottom here it is 3 centimeters, and at the bottom here it's 9 centimeters.",00:05:44
+bosdyjc,36,tutor,"Alright, here we have 9, here we have 3. So altogether, from here to here, what is the total length? [unclear]",00:06:04
+bosdyjc,37,student,12.,00:06:12
+bosdyjc,38,tutor,"12. Very well done. 9 3. So from here to here, the length is 12. Shall we write 12 here? 12 centimeters.",00:06:15
+bosdyjc,39,tutor,"Okay, now what is the next missing side?",00:06:32
+bosdyjc,40,student,Uh...,00:06:35
+bosdyjc,41,tutor,Can you see this side is missing?,00:06:37
+bosdyjc,42,student,Is that 3?,00:06:42
+bosdyjc,43,tutor,"Why do you say that it's 3, Linus?",00:06:43
+bosdyjc,44,student,"Oh, sorry, it's 2.",00:06:47
+bosdyjc,45,tutor,"2, very well done. So how did you know that it's 2?",00:06:50
+bosdyjc,46,student,Because the...,00:06:54
+bosdyjc,47,student,"The 3 centimeters is just a bit bigger than this one here, so it couldn't be 1, it couldn't be above 3, so it has to be 2.",00:06:57
+bosdyjc,48,tutor,"So how we calculate is— Rebecca, very well done, Linus. So from here to here, it's 2, 4. All right, can you see from here to here, it's 4? Okay, and can you see if we draw a line from here to here?",00:07:08
+bosdyjc,49,tutor,"Okay, what is the length from here to here?",00:07:27
+bosdyjc,50,student,"Um, same as here, 2 centimeters.",00:07:31
+bosdyjc,51,tutor,"2 centimeters. So if this is 2, what should be this length?",00:07:35
+bosdyjc,52,student,2.,00:07:41
+bosdyjc,53,tutor,"2, because altogether it should be 4, because it is given here. This side is 4, from here to here it's 4. So if this is 2, this should be definitely 2. So shall we write 2 here? [unclear]",00:07:42
+bosdyjc,54,tutor,"Okay, now let's do Part D.",00:08:16
+bosdyjc,55,student,"So first you need to do 4 add 3, which is 7. Wait, sorry, is it 7?",00:08:23
+bosdyjc,56,tutor,Yeah.,00:08:37
+bosdyjc,57,student,"Then you do 9 add 2. [unclear] 11. And then you do 11 add 7, which is 18. So And then you do 18 times 2. [unclear]",00:08:38
+bosdyjc,58,tutor,"How do we calculate the perimeter, Linus?",00:08:56
+bosdyjc,59,student,By adding?,00:08:59
+bosdyjc,60,tutor,"Yes, by adding the total length, right? From here to— total outside length, okay?",00:09:01
+bosdyjc,61,student,"Oh, so 4 add 3 is 7, and then 7 add 2.",00:09:10
+bosdyjc,62,student,Is 9. And then 9 add 9 is 18. 18 add 2 is 20. And then 18 add— [unclear],00:09:18
+bosdyjc,63,tutor,20. 20 add?,00:09:27
+bosdyjc,64,student,"Oh, sorry, 20 add 12.",00:09:30
+bosdyjc,65,tutor,12.,00:09:35
+bosdyjc,66,student,Is 32. And then 32 add 4 is 36.,00:09:35
+bosdyjc,67,tutor,"Why do we add 4 again, Linus? Because you started from 4, right? Oh, sorry. [unclear] 32. Very well done. So it's 32 centimeters. All right, so good working out with the slide. So let's go to our next slide. Shall we try Part A?",00:09:39
+bosdyjc,68,student,Okay.,00:10:10
+bosdyjc,69,student,So the area. [unclear],00:10:14
+bosdyjc,70,student,So we have to do 9 times 3 to get the area.,00:10:18
+bosdyjc,71,tutor,"Yes, very well done. To get the area, it has to be 9 times 3. Very well done.",00:10:25
+bosdyjc,72,student,"Um, 27.",00:10:30
+bosdyjc,73,tutor,"27. Very well done. So the area is 27 square centimeters. And now to find the perimeter, 9 3 is 11. Wait, no, 12. And then 12 9— well, 12 3— 12 3 is— 12 3— sorry— is 15. And 15 9 is 25.",00:10:34
+bosdyjc,74,student,"Uh, 15 and 9. What is it, Linus?",00:11:14
+bosdyjc,75,student,"Oh, um, 24, sorry.",00:11:18
+bosdyjc,76,tutor,"24, very well done. So the perimeter is 24 centimeters. All right, so let's go to part B.",00:11:25
+bosdyjc,77,background,"Okay, so we have to do 8 times 3 and 10 times 2.",00:11:34
+bosdyjc,78,student,"So 8 times 3 is 24, and 10 times 2 is 20. So that means it's 44. And then— [unclear]",00:11:41
+bosdyjc,79,tutor,So the area is?,00:11:58
+bosdyjc,80,student,44.,00:12:01
+bosdyjc,81,tutor,44. Very well done. That's right.,00:12:01
+bosdyjc,82,student,"So to find the perimeter, you have to do 8 add 3, which is 11. And then 11 add... [unclear] What is the length? Wait, 6?",00:12:07
+bosdyjc,83,tutor,"Yes, Linus, well done, it's 6.",00:12:24
+bosdyjc,84,student,So 11 add 6 is 17. And then 17 Add 10 is 27. 27 add 2 is 29. [unclear] 27 add 13.,00:12:27
+bosdyjc,85,tutor,29?,00:12:44
+bosdyjc,86,student,"Oh, sorry, 29 add 13.",00:12:46
+bosdyjc,87,tutor,One second. [unclear],00:12:51
+bosdyjc,88,tutor,"42. Very well done. So the perimeter is 42 centimeters. All right, so I'm just taking out once again. Okay, now let's go to Part C.",00:13:05
+bosdyjc,89,student,So first we need to find the area. So we do 3 times 4 and 9 times 3.,00:13:25
+bosdyjc,90,tutor,"Okay, so let's— shall we first separate, break down this compound shape into 2 rectangles?",00:13:34
+bosdyjc,91,tutor,"Yes, very well done. It's 7. [unclear] What are the 2 rectangles we have in this compound shape, Linus?",00:13:52
+bosdyjc,92,student,So if we break this down like this—,00:14:09
+bosdyjc,93,tutor,"Okay, so first then, can you calculate the perimeter first?",00:14:13
+bosdyjc,94,student,"Sorry, 3 times 7.",00:14:19
+bosdyjc,95,tutor,"All right. Sorry, Linus. So can you check this once again? Is it 5? [unclear]",00:14:22
+bosdyjc,96,student,"From here to here, it's 9. So this side is 3.",00:14:36
+bosdyjc,97,tutor,Oh.,00:14:41
+bosdyjc,98,student,So it should be the length of here.,00:14:41
+bosdyjc,99,tutor,You did it. [unclear] Very well done. So now count the perimeter.,00:14:48
+bosdyjc,100,student,"Oh, so we're going to do 7 3 first. So 7 3 is 10, and then 10 4 is 14. 14 6 is 20. 20 3 is 23.",00:14:53
+bosdyjc,101,tutor,And then 20 at— 23 at 9. [unclear],00:15:15
+bosdyjc,102,student,32.,00:15:29
+bosdyjc,103,tutor,"32. Very well done. So the perimeter is 32. Okay, so can you tell me, how are you going to count the area? [unclear]",00:15:33
+bosdyjc,104,tutor,"7 times 3, 4 times 6, and 3 times 9, and add them all.",00:15:54
+bosdyjc,105,student,"So why do we do 7 times 3, 4 times 6, and 3 times 9, Linus?",00:16:05
+bosdyjc,106,student,"Um, because the—",00:16:11
+bosdyjc,107,tutor,"Oh, okay, fine.",00:16:14
+bosdyjc,108,student,Can we break this down into two rectangles? Okay. [unclear],00:16:17
+bosdyjc,109,tutor,"Yeah, now can you see two rectangles in this shape? Yes, I'm sorry, this one is one rectangle and this is another rectangle. Okay, so first find the area of this rectangle.",00:16:21
+bosdyjc,110,tutor,"This one. What is the area of that rectangle, Linus?",00:16:41
+bosdyjc,111,student,The area? [unclear] 21.,00:16:49
+bosdyjc,112,tutor,"Well done, it's 21. Okay, so why did you say that it is 21?",00:16:55
+bosdyjc,113,student,Because 7 times 3 is 21.,00:17:00
+bosdyjc,114,tutor,"Okay, now can you find the area of this rectangle? 5, 6. So what is the length of this rectangle, Linus? [unclear] The length means here to here, because this is the small rectangle. Okay.",00:17:02
+bosdyjc,115,student,"Oh, 36.",00:17:23
+bosdyjc,116,tutor,And what is the width of this rectangle?,00:17:25
+bosdyjc,117,student,3.,00:17:28
+bosdyjc,118,tutor,"3. Okay. Now can you tell me the area of this rectangle? What is the area of that small rectangle, Linus? Hello, Linus, can you hear me? Hello? Okay, so what is the area of that rectangle, Linus? [unclear]",00:17:29
+bosdyjc,119,tutor,"Hello? Hello? Hello? Yes, what is the area of this rectangle, Linus? [unclear] How do we find the area of this rectangle, Linus? Can you explain me how do we find the area?",00:18:04
+bosdyjc,120,student,6 times 3 and 6 times 3 again.,00:18:22
+bosdyjc,121,tutor,"Yes, 6 times 3. Okay, so what is the...of this rectangle?",00:18:26
+bosdyjc,122,student,"Um, 24.",00:18:32
+bosdyjc,123,tutor,"Is it 24? What is 6 times 3, Linus?",00:18:36
+bosdyjc,124,student,"Oh, um... [unclear] 48.",00:18:39
+bosdyjc,125,tutor,"6 times 3. Shall we work out on 6 times table, Linus?",00:18:48
+bosdyjc,126,student,"Oh, sorry, 18.",00:18:52
+bosdyjc,127,tutor,"18. Okay, shall we write 18 here, somewhere here? [unclear]",00:18:53
+bosdyjc,128,tutor,"All right, now what is the area of this rectangle? You told me the answer.",00:19:00
+bosdyjc,129,student,21.,00:19:06
+bosdyjc,130,tutor,21. So what is the total area of the compound shape?,00:19:06
+bosdyjc,131,student,39.,00:19:14
+bosdyjc,132,tutor,"39. Very well done. Okay, so shall we write the answer here? [unclear]",00:19:17
+bosdyjc,133,tutor,"All right, so good working out once again, Linus. Can you tell me why did we break this down into two rectangles? Why did we break down this shape into two rectangles?",00:19:24
+bosdyjc,134,student,So it'd be easier.,00:19:45
+bosdyjc,135,tutor,"Yeah, to make our calculation easier. All right, so then we can find the areas of Separate rectangles. Okay, so good looking out into the slides. Let's go to the last slide of the [UNCLEAR]. Can you read the question and give it a try?",00:19:47
+bosdyjc,136,student,"Cookie has started to make a path using identical— identically sized square slabs. Calculate the perimeter and area of the path. So, path.",00:19:47
+bosdyjc,137,tutor,"So let's count the perimeter. Okay, how do you find the perimeter? So what should we know is each side is, uh, [unclear] equal. Okay, each of the side lengths are equal. The information we have is from here to here. It's 80. All right, Linus. So how many squares do we have from here to here? [unclear]",00:20:19
+bosdyjc,138,student,3.,00:20:54
+bosdyjc,139,tutor,Is it 3?,00:20:55
+bosdyjc,140,student,"Uh, 4.",00:20:59
+bosdyjc,141,tutor,4. Very well done. So we have 4 squares and the total length is 80. So what is the length of one square? [unclear],00:21:00
+bosdyjc,142,tutor,One second.,00:21:14
+bosdyjc,143,student,How are you going to find the length of one square?,00:21:16
+bosdyjc,144,tutor,80 divided by 4.,00:21:23
+bosdyjc,145,student,80 divided by 4. Very well done. So what is the answer?,00:21:25
+bosdyjc,146,tutor,20.,00:21:28
+bosdyjc,147,student,"20. So each side worth 20. Now can you tell me, how do you going to calculate the perimeter?",00:21:29
+bosdyjc,148,tutor,Um...,00:21:36
+bosdyjc,149,student,"So each side was 20 from here to here, 20 from here to here, once again 20, so and so. So how are we going to calculate the perimeter? [unclear]",00:21:40
+bosdyjc,150,tutor,Make it into a rectangle.,00:22:02
+bosdyjc,151,student,"How can we count the perimeter, Linus? So what is perimeter? [unclear]",00:22:06
+bosdyjc,152,student,The inside.,00:22:17
+bosdyjc,153,tutor,"Perimeter is the total outside length, Linus. All right, total outside length. So how do you want to count the total outside length? Now you already told me, once they are both 20 centimeters",00:22:18
+bosdyjc,154,tutor,All right.,00:22:32
+bosdyjc,155,student,"20, 20, 20, 20, 20, like so and so.",00:22:33
+bosdyjc,156,tutor,"Okay, so how are you going to count the perimeter?",00:22:37
+bosdyjc,157,student,By doing 20 times.,00:22:41
+bosdyjc,158,tutor,"All right, so 20 times. How many sides do we have? 1, 2, 3...",00:22:44
+bosdyjc,159,student,17.,00:22:51
+bosdyjc,160,tutor,"Okay, I'm sorry. So is it 17? [unclear] [unclear]",00:22:55
+bosdyjc,161,tutor,How many sides do we have?,00:23:05
+bosdyjc,162,student,16.,00:23:15
+bosdyjc,163,tutor,"16, all right. So we can do 20 times 16 to find the perimeter.",00:23:21
+bosdyjc,164,tutor,"So what is the answer, Linus?",00:23:30
+bosdyjc,165,student,[unclear],00:23:35
+bosdyjc,166,tutor,"Sure, one second. [unclear]",00:23:35
+bosdyjc,167,student,"Oh, sorry, one second. Sorry. [unclear]",00:23:55
+bosdyjc,168,tutor,It is—,00:24:11
+bosdyjc,169,student,320.,00:24:25
+bosdyjc,170,tutor,"Great, then training very well done. Okay. [unclear] All right, so now How do we count the area? How do we going to work out on the area, Linus? [unclear]",00:24:28
+bosdyjc,171,student,You do.,00:25:03
+bosdyjc,172,tutor,20 add 16.,00:25:11
+bosdyjc,173,tutor,Which is 36.,00:25:17
+bosdyjc,174,student,"20 at 16, how do you find it?",00:25:20
+bosdyjc,175,tutor,"So what is the calculation to do the area, Linus?",00:25:25
+bosdyjc,176,student,Adding.,00:25:30
+bosdyjc,177,tutor,Adding what? [unclear],00:25:33
+bosdyjc,178,student,Do we add width and the length to find area?,00:25:42
+bosdyjc,179,tutor,Pardon?,00:25:48
+bosdyjc,180,student,"Do we have to add [unclear] times [unclear] to find area? Linus, can you recall what we learned in our previous slide? How did we find area? Did we add anything to find area? How did we find the area of this one small square?...times?",00:25:50
+bosdyjc,181,student,"Times, we have to do it. Let's remember, times. [unclear] Let's consider each one as separate squares, okay? Here we have one rectangle. Here we have one rectangle.",00:26:11
+bosdyjc,182,tutor,Alright.,00:26:29
+bosdyjc,183,student,"So let's know the area of one square, okay?",00:26:31
+bosdyjc,184,tutor,Is it 20 times 16?,00:26:35
+bosdyjc,185,tutor,"From where did you get that 16? Linus, can you tell?",00:26:39
+bosdyjc,186,student,"Oh, sorry. [unclear] 20 times 7.",00:26:42
+bosdyjc,187,tutor,From where did you get that 7?,00:26:47
+bosdyjc,188,student,"Squares, 7 squares.",00:26:54
+bosdyjc,189,tutor,"Okay, so before we find the numbers of squares, we have to find the area of one single square, okay? How do you find the area of this square? Now you know what is the length and width of this square. What is the length of this square, Linus? [unclear]",00:26:56
+bosdyjc,190,student,It's the length.,00:27:18
+bosdyjc,191,tutor,Hello.,00:27:24
+bosdyjc,192,student,"From here to here, it's 80.",00:27:24
+bosdyjc,193,tutor,Hello? [unclear],00:27:30
+bosdyjc,194,student,Hello?,00:27:32
+bosdyjc,195,tutor,Hello? Hello? Can you hear me? Can you hear me? [unclear],00:27:33
+bosdyjc,196,student,"Can you hear me now, Linus?",00:28:06
+bosdyjc,197,tutor,Hello?,00:28:13
+bosdyjc,198,student,"Hello, can you hear me now?",00:28:13
+bosdyjc,199,tutor,Yeah.,00:28:16
+bosdyjc,200,student,"What is the length of this one square, Linus? From here to here, what is the length?",00:28:16
+bosdyjc,201,student,20.,00:28:27
+bosdyjc,202,tutor,"20. Very well done. So what is the width? So if it is a square, we should know the length. [unclear] What is the width, Linus, of this small square? The length is 20. What is the width?",00:28:28
+bosdyjc,203,tutor,"20. And yes, in a square we should know the length and width are same. Okay, now the length is 20 and width is 20. Now what is the area of this square? [unclear] Now what is the area of this square? Now we know length and the width, so how do we going to find the area?",00:28:50
+bosdyjc,204,student,Integral of hash.,00:29:10
+bosdyjc,205,tutor,"What do we have to do to find the area, Linus? [unclear] Do we have to add when we find the area?",00:29:19
+bosdyjc,206,student,Times.,00:29:31
+bosdyjc,207,tutor,Times. We have to do length times width. So what is the answer?,00:29:32
+bosdyjc,208,tutor,Sorry.,00:29:46
+bosdyjc,209,student,"Can you write the length and the width of this square, Linus? From here, let's write length, and from here, let's write width.",00:29:47
+bosdyjc,210,tutor,They're both 20.,00:29:55
+bosdyjc,211,student,"Yes, both 20. So then what is the area? [unclear]",00:29:57
+bosdyjc,212,tutor,"What is the calculation we have to do, Linus, when you find the area? 20 times 20. So what is the answer? 20 times 20? [unclear] Now the area of the one square is 400. Now how many squares do we have here?",00:30:03
+bosdyjc,213,student,7.,00:30:28
+bosdyjc,214,tutor,"7. So, so to find the total area, what do we have to do?",00:30:29
+bosdyjc,215,student,400 times 7.,00:30:35
+bosdyjc,216,tutor,"7. Okay, now shall we do the 400 times 7?",00:30:38
+bosdyjc,217,tutor,"Okay, one second. Give me a minute to work it out.",00:30:41
+bosdyjc,218,student,"Okay, so you can approach. Yeah, right. [unclear]",00:30:44
+bosdyjc,219,tutor,"20— 2,800.",00:30:54
+bosdyjc,220,student,"4,000, eh?",00:31:03
+bosdyjc,221,tutor,"800. All right, so very well done. Let's write our answer here. [unclear]",00:31:08
+bosdyjc,222,student,"2,800.",00:31:26
+bosdyjc,223,tutor,"All right, so once again, good working out, Linus. So before we go to our next lesson, can you tell me once again, what do we have to do to find the area of a rectangle or a square? What is the calculation we have to do? Times and [UNCLEAR]. Times. We have to times length by width. All right, so good working out throughout the lesson. So let's go to our next lesson.",00:31:27
+bosdyjc,224,tutor,"All right, solving problems involving conversions between metric measures. All right, now here we have to convert Like metric measures, which means kilograms, grams, meters, centimeters, so and so, right? And do the calculation. [unclear]",00:31:27
+bosdyjc,225,tutor,"Jack has two parcels. One parcel weighs 250 grams. The other parcel weighs 1.2 kg. Calculate the weight of the parcels altogether. What is the total weight we add? Very well done. Amazing working. So how did you get that? 1450, Linus.",00:32:15
+bosdyjc,226,student,"So if you convert 1.2 kg to grams, it's 1,200.",00:33:05
+bosdyjc,227,tutor,"Yeah, exactly. Good explanation. All right, so let's try the pre-learning question. [unclear]",00:33:12
+bosdyjc,228,tutor,"Alright, so 6.5 kilograms. Very well done, Linus. Good working out with the very first slide. So let's go to our lesson. [unclear] Shall I try this part A?",00:33:40
+bosdyjc,229,student,So Ben's sunflower measures 72 centimetres in height. Mia's sunflower is 3 times as tall. How tall is Mia's sunflower? Give your answer in metres. So 72 times 3. So that's 216. So [unclear],00:33:59
+bosdyjc,230,student,"One metre is 100 centimetres, so that's already 2 metres and 16 centimetres.",00:34:24
+bosdyjc,231,tutor,"So what is the final answer, Linus?",00:34:33
+bosdyjc,232,student,2.16 metres.,00:34:38
+bosdyjc,233,tutor,"Very well done. Again, good explanation to the question. So let's go to part B.",00:34:40
+bosdyjc,234,background,100g of cheese costs £2.40. How much does half a kilo cost? How much does half a kilogram of cheese cost?,00:34:46
+bosdyjc,235,student,So half a kilogram is 500 grams. So that would be 240 times 5. So... [unclear],00:34:54
+bosdyjc,236,student,That would be £12 exactly.,00:35:20
+bosdyjc,237,tutor,"£12. All right, so very well done once again. So let's go to the last question. [unclear] Okay. A bottle contains 1.5 liters of lemonade. Jack pours 720 milliliters into a jug. How much lemonade is left in [UNCLEAR].",00:35:26
+bosdyjc,238,student,"So 1.5 litres is 1,500 millilitres, so we're going to do 1,500 millilitres take away 720 even. That would be...",00:35:26
+bosdyjc,239,student,780 milliliters will be left.,00:36:15
+bosdyjc,240,tutor,"Yes, amazing working out once again. So you did a great job throughout this slide, Linus, and you explained your answers very well. So let's go to the last part. Can you read the question and give it a try?",00:36:17
+bosdyjc,241,background,The total mass of 2 parcels is 3.5 kg. A parcel is a 700 g [unclear] heavier than parcel B. How much does each parcel weigh? [unclear],00:36:31
+bosdyjc,242,student,It is— so first we have to do— take the mass of 2 boxes. [unclear] [unclear],00:36:55
+bosdyjc,243,tutor,"All right, Linus, so did you get any answer?",00:37:16
+bosdyjc,244,student,I haven't got to it yet.,00:37:26
+bosdyjc,245,tutor,So what is the—,00:37:31
+bosdyjc,246,student,"Uh, 2,000... [unclear]",00:37:33
+bosdyjc,247,tutor,"Yes, 2,000.",00:37:40
+bosdyjc,248,student,"2,806.",00:37:43
+bosdyjc,249,tutor,"All right, so you may sell something. [unclear]",00:37:46
+bosdyjc,250,student,"3,506.",00:38:02
+bosdyjc,251,tutor,"Alright, Linus. So anyways, awesome effort for the question, Linus. But we don't have much time to continue the session. Since we don't have, we have to wind up from here. Let's try this question on next time, alright? Goodbye.",00:38:03
+bosdyjc,252,student,Goodbye.,00:38:16

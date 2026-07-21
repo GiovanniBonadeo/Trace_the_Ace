@@ -1,0 +1,336 @@
+session_id,utterance_id,role,content,timestamp
+gdtpxbs,0,tutor,Hello?,00:00:00
+gdtpxbs,1,background,[unclear],00:00:00
+gdtpxbs,2,student,Hello?,00:00:00
+gdtpxbs,3,tutor,Can you hear me?,00:00:00
+gdtpxbs,4,student,"Hi, [STUDENT_NAME]. Can you hear me?",00:00:02
+gdtpxbs,5,tutor,Yeah.,00:00:04
+gdtpxbs,6,student,"Hi, how are you today?",00:00:05
+gdtpxbs,7,tutor,I'm okay.,00:00:07
+gdtpxbs,8,student,"Okay, so how has the week been for you?",00:00:09
+gdtpxbs,9,tutor,It's been okay.,00:00:12
+gdtpxbs,10,tutor,"Okay, so did anything interesting happen during the [UNCLEAR]?",00:00:14
+gdtpxbs,11,student,"Uh, no.",00:00:17
+gdtpxbs,12,tutor,"No? Okay, right. So are you ready to start with our lesson?",00:00:20
+gdtpxbs,13,student,"Uh, yeah.",00:00:24
+gdtpxbs,14,tutor,"Okay, great. So our first lesson for today is we are going to learn about multiplying and dividing decimals using known facts. So have you done this topic before at school?",00:00:26
+gdtpxbs,15,background,"Um, I did adding into chart. Subtracting. [unclear]",00:00:39
+gdtpxbs,16,tutor,"Yeah. Okay, but you haven't done multiplying and dividing, is it?",00:00:45
+gdtpxbs,17,student,No.,00:00:49
+gdtpxbs,18,tutor,"Okay, that's great. But you have some understanding because you have already done adding and subtracting decimals using the known fact, right?",00:00:50
+gdtpxbs,19,student,Yeah.,00:00:59
+gdtpxbs,20,tutor,"So we can use some knowledge here to work out the answers in this one as well. Okay, so shall we try the learning goal question first?",00:00:59
+gdtpxbs,21,student,"Yeah, so this is if 4 times 5 is 20, 0.4 times 5 is 0.20?",00:01:10
+gdtpxbs,22,tutor,Mm-hmm. [unclear],00:01:21
+gdtpxbs,23,student,"Or like, no wait, is it 2.0?",00:01:26
+gdtpxbs,24,tutor,No. That's great. So why do you think it's 2.0?,00:01:32
+gdtpxbs,25,tutor,2.,00:01:32
+gdtpxbs,26,student,"Because when you're like making 2-digit numbers, dividing it by 10, it would only go one place each, so the 2 would stay in the ones column and the 0 would go into the tenths column.",00:01:39
+gdtpxbs,27,tutor,"Okay, that's great. So can you write your answer there?",00:01:55
+gdtpxbs,28,student,Yeah. [unclear],00:01:58
+gdtpxbs,29,tutor,"We can write it. Okay. All right. So now we write 2.0. Do we have any value after this decimal point, [STUDENT_NAME]?",00:02:03
+gdtpxbs,30,student,"Wait, so one sec. The teacher is talking. [unclear] Sorry. All right. I'm back.",00:02:11
+gdtpxbs,31,tutor,"Okay. Right. So do we have any value after this point here, decimal point?",00:02:18
+gdtpxbs,32,background,No. So you can just change it to like a 2.,00:02:24
+gdtpxbs,33,tutor,"Exactly. Since we don't have any value, we can just leave it at 2. 2. Okay, right. So I think you have some wonderful understanding about this topic here. So here we go straight away to our You Do Slack. Okay, now we have 4 questions here. Shall we try Part A?",00:02:27
+gdtpxbs,34,student,"So it says— I says, if 3 times 6 is 18, 0.3 [unclear]",00:02:51
+gdtpxbs,35,student,0.1 times 6 equals 1?,00:02:58
+gdtpxbs,36,tutor,Mm-hmm. Would it be 1?,00:03:02
+gdtpxbs,37,student,"Oh, right. Yeah, 1 point— [unclear]",00:03:07
+gdtpxbs,38,tutor,"Okay, now can you tell me how you got this answer?",00:03:10
+gdtpxbs,39,student,"It was like the last one. You just like— because we were dividing by 10 because the 0.3 is in the tenths, you just put everything one place to the",00:03:14
+gdtpxbs,40,student,right.,00:03:14
+gdtpxbs,41,tutor,"Okay, that's wonderful. Okay, now what has happened to this 3 here in the second calculation?",00:03:27
+gdtpxbs,42,student,It's got 10 times smaller.,00:03:35
+gdtpxbs,43,tutor,"Wonderful. So if one number becomes 10 times smaller, so the answer also has to become?",00:03:39
+gdtpxbs,44,student,10 times smaller.,00:03:45
+gdtpxbs,45,tutor,10 times smaller. And that's some great work what you did here. Here we go with good working out [unclear] for you. So shall we try the next one?,00:03:46
+gdtpxbs,46,student,"Yeah. [unclear] If 24 divided by 4 is 6, 2.4 divided by 4 is 0.6.",00:03:55
+gdtpxbs,47,tutor,"Mm-hmm. It would be 0.6. Brilliant. Okay. So let's do the next one, Part C.",00:04:04
+gdtpxbs,48,student,Calculate 0.04 times [unclear] by using your known facts.,00:04:12
+gdtpxbs,49,student,So it's 4 times a equals 32. So 0.04 times a would have to be 0.32.,00:04:19
+gdtpxbs,50,tutor,0.32. And can you tell me why you made it 0.32 this time? Why can't it be 3.2?,00:04:34
+gdtpxbs,51,student,It's because the 4 has been,00:04:43
+gdtpxbs,52,student,"divided by, um, 10? No, 100?",00:04:43
+gdtpxbs,53,tutor,"100, exactly. 4 has become 100 times smaller this time. So the answer also should be the same, right? 100 times smaller. That's some great understanding what you have about this whole topic. So here we go with the last question in this. [unclear]",00:04:50
+gdtpxbs,54,student,"It says, what is 0.27 divided by 9? So...",00:05:09
+gdtpxbs,55,student,I know the answer is going to be like in the hundredths because they are like 0.27.,00:05:15
+gdtpxbs,56,tutor,[unclear] Can you create a known fact for this calculation?,00:05:25
+gdtpxbs,57,student,"It would be 27 divided by 9, which is 3.",00:05:29
+gdtpxbs,58,tutor,Which is 3.,00:05:32
+gdtpxbs,59,student,So then we know that the answer is going to be 0.03.,00:05:36
+gdtpxbs,60,tutor,"It would be 0.03. Yeah. Alright, so once again you came up with a fantastic answer for this question, and I really like the way how you work things out throughout this slide here. Are you ready to go to the next slide?",00:05:42
+gdtpxbs,61,student,"Um, yeah.",00:06:04
+gdtpxbs,62,tutor,"Okay, right. So before we move on to the next slide, can you tell me, so when we use in the known facts work out a given calculation, decimal calculation, what do we need to like be very mindful of?",00:06:06
+gdtpxbs,63,student,"We need to be mindful that like we need to know, we need to firstly need to figure out what it's been divided by, the original number has been divided by, so we know what the answer is going to be.",00:06:19
+gdtpxbs,64,tutor,"Exactly, we need to compare the two numbers and see how it has changed or how it has, as you said, divided or had become smaller or bigger, right? Okay, that's great.",00:06:30
+gdtpxbs,65,tutor,So here we go with the last slide of this lesson. Shall we read this question first?,00:06:41
+gdtpxbs,66,student,"Yeah, it says, [unclear] lives 0.4 kilometres away from school. Every day he walks to school in the morning and home again in the afternoon. How far does he walk in 5 days? So what we need to do is 0.4...times 5.",00:06:45
+gdtpxbs,67,tutor,Mm-hmm. Okay. So what does it say exactly in the question?,00:07:10
+gdtpxbs,68,student,It says he lives 0.4 kilometers away from school.,00:07:15
+gdtpxbs,69,tutor,So every day he walks?,00:07:19
+gdtpxbs,70,student,He walks to school in the morning and home again in the afternoon.,00:07:21
+gdtpxbs,71,tutor,"Alright. So he walks to school in the morning and again he walks back home in the afternoon, right? So they ask how far does he walk in 5 days. So what calculation do we need to [UNCLEAR]?",00:07:26
+gdtpxbs,72,student,0.4 divided by 5?,00:07:41
+gdtpxbs,73,tutor,Divided by?,00:07:43
+gdtpxbs,74,student,"No, 0.4 times 5.",00:07:45
+gdtpxbs,75,tutor,"Okay, so that's a very nice answer there. But does he only walk 0.4 kilometers each day? How far does he walk in one day?",00:07:49
+gdtpxbs,76,background,"He walks— if he does it twice, that means he's adding, so he'd do 0.8.",00:08:01
+gdtpxbs,77,tutor,Exactly. So for one day he walks 0.8 kilometres. So what calculation do we need to [unclear] how far he walks to school in 5 days?,00:08:08
+gdtpxbs,78,student,So we need to do 0.8 times by 5.,00:08:21
+gdtpxbs,79,tutor,Brilliant. And then how can you use the unknown facts to help you here?,00:08:26
+gdtpxbs,80,background,"Well, we know 0.8 times 5",00:08:31
+gdtpxbs,81,student,is 40. So it would just be 10 times smaller. So it would— that would be 4.0 or just 4.,00:08:31
+gdtpxbs,82,tutor,Just 4. That's a great answer. So how would we write our answer? How far does he walk in 5 days?,00:08:45
+gdtpxbs,83,student,"Uh, 4 kilometres.",00:08:52
+gdtpxbs,84,tutor,"4 kilometres. That's great. And you remembered to use the unit of measurement given? That is what I was waiting. Okay, so here you get a big tick for the correct answer. That was some wonderful work what you did there. And here we go with awesome effort sticker for the effort what you put in this session. All right, [STUDENT_NAME], can you just take me through this session once again and explain how we got this answer?",00:08:55
+gdtpxbs,85,student,"So it explains that he walks each day to school in the morning and home again. So we figured out that we need to do— because it— Both roots are 0.4. We need to add— we [unclear] we need to do 0.4 and 0.4, which is 0.8. And then it asks how many he does in 5 days. So once we've got 0.8, we knew that we need— we knew that the factor per is 0.8— no, 8 times 5, which is 40. So we knew— we— and we knew because of the 0.8, we have to times it— divide it by 10. So we knew it was 4 kilometers.",00:09:19
+gdtpxbs,86,tutor,"Okay, there you go with some really good explanation there, [STUDENT_NAME]. And here you go with great explanation sticker for you. All right, so can you tell me why did you decide to use the calculation 0.8 times 5? Why didn't you use 0.4 times 5?",00:10:04
+gdtpxbs,87,student,Because we didn't use 0.4 times 5 because it says,00:10:20
+gdtpxbs,88,student,"He does it in the [unclear] and in the afternoon, which means he would do it twice a day. So we times 4 by— we added 4 and 0.4 and 0.4 and we got 8.",00:10:24
+gdtpxbs,89,tutor,"Okay, great. All right, so we have come to the end of this lesson, so we can start a new lesson now. But before that, can you tell me, so when you work out the questions like this, especially with the worded questions. What are the most important things we need to remember?",00:10:38
+gdtpxbs,90,student,I think the most important things for us to remember is just to like check what the question asks and to make sure we're doing the right like calculation.,00:10:57
+gdtpxbs,91,tutor,"Exactly, because it happens especially with the worded questions, right? Rather than the number numerical questions like this. So we know what we need to do here, but when it comes to worded questions We have to read and understand the questions to know what we have to do, right? Okay, so are you ready to start another lesson then?",00:11:07
+gdtpxbs,92,student,Yeah.,00:11:28
+gdtpxbs,93,tutor,"Okay, so how do you feel about this lesson?",00:11:28
+gdtpxbs,94,student,I feel pretty confident and I think it will help me in the future.,00:11:32
+gdtpxbs,95,tutor,"Okay, that's great. Okay, so you did some brilliant work here, especially you did everything by yourself. That was really nice to see that, and also I really love your expression. Pronunciation and everything. All right, [STUDENT_NAME], can you just give me like a few seconds until I upload the next lesson for you?",00:11:37
+gdtpxbs,96,student,Yeah.,00:11:56
+gdtpxbs,97,tutor,Okay. All right. [unclear] [unclear],00:11:56
+gdtpxbs,98,tutor,"Okay, let me mark this as completed. Okay, so you can do that behind the screen. All right, we are going to learn about finding common factors of two numbers. All right, so what are factors?",00:12:13
+gdtpxbs,99,student,"So factors are, um, the things you times— numbers you times to get to that number.",00:12:29
+gdtpxbs,100,tutor,"Exactly. Okay, so how many times— how many factors does 2 have?",00:12:35
+gdtpxbs,101,student,"So there's 1 times 2, so that's 1. There's... [unclear]",00:12:41
+gdtpxbs,102,tutor,The 2 has only?,00:12:47
+gdtpxbs,103,student,1.,00:12:50
+gdtpxbs,104,tutor,How many factors? Is it 1 factor?,00:12:51
+gdtpxbs,105,student,1 factor.,00:12:52
+gdtpxbs,106,tutor,"1 factor, yeah, but how many factors?",00:12:53
+gdtpxbs,107,student,2.,00:12:54
+gdtpxbs,108,tutor,"Yes, 2 factors. 1 and 2, right?",00:12:55
+gdtpxbs,109,student,1 and itself.,00:12:58
+gdtpxbs,110,tutor,"Okay, great. So shall we try this learning goal question?",00:12:59
+gdtpxbs,111,student,"Yeah. It says, list the common factors of 12 and 15.",00:13:03
+gdtpxbs,112,student,"So we firstly need to find the actual factors, and then we need to find the ones that both the numbers have. So I'm going to start with 12, so I'm just going to put it here.",00:13:08
+gdtpxbs,113,tutor,"If you want, you can just write here. [unclear]",00:13:20
+gdtpxbs,114,student,"So it's 1 and 12, and then there's 3 and 4. And what else? [unclear]",00:13:22
+gdtpxbs,115,tutor,What's the next number?,00:13:35
+gdtpxbs,116,student,The— no.,00:13:39
+gdtpxbs,117,tutor,"You can't get 5. Well, you can get 6 because you could do 1— you could do 6 times 2.",00:13:40
+gdtpxbs,118,background,"6 times 2, great.",00:13:48
+gdtpxbs,119,student,What else? [unclear],00:13:54
+gdtpxbs,120,student,I think that's it.,00:13:59
+gdtpxbs,121,tutor,"That's it, right? So you can also find it like",00:14:06
+gdtpxbs,122,background,"1 times 12, then 2 times 6, 3 times 4, then again 6 times 2. When you know again, when you come back to 6, we know that we don't have any other factors beyond that. Okay, right. So we'll try the next one then. What are we doing next?",00:14:09
+gdtpxbs,123,student,So next is a 15. So 1 and 15.,00:14:25
+gdtpxbs,124,student,3 and 5. [unclear],00:14:30
+gdtpxbs,125,tutor,"Okay, 3 times 5, we know 4 won't go. Then again, 5 times?",00:14:34
+gdtpxbs,126,student,5 times 3 and then 1.,00:14:47
+gdtpxbs,127,tutor,"When you come back to 5 times 3, what do we know now?",00:14:49
+gdtpxbs,128,student,So that there's no more?,00:14:52
+gdtpxbs,129,tutor,"Exactly, because when you come 3 times 5, And again, when you come to 5, you know 5 times 3, that means we don't have anything more than that. Alright? Is it clear for you?",00:14:54
+gdtpxbs,130,student,Yes. [unclear],00:15:04
+gdtpxbs,131,tutor,So the common factors of 12 and 15 are 1.,00:15:04
+gdtpxbs,132,student,1 and?,00:15:10
+gdtpxbs,133,tutor,1 and 3.,00:15:12
+gdtpxbs,134,student,1 and 3. That's it.,00:15:15
+gdtpxbs,135,tutor,And how do we know that 2 is not a factor of 15?,00:15:18
+gdtpxbs,136,student,"Because you can't times anything by anything to get 15. Like, by like, you can't times 2 by anything to get 15.",00:15:23
+gdtpxbs,137,tutor,Exactly. And also we can look at it like,00:15:33
+gdtpxbs,138,background,"15 is an odd number, so we know 2 is not a factor of 15, right? Because 12 is an even number, then 2 is a factor of any even number.",00:15:37
+gdtpxbs,139,tutor,"So we can remember that, doesn't it? It could be helpful for you as well. So you did really great job work here. And we are going to skip the first few slides and we are straightaway going to the [unclear] slides once again. We have two questions.",00:15:49
+gdtpxbs,140,student,"Oh, right. So we only just did this, which— right. Can we go back just to see?",00:16:06
+gdtpxbs,141,tutor,"Yes, I think we have the same question once again, right?",00:16:14
+gdtpxbs,142,background,"So that would be 3, 4.",00:16:17
+gdtpxbs,143,tutor,"Okay, 3, 4, 6, 2. Okay. 3, 4, 6, 2. And then 15s. 1, 15, 3, and 5. And then the common are 1, 5... No, wait, what am I doing? So that. [unclear]",00:16:20
+gdtpxbs,144,student,So now we're going to do the common factors of 18 and 14. So we need to find the common factors first of 18.,00:16:59
+gdtpxbs,145,student,So the factors of 18 is 1 and 18. And then what else? You could do 2 times 8.,00:17:13
+gdtpxbs,146,tutor,"2 times, yes. 2 times what?",00:17:24
+gdtpxbs,147,student,"What, 2 times 9?",00:17:27
+gdtpxbs,148,tutor,2 times 9. Good. And what is the next time after 2? What is the next number we have?,00:17:28
+gdtpxbs,149,student,"Oh, 3 and 6.",00:17:34
+gdtpxbs,150,tutor,3 times?,00:17:36
+gdtpxbs,151,student,6.,00:17:38
+gdtpxbs,152,student,"6, 8.",00:17:39
+gdtpxbs,153,background,"And then factors of 14. So 1, 14, what else?",00:17:40
+gdtpxbs,154,background,"And when you look at 14, what kind of [UNCLEAR]?",00:17:50
+gdtpxbs,155,background,Yes.,00:17:53
+gdtpxbs,156,student,7 times.,00:17:54
+gdtpxbs,157,background,"We know 2 is a factor of 14 because this is an even number, right? Okay, so 1, 14, 7, and 2. So what are the common factors of 18 and 14?",00:17:54
+gdtpxbs,158,student,So there's 1 and 2.,00:18:05
+gdtpxbs,159,tutor,"1 and 2. All right, so you did brilliant once again, and here we go with another [unclear] for you. So I already got the last slide of this lesson as well.",00:18:09
+gdtpxbs,160,student,Yay.,00:18:23
+gdtpxbs,161,tutor,"Okay, we are going pretty much fast today, right? Okay, go for it.",00:18:25
+gdtpxbs,162,background,"It says, ""Hulk is thinking of 2 numbers. Both numbers are less than 10.""",00:18:29
+gdtpxbs,163,student,They have common factors of 1 and 3. Which 2 numbers could he be thinking of?,00:18:35
+gdtpxbs,164,background,"Well, it could be any numbers, but they are less than 10 because all factors have 1, but it's less than 10. [unclear] It could be any number that must be less than 10. And also they have common factors. What are the common factors they have?",00:18:41
+gdtpxbs,165,student,1 and 3. So I think—,00:19:06
+gdtpxbs,166,tutor,"No, no, no. We know about 1. What is it?",00:19:08
+gdtpxbs,167,student,"So 1 is like in everything because you can times the numbers by 1, all numbers by 1 to get itself. But another thing is because it's 3, I know it's not 4 because the 4s because",00:19:11
+gdtpxbs,168,student,"And the 4s, well, has a 4 in it and that's bigger than 3, so no, it's not the 4s. So I might just write that down, like it's not the 4s. I'm just going to put like 4 and a cross so I don't forget. [unclear] It's not 4. Okay, so, well, it's not— well, it could be 1 because 1",00:19:28
+gdtpxbs,169,student,"No, because that's a new— well, no, it isn't. [unclear]",00:19:53
+gdtpxbs,170,tutor,So what are the numbers we have less than 10?,00:20:00
+gdtpxbs,171,student,"So there's 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:20:03
+gdtpxbs,172,tutor,"Okay, less than 10, 9. Okay, up to 9. Yes, up to 9. Okay, then which numbers out of those numbers, which numbers have the factors 1 and 3?",00:20:12
+gdtpxbs,173,student,"Oh wait, well the 6s have a 3 in it and a 1.",00:20:24
+gdtpxbs,174,tutor,"Okay, all right, great.",00:20:29
+gdtpxbs,175,student,So it could be the 6s.,00:20:32
+gdtpxbs,176,tutor,"You can just write it down, see. Yes, what else? Which other number shares the common factors of 1 and 3?",00:20:35
+gdtpxbs,177,background,And then like [unclear] 3?,00:20:43
+gdtpxbs,178,student,I don't know what it is. [unclear] So it's probably just 6 and 4 because it would be factor.,00:20:47
+gdtpxbs,179,tutor,"I know, but there's one more. What is the other one?",00:20:54
+gdtpxbs,180,student,Um...,00:20:58
+gdtpxbs,181,tutor,Right.,00:21:01
+gdtpxbs,182,background,9.,00:21:02
+gdtpxbs,183,tutor,"Exactly, 9. Because we know 1 is factor of any number, so you can think of any number. But 3 is not factor of all the numbers which are less than 10. It is only [unclear] of 3, 6, and 9, right? So you can write any of these answers and you came up with 6 and 3. So here we go with a big tick for the correct answer. And good working out once again, [STUDENT_NAME]. You did really amazing in this question as well. I love the way you kept thinking about this question here. So now can you take me through this question and tell me how you ended up with 6 and 3?",00:21:04
+gdtpxbs,184,student,"So we— so it says that it's less than 10, both of them. So we knew it was going to be up to 9 because, well— and then so— and this is coming back to the 1 and 3. So we knew it wasn't 4 because 4 is bigger than 3. So— and so we just went thinking about what— and we knew that all numbers have 1, but I also knew it wasn't going to be 1 because, well, there's only 1.",00:21:43
+gdtpxbs,185,student,"So I was thinking and I thought of 6 because it's— you can do 3 times 2. And then for 3, you can do 3 times 1. And then we also thought of another one of 9, which is 3 times 3.",00:22:10
+gdtpxbs,186,tutor,"Exactly. Okay, that's a great explanation there. And okay, what if the question asks, uh, the same thing? Okay, uh, both numbers are less than 10, they have common factors of 1 and 4. So what would those be, numbers, if they have the common factors of 1 and 4?",00:22:25
+gdtpxbs,187,student,"Okay, if they had 1 and 4, so it would be— it would be 4, and it could also be— what else would it be? [unclear] Oh, it would also be 2 because you can do 2 times 2.",00:22:43
+gdtpxbs,188,tutor,"Uh-huh. Can it be 2, 1, and 4?",00:23:02
+gdtpxbs,189,tutor,"Oh no, sorry. So 4. 4 is correct because 1 times 4 is 4. So 4 is a factor of 4. Which other number which is less than 10 has 4 as a factor? There is one more. [unclear]",00:23:06
+gdtpxbs,190,student,Um...,00:23:21
+gdtpxbs,191,tutor,Can it be 5?,00:23:35
+gdtpxbs,192,student,"No, it can't be 5.",00:23:37
+gdtpxbs,193,tutor,6? [unclear],00:23:41
+gdtpxbs,194,background,Can you multiply 4 by another number?,00:23:45
+gdtpxbs,195,student,No.,00:23:50
+gdtpxbs,196,background,"No, that means 4 is not a factor of 6.",00:23:51
+gdtpxbs,197,tutor,"Oh, is i?",00:23:53
+gdtpxbs,198,background,It's 6.,00:23:56
+gdtpxbs,199,tutor,"I was thinking i, but I was thinking also...",00:23:57
+gdtpxbs,200,student,But I think it is 8 because it's 1 and you can get 2 times 4 to get 8.,00:24:01
+gdtpxbs,201,tutor,"Okay, that's really nice, [STUDENT_NAME]. So you did wonderful here, and I really like the way how you kept thinking about this question as well in different ways. So excellent focus throughout this lesson here. And here we have come to the end of this lesson as well, so we can start another lesson.",00:24:09
+gdtpxbs,202,tutor,"So before we move on to the next lesson, so if you get a question like this, can you do it very confidently?",00:24:27
+gdtpxbs,203,student,"Yeah, if you get a question like this, if you think about all the factors, you can do it.",00:24:35
+gdtpxbs,204,tutor,"Okay, so what do you think are the common mistakes we might make when we work out with questions like this?",00:24:41
+gdtpxbs,205,background,"People might not think about like all the factors, so they might just think, oh no, you can't because You have to do that. You can't be like— and also like another thing you can get wrong is not just thinking like— [unclear]",00:24:48
+gdtpxbs,206,tutor,"Also, yes, we would know the other, but still we might not think, right? That far away. Yes, that's correct. Okay, right there. So can you just give me like few seconds once again until I choose the next lesson for you, [STUDENT_NAME]?",00:25:05
+gdtpxbs,207,student,Yeah.,00:25:18
+gdtpxbs,208,tutor,"Okay, thank you so much. Just give me some time, okay?",00:25:19
+gdtpxbs,209,tutor,"Right, so we completed these and we have much time. [unclear] Okay, so this is our next lesson. Can you see the slide?",00:25:25
+gdtpxbs,210,student,"Yeah, multiplying using short multiplication.",00:25:48
+gdtpxbs,211,tutor,"Okay, right. I'm sure that you have done this, right? You have done this kind of [UNCLEAR].",00:25:52
+gdtpxbs,212,student,Yes.,00:25:56
+gdtpxbs,213,tutor,Okay. So shall we try the learning goal question then?,00:25:56
+gdtpxbs,214,student,"Yes. So firstly, we need to do 4 times 4, which is 16.",00:26:01
+gdtpxbs,215,tutor,Okay.,00:26:09
+gdtpxbs,216,student,"And 3 times 4, which is 12, add the 1, 13.",00:26:12
+gdtpxbs,217,tutor,Great.,00:26:21
+gdtpxbs,218,student,"And then 3 times 4 again is 12, add the 1 is 13. And then 2 times 4 is— I add the 1, 9.",00:26:21
+gdtpxbs,219,tutor,"Alright, that's great. So the answer is?",00:26:35
+gdtpxbs,220,student,"930— no, what? 9— [unclear] 9,336.",00:26:38
+gdtpxbs,221,tutor,"It's 9,336. There, you came with a billion [unclear] for this question. And here once again, we are skipping all these questions, all the slides, the slides, because you have a great understanding. We are going to the You Do slide. We have 3 questions and you can use this to work out your answers. So when we write, you can write each digit in each small scraps so we know what we need to do.",00:26:46
+gdtpxbs,222,student,"So I'm setting out the first question and let me just quickly draw in some lines. [unclear] Okay, alright, so 3 times 3 is...so 6 times 3 is 18. So 2 times 3 is 6, add the 1, 7. [unclear]",00:27:18
+gdtpxbs,223,tutor,So answer is 789.,00:27:52
+gdtpxbs,224,student,"It would be 789. Great, okay. Let's try the next question then.",00:27:58
+gdtpxbs,225,tutor,"So the next one, let me just set it out. [unclear] Do you want me to draw the lines and give you?",00:28:04
+gdtpxbs,226,student,"No, I'll be fine.",00:28:26
+gdtpxbs,227,tutor,"Okay. OK, let me just make sure that's— yeah, OK, that's right. Right, so 5 times 4 is 20, so [unclear] 20. 2 times 4 is 8, add the 2 is 10.",00:28:29
+gdtpxbs,228,tutor,"OK, so where do we need to start calculating first? [unclear] I didn't mean to do that. Sorry.",00:28:50
+gdtpxbs,229,tutor,"Okay, no, no, it's okay. You don't need to say sorry, [STUDENT_NAME]. That's really fine. So we started with— let's start with the ones column once again. So 5 times 4 is?",00:29:00
+gdtpxbs,230,student,"20. And then so 1 times 4 is 4, add the 2 is 6.",00:29:11
+gdtpxbs,231,tutor,Add the 2 is 6. Great. And then 2 times 4 is 8. And then 2 times 4 again is 8.,00:29:19
+gdtpxbs,232,tutor,It's again. What's the answer?,00:29:32
+gdtpxbs,233,student,"So 8,860.",00:29:35
+gdtpxbs,234,tutor,"8,860. All right, shall we write it? Okay, so that's a great answer. And also you can— okay, there you go. Put the comma to separate the thousands group. That's really nice. Okay, shall we try the last one?",00:29:38
+gdtpxbs,235,student,Yes. Now I might have to rub out one of these because I don't think there's enough space.,00:29:52
+gdtpxbs,236,tutor,You can use this side or you can just erase the whole thing.,00:29:58
+gdtpxbs,237,student,"I see. Right, let me write it. Perhaps I should move that one place because that won't be enough. [unclear] Okay, I'm going to have to rub that out.",00:30:03
+gdtpxbs,238,student,"Because I don't know why, but whenever I place something, it just doesn't let me click on it again. [unclear]",00:30:13
+gdtpxbs,239,tutor,Not long left anyway.,00:30:25
+gdtpxbs,240,student,"3,143 times pi. Right, I might— I'll put that to the— oh, I didn't even want to move it out!",00:30:32
+gdtpxbs,241,tutor,"That's fine, that's really okay, [STUDENT_NAME]. [unclear]",00:30:42
+gdtpxbs,242,student,"Okay, let me just make sure that's right. Yeah, okay. Let me just put the column. Okay, so 3 times 3 is 9.",00:30:47
+gdtpxbs,243,student,"4 times 3 is 12. [unclear] 1 times 3 is 3, add the 1, 4. And then 3 times 3 is 9.",00:31:10
+gdtpxbs,244,tutor,"Once again it's 9. Okay, so what is the answer?",00:31:27
+gdtpxbs,245,student,"9,429.",00:31:29
+gdtpxbs,246,tutor,"Alright, so it's 9,429. I'm really impressed with the focus, with your focus in this question. So you did great and you showed me each and every step one by one. So when we follow each and every step, there is like very less likely to make mistakes, right? So when we work out, when we do short multiplication, what do you think is the most important part?",00:31:37
+gdtpxbs,247,student,So I think the most important part is to set it out right and to make sure you do the timesing right and don't forget the column.,00:32:04
+gdtpxbs,248,tutor,"Exactly, and most importantly, what I saw from you is that is really something really nice. We have to write each and every digit in the correct column, right? If you miss a line and write it, because we might [unclear] do the calculation in a wrong way. Okay, so you did great in this one. And here we are going for the last slide, which is go for the [UNCLEAR].",00:32:18
+gdtpxbs,249,student,"Yeah, so we have to find the missing digits. So hopefully you gave us the answers. We just need to find out what we times. So I know that we try— so as the second digit is, and the answer is 6, I know that 3 times 2 is 6. 3 times 2 is 6.",00:32:41
+gdtpxbs,250,student,"And also I know that it is that because— oh, why have I put a 2? I meant to put— right, so, and also I know the first column is right because 3 times 3 is 9, so we don't need to like worry about exchanging.",00:33:02
+gdtpxbs,251,tutor,"Exactly, that's great, yes. You have started the ones column, yes.",00:33:21
+gdtpxbs,252,student,"As there's only 3 columns, but there's a 2 here and then there's a 1, I know that 3 times 4 is 12.",00:33:26
+gdtpxbs,253,tutor,"3 times 4 is 12. So that's some outstanding performance what you showed me here. That's really great, and you made the answer— you got the answer very quickly as well. So here we go once again with a big tick and also excellent [unclear] sticker for you. So what do you think about this question?",00:33:35
+gdtpxbs,254,student,"I think it's really like— I normally find these hard because normally they don't give you the answers and like it's like, okay, so you do that and that, but like with this one, it only like was missing some of the number, like the [UNCLEAR], like some of the like digits at the top. It was easier.",00:33:55
+gdtpxbs,255,tutor,"Exactly. And why it is very important to start checking with the 3, the first column, ones column.",00:34:16
+gdtpxbs,256,student,So what do you say? Sorry.,00:34:24
+gdtpxbs,257,tutor,"Like, why it is important for us rather than starting with, we know 6, so if we know it's 3 times 2 is 6, but before doing that, why is it very important for us to check if 3 times 3 is 9?",00:34:27
+gdtpxbs,258,background,To— it's important just to make sure that like there's no exchanging from second number,00:34:39
+gdtpxbs,259,student,"So to make sure, because what if there was a changing, because the original number was like, the original number instead of being a 6 was a 5. Like, we need to check for a changing to make sure we are right.",00:34:44
+gdtpxbs,260,tutor,"Okay, that's really nice. Okay, [STUDENT_NAME], do you know what I really loved about how this thing is? I really like the way how you're explaining your answers to me. Because it's really important for me, because then I know what do you really feel about each and every topic and each and every question, right? So that's really nice. So keep it up, your good work, [STUDENT_NAME]. So it could really help you with all your work in your future. Okay, so we have come to the end of this lesson as well. So are you ready to start another lesson?",00:35:00
+gdtpxbs,261,student,"Uh, yes.",00:35:30
+gdtpxbs,262,tutor,"All right, so let me mark this one also as complete, but, um,",00:35:31
+gdtpxbs,263,tutor,"Okay, here we go. Let me go to the— okay, we already did this, so let me choose the lesson manually. Okay, so just give me a little bit of time. Once again, we have [unclear] new things. [unclear]",00:35:37
+gdtpxbs,264,tutor,"All right, all right. So we are going to learn about dividing using short division. Now, earlier we did multiplication. [unclear] multiplication. Now this time we are going to use dividing, short division with exchange. So can you try this learning goal question?",00:36:10
+gdtpxbs,265,student,"So what I do when we do the changing, in class we've been taught from into the end of the year we have to do like the point system. So do I do the point or do I just do a minder? What do you want me to do?",00:36:40
+gdtpxbs,266,tutor,"It's okay, just do it the way you like.",00:36:54
+gdtpxbs,267,student,"Okay, I'll just do the one I think is easier. So 6 into 1, so that's 0, so put the 1 next to the 2. Oh, it's on top of the 2. [unclear] So that's 12. So 6 into 12 is 2.",00:36:56
+gdtpxbs,268,tutor,Alright.,00:37:17
+gdtpxbs,269,student,And then 6 into 8 is 1 with a remainder of 2.,00:37:19
+gdtpxbs,270,tutor,With a remainder of 2.,00:37:26
+gdtpxbs,271,student,So 6 into 24 is 4.,00:37:28
+gdtpxbs,272,tutor,"Alright, it's 4. Great. So the answer is?",00:37:32
+gdtpxbs,273,background,214.,00:37:37
+gdtpxbs,274,tutor,214. And do we have any remainder?,00:37:39
+gdtpxbs,275,background,No.,00:37:43
+gdtpxbs,276,tutor,No. Great. So here you did,00:37:44
+gdtpxbs,277,tutor,"Again, very nice work, and we are straightaway going to the You Do slide. Can you try this question?",00:37:47
+gdtpxbs,278,student,"It says, go collect the following using the formal method of [unclear] division. So I is 6,613 divided by 5. So I'm going to just set this up. [unclear]",00:37:54
+gdtpxbs,279,student,So 5 into 6 is 1 with a remainder of 1.,00:38:24
+gdtpxbs,280,tutor,With a remainder of 1.,00:38:31
+gdtpxbs,281,student,"It's not letting me type next to the 1, the 6, so I'm just going to put a little there. There you go. So 16, so that is",00:38:32
+gdtpxbs,282,student,3 with a remainder of 1.,00:38:42
+gdtpxbs,283,tutor,"Once again, it's 1. Okay.",00:38:46
+gdtpxbs,284,student,"Yeah, and just so 5 into 11, so that's 2 with a remainder of 1.",00:38:48
+gdtpxbs,285,tutor,Mm-hmm.,00:38:58
+gdtpxbs,286,student,"Now I'm just gonna use a pen. [unclear] So 6— 5 into 13, so that is [unclear] with 2 with a remainder of 3. Now with the space, I'm not going to do the point, I'm just going to do the remainder.",00:39:00
+gdtpxbs,287,tutor,"Yes, we can write remainder rather than using the point, right? So that we can do it in another lesson. Okay, so what is the answer there?",00:39:21
+gdtpxbs,288,student,"So 1,322 remainder 3.",00:39:28
+gdtpxbs,289,tutor,"Alright, so that's a great answer. And also let's not forget to put the comma to separate the thousands group, okay?",00:39:36
+gdtpxbs,290,student,So I was just thinking in the US we don't really do the comma anymore. We can't just forget [UNCLEAR].,00:39:43
+gdtpxbs,291,tutor,"Okay, right, that's right. Okay, the comma is important because it's very easy for us to read the numbers, right? So we will know how to read it. Okay, right. So let's do the next question.",00:39:48
+gdtpxbs,292,background,"B says 3,264 divided by 4. So let me just set this up. [unclear]",00:40:01
+gdtpxbs,293,student,And 4 and 3.,00:40:08
+gdtpxbs,294,tutor,Just— okay.,00:40:21
+gdtpxbs,295,student,So 4 into 3 is 0.,00:40:23
+gdtpxbs,296,tutor,Alright.,00:40:27
+gdtpxbs,297,student,"So we'll put a 3 next to the 2, and again it won't let me.",00:40:28
+gdtpxbs,298,student,So 4 into 32 is 8.,00:40:36
+gdtpxbs,299,tutor,Good girl.,00:40:41
+gdtpxbs,300,student,"So, and then 4 into 6 is 1 with a remainder of 2.",00:40:42
+gdtpxbs,301,tutor,With a remainder of 2. [unclear],00:40:51
+gdtpxbs,302,student,"And then, there is a 2, but no. 4 into 24 is 6.",00:40:56
+gdtpxbs,303,student,is 6 and... [unclear] So the answer is 816.,00:40:56
+gdtpxbs,304,tutor,"Without any remainder, right? Okay, that's a great answer. Okay, can you write your answer here?",00:41:10
+gdtpxbs,305,student,Yes.,00:41:14
+gdtpxbs,306,tutor,"Alright, so here we go once again with... for the correct answers, what you've got. Okay, I'm really proud of the way how we're working things out today and the talking house sticker wants",00:41:16
+gdtpxbs,307,tutor,"Okay, so I read about the last slide.",00:41:30
+gdtpxbs,308,student,Yes.,00:41:34
+gdtpxbs,309,tutor,"Okay, so here we have our [unclear] for the question. Can you first read the question?",00:41:35
+gdtpxbs,310,background,"It says Mr. Jones has saved £7,294.",00:41:40
+gdtpxbs,311,tutor,"Okay, can you just read it again, the number?",00:41:49
+gdtpxbs,312,background,"£7,294.",00:41:53
+gdtpxbs,313,tutor,exactly. [unclear],00:41:53
+gdtpxbs,314,student,"She shares it equally between her 3 grandchildren. How much do they receive each? So for this, I know that receive, like, it means, like, it means, like, how much do they do all to [UNCLEAR], like, all, not like reminders, there's any, just like all of the—",00:41:57
+gdtpxbs,315,tutor,So what calculation do you think you need to do here?,00:42:18
+gdtpxbs,316,student,"So this is a 3 3 divided by 7,284. Now we don't need to put the pound sign in this. [unclear]",00:42:21
+gdtpxbs,317,student,"Okay, do that. So 3 into 7, so that is 2 remainder 1.",00:42:29
+gdtpxbs,318,tutor,Okay.,00:42:48
+gdtpxbs,319,student,"So 3 into 12 is 4, then 3 into 8 is 2 with a remainder of 2, and then 3 into 24 is 8. So there's no remainder, so",00:42:53
+gdtpxbs,320,student,"What her children will receive, or [unclear] children, is £2,428 each.",00:43:16
+gdtpxbs,321,tutor,"Okay, so you came up with the correct answer once again. Here, it's £2,428. Now, what if we have any remainders in this question? Because this is a question with the money, then do you think we should write remainder, we should use the point?",00:43:29
+gdtpxbs,322,student,"So I think if it wants to know the point, I think you would just put the point because in money you don't have reminders. It will just be point.",00:43:47
+gdtpxbs,323,tutor,"Brilliant, yes, because with the money, if you have— since we are working with the money and in case like if you had anything remaining thing, so we should use the point and see if we have any pence, right? Okay, so you did really great, yes. [STUDENT_NAME] throughout today's session. And we have come to the end of today's session, and I think we already completed 4 lessons today, so which is really nice. And all 4, you were like very, very confidently work out like throughout everything by yourself. Okay, so that is something very nice to see as well. So how do you feel about [UNCLEAR]?",00:43:57
+gdtpxbs,324,student,Awesome.,00:44:35
+gdtpxbs,325,tutor,"Well, sorry, you're glitching. What did you say at the end?",00:44:37
+gdtpxbs,326,student,"Okay, how do you feel about today's whole session?",00:44:41
+gdtpxbs,327,background,"I feel like it's all going to help me in the future, and because it's all stuff I already knew, it was like a kind of like a refresh, so I could like remember it for the future.",00:44:44
+gdtpxbs,328,tutor,"Okay, that's really nice. Yes, I'm sure that it will help you, and you also have very nice ideas and understanding about all this topic what we did. So don't forget about the feedback form, [STUDENT_NAME], and also don't forget about the quizzes because we completed 4 lessons. So there will be 4 set of questions. Okay, so make sure to read the questions and do them well. All right.",00:44:56
+gdtpxbs,329,background,Okay.,00:45:18
+gdtpxbs,330,tutor,"Okay then, I hope that you will have a wonderful day and I'll see you again next time. Bye-bye.",00:45:19
+gdtpxbs,331,background,Bye.,00:45:25
+gdtpxbs,332,student,Bye.,00:45:26
+gdtpxbs,333,background,"Bye, have a good day. [unclear]",00:45:27
+gdtpxbs,334,student,"See you, bye.",00:45:29

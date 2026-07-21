@@ -1,0 +1,274 @@
+session_id,utterance_id,role,content,timestamp
+fismwyh,0,tutor,Hello?,00:00:00
+fismwyh,1,background,[unclear],00:00:00
+fismwyh,2,student,"Hello, Elara. Can you hear me?",00:00:04
+fismwyh,3,tutor,Yeah. Can you hear me?,00:00:06
+fismwyh,4,tutor,"Yeah, I can hear you. So how am I doing today?",00:00:11
+fismwyh,5,student,I'm doing good. How are you?,00:00:14
+fismwyh,6,tutor,"I'm doing good as well, Elara. So do you remember the lesson we did last week?",00:00:16
+fismwyh,7,student,"Yes, it was scattergraph.",00:00:23
+fismwyh,8,tutor,"Yeah, the scattergraph. And today we will be doing the probabilities in table, okay?",00:00:27
+fismwyh,9,student,Mm-hmm.,00:00:31
+fismwyh,10,tutor,Right. So what do you think about this one? Who do you agree with? [unclear],00:00:33
+fismwyh,11,student,Missing probability must be 0.8. The missing probability for [unclear] should be 0.2. Grace says missing value should be 0.1.,00:00:39
+fismwyh,12,tutor,It should add up to 1.,00:00:52
+fismwyh,13,student,Yeah.,00:00:55
+fismwyh,14,tutor,0.3.,00:00:56
+fismwyh,15,student,So is it Hashem? [unclear],00:01:05
+fismwyh,16,tutor,"Yeah, Hashem is correct. So why Hashem is correct?",00:01:10
+fismwyh,17,student,"Because if you add it together, 0.1, 0.2, 0.3, and 0.1, then it's 0.8, and then there's 0.2 missing to find 1. So, [UNCLEAR].",00:01:14
+fismwyh,18,tutor,"Yeah, that's a good start, Elara. Then what do you think about the first question?",00:01:29
+fismwyh,19,student,"The box contains 3 cartons of orange juice, 4 cartons of apple juice, 2 cartons of pineapple juice. One of these cartons is taken from the box at random. What are the probabilities orange juice should be?",00:01:37
+fismwyh,20,student,"3 plus 4 plus 9, so— and then 4 after 9, and then 3 plus 4 is 7. Yeah, that's a good job. And yeah, this one is correct. This is correct, and this is also correct. And Elara, what do you think? Is it okay to simplify this one? [unclear]",00:01:56
+fismwyh,21,student,"So 9 divided by 3, 3, 1 over 3.",00:02:40
+fismwyh,22,tutor,"Yes, so the both answers are acceptable. Okay, so if you write 3 9s, it is correct. You will get 1 mark. And also If you simplify this one, it is also correct. Okay?",00:02:45
+fismwyh,23,student,Okay.,00:02:57
+fismwyh,24,tutor,"Right. And yeah, what do you think about this?",00:02:57
+fismwyh,25,student,"Oh, which one, sorry? [unclear] [unclear]",00:03:10
+fismwyh,26,tutor,They got heads more times?,00:03:32
+fismwyh,27,student,"Yeah. It looks like we got heads, yeah. So which coin do you think is biased?",00:03:39
+fismwyh,28,student,Head.,00:03:52
+fismwyh,29,tutor,"Okay, so you think that we got [unclear] more heads, so head is biased, yeah?",00:03:56
+fismwyh,30,student,Mm-hmm.,00:04:02
+fismwyh,31,tutor,All right. And what do you think about question B?,00:04:04
+fismwyh,32,student,Whose results would give the most accurate estimate for the probability that the coin will land on heads? [unclear],00:04:08
+fismwyh,33,student,"Wait, no.",00:04:27
+fismwyh,34,tutor,"Oh, huh?",00:04:28
+fismwyh,35,student,"Oh, I think so, a mare.",00:04:30
+fismwyh,36,tutor,"All right, so why is it a mare?",00:04:32
+fismwyh,37,student,Because he got heads more than tails.,00:04:35
+fismwyh,38,tutor,"Hmm, okay, right. [unclear]",00:04:39
+fismwyh,39,student,"I think it might be C, C.",00:04:41
+fismwyh,40,tutor,"Okay, C, C would be option as well, yeah? So why do you think C, C is option?",00:04:43
+fismwyh,41,student,"Because hers makes more sense, like 47 times she got heads and 3 times she got tails.",00:04:49
+fismwyh,42,tutor,"Okay, right. And the third question, question C. [MASKED]",00:04:57
+fismwyh,43,student,Mason says that you are 4 times more likely to get heads than tails. [unclear],00:05:05
+fismwyh,44,tutor,"Okay. 200, 218. [unclear]",00:05:10
+fismwyh,45,student,No.,00:05:41
+fismwyh,46,tutor,So why do you not agree with Mason?,00:05:41
+fismwyh,47,student,"Because apart from Mason, Amma and Sisi, it wasn't 4 times more.",00:05:45
+fismwyh,48,tutor,"Alright, so you compared these, so how many times we got tails and how many times it goes with number of heads. Yeah?",00:05:54
+fismwyh,49,student,Yeah.,00:06:02
+fismwyh,50,tutor,"Like that. Oh, right, right. So that's a good start, Elara. So let's see how to solve each one by one, okay? Yeah, so the first one, they are asking which one is more biased. So if you take an unbiased coin, what is the probability of getting a head? Is it certain? [unclear]",00:06:03
+fismwyh,51,tutor,"Yeah, like theoretically, if we flip a coin, what is the probability of getting a head and what is the probability of getting tail?",00:06:40
+fismwyh,52,student,A half.,00:06:51
+fismwyh,53,tutor,"Half, awesome, here we go, right. If you look at this table, Elara, so what— how do you describe this table to me? [unclear] [Speaker:Elara]...bias?",00:06:52
+fismwyh,54,tutor,"No, forget about the questions, okay? Then like if you look at the table, what do you understand about this one? Like how would you explain this table to one of your friends, the data in this table?",00:07:09
+fismwyh,55,student,You're more likely to get heads than you are tails.,00:07:21
+fismwyh,56,tutor,"That's correct. So this is something like this. So we have 3 people, Amar, Mason, and Sissy, and they are flipping 3 coins, one for Amar, one for Mason, and one for Sissy. So let's say, let's take Amar, let's take Sissy. So he got, he or she got 47 times heads and 3 times tails. It means that he flipped 50 times the coin. And when he flipped 50 times, 47 times he got heads and 3 times he got tails. Okay? And for Mason, he flipped the coin 100 times. 80 times he got the heads and 20 times he got the tails.",00:07:24
+fismwyh,57,student,[unclear],00:08:16
+fismwyh,58,tutor,Okay.,00:08:16
+fismwyh,59,tutor,"Right, so as you say, Elara, the question is how— which coin is more likely to be biased, yeah?",00:08:18
+fismwyh,60,student,Mm-hmm.,00:08:27
+fismwyh,61,tutor,"And as you said, for a real coin, in— for ideal coin, the probability should be half and half, 50-50, right? So for this question, you can choose Amar, Mason, or [UNCLEAR]. Amar's coin, Mason's coin, or Sissy's coin, and look at which coin is more deviated from 50-50.",00:08:28
+fismwyh,62,student,Oh.,00:08:53
+fismwyh,63,tutor,"Okay, so if you look at these 3 coins, Amar, Mason, and Sissy, which coin is more deviated from 50-50?",00:08:55
+fismwyh,64,student,I think Mason?,00:09:06
+fismwyh,65,tutor,"Okay, let's see. So this one is 80 and this one is 20, like 80 to 20, right?",00:09:12
+fismwyh,66,student,Yeah.,00:09:20
+fismwyh,67,tutor,"And can you see anyone else more deviated from 50/50? The ideal value is half. Like, you can think of the ratios as well if it is hard. Like, you can think of it as fractions. Not the ratios, if it is easier for you. [unclear]",00:09:21
+fismwyh,68,tutor,"Okay, so why do you think it's a [UNCLEAR]?",00:09:51
+fismwyh,69,student,"Because if you do 218, a half times 218, [unclear] Oh wait, no, that doesn't make sense. Is it [UNCLEAR]?",00:09:55
+fismwyh,70,tutor,"Right, so the answer would be Amar.",00:10:20
+fismwyh,71,student,Oh.,00:10:27
+fismwyh,72,tutor,Yeah.,00:10:28
+fismwyh,73,tutor,"Because if you look at this, think about the ratios. Not the ratio, the fractions. So the ratio should be somewhere around 1 and 2, like 50/50, yeah? If the probability is, it would be like half. So if you take Amr, Elara, let's take [UNCLEAR], it would be like, The total is 50, and 50 and 47. And for the tails, it would be like 3 to 50. It can be a lot different, yeah?",00:10:28
+fismwyh,74,tutor,Mm-hmm.,00:11:10
+fismwyh,75,student,"And also if you take [UNCLEAR], so what is the answer if you add 218 to 22? [unclear]",00:11:12
+fismwyh,76,student,240.,00:11:31
+fismwyh,77,tutor,"Yes, 240. So it is 240 and 218, and this one is 22. Over 214. So if we look at the numbers, Elara, we can see that Amar is more deviated from 50-50.",00:11:33
+fismwyh,78,student,"Yeah, oh, okay.",00:11:58
+fismwyh,79,tutor,"That's why Amar's, uh, everything is biased, it's true, but Amar's coin is more biased.",00:12:00
+fismwyh,80,student,"Yeah, okay. [unclear]",00:12:08
+fismwyh,81,tutor,"All right, if that makes sense.",00:12:10
+fismwyh,82,tutor,"Mm-hmm. Okay, now let's look at question B, most accurate one.",00:12:12
+fismwyh,83,student,[unclear] would be the most accurate estimate for the probability that the coin was undercharged.,00:12:17
+fismwyh,84,tutor,"Oh, I'm sorry, I made a mistake here. Sorry to interrupt you, Elara. So this one, you don't have to mention which one is more biased, okay?",00:12:30
+fismwyh,85,tutor,"So for this one, what do I expecting from you? So it's the first one mark question, yeah? So you can just tell that for an ideal coin, [unclear] one half, like 50/50 for heads and tails. And you can tell, just tell that in all these cases, they are not 50/50. Therefore, we can say this one is biased. You don't have to mention which one is more biased. So this is a first, a one mark question. Okay?",00:12:41
+fismwyh,86,student,Okay. [unclear],00:13:14
+fismwyh,87,tutor,Right. Let's look at question B.,00:13:15
+fismwyh,88,student,"Hmm. It's C, C.",00:13:21
+fismwyh,89,tutor,"Okay, so why is it C, C?",00:13:25
+fismwyh,90,student,Because you can tell it will land on heads because it only landed on tails 3 times.,00:13:27
+fismwyh,91,tutor,"Okay, so forget about the coin. So what is the best way to get better results for any experiment?",00:13:35
+fismwyh,92,student,Doing it multiple times?,00:13:43
+fismwyh,93,tutor,"Yeah, here we go. So doing it multiple times, more trials will give you better results, right?",00:13:45
+fismwyh,94,student,Mm-hmm.,00:13:51
+fismwyh,95,tutor,"So to get accurate estimations, we have to do more flips. So which one did more flips here?",00:13:52
+fismwyh,96,student,"[unclear] I think it's— oh, they did more on Mason. Because it's a bit more— sorry?",00:14:02
+fismwyh,97,tutor,Okay. You think Mason?,00:14:13
+fismwyh,98,student,Because it's more equal. [unclear],00:14:17
+fismwyh,99,tutor,"Not equal, Elara. It's about how many times you did the test. [unclear]",00:14:22
+fismwyh,100,student,"Like which one did flipping more times? that's [unclear] [Speaker:Tutor]..., true. So if it comes to more accurate, it's always about who did a lot, like who repeated most of the times, okay? Okay.",00:14:47
+fismwyh,101,student,"Yes,",00:15:13
+fismwyh,102,tutor,"let's do a similar question to this so we can practice, okay? Okay.",00:15:14
+fismwyh,103,student,And,00:15:18
+fismwyh,104,tutor,I wanted to discuss this. These two questions you can figure out. Let's think about this.,00:15:18
+fismwyh,105,tutor,Perfect.,00:15:26
+fismwyh,106,student,Have you heard about the word relative frequency?,00:15:28
+fismwyh,107,tutor,Yes. Kind of.,00:15:32
+fismwyh,108,student,"Yes. Okay, kind of. And this one is about relative frequency, right?",00:15:33
+fismwyh,109,tutor,Mm-hmm.,00:15:40
+fismwyh,110,student,"And so this one, it says the Mason says that you are 4 times more likely to get [unclear] than the Charles. Than a tail when flipping these coins. So, um, so we have to use the results to prove that statement or disagree with this statement, right?",00:15:42
+fismwyh,111,student,Mm-hmm.,00:16:03
+fismwyh,112,tutor,"So what you have to do is you have to calculate the relative frequency for heads and the tails. Then you can show if it— whether it is 4 times or not, okay?",00:16:04
+fismwyh,113,tutor,Okay.,00:16:17
+fismwyh,114,student,"So to find the relative frequency for our event, you get— so for example, let's take the heads. So you get how many heads you got. [unclear] Yeah, we are adding these up, and then we have to tell this one out of the total. [unclear]",00:16:18
+fismwyh,115,tutor,"Wait, sorry, do you add all of it? So for the total?",00:16:48
+fismwyh,116,student,"For total, you have to add all the heads and all the tails.",00:16:52
+fismwyh,117,tutor,"Okay. 2 plus 3, so... [unclear]",00:16:56
+fismwyh,118,tutor,Yeah.,00:17:28
+fismwyh,119,student,"For the tall heads. And then tall tails, 45, 29. Tall flip, this is a [UNCLEAR].",00:17:29
+fismwyh,120,student,"I'm sorry to interrupt you, Elara. I think you wrote the wrong number. Both, like, everything in one step. This one is okay. You don't have to think about the total flips. Total flips means this 390.",00:17:53
+fismwyh,121,student,"Oh, okay.",00:18:08
+fismwyh,122,tutor,"Okay? So you got it in one step. So that's okay. So this one, this whole thing, is what we call the relative frequency, PH. Probability for heads and probability for tails. This one.",00:18:09
+fismwyh,123,tutor,Oh.,00:18:24
+fismwyh,124,student,Right. And then you can just do— just look at this one. Do you have a calculator?,00:18:25
+fismwyh,125,tutor,Y— yes.,00:18:35
+fismwyh,126,student,"Yeah. You can just do something like that, this. So you can get— this one is decimal and this one in decimal as well. Then and see whether this one goes 4 times to this one. [unclear]",00:18:37
+fismwyh,127,student,"Yes, that's the relative frequency for heads. [unclear]",00:19:10
+fismwyh,128,tutor,"0.11, yeah. It's the relative frequency. And then you can just check whether this one goes 4 times to this one. Like, basically you can divide this one, like 0.88 divided by 0.12.",00:19:29
+fismwyh,129,student,7.3.,00:19:50
+fismwyh,130,tutor,"That's correct. So what we are expecting is 4, yeah?",00:19:53
+fismwyh,131,student,Yeah.,00:19:57
+fismwyh,132,tutor,"But what we got is 7. That means this is wrong. This goes 7 times, not 4 times. Does that make sense?",00:19:58
+fismwyh,133,student,Yeah.,00:20:07
+fismwyh,134,tutor,"Right. So now what we are gonna do is— I'm sorry, I'm loading a lot of, uh, talking today.",00:20:09
+fismwyh,135,student,It's fine. I don't mind.,00:20:15
+fismwyh,136,tutor,"We can go through this question, Elara, then we would do a similar question like that by yourself, and then the next type of question you can— I'm sure you will get that one. We don't have to discuss a lot about this one. Okay?",00:20:18
+fismwyh,137,student,[unclear],00:20:31
+fismwyh,138,tutor,"Yeah, let's go through this one one time, and then we can try a similar one. So how can you tell that something is biased or not?",00:20:33
+fismwyh,139,student,"If you [unclear] it more times on— if you get more in one than the other, it should be 50-50 chance.",00:20:46
+fismwyh,140,tutor,"Yeah. Yes, like it should be 50-50 for the coins. Like, for like— it's like a theoretical value. For a disc, It would be 1 out of 6 for one colour, yeah?",00:20:56
+fismwyh,141,student,Yeah.,00:21:10
+fismwyh,142,tutor,"You have to check whether it goes with the theoretical value. Theoretical value, if that makes sense for you.",00:21:11
+fismwyh,143,student,"Oh, okay. So 1 over 2 or— I don't know how I would write it. [unclear]",00:21:18
+fismwyh,144,tutor,"We can say like it's not— for an ideal coin, it would be 50-50. [unclear]",00:21:29
+fismwyh,145,tutor,"Yes, 50-50. Yes, 50-50 chance. Or you can write it as a ratio as well. Oh, or like, I— you can write it as a half. It— I think it would be easy for you. But this case, it's not one half. Therefore, these coins are biased. Okay?",00:21:47
+fismwyh,146,student,Yeah.,00:22:06
+fismwyh,147,tutor,"Yeah, basically what you have to do is that you have to tell them this is the theoretical one, like this is the normal thing, but this is not normal. That's the key point. And how you— which one would be the most accurate? How you decide that one? [unclear]",00:22:07
+fismwyh,148,student,"Because he flipped more times, flipped.",00:22:29
+fismwyh,149,tutor,"Oh, yes. [unclear] So the [UNCLEAR], yeah, [unclear] is the first mark and the reason is the second mark. Okay? And can you explain me how to find the relative frequency?",00:22:34
+fismwyh,150,student,So you add up the results for the heads and tails,00:22:52
+fismwyh,151,student,"Find the total, and then you add up the heads and then tails separately, and then the answer that you get, you see, is it 4 times more? Which in this case it wasn't, it was 7 times more, so it's wrong.",00:22:57
+fismwyh,152,tutor,Okay. Now we can try this one.,00:23:14
+fismwyh,153,student,What's the relative frequency for rolling a 6 with dice 4?,00:23:18
+fismwyh,154,student,To be... you add it up. 16 plus 30... 30... 79. [unclear],00:23:23
+fismwyh,155,tutor,"Yeah, remember, Elara, this is about only dice 4, okay?",00:23:48
+fismwyh,156,student,Yeah. [unclear] [unclear],00:23:52
+fismwyh,157,tutor,"Ah, yeah. That's the thing, you have to read the question.",00:24:24
+fismwyh,158,student,"Oh, yeah.",00:24:29
+fismwyh,159,tutor,"Yeah, this one is only about this one. Here they have given it in the question.",00:24:31
+fismwyh,160,tutor,Yeah?,00:24:39
+fismwyh,161,student,[unclear],00:24:43
+fismwyh,162,tutor,Yes.,00:24:45
+fismwyh,163,student,"Manual things to the Dice My Device, which ones? Dice 3. Oh, wait, no.",00:24:48
+fismwyh,164,student,Is it dice 1 and 2?,00:25:04
+fismwyh,165,tutor,"Okay, so why do you think— you got it one correct, 2 is correct, but not 1. Is it 1 or 3? [unclear]",00:25:13
+fismwyh,166,tutor,"So why do you think the 2-1 is correct? So why do you think it's true, 2 is biased?",00:25:38
+fismwyh,167,student,Because he got more on the rolls 1 out of 5 than a roll for 6. So it's inaccurate.,00:25:45
+fismwyh,168,tutor,"Yeah, so why do you think it's dice 2? Die 2. Sorry, why it is 1? Sorry.",00:25:59
+fismwyh,169,student,"Oh, you got more the 1, 5, and 6. So each 4 on that one, 16. So it's a bit inaccurate, like it's not 50-50.",00:26:08
+fismwyh,170,tutor,"Okay, Elara. So the 50/50 is for the coin, right? For the dice, what is the probability of getting a 6, like the theoretical, the ideal one?",00:26:22
+fismwyh,171,student,"Sorry, can you repeat that?",00:26:40
+fismwyh,172,tutor,"For a die, what is the theoretical probability for getting number 6?",00:26:42
+fismwyh,173,student,16. [unclear],00:26:51
+fismwyh,174,tutor,How many sides we have in a die?,00:26:58
+fismwyh,175,student,5 or 6.,00:27:04
+fismwyh,176,tutor,6. We have 6.,00:27:07
+fismwyh,177,student,Yes.,00:27:08
+fismwyh,178,tutor,So getting the number 6 is,00:27:09
+fismwyh,179,student,One also.,00:27:16
+fismwyh,180,tutor,One. Here we go. Now this is the ideal case for getting 6. So you have to compare this probability with these ones.,00:27:17
+fismwyh,181,student,Okay. [unclear] [unclear] Is it dice 4?,00:27:32
+fismwyh,182,student,It would be die— dice 2 and 3.,00:27:56
+fismwyh,183,tutor,"Oh, okay.",00:28:01
+fismwyh,184,student,Okay?,00:28:03
+fismwyh,185,tutor,"Yeah. Everything is biased. These 4 dices are biased, but 2 and 3 is more biased. Like, if you look at 3, you can see it's like 50-50.",00:28:04
+fismwyh,186,student,Yeah.,00:28:17
+fismwyh,187,tutor,"It can't be for a die 50-50. It should be for 6, it should be 1/6.",00:28:19
+fismwyh,188,student,"Oh, okay. Yeah.",00:28:26
+fismwyh,189,tutor,"Yes, right. And yeah, let's look at this one.",00:28:30
+fismwyh,190,tutor,"Of these two, he thinks he needs to test one of them again. Which one and why?",00:28:37
+fismwyh,191,student,Dice 3.,00:28:40
+fismwyh,192,tutor,"Here we go. Yeah, why the dice 3?",00:28:44
+fismwyh,193,student,"Because it's 50/50, so he should have gotten different values.",00:28:47
+fismwyh,194,tutor,"Yes, it is. And also, can you see She just like did 6 times, yeah? Like...",00:28:56
+fismwyh,195,tutor,Yeah.,00:29:03
+fismwyh,196,student,"She rolls dice just 6 times. For dice 2, they have like did it 130 times.",00:29:05
+fismwyh,197,tutor,"So it was too little, like she rolled it less times.",00:29:14
+fismwyh,198,student,"Yeah, yeah, that's right.",00:29:19
+fismwyh,199,tutor,Not enough times.,00:29:21
+fismwyh,200,student,"Not enough time. To get more accurate values, we have to do it more. [unclear]",00:29:23
+fismwyh,201,tutor,Yeah. Okay. Does that make sense now? Like—,00:29:35
+fismwyh,202,student,"Yeah. I was just confused about the dice too, but now it makes sense.",00:29:39
+fismwyh,203,tutor,"Okay. Right. And yeah, you can do this one, I'm sure.",00:29:44
+fismwyh,204,student,"Susan has a bag of colored counters. They are white, purple, pink, and silver. The probability of picking the pink counter",00:29:49
+fismwyh,205,student,[unclear] Complete the table.,00:29:57
+fismwyh,206,tutor,Okay.,00:30:03
+fismwyh,207,student,"If the [unclear] plus. So for the pink, it's 0.4.",00:30:05
+fismwyh,208,student,So then the silver would be 0.2.,00:30:21
+fismwyh,209,tutor,Yeah.,00:30:32
+fismwyh,210,student,Find the [unclear] selecting a counter that is not pink. [unclear],00:30:34
+fismwyh,211,student,I think.,00:30:50
+fismwyh,212,tutor,"Yeah, it is correct, but you can write it without one as well, Elara.",00:31:13
+fismwyh,213,student,"Oh, you don't need to?",00:31:18
+fismwyh,214,tutor,"Yeah, just 0.6.",00:31:20
+fismwyh,215,student,Oh. [unclear],00:31:22
+fismwyh,216,tutor,"And yeah, that's all about this lesson. We have 8 minutes to go. Because you did a good job, Maybe we can try this one as well. We have enough time today.",00:31:29
+fismwyh,217,student,"The table shows the probability of picking orange, lemon, or lime seeds from a bag. Given there are 20 seeds in the bag, how many are flavored? [unclear]",00:31:43
+fismwyh,218,tutor,"You can use this data here, okay?",00:31:59
+fismwyh,219,student,"All we need is to multiply the probability, so [unclear] number of events, probability of event, 20, and number of trials, 10. [unclear]",00:32:06
+fismwyh,220,student,[unclear] [unclear],00:32:30
+fismwyh,221,student,[unclear] [unclear],00:32:55
+fismwyh,222,student,"No, it's [UNCLEAR]. [unclear]",00:32:55
+fismwyh,223,tutor,"So this one is like a fraction, Elara. Do you remember we did fractions?",00:33:25
+fismwyh,224,student,"Yeah, but I don't know how to implement.",00:33:44
+fismwyh,225,student,"Yeah, so we have the probability for lime. It's like the fraction we have, and we have the total, it's 20. If you have to find the picking number of limes we are gonna pick, you can just do this probability times 20. [unclear]",00:33:48
+fismwyh,226,tutor,Yeah.,00:34:25
+fismwyh,227,student,2.,00:34:26
+fismwyh,228,tutor,2. That's just 2. And what about oranges? How many are orange flavored?,00:34:27
+fismwyh,229,student,[unclear],00:34:34
+fismwyh,230,student,20.,00:34:39
+fismwyh,231,tutor,"20, yes, that's correct. And yeah, we can do this one. I'm sorry, you are doing your question here, yeah?",00:34:40
+fismwyh,232,student,That's okay. [unclear],00:34:49
+fismwyh,233,tutor,"Yes, right. We can do these two and then we can do a recap.",00:34:58
+fismwyh,234,student,Okay.,00:35:02
+fismwyh,235,student,0.6 plus 0.1 is 0.7. 0.7 plus— no. So 0.7 gives you— [unclear],00:35:05
+fismwyh,236,tutor,3.,00:35:21
+fismwyh,237,student,"Yeah. Now do 0.3. Mango, 0.2 times 2, or 0.4. Carter is twice as likely to pick a mango sweet than peach, so that would be 0. [unclear]",00:35:22
+fismwyh,238,tutor,Which one would Carter choose not to pick? A mango sweet?,00:35:49
+fismwyh,239,student,2.4. 1. [unclear] [unclear],00:35:56
+fismwyh,240,student,I think I have something on.,00:36:44
+fismwyh,241,tutor,"Yeah, taking, say, yeah, you have to take away something from 1, but you have to think of the 0.6, Elara. Why it is 0.6?",00:36:49
+fismwyh,242,student,I did 0.4 plus 0.2. [unclear],00:36:59
+fismwyh,243,tutor,So what is the probability of getting a mango? [unclear],00:37:17
+fismwyh,244,student,Yes.,00:37:27
+fismwyh,245,tutor,"Oh, what about the not mango?",00:37:29
+fismwyh,246,student,"I did 0.4 plus 0.2, and that gave me 0.6.",00:37:38
+fismwyh,247,tutor,"So getting a mango is 0.4, that's true. The question is— [unclear]",00:37:44
+fismwyh,248,student,Yeah. 1 minus 0.6. That's how I got that.,00:37:52
+fismwyh,249,tutor,"Okay, okay. So not picking a mango is 0.4.",00:37:59
+fismwyh,250,tutor,"0.4, right. That's correct. Yeah. And we did this one, and you did a wonderful job with this, and you have a good idea about this one as well, Elara. Yeah?",00:38:03
+fismwyh,251,student,Mm-hmm.,00:38:22
+fismwyh,252,tutor,And again for this question. So how would you find the relative frequency?,00:38:25
+fismwyh,253,student,You add up the heads and tails and then work out heads total individually and tails individually out of the total amount.,00:38:33
+fismwyh,254,tutor,"Yeah, so how would you get more accurate results?",00:38:44
+fismwyh,255,student,If it's like if the dice has been rolled more times.,00:38:50
+fismwyh,256,tutor,"Yeah, more tests. Yeah, and how would you like To get the more accurate results, we are doing the same thing again and again. Like, imagine you have given a situation in the exam and they are asking, how would you improve this one? How would you improve this, like, the results?",00:38:55
+fismwyh,257,tutor,Yeah.,00:39:15
+fismwyh,258,student,How would you do that? [unclear],00:39:16
+fismwyh,259,tutor,Practicing over and over again.,00:39:18
+fismwyh,260,student,"Yes, do it again and again. Again, the more trials. And now, how would you tell that the given situation is biased or not?",00:39:22
+fismwyh,261,student,"If you get more, like if it's not equal amount, 50/50, it's more times on one than the other.",00:39:36
+fismwyh,262,tutor,"Yeah, let's forget about 50/50. [unclear] I'll give you a real-life example, right?",00:39:46
+fismwyh,263,tutor,"So imagine you are in a class and you have a student and a teacher, right? And there is a way of things happening. Usually that student gets good marks for every time, for every exam. Yeah? And but that's the usual case. But in some instance, your teacher gave her or he low marks. So we can— that point we can say, so the teacher is biased Because the marks she gave that student is not usual, right?",00:39:50
+fismwyh,264,student,Yeah.,00:40:23
+fismwyh,265,tutor,"It's the same with this bias thing. When we are given a situation, we have to compare what would happen if it is in a usual case. For a coin, it's like 50/50, 50 heads and 50 tails. For a dice, it's different. It's 1/6 to get a number. Does that make sense how we get this bias thing?",00:40:24
+fismwyh,266,student,Yeah.,00:40:47
+fismwyh,267,tutor,"Okay, then do you have any other questions? I'm going to end the session.",00:40:48
+fismwyh,268,student,No.,00:40:54
+fismwyh,269,tutor,"No, okay, then next week we will be doing the index loss, okay?",00:40:55
+fismwyh,270,student,"Okay, [UNCLEAR].",00:40:59
+fismwyh,271,tutor,"Okay then, I'm going to end the session now, Elara. See you next week. Bye-bye.",00:41:01
+fismwyh,272,student,See you. Bye.,00:41:04

@@ -1,0 +1,284 @@
+session_id,utterance_id,role,content,timestamp
+grnenhw,0,student,Hello.,00:00:00
+grnenhw,1,background,[unclear],00:00:00
+grnenhw,2,tutor,"Hello. Hi, [STUDENT_NAME], how are you?",00:00:00
+grnenhw,3,student,"Good, how are you?",00:00:05
+grnenhw,4,tutor,"I'm good, thank you for asking. How has your day been so far? It's been good.",00:00:06
+grnenhw,5,tutor,Just give me a second. [unclear],00:00:12
+grnenhw,6,student,Hello?,00:00:30
+grnenhw,7,tutor,I'm really sorry.,00:00:31
+grnenhw,8,student,"Hello, it's okay. Okay, so now, do you remember this topic, rounding numbers to the nearest 100 and 1,000?",00:00:34
+grnenhw,9,student,Yeah.,00:00:44
+grnenhw,10,tutor,"Okay, so can you tell me something about rounding?",00:00:45
+grnenhw,11,student,"So if the number is higher than 5, it [unclear] goes up, but if it's lower than 5, it goes down.",00:00:48
+grnenhw,12,tutor,"Okay, very good. And what if we are rounding to the nearest hundreds? What would be your answer?",00:00:58
+grnenhw,13,student,"Um, should I write it in here?",00:01:07
+grnenhw,14,tutor,You can tell me verbally.,00:01:09
+grnenhw,15,student,"Ah, okay. So, um...",00:01:11
+grnenhw,16,tutor,At which column do we need to look at if we are rounding to the nearest hundreds?,00:01:17
+grnenhw,17,student,Um...,00:01:23
+grnenhw,18,tutor,Do we look at the 5?,00:01:33
+grnenhw,19,student,At which column do we need to look at? I'm asking about the column.,00:01:37
+grnenhw,20,tutor,"Okay, no problem. We need to look at one column to the right, that is the 10s column.",00:01:46
+grnenhw,21,student,Okay.,00:01:55
+grnenhw,22,tutor,"Similarly, which column do we need to look at if we are rounding to the nearest 1,000? [unclear]",00:01:57
+grnenhw,23,student,The hundreds column.,00:02:09
+grnenhw,24,tutor,"Yes, the hundreds column. And after that, you need to decide if the digit in the hundreds column is 5 or more than 5. You need to round up, and if the digit is less than 5, you need to round down, right?",00:02:16
+grnenhw,25,student,Yeah.,00:02:29
+grnenhw,26,tutor,"Okay, so let's start with the slide where we left out.",00:02:30
+grnenhw,27,student,Okay.,00:02:36
+grnenhw,28,tutor,Today we need to start from the [unclear] slide. I think we are on the same page?,00:02:37
+grnenhw,29,student,Yeah.,00:02:42
+grnenhw,30,tutor,"Okay, so let's round the number 1,251 to the nearest thousand. [unclear]",00:02:44
+grnenhw,31,tutor,"Okay, so a number line can help us think which multiples of thousand the number lies between. So I think we had discussed in the previous, uh, in the previous week as well what is next multiple and what is the previous multiple. Do you remember that?",00:02:50
+grnenhw,32,student,"Um, yeah.",00:03:10
+grnenhw,33,tutor,"Okay, that's great. So if we are rounding to the nearest thousand, the previous multiple 1251 is 1000, and the next multiple would be 2000, right?",00:03:13
+grnenhw,34,student,Yeah.,00:03:27
+grnenhw,35,tutor,"Because we need to write the same digit in the thousands column, and after that we need the zeros, right?",00:03:29
+grnenhw,36,student,"Okay, yeah.",00:03:36
+grnenhw,37,tutor,"Because we are rounding to the nearest thousand. After the thousands column, we need to put the zeros.",00:03:38
+grnenhw,38,student,"Okay. And in the next multiple, we need to add the 1 to the number, the actual number, that is 1000. So we need to add 1 in the 1000, that will make 2000.",00:03:43
+grnenhw,39,student,Okay.,00:03:57
+grnenhw,40,tutor,Is it clear?,00:03:58
+grnenhw,41,student,Yeah.,00:03:59
+grnenhw,42,tutor,"Okay, so shall we start with the C part now?",00:04:01
+grnenhw,43,student,Yeah.,00:04:04
+grnenhw,44,tutor,1251 rounded to the nearest 1000 is [UNCLEAR]. It [unclear],00:04:05
+grnenhw,45,tutor,"is the hundredst olum that also help us decide, right? In the thousands, if we are rounding to the nearest thousands. Yeah.",00:04:11
+grnenhw,46,student,The,00:04:20
+grnenhw,47,tutor,hundredst olum will help us. The digit in the hundredst olum is 2. Okay.,00:04:20
+grnenhw,48,student,Means,00:04:26
+grnenhw,49,tutor,it is less than 5. We need to round down. Round down means to the previous multiple. Yeah.,00:04:28
+grnenhw,50,student,Is,00:04:35
+grnenhw,51,tutor,it clear?,00:04:35
+grnenhw,52,student,Yeah.,00:04:38
+grnenhw,53,tutor,Okay. So shall we start with the your turn side now?,00:04:38
+grnenhw,54,student,Yeah.,00:04:42
+grnenhw,55,tutor,Okay. Can you read the question please?,00:04:44
+grnenhw,56,student,"Round the number 6,580 to the nearest thousand. [unclear] And mark the position of 6,580 on the number line.",00:04:48
+grnenhw,57,tutor,"Okay, go for that.",00:05:06
+grnenhw,58,student,Hello?,00:05:16
+grnenhw,59,tutor,Hello?,00:05:18
+grnenhw,60,student,"Yes, I can hear you.",00:05:19
+grnenhw,61,tutor,Okay. [unclear],00:05:22
+grnenhw,62,student,"Like, oh, here. [unclear]",00:05:32
+grnenhw,63,tutor,"Okay. So now, can you write down the previous multiple and the next multiple?",00:05:41
+grnenhw,64,student,Okay. So... [unclear],00:05:56
+grnenhw,65,tutor,"Uh-huh, very good.",00:06:15
+grnenhw,66,tutor,"Very good. Okay, so now let's start with the C part.",00:06:31
+grnenhw,67,student,Okay. [unclear] [unclear],00:06:39
+grnenhw,68,student,I think.,00:06:54
+grnenhw,69,tutor,Okay. So which column helped us to decide?,00:07:20
+grnenhw,70,student,Was it the [unclear] column?,00:07:29
+grnenhw,71,tutor,"Very good. So can you write it down over here, please?",00:07:38
+grnenhw,72,background,"Okay. Okay, so very well then. So what if I will give you the same question to the nearest hundreds? [unclear] What would be your previous multiple and the next multiple?",00:07:49
+grnenhw,73,student,"So, would it be [unclear] [unclear]",00:08:22
+grnenhw,74,tutor,"How it would be 0? If you need to round to the nearest hundred, what would be the previous multiple to this number 6580? What is the previous multiple to the nearest hundreds?",00:08:35
+grnenhw,75,student,Ah!,00:09:00
+grnenhw,76,student,"6,000.",00:09:01
+grnenhw,77,tutor,Right.,00:09:03
+grnenhw,78,student,"7,000.",00:09:06
+grnenhw,79,tutor,So it would be the same to the nearest thousand or nearest hundreds? Is it would be the same?,00:09:09
+grnenhw,80,student,Yeah.,00:09:17
+grnenhw,81,tutor,"Okay, [STUDENT_NAME], let me tell you, it would won't be same.",00:09:19
+grnenhw,82,student,Okay.,00:09:24
+grnenhw,83,tutor,"As to the nearest thousand, we need to write up to the nearest thousandth stolen digit, right? Now if we are rounding to the nearest hundreds, we need to write the digit up to the hundredth stolen.",00:09:24
+grnenhw,84,student,Okay.,00:09:37
+grnenhw,85,tutor,"So it would be 6,500.",00:09:39
+grnenhw,86,student,Yeah.,00:09:42
+grnenhw,87,tutor,The previous multiple. So can you write down the next multiple now? [unclear] [unclear],00:09:44
+grnenhw,88,tutor,"You need to change the hundreds column now. You need to add the 1 in the hundreds column. Because you are rounding to the nearest hundreds. In which column you are rounding, you need to add 1 to that column only. Are you getting my point? You need to add 1 to the hundreds column. Note to the thousands problem.",00:10:00
+grnenhw,89,tutor,Okay. So what would be your next multiple? [unclear],00:10:23
+grnenhw,90,tutor,"Yes, very good. [unclear]",00:10:46
+grnenhw,91,tutor,"6,000. Add 1 to the hundreds column. Add 1 to the hundreds column. What is the digit in the hundreds column over here?",00:10:48
+grnenhw,92,student,5.,00:11:10
+grnenhw,93,tutor,Add 1 to it.,00:11:12
+grnenhw,94,tutor,"Very good. And what do we need to write after that? Very good. Okay, so if you are rounding to the nearest hundreds, at which column do you need to look at?",00:11:15
+grnenhw,95,student,"Um, the, the 5.",00:11:26
+grnenhw,96,tutor,The tens column. One column to the right.,00:11:31
+grnenhw,97,student,"Oh, okay.",00:11:34
+grnenhw,98,tutor,The one— tens column. So what is the digit in the tens column?,00:11:36
+grnenhw,99,student,The [UNCLEAR].,00:11:40
+grnenhw,100,tutor,The 8. So what do you think? Do we need to round up or down?,00:11:42
+grnenhw,101,student,Um... up.,00:11:47
+grnenhw,102,tutor,Yes. So what is your final answer for this?,00:11:51
+grnenhw,103,student,"Um... 6,600.",00:11:54
+grnenhw,104,tutor,"Very good, [STUDENT_NAME]. And I really appreciate the way you learn new things over here. You really... [unclear] new learning sticker from my side.",00:12:00
+grnenhw,105,student,Thank you.,00:12:10
+grnenhw,106,tutor,"You're welcome. Okay, shall we move ahead?",00:12:12
+grnenhw,107,student,Yeah.,00:12:16
+grnenhw,108,tutor,"Okay, so before moving, can you recall the things that we had discussed so far?",00:12:18
+grnenhw,109,student,So we discussed that [unclear],00:12:23
+grnenhw,110,student,"Like this number, 6,500 and 6,600, you can round them. You can round them. And we've learnt like what column helps us decide.",00:12:34
+grnenhw,111,tutor,OK.,00:12:56
+grnenhw,112,student,"And we've learnt what the previous multiple is and what the next multiple is. [unclear] And we've also learnt that 5 or more, or 5 or less [UNCLEAR].",00:13:05
+grnenhw,113,tutor,Okay.,00:13:38
+grnenhw,114,student,Yeah.,00:13:40
+grnenhw,115,tutor,"Very well explained. And for your explanation here, you really deserve a big thumbs up from my side. Good job.",00:13:41
+grnenhw,116,student,Thank you.,00:13:48
+grnenhw,117,tutor,"You're welcome. So now before we move ahead, I just want to check, is my voice loud and clear to you?",00:13:49
+grnenhw,118,student,"Yeah, I can hear them, but there's some crashes.",00:13:58
+grnenhw,119,tutor,"Okay, can you refresh your page once?",00:14:04
+grnenhw,120,student,Okay.,00:14:07
+grnenhw,121,tutor,You know how to refresh the page?,00:14:13
+grnenhw,122,student,You press the arrow.,00:14:15
+grnenhw,123,tutor,"Yes, go for that.",00:14:18
+grnenhw,124,student,Is that okay?,00:14:19
+grnenhw,125,tutor,"Okay. So now, is my voice too fast or too slow for you, or is it fine?",00:14:25
+grnenhw,126,student,It's a bit too fast.,00:14:33
+grnenhw,127,tutor,"Okay, so if you feel the same problem, do let me know. I can slow down my speed, okay?",00:14:36
+grnenhw,128,tutor,Okay. Shall we move ahead?,00:14:43
+grnenhw,129,student,Yeah.,00:14:50
+grnenhw,130,tutor,So now it's time to start with the [unclear] slide.,00:14:52
+grnenhw,131,student,Okay.,00:14:56
+grnenhw,132,tutor,So can you read the question please?,00:14:57
+grnenhw,133,student,Round 2715 to the nearest hundred or to the nearest thousand.,00:15:00
+grnenhw,134,tutor,Okay. So let's start with the A part.,00:15:09
+grnenhw,135,student,Okay. So— [unclear] [unclear],00:15:17
+grnenhw,136,tutor,"Would it be— wait, no. [unclear]",00:15:35
+grnenhw,137,student,Mm-hmm. [unclear],00:16:04
+grnenhw,138,tutor,"Okay, how did we get this answer?",00:16:36
+grnenhw,139,student,"By looking at the [UNCLEAR], by looking at the hundredths column.",00:16:40
+grnenhw,140,tutor,"Okay, if you're rounding to the nearest hundredths, at which column do we need to look at?",00:16:45
+grnenhw,141,background,The hundreds— the tens column.,00:16:57
+grnenhw,142,student,"Oh, okay.",00:17:03
+grnenhw,143,background,One column to the right.,00:17:05
+grnenhw,144,student,Okay. [unclear],00:17:07
+grnenhw,145,tutor,So what would be your answer now? If you look at the tense column.,00:17:30
+grnenhw,146,student,Um... [unclear],00:17:37
+grnenhw,147,tutor,Mm-hmm. [unclear],00:17:59
+grnenhw,148,tutor,"2,700.",00:18:32
+grnenhw,149,student,Okay.,00:18:33
+grnenhw,150,tutor,"Don't look at the hundreds column, we need to put the zeros.",00:18:33
+grnenhw,151,student,Okay.,00:18:36
+grnenhw,152,tutor,"Okay, let's start with the B part now.",00:18:43
+grnenhw,153,student,Okay. So... [unclear] [unclear],00:18:46
+grnenhw,154,tutor,Okay. [unclear],00:19:13
+grnenhw,155,tutor,"How would it be 3,700?",00:19:48
+grnenhw,156,student,Um...,00:19:53
+grnenhw,157,tutor,You are rounding to the nearest thousand. Do we need to put any digit in the hundreds column? [unclear],00:19:55
+grnenhw,158,student,I don't think so.,00:20:09
+grnenhw,159,tutor,"Yes, so there is no need to put anything in the hundreds column except 0.",00:20:11
+grnenhw,160,student,Okay.,00:20:17
+grnenhw,161,tutor,Can you rectify your answer over here as well?,00:20:29
+grnenhw,162,student,Okay. [unclear] [unclear],00:20:33
+grnenhw,163,tutor,Is it— [unclear],00:20:55
+grnenhw,164,tutor,"Very good, very good, [STUDENT_NAME], for rectifying your mistake. You really deserve good working out sticker from my side. Good job.",00:21:29
+grnenhw,165,student,Thank you.,00:21:38
+grnenhw,166,tutor,You're welcome. So shall we start with the second question now?,00:21:39
+grnenhw,167,student,Yeah.,00:21:43
+grnenhw,168,student,"Around 5,325 to the nearest thousand and hundred.",00:21:47
+grnenhw,169,tutor,Mm-hmm.,00:21:57
+grnenhw,170,student,So... [unclear] [unclear],00:22:01
+grnenhw,171,student,[unclear] [unclear],00:22:09
+grnenhw,172,student,[unclear] [unclear],00:22:36
+grnenhw,173,student,Okay.,00:22:38
+grnenhw,174,tutor,"How did you get 6,000 over here?",00:23:04
+grnenhw,175,student,"Well, I was thinking about because— [unclear]",00:23:07
+grnenhw,176,tutor,"Okay, so if you need to go to the nearest thousand, at which column do you need to look at?",00:23:18
+grnenhw,177,student,Do we look at the—,00:23:25
+grnenhw,178,student,The thousands.,00:23:30
+grnenhw,179,tutor,"If you're rounding to the nearest thousand, [STUDENT_NAME], at which column do you need to look at?",00:23:32
+grnenhw,180,student,Where is it? The hundreds.,00:23:44
+grnenhw,181,tutor,Yes. So what is the digit in the hundreds column?,00:23:46
+grnenhw,182,student,"The, um, the [UNCLEAR].",00:23:49
+grnenhw,183,student,Is it the 3?,00:23:54
+grnenhw,184,tutor,"Right, it's 3. So what do you think? Do you need to round up or down?",00:23:58
+grnenhw,185,student,Down.,00:24:04
+grnenhw,186,tutor,"Okay, then what would be your answer? [unclear]",00:24:06
+grnenhw,187,tutor,So what would be your answer?,00:24:24
+grnenhw,188,student,I'm just moving these. [unclear] [unclear],00:24:30
+grnenhw,189,tutor,Very good. So now let's start with the nearest hundred.,00:24:47
+grnenhw,190,student,Okay.,00:25:07
+grnenhw,191,tutor,"So, these are all the curves we're gonna go down. So 5,000. [unclear] [unclear]",00:25:14
+grnenhw,192,tutor,"Okay, very good. Very well then, [STUDENT_NAME]. For thinking first and on your own, here you really deserve awesome efforts sticker from my side.",00:26:14
+grnenhw,193,student,Thank you.,00:26:25
+grnenhw,194,tutor,You're welcome.,00:26:26
+grnenhw,195,tutor,"Okay, so shall we start with this third question now?",00:26:31
+grnenhw,196,student,Yeah. [unclear],00:26:35
+grnenhw,197,tutor,"Okay, can you read the question please?",00:26:44
+grnenhw,198,student,"Which two numbers round to 5,600 when rounded to the nearest hundred?",00:26:51
+grnenhw,199,tutor,Mm-hmm.,00:26:57
+grnenhw,200,student,So— [unclear] [unclear],00:27:05
+grnenhw,201,tutor,"From A, B, C, D, or E, that which two numbers rounded to 5600 when rounded to the nearest hundreds?",00:27:50
+grnenhw,202,student,"Okay, so... [unclear] [unclear]",00:27:59
+grnenhw,203,tutor,So— [unclear],00:28:30
+grnenhw,204,background,[unclear],00:28:42
+grnenhw,205,tutor,"Okay, so which two numbers are nearest? [unclear]",00:29:11
+grnenhw,206,student,Like digits or like... [unclear],00:29:20
+grnenhw,207,tutor,[unclear] [unclear],00:29:20
+grnenhw,208,tutor,[unclear] [unclear],00:29:20
+grnenhw,209,tutor,"Okay, any idea?",00:30:08
+grnenhw,210,tutor,No. Give a try. [unclear],00:30:25
+grnenhw,211,tutor,"Okay, so what two numbers are closest to 5600? If you need to tell me the closest number.",00:30:45
+grnenhw,212,tutor,So I can't hear you because it keeps crashing.,00:30:52
+grnenhw,213,student,"Okay, let me refresh my page. [unclear] [unclear]",00:30:57
+grnenhw,214,tutor,Hello? Can you hear me?,00:31:20
+grnenhw,215,student,Yeah.,00:31:22
+grnenhw,216,tutor,"Okay, so what two numbers are closest to 5600?",00:31:23
+grnenhw,217,student,"Um, is one of them 5?",00:31:29
+grnenhw,218,tutor,"You need to decide from A, B, C, D, or E.",00:31:40
+grnenhw,219,tutor,What 2 numbers?,00:31:43
+grnenhw,220,student,"Oh, so do I write A or B? [unclear] Okay.",00:31:44
+grnenhw,221,tutor,Yes.,00:31:48
+grnenhw,222,student,"So, um, should I write the letters in here?",00:31:51
+grnenhw,223,tutor,"Yes, over here in these dashes.",00:32:08
+grnenhw,224,student,Okay. [unclear],00:32:11
+grnenhw,225,tutor,"Okay, and how did you find it out?",00:32:38
+grnenhw,226,student,I looked at the letters to see which one [UNCLEAR].,00:32:42
+grnenhw,227,tutor,"Okay, very good. Very well done. So now it's time to move ahead to the row further slide.",00:32:49
+grnenhw,228,student,Okay.,00:33:02
+grnenhw,229,tutor,"So can you read this question using your pointer tool, please?",00:33:05
+grnenhw,230,student,"Okay. A number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? Give two possible answers. [unclear]",00:33:09
+grnenhw,231,student,It could have been [unclear] [unclear],00:33:28
+grnenhw,232,tutor,"Okay, and how it would be 4,000 and 6,000?",00:33:58
+grnenhw,233,student,"Because I looked at the numbers, I looked at the 5 and I was thinking 4,000, 6,000.",00:34:06
+grnenhw,234,tutor,"Okay, can you read this question once again?",00:34:16
+grnenhw,235,student,"A number is rounded to the nearest thousand. The answer is 5,000.",00:34:19
+grnenhw,236,background,What could the original number have been? Give 2 possible answers.,00:34:23
+grnenhw,237,background,"Right. So the answer is 5,000. What do you mean by the answer is 5,000?",00:34:28
+grnenhw,238,student,"Um, like, that's like— that's like the actual answer.",00:34:35
+grnenhw,239,background,"Yes. So to the nearest thousand, if you will round some number The answer would be 5,000. So what number he is thinking of?",00:34:46
+grnenhw,240,student,"Um, the 5.",00:34:57
+grnenhw,241,tutor,"I'm asking about the number, not the digit.",00:35:04
+grnenhw,242,student,Oh. Um. [unclear] [unclear],00:35:09
+grnenhw,243,tutor,"Okay, so the answer is 5,000. The rounded figure is 5,000.",00:35:41
+grnenhw,244,tutor,"You need to think about the number that if you will round that number, the answer would be 5,000.",00:35:45
+grnenhw,245,student,Yeah.,00:35:53
+grnenhw,246,tutor,"Right? So if you will think about the 4,000, the answer could be 5,000 to the nearest thousand. [unclear] Okay, if you're rounding to the nearest thousand, at which column do",00:35:54
+grnenhw,247,tutor,So you need to look at the—,00:36:11
+grnenhw,248,student,Do we look at the hundreds?,00:36:16
+grnenhw,249,tutor,Yes.,00:36:21
+grnenhw,250,student,"Okay, so— [unclear] [unclear]",00:36:22
+grnenhw,251,tutor,"I'm gonna have to move this number. Oh, okay. So what number he's thinking of, if he will round that number, the answer would be 5,000.",00:36:42
+grnenhw,252,student,Yeah. [unclear],00:36:57
+grnenhw,253,tutor,So what number is thinking of? [unclear],00:37:25
+grnenhw,254,tutor,"So 5,000 is the answer. You need to think about the random number. If you will round that number, the answer would be 5,000. Are you getting my point?",00:37:29
+grnenhw,255,student,Yeah. [unclear],00:37:44
+grnenhw,256,tutor,"Can you give me any example, any random number that you are thinking of?",00:37:57
+grnenhw,257,student,"I'm thinking of this. 5,500. Okay, so what if the digit of hundred sholom is 5? Do we need to round up or down?",00:38:17
+grnenhw,258,student,I think... [unclear],00:38:30
+grnenhw,259,tutor,"Okay, so if we will round up with the number 5,500, what could be your number to the nearest thousand? [unclear]",00:38:34
+grnenhw,260,tutor,"6,000.",00:38:50
+grnenhw,261,student,"6,000.",00:38:51
+grnenhw,262,tutor,Yeah.,00:38:52
+grnenhw,263,student,"Do you think we can write 5,500 in that case?",00:38:52
+grnenhw,264,tutor,No.,00:39:02
+grnenhw,265,student,No.,00:39:04
+grnenhw,266,tutor,So think about any other number. You are very near to your answer.,00:39:04
+grnenhw,267,student,Okay. [unclear],00:39:09
+grnenhw,268,tutor,"Okay, what if my number is 4,500?",00:39:54
+grnenhw,269,tutor,"Okay, so what could be the other number?",00:40:39
+grnenhw,270,student,I need to move this. [unclear],00:40:43
+grnenhw,271,tutor,"Okay, let me give you a hint. It could be between 4,500 and 5,490.",00:40:54
+grnenhw,272,student,Okay. [unclear],00:41:04
+grnenhw,273,tutor,It could be any number.,00:41:10
+grnenhw,274,tutor,"Between 4,500. [unclear] [unclear]",00:41:20
+grnenhw,275,tutor,"Where? Okay, no problem! Okay, [STUDENT_NAME], it's my request to you, please give a try or practice these type of questions at your free time.",00:41:49
+grnenhw,276,student,Okay.,00:42:19
+grnenhw,277,tutor,Okay?,00:42:20
+grnenhw,278,student,Okay.,00:42:21
+grnenhw,279,tutor,This is your last session with me. I just want to wish you all the very best for your quiz questions and for your future as well.,00:42:21
+grnenhw,280,student,"Okay, thank you.",00:42:29
+grnenhw,281,tutor,"Bye-bye, have a nice day ahead.",00:42:31
+grnenhw,282,student,Bye. [unclear],00:42:33

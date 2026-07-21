@@ -1,0 +1,146 @@
+session_id,utterance_id,role,content,timestamp
+ivqpbeo,0,tutor,Hello.,00:00:00
+ivqpbeo,1,background,[unclear],00:00:00
+ivqpbeo,2,student,Hello.,00:00:00
+ivqpbeo,3,tutor,"Hi Callum. Hi, how are you doing today?",00:00:01
+ivqpbeo,4,student,"I am well, thank you for asking. How are you?",00:00:06
+ivqpbeo,5,tutor,"Yeah, I am doing great, thank you. And yeah, let me introduce myself Callum, I am Gideon. And I'm going to be your tutor today. [unclear] And yeah, nice to meet you, Callum.",00:00:09
+ivqpbeo,6,student,Likewise.,00:00:23
+ivqpbeo,7,tutor,"Yeah, so shall we start the session now?",00:00:24
+ivqpbeo,8,background,Yes.,00:00:28
+ivqpbeo,9,tutor,"Okay, so yeah, let's start our session with the new lesson, Finding Probabilities Using Tree Diagrams. So can you try the question on this slide, please?",00:00:29
+ivqpbeo,10,tutor,"In total, there are 7",00:00:49
+ivqpbeo,11,background,"2 blue, 3 red, 2 green. [unclear] Then first it's asking for the red sweets, so that is 3 red sweets out of a total of 7 sweets. 3 over 7. And then it's also asking for a blue sweet, so 2 blue sweets out of 7 total, 2 over 7. And because it is asking for red sweets and blue sweets, we multiply these 2 fractions to get 6 over 49.",00:00:53
+ivqpbeo,12,student,"Hmm, okay, okay, that's such a great explanation, Callum. But you know, first of all,",00:01:32
+ivqpbeo,13,tutor,"Uh, we have to pick, uh, yeah, we are picking one. So which means in the second round there will be how many, uh, sweets are left? [unclear]",00:01:40
+ivqpbeo,14,student,"Yeah, the second fraction would be 2/6 because there's 6 total now because—",00:01:54
+ivqpbeo,15,tutor,"Yeah, exactly. Okay, yeah, that's correct. So what would be the answer? 6 over 42, which can be simplified to 1/7.",00:02:01
+ivqpbeo,16,tutor,"Yeah, amazing. So the answer is going to be C. Okay, great explanation, Callum. All right, let's move on to the first question. [unclear] [unclear]",00:02:14
+ivqpbeo,17,student,"Just from the question, you can already substitute some values into this tree. Which I have done here. And because probabilities add to 1, you can simply do 1 subtract 1 probability to get the alternative probability. For example, 1 subtract 0.2 is 0.8.",00:02:51
+ivqpbeo,18,tutor,"Is 0.8. Yeah, exactly. [unclear]",00:03:14
+ivqpbeo,19,student,And then we do the same for the other 2.,00:03:20
+ivqpbeo,20,tutor,"So now we have the full tree. So that's already question A. Now it is about... [unclear] So question B is asking the probability if it rains on Monday. I was going to draw, but I think that's going to be too complicated. So the",00:03:23
+ivqpbeo,21,tutor,"It's asking if it'll rain Monday, so that's already 0.2. And then also raining on Tuesday, so it is both these probabilities. And because it's an [UNCLEAR], we multiply the probabilities together. So 0.2 multiplied by 0.3 is 0.06. And then, let's say it is asking the probability that it will rain. So it is asking the probability if it will rain on either Monday or Tuesday.",00:03:48
+ivqpbeo,22,tutor,Mm-hmm.,00:04:34
+ivqpbeo,23,student,"So here, if it rains on Monday, we can simply ignore the other parts because it already satisfies the conditions, so we can now take this 0.2 probability. But on the lower half, if it does not rain on Monday but does rain on Tuesday, that is again satisfying— it agrees with the conditions, so this is also valid probability.",00:04:35
+ivqpbeo,24,tutor,"Well, this situation is valid. [unclear] question, but get the probability of it raining only on Tuesday. We would multiply these two probabilities together to get— so 0.8 multiplied by 0.3 equals 0.24, and then simply do 0.24 plus 0.2 because it is an or statement, and that should get us 0.44.",00:05:01
+ivqpbeo,25,student,[unclear],00:05:30
+ivqpbeo,26,tutor,"[unclear] Okay. All right, so before that, can you complete all the probability values here, ratios here, Callum?",00:05:36
+ivqpbeo,27,student,Yeah. [unclear],00:05:50
+ivqpbeo,28,tutor,"Yeah, that's amazing. So yeah, all right. So you will have 2 marks for completing the tree. Okay? For completing the tree diagram. And also you will have 1 mark for the right answer for the first question. And can you, uh, check your second— I mean, final answer once again, Callum? Yeah, so we will have to find the probability, uh, if it rains on either Monday or Tuesday. Yeah.",00:06:05
+ivqpbeo,29,student,"Yes. So yeah, should we add or multiply here? [unclear] Yeah, that's correct. You have to add. And yeah, so if it rains on Monday and no rain on Tuesday, so how will be the probability? [unclear]",00:06:50
+ivqpbeo,30,tutor,Did you say— did you ask about the probability if it rains Monday but not on Tuesday?,00:07:24
+ivqpbeo,31,student,Yeah.,00:07:31
+ivqpbeo,32,tutor,"That would be, as shown here, 0.14.",00:07:32
+ivqpbeo,33,student,"Yeah, that would be 0.14. And if, yeah, if it— no rain on Monday and if it rains on Tuesday, then the probability is 0.24.",00:07:35
+ivqpbeo,34,tutor,Yes.,00:07:51
+ivqpbeo,35,student,"Yes, or shouldn't we add them together to find the answer for the last question? [unclear]",00:07:52
+ivqpbeo,36,tutor,"But I did include those two, but I also included the probability of it raining on Monday and on Tuesday, because it did not specify it had to rain once on—",00:08:01
+ivqpbeo,37,tutor,Just once in total.,00:08:14
+ivqpbeo,38,student,"Uh, yeah, but it rains either Monday or Tuesday, yeah?",00:08:16
+ivqpbeo,39,tutor,Yes.,00:08:21
+ivqpbeo,40,student,"Not on both days. [unclear] So we will have to go with the second probability, which means rains on Monday and no rain on Tuesday.",00:08:21
+ivqpbeo,41,tutor,"Right. So these two probabilities, what sort of situations are the only two out of the four that satisfy the conditions? There you go, we simply add these two probabilities, or these two probabilities, and because this is an [unclear] statement, and that should get 0.38.",00:08:44
+ivqpbeo,42,tutor,"Yeah, that's correct. So the answer is 0.38. And yeah, you will have 2 marks for the right answer, Callum. So totally you will gain 6 marks for this question. And yeah, great work, Callum. But shall we try a similar question? Before moving on to the next exam style question?",00:09:07
+ivqpbeo,43,student,I'm fine with either situation.,00:09:40
+ivqpbeo,44,tutor,"Okay, so let's try to do this question and then we'll move on to the next exam style question. [unclear] [unclear]",00:09:46
+ivqpbeo,45,tutor,"Yeah. Can you read out the question once again, please?",00:10:15
+ivqpbeo,46,student,The probability of getting heads on a biased coin is 0.5. [unclear],00:10:19
+ivqpbeo,47,tutor,Okay.,00:10:35
+ivqpbeo,48,student,"For simplicity's sake, I think I will simply be putting the numbers here and just saying what the numbers mean.",00:10:36
+ivqpbeo,49,tutor,Okay.,00:10:59
+ivqpbeo,50,student,"So here, on this section, the first section, which is when the coin is flipped once, the top probability is the probability of it being heads, bottom is tails.",00:10:59
+ivqpbeo,51,tutor,"I already knew the probability of heads was 0.7 because of the question, but to get to the other probability I did 1 0.7. Yeah.",00:11:17
+ivqpbeo,52,student,Then,00:11:28
+ivqpbeo,53,tutor,"I simply repeated this on the other half of the probability tree, and this section is simply the second time it is— the coin is flipped. So [unclear] the probability of getting heads twice is 0.7 multiplied by 0.7, 0.49.",00:11:28
+ivqpbeo,54,tutor,Yeah.,00:11:48
+ivqpbeo,55,student,"The probability of heads once, then tails is 0.7 multiplied by 0.3, 0.21. The probability of tails, then heads is 0.3, then 0.7, multiplied by 0.7, so 0.21 again. And then finally, 2 tails, 0.3 squared, 0.09. So this is essentially the full diagram. [unclear] Getting heads twice, as discussed, would be 0.49 because you multiply the two probabilities here together. And the probability of getting one of heads and one of tails. Well, there's two situations we can do",00:11:49
+ivqpbeo,56,background,"heads then tails, which is 0.21, or tails and heads, which is also 0.21. So we add these two probabilities to get 0.42.",00:12:42
+ivqpbeo,57,tutor,"Okay, yeah, brilliant work, [UNCLEAR]. And also, yeah, great work in completing the tree diagram. So again, you will have 6 marks. You will have complete 6 marks for this question. But yeah, it's always a good practice to name all these situations here.",00:12:56
+ivqpbeo,58,tutor,Yes.,00:13:19
+ivqpbeo,59,student,"Yeah, so let's name it as H and T.",00:13:21
+ivqpbeo,60,tutor,"And yeah, let's call this situation as first flip. And this one as the second flip. Second flip. Yeah. Okay.",00:13:34
+ivqpbeo,61,tutor,"Okay, good job, Callum. And here we move on to the next exam [unclear] question.",00:13:52
+ivqpbeo,62,tutor,"So the question immediately tells me there are 12 sweets in total and 4 of them are blue. So I know the probability of getting one blue sweet from the entire pile would be 4 in 12, which can be simplified to 1/3. But if I [unclear] that blue one, and attempt to pick another sweet, then the probability will be 4 subtract 1 because there's one now less blue over 12 subtract 1 because there's now one less sweet. So 3—",00:14:23
+ivqpbeo,63,student,"Yeah, but we already picked a sweet in the first pick. So how many sweets are left now?",00:15:05
+ivqpbeo,64,tutor,Callum?,00:15:13
+ivqpbeo,65,student,"Yeah. Okay. [unclear] And then it is— we do that same process for the yellow sweets, but to calculate yellow sweet probability, we simply do 1 subtract 4/12 to get 8/12, and then finally you can simply subtract 1 when needed to get the other 2 fractions.",00:15:14
+ivqpbeo,66,tutor,"Yeah, that's amazing and perfect understanding. [unclear]",00:15:51
+ivqpbeo,67,student,"So ignoring the just the fancy mumbo-jumbo to calculate each situation. It was simply modifying the two probabilities together, and for simplicity's sake, I won't be saying it out loud this time.",00:16:00
+ivqpbeo,68,student,"[unclear] So, the probability that she picks a blue sweet and then a yellow sweet, well, as we can see, that's the second situation here, which I calculated the probability to be 8 over 33.",00:16:18
+ivqpbeo,69,tutor,Yeah. [unclear],00:17:45
+ivqpbeo,70,tutor,"And then for question C, it asks for a blue sweet at least once. So we will need to add firstly this— well, we'll need to add these two probabilities, but that simply adds to this one, so it is simpler just to use this probability. And then add that to this probability because this does contain a blue [UNCLEAR].",00:17:50
+ivqpbeo,71,tutor,"And so, well, another way to do that could be to do 1 subtract yy, but typically you want the first. It is better to use the first method.",00:17:50
+ivqpbeo,72,tutor,"So after you do that, your final answer should be... so 4/12 multiplied by 8/33 equals 8/99. [unclear] Yeah, but shall we try the second method, Callum, which means taking away this fraction from 1?",00:18:43
+ivqpbeo,73,student,"Yes, so if you do that method, well, I mean, it's not much to talk about, but it is very simple, just one subtract. This probability. You simply— and then I suppose input it in your calculator if you have one. Just carry the equation through and the answer should be 19 over 33.",00:19:22
+ivqpbeo,74,tutor,"Yeah, that would be 19 over 33. [unclear]",00:19:53
+ivqpbeo,75,tutor,"So the answer is 19/33 for the calculation, I mean for the question C, Callum.",00:19:59
+ivqpbeo,76,student,"Oh yeah, I believe I may have done the 4/12 multiplied by 8/33 as opposed to adding them, which I should have done. When you do [UNCLEAR], just give me that.",00:20:08
+ivqpbeo,77,tutor,Yeah.,00:20:08
+ivqpbeo,78,tutor,"Yeah, amazing, amazing job, Callum. And yeah, great understanding. And also good working out.",00:20:38
+ivqpbeo,79,tutor,"Okay, moving on to the next question, Callum. [unclear] [unclear]",00:20:53
+ivqpbeo,80,tutor,"So the question does not give me a total to put as the [unclear] the denominator. However, that can simply be calculated by adding 5 and 6 and 4 together, which gets a total of 15, as shown in the fractions there.",00:21:39
+ivqpbeo,81,student,"[unclear] And then in the second section, because we've already taken one from the first section, the total decreases by 1 to get 14.",00:21:56
+ivqpbeo,82,tutor,Mm-hmm.,00:22:27
+ivqpbeo,83,student,"And also, it decreased by— the numerator decreased by 1 when it is the same [UNCLEAR].",00:22:29
+ivqpbeo,84,tutor,Crisp has the one already picked for you.,00:22:36
+ivqpbeo,85,tutor,"So words and labels aside, this is in terms of numbers, the entire probability tree. [unclear] So then the next question is the probability about the probability she picks 2 packs of the same flavour. So she could either pick up Cheese and Onion twice, or Ready Salted twice, or Salt and Vinegar twice.",00:23:03
+ivqpbeo,86,tutor,So we just simply calculate those 3 probabilities and add them together.,00:23:45
+ivqpbeo,87,tutor,"So for instance, in cheese and onion, this is simply 5 over 15 multiplied by 4 over 14 because those are the two cheese and onion choices.",00:23:54
+ivqpbeo,88,student,"Yeah, with the same [UNCLEAR]. That is the probability for picking two packs of the same flavor. Yes, and then we repeat that process for the other two and add those probabilities together. I don't think you would need me to go through the specific—",00:24:09
+ivqpbeo,89,student,"Yeah, that's all right. Yeah, just let me know the answer.",00:24:30
+ivqpbeo,90,tutor,Right.,00:24:34
+ivqpbeo,91,tutor,"So after I added the 3 probabilities, I got 52 over 210, which can be simplified to 26 over 105. So that's the question. [unclear]",00:25:13
+ivqpbeo,92,student,"That, yeah.",00:25:33
+ivqpbeo,93,tutor,And can you check your answer once again? [unclear],00:25:35
+ivqpbeo,94,tutor,"Yeah, that's a good try, but that would be better if you could check it once again.",00:25:43
+ivqpbeo,95,tutor,"Ah, okay. So when you add the 3 probabilities, you get 62 over 210, which can be simplified to 31 over 100. [unclear]",00:26:04
+ivqpbeo,96,student,"105, yes.",00:26:18
+ivqpbeo,97,tutor,"Then question C, probability that she picks at least one pack of red assorted.",00:26:28
+ivqpbeo,98,tutor,Now we could calculate the probability of these 3 situations because each of them does involve red assorted.,00:26:35
+ivqpbeo,99,tutor,"For these combined, simply this probability. So again, I'll be using this probability itself. [unclear]",00:26:43
+ivqpbeo,100,tutor,"But for the other 2 sections, there are only 2 situations in total that involve [UNCLEAR]. I think I can— oh yeah, so in this situation and this situation, or outcome, sorry, they involve [UNCLEAR]. So we just need to add these 3 probabilities To get the probability of the other two situations, we multiply. Again, I'm just going to tell you the answer of the calculation.",00:26:51
+ivqpbeo,101,tutor,Okay. [unclear] [unclear],00:27:31
+ivqpbeo,102,tutor,"Right, oh, sorry, I did put an at sign instead of a multiplication sign there. So now my calculator is saying the answer is 20, nope,",00:28:21
+ivqpbeo,103,tutor,is 23 over 35.,00:28:21
+ivqpbeo,104,background,"Yeah, amazing. That's the right answer. Yeah, brilliant work once again, Callum.",00:28:21
+ivqpbeo,105,student,"Great, thank you.",00:28:53
+ivqpbeo,106,background,"And yeah, now it's time for a challenge question. [unclear]",00:29:00
+ivqpbeo,107,tutor,Right. [unclear],00:29:16
+ivqpbeo,108,student,"Well, I don't have the paper here, so I don't know.",00:29:17
+ivqpbeo,109,tutor,The 9F3?,00:29:23
+ivqpbeo,110,student,"No, no. 8F1. [unclear]",00:29:25
+ivqpbeo,111,student,[unclear] [unclear],00:29:33
+ivqpbeo,112,student,[unclear] [unclear],00:29:40
+ivqpbeo,113,tutor,"So the first thing I did here was substitute the information in the question into— well, it's not really a tree, but it was simplified tree. For clarification, the letters refer to first, second, and third. And the second letter is simply pass or fail.",00:30:16
+ivqpbeo,114,tutor,Mm-hmm.,00:30:45
+ivqpbeo,115,tutor,"Right, so now that we know this, we can simply do 1 subtract 1 probability to calculate a different probability. And then this one, for instance, the probability she fails on the third time is 1 subtract 0.8, so 0.2.",00:30:46
+ivqpbeo,116,student,Yeah.,00:31:10
+ivqpbeo,117,tutor,I think for now we'll just be working with this. [unclear],00:31:53
+ivqpbeo,118,tutor,"Anywho, so the probability that she'll pass the second time. So here we have the probability— sorry, I'm getting a bit [unclear] up in words now. So the",00:32:04
+ivqpbeo,119,tutor,"So there is a third section to the tree, but after the second time, it does become irrelevant. So we'll be focusing on the first two sections here. So in either situation where she passes or fails the first time, so long as she passes the second time, that does meet the conditions. So we'll be doing 0.6 multiplied by 0.5 plus 0.6 multiplied by 0.85, and this— that should get us our answer. So that should be 0.6— [unclear]",00:32:28
+ivqpbeo,120,tutor,Oh.,00:33:17
+ivqpbeo,121,tutor,"Right. I think it just could have done that probability of itself, actually. But anyway, regardless, 0.6 should be the final answer for question B, I believe. [unclear]",00:33:20
+ivqpbeo,122,student,"Will that be the final answer, Callum? So if she fails the first attempt, then only is she going to sit for the second time. And yeah, we are finding for the probability she passes the second time, which means she has to fail in the first time. Okay, yeah, let's draw. Shall we try to draw a tree properly?",00:33:37
+ivqpbeo,123,tutor,"Wait, how are you doing that?",00:34:15
+ivqpbeo,124,tutor,You can use the line tool under the shapes tool.,00:34:20
+ivqpbeo,125,student,"Oh, I thought I just have to like draw it manually. Sorry.",00:34:27
+ivqpbeo,126,tutor,"Okay, yeah, you can find a set of tools at the bottom of your screen, yeah?",00:34:32
+ivqpbeo,127,student,"Yes, I found it.",00:34:38
+ivqpbeo,128,tutor,"Yeah. [unclear] Okay, okay, Callum, let's understand the question first. Yeah, so she is taking her driving test, and if she passes the first time, yeah, should she have to sit for the second time or the third time?",00:34:40
+ivqpbeo,129,student,"I mean, I was assuming that— I was assuming that she would, just because it did not specify otherwise, but",00:35:26
+ivqpbeo,130,tutor,"From what you have said, I am now assuming that no, after you pass once, you do not do it again.",00:35:34
+ivqpbeo,131,student,[unclear],00:35:44
+ivqpbeo,132,tutor,"Right, so knowing that, we would simply do 0.6, the probability she passes the second time, multiplied by 0.85, the probability she fails the first time, in and of itself, nothing more, nothing less. And that should get an answer of 0.51.",00:35:45
+ivqpbeo,133,tutor,"Yeah, the answer is 0.5. [unclear]",00:36:03
+ivqpbeo,134,student,"That's not good. So anywho, the probability that she would fail all 3 times. [unclear]",00:36:13
+ivqpbeo,135,tutor,"Yeah, okay. Let's draw this tree diagram together, yeah?",00:36:29
+ivqpbeo,136,student,Sure.,00:36:39
+ivqpbeo,137,tutor,"Okay, here we go. Yeah, let me do it properly. So this is the probability if she passes in the first time and if she fails, yeah? [unclear]",00:36:40
+ivqpbeo,138,tutor,"And also, if she fails the first attempt, then she's gonna sit for the next exam. Yeah?",00:37:07
+ivqpbeo,139,student,Yes.,00:37:18
+ivqpbeo,140,tutor,"Right. So again, let me Labels this as pass and fail, and if she fails in the second attempt also, then she'll be facing her next exam, I mean the third attempt. [unclear]",00:37:19
+ivqpbeo,141,tutor,"Yes, amazing, you got the point. Okay, okay, good job and great effort in today's session, Callum.",00:37:37
+ivqpbeo,142,tutor,"Yeah, you are doing wonderfully well. Keep up the good job. So I'm going to end our session right now. You will have the quizzes at the end. Please do complete them and have a good day.",00:37:50
+ivqpbeo,143,student,You too. Bye.,00:38:01
+ivqpbeo,144,tutor,"Okay, thank you. Bye, Callum.",00:38:02

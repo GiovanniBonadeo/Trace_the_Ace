@@ -1,0 +1,457 @@
+session_id,utterance_id,role,content,timestamp
+eujetsk,0,tutor,Hello?,00:00:00
+eujetsk,1,background,[unclear],00:00:00
+eujetsk,2,student,Hello.,00:00:00
+eujetsk,3,tutor,"Oh, you can hear me?",00:00:01
+eujetsk,4,student,Yeah.,00:00:03
+eujetsk,5,tutor,Nice. How is your day? Good.,00:00:04
+eujetsk,6,tutor,Good. What have you been doing so far? PE.,00:00:08
+eujetsk,7,tutor,"PE, okay. And how was your weekend? Good.",00:00:12
+eujetsk,8,tutor,"Did you get up to anything fun, anything interesting? Nah, did you?",00:00:17
+eujetsk,9,tutor,"Not good? Not really, I was just chilling at home.",00:00:21
+eujetsk,10,tutor,Yeah. How has maths been going? Good.,00:00:24
+eujetsk,11,tutor,"Good. What have you been doing? It's practice [unclear] week, so we've done papers yesterday. The day and today. Today it was actually good because it's maths today, innit?",00:00:28
+eujetsk,12,tutor,"Alright, okay. How is that going?",00:00:39
+eujetsk,13,student,Are we doing maths today?,00:00:42
+eujetsk,14,tutor,"Yes, yes we are. So we are doing maths at EduPro. [unclear]",00:00:44
+eujetsk,15,student,And it's good because I did an arithmetic paper today.,00:00:48
+eujetsk,16,tutor,"Oh, did you? So how do you think it went?",00:00:55
+eujetsk,17,student,Good. I got,00:00:58
+eujetsk,18,student,"In the first one, I think I got 22.",00:01:00
+eujetsk,19,tutor,Do you want to do auto?,00:01:03
+eujetsk,20,student,"I don't know. [unclear] The proper one, I get my score back tomorrow.",00:01:06
+eujetsk,21,tutor,"All right, so you're getting it tomorrow. I believe next term after the holidays, we might be doing some SATs, so to prepare for your SATs exams in May. So yeah, let's— but in the meantime, let's do some fractions. [Speaker] Do you see what I— do you know before you come on it says like make a house and that?",00:01:11
+eujetsk,22,tutor,"No, I don't see that. So that's something I think you need to do before we start. [Speaker] Yeah, I did.",00:01:33
+eujetsk,23,tutor,"All right, nice, good job. [Speaker] Do you not see it? I did all of it.",00:01:40
+eujetsk,24,tutor,"Okay, oh, I do see it, but I see it after the session ends. [Speaker] Oh.",00:01:46
+eujetsk,25,tutor,"Yeah, so I don't see it before. After it ends, I get a small like a report on what you did. So I'll check it out after the session.",00:01:50
+eujetsk,26,student,I did it all.,00:01:58
+eujetsk,27,tutor,"Nice. All right, thank you for doing that.",00:02:00
+eujetsk,28,student,You're welcome.,00:02:01
+eujetsk,29,tutor,"All right, so lesson number 1 is going to be comparing and ordering fractions. I believe we did this last week.",00:02:02
+eujetsk,30,background,"I'm gonna say, did we start this last week?",00:02:09
+eujetsk,31,tutor,"Yes, we did. We did start it last week, but I think we have— I think we have just 2 or 3 questions to go. [unclear]",00:02:12
+eujetsk,32,background,What will happen next?,00:02:20
+eujetsk,33,student,The next— we'll go into the next session.,00:02:22
+eujetsk,34,tutor,"Yes, or the next lesson, yes.",00:02:25
+eujetsk,35,student,Learning— do you want me to try the— what's it called?,00:02:29
+eujetsk,36,tutor,Yes.,00:02:31
+eujetsk,37,student,Learning goal.,00:02:32
+eujetsk,38,tutor,"The learning goal, yep.",00:02:33
+eujetsk,39,student,"Write the fraction in order from smallest to largest. Alright, so first— in fractions, isn't it like 1 over 2 biggest?",00:02:34
+eujetsk,40,tutor,"Not always. It could be, but you have to compare it.",00:02:47
+eujetsk,41,student,Is it the biggest denominator goes first? And is it not?,00:02:51
+eujetsk,42,tutor,"Usually if the numerators are the same, the biggest denominator would be the smallest.",00:02:56
+eujetsk,43,student,So 3 over 5 is first?,00:03:02
+eujetsk,44,tutor,"That would be the largest, actually.",00:03:05
+eujetsk,45,student,"Yeah, it is. I know. [unclear]",00:03:07
+eujetsk,46,student,"Yeah, I put the largest.",00:03:10
+eujetsk,47,student,"Oh, smallest to largest.",00:03:14
+eujetsk,48,tutor,"Smallest to largest, yep.",00:03:16
+eujetsk,49,student,"Oh, I thought you said largest to smallest.",00:03:17
+eujetsk,50,tutor,Nope. [unclear],00:03:21
+eujetsk,51,tutor,I can't rub it out.,00:03:44
+eujetsk,52,student,The 3?,00:03:45
+eujetsk,53,tutor,Hmm?,00:03:47
+eujetsk,54,student,You want to rub the 3 out?,00:03:48
+eujetsk,55,tutor,"No, it's alright.",00:03:51
+eujetsk,56,student,Okay.,00:03:52
+eujetsk,57,tutor,"I was meant to put 2 over 2 there, so I just moved it.",00:03:53
+eujetsk,58,student,Uh-huh.,00:03:56
+eujetsk,59,tutor,"Alright, so the 3/5 is correct, but these two would have to switch places.",00:04:05
+eujetsk,60,student,"Wait, what? No! What? Would it? 1/2 is smaller than 2/10?",00:04:11
+eujetsk,61,tutor,1/2 is larger than 2/10.,00:04:16
+eujetsk,62,student,"No, wait, what?",00:04:20
+eujetsk,63,tutor,Yep.,00:04:21
+eujetsk,64,student,"2 is bigger than 1, 10 is bigger than 2?",00:04:22
+eujetsk,65,tutor,"Yep, you're not wrong there, but look at it this way. Would you rather have 1/2 of the pizza or 2 slices out of 10?",00:04:26
+eujetsk,66,student,"Oh yes, [UNCLEAR]. [Speaker:Tutor] Yeah? Do you remember last week where we found the common denominator and did it that way? If you do that, the common denominator we would take is 10 since 10 is a multiple of both 5 and 2. So you do this times 2, you do this times 2.",00:04:36
+eujetsk,67,tutor,Hello?,00:05:02
+eujetsk,68,student,Hello?,00:05:03
+eujetsk,69,tutor,"Oh, there you go. You're breaking up a bit. [unclear]",00:05:03
+eujetsk,70,student,"Oh, am I? Alright.",00:05:05
+eujetsk,71,tutor,Now I can hear you.,00:05:06
+eujetsk,72,student,Alright. Do you remember this method we did last week?,00:05:09
+eujetsk,73,tutor,"Yeah, I remember.",00:05:12
+eujetsk,74,student,"That we found the common denominator. So this is the best method or the best way to do it. I think it's going to guarantee we which is smaller and which is larger. So as you can see, 2/10 is the smallest. So 3/5 is the same as 6/10. 1/2 is the same as 5/10. So 5/10— [unclear]",00:05:13
+eujetsk,75,tutor,Hello?,00:10:08
+eujetsk,76,student,Hello?,00:10:09
+eujetsk,77,tutor,Hello.,00:10:12
+eujetsk,78,student,"Hi, all good? [unclear]",00:10:12
+eujetsk,79,tutor,Is everything okay?,00:10:16
+eujetsk,80,student,"Yeah, my computer, I had to switch it because the computer I was on just went black and I couldn't get on.",00:10:19
+eujetsk,81,tutor,"Oh, okay. It might have crashed.",00:10:26
+eujetsk,82,tutor,Yeah.,00:10:30
+eujetsk,83,student,"Alright, so all good now, yeah?",00:10:30
+eujetsk,84,tutor,"Yeah, it wasn't working properly, so... [unclear]",00:10:32
+eujetsk,85,student,"Alright, so I think I was explaining this. Let me explain it again. So what I did here was convert the denominators into tenths. Basically, I found the lowest common multiple and then I converted it into tenths. So as you can see, 2 tenths We have 6/10 and 5/10. 2/10 would be the smallest. The next smallest would be 5/10, which is 1/2. That's why it's in the middle. And the largest, which is 6/10, or 3/5.",00:10:37
+eujetsk,86,student,What happened to the other number?,00:11:07
+eujetsk,87,tutor,The 5?,00:11:09
+eujetsk,88,student,Yeah.,00:11:10
+eujetsk,89,tutor,"Oh, it might have gotten rubbed off. There you go. All right, so do you want to try the prior learning as well?",00:11:11
+eujetsk,90,student,What color are you? I'm red.,00:11:19
+eujetsk,91,tutor,"Alright, I'll be green then.",00:11:22
+eujetsk,92,student,Alright.,00:11:24
+eujetsk,93,tutor,"Play alone. Find the common multiple of 4, 5, and 10. Hello?",00:11:27
+eujetsk,94,background,Mm-hmm. Yeah.,00:11:35
+eujetsk,95,tutor,You alright?,00:11:39
+eujetsk,96,background,Yeah. So you can answer it.,00:11:40
+eujetsk,97,tutor,I heard a big bang.,00:11:42
+eujetsk,98,background,"Oh, it's something outside, I think.",00:11:44
+eujetsk,99,student,"Alright, 4, 5, and 10. [unclear] 1 times 4 is 4, 1 times 5 is 5, and 1 times 10 is 10.",00:11:47
+eujetsk,100,tutor,"So that's not what they're asking. They're asking the answers to. So in the 4 times table, 5 times table, and the 10 times table, what are some common answers?",00:11:56
+eujetsk,101,student,Oh.,00:12:04
+eujetsk,102,student,20.,00:12:13
+eujetsk,103,tutor,"Perfect, very good. So 20 would be 1. Very good. So this is going to be very important when we are trying to find the denominators. [unclear] Correct, 20 would be a real good multiple. So how about we continue from where we left off? I think we need to continue from— let me check.",00:12:14
+eujetsk,104,tutor,"Yeah, we need to continue from 2. We did question 1, I think, A and B. So how about we try 2 here? So let's start by reading the question.",00:12:39
+eujetsk,105,student,Fill the missing symbols in [unclear] all equal.,00:12:53
+eujetsk,106,tutor,"So question 1, we finished this. We did this last week. So we need to try to— [unclear] Write each sentence of fraction with the common denominator, then put in the order from smallest to largest. So you need to order these for A, these 4 fractions. So what you need to do something first. What do you need to do first? [unclear] Order it?",00:13:02
+eujetsk,107,tutor,"Before we order it, Look at the denominators, they're all different. So what we need to do first is to find the lowest common multiple and find a common denominator. So what's the common denominator you're going to take?",00:13:29
+eujetsk,108,student,7/9?,00:13:43
+eujetsk,109,tutor,"No. So if you look at the denominators, the bottom numbers, we have 20, we have 5, 10, and 4. What's the common multiple?",00:13:45
+eujetsk,110,student,"Oh, these ones are this.",00:13:52
+eujetsk,111,tutor,These ones. [unclear],00:13:54
+eujetsk,112,tutor,"No, so for A, the bottom numbers.",00:13:58
+eujetsk,113,student,4 over 20.,00:14:02
+eujetsk,114,tutor,"4 over 20. So they're asking about the denominator. Just focus on the numbers at the bottom. So 25, 10, and 4. What's the common multiple between all 4 of them?",00:14:04
+eujetsk,115,student,They're all in the 2 times [UNCLEAR].,00:14:15
+eujetsk,116,student,Yeah.,00:14:23
+eujetsk,117,background,They're all in.,00:14:24
+eujetsk,118,student,No.,00:14:25
+eujetsk,119,tutor,"They are, but...",00:14:25
+eujetsk,120,student,"No, they're not.",00:14:27
+eujetsk,121,tutor,"No, they're not, except for the 5. So you remember, similar to this one, you remember how you did this? So that's the same thing they're asking. What's the common multiple? [unclear] So look at the numbers. We have 20, we have 5, we have 10, and we have 4.",00:14:27
+eujetsk,122,student,Mm-hmm.,00:14:43
+eujetsk,123,tutor,"What about the 20? Would 20 be in the 20 times table? 5 times table, 10 times table, and the 4 times table?",00:14:45
+eujetsk,124,student,5.,00:14:54
+eujetsk,125,tutor,"Yeah, would it be in the 5?",00:14:56
+eujetsk,126,student,Yeah.,00:14:58
+eujetsk,127,tutor,"Yeah, what about the 10?",00:14:58
+eujetsk,128,student,[unclear] Yeah.,00:15:01
+eujetsk,129,tutor,"Yeah, what about the 4?",00:15:02
+eujetsk,130,student,"Yeah, 5 times 4 is 20.",00:15:04
+eujetsk,131,tutor,"There you go. So we can take 20 as the common denominator. So now what we are going to do is, since this is all— this already has a 20 as the denominator, we're going to convert these to have a denominator of 20. And how would we do that?",00:15:06
+eujetsk,132,student,We times that by 2.,00:15:28
+eujetsk,133,tutor,"Good. If you times the bottom by 2, what do you times the top by? [Speaker:Toby]... [UNCLEAR]",00:15:33
+eujetsk,134,tutor,Very good. 2 times 2 would be?,00:15:38
+eujetsk,135,student,"Um, 2 times—",00:15:43
+eujetsk,136,tutor,"Actually, do we times 5 by 2?",00:15:44
+eujetsk,137,student,Yeah.,00:15:48
+eujetsk,138,tutor,"No, 5 times 2 is 10.",00:15:49
+eujetsk,139,student,Yeah.,00:15:51
+eujetsk,140,tutor,But we need 20.,00:15:52
+eujetsk,141,student,5 times 4.,00:15:54
+eujetsk,142,tutor,"5 times 4, correct.",00:15:57
+eujetsk,143,student,20.,00:15:59
+eujetsk,144,tutor,"Uh-huh. If you times the bottom by 4, what do you do to the top?",00:16:00
+eujetsk,145,student,Times that by 4.,00:16:05
+eujetsk,146,tutor,"Uh-huh, very good. So 2 times 4 would be?",00:16:07
+eujetsk,147,tutor,It's very good.,00:16:13
+eujetsk,148,student,What is that noise?,00:16:15
+eujetsk,149,tutor,The noise? I think it's fireworks.,00:16:18
+eujetsk,150,student,Like a [unclear] shot?,00:16:22
+eujetsk,151,tutor,"No, I think it's fireworks. Since Christmas is close, people are lighting fireworks right now for some reason. Anyways, yeah, let's do the same for this one.",00:16:23
+eujetsk,152,student,Say that again?,00:16:37
+eujetsk,153,background,It's past bonfire night.,00:16:40
+eujetsk,154,student,Bonfire night?,00:16:44
+eujetsk,155,background,"Yeah, it's past it. Why is it like that?",00:16:46
+eujetsk,156,student,I don't really know. I think it's just random people just lighting firecrackers or fireworks.,00:16:48
+eujetsk,157,background,"All right, I didn't know, but I wanted to ask because I didn't know what it was. I was hearing some like",00:16:56
+eujetsk,158,tutor,"Right, it was pretty loud. I mean, it is December, it's like close to Christmas.",00:17:04
+eujetsk,159,student,"You mean like a loud [UNCLEAR]? [Speaker:Tutor] Right, yeah, so that's what it is, fireworks. Alright, so let's do the same with this one. How did we get the 20 from the 10? Times what?",00:17:09
+eujetsk,160,student,By 4?,00:17:27
+eujetsk,161,tutor,"10 times? Yeah, so this one we did already. We got the 8. 10 times what? [unclear]",00:17:29
+eujetsk,162,tutor,"Correct. So you do 10 times 2. If you times the bottom by 2, what do you do to the top?",00:17:39
+eujetsk,163,student,Times that by 2.,00:17:45
+eujetsk,164,tutor,Yep. So 3 times 2 would be?,00:17:47
+eujetsk,165,student,6.,00:17:49
+eujetsk,166,tutor,6. Very good.,00:17:51
+eujetsk,167,tutor,So you can type a 6 over here. [unclear],00:17:56
+eujetsk,168,tutor,And then type a 6 here. [unclear],00:18:14
+eujetsk,169,student,Times that by 2?,00:18:38
+eujetsk,170,tutor,"Yep, so 3 times 2 would be what?",00:18:40
+eujetsk,171,student,6.,00:18:43
+eujetsk,172,tutor,Good.,00:18:45
+eujetsk,173,tutor,"So you can put a 6 up here. Not up here, up here. [unclear]",00:18:49
+eujetsk,174,tutor,"All right. So we haven't gotten to this yet, so we do same here. 4 times what gives you 20?",00:19:02
+eujetsk,175,student,5.,00:19:20
+eujetsk,176,tutor,"Uh-huh. There you go. That would be 5. Alright, so now you have the 4 fractions. What would be the smallest fraction? [unclear] You have the answers here. So this would be 5. You have 4/20, 8/20, 6/20, and 5/20. What's the smallest fraction?",00:19:20
+eujetsk,177,student,[unclear],00:19:45
+eujetsk,178,tutor,Yep. No? So 2/5 would be here. 2/5 is the same as 8/20. So they are equal. What's the smallest fraction? 4/20. Very good.,00:19:47
+eujetsk,179,student,5/20?,00:19:58
+eujetsk,180,tutor,"No, 4/20 would be smaller. So you can type 4/20 over here. [unclear]",00:19:59
+eujetsk,181,tutor,"Try typing it, I think it might be easier for you.",00:20:13
+eujetsk,182,student,"Yeah, definitely. And then how do I get a line symbol?",00:20:16
+eujetsk,183,tutor,"You can use this as the line, just imagine this is the line.",00:20:23
+eujetsk,184,student,"Oh, right.",00:20:29
+eujetsk,185,tutor,"Oh, alright, now you can do that. [unclear]",00:20:30
+eujetsk,186,tutor,"Alright, yep. And what would the next smallest be?",00:20:43
+eujetsk,187,student,6/20— oh no.,00:20:46
+eujetsk,188,tutor,No.,00:20:50
+eujetsk,189,student,2/5?,00:20:52
+eujetsk,190,tutor,No.,00:20:54
+eujetsk,191,student,No. 6/20?,00:20:55
+eujetsk,192,tutor,"Then something smaller than 6/20. [Speaker:Toby].../20. [Speaker:Tutor].../20. Very good. So when you're writing this, write 1/4 since it's the same as 5/20. So it's 1/4, not 5/20. It's 1/4. [Speaker:Toby] How do you write that?",00:20:58
+eujetsk,193,tutor,"1/4, 1 over 4. So 1 over 4 is 5/20. [unclear]",00:21:18
+eujetsk,194,student,How do you do it so quick? [unclear],00:21:26
+eujetsk,195,tutor,1 over 5.,00:21:30
+eujetsk,196,background,4. You see this fraction here?,00:21:33
+eujetsk,197,student,"1 over 4... I can't do it. It's not letting me type. Oh, there you go. 1/5.",00:21:35
+eujetsk,198,tutor,Nice. What's the next smallest? [unclear],00:21:46
+eujetsk,199,tutor,"Uh, yep, 6/20 or 3/10. 6/20 is the same as 3/10. So we are going to write the ones in the yellow bubbles.",00:21:58
+eujetsk,200,student,"6/10, yes.",00:22:08
+eujetsk,201,tutor,Toby?,00:22:10
+eujetsk,202,student,Uh...,00:22:11
+eujetsk,203,tutor,"No, so you don't have to write all, just write 3/10. You don't— if you try the 6/20, That won't be correct. We are doing this to help us so that it's easy for us to work it out. [unclear]",00:22:12
+eujetsk,204,tutor,"6/20 is the same as 3/10, so let's write— type 3/10.",00:22:30
+eujetsk,205,student,3/10.,00:22:34
+eujetsk,206,tutor,"All right, and what's the largest fraction?",00:22:48
+eujetsk,207,student,"8— uh, 2/5.",00:22:54
+eujetsk,208,tutor,"2/5, perfect. [unclear] Exactly, there you go. Now you get it? Very good. 2/5, perfect. Uh, I think this would be 20 and this would be 1. All right, nice. So Let's do the same for question B here. What's going to be the common denominator you're going to take? Look at all the denominators.",00:22:55
+eujetsk,209,student,I'm looking at them.,00:23:32
+eujetsk,210,tutor,"You have 18, 6, 3, and 9. [unclear]",00:23:36
+eujetsk,211,tutor,"So what's the common multiple? Kind of like how we did here between 18, 6, 3, and 9.",00:23:45
+eujetsk,212,tutor,What about 18? Can we take 18?,00:24:08
+eujetsk,213,student,No.,00:24:10
+eujetsk,214,tutor,Why not?,00:24:11
+eujetsk,215,student,Yeah.,00:24:13
+eujetsk,216,tutor,Why yes? Is 18 in the 9 times table?,00:24:15
+eujetsk,217,student,Yes.,00:24:21
+eujetsk,218,tutor,What about 3 times table?,00:24:22
+eujetsk,219,student,Yeah.,00:24:26
+eujetsk,220,tutor,Yup. And the 6 times table?,00:24:27
+eujetsk,221,student,[unclear],00:24:31
+eujetsk,222,tutor,"And it is obviously in the 18 times table, so we can take 18. Let's do the same thing over here. All right, so do you want to give this one a try? What would be this equivalent fraction?",00:24:31
+eujetsk,223,tutor,Hello?,00:25:22
+eujetsk,224,student,Hello?,00:25:23
+eujetsk,225,tutor,You kicked me off.,00:25:23
+eujetsk,226,student,All good now?,00:25:26
+eujetsk,227,tutor,Yeah.,00:25:27
+eujetsk,228,student,All right.,00:25:29
+eujetsk,229,tutor,I refreshed it like you said to.,00:25:30
+eujetsk,230,student,"Oh, okay, nice.",00:25:31
+eujetsk,231,tutor,"So as you were saying, it's all in the— it's 18.",00:25:34
+eujetsk,232,student,Mm-hmm.,00:25:39
+eujetsk,233,tutor,18. Can you see them little dots I'm putting?,00:25:40
+eujetsk,234,student,"Right, yep.",00:25:43
+eujetsk,235,tutor,18s are all in the timetables.,00:25:44
+eujetsk,236,tutor,Uh-huh. So we need to see how did the 9 become an 18?,00:25:46
+eujetsk,237,student,You times that by 2.,00:25:51
+eujetsk,238,tutor,"Good. So if you times this by 2, what do you times the top one by?",00:25:53
+eujetsk,239,student,By 2. 2 times [unclear] would be 4.,00:25:56
+eujetsk,240,tutor,2 times 2 would be 4. Good. You can type the 4 there. All right. What about this one? 3 times what gives you 18?,00:25:58
+eujetsk,241,student,3 times 6.,00:26:06
+eujetsk,242,tutor,"Uh-huh. If you times this by 6, what do you times the top one by?",00:26:07
+eujetsk,243,student,6.,00:26:13
+eujetsk,244,tutor,Which means 1 times 6 is?,00:26:15
+eujetsk,245,student,"6, because every time you times 1, it's the same number. 306, like no matter how high, like 1,000 times, 1 million times 1 is 1 million.",00:26:17
+eujetsk,246,tutor,"Yes, very good.",00:26:29
+eujetsk,247,student,Like 50 trillion is 50 trillion.,00:26:31
+eujetsk,248,tutor,"All right, so okay. What about this one? 6 times what gives you 18?",00:26:34
+eujetsk,249,student,"6 times, sorry.",00:26:40
+eujetsk,250,tutor,Yep. So what about the top?,00:26:41
+eujetsk,251,student,"1 time. You do whatever you do to the bottom to the top, so half times.",00:26:44
+eujetsk,252,tutor,"Right. Perfect. There you go. Nice. Now you have the fractions. This is 6, I think. So what's the smallest fraction here? [unclear] [unclear]",00:26:49
+eujetsk,253,student,Sorry.,00:27:11
+eujetsk,254,tutor,Mm-hmm?,00:27:11
+eujetsk,255,student,Something was going on in the library where I am. Someone pulled someone else's headset. Someone pulled someone else's headset down.,00:27:12
+eujetsk,256,tutor,"Oh, did they?",00:27:25
+eujetsk,257,student,As a joke.,00:27:27
+eujetsk,258,tutor,All right.,00:27:28
+eujetsk,259,student,When the teacher left.,00:27:29
+eujetsk,260,tutor,"Alright, so what would the smallest fraction here be? [Speaker:Toby]...3/18. [Speaker:Tutor] Yep, very good, 3/18, or what?",00:27:35
+eujetsk,261,student,1/6.,00:27:51
+eujetsk,262,tutor,"1/6, amazing.",00:27:52
+eujetsk,263,student,"Is that equivalent to 1/6, or is the 3 for the 5/8? [unclear]",00:27:53
+eujetsk,264,tutor,"No, it's for the 1/6. It's with these two. You see the equal sign here?",00:27:56
+eujetsk,265,student,"Yeah, yeah. [unclear] Oh God, have you ever had that thing where when you write a 1, every time you move your pencil something draws?",00:28:05
+eujetsk,266,tutor,Yep. So it gets a bit weird. So try typing it. It might be easier. A bit weird.,00:28:19
+eujetsk,267,tutor,Yep.,00:28:28
+eujetsk,268,student,"Oh, not again. I'll rage quit with this. Cross that out. I'll type instead. I don't know what it's doing. [unclear]",00:28:31
+eujetsk,269,student,1 over 6.,00:28:51
+eujetsk,270,tutor,"Mm-hmm, good. What's the next smallest? [unclear]",00:28:51
+eujetsk,271,student,"Okay, 4 over 18 or 2 over 9.",00:28:58
+eujetsk,272,tutor,"Perfect, 2 over 9, good.",00:29:02
+eujetsk,273,student,Done. And then 1 over 6 is the— 1 over— 15/8 is the biggest.,00:29:11
+eujetsk,274,tutor,Mm-hmm.,00:29:18
+eujetsk,275,student,But still got 1/3.,00:29:20
+eujetsk,276,tutor,"Okay, good. Okay, what's the next smallest? Would 1/3 be the next smallest?",00:29:27
+eujetsk,277,student,Nope.,00:29:37
+eujetsk,278,tutor,What's 1/3 equal to? [unclear],00:29:38
+eujetsk,279,student,"Oh no, 8 over 18?",00:29:41
+eujetsk,280,tutor,"Oh, but I didn't. That's 6, 6/18.",00:29:44
+eujetsk,281,student,"Oh. [unclear] We're trying to make this video, but it won't.",00:29:56
+eujetsk,282,tutor,Okay.,00:30:09
+eujetsk,283,student,This one. [unclear] 3 over 18 next?,00:30:13
+eujetsk,284,tutor,"Nope, not 3 over 18. 3/8 is 1/6. So we have 1/6. We have weighted this. Uh, no, we didn't do that. We did this and we did this. So what are we left with? We are left with 1/3, which is 6/18, and we are left with 5/18. What's the next smallest? [unclear]",00:30:33
+eujetsk,285,tutor,You don't know what's smaller between 5/18 and 6/18?,00:30:59
+eujetsk,286,student,Oh.,00:31:01
+eujetsk,287,student,5/18.,00:31:02
+eujetsk,288,tutor,"Yep, so we can type that here. And what's the largest?",00:31:05
+eujetsk,289,student,6/18.,00:31:17
+eujetsk,290,tutor,"6/18, or?",00:31:18
+eujetsk,291,student,"Oh no, 5/18.",00:31:21
+eujetsk,292,tutor,"Oh no, 5/18 is here. What's 6/18 equivalent to? [unclear]",00:31:23
+eujetsk,293,tutor,What's it equal to? Look at this part. One-third.,00:31:39
+eujetsk,294,student,But 18 is bigger than 3. [unclear],00:31:44
+eujetsk,295,tutor,"You did this, Toby. You found the answer here. It's equivalent. You times both by 6, remember? [unclear]",00:31:49
+eujetsk,296,tutor,"There you go. All right, so that's 1/3. Did you type a 3 here?",00:31:57
+eujetsk,297,student,Yeah.,00:32:09
+eujetsk,298,tutor,All right.,00:32:09
+eujetsk,299,student,I can see it.,00:32:11
+eujetsk,300,tutor,"I can see it now. All right, so can you tell me how you did question B here?",00:32:13
+eujetsk,301,student,"No, no. I did 9 up to something which gets me 18, which is 9. I got 3, and then I times 2 by 2, which is 4.",00:32:16
+eujetsk,302,tutor,Okay.,00:32:31
+eujetsk,303,student,I got this and this and this and yeah.,00:32:33
+eujetsk,304,tutor,"All right, what do you mean by this and this and this and this?",00:32:37
+eujetsk,305,student,These things here.,00:32:40
+eujetsk,306,tutor,How did you get those things?,00:32:42
+eujetsk,307,student,I don't know.,00:32:45
+eujetsk,308,tutor,"You're not sure? I think you're very distracted. Today, Toby?",00:32:47
+eujetsk,309,student,I didn't know.,00:32:50
+eujetsk,310,tutor,It's not like you. Usually you are very focused.,00:32:51
+eujetsk,311,student,"I know, I just— [unclear]",00:32:55
+eujetsk,312,tutor,You know what you don't know.,00:32:58
+eujetsk,313,student,"Times 4, and then 1 times 3 is 3. 3 times 6 is 18, so I have to times that times 6 is 6. 6 times 3 is 18, so I have to times 1 times 3, which is 3, and then put them smallest to biggest. And then up here I did 2 times 5 times 4, which is 20. So I had to do 2 times 4. Don't you need to write a 4 there to show that we did 5 times 4? No?",00:33:00
+eujetsk,314,tutor,"Uh, you can show it, sure. But since you— I think you knew how to do it.",00:33:28
+eujetsk,315,student,"2 times 4 is 8. Yeah. And then 10 times 2, which is 20. And I actually did 3 times 2, which is 6. Can you see my pointer that says Toby?",00:33:31
+eujetsk,316,tutor,"Yes, yep. 3 times 2, which is 6. So you could see it when I was down here and up here.",00:33:41
+eujetsk,317,tutor,"Very good, nice, very good. So you did know how to do it.",00:33:48
+eujetsk,318,student,You could see it when I was over here and here.,00:33:51
+eujetsk,319,tutor,"Yep, yep.",00:33:53
+eujetsk,320,student,"And 10 times 2, which is 6, and then 3 times 2, which is— no, 10 times 2, which is 20, and then I have to do it up here. 3 times 2 is 6, and then that would get me your answers. What happens to the [unclear] nominator here?",00:33:54
+eujetsk,321,tutor,I think it got dropped off.,00:34:09
+eujetsk,322,student,No.,00:34:12
+eujetsk,323,tutor,"It does happen. I think sometimes when you refresh, when you refresh, it gets messed up sometimes. But yeah, good. I think you, there you go. You did know how to do it and you did know how to explain it well. So great explanation there, Toby. All right, so let's try our last question here.",00:34:12
+eujetsk,324,background,[unclear] where you can send emojis.,00:34:33
+eujetsk,325,tutor,The emojis?,00:34:37
+eujetsk,326,student,"Yeah, I saw it last week.",00:34:38
+eujetsk,327,tutor,You mean what I sent earlier?,00:34:40
+eujetsk,328,student,No.,00:34:43
+eujetsk,329,tutor,Like this?,00:34:44
+eujetsk,330,student,"No, but is that [UNCLEAR]? [Speaker:Tutor] Oh, the emojis. Okay, I think you clicked something on your keyboard. I'm not sure what you clicked. I don't think I have it. I remember it was towards the end, yeah?",00:34:46
+eujetsk,331,student,Pardon?,00:34:59
+eujetsk,332,tutor,It was towards the end of the session? [Speaker] Can you find it? Do you not have an option for it?,00:35:00
+eujetsk,333,tutor,"It's not really, it's not a LessonSpace thing. I think it's something on your laptop. [Speaker] Oh.",00:35:05
+eujetsk,334,tutor,"Or on your computer. [Speaker] Okay. I'm on a laptop, I think, or computer. It has 1, 2, 3, 4, 5, 6, 7, 8, 9, 0.",00:35:11
+eujetsk,335,student,All right. [Speaker] And it says ProBook. [unclear] [Speaker] Okay.,00:35:23
+eujetsk,336,tutor,"Yep, it's a laptop, I think.",00:35:28
+eujetsk,337,background,Laptop? [unclear],00:35:30
+eujetsk,338,tutor,I'm on a laptop as well.,00:35:31
+eujetsk,339,background,"Oh, yeah. Do you wear headphones or can you hear me anyway?",00:35:35
+eujetsk,340,tutor,I do wear headphones.,00:35:40
+eujetsk,341,background,I saw.,00:35:42
+eujetsk,342,tutor,Yep. All right. So how about we try this one out? Do you want to give it a read?,00:35:43
+eujetsk,343,background,Headphones.,00:35:47
+eujetsk,344,tutor,"Yep, they are wearing headphones as well.",00:35:49
+eujetsk,345,background,Hokey has a jug containing 7 cents of of water. Senda has a jug that contains 3/5 of a litre of water. Whose jug contains the most?,00:35:52
+eujetsk,346,student,Like we did in the last— on the other page.,00:36:09
+eujetsk,347,tutor,Yep.,00:36:12
+eujetsk,348,student,Let me get my pen. 7 over— [unclear],00:36:15
+eujetsk,349,student,"Don't know, that looks like something else. I don't know what it is.",00:36:27
+eujetsk,350,tutor,Mm-hmm.,00:36:32
+eujetsk,351,student,I'm gonna work it. I'm gonna write out my paper so I remember.,00:36:33
+eujetsk,352,tutor,Okay.,00:36:37
+eujetsk,353,student,"So, 7 over 10. There we go. So, like I was saying, 7 over",00:36:37
+eujetsk,354,student,10.,00:36:54
+eujetsk,355,tutor,Okay.,00:36:54
+eujetsk,356,student,And they've also got 3. Does that look like a 3?,00:36:56
+eujetsk,357,tutor,"Uh, yep, that does look like a 3.",00:37:03
+eujetsk,358,student,"Over 5. That person. [unclear] 3 over 2nd attempt. First the worst, second the best. 3 over 5. So we know we got that. We know which one's Hokey.",00:37:05
+eujetsk,359,tutor,"Um, maybe this one's Hokey.",00:37:29
+eujetsk,360,student,"Hokey. Yeah, because his name's first and he's first. So, Hokey and Pokey. Oh, Hokey, we know he's got 7 over 10 of a liter of what? You know, Pokey. She's got 3 over 5. So I think it's Pokey who's got more.",00:37:32
+eujetsk,361,tutor,Why do you say it's Pokey?,00:37:51
+eujetsk,362,student,Because 7 over 10 is bigger than 3 over 5.,00:37:54
+eujetsk,363,tutor,Okay. Why is it bigger?,00:37:59
+eujetsk,364,student,"Oh wait, no, it's Pokey. So what do you need to do here? You need to make sure that the denominators are the same. What's the common denominator you're going to take?",00:38:04
+eujetsk,365,student,2?,00:38:15
+eujetsk,366,tutor,No.,00:38:17
+eujetsk,367,student,"5 times 2 is— yeah, 5 times 2 is—",00:38:17
+eujetsk,368,tutor,"Oh, so you mean 10. You're going to take 10.",00:38:20
+eujetsk,369,student,Mm-hmm.,00:38:22
+eujetsk,370,tutor,"Yeah, so if you take 10, what would the numerators be? [unclear] I think it's Cedar. C-E-D. That's not N.",00:38:23
+eujetsk,371,student,What? What?,00:38:36
+eujetsk,372,tutor,Cedar.,00:38:38
+eujetsk,373,student,"Pardon, sir?",00:38:40
+eujetsk,374,tutor,C-E-D-A-R.,00:38:42
+eujetsk,375,student,What? What does that say? Cinder or Cinder?,00:38:45
+eujetsk,376,tutor,"Cedar, I think. I've never seen that name before.",00:38:48
+eujetsk,377,student,Cedar. [unclear] So Cedar has a fraction of 3/5.,00:38:53
+eujetsk,378,student,"Is that— I think— should we put it where the orange one is Hokey, the green one is [UNCLEAR]? [Speaker:Tutor] Uh-huh. Alright, we can do that.",00:39:02
+eujetsk,379,student,"I need to— oh, I've got an idea. It's smart. Not really. We can draw a line from the jug to jug and see if it lines up.",00:39:11
+eujetsk,380,tutor,No.,00:39:20
+eujetsk,381,student,Hokey's got more.,00:39:21
+eujetsk,382,tutor,So that's not really the best way to do it because Cedar's—,00:39:22
+eujetsk,383,tutor,"The dot is a little bit lower. Never do this in an exam, okay?",00:39:26
+eujetsk,384,student,I know.,00:39:34
+eujetsk,385,tutor,"You should never work it out this way. This is not really— it's just for looks. So yeah, so we need to make this into tenths. How do we do that?",00:39:35
+eujetsk,386,student,Tenting over here. Let me get my pointer on.,00:39:45
+eujetsk,387,tutor,Uh-huh.,00:39:49
+eujetsk,388,student,"Here. What would it be? 5, 350 equals how many tens?",00:39:50
+eujetsk,389,student,"You know, can you see my [unclear] thing that I'm pointing at?",00:40:01
+eujetsk,390,tutor,"Yeah, the 10?",00:40:07
+eujetsk,391,student,"5 times 2, I'll do it here. 5 times 2 equals, got your 10. Need to do 3 times 2. [Speaker] Which will get us the top thing? Yeah?",00:40:09
+eujetsk,392,tutor,"Okay, yep. Which would be? [Speaker] 6.",00:40:22
+eujetsk,393,tutor,"6, very good. So Cedar has 6/10. How much does Oaky have? [unclear] How many tenths? [Speaker] Equal.",00:40:25
+eujetsk,394,tutor,No. How much does Oaky have?,00:40:40
+eujetsk,395,student,7/10. 7 out of 10. How much does he have?,00:40:43
+eujetsk,396,student,6 out of 10.,00:40:46
+eujetsk,397,tutor,So who has more?,00:40:48
+eujetsk,398,student,Hokey.,00:40:49
+eujetsk,399,tutor,"Hokey, very good. Hokey has...",00:40:51
+eujetsk,400,student,I guessed him.,00:40:53
+eujetsk,401,tutor,"Yes, you did, but guessing is not enough here.",00:40:55
+eujetsk,402,student,I knew it. 7 out of 10 is bigger than 3 over [UNCLEAR]. [Speaker:Tutor] Yup. So how... Hokey has how much more? I don't write his name.,00:40:59
+eujetsk,403,tutor,"So if Poki has 7/10 and Sita has 6/10, how much more does Poki have?",00:41:12
+eujetsk,404,student,"I don't know, like a liter?",00:41:18
+eujetsk,405,tutor,No.,00:41:21
+eujetsk,406,student,And a half?,00:41:22
+eujetsk,407,tutor,"Less than a liter. So he has 1/10 more. 7/10, 6/10. Poki has 1/10 more water. Or what is it? [unclear] Delete, delete. I'm trying to delete [UNCLEAR]. I'm trying to delete this bit. [Speaker:Tutor] Which bit? This one?",00:41:23
+eujetsk,408,student,This one. Here.,00:41:46
+eujetsk,409,tutor,"Alright, so that's the end of this lesson. Before we leave, Toby, I think that should be it for today. Before we leave, can you tell me what you learned in this lesson? Or can you tell me what you did in this question here. How did you work it out?",00:41:51
+eujetsk,410,student,I did hunky and a sender thing.,00:42:11
+eujetsk,411,tutor,Okay.,00:42:16
+eujetsk,412,student,I did who had last.,00:42:17
+eujetsk,413,tutor,"All right, but how did you work it out?",00:42:19
+eujetsk,414,student,Can you delete this hunky thing here?,00:42:22
+eujetsk,415,tutor,Which one? The top? This one?,00:42:24
+eujetsk,416,student,Yeah.,00:42:27
+eujetsk,417,tutor,"All right, there you go.",00:42:29
+eujetsk,418,student,My mouse just stuck on it.,00:42:32
+eujetsk,419,tutor,"Okay, so can you explain what you did in this question here?",00:42:36
+eujetsk,420,student,Did you say we had 1 over 10 more?,00:42:38
+eujetsk,421,tutor,Yep.,00:42:41
+eujetsk,422,student,10 liters. [unclear],00:42:42
+eujetsk,423,tutor,"Not— yeah, 1/10 of a liter more. Okay, so can you tell me how you worked this out, Toby?",00:42:45
+eujetsk,424,student,Is that how you write 1/10 of a liter?,00:42:55
+eujetsk,425,tutor,Yes. [unclear],00:42:58
+eujetsk,426,tutor,"All right, so can you explain how you did this question?",00:43:05
+eujetsk,427,student,"I did 3— 5 times— 5 times— oh God. 5 times 2 is 10, so I need to do 3 times 2, which is 6 over 10. 5 times to get to 2 is 25. 2, and 5 times 2 is 10, and then 3 times 2, which is 6.",00:43:11
+eujetsk,428,tutor,"Mm-hmm. All right, nice. So, uh, that should be it for today, Toby.",00:43:30
+eujetsk,429,student,"Equal, actually, because 5 times 2 is—",00:43:35
+eujetsk,430,tutor,"No, this is 7/10, this is 6/10.",00:43:39
+eujetsk,431,student,"But 7— 3 times 7— but at the bottom here, 5 times 2 is 10, so what I need to do 3 times 2, which is 6.",00:43:43
+eujetsk,432,tutor,"Uh-huh, yep. So that's what you did.",00:43:53
+eujetsk,433,student,"No, for this one.",00:43:55
+eujetsk,434,tutor,Which one? This one?,00:43:57
+eujetsk,435,student,"Yeah, 5 times 2 is 10, 3 times 2 is 6, not 7.",00:43:58
+eujetsk,436,tutor,"Yes, so why did you type a 7 there?",00:44:02
+eujetsk,437,student,Hmm?,00:44:05
+eujetsk,438,tutor,You typed a 7 there.,00:44:07
+eujetsk,439,student,Yes.,00:44:08
+eujetsk,440,tutor,"Yes, that would be 6. That's not correct.",00:44:09
+eujetsk,441,student,But you said 7.,00:44:12
+eujetsk,442,tutor,"No, I said this is 7.",00:44:13
+eujetsk,443,student,"All right. [unclear] Alright, okay, so yeah, that should be it, Toby, for today. I think you did really well.",00:44:16
+eujetsk,444,student,I'll make sure to do my quiz.,00:44:24
+eujetsk,445,tutor,"Nice, very good. You can do your quiz.",00:44:26
+eujetsk,446,student,Do you see the [unclear] thing what I've put?,00:44:28
+eujetsk,447,tutor,This one?,00:44:31
+eujetsk,448,student,Do you see the quiz what I've put down here?,00:44:32
+eujetsk,449,tutor,"Yeah. Goodbye, yep. There's no I in Dubai, by the way.",00:44:34
+eujetsk,450,student,Huh?,00:44:40
+eujetsk,451,tutor,"Alright. Okay, so yeah, I'll see you next week, Toby. We have— let's try a new lesson next week, okay? [unclear]",00:44:40
+eujetsk,452,tutor,"I would— after you do the quiz, I'm going to see it.",00:44:52
+eujetsk,453,student,"Yeah, I'll do it.",00:44:55
+eujetsk,454,tutor,"Alright, awesome. Alright, I'll see you next week. Bye-bye.",00:44:56
+eujetsk,455,student,Bye.,00:44:59

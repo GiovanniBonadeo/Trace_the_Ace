@@ -1,0 +1,399 @@
+session_id,utterance_id,role,content,timestamp
+cktiuqj,0,tutor,Hello.,00:00:00
+cktiuqj,1,background,[unclear],00:00:00
+cktiuqj,2,student,Hello.,00:00:00
+cktiuqj,3,tutor,Hello.,00:00:01
+cktiuqj,4,student,Yeah.,00:00:02
+cktiuqj,5,tutor,Hello.,00:00:05
+cktiuqj,6,student,Hi.,00:00:07
+cktiuqj,7,tutor,"Hi, [STUDENT_NAME]. How are you?",00:00:08
+cktiuqj,8,student,"Good, thanks.",00:00:11
+cktiuqj,9,tutor,All right. How was your holiday?,00:00:13
+cktiuqj,10,student,"Good, thanks. Yeah.",00:00:17
+cktiuqj,11,tutor,"That's good. So, what did you do? Did you do anything fun?",00:00:19
+cktiuqj,12,student,"Um, I went on like a holiday for a weekend.",00:00:24
+cktiuqj,13,tutor,Where did you go for holiday?,00:00:31
+cktiuqj,14,student,"Um, it's— I think it's around Devon somewhere.",00:00:33
+cktiuqj,15,tutor,"Okay, did you enjoy it?",00:00:40
+cktiuqj,16,student,"Uh, yeah.",00:00:43
+cktiuqj,17,background,Yes.,00:00:43
+cktiuqj,18,tutor,"Yeah, alright, so then with the new year we'll start our lessons, okay?",00:00:44
+cktiuqj,19,student,Okay.,00:00:49
+cktiuqj,20,tutor,"Alright, so we'll be starting [unclear] and today it's going to be addition and subtraction. Okay?",00:00:50
+cktiuqj,21,student,Okay.,00:00:59
+cktiuqj,22,tutor,"Alright, so we'll have some questions. So I'll give you some time for you to answer them. Okay? So there's a small tip for you. You can use it and try to solve these sums. Alright?",00:00:59
+cktiuqj,23,student,Okay.,00:01:14
+cktiuqj,24,tutor,"Okay, so can you take some time and solve them fast?",00:01:16
+cktiuqj,25,student,Okay. [unclear] [unclear],00:01:21
+cktiuqj,26,tutor,"All right. Before you move into the question, [STUDENT_NAME], can you tell me whether you can solve it without actually adding them up? An easier way?",00:01:54
+cktiuqj,27,student,You could partition it.,00:02:08
+cktiuqj,28,tutor,"Yeah, or maybe you can, let's say, add it to the closest multiple of hundreds or thousands.",00:02:15
+cktiuqj,29,student,What is 199 closest to?,00:02:23
+cktiuqj,30,background,[unclear],00:02:28
+cktiuqj,31,student,200.,00:02:29
+cktiuqj,32,tutor,"200, right? So maybe you can use that to add them up.",00:02:31
+cktiuqj,33,background,So 199...,00:02:37
+cktiuqj,34,tutor,You could do... 200 add 396 take away 1.,00:02:39
+cktiuqj,35,tutor,"398 take away 1, right?",00:02:49
+cktiuqj,36,student,Yeah.,00:02:52
+cktiuqj,37,tutor,"Yeah, you can do that. [unclear]",00:02:53
+cktiuqj,38,student,Yeah.,00:03:07
+cktiuqj,39,tutor,Okay.,00:03:10
+cktiuqj,40,student,Yeah? [unclear] [unclear],00:03:17
+cktiuqj,41,tutor,rounding and adjusting.,00:03:17
+cktiuqj,42,student,[UNCLEAR] [unclear],00:03:17
+cktiuqj,43,tutor,rounding and adjusting.,00:03:17
+cktiuqj,44,student,[UNCLEAR] [unclear],00:03:17
+cktiuqj,45,tutor,"Hello, I'm sorry, [STUDENT_NAME] can't hear you.",00:04:03
+cktiuqj,46,student,Hello?,00:04:09
+cktiuqj,47,tutor,Hello?,00:04:10
+cktiuqj,48,student,"Sorry, I'm sorry, I don't—",00:04:11
+cktiuqj,49,tutor,"Okay, alright.",00:04:14
+cktiuqj,50,student,"And then 9 plus 9, other one, so it's 19.",00:04:25
+cktiuqj,51,tutor,Yeah.,00:04:33
+cktiuqj,52,student,"So, and then— [unclear]",00:04:38
+cktiuqj,53,tutor,So it would be just 100.,00:04:40
+cktiuqj,54,student,Then the next one is 400.,00:04:45
+cktiuqj,55,tutor,And it would give us 598. [unclear],00:04:49
+cktiuqj,56,tutor,"Okay, well done. Can you try question 2 also?",00:05:15
+cktiuqj,57,student,[UNCLEAR] [unclear],00:05:15
+cktiuqj,58,tutor,Okay. [unclear],00:05:26
+cktiuqj,59,student,"So we have 75 here, right?",00:05:31
+cktiuqj,60,tutor,"Yeah. I don't know whether you could do 1,000. 1,900 and then add 75, or do 700 and add 25.",00:05:45
+cktiuqj,61,tutor,"Okay, so you don't have to partition it. Maybe you can round it off at some numbers to make it 1,000 or 2,000. [unclear]",00:06:05
+cktiuqj,62,student,Okay.,00:06:17
+cktiuqj,63,background,"So we have 1,975. And if you add how much? What's something closer to the 1,000?",00:06:17
+cktiuqj,64,student,25.,00:06:26
+cktiuqj,65,tutor,"Yes, 25. So here you can take off this 25 and add it up here to give you?",00:06:28
+cktiuqj,66,student,"2,000.",00:06:34
+cktiuqj,67,tutor,"2,000. And what's going to be remaining here?",00:06:36
+cktiuqj,68,student,700.,00:06:41
+cktiuqj,69,tutor,"Yes. Then when you add 2,000 plus 700?",00:06:43
+cktiuqj,70,student,"[unclear] 2,700.",00:06:46
+cktiuqj,71,tutor,"Yes, exactly. So there you go, you get your answer. [unclear]",00:06:50
+cktiuqj,72,tutor,"All right, well done once again, [STUDENT_NAME]. So you get one mark each, all right? So did you understand how we work these out without actually doing the addition in the normal way?",00:06:58
+cktiuqj,73,student,Oh yeah.,00:07:14
+cktiuqj,74,tutor,"Yes, can you tell me how?",00:07:16
+cktiuqj,75,student,Because you can round it to the nearest hundred or thousand and then just take away or add how many.,00:07:19
+cktiuqj,76,tutor,"Yeah, and then you will be able to easily add them up without actually calculating them, right?",00:07:32
+cktiuqj,77,student,Yeah.,00:07:39
+cktiuqj,78,tutor,"Yes, okay. Then shall we move to the next type of [unclear] questions?",00:07:40
+cktiuqj,79,student,Yeah.,00:07:46
+cktiuqj,80,tutor,"Alright, so here you have a little bit of a difference. And what's the small thing or the point that they're telling us to keep note of?",00:07:47
+cktiuqj,81,student,Use counting on to find the difference.,00:07:57
+cktiuqj,82,tutor,"Alright, what do you know about counting on?",00:08:02
+cktiuqj,83,student,You could count on like however many numbers you need to get,00:08:07
+cktiuqj,84,tutor,So say you had...,00:08:20
+cktiuqj,85,student,"Yeah, just try working the counting on with this one.",00:08:23
+cktiuqj,86,tutor,"Okay, so I think you'd have to do add 4 to get 100, no, 1,000, and then add them together. Or maybe add... or maybe... [unclear] [unclear]",00:08:28
+cktiuqj,87,student,"Or maybe add this 3 to that and add an extra 1 to get 1,000, then add the thousands together.",00:08:50
+cktiuqj,88,tutor,"Aha. So this is a take away sum question, right?",00:09:00
+cktiuqj,89,student,Oh.,00:09:05
+cktiuqj,90,tutor,So then how would you work it out?,00:09:06
+cktiuqj,91,student,Um... I would— [unclear],00:09:09
+cktiuqj,92,tutor,Can you hear me?,00:09:13
+cktiuqj,93,student,Yeah.,00:09:15
+cktiuqj,94,tutor,"I would add this 3 onto there still and add an extra 1 to get 1,000, then take them both away.",00:09:16
+cktiuqj,95,student,Uh-huh.,00:09:28
+cktiuqj,96,tutor,But then you would have 0.,00:09:28
+cktiuqj,97,student,Okay.,00:09:31
+cktiuqj,98,tutor,So I'm not really sure.,00:09:32
+cktiuqj,99,student,"Alright, so shall we work the questions out together? Yeah.",00:09:36
+cktiuqj,100,tutor,"Yeah. All right. Before that, would you like to try the second one? This one over here.",00:09:41
+cktiuqj,101,student,"Okay. [unclear] I think [unclear] added this 2 to the 8 to get 200, and then take away, and then do 200 take away 210, and you'd get 10.",00:09:47
+cktiuqj,102,tutor,"Yes, exactly. Very good. So you can write 10 over there. [unclear]",00:10:02
+cktiuqj,103,student,"Add 751, we get the answer, then whatever that answer is, we take away 1.",00:10:07
+cktiuqj,104,tutor,"Alright, so now can you try to work this out and see if you get 10?",00:10:26
+cktiuqj,105,student,Okay.,00:10:35
+cktiuqj,106,tutor,The normal way?,00:10:39
+cktiuqj,107,student,The normal way.,00:10:40
+cktiuqj,108,tutor,Yes.,00:10:42
+cktiuqj,109,student,In column addition.,00:10:43
+cktiuqj,110,tutor,"Yes, in a column subtraction, okay? I think you missed that point.",00:10:44
+cktiuqj,111,student,Okay.,00:10:50
+cktiuqj,112,tutor,"Okay, can you try it and see if you get 10?",00:10:52
+cktiuqj,113,student,Okay. [unclear] [unclear],00:10:55
+cktiuqj,114,tutor,"um, one?",00:10:55
+cktiuqj,115,student,Yeah.,00:10:55
+cktiuqj,116,tutor,"um, one thousand six hundred and one?",00:10:55
+cktiuqj,117,student,"um, yeah.",00:10:55
+cktiuqj,118,background,[UNCLEAR],00:10:55
+cktiuqj,119,tutor,Yes? No?,00:11:29
+cktiuqj,120,student,Sorry? [unclear],00:11:55
+cktiuqj,121,student,Yeah.,00:11:55
+cktiuqj,122,tutor,599.,00:11:56
+cktiuqj,123,student,Oh.,00:12:00
+cktiuqj,124,tutor,597. [unclear],00:12:01
+cktiuqj,125,student,Sorry.,00:12:05
+cktiuqj,126,background,"9,995 can also be rounded to 10,900.",00:12:07
+cktiuqj,127,tutor,"9,995. [unclear]",00:12:30
+cktiuqj,128,student,Okay.,00:12:32
+cktiuqj,129,tutor,"10,000.",00:12:32
+cktiuqj,130,student,"Hold on, I'll be back a second.",00:12:33
+cktiuqj,131,tutor,"So then we put in 10,000.",00:12:36
+cktiuqj,132,student,"3,700.",00:12:42
+cktiuqj,133,tutor,Add.,00:12:45
+cktiuqj,134,student,"3,205.",00:12:52
+cktiuqj,135,tutor,I got 14.,00:12:53
+cktiuqj,136,student,"Yeah, so there's a difference over here, right? Why do you think that happened?",00:12:55
+cktiuqj,137,tutor,I'm not sure.,00:13:01
+cktiuqj,138,student,"Okay, so which one do you think is correct?",00:13:03
+cktiuqj,139,tutor,"Uh, 14.",00:13:07
+cktiuqj,140,student,"14, okay. So I'll tell you what, let's discuss why it is [UNCLEAR], okay?",00:13:09
+cktiuqj,141,student,Okay.,00:13:17
+cktiuqj,142,tutor,Okay.,00:13:18
+cktiuqj,143,student,"So here, now first we look at question 3. All right, so when it says add on, we can think of subtraction as finding the difference. So when a number— when numbers are close to one another, so how much does it take for you to add up to from 996 up to 1,000? [unclear]",00:13:19
+cktiuqj,144,student,4.,00:13:49
+cktiuqj,145,tutor,"4. And then up to 1,003?",00:13:50
+cktiuqj,146,student,Sorry.,00:13:55
+cktiuqj,147,tutor,"4 3 would give you? Uh,",00:13:57
+cktiuqj,148,student,I'm not sure. 7.,00:13:58
+cktiuqj,149,background,"7,",00:14:00
+cktiuqj,150,tutor,"right? So that way you can say 7 over here, right? So because 7 is a small number, you can add on like",00:14:01
+cktiuqj,151,background,"996, 997, up to 1,003.",00:14:10
+cktiuqj,152,tutor,Okay.,00:14:18
+cktiuqj,153,student,Yeah.,00:14:19
+cktiuqj,154,tutor,"So same way, shall we try question 4?",00:14:19
+cktiuqj,155,student,Yeah.,00:14:22
+cktiuqj,156,tutor,You have 198. How much do you have to add up to get 212? [unclear],00:14:23
+cktiuqj,157,student,"There's 2 here, and to add up to make it 200?",00:14:33
+cktiuqj,158,background,"Oh, do you need to add...",00:14:43
+cktiuqj,159,tutor,3s or 10s?,00:14:51
+cktiuqj,160,student,[unclear],00:14:52
+cktiuqj,161,tutor,"Okay, a 10. If you add a 10, then you will get a lesser number than this, won't you?",00:14:53
+cktiuqj,162,student,"Uh, I think so. I don't know.",00:14:59
+cktiuqj,163,tutor,"All right, if you add a 10, you'll get, uh, 8, and then here you would get another 1— 0, and here you would get another 1. So that would be 208,000. So 198 plus how much will give you 200? [unclear]",00:15:05
+cktiuqj,164,student,2.,00:15:28
+cktiuqj,165,tutor,"2. So 2 plus when you have to add the 212, how much would you have to add on?",00:15:28
+cktiuqj,166,student,10.,00:15:38
+cktiuqj,167,tutor,"12, isn't it? See?",00:15:40
+cktiuqj,168,student,Oh yeah.,00:15:42
+cktiuqj,169,tutor,12. Plus 2 would give you 14.,00:15:43
+cktiuqj,170,student,Yeah.,00:15:49
+cktiuqj,171,tutor,And did you understand?,00:15:50
+cktiuqj,172,student,Yeah.,00:15:53
+cktiuqj,173,tutor,So that is why you got 14 over here.,00:15:53
+cktiuqj,174,student,[unclear] Okay.,00:15:57
+cktiuqj,175,tutor,"All right, because here you have an 8, you have to make it 200, and that will add 2 plus another 12 would give you 14.",00:15:59
+cktiuqj,176,student,Okay.,00:16:10
+cktiuqj,177,tutor,"Okay, so can you write 14 over here?",00:16:13
+cktiuqj,178,student,Okay.,00:16:14
+cktiuqj,179,tutor,"So this is how you count on, all right? 198 plus 2 would give you 200. 200 plus 12 would give you 212. So altogether you add 14. [unclear] All right, now shall we try a different question set?",00:16:19
+cktiuqj,180,student,Yeah.,00:16:38
+cktiuqj,181,tutor,"Is it the same thing, [STUDENT_NAME]?",00:16:39
+cktiuqj,182,student,Yeah.,00:16:41
+cktiuqj,183,tutor,"Oh, okay. All right, so here you have some questions which are closer, right? You can add on and try.",00:16:41
+cktiuqj,184,tutor,Can you try them out?,00:16:48
+cktiuqj,185,student,Yeah. [unclear] I know already.,00:16:50
+cktiuqj,186,tutor,"Okay, how would you know already? Can you tell me?",00:16:57
+cktiuqj,187,student,Because I think it would be 12.,00:17:02
+cktiuqj,188,tutor,"Yes, you think it's 12. Very good. And how do you know it's 12?",00:17:05
+cktiuqj,189,student,"Because if you add 1 onto the 8, [unclear]",00:17:10
+cktiuqj,190,student,"That would be 799. Then if you add one more, it would be 800. And then if you add 8 more, that would be 12, and it'll be 801.",00:17:15
+cktiuqj,191,tutor,"Yes, that's very nice way of answering, [STUDENT_NAME]. So you can write 12 as your answer here. Okay, and that was a very clear reasoning too. Thank you.",00:17:28
+cktiuqj,192,student,Thank you.,00:17:41
+cktiuqj,193,tutor,"Here you go. You get one mark there. Alright, can you try the same way over here to this question?",00:17:43
+cktiuqj,194,student,Okay. [unclear],00:17:49
+cktiuqj,195,tutor,"Okay, so I would see what this question is, if I could see it easier. So 112 take away 198 equals to something. So by using counting on, you could do count this and keep on to this.",00:18:11
+cktiuqj,196,tutor,So 198 times 212 is... [unclear],00:18:37
+cktiuqj,197,student,"So 10 times something equals 405. So you do 405, subtract 10,",00:18:46
+cktiuqj,198,tutor,to get that number?,00:18:46
+cktiuqj,199,student,Not really sure.,00:18:46
+cktiuqj,200,tutor,Yeah.,00:19:05
+cktiuqj,201,student,"Okay, can you tell me how you worked it out? Can you see?",00:19:06
+cktiuqj,202,tutor,"So, I took 5 off of 8 to get 2,000, and then you would have 3 left.",00:19:11
+cktiuqj,203,student,Uh-huh.,00:19:23
+cktiuqj,204,tutor,But then I didn't— I don't know what you would do next.,00:19:25
+cktiuqj,205,tutor,"Alright, okay. So that was a good job in attempting it, okay? So let's see. We have— we added up 5 to give us 2,000, right? And then you had to add on to make it 8. 2,008. How much do you have to add?",00:19:30
+cktiuqj,206,student,[unclear] So 8.,00:19:49
+cktiuqj,207,tutor,"8, right? So it's not a negative, it's not minus, it's going to be a plus here.",00:19:53
+cktiuqj,208,student,Okay. 8 plus 5 would give you 2008. [unclear],00:19:58
+cktiuqj,209,tutor,So then how much would you have to add on? 8 plus 5 would give you?,00:20:05
+cktiuqj,210,student,Uh...,00:20:13
+cktiuqj,211,tutor,So... 813.,00:20:14
+cktiuqj,212,student,"813, exactly. So that would be your answer.",00:20:17
+cktiuqj,213,background,Okay.,00:20:24
+cktiuqj,214,student,Okay.,00:20:25
+cktiuqj,215,tutor,"Alright, so [STUDENT_NAME], can you explain what you understood from these questions?",00:20:25
+cktiuqj,216,student,"On this one I knew because if you add 10 onto this, it'll be 799. Then if you add one more, it would be 800, and then add another one would be— you'd add it— you'd— you added on 12 because 10 plus that one plus another another one. That would get you to 801, and you added on 12.",00:20:33
+cktiuqj,217,tutor,"All right, okay, that's a great job there. And the second one, how did we do it?",00:21:12
+cktiuqj,218,student,"Um, as I said, I was a bit confused, but you have to add— you have 2,000 and you needed to get 2008, so you added on an extra 8, and then you add 5, and then you add an extra 5, so you—",00:21:19
+cktiuqj,219,tutor,"Alright, that's not an extra 5, okay? It's the same 5 over here.",00:21:39
+cktiuqj,220,student,"Yeah, I [UNCLEAR].",00:21:43
+cktiuqj,221,tutor,"Okay, and you do 5, you do 8 after 5, which is 13.",00:21:43
+cktiuqj,222,student,"Okay, which is 13. So did you understand it now?",00:21:54
+cktiuqj,223,student,Yeah.,00:21:58
+cktiuqj,224,tutor,Are you still confused?,00:21:59
+cktiuqj,225,student,"Uh, I know now. I'm fine.",00:22:01
+cktiuqj,226,tutor,"You know now? All right. Okay. So another way to do it just is 1,995 and you add up until 2008.",00:22:04
+cktiuqj,227,student,"Yeah. So that will be 1,995, 1,996, 1997, 1998, and then 1999 and 2000. That will be adding 5 up, and then from 2,000, add another 8 to give you 13 altogether. [unclear]",00:22:17
+cktiuqj,228,tutor,"All right, so that will give you 1 mark. Okay, [STUDENT_NAME], shall we move to the next type of questions?",00:22:38
+cktiuqj,229,student,Yeah.,00:22:48
+cktiuqj,230,tutor,"Yeah, okay. So here we have to use inverse. Do you know what inverse is?",00:22:48
+cktiuqj,231,student,"Is it where you, to get the missing number, you have to add the two numbers that you already have?",00:22:58
+cktiuqj,232,tutor,"You would take away. If it's adding here, you do the opposite.",00:23:07
+cktiuqj,233,student,Yeah.,00:23:12
+cktiuqj,234,tutor,"So if you take away 10 from 405, you'll get your answer here. But here when you have subtraction, you'll have to do the addition over there.",00:23:13
+cktiuqj,235,student,"Yeah, I did that today.",00:23:23
+cktiuqj,236,tutor,"Oh, you did? Okay, so you can practice it all here. [unclear]",00:23:24
+cktiuqj,237,student,"Okay. [Speaker] That'd be 10. 6 plus 2, that'd be 1. That'd be 9. 3 add 2, that'd be 5. So 590. Miss Shepherd, she can't hear me.",00:23:32
+cktiuqj,238,tutor,"I've got no more headsets. You'll have to type to me, so you'll have to do it through chat. [unclear]",00:23:50
+cktiuqj,239,student,"So I did 8 equal 8 2 is 10. [STUDENT_NAME],",00:24:04
+cktiuqj,240,tutor,do you know an easier way to do it? 8,00:24:12
+cktiuqj,241,student,"1, which is 9. Okay, I'll",00:24:16
+cktiuqj,242,tutor,do that. [unclear],00:24:20
+cktiuqj,243,tutor,Yes.,00:24:31
+cktiuqj,244,student,Yeah.,00:24:45
+cktiuqj,245,background,Yeah.,00:24:46
+cktiuqj,246,student,Yeah.,00:24:46
+cktiuqj,247,background,Yeah.,00:24:47
+cktiuqj,248,student,"It would be 4,041,000.",00:24:51
+cktiuqj,249,tutor,"So I would start by working— I would start with putting it in normal shape, so going 8 million. [unclear] Plus— 20. [unclear]",00:24:56
+cktiuqj,250,tutor,I don't think that's right at all.,00:25:21
+cktiuqj,251,student,"Yeah, there's something wrong there, isn't it?",00:25:24
+cktiuqj,252,tutor,Yeah.,00:25:28
+cktiuqj,253,student,Can you figure out what is wrong there?,00:25:30
+cktiuqj,254,tutor,"Um, I added on an extra 5 when I didn't need to.",00:25:32
+cktiuqj,255,student,"Okay, so why did you add an extra 5?",00:25:40
+cktiuqj,256,tutor,"I don't know, I just thought it would make the 10. And then I just looked at it and I like thought, oh, I need to take away, so I just added, took away the 10. But I think I might know how to do it.",00:25:43
+cktiuqj,257,tutor,"You might know how to do it? Okay, can you try it one more time?",00:26:03
+cktiuqj,258,student,Okay.,00:26:07
+cktiuqj,259,tutor,Okay. [unclear] [unclear],00:26:08
+cktiuqj,260,student,Okay.,00:26:18
+cktiuqj,261,tutor,"40,000 and 1,000. [unclear]",00:26:18
+cktiuqj,262,tutor,Yeah.,00:26:50
+cktiuqj,263,student,I think that's the answer.,00:26:52
+cktiuqj,264,tutor,"Yes, exactly, that's the answer. So can you tell me how you figured that out?",00:26:55
+cktiuqj,265,student,"So I took away the 5 to get 400, and then I did 400 take away 10 to get 390, and then I did 390, add the 5 [unclear] away to get 395.",00:27:00
+cktiuqj,266,tutor,"Okay, yes, that's correct. And that's an easier way to do. Okay, you can write your answer as 395 over here.",00:27:21
+cktiuqj,267,tutor,All right. And can you try question 6?,00:27:37
+cktiuqj,268,student,"Yes. So I've learned how to do adding, subtracting, inverse, how to do— [unclear]",00:27:43
+cktiuqj,269,student,"Yeah, rounding. [unclear]",00:27:59
+cktiuqj,270,student,And how to count them back.,00:28:03
+cktiuqj,271,tutor,to answer [UNCLEAR] questions.,00:28:03
+cktiuqj,272,student,"You can think of subtraction as finding the difference. When numbers are close to one another, it can be quicker to just subtract. [unclear]",00:28:12
+cktiuqj,273,tutor,to find the difference. [unclear],00:28:12
+cktiuqj,274,tutor,Okay.,00:28:31
+cktiuqj,275,student,7.,00:28:31
+cktiuqj,276,tutor,Mm-hmm.,00:28:31
+cktiuqj,277,student,you're counting from 5 to 10. [UNCLEAR],00:28:31
+cktiuqj,278,tutor,Yeah.,00:28:44
+cktiuqj,279,student,"8, 9, 10, 11, 12, 13, 14, 15.",00:28:44
+cktiuqj,280,tutor,Okay.,00:28:44
+cktiuqj,281,student,That would be... [unclear],00:28:54
+cktiuqj,282,tutor,"Okay, so I would firstly do this. I would— [unclear]",00:29:04
+cktiuqj,283,student,Yeah?,00:29:10
+cktiuqj,284,tutor,I did take away instead of add.,00:29:10
+cktiuqj,285,student,25?,00:29:13
+cktiuqj,286,tutor,"Okay, that's alright.",00:29:15
+cktiuqj,287,student,"Just do 2. That would be 4, and then I would [unclear]",00:29:17
+cktiuqj,288,tutor,"So only columns would change, so the 7 with the 1, the 100 and the 10.",00:29:29
+cktiuqj,289,student,Another 4?,00:29:41
+cktiuqj,290,tutor,"No, just the 10s. [unclear]",00:29:44
+cktiuqj,291,tutor,"6,395.",00:29:44
+cktiuqj,292,student,392.,00:29:44
+cktiuqj,293,tutor,"So if you do 5 plus 2, 7.",00:30:16
+cktiuqj,294,student,701.,00:30:22
+cktiuqj,295,tutor,I did what?,00:30:25
+cktiuqj,296,student,Practically 700. So 2. [unclear] [unclear],00:30:27
+cktiuqj,297,student,I think it might be 590.,00:30:52
+cktiuqj,298,tutor,"Yes, exactly, it's 590. Can you explain your answer?",00:31:02
+cktiuqj,299,student,"So I started off by doing 262 take away 2 to get 260, and then I did 328 take away 8 to get 320, and then I added them together because you have to use the inverse to get 500— to get 580, and then I added up— [unclear] extra 2 in 8 to get 10, and then I did 580 add 10 to get 590.",00:31:07
+cktiuqj,300,tutor,"Okay, that was a very clever way of doing it, [STUDENT_NAME]. So you get one mark each for your questions, okay? This one gives you one mark, and then this one gives you another mark. All right, so then shall we reflect on what we learned?",00:31:49
+cktiuqj,301,student,Okay.,00:32:08
+cktiuqj,302,tutor,"In our lesson today. Okay, so we learned about addition and subtraction, and we learned how to make sums or [unclear] things faster than normal, right? So the first trick that we used was what?",00:32:08
+cktiuqj,303,student,Rounding it.,00:32:24
+cktiuqj,304,tutor,"Rounding it, exactly. And can you say it for me?",00:32:27
+cktiuqj,305,student,"So we— the way we rounded it was we had to— if you say we had 199, to make it quicker, we could just do 200, add whatever number, and then take away that one.",00:32:34
+cktiuqj,306,tutor,"Yes, exactly. That's a very easy way to do it, isn't it? Did you find it easy?",00:32:56
+cktiuqj,307,student,Yeah.,00:33:01
+cktiuqj,308,tutor,"Yeah, okay. And we did the same for the second question, right?",00:33:02
+cktiuqj,309,student,Yeah.,00:33:07
+cktiuqj,310,tutor,Yes. And then what's the next trick that we learned?,00:33:08
+cktiuqj,311,student,"Um, we like count it to find the difference.",00:33:12
+cktiuqj,312,tutor,"Yes, we counted to find the difference, right? So we counted up and then we added up what was extra and then we got that as our answer. Yeah?",00:33:21
+cktiuqj,313,student,Yeah.,00:33:33
+cktiuqj,314,tutor,"Yes, so that is— and you tried some questions on your own and you figured them out. So are you confident about those questions?",00:33:34
+cktiuqj,315,student,Yeah.,00:33:43
+cktiuqj,316,tutor,"Yeah, and then what's the last one that we learnt?",00:33:44
+cktiuqj,317,student,"Um, we use the inverse.",00:33:48
+cktiuqj,318,background,[unclear],00:33:51
+cktiuqj,319,tutor,"When you were saying that, right? When there's addition over here to find the missing number, You had to do subtraction by the number or the answer to get your answer, right?",00:33:52
+cktiuqj,320,student,Yeah.,00:34:04
+cktiuqj,321,tutor,"And it was nice that you used the previous ones to work out these also. There you got them as rounded numbers and then you added them up and added the extra. That was very nice and clever, okay?",00:34:04
+cktiuqj,322,student,Thank you.,00:34:17
+cktiuqj,323,background,Thank you.,00:34:18
+cktiuqj,324,tutor,"Alright, so awesome effort so far, [STUDENT_NAME]. Shall we try a new lesson then?",00:34:18
+cktiuqj,325,student,Yeah.,00:34:25
+cktiuqj,326,tutor,"Yeah, we'll move to a new lesson for today. [unclear] All right, so now it's going to be revision of addition and subtraction where you're going to [UNCLEAR].",00:34:26
+cktiuqj,327,student,Yeah.,00:34:26
+cktiuqj,328,tutor,"All right, so here, now remembering what you learned earlier, can you apply those and try to solve these?",00:34:43
+cktiuqj,329,tutor,Okay. [unclear],00:34:54
+cktiuqj,330,student,Okay. [unclear],00:35:05
+cktiuqj,331,student,So 613. [unclear],00:35:20
+cktiuqj,332,tutor,So I have to subtract the closest to that.,00:35:33
+cktiuqj,333,tutor,"You can find the difference. The only way you can find the difference is by subtracting the biggest number from the smallest number, or you could do the smallest number, how much to get to the biggest number, and that's the amount of difference. [unclear]",00:35:46
+cktiuqj,334,student,"Yeah, so I played like 10 times, [unclear]",00:36:04
+cktiuqj,335,tutor,"So 9 take away 8, so 9 take away 4 is 5.",00:36:24
+cktiuqj,336,student,Yeah.,00:36:34
+cktiuqj,337,tutor,"Yeah, that's correct. Then something take away 1.",00:36:38
+cktiuqj,338,student,"So we can do 4 take away 1 is 3. 3 take away something is 2. So if we do 3 take away 1, that's 2. Something take away 9. [unclear]",00:36:45
+cktiuqj,339,tutor,"If it's too low, you can't do it. If it's too high, you can't do it.",00:37:03
+cktiuqj,340,tutor,9 add 5. So 9 add 5 is 10. [unclear],00:37:21
+cktiuqj,341,student,"Um, 14. So would it be 14? [unclear]",00:37:40
+cktiuqj,342,tutor,So 4 would be here and the 1 would be just above. [unclear],00:37:49
+cktiuqj,343,student,6. [unclear],00:38:01
+cktiuqj,344,tutor,"Cross out the 6. And we would put 1, 5.",00:38:04
+cktiuqj,345,tutor,Finished. [unclear],00:38:10
+cktiuqj,346,student,It didn't let me type it.,00:38:16
+cktiuqj,347,tutor,"Okay, can you retype it as your answer?",00:38:19
+cktiuqj,348,student,Yeah. [unclear],00:38:23
+cktiuqj,349,tutor,"So, can you try question 2 also? [unclear]",00:38:40
+cktiuqj,350,student,"Okay, um... [unclear] [unclear]",00:38:45
+cktiuqj,351,tutor,"So you would have to start with 1,462, add the bikes they got, add 6,846. The answer what you got, you would have to take away the answer, take away 760— 7,623, and you would get the answer.",00:39:06
+cktiuqj,352,student,"Um, yeah, so 1,462, uh, [unclear]",00:39:34
+cktiuqj,353,student,"6,000. So it must be more than 7,000 because it says how many votes were left. So... 4, 6... [unclear]",00:39:52
+cktiuqj,354,background,"So, uh, let me check what I've got in my head. 200 divided by 10 is 100. [unclear]",00:40:05
+cktiuqj,355,tutor,So 6 take away 2.,00:40:22
+cktiuqj,356,student,"Sorry, 6 add 2, 8.",00:40:28
+cktiuqj,357,tutor,"8. 6 add 4, 10. 8 add 4, 12. Add 1, 13. 6 adds 1 is 7, adds with 1 is 8, so it would be 8,308. So I think that might be it.",00:40:31
+cktiuqj,358,tutor,"That might be it, alright. Would you like to reason it out with me?",00:40:56
+cktiuqj,359,student,"Okay, so I added this 6 onto 10 to get 16, and then I did 200 take away 16 to get 184.",00:41:02
+cktiuqj,360,tutor,"Okay, so then you had to do 184, and what did you think will happen if you just take away 184? [unclear] Sorry, when you take away 216, by from 6— 2,000, sorry, 200 by 16, what will happen? [unclear]",00:41:18
+cktiuqj,361,student,You would—,00:41:46
+cktiuqj,362,background,something with it. It would be 8.,00:41:46
+cktiuqj,363,tutor,"Yeah, so here you have 206, isn't it? Then how much do you have to take away? Or can you try it in the normal way?",00:41:46
+cktiuqj,364,student,12. [unclear],00:42:01
+cktiuqj,365,tutor,Oh yeah.,00:42:02
+cktiuqj,366,student,"6, still. 7 take away 7 is 0, so it would be 685.",00:42:02
+cktiuqj,367,tutor,"Because if you add the 16 over here, you have to add another 6 right over here again at the end.",00:42:02
+cktiuqj,368,student,"Oh, so you would have to do 184 add 6.",00:42:21
+cktiuqj,369,tutor,"Even then it will not give you the exact answer, okay?",00:42:29
+cktiuqj,370,student,Yeah.,00:42:33
+cktiuqj,371,tutor,Okay. So shall we try to do it in the inverse way that we learnt? 206 take away 10. [unclear],00:42:34
+cktiuqj,372,background,"There are 2,360 tickets available for a concert. At 9:30 AM, 1,550 tickets are sold. [unclear]",00:42:45
+cktiuqj,373,tutor,So 6 take away 0 is?,00:43:04
+cktiuqj,374,student,"So the cost is 2,360. Take away 10,000.",00:43:07
+cktiuqj,375,tutor,"Take away nothing. No, 6 take away nothing is 6. [unclear]",00:43:17
+cktiuqj,376,tutor,"Alright [STUDENT_NAME], so when you're writing it down over here, it has to start from the ones place, isn't it?",00:43:27
+cktiuqj,377,student,Yeah.,00:43:36
+cktiuqj,378,tutor,"Because it's 10, so then the 1 would shift over here.",00:43:36
+cktiuqj,379,student,"Ah, yeah. [unclear]",00:43:41
+cktiuqj,380,tutor,"Okay, that's all right, [STUDENT_NAME]. So shall we reflect on the lesson today because we're running out of time?",00:43:51
+cktiuqj,381,student,Okay.,00:43:59
+cktiuqj,382,tutor,"Okay, so can you tell me how you worked out question 1 and how the lessons before helped you out in working this out?",00:44:00
+cktiuqj,383,student,I can't remember what it's called. Was it finding... [unclear],00:44:10
+cktiuqj,384,tutor,Like rounding it.,00:44:18
+cktiuqj,385,student,"Yeah, like rounding it, isn't it? Yeah.",00:44:22
+cktiuqj,386,tutor,I think we did that.,00:44:28
+cktiuqj,387,student,You did that. Alright. So how did you work it out easily?,00:44:30
+cktiuqj,388,background,"So I did 52 take away 2 to get 50, and then I did 6,345 take away 45 to get 6,300. And then I did 2— [unclear]",00:44:34
+cktiuqj,389,student,No.,00:44:58
+cktiuqj,390,tutor,"Yeah, and then I did 45 add 2 to get 47. And then I did 6,000, and then I did 6,300 add 50 to get 6,350. And then I did 6,350 add 47 to get 6,397.",00:44:59
+cktiuqj,391,tutor,"Alright, that was an excellent job, Dan. Excellent reasoning. Alright, so how did you find the lesson? Was it good?",00:45:31
+cktiuqj,392,student,I found it a little bit easy.,00:45:39
+cktiuqj,393,tutor,"A little bit easy. All right. And we'll continue on the next class, okay?",00:45:42
+cktiuqj,394,student,Okay.,00:45:48
+cktiuqj,395,tutor,"All right. So have a nice day, [STUDENT_NAME]. I'll see you next week. Goodbye.",00:45:49
+cktiuqj,396,background,You too. Bye.,00:45:53
+cktiuqj,397,student,Bye. [unclear],00:45:55

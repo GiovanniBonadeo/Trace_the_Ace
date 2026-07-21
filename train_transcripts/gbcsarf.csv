@@ -1,0 +1,369 @@
+session_id,utterance_id,role,content,timestamp
+gbcsarf,0,tutor,Hello?,00:00:00
+gbcsarf,1,background,[unclear],00:00:00
+gbcsarf,2,student,Hello?,00:00:00
+gbcsarf,3,tutor,Hi.,00:00:01
+gbcsarf,4,student,Hello.,00:00:01
+gbcsarf,5,tutor,"Hi, Tobias. Can you hear me?",00:00:02
+gbcsarf,6,student,Yeah.,00:00:05
+gbcsarf,7,tutor,"Yeah, I can hear you clearly, yeah. Okay, great. So how are you doing?",00:00:06
+gbcsarf,8,student,Good.,00:00:11
+gbcsarf,9,tutor,Mm-hmm. How had your day been?,00:00:12
+gbcsarf,10,tutor,Very good. Awesome. All right. So let's have a quick recap of what we learned yesterday. Yeah?,00:00:16
+gbcsarf,11,student,Yeah.,00:00:29
+gbcsarf,12,tutor,"Okay. So let me give you a number. [unclear] Okay. Can you read this number for me, Tobias?",00:00:30
+gbcsarf,13,student,478.,00:00:30
+gbcsarf,14,tutor,Can you read this all together? How would you read it?,00:00:45
+gbcsarf,15,student,Yeah. 478.,00:00:48
+gbcsarf,16,tutor,Amazing. So can you tell me how many tens you have in this number?,00:00:52
+gbcsarf,17,student,4... um... 7 tens.,00:00:57
+gbcsarf,18,tutor,Exactly. How many hundreds do you have in this number?,00:01:01
+gbcsarf,19,student,400...? [unclear],00:01:06
+gbcsarf,20,tutor,"Yes, and how many ones?",00:01:08
+gbcsarf,21,student,[unclear],00:01:09
+gbcsarf,22,tutor,"Excellent. Okay, so can you partition this number for me? Just like this? Yeah, 359. So the whole number here would be 359, isn't it? Yeah. Yeah, yeah. So like that, can you partition this number?",00:01:10
+gbcsarf,23,student,"Okay, 400, 7 tens, and 8 ones.",00:01:39
+gbcsarf,24,tutor,"Yes, excellent! That was amazing. All right, so what can you understand from this? In order to make a 3-digit number, you need a— yeah, 400 7 tens and 8 ones. Is that clear?",00:01:44
+gbcsarf,25,student,Yeah.,00:02:04
+gbcsarf,26,tutor,"Yeah, okay. Let's move to the page where we stopped last class. That would be— yeah, here. So here, go further. Can you read the question aloud, mark the keywords, and give it a try, Tobias?",00:02:05
+gbcsarf,27,student,"Yeah, so— [unclear]",00:02:23
+gbcsarf,28,tutor,"Okay, okay. Read this. Wait, let me just read this out loud.",00:02:26
+gbcsarf,29,student,Yeah.,00:02:32
+gbcsarf,30,tutor,"[unclear] has used base 10 blocks to make the number 570, but he has done it incorrectly.",00:02:33
+gbcsarf,31,tutor,Hockey says Kedar has missed 11 tenths. Tara says Kedar has missed 101 tenths. Do you agree with Hockey or Tara or both? What do you think? Can you give this question a try?,00:02:53
+gbcsarf,32,student,"Yes, [UNCLEAR].",00:03:23
+gbcsarf,33,tutor,"Yeah, go ahead.",00:03:24
+gbcsarf,34,student,"Okay, wait, let me just get the text. Text, okay. Both. I agree with both.",00:03:26
+gbcsarf,35,tutor,Okay.,00:03:41
+gbcsarf,36,student,Are you agree with both? Both.,00:03:43
+gbcsarf,37,tutor,Alright.,00:03:47
+gbcsarf,38,student,"Okay, so... [unclear]",00:03:48
+gbcsarf,39,tutor,"Okay, alright. Well, can you talk me through the steps of how you got your answer?",00:03:52
+gbcsarf,40,student,"Yeah, so I got both because... No, I don't agree with both. I agree",00:04:03
+gbcsarf,41,tutor,Mm-hmm.,00:04:14
+gbcsarf,42,student,With the terror.,00:04:17
+gbcsarf,43,tutor,"Mm-hmm. Cool. Well, Tobias, so can you tell me why you chose to say terror?",00:04:22
+gbcsarf,44,student,"Because you add 100, that's 500, and you got 600, and 10 is [UNCLEAR]. 7s. So like, this is 70, and then this will be 500, which equals 570.",00:04:34
+gbcsarf,45,tutor,"Well, okay, uh, before getting into the answer, Tobias, can you, uh, write a number represented by this diagram? What is the number?",00:04:53
+gbcsarf,46,student,The number is 460.,00:05:04
+gbcsarf,47,tutor,Yep.,00:05:10
+gbcsarf,48,student,"And I add one 10, so we— those ones equals the 7, and then the hundreds goes [UNCLEAR].",00:05:10
+gbcsarf,49,background,"Okay, so Tara says that 100 and one 10 is missing. So you're saying that a 100 is missing here. So if we get 100 here, it would make a 5, and if we add one more 10 here, it would make a 6. And that would give you a 517 total, isn't it?",00:05:23
+gbcsarf,50,student,Mm-hmm.,00:05:44
+gbcsarf,51,tutor,Yeah. Then why do you— why did you choose to say that Hoki is wrong?,00:05:46
+gbcsarf,52,student,"Because if you add 11 tens, then 11 tens would [UNCLEAR].",00:05:52
+gbcsarf,53,student,"Yeah, I actually agree with both. I just noticed something. I noticed that it's the same amount. Yeah, just— it's just like in one, because so 100 is basically 10 ones and then you add 1, that's 11. So it's basically just the same.",00:06:06
+gbcsarf,54,tutor,"Okay, so 100 is basically what?",00:06:28
+gbcsarf,55,tutor,Can you repeat that once again?,00:06:32
+gbcsarf,56,student,"Yeah, so it's both because 100 is 10 tens and 1 ten is 1 ten. You add them together, it's basically 11, so it's both.",00:06:36
+gbcsarf,57,background,"Alright, that was an excellent explanation there, Tobias. So you know that in one hundreds, So let me use the text. You know that 10 tenths equals to how much? Can you write your answer there?",00:06:50
+gbcsarf,58,student,Yeah.,00:07:10
+gbcsarf,59,tutor,"Yeah, go ahead.",00:07:11
+gbcsarf,60,student,[unclear],00:07:12
+gbcsarf,61,tutor,Then the question says that Hawkeye is saying he has missed 11 tenths. So how much would 11 tenths make? [unclear],00:07:20
+gbcsarf,62,tutor,Can you write the value?,00:07:33
+gbcsarf,63,student,"Okay, yeah, yeah. 11 tens.",00:07:35
+gbcsarf,64,tutor,"Exactly, that was amazing. So 11 tens would make 110. Yeah, so can you write the number represented by this diagram? Can you write it under here? [unclear]",00:07:42
+gbcsarf,65,tutor,What's the value represented by this diagram?,00:08:14
+gbcsarf,66,student,[unclear],00:08:14
+gbcsarf,67,tutor,Can you tell me why did you choose to write a 470? Can you explain me your thinking?,00:08:26
+gbcsarf,68,student,Because there's 400s.,00:08:34
+gbcsarf,69,tutor,"Well, Tobias, can you use your pointer to show me, show things to me?",00:08:38
+gbcsarf,70,student,Yeah.,00:08:43
+gbcsarf,71,tutor,Great.,00:08:44
+gbcsarf,72,student,So there's 400s.,00:08:47
+gbcsarf,73,tutor,All right.,00:08:50
+gbcsarf,74,student,And there's 6 tens.,00:08:52
+gbcsarf,75,tutor,So why did you write a 0 here?,00:08:56
+gbcsarf,76,student,"Because if I take away the 0, it will leave a 46.",00:09:00
+gbcsarf,77,tutor,"Exactly. So you're using the 0 as a placeholder. That was an excellent explanation there. So since you do not have any ones here, You are writing a 0, isn't it? [unclear]",00:09:07
+gbcsarf,78,tutor,"Yeah, that was amazing. If you did not write this 0, then it would represent a 46, which is going to be completely incorrect, isn't it?",00:09:22
+gbcsarf,79,student,Yeah.,00:09:34
+gbcsarf,80,tutor,"Excellent explanation again. Okay, so initially the number represented here is 460. What does Hoki say? Hoki says that",00:09:35
+gbcsarf,81,tutor,"That said, [unclear] has missed 11 tenths. Yeah?",00:09:44
+gbcsarf,82,student,Mm-hmm.,00:09:50
+gbcsarf,83,tutor,So the value of 11 tenths would be 110. Yeah?,00:09:51
+gbcsarf,84,student,Yeah.,00:09:55
+gbcsarf,85,tutor,"So when you add 460— when you add 460 with the value 110, what does it give you?",00:09:56
+gbcsarf,86,student,It gives me—,00:10:09
+gbcsarf,87,student,So you'll get your answer.,00:10:11
+gbcsarf,88,student,"Oh, I forgot to [unclear] this. Wait, let me just go to Tutor.",00:10:14
+gbcsarf,89,student,You'll get the answer.,00:10:18
+gbcsarf,90,student,Okay.,00:10:23
+gbcsarf,91,student,Excellent. So that would give you a 500— was that by mistake?,00:10:26
+gbcsarf,92,student,Yeah.,00:10:35
+gbcsarf,93,student,"Yeah, okay. So that would give you 570, you see?",00:10:36
+gbcsarf,94,tutor,"Then now, if 11 tens are being added to 460, that would be equal to 570, which means Hoki is right, isn't it?",00:10:42
+gbcsarf,95,student,Mm-hmm.,00:10:51
+gbcsarf,96,tutor,"Yes, amazing. That was an excellent explanation there as well, Tobias. And okay, so can you explain to me why is Tara correct?",00:10:53
+gbcsarf,97,background,Tara is correct because it's basically the same.,00:11:08
+gbcsarf,98,student,"So you have in 10 tens is 100. So it's basically 10 tens is 100. So then you add 1 ten, which equals 11 tens. [unclear]",00:11:13
+gbcsarf,99,tutor,"Yes, exactly. So here we can simply stick to the diagram. So here there are 4 hundreds. To make a 500, you need 1 more hundred, isn't it?",00:11:26
+gbcsarf,100,student,"Mm-hmm. Which says 100, and here we have 7 tenths. Yeah, yeah, but in the diagram represented, we only have 6 tenths— 1, 2, 3, 4, 5, 6. So to make a 10, we are going to add one more 10. So [unclear] is also correct. Both of them are right. Is that clear, Tobias?",00:11:37
+gbcsarf,101,student,Yeah.,00:11:59
+gbcsarf,102,tutor,Yes. So what was your new learning from this slide?,00:12:00
+gbcsarf,103,student,"This is that, um, like, so the learning was like, so, like, so I got to learn, like, because the fours, there's always like four tens and hundreds.",00:12:05
+gbcsarf,104,tutor,Mm-hmm. [unclear],00:12:21
+gbcsarf,105,student,"Wait, I'm just gonna go give this to my friends.",00:12:24
+gbcsarf,106,tutor,"Sorry about that. Wait, I'm going to put my headset on. Okay, sorry about that. [unclear] [unclear]",00:12:38
+gbcsarf,107,tutor,Hello?,00:13:09
+gbcsarf,108,student,Has it been unplugged?,00:13:09
+gbcsarf,109,tutor,"Plug it back in. Okay, let's try again. Hello?",00:13:11
+gbcsarf,110,student,[unclear],00:13:16
+gbcsarf,111,tutor,"Oh, it's muted. Hang on, you can't hear.",00:13:17
+gbcsarf,112,tutor,"Disconnected. She's disconnected for some reason. Your tutor's gone. Oh, hello.",00:13:17
+gbcsarf,113,student,"Oh, her connection might be gone.",00:13:34
+gbcsarf,114,tutor,"Yeah. [unclear] Disconnected, it says. You might just have to wait a wee minute. I don't know whether to refresh. [unclear]",00:13:40
+gbcsarf,115,tutor,You're in.,00:13:58
+gbcsarf,116,student,I'm good at maths. [unclear],00:14:06
+gbcsarf,117,tutor,do about that. I think we wait for her to come back home.,00:14:06
+gbcsarf,118,student,Yeah.,00:14:25
+gbcsarf,119,tutor,Bounce it on the box while you're waiting. Hopefully you'll hear us.,00:14:27
+gbcsarf,120,student,Yeah.,00:14:31
+gbcsarf,121,student,"5, 10. [unclear] [unclear]",00:14:42
+gbcsarf,122,student,You'll be using it 105 times it by 10 and 2 times. [unclear],00:15:42
+gbcsarf,123,student,[unclear] [unclear],00:15:42
+gbcsarf,124,student,[unclear] [unclear],00:15:42
+gbcsarf,125,tutor,Hello?,00:17:29
+gbcsarf,126,student,Hello.,00:17:31
+gbcsarf,127,tutor,Hi.,00:17:33
+gbcsarf,128,student,Can you hear me?,00:17:35
+gbcsarf,129,tutor,"Yeah, just give me 2 seconds. All right. Okay, so let's continue.",00:17:36
+gbcsarf,130,student,Wait.,00:17:46
+gbcsarf,131,tutor,Mm-hmm.,00:17:46
+gbcsarf,132,student,"Um, Miss Courage? [unclear] Can you hear me clearly?",00:17:49
+gbcsarf,133,tutor,"Yeah, I can hear you.",00:17:55
+gbcsarf,134,student,Oh. So shall we continue?,00:17:56
+gbcsarf,135,tutor,Mm-hmm.,00:18:00
+gbcsarf,136,student,Yeah.,00:18:00
+gbcsarf,137,tutor,All right. Okay. So what was your new learning from today's lesson? [unclear],00:18:02
+gbcsarf,138,tutor,Hello?,00:18:18
+gbcsarf,139,student,"Wait, I can't really see. Okay, my learning was like adding and subtracting and Putting things together, so basically adding and subtracting.",00:18:19
+gbcsarf,140,tutor,"Yeah, exactly. So we learned that, uh, we learned the place value of different digits in number, didn't we? Like number 570, the number which comes first, 5, is going to have a value of 500. Yeah.",00:18:37
+gbcsarf,141,student,Yeah.,00:18:56
+gbcsarf,142,tutor,"So 7, it's 70.",00:18:57
+gbcsarf,143,student,Yeah.,00:19:00
+gbcsarf,144,tutor,"And we also learned that 11/10, you see, the 11/10 can be written in different ways, isn't it?",00:19:01
+gbcsarf,145,student,Yeah.,00:19:11
+gbcsarf,146,tutor,"Yeah, exactly. So, okay, shall we move to the next lesson?",00:19:13
+gbcsarf,147,student,Yeah.,00:19:20
+gbcsarf,148,tutor,"Okay, great. All right, all right. Okay, so today we'll be learning about ordering numbers up to 1,000. Can you read it? [unclear]",00:19:21
+gbcsarf,149,tutor,Mm-hmm. Have you looked at something similar to that school?,00:19:41
+gbcsarf,150,student,The similarity to [unclear] is 500.,00:19:50
+gbcsarf,151,tutor,"All right, so shall we give this learning goal question a try?",00:19:59
+gbcsarf,152,student,Yeah.,00:20:06
+gbcsarf,153,tutor,"Yeah, may I read it aloud and give it a try? Go ahead.",00:20:07
+gbcsarf,154,student,"Okay, write a number in the the middle box that would complete the sediment collection.",00:20:13
+gbcsarf,155,tutor,collection.,00:20:13
+gbcsarf,156,student,Why is there two [UNCLEAR]?,00:20:28
+gbcsarf,157,tutor,"What, is that too long?",00:20:30
+gbcsarf,158,student,"No, like, why is there two [UNCLEAR]?",00:20:34
+gbcsarf,159,tutor,"Yeah, that must be a mistake. Yeah, okay, okay, give it a try. Go ahead. [unclear]",00:20:38
+gbcsarf,160,student,What is like minusing?,00:20:55
+gbcsarf,161,tutor,"Write a number in the middle box that would complete the statement correctly. So the number which is going to come here should be greater than the number represented by this diagram, and it should be lesser than the number represented by this diagram. So for that, it's better to write the number represented by each of these diagrams. So can you write the number represented? Can you give it a try?",00:21:02
+gbcsarf,162,student,Yeah. Okay. [unclear] [unclear],00:21:31
+gbcsarf,163,tutor,113.,00:21:55
+gbcsarf,164,student,8?,00:21:57
+gbcsarf,165,tutor,8? Well?,00:21:59
+gbcsarf,166,tutor,"Okay, it was an excellent try there, Tobias. Let me give a better explanation for that in here. Okay, so it's always better to write the number represented by this diagram. So here we have 100, 110, and 3 ones. So I'm going to write that. 100, 110, and 3 ones. Is that clear?",00:22:02
+gbcsarf,167,tutor,"Yep. And now I'm going to write the number represented by this diagram. So here I again have 100, 1, 2, 3, 4 tens, and 1, 2, 3, 4, 4 ones. [unclear] And 4 ones. Okay, so I have to write a number which is going to be greater than 130, lesser than 144. Is that clear?",00:22:30
+gbcsarf,168,tutor,Yeah.,00:23:02
+gbcsarf,169,student,Yeah.,00:23:02
+gbcsarf,170,tutor,"So any number greater than 113, lesser than 144 would be suitable to write here, to be written here. Yeah?",00:23:03
+gbcsarf,171,student,Okay. [unclear],00:23:14
+gbcsarf,172,tutor,So do you think this 113 is right?,00:23:15
+gbcsarf,173,tutor,So can you tell me why did you choose to write a 144 now?,00:23:28
+gbcsarf,174,student,Because [unclear] 113 to [UNCLEAR]. So we do the greater number because the greater number is a bigger number.,00:23:31
+gbcsarf,175,tutor,"Well, Excellent effort there, Tobias. The number written here should be smaller than 144. Do you see this crocodile mouth? This sign says the number here which comes here should be smaller than the number on your right. Is that clear?",00:23:46
+gbcsarf,176,student,Yeah.,00:24:10
+gbcsarf,177,tutor,So 143 would be suitable because it's less than 144. Yeah.,00:24:11
+gbcsarf,178,student,Yeah.,00:24:20
+gbcsarf,179,tutor,And any number greater than 130 and less than 144 would be suitable. Yeah?,00:24:20
+gbcsarf,180,student,Yeah.,00:24:29
+gbcsarf,181,tutor,"All right. Well, can you give this prior learning question a try now, Tobias?",00:24:30
+gbcsarf,182,student,"Yeah. Okay. So there's some 125,",00:24:36
+gbcsarf,183,student,"And 233. So the bigger number is... the bigger number is... [unclear] 233. That's the bigger number. All right, let's move to the question. What does the question say here?",00:24:45
+gbcsarf,184,student,Use [unclear] to compare the numbers shown.,00:25:16
+gbcsarf,185,tutor,So here we are going to use these signs to compare the numbers. Did you get that?,00:25:24
+gbcsarf,186,student,Yeah.,00:25:33
+gbcsarf,187,tutor,So these are inequality signs. Which says that one number is greater than the other. Yeah?,00:25:34
+gbcsarf,188,student,Yeah.,00:25:43
+gbcsarf,189,tutor,"Or smaller. So what do you think? How would you try this question? [unclear] As I said to you earlier, it's better to write the number represented by each of these diagrams below. And then you can compare. Can you try that? Well, Tobias, okay, so let's— shall we move to the next slide?",00:25:44
+gbcsarf,190,student,Yeah.,00:26:22
+gbcsarf,191,tutor,"Okay, yeah, so let me explain this simply and let's learn this in detail. Yeah.",00:26:23
+gbcsarf,192,tutor,"So here the number represented is 125. Okay, so here the number represented is 233. Is that clear? So here we have got to use the sign. So out of these two, you know that 233 is greater, so I'm using this [unclear] Inequality is set where the crocodile mouth is open towards this. Is that clear?",00:26:31
+gbcsarf,193,student,Yeah.,00:27:04
+gbcsarf,194,tutor,Crocodile mouth always open.,00:27:05
+gbcsarf,195,student,Open the greater number. That would be 0. Towards the greater number. All right. [unclear],00:27:11
+gbcsarf,196,tutor,"Give me this green box aloud, Tobias.",00:27:38
+gbcsarf,197,student,"The green box. Before ordering sets of numbers up to 1,000, we need to be able Tobias? [unclear]",00:27:41
+gbcsarf,198,student,"Yeah, okay. Can you hear me clearly? Hello? Hello? Hi. Can you hear me clearly?",00:27:53
+gbcsarf,199,student,Yeah.,00:28:17
+gbcsarf,200,tutor,"All right, so can you read this aloud?",00:28:18
+gbcsarf,201,student,"Yeah. Before ordering sets of numbers up to 1,000, we need to be able to compare two numbers up to 1,000.",00:28:25
+gbcsarf,202,tutor,"Yes, so here we are going to compare two numbers. Is that clear?",00:28:36
+gbcsarf,203,student,Yeah.,00:28:44
+gbcsarf,204,tutor,"So to compare, we are going to use these inequality signs, as I said to you earlier.",00:28:44
+gbcsarf,205,student,Mm-hmm. Yeah.,00:28:52
+gbcsarf,206,tutor,"All right, so can you give this question a try, Tobias? The A part.",00:28:54
+gbcsarf,207,student,"Okay, let me just go to draw. [unclear]",00:28:59
+gbcsarf,208,tutor,"And try the remaining questions as well, B and C. [unclear] [unclear]",00:29:10
+gbcsarf,209,tutor,Mm-hmm.,00:29:44
+gbcsarf,210,student,"That, I've done it.",00:29:45
+gbcsarf,211,tutor,"All right. Okay, great. So can you explain to me now why you chose to draw this sign in here?",00:29:48
+gbcsarf,212,student,"Because you have a greater a number of 100, but on there you have a lower number of 100 but more tens and ones. [unclear]",00:29:57
+gbcsarf,213,tutor,"Yes, exactly. So you always start comparing the number with the highest value. Here the number with the highest value is going to be hundreds, isn't it?",00:30:15
+gbcsarf,214,student,Yeah.,00:30:27
+gbcsarf,215,tutor,Yeah? So in the hundreds place here we have a 3. Here in the hundreds place we have a 4. So you know that 4 is greater than 3. Yeah?,00:30:28
+gbcsarf,216,student,Yeah.,00:30:38
+gbcsarf,217,tutor,"So these are the two numbers we compare. So since 4 is greater than 3, you have drawn this sign. Excellent working there, Tobias. Okay, and the next question.",00:30:40
+gbcsarf,218,tutor,So can you explain to me how you chose— why did you choose to draw this sign?,00:30:54
+gbcsarf,219,student,Because there's greater hundreds and tens but not ones.,00:30:59
+gbcsarf,220,background,[unclear],00:31:07
+gbcsarf,221,tutor,"It's just enough if you compare the number in the highest value, which is hundreds, you see. Let me mark the number— numbers for you. See here, the number in the highest value— highest value column is 2, and here the number in the highest value column is 1. Since you have different numbers where 2 is greater than 1, you can just by considering the first numbers, you can draw the sign. Is that clear?",00:31:10
+gbcsarf,222,student,Yeah.,00:31:41
+gbcsarf,223,tutor,"Yeah, great. And let's move to the third one. Okay. So how will you draw the sign for the next C part?",00:31:42
+gbcsarf,224,student,"[unclear] Because you have not greater hundreds, but you do with tens.",00:31:51
+gbcsarf,225,tutor,"Exactly, that was an excellent explanation. That was so cool. Yeah, you see, we have same numbers. In the hundreds place, isn't it? 2 and 2. [unclear]",00:32:01
+gbcsarf,226,student,Yeah.,00:32:15
+gbcsarf,227,tutor,"So just by considering this 2 which is in the first place, we cannot decide which number is bigger. So we move to the next highest value column. Is that clear?",00:32:18
+gbcsarf,228,student,Yeah.,00:32:31
+gbcsarf,229,tutor,"So the next highest value column is tens. After hundreds, we have the tens. So here in the Tens, we have 2. And what do we have in the tens column in this number 241? [unclear]",00:32:32
+gbcsarf,230,student,"In 241, you have more tens than 200. [unclear]",00:32:52
+gbcsarf,231,tutor,"Yeah, so here you see, in this number we have 2 tens, in this number we have 4 tens. Is that clear?",00:33:04
+gbcsarf,232,student,Yeah.,00:33:13
+gbcsarf,233,tutor,"So since 4 is greater than 2, you have drawn this sign, and it's right. I'm so happy, Tobias, that you were able to compare these numbers correctly and draw the correct signs all by yourself. Yeah.",00:33:15
+gbcsarf,234,student,Yeah.,00:33:31
+gbcsarf,235,tutor,"Okay, so before moving to the next slide, can you just read this?",00:33:31
+gbcsarf,236,student,"When we compare numbers, we compare the highest value column first.",00:33:37
+gbcsarf,237,tutor,"Is that clear? So what did we do here in this question? Since in this number, what is the highest value column? Can you tell me?",00:33:45
+gbcsarf,238,student,The highest value column is the [UNCLEAR].,00:33:55
+gbcsarf,239,student,[unclear],00:34:01
+gbcsarf,240,tutor,"Okay, can you point it?",00:34:01
+gbcsarf,241,student,[unclear],00:34:02
+gbcsarf,242,tutor,Can you point the number?,00:34:04
+gbcsarf,243,student,"Yeah, it's 150.",00:34:08
+gbcsarf,244,tutor,"Yes, the 2 in the hundreds place, isn't it?",00:34:11
+gbcsarf,245,student,Mm-hmm.,00:34:15
+gbcsarf,246,tutor,"So we always compare the number in the highest value column. So in a 3-digit number, you have 3 columns. Is that clear? The digit in the hundreds, the digit in the tens, and the digit in the ones. So in this number, the highest value column would be hundreds. Is that clear?",00:34:17
+gbcsarf,247,student,Yeah.,00:34:36
+gbcsarf,248,tutor,"Yeah, so we always start comparing with the hundreds in a 3-digit number. So since we have same number in the hundreds place value column, you see here also it's 2, here also it's 2. What did we do? We move to the next column, which is the tens. So here we compare the [unclear] in the tens column. Exactly, Tobias.",00:34:37
+gbcsarf,249,student,How did you first do this?,00:35:00
+gbcsarf,250,tutor,Yeah.,00:35:01
+gbcsarf,251,student,How did you divide one by 10?,00:35:01
+gbcsarf,252,tutor,So shall we move to the next slide?,00:35:03
+gbcsarf,253,student,Mm-hmm.,00:35:06
+gbcsarf,254,tutor,"All right, here we are in the Let's Learn slide. Well, now can you read this information given in this green box?",00:35:07
+gbcsarf,255,student,"When ordering numbers, we arrange them from smallest to largest or largest to smallest.",00:35:17
+gbcsarf,256,tutor,"Exactly, we can either order them from the smallest to the largest or largest to the smallest. Is that clear?",00:35:25
+gbcsarf,257,student,Yeah.,00:35:36
+gbcsarf,258,tutor,"Okay, so can you arrange these orders from the smallest to the largest order?",00:35:38
+gbcsarf,259,student,"Yeah, I'm going to do— yeah, smallest to largest.",00:35:43
+gbcsarf,260,tutor,"Okay, give it a try. Yeah, go ahead.",00:35:47
+gbcsarf,261,student,He has 7 T-4s. [unclear] I'm done. [unclear],00:35:49
+gbcsarf,262,tutor,"Okay, so you're done. Okay.",00:36:27
+gbcsarf,263,student,"Oh, I forgot something!",00:36:32
+gbcsarf,264,tutor,What do you think?,00:36:33
+gbcsarf,265,student,I forgot something.,00:36:34
+gbcsarf,266,tutor,"One on business. Yeah, go ahead.",00:36:36
+gbcsarf,267,tutor,I didn't see 112.,00:36:39
+gbcsarf,268,student,Go over there. Go over there. Stay there. Okay. [unclear] [unclear],00:36:46
+gbcsarf,269,tutor,What numbers I can? [unclear],00:37:09
+gbcsarf,270,tutor,"Are you still on though? Look, you're still logged in, so hang on.",00:37:32
+gbcsarf,271,student,"Alright, you're done?",00:37:45
+gbcsarf,272,tutor,Come back.,00:37:48
+gbcsarf,273,student,Alright.,00:37:49
+gbcsarf,274,tutor,Hello?,00:37:51
+gbcsarf,275,student,Hi.,00:37:52
+gbcsarf,276,tutor,Hi. So what happened?,00:37:54
+gbcsarf,277,tutor,Can you see the slides clearly?,00:38:03
+gbcsarf,278,student,Mm-hmm.,00:38:06
+gbcsarf,279,tutor,Can you see them clearly?,00:38:08
+gbcsarf,280,student,Yeah.,00:38:10
+gbcsarf,281,tutor,"Alright, so if you have any problem, you can tell it to me, yeah?",00:38:12
+gbcsarf,282,student,Okay.,00:38:17
+gbcsarf,283,tutor,"Okay, so you're done with the question?",00:38:19
+gbcsarf,284,student,Mm-hmm. [unclear],00:38:21
+gbcsarf,285,tutor,"Okay, so it's 70, 82, 112, 190, 280, and 81. Excellent, excellent job in figuring out the numbers from the smallest to the largest. And I can give you a tip here. So what do they say here? Can you read this?",00:38:25
+gbcsarf,286,student,Yeah.,00:38:47
+gbcsarf,287,student,It's helpful to cross off the numbers as you use them.,00:38:48
+gbcsarf,288,tutor,Exactly. So this hint would help you to not repeat numbers again or miss any numbers. Is that clear?,00:38:54
+gbcsarf,289,student,Mm-hmm.,00:39:02
+gbcsarf,290,tutor,"Yeah, so once you write a number, you better cross them off. Yeah, so that you would not miss any or you would not repeat them again. Yeah.",00:39:03
+gbcsarf,291,tutor,"Okay. All right. Okay, so what do they say here? Can you read this question aloud? A part?",00:39:14
+gbcsarf,292,student,Yeah. Let's first compare the two-digit numbers which is smallest.,00:39:25
+gbcsarf,293,tutor,So let's erase this for the question purpose. Yeah.,00:39:33
+gbcsarf,294,tutor,"Okay, so can you tell me why did they ask you to compare the 2-digit numbers first?",00:39:43
+gbcsarf,295,student,Because it's smallest to largest.,00:39:49
+gbcsarf,296,tutor,"Yeah, because it's— we have to order them from the smallest to the largest. So in a 2-digit number, can you tell me what are the 2 place value columns we would have?",00:39:54
+gbcsarf,297,tutor,"Switch the pattern. So let's take this 70, okay? So in the number 70, can you tell me how many digits we have in this number 70?",00:40:10
+gbcsarf,298,student,We have 7 digits. [unclear],00:40:24
+gbcsarf,299,tutor,"We have 2 digits, don't we? We have one number. Digits means the numbers. We have 7 and we have 0. Yeah?",00:40:30
+gbcsarf,300,student,Yeah.,00:40:38
+gbcsarf,301,tutor,So how many digits do we have in this number?,00:40:40
+gbcsarf,302,student,[unclear],00:40:42
+gbcsarf,303,tutor,Excellent try. We say that we have 2 digits.,00:40:42
+gbcsarf,304,student,7.,00:40:54
+gbcsarf,305,tutor,"Yeah, this is a 7 and this is a 0. So we have 2 numbers, don't we? So we say 2 digits. 20. [unclear]",00:40:56
+gbcsarf,306,student,"Yeah, 7.",00:41:11
+gbcsarf,307,tutor,"Okay, so can you tell me how many digits we would have in this number? Can you tell me how many digits we have in this number?",00:41:12
+gbcsarf,308,student,"Yeah, 244.",00:41:23
+gbcsarf,309,tutor,"All right, how many digits do we have here?",00:41:27
+gbcsarf,310,student,234.,00:41:30
+gbcsarf,311,tutor,"All right, okay, that's an excellent try. This is the number 234. If I ask you how many digits we have, you're simply going to count the numbers. You see, we have 2, which is one digit. We have 3, which is another digit, and we have 4, which is another digit. So we have 1, 2, 3 digits. Is that clear, Tobias?",00:41:34
+gbcsarf,312,student,Yeah.,00:42:05
+gbcsarf,313,tutor,"Yeah, so how many digits do we have in this number 70?",00:42:06
+gbcsarf,314,student,We have 4 digits?,00:42:12
+gbcsarf,315,tutor,2 digits. Yeah?,00:42:18
+gbcsarf,316,student,"Okay, 2 digits. 2 digits. Why? Because we have 7 and a 0. Yeah.",00:42:22
+gbcsarf,317,student,Yeah.,00:42:30
+gbcsarf,318,tutor,Can you tell me how many digits we have in this number?,00:42:32
+gbcsarf,319,student,3.,00:42:36
+gbcsarf,320,tutor,"Okay, that's great. So can you explain to me why did you choose to say a 3 here?",00:42:39
+gbcsarf,321,student,3 because there is,00:42:47
+gbcsarf,322,student,"it goes 1, 2, 3. So you've got 3 digits.",00:42:47
+gbcsarf,323,tutor,"Yeah, we have a hundreds, a tens, and ones. We have a [unclear] digit in the hundreds place, a digit in the tens place, and a digit in the ones place. So we altogether, we have 3 digits. Is that clear?",00:42:56
+gbcsarf,324,student,Yes.,00:43:12
+gbcsarf,325,tutor,"Okay. So let's move to the next part B. Can you complete the first two answer lines? Okay, so the first two answer lines are in here. Is that clear?",00:43:13
+gbcsarf,326,student,Yeah.,00:43:28
+gbcsarf,327,tutor,"So in order to choose the smallest number, you have always considered the numbers with only two digits. You see, 70 and 82. Is that clear?",00:43:30
+gbcsarf,328,student,Yeah.,00:43:43
+gbcsarf,329,tutor,"Okay, now let's move to the C part. Can you read this aloud?",00:43:44
+gbcsarf,330,student,Yeah. Which is the largest 3-digit number?,00:43:51
+gbcsarf,331,tutor,So which is the largest 3-digit number in here?,00:43:58
+gbcsarf,332,student,281.,00:44:01
+gbcsarf,333,tutor,Excellent. So can you tell me why you choose to say 281? [unclear],00:44:04
+gbcsarf,334,student,Choose 281 because it's the biggest number and it's the largest number with ones and [unclear],00:44:22
+gbcsarf,335,tutor,"Yes, largest number. Why is it the largest number?",00:44:42
+gbcsarf,336,student,"Because you got— so you might think, yeah, that's like, it's 280, but there's a slight difference because it's 281 because you added one more number to it which makes it 281.",00:44:47
+gbcsarf,337,tutor,"Exactly, that was an excellent explanation there, Tobias. You see, you have 3 2— you have 3 3-digit numbers, which is 190, 112, 218, 281. So you always start comparing with the digit in the hundredths place. Is that clear?",00:45:04
+gbcsarf,338,student,Yeah.,00:45:28
+gbcsarf,339,tutor,"So here you have 1. So 1 is smaller than 2. Okay? So 2 is bigger than 1. So you are taking that to the largest side. And when you compare— when you are comparing these two numbers, you see you have the same numbers. You have the same digits in the hundredths place. Is that clear?",00:45:29
+gbcsarf,340,student,Yes.,00:45:50
+gbcsarf,341,tutor,"So you move to the digit in the Next place value column, which is tens. So in the tens you have 8. Again here in the tens you have an 8. So what do you do next? [unclear] What do you do next for that? You move to the ones column. Is that clear?",00:45:51
+gbcsarf,342,student,[unclear] Tobias?,00:46:19
+gbcsarf,343,student,Yeah?,00:46:23
+gbcsarf,344,tutor,"Yeah, so in the ones column, what do you have?",00:46:25
+gbcsarf,345,student,"You have... it's like... wait, let me just point. Like this ones column.",00:46:28
+gbcsarf,346,tutor,"I'm talking about this number, 280, Tobias.",00:46:37
+gbcsarf,347,student,"Oh yeah, there's 3. [unclear] 3 digits. Is that clear?",00:46:39
+gbcsarf,348,student,"Wait, I'm just gonna go to the toilet, okay?",00:46:50
+gbcsarf,349,tutor,"Oh well, can you just give me 1 minute because it's time to end the session, yeah?",00:46:54
+gbcsarf,350,student,Okay.,00:46:59
+gbcsarf,351,tutor,"Okay, so what do you have in the ones column? It's a 0, isn't it?",00:47:01
+gbcsarf,352,student,Mm-hmm.,00:47:06
+gbcsarf,353,tutor,"What do you have in this number in the ones column, 281?",00:47:07
+gbcsarf,354,student,You... [unclear],00:47:11
+gbcsarf,355,student,has 208 tens and 1 one.,00:47:11
+gbcsarf,356,tutor,"Yes, 1 one exactly. So here, since this 1 is greater than 0, you have considered this to be the largest number. Is that clear?",00:47:18
+gbcsarf,357,student,Yeah.,00:47:28
+gbcsarf,358,tutor,"What was your new learning from this slide, Tobias?",00:47:30
+gbcsarf,359,student,"Like digits and comparing. Yeah, so you learned about comparing numbers. So you always compare numbers with the digits in the highest place value column. Is that clear?",00:47:35
+gbcsarf,360,student,Yeah.,00:47:55
+gbcsarf,361,tutor,"Yeah, okay. So unfortunately, it's time to end the session, Tobias. Let's continue this lesson in the next week. Yeah.",00:47:56
+gbcsarf,362,student,Okay.,00:48:05
+gbcsarf,363,tutor,"Okay. So before that, I would like to remind you to complete the post-session quizzes and to fill the feedback form, as your feedback matters really a lot to me. Yeah.",00:48:06
+gbcsarf,364,student,Okay.,00:48:18
+gbcsarf,365,tutor,"Okay. So have a good day, Tobias. Bye.",00:48:19
+gbcsarf,366,student,Bye.,00:48:24
+gbcsarf,367,tutor,All right.,00:48:24

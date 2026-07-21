@@ -1,0 +1,192 @@
+session_id,utterance_id,role,content,timestamp
+bjoesfk,0,background,[unclear],00:00:00
+bjoesfk,1,student,Hello? Hello? Hello?,00:00:00
+bjoesfk,2,tutor,"Hello, Linus. Can you hear me?",00:00:08
+bjoesfk,3,student,"Yes, yes.",00:00:10
+bjoesfk,4,tutor,Right. How are you doing today?,00:00:12
+bjoesfk,5,student,"I'm alright, I'm alright. You alright?",00:00:13
+bjoesfk,6,tutor,"Okay. Yes. I'm doing [UNCLEAR], Linus. So do you remember this lesson? You started this last week, yeah?",00:00:16
+bjoesfk,7,student,"Yes, I remember. I had a tutor.",00:00:25
+bjoesfk,8,tutor,"Yes, I was in a— yeah, I was on a leave last week. I think you learned this with a different tutor, yeah?",00:00:32
+bjoesfk,9,student,"Yes, [UNCLEAR].",00:00:41
+bjoesfk,10,tutor,"Right, and to start off, what is the gradient of this equation, Linus? What represents the gradient and what represents—",00:00:42
+bjoesfk,11,student,The—,00:00:55
+bjoesfk,12,tutor,"Yeah, m is the gradient. So what is y-intercept?",00:00:56
+bjoesfk,13,student,It is the c.,00:01:02
+bjoesfk,14,tutor,"All right, here we go. And you did this one as well? [unclear] Yeah, can you explain me how to find the gradient and y-intercept of this equation?",00:01:05
+bjoesfk,15,student,"Well, firstly, the The gradient is the number after the x, so this one would be 6. And then to find the y-intercept, you first need to put y all by itself.",00:01:19
+bjoesfk,16,tutor,Mm-hmm.,00:01:34
+bjoesfk,17,student,"So you'd have to divide these 2 by 3, which would give you 2x taken away by 1. So the gradient in here would be 2. And the y-intercept would be 1.",00:01:35
+bjoesfk,18,tutor,"Okay, y-intercept is?",00:01:52
+bjoesfk,19,student,1.,00:01:55
+bjoesfk,20,tutor,"All right, 1 or -1, -1.",00:01:57
+bjoesfk,21,student,"Oh, -1, yeah, like that.",00:02:00
+bjoesfk,22,tutor,"Yes, awesome. And you did this one as well, right? Can you briefly explain me how to draw a graph when you have the equation?",00:02:03
+bjoesfk,23,student,"First, you need to figure— first, you need to start plotting the points. So you take— so you go to the x-axis, then you take 1, so 1 here. Then you will place it on the— then you will place the x here, so that would be 2 multiplied by 1, [unclear] by 1, so that would give you 1.",00:02:16
+bjoesfk,24,tutor,So then you go here and you mark it. So it'd be here.,00:02:43
+bjoesfk,25,tutor,"And then you would do this again with another one. So for example, 4, you could replace x.",00:02:48
+bjoesfk,26,tutor,"So then it would be 2 multiplied by 4, which is 8.",00:02:57
+bjoesfk,27,tutor,"Then you would take that away from— take 1 away from 8, which equals 7. So it'd be here. And then you need to have to draw the line of best fit. So it'd be from one point to the other. [unclear]",00:03:01
+bjoesfk,28,tutor,"Oh, right. Uh-huh.",00:03:22
+bjoesfk,29,student,"Then you'd have to do the same with the other one. So again, replace x with 1, which gives you -3. Then you do +9, which gives you 6, so here. What's wrong at the top?",00:03:24
+bjoesfk,30,tutor,"Then you go again, replace the x with 4, which gives you -12. Take— add 9 to that, then that'll give you— [unclear] which will give you 3. So then you mark that here.",00:03:41
+bjoesfk,31,tutor,"And again, you would do a line of [UNCLEAR]. And then to find the intersection is where they meet, so it would be a bit wonky, but that's genuinely where it'd be. So here it is. So the intersection here would be 3 and 4.",00:04:01
+bjoesfk,32,tutor,"All right, so that's wonderful work here, Linus. So did you learn this method in school, or did you learn this method in your last session?",00:04:38
+bjoesfk,33,student,[unclear] We've done this in school and in the session.,00:04:49
+bjoesfk,34,tutor,"All right, so I'll suggest another method. So you told me that you are drawing the best fit, yeah?",00:04:54
+bjoesfk,35,student,Yes. [unclear],00:05:04
+bjoesfk,36,tutor,Hello?,00:05:33
+bjoesfk,37,student,Hello?,00:05:36
+bjoesfk,38,tutor,"Yeah, it's [UNCLEAR].",00:05:37
+bjoesfk,39,student,I stopped hearing you for a second. I don't know what happened.,00:05:40
+bjoesfk,40,tutor,"Yeah, I couldn't hear you as well. I think it's because of a connection issue maybe.",00:05:43
+bjoesfk,41,tutor,Yeah.,00:05:49
+bjoesfk,42,student,Right.,00:05:50
+bjoesfk,43,tutor,"Have you learned any method to like— so looking at these equations, we can figure out y-intercept of each equation, yeah?",00:05:51
+bjoesfk,44,student,Yes.,00:06:02
+bjoesfk,45,tutor,Right. And what does it mean by gradient?,00:06:03
+bjoesfk,46,student,"The gradient is pretty much the— I don't know how to define it, but it's pretty much— [unclear] Oh, how much it goes from ups, that.",00:06:08
+bjoesfk,47,tutor,Yeah.,00:06:20
+bjoesfk,48,student,"That's— and you would divide it by each other's. So then it'd be 2 divided by 1, it gives you 2. So the gradient in this line would be 2.",00:06:21
+bjoesfk,49,tutor,"All right. Yeah, the gradient is how much up or down the graph goes. Yeah. So then what does it mean by the y-intercept?",00:06:35
+bjoesfk,50,student,It's when it crosses the— when it crosses the y-axis.,00:06:46
+bjoesfk,51,tutor,"Mm-hmm. Yeah. So, yes, another method to do this question is, Linus, so you can start with the y-intercept of each equation. Like, let's start with the first one. First equation, okay. So first you can just mark -1 here, y-intercept, and then— so the gradient is 2, +2. That means every point you go this way, you go 2 up, right?",00:06:52
+bjoesfk,52,student,[unclear],00:07:29
+bjoesfk,53,tutor,So 1 point to the right and 2 points to up.,00:07:31
+bjoesfk,54,tutor,"So we marked our second point here, and then again one point to right and two points up, this third point here. And then again we can do the same thing up to 5. So the fourth point would be this one, and then one up, two up. Like this. Does it make sense to you? Like, yeah, yes. Yeah, so rather than, uh, uh, drawing the best fit, I think it would be better if you use 4 or 5 points when you are drawing the graph. Okay.",00:07:35
+bjoesfk,55,student,Yes.,00:08:23
+bjoesfk,56,tutor,"Yes, and you did this one as well. To find the gradient.",00:08:25
+bjoesfk,57,tutor,Right.,00:08:31
+bjoesfk,58,student,The y-intercept.,00:08:31
+bjoesfk,59,tutor,Right. So how have you found the gradient and the y-intercept of this graph?,00:08:34
+bjoesfk,60,student,"Well, first you'd see it did this. So, go from that to here, which gives you 1 and [UNCLEAR].",00:08:39
+bjoesfk,61,tutor,"To find it, you need to divide 2 by 1, which gives you 2. So you would replace the m in the equation with 2. And then to find the y-intercept, you would go to the y-axis and you would find where the line crosses. So here it'd be -1. So you would write it as y [unclear] 2x taken away by 1.",00:08:54
+bjoesfk,62,tutor,"All right, and today we are starting with this one.",00:09:28
+bjoesfk,63,student,"So the gradient here is 4/5, so you would need to",00:09:38
+bjoesfk,64,tutor,"So you will need to first see if that's correct with the line. So you could go from here to here. So that gives you a 1 difference, and then here it gives you a— what? 2 points. [unclear]",00:09:49
+bjoesfk,65,student,"So then you have to put the 2.8 over 1, which is that, that would be the gradient. So the gradient here is not the same as the gradient in the equation, so it is— well, it's not correct.",00:10:21
+bjoesfk,66,tutor,"Yeah, it is not correct. Yeah. What about the y-intercept? Is it correct?",00:10:45
+bjoesfk,67,student,"The y-intercept is because here the line crosses the [unclear] -2, and here the y-intercept is shown as -2.",00:10:51
+bjoesfk,68,tutor,Right.,00:11:04
+bjoesfk,69,student,"The y-intercept is correct, but not the gradient.",00:11:06
+bjoesfk,70,tutor,"Yeah, and that is true, Linus, but can you see you got a decimal number here, right?",00:11:11
+bjoesfk,71,student,Yes.,00:11:18
+bjoesfk,72,tutor,"Yes, this is correct, but are there any easier method to find the gradient?",00:11:19
+bjoesfk,73,student,"Oh yeah, you could go [unclear] a number that is not a negative, so it would be over here.",00:11:28
+bjoesfk,74,tutor,Right.,00:11:41
+bjoesfk,75,student,"And then downwards to here. So then you have to count how many squares it goes through, so 5. Oh, I'm using [UNCLEAR].",00:11:42
+bjoesfk,76,tutor,"Okay. And then here would be 4. Oh, so it is correct. So yeah, then you do 4, I have 5, but just the same as the, the, um, equations for that line is correct. Yeah.",00:11:53
+bjoesfk,77,tutor,"Okay, is this correct? Are you sure?",00:12:12
+bjoesfk,78,student,"I mean, let me see. Oh, wait. 1, 2, 3, 4. Oh, no, it's still because this is the lines itself is going downwards, which indicates that the gradient is negative. And in the equation, it doesn't show a negative, so it's wrong.",00:12:16
+bjoesfk,79,tutor,Because they're not the same.,00:12:44
+bjoesfk,80,student,That's true. So the first mark is Linus for finding that the -2 is correct. That would be our first mark in the exam. And second mark they have given for finding -4/5. That would be our second mark for mentioning this part. And the final mark is for disagreeing with the statement. Okay?,00:12:46
+bjoesfk,81,student,[unclear] Yes.,00:12:46
+bjoesfk,82,tutor,"Yes, okay. What about this one?",00:13:17
+bjoesfk,83,tutor,This question here? This one?,00:13:22
+bjoesfk,84,student,Yes. [unclear],00:13:26
+bjoesfk,85,tutor,"So the equation here, so— These are the x-axis and this is the y-axis.",00:13:28
+bjoesfk,86,tutor,Uh-huh.,00:13:50
+bjoesfk,87,student,"Would you take away? So like, would you do 5 taken away by 3 and 12 taken away by 10?",00:13:54
+bjoesfk,88,tutor,All right.,00:14:04
+bjoesfk,89,student,"That would give you a 2, 2, [unclear]",00:14:06
+bjoesfk,90,tutor,"All right, so finding the equation means, Linus, you have to find what's come before x and what comes after x. So we have x here and we have plus, so minus c. So finding equation means you have to find what comes here And here. Any guesses on finding how to find the gradient?",00:14:16
+bjoesfk,91,student,I'll say the gradient is 2 to 5 and then 12 [unclear] by 5.,00:14:49
+bjoesfk,92,tutor,"All right. Okay, so do you remember what you did in this one? So finding the gradient, you divided the difference between y-axis by the difference in x-axis.",00:15:02
+bjoesfk,93,student,[unclear],00:15:20
+bjoesfk,94,tutor,"You could do the same thing for this one. So you have x and y, you have two data sets.",00:15:24
+bjoesfk,95,tutor,"Oh, sorry. So you wouldn't— [unclear] Would you take the 5 and take it away by the 3 to give you the gradient? So it should be 2. Is that correct?",00:15:32
+bjoesfk,96,tutor,"Uh, we have to do the subtraction, Linus, but it's not only the x-axis, right? So the gradient is this one, yeah? Change in y-axis divided by changing x-axis.",00:16:07
+bjoesfk,97,student,"Oh, I didn't see that. [unclear] Yeah, so by looking at this one, how would you find the change in y-axis and change in x-axis?",00:16:22
+bjoesfk,98,student,"So you would— you do 12 taken away by 10 over 5 taken away by 2— no, 3, I mean. Sorry. 3. Yeah. So then this gives you a 2 over a 2, which would give you a 1. Yeah, that would be the gradient. So the gradient here would be actually a 1. Yeah. And then can you think of a method to find the y-intercept? Yes. [unclear] I just need to erase these things there. I need some space.",00:16:33
+bjoesfk,99,tutor,Yeah.,00:17:20
+bjoesfk,100,student,"Just erase some of this. So to find it, you would write— so it'd be like y mx plus So [UNCLEAR]. we have the gradient, which is 1x.",00:17:23
+bjoesfk,101,tutor,Mm-hmm.,00:17:45
+bjoesfk,102,student,"But we need to find the c, so we don't have it, the y-intercept. So we replace the y with 5, because— no, wait, you replace it with a 12.",00:17:46
+bjoesfk,103,tutor,Yeah.,00:18:07
+bjoesfk,104,student,So then it—,00:18:08
+bjoesfk,105,tutor,"Then you would replace the x with a 5, so then it would be 1 multiplied by 5 plus c, which would give you 5. So now we need to make c the subject, so it would be 12 taken away by 5, [unclear] taken away by 5, which equals 7.",00:18:09
+bjoesfk,106,tutor,Right.,00:18:47
+bjoesfk,107,student,The y-intercept would be 7.,00:18:47
+bjoesfk,108,tutor,"Okay. Is that clear to you about this one, Linus?",00:18:52
+bjoesfk,109,student,Yes.,00:18:57
+bjoesfk,110,tutor,"Yes, okay, cool. We have the last question here, so you can tell me which— why these answers are incorrect. Okay.",00:18:59
+bjoesfk,111,student,"These are incorrect because it is showing— because the y here isn't by itself, it actually has a [UNCLEAR]. So what you would have to do is you'd have to make y be by itself, so you'd have to define",00:19:11
+bjoesfk,112,student,These 2 by 3.,00:19:28
+bjoesfk,113,student,So it'd be y 2x So [unclear],00:19:33
+bjoesfk,114,student,the gradient is actually 2. And,00:19:42
+bjoesfk,115,student,the y-intercept is actually -5.,00:19:47
+bjoesfk,116,student,yes.,00:19:47
+bjoesfk,117,tutor,"All right, that's great for Linus. And what about this one? [unclear]",00:19:56
+bjoesfk,118,student,It's showing that it's wrong because,00:20:04
+bjoesfk,119,tutor,"It has them the wrong way around. The 4, the -4 here is actually the y-intercept.",00:20:21
+bjoesfk,120,student,Yeah.,00:20:29
+bjoesfk,121,tutor,And the 2 should be the gradient. So it should actually be y [unclear] taken away by 4.,00:20:30
+bjoesfk,122,student,All right.,00:20:45
+bjoesfk,123,tutor,"That's really good work, Linus. And yeah, you did a really good job with this. Last question before we end this one. So what does it mean by this y and x?",00:20:47
+bjoesfk,124,student,[unclear],00:20:56
+bjoesfk,125,tutor,So what does it mean by this y and x? We know what is like...,00:21:00
+bjoesfk,126,student,"Oh, yeah.",00:21:06
+bjoesfk,127,tutor,"[UNCLEAR], right?",00:21:06
+bjoesfk,128,student,"Uh-huh. So the y and the x here, the equation represents the y and x-axis in the graph.",00:21:08
+bjoesfk,129,tutor,That's correct.,00:21:20
+bjoesfk,130,student,"So if you were trying to work out the, like, the lines, like how a line would look in a graph, you would have to replace the x with a number in the x, like here is a 1. So you could replace the x with a 1.",00:21:22
+bjoesfk,131,tutor,"Correct. You would multiply it with the gradient, then either subtract it or divide it or add it with the y-intercept. And that would give you the y.",00:21:40
+bjoesfk,132,tutor,"Right, that's a really good explanation. And just imagine you have a graph which goes with this equation, okay? Would you get this kind of shape graph if it agrees with this equation?",00:21:54
+bjoesfk,133,student,"No, because this equation specifically can only give you straight lines. This can only give you a straight line graph. To have a graph that's shaped like that, you'd have to do a [UNCLEAR]. I think that's what a squared graph looks like.",00:22:11
+bjoesfk,134,tutor,"Yeah, yeah, we have to have a squared part to get that kind of a graph. Yeah, that's really good understanding. And do you have any other questions about this lesson, Linus?",00:22:36
+bjoesfk,135,student,[unclear],00:22:47
+bjoesfk,136,tutor,"Okay, all right, enough with graphs, and let's see. Oh yeah, Pythagoras' theorem. So what is Pythagoras' theorem?",00:22:49
+bjoesfk,137,student,So Pythagoras' [unclear] is pretty much like a squared plus b squared equals c squared. So it's pretty much a way to calculate the hypotenuse of a right angle triangle. Or the adjacent or the opposite.,00:23:02
+bjoesfk,138,tutor,"All right, okay. And yeah, you explain everything about this lesson. Who is correct? Joe or Lee?",00:23:33
+bjoesfk,139,student,"It would be Lee because to find the [unclear] hypotenuse,",00:23:46
+bjoesfk,140,student,"You would first need to square 8 and 6, then add them together to give you the c². But you want to get the hypotenuse normally, so you'd have to take the c² and square [UNCLEAR].",00:23:53
+bjoesfk,141,tutor,"All right. Okay, that's a really good explanation again, Linus. All right, what do you think about this one?",00:24:07
+bjoesfk,142,background,"So to find x,",00:24:18
+bjoesfk,143,tutor,"We would first need to find the hypotenuse here of this, like, triangle. So the equation would look something like 3 squared plus 8 squared, which is— [unclear] Let me do it real quick. If I say that's 9, then that's [unclear] plus 9, then it gives you 73. Then you have to take 73, square root of it, because you want the C all by itself. So then you square root that and round it to one decimal place. So that would be",00:24:21
+bjoesfk,144,student,"8.5. And then you would take the new number, so the 8.5, and you would— [unclear] it's the other way around. So you'd then take the 10, because it is the hypotenuse, therefore it's the largest side. You have to square root it and take it away by the [unclear] from, or in this case, the adjacent.",00:25:18
+bjoesfk,145,student,Mm-hmm.,00:25:51
+bjoesfk,146,tutor,"So it is 5 squared, so then that'll give you 100 taken away by 73. Which would give you 27. And then you take 27 and square root it again. [unclear] And then you square root it to give you another decimal number, so you have to round it, so it'd be 5.2. So x equals 5.2.",00:25:53
+bjoesfk,147,tutor,"All right. Oh, a small thing is missing. What about the units?",00:26:43
+bjoesfk,148,student,"Oh, the [unclear] centimeters.",00:26:47
+bjoesfk,149,tutor,"Yes. Okay, so this is a great work, Linus. So you got— this is a 4 marks question. So the first mark is for finding",00:26:51
+bjoesfk,150,tutor,"So first mark is for trying to use this Pythagoras theorem, this part. So they have given one mark for this step, and then getting 73, square root of 73, the second mark. And third mark is for subtracting this part. They have given the third mark for this, and the fourth mark is for final answer.",00:27:02
+bjoesfk,151,tutor,Okay.,00:27:29
+bjoesfk,152,student,"Right. And yeah, this one.",00:27:31
+bjoesfk,153,background,"So this— all of the sides here are equal because of these like little dashes, which equal— which pretty much just mean that the sides here are equal, making it an equilateral triangle. So then here it says that all of these sides equal to 6, 6 centimeters, which equals all of them are. So to find the area of a triangle, it is base of 6, uh, what's it again? [unclear]",00:27:35
+bjoesfk,154,student,[unclear],00:27:35
+bjoesfk,155,student,"Oh, so it's— so the equation for triangle is base times height divided by 2, divided by 2. So it'd be 6 multiplied by 6 over 2. So that would be 28. So it'd be 36 divided by [unclear] which equals...",00:28:37
+bjoesfk,156,student,80.,00:28:37
+bjoesfk,157,tutor,"All right. [unclear] So the Linus thing is that the equation you told me is correct. So the area of triangle is base times height, yeah? So what is the height of this triangle?",00:29:18
+bjoesfk,158,student,It'll be 6 centimeters.,00:29:33
+bjoesfk,159,tutor,6 centimeters would be the length of one side.,00:29:39
+bjoesfk,160,student,Oh.,00:29:44
+bjoesfk,161,tutor,"Height means the distance between the top of the triangle and the base. Yeah, that one. So you have to figure out this height.",00:29:46
+bjoesfk,162,student,"Would— oh, you have to use a calculator. So this should [unclear] 6 by 2. 2 should give you 3. So here, this would be 3, and we're trying to find this one here, which is going to be x. So then we have to use Pythagoras' theorem, so it'd be 6 squared taken away by 3 squared, which would give you [UNCLEAR].",00:29:57
+bjoesfk,163,student,"36 taken away by 9, which should give you 27, which we then have to square root, which gives you 5.2. So now we can [unclear] 26. Multiplied by 5.2 over 2 to give you the area. So then that would be [unclear] 50.6.",00:30:31
+bjoesfk,164,tutor,All right.,00:31:21
+bjoesfk,165,student,So the area is 50.6.,00:31:21
+bjoesfk,166,tutor,"Yeah, that's great. And let's put the units as well.",00:31:24
+bjoesfk,167,student,[unclear] centimeters squared.,00:31:28
+bjoesfk,168,tutor,"Yeah, centimeters squared, right. And we have 4 minutes to go, Linus. I'll give you the next question. Maybe we would not finish that. If so, we can continue it in our next session, okay?",00:31:31
+bjoesfk,169,student,Oh yeah.,00:31:47
+bjoesfk,170,tutor,Yeah.,00:31:48
+bjoesfk,171,student,It's showing—,00:31:48
+bjoesfk,172,student,"A parallelogram? I think, yeah, it's a parallelogram. So the equation to find the area, I think, [unclear] is asking to work out the area. Wait, are we supposed to work out the area or something else?",00:31:51
+bjoesfk,173,tutor,"Okay, what?",00:32:17
+bjoesfk,174,student,"He has put [UNCLEAR]. Oh, I get it, sorry. So you have to add 3 plus 4, and then it would be— so then that would be— [unclear]",00:32:20
+bjoesfk,175,tutor,Mm-hmm.,00:32:45
+bjoesfk,176,student,"And then you would divide that by 3.5, which would give you 2. So then you take 14 and divide it by 2, which would give you 7. So— [unclear] I'm not sure what this question is asking me.",00:32:46
+bjoesfk,177,tutor,"Yeah, maybe we can keep this one for our next session, yeah?",00:33:20
+bjoesfk,178,student,Alright.,00:33:24
+bjoesfk,179,tutor,"Alright, so for this one, Linus, we have to find the perimeter of this one.",00:33:26
+bjoesfk,180,student,Okay.,00:33:31
+bjoesfk,181,tutor,"Yeah, so let's continue this one in our next session. We have like 2 minutes to go to finish the lesson. Could you please tell me what we did today?",00:33:33
+bjoesfk,182,student,"We did— well, first we continued to finding the gradients, the [unclear] and knowing how to like draw on the graph. That's y mx c. Mm-hmm. And",00:33:46
+bjoesfk,183,tutor,then,00:34:04
+bjoesfk,184,student,"afterwards we did Pythagoras' theorem and how it works and how to use it on triangles, right angle triangles. Mm-hmm, yes.",00:34:05
+bjoesfk,185,tutor,"The right angle triangles, yep. And to finish the lesson, how would you find the Gradient when you have the graph? No, not that one. Yeah, sorry. Let's say we have two, like, points marked, and then how would you find the equation of that graph, Linus?",00:34:19
+bjoesfk,186,student,You would do change in y over change in x. [unclear] to give you the great answer.,00:34:47
+bjoesfk,187,tutor,"Right. Yes. Okay. I think that's all for today. We can end the session here. We will be continuing this one in our next session, okay?",00:34:56
+bjoesfk,188,student,Good. Yes.,00:35:06
+bjoesfk,189,tutor,"All right. Okay. Have a good day, Linus. See you. Bye-bye.",00:35:07
+bjoesfk,190,student,Bye-bye.,00:35:12

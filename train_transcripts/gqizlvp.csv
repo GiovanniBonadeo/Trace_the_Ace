@@ -1,0 +1,260 @@
+session_id,utterance_id,role,content,timestamp
+gqizlvp,0,tutor,Hello.,00:00:00
+gqizlvp,1,background,[unclear],00:00:00
+gqizlvp,2,student,Hello.,00:00:00
+gqizlvp,3,tutor,"Hello, Zaxini.",00:00:01
+gqizlvp,4,student,"Hello. Hi, can you hear me?",00:00:03
+gqizlvp,5,tutor,"Hello, I'm good.",00:00:05
+gqizlvp,6,student,"Okay, can you hear me, Declan?",00:00:08
+gqizlvp,7,background,Hello.,00:00:14
+gqizlvp,8,student,Hello?,00:00:17
+gqizlvp,9,tutor,Can you hear me?,00:00:18
+gqizlvp,10,student,Yes.,00:00:20
+gqizlvp,11,tutor,"Okay, how are you doing, Declan?",00:00:22
+gqizlvp,12,student,Good.,00:00:25
+gqizlvp,13,tutor,"Okay, ready for the lesson?",00:00:27
+gqizlvp,14,student,Yeah.,00:00:29
+gqizlvp,15,tutor,"All right, so we are going to be beginning a new lesson today, right? So can you look at the screen and tell me what we're going to learn here today? [unclear] What are we going to learn? So you read the slide and tell me. [unclear]",00:00:31
+gqizlvp,16,tutor,"Exactly, great job. We will be learning how to partition numbers Up to 1 million. Great job. So before we get into the lesson, before we try on questions, here is a warm-up question for you. Write on this box here on this slide. So can you try this question? Read the question and tell me really quick.",00:01:02
+gqizlvp,17,student,"Partitioning numbers up to 1 million, which diagonal [unclear] 1/2?",00:01:23
+gqizlvp,18,tutor,What do you think?,00:01:43
+gqizlvp,19,student,"What do I see? [unclear] No, not that film one. I'm thinking—",00:01:44
+gqizlvp,20,tutor,"Yeah, you can use your pointer like this so I can see where you're pointing at on the screen.",00:01:54
+gqizlvp,21,student,"That one, that's the odd one out. That's the odd one out.",00:02:00
+gqizlvp,22,tutor,"Yes, at the bottom of the slide, you can see the color select point. You can choose the point and you can get a pointer like this for yourself. So then you can point at the slide. That's not the pointer, but okay. So this is the odd one out, do you think?",00:02:05
+gqizlvp,23,student,Yes.,00:02:27
+gqizlvp,24,tutor,"Okay, you got the point. All right, great job. So why do you think the number line is the odd one out? Can you explain?",00:02:27
+gqizlvp,25,student,That one is 5500. All the others are 5005.,00:02:34
+gqizlvp,26,tutor,"Right, that is correct. Great explanation. But instead of saying 5500, can you read the number? What is the number? [unclear]",00:02:41
+gqizlvp,27,student,5500.,00:02:49
+gqizlvp,28,tutor,"Exactly, great job, very well done Declan. That is correct. In the number line, it's going to be 5,500 in the middle. But all the other pictures, what is the number that they are pointing at? All three of them?",00:02:54
+gqizlvp,29,student,"Oh, three of them?",00:03:10
+gqizlvp,30,tutor,Mm-hmm. What is the number that they are showing?,00:03:12
+gqizlvp,31,background,"5,000.",00:03:12
+gqizlvp,32,student,5.,00:03:12
+gqizlvp,33,tutor,"Exactly. Again, great job. That is going to be 5,005. All right, so here onwards, when you're mentioning numbers, let's say the numbers instead of calling it as 5,005, let's call it 5,005. Okay, great job. So you're already familiar with it, right? Let's move on to the questions now. So what do you think partitioning is? Because partitioning is, is, uh, where we split the number, a big number. We take a big number and then we split the big number into smaller parts. That is what we call partitioning. So when you do partitioning, it will be easier to read the number, and then it will be easier to do calculations with the number. It will be easier for a lot of reasons. Okay, so that was only one lesson, wasn't it? [unclear]",00:03:12
+gqizlvp,34,tutor,"In here, the number we have to",00:04:12
+gqizlvp,35,tutor,"To show as an example, can you read this number? [unclear]",00:04:16
+gqizlvp,36,student,"221,341.",00:04:30
+gqizlvp,37,tutor,"Great job, excellent job. That is correct, that's the right number, 221,341. Okay, let's take the number and let's split it in the place value. Okay, see, this is the place value chart. And what are these columns called? What is this one? What is this column?",00:04:32
+gqizlvp,38,student,Ones.,00:04:52
+gqizlvp,39,tutor,This one?,00:04:53
+gqizlvp,40,student,Tens.,00:04:55
+gqizlvp,41,tutor,This one?,00:04:56
+gqizlvp,42,student,[unclear],00:04:57
+gqizlvp,43,tutor,"Hundreds, exactly. And this one?",00:04:59
+gqizlvp,44,student,Thousands.,00:05:04
+gqizlvp,45,tutor,And what is this?,00:05:06
+gqizlvp,46,student,Thousands.,00:05:08
+gqizlvp,47,student,"That is 10,000.",00:05:09
+gqizlvp,48,tutor,"10,000. What is this? [unclear]",00:05:11
+gqizlvp,49,student,Hundred thousands.,00:05:17
+gqizlvp,50,tutor,"Exactly. Great job again. Very well done. So these are the columns. So I see that you've already tried question 1. What value is missing from the place value chart? Yes, the thousands. And where should we put it? And then the column extends as well.",00:05:20
+gqizlvp,51,tutor,Why should it extend?,00:05:39
+gqizlvp,52,student,"It— no, I'm just saying it does because numbers go on.",00:05:44
+gqizlvp,53,tutor,"No, numbers go on to the left side, Declan. Numbers do not go on to the right side. It is beginning with ones, so that ones is the last column that you have here. But if the number increases to 1 million, then you'll have to add another column to this side.",00:05:49
+gqizlvp,54,student,Okay.,00:06:07
+gqizlvp,55,tutor,Okay? Right. So let's— you have done question A. Great job. Can you try question B? [unclear] Try question B for me. Okay. Uh-huh. [unclear],00:06:08
+gqizlvp,56,tutor,Fantastic job again. Great job. One more thing that I have to add in this answer. This is the correct answer. Where do you think we should put the comma in this number?,00:06:36
+gqizlvp,57,tutor,That's right. What do you think? Why do you think we put a comma in a big number? What is the point of that?,00:06:52
+gqizlvp,58,student,Because to not mix up the thousands from the millions or something. [unclear],00:07:02
+gqizlvp,59,tutor,"Oh, again, that's correct. When you have a big number with like so many numbers, like 6 numbers, 7 numbers, 7 digits, every 3 columns, we'll add a comma so that we can separate the thousands and then we can separate the millions after that so that it will be easier to read it. Great job. Okay, let's move on to the next one. Okay, so look at the left side of this column right here. I will be helping you with this question. Right, so this is the number that we have for this question. So can you read this number?",00:07:08
+gqizlvp,60,student,"[unclear] 527,003.",00:07:41
+gqizlvp,61,tutor,"3. Great job again. Well done. Okay, so now can you tell me 500,000 is in the 100,000s, and then we have a 7,000 and we have a 3. So what is it that we are missing here in this number? [unclear] [unclear]",00:07:46
+gqizlvp,62,tutor,Which column are we missing?,00:08:12
+gqizlvp,63,student,What number is it?,00:08:26
+gqizlvp,64,tutor,"So if this is the number, the whole number is like you said, 527,000.",00:08:29
+gqizlvp,65,student,Which column are we missing in question A?,00:08:34
+gqizlvp,66,tutor,Yes.,00:08:38
+gqizlvp,67,student,"20,000.",00:08:39
+gqizlvp,68,tutor,"Exactly. Fantastic job. So let me write it for you. We are missing the 20— [unclear] Sorry. Missing the 20,000. Great job. Now look at B. This just says 520,000 because we are adding all of the thousands column together. So adding these together, so it's 520,000 now. And what else should we add here with the 520,000? [unclear]",00:08:40
+gqizlvp,69,tutor,Mm-hmm.,00:09:16
+gqizlvp,70,student,I'll get that right on for you.,00:09:18
+gqizlvp,71,tutor,"Okay, 7,000.",00:09:25
+gqizlvp,72,student,"7,000. What else is missing? 3. Great job. Okay, and then if we read it as 583,000, then what are we missing? [unclear] Great job. See, now you understand how we have different ways of partitioning the same number.",00:09:27
+gqizlvp,73,student,thousand.,00:09:27
+gqizlvp,74,tutor,"Okay, if you can stay quiet and listen to me, then you will hear everything that I'm saying, okay?",00:09:27
+gqizlvp,75,tutor,"Right, so this is the same number, 527,003, just one number, but we have 3 different ways of partitioning it, right? We can have more ways of partitioning it as well. These are not the only ways, but what I'm trying to say is there can be a lot of ways of partitioning, okay? Different ways. This way, this is one way, this is another way, and this can also be a way. Okay, likewise, can you try this question on your own? Now, this is the number that we have. So what is the number here? Can you read this number for me?",00:10:03
+gqizlvp,76,student,"[unclear] 405,103.",00:10:39
+gqizlvp,77,tutor,"Great job, excellent job. That is correct. That is the number. So we have 3 different ways of partitioning this number as well. So can you try guessing the missing numbers?",00:10:50
+gqizlvp,78,student,"Okay, I'll do it. [unclear] [unclear]",00:11:09
+gqizlvp,79,student,"Okay, so, let's see me!",00:11:43
+gqizlvp,80,tutor,Yes.,00:11:48
+gqizlvp,81,student,I will do the twist.,00:11:48
+gqizlvp,82,tutor,"Yes, try these 3 questions.",00:11:52
+gqizlvp,83,student,"400,000 plus [unclear] plus 100 plus 3. What could that [unclear] be? Let's find out. Okay, so 400,000, 400,100, 400,103.",00:11:54
+gqizlvp,84,tutor,"405. Okay, try to be empty now. [unclear]",00:12:24
+gqizlvp,85,student,"405,000 plus 100 plus 3. Fantastic [unclear]",00:12:28
+gqizlvp,86,tutor,"job again, Declan. Great job. Okay, so now we have a clear understanding that the same number can be partitioned in different ways. Okay, let's move on to the next slide. Right, here are a few questions for you, and I want you to try these questions for",00:12:51
+gqizlvp,87,tutor,"or by yourself, then we can go through these questions. [UNCLEAR]",00:12:51
+gqizlvp,88,student,"473,851.",00:13:08
+gqizlvp,89,student,"800 plus 50 plus 1. 700,000 plus [unclear]",00:13:34
+gqizlvp,90,tutor,"Okay, try question number 2 now. [unclear]",00:14:09
+gqizlvp,91,student,50 plus...,00:14:09
+gqizlvp,92,tutor,"Okay. 10,000 plus 52 plus 600. Alright! [unclear]",00:14:30
+gqizlvp,93,tutor,"Great job again in trying all of these questions by yourself and also coming up with the right answers. Great job! So these questions are similar to the previous questions you tried. So all you have to do is find the missing columns and find the missing numbers. Great job! Okay, we have our final question for this lesson, right? This is a challenge question, so can you try this one?",00:15:00
+gqizlvp,94,student,A farmer is looking at what he had sold recently. How many sacks of potatoes did he sell? [unclear],00:15:26
+gqizlvp,95,tutor,"5,000 sacks! That is a lot! That is a lot of potatoes, that's correct. So how did you get the answer very quickly?",00:15:38
+gqizlvp,96,student,Because I looked at the total.,00:15:49
+gqizlvp,97,tutor,What is the total?,00:15:53
+gqizlvp,98,student,"695,800 and [UNCLEAR].",00:15:55
+gqizlvp,99,tutor,"Aha, right. That's an excellent job in reading the number as well. Great job. So this is the total so that you can see which number is missing. So that should be the sack of potatoes. Fantastic job overall in this lesson, Declan. So we are at the end of this one. Very well done, and you did all of these questions by yourself as well. So let's just quickly go back and do a recap and see what we have learned here today. Right, so what do you remember learning here? What did we learn here? [unclear]",00:15:55
+gqizlvp,100,tutor,Right.,00:16:34
+gqizlvp,101,tutor,"Hello. Sorry, that's [UNCLEAR].",00:16:40
+gqizlvp,102,tutor,"Oh, what happened?",00:16:40
+gqizlvp,103,student,I went back to this slide by accident.,00:17:15
+gqizlvp,104,tutor,"Okay, that's all right. Um, just do a quick recap and then we can move on to the next lesson. All right, so what do you remember, uh, learning here?",00:17:18
+gqizlvp,105,student,Partitioning.,00:17:29
+gqizlvp,106,tutor,That's correct. And what— how did we do the partitioning here in these questions?,00:17:31
+gqizlvp,107,student,We split the number. Imagine if this was the— this line was the number. We split it into smaller parts.,00:17:36
+gqizlvp,108,tutor,"Great job. Yes, we split the numbers into smaller parts and then we used the place value chart to help us. That's an important thing. Great. Okay, so what do you remember trying here? [unclear]",00:17:46
+gqizlvp,109,tutor,"Exactly, in different ways. So the important thing to remember here, the same number can be partitioned in different ways. That's what we've learned here. Okay, and you tried all of these questions by yourself as well, and we did the challenge question as well. So fantastic job!",00:18:04
+gqizlvp,110,tutor,"Let's just quickly finish this lesson, right? [unclear] To the next one. Give me a minute.",00:18:24
+gqizlvp,111,student,This is how you can partition them.,00:18:50
+gqizlvp,112,tutor,This is how.,00:18:53
+gqizlvp,113,background,"Yeah, you can use the [unclear] chart to try the partitioning as well, help you with that.",00:18:55
+gqizlvp,114,student,There's all of these numbers on there.,00:19:00
+gqizlvp,115,tutor,"Okay, great. We are going to begin something new. Okay, right. This is a new lesson you're going to learn now. All right, so can you tell me what is it that you're learning here?",00:19:16
+gqizlvp,116,student,"Finding the position of a number up to 1 million, up to 1M on a number line.",00:19:28
+gqizlvp,117,tutor,"1 million on a number line, exactly. So we're going to use a number line here. We're going to learn about number lines and how to position a number. Up to a million or [UNCLEAR]. Okay. Can you try? I can't see it clearly. There's a lot of static from your side. That is a million. That is a million, yes. So can you try this warm-up question before we get into our lesson?",00:19:36
+gqizlvp,118,student,It's not a warm-up for me. It's a challenge for me.,00:19:36
+gqizlvp,119,tutor,Mm-hmm.,00:20:07
+gqizlvp,120,student,What do you notice? What is the same?,00:20:09
+gqizlvp,121,student,The number of boxes. What is different? The value.,00:20:12
+gqizlvp,122,tutor,Mm-hmm. What do you think? What is same and what is different?,00:20:16
+gqizlvp,123,student,They're different.,00:20:30
+gqizlvp,124,tutor,"Yes. So these are bar models. And look at all 4 of them and see what is similar in all of them, and also what is the difference? They can be similarities and also differences. What do you notice?",00:20:33
+gqizlvp,125,student,I notice that I... [unclear] I have done the millions method. [unclear],00:20:57
+gqizlvp,126,tutor,"Okay, how many parts all of these numbers are divided into?",00:21:13
+gqizlvp,127,student,Parts?,00:21:21
+gqizlvp,128,tutor,"Yes, in the bar model.",00:21:22
+gqizlvp,129,student,"10, I think.",00:21:27
+gqizlvp,130,tutor,Exactly. So all of them are— [unclear],00:21:29
+gqizlvp,131,tutor,"Yeah, it doesn't have to be a guess. You can count, you can see here. See, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. All of these numbers are divided into 10 parts. That is the similarity. What is the difference between these bar charts then? Are they the same number? Do you see the same number? [unclear]",00:21:31
+gqizlvp,132,tutor,"No, that's correct. This one is a million, this is 100,000, this is 1,100. So that's the difference. These are all different numbers, but they've been divided into same number of parts, which is 10 parts. So that is same. The numbers are different. Okay, it's fine. [unclear] Yes, okay, last one is 100. All right, so here we can move on to our questions here. Before we start doing questions, we have to understand—",00:22:07
+gqizlvp,133,student,[UNCLEAR],00:22:07
+gqizlvp,134,tutor,"Yes, when we are interpreting the number lines, so when we are trying the number lines for questions, we need to work out the scale of the number line. So we need to see where is it starting and where is it finishing, so then we will understand the scale of it. Yeah, so let's just see, and also the number of parts the whole line is being divided into. So for an example, look at this one. What's the scale of it? Where is beginning? It's beginning at 0, and where is it ending?",00:22:39
+gqizlvp,135,student,[unclear],00:23:14
+gqizlvp,136,student,[unclear],00:23:19
+gqizlvp,137,tutor,"Exactly, it's ending in 100,000. So from 0 to 100,000, all of the numbers between 0 and 100,000 can be in this number line. But what is in the middle of it? How can we decide that? We can divide the 100,000 by 2 to understand which is the middle part of it. So can you tell me what is going to be the middle of this number line? Okay, write it down. That will be the answer for question A.",00:23:19
+gqizlvp,138,student,[unclear],00:23:49
+gqizlvp,139,tutor,"Great job! Exactly. So 50,000 is going to be in the middle of this number line. So that way you will understand the scale of this number line. Okay, so let's look at question B. So can you tell me what is going to be— [unclear]",00:23:50
+gqizlvp,140,tutor,"Million, exactly. So this is beginning from zero and the scale of it is 1 million. So can you tell me what is going to be in the middle of— yes, but where is the 250,000 going to be? Can you point it on the number line?",00:24:13
+gqizlvp,141,student,[unclear],00:24:27
+gqizlvp,142,tutor,"That's right, exactly. The 250,000 is going to be here. So what is going to be here in the middle?",00:24:29
+gqizlvp,143,student,"In the middle. 500,000.",00:24:37
+gqizlvp,144,tutor,"Exactly, great job again. What is going to be here? Let me ask you.",00:24:41
+gqizlvp,145,student,"So, that is going to be 750,000.",00:24:49
+gqizlvp,146,tutor,"Exactly, very well done. [unclear]",00:24:55
+gqizlvp,147,student,I'm thinking 510 is going to be there.,00:24:57
+gqizlvp,148,tutor,"Mm-hmm. So what can be, what is going to be the value of each of these small parts?",00:25:02
+gqizlvp,149,student,100.,00:25:06
+gqizlvp,150,tutor,100. Excellent job again. I'm going to ask you what is going to be in the middle of this number line. Can you show me?,00:25:08
+gqizlvp,151,background,500.,00:25:15
+gqizlvp,152,tutor,"500, okay. So look at the number line and look at where I'm pointing. Okay, what is going to be here?",00:25:16
+gqizlvp,153,background,"[unclear] 800. 800. Excellent job again. Great job. So now you understand how the number lines work because you answered everything correctly. Okay, great job. Now we are going to try these questions, right? Look at this question here on this side. [unclear]",00:25:22
+gqizlvp,154,background,I am [UNCLEAR].,00:25:44
+gqizlvp,155,tutor,"Right. Can we try the questions first? Okay, so this is the number line that we have for this question. We have to find out the value of a and b. So look at where a is and look at where b is. Alright, so how can we try to do that? We need a way to work out. So look at the instruction first.",00:25:44
+gqizlvp,156,tutor,We can partition.,00:26:07
+gqizlvp,157,student,"We can partition, alright. We don't have to partition here, per se, because we can see the scale of the number line and see how it is being divided into. So for example—",00:26:08
+gqizlvp,158,student,We need to see the intervals.,00:26:22
+gqizlvp,159,tutor,"That's correct, great job, exactly. So we need to find out the intervals so then we can see where A is gonna be. So the calculation to work out each— the A is, so look at the beginning of the number line, 0. It's beginning at 0 and it's ending at 60,000. So if it's ending at 60,000, This is 20,000 and this is 40,000. This we already know, it's in the number line, it's marked in the number line. But to get to A, see the 20,000, how many parts are we dividing the 20,000?",00:26:25
+gqizlvp,160,student,"20,000... [unclear]",00:27:03
+gqizlvp,161,tutor,"We need to know the value of each of the small intervals, right? So if we take 20,000, then how many parts, how many small parts are in 20,000? In this number line. [unclear]",00:27:14
+gqizlvp,162,student,"Of course, it's Declan.",00:27:39
+gqizlvp,163,tutor,"Yes, Declan. So we need to find out the value of each of these small intervals now. So we need to know what they're going to be. So let's take this part of the number line. It has 20,000 here. So how many parts— [unclear]",00:27:44
+gqizlvp,164,student,They are going [unclear],00:28:02
+gqizlvp,165,tutor,That's right. Great job. How did you get that? You got that?,00:28:08
+gqizlvp,166,student,thousand.,00:28:08
+gqizlvp,167,tutor,"Okay. So 20,000. Can you pay a little more attention to what I'm saying, Declan? Okay. So 20,000, we take 20,000 and then we divide it into 4 parts. So we know that each of these small parts is 5,000. Now can you tell me If each of these small part is 5,000, now what is A?",00:28:08
+gqizlvp,168,student,"A? [unclear] 10,000.",00:28:36
+gqizlvp,169,tutor,"Exactly! Fantastic job! A is going to be 10,000. What is going to be B? What is going to be B? I have a special answer for that. What is going to be B?",00:28:41
+gqizlvp,170,student,I know how. [unclear],00:28:59
+gqizlvp,171,tutor,37?,00:29:02
+gqizlvp,172,student,"No, no, no, no, no. We go, we go, we go.",00:29:07
+gqizlvp,173,background,35.,00:29:17
+gqizlvp,174,tutor,"Exactly. It's going to be 35 because from 20, it's 25, 30, and 35. Great job. See, now this is how we can find out where in this in a number line by getting the— getting to know what the interval is. Okay, so can you work out the values of a and b here in this number line? You have to see— we have to write down what is the calculation that you do to get the value of [UNCLEAR].",00:29:19
+gqizlvp,175,student,"Okay, so",00:29:19
+gqizlvp,176,tutor,"Ah, we calculate the value of the [unclear]",00:29:57
+gqizlvp,177,tutor,"Yes, and I need to see how you calculated the value. [unclear]",00:30:23
+gqizlvp,178,student,I is.,00:30:50
+gqizlvp,179,tutor,"Okay, let me ask you a question, right? How did you divide 400,000 by 4? Can you explain this calculation to me?",00:30:54
+gqizlvp,180,student,"That's how— because you used 20,000 and that was the second number. [unclear]",00:31:05
+gqizlvp,181,tutor,That is not—,00:31:13
+gqizlvp,182,tutor,"How you try to do the question, because this number line is starting from 0. Declan, you see? So the scale of this part—",00:31:16
+gqizlvp,183,student,And this number line— and that number line is not starting from 0.,00:31:23
+gqizlvp,184,tutor,"Exactly. So you have to find out the scale of this whole thing, this one, this part. What is the scale of this part?",00:31:29
+gqizlvp,185,background,Where is the scale? Where is the scale?,00:31:35
+gqizlvp,186,background,There.,00:31:38
+gqizlvp,187,tutor,So from here to here What is the value?,00:31:39
+gqizlvp,188,student,"399,000, 400,000, 395,000.",00:31:43
+gqizlvp,189,tutor,"That's right. If it's starting from 390,000 and ending from 400,000, then what is the value of this part? [unclear]",00:31:50
+gqizlvp,190,student,"390,000 and 400,000.",00:32:00
+gqizlvp,191,tutor,"No, from 390,000 to 400,000.",00:32:04
+gqizlvp,192,tutor,"So I'm asking, what is the value of this part? This whole part starting from— so let's just say if it's starting from 0 and ending at 20,000, then the value of this whole thing will be 20,000. If it's starting from 20,000 and then ending at 40,000, this whole part, the value of this whole part is going to be 20,000. You understand?",00:32:09
+gqizlvp,193,tutor,"From 20,000.",00:32:37
+gqizlvp,194,student,"20,000.",00:32:38
+gqizlvp,195,tutor,"Yes, from 20,000 to 40,000. So you take away 20,000 from 40,000 to see how— what is the scale of this bar. So if it's [UNCLEAR]—",00:32:40
+gqizlvp,196,background,"The scale of this bar is 10,000.",00:32:40
+gqizlvp,197,tutor,"Exactly. Fantastic job. So that is what we need to understand, the scale of the bar, and then you divide into How many parts is being divided into?",00:32:53
+gqizlvp,198,student,But I understand [unclear] numbers that are a lot bigger.,00:33:05
+gqizlvp,199,tutor,"They are bigger. Numbers are bigger, but in the number line, this part is going to be 10,000. But from here to here, it's going to be 30,000 because it's beginning from 390 and ending in 420. So if you need to find out the value of every small part, you can either take the whole number line and then divide it into 30 small parts, or you can take this part and divide it into 10 parts. Either way, okay? This is the scale of the number line, right? So 10,000 divided by 10, you know that each small piece is going— [unclear]",00:33:12
+gqizlvp,200,tutor,Okay.,00:33:53
+gqizlvp,201,tutor,Right.,00:33:54
+gqizlvp,202,student,395.,00:33:54
+gqizlvp,203,tutor,That is correct. A is 395. That is fantastic job. What is going to be B?,00:33:54
+gqizlvp,204,background,Yay!,00:34:01
+gqizlvp,205,tutor,"Oh, great job! Again, great job again. Fantastic. Okay, I have a few more questions for you. Try to complete the missing values. [unclear]",00:34:02
+gqizlvp,206,tutor,"Great job. Okay, great job again. Can you explain these two answers to me now?",00:34:37
+gqizlvp,207,student,They are on number lines. Which makes them easier to understand.,00:34:45
+gqizlvp,208,tutor,Mm-hmm.,00:34:54
+gqizlvp,209,student,"So, one-eight— [unclear] So 187,000. I said this because the midpoint will be 185,000 and 80,000. I said this because it's going up to 100,000.",00:34:56
+gqizlvp,210,student,Same.,00:35:15
+gqizlvp,211,tutor,"That's right. Exactly, great explanation as well. So I'm going to ask you, what is in this first number line? What is the value of each of these small intervals?",00:35:16
+gqizlvp,212,student,These intervals?,00:35:26
+gqizlvp,213,tutor,Mm-hmm.,00:35:28
+gqizlvp,214,student,So like one of these.,00:35:29
+gqizlvp,215,tutor,Mm-hmm.,00:35:32
+gqizlvp,216,student,An interval. [unclear],00:35:34
+gqizlvp,217,tutor,"It is 10,000. Is it 10,000 each interval? It's 180,000. If each interval is 10,000, then this has to be 190,000. No?",00:35:35
+gqizlvp,218,tutor,Okay.,00:35:51
+gqizlvp,219,student,"[unclear] 1,000.",00:35:51
+gqizlvp,220,tutor,"Exactly, it's 1,000 because the scale of this number line is 10,000 because it's beginning from 180, ending at 190. So this is— the whole part is 10,000 and you divide it by 10. So each small part is going to be 1,000. Okay, right, great job. How about this one? What is the value of each of these small intervals from here to here?",00:35:55
+gqizlvp,221,student,"Each of those intervals, they are 20,000.",00:36:17
+gqizlvp,222,tutor,"Exactly, fantastic job. See, now you understand it. So the [unclear] scale is 100,000 and you divide it into 5 parts. It is 20,000 here. 40,000 here. Let me ask you, what is going to be here? What is the number that's going to be here?",00:36:23
+gqizlvp,223,student,"60,000.",00:36:38
+gqizlvp,224,tutor,"60,000. Excellent job again. All right. Okay, we have one more question for you. Okay, Declan. [unclear] [unclear]",00:36:40
+gqizlvp,225,tutor,"1,400.",00:37:11
+gqizlvp,226,student,How did we get this answer?,00:37:13
+gqizlvp,227,tutor,How did you get this answer?,00:37:19
+gqizlvp,228,student,I used the mental method in my head.,00:37:24
+gqizlvp,229,tutor,"Okay, how did you do the calculation? How did you find out this? It has to be 104. Sorry, 1,400. [unclear]",00:37:28
+gqizlvp,230,student,Yes. So what is the value of Declan?,00:37:43
+gqizlvp,231,background,"So how did you do this question, Declan? This question, this [UNCLEAR], I use this lion to calculate my answer.",00:37:49
+gqizlvp,232,tutor,"It is not the right explanation, Declan. So what is the value of each of these intervals? How can you find that out in this question?",00:37:49
+gqizlvp,233,student,"Each of those intervals, 200, 200. How did you do that? How did you find out that it's 200? [unclear]",00:38:15
+gqizlvp,234,student,I got it by doing my mental math things.,00:38:28
+gqizlvp,235,tutor,"Okay, so this is beginning at 1,000 and ending at 2,000, so the scale is going to be 1,000. And then you divide it into 5 parts, so each of these parts is 200. So what do you think is going to be here? If you point it here.",00:38:39
+gqizlvp,236,student,There. One [UNCLEAR].,00:38:57
+gqizlvp,237,tutor,Can you say it as a number instead of calling it one [UNCLEAR]?,00:38:57
+gqizlvp,238,student,"One thousand, eight. [unclear]",00:38:57
+gqizlvp,239,tutor,"Great job. All right, so we are done with this lesson as well. Let's just quickly go back to see what we have learned here. All right, what did we learn here in this warm-up question?",00:39:14
+gqizlvp,240,student,Finding the position of the number up to one line.,00:39:29
+gqizlvp,241,tutor,"No, that's the lesson's name. That's the name of the lesson. So there's one more question. You struggled with— [unclear]",00:39:33
+gqizlvp,242,tutor,"We learned the bar model, bar model, bar model.",00:39:42
+gqizlvp,243,background,"Bar models, yes. And bar models and the similarities and differences between these bar models. Okay. What did we learn here?",00:39:45
+gqizlvp,244,student,"Scale, number of parts, intervals.",00:39:55
+gqizlvp,245,background,"Yes. And we learned how to find the middle part of it. How to find the quarter of a number line. Basically, how to find the intervals of number lines so that we can understand the scale of the number line. So that's what we found out here. All right, how about these questions? What did we do here?",00:40:00
+gqizlvp,246,student,"Here, A and B.",00:40:21
+gqizlvp,247,tutor,"A and B, yes. And how did we find out A and B? What do we have to do first?",00:40:27
+gqizlvp,248,student,By calculating to work out the value of the intervals.,00:40:34
+gqizlvp,249,tutor,"Exactly, fantastic. We need to find out the value of the intervals, and that is how we find out where A and B are gonna be. Okay, in the second question, um, what did you learn? What did I say about the scale here? Because you earlier thought that it's 400,000. But I told you it's not 400,000, but this is 10,000. Why do you think that is? [unclear]",00:40:39
+gqizlvp,250,tutor,Now from here—,00:41:11
+gqizlvp,251,student,So this must be the midpoint.,00:41:16
+gqizlvp,252,tutor,"That must be the midpoint, yes. But you don't need the midpoint here for this question. We only need to find out the intervals. So I told you since it's beginning in 390,000 and here it's 400,000, so this scale is going to be at 10,000. If this began at 0, it could have been 400,000. Okay, great job.",00:41:19
+gqizlvp,253,student,Yes.,00:41:42
+gqizlvp,254,tutor,And you tried these questions and came up with the [unclear] explanations as well. The final question we have done,00:41:42
+gqizlvp,255,tutor,"Well, okay, in this question you didn't give me an explanation as to how you got the interval as 200, but next time come up with the explanation as well so that I will understand what you understood as well. [unclear] Alright, great job.",00:41:53
+gqizlvp,256,student,Is it divisible?,00:42:06
+gqizlvp,257,tutor,"Yeah, so we have completed a few lessons here today and you did really well. So let's begin a new lesson. In our next week's session. And we can try questions and we will go through the questions together after you try them as well. Alright, I'll see you next week. Okay?",00:42:08
+gqizlvp,258,student,Okay. [unclear],00:42:32

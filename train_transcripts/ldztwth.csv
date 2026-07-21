@@ -1,0 +1,349 @@
+session_id,utterance_id,role,content,timestamp
+ldztwth,0,tutor,Hello.,00:00:00
+ldztwth,1,background,[unclear],00:00:00
+ldztwth,2,student,Hello.,00:00:00
+ldztwth,3,tutor,"Hi, welcome to the Despace learning session. How are you keeping today?",00:00:01
+ldztwth,4,student,"I'm alright, thanks. How are you?",00:00:05
+ldztwth,5,tutor,"Okay, I'm doing great as well. Thank you so much, Tobias. Alright, shall we get started with our lesson today?",00:00:07
+ldztwth,6,student,Yep.,00:00:12
+ldztwth,7,tutor,"So we will be continuing with the same lesson that we did last week, applying Pythagoras' theorem. And do you remember that we tried to figure out area of a triangle?",00:00:15
+ldztwth,8,student,Yep.,00:00:27
+ldztwth,9,tutor,"Yeah, so we actually discussed the method to find the area of the triangle if the perpendicular height is not given, right? And how to find that using the [UNCLEAR]. Pythagoras theorem. By any chance, do you recall the Pythagoras theorem?",00:00:27
+ldztwth,10,student,"Um, not really.",00:00:27
+ldztwth,11,tutor,"Okay, so let's have a look at it before we dive into it. Have a look at this. You can apply the Pythagoras theorem only if your triangle is a right-angle triangle. [unclear] And the legs of the triangles are these, A and B, and C would be the longest side, which we also call it as hypotenuse. Given this is the case, you can write a Pythagoras formula like this, which is A squared plus B squared will be equal to C squared.",00:00:27
+ldztwth,12,tutor,Yeah.,00:01:25
+ldztwth,13,student,So you can use this formula to figure out the missing length given that the [unclear] of the right angle triangles are given to you. Okay?,00:01:27
+ldztwth,14,student,Yep.,00:01:39
+ldztwth,15,tutor,"So can you recall it for me? In your words, can you explain to me what is Pythagoras' theorem?",00:01:41
+ldztwth,16,background,"Um, what, like, what do you mean?",00:01:48
+ldztwth,17,tutor,You can use this triangle and explain to me when and where you can apply Pythagoras' theorem and the formula.,00:01:53
+ldztwth,18,background,"Yeah, I can hear you.",00:02:01
+ldztwth,19,tutor,"So if you wanted to find like a missing side, so you'd like do like, for example, a² b², which would be c². Can",00:02:03
+ldztwth,20,student,"you apply this theorem to all the triangles, like triangles? [unclear] Yeah.",00:02:14
+ldztwth,21,background,No.,00:02:21
+ldztwth,22,student,Do keep a note of that. You can apply this triangle only if you can make a right-angle triangle.,00:02:22
+ldztwth,23,tutor,"[unclear] Apply to all the triangles, but let's say given that this is an equilateral triangle, but if you draw a line from B to the center of the line AC, then it makes a perpendicular line, right, with AC. In that case, you can apply the Pythagorean theorem to one half of the triangle. Okay.",00:02:32
+ldztwth,24,tutor,"Yeah, but only you can apply that to the right angle that you are making. Clear?",00:02:58
+ldztwth,25,student,Yeah.,00:03:03
+ldztwth,26,tutor,Right. And there is an application for you here. Can you read through the question and answer it? [unclear] [Speaker] So would I do 8 squared times by 6 squared?,00:03:04
+ldztwth,27,student,Or just times by 6.,00:03:32
+ldztwth,28,tutor,Why do you want to do that? What are you trying to find through that? [Speaker] The permanent— [unclear] So how do I find out what the sides are?,00:03:36
+ldztwth,29,tutor,Okay. Which sides you mean?,00:03:51
+ldztwth,30,student,AB and BC.,00:03:55
+ldztwth,31,tutor,"BC, okay. And they are the same, right? [unclear] Okay. So consider this triangle, triangle B, and the point that is connecting the base AC.",00:03:57
+ldztwth,32,student,Yeah.,00:04:10
+ldztwth,33,tutor,"Okay. And consider only this section. Because this is the perpendicular height, isn't it? That's what they have given. Consider this triangle and apply the Pythagoras Theorem so you can find BC. [unclear]",00:04:11
+ldztwth,34,student,"Yeah, but I don't really know how to work out though.",00:04:28
+ldztwth,35,tutor,"Okay, shall we go back to the previous question, understand, and come back here? Okay?",00:04:33
+ldztwth,36,background,"Alright. There's an example here. ABC is an equilateral triangle. AB BC CA, which is equal to 6 centimeters. Find the area of the triangle. Do remember that area of the triangle's formula is base height into You keep [UNCLEAR].",00:04:39
+ldztwth,37,tutor,"cutting out again. Oh, okay.",00:04:39
+ldztwth,38,student,Is that clear now? Yeah.,00:05:09
+ldztwth,39,tutor,"Correct. Okay, what is the area? What is the formula to find the area of a triangle?",00:05:11
+ldztwth,40,student,Base times height divided by 2.,00:05:18
+ldztwth,41,tutor,"Correct. So we know the base here. If we consider base as AC, that is 6 centimeters. Do we know the perpendicular height?",00:05:20
+ldztwth,42,background,[unclear],00:05:30
+ldztwth,43,tutor,"No. So that's what we're gonna find, that is by using the Pythagoras theorem. And that base perpendicular height would be this, which would connect the midpoint of the base and the vertex of B. Okay, is that clear to you?",00:05:31
+ldztwth,44,student,Yeah.,00:05:51
+ldztwth,45,tutor,"Okay, so we will be finding the height here. Let's mark it as h. Okay, so, and I'm gonna, I'm gonna consider this point as D for our reference. That's the center of AC. Is that clear to you?",00:05:53
+ldztwth,46,student,Yeah.,00:06:11
+ldztwth,47,tutor,"Now I'm considering only the triangle ADB, and remember, since this is a perpendicular height, this is— ADB is a right angle triangle.",00:06:12
+ldztwth,48,background,Yeah.,00:06:25
+ldztwth,49,tutor,"Applying the Pythagoras theorem, right angle triangle, here I can say that [unclear]",00:06:27
+ldztwth,50,student,"Now we go this length, so we move all the way down here. 80 squared....is equal to... [unclear]",00:06:38
+ldztwth,51,tutor,is equal to AB squared.,00:06:38
+ldztwth,52,student,Yep.,00:06:38
+ldztwth,53,tutor,You agree with that?,00:07:13
+ldztwth,54,student,Yep.,00:07:25
+ldztwth,55,tutor,So what is AD squared? What's the value of it?,00:07:26
+ldztwth,56,tutor,3.,00:07:26
+ldztwth,57,student,"3, yeah.",00:07:26
+ldztwth,58,tutor,So that's 3 squared plus— what is the b squared?,00:07:40
+ldztwth,59,background,[unclear],00:07:49
+ldztwth,60,tutor,"Wait, so it was— Is it 36?",00:07:52
+ldztwth,61,tutor,"It's h, h squared.",00:07:56
+ldztwth,62,student,Oh.,00:07:58
+ldztwth,63,tutor,Right? That's the one they were figuring out. And but we know AB squared. What is AB squared? [unclear],00:07:58
+ldztwth,64,background,What is A?,00:08:07
+ldztwth,65,background,1.1.,00:08:08
+ldztwth,66,background,Was it 3 squared?,00:08:10
+ldztwth,67,tutor,6 squared.,00:08:13
+ldztwth,68,background,Oh.,00:08:14
+ldztwth,69,tutor,"Yeah. AB is this line over here. Since it's a [UNCLEAR], it's a 6 centimeter. So you need to solve this to find h. Okay?",00:08:14
+ldztwth,70,student,Yeah.,00:08:26
+ldztwth,71,tutor,So can you solve and find h? [unclear],00:08:28
+ldztwth,72,background,Is h 27?,00:08:43
+ldztwth,73,tutor,Not really.,00:08:47
+ldztwth,74,tutor,How did you get that 27?,00:08:49
+ldztwth,75,student,"Because 6 squared is 36, so then I took away 9, which is 3 squared, so I took 9 away from 36 and I've got 27.",00:08:51
+ldztwth,76,background,36 take away 9 is 125? [unclear],00:09:03
+ldztwth,77,student,"No, 36 take away 9.",00:09:08
+ldztwth,78,student,27.,00:09:16
+ldztwth,79,tutor,"27, sorry. So what is square root of 27?",00:09:16
+ldztwth,80,student,"Um, hold on. [unclear]",00:09:20
+ldztwth,81,tutor,"No, square root of 27 is 5.2.",00:09:27
+ldztwth,82,student,"Oh yeah, yeah, I've got it now.",00:09:31
+ldztwth,83,tutor,"Okay, so now you know the perpendicular height. So now can you find the area of the triangle?",00:09:35
+ldztwth,84,tutor,So the area of the triangle is?,00:09:47
+ldztwth,85,student,5.2.,00:09:50
+ldztwth,86,tutor,"Yeah. 5.2? That's the perpendicular height. So area would be height— base into height into— base is 6 centimeters, height is 5.2. [unclear]",00:09:52
+ldztwth,87,tutor,Yeah. And what's the answer?,00:10:15
+ldztwth,88,student,Hold on. [unclear],00:10:20
+ldztwth,89,student,15.6.,00:10:52
+ldztwth,90,tutor,15.6 centimeters squared.,00:10:53
+ldztwth,91,student,Yeah.,00:10:55
+ldztwth,92,tutor,Okay. So can you take me through the steps that we followed here to find the area of the triangle?,00:10:57
+ldztwth,93,tutor,"Well, you find out what all the sides are. [unclear]",00:11:05
+ldztwth,94,tutor,I don't know.,00:11:17
+ldztwth,95,student,Can you go through the steps here that we have followed? [unclear],00:11:21
+ldztwth,96,tutor,Do you want me to explain it again? I can do that for you.,00:11:42
+ldztwth,97,student,"Yes, please.",00:11:45
+ldztwth,98,tutor,"Okay. First of all, can you tell me what is our— what are we trying to find here?",00:11:47
+ldztwth,99,background,What H is.,00:11:56
+ldztwth,100,tutor,"Okay, well, the area. [unclear]",00:11:57
+ldztwth,101,student,Find the area.,00:12:00
+ldztwth,102,tutor,"Find the area. Okay, to find h, we need to apply the Pythagoras Theorem to the triangle ADB. Yeah, because that's the right angle triangle. So in the right angle triangle, AD is the base, DB is the height, and AB is the hypotenuse. Okay, so AD squared plus DB squared is equal to AB squared. We just substituted the known values and found the missing value for h, and that was 5.2. So after finding the h, we actually use the [unclear] of the triangle formula to find the area of the triangle, which is 15.6 centimeters squared. Any doubts?",00:12:02
+ldztwth,103,student,"Yeah, a little bit.",00:12:50
+ldztwth,104,tutor,"Okay, ask me. [Speaker] But it's like, I get what we're doing, but it's just hard.",00:12:53
+ldztwth,105,tutor,"Okay, okay. But just try to visualize, use the visual element, okay? I'm pretty sure that you can do that, don't worry, okay? Can you try this now on your own? [unclear]",00:12:59
+ldztwth,106,tutor,Yeah.,00:13:20
+ldztwth,107,student,A is 8.944. [unclear],00:13:22
+ldztwth,108,tutor,And then divide it by 2. [unclear],00:13:33
+ldztwth,109,tutor,[UNCLEAR] [unclear],00:13:33
+ldztwth,110,tutor,[unclear],00:13:33
+ldztwth,111,tutor,"Very cool. [Speaker] I don't know, to be fair.",00:14:12
+ldztwth,112,tutor,"Okay, what is your question asking you to find? [Speaker] The perimeter.",00:14:17
+ldztwth,113,tutor,"Oh, I'm sorry. What is the perimeter? How can you find it? [Speaker] By adding all the sides.",00:14:23
+ldztwth,114,tutor,"Okay, so what's stopping you adding all the sides? [Speaker] I don't know all the [UNCLEAR].",00:14:30
+ldztwth,115,tutor,"You don't know all the sides, okay. But is there a way to find the missing sides?",00:14:30
+ldztwth,116,student,I don't know.,00:14:42
+ldztwth,117,tutor,"Actually, yes. Do you see anything here? Over here?",00:14:50
+ldztwth,118,student,Yeah.,00:14:54
+ldztwth,119,tutor,"Okay, what do you see?",00:14:55
+ldztwth,120,student,Triangle.,00:14:58
+ldztwth,121,tutor,Okay. What type of a triangle is this?,00:15:00
+ldztwth,122,student,Isoceles.,00:15:05
+ldztwth,123,tutor,That is isosceles triangle. What is half of the hypotenuse triangle shows you?,00:15:05
+ldztwth,124,student,"Yeah, I understand. [Speaker] Half of it. Well, the bottom bit would be 4, and then times that by 6.",00:15:13
+ldztwth,125,student,"Okay, if you can— okay, let's mark here as D. Okay, convenient. It's like you said, AD would be 4 centimeters. And BC would be 4 centimeters, right?",00:15:22
+ldztwth,126,student,Yep.,00:15:36
+ldztwth,127,tutor,"Okay, and do note that the point connecting the midpoint of the base and the opposite vertex would be perpendicular to the base. Okay, so with that, can you see a right angle triangle?",00:15:37
+ldztwth,128,student,Yeah.,00:15:55
+ldztwth,129,tutor,"Okay, what— which right angle triangle you're going to use?",00:15:57
+ldztwth,130,tutor,What do you mean?,00:16:02
+ldztwth,131,student,"You need to consider the right angle triangle, apply the Pythagoras theorem so you can find the missing side. Okay? Yeah. Okay, take one of the triangles here. Either you can take ADB or BBC. Which one would you like to take?",00:16:03
+ldztwth,132,tutor,ABD.,00:16:21
+ldztwth,133,student,"Okay, ABD. Okay, let's— do you want me to draw it separately? [unclear]",00:16:23
+ldztwth,134,tutor,So this is your triangle.,00:16:29
+ldztwth,135,background,"It's Amy, that's correct.",00:16:37
+ldztwth,136,tutor,"Which is perpendicular here. And let me just quickly mark. So this side is 6 centimeters, this side is 4 centimeters. What is",00:16:41
+ldztwth,137,student,missing side.,00:16:41
+ldztwth,138,tutor,Let's call it x. How can you find x?,00:16:41
+ldztwth,139,background,[unclear],00:17:00
+ldztwth,140,tutor,You do 6 times 4 divided by 2.,00:17:02
+ldztwth,141,background,"No, that is area.",00:17:06
+ldztwth,142,tutor,Okay.,00:17:08
+ldztwth,143,background,"You need to find the length of the hypotenuse of this triangle, which is x.",00:17:10
+ldztwth,144,tutor,Apply the Pythagorean theorem.,00:17:16
+ldztwth,145,tutor,"Oh, all right, hang on. So what is the Pythagorean theorem? You can write.",00:17:21
+ldztwth,146,student,"All right, so wait, [unclear] equals—",00:17:28
+ldztwth,147,tutor,Sorry?,00:17:32
+ldztwth,148,student,I don't know.,00:17:34
+ldztwth,149,tutor,"So apply the Pythagorean theorem. You know, what is Pythagorean theorem?",00:17:37
+ldztwth,150,student,16.,00:17:43
+ldztwth,151,tutor,Is it 4 squared?,00:17:46
+ldztwth,152,student,"Yeah, 4 squared.",00:17:48
+ldztwth,153,tutor,"Okay, just write that first, okay? So 4 squared and then?",00:17:49
+ldztwth,154,background,[unclear],00:17:53
+ldztwth,155,tutor,And then 6 squared. What do you do? What's the operation you need to do? Add. Add them together. So 4 squared plus 6 squared is equal to what?,00:17:55
+ldztwth,156,background,X.,00:18:07
+ldztwth,157,tutor,Is it just x?,00:18:08
+ldztwth,158,background,X squared.,00:18:11
+ldztwth,159,tutor,"X squared. Okay, now solve and find the value for x. [unclear]",00:18:13
+ldztwth,160,tutor,So 52.,00:18:22
+ldztwth,161,student,How did you get 52?,00:18:32
+ldztwth,162,tutor,16 36. Okay.,00:18:35
+ldztwth,163,tutor,"Then that is x², right? If x² is equal to 52, is it?",00:18:41
+ldztwth,164,student,Yep.,00:18:51
+ldztwth,165,tutor,"Yeah, so what is x then?",00:18:54
+ldztwth,166,student,"Um, do I have to do the square root?",00:18:56
+ldztwth,167,tutor,"Square root, correct.",00:19:01
+ldztwth,168,student,"Um, 7.3.",00:19:02
+ldztwth,169,tutor,"7.2. Okay, let's consider 2 decimal places here. Okay, 7.21. Okay, so now you know the value of x, and that x is actually AB, right?",00:19:04
+ldztwth,170,student,Yeah.,00:19:17
+ldztwth,171,tutor,"If that AB is 7.2, what is BC?",00:19:17
+ldztwth,172,background,7.3.,00:19:24
+ldztwth,173,tutor,"Okay, now can you find the perimeter?",00:19:25
+ldztwth,174,background,Yeah. [unclear],00:19:26
+ldztwth,175,student,I got 22.4.,00:19:47
+ldztwth,176,tutor,And that's right. So the perimeter would be 22.42 centimeters. Okay.,00:19:50
+ldztwth,177,tutor,"Yeah, so this is the application, uh, you need to do with Pythagoras' theorem. Don't be scared, just apply, and it's just a matter of solving it. Okay, Tobias?",00:19:59
+ldztwth,178,student,Yep.,00:20:11
+ldztwth,179,tutor,"Right, are you confident now applying the Pythagoras' theorem?",00:20:12
+ldztwth,180,student,Yeah.,00:20:15
+ldztwth,181,tutor,"Okay, always try to, uh, draw the— draw and identify the perpendicular, uh, sorry, right angle triangle, so it would be easier for you.",00:20:16
+ldztwth,182,tutor,"So here's another [unclear] question. Read through, take your time.",00:20:28
+ldztwth,183,student,"I think it's just frozen. Yeah, I can see it now. [unclear]",00:20:42
+ldztwth,184,tutor,[UNCLEAR] [unclear],00:20:42
+ldztwth,185,tutor,[unclear] [unclear],00:20:42
+ldztwth,186,student,I think that he has 4 enough.,00:21:32
+ldztwth,187,tutor,"OK, how can we justify that?",00:21:41
+ldztwth,188,student,"So I did 4 squared, add 3.5 squared, [Speaker]...3 squared equals x squared.",00:21:45
+ldztwth,189,tutor,"Okay, and why did you do that? What was your thought behind it? [Speaker] To find, like, the other angle side.",00:21:45
+ldztwth,190,tutor,"Okay, but remember, you can apply the Pythagoras Theorem only to a right-angle triangle. Is this a right-angle triangle?",00:22:06
+ldztwth,191,tutor,"Okay, so you can't do that. But do a bit of construction and see how you can find the missing side.",00:22:15
+ldztwth,192,student,"Yeah, but I just add like 4, add 3, add 3.5.",00:22:26
+ldztwth,193,tutor,What are you trying to find here first?,00:22:34
+ldztwth,194,student,The other side.,00:22:38
+ldztwth,195,tutor,"Absolutely, the other side. Okay. How can you find the other side? [unclear]",00:22:40
+ldztwth,196,student,Or you can make it into like one square and one triangle.,00:22:51
+ldztwth,197,tutor,"Correct. Go ahead and do that. Yeah, you can use the shapes. Correct. Okay. And that would make a right angle triangle, right?",00:22:56
+ldztwth,198,student,Yeah.,00:23:05
+ldztwth,199,tutor,"Okay, mark the right angle too. Okay, I shall draw a straight line for you so it will be easier. Okay, so now how are you going to find the missing side?",00:23:06
+ldztwth,200,student,"wait, so I'll do... the bottom, like the base of the triangle is 1. Because the top of the square is 3, and then the, like, height of it is 3.5. And then do I add them together?",00:23:06
+ldztwth,201,tutor,You can apply the Pythagoras theorem to this.,00:23:48
+ldztwth,202,student,Right. So I'll do the square first.,00:23:50
+ldztwth,203,tutor,Okay. Write down the squares correctly. [unclear] Let's say the— this side is x squared. So would I square the 3 and the 3.5 as well?,00:23:56
+ldztwth,204,tutor,"You need to— Pythagoras' theorem is where you square the sides and the sum of the square of the sides is equal to the hypotenuse— square of the hypotenuse. So x squared is equal to 3.5 squared plus 1 squared. Yeah, [unclear] find the value of x.",00:24:14
+ldztwth,205,student,13.25.,00:24:51
+ldztwth,206,tutor,Okay.,00:24:53
+ldztwth,207,tutor,So what's the value of x?,00:25:00
+ldztwth,208,student,"13 point— wait, hold on. 6.34. [Speaker] I'm at 3.64.",00:25:07
+ldztwth,209,tutor,"3.64, okay. So now you know the missing side, right? [Speaker] Yep. [Speaker] So yeah, now check your answer. [unclear] [unclear]",00:25:22
+ldztwth,210,student,I've got 14.14.,00:25:47
+ldztwth,211,tutor,Okay.,00:26:11
+ldztwth,212,tutor,So has he got enough skirting?,00:26:12
+ldztwth,213,student,No.,00:26:16
+ldztwth,214,tutor,Okay. So how would you answer these type of questions? [unclear],00:26:17
+ldztwth,215,tutor,How would you answer these type of problems? You need to write a statement for it. Okay?,00:26:27
+ldztwth,216,background,Yeah.,00:26:32
+ldztwth,217,tutor,"You need to say that no,",00:26:33
+ldztwth,218,tutor,"And you need to justify that saying that he has bought too little, right?",00:26:38
+ldztwth,219,student,Yeah.,00:26:47
+ldztwth,220,tutor,When the living room is actually 14.14 [UNCLEAR]. [unclear],00:26:50
+ldztwth,221,tutor,"And this is how you justify. And yeah, are you clear with answering these type of problems?",00:27:04
+ldztwth,222,student,Yeah.,00:27:14
+ldztwth,223,tutor,"I see that you have put an effort, especially in constructing and identifying a right-angled triangle. Well done on that. To practice more, there's another question. Can you give it a try? [unclear]",00:27:16
+ldztwth,224,student,"No, I don't think so. I've never been there, but I've been [unclear]",00:27:40
+ldztwth,225,student,"So when I do 4 squared, add 5 squared, which is 41.",00:28:04
+ldztwth,226,tutor,OK.,00:28:13
+ldztwth,227,student,And then the square root of 41 is...,00:28:16
+ldztwth,228,tutor,6.4.,00:28:25
+ldztwth,229,student,"Okay, which length is that? [unclear]",00:28:26
+ldztwth,230,tutor,Okay. [unclear],00:28:29
+ldztwth,231,background,"Yes, please. [unclear]",00:28:40
+ldztwth,232,tutor,And then— Or should I make it like a square and another triangle again?,00:28:46
+ldztwth,233,student,"Not really. Yeah, you could do that too.",00:28:59
+ldztwth,234,tutor,Yeah. All right. [unclear],00:29:04
+ldztwth,235,tutor,"So the base would be 2, and this is 5. [unclear] So 5 squared, add 2 squared. is 29. So x is— It [unclear]",00:29:18
+ldztwth,236,student,"says 39.25, so I just rounded it up. 5.38.",00:29:55
+ldztwth,237,tutor,OK.,00:30:02
+ldztwth,238,tutor,Yeah. [unclear],00:30:16
+ldztwth,239,tutor,And then now do I just add them all together? [unclear],00:30:18
+ldztwth,240,student,I got 20.38.,00:30:39
+ldztwth,241,tutor,"What are the lengths that you added? 4, add 5, add 6, add 5.3.",00:30:59
+ldztwth,242,student,"You need to add a 6.4 as well, right? Because in the middle [UNCLEAR], this is also included.",00:31:10
+ldztwth,243,tutor,Alright. 6.4.,00:31:10
+ldztwth,244,student,26.78. And that's right. What's the unit of measurements?,00:31:24
+ldztwth,245,student,Centimeters squared.,00:31:33
+ldztwth,246,tutor,It's meter.,00:31:35
+ldztwth,247,student,[unclear] Yeah.,00:31:36
+ldztwth,248,tutor,It's length. Okay. Alright. So that was a really good effort. I can see that you have made a great progress in today's— in this lesson. So that's a batch for learning something new. Alright. Are you ready for the next lesson?,00:31:37
+ldztwth,249,tutor,Yep.,00:31:53
+ldztwth,250,background,"Okay, here we go. Let's move on. Geometry using [UNCLEAR]. Have you ever done this lesson before?",00:31:54
+ldztwth,251,student,Yeah.,00:31:54
+ldztwth,252,background,"Okay, so read through this and tell me your idea about it.",00:32:06
+ldztwth,253,tutor,"Is Amy right? [unclear] Okay. And yes, you are right. Yeah? So that's tan 40 is equal to 8/x. That's opposite over adjacent. Yeah? Good job in identifying that. Can you calculate Sites label assets.",00:32:32
+ldztwth,254,tutor,Right. [unclear] [unclear],00:32:54
+ldztwth,255,tutor,Would it be sin?,00:33:32
+ldztwth,256,student,"Yeah, you can use that. [unclear]",00:33:36
+ldztwth,257,tutor,Sine 40 divided by 6. Which is— I got 0.1.,00:33:41
+ldztwth,258,tutor,"Okay, um, how did you get that?",00:34:06
+ldztwth,259,student,"Um, sin(4E) divided by 6.",00:34:09
+ldztwth,260,tutor,"Okay, not really. You need to write the statement, uh, sine first. Okay, so remember, sine theta is equal to opposite over hypotenuse. Okay, so here for this angle, the opposite is x. So first of all, write the equation so that you can solve it later. Okay. So sine 40 equals x over hypotenuse, which is here, it's 6, right?",00:34:13
+ldztwth,261,student,[unclear],00:34:54
+ldztwth,262,tutor,So how can you find x? Exactly. [unclear],00:34:55
+ldztwth,263,tutor,"So that is 6 sin 40. Okay, can you find the answer now? Yep.",00:35:04
+ldztwth,264,student,3.8.,00:35:16
+ldztwth,265,background,3.86.,00:35:17
+ldztwth,266,tutor,Go with 2 decimal places. Okay? All,00:35:20
+ldztwth,267,background,"right. 6 centimeters. So always write the equation, substitute the known values, and later solve it. Okay?",00:35:22
+ldztwth,268,tutor,Yeah.,00:35:34
+ldztwth,269,student,Okay.,00:35:35
+ldztwth,270,tutor,There's another question for [UNCLEAR].,00:35:36
+ldztwth,271,background,"struggle, but I think there are 10. [unclear]",00:35:36
+ldztwth,272,student,"Okay. I think he shall because if you add all of these up together, you get a 0.8, and his probabilities always have to add to 1. [unclear]",00:35:59
+ldztwth,273,tutor,Is this one COS?,00:36:18
+ldztwth,274,student,"You can use COS, yes.",00:36:24
+ldztwth,275,tutor,All right. [unclear],00:36:28
+ldztwth,276,tutor,Is it just 4? How did you get the answer?,00:36:43
+ldztwth,277,student,5 cos 36.,00:36:53
+ldztwth,278,tutor,Okay. Correct to 2 decimal places and tell me the answer.,00:36:57
+ldztwth,279,student,4.040505.,00:37:02
+ldztwth,280,tutor,And what's the unit of measurement?,00:37:06
+ldztwth,281,student,[unclear],00:37:10
+ldztwth,282,tutor,"Centimeters. Okay, and yeah, that's how you solve it. So there's another exam-style question. Can you find the answer? [unclear]",00:37:10
+ldztwth,283,tutor,Is this from COS as well? Why do you think it's cos?,00:37:43
+ldztwth,284,student,"Well, like, 15 is the adjacent side.",00:38:04
+ldztwth,285,tutor,Correct.,00:38:09
+ldztwth,286,student,And then x is hypotenuse.,00:38:10
+ldztwth,287,tutor,"So be confident, okay? Right. [unclear] [unclear]",00:38:14
+ldztwth,288,student,11.15.,00:38:41
+ldztwth,289,tutor,"Mm-hmm, okay. Can you— how did you— what was the calculation that you did?",00:38:43
+ldztwth,290,student,"15 cos 40. Okay, write the formula first. What's the formula you have for cos? [unclear] So cos(42) is equal to what?",00:38:48
+ldztwth,291,student,15 over x.,00:39:07
+ldztwth,292,tutor,"Okay, so how will you subject x?",00:39:10
+ldztwth,293,student,Divide it.,00:39:14
+ldztwth,294,tutor,Okay. So x equals 15 over cos [unclear] 0.05.,00:39:16
+ldztwth,295,tutor,"Not really. So this is the equation you're working with, right? So where 15 is divided by cos 42.",00:39:33
+ldztwth,296,tutor,Can you put this exactly in the calculator? I didn't find the answer.,00:39:45
+ldztwth,297,student,Yeah.,00:39:50
+ldztwth,298,tutor,20.18.,00:39:54
+ldztwth,299,student,"See, it's 20.18.",00:39:57
+ldztwth,300,tutor,"Yeah, it's because I actually divided it, but not like as a fraction.",00:39:59
+ldztwth,301,student,"Oh, okay. You can actually divide as [UNCLEAR]. You need to get the same answer though.",00:40:06
+ldztwth,302,student,Yeah.,00:40:12
+ldztwth,303,tutor,"Okay. All right, Tobias. So let's get— let's move on. There's one more problem for you, which is similar to what you worked out now. This time, carefully write the formula and then subject. Okay?",00:40:13
+ldztwth,304,student,All right. [unclear] [unclear],00:40:31
+ldztwth,305,student,"I've heard of them, but I can't remember the name. [unclear]",00:40:46
+ldztwth,306,student,"Okay, yeah. Wait, so I did—",00:41:07
+ldztwth,307,student,"Like tan 62, and I have to divide it, but like, do I divide tan 62 by 5.3?",00:41:30
+ldztwth,308,tutor,Not really. So what is tan— write the formula first. What is tan [UNCLEAR]?,00:41:42
+ldztwth,309,student,5.3 over x.,00:41:42
+ldztwth,310,tutor,Okay. So now what do you need to do after that?,00:41:53
+ldztwth,311,student,Divide it. [unclear],00:41:58
+ldztwth,312,tutor,"No, we didn't say subject x. Subject x. So if you subject x, what would be the answer? Do I divide it or times it?",00:42:05
+ldztwth,313,background,Yeah.,00:42:18
+ldztwth,314,tutor,"Okay, it's cross multiplication, isn't it? So x goes here and tan 62 comes down. So you're actually dividing tan 62 on both the sides. Do you understand that part?",00:42:20
+ldztwth,315,student,"Yeah, but I got 0.35. Oh wait, hold on, I did it wrong way. [unclear]",00:42:39
+ldztwth,316,tutor,Okay.,00:42:54
+ldztwth,317,student,I got 2.89. I meant 8c.,00:42:55
+ldztwth,318,tutor,"And that's right. Okay. Yeah, so always write the formula and subject the missing number that you need to find. Okay?",00:43:00
+ldztwth,319,student,Alright.,00:43:09
+ldztwth,320,tutor,"Don't miss anything. Okay, let's get started with this. [unclear] [unclear]",00:43:10
+ldztwth,321,student,"Yeah, okay.",00:43:20
+ldztwth,322,tutor,Yeah?,00:43:46
+ldztwth,323,student,I don't really know how to do this one.,00:43:47
+ldztwth,324,tutor,"Okay, you actually use one of the formulas, trigonometry formulas.",00:43:51
+ldztwth,325,background,So it's tan—,00:43:59
+ldztwth,326,tutor,So why?,00:44:02
+ldztwth,327,background,Because the 7 is adjacent and 15 is opposite.,00:44:04
+ldztwth,328,tutor,"Okay, so what's the formula you can write for tan?",00:44:09
+ldztwth,329,student,15 divided by 7.,00:44:09
+ldztwth,330,tutor,"Okay, so actually tan theta is equal to 15 divided by 7, right?",00:44:09
+ldztwth,331,student,Yeah.,00:44:26
+ldztwth,332,tutor,"Okay, so you need to find the angle. How can you find the angle? [unclear]",00:44:27
+ldztwth,333,student,Or do I just do 15 divided by 7?,00:44:39
+ldztwth,334,tutor,"You need to do the inverse of it. Okay, it's tan theta, right? So theta should be subjected here, and that is equivalent to inverse of tan. Okay, tan power [UNCLEAR]. And then you need to find",00:44:43
+ldztwth,335,student,15/7.,00:45:08
+ldztwth,336,tutor,"Okay, yes. And this is how you find the angle, and this is what you call inverse of tan. [unclear]",00:45:10
+ldztwth,337,student,64.,00:45:17
+ldztwth,338,tutor,"99— wait, 98.",00:45:34
+ldztwth,339,student,"64.98, and that's degrees, that's angles, right? Yep, 64.98 degrees. [unclear]",00:45:38
+ldztwth,340,tutor,Okay.,00:45:51
+ldztwth,341,student,"All right, so that's how you solve those kind of problems. Can you try one more?",00:45:53
+ldztwth,342,tutor,All right. [unclear],00:46:01
+ldztwth,343,student,So would it be sin and then 5 divided by 9? [unclear] [unclear],00:46:36
+ldztwth,344,tutor,"Okay. So Tobias, I'm sorry. I actually lost track of the time. It's time for us to end the session. Shall we continue this next week?",00:46:54
+ldztwth,345,student,"Yeah, that's fine.",00:47:18
+ldztwth,346,tutor,Okay. All right. Meet you next week then. Bye.,00:47:20
+ldztwth,347,student,"All right, bye. [unclear]",00:47:23

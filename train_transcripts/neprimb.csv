@@ -1,0 +1,95 @@
+session_id,utterance_id,role,content,timestamp
+neprimb,0,tutor,Hello.,00:00:00
+neprimb,1,background,[unclear],00:00:00
+neprimb,2,student,Hello.,00:00:00
+neprimb,3,background,"Hi, Thaddeus. Yep.",00:00:02
+neprimb,4,tutor,"Hello, can you hear me?",00:00:08
+neprimb,5,student,Yeah.,00:00:10
+neprimb,6,tutor,"Okay, how are you, Thaddeus?",00:00:13
+neprimb,7,student,I'm good.,00:00:16
+neprimb,8,tutor,"All right, since we're already running late, let's continue, okay?",00:00:18
+neprimb,9,student,Yeah.,00:00:24
+neprimb,10,tutor,"So we were doing this topic, Thaddeus, estimating calculations in our last session, do you remember?",00:00:26
+neprimb,11,tutor,Yep.,00:00:33
+neprimb,12,background,"So I'm sorry, and we did this calculation, this question, and we also did this one. And before doing this calculation, we completed this one over here. We learned how to complete this one, right? Do you remember?",00:00:35
+neprimb,13,tutor,Yeah.,00:00:55
+neprimb,14,background,"Yes, so it's time to continue with the similar kind of question over here. So let's go through the question first and then we'll discuss.",00:00:56
+neprimb,15,tutor,Do you want me to do these questions?,00:01:13
+neprimb,16,student,"Ah, sorry?",00:01:16
+neprimb,17,tutor,Do you want me to do these questions?,00:01:17
+neprimb,18,student,Yeah. Can you try this by yourself? [unclear] Yeah.,00:01:20
+neprimb,19,tutor,So what do you think? How would you solve this one? [unclear] 320 divided by 2.6.,00:01:44
+neprimb,20,tutor,"Mm-hmm. Okay. So what does the first question say? First part of the question, I mean.",00:01:58
+neprimb,21,student,Estimate her speed in kilometers per hour.,00:02:06
+neprimb,22,tutor,"Yeah, so how will you estimate here?",00:02:10
+neprimb,23,student,You round both the numbers up.,00:02:13
+neprimb,24,tutor,Okay. [unclear],00:02:17
+neprimb,25,student,To the nearest whole number. So would 320 become 300?,00:02:18
+neprimb,26,tutor,"Okay, let's show your work here and then we'll discuss on that. Let's work first. [unclear]",00:02:31
+neprimb,27,student,Mm-hmm.,00:02:54
+neprimb,28,tutor,"Okay, let's write our answer here. [unclear]",00:03:19
+neprimb,29,student,Uh... We're talking about speed.,00:03:21
+neprimb,30,student,I don't know.,00:03:38
+neprimb,31,tutor,Did you say I don't know?,00:03:43
+neprimb,32,student,"No, I think [UNCLEAR].",00:03:47
+neprimb,33,tutor,So actually I'm saying that here we are talking about speed. Estimate her speed. So will there be only a number? How do we write speed? 100... [unclear],00:03:47
+neprimb,34,tutor,"Okay. Will there be hour? Just hour? So 100 hours is time. That denotes time, but how do we denote speed?",00:04:15
+neprimb,35,student,"Uh, I'm not too sure.",00:04:33
+neprimb,36,tutor,"Okay, all right. So we are dividing kilometer, right? The distance is in kilometer and the time is in hours. So that would give us kilometer per [UNCLEAR].",00:04:37
+neprimb,37,student,[unclear],00:04:55
+neprimb,38,tutor,"Yeah, can you put that here? The unit, please.",00:04:55
+neprimb,39,student,"Oh, well, I'm sorry. Confused.",00:05:13
+neprimb,40,tutor,"Okay, okay, let me help you here. So a kilometer per hour. Have you seen it anywhere?",00:05:21
+neprimb,41,student,Yeah.,00:05:32
+neprimb,42,tutor,"Okay, this is kilometer per hour. So if we— so what will happen, Thaddeus, if we just mention 100?",00:05:33
+neprimb,43,student,"Uh, lose a mark.",00:05:41
+neprimb,44,tutor,"Yes, you will lose a mark, absolutely. And why is that?",00:05:43
+neprimb,45,tutor,Because that shows?,00:05:47
+neprimb,46,student,Because there is no [unclear] units in.,00:05:48
+neprimb,47,tutor,"Yes, there are no units, and without units, just a number. Okay, now looking at that, what do you think? Is your answer, is your solution overestimate or underestimate? And how do you know that?",00:05:53
+neprimb,48,student,"Well, underestimate.",00:06:09
+neprimb,49,tutor,"Great, and why?",00:06:12
+neprimb,50,student,Because numbers have been rounded.,00:06:16
+neprimb,51,tutor,Okay. Any other reason?,00:06:23
+neprimb,52,student,[unclear] estimate.,00:06:28
+neprimb,53,tutor,"Okay, we are close. It would be an underestimate, but like why? [unclear]",00:06:34
+neprimb,54,tutor,"Okay, I'm sorry, we are running out of time.",00:06:51
+neprimb,55,student,I'm not too sure.,00:06:55
+neprimb,56,tutor,"Okay. So as you said, it would be underestimate, but it would be underestimate because over here the person who's traveling, he or she actually traveled further in less time. Look, Maxine is traveling 320 kilometers in 2.6 hours only. And if you just, uh, do our estimation, so she would just travel 300 kilometers in 3 hours. So she's traveling further in less time. Does that make sense?",00:06:57
+neprimb,57,student,[unclear],00:07:34
+neprimb,58,student,"Yeah, I think so.",00:07:36
+neprimb,59,tutor,"Okay, great. So this question was of 3 marks, Thaddeus. So if you would have done it correctly, then you would have gotten like 2 marks for the first part along with the unit and 1 mark for giving right [UNCLEAR]. Yeah?",00:07:40
+neprimb,60,student,Yeah.,00:07:40
+neprimb,61,tutor,"And now, yeah, now we're almost done with this topic. So we have two questions here, Thaddeus, to reflect upon how did we do this topic. So here is a question done by a student. Can you look at this one and tell me what's wrong with this one?",00:07:59
+neprimb,62,student,"It's three significant figures, not two.",00:08:24
+neprimb,63,tutor,"Yes, absolutely right. He has rounded it to [UNCLEAR]. 3 significant— they have rounded to 2 decimal places instead of 2 significant figures. Look at this rounding.",00:08:30
+neprimb,64,student,And it's not rounded up even.,00:08:42
+neprimb,65,tutor,"Yes, they did not do the significant figure rounding. And what about this one? [unclear]",00:08:47
+neprimb,66,student,Not too sure about that one.,00:09:11
+neprimb,67,tutor,"Okay, take a look and tell me, like, what's happening here? What mistake has been done?",00:09:14
+neprimb,68,student,It's been rounded up.,00:09:25
+neprimb,69,tutor,Uh-huh.,00:09:30
+neprimb,70,student,To 19.,00:09:31
+neprimb,71,tutor,"Okay, so according to you, what should be there?",00:09:33
+neprimb,72,student,"Uh, [unclear] 18.85.",00:09:38
+neprimb,73,tutor,"18. Okay, so if you would round this one, uh, up to one significant figures, would it be 18?",00:09:43
+neprimb,74,student,"Uh, 19.",00:09:51
+neprimb,75,tutor,"Okay, so the next digit is 8 here, Thaddeus. So would you round up or down?",00:09:54
+neprimb,76,student,Uh...,00:10:06
+neprimb,77,tutor,"Up, right? So if you round it up, looking at the first significant figures, will you get 18? [unclear]",00:10:09
+neprimb,78,tutor,20.,00:10:18
+neprimb,79,student,"Uh, 20.",00:10:20
+neprimb,80,tutor,"20, yes. We will get 20 for this one. And what do you think about this one? Have the roundness check.",00:10:26
+neprimb,81,student,It should be 20 times 23.,00:10:36
+neprimb,82,tutor,"Yes, 20 times 23, and that will give us— do you have calculator?",00:10:41
+neprimb,83,student,"Um, yeah.",00:10:45
+neprimb,84,tutor,20 times 23.,00:10:47
+neprimb,85,student,"Uh, 460.",00:10:54
+neprimb,86,tutor,"460. Okay, so, uh, 460. And look at this one. This one, if you will round this one 23, it wouldn't give you 23 because the first significant figure is 2. And the next one is 3. So if we round it, it's gonna give us 20. So both the number will be 20 here. So it's gonna be 20 times 20, that equals 400.",00:10:57
+neprimb,87,tutor,So actually the answer should be 400. [unclear],00:11:34
+neprimb,88,tutor,Right.,00:11:42
+neprimb,89,background,What do you think?,00:11:43
+neprimb,90,tutor,"Okay, all right, Thaddeus. So since we are almost done with this topic and I cannot stretch the class because time is almost up, so I would request you to please turn up on time so that we can do the question in a better way. Right?",00:11:45
+neprimb,91,student,Yeah.,00:12:09
+neprimb,92,tutor,"Okay. So, all right, Thaddeus, then we'll meet in the next session. Bye-bye. Take care.",00:12:10
+neprimb,93,student,All right. Bye.,00:12:16

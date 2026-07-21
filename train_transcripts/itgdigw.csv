@@ -1,0 +1,270 @@
+session_id,utterance_id,role,content,timestamp
+itgdigw,0,tutor,Hello.,00:00:00
+itgdigw,1,background,[unclear],00:00:00
+itgdigw,2,student,Hello.,00:00:01
+itgdigw,3,background,Hi.,00:00:02
+itgdigw,4,student,Hi.,00:00:03
+itgdigw,5,background,Welcome back. How are you?,00:00:04
+itgdigw,6,student,"I'm good, thank you.",00:00:06
+itgdigw,7,background,All right. And how's been your day?,00:00:09
+itgdigw,8,student,"Good, thank you.",00:00:12
+itgdigw,9,background,Yeah?,00:00:14
+itgdigw,10,tutor,"Alright, so I wish you a very, very happy New Year. So how was your New Year?",00:00:18
+itgdigw,11,student,"Good, thank you.",00:00:25
+itgdigw,12,tutor,What did you do on your New Year?,00:00:27
+itgdigw,13,student,I went to Ireland. I spent time with my family.,00:00:30
+itgdigw,14,tutor,"Okay, did you enjoy?",00:00:38
+itgdigw,15,student,Yes.,00:00:40
+itgdigw,16,tutor,"Alright, may I know what's your name?",00:00:41
+itgdigw,17,student,My name is Finnley.,00:00:44
+itgdigw,18,tutor,"Finnley, alright. Okay, Finnley, so do you remember what you were doing before your Christmas vacation?",00:00:46
+itgdigw,19,student,"No, not really. [unclear]",00:00:56
+itgdigw,20,tutor,"That's alright. So let's do one thing. Let's move to the next slide and let us see what were the topics that you were doing before you had your vacation. So, I think you started this topic solving problems involving conversion between metric measures. Remember?",00:01:00
+itgdigw,21,student,"Yeah, I think so.",00:01:20
+itgdigw,22,tutor,"Okay. So, you know, we will be continuing with this topic because we are still [UNCLEAR]. Alright. So let's quickly recap what you did in your last session. So,",00:01:22
+itgdigw,23,tutor,"These are the unit conversions. So these are the units. Like, if you want to convert kilometers to meter, we know 1 kilometer is equal to 1,000 meters, right? In the same way, 1 meter is equal to 100 centimeters, and 1 centimeter is 10 millimeters. 1 liter is 1,000 milliliters. 1 kilogram is 1,000 grams.",00:01:41
+itgdigw,24,tutor,"And 1 pound is 100 pence. So these are the units that we need to remember, and by using these units, we can convert from one unit to another. So let's see how we did the questions. So here we had— we are given with this that one parcel has a mass 485 grams. Another parcel has a mass of 1.2 kilograms. What is the total mass of the parcel? So we No, we cannot add them directly because they both are different units. One is in gram and one is in kilogram. So we first convert any one unit to another unit. So either you can convert gram to kilogram. [unclear]",00:02:08
+itgdigw,25,tutor,Kilogram to gram.,00:02:57
+itgdigw,26,student,Kilogram to gram.,00:02:58
+itgdigw,27,tutor,"So here we converted 1.2 kilograms to grams. And we know there are 1,000 grams in 1 kilogram. So 1,000 times 100 grams. This would be 1,000 grams. 1000 into 100 because we need to multiply. To convert from kilograms to grams, we multiply by 1000. And then we just added them because now this 1.2 kilogram is in grams and there were 485 more grams. So we added them and we got our answer. So is this clear, Finnley? [unclear]",00:02:59
+itgdigw,28,student,Yes.,00:03:33
+itgdigw,29,tutor,"And then we did the same thing but here instead of kilograms and grams, we just did some questions on length. And what are the units that we use for length, Finnley? [unclear]",00:03:34
+itgdigw,30,student,"Meters, centimeters, millimeters, kilometers.",00:03:49
+itgdigw,31,tutor,"Yeah, good job. So we use meters, centimeters, kilometers, right? So these units we did. And for the capacity, we know it's milliliters, liters, right? So we need to use that. And then we did some questions. Now let's move to this one. This is the last question of this topic. Let's give it a try. [unclear]",00:03:52
+itgdigw,32,student,The total mass of two parcels is 3.5 kg. A parcel is 700— Parcel A is 700 g heavier than Parcel B. How much does each parcel weigh?,00:04:16
+itgdigw,33,tutor,"Alright, okay Finnley, that was a wonderful reading. Now before you start your question, would you please tell me what do you understand by this question?",00:04:30
+itgdigw,34,student,"3.5 kg is 3,500 grams, and that's in total. And Parcel A is already 700 g heavier than Parcel B. So if we halved 3.5 kg and added 700 to half of it, that would be the amount of Parcel A. [unclear] That was amazing, and I'm pretty impressed with your understanding on this question. So you deserve another praise card. So yeah, let's do the calculation and let us find out how much does each parcel weigh.",00:04:41
+itgdigw,35,student,"So... [unclear] So parcel 1 A is already 700 because it's 700g more heavier. So that means you do 3,500 take away 700, and that's— [unclear]",00:05:24
+itgdigw,36,student,"And you have to— and then that's 2,800.",00:05:50
+itgdigw,37,student,"So if you half 2,800, that would be 1,400. So 1,000— you have 2 1,400s.",00:05:58
+itgdigw,38,tutor,Okay. So— [unclear],00:06:14
+itgdigw,39,student,"But then you take away 700 from one of the 1,400s.",00:06:18
+itgdigw,40,tutor,"All right. And when you take away— 700 from one of the 1400, whose weight will we get? Is it Parcel A or Parcel B? [unclear]",00:06:24
+itgdigw,41,tutor,Parcel B.,00:06:39
+itgdigw,42,background,Parcel B.,00:06:40
+itgdigw,43,tutor,"Okay, Parcel B. Alright, so what's the final answer, Finnley?",00:06:42
+itgdigw,44,student,Parcel B is 700 and Parcel A is 1400.,00:06:49
+itgdigw,45,student,1.4 kg is parcel A and 700 g is parcel B.,00:07:00
+itgdigw,46,tutor,"Alright, Finnley, that was a wonderful effort you put into this question and you deserve another praise card. Okay, so let's write down our answers in the blanks. [unclear]",00:07:07
+itgdigw,47,student,So how much is parcel A? [unclear],00:07:19
+itgdigw,48,tutor,"Okay, well done. And the parcel B is? All right, 700 grams. Okay, so let's check our answers. So Finnley, if you want to check your answer, how would you check it?",00:07:38
+itgdigw,49,student,You do 1400 and 700.,00:07:52
+itgdigw,50,student,[unclear],00:08:04
+itgdigw,51,tutor,"Yeah, so we need to add them up and we need to see whether they are equal to 3.5 or not. So Finnley, would you please add these numbers and tell me, is it equal to 3.5?",00:08:04
+itgdigw,52,student,"23,100.",00:08:20
+itgdigw,53,tutor,"Yeah, so what do you think? What we did?",00:08:22
+itgdigw,54,tutor,"Okay, we need 3.5 in total, but when we added, we got only 2.1, right? So let's check our numbers once again. Let's check our calculation. So your method is good, like the steps you followed, you did it good. Let's first understand the question again. So can you please read it once again? [unclear] [unclear]",00:08:26
+itgdigw,55,student,The total mass of two parcels is 3.5 kg. Parcel A is 700 g heavier than parcel B.,00:09:04
+itgdigw,56,tutor,OK.,00:09:12
+itgdigw,57,student,"How much does each parcel weigh? So you have to do 3,500 divided by 2, which is 1,700. So you have two 1,700s.",00:09:13
+itgdigw,58,student,"And then you do 1,750, take away 700, which is 1,050, and then you add on the 700 to the other 1,750. [unclear]",00:09:25
+itgdigw,59,student,"Which is 2,450. So the [unclear] for part B is 1,050 grams.",00:09:53
+itgdigw,60,tutor,"Okay, 1,050 grams. All right, let's write it here. All right, Finnley, again a wonderful effort. So let's check the answer.",00:10:19
+itgdigw,61,student,"And then, um, and then parcel A is [UNCLEAR].",00:10:39
+itgdigw,62,student,"Parcel A is 2,450.",00:10:46
+itgdigw,63,tutor,"Okay, 2,450. All right. Okay, Finnley, that's again a wonderful work. Now see, let's add them up and let us see if it is equal to 3.5 kilograms or not. So are they equal to 3.5?",00:10:55
+itgdigw,64,student,I think so.,00:11:12
+itgdigw,65,tutor,"Yeah, so if you add them up, you get— how many grams do you get?",00:11:14
+itgdigw,66,student,"Uh, 3,500.",00:11:21
+itgdigw,67,tutor,"Yeah, and if you convert that into kilograms, what would you get?",00:11:25
+itgdigw,68,student,3.5 kg.,00:11:30
+itgdigw,69,tutor,"So our first condition is satisfied, right? Now, This question also says that our parcel A is 700 grams heavier than parcel B. Is this condition satisfied here? [unclear] Is this parcel A 700 grams heavier than parcel B, or is it more heavier?",00:11:34
+itgdigw,70,student,More heavier.,00:11:58
+itgdigw,71,tutor,"Yeah, that means your second condition is not satisfied, right? Okay, so you tried really good. Let's see how can we do it. So Finnley, is there any diagram that we can use to help us?",00:11:59
+itgdigw,72,student,3.5 kg and 700 g.,00:12:13
+itgdigw,73,tutor,"Okay, alright. So let's move ahead and let us see. Alright, so this is the same question, right? So we can use a bar model to help us understand the problem here. Now see, this question says there are two parcels. Parcel A parcel B, right? And they both add up to 3.5 kg, 3.5 kg. These two add up to 3.5, but parcel A is 700 grams more, right? So whatever you did for the first time, your calculations will differ. [unclear] You need to, sorry, subtract your 700 from the total, that is 3,500 grams. You need to subtract 700 first. Because you know it is 700 heavier. Your parcel A is 700 heavier. Now see, by removing this 700 grams, you will be making these two parcels equal, right? Now they both weigh equal. And whatever answer we get, this is the total weight of these two parcels.",00:12:17
+itgdigw,74,student,[unclear],00:13:31
+itgdigw,75,tutor,"Now after removing 700, and you can divide it by 2. And Finnley, do you know why are we dividing it by 2?",00:13:32
+itgdigw,76,student,[unclear] So you can add 700 to one of them?,00:13:41
+itgdigw,77,tutor,"Yeah, see, because they both are equal now. Look at the diagram. When you remove this 700, whatever answer you got, that is the total weight of your parcel A and parcel B. That means this 2800 grams is the total weight of your parcel A and parcel B. But you are just calculating for one parcel, right? That's why you need to divide it by 2. So each parcel will weigh— [unclear]",00:13:47
+itgdigw,78,tutor,So how much is the weight of each parcel? Divide this by 2.,00:14:14
+itgdigw,79,student,I divide it by 8.,00:14:21
+itgdigw,80,tutor,"Oh, sorry.",00:14:23
+itgdigw,81,student,One second. 1400.,00:14:23
+itgdigw,82,tutor,"Good job. Yes, it is 1400. That means parcel A is 1400 and parcel B is 1400. Parcel B is 1400, right? This is the weight of parcel B. So let's write the weight of parcel B here. But see, this parcel A is 700 [UNCLEAR]. What we need to do if it is 700 grams more?",00:14:28
+itgdigw,83,student,Add 1400 and 700.,00:15:01
+itgdigw,84,tutor,"Yeah, so we need to add this 1400 to this 700 because this parcel is 700 grams more. So let us add them and let us find out the answer. [unclear] Yes, Finnley?",00:15:07
+itgdigw,85,student,"What? 2,400?",00:15:25
+itgdigw,86,tutor,"2,010?",00:15:27
+itgdigw,87,student,400.,00:15:29
+itgdigw,88,tutor,Is it 400?,00:15:31
+itgdigw,89,student,"Oh, sorry. 2,100.",00:15:34
+itgdigw,90,tutor,"Good job. Yes, this is 2,100. This is the weight of your parcel A. Now, if you want to check your answer, what we will do to check our answer?",00:15:38
+itgdigw,91,student,[unclear],00:16:00
+itgdigw,92,tutor,"Yeah, so we just need to check whether these two answers, this satisfies these two conditions here. So first is they both add up to 3.5 kilograms. That means 3,500 grams. So what do you think, Finnley? Do they add up to 3,400— 3,500 grams?",00:16:00
+itgdigw,93,student,Yes.,00:16:20
+itgdigw,94,tutor,"Yes, right. So our first condition is true. Second condition is Parcel A is 700 grams heavier than Parcel B. So is Parcel A 700 grams heavier than Parcel B?",00:16:22
+itgdigw,95,student,[unclear],00:16:34
+itgdigw,96,tutor,"Yes, right. That means these two answers are correct. That's how we can take. Did you understand, Finnley? Or is there any problem?",00:16:36
+itgdigw,97,student,Yes.,00:16:47
+itgdigw,98,tutor,Did you get it?,00:16:47
+itgdigw,99,student,Yes.,00:16:49
+itgdigw,100,tutor,"Finnley, so I'm really, really happy that you understood. Now let's change the question. So suppose this time I'm just, you know, going to change the numbers. So suppose this time it's not 7— 3.5 kilograms. Let's see, it's 4.2 kilograms. Okay, both of them add up to 4.2 kilograms, and your parcel A is, let's see,",00:16:51
+itgdigw,101,student,"Instead of 700 grams, it is 800 grams heavier.",00:17:22
+itgdigw,102,tutor,"So you do 4,200 take away 800.",00:17:30
+itgdigw,103,student,That is... [unclear],00:17:37
+itgdigw,104,student,"3,400. And then you can do 3,400 divided by 2, so 3,400 divided by 2 is 1,700. So, so, so Parcel B is 1,700, and then you do 1,700 add 800, which is [unclear] 2,500.",00:17:53
+itgdigw,105,tutor,"Alright, well done, Finnley. I'm really, really amazed by, you know, your understanding, your working on this question, and I'm really glad that you're enjoying understood it. So yes, these are the answers, and you deserve another praise card. Okay, Finnley, so with this we completed the topic. Now we are going to start a new topic, but before we start, I have a question for you. So, Finnley, what do you think, what are the common mistakes people make when they are working with the unit measurements?",00:18:35
+itgdigw,106,student,[unclear] measurements mixed up.,00:19:06
+itgdigw,107,student,[unclear],00:19:16
+itgdigw,108,tutor,"Yeah, so they just think that we can add them directly, right? Or like if they needed to add, they just add them directly or they just subtract them directly. But see, we always need to look at the units. If they are different, we need to make them same first. This is in kilograms, this is in grams. So we cannot just add, right? We need to convert it, then we will add it. So this is the most important thing. Okay, all right, Finnley. So any idea what's our next topic?",00:19:16
+itgdigw,109,student,No.,00:19:51
+itgdigw,110,tutor,"Okay, let me check. Just a second, because you know, I need to close the lesson. [unclear] [unclear]",00:19:52
+itgdigw,111,tutor,[UNCLEAR] [unclear],00:19:52
+itgdigw,112,tutor,[unclear] [unclear],00:19:52
+itgdigw,113,tutor,Can you see the topic on your screen? Is it visible?,00:20:43
+itgdigw,114,student,Yes.,00:21:02
+itgdigw,115,tutor,Can you please tell me what's the topic?,00:21:02
+itgdigw,116,student,Finding common multiples.,00:21:05
+itgdigw,117,tutor,"Okay, it's not reflecting at my end. Wait. Yeah, now it's reflecting. Okay, so yeah, we will be learning about finding common multiples. So Finnley, are you aware of the multiples?",00:21:09
+itgdigw,118,student,Yeah.,00:21:20
+itgdigw,119,tutor,"Yeah? Okay, that's great. So let's start with the learning goal question. [unclear]",00:21:22
+itgdigw,120,student,[UNCLEAR]..,00:21:22
+itgdigw,121,tutor,"Okay, so what do you think? What are the common multiples of 3 and 4?",00:21:22
+itgdigw,122,student,1 and... [unclear],00:21:46
+itgdigw,123,tutor,It's okay. You tried really good. Yeah. [unclear],00:22:10
+itgdigw,124,tutor,Is it in me? How do you know 3 and 4 are the common multiples?,00:22:43
+itgdigw,125,student,Because 4 goes into 4 times.,00:22:50
+itgdigw,126,student,It doesn't— it has to go into both the multiples. One and— [unclear],00:22:54
+itgdigw,127,tutor,"So, would you please tell me what are multiples?",00:23:05
+itgdigw,128,student,I'm not sure.,00:23:15
+itgdigw,129,tutor,"That's all right, we will do it together. So, let's try",00:23:17
+itgdigw,130,tutor,Let's write first 5 multiples of 6. [unclear],00:23:21
+itgdigw,131,student,"1, 2, 3, 4, 5. [unclear]",00:23:31
+itgdigw,132,tutor,"9 and 12. All right, Finnley, I really appreciate your work over here. So let's see what are multiples and how to find it. All right, Finnley, so let's first read what is given in the green box. [unclear]",00:23:53
+itgdigw,133,student,"Before we can find common multiples of a number, we need to be able to count in multiples.",00:24:21
+itgdigw,134,tutor,"Yeah, so see, before we can find common multiples of a number, we need to be able to count in multiples. So let's",00:24:33
+itgdigw,135,tutor,"at counting in multiples of 4. Finnley, can you look at this diagram here and can you please explain me what do you see? What is given here?",00:24:33
+itgdigw,136,student,"[unclear] 1 times 4 is 4. 2 times 4 is 8. 3 times 4 is 12. 4 times 4 is 16. 5 times 4 is 20. Okay, let's write the number. And?",00:24:33
+itgdigw,137,student,24.,00:25:13
+itgdigw,138,tutor,24. So how each multiple of 4 is made by looking at diagram? How we made each multiple? So what we did to get multiples here? [unclear] We did to get the multiples. How we got the multiples of 4?,00:25:15
+itgdigw,139,student,[unclear],00:25:39
+itgdigw,140,tutor,"Yeah, we just need to look at the times table. So if you are finding the multiples of 4, we need to find out what are the numbers that are there in our 4 times table. So 4 times 1 is 4, 4 times 2 is 8, 4 times 3 is 12, 4 times 4 is 16, 4 times 5 is 20, 4 times 6 is 24, So all these numbers are the multiples of 4. Did you understand, Finnley? [unclear]",00:25:40
+itgdigw,141,student,Yeah.,00:26:09
+itgdigw,142,tutor,"Yeah? Alright, can you tell me the next multiple of 4? What would be the next multiple after 24?",00:26:10
+itgdigw,143,student,"Uh, 28.",00:26:20
+itgdigw,144,tutor,"28, well done. Yes, it will be 28. Alright, now let's try the next question.",00:26:22
+itgdigw,145,student,Circle the multiples of 3 in the number line.,00:26:29
+itgdigw,146,tutor,"Yeah, so what are the multiples of 3?",00:26:37
+itgdigw,147,student,"3, 6, 9, 12, 18, 20, 24. I mean 18, no, 3, 6, 9, 12, 15, 18, and then 21.",00:26:40
+itgdigw,148,tutor,"Alright, well done, yes. So let's circle the numbers that we just, you know, found. So you said 9 is a multiple, so let's just circle it. Yes, and the next multiple is?",00:26:55
+itgdigw,149,tutor,"12. Good. 15. All right, good job, Finnley. So that's how we find out the multiples. We just need to look at the timetable. Okay, Finnley, now let's move ahead and let us do some questions on how to find out the common multiples. So we know what are multiples, right? Can you tell me what is a multiple?",00:27:10
+itgdigw,150,student,"It's, it, it, it's, it's like when you do",00:27:34
+itgdigw,151,student,One times two or two times whatever.,00:27:39
+itgdigw,152,tutor,"Yeah, so see, multiple is the result of multiplying the number by another number. So whenever we multiply our given number by another number, whatever answer we get, that answer is the multiple. Like 2 times 3, if we are finding the multiples of 2, we need to multiply our 2 by any number. Let's say 2 times 3, 2 times 5, 2 times 8, whatever answers we will get, those Those are the multiples. Now, can you tell me what do you understand by common multiple? What does that mean?",00:27:44
+itgdigw,153,student,"Like, so if you had two numbers, yeah, say 2 and 3, you have to find that many and that amount of multiples that go into both of them. Like, 1 goes into both of them, 6 goes into both of them.",00:28:21
+itgdigw,154,tutor,"Okay, all right, good job. So any multiple that is shared by two or more numbers, that is the common multiple. Now let's find out the common multiples of 2 and 3. So let's just write down the multiples of 2. So we are given with 3 multiples. Can you write down the remaining? [unclear]",00:28:38
+itgdigw,155,tutor,"Okay. [unclear] All right, outstanding. Yes. Now what are the multiples of 3?",00:29:04
+itgdigw,156,student,[unclear],00:29:15
+itgdigw,157,tutor,"Exactly, yes. Now common multiple means we need to find out which numbers are common. So can you circle the multiples that are in both the tables? So what numbers can you see in both of them?",00:29:15
+itgdigw,158,student,12.,00:29:32
+itgdigw,159,tutor,"12, yes, 12 is the common multiple. And?",00:29:33
+itgdigw,160,background,[unclear],00:29:37
+itgdigw,161,tutor,"Okay, good job. See, is there any other common multiple?",00:29:41
+itgdigw,162,student,"No, I don't think so.",00:29:48
+itgdigw,163,tutor,"No, so here we just have 2 common multiples, right?",00:29:52
+itgdigw,164,tutor,"Okay, all right, Finnley. So you did a wonderful work on this question, and I would like to give you a big, big thumbs up. Well done. Okay, let us look at this question. So what question is it? [unclear]",00:29:56
+itgdigw,165,student,"Yeah, so can you think of any other common multiples of 2 and 3 other than these multiples? 18. [unclear]",00:30:17
+itgdigw,166,tutor,9.,00:30:24
+itgdigw,167,student,Alright.,00:30:26
+itgdigw,168,tutor,"Give me one more multiple, common multiple of these two numbers. 24.",00:30:28
+itgdigw,169,student,"Alright,",00:30:34
+itgdigw,170,tutor,"good job, Finnley. Yes. Okay, so as you learnt how to find out the common multiples, now let's move ahead and we will do few questions on it. So I think, Finnley, you are aware that this is my part. So I will be doing it. Now let's make it interesting. So for this part, would you be my tutor?",00:30:35
+itgdigw,171,student,Yeah. [unclear],00:30:57
+itgdigw,172,tutor,"So for this part, because this is my part, I need to do it, right? So would you be my tutor on this part? Would you check my working?",00:30:58
+itgdigw,173,student,Yeah.,00:31:09
+itgdigw,174,tutor,"Yeah. So what you need to do, you need to just check my working, whether I am doing it correct or not. You can just, you know, give rewards for my working if I'm doing correct. If I'm not doing correct, then you can just explain me. Yeah? [unclear] Alright, shall I start with my work?",00:31:11
+itgdigw,175,student,Yes.,00:31:30
+itgdigw,176,tutor,"Alright, so let's use skip counting to find the first 2 common multiples of 4 and 6. So first, we need to find out the multiples of 4. 4, 8, 12, 16, 24, 32, 48, 64, 72, 96, 112, 128, 144, 160, 192, 204, 256, 288, 320, 336, 384, 384, 408,",00:31:31
+itgdigw,177,student,[unclear],00:31:49
+itgdigw,178,tutor,"15, then 20, 24, 28. Now multiples of 6, we have 12 and 18, 24, 30, 30, then we have 36, [unclear]",00:31:49
+itgdigw,179,tutor,"And the common multiples which is in both the number— both the times table, we have 12 and we have 24. So I think these are the two, 12 and 24.",00:32:16
+itgdigw,180,tutor,"Okay, yes, Finnley. Am I correct?",00:32:39
+itgdigw,181,student,"Yes, but here it's 40.",00:32:42
+itgdigw,182,tutor,"Okay, it's 40. Are you sure that it's 40? We are counting by 6.",00:32:49
+itgdigw,183,student,"Oh, 6. Sorry, I thought we were counting by 4, so—",00:32:56
+itgdigw,184,tutor,"All right, Finnley. I'm really, really happy that you were, you know, checking my work and you were well focused. For that, you deserve another praise card. Good job.",00:32:59
+itgdigw,185,tutor,"Okay, so let's try your turn part. Now you need to work on this question. Let's see how are you going to work it. Find the LCM of 2 and 5.",00:33:11
+itgdigw,186,student,"So 2, 4, 6, 8, 12, oh, that's right, this is wrong, 10, 14, 16, 20.",00:33:22
+itgdigw,187,tutor,"12, 14, 16, 18, 20. [unclear]",00:33:38
+itgdigw,188,student,"5, 10, 15.",00:33:56
+itgdigw,189,student,25.,00:34:04
+itgdigw,190,tutor,25. So the first two common multiples of 5 and 2 are 10 and [UNCLEAR].,00:34:06
+itgdigw,191,student,"All right, all right, Finnley, that was again a wonderful work and you deserve one more praise card. Good job. Okay, Finnley, so see, we know how to find out the multiples, right? So do you think any multiple can be less than your given number, or would it always be bigger and equal to your given number? [unclear]",00:34:06
+itgdigw,192,student,It could always be bigger.,00:34:54
+itgdigw,193,tutor,"Yeah, if you notice, multiples of 6 has 6, 12, 18, 24, 30, 36, 42. So they all are bigger than 6. Or is it equal to 6? It will never be less than 6. So make sure when you are finding the multiple, you need to remember this. We need to keep this. So see, 1 is not a multiple of every number. Because it doesn't come in every times table. It just comes in one times table. Okay? So multiples are only numbers which are in the times table. It will always be bigger or equal to [UNCLEAR]. Okay, Finnley?",00:34:56
+itgdigw,194,student,Yes.,00:34:56
+itgdigw,195,tutor,"Alright, so now let's move ahead and we will do some practice questions. Okay, so let's start with the first question.",00:35:39
+itgdigw,196,student,Okay.,00:35:50
+itgdigw,197,student,"So, this number is low. Is a common multiple of 14?",00:35:57
+itgdigw,198,tutor,14.,00:36:02
+itgdigw,199,student,Mm-hmm.,00:36:05
+itgdigw,200,tutor,"And 24, I think. [unclear]",00:36:08
+itgdigw,201,student,"Yeah, wait. 24 isn't in 7?",00:36:11
+itgdigw,202,student,So it would have to be... [unclear],00:36:18
+itgdigw,203,tutor,"Just 14. All right, good job. There is only one number which is common. Okay, let's try the next one.",00:36:23
+itgdigw,204,student,12.,00:36:31
+itgdigw,205,tutor,"12, all right. [unclear]",00:36:34
+itgdigw,206,tutor,I think that's it.,00:36:45
+itgdigw,207,student,"Alright, good job. Now the next question is?",00:36:53
+itgdigw,208,background,Write one common multiple of 2 and 5 that's under the— less than 50.,00:36:57
+itgdigw,209,student,Yeah.,00:37:08
+itgdigw,210,tutor,"All right, well done. Yeah, so 10 is the number which is common and it's less than 50. Okay, and the last question.",00:37:14
+itgdigw,211,student,Write one common multiple between 4 and 6 that's under 40. [unclear],00:37:23
+itgdigw,212,tutor,"Okay, well, all right, good job, Finnley, and you deserve a big thumbs up for your outstanding work on this slide. Okay, now let's move ahead and the last question we are going to do.",00:37:43
+itgdigw,213,student,Which number is in the wrong position? On the Venn diagram.,00:38:00
+itgdigw,214,tutor,"Okay, so Finnley, are you aware of the Venn diagrams?",00:38:06
+itgdigw,215,student,Yes.,00:38:10
+itgdigw,216,tutor,"Yeah? Okay, now look at this Venn diagram and tell me which number is in wrong position.",00:38:11
+itgdigw,217,student,[unclear] 15.,00:38:19
+itgdigw,218,tutor,"And why? Like, how do you know that 15 is in the wrong position?",00:38:25
+itgdigw,219,student,"Because 15 is a multiple of both 3 and 5, so it will be in the middle.",00:38:30
+itgdigw,220,tutor,Okay. Can you please correct it? [unclear],00:38:37
+itgdigw,221,student,how many?,00:38:37
+itgdigw,222,tutor,"All right. Okay, Finnley. That's again a wonderful work. So Finnley, what this blue shaded part of Venn diagram means?",00:38:37
+itgdigw,223,student,Means that it's both 5 and 3. Because 30 is 5 and 3 is 150.,00:39:03
+itgdigw,224,tutor,"Exactly. So this means these numbers are common in between these two. So this is the common part, right? Okay, all right. So Finnley, can you write down any other common multiple between 5 and 3? [unclear] [unclear]",00:39:11
+itgdigw,225,tutor,Which number is common?,00:39:41
+itgdigw,226,student,60.,00:39:42
+itgdigw,227,tutor,"All right. Okay, well done. Yes, it's 60. Good job. Okay, Finnley, so see, we did two topics today. So with this, we completed our another topic.",00:39:44
+itgdigw,228,tutor,"And tell me one thing, what should we keep in mind when we work with the multiples?",00:39:57
+itgdigw,229,student,"That it has been— if you have two multiples, it has been— the number has been both multiples.",00:40:06
+itgdigw,230,tutor,"Yeah, common multiple means we are finding the number that is in both the numbers. And how do we find out the multiples, Finnley?",00:40:15
+itgdigw,231,student,By doing multiplication.,00:40:24
+itgdigw,232,tutor,"Yeah, so the number that is in our times table. Okay, now we won't be doing any new topic. Let's reflect what we did. So Finnley, would you please tell me what we did on this slide?",00:40:26
+itgdigw,233,student,We have to find— we have to [unclear] common multiples.,00:40:40
+itgdigw,234,tutor,"Yeah, we needed to find out the common multiples here. And what we did on this slide?",00:40:46
+itgdigw,235,student,Find the common— write down and find the common multiples.,00:40:53
+itgdigw,236,tutor,"Okay. And on this slide, we did the same thing, right?",00:40:58
+itgdigw,237,student,Yes.,00:41:03
+itgdigw,238,tutor,"Then we did some practice questions here. And Finnley, can you tell me any other common multiple between 2 and 5 which is less than 50?",00:41:05
+itgdigw,239,student,20.,00:41:14
+itgdigw,240,tutor,"Okay, good job. Yes, it's 20. And in the last question, how did we work?",00:41:16
+itgdigw,241,background,We looked for the wrong position. What one was in the wrong place?,00:41:27
+itgdigw,242,tutor,"Yes, so we just needed to find out the number in the wrong position and we needed to correct it. Okay, Finnley, and what if you need to add",00:41:32
+itgdigw,243,tutor,Let's say 4.5 kg and 300 grams. How would you add them?,00:41:43
+itgdigw,244,student,"I'd do 4,500 g at 300 grams.",00:41:55
+itgdigw,245,tutor,And the total would be?,00:42:00
+itgdigw,246,student,"4,800 g.",00:42:03
+itgdigw,247,tutor,"4,800 grams. All right, Finnley, that was amazing, and I'm really, really happy that you remember each and everything that we did today. For that, you deserve another praise card. Now let's come to the most important thing. Okay, so Finnley, I think you are aware of that when I end the session, you will be getting some questions. Yeah? [unclear]",00:42:04
+itgdigw,248,tutor,"Okay, see? These questions are very important, so do not rush. Take your time and read it properly. So it's to check your progress. So please attempt it carefully. You will be getting 4 options. You need to select the correct one. Okay? So do it, and after that you will be having a feedback form. I think you are aware of the feedback form as well.",00:42:31
+itgdigw,249,student,[unclear],00:42:57
+itgdigw,250,tutor,"Yeah? Okay. See, there will be 3 criteria. One is usefulness, second is enjoyability, and third is Tutor understandability. So see, this topic which we did today, these are very, very useful. You can use it in your class, you can use it in your exams and with your friends. And I hope you enjoyed the session. Did you enjoy?",00:42:58
+itgdigw,251,student,Yes.,00:43:22
+itgdigw,252,tutor,"Yeah? Okay. And I hope you understood the topic that we covered today. So please rate them out of 5. And if you want to write Any comment, you can write down in the comment box. Okay? All right. Okay, Finnley, so yeah, what are you going to do next after this class?",00:43:23
+itgdigw,253,student,Science.,00:43:44
+itgdigw,254,tutor,"Oh, you have science. Do you like science?",00:43:46
+itgdigw,255,student,Yes.,00:43:48
+itgdigw,256,tutor,"Yeah? Okay, so what are you learning nowadays in science?",00:43:49
+itgdigw,257,student,Today we started a new subject and it's [UNCLEAR]. Electricity.,00:43:53
+itgdigw,258,tutor,"Okay, electricity. All right, that's interesting. And do you play any game? [unclear]",00:44:02
+itgdigw,259,tutor,"No. Like, did you have any lunch break before this class? I think you had, right?",00:44:12
+itgdigw,260,student,"Yeah, we did.",00:44:19
+itgdigw,261,tutor,So you played any game?,00:44:20
+itgdigw,262,student,"No, we just walked around.",00:44:23
+itgdigw,263,tutor,"Okay, all right. Or any other game like at your home? How do you spend your free time?",00:44:26
+itgdigw,264,student,I do clubs. I do a lot of clubs.,00:44:37
+itgdigw,265,tutor,"Okay. Alright. Okay, Finnley, so it's time to end. So I'll meet you in the next class. Have a good day. Bye.",00:44:40
+itgdigw,266,student,Bye. [unclear] [unclear],00:44:49
+itgdigw,267,student,[UNCLEAR] [unclear],00:44:49
+itgdigw,268,student,[unclear],00:44:49

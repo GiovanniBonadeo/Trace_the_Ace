@@ -1,0 +1,393 @@
+session_id,utterance_id,role,content,timestamp
+jowelqm,0,tutor,Hello. [unclear] Hi. How are you doing today?,00:00:00
+jowelqm,1,student,Good.,00:00:02
+jowelqm,2,student,I'm good.,00:00:03
+jowelqm,3,tutor,"All right, so are you ready for today's session?",00:00:04
+jowelqm,4,student,Yes.,00:00:07
+jowelqm,5,tutor,"So we have to learn about rounding numbers to the nearest hundred and thousand, okay?",00:00:08
+jowelqm,6,tutor,"So before we start, can you tell me, Tobias, if we have to round a number to the nearest hundred, alright? If we have to round a number to the nearest hundred, what digit do we have to look at?",00:00:13
+jowelqm,7,student,Um... Hundred?,00:00:27
+jowelqm,8,tutor,"If we have to round to the nearest hundred, what digit do we have to look at?",00:00:32
+jowelqm,9,tutor,Is it tens or ones?,00:00:43
+jowelqm,10,student,Tens.,00:00:45
+jowelqm,11,tutor,"Tens. Very well done. If we have to, uh, look around a number to the nearest thousandth, we have to look at the tens digit. Okay, so let's go to our next, uh, where we have to learn today. Okay, we have to start from here.",00:00:46
+jowelqm,12,tutor,"Okay, so let's try this question. Can you read this and give it a try?",00:01:06
+jowelqm,13,student,"Round 2,715 to the nearest hundred. [unclear]",00:01:16
+jowelqm,14,tutor,"All right, round 2,715 to the nearest hundred. All right.",00:01:21
+jowelqm,15,tutor,So what do you think? [unclear] What do you have to do?,00:01:32
+jowelqm,16,student,"Yeah, we have to put it—",00:01:39
+jowelqm,17,background,And make sure.,00:01:42
+jowelqm,18,tutor,"All right, so let's give it a try, Tobias. Okay, so now to what do we have to round it to?",00:01:43
+jowelqm,19,background,100.,00:01:51
+jowelqm,20,tutor,"100, okay. Shall we draw a line? So I'm going to draw a line separating the hundreds space and the tens space. Separate in the hundreds place, okay? So in this number, this is the thousands place, this is the hundreds place, alright?",00:01:54
+jowelqm,21,student,Yes.,00:02:10
+jowelqm,22,tutor,"So I'm going to draw a line there like this, okay?",00:02:11
+jowelqm,23,student,Okay.,00:02:15
+jowelqm,24,tutor,"Alright, so can— now can you check the digit we have right to the line? What is the digit we have?",00:02:17
+jowelqm,25,student,10.,00:02:26
+jowelqm,26,tutor,10. So what is this place value?,00:02:27
+jowelqm,27,student,The tens.,00:02:30
+jowelqm,28,tutor,"Tens place. Alright. So the digit in the tens place is 5— sorry, 4 or below. The digit in the tens place, 4 or below. Now here we have only one 10, okay? If this digit is 4 or below, we have to round down. Do you understand that, Tobias?",00:02:32
+jowelqm,29,student,"[unclear] If that is 5 or above, we have to round up. Now, do we have to round this up or down?",00:02:52
+jowelqm,30,student,Up. [unclear],00:03:01
+jowelqm,31,tutor,"Down. So why do we rounding it down, Tobias?",00:03:03
+jowelqm,32,student,Because it helps us.,00:03:09
+jowelqm,33,tutor,How many digits are there in the tens place? How many tens do we have?,00:03:14
+jowelqm,34,student,"One. 1 ten. Is it, uh, bigger or smaller than 5?",00:03:18
+jowelqm,35,student,Smaller. [unclear],00:03:25
+jowelqm,36,tutor,"We have 1 ten. 1, just 1 ten. All right, is it bigger or smaller than 5? Just assume we have only 1 here. All right.",00:03:27
+jowelqm,37,student,It's smaller.,00:03:39
+jowelqm,38,tutor,"Smaller than 5. So therefore we have to round this down. So our number is 2750. So what is the previous multiple of 100, Tobias?",00:03:40
+jowelqm,39,student,"1,000. [unclear]",00:03:53
+jowelqm,40,tutor,"1,000. Now shall we count the multiples of 100? Like 100, 200, 300, 400, 500, 600, 700, 800, 900, 1,000, 1,100.",00:03:54
+jowelqm,41,student,Okay. Now what is the previous multiple of 100? We have before 750.,00:04:15
+jowelqm,42,student,"More numbers bigger than 5, then—",00:04:20
+jowelqm,43,tutor,Yes. Is it 500?,00:04:23
+jowelqm,44,student,No.,00:04:26
+jowelqm,45,tutor,Is it 600?,00:04:27
+jowelqm,46,student,Yes. [unclear],00:04:29
+jowelqm,47,tutor,"600? No, it's not 600.",00:04:29
+jowelqm,48,student,Or is it 700?,00:04:33
+jowelqm,49,tutor,"700. Very well done. The previous multiple is 2,700. So what is the next multiple of 100?",00:04:35
+jowelqm,50,student,"2,000.",00:04:43
+jowelqm,51,background,Yeah.,00:04:44
+jowelqm,52,student,"2,000.",00:04:45
+jowelqm,53,tutor,"So the previous [UNCLEAR], previous multiple is 2,700. What is the next multiple of 100? We are talking about the multiples of 100, Tobias. What do we have after 700?",00:04:47
+jowelqm,54,student,800.,00:04:47
+jowelqm,55,tutor,"800. Very well done. So this number lies between 2,700 and 2,800. All right.",00:04:52
+jowelqm,56,tutor,"Now can you tell me? So we have to round down because our ones place— sorry, in our tens place we have only 1. Okay, so we have to round down. So can you tell me then what is the answer? This or this?",00:05:13
+jowelqm,57,student,"Um, it's this. I mean this.",00:05:27
+jowelqm,58,tutor,"Yes, very well done. So why did we pick that?",00:05:32
+jowelqm,59,student,"Because it's 7,000, and here we have 7,000. That is for the sevens would match together.",00:05:36
+jowelqm,60,tutor,"Yeah, so what— from these two numbers, to what number is this more closer to 2750? To what is it more closer to, 2700 or 2800?",00:05:43
+jowelqm,61,student,2700.,00:05:58
+jowelqm,62,tutor,"Very well done. 2715 is more closer to 2700. Alright, now shall we write our answer here, Tobias?",00:05:59
+jowelqm,63,student,"Yes. [unclear] 2,700.",00:06:12
+jowelqm,64,tutor,"2,700. All right, very well done. So now let's try the next question.",00:06:16
+jowelqm,65,student,Okay. This one here.,00:06:26
+jowelqm,66,tutor,"The nearest thousand. Now we have to round this to the nearest thousand. All right, so from where do we have to draw the line, Tobias?",00:06:30
+jowelqm,67,student,We have to draw the line here.,00:06:42
+jowelqm,68,tutor,"Can you draw? Yes, Mary, well done. We have to draw the line next to the thousands space. Okay, then what digit do we have to look at?",00:06:50
+jowelqm,69,student,We have to look at the thousands column.,00:06:59
+jowelqm,70,background,"Do we have to look at thousands? Hundreds, Tobias. Hundreds. We always have to look at the digit right side to the line, okay? Which means the hundreds digit, okay? So what is the digit we have in the hundreds place? We have 7. [unclear] 7. Now can you tell me, is it bigger or smaller than 5? Bigger. Bigger. Then do we have to round up or down? Down. I mean up.",00:07:03
+jowelqm,71,tutor,"Ah, very well done. So since it's bigger, we have to round up. Now we have to round to the nearest thousand, so we have to consider about the multiples of thousand, right?",00:07:32
+jowelqm,72,student,Yes.,00:07:41
+jowelqm,73,tutor,So what is the previous multiple of thousand for 2715?,00:07:42
+jowelqm,74,student,"Hmm, 100.",00:07:49
+jowelqm,75,background,"Shall we count the multiples of thousand, Tobias?",00:07:54
+jowelqm,76,student,Yes.,00:07:57
+jowelqm,77,background,"1000, [unclear]",00:07:57
+jowelqm,78,tutor,"2,000, 3,000, 4,000, 5,000, 6,000, like that. All right. Okay. Now can you tell me in what multiples of 1,000 does this number lies between?",00:08:00
+jowelqm,79,student,"2,000.",00:08:12
+jowelqm,80,tutor,"2,000. Very well done. The previous multiple is 2,000. All right. So what is the next multiple?",00:08:15
+jowelqm,81,student,"3,000.",00:08:26
+jowelqm,82,tutor,"3,000. Very well done. Now can you tell me, we have to round this up, all right? Since the digit is 7, we have to round up. So what is the answer, 2,000 or 3,000?",00:08:27
+jowelqm,83,background,"[unclear] 3,000. I mean 3,000.",00:08:37
+jowelqm,84,tutor,"Very well done, because 2,715 is more closer to 3,000.",00:08:43
+jowelqm,85,tutor,Then?,00:08:53
+jowelqm,86,student,"2,000.",00:08:53
+jowelqm,87,tutor,"2,000. So what is the answer, Tobias? Is it 2,000?",00:08:54
+jowelqm,88,student,"Oh, no, it's 3,000. Sorry.",00:08:57
+jowelqm,89,tutor,"It's 3,000. All right. So can you tell me, so why did we pick 3,000? How did we get that answer?",00:09:00
+jowelqm,90,student,It's bigger.,00:09:08
+jowelqm,91,tutor,Okay.,00:09:09
+jowelqm,92,student,And we are rounding up.,00:09:10
+jowelqm,93,tutor,"Yes, we are rounding up. So then it's more closer to— if you look at this number, See, when we look at this number, we can say it's more closer to 3,000 than 2,000. Alright, so good working out in the very first part. Let's go to our question 2.",00:09:11
+jowelqm,94,student,Mm-hmm.,00:09:26
+jowelqm,95,tutor,Yes. Can you read the question? I'm going to try.,00:09:29
+jowelqm,96,background,"Which 2 numbers round to 5,601 rounded to the nearest hundred?",00:09:34
+jowelqm,97,student,Okay.,00:09:41
+jowelqm,98,background,"Alright. Round 5,325 to the nearest thousand and hundred. Okay, now let's consider about the multiples of thousands. We have, uh, this number lies between— what are the multiples of thousand, Tobias? Does this number lies between 3,000, 5,324, 22, 25? [unclear]",00:09:41
+jowelqm,99,tutor,So what are the multiples of,00:10:08
+jowelqm,100,tutor,"Tobias. Now here, this number.",00:10:08
+jowelqm,101,student,[UNCLEAR],00:10:08
+jowelqm,102,tutor,"Very well done. The previous multiple is 5,000, and what is the next multiple?",00:10:13
+jowelqm,103,background,"6,000.",00:10:20
+jowelqm,104,tutor,"All right, so this number lies between these two thousands, okay? Between 5,000 and 6,000. Now we have to look at to what number is it more closer to, all right? Yes, now what is our number?",00:10:21
+jowelqm,105,student,"5,325.",00:10:39
+jowelqm,106,tutor,"25, okay. Now what digit do we have to look at? If we have to round it to the nearest thousand, what digit do we have to look at?",00:10:39
+jowelqm,107,student,"6,000. [unclear] 5,000.",00:10:46
+jowelqm,108,tutor,"Okay, so can you tell me, Tobias, what digit do we have to look at?",00:10:51
+jowelqm,109,student,"5,000.",00:10:55
+jowelqm,110,tutor,"So why do you say that 5,000?",00:10:56
+jowelqm,111,student,"Because 5,000 is a number, these are thousands, so it starts with",00:10:58
+jowelqm,112,tutor,"Alright, so when we have to round a number to the nearest thousand, Tobias, we have to look at the hundreds digit, alright? So you may have remembered, first we draw the line between thousand and then we look at the digit right side to the line. Now here the digit is hundreds, okay? So how many hundreds do we have?",00:11:03
+jowelqm,113,student,[unclear] 300.,00:11:26
+jowelqm,114,tutor,300. So do we have to round up or down? [unclear],00:11:28
+jowelqm,115,tutor,"Why do we have to round up, Tobias?",00:11:36
+jowelqm,116,student,Because I mean we have to round down.,00:11:39
+jowelqm,117,tutor,"Yes, so very well done. Why do we have to round down?",00:11:41
+jowelqm,118,student,Because it's what the number says.,00:11:45
+jowelqm,119,background,The right one.,00:11:48
+jowelqm,120,student,"Oh, because it's smaller.",00:11:49
+jowelqm,121,tutor,"Yes, it's smaller than 5, okay?",00:11:52
+jowelqm,122,student,Yeah.,00:11:55
+jowelqm,123,tutor,"So if it is smaller than 5, we have to round down, okay? Now what is the answer? 5,000 or 6,000? To what number is it more closer to?",00:11:55
+jowelqm,124,student,"5,000.",00:12:05
+jowelqm,125,tutor,"5,000. Very well done. So let's write 5,000 here. 5-0-0, all the zeros. [unclear] [unclear]",00:12:06
+jowelqm,126,tutor,"Well done. All right, now let's go to the next one. What do we have to do next?",00:12:29
+jowelqm,127,student,"Draw 6,000.",00:12:46
+jowelqm,128,tutor,"Now here we have to look at the the multiples of 100, Tobias, all right? Not the multiples of 1,000.",00:12:49
+jowelqm,129,student,So 300.,00:12:58
+jowelqm,130,tutor,"300. Yes, very well done. 300 is the previous multiple, which means the previous multiple is 5,200. What is the next multiple? [unclear] What is the next multiple?",00:12:59
+jowelqm,131,student,The next multiple—,00:13:16
+jowelqm,132,background,2—,00:13:17
+jowelqm,133,student,Yeah.,00:13:18
+jowelqm,134,student,[unclear],00:13:20
+jowelqm,135,tutor,"We are talking about 5,000. So the multiples of hundreds are what? 5,100, 5,200, 5,300. So what is the next multiple?",00:13:20
+jowelqm,136,student,300.,00:13:36
+jowelqm,137,tutor,"Okay, what is the next multiple? 5,300. What comes after 5,300?",00:13:36
+jowelqm,138,student,"600, 700, 800, 900.",00:13:41
+jowelqm,139,tutor,"Very well done. So the next multiple is 5,400. All right. Now what digit do we have to look at in this number? We have to round to the nearest hundred, okay? Then what digit do we have to look at, Tobias?",00:13:45
+jowelqm,140,student,"260,000. [unclear]",00:13:59
+jowelqm,141,tutor,"5,300.",00:14:04
+jowelqm,142,student,Yes.,00:14:06
+jowelqm,143,tutor,"So why do you say that it's 5,300?",00:14:07
+jowelqm,144,student,"Because 5,300 is— it's nearer.",00:14:11
+jowelqm,145,tutor,"Very well done. It is more closer to 5,300 than 5,400. All right, now shall we write our answer?",00:14:17
+jowelqm,146,student,It would be somewhere here. [unclear],00:14:26
+jowelqm,147,tutor,"So we are going to write 5,300 over there.",00:14:31
+jowelqm,148,student,"3, 5.",00:14:35
+jowelqm,149,tutor,You move it back. You move the numbers back one.,00:14:40
+jowelqm,150,student,And then the 5.,00:14:46
+jowelqm,151,tutor,"And then? All right, Tobias, very well done. So good working out with the next question as well. So let's go to the next one. [unclear]",00:14:48
+jowelqm,152,student,"Which is— which 2 numbers round to 5,600 when rounded to the nearest hundred?",00:15:02
+jowelqm,153,tutor,"Okay, you have to pick 2 numbers. Like, these are the",00:15:14
+jowelqm,154,background,"A, B, C, D. And you can see a number line here. So what are the numbers you're going to pick? When we round it to the nearest hundred, it should be more closer to 5600. [unclear]",00:15:18
+jowelqm,155,student,Yeah.,00:15:37
+jowelqm,156,tutor,It should be close to 5000.,00:15:37
+jowelqm,157,student,[unclear],00:15:44
+jowelqm,158,tutor,"Alright, so can you tell me, Tobias, to what— if you look at this number, number B, okay? To what number is it more closer?",00:15:44
+jowelqm,159,student,"5,500.",00:15:54
+jowelqm,160,tutor,"Yes, it's more closer to 5,500, so we kind of take B, alright?",00:15:56
+jowelqm,161,student,Yeah.,00:16:01
+jowelqm,162,tutor,"Now let's look at another number. Let's look at C, right?",00:16:03
+jowelqm,163,tutor,"Yes, here. Can you tell me to what number is it more closer to, this or this?",00:16:06
+jowelqm,164,student,"It's closer to 5,600.",00:16:13
+jowelqm,165,tutor,"Very well done, it's closer to 5,600. Okay, now C is one number. Shall we write C here?",00:16:18
+jowelqm,166,student,Yes. [unclear],00:16:25
+jowelqm,167,tutor,"Oh, okay. All right. Now, can you tell me another number which is more closer to 5,600?",00:16:27
+jowelqm,168,student,[unclear] I mean E. D.,00:16:44
+jowelqm,169,tutor,"D. Yes, D is more closer to 5,600. All right. So once again, good breaking out, Tobias. So you did a great job. Let's go to the last slide of our lesson. All right, can you give it a try? Can you read the question?",00:16:48
+jowelqm,170,student,"Yes, the number is rounded to the nearest thousand. The answer is 5,000. What could be the original number? What could the original number have been? Give two possible answers. [unclear]",00:17:06
+jowelqm,171,tutor,"All right, now there is a number, okay? When we round that number to the nearest thousand,",00:17:19
+jowelqm,172,tutor,Yes.,00:17:27
+jowelqm,173,student,"The answer should be 5,000.",00:17:28
+jowelqm,174,tutor,"5,000. So should I write that down?",00:17:31
+jowelqm,175,student,"Not exactly. We can take 5,000. [unclear] Yes, so yeah, we can take 5,000 as well. So why do you say that 5,000?",00:17:35
+jowelqm,176,tutor,Because it's the original answer.,00:17:46
+jowelqm,177,student,"Okay, so can you tell me another number?",00:17:49
+jowelqm,178,tutor,Thinking about the number.,00:17:53
+jowelqm,179,student,In the thousands column.,00:17:56
+jowelqm,180,tutor,"So what do we have to do, Tobias? Now we have a number. It says when that number is rounded to the nearest thousand, it is 5,000. All right?",00:17:58
+jowelqm,181,student,Yes. [unclear],00:18:12
+jowelqm,182,background,"Or it could have been 4,000.",00:18:13
+jowelqm,183,tutor,"All right. If it is 4,000, when we round it to the nearest thousand, what is the answer?",00:18:15
+jowelqm,184,background,"100,000. Okay, so let's go to the number line, all right?",00:18:20
+jowelqm,185,student,Yes.,00:18:29
+jowelqm,186,tutor,"So I'm going to draw 5,000 here. [unclear] What is the previous multiple of 1,000, Tobias?",00:18:29
+jowelqm,187,student,Um...,00:18:43
+jowelqm,188,tutor,"Before 5,000, what is the multiple of 1,000 we have?",00:18:43
+jowelqm,189,student,"4,000.",00:18:47
+jowelqm,190,tutor,"4,000. Very well done. [unclear]",00:18:48
+jowelqm,191,tutor,Now can you tell me what do we have in the middle?,00:18:59
+jowelqm,192,student,"So, 6,000.",00:19:01
+jowelqm,193,tutor,"So, do we have 6,000 on this number line?",00:19:05
+jowelqm,194,student,We have 300.,00:19:10
+jowelqm,195,tutor,"Okay, shall we count? So what is the value of this one interval, Tobias?",00:19:13
+jowelqm,196,tutor,Yes.,00:19:18
+jowelqm,197,student,So it means that—,00:19:19
+jowelqm,198,tutor,So it is—,00:19:24
+jowelqm,199,student,"of the 2,000 and round—",00:19:24
+jowelqm,200,tutor,"Shall we count from 100? 4,100, 4,200, 4,300, 4,400, 4,500. So what do we have here?",00:19:24
+jowelqm,201,background,"4,500.",00:19:43
+jowelqm,202,tutor,"4,500. [unclear]",00:19:44
+jowelqm,203,tutor,"Then once again, here we have 5,600, 5,700, 4,700, 4,800, 4,900, and finally we have 5,000. Okay.",00:19:51
+jowelqm,204,student,What happened to the number?,00:20:05
+jowelqm,205,tutor,"Okay, I'll write it. Can you see it? 4,500. Okay, can you tell me, Tobias, now this is the middle line.",00:20:06
+jowelqm,206,student,[unclear],00:20:17
+jowelqm,207,tutor,"So why do you say that's 4,500?",00:20:17
+jowelqm,208,student,[unclear],00:20:22
+jowelqm,209,tutor,"4,300, 400, 500? Okay. So can you tell me, Tobias, if I mark a number on this side, okay?",00:20:23
+jowelqm,210,student,Yes.,00:20:37
+jowelqm,211,tutor,"If I mark a number here, just we don't know what's the exact number, just assume I'm going to mark a number here. Okay?",00:20:37
+jowelqm,212,student,Yes.,00:20:44
+jowelqm,213,tutor,"So what number is it more closer to? Is it more closer to 4,000 or 5,000?",00:20:45
+jowelqm,214,student,"4,000.",00:20:50
+jowelqm,215,tutor,"4,000. So when we round it to the nearest thousand, it's 4,000. So can we take any number from this side? [unclear]",00:20:52
+jowelqm,216,background,"So that's rounded to the nearest 5,000, both of them.",00:21:00
+jowelqm,217,tutor,"When we round it to the nearest thousand, Tobias, the answer should be 5,000, all right?",00:21:06
+jowelqm,218,student,Yes.,00:21:12
+jowelqm,219,student,"So where do we have to mark our number, on this side or this side?",00:21:12
+jowelqm,220,student,"5,000. [unclear] So can you tell me, Tobias, where do we have to mark our number, on this side of the line or this side of the line?",00:21:19
+jowelqm,221,student,This side.,00:21:28
+jowelqm,222,student,"Yes, we have to round— pick a number from this side, okay? Look, if we pick any number from this side, just assume now here we have 4,100, all right?",00:21:30
+jowelqm,223,tutor,"So I'm going to mark 4100. So if we take 4100, all right, if we take 4100, when we round it to the nearest thousand, what is the answer?",00:21:42
+jowelqm,224,student,4000.,00:21:55
+jowelqm,225,tutor,"4000. We cannot take any number from this side, so, but we can pick any number from this side. Can you tell me any number which we have on this side?",00:21:55
+jowelqm,226,background,Um...,00:22:07
+jowelqm,227,student,[unclear],00:22:11
+jowelqm,228,tutor,"Okay, apart from 5,000, what are the other numbers we have?",00:22:11
+jowelqm,229,background,900.,00:22:15
+jowelqm,230,tutor,"Very well done. 5,900. Okay, 5,900. Sorry, 4,900. Right here in this line, we have 4,900. Now can you tell me, when we round this to the nearest thousand, what is the answer?",00:22:16
+jowelqm,231,student,"5,000.",00:22:35
+jowelqm,232,tutor,"5,000. So very well done. So what do we have here? What is this number? [unclear] 4,600. All right.",00:22:36
+jowelqm,233,student,And this 700.,00:22:52
+jowelqm,234,tutor,"Yes. So we can take any number from 4,500 to 5,000. Okay. So what is the number you're going to pick? [unclear]",00:22:54
+jowelqm,235,tutor,"4,900.",00:23:09
+jowelqm,236,background,"Okay, so you can take 4,900 as the [UNCLEAR].",00:23:11
+jowelqm,237,tutor,All right then. Did you write down for Tobias?,00:23:11
+jowelqm,238,student,I'm gonna write it down.,00:23:23
+jowelqm,239,tutor,Yeah.,00:23:27
+jowelqm,240,student,So...,00:23:27
+jowelqm,241,tutor,"4,000.",00:23:30
+jowelqm,242,student,I've got to add...,00:23:33
+jowelqm,243,tutor,"All right, 4,800, it's also correct. Okay, so let's check on another set of numbers, all right?",00:23:34
+jowelqm,244,student,Yes.,00:23:41
+jowelqm,245,tutor,"Now, I'm going to mark 5,000 here.",00:23:42
+jowelqm,246,student,Yes.,00:23:49
+jowelqm,247,tutor,On this side.,00:23:50
+jowelqm,248,student,I don't really understand anything else.,00:23:52
+jowelqm,249,tutor,"So what do we have here? What is the next multiple of 1,000?",00:23:54
+jowelqm,250,tutor,"Thousands, hundreds. After 5,000, what do we have?",00:23:59
+jowelqm,251,student,"6,000.",00:24:02
+jowelqm,252,tutor,"6,000. Very well done. Okay. Now, what do we have in the middle? [unclear]",00:24:05
+jowelqm,253,background,"5,100.",00:24:17
+jowelqm,254,student,5000.,00:24:17
+jowelqm,255,tutor,Sorry?,00:24:17
+jowelqm,256,student,5000.,00:24:17
+jowelqm,257,tutor,"Very well done. We have 5500 here. [unclear] Here we have 5500. Okay. Now can you tell me, Tobias, now once again when we round the number to the nearest thousand, it should be more closer to 5000, alright?",00:24:17
+jowelqm,258,tutor,Yes.,00:24:49
+jowelqm,259,student,"If I mark a number here, okay?",00:24:50
+jowelqm,260,tutor,Yes.,00:24:53
+jowelqm,261,student,"So to what is it more closer to? Is it more closer to 5,000 or 6,000?",00:24:53
+jowelqm,262,background,"6,000.",00:24:59
+jowelqm,263,student,"6,000. So can we take a number from this side? [unclear]",00:25:01
+jowelqm,264,tutor,"No. No, because if we mark any number on this side, still it is more closer to 6,000 than 5,000. So what— in what side do we have to mark our number? [unclear]",00:25:05
+jowelqm,265,tutor,"You have to mark the numbers on this square. We have to mark our numbers on this side, Tobias, all right?",00:25:19
+jowelqm,266,student,Yes.,00:25:30
+jowelqm,267,tutor,Can you tell me any number from this side?,00:25:31
+jowelqm,268,student,We have... [unclear],00:25:34
+jowelqm,269,tutor,Can you tell me any number from this side?,00:25:37
+jowelqm,270,student,[unclear],00:25:43
+jowelqm,271,tutor,"5,001 or 5,002?",00:25:43
+jowelqm,272,student,"5,200.",00:25:46
+jowelqm,273,tutor,"5,200. All right, so let's take 5,200. So can you tell me, it's here, right? 5,200. Now can you tell me, when we round this to the nearest thousand, what is the answer? 5,000 or 6,000?",00:25:47
+jowelqm,274,student,"5,000.",00:26:02
+jowelqm,275,tutor,"5,000. Very well done. So we can take another another number from 5,000 to 5,499. Alright. Now is this explanation clear to you, Tobias? [unclear]",00:26:03
+jowelqm,276,tutor,"So can you tell me, Tobias, if we have to round a number to the nearest thousand, what digit do we have to look at? Hello?",00:26:17
+jowelqm,277,student,"We have to look at the original, the answer.",00:26:32
+jowelqm,278,student,[unclear],00:26:37
+jowelqm,279,tutor,What digit do we have to look at? Is it the thousands place or the hundreds place or the tens place?,00:26:37
+jowelqm,280,student,Thousands.,00:26:44
+jowelqm,281,tutor,"When we have to round a number to the nearest thousand, what digit do we have to look at? Tobias, is it the hundreds place or the tens place?",00:26:46
+jowelqm,282,student,Thousands.,00:26:59
+jowelqm,283,tutor,"When we have to round a number to the nearest thousand, We have to look at the hundredth place, Tobias. Do you understand that?",00:27:00
+jowelqm,284,student,Yes.,00:27:11
+jowelqm,285,tutor,"When we have to round a number to the nearest hundred, then what digit do we have to look at?",00:27:11
+jowelqm,286,student,The thousands.,00:27:17
+jowelqm,287,tutor,"When we have to round a number to the nearest hundred, we have to look at the tens place. [unclear] Alright, so Tobias, you did a great job throughout the lesson. So good working out. Let's go to our next lesson. [unclear]",00:27:19
+jowelqm,288,tutor,"Right. Now, writing tens as decimals. All right. Now, do you know how to write decimal numbers, Tobias?",00:27:43
+jowelqm,289,student,Yes.,00:27:58
+jowelqm,290,tutor,"Oh, that's awesome.",00:27:59
+jowelqm,291,tutor,"Okay, so let's try the first learning goal. [unclear]",00:28:00
+jowelqm,292,student,Write the blue shaded part of the decimal.,00:28:06
+jowelqm,293,tutor,Write the bubble shaded part as a decimal.,00:28:11
+jowelqm,294,background,[UNCLEAR],00:28:11
+jowelqm,295,tutor,"All right, Tobias, so why do you think that it's 2.2? [unclear]",00:28:19
+jowelqm,296,tutor,2.2?,00:28:33
+jowelqm,297,student,Why do you think that it's 2.2?,00:28:33
+jowelqm,298,tutor,"Because there are two parts shaded, which is basically 4.",00:28:35
+jowelqm,299,student,"Alright, so I was on my first set of questions. So shall we try next one as well?",00:28:40
+jowelqm,300,tutor,Yes.,00:28:46
+jowelqm,301,background,"The nearest 1,000.",00:28:50
+jowelqm,302,student,Can you read the question and give it a try?,00:28:52
+jowelqm,303,tutor,What's the orange shaded part of the fraction? [unclear],00:28:59
+jowelqm,304,student,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:29:02
+jowelqm,305,tutor,Alright. So what do you think? How can we write this as a fraction? How many parts altogether we have?,00:29:12
+jowelqm,306,student,4.,00:29:20
+jowelqm,307,student,"I mean, [unclear] 10.",00:29:20
+jowelqm,308,tutor,"10, okay. So there are 10 parts altogether, and how many parts are shaded?",00:29:23
+jowelqm,309,student,3.,00:29:29
+jowelqm,310,tutor,"3, okay. So how can we write this as a fraction, Tobias?",00:29:30
+jowelqm,311,student,3/10.,00:29:40
+jowelqm,312,tutor,"Yes, very well done. 3/10, all right. So what's the working out?",00:29:41
+jowelqm,313,tutor,"Okay, so let's go to our lesson. Can you read the first green color part?",00:29:46
+jowelqm,314,student,"Before we write [unclear] we raise the tens part of a whole. Fraction shows a whole, so many parts of them we have. How we have tens? The tens of the whole.",00:29:57
+jowelqm,315,tutor,"Before we can write tens as decimals, all right? We need to recognize tenths as a part of a whole. Which means, Tobias, we have to recognize tenths as how many parts of one whole, alright?",00:30:09
+jowelqm,316,student,Yes.,00:30:25
+jowelqm,317,tutor,Okay. So let's try to this example. Can you read this one?,00:30:26
+jowelqm,318,student,Fraction shows a part of a whole. [unclear],00:30:32
+jowelqm,319,tutor,"Fraction shows part of a whole. So here, this is a one whole. Altogether, this full circle is a one whole, alright? So how many parts do we have here? [unclear]",00:30:34
+jowelqm,320,tutor,One whole.,00:30:46
+jowelqm,321,student,Two.,00:30:48
+jowelqm,322,tutor,"One, three.",00:30:49
+jowelqm,323,student,"Four, five, six, seven, eight, nine, ten.",00:30:51
+jowelqm,324,tutor,"Ten. All together we have 10 parts. So the denominator, we mean how many equal parts altogether we have, right? And how many parts are shaded?",00:30:55
+jowelqm,325,student,We have one numerator.,00:31:07
+jowelqm,326,tutor,"One part is shaded. Okay, now shall we write one here? [unclear]",00:31:09
+jowelqm,327,student,Yes.,00:31:16
+jowelqm,328,tutor,Very well done. Now can you tell me how many tenths do we have?,00:31:22
+jowelqm,329,student,"Um, we have one tenth.",00:31:27
+jowelqm,330,tutor,One tenth. Very well done. So shall we write one,00:31:31
+jowelqm,331,tutor,Yes. [unclear],00:31:41
+jowelqm,332,tutor,"Is it there? We have to write it here, right?",00:31:42
+jowelqm,333,tutor,"Alright, Tobias. So let's go to Part B, alright? Once again, how many parts, how many equal parts altogether we have?",00:31:50
+jowelqm,334,tutor,"All right, amazing. We have 3 parts shaded, and how many parts altogether we have?",00:32:01
+jowelqm,335,student,"So, um, 10.",00:32:07
+jowelqm,336,tutor,"10, very well done. Shall we write 10? Okay, now how many tens do we have?",00:32:09
+jowelqm,337,background,3.,00:32:14
+jowelqm,338,tutor,"3 tens, amazing. Okay, go to the next part.",00:32:15
+jowelqm,339,background,"9 and 1, you get 10. So the first digit that [unclear]",00:32:22
+jowelqm,340,tutor,Put the 1 on top. Add 1 and 9.,00:32:29
+jowelqm,341,student,Well done. 6.,00:32:37
+jowelqm,342,tutor,"You have 6 pence. All right, amazing work. Let's go to the last part.",00:32:40
+jowelqm,343,student,Add this 2 and 1. 3. Yeah.,00:32:46
+jowelqm,344,tutor,What would each small line be worth? [unclear],00:32:52
+jowelqm,345,tutor,What do you think? So how many parts altogether we have here?,00:32:59
+jowelqm,346,background,"10. 1, 2, 3, 4, 5, 6,",00:33:10
+jowelqm,347,student,"6, 7, 8, 9, 10.",00:33:19
+jowelqm,348,tutor,"10 altogether. Once again, we have 10 parts, alright? So the denominator should be?",00:33:22
+jowelqm,349,student,10.,00:33:29
+jowelqm,350,tutor,"Because we have 10 equal parts. And how many parts are here when we come to here? [unclear] Is it 1? We have to start counting from here, Tobias, like 1, 2—",00:33:30
+jowelqm,351,student,10.,00:33:40
+jowelqm,352,tutor,"Not 10. So let's count. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:33:41
+jowelqm,353,student,[unclear],00:33:46
+jowelqm,354,background,"3, 4, 5, 6, 7, 8, 9, 10 parts.",00:33:46
+jowelqm,355,tutor,9. So how many parts are shaded? Very well done. We have 9 parts. So how many tenths do we have now?,00:33:52
+jowelqm,356,student,100.,00:34:03
+jowelqm,357,tutor,"All right. So good looking out once again, Tobias. So can you tell me, In this number line, what is the value of this one part, one small line?",00:34:09
+jowelqm,358,student,[unclear],00:34:19
+jowelqm,359,tutor,"The value of that one small line is one, one-tenth, right? Here we have one, because when we come to here, it's nine-tenths, okay? So which means one-tenth. 2 tenths, 3 tenths, 4 tenths, 5 tenths, 6 tenths, 7 tenths, 8 tenths, 9 tenths, and 1 whole. You know, 10 tenths are equal to 1 whole. All right, so once again, you did an amazing job throughout the slide, Tobias. Let's go to the next slide. [unclear] [unclear]",00:34:22
+jowelqm,360,tutor,Okay. Yeah. Can you read this?,00:35:05
+jowelqm,361,student,One whole over ten.,00:35:15
+jowelqm,362,tutor,We can show the tenth using decimals.,00:35:17
+jowelqm,363,student,Decimals. Okay. How can we write one tenth in the place value chart? Where do we have to write one tenth? Is it in the— what is this place? [unclear],00:35:20
+jowelqm,364,tutor,1.,00:35:33
+jowelqm,365,student,1.,00:35:33
+jowelqm,366,tutor,This place is ones. And what is this place?,00:35:34
+jowelqm,367,student,Tens.,00:35:36
+jowelqm,368,tutor,Tens. And what is this place?,00:35:37
+jowelqm,369,student,Thousands.,00:35:39
+jowelqm,370,tutor,Is it thousands?,00:35:41
+jowelqm,371,student,Hundreds.,00:35:43
+jowelqm,372,tutor,"Hundreds. Very well done. So if it is 1/10, where do we have to write 1?",00:35:44
+jowelqm,373,student,In the tens.,00:35:51
+jowelqm,374,tutor,"Tens place. All right, amazing. Now how can we write this number as a decimal? [unclear]",00:35:52
+jowelqm,375,tutor,0.1.,00:35:59
+jowelqm,376,student,"0.1. Amazing. So the meaning is we have one-tenth. You know, this is the one-tenth place. This is the ones place. We don't have any one, but we have one-tenth, right? So let's go to the next part. So this is the same.",00:36:00
+jowelqm,377,tutor,Yes.,00:36:15
+jowelqm,378,student,"Here, how many parts are shaded? How many tenths are shaded?",00:36:16
+jowelqm,379,background,"Um, one.",00:36:19
+jowelqm,380,tutor,"Okay, one-tenth. We can write it as a fraction like this. We can write it as a decimal, 0.1, because we only have one tenth, right?",00:36:20
+jowelqm,381,student,Yes.,00:36:29
+jowelqm,382,tutor,"Okay, now let's go to Part C. Okay, can you read the question? [unclear]",00:36:30
+jowelqm,383,student,What would the one tenth be meter worth?,00:36:37
+jowelqm,384,tutor,"Okay, what would the one tenth of a meter be worth?",00:36:44
+jowelqm,385,tutor,How can you mark one-tenth? [unclear],00:36:49
+jowelqm,386,student,One-tenth of a meter would be 1.10 meters.,00:36:55
+jowelqm,387,tutor,"All right, anyways, awesome effort for the question, Tobias. All right, so can you tell me once again, when we have to write a number as decimal, first what do we have to do?",00:37:03
+jowelqm,388,student,We have to round the number.,00:37:16
+jowelqm,389,tutor,"First we have to write it as a fraction out of 10. All right, first we have to look at how many equal parts are there and how many parts do we have, right? [unclear] Then we have to count on how many tenths do we have. All right, so anyways, you did an amazing job today, Tobias. But since we don't have much time today, we have to wind up the session. So let's meet on next",00:37:19
+jowelqm,390,tutor,Goodbye.,00:37:43
+jowelqm,391,student,Goodbye. [unclear],00:37:44

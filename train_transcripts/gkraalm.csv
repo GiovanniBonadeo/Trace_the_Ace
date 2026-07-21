@@ -1,0 +1,256 @@
+session_id,utterance_id,role,content,timestamp
+gkraalm,0,tutor,Hello?,00:00:00
+gkraalm,1,background,[unclear],00:00:00
+gkraalm,2,student,"Hi, Ayan.",00:00:01
+gkraalm,3,tutor,Hi. Can you hear me?,00:00:03
+gkraalm,4,student,Yes.,00:00:05
+gkraalm,5,tutor,How are things today?,00:00:07
+gkraalm,6,student,Good.,00:00:10
+gkraalm,7,tutor,Great. How was your weekend then? Good.,00:00:12
+gkraalm,8,tutor,"Glad to hear that. So yes, is there anything you would like to tell me?",00:00:19
+gkraalm,9,student,No.,00:00:24
+gkraalm,10,tutor,"All right, so let me introduce myself. My name is Maryam and I will be your tutor for this term. Okay?",00:00:27
+gkraalm,11,student,Okay.,00:00:37
+gkraalm,12,tutor,"Yes, I am. So are you excited to start the session for today?",00:00:39
+gkraalm,13,student,Yes.,00:00:43
+gkraalm,14,tutor,"Okay, then let's get started. So today you will learn about solving real-life problems with remainders. So we will be continuing from this session. Okay. So if you can recall, Julian, can you tell me what do you remember from what you did last week on this session? Last week we did [UNCLEAR]. I think last week we did remainders.",00:00:44
+gkraalm,15,tutor,Mm-hmm. Yes. So what do you remember from what you did from this lesson last week?,00:01:19
+gkraalm,16,student,We didn't do this lesson last week.,00:01:26
+gkraalm,17,tutor,Are you sure you were not able to do this lesson last week?,00:01:31
+gkraalm,18,student,"Oh no, we did it, we did it, we did it.",00:01:38
+gkraalm,19,tutor,"Yes, you did this lesson and yeah, you were able to work out the questions on the YouDo side and you were able to identify [unclear] and you were able to interpret it correctly according to the given question. So yes, and well done, and let's move on to our Go Further. Okay, so can you give it a try on this question? [unclear]",00:01:41
+gkraalm,20,tutor,Can you read?,00:02:07
+gkraalm,21,student,"Of a 2-digit number, when it is divided by 5, the remainder is 2. When it is divided by 8, the remainder is 1.",00:02:10
+gkraalm,22,tutor,"Nice reading, Ayaan. So what does the question ask us to find?",00:02:23
+gkraalm,23,tutor,"Very good, that's right. The number that Tara could be thinking of. So yes, how can we solve this problem?",00:02:29
+gkraalm,24,student,Is it 8?,00:02:40
+gkraalm,25,tutor,Can it be 8? So can you tell me why do you think it can be 8?,00:02:43
+gkraalm,26,student,"Because [UNCLEAR]. No, I don't think it's 8. No.",00:02:48
+gkraalm,27,tutor,So what are the given clues of Tara?,00:02:52
+gkraalm,28,student,She divided by number.,00:02:56
+gkraalm,29,tutor,Mm-hmm. So what's the clue?,00:02:59
+gkraalm,30,student,She divided the number.,00:03:05
+gkraalm,31,tutor,"Yes, [UNCLEAR]. So actually Tara has given two clues. When it's divided by 5, the remainder is 2. So this means if you count in multiples of 5,",00:03:09
+gkraalm,32,tutor,"Her number is 2 more than one of those. And her second clue is, when it is divided by 8, the remainder is 1. So this means if you count in multiples of 8, her number is 1 more than one of those. So these are 2 [unclear] that Tara has given to find the number she is thinking of. So how can we find the number she is thinking of?",00:03:21
+gkraalm,33,student,"When it is divided by 5, the remainder is 2. If the remainder is 2, then the number is not inside the 5 times table.",00:03:48
+gkraalm,34,tutor,Mm-hmm. So what must the 2-digit number end in?,00:04:04
+gkraalm,35,tutor,"When we consider the two clues. [unclear] So how can we solve this question systematically, Julian?",00:04:14
+gkraalm,36,student,Add the remainders.,00:04:39
+gkraalm,37,student,"Mm-hmm, that was a very good effort in trying to explain. So I really like the way how you tried working this question out, [UNCLEAR]. So yes, here we can consider Tutor's two clues. So first, let's consider the first clue. So it says that when it's divided by 5, the remainder is 2. So what does that mean?",00:04:41
+gkraalm,38,tutor,The number is 3. So is 3 a multiple of 5?,00:05:09
+gkraalm,39,student,No.,00:05:17
+gkraalm,40,tutor,"So if we divide the number 3 by 5, will it leave the remainder of 2?",00:05:19
+gkraalm,41,student,"Uh, no.",00:05:26
+gkraalm,42,tutor,"That's right, Julian. So this means if you count in multiples of 5, how",00:05:29
+gkraalm,43,tutor,"So her number is 2 more than one of those. So for that, first we can list down the multiples of 5. So can you list down the multiples of 5, Julian?",00:05:34
+gkraalm,44,student,"Okay. [unclear] So you can We can write it at the bottom. You can press Enter and write it down, the multiples, like this. 5, 10, 15, and what's 5 times 4?",00:05:49
+gkraalm,45,student,[unclear],00:06:14
+gkraalm,46,tutor,Very good. And then?,00:06:15
+gkraalm,47,student,"Um, 25.",00:06:20
+gkraalm,48,tutor,"Very good, Diane. 25. I think we can— yes. That's right. So I think we can list down the first few multiples. So here, Tara says when it's divided by 5, the remainder is 2. So what can we do to the multiples of 5?",00:06:24
+gkraalm,49,tutor,Break them down. [unclear] Can you tell me why do you think that we have to break this down?,00:06:43
+gkraalm,50,student,So we can find the answer.,00:06:51
+gkraalm,51,tutor,"That was a very good effort in trying. So this means, so if we count in multiples of 5— 5, 10, 15, 20, and 25— it does have a rem— her number, Tara's number, it does have a remainder of 2. So we can add 2 to the multiples of 5 and check the numbers. So So can you add 2 to these numbers and list it down here?",00:06:56
+gkraalm,52,student,"5 2 7. 10 2 12. 15 2 17. 20 2 22. 25 2 27. Excellent, and that was pretty fast on working it out",00:07:29
+gkraalm,53,tutor,mentally. So we are done with the first clue. So let's move on to Tara's second clue. So what does the second clue say to us here?,00:07:47
+gkraalm,54,tutor,"The second clue is that she divided it by 8, the remainder is 1.",00:07:58
+gkraalm,55,student,Excellent. So what does that mean?,00:08:07
+gkraalm,56,tutor,"That we should write down the multiples of 8. Very good. This means if you count in multiples of 8, her number is one more than one of those. So first, what can we do? We can list down the multiples of what?",00:08:09
+gkraalm,57,student,Julian]...8.,00:08:09
+gkraalm,58,tutor,Very good. So can you do that for me?,00:08:30
+gkraalm,59,student,"8, 16, 24, 32, 40, 48. Very good. 8, 16, and 24. And what's, um, 8 times 4? [unclear]",00:08:33
+gkraalm,60,student,8 times 4 is 28.,00:08:50
+gkraalm,61,tutor,Are you sure? So 8 times 3 is 24. What happens if you add 8?,00:08:57
+gkraalm,62,student,It's 32.,00:09:03
+gkraalm,63,tutor,"Very good, Diane. So 32, and then 8 times 5 is 40. Now what can we do next according to [UNCLEAR]?",00:09:04
+gkraalm,64,student,Add them up.,00:09:14
+gkraalm,65,tutor,So how many do we have to add for the multiples of 8?,00:09:18
+gkraalm,66,student,1.,00:09:22
+gkraalm,67,tutor,"Excellent, Julian! Great job, you have got the concept. So yes, we have to add 1. So what's 8 add 1?",00:09:23
+gkraalm,68,student,"A third one is 9. 16 add 1 equals 17. 24 add 1, uh, 24 add 1 equals 25. 32 add 1 equals 33. 40 add 1 equals 41.",00:09:33
+gkraalm,69,tutor,"Very good, Aayaan. Now if you take a look at these two, uh, lists, can you tell me what number What number is common in both the lists?",00:09:57
+gkraalm,70,tutor,17. Very good. Can 17 be the number Tutor is thinking of? What do you think?,00:10:07
+gkraalm,71,tutor,Yes. Why is it?,00:10:15
+gkraalm,72,student,"Because they're both in the same one, and if you do them, they have remainder 2. They have remainder 1 or remainder 2.",00:10:18
+gkraalm,73,tutor,"Yes, Julian, that was a very thoughtful explanation. He was sicker. So how can we double-check our answer according to this question?",00:10:30
+gkraalm,74,student,Double-check by... [unclear] I don't know.,00:10:40
+gkraalm,75,tutor,"That's alright, Julian. So we can double-check it by working out Tara's clue because she says it's",00:10:50
+gkraalm,76,tutor,"Says it when it is divided by 5, it leaves a remainder of 2. So we can take 17 and divide by 5 and check if it does leave a remainder of 2. So does it leave a remainder of 2?",00:11:00
+gkraalm,77,student,Yes.,00:11:13
+gkraalm,78,tutor,So what's 17 divided by 5?,00:11:16
+gkraalm,79,student,"Uh, uh, equals 17 divided by 5. [unclear]",00:11:19
+gkraalm,80,tutor,Mm-hmm.,00:11:26
+gkraalm,81,student,It would equal 3 remainder 2.,00:11:31
+gkraalm,82,tutor,"Excellent, and very good. 3 remainder 2. So it does match as Tara's first clue. So we can take the same number 17 and we can divide it by 8 and see if it does leave a remainder of 1. So what's 17 divided by 8, Julian?",00:11:37
+gkraalm,83,background,17 divided by 8.,00:11:54
+gkraalm,84,tutor,Mm-hmm.,00:11:58
+gkraalm,85,background,2 remainder 1.,00:12:02
+gkraalm,86,tutor,Excellent. So what do you think? Have we found the number Tutor is thinking of?,00:12:05
+gkraalm,87,background,Yes.,00:12:10
+gkraalm,88,tutor,"Yes, Julian, that's right. So what do you think of this question? So can you summarize the steps in finding Tara's number?",00:12:12
+gkraalm,89,tutor,"Um, okay. So first we wrote down the 5 times table, and then we added 2 on each number. 5 2 7. And then we wrote down 8, the multiples, and then we added 1, and then we found the So why [UNCLEAR].",00:12:22
+gkraalm,90,student,did we add 1 to the multiples of 8?,00:12:41
+gkraalm,91,student,"And then we added them with 1, and then we found a common multiple in each one.",00:12:46
+gkraalm,92,tutor,"Common number in each of the lists. So, yes, Ayan, I have— that was a very thoughtful explanation. Go, [UNCLEAR]. So yes, Ayan, can you try explaining why did we add a 1 to the multiples of 8? To find terrace number?",00:12:57
+gkraalm,93,student,Because to see if there was remainder.,00:13:13
+gkraalm,94,tutor,"Very good, because in the question it mentions for the multiple when it's divided by 8, it has a remainder of 1. That's why we list down the multiples of 8 and added 1. Excellent observation, Julian. Very good. So we have come to the end of this lesson. Can you tell me 2 things that you learned from this lesson?",00:13:18
+gkraalm,95,student,Two things I learned from this lesson is how to find the number of someone thinking of. [unclear],00:13:45
+gkraalm,96,tutor,"So what did you learn from this type of question, Julian?",00:13:59
+gkraalm,97,student,How to How to tell the number. [unclear],00:14:03
+gkraalm,98,tutor,"That's right. So if you get a question like this, you also learn that how to approach these types of question and how to work it out. So yes, Julian, can you tell me two things that you did well on this lesson?",00:14:09
+gkraalm,99,student,Finding the number.,00:14:24
+gkraalm,100,tutor,"That's right. And what skills did you use in this lesson, Julian? down [UNCLEAR]...write multiples and adding. Yes,",00:14:27
+gkraalm,101,tutor,"that's right. Timesing skills and your addition and dividing skills. So very good, Julian Julian. And here you go, a sticker for your wonderful observation. So let's move on to our other lesson for today. Okay? Okay.",00:14:41
+gkraalm,102,tutor,So our next lesson for today is rounding decimals to the nearest whole number. So what is the whole number?,00:15:00
+gkraalm,103,student,A number by itself and it's bigger than the number. It's the biggest number.,00:15:11
+gkraalm,104,tutor,"So can you give me an example for a whole number? Example, there's",00:15:23
+gkraalm,105,background,"1/2, 2/2, 3/2, 4/2, 5/2, 6/2, 7/2, 8/2, 9/2. When you reach to 10/2, then that's going to be a whole. [unclear]",00:15:31
+gkraalm,106,tutor,"That was a very good effort in trying to explain, Julian. So a whole number is something that is complete. So a decimal point separates a whole number from the fractional part of the number. So for example, whole numbers are 1, 2, 3, 4, so it goes on. So whole numbers are numbers that are complete. Okay? So very good, Julian Julian. Very good effort in trying to explain that. Can you give a try on the question which is under the learning guide?",00:15:45
+gkraalm,107,student,[unclear] Round 5.6 to the nearest whole number. [unclear],00:16:18
+gkraalm,108,tutor,Mm-hmm.,00:16:22
+gkraalm,109,student,10.,00:16:24
+gkraalm,110,tutor,Mm-hmm. So can you try to explain why did you round it to 10?,00:16:25
+gkraalm,111,student,"Because— no, I mean one.",00:16:35
+gkraalm,112,tutor,"Mm-hmm. Yes, Sam, can you try to explain? Can you try explaining why did you round it to 1?",00:16:39
+gkraalm,113,student,Because it's closer.,00:16:47
+gkraalm,114,tutor,That was a very good effort in trying to explain. And so what does rounding numbers mean? [unclear] Can you hear me?,00:16:56
+gkraalm,115,student,Yeah.,00:17:07
+gkraalm,116,tutor,"Yes, I am. What does rounding numbers mean?",00:17:08
+gkraalm,117,student,Rounding means make it to the closest number.,00:17:13
+gkraalm,118,tutor,"Very good, that was a nice way of explaining rounding. So what is the important rule we have to remember when rounding, Ayan?",00:17:18
+gkraalm,119,student,"If it's over 5, then you [UNCLEAR]. If it's over 5, you",00:17:27
+gkraalm,120,student,"You, you, you, you, you, if it's over 5, you, um, you round it up, and if it's below 5, then you round it down. But if it's 5, you round it up.",00:17:35
+gkraalm,121,tutor,"Amazing, Ayan! Very good! You go sticker for that explanation. Well done! So here they're asking to round 5.6 to the nearest whole numbers.",00:17:50
+gkraalm,122,tutor,"So that was a very good effort in trying the question. So we have to roll it to the nearest whole number. So we know that 5.6 is the decimal number and it lies between the whole numbers of 5 and 6. And we know that 5.6, it is— 6 is closer to. So when we have 6, we round it up. So we round it up to 7. 6. Okay, so that was a very good effort, Ayan. It's okay, you will be learning more of this on this lesson. Can you give a try on this question, Ayan, which is under the prior learning slide?",00:18:01
+gkraalm,123,student,Ben uses a line that is between 2 and 3 centimeters. What could the length be of the line?,00:18:42
+gkraalm,124,tutor,So Ben measures a line that is between 2 centimeters and 3 centimeters. So what could the length of the line be?,00:18:52
+gkraalm,125,student,[unclear] 2.5.,00:19:02
+gkraalm,126,tutor,"Amazing, Julian! So yes, can you try explaining why did you select that length? 2.5, because it's the half of the number and it's between, so it would be 2.5.",00:19:17
+gkraalm,127,tutor,"That's right, Julian. So it says that Ben measures a line and it is between 2 centimeters and 3 centimeters, so it could be any value between 2 centimeters and 3 centimeters. So is there anything missing in your answer?",00:19:35
+gkraalm,128,student,Now?,00:19:53
+gkraalm,129,tutor,"Mm-hmm. So whenever the question is involved with the units, we have to include it in our answer. So that would be 2.5 centimeters. Okay? So very good effort in trying the question on your own. Go, Astika! Well done! Let's move on to our Let's Learn slide. So can you read this for me, Julian?",00:19:55
+gkraalm,130,student,"When rounding decimals, a decimal number to the nearest whole number, we need to know what whole number it lies [UNCLEAR].",00:20:18
+gkraalm,131,tutor,"Nice reading. So yes, I am. We are going to use a number line to help us round numbers by looking at two whole numbers The decimal lies between. So can you get around the first question, Julian? What two whole numbers does 12.3 lie between?",00:20:30
+gkraalm,132,background,It lies between... [unclear],00:20:54
+gkraalm,133,tutor,12.3 and what other number?,00:20:58
+gkraalm,134,background,12.3 is between 11 and 12.,00:21:04
+gkraalm,135,student,So it would be more closer to 11.,00:21:10
+gkraalm,136,tutor,"That was a very good effort there, Ayan. So 12.5, does it lies between the two whole numbers of 11 and 12?",00:21:18
+gkraalm,137,student,"Sorry, what?",00:21:30
+gkraalm,138,tutor,"So 12.3, does it Lies between the whole numbers of 11 and 12. Are you sure?",00:21:32
+gkraalm,139,student,I think it's more closer to 11.,00:21:40
+gkraalm,140,tutor,So is 12.3 more than 12 or less than 12?,00:21:45
+gkraalm,141,student,"More than 12. [unclear] Oh no, never mind. It would be closer to 12. [unclear]",00:21:50
+gkraalm,142,tutor,"Mm-hmm. So, yes, Sayan. So you are saying that it would be more closer to 12. That means what two whole numbers does 12.3 lie between?",00:22:02
+gkraalm,143,student,It lies between 12 and 12.4.,00:22:13
+gkraalm,144,tutor,Is 12.4 a whole number?,00:22:20
+gkraalm,145,student,It lies between 12 and 13.,00:22:23
+gkraalm,146,tutor,"There you go, brilliant, Anne! Good job with working that out all by yourself. You get a sticker. That's right, it lies between 12 and 13, so the whole numbers. So can you give a try on this question? Can you tell me 12.3 rounded to the nearest whole number is? Is it 12 or 13?",00:22:26
+gkraalm,147,student,[unclear],00:22:49
+gkraalm,148,background,Pardon?,00:22:55
+gkraalm,149,student,It's 12.,00:22:56
+gkraalm,150,tutor,"Very good, Julian. So can you try explaining why it is 12?",00:22:59
+gkraalm,151,background,"Because it is 12 because if it's below 5, then you round down.",00:23:03
+gkraalm,152,tutor,"Excellent. That was a very nice point. Can you write it for me here, Julian? That 12.3 rounded to what number?",00:23:16
+gkraalm,153,student,So it's 12.,00:23:24
+gkraalm,154,tutor,"Mm-hmm. Can you write it for me here? [unclear] Very good, Julian. So good job with rounding. 12.3 to the nearest whole number, and he got it. So well done, and let's move on to the B part of the question. Hello, can you hear me?",00:23:29
+gkraalm,155,student,Hello?,00:24:01
+gkraalm,156,tutor,"Hello, can you hear me?",00:24:02
+gkraalm,157,student,Yes.,00:24:05
+gkraalm,158,tutor,"Um, yes, Julian, so were you not able to hear me a while ago?",00:24:07
+gkraalm,159,student,"Yes, I can hear you now.",00:24:12
+gkraalm,160,tutor,"Okay, I'm sorry about that, and if you're not able to hear me, let me know. So let's move on to our B part of the question. So can you give a try on this question, Ayan? So it's closer to 6. What does— Wow, that was pretty fast on estimating, I mean rounding. So can you try explaining why do you say that it is closer to 6?",00:24:15
+gkraalm,161,student,"Because if it's over 5, you round up.",00:24:43
+gkraalm,162,tutor,"Mm-hmm. Yes, I am. That's right. So how can we explain it using a number line?",00:24:49
+gkraalm,163,student,"Um, that 5 would be here. [unclear] Very good, Diane.",00:24:59
+gkraalm,164,student,6 would be here.,00:25:12
+gkraalm,165,tutor,Mm-hmm. [unclear],00:25:14
+gkraalm,166,student,But 7 would be here.,00:25:16
+gkraalm,167,tutor,Is it 7 or 5.7?,00:25:31
+gkraalm,168,student,5.7 would be here.,00:25:34
+gkraalm,169,tutor,Mm-hmm.,00:25:36
+gkraalm,170,student,"But this rest is— this is far more far away. But when it's next to the 6, there's only 1, 2, 3 gap. There's only a little gap. In between.",00:25:39
+gkraalm,171,tutor,"Wow, Julian, I really appreciate you for trying so hard to explain it to me using the number line. And well done, Julian, I really like the way how you estimated 5.7. So that's right, 5.7 lies between the two whole numbers of 5 and 6. So if we estimate it on the number line, it would be here. And it is more close to 6 because it's more than the halfway point. So 5.7 rounded to the nearest whole number would be 6. Very good, Julian Julian. Can you write it for me? [unclear]",00:26:05
+gkraalm,172,tutor,Okay. I'm really proud of you for working so hard here.,00:26:41
+gkraalm,173,tutor,"Well done, Julian Julian. So can you tell me one thing that you learned from this slide?",00:26:54
+gkraalm,174,student,One thing I learned from this slide was that basically— one thing I learned about— I already knew this slide. We learned it in school.,00:27:03
+gkraalm,175,tutor,"That's great, Julian Julian. And— [unclear]",00:27:19
+gkraalm,176,tutor,Thank you for sharing that. So I really like the way how you rounded the decimal number to the nearest whole number there. So well done. Let's move on to the Follow Me and Your Turn slide. Okay?,00:27:23
+gkraalm,177,student,Okay. [unclear],00:27:36
+gkraalm,178,tutor,"So first I will give a try on the Follow Me question and then you will get a chance to give a try on the Your Turn part. So shall I give a start on my question, Julian?",00:27:44
+gkraalm,179,student,[unclear] Yeah.,00:27:54
+gkraalm,180,tutor,"So here we can do a role reversal. So when I'm working out the follow-me style, you can be my tutor and I will be your student, and you can see if I'm doing it correctly. Okay?",00:27:56
+gkraalm,181,student,Okay.,00:28:09
+gkraalm,182,tutor,"Yes, Julian. So I'll get started. When rounding numbers, it is helpful to think about the halfway point. So what is the halfway point, [UNCLEAR]?",00:28:11
+gkraalm,183,student,"Sorry, what? A halfway point is when it's halfway in between the numbers.",00:28:22
+gkraalm,184,tutor,"That's a very nice way of explaining it, Julian. So the halfway point between 0 and 1 is 0.5, which is marked on the number line here.",00:28:32
+gkraalm,185,tutor,"So if the tens digit is more than 5 or exactly 5, we round up to the nearest whole number. If the tens digit is less than 5, we round down to the nearest whole number. So here, I think that— so they're trying to explain is that whenever we round to the nearest whole number, we have to look at the tens column. So 0.7 rounded to the nearest whole number is— so I know that 7 is more than 5, so we round it up. And also, if we take a look at the number line, 0.7 would be marked here and is more close to 1 than 0, so it would be rounded up to 1.",00:28:46
+gkraalm,186,student,[unclear],00:29:37
+gkraalm,187,tutor,"Now let me give a try on the B part of the question. 0.3 rounded to the nearest whole number is... So whenever we round to the nearest whole number, we look at the tenths column, and also in the number line, it would be here. So it is rounded down to 0. Very good, Julian Julian! Thank you for helping me out. And yes, let's move on to our Your Turn slide. Can you give a try on the questions?",00:29:38
+gkraalm,188,student,[unclear],00:30:08
+gkraalm,189,tutor,"Wow, that was pretty fast on rounding the numbers. 6.3 to the nearest whole number. And can you try explaining why did you round it down to 6?",00:30:17
+gkraalm,190,student,"Because if it's over 5, then you have— if it's over 5,",00:30:28
+gkraalm,191,student,"Then what if it's over 5, then you round up, but if it's lower than 5, then you have to round down.",00:30:34
+gkraalm,192,tutor,"Excellent explanation, Julian. So yes, when rounding 6.3 to the nearest whole number, which column did you look at? Which place value?",00:30:47
+gkraalm,193,student,You look... [unclear],00:30:59
+gkraalm,194,student,So I looked at the [unclear] column.,00:30:59
+gkraalm,195,tutor,"Excellent, very good. Well done, Julian. I am really proud of you for working this question independently. And here you go, a sticker. Well done, Julian, for your wonderful working there. So let's move on to our You Do slide. And which question would you like to try first?",00:31:10
+gkraalm,196,student,They're all easy. [unclear],00:31:32
+gkraalm,197,tutor,"Okay, so can you read the question for me?",00:31:38
+gkraalm,198,student,"Look at the value of the tens, tens, or use the number line to round each number to the [unclear]",00:31:41
+gkraalm,199,tutor,"Wow, very good, Diane.",00:31:51
+gkraalm,200,student,Julian]... [unclear],00:31:51
+gkraalm,201,tutor,Excellent.,00:32:08
+gkraalm,202,tutor,"Wow, really proud of you for working all the questions independently. So great job! I can see that you have understood the concept really well. So [UNCLEAR]. So can you try explaining why did you round 20.5 to 21?",00:32:18
+gkraalm,203,student,"Because 20.5, because 5 is bigger.",00:32:36
+gkraalm,204,tutor,"Mm-hmm, because when we round numbers to the nearest whole number, we always look at the tens column. So 5 is midway, it always rounds up. Very good, Julian Julian. And can you tell me, why did you round this down to 0?",00:32:44
+gkraalm,205,student,Because 0.3 is more closer to 0.,00:33:03
+gkraalm,206,tutor,"Wow, that was a very thoughtful explanation, Julian. Once again, here goes a sticker. I really appreciate you once again for explaining your answers. Let's move on to our Go Further slide. So can you give a try on this question?",00:33:09
+gkraalm,207,student,Hera is measuring the length of her bracelet. She has rounded it to the nearest centimeter. The rounded length is 10. What would the exact length of her bracelet be? Give 2 possibilities.,00:33:27
+gkraalm,208,tutor,"Good job with reading the question carefully, Julian. So, can you— [unclear] Done. [unclear]",00:33:44
+gkraalm,209,tutor,Excellent. So can you try explaining why do you think the possibilities would be 9.5 and 9.6?,00:34:04
+gkraalm,210,student,"Because you rounded it to 10, and if it's 5, you can round up.",00:34:11
+gkraalm,211,tutor,"Very good. Wow, Julian, I really like the way how you noticed the keywords of this question, and Identified Tara's answer, and well done once again. So he goes sticker once again, and we have come to the end of this lesson. [unclear] So can you tell me two things that you did well on this lesson?",00:34:19
+gkraalm,212,student,Rounding.,00:34:46
+gkraalm,213,tutor,Mm-hmm. And which part of this lesson did you find,00:34:49
+gkraalm,214,tutor,"Hello, can you hear me, Anna?",00:34:55
+gkraalm,215,student,Can you repeat what you just said?,00:34:57
+gkraalm,216,tutor,"Yes, I can. So which part of this lesson do you feel you did really well on?",00:35:00
+gkraalm,217,student,Rounding.,00:35:06
+gkraalm,218,tutor,"Mm-hmm, that's right. And you did well on this question in finding Tara's number, and you were able to solve a problem involving rounding. To the nearest whole number. So well done, Julian. And which part of the lesson did you find the easiest?",00:35:08
+gkraalm,219,student,Pretty much everything. [unclear],00:35:28
+gkraalm,220,tutor,"Mm-hmm. So what made the learning easier today, Julian?",00:35:30
+gkraalm,221,student,Because I already learned it.,00:35:37
+gkraalm,222,tutor,"Mm-hmm. And also it was easier for you when you think of it as a number line. When you first identified the two whole numbers, the decimal number lies between. So it made for us easier to find the answers. So yes, I am. Thank you for sharing that, and very nice explanation. Let's move on to our other lesson for today. Okay? [unclear]",00:35:38
+gkraalm,223,student,Okay.,00:36:10
+gkraalm,224,tutor,So our next lesson is understanding fractions greater than 1. So can you give a try under the question which is under the learning card? [unclear],00:36:16
+gkraalm,225,student,Write 1 whole and 3/5 as an improper fraction. Improper fraction? [unclear],00:36:33
+gkraalm,226,tutor,"Yes, Julian. So can you try explaining how did you convert 1 whole and 3/5 into an improper fraction and how did you get it as 13/5?",00:36:50
+gkraalm,227,student,"So 1 whole Example, 10 pears is 1 whole, and then there's the 3 remainder. Add them together, 13 pears.",00:37:03
+gkraalm,228,tutor,"That was a very good effort in trying the question, so here goes sticker, Julian Julian. So here, can you give it a try on the question which is under the [unclear] learning?",00:37:16
+gkraalm,229,student,There's 18 cupcakes.,00:37:31
+gkraalm,230,tutor,Pardon?,00:37:37
+gkraalm,231,student,And there's 18 cupcakes.,00:37:40
+gkraalm,232,tutor,"So here, what does the question ask us to do?",00:37:44
+gkraalm,233,student,"How many cupcakes are there in [unclear] in multiples? 6, 6, 12, 18. 18 cupcakes.",00:37:48
+gkraalm,234,tutor,"Very good, that's right, 18 cupcakes. And I really like the way how you worked that out mentally. So here goes a sticker. And very good effort, Julian Julian, and well done on working that question. Let's move on to our Let's Learn slide. So can you read this for me?",00:37:58
+gkraalm,235,student,Fractions can be greater than 1 when the numerator is [unclear] greater or equal to the denominator. What is a multiple of the denominator that makes a whole number?,00:38:18
+gkraalm,236,tutor,"Mm-hmm. So denominator, and is a multiple of the denominator, it makes the whole number. So we are going to be looking at fractions that are bigger than 1, and that we know if a fraction is equal equal to or greater than one. Hello, can you hear me, Julian? [unclear] Hello?",00:38:32
+gkraalm,237,student,"Yes, I can hear you.",00:39:00
+gkraalm,238,tutor,"Yes, Julian. So we have come to the end of our session for today, and we can give a try on this lesson on our next session. Okay, so before you go, can you tell me How do you feel about our session today?",00:39:03
+gkraalm,239,student,Good.,00:39:18
+gkraalm,240,tutor,"Thank you for sharing that. And how will you use the things that— Hello? Can you hear me, Julian?",00:39:21
+gkraalm,241,student,Yes.,00:39:32
+gkraalm,242,tutor,Is it lagging when I'm speaking? Hello? [unclear],00:39:34
+gkraalm,243,tutor,Hello?,00:39:42
+gkraalm,244,student,"Yes, I am. So, mm-hmm.",00:39:44
+gkraalm,245,tutor,Hello?,00:39:50
+gkraalm,246,student,Hello?,00:39:51
+gkraalm,247,tutor,Hello?,00:39:54
+gkraalm,248,student,"So, yes, I am. Hello, can you hear me?",00:39:54
+gkraalm,249,tutor,Yes.,00:39:58
+gkraalm,250,student,"Okay, that's great. And yeah, thank you for joining the session. And have a nice day. See you next week, Julian. Bye.",00:40:00
+gkraalm,251,tutor,Bye.,00:40:11
+gkraalm,252,student,Bye.,00:40:12
+gkraalm,253,tutor,"Bye, Julian.",00:40:13
+gkraalm,254,student,Bye.,00:40:15

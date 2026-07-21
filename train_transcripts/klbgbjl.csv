@@ -1,0 +1,306 @@
+session_id,utterance_id,role,content,timestamp
+klbgbjl,0,background,[unclear],00:00:00
+klbgbjl,1,tutor,Can you use the text tool to write your name here?,00:00:00
+klbgbjl,2,background,Hello.,00:00:10
+klbgbjl,3,tutor,Hello.,00:00:11
+klbgbjl,4,background,Hello.,00:00:13
+klbgbjl,5,tutor,"Hi, [STUDENT_NAME]. How are you?",00:00:13
+klbgbjl,6,student,Hi.,00:00:15
+klbgbjl,7,tutor,Good?,00:00:15
+klbgbjl,8,student,Good.,00:00:16
+klbgbjl,9,tutor,"[STUDENT_NAME], I'm Shalumi, and I'll be your tutor for this term. I believe this is a session [UNCLEAR], isn't it?",00:00:17
+klbgbjl,10,student,Yeah.,00:00:17
+klbgbjl,11,tutor,"Okay. So let me just introduce the platform to you and explain how it works. Now, we will be having sessions every week on this at this time, and we will work on certain lessons such as the ones you will see moving along. And in order to work them out, [STUDENT_NAME], there are a couple of tools at the bottom of your screen. Do you see something that says text among them?",00:00:31
+klbgbjl,12,student,[unclear],00:00:56
+klbgbjl,13,tutor,"There's a key, and it says text. [unclear] Yeah.",00:01:02
+klbgbjl,14,tutor,"Yes. Could you click on that, then click over here, and use your keyboard to type name. There we go. Now moving along, [STUDENT_NAME], you can use this tool in order to write down your answers, and we can get familiar with the rest of the tools along the way. All right?",00:01:08
+klbgbjl,15,student,"Yeah. Okay. Now these are just a couple of things or other expectations that we're going to set as we start this journey, [STUDENT_NAME].",00:01:30
+klbgbjl,16,student,Yeah.,00:01:38
+klbgbjl,17,tutor,"One is to [unclear] on time, just like you did today. So your session starts at 11:30, right? And that's when you will be logged in for session. Then the next point, what does that say?",00:01:39
+klbgbjl,18,student,Try your best.,00:01:56
+klbgbjl,19,tutor,Try your best. And what does that mean to you? What does trying your best mean?,00:01:58
+klbgbjl,20,student,That you try as hard as you can.,00:02:03
+klbgbjl,21,tutor,Yes. Does it mean getting all the questions correct?,00:02:06
+klbgbjl,22,student,"Well, if you try your best, it doesn't matter if you get like some of the questions right. It's just trying your best.",00:02:11
+klbgbjl,23,tutor,"Yes, that's exactly right. It doesn't matter if you make a mistake, but we do want you to try out the question first on your own. Before we get some help. Okay?",00:02:20
+klbgbjl,24,student,Yeah.,00:02:30
+klbgbjl,25,tutor,"And finally, you'll get a quiz at the end of each session, [STUDENT_NAME], depending on whether we complete the lesson. If we do complete the lesson, you will get the quiz on that particular lesson.",00:02:32
+klbgbjl,26,student,[unclear],00:02:42
+klbgbjl,27,tutor,Alright. Do you have any questions before we begin?,00:02:44
+klbgbjl,28,student,No.,00:02:48
+klbgbjl,29,tutor,"No. Okay. So let's see what our first lesson is. We'll be ordering numbers up to 1 million, [STUDENT_NAME].",00:02:49
+klbgbjl,30,student,[unclear],00:02:58
+klbgbjl,31,tutor,"And you have a couple of numbers listed down on this side, on the left-hand side. What does it ask you to do?",00:02:58
+klbgbjl,32,student,Write these numbers in ascending order.,00:03:07
+klbgbjl,33,tutor,What is ascending order?,00:03:10
+klbgbjl,34,student,Going from the bottom to the top.,00:03:13
+klbgbjl,35,tutor,That's right. So you start with your smallest and move up towards your largest. Could you try and read this number for me?,00:03:17
+klbgbjl,36,student,"[unclear] 345,500.",00:03:24
+klbgbjl,37,tutor,"That's right. Good job in reading a 6-digit number, [STUDENT_NAME]. Could you work out this over here? You can start with the smallest and end with your largest over here.",00:03:34
+klbgbjl,38,student,Yeah. Should I put [Speaker] Do I press on text to then write them?,00:03:44
+klbgbjl,39,tutor,Yes. [Speaker] Okay. [unclear],00:03:51
+klbgbjl,40,tutor,Next.,00:04:17
+klbgbjl,41,background,"Oh, so you can start from the top where you'll write the smallest and then end with the largest.",00:04:17
+klbgbjl,42,tutor,Okay. [unclear] [unclear],00:04:25
+klbgbjl,43,tutor,Yeah.,00:04:41
+klbgbjl,44,student,to be lowest to highest.,00:04:41
+klbgbjl,45,tutor,from highest to lowest.,00:04:41
+klbgbjl,46,student,"5, 6, 7, 8, 9, 10. [unclear]",00:04:41
+klbgbjl,47,student,"3, 4, 5. [unclear]",00:04:41
+klbgbjl,48,student,500.,00:04:41
+klbgbjl,49,tutor,Yep.,00:04:41
+klbgbjl,50,student,"And then 3, 6, 2, 1,000.",00:05:45
+klbgbjl,51,student,Then 0 to 0.,00:05:59
+klbgbjl,52,tutor,OK. So can you explain how you worked that out? Why you went with [UNCLEAR]?,00:06:04
+klbgbjl,53,student,"So basically I worked out that 99,999 is smaller than all of them because each of the others are in 100,000-something, but the 99,909 is below 100,000. [unclear]",00:06:04
+klbgbjl,54,tutor,"Yes, it is only 5 digits, isn't it?",00:06:38
+klbgbjl,55,student,Yeah.,00:06:41
+klbgbjl,56,tutor,"Okay, so we went with that as the smallest. What about the rest?",00:06:43
+klbgbjl,57,background,"I put 1,000,000.",00:06:47
+klbgbjl,58,student,"159,999 for the second, because each of the 100— like, each of the first column parts are smaller, because the last two are 3 and the one before that is 1, so that must be the second.",00:06:53
+klbgbjl,59,tutor,Yeah.,00:07:13
+klbgbjl,60,student,Then— [unclear],00:07:13
+klbgbjl,61,student,"Then the third must be 345,500 because if you look at the second column, 4 is smaller than 6, so that must be the second one, and the largest one is 362,000. [unclear]",00:07:15
+klbgbjl,62,tutor,"Yeah. Because as of the 6, with 6, x in this part would be bigger than all of them except from the [UNCLEAR]. So that's how I worked them out.",00:07:39
+klbgbjl,63,tutor,"That's right, [STUDENT_NAME]. Good job in explaining that to me. Well done. So we'll move ahead and practice ordering a couple more numbers. Could you try out part A? You can read it out loud and then work it out. Work it out.",00:07:39
+klbgbjl,64,student,Order these numbers by matching them to the correct place on the number line.,00:08:10
+klbgbjl,65,tutor,"These are the numbers given to you, and you can place them on the number line. You can write the letter in front of the number.",00:08:19
+klbgbjl,66,student,"Okay. So, what order is [UNCLEAR]?",00:08:27
+klbgbjl,67,student,"So, should I use the draw part so I can draw a line to the parts and I get them in order?",00:08:44
+klbgbjl,68,tutor,"Sure, [STUDENT_NAME]. You can use the draw tool, or if you click on shapes, you will have something that says line. You can use that tool as well, whichever you prefer.",00:08:55
+klbgbjl,69,student,Okay. So then— [unclear],00:09:04
+klbgbjl,70,tutor,"Okay. Shall we place a little line, [STUDENT_NAME]? For example, we can place a little line over here and label that as B. [unclear]",00:09:30
+klbgbjl,71,student,"Then next one would be C. D, because that's just a bit higher than 90,100, but it's way lower than 560,456.",00:09:49
+klbgbjl,72,tutor,"Okay, so let me just quickly label these for you. So this is where D is. [unclear] And this is where A would be, right? Have I marked it correctly?",00:10:09
+klbgbjl,73,student,"Uh, yes.",00:10:20
+klbgbjl,74,tutor,"Yes, all right. Let me just erase the lines. One second. Okay. Now you have gone with $560,456 to be over here. Can you explain that to me, [STUDENT_NAME]? Why is that?",00:10:22
+klbgbjl,75,student,"Because, um, because $560,456",00:10:38
+klbgbjl,76,student,"is just a bit past the middle because the mid— like the halfway point is 500,000 and it's just 60,456 more. So that's why I thought it was just a bit forward. Like a bit forward. [UNCLEAR]",00:10:38
+klbgbjl,77,tutor,"Right. So from 500 to 1 million, 500,000 to 1 million, how many numbers or how many hundreds How many hundred thousands do we have in the middle, [STUDENT_NAME]?",00:11:11
+klbgbjl,78,student,So—,00:11:20
+klbgbjl,79,tutor,You keep counting.,00:11:20
+klbgbjl,80,student,"It would just need to be— well, if we were counting in 500,000, it would just be 1 because 5 add 5 would be 10. So if you just get it up to 500,000— [unclear]",00:11:23
+klbgbjl,81,tutor,"If we count in hundred thousands? What comes after 500,000?",00:11:41
+klbgbjl,82,student,"Uh, 600,000.",00:11:47
+klbgbjl,83,tutor,"Okay, and next?",00:11:49
+klbgbjl,84,student,"Um, 700,000.",00:11:52
+klbgbjl,85,tutor,7. Mm-hmm.,00:11:54
+klbgbjl,86,student,"Then 800,000, then 900,000.",00:11:56
+klbgbjl,87,tutor,Okay.,00:12:00
+klbgbjl,88,student,Then you get to a million after.,00:12:00
+klbgbjl,89,tutor,"That's right. So we've basically got 4 more numbers in between that, isn't it?",00:12:03
+klbgbjl,90,student,Yeah.,00:12:09
+klbgbjl,91,tutor,"What we can do is we can interpret this number line, [STUDENT_NAME], by making a rough estimate. This is our middle and this is the end of our number line. So we can draw a line right down in the middle to separate these two. Right? And then what we can do is we can split each section in between and that will give us 3 more parts. Is that right?",00:12:10
+klbgbjl,92,student,Yes.,00:12:36
+klbgbjl,93,tutor,Now we need one more number. So let's make these gaps a little more equal. So we can move this over here.,00:12:37
+klbgbjl,94,student,Yeah.,00:12:51
+klbgbjl,95,tutor,"Move this over here. And just adjust it so that it's— [unclear] the gaps between each line are equal. That will help us to interpret this more accurately. So let me just move them around a little bit. Okay. Now the gaps are quite equal. This gap is similar to the gaps on the rest of the number line. Is that right, [STUDENT_NAME], or do we need to move anything further? What do you think?",00:12:53
+klbgbjl,96,student,[unclear],00:13:27
+klbgbjl,97,tutor,"Quite sure. So our middle is over here, right?",00:13:28
+klbgbjl,98,student,Yeah.,00:13:36
+klbgbjl,99,tutor,"And the end is over here. So look at the black lines. What do you think? Do the gaps look equal? [unclear] Of course, remember we're estimating. We're making an approximate.",00:13:39
+klbgbjl,100,tutor,So it's not going to be—,00:13:53
+klbgbjl,101,student,Yes.,00:13:54
+klbgbjl,102,tutor,Right?,00:13:55
+klbgbjl,103,student,I think they are the same then each way.,00:13:56
+klbgbjl,104,tutor,In between.,00:14:01
+klbgbjl,105,student,So I think they are.,00:14:01
+klbgbjl,106,tutor,Right.,00:14:02
+klbgbjl,107,student,Then equal amount.,00:14:03
+klbgbjl,108,tutor,"Okay. Mm-hmm, yes. So like you said, since A is a little over 500,000 but less than 600,000, we could place them, or place this number over here. Now what about C, [STUDENT_NAME]? What do you think about that? [unclear]",00:14:04
+klbgbjl,109,tutor,"C is quite further away from 500, but it isn't that far from a million, right?",00:14:20
+klbgbjl,110,student,Yeah.,00:14:38
+klbgbjl,111,tutor,"So it should be more closer to a million than it is to 500,000. So where do you think C should go?",00:14:38
+klbgbjl,112,student,"If it would have been a bit closer, then it would just be, I think, about round— like maybe there?",00:14:48
+klbgbjl,113,tutor,"OK. So if this is 500,000, [STUDENT_NAME], what is this?",00:15:02
+klbgbjl,114,student,"That would be— [unclear] 100,000 more, which is?",00:15:08
+klbgbjl,115,student,"600,000.",00:15:15
+klbgbjl,116,tutor,"And the next point would be 100,000 more, which is?",00:15:17
+klbgbjl,117,student,"700,000. [unclear] 800,000. Then the next one after that would be 900,000.",00:15:21
+klbgbjl,118,tutor,"Yes. So if it is so, then where should C be? [unclear]",00:15:31
+klbgbjl,119,tutor,"Is it greater than 800,000 or less than 800,000?",00:15:41
+klbgbjl,120,student,Greater.,00:15:46
+klbgbjl,121,tutor,Greater. So it should be passing.,00:15:47
+klbgbjl,122,student,"So about there where I just drew the black line, around there.",00:15:51
+klbgbjl,123,tutor,"Yes, could be. Could be over there because it's less than 900 and more than 800. So that makes sense.",00:15:57
+klbgbjl,124,student,"Yeah, because the black line isn't like— because it's 75,000, not 50,000, so it wouldn't be halfway. It would just be a bit more. So that's why I thought it was in about the last quarter, because 25 and 25 equals 50, and another 25 is 75,000. Add another, that would be 100 if you're just counting in like ones and stuff, but we're counting in 100,000s, so that's why I thought it was 875,650.",00:16:03
+klbgbjl,125,student,He would have been in [unclear],00:16:53
+klbgbjl,126,student,Like about there.,00:16:56
+klbgbjl,127,tutor,"Yes, that's right. About here you mean, isn't it?",00:16:59
+klbgbjl,128,student,"Yeah, yeah, sorry.",00:17:03
+klbgbjl,129,tutor,"Yes, that's right. So good thinking, [STUDENT_NAME]. You're right about the halfway point between being 50,000 and this 72 being more than that. Good thinking over there. Well done. Now that we've worked out C, And we've worked out A. Let's look at D. What is D?",00:17:05
+klbgbjl,130,student,"D is 102,399.",00:17:29
+klbgbjl,131,tutor,"That's right, yes. Now if we count back in 100,000, [STUDENT_NAME], what is 100,000 less than 500,000?",00:17:36
+klbgbjl,132,student,[unclear],00:17:43
+klbgbjl,133,student,"Wait, what was the question?",00:17:48
+klbgbjl,134,tutor,"What is 100,000 less than 500,000?",00:17:50
+klbgbjl,135,student,"Oh, 400,000.",00:17:56
+klbgbjl,136,tutor,"400,000. And 100,000 less than that?",00:17:58
+klbgbjl,137,student,"Um... 300,000.",00:18:03
+klbgbjl,138,tutor,"100,000 less than that?",00:18:06
+klbgbjl,139,student,"200,000.",00:18:10
+klbgbjl,140,tutor,"And 100,000 less than that?",00:18:12
+klbgbjl,141,student,"100,000.",00:18:14
+klbgbjl,142,tutor,"Okay. So our first point is going to be 100,000. Is that right?",00:18:17
+klbgbjl,143,student,Yes.,00:18:21
+klbgbjl,144,tutor,"Okay. And this is going to be 200,000. Yes?",00:18:23
+klbgbjl,145,student,Yeah.,00:18:26
+klbgbjl,146,tutor,"Okay. Now is 102,000 greater than 200 or less than 200?",00:18:27
+klbgbjl,147,student,"[unclear] Wait, what was the question? I didn't quite hear. Is 102,399 less than 200,000 or more than 200,000?",00:18:33
+klbgbjl,148,student,Less.,00:18:49
+klbgbjl,149,tutor,Less. So should it be on the left or on the right of 200?,00:18:51
+klbgbjl,150,student,It should be on the left.,00:18:56
+klbgbjl,151,tutor,"On the left, yes. So D should not be over here. It's too far away. Now can I know why you [UNCLEAR]?",00:18:58
+klbgbjl,152,student,"Like, I was just, like, I didn't quite know if we were supposed to, like, estimate. I was just putting them in places that were before 500,000 because I knew that the 98,000 and [unclear] 100 was like before or 500,000. Same with the 102,399.",00:19:08
+klbgbjl,153,tutor,"Yes. It is definitely less than 500,000, so good job placing it on the left-hand side, [STUDENT_NAME]. But the thing is it's very much smaller than 500,000.",00:19:42
+klbgbjl,154,student,Yeah.,00:19:52
+klbgbjl,155,tutor,Right?,00:19:52
+klbgbjl,156,student,Mm-hmm. Yes.,00:19:52
+klbgbjl,157,tutor,So we've got to place it further away. So could you adjust that for me? Where would you put D? [unclear] You can use your point tool to show me.,00:19:54
+klbgbjl,158,student,Around there?,00:20:07
+klbgbjl,159,tutor,"Over there? Yes. That's right. It makes sense to put it there. It's quite close to 100,000, isn't it?",00:20:12
+klbgbjl,160,student,"Yeah. Yes. Now what about 90,100?",00:20:21
+klbgbjl,161,student,I'd say that's— [unclear] around there. Like just before the 100.,00:20:27
+klbgbjl,162,tutor,"Yes. So we can place it over here, [STUDENT_NAME]. It'll just be 10,000 less, right?",00:20:42
+klbgbjl,163,student,Yeah.,00:20:49
+klbgbjl,164,tutor,"Yes. So we could place it slightly away even, maybe over here, and that would be a B.",00:20:50
+klbgbjl,165,student,Yeah.,00:21:00
+klbgbjl,166,tutor,Okay. Right. So can you tell me how you would explain this question to somebody else? [unclear],00:21:01
+klbgbjl,167,student,"So I'd— what, just the B and D part?",00:21:09
+klbgbjl,168,tutor,What advice would you give to help work out Part A?,00:21:16
+klbgbjl,169,student,"Oh, if you were doing it on a number line and it was— well, if you were doing it in like ones or tens and stuff, you'd probably have to say that",00:21:21
+klbgbjl,170,student,"If it was on a number line, you'd have to put a line in the middle that says, well, 5 or 15 up, and then put like the 0 at the start, then the end number, then try and estimate, and like if it's lower than [unclear] like 50 or 5,000 or something, and you wouldn't put it like past the halfway point. You'd put it before because it's before 5 or 50,000.",00:21:42
+klbgbjl,171,tutor,"Yes, that's right. And what they can do is before they try and place these numbers, they can count up in their hundred thousands and make rough estimates of where those numbers could be. Isn't it?",00:22:25
+klbgbjl,172,student,Yeah.,00:22:38
+klbgbjl,173,tutor,"Yes. All right. So could you try out Part B, [STUDENT_NAME]?",00:22:40
+klbgbjl,174,student,Yeah.,00:22:44
+klbgbjl,175,tutor,Let's read it first.,00:22:44
+klbgbjl,176,student,"Make 3 [UNCLEAR]— wait, make 3 different 6-digit numbers using all the digit cards. Organize them in ascending order.",00:22:50
+klbgbjl,177,tutor,So these are your digit cards. You're supposed to make 6-digit numbers using them. And make sure those numbers are in ascending order. You've got to make a total of 3 numbers.,00:22:50
+klbgbjl,178,student,"OK. So would, like, the largest be at the top and the smallest be at the bottom?",00:23:12
+klbgbjl,179,tutor,"Oh, yeah. [unclear]",00:23:21
+klbgbjl,180,student,Since it's ascending?,00:23:22
+klbgbjl,181,tutor,"Then, yeah.",00:23:24
+klbgbjl,182,background,"Yes, so since it's ascending, we'll start with the smallest and go down to the largest.",00:23:26
+klbgbjl,183,student,Yeah. [unclear],00:23:32
+klbgbjl,184,tutor,Identify the largest and smallest numbers. [unclear],00:24:02
+klbgbjl,185,student,This would be number 1.,00:24:07
+klbgbjl,186,tutor,And then?,00:24:18
+klbgbjl,187,student,0.,00:24:20
+klbgbjl,188,tutor,And the smallest?,00:24:21
+klbgbjl,189,student,"Would be like one, zero, [UNCLEAR]. Oh, wait.",00:24:25
+klbgbjl,190,tutor,6.,00:24:52
+klbgbjl,191,student,6.,00:25:01
+klbgbjl,192,tutor,7.,00:25:05
+klbgbjl,193,student,[unclear] Yeah.,00:25:06
+klbgbjl,194,tutor,9.,00:25:11
+klbgbjl,195,student,9.,00:25:11
+klbgbjl,196,tutor,Then the middle one would probably be like 7. [unclear] [unclear],00:25:23
+klbgbjl,197,student,"knowing about where they can find [UNCLEAR] online, as well as the value of different things. I think it's important to know that it's possible to have a soundproof room. [unclear]",00:25:23
+klbgbjl,198,tutor,"OK. Can you tell me how you came up with this combination, [STUDENT_NAME]?",00:26:20
+klbgbjl,199,student,"So the first one I knew that it had to be the biggest, but the first part that came to my head was do the biggest number first, then go down, then at the end it would be the smallest number. Then I did the last one that would be the smallest one before the second one, so then I knew that I needed to do it in between, well, 900,000 and 100,000.",00:26:24
+klbgbjl,200,tutor,Mm-hmm.,00:26:56
+klbgbjl,201,student,"So then at least I knew that the middle part would have to be bigger. So that's why I put 700,000 and 6— [unclear] Wait, 769,501 for the middle part.",00:26:56
+klbgbjl,202,tutor,"Mm-hmm, yes, that's right. So are there— is this the only combination, [STUDENT_NAME], or are there other numbers that another person could come up with? Using these digit cards?",00:27:17
+klbgbjl,203,student,"I mean, there probably would be like other ones, like maybe 7, 9, 5, 6, [unclear] or something. Like, there definitely could be others.",00:27:30
+klbgbjl,204,tutor,"So what if I went with 561,790 to be my smallest number instead of this. Would I be right or would I be wrong?",00:27:51
+klbgbjl,205,student,About what part? [unclear],00:28:03
+klbgbjl,206,tutor,"If I went with 561,790 to be my smallest number instead of the one that you have written, would my combination be right or would I be wrong, [STUDENT_NAME]?",00:28:06
+klbgbjl,207,student,"About it being the smallest, if you take my bottom one off.",00:28:21
+klbgbjl,208,tutor,"Away, yes.",00:28:28
+klbgbjl,209,student,"Oh, and then it would be correct because the 5 is still smaller than both the 6— no, both the 7 and the 9, so that's why it is. [unclear]",00:28:30
+klbgbjl,210,tutor,"Yes. So there are many combinations that you could come up with, and good job in coming up with these combinations on your own, [STUDENT_NAME]. Well done. Now with that, we'll move over to a word problem. Are you ready?",00:28:49
+klbgbjl,211,background,Yep.,00:29:05
+klbgbjl,212,tutor,Okay. So this is your word problem. You have to read it out and then work it out.,00:29:06
+klbgbjl,213,tutor,"A planet has 4 moons [unclear] orbit it, and their distances are shown below. Match each moon to its distance from the planet by writing the correct letter under each moon.",00:29:13
+klbgbjl,214,student,"Yes, so whichever distance you think is correct, you can write the letter of that number underneath the moon.",00:29:29
+klbgbjl,215,student,So which one would be like furthest and which one would be closest?,00:29:39
+klbgbjl,216,tutor,"Yes. So if this moon— this moon seems to be the closest to the planet, doesn't it?",00:29:45
+klbgbjl,217,student,Yeah.,00:29:51
+klbgbjl,218,tutor,So would it have the greatest distance or would it have the smallest distance out?,00:29:52
+klbgbjl,219,student,It would have the smallest distance because it's closer to the planet.,00:29:57
+klbgbjl,220,tutor,So you would have to pick the letter which has the— [unclear] smallest number and write it underneath.,00:30:02
+klbgbjl,221,student,Yes.,00:30:09
+klbgbjl,222,tutor,"Okay, you can go ahead and try it out.",00:30:11
+klbgbjl,223,student,"So the first one— [unclear] That one would be to that, the second one.",00:30:18
+klbgbjl,224,tutor,"Oh, Ash, could you write the letter underneath the planet, [STUDENT_NAME]? [unclear] You can write letter C.",00:30:42
+klbgbjl,225,student,Um...,00:30:51
+klbgbjl,226,tutor,"So, C? That would be— [unclear] And what would be A? That would be—",00:30:56
+klbgbjl,227,student,"It would be [unclear] and then that would be— wait. Oh, and that would",00:31:26
+klbgbjl,228,tutor,"B. Okay, so the order is C, A, D, and B. Can you explain that to me, why you went with that?",00:31:48
+klbgbjl,229,student,"So basically, I knew that it had to be the short— that C is the closest.",00:32:04
+klbgbjl,230,student,"Because this purple planet is the closest, so that must be C because it has the shortest distance.",00:32:13
+klbgbjl,231,tutor,"Mm-hmm, yes.",00:32:20
+klbgbjl,232,student,"But then the second one I put as A because that— because it's just a few hundred more because C is 278,097 [UNCLEAR]. Kilometres away and A is 278,321 kilometres, so that's why I put A first. D is quite far away from the planet, that's why I put— no, sorry, wait, yeah.",00:32:22
+klbgbjl,233,tutor,B is the farthest. [unclear],00:33:01
+klbgbjl,234,student,"Yeah, B is",00:33:03
+klbgbjl,235,student,"Because, um, basically D is the second furthest because it's 289,989 kilometres. And then B is 299,121 kilometres.",00:33:04
+klbgbjl,236,student,That's why I [unclear] all of them.,00:33:32
+klbgbjl,237,tutor,"Yes, a good job in labelling those correctly, [STUDENT_NAME], and understanding how the distance relates to the number. Well done. And also explaining it to me very clearly. Good job. So with that, we have completed our lesson on ordering numbers up to 1 million. Now how would you advise someone else to work out this lesson? What would you tell them to be extra careful about?",00:33:35
+klbgbjl,238,student,"Be extra careful about numbers, even though, like, with the first one I did, it's 99,999. Yes, the 9 is bigger than all of them, but it matters how many digits there are.",00:34:01
+klbgbjl,239,tutor,Yes.,00:34:23
+klbgbjl,240,student,"Because all of these are 6, but someone might not see that and think that's also 6 and it's the biggest [UNCLEAR], but that one there is only 5, not 6.",00:34:24
+klbgbjl,241,tutor,"Yes, that's right. You've got to pay attention to the digits and the value of each digit. So good work in understanding that.",00:34:24
+klbgbjl,242,tutor,"So let's move over to our next lesson, [STUDENT_NAME]. Now since we're done with this one, you'll get questions on this lesson once you end the session. It will be in the form of a quiz.",00:34:48
+klbgbjl,243,student,Yeah.,00:34:59
+klbgbjl,244,tutor,"In our second lesson, we're going to be focusing on decimal numbers. [unclear] Look at the place value of each digit in numbers up to 2 decimal places. You've got a small question here.",00:35:01
+klbgbjl,245,tutor,Could you read it and try it out?,00:35:14
+klbgbjl,246,student,"Knowing the value of each digit— oh, write the value of each digit in— digit 2 in this number. [unclear]",00:35:16
+klbgbjl,247,student,So it would be [unclear] point zero two.,00:35:45
+klbgbjl,248,tutor,0.02. Okay. Why do you think 0.02?,00:36:06
+klbgbjl,249,student,"Because if you look at it, it's the second— [unclear] It's the third number, so it must be— because the 2 is the third number, and in this, yes, it's the last bit, but it's out of 3, so that's why I think it's 0.02 as the answer.",00:36:09
+klbgbjl,250,tutor,"Mm-hmm. Okay, good effort here, [STUDENT_NAME], in trying out the question on your own. Very well done. Now our number is 35.28, isn't it?",00:36:40
+klbgbjl,251,student,Yeah.,00:36:51
+klbgbjl,252,tutor,What's the place value of the digit before the decimal place? What is this place value called?,00:36:53
+klbgbjl,253,student,"The placeholder, I think?",00:37:03
+klbgbjl,254,tutor,"That would be called the ones column, right?",00:37:07
+klbgbjl,255,student,Oh yeah. [unclear],00:37:10
+klbgbjl,256,tutor,This over here? Yes. And what is this called?,00:37:11
+klbgbjl,257,student,The tens?,00:37:15
+klbgbjl,258,tutor,"The tens column, yes. What is the first decimal place called? The tenths, I think?",00:37:17
+klbgbjl,259,tutor,"The tenths column, yes. And what is the second decimal place called? [unclear]",00:37:30
+klbgbjl,260,student,Is it the hundredths column?,00:37:43
+klbgbjl,261,tutor,"The hundredths column. That's right. So if I were to put it in our place value chart, this is what it would look like, isn't it?",00:37:47
+klbgbjl,262,student,Yeah.,00:37:55
+klbgbjl,263,tutor,"Okay. So which column is the 2 in, [STUDENT_NAME]?",00:37:56
+klbgbjl,264,student,[unclear],00:37:59
+klbgbjl,265,tutor,"The tenths column. The tenths column. So you've got 2 tenths, isn't it?",00:38:02
+klbgbjl,266,student,Yeah.,00:38:08
+klbgbjl,267,tutor,"One tenth would be written like this as a fraction, and 2 tenths would be written as 2 out of 10. How would you write it as a decimal?",00:38:09
+klbgbjl,268,student,"Um, wouldn't it be 0.02?",00:38:20
+klbgbjl,269,tutor,"0.02 would be the second decimal place, [STUDENT_NAME]. That would be 0.02. In this occasion, this is not 2 but 8. Since this is our first decimal place, it's 0 point 0.2. Yeah. Do you understand?",00:38:27
+klbgbjl,270,student,"Um, yes. Oh, yeah. Yeah.",00:38:47
+klbgbjl,271,tutor,"Yes? So 2 tenths is 0.2. But if you had 2 hundredths, that would be 0.02. Because that is your second decimal place.",00:38:49
+klbgbjl,272,student,"And also because it's adding like another zero on because 10 adds another zero onto it. It would be 100. And then it makes the 2 go into 10, right? Like, so it made it 20.",00:39:01
+klbgbjl,273,tutor,"What do you mean, 20?",00:39:23
+klbgbjl,274,student,"Like, isn't it that if you add a 0 onto the 10 to make 100, don't you also add a 0 onto the 2 to make 20?",00:39:26
+klbgbjl,275,tutor,A zero onto the hundred over here?,00:39:39
+klbgbjl,276,student,Yeah.,00:39:42
+klbgbjl,277,tutor,"Okay. So you add a zero over here, is it?",00:39:44
+klbgbjl,278,student,Yeah. [unclear],00:39:48
+klbgbjl,279,tutor,"Okay. Not exactly, [STUDENT_NAME]. We'll take a look at tens and hundreds a bit more on the slides to come. Okay, to just better understand the relationship there.",00:39:51
+klbgbjl,280,tutor,"All right. Okay, so for now let me just pause here. We'll start this lesson as a new topic next week. I think that would be best.",00:40:02
+klbgbjl,281,student,Yeah.,00:40:12
+klbgbjl,282,tutor,Okay. So let's talk about what we did in today's lesson. Let's reflect on our session. What was the lesson we completed or the lesson we started with?,00:40:14
+klbgbjl,283,background,Wasn't it [UNCLEAR]?,00:40:24
+klbgbjl,284,student,Going up to— like going up from 0 to 1 million.,00:40:28
+klbgbjl,285,tutor,"We're ordering numbers up to 1 million, isn't it?",00:40:40
+klbgbjl,286,student,Yeah.,00:40:43
+klbgbjl,287,tutor,Yes. So there were 2 ways in which we could order numbers. We could go from the smallest to the largest or the largest to smallest. What is smallest to largest order called?,00:40:44
+klbgbjl,288,student,Ascending.,00:40:56
+klbgbjl,289,tutor,Ascending order. And what is the opposite called?,00:40:59
+klbgbjl,290,student,[unclear],00:41:02
+klbgbjl,291,tutor,Largest to smallest.,00:41:04
+klbgbjl,292,student,Descending order.,00:41:05
+klbgbjl,293,tutor,"Descending order. That's right. Now, when we were ordering these numbers, we saw that there were some important things that we had to keep in mind to accurately work this out, [STUDENT_NAME]. Shall we list them out? What were those important points?",00:41:06
+klbgbjl,294,student,"Wait, can you ask me the question again?",00:41:27
+klbgbjl,295,tutor,"Yes. So, when we were ordering these numbers, we saw that there were some important points that we had to pay attention to in order to work out the questions accurately, as accurately as possible. [unclear] What were those?",00:41:30
+klbgbjl,296,student,"So, the parts that you said at the start, like, We had to pay attention to the number of digits. Do you remember?",00:41:46
+klbgbjl,297,student,Oh yeah. So pay attention to the number of digits. And also the value of it.,00:41:56
+klbgbjl,298,tutor,"The value of it, yes. And their place value. Then when we were trying to put them on a number line, What made it easier for us?",00:42:07
+klbgbjl,299,student,"We found the lines on the line, then working out all of the hundred parts up from zero to 1 million, having the lines, and you could go from like [unclear]",00:42:22
+klbgbjl,300,student,"100,000, 200,000, 300,000, and so on. [unclear]",00:42:47
+klbgbjl,301,tutor,"Yes. So like you said, labelling those points is where we work out the intervals. So it makes it easier when we work out the intervals to put our numbers on that line. So with that, let's wrap things up for today, [STUDENT_NAME]. I hope you had a good session and I'll see you again soon.",00:42:54
+klbgbjl,302,tutor,See you next week. Bye. Enjoy your day.,00:43:10
+klbgbjl,303,student,Bye. I will.,00:43:15
+klbgbjl,304,tutor,Bye-bye. [unclear],00:43:16

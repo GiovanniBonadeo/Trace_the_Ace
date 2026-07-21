@@ -1,0 +1,182 @@
+session_id,utterance_id,role,content,timestamp
+hmrchbi,0,background,[unclear],00:00:00
+hmrchbi,1,tutor,Hello.,00:00:00
+hmrchbi,2,student,Hello.,00:00:02
+hmrchbi,3,background,Hello.,00:00:03
+hmrchbi,4,tutor,"Hello, Elara, can you hear me? Yeah. Okay, and can you see the screen? As Elara— is my cursor moving? Yeah. Okay, how are you, Elara? How are you today? Uh, good, thank you. What about you? Mine's been good also. And do you remember me from like a couple of sessions before? We had a session together. [unclear] [unclear]",00:00:07
+hmrchbi,5,tutor,"Okay, no worries. Anyway, happy to meet you again after a long— not long, 2 weeks.",00:00:38
+hmrchbi,6,student,Yeah.,00:00:45
+hmrchbi,7,tutor,"And hopefully we would be resuming this session as we were on the last session. I'll try to make this session also like interesting as previous one. And shall we start the lesson then, Elara? Are you ready?",00:00:45
+hmrchbi,8,student,"Yeah. Okay, great. So without any delay, we'll get going with finding probability using tree diagrams. And I guess you might have completed one skill— I mean, one exam style question last week. Is that— am I right, Elara?",00:01:01
+hmrchbi,9,student,I think so.,00:01:21
+hmrchbi,10,tutor,So it might have in this question.,00:01:24
+hmrchbi,11,tutor,"So the main skill you would be tested with is using simple probability trees. And I guess you did this question on your own anyway. So before moving to the next exam style question, I would like to like do a small recap. So you don't need to solve this question again, like how would you",00:01:27
+hmrchbi,12,tutor,solve this question. Can you like verbally explain? We'll start with T.,00:01:27
+hmrchbi,13,student,"So it says in the question that it will rain, that the probability that it will rain on Monday is 0.2. So for rains on Monday, I'd put 0.2, and then for no rain, I'd put 0.8 because it has to add up to 1. And then for the rain on Tuesday, on both where it says rain on Tuesday, I'd put 0.3, and then for no rain I'd put 0.7 because that has to add up to 1.",00:01:27
+hmrchbi,14,tutor,[unclear],00:02:31
+hmrchbi,15,student,"And then for probability of it raining, I'd do 0.2 times 0.3. For rain and no rain, I'd do 0.2 times 0.7, and then For no rain and rain, I'd do 0.8 and 0.3. And then no rain and no rain, I'd do 0.8 and 0.7. [unclear]",00:02:31
+hmrchbi,16,tutor,"I can see you are very much like comfortable with this lesson. I mean, I was able to like picture what you are saying. And just one question, why are we multiplying? [unclear]",00:03:02
+hmrchbi,17,tutor,Mm-hmm.,00:03:15
+hmrchbi,18,student,Because you're finding out—,00:03:18
+hmrchbi,19,tutor,Any idea on that?,00:03:20
+hmrchbi,20,student,"Because you're finding out what the probability is, so you have to multiply them together.",00:03:22
+hmrchbi,21,tutor,"Mm-hmm. Well, we could have been adding, or we could have been doing some other operation, right? Why specifically multiplying with these two? For example, here we have probability of rain on Monday given the probability of rain on Tuesday. Why we are multiplying these two? Any idea on that?",00:03:31
+hmrchbi,22,student,"Uh, no, I'm not sure.",00:03:48
+hmrchbi,23,tutor,"No worries with that. Well, the reason for that— these are like, we call these as conditional probability. For example, here, this what means is, given the probability of raining on Tuesday, what would be the probability of raining on Monday? So vice versa. So in most scenarios, in conditional probabilities, you have to multiply. Well, you don't need— again, no need to memorize this stuff, just for a theoretical understanding. Okay, is that clear, Elara?",00:03:51
+hmrchbi,24,student,Yeah.,00:04:22
+hmrchbi,25,tutor,"Okay, nice. And how would you solve question B?",00:04:24
+hmrchbi,26,background,"Um, so to find the probability that it rains on Monday and Tuesday, you would do 0.2 times 0.3.",00:04:29
+hmrchbi,27,tutor,Mm-hmm.,00:04:38
+hmrchbi,28,student,And then—,00:04:42
+hmrchbi,29,tutor,So by the— [unclear],00:04:42
+hmrchbi,30,student,So you would do this one.,00:04:46
+hmrchbi,31,tutor,"Okay, exactly, yeah. Even that's the final answer itself, even. So last one, how would you do?",00:04:51
+hmrchbi,32,student,"So you would do— 0.2 times 0.7, which is rain and no rain, and then you would do 0.8 times 0.3, and then you would add them together to get the probability that it rains on either Monday or Tuesday.",00:05:00
+hmrchbi,33,tutor,Mm-hmm. And now why we are adding here? What's the reason?,00:05:21
+hmrchbi,34,student,"Um, I'm not sure. I don't know.",00:05:29
+hmrchbi,35,tutor,"No worries. Again, so in this scenario we multiplied, right? But here we are adding, because if you see, if you have a word— or I mean, it's not always applicable when you have or, but mostly in probability question, if you have something like or In this scenario, you are either or. So you basically, when we have an or, we add. When we have an and, we multiply. Okay, Elara, but that's not like a always following procedure. It depends on the question. But in this question, since we have been asked to find either Monday or Tuesday, we add. If it's given as either Monday and Tuesday then we have to multiply. Is that clear, Elara?",00:05:35
+hmrchbi,36,student,Yeah.,00:06:26
+hmrchbi,37,tutor,"So if I were to like go a bit deep on that, if you see here, here, if you see when you are given probability of occurring B given that A, and if you are given or, you have to add those two separate. Okay, Elara?",00:06:28
+hmrchbi,38,tutor,Yeah.,00:06:48
+hmrchbi,39,background,"Can you anyway read this part and like understand, explain what you understand from it, Elara?",00:06:49
+hmrchbi,40,student,"So to get the probability of A or B, I don't know how to explain it. [unclear]",00:07:01
+hmrchbi,41,tutor,"Sorry, Elara. So if you see in this scenario, we have P(A), probability of A, and B. So we need multiply. So if you see the differences, here we have AND, and if you see the difference here, we have OR. If you have an OR, you add— I mean, not always, it depends on the question. Okay, Elara?",00:07:15
+hmrchbi,42,student,Yeah.,00:07:40
+hmrchbi,43,tutor,Is that clear?,00:07:42
+hmrchbi,44,student,Yeah.,00:07:43
+hmrchbi,45,tutor,"Okay, then we are done with the first skill using simple probability trees. And I, I feel that it was no challenge at all for you. So hopefully we would make some, uh, challenging questions so that we can test your, like, the utmost skill. But the Effort you gave when you were explaining were awesome. Obviously, I mean, I was able to like picturize your explanation. Rather, you do— with the explanation, I— you don't even to write the answer. I was able to like see everything. So thank you for that explanation. With that, we will start the second exam type question. Are you ready, Elara? Shall I move to that?",00:07:45
+hmrchbi,46,student,Yeah.,00:08:27
+hmrchbi,47,tutor,"Okay, here you go.",00:08:29
+hmrchbi,48,tutor,"So if you see here, the skill we are going to test you is calculating probabilities without replacement. So here we have the question. Take your time, underline any important words you think. Use the space if you need any help, you can ask me. And do it on your own, then we would have— we will have a discussion. Elara? [unclear]",00:08:31
+hmrchbi,49,tutor,Yeah. [unclear],00:09:24
+hmrchbi,50,tutor,All right. [unclear] [unclear],00:09:57
+hmrchbi,51,student,Yeah. [unclear],00:10:30
+hmrchbi,52,tutor,[unclear] [unclear],00:10:39
+hmrchbi,53,tutor,[unclear] [unclear],00:10:57
+hmrchbi,54,tutor,"Well, I'll just say that first time, I thought that was perfect.",00:11:15
+hmrchbi,55,tutor,"practical maths today, and I'm along with one of my tutors, just to help Ruth raise [UNCLEAR]",00:11:15
+hmrchbi,56,tutor,"practical maths today, and I'm along with one of my tutors, just to help Ruth raise [unclear] [unclear]",00:11:15
+hmrchbi,57,tutor,[unclear] [unclear],00:11:57
+hmrchbi,58,tutor,[unclear] [unclear],00:12:16
+hmrchbi,59,tutor,[unclear],00:12:24
+hmrchbi,60,tutor,"Yeah, so like, once we are— and I said, okay, great. [unclear] [unclear]",00:12:48
+hmrchbi,61,tutor,[unclear],00:13:15
+hmrchbi,62,tutor,[unclear],00:13:49
+hmrchbi,63,tutor,"Okay, so are you done with the first question, Elara?",00:13:49
+hmrchbi,64,student,Yeah.,00:13:53
+hmrchbi,65,tutor,"Okay, so you have B and C remaining, but you need extra space. So anyway, I'm not going to like further explain you to like how you got this final answer and all. Because— and I'll start— I will like discuss, uh, first A question and then move to B, C. Okay, I will begin with giving you the all 2 marks because your workings are absolutely a carbon copy of a marking scheme. You would get these 2 marks. And the way you get these two marks is like this, Elara. So if first set of branches are correct, you would get one mark, okay? If all branches are correct, you would get the second marks. In that way, you can get two marks, okay? Elara, is that clear?",00:13:55
+hmrchbi,66,student,Yeah.,00:14:50
+hmrchbi,67,tutor,"Okay, and I'm not going to like ask— ask you to explain how you got this answer, but just some question on the methods you [unclear] So here I can see, uh, this is pretty straightforward. But how do you determine that this is 3/11, this is 8/11? What's the method you use there?",00:14:53
+hmrchbi,68,student,"Um, so I drew it out here. So you've got 4 blue and then you've got 8 yellow. So for the top bit, I did it if like the Rachel ate a blue sweet, so I took away one blue sweet, and then you have 3 left over 11 because there's 11 altogether. If she eats a blue one and then only 3 left, so I got 3 over 11. And then there's obviously 8 yellow ones left because she's not ate any of the yellow ones, so I got 8 over 11. And then I did the same process for yellow, just that I got rid of the yellow sweet.",00:15:16
+hmrchbi,69,student,"[unclear] to say that she'd ate that one, and then there were 7 yellow ones left and 4 blue ones left.",00:15:55
+hmrchbi,70,tutor,"Mm-hmm. Okay, okay, that's a good visual working out, Elara. I mean, yeah, that's really exciting to look at your working, like, visually. But what if you have, like, a fraction, like, that you have 100 and 69 is [UNCLEAR]? Chosen. Let's say even in this part, out of 100 blue, you have 69 sweets taken, so rest of that are yellow. So in that scenarios, like, if you can't visually do this part, how would you, uh, what sort of method do you use and how you would approach?",00:16:03
+hmrchbi,71,student,"Uh, I'm not sure how I'd do it if it was a bigger number. Because it would just take ages to draw. [unclear]",00:16:44
+hmrchbi,72,tutor,"Well, yeah, that's one disadvantage— I mean, challenge— when you are visually doing, right? I mean, I, I'm totally fine with this method, but again, if you can have a mental method where you don't need to draw and you can like mentally calculate and quickly get this answer, that would be even more helpful, right? Any, any idea on how you can get this figure mentally? Any idea?",00:16:53
+hmrchbi,73,student,"I guess you just do the same as what I did, but just in your head. You wouldn't draw it out.",00:17:27
+hmrchbi,74,tutor,"Exactly. I mean, you did use the visual method. So only thing is you have to apply the same method, but without drawing. So what I would do is, so here we have 4/12, right? It's blue, and 8/12 yellow in the second pick. So if blue was chosen, then our total count would be reduced by 1, right? Is that clear?",00:17:36
+hmrchbi,75,student,Yeah.,00:18:03
+hmrchbi,76,tutor,"Yeah, so we would be having 11 sweets. So since we have chosen blue we would be left with only 3. Okay.",00:18:03
+hmrchbi,77,student,Yeah.,00:18:17
+hmrchbi,78,tutor,"Now, in the— if we— if in the probability of taking blue, so we have only 11, uh, [unclear] left, but the yellow is remaining as it is. Same thing, same thing you did here visually, but I would do it mentally. So in the case if we had like 100. So example, I would change this, uh, 100. We have hundreds of sweet [unclear] and 69 was chosen. And in the second pick, if blue was chosen and the second pick, this denominator would be reduced by 1, right? So we would be having 99, uh, sweets. And the second pick, you would be having only 68 blues since we have chosen blue. In the other part here, the yellow would remain same, but this denominator would be changed by— changed to 99. The same method, only thing is we are not drawing like this. Is that clear, Elara? [unclear]",00:18:17
+hmrchbi,79,student,Yeah.,00:19:38
+hmrchbi,80,tutor,"Any— I mean, it would come in practice, obviously. I mean, since when you start doing a lot of questions in this part, you would get used to that. Then obviously you won't— you don't need to even do this part. You can like simply everything visualized on your own and write this fraction. So, but again, I really appreciate your working here. I can see everything, like all these stuff that required to get this final probabilities. Now shall we move to the question B, Elara?",00:19:39
+hmrchbi,81,student,Yeah.,00:20:15
+hmrchbi,82,tutor,"Do you need any extra space? I mean, you might be— you need— you must need an extra space, right? Anyway, can I— shall I erase this for you?",00:20:16
+hmrchbi,83,tutor,Yeah.,00:20:29
+hmrchbi,84,student,Yeah.,00:20:30
+hmrchbi,85,tutor,Or do you need these visuals?,00:20:30
+hmrchbi,86,student,"No, that can go.",00:20:32
+hmrchbi,87,tutor,Okay. Let me erase this. [unclear],00:20:37
+hmrchbi,88,student,Would the answer to be not just be this?,00:20:46
+hmrchbi,89,tutor,And why do you think that's the answer?,00:20:52
+hmrchbi,90,student,"Because I've picked a blue sweet, which is 4 over 12, and then you pick a yellow sweet, which is 8 over 11, and then you multiply them. [unclear] Oh wait, and then you do this, and then you'd add them too. Which— so what would be the final answer then, Elara?",00:20:55
+hmrchbi,91,student,64 over 132.,00:21:20
+hmrchbi,92,tutor,"I would like you to read the question again, if you don't mind, Elara, and check your answer.",00:21:24
+hmrchbi,93,student,Would it just be 32 over 132 as my final answer? [unclear],00:21:50
+hmrchbi,94,tutor,"Mm-hmm, and can you like explain why that is your final answer?",00:21:56
+hmrchbi,95,student,Because it's blue and then yellow.,00:22:03
+hmrchbi,96,student,"So obviously you just use blue and yellow, not yellow and blue.",00:22:05
+hmrchbi,97,tutor,"Exactly, exactly. There you go. And even I noticed that here initially you wrote 24, right? Then you adjusted your answer. That you did on your own, so that's again a good skill. And obviously you would get this one marks here. That's 32 or 132. So here you get one marks.",00:22:10
+hmrchbi,98,tutor,"Well, in these scenarios you can write the simplified fraction as well. Okay, it's better if you write simplified fraction, but still you would get the 1 marks if you have written 32/132. So no worries with that. Now shall we move to the C question?",00:22:32
+hmrchbi,99,student,Yeah.,00:22:48
+hmrchbi,100,student,"Would it be— wait, hold on. [unclear] [unclear]",00:23:03
+hmrchbi,101,tutor,"And why 76, Elara?",00:23:23
+hmrchbi,102,student,"So I used the probabilities that have a blue suite, so I used these 3, and then I did 12 at 32, and then I got 76. 76, which is all over 132 because they all have the same denominator.",00:23:36
+hmrchbi,103,tutor,"Exactly. And again, you would get 2 marks, obviously. Uh, but, and yeah, if you show— but in this scenario, if you see, this is a 2 marks question, right? So if you have written only the final answer, you would get 1 mark because you have to show how you got this answer as well. Okay, Elara. So as you, like, you were [unclear] how you got that, but in exams you have to write and show. So the explanation you gave was you added all these three fractions which you got to this answer. So you have to show that you have to add up all these fractions and equal to 76/132. Okay, Elara, is that clear?",00:23:55
+hmrchbi,104,student,Yep. [unclear],00:24:46
+hmrchbi,105,tutor,"Okay, and if you were not to use this method, can you like explain any other method to get this answer? Rather than adding, how can you get to this answer? Using the probability rules, I'll give you a hint. So the total probability of occurring all the event is 1. How can you use that to get this answer? [unclear]",00:24:49
+hmrchbi,106,tutor,Any idea?,00:25:36
+hmrchbi,107,student,"No, I'm not sure.",00:25:37
+hmrchbi,108,tutor,"Okay, no worries. Well, again, that's the beauty of [UNCLEAR]. There's no like a single method to find answer. You can come from this side, this way, or even from this way. Still, you can get to the final answer. So if you see here, in all these 3 probabilities, we have blue, right? But in here only, we would— we are selecting yellow first in the yellow first pick and also yellow in the second pick, right? So 56/132 is the probability of taking yellow first time and also in second time. In all other scenarios, we will be choosing blue at least once. Is that clear, Elara?",00:25:40
+hmrchbi,109,student,Yeah.,00:26:21
+hmrchbi,110,tutor,So the total probability of all these 4 combinations is 1. Is that clear? [unclear],00:26:23
+hmrchbi,111,student,Yeah.,00:26:31
+hmrchbi,112,tutor,"So see what— how we can find this answer simply by sub— one, subtracting 1 by 56/132, which would give you this answer as well. So in that way, you can find this answer too. Okay, Elara, is that— [unclear]",00:26:32
+hmrchbi,113,student,Yeah.,00:26:57
+hmrchbi,114,tutor,"Okay, great. So again, as I said, there's no like a strict method to find answer. If they are mentioned like use the probability rule, like the total event probability, you want to find the answer, then obviously you have to use that. But since they haven't mentioned, you can get to this answer with a proper value method. And with that, we have completed the calculating probabilities without replacement also, which you did everything on your own. As always, a great working out. I mean, I'm really impressed with the way you worked out, very similar to what the marking scheme has given.",00:26:59
+hmrchbi,115,student,Thank you.,00:27:41
+hmrchbi,116,tutor,"And with that, we'll— you're welcome. So with that, uh, shall we move to the last exam style question of this lesson?",00:27:42
+hmrchbi,117,student,Yeah.,00:27:52
+hmrchbi,118,tutor,"Give me a second. Okay, give me a second. It is going to be this. Now hopefully this at least would be a bit challenging for me because I want to see you challenged. So here, completing more complex tree diagram. Don't get scared with 3 branches. Same, uh, what methods? I mean, same principle. Only thing is instead of 2, we have 3 branches. Read this question on your own. Again, take your time, fill out this diagram, and then we will have a discussion. [unclear] [unclear]",00:27:52
+hmrchbi,119,student,[UNCLEAR] [unclear],00:27:52
+hmrchbi,120,student,[unclear] [unclear],00:27:52
+hmrchbi,121,student,I have no idea.,00:29:35
+hmrchbi,122,tutor,"Okay. Which part is like harder for you? Like, in which part are you feeling stuck?",00:29:50
+hmrchbi,123,student,I don't know how— I just don't know how to put it out. There's just too many lines. I don't know.,00:30:00
+hmrchbi,124,tutor,"Okay, well, no worries. Again, Elara, at least we would be learning this together. So I'll start this question first. We'll complete the diagram with the help of this slide. Okay, so we'll, uh, I'll write this 15 here for your reference as well. So what's this 15, uh, Elara? [unclear] What's the 15? What is this 15 you have calculated here?",00:30:07
+hmrchbi,125,student,"Uh, the number of crisps that you have all together.",00:30:35
+hmrchbi,126,tutor,"Exactly. So that's the total number of units. Yeah, is that clear?",00:30:40
+hmrchbi,127,student,"Yeah. Okay, so here, or else we have to fill out again, right? We'll use this part itself. Sorry about that. So here we have first pick, we have second pick. Okay, so here we have cheese and onion and ready salted, and then salt and vinegar. Okay, so shall we fill out the first pick part?",00:30:45
+hmrchbi,128,student,Yeah.,00:31:10
+hmrchbi,129,tutor,"Okay, so here we have 4 dashes. Which is obviously I have to cut off one dash here. I'll remove this dotted line. So we have actually, we have 3 dotted lines. Okay, so what would be the probability in this branch? [unclear]",00:31:12
+hmrchbi,130,student,5 over 15.,00:31:35
+hmrchbi,131,tutor,And why do you think it's 5 over 15?,00:31:40
+hmrchbi,132,student,Because you have 5 cheese and onion and there's 15 altogether because the branches go into cheese and onion.,00:31:43
+hmrchbi,133,tutor,"Exactly, exactly. Likewise, can you fill out the remaining 2 [UNCLEAR]? Okay, now we are done with the first pick. Now shall we— we'll go back to the question. Okay, so here there we have completed this part. Itel picks 2 packs at random. Okay.",00:31:50
+hmrchbi,134,student,Yeah.,00:32:27
+hmrchbi,135,tutor,"So my question is, what would be the next question? I mean, what would be the next step, you think?",00:32:27
+hmrchbi,136,student,Would you do 15 take away 2?,00:32:38
+hmrchbi,137,tutor,"Mm-hmm, okay. And why do you think it's 15 take away 2?",00:32:43
+hmrchbi,138,student,"Because you have— so 15 is the number of [unclear] you have altogether, and then if you're taking away 2 packs, you're only left with 13 packs.",00:32:48
+hmrchbi,139,tutor,"Okay, well, yeah, I mean, yeah, your explanation is valid, but in this question there has to be a small change. Here they are not taking 2 packs in the first pick itself. It is going like they are taking the first pack and then taking the second pack. So like, same like this, the replacement question we did, uh, that it has to be like, uh, [unclear]",00:32:59
+hmrchbi,140,tutor,"Sorry. It has to be like they would be taking— if you see here, first pick, they are given heading as first pick and second pick, right? So obviously what is happening is they are taking first pack once, after that they are taking the second pack. Is that clear? They are not taking two packs together. They are taking pack one and the second pack next. Is that clear, Elara?",00:33:34
+hmrchbi,141,student,Yeah.,00:34:01
+hmrchbi,142,tutor,"So then in that case, what would be the answers here? Exactly, there you go. So can you fill out the remaining, if you don't mind, Elara? I mean, if you feel stuck, If you need help, you can obviously let me know.",00:34:03
+hmrchbi,143,student,"I'm not sure what the answer on the bottom would be. Like, I know it would be 10, but where does— like, why is it 10?",00:34:27
+hmrchbi,144,tutor,"Which one are you referring to, Elara? Can you point that out?",00:34:37
+hmrchbi,145,student,"Like, so this probability here.",00:34:42
+hmrchbi,146,tutor,"Okay, that's a good question. So here we are. What is this 4:14? What does this 4:14 denote?",00:34:46
+hmrchbi,147,student,"Um, that there's 4 packets of cheese and onion out of 14 packs.",00:34:58
+hmrchbi,148,tutor,"Okay, and why 4 packs?",00:35:08
+hmrchbi,149,student,"Um, because one of them has been taken away. [unclear]",00:35:12
+hmrchbi,150,tutor,"Exactly, there you go. So that's the key thing, if you remember to think about whether the first pack has been replaced. Since we are not replacing, and obviously this is first [unclear] without replacement question. Okay, anyway, uh, so here we have 3 branches, right? So what could be these 3 branches denote?",00:35:18
+hmrchbi,151,student,"Cheese and onion, ready salted, and salted vinegar.",00:35:41
+hmrchbi,152,tutor,"Exactly, there you go. Same, same question. As I mentioned earlier, don't be tempted by seeing all these additional branches. The same principle, only thing is instead of 2, we have 3 branches. So now if we have taken a cheese and onion in the second pick, we would be having 14 packs left and 4 packs of cheese and onion will be left to take in the second pick, right? So what would be the other fractions?",00:35:46
+hmrchbi,153,student,"Um, would it be 10 over 14?",00:36:20
+hmrchbi,154,background,"Uh, 10 over 14. Why is it 10 over 14, uh, Elara? Is it because she'd still have 6 ready salted packs and then 4 salted vinegar packs left?",00:36:28
+hmrchbi,155,tutor,"So you're adding both of them together, right?",00:36:43
+hmrchbi,156,student,Yeah.,00:36:46
+hmrchbi,157,tutor,"And what's the reason for adding those two? I mean, don't worry whether the answer is correct or wrong, just I would like you to know your thought as well. Any reason for adding these two fractions?",00:36:47
+hmrchbi,158,background,"Uh, because I just, uh,",00:37:00
+hmrchbi,159,student,That is what I have left.,00:37:02
+hmrchbi,160,tutor,"Okay, okay. Well, yeah, that's, that's a good explanation there. But if you see here, here we have 3 types of probabilities occurring, right? Taking G [UNCLEAR], taking R already sorted, and again taking SV, right? The same thing happened in the second pick also. So here again, if you see, we have R, S, and SV. So we have to again do the same, uh, what we did here. For example, if I go here, you did 4/12 and 8/12, and then in the second pick we had 3/11, and here we did 8/11, right? The same thing, instead of 2, we would be doing with 3. So that means here in the Rs. Okay, let's think like this. Altogether we had 15 packs. Is that clear, Elara?",00:37:05
+hmrchbi,161,student,Yeah.,00:38:03
+hmrchbi,162,tutor,"So after picking Cu in the first pick, we have 14 packs left. Okay, out of those 14, how many Rs [unclear] packs we have?",00:38:05
+hmrchbi,163,student,6.,00:38:20
+hmrchbi,164,tutor,Exactly. And how many SV packs we have?,00:38:22
+hmrchbi,165,student,"Um, 4.",00:38:27
+hmrchbi,166,tutor,And why we have 6 and 4?,00:38:29
+hmrchbi,167,student,"Um, because that's just how many we have to start with, and none of them have been taken away.",00:38:34
+hmrchbi,168,tutor,"Exactly. Brilliant. That explanation was spot on. So now we have filled those fractions here. For RS, you would be having 6/14, and SV, you would be having 4/14. Same principles for these 3— these branches are same. Is that clear, Elara?",00:38:40
+hmrchbi,169,student,"Yeah, I wasn't sure if, um, if this was aligned because it was just in a really awful position. Yeah, so I thought— [unclear] Yeah, I didn't think I could put anything there, so I just added them together and like thought I could only put an answer",00:39:00
+hmrchbi,170,tutor,"Okay, sorry about that, Elara. We'll try to make these visuals a bit bigger for you. But again, again, that's a good point you brought out. Like, if you like rely on the dashes, then obviously you can get misled because even here, if you see, we have 4 dashes, dotted line, right? So if you, if you were to like fill all those 4, you would be again confused with why we have an additional [unclear] what we have to fill here. So you'd be thinking that. So even in the exam, sometimes they might give you to test your actual understanding. So what you have to be very much conceptually good with this sort of question. Don't get misled by extra dashes, okay?",00:39:16
+hmrchbi,171,student,"Yeah, do we not actually need this one then? Is that one just there for no reason?",00:40:00
+hmrchbi,172,tutor,"Yeah, that is to confuse— make you confused. They are testing your skill, your conceptual understanding. Okay, so don't let them like, uh, make you intimidated. Just focus on the question, focus on the method, the way you answer, and just fill out this. Even if you, if you feel these dotted lines are distracting, just remove them and do it on your own. Okay, Elara?",00:40:04
+hmrchbi,173,student,Yeah.,00:40:33
+hmrchbi,174,tutor,"But since we have only half a minute left, I have to like end the session for today. But anyways, we— I really enjoyed this lesson. I mean, so this is the second week we are doing, right?",00:40:36
+hmrchbi,175,student,Yeah.,00:40:51
+hmrchbi,176,tutor,"So obviously I would mark this lesson completed. You would be getting some post-session quiz. Please do mark them, Elara, so that we can know how you have understood the lesson. So we would meet with a new lesson next week. Okay, Elara?",00:40:51
+hmrchbi,177,student,Okay.,00:41:08
+hmrchbi,178,tutor,"Okay, see you.",00:41:09
+hmrchbi,179,student,Thank you.,00:41:11
+hmrchbi,180,tutor,Thank you.,00:41:12

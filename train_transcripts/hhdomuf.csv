@@ -1,0 +1,252 @@
+session_id,utterance_id,role,content,timestamp
+hhdomuf,0,student,Hello.,00:00:00
+hhdomuf,1,tutor,Hello. How are you doing?,00:00:00
+hhdomuf,2,student,Good.,00:00:05
+hhdomuf,3,tutor,Great. Good to hear. What did you do on the weekend?,00:00:08
+hhdomuf,4,student,I celebrated Eid.,00:00:12
+hhdomuf,5,tutor,"Ah, Eid al-Adha. What did you have for Eid? The feast? I went to other people's houses.",00:00:15
+hhdomuf,6,tutor,Did you fast as well?,00:00:36
+hhdomuf,7,student,Yeah.,00:00:38
+hhdomuf,8,tutor,Okay. What's it like fasting?,00:00:39
+hhdomuf,9,student,It's a bit easy. A lot of talking.,00:00:43
+hhdomuf,10,tutor,Okay.,00:00:51
+hhdomuf,11,student,But—,00:00:51
+hhdomuf,12,tutor,Very good.,00:00:53
+hhdomuf,13,student,How many [UNCLEAR]?,00:00:54
+hhdomuf,14,tutor,"Okay. All right. Well, good. So last time we were talking about rounding numbers to the nearest tenth.",00:00:54
+hhdomuf,15,background,"Wait, I think I have it. I have it so far.",00:01:10
+hhdomuf,16,tutor,Round this number to the nearest tenth.,00:01:14
+hhdomuf,17,tutor,"Yeah, so we round the numbers to the nearest tenth. We need to start from here.",00:01:18
+hhdomuf,18,student,"Write the number and then round to the nearest tenth. Okay, so this number is 904.",00:01:26
+hhdomuf,19,student,44 rounded to the nearest tenth.,00:01:43
+hhdomuf,20,tutor,"Okay, take a look at the place value chart again. What are the columns we have?",00:01:49
+hhdomuf,21,student,"Uh, hundreds, tens, and ones.",00:01:55
+hhdomuf,22,tutor,"No, it's ones, tenths, and hundredths. You see the decimal point?",00:02:01
+hhdomuf,23,tutor,"Oh yeah, yeah.",00:02:10
+hhdomuf,24,student,4.49 rounded to the nearest tenth would be 4.5.,00:02:11
+hhdomuf,25,tutor,And then 3 times...,00:02:29
+hhdomuf,26,student,Use the number line to show what 3.22 rounded to the nearest tenth is.,00:02:31
+hhdomuf,27,tutor,And then you would add 6 to this and press 1 together.,00:02:37
+hhdomuf,28,student,"Okay, it would be there. [unclear] This is where 3.22 is rounded to the nearest tenths.",00:02:48
+hhdomuf,29,tutor,Okay. So what do you think this number is?,00:03:06
+hhdomuf,30,student,3.3?,00:03:10
+hhdomuf,31,tutor,"No, 3.3 is here.",00:03:14
+hhdomuf,32,student,[unclear] So 3.01?,00:03:17
+hhdomuf,33,tutor,It's 3.21 because it's starting from 3.2.,00:03:24
+hhdomuf,34,student,"Oh, 3.21. 3.22, 3.33, 3.23, 3.24, 3.25.",00:03:31
+hhdomuf,35,student,"After, it says each pack contains 27 [UNCLEAR]. So I know that I have to times 3 by 10.",00:03:50
+hhdomuf,36,tutor,So where would 3.2 be?,00:03:59
+hhdomuf,37,student,3.22 would be like here. [unclear],00:04:04
+hhdomuf,38,student,"Okay, what is 24.02 rounded to the nearest tenth?",00:04:15
+hhdomuf,39,student,Probably 2... 2... 4... point... one.,00:04:30
+hhdomuf,40,tutor,What is 3.99 rounded to the nearest tenth?,00:04:44
+hhdomuf,41,student,Uh... 4... [unclear],00:04:50
+hhdomuf,42,tutor,Can you explain C?,00:04:57
+hhdomuf,43,student,"C, because 0 rounded to the nearest 10 would be 1.",00:05:11
+hhdomuf,44,student,So the answer would be 24.1.,00:05:20
+hhdomuf,45,tutor,Why would 0 be rounding to 1?,00:05:24
+hhdomuf,46,student,Because 1 is the closest to 0. [unclear],00:05:27
+hhdomuf,47,tutor,"Okay. Not exactly how we think of rounding, right?",00:05:34
+hhdomuf,48,student,Okay.,00:05:40
+hhdomuf,49,tutor,"So remember the digits 0, 1, 2, 3, 4, they always round down, right?",00:05:41
+hhdomuf,50,tutor,They round down to the previous multiple of 10.,00:05:51
+hhdomuf,51,student,"Yeah, but there's no previous multiple of 10 in 0.",00:05:55
+hhdomuf,52,tutor,So then it's just 0.,00:06:01
+hhdomuf,53,student,Oh. So it's 24.0.,00:06:03
+hhdomuf,54,tutor,Yeah. [unclear],00:06:07
+hhdomuf,55,tutor,You only go to the next multiple if it's more than? [unclear],00:06:20
+hhdomuf,56,student,Okay.,00:06:29
+hhdomuf,57,tutor,When do you go to the next multiple?,00:06:30
+hhdomuf,58,student,You go to the next multiple if it's above 5.,00:06:33
+hhdomuf,59,tutor,For the 10? If you round it to the nearest 10? Which column is that that you're talking about?,00:06:40
+hhdomuf,60,student,"So if it's, let's say, 2.54, this would be the tenths column, the 5. [unclear]",00:06:46
+hhdomuf,61,tutor,Which column should we look at? Should be more than 5 or less than 5. Which column is that for?,00:07:08
+hhdomuf,62,student,Probably the ones. [unclear],00:07:16
+hhdomuf,63,tutor,"The one that is circled is the right column, but that's not called ones column. That's called the hundreds column.",00:07:20
+hhdomuf,64,student,This is called the ones column.,00:07:27
+hhdomuf,65,tutor,"So it's always the column after the one that you are asking to round to. So if they ask you to round to the tenths, you're looking at the hundredths column for the— whether it's less than 5 or more than 5, right?",00:07:31
+hhdomuf,66,student,Mm-hmm.,00:07:45
+hhdomuf,67,tutor,That's what you should look at. It's always the column after the one that they're asking you to round.,00:07:46
+hhdomuf,68,student,I wanted to— [unclear] Tara has seen a tennis racket she wants to buy. She says it costs £24.50 to go to the nearest temple.,00:07:57
+hhdomuf,69,background,What could the next exact price of the racket be? Give 2 possible answers. [unclear],00:08:11
+hhdomuf,70,student,7.,00:08:19
+hhdomuf,71,background,8.,00:08:22
+hhdomuf,72,student,It could be £25. So it's...,00:08:26
+hhdomuf,73,student,"It could be £25 or it could be £23. Actually, no, £24. [unclear]",00:08:36
+hhdomuf,74,student,Or £26.,00:08:54
+hhdomuf,75,tutor,This one's a little bit different. What they've actually given you is— read the question one more time. [unclear],00:09:05
+hhdomuf,76,student,"Tara has seen a tennis racket she wants to buy. She says it costs £24.50. To the nearest 10p, what could the next exact price of the racket base? Give 2 possible answers.",00:09:17
+hhdomuf,77,tutor,"If you round to the nearest 10p, they've given you the price of the racket when they rounded it. So that's the answer that you get after rounding. So that's what they've given with £24.50. Do you understand that?",00:09:33
+hhdomuf,78,student,Yeah.,00:09:52
+hhdomuf,79,tutor,"So if they ask you for the exact price of the racket, how do we find that then?",00:09:55
+hhdomuf,80,student,"You'd have to do £24.50 to the nearest 10p because— let me just— [unclear] And since it said how many wheels are there altogether, [unclear] times 7 by 4.",00:10:03
+hhdomuf,81,student,"This is the key point that we need to understand. Without this advice, we won't really know how to work it out because it doesn't really say how to do it. And it doesn't really give us like things to work out with, like how much it costs or how much we need to round it up to. [unclear]",00:10:31
+hhdomuf,82,tutor,"Good job identifying the important part in the question. Okay, we'll see how we can use that now. So in the earlier questions, what you were always given [Speaker:Tutor]...is the exact number and they ask you to round it, right?",00:11:03
+hhdomuf,83,student,Yeah.,00:11:21
+hhdomuf,84,tutor,And give the answer after you round it.,00:11:23
+hhdomuf,85,student,Yeah.,00:11:27
+hhdomuf,86,tutor,How is this different?,00:11:29
+hhdomuf,87,student,It's different because it's 10p. It's not tenths or tens.,00:11:31
+hhdomuf,88,tutor,"Okay. If you're rounding to the nearest 10p, is it still talking about the same column?",00:11:39
+hhdomuf,89,student,Probably no.,00:11:47
+hhdomuf,90,tutor,Probably not? Okay.,00:11:52
+hhdomuf,91,student,Because it's talking about the ones column.,00:11:53
+hhdomuf,92,tutor,"No, it's not the ones column because of this. This is a question working with money, right? So I'll write this in a place value chart, right?",00:11:57
+hhdomuf,93,tutor,24.50. Where is your 10 pence? [unclear],00:12:17
+hhdomuf,94,student,4?,00:12:30
+hhdomuf,95,tutor,"No, that is pounds.",00:12:32
+hhdomuf,96,student,Pennies would be 1...,00:12:36
+hhdomuf,97,student,One tenth.,00:12:39
+hhdomuf,98,tutor,10 pence would be one tenth. One pence would be zero. So are they still talking about the same column?,00:12:41
+hhdomuf,99,student,No. [unclear],00:12:55
+hhdomuf,100,tutor,No?,00:12:56
+hhdomuf,101,student,"Actually, yeah, yeah, yeah, yeah.",00:12:57
+hhdomuf,102,tutor,"These two are the same column, aren't they? So 10 pence is still the same column as",00:13:00
+hhdomuf,103,tutor,Yeah. What's different about this question and the earlier questions?,00:13:14
+hhdomuf,104,student,"That 24, the answer might, could be 24 point [UNCLEAR]. 24.60 or 24 pounds and 40 pence. [unclear] Or 55 pence.",00:13:25
+hhdomuf,105,tutor,"Okay, let's take that last number you told, 24 pounds 55 pence, right? Write it down.",00:13:51
+hhdomuf,106,student,Uh... okay.,00:14:00
+hhdomuf,107,student,I haven't really got a pen and paper.,00:14:02
+hhdomuf,108,tutor,"No, no, what I mean is this. [unclear] This is what you told, right? If you round this to the nearest tenth, what would your answer be?",00:14:06
+hhdomuf,109,student,"Uh... probably... 24 pounds— no, yeah, 25 pounds— no, no, 24 pounds and 65 pence.",00:14:18
+hhdomuf,110,tutor,After you round it to the nearest 10p?,00:14:34
+hhdomuf,111,student,"Uh, I don't know.",00:14:41
+hhdomuf,112,tutor,"What is the previous multiple of 10 for this number, and what's the next multiple?",00:14:49
+hhdomuf,113,student,"Okay, the previous is 54, and the next is 56. [unclear]",00:14:57
+hhdomuf,114,tutor,That is multiples of hundreds. What about multiples of tens?,00:15:15
+hhdomuf,115,student,"Um, 50 and 60?",00:15:25
+hhdomuf,116,tutor,50 and 60.,00:15:29
+hhdomuf,117,student,Programs cost 50p. Selling programs raises [UNCLEAR]. How many programs?,00:15:37
+hhdomuf,118,background,It's probably closer to,00:15:45
+hhdomuf,119,student,"Uh, £24.60.",00:15:50
+hhdomuf,120,tutor,Why is that?,00:15:54
+hhdomuf,121,student,"Because if any number is above 5, it has to be rounded up, up. But if it's below than 5, below, blower than 5, then it's rounding down. [unclear] So 1, 2, 3, and 4 are rounding down. 5, 6, 7, 8, 9, I'm rounding up.",00:15:55
+hhdomuf,122,tutor,So do we get the answer we want from this number?,00:16:20
+hhdomuf,123,student,"Uh, yeah.",00:16:23
+hhdomuf,124,tutor,We do?,00:16:25
+hhdomuf,125,student,"Uh, yeah.",00:16:28
+hhdomuf,126,tutor,Which answer do we want?,00:16:33
+hhdomuf,127,student,"Uh, probably £24.50. You want £24.50, but your answer is actually £24.60. So did we get the answer we want?",00:16:36
+hhdomuf,128,student,No.,00:16:49
+hhdomuf,129,tutor,Okay. How do we change the number so that we get the answer we want?,00:16:49
+hhdomuf,130,student,You'd have to take away 10p.,00:16:54
+hhdomuf,131,tutor,But the number that you're changing is this. [unclear] How do you change this number? Because these are the answers that you get when you round this.,00:17:01
+hhdomuf,132,student,You'd have to do... [unclear],00:17:13
+hhdomuf,133,student,24 pounds and 50p rounded to the nearest 5.,00:17:19
+hhdomuf,134,tutor,"No, no, you can't change that. It's still— you're rounding to the nearest tenth. You just need to change this number so that it still rounds to this. How can you change that number?",00:17:28
+hhdomuf,135,student,By just drawing another number.,00:17:40
+hhdomuf,136,tutor,What do you change it to?,00:17:45
+hhdomuf,137,student,You could change it to £24.50.,00:17:48
+hhdomuf,138,tutor,Okay. [unclear],00:17:54
+hhdomuf,139,student,"Because, um, you said I have to try and change it to this number. Not this number. And definitely not this number. [unclear]",00:18:06
+hhdomuf,140,tutor,Can you give me another number that will round to £24.50p?,00:18:25
+hhdomuf,141,student,"Uh... probably £24.60, £24.40.",00:18:34
+hhdomuf,142,tutor,"No, so, what I mean is this, [UNCLEAR], do you understand the idea behind this question? Right? All this time, what you were given is a number, and then they ask you to see which number it's going to get rounded to, right? So if it was 23.56, right, this is going to be 23.5 and 23.6. These are— this is your previous multiple and this is your next multiple, right? [unclear]",00:18:41
+hhdomuf,143,tutor,You're choosing between these two.,00:19:19
+hhdomuf,144,tutor,Right?,00:19:24
+hhdomuf,145,student,Yeah.,00:19:25
+hhdomuf,146,tutor,"Because you were given this number. So I can just look at this digit and check which one is closer to. Here it's going to be this, right? But now in our question, [unclear] is missing. The actual number is missing. [unclear]",00:19:27
+hhdomuf,147,tutor,You understand that?,00:19:51
+hhdomuf,148,student,Yeah.,00:19:54
+hhdomuf,149,tutor,The actual number is missing. We are supposed to find that after we know that the answer that it gets rounded to is 24.50. Do you understand that?,00:19:55
+hhdomuf,150,student,Yeah.,00:20:18
+hhdomuf,151,tutor,So we need a number that's going to get rounded to 24.50 from somewhere. So what could that number be?,00:20:19
+hhdomuf,152,student,23.60? [unclear],00:20:30
+hhdomuf,153,tutor,Why would 23.60 get rounded to 24?,00:20:36
+hhdomuf,154,student,Because that's what you just wrote a minute ago.,00:20:43
+hhdomuf,155,tutor,"No, I changed the numbers now. That was just an example.",00:20:49
+hhdomuf,156,student,Uh... what about... if I do... uh... [unclear] 24 point— 24.56. [unclear],00:20:52
+hhdomuf,157,tutor,"Okay, what would that number get rounded to?",00:21:29
+hhdomuf,158,student,24.50.,00:21:33
+hhdomuf,159,tutor,Why would it get rounded to 24.50?,00:21:37
+hhdomuf,160,student,Because... because... because I moved it up 6 places. [unclear],00:21:41
+hhdomuf,161,background,"Do you remember which If you're rounding to the nearest tenth, can you circle the digit we look at to decide whether we need to round up or down? Which digit is that?",00:21:59
+hhdomuf,162,student,Probably... [unclear] Probably the tenths column. You look at the digit after the tenths column. That's how you decide.,00:22:18
+hhdomuf,163,student,"Oh, so this column.",00:22:36
+hhdomuf,164,tutor,"Yeah, so that's the digit we're looking at. So if you have a number and you're rounding to the nearest tenth, okay, the idea in rounding is always this, right? If you have, let's say, a number like this, 32 point [UNCLEAR]. 5, 6. If you want to round to the nearest ones, you look at the digit after the ones. You get it? So it's always the column after that gets decided. If they ask you to round to the nearest tenth, we look at the digit after the tenth. Always the column after it that you look at.",00:22:42
+hhdomuf,165,student,[unclear],00:23:19
+hhdomuf,166,student,So after the tens column.,00:23:25
+hhdomuf,167,tutor,"No, it's not after the tens column. It's all— if they say round to the nearest tens, you look at the ones digit. If they ask you to round to the nearest ones, you look at the tenths column.",00:23:29
+hhdomuf,168,student,So [unclear] after it.,00:23:45
+hhdomuf,169,student,"So if it's rounded to the tenths column, you round to the ones column, but if it's rounded to the ones column, then you round it to the tenths column.",00:23:49
+hhdomuf,170,tutor,"Yeah, so if they talk about the tenths column, then you look at the hundredths. Does it make sense?",00:23:56
+hhdomuf,171,student,"Yeah. Okay, you got to show me with an example because you don't seem to actually understand this stuff. Okay, I'm going to ask you with this number. Okay, circle the column. If I'm rounding to the tens, which digit I need to look at?",00:24:12
+hhdomuf,172,student,You're going to look at this number.,00:24:33
+hhdomuf,173,tutor,No. If you're looking at this number.,00:24:37
+hhdomuf,174,student,[unclear] This number.,00:24:40
+hhdomuf,175,tutor,"So that is if I'm looking at the tenths. [unclear] Okay, if I'm rounding to the nearest tens, T-E-N-S, which column am I looking at then? Throughout.",00:24:45
+hhdomuf,176,student,Probably the—,00:25:01
+hhdomuf,177,student,Um... this one?,00:25:10
+hhdomuf,178,tutor,"If you're rounding to the tens, which digit do you need to look at?",00:25:13
+hhdomuf,179,student,"Round it to the tens, you have to look at this one.",00:25:18
+hhdomuf,180,tutor,"You look at the digit after it, okay? It's always the one after it. That is the one we have to check whether it's 5 or more.",00:25:23
+hhdomuf,181,tutor,Okay?,00:25:34
+hhdomuf,182,student,Okay. [unclear],00:25:34
+hhdomuf,183,tutor,"Okay, so now your number is 25— 24.56, right?",00:25:42
+hhdomuf,184,student,"Okay, so what am I looking for?",00:25:53
+hhdomuf,185,tutor,You want the answer as 24.50. How do you change the number here so that you end up getting the answer as this when you round?,00:25:57
+hhdomuf,186,student,"Uh, you would have to do 24.50 rounded to the nearest [UNCLEAR].",00:26:07
+hhdomuf,187,tutor,"No, you're not rounding this. You're not rounding this. This is the number that you're rounding.",00:26:17
+hhdomuf,188,student,"Oh, so you have to do",00:26:23
+hhdomuf,189,student,"And then after, you would have to do 24.56. The 6 in the hundredths column, you would have to round it down to get 0 into the other column.",00:26:27
+hhdomuf,190,tutor,But does 6 actually round down?,00:26:44
+hhdomuf,191,student,6 only rounds down if it's below,00:26:48
+hhdomuf,192,student,"Uh, 5? But—",00:26:53
+hhdomuf,193,tutor,"Yeah, so it has to be below 5. So that means you can't have 6 there. What can you have?",00:26:55
+hhdomuf,194,student,"You could only have, uh, 1, 2, 3, and 4.",00:27:02
+hhdomuf,195,tutor,"Yeah, so that's what we will do. [unclear] You change this digit into one of those. Let's say a 3. Now does it round to this answer?",00:27:07
+hhdomuf,196,student,"Uh, yeah.",00:27:19
+hhdomuf,197,tutor,So that could be one of the numbers here. Do you understand that?,00:27:21
+hhdomuf,198,student,Yeah.,00:27:32
+hhdomuf,199,tutor,Can you give me another number that will round to 24.50?,00:27:33
+hhdomuf,200,student,"Uh, probably 20... [unclear] [Speaker:Kieran]...5... 7... [unclear]",00:27:38
+hhdomuf,201,student,"Uh, well, you can make it.",00:28:03
+hhdomuf,202,student,"Like you did in the other question, so 24.50. You'd have to change the 7 to either 1, 2, 3, or 4. I'm going to be doing 1. And then now you could run at 24.50. 1 to 24.50 because if the number is below 5, then you can round it down towards 24.50, but if it's 5, 6, 7, 8, 9, then it has to round up.",00:28:12
+hhdomuf,203,tutor,Mm-hmm.,00:29:00
+hhdomuf,204,student,So that's why I crossed out the 7. [unclear],00:29:02
+hhdomuf,205,tutor,"So, can you explain the idea behind this question now in your own words?",00:29:19
+hhdomuf,206,student,Yeah.,00:29:30
+hhdomuf,207,student,"So if you do £24.50 to the nearest 10p, you would have to round up because you can round up or down because it's a zero, but you would have to mainly round down because 1, 2, 3, and 4 if it's below 5, then it has to go down, round down. But if it's 5, 6, 7, 8, 9, then it has to round up. So... and if it's a number like 7, 6, 5, or any of the big numbers, then you'd have to, um, not use that number but change it to [UNCLEAR]. [Speaker:Tutor]... [unclear] [Speaker:Kieran]... [unclear] a lower number, and then you'll be able to round to the smaller number of that number you're trying to round to.",00:29:34
+hhdomuf,208,tutor,"Okay, all right, good effort trying to explain that, Kieran. Okay, so some of the numbers that we came up with is 24.51, 24.52, right?",00:30:36
+hhdomuf,209,student,Yeah.,00:30:49
+hhdomuf,210,tutor,Would this number also round to 24.50?,00:30:54
+hhdomuf,211,student,Um... no.,00:31:03
+hhdomuf,212,tutor,No?,00:31:08
+hhdomuf,213,student,"No. Because it's bigger than... because it's bigger than... it's bigger than the smaller numbers. Because if it's bigger than the smaller numbers, then You'd have to not use that number and use like 1, 2, 3, and 4 because they're the closest to 24.50. [unclear]",00:31:09
+hhdomuf,214,tutor,What's the next multiple of 10 for 24.48?,00:31:33
+hhdomuf,215,student,Next multiple of 10 for 24.48 would be 24.5.,00:31:42
+hhdomuf,216,tutor,"24.5. So if you write around 24.48 to the nearest cent, what answer would you get?",00:31:51
+hhdomuf,217,student,"Uh, 24.5. [unclear]",00:32:01
+hhdomuf,218,tutor,"You get 24.5, right?",00:32:10
+hhdomuf,219,tutor,So isn't it the same thing then?,00:32:16
+hhdomuf,220,student,"Yeah, I'll try. [unclear]",00:32:20
+hhdomuf,221,tutor,So is it the same? So is that also a possible amount for the bracket?,00:32:25
+hhdomuf,222,student,Yeah.,00:32:33
+hhdomuf,223,tutor,"So it doesn't need to be really big numbers that round down, right? It can also be— smaller numbers that can round up.",00:32:36
+hhdomuf,224,student,Mm-hmm.,00:32:46
+hhdomuf,225,tutor,Okay?,00:32:48
+hhdomuf,226,student,Yeah.,00:32:49
+hhdomuf,227,tutor,So what do you think this question is actually trying to show us?,00:32:50
+hhdomuf,228,student,"This question is trying to show us, like, like, um, um, if, if, um, there's",00:32:53
+hhdomuf,229,student,"A smaller, like 24.50, if there's a 4 in this column then, and you do 23.50, then you can still round up because you're trying to get 24.50 because [unclear]",00:33:08
+hhdomuf,230,student,Because 24.50 is bigger than 23.0. [unclear],00:33:33
+hhdomuf,231,tutor,Okay. So what this question is actually trying to show us is you are talking about which numbers will go up to round to that number and which numbers will round down to go to the same number.,00:33:41
+hhdomuf,232,tutor,"Right, so it's talking about the boundaries. Whenever you round a number, you end up getting some numbers that round upwards like this, like this one, right? That's an example, right?",00:33:59
+hhdomuf,233,student,Yeah.,00:34:17
+hhdomuf,234,tutor,And then some numbers that round down the same number. [unclear] [unclear],00:34:19
+hhdomuf,235,student,"So for the one here, it only shows like 3 parts.",00:34:29
+hhdomuf,236,tutor,Multiplying and dividing whole numbers and decimals by 10 and 100. Complete the calculation. 2.06 times 100 would equal to 206.00.,00:34:40
+hhdomuf,237,tutor,"Okay, how do you know that?",00:35:09
+hhdomuf,238,student,Because you're just moving the digits 2 places to the left.,00:35:11
+hhdomuf,239,tutor,"Alright, nicely explained. Okay, so we left Kieran a few questions there.",00:35:18
+hhdomuf,240,student,"Use the [unclear] chart to work out 0.95 times 100. I already know the answer, it's 0.95.",00:35:30
+hhdomuf,241,student,"But you don't have to put the zero on, it can just be 95.00.",00:35:45
+hhdomuf,242,tutor,Use the following to complete the calculations below. Use each term only once. 53...,00:35:58
+hhdomuf,243,student,"53 divided by 10 would equal to that one. 51.5, I think that one would have to go here. 0.12 to get to 1.2. You would have to divide by 100. And then [UNCLEAR].",00:36:10
+hhdomuf,244,tutor,"Okay. All right, we'll try that question again next time, all right?",00:36:46
+hhdomuf,245,tutor,Okay.,00:37:03
+hhdomuf,246,background,"All right then, Kieran. I think we're running out of time, so we'll stop there for now. What do you think you learned from today?",00:37:04
+hhdomuf,247,student,"I learned how to round numbers up and down. I learned that you can only round numbers if they're big numbers, you can round them up. If they're small numbers, you can only round them down.",00:37:11
+hhdomuf,248,tutor,"More than any of that, I want you to remember that when you round, they give you columns round 2. Yes? If they ask you to round to the nearest tenth, that means you look at the digit after that column. [unclear]",00:37:29
+hhdomuf,249,tutor,"Bye, Kieran. We'll end it there then. Bye.",00:37:46
+hhdomuf,250,student,Bye.,00:37:53

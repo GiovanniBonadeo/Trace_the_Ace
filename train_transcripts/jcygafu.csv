@@ -1,0 +1,357 @@
+session_id,utterance_id,role,content,timestamp
+jcygafu,0,background,[unclear],00:00:00
+jcygafu,1,tutor,Hello? [unclear],00:00:00
+jcygafu,2,student,Hello?,00:00:01
+jcygafu,3,background,"Hello, can you hear me?",00:00:05
+jcygafu,4,tutor,Yeah.,00:00:08
+jcygafu,5,background,"Okay, great. So, welcome back, how are you doing?",00:00:10
+jcygafu,6,student,Alright.,00:00:15
+jcygafu,7,tutor,"Alright? Okay, how about today? Has it been good so far?",00:00:17
+jcygafu,8,student,Yeah.,00:00:22
+jcygafu,9,tutor,"So, how about getting prepared for the GCSEs?",00:00:25
+jcygafu,10,student,Alright.,00:00:30
+jcygafu,11,tutor,Alright?,00:00:31
+jcygafu,12,student,Yeah.,00:00:33
+jcygafu,13,tutor,I hope everything is going well. Yeah?,00:00:33
+jcygafu,14,student,Yeah.,00:00:36
+jcygafu,15,tutor,"Yeah, okay. So, [STUDENT_NAME], today we have a continuation from our last session. Right? Factorizing quadratics, right?",00:00:37
+jcygafu,16,student,Yeah.,00:00:47
+jcygafu,17,tutor,"So yeah, uh, can you remember learning to factorize an equation like this?",00:00:48
+jcygafu,18,student,"Uh, hold on, just, um, so it's two brackets. [unclear] And then it'll be what adds up to make 6 and what times together to make 5. [unclear] No, the other way around.",00:00:56
+jcygafu,19,student,"Yeah, the other way around, yes.",00:01:23
+jcygafu,20,tutor,So what adds together to make 5 and what times together to make 6? So it'll be 3 and 2.,00:01:27
+jcygafu,21,student,Exactly. [unclear],00:01:32
+jcygafu,22,tutor,"Can it be 3 or 2? Here, when you times it, it has to be -6, right?",00:01:40
+jcygafu,23,student,"Oh yeah. Oh, minus.",00:01:45
+jcygafu,24,tutor,Yes.,00:01:48
+jcygafu,25,student,Minus. Both of them minus.,00:01:49
+jcygafu,26,tutor,Mm-hmm. -6. All right. So shall we just go through the example we did together?,00:01:52
+jcygafu,27,student,"Yes. This one, right? So basically what we did was— this is b, right? Can you remember? And this is c, right? With the sign. Okay, so, uh, c is plus 12. So first we found out what, um, factor pairs of plus 12, right?",00:02:00
+jcygafu,28,student,Yeah.,00:02:22
+jcygafu,29,tutor,"Yeah. And then, uh, we found out the factor pair that adds up to make b, which is in this case +7, right? [unclear]",00:02:24
+jcygafu,30,student,"Could you repeat that again, please?",00:02:39
+jcygafu,31,tutor,"Of course, of course. Let me tell that to you again. So this is n² 7n 12, right? So can you tell me what is b in this equation? What's base?",00:02:42
+jcygafu,32,student,B.,00:02:56
+jcygafu,33,tutor,"As in, yeah, the 7.",00:02:57
+jcygafu,34,student,"Plus 7, right?",00:03:00
+jcygafu,35,tutor,Yeah. And what is C?,00:03:01
+jcygafu,36,student,12.,00:03:04
+jcygafu,37,tutor,"Plus 12, right? So, uh, what do we do? The first thing we do is we write down all the factor pairs of plus 12, right?",00:03:05
+jcygafu,38,student,Yeah.,00:03:14
+jcygafu,39,tutor,"1 times 12, 2 times 6, and 3 times 4. And then what are we going to do?",00:03:16
+jcygafu,40,student,Find the pair that adds up to make b. You put 7.,00:03:27
+jcygafu,41,tutor,"Exactly, that's right. If you add them up, you should get +7, which is b, right? Then it's easy, right? Then you put n here and then n here. So you have +3 and +4, right?",00:03:33
+jcygafu,42,student,Yeah.,00:03:49
+jcygafu,43,tutor,"So everything is clear, right? No confusions? Any doubts?",00:03:51
+jcygafu,44,student,"No, not really.",00:03:58
+jcygafu,45,tutor,"Okay, so actually when we stopped last week, we were working out this question, right?",00:04:00
+jcygafu,46,student,Yeah.,00:04:08
+jcygafu,47,tutor,a² 36.,00:04:09
+jcygafu,48,student,Yeah.,00:04:11
+jcygafu,49,tutor,"Okay, actually, uh, we went on to try together, right? So can you remember I told you that this is a special case? This is also a quadratic equation, but this is a special case where there's no middle term, right?",00:04:13
+jcygafu,50,student,Yeah.,00:04:29
+jcygafu,51,tutor,"Is there a middle term? If there was a middle term, what can you say about that?",00:04:29
+jcygafu,52,student,There's no middle term?,00:04:37
+jcygafu,53,tutor,"There's no middle term. If there was one, there has to be a term with a, right?",00:04:39
+jcygafu,54,student,Yeah.,00:04:44
+jcygafu,55,tutor,"Since there's no term with a, we can say that there's no middle term. But there's c, right? What's c?",00:04:45
+jcygafu,56,student,36.,00:04:52
+jcygafu,57,tutor,-36. Okay?,00:04:55
+jcygafu,58,student,Yeah.,00:04:57
+jcygafu,59,tutor,"Make sure you think about the sign, right? So here you have a² 36. So, is equal to zero. Don't you think so?",00:04:58
+jcygafu,60,student,"Repeat that again, sorry.",00:05:11
+jcygafu,61,tutor,"No, it's fine, it's fine. If you can't hear me, just let me know, okay? I'm here to help you.",00:05:13
+jcygafu,62,student,Let me turn the [UNCLEAR]. There you go.,00:05:18
+jcygafu,63,tutor,"Sorry, I was just turning the volume, that's all.",00:05:22
+jcygafu,64,student,"Okay, okay, so now is everything all right? Can you hear me clearly?",00:05:26
+jcygafu,65,tutor,Yeah.,00:05:30
+jcygafu,66,student,"Yes, all right. So, In this case, [STUDENT_NAME], b is equal to 0, isn't it?",00:05:31
+jcygafu,67,student,Yeah.,00:05:40
+jcygafu,68,tutor,"Because there's no term. And c is -36, right? And this is called the difference of two squares because this is a squared term and this is also a squared term.",00:05:40
+jcygafu,69,student,Yeah.,00:05:57
+jcygafu,70,tutor,What's the square root of 36?,00:05:57
+jcygafu,71,background,[unclear] [unclear],00:05:59
+jcygafu,72,student,6.,00:06:16
+jcygafu,73,tutor,Yeah.,00:06:18
+jcygafu,74,student,6 squared.,00:06:21
+jcygafu,75,tutor,"6 squared, right? So can you see that this is The difference of two squares, right? This is a difference of two squares. That's why we call this the difference of two squares, and it will have a negative square number as the constant term, right? Like this, -36. And we are given— we are given an",00:06:23
+jcygafu,76,background,"a² 9. What can you say about 9? Is it a square number? [unclear] No. Hold on. Let me think. Yeah. Maybe. Yeah, it's a square number, right?",00:06:50
+jcygafu,77,student,3 squared.,00:07:10
+jcygafu,78,tutor,"3 squared. That's right. Good observation, [STUDENT_NAME]. So now we write down all the factor pairs of -9, right? How can you make 9? 1 times 9 and 3 times 3. That's all, right? Are there any more factors?",00:07:11
+jcygafu,79,student,"I don't think so. I don't know. Oh, wait. 6, [unclear] 6s, but you've already got that. [unclear] Now, [unclear] 1s. You know, it's in the 9s, not in the 7s, not in the 6s. Yeah, that's all of them.",00:07:33
+jcygafu,80,tutor,"Yes, that's all of them. And what does this sign say? One of these should be minus to get -9, right? Plus 1 times -9 gives you -9, and plus 3 times -3 gives you -9. Right? If c is minus, can you remember learning something like that? If c is minus, one of the factors has to be minus, right?",00:07:54
+jcygafu,81,student,"Yeah, one of them has to be positive.",00:08:24
+jcygafu,82,tutor,"Yeah, one of them must be positive and one of them must be negative, right? So in this case, as b is equal to 0, if you add up the factors, you should get 0, right?",00:08:27
+jcygafu,83,student,Mm-hmm.,00:08:39
+jcygafu,84,tutor,"Yeah. So here, if you add up these two, you get -8. But if you add up these two, you get 0.",00:08:40
+jcygafu,85,student,Yeah.,00:08:48
+jcygafu,86,tutor,So what's the factor pair we are going to choose?,00:08:49
+jcygafu,87,student,"3, -3.",00:08:52
+jcygafu,88,tutor,"3, +3 and -3, right?",00:08:55
+jcygafu,89,student,Yes.,00:08:58
+jcygafu,90,tutor,"This is the factor pair. So if the factor pairs are the positive and negative square roots, we end up with no middle term. [unclear]",00:08:58
+jcygafu,91,tutor,"Yeah, so if we see an expression in this form, to factorize, we simply find the positive and negative root of our square number, right? This is kind of easier, [STUDENT_NAME]. What you have to do is you put a here and a here, right? And then you square this term.",00:09:09
+jcygafu,92,student,"Yeah, okay.",00:09:31
+jcygafu,93,tutor,"Sorry, you find out the square root of this term. You don't square, okay? I'm sorry. You need to find out the square root of the— what? C.",00:09:31
+jcygafu,94,student,Yeah.,00:09:43
+jcygafu,95,tutor,Which is 3. And then you put plus and minus. That's all.,00:09:43
+jcygafu,96,student,Okay.,00:09:49
+jcygafu,97,tutor,Okay?,00:09:50
+jcygafu,98,student,Yeah.,00:09:51
+jcygafu,99,tutor,Shall we try this then?,00:09:51
+jcygafu,100,student,Yeah.,00:09:53
+jcygafu,101,tutor,What does question 1 say?,00:09:53
+jcygafu,102,student,Square root the first term and what? [unclear] And put in the left-hand side of both brackets. [unclear],00:09:56
+jcygafu,103,tutor,Yes. What's the square root of a squared?,00:10:07
+jcygafu,104,student,I don't know.,00:10:11
+jcygafu,105,tutor,A squared. Square root of a squared. If something's squared and if you are to find out the square root—,00:10:14
+jcygafu,106,student,"Yeah. It's the same thing, right? Square root of a squared is a, right?",00:10:25
+jcygafu,107,student,"Oh, okay.",00:10:33
+jcygafu,108,tutor,"You square it and do the reverse. Yeah, yeah, you square it and then you find the square root, so nothing happens. So square root of a squared is a.",00:10:34
+jcygafu,109,student,"Okay, yeah.",00:10:45
+jcygafu,110,tutor,"Okay, can you write it down?",00:10:48
+jcygafu,111,student,Yeah.,00:10:52
+jcygafu,112,tutor,"Yes. There you go. And it says put it in the left-hand side of both brackets. See, you are given two brackets. Can you put it in the left-hand side of both brackets? [unclear] There you go. All right. Now, The second step.",00:10:53
+jcygafu,113,tutor,Yeah.,00:11:19
+jcygafu,114,background,"Okay, what does it say?",00:11:20
+jcygafu,115,tutor,Square root of the last term and put it in the right-hand side of both brackets.,00:11:21
+jcygafu,116,background,Mm-hmm.,00:11:31
+jcygafu,117,tutor,So is that squaring it now?,00:11:32
+jcygafu,118,background,"You're finding the square root of 36, [STUDENT_NAME].",00:11:35
+jcygafu,119,tutor,Uh...,00:11:40
+jcygafu,120,background,"The last term is 36, right?",00:11:41
+jcygafu,121,tutor,[unclear],00:11:41
+jcygafu,122,student,"6, maybe?",00:11:41
+jcygafu,123,tutor,"Yes, it's— yes, because 6 times 6 is 36, right? So square root of 36 is 6. That's right. Okay, now what do they say? Put it in the right-hand side of both brackets. Shall we go ahead and do that? All right, now the last step. What is it? [unclear]",00:11:45
+jcygafu,124,student,Put a plus in the middle of one pair of brackets and a minus in the middle of the other pair.,00:12:18
+jcygafu,125,tutor,"Yes, shall we do that? [unclear]",00:12:31
+jcygafu,126,tutor,"There you go. All right. So, [STUDENT_NAME]? When we are given a question like this, what do we do? What are the steps that we are going to follow?",00:12:41
+jcygafu,127,student,"Square root that side, square root that side, look at the symbol, work out [UNCLEAR].",00:13:10
+jcygafu,128,tutor,"Yes, and then you put the plus sign and minus sign, right? And [STUDENT_NAME], There's something important. So here you have -36, right?",00:13:21
+jcygafu,129,student,Yeah.,00:13:32
+jcygafu,130,tutor,"So always the square root of this term, the last term, should be on the right-hand side, right? [unclear] You might get 36 a². You get something like this. 36 minus, um, just give me a second to write it down. a², right? 36 minus a². So what do we do if you get something like this?",00:13:32
+jcygafu,131,student,"Uh, do the same but opposite. [unclear]",00:14:14
+jcygafu,132,student,"As in like, so it goes over the side?",00:14:19
+jcygafu,133,tutor,"Yes, so you first you find the square root of the first term, which is 6, right? Then you put 6 instead of a. The square root of first term should be on left-hand side, right? And the square root of second term should be on the right-hand side. So then These would be like interchange, right?",00:14:22
+jcygafu,134,student,Yeah.,00:14:48
+jcygafu,135,tutor,Are we clear about that?,00:14:50
+jcygafu,136,student,Yeah.,00:14:51
+jcygafu,137,tutor,"Yeah, okay, great. So let me give you a similar type of question. Here we go.",00:14:53
+jcygafu,138,student,So it will be Y.,00:15:00
+jcygafu,139,tutor,Mm-hmm.,00:15:04
+jcygafu,140,student,And then [UNCLEAR].,00:15:06
+jcygafu,141,student,"I'm, uh, hold on, let me think. [unclear]",00:15:11
+jcygafu,142,tutor,8.,00:15:25
+jcygafu,143,student,"Then it would be, um, hold on, Y.",00:15:28
+jcygafu,144,student,Interesting. [unclear],00:15:36
+jcygafu,145,tutor,Plus Ay minus Ax. [unclear],00:15:46
+jcygafu,146,tutor,"Yes, good job, [STUDENT_NAME]. Very well done. So I can give you 2 marks for the correct answer. All right, now we know how to do it. Yeah?",00:16:01
+jcygafu,147,student,Yeah.,00:16:16
+jcygafu,148,tutor,"It's kind of easier than the other quadratics with the middle term. Yeah, what do you think?",00:16:17
+jcygafu,149,student,Maybe.,00:16:24
+jcygafu,150,tutor,All right.,00:16:25
+jcygafu,151,tutor,"Okay, then I think we are ready to try out the challenge question. But before that, [STUDENT_NAME], can you tell me one new thing you learned while working out this question?",00:16:27
+jcygafu,152,student,Square root. Square root both of the terms if it's just the [UNCLEAR].,00:16:42
+jcygafu,153,student,along with one.,00:16:42
+jcygafu,154,tutor,"Yes, there's no middle term, yeah?",00:16:54
+jcygafu,155,student,Yeah.,00:16:59
+jcygafu,156,tutor,"Okay, so let's try out the challenge question. Here we go. [unclear]",00:17:00
+jcygafu,157,student,"Oh wait, it says side.",00:17:07
+jcygafu,158,student,"The same. Hold on, let me have a look. Yeah, so it'll be... instead of just a, would it be 2x? I don't know, I'm confused. [unclear]",00:17:19
+jcygafu,159,tutor,"Okay, okay, it's fine. [STUDENT_NAME], can you see whether there's a common factor of both terms?",00:17:33
+jcygafu,160,student,"Yeah, 2.",00:17:42
+jcygafu,161,tutor,"Yeah, what is it? Yeah, that's right! Shall we take it out? Oh yeah. Do I take it out the other side as well?",00:17:43
+jcygafu,162,tutor,"Yeah. Can you remember factorizing these like single brackets, factorizing into single brackets? The first question we did.",00:17:53
+jcygafu,163,student,"Hold on. Let me think. Would it be— [unclear] Oh, this is going to be wrong. That's wrong, isn't it?",00:18:02
+jcygafu,164,tutor,"Oh, right. Yeah.",00:18:18
+jcygafu,165,student,Hold on. 2 times 9. So you take 9. So would you take 9 away?,00:18:19
+jcygafu,166,tutor,"You take out 2, right? Then you start the bracket, and then you write 9 after that, right? Or do you like to try a [UNCLEAR]? Question where a single bracket is involved.",00:18:27
+jcygafu,167,tutor,Yeah.,00:18:43
+jcygafu,168,student,Yeah. Can you remember doing this question?,00:18:43
+jcygafu,169,tutor,Yeah.,00:18:47
+jcygafu,170,student,How did you take out the common factors?,00:18:49
+jcygafu,171,background,Hold on. You looked at the— hold on. You put the one that's in both of them outside the bracket.,00:18:52
+jcygafu,172,tutor,Mm-hmm.,00:19:02
+jcygafu,173,background,A.,00:19:04
+jcygafu,174,tutor,Is it only a?,00:19:08
+jcygafu,175,student,"Hold on, a and 2, 2a. And then you'll put 2a again inside the bracket and then minus 2b.",00:19:09
+jcygafu,176,tutor,"Okay, shall we write it down, [STUDENT_NAME]?",00:19:29
+jcygafu,177,tutor,Yeah. [unclear],00:19:32
+jcygafu,178,tutor,2 times 2 is 4.,00:19:51
+jcygafu,179,student,There you go.,00:19:55
+jcygafu,180,tutor,"Okay, so if you times each term by 2a, you should get this, right?",00:19:58
+jcygafu,181,student,Say that again.,00:20:05
+jcygafu,182,tutor,"If you times these terms by 2a, you should get this, right?",00:20:07
+jcygafu,183,student,Mm-hmm.,00:20:13
+jcygafu,184,tutor,"Yeah, can you check whether you get this?",00:20:15
+jcygafu,185,background,"[unclear] Could you repeat that, guys? Not getting [unclear] at all.",00:20:17
+jcygafu,186,tutor,"All right, all right. So this is the factorized version, right?",00:20:29
+jcygafu,187,student,Yeah.,00:20:34
+jcygafu,188,tutor,"So if you take out 2a from 2a², what's left?",00:20:35
+jcygafu,189,student,2a— nothing.,00:20:42
+jcygafu,190,tutor,"From 2a², You take out 2a, right? So what are we left with? 2a times what is 2a squared?",00:20:46
+jcygafu,191,student,"2a times 2a. [unclear] Is it— oh, I don't think it should be an a there, should there?",00:21:00
+jcygafu,192,tutor,"There should be an a, that's right. But should there be a 2?",00:21:10
+jcygafu,193,student,now?,00:21:10
+jcygafu,194,tutor,"No, because this— if you times 2a by 2a, you get 4a², right?",00:21:18
+jcygafu,195,student,Yeah.,00:21:24
+jcygafu,196,tutor,"Yeah, so you take out the common term and you write down—",00:21:26
+jcygafu,197,student,"Oh, so I multiply?",00:21:30
+jcygafu,198,tutor,Yes.,00:21:33
+jcygafu,199,student,"Yeah, is that right? I'm confused.",00:21:33
+jcygafu,200,tutor,Yeah. Are you confused? Do you want me to show how it's done?,00:21:35
+jcygafu,201,student,"No, no, that's fine. It's just me.",00:21:42
+jcygafu,202,tutor,"Okay. All right, [STUDENT_NAME]. All right, so how can you [unclear] whether this is correct? What you do is you times each term by the term outside, right? So 2a times a is 2a², right? Let me write it down. 2a². Right, and 2a times 2b is 4ab, right? So if you times these terms by this, you should get the term you have here. Actually, you should get the term you need to factorize, right?",00:21:46
+jcygafu,203,student,"[unclear] 2a times a is 2a squared. 2a times -2b is 4ab, which is this, right?",00:22:32
+jcygafu,204,student,Mm-hmm.,00:22:45
+jcygafu,205,tutor,"Then you can say that you have written the correct answer, right? If you get something else, what can you say? [unclear] If you get something else other than this one, You have not found the correct answer, eh? This is how you can check.",00:22:47
+jcygafu,206,student,Mm-hmm. Okay.,00:23:05
+jcygafu,207,tutor,"Yeah, this is how you can check whether you've written the correct answer.",00:23:07
+jcygafu,208,student,Yeah.,00:23:11
+jcygafu,209,tutor,"Yeah. Okay then, shall we try this one over here?",00:23:13
+jcygafu,210,student,Yeah.,00:23:20
+jcygafu,211,tutor,Mm-hmm.,00:23:21
+jcygafu,212,student,Would you put an A out of it?,00:23:23
+jcygafu,213,tutor,"Yeah, we can take out A. Well, it goes into 13 and 18. [unclear]",00:23:26
+jcygafu,214,tutor,Are there any more common factors?,00:23:32
+jcygafu,215,student,"I'm just, uh, 3, 6, 9, 15, 18. It's in the 3s. No, it's not. Yeah, it is. Hold on, no, it's just— I contradict myself all the time. 3, 6, 9, 12. [unclear]",00:23:36
+jcygafu,216,tutor,"Yeah, it's in the freeze.",00:24:07
+jcygafu,217,student,Okay. So can you take the 3 out?,00:24:11
+jcygafu,218,tutor,Would it be 3A?,00:24:14
+jcygafu,219,student,Mm-hmm.,00:24:15
+jcygafu,220,tutor,"And then, uh...",00:24:18
+jcygafu,221,tutor,"A, B?",00:24:22
+jcygafu,222,student,Mm-hmm.,00:24:31
+jcygafu,223,tutor,"6. [unclear] No. Yeah, 6. Some 6. There you go.",00:24:31
+jcygafu,224,tutor,"There you go. Very well done, [STUDENT_NAME]. So you can check whether this is correct. See, 3a times ab is 3ab², right? And 3a times -6 is -18a, right? So this is correct. All right, so... How can you apply that in here? [unclear] [unclear] 2 and 18. So 9 will go out.",00:24:46
+jcygafu,225,tutor,What are the common factors?,00:25:31
+jcygafu,226,student,"Well, 18 and 2. So what are the common factors? [unclear] Well— What is common to 18 and 2? Well, they're both in the 2 times table. Yeah, so 2 is the common factor. Is— Could you say that again? So 2 is the common factor, right? Yeah. Is 9 common to 2?",00:25:34
+jcygafu,227,student,"Uh, no.",00:26:05
+jcygafu,228,tutor,No? Shall we take out— yeah?,00:26:07
+jcygafu,229,student,"Uh, I think I'll shove it on 2.",00:26:11
+jcygafu,230,tutor,There you go.,00:26:15
+jcygafu,231,student,It's because 9 times 8— 9 times 2 is 18.,00:26:17
+jcygafu,232,tutor,"Mm-hmm, mm-hmm, yeah.",00:26:23
+jcygafu,233,student,"19, 9— oh no!",00:26:25
+jcygafu,234,student,"Uh, would it be just x²?",00:26:31
+jcygafu,235,tutor,"So you take out 2, right? If you take out 2 from 18, what are you left with?",00:26:34
+jcygafu,236,student,"2 times, uh, x².",00:26:41
+jcygafu,237,tutor,"Yeah, it's the second term, right? What about the first term? If you take out 2 from 18?",00:26:47
+jcygafu,238,student,"Uh, 16? 2 times what is 18?",00:26:53
+jcygafu,239,student,9.,00:26:58
+jcygafu,240,tutor,"9! So is 9 going to be— there you go. 9 has to be here, right?",00:27:00
+jcygafu,241,student,Yeah.,00:27:11
+jcygafu,242,tutor,"Alright, yeah. Then?",00:27:12
+jcygafu,243,student,"Uh, x squared.",00:27:15
+jcygafu,244,tutor,Yes!,00:27:19
+jcygafu,245,student,I can't get the square thing going yet.,00:27:20
+jcygafu,246,tutor,"Alright, that's fine. Just click on the symbols. Yeah? Okay, it's fine. Shall I just draw a [unclear] for you?",00:27:23
+jcygafu,247,student,Yeah.,00:27:31
+jcygafu,248,tutor,"Okay. 9 minus x squared. Okay, so we have taken out the common factor.",00:27:33
+jcygafu,249,student,Yeah.,00:27:45
+jcygafu,250,tutor,What do you think about 9 minus x squared? [unclear],00:27:46
+jcygafu,251,student,No.,00:27:52
+jcygafu,252,tutor,No?,00:27:55
+jcygafu,253,student,"This is how it's going to be, yeah.",00:27:59
+jcygafu,254,tutor,What's it going to be?,00:28:03
+jcygafu,255,student,I don't know.,00:28:05
+jcygafu,256,tutor,"Okay, it's fine. So what did we learn here? When you have two square numbers—",00:28:07
+jcygafu,257,student,Oh yeah.,00:28:14
+jcygafu,258,tutor,"Yeah, what do you do?",00:28:16
+jcygafu,259,student,Put them into two brackets and square root both of them.,00:28:18
+jcygafu,260,tutor,Yes. Can you see whether we can try it here?,00:28:24
+jcygafu,261,student,"Yeah. So... [unclear] squared [UNCLEAR]... will be worth 18. [STUDENT_NAME],",00:28:27
+jcygafu,262,student,"now we are going to factorize this one over here, right? This part.",00:29:01
+jcygafu,263,tutor,"Wow. [Speaker] You can put 2 up front. Yeah, and now you're factorizing this part, right? Because 18 is not a square number, so you can't apply it here. But 9 is.",00:29:07
+jcygafu,264,student,[unclear] [Speaker] Yeah.,00:29:19
+jcygafu,265,student,"3. [Speaker] 3, yes.",00:29:24
+jcygafu,266,background,[STUDENT_NAME]. Why is it not [UNCLEAR]?,00:29:30
+jcygafu,267,tutor,So what's going to be in the brackets?,00:29:36
+jcygafu,268,student,3.,00:29:41
+jcygafu,269,tutor,"Mm-hmm, yeah.",00:29:42
+jcygafu,270,student,3 minus or plus x.,00:29:46
+jcygafu,271,tutor,"[STUDENT_NAME], are you typing something? I can't see anything.",00:29:58
+jcygafu,272,student,Oh.,00:30:03
+jcygafu,273,tutor,"All right, there you go. You've typed it. I couldn't see it until now. Okay.",00:30:05
+jcygafu,274,student,I think that happened earlier too. I don't know why. I think I need to click off it.,00:30:11
+jcygafu,275,tutor,"Is that so? All right, now it's all good. Yeah?",00:30:16
+jcygafu,276,student,Yeah.,00:30:23
+jcygafu,277,tutor,"Yeah. So, now what do you think? You have fully factorised the expression?",00:30:25
+jcygafu,278,student,[unclear],00:30:29
+jcygafu,279,tutor,Yeah?,00:30:31
+jcygafu,280,student,Yeah.,00:30:32
+jcygafu,281,tutor,"Alright, so [STUDENT_NAME], are we clear about factorising quadratics then?",00:30:34
+jcygafu,282,student,Yeah.,00:30:40
+jcygafu,283,tutor,Do you have any questions?,00:30:41
+jcygafu,284,student,I think I just need to remember symbols and that again. I'm not very good at remembering symbols.,00:30:44
+jcygafu,285,tutor,"Yeah, let's try out some more, like some questions similar to these. Yeah, I think that will be good for you if you try some more questions like these. [unclear] questions, try to find out some more and do them. Yeah, yeah. If you need any help or if you have any questions, just ask from me, right?",00:30:50
+jcygafu,286,tutor,"Okay then, [STUDENT_NAME]. Thank you so much for trying all the questions for me. I must give you a praise card for your awesome effort. Yeah?",00:31:16
+jcygafu,287,student,Mm-hmm.,00:31:24
+jcygafu,288,tutor,"So it was nicely done. Um, all right. So, uh, let's move on to the review slide. Here we go. What does the question say? [unclear] Can you correct the answer to the question below? [unclear]",00:31:25
+jcygafu,289,tutor,You have done some mistakes. I want you to figure it out.,00:31:47
+jcygafu,290,student,"Well, this one.",00:31:52
+jcygafu,291,tutor,Mm-hmm.,00:31:55
+jcygafu,292,student,"Uh, for this one, that one there is a—",00:32:01
+jcygafu,293,tutor,Can you please use the point tool because I can't see what you are showing?,00:32:08
+jcygafu,294,student,"Oh, would that be a plus there?",00:32:12
+jcygafu,295,tutor,"Yes, that's right. That's the difference of two squared terms, right?",00:32:15
+jcygafu,296,student,"I've [UNCLEAR]. I've missed your question, Tutor, because your point is the other one. I'll do this one. X squared plus 5x minus 6. x squared, x squared, er, yeah, so you put that in both brackets. They need to add to 5 and times to 6. Now they've done that the wrong way round.",00:32:25
+jcygafu,297,tutor,Mm-hmm.,00:32:55
+jcygafu,298,student,So would it be Does it add to -6 or just 6? Does,00:32:57
+jcygafu,299,tutor,"it add to? Hmm,",00:33:08
+jcygafu,300,student,6 or -6. It,00:33:12
+jcygafu,301,tutor,"should add to b, which is +5, right? Yeah.",00:33:16
+jcygafu,302,student,It,00:33:20
+jcygafu,303,tutor,should multiply to give what? 6.,00:33:21
+jcygafu,304,student,"—minus 6, right? So we are going to write down the factor pairs of what?",00:33:26
+jcygafu,305,student,"Uh, 6.",00:33:34
+jcygafu,306,tutor,"Minus 6, right?",00:33:37
+jcygafu,307,student,[unclear] 3 times 2. That adds to 5.,00:33:38
+jcygafu,308,student,"Yeah, but...",00:33:52
+jcygafu,309,tutor,"Well, would you stick a minus on the end of it?",00:33:53
+jcygafu,310,student,End of what?,00:33:57
+jcygafu,311,tutor,The end of 3 and 2.,00:33:59
+jcygafu,312,student,"3 and 2? Have you written 3 and 2, [STUDENT_NAME]? I think there's something wrong. I can't see what you have typed. [unclear] All right, now I can see 3 and 2, but you should get -6, right? So what do you think about the signs of these two? [unclear]",00:34:05
+jcygafu,313,student,Minus.,00:34:31
+jcygafu,314,tutor,"Mm-hmm. One of them should be minus, one of them should be plus.",00:34:33
+jcygafu,315,tutor,"Yes, so it's either 3 times -2 Or minus 3 times 2, right? Shall I write it down for you, [STUDENT_NAME]?",00:34:38
+jcygafu,316,student,Yeah.,00:34:51
+jcygafu,317,tutor,"Either 3 times minus 2 or minus 3 times 2, right?",00:34:52
+jcygafu,318,student,Yeah.,00:35:03
+jcygafu,319,tutor,"If you add them up, what should you get? minus 6. No, by 5. No, yeah. No, hold on. If you add them up... 5. Which",00:35:04
+jcygafu,320,tutor,5? What 5? Hold,00:35:20
+jcygafu,321,student,on. That [unclear] 5. Plus,00:35:24
+jcygafu,322,tutor,"5, right? So do you get plus 5 if you add them up? Hold on. [unclear] Minus... [unclear] No, you get -1.",00:35:27
+jcygafu,323,student,"Yes, you get -1 here and +1 here. I think we'll have to find more factor pairs, right?",00:35:57
+jcygafu,324,tutor,Yeah.,00:36:06
+jcygafu,325,background,What are the other factor pairs you can think of?,00:36:06
+jcygafu,326,tutor,"Um... 3... hold on, no. 1... hold on, I can't... I'm trying to think. [unclear]",00:36:09
+jcygafu,327,student,1 times 6.,00:36:32
+jcygafu,328,tutor,"That's right, 1 times 6. So since it's [UNCLEAR]...",00:36:35
+jcygafu,329,student,So minus 1.,00:36:40
+jcygafu,330,tutor,"Yeah, minus 1 and?",00:36:46
+jcygafu,331,student,6.,00:36:48
+jcygafu,332,tutor,"Minus 1 and plus 6, right?",00:36:51
+jcygafu,333,student,Yeah.,00:36:54
+jcygafu,334,tutor,"Yeah, so if you add them up, would you get plus 5?",00:36:55
+jcygafu,335,student,Yeah.,00:36:59
+jcygafu,336,tutor,"Yeah, so? What are the two factors then?",00:37:00
+jcygafu,337,student,"Er... What are the two factors? Er... x 1, x 6. That's right.",00:37:04
+jcygafu,338,tutor,"Good job, [STUDENT_NAME]. Good job in understanding the concept, right? So can you write down the factor pairs for me now? Like, can you factorise this expression correctly? What, isn't that what I just said?",00:37:17
+jcygafu,339,tutor,"Yeah, that's right. I just want you to write it down as a factor.",00:37:33
+jcygafu,340,student,Hold on. Now let's see if it works. Can you see it?,00:37:38
+jcygafu,341,tutor,"Yeah, x minus— [unclear]",00:37:46
+jcygafu,342,student,"Oh, I forgot the bracket.",00:37:47
+jcygafu,343,tutor,"All right, let me put the bracket....if the... [unclear] Okay?",00:37:53
+jcygafu,344,student,6.,00:37:53
+jcygafu,345,tutor,My... +6.,00:38:03
+jcygafu,346,student,"+6. That's right. Very well done, [STUDENT_NAME]. Awesome work. And this should be a plus, right? Okay.",00:38:06
+jcygafu,347,tutor,"Actually, [STUDENT_NAME], these are some very common mistakes that students do. Yeah, so when you get familiar with these, you can avoid those mistakes, right? Now I think you have a very good idea about the concept. Yeah, what do you think?",00:38:21
+jcygafu,348,student,Yeah.,00:38:39
+jcygafu,349,tutor,"Yeah, so let's practice some more questions like these. Yeah, so that you can be much more confident about this topic.",00:38:39
+jcygafu,350,tutor,"Right. [Speaker] Okay, [STUDENT_NAME], since we have run out of time, I would have to wind up the session for today. We'll be starting a new lesson next week because we have completed the lesson today. Thank you so much for your effort. So do you have anything to ask before you go?",00:38:47
+jcygafu,351,student,I don't think so.,00:39:10
+jcygafu,352,tutor,All right then. I will end the session now. Please submit your feedback and do your questions. Okay?,00:39:12
+jcygafu,353,student,Okay.,00:39:19
+jcygafu,354,tutor,"Goodbye and take care, [STUDENT_NAME].",00:39:20
+jcygafu,355,student,Bye.,00:39:22

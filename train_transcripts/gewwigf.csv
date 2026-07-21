@@ -1,0 +1,362 @@
+session_id,utterance_id,role,content,timestamp
+gewwigf,0,tutor,Hello.,00:00:00
+gewwigf,1,student,Hello.,00:00:00
+gewwigf,2,tutor,"Hi Gideon, can you hear me?",00:00:01
+gewwigf,3,student,Yeah.,00:00:03
+gewwigf,4,tutor,"Okay, I can hear you as well. How are you doing today?",00:00:04
+gewwigf,5,student,"Um, good.",00:00:08
+gewwigf,6,tutor,That's nice to hear. How was your day so far?,00:00:11
+gewwigf,7,student,Okay.,00:00:15
+gewwigf,8,tutor,"Okay, that's great as well. So did you do anything interesting today, Gideon?",00:00:16
+gewwigf,9,student,"Not today, but yesterday. In our school, we have this little stamp thing. It means we've done better than how we normally do, and I got this stamp, yeah, and it's really annoying. Oh my God, it's really good because it's called [unclear] for Excellence, and then I got to show different teachers around.",00:00:21
+gewwigf,10,tutor,"Okay, that sounds really great. Congratulations, Gideon. I'm so proud of you.",00:00:44
+gewwigf,11,tutor,"Okay, right. So welcome back to your session, and today we will be learning about solving real-life problems with remainders. We have one last question to go to complete this lesson. Are you ready for it?",00:00:49
+gewwigf,12,student,Yeah.,00:01:01
+gewwigf,13,tutor,"Okay, here we go. Can you read this out to me?",00:01:02
+gewwigf,14,student,"[unclear] is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When it's divided by 8, the remainder is 8. What number could this be? So do you have any idea of how to solve this question by yourself?",00:01:04
+gewwigf,15,student,"No, not really.",00:01:23
+gewwigf,16,tutor,"Okay, that's okay. So would you like some help in solving this? [unclear]",00:01:25
+gewwigf,17,student,Would you like some help to solve this?,00:01:33
+gewwigf,18,tutor,"Yeah, please.",00:01:36
+gewwigf,19,student,"Okay, can you list out the multiples of 5 for me on one side and the multiples of 8 for me on the other side, and then we'll see, right? Multiples of 5 on this side and multiples of 8 here.",00:01:37
+gewwigf,20,student,"Okay, let me get my typing thing up.",00:02:03
+gewwigf,21,tutor,"Sure. 5, [unclear]",00:02:07
+gewwigf,22,tutor,Well done. [unclear],00:02:15
+gewwigf,23,student,"Oh, after 30 it is 35, right?",00:02:23
+gewwigf,24,tutor,"Oh yeah, yeah. Okay, good job. And now the multiples of 8.",00:02:26
+gewwigf,25,student,"8, 16, 24.",00:02:35
+gewwigf,26,tutor,"8, 16, 24, that's right. 32. [unclear]",00:02:43
+gewwigf,27,student,"The 4, I think.",00:02:57
+gewwigf,28,tutor,"And then 48. Brilliant job. So when it is divided by 5, this 2-digit number, what is the remainder we have? [unclear] [unclear]",00:03:03
+gewwigf,29,tutor,"Wait, I forgot what remainder is. Okay, when it is divided by 5, the remainder is 2. It seems right. So what we are going to do is we are going to add 2 to all the multiples of 5 up here, right? And when it is divided by 8, the remainder is 1. So we are going to add 1 to to all the multiples of 8 on this side. Are you ready to do that?",00:03:28
+gewwigf,30,student,Yeah.,00:03:58
+gewwigf,31,tutor,Okay. What I'm going to do is I'm going to put just a line over here so that we can keep track of it. And here as well. [unclear] Okay. So you can start adding 2 to the multiples of 5. What is 5 2?,00:03:59
+gewwigf,32,student,5 plus 2. [unclear] 7.,00:04:21
+gewwigf,33,tutor,"7, that's correct. So shall we type it out over here next to the 5?",00:04:25
+gewwigf,34,student,"Okay, right next to the 5.",00:04:36
+gewwigf,35,tutor,"Next to the 5 over here. Okay, and 10 plus 2 is?",00:04:39
+gewwigf,36,tutor,"12, that's it. 15 plus 2. 17. Nicely done. Okay, right now do the same thing, but we'll add 1 to the multiples of 8. [unclear] [unclear]",00:04:47
+gewwigf,37,tutor,That's right.,00:05:15
+gewwigf,38,student,Okay.,00:05:16
+gewwigf,39,tutor,"Good job. Amazing work, Gideon. Now when you look at the numbers that you added, What do you notice about the numbers on both sides here? Do you notice anything similar?",00:05:25
+gewwigf,40,student,"There's like a pattern, I think. So it goes like 7, 2, 7, 2, 7, 2, 7, 2, 7, 2.",00:05:48
+gewwigf,41,tutor,"That's right. So when you look at the numbers here, we have 7, 12, 17, 22, and so on. 9, 17, 25. Do you see any similar numbers repeating?",00:05:58
+gewwigf,42,student,"Uh, no, I don't think so.",00:06:09
+gewwigf,43,tutor,"Okay, shall we double-check again? Okay, we'll see if we have a 7 over here. We don't have a 7. Let's check if we have a 12. We don't have a 12. Do we have a 17 on both sides?",00:06:14
+gewwigf,44,student,"Uh, 17, yeah.",00:06:31
+gewwigf,45,tutor,"Yes, we have a 17. Now shall we use this 17 to see if it becomes correct when we divide it? [unclear]",00:06:33
+gewwigf,46,student,"Wait, say that again.",00:06:44
+gewwigf,47,tutor,Shall we check if the number 17 gives us a remainder 2 and gives us the remainder 1? What do you say? [unclear],00:06:47
+gewwigf,48,tutor,Is there a remainder one?,00:06:59
+gewwigf,49,student,No.,00:07:01
+gewwigf,50,tutor,"Yes, yes, we have to check that. Okay? Okay, so let's say we are dividing 17 by 5, and then we also divide 17 by 8. Okay.",00:07:02
+gewwigf,51,tutor,"Yeah. [Speaker] Let's see what happens. Can you divide this for me, Gideon?",00:07:28
+gewwigf,52,student,"Yeah. [Speaker] Yes, go ahead. [unclear]",00:07:37
+gewwigf,53,student,"Okay, so that's like— that's a 0.",00:07:44
+gewwigf,54,tutor,Mm-hmm.,00:07:49
+gewwigf,55,student,"Then that one goes there. Oh, how do I make that smaller? Or do you put it down at the bottom?",00:07:50
+gewwigf,56,tutor,"That's okay, sure. [unclear]",00:08:00
+gewwigf,57,student,"And then 5. So that's 5, that's 1, and then the remainder—",00:08:03
+gewwigf,58,tutor,"So why is it a 1 on top? No, I don't get it. No, oh my God, I can't delete.",00:08:12
+gewwigf,59,tutor,"Would you like some help, Gideon?",00:08:23
+gewwigf,60,student,Yeah.,00:08:26
+gewwigf,61,tutor,"Okay, how many times can 5 go into 17? [unclear]",00:08:27
+gewwigf,62,student,Hello?,00:08:33
+gewwigf,63,student,Hello?,00:08:40
+gewwigf,64,tutor,"Yes, by looking at the multiples of 5, can 5 go into 17?",00:08:42
+gewwigf,65,student,"Uh, 5, 10, 15, [unclear] I think so, but I'm not sure.",00:08:48
+gewwigf,66,tutor,"Yes, it can. How many times can it go into 17? It can go in 3 times, right? Yeah, so we put 3 on top, shall we?",00:08:55
+gewwigf,67,student,Yeah. [unclear] On top of the 7?,00:09:06
+gewwigf,68,tutor,"On top of the 7, that's correct. Okay, so 5 times 3 is?",00:09:11
+gewwigf,69,student,5 times— 5 times 3— 15.,00:09:18
+gewwigf,70,tutor,15. So what we are going to do is we are going to take away 15 from 17. What would it be?,00:09:23
+gewwigf,71,student,"Wait, say that again. We are going to take away 15 from 17.",00:09:31
+gewwigf,72,student,"15 from 17, that's 2.",00:09:36
+gewwigf,73,tutor,"That is 2, exactly. Can you write the remainder down for me?",00:09:41
+gewwigf,74,student,"Right, the remainder?",00:09:46
+gewwigf,75,tutor,Mm-hmm.,00:09:48
+gewwigf,76,student,Where?,00:09:50
+gewwigf,77,tutor,"Under here. Okay, so now when This number that Tara is thinking of, the 2-digit number, when it is divided by 5, did we get the remainder 2? [unclear] When the number that Tara is thinking is divided by 5, did we get a remainder 2?",00:09:52
+gewwigf,78,student,Yeah.,00:10:21
+gewwigf,79,tutor,"Yeah, we did. Now we'll also double-check if we can get a remainder 1 when we divide it by 8. Can you work this out for me by yourself?",00:10:21
+gewwigf,80,student,[unclear] I'll try to.,00:10:29
+gewwigf,81,tutor,"Sure, you can use the help of the multiples on this side to divide.",00:10:34
+gewwigf,82,student,"[unclear] Oh no, okay, looks like it's gone. Let me just type it all over again. 17, and we are going to divide 17 here as well, right?",00:10:37
+gewwigf,83,student,Yeah.,00:11:05
+gewwigf,84,tutor,What number are we dividing it by?,00:11:08
+gewwigf,85,student,7.,00:11:11
+gewwigf,86,tutor,17 is getting divided by 8. Actually. Okay.,00:11:13
+gewwigf,87,student,Yeah.,00:11:20
+gewwigf,88,tutor,Okay.,00:11:21
+gewwigf,89,student,"Wait, 7 divided by 8, that's 1, isn't it?",00:11:25
+gewwigf,90,tutor,17 divided by 8.,00:11:28
+gewwigf,91,student,"Oh, 17.",00:11:31
+gewwigf,92,tutor,"Yes, you can use the help of the multiples here. Do we have a 17 in the multiples of 8?",00:11:33
+gewwigf,93,student,"Yeah, the second num— the second—",00:11:40
+gewwigf,94,tutor,"Right, this, that one. That is multiples of 8 plus 1 over here. The multiples of 8 are over here.",00:11:42
+gewwigf,95,student,No.,00:11:55
+gewwigf,96,tutor,"No, we don't. But what is the closest we have to 17?",00:11:56
+gewwigf,97,student,16.,00:12:00
+gewwigf,98,tutor,How many times does 8 go into 16? [unclear],00:12:02
+gewwigf,99,student,"Uh, 2 times. 2 times, exactly. So where do you put the 2?",00:12:07
+gewwigf,100,student,Top of the 7.,00:12:14
+gewwigf,101,tutor,Absolutely. Right. So 8 times 2 is?,00:12:16
+gewwigf,102,student,"8 times 2, 16.",00:12:23
+gewwigf,103,tutor,16. Do we have a remainder?,00:12:25
+gewwigf,104,student,One.,00:12:28
+gewwigf,105,tutor,"Yes, absolutely. Can you type that in as well?",00:12:30
+gewwigf,106,student,Yeah.,00:12:33
+gewwigf,107,tutor,"Okay. So Tara is thinking of a 2-digit number. What was the 2-digit number when it is divided by 5, we got a remainder 2? When it is divided by 8, we got a remainder 1. What was the 2-digit number? [unclear]",00:12:33
+gewwigf,108,tutor,"Gideon, is everything okay?",00:12:54
+gewwigf,109,student,"Yeah, it's like you're like glitching out a bit.",00:12:56
+gewwigf,110,tutor,"Oh, my audio is glitching, is it?",00:12:59
+gewwigf,111,student,Yeah.,00:13:02
+gewwigf,112,tutor,Right. Would you mind if I refresh my page so that it gets better?,00:13:02
+gewwigf,113,tutor,Yeah.,00:13:08
+gewwigf,114,student,"Okay, give me a minute. I'll be right back. [unclear]",00:13:08
+gewwigf,115,tutor,"Hello, can you hear me?",00:13:17
+gewwigf,116,student,"Yeah, you're not glitching anymore.",00:13:24
+gewwigf,117,tutor,"Perfect. Okay, so if there are any other audio issues, always feel free to let me know and I'll sort it out as soon as possible. Okay.",00:13:27
+gewwigf,118,student,Yeah.,00:13:33
+gewwigf,119,tutor,"Right, so we were talking about the 2-digit number that Tara was thinking about, right? How did we find out a 2-digit number? Do you remember? What did we do first?",00:13:34
+gewwigf,120,student,"We done multiples of 5 and then we done whatever number was add. So like in this example, 2 and 1.",00:13:49
+gewwigf,121,tutor,"Then, yes, you added them, right?",00:13:58
+gewwigf,122,student,Why did we add 2 to the multiples of 5?,00:14:00
+gewwigf,123,tutor,So then you can find out if the remainder is 2.,00:14:06
+gewwigf,124,student,Exactly. And why did we add 1 to the multiples of 8?,00:14:09
+gewwigf,125,tutor,Because the remainder is 1.,00:14:15
+gewwigf,126,student,Exactly. And what was one number that was in both sides? [unclear],00:14:17
+gewwigf,127,student,17.,00:14:26
+gewwigf,128,tutor,17. So what is the possible number that Tara is thinking of?,00:14:27
+gewwigf,129,student,17.,00:14:31
+gewwigf,130,tutor,"17, exactly. Can you write the number for me up here and then we can move on to the next question? [unclear]",00:14:32
+gewwigf,131,student,"Look, God, I've got the line thing.",00:14:43
+gewwigf,132,tutor,Sure. [unclear],00:14:47
+gewwigf,133,student,So 17.,00:14:58
+gewwigf,134,tutor,"It's 17, right Gideon. So you did a really awesome job with this question and in coming up with a new learning as well. I really like how you did not give up even if the question got a little bit tricky, right? So keep up the good work. Are you ready to go in with a brand new lesson?",00:15:00
+gewwigf,135,tutor,Yeah. So today you will learn about rounding decimals to the nearest whole number. Can you give this learning goal question a try? [unclear] Round 5.6 to the nearest whole number. What would it be?,00:15:17
+gewwigf,136,student,I don't get it.,00:15:44
+gewwigf,137,tutor,"It's okay. You have not done this lesson before, right?",00:15:46
+gewwigf,138,student,No.,00:15:50
+gewwigf,139,tutor,"Okay, I'm going to help you out and solve this question for you then. So first, what I'm going to do is I'm going to draw you a number line. Okay? And two ends. And this is going to be 5 and This is going to be 6. Do you know how to mark the halfway point, Gideon?",00:15:51
+gewwigf,140,student,Uh... [unclear],00:16:20
+gewwigf,141,tutor,Exactly. Do you know what number comes between 5 and 6?,00:16:22
+gewwigf,142,student,4.25.,00:16:26
+gewwigf,143,tutor,"Absolutely, 5.5, absolutely. Right, then where would you mark 5.6 on this number line? [unclear] Would it be after the halfway point or before the halfway point?",00:16:36
+gewwigf,144,student,There.,00:16:58
+gewwigf,145,tutor,"There you go. Fantastic work, Gideon. You are almost so close to the answer, so that would be 5.6. Now if you want to round it to the nearest whole number, would 5.6—",00:16:59
+gewwigf,146,student,6.,00:17:10
+gewwigf,147,tutor,"Yes, exactly. How did you work that out?",00:17:11
+gewwigf,148,student,"Because when I had the number line, I realised 1, 2, 3, and 4 is running down, and then 5, 6, 7, 8 are running up.",00:17:16
+gewwigf,149,tutor,"Absolutely, well done. Here comes a huge thumbs up for that great explanation. So 5.6 rounds up to 6, right? Can you also try this question for me?",00:17:27
+gewwigf,150,student,[unclear] measures a line that's between 2 centimeters and 3 centimeters. What could the length of the line be?,00:17:37
+gewwigf,151,tutor,"So let's say, for example, the starting of this line is 2 centimeters. The ending is 3 centimeters. [unclear]",00:17:53
+gewwigf,152,student,Is it like 2.5?,00:18:07
+gewwigf,153,tutor,"2.5? It could be, definitely. So you're saying we'll go for 2.5 centimeters, isn't it?",00:18:09
+gewwigf,154,student,"Uh, yeah.",00:18:19
+gewwigf,155,tutor,"Okay, that is absolutely correct, and you can come up with any decimal number. Even 2.1 centimeters would work, and 2.9 centimeters also would work. But 2.5 is perfect. Okay?",00:18:21
+gewwigf,156,student,Yeah.,00:18:33
+gewwigf,157,tutor,"Right. Good job over there, Gideon. So let's learn more about this lesson. Can you read this point out to me and explain your thoughts around it?",00:18:34
+gewwigf,158,student,"In rounding a decimal number to the nearest whole number, we need to know what the whole number it lies between.",00:18:42
+gewwigf,159,tutor,"Mm-hmm. So for example, if we have a decimal number like 12.3, can you guess what the nearest whole numbers are before and after that?",00:18:50
+gewwigf,160,student,"[unclear] That's like, that's 11. That rounds to the nearest 11.",00:19:04
+gewwigf,161,tutor,"To the nearest 11, is it?",00:19:11
+gewwigf,162,student,"Yeah, I think so.",00:19:12
+gewwigf,163,tutor,"Okay, that was a really good guess. Let's go back to this example. So 5.6 was near 5 and 6. 2.5 is near 2 and 3. In the same way, 12.3 could be closer to... [unclear]",00:19:14
+gewwigf,164,student,11.,00:19:36
+gewwigf,165,tutor,It actually goes to the number 12. Do you know why that is?,00:19:38
+gewwigf,166,student,"Oh, yeah, yeah.",00:19:44
+gewwigf,167,tutor,"Yes, because in 12.3, what is the whole number?",00:19:45
+gewwigf,168,student,12.,00:19:52
+gewwigf,169,tutor,12. So the starting point is going to be 12 itself. Okay?,00:19:53
+gewwigf,170,student,Yeah.,00:19:59
+gewwigf,171,tutor,Right. What is the whole number that comes after 12?,00:19:59
+gewwigf,172,student,[unclear] 13.,00:20:05
+gewwigf,173,tutor,"13, exactly. Can you mark that for me at the end of the number line? All right, we have 13 and we have 12, and they have marked 12.3 over here.",00:20:07
+gewwigf,174,tutor,"Right, 12.3 falls between exactly 12 and exactly 13. But when you are supposed to round it to the nearest whole number, would it round down to 12 or up to 13?",00:20:17
+gewwigf,175,student,[unclear] That's going down to 12.,00:20:32
+gewwigf,176,tutor,"Absolutely right, Gideon. And why do you think so?",00:20:38
+gewwigf,177,student,"Because As I said the last one, 1, 2, 3, and 4 go round down. 5, 6, 7, 8, and 9 go round up.",00:20:42
+gewwigf,178,tutor,"Absolutely, you are correct. So shall we write the nearest whole number to round to? [unclear] Yes, nicely done. Now in the same way, I want you to find out what are the two whole numbers close to 5.7. How do you find the first one? You can cross out the decimal part of it in your imagination. What is the whole number in— there you go, 5 and 6. Okay, now we need to mark the number 5.7 on the number line. Can you mark it for me?",00:20:52
+gewwigf,179,student,Yeah.,00:21:34
+gewwigf,180,tutor,"Sure, nicely done. And what do you think you can fill these blanks with? [unclear] 5.7 is greater than 5. That's right, but it's smaller than",00:21:35
+gewwigf,181,student,[unclear],00:22:04
+gewwigf,182,tutor,Exactly. Shall we fill those numbers in?,00:22:04
+gewwigf,183,student,Yeah.,00:22:08
+gewwigf,184,tutor,"Okay, go ahead.",00:22:09
+gewwigf,185,student,"Oh, that's an N.",00:22:12
+gewwigf,186,tutor,Mm-hmm.,00:22:14
+gewwigf,187,student,And 6.,00:22:18
+gewwigf,188,tutor,"5 and 6. Amazing work. So when you round 5.7 to the nearest whole number, Which would it be, 5 or 6?",00:22:20
+gewwigf,189,student,6.,00:22:33
+gewwigf,190,tutor,"It would round up to 6, absolutely. So you did a really marvellous job in this slide, Gideon, and good working out throughout the entire slide. Shall we fill this blank in and move on to the next? [unclear] Okay, right. In this slide, we have a 'Follow me' and 'Your turn' section. I'm going to work everything out for you in the 'Follow me' part while explaining everything to you. If you have any questions, feel free to stop me and ask me, and if I make any mistakes, feel free to correct me as well. Okay? [unclear]",00:22:34
+gewwigf,191,tutor,"Yes. Okay. When rounding numbers, it is helpful to think about the halfway point. The halfway point between 0 and 1 is 0.5.",00:23:12
+gewwigf,192,tutor,Yep.,00:23:23
+gewwigf,193,student,"So we have a number line here which is divided into 10 equal parts. Starting is 0, ending is 5, the middle is 0.5. If the 10th digit, which means the decimal part of the number, is more than 5 or exactly 5, we round up just like you explained it to me, right? If the 10th digit is less than 5, we round down to the nearest whole number.",00:23:24
+gewwigf,194,tutor,"So let's think about 0.7. What I'm going to do first is I'm going to mark it on our number line over here, right? And I'm also going to label it as 0.7. It looks like it is closer to the number 1, and it has 7 in the tenths digit, so it rounds up. 0.3, on the other hand, will be 1, 2, 3 over here. Okay, and that is 0.3, so it will round down to 0 itself. Everything clear so far?",00:23:48
+gewwigf,195,student,Yeah.,00:24:32
+gewwigf,196,tutor,"Amazing. Now it's your turn to give this a try, Gideon.",00:24:32
+gewwigf,197,student,Okay. [unclear],00:24:36
+gewwigf,198,tutor,So use the number line to help you round to the nearest decimal.,00:24:46
+gewwigf,199,student,That's 7.,00:24:54
+gewwigf,200,tutor,6.3 rounded to the nearest whole number.,00:24:57
+gewwigf,201,student,"Oh, 6.3.",00:25:00
+gewwigf,202,tutor,Mm-hmm.,00:25:01
+gewwigf,203,student,6.,00:25:04
+gewwigf,204,tutor,"That's correct. How about 6.5? Fantastic work, Gideon. I am absolutely proud of all the progress you made and put in some awesome effort into this slide as well. So now you have some [unclear] questions here. I want you to try, let's say this one, this one, And that's it. Can you give it a try for me? [unclear]",00:25:05
+gewwigf,205,tutor,Yeah. Fantastic work. 9.9 rounds to a 10. 3.4 to a 2.,00:25:42
+gewwigf,206,student,"No, wait.",00:25:56
+gewwigf,207,tutor,"Wait, is it like— [unclear]",00:26:00
+gewwigf,208,student,"Oh, here.",00:26:08
+gewwigf,209,tutor,"21, that is correct. 3.4 now.",00:26:12
+gewwigf,210,student,"Isn't that like, isn't that a 2? Because 4, 1, 2, 3, 4 going down.",00:26:22
+gewwigf,211,tutor,"It goes down for sure, but does it go down to a 2 instead of the whole number that's in here?",00:26:32
+gewwigf,212,student,"Oh, there's a 3.",00:26:38
+gewwigf,213,tutor,"It goes down to a 3, absolutely. So one of the small tips I would give you from this slide is when you round a number, You should make sure that the whole number does not change in the number and in your whole number as well. Okay, so this was only counting down. The number doesn't change, but when you round up, it goes and changes. Okay?",00:26:40
+gewwigf,214,student,Yeah.,00:27:05
+gewwigf,215,tutor,Right. Sarah is measuring the length of her bracelet. She has rounded it to the nearest centimeter. The rounded length is 10 centimeters. What could be the exact length of her bracelet? Give 2 possibilities. So what you need to do is you need to think of 2 decimal values that would round to 10 centimeters. Could you do that?,00:27:06
+gewwigf,216,student,"Uh, I'll try.",00:27:31
+gewwigf,217,tutor,"Sure, I like the spirit. Let's give it a go.",00:27:36
+gewwigf,218,student,So [unclear] So is it like 9 or 11?,00:27:40
+gewwigf,219,tutor,Can it be 11 that rounds down to 10? [unclear],00:27:48
+gewwigf,220,student,"No, I don't— wait, is it 10 and 9?",00:27:57
+gewwigf,221,tutor,10 and 9? We need a decimal number.,00:28:04
+gewwigf,222,tutor,"Oh, yeah. Do you need any help?",00:28:08
+gewwigf,223,student,And yeah.,00:28:21
+gewwigf,224,tutor,"Okay, sure. So I'm going to draw you two different number lines, okay? And we'll see how we can use that. One here and one here. [unclear]",00:28:22
+gewwigf,225,tutor,"Okay, there you go. Right. Can you tell me, Gideon, what value can we give to the starting point for it to round to 10 centimeters?",00:28:44
+gewwigf,226,student,We could give—,00:28:55
+gewwigf,227,tutor,Can we start with 7?,00:28:56
+gewwigf,228,student,No.,00:29:00
+gewwigf,229,tutor,"No, we can't. How about a 9?",00:29:01
+gewwigf,230,student,Yeah.,00:29:04
+gewwigf,231,tutor,"Yes, we can start with a 9 for sure. So I'm going to label this as 9 centimeters here. If the starting point is 9 centimeters, what could it be here?",00:29:05
+gewwigf,232,student,[unclear],00:29:17
+gewwigf,233,tutor,"10 centimeters. That is correct. Okay. Now, can you mark the halfway point for me? [unclear]",00:29:19
+gewwigf,234,tutor,I think it's around like here.,00:29:28
+gewwigf,235,student,"Yes, that is pretty accurate. Now, which part of this number line is going to round up to 10 centimeters?",00:29:38
+gewwigf,236,tutor,10.,00:29:49
+gewwigf,237,student,"This part of the number line, right? The second half of it. [unclear]",00:29:51
+gewwigf,238,tutor,"Okay, for example, let's say I'm going to use a different color. Okay, if I say this point, that is 9.1 centimeters. Okay, what do you think about 9.1 centimeters?",00:30:00
+gewwigf,239,student,9.1 goes in on. It goes to 9. What about 9.5 centimeters?,00:30:17
+gewwigf,240,student,"Uh, that goes to 10.",00:30:24
+gewwigf,241,tutor,"That's correct, it goes to 10. So 9.5 centimeters goes to 10. What about 9.6 centimeters?",00:30:26
+gewwigf,242,student,"Uh, 10.",00:30:35
+gewwigf,243,tutor,"Also 10. So now can you think of one of the possibilities that would round to 10 centimeters? It can be any number you like, but it should round up to 10 centimeters.",00:30:36
+gewwigf,244,student,[unclear] 9.7.,00:30:49
+gewwigf,245,tutor,"9.7 centimeters. Brilliant work, Gideon. Shall we list it out as one of the possibilities?",00:30:54
+gewwigf,246,student,Yeah.,00:31:01
+gewwigf,247,tutor,Okay. 9.7 centimeters. Let's put centimeters as well.,00:31:02
+gewwigf,248,tutor,"Okay. Now this time I'm going to use the second number line, okay? And I'm going to start with 10 centimeters this time. What comes after 10 centimeters?",00:31:14
+gewwigf,249,student,11 centimeters.,00:31:28
+gewwigf,250,tutor,11 centimeters. Can you mark the halfway point for me one more time? [unclear],00:31:29
+gewwigf,251,tutor,"Sure. Fantastic work. Yes, and what value would be? [unclear]",00:31:36
+gewwigf,252,student,10.5.,00:31:59
+gewwigf,253,tutor,"10.5 centimeters, that is correct. Now can you tell me, Gideon, which part of the number line should I use for it to round to 10 centimeters? Should I use the first half or the second half?",00:32:01
+gewwigf,254,student,[unclear],00:32:15
+gewwigf,255,tutor,"The first half, exactly. Let's say if I mark— I'm going to use a different color again. If I mark something over here, what would the value be?",00:32:16
+gewwigf,256,student,[unclear],00:32:35
+gewwigf,257,tutor,"That's right, that's 10.4.",00:32:35
+gewwigf,258,student,"10.4, that's correct. What do you think about 10.4 centimeters?",00:32:37
+gewwigf,259,background,That goes to the nearest 10.,00:32:44
+gewwigf,260,student,That goes to the nearest 10 and it rounds down to 10 centimeters as well. Can we use that as one of her bracelet lengths?,00:32:47
+gewwigf,261,student,"Uh, yes.",00:32:56
+gewwigf,262,tutor,"Yes, we can. So can you come up with another possibility that will round down to 10 centimeters from here? It could be any number of your choice.",00:32:58
+gewwigf,263,student,10.1 centimeters.,00:33:08
+gewwigf,264,tutor,"Right, let's list that out as well. [unclear] [unclear]",00:33:11
+gewwigf,265,tutor,"We can type it out, Gideon.",00:33:32
+gewwigf,266,student,I did.,00:33:35
+gewwigf,267,tutor,"Oh, I don't see it. Let me just switch slides quickly. Oh, there it is. Okay, so you did a really awesome job in this slide as well, and you put in a really awesome effort as well. Can you tell me what are all the steps we did to find out two possibilities here? [unclear]",00:33:36
+gewwigf,268,tutor,Say that again.,00:33:58
+gewwigf,269,student,"Yes, can you explain everything we did in this question to find out the two possibilities here?",00:34:00
+gewwigf,270,background,We halved it. We halved it and then like we done like the whatever number goes down and goes up.,00:34:06
+gewwigf,271,tutor,Yeah.,00:34:16
+gewwigf,272,tutor,"Absolutely. So we used the second half of the first number line and the first half of the second number line, right? [unclear] Yes. Okay, so are you clear with all the explanations about this lesson, Gideon? Do you have any questions for me?",00:34:17
+gewwigf,273,student,No.,00:34:40
+gewwigf,274,tutor,"Okay, that's great. I'm really proud of everything you learned in today's session. Let's move on to our next lesson. Lesson, which is understanding fractions that are greater than 1. Can you give a try for this learning goal question?",00:34:41
+gewwigf,275,student,[unclear],00:34:56
+gewwigf,276,tutor,Mm-hmm.,00:34:57
+gewwigf,277,student,"I don't know for sure, but I think this is it.",00:35:02
+gewwigf,278,tutor,Mm-hmm.,00:35:11
+gewwigf,279,tutor,"3/10. How did you work it out, Gideon?",00:35:14
+gewwigf,280,student,"Because one is like a whole, so I just added like— I added 5 more to 5, and then I added the 3.",00:35:18
+gewwigf,281,tutor,"That is a great explanation and a good try there as well, but unfortunately it is incorrect. Shall I tell you how to work it out into an improper fraction?",00:35:26
+gewwigf,282,student,Yeah.,00:35:35
+gewwigf,283,tutor,"Yes, so first what you need to do is you need to multiply the denominator by the whole number. The denominator is 5. 5 times 1 is? [unclear]",00:35:36
+gewwigf,284,student,5 times 1 is 5.,00:35:47
+gewwigf,285,tutor,"Yes, so you multiply that and then that answer you need to add with the numerator. So 5 plus 3 is?",00:35:49
+gewwigf,286,student,5 plus 3 is 8.,00:35:58
+gewwigf,287,tutor,8. So that means our new numerator is going to be,00:36:03
+gewwigf,288,tutor,8.,00:36:09
+gewwigf,289,student,[unclear],00:36:09
+gewwigf,290,tutor,And the denominator stays the same as 5.,00:36:10
+gewwigf,291,student,Yeah.,00:36:15
+gewwigf,292,tutor,"When we say an improper fraction, an improper fraction means that the denominator is smaller than the numerator. That's when we know it's an improper fraction. Okay, this right here, if the denominator is bigger than the numerator, that is a proper fraction. All clear? Okay, can you try the prior learning question as well? How many cakes are there in total? Count in multiples. [unclear]",00:36:15
+gewwigf,293,tutor,"Okay, how many are there in the first tray?",00:36:45
+gewwigf,294,student,6.,00:36:57
+gewwigf,295,tutor,"6, that's correct.",00:36:57
+gewwigf,296,tutor,Let's type 6 in. Okay. 6 and 6 is?,00:36:59
+gewwigf,297,student,"6, 6, 6.",00:37:09
+gewwigf,298,tutor,"Oh, we need to write 6 plus 6, which is? [unclear] [unclear]",00:37:12
+gewwigf,299,tutor,"Okay, so when it says to count in multiples here, we need to know that we are counting in multiples according to each tray. So 6 here, 12 together, and 18 altogether. So that means we have 6 plus 6 is 12, 12 plus another 6 is 18. In total, we have 18 cakes. Okay? Everything okay, Gideon?",00:37:30
+gewwigf,300,student,Yeah.,00:38:00
+gewwigf,301,tutor,"Yes. Can you read this part out to me? [unclear] Multiples can help us working with fractions greater than 1. Greater than 1. So now what I want you to do is I want you to count in multiples. If there are 5 eggs in one basket, there's going to be 5 here, 10 here, 15 here, and 20 here in that way. Okay, so let me work out the first one for you. 5, 10, 15, and 20. Can you work out Part B for me? [unclear]",00:38:01
+gewwigf,302,tutor,"Here. Yeah. There are 8 apples in each. Nicely done. 8, 16. Perfect job. [unclear] 24 and 32. Fantastic. Then we have the multiples of 4. 4, 8. What's next?",00:38:43
+gewwigf,303,student,"4, 8, 12, 16, 20.",00:39:18
+gewwigf,304,tutor,"That's correct. [unclear] All right, so good working out with the multiples. First we have the multiples of 5, then 8, and And this can help us when working with fractions greater than 1, and that's what we are going to learn about. Can you read this part out to me and explain what your thoughts are? [Speaker:Gideon]...fractions can be greater than 1 when the numerator is greater or equal to the denominator and it's a multiple of the denominator and it's a whole number.",00:39:26
+gewwigf,305,tutor,"What do you understand by that, Gideon?",00:40:02
+gewwigf,306,student,"That when a numerator is greater than the denominator, you have to multiply it with the denominator and then make a whole number.",00:40:07
+gewwigf,307,tutor,"That is a really great explanation. So when we talk about proper fractions and improper fractions, can you tell me which of these are lesser than 1? Is it the proper fraction or is it the improper fraction?",00:40:17
+gewwigf,308,student,"Yeah. [unclear] It's a whole number, sir.",00:40:35
+gewwigf,309,tutor,"So 1 is the whole number. Anything less than 1 is a proper fraction. Anything less than— I mean, more than 1 is an improper fraction. Okay, is that part clear?",00:40:41
+gewwigf,310,student,"Yeah, [UNCLEAR].",00:40:53
+gewwigf,311,tutor,"Right, okay. So here we have 5/1/5, right? If we have all 5 pieces, that equals to 1 whole, right? Yeah, so we start on a number line with 0. If we want to make 1 whole, we have to have 5 out of 5, which means all these parts should be there. If we have 10/5, Do you notice anything odd about this fraction?",00:40:54
+gewwigf,312,student,Uh... [unclear],00:41:22
+gewwigf,313,tutor,"10/5. The numerator is bigger than the denominator, isn't it?",00:41:25
+gewwigf,314,student,Yeah.,00:41:29
+gewwigf,315,tutor,"Yes. So then, what do you think it's going to be equal to down here?",00:41:30
+gewwigf,316,student,A whole.,00:41:37
+gewwigf,317,tutor,"If 5/5 is one whole, 10/5, which means the double of that, is going to be? How many wholes?",00:41:39
+gewwigf,318,student,One.,00:41:47
+gewwigf,319,tutor,"Another one more whole, which is two wholes. Is that clear?",00:41:49
+gewwigf,320,student,Yes.,00:41:56
+gewwigf,321,tutor,"Okay. Now, if we have 15 fifths, then how many wholes do we have?",00:41:57
+gewwigf,322,student,Uh... [unclear],00:42:04
+gewwigf,323,tutor,"Three wholes, exactly. Let's type that in. [unclear] And 25th at last makes us 4 wholes. That is absolutely right. So, so far, do you have any questions for me, Gideon?",00:42:06
+gewwigf,324,student,"Uh, no.",00:42:28
+gewwigf,325,tutor,"No, all clear, right?",00:42:30
+gewwigf,326,student,Yeah.,00:42:32
+gewwigf,327,tutor,"Okay, so now we have 6 over 2. What do you understand by this picture here?",00:42:34
+gewwigf,328,student,That's half.,00:42:45
+gewwigf,329,tutor,"6 halves, yes. So if we have one half here, another half here, how can you say how many wholes we have here if we have 6 halves? [unclear]",00:42:47
+gewwigf,330,tutor,"6 halves, that's 2 halves. [unclear]",00:43:03
+gewwigf,331,tutor,That's a half.,00:43:05
+gewwigf,332,student,"No, 2 halves.",00:43:08
+gewwigf,333,tutor,"2 halves. So let's say 2 halves is equal to 1 whole, right?",00:43:10
+gewwigf,334,student,Yeah.,00:43:19
+gewwigf,335,tutor,Let's say we have 3 halves.,00:43:20
+gewwigf,336,tutor,"4 halves. And yeah, 4 halves is equal to 2 wholes. Now can you tell me, if we have 6 halves, then how many wholes do we have?",00:43:27
+gewwigf,337,student,3.,00:43:43
+gewwigf,338,tutor,Exactly. So shall we write the number 3 over here? [unclear] [unclear],00:43:44
+gewwigf,339,tutor,"Yes, I'll type it out for you then. It is 6 halves gives us 3 wholes. Okay?",00:44:05
+gewwigf,340,student,Yeah.,00:44:14
+gewwigf,341,tutor,"Never mind, Gideon. We can come on and pick up on this lesson next week. So before you go, Can you tell me what are your top 3 things that you learned from today's session? [unclear]",00:44:16
+gewwigf,342,student,Do you remember?,00:44:30
+gewwigf,343,tutor,Yeah.,00:44:36
+gewwigf,344,student,Number line thing.,00:44:37
+gewwigf,345,tutor,"Yeah, number line thing.",00:44:38
+gewwigf,346,background,Yeah.,00:44:39
+gewwigf,347,tutor,"Rounding decimals into whole numbers, right?",00:44:40
+gewwigf,348,student,Yeah.,00:44:44
+gewwigf,349,tutor,"Yes, good job there. And how about the What do you remember about that? The very first question we did. [unclear] You listed out the multiples on both sides, right? [unclear]",00:44:45
+gewwigf,350,student,I can't really remember.,00:45:00
+gewwigf,351,tutor,"No worries, Gideon. What do you remember about proper fractions and improper fractions?",00:45:06
+gewwigf,352,student,"Actually, do not add them. You have to, you have to like, I think it's like times, timesing it.",00:45:14
+gewwigf,353,tutor,"Yes, we times the denominator by the whole number. So 5 times 1 is?",00:45:27
+gewwigf,354,student,5 times 1 is [unclear] 5.,00:45:33
+gewwigf,355,tutor,5. And 5 plus 3 is?,00:45:36
+gewwigf,356,student,8.,00:45:39
+gewwigf,357,tutor,"8. And that's how we came up with 8/5 as an improper fraction for 1 3/5, right?",00:45:40
+gewwigf,358,student,Yeah.,00:45:48
+gewwigf,359,tutor,"Yes. So you did a really awesome job in today's session. Before you go, don't forget to fill in the feedback form and tell us everything about your understanding. Okay?",00:45:49
+gewwigf,360,student,Yeah. Okay. [unclear],00:45:58

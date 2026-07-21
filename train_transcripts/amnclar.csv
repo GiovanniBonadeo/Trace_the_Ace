@@ -1,0 +1,280 @@
+session_id,utterance_id,role,content,timestamp
+amnclar,0,tutor,Hello.,00:00:00
+amnclar,1,student,[UNCLEAR],00:00:00
+amnclar,2,background,[unclear],00:00:00
+amnclar,3,background,Hello.,00:00:05
+amnclar,4,tutor,"Hello. Hi, Kieran.",00:00:08
+amnclar,5,student,Hello.,00:00:11
+amnclar,6,background,Hello.,00:00:13
+amnclar,7,tutor,Hello.,00:00:13
+amnclar,8,background,Hello.,00:00:14
+amnclar,9,tutor,"Hello, Darius. Yes. Hi, Kieran. How are you? [unclear]",00:00:17
+amnclar,10,tutor,Good. Hell good. What is this? [unclear],00:00:31
+amnclar,11,student,I'm good.,00:00:39
+amnclar,12,tutor,"Good, okay, alright, okay. So what did you do at school today, Kieran?",00:00:42
+amnclar,13,student,"We did, at the morning, I thought we had a [UNCLEAR], we had a reading or a booster, but since one of my teachers, one of our teachers had to go to a reserve, basically going camping with some of the [UNCLEAR], and they cancelled it.",00:00:52
+amnclar,14,tutor,"Uh-huh, okay. All right, okay. All right, Kieran, so how was the weekend? So how did you spend your weekend?",00:00:52
+amnclar,15,student,I went to a water park on Saturday.,00:01:28
+amnclar,16,tutor,"Okay, so you went to the water park on Saturday. Okay. [unclear] Go on.",00:01:36
+amnclar,17,student,"Then on Sunday, I went to the beach.",00:01:43
+amnclar,18,tutor,"And you went to the beach on Sunday. All right, nice to hear, Kieran. So which means you had a lot of fun during your weekend, isn't it?",00:01:49
+amnclar,19,tutor,Mm-hmm.,00:02:01
+amnclar,20,background,"All right, Kieran. So with that note, shall we get started?",00:02:03
+amnclar,21,student,Yes.,00:02:10
+amnclar,22,background,"Yes. All right. Okay. So, Kieran, so today we will be marking this lesson as completed and moving on to our new lesson for the day. So can you see it?",00:02:11
+amnclar,23,student,Yeah.,00:02:28
+amnclar,24,tutor,"Yes, all right. So today, the first— the lesson that we are going to start is using fact families to multiply and divide. All right, so now the first question I have to ask you is, Kieran, um, how confident are you with this lesson? So how confident are you with multiplication and division?",00:02:30
+amnclar,25,student,I'm good.,00:02:57
+amnclar,26,tutor,"You're okay, you're good. So maybe, um, if you had to rate yourself out of 5, how much would you rate yourself for this particular lesson?",00:03:01
+amnclar,27,student,"Uh, uh, uh, 8.9 out of 10. [unclear]",00:03:12
+amnclar,28,student,I'm not gonna go fully 10 because sometimes I've gone some stuff wrong.,00:03:21
+amnclar,29,tutor,"Okay, no worries, Kieran. Okay, so then let's see how we are going to do this. We are going to work on this LO. So shall we start with the goal question?",00:03:27
+amnclar,30,student,Mm-hmm. Okay.,00:03:42
+amnclar,31,tutor,"Yes. Okay, so let me read out the question for you. If we know 5 times 3 is 15, what is 150 divided by 5?",00:03:44
+amnclar,32,student,"Oh, uh, 0.5.",00:04:03
+amnclar,33,tutor,Uh-huh.,00:04:07
+amnclar,34,student,So shall I write it?,00:04:10
+amnclar,35,tutor,"Uh-huh. Um, Kieran?",00:04:12
+amnclar,36,tutor,"So 5 times 3 is 15. Okay, and here they tell you 150 divided by 5. How much do you think? So you told it was 0.5, isn't it, Kieran?",00:04:14
+amnclar,37,student,Yeah.,00:04:35
+amnclar,38,tutor,Uh-huh. How did you find that it was 0.5?,00:04:36
+amnclar,39,student,"Because if you really look at this way,",00:04:40
+amnclar,40,tutor,Uh-huh.,00:04:45
+amnclar,41,student,This one.,00:04:48
+amnclar,42,tutor,Uh-huh.,00:04:50
+amnclar,43,student,It doesn't have any— it doesn't have two zeros in it. It has only one zero.,00:04:52
+amnclar,44,tutor,Mm-hmm.,00:05:02
+amnclar,45,student,"And they say you can't— if it's 150 divided by 5, You basically can't take away 2 because they say you have to have 2 zeros to move 2 times and 1 zero to move 1 time.",00:05:03
+amnclar,46,tutor,"Mm-hmm, okay. So that is when we divide by 10 and 100, isn't it?",00:05:22
+amnclar,47,student,Yeah.,00:05:29
+amnclar,48,tutor,"Uh-huh. But here they are telling us to divide by 5, Kieran. 150 divided by 5. [unclear]",00:05:30
+amnclar,49,student,Divide by 5.,00:05:48
+amnclar,50,tutor,"Yes. Okay, so in simple terms, Kieran, shall we try to break this number into smaller parts? Like partition this 150. How can we partition this 150, Kieran?",00:05:54
+amnclar,51,student,[unclear],00:06:15
+amnclar,52,tutor,What does that mean?,00:06:16
+amnclar,53,student,Uh-huh. Can we part them that way?,00:06:33
+amnclar,54,tutor,"Yes. So take away this, make that zero there, and 15 partitions.",00:06:37
+amnclar,55,student,"15 separately, zero separately. So, uh, would it become 150 then, Kieran?",00:06:48
+amnclar,56,student,No.,00:06:55
+amnclar,57,tutor,"Uh-huh. Okay, so let me give you one way that we can partition this. Okay, so we can partition, um, one way as 100 separately and 50 separately. [unclear]",00:06:58
+amnclar,58,student,Oh.,00:07:15
+amnclar,59,tutor,"Okay, so we just need to make this number— so we need to partition it, which means How can we split this number into different parts? So I have made one such way, which is 100 on one side and 50 on the other side. Okay, so now tell me, how many 5s go into 100?",00:07:16
+amnclar,60,student,"How many 5s go into 100? [unclear] 55, 60, 65, 70, 75, 80, 85, 90, 95, 100. So 20 times. 20",00:07:44
+amnclar,61,tutor,"times, exactly. All right, okay. So let me write it out for you. So now the same way, how many 5s go into 50?",00:08:03
+amnclar,62,student,10.,00:08:22
+amnclar,63,tutor,"10. Okay, so when we split or when we partition 150 by 150, okay, so when we divide 100 by 5, it is going to be 20, and 50 by 5 is 10. So now that we have partitioned and find— found out how much is it, So now we just need to add them up together. So 20 and 10 is how much?",00:08:23
+amnclar,64,student,30.,00:08:56
+amnclar,65,tutor,"30. So which means 150 divided by 5 would be how much, Kieran?",00:08:58
+amnclar,66,student,[unclear],00:09:09
+amnclar,67,tutor,"So which means, okay, so 150 divided by 5, which we have already found out using another way. How much was it?",00:09:10
+amnclar,68,student,30.,00:09:23
+amnclar,69,tutor,"30, exactly. So shall we write it over here, Kieran?",00:09:24
+amnclar,70,student,Yes. [unclear],00:09:32
+amnclar,71,tutor,"Exactly, it's going to be 30. All right, okay. So now, Kieran,",00:09:34
+amnclar,72,tutor,Can you explain the question that we have just completed? So could you please take me through it?,00:09:44
+amnclar,73,student,"So if you know 5 times 3 equals 15, what is 150 divided by 5? So basically we have 100, we have to break it apart. So 150 is going to be separated to— the 100, it can be just 100, and the 50 is going to be 50. Then if you count, if you count from the 5s after 100— 5, 10, 15, 20— and it goes to 20, then it goes 120 times. Then, then you put 20 there.",00:09:51
+amnclar,74,student,Okay.,00:10:29
+amnclar,75,tutor,"Then after 50, how much can I go from 50? Is 10. And then you have to add it all together to make 30.",00:10:31
+amnclar,76,tutor,"All right, so excellent explanations over there, Kieran. Okay, so what if I ask you, Kieran, okay, 160, okay, divided by 4, how much do you think it would be? [unclear] [unclear]",00:10:41
+amnclar,77,tutor,"Kieran, I'll give you a clue, okay? Think about multiples and let me know, okay?",00:11:03
+amnclar,78,student,"Okay, so 100, then 60, and we think of 460. Hello, [unclear]",00:11:14
+amnclar,79,tutor,"Kieran? Hello? Kieran, are you there?",00:11:39
+amnclar,80,tutor,Kieran?,00:11:57
+amnclar,81,student,Hello. [unclear] [unclear],00:12:03
+amnclar,82,tutor,Hello.,00:12:22
+amnclar,83,student,"Oh, okay. What happened, Kieran?",00:12:23
+amnclar,84,tutor,It took me off the website.,00:12:27
+amnclar,85,student,"I'm sorry, Kieran, I couldn't hear you.",00:12:29
+amnclar,86,tutor,"It took me off the website. I was trying to look, then it took me out.",00:12:32
+amnclar,87,student,"Okay, all right, okay, all right, Kieran. Okay, hope it's all good now. So shall we continue?",00:12:38
+amnclar,88,student,Yep.,00:12:45
+amnclar,89,tutor,"Yes, all right. Okay, so now you will have to divide 100 by 4.",00:12:47
+amnclar,90,student,"Uh, uh, I just— [unclear] You know, I don't know. I'm not so good at my 4 times table.",00:12:56
+amnclar,91,tutor,"Okay, all right, no worries. Okay, so tell me, uh, Kieran, how much, um, Tell me your 4 times table, only 4. Maybe like, can you list 5, the first 5 multiples of 4?",00:13:06
+amnclar,92,student,"Uh, 4, 8, 12, 16.",00:13:20
+amnclar,93,tutor,"Uh-huh. Okay, let's stop from there. Okay, 16, isn't it? So now this is 160. Okay, so we know that 4 times 4 is 16.",00:13:24
+amnclar,94,tutor,"Okay, so now we are going to do the opposite of it. So we are going to divide 160 by 4, which means we know that 4 times 4 is 16. So therefore, 160 divided by 4 is going to be 40. [unclear]",00:13:39
+amnclar,95,student,Mm-hmm.,00:13:59
+amnclar,96,tutor,Was it clear? Did you understand? So you need to first of all think of this number.,00:14:01
+amnclar,97,tutor,"Okay, so 16, okay, or 160. How many 4s in multiples of 4? Which one do we know? So 4 times what gives us 16? So 4 times 4. So since this is 160, it will become 40. All right, Kieran? So this was just an example. This is one way that we can attempt this question.",00:14:06
+amnclar,98,student,"Yeah. Okay. All right. So now we will be starting off with our [unclear] slide, Kieran. Okay. So you can try them out independently, but if you want any help, Kieran, I'm always there for you. Okay. So don't worry, I'll be there for you. So if you do need anything, you can let me know. Okay.",00:14:31
+amnclar,99,student,Okay.,00:14:59
+amnclar,100,tutor,"Alright, so Shav, you can start from the first one. Complete the fact triangle. Okay, so you have a triangle that you will have to complete.",00:14:59
+amnclar,101,student,"Oh, no, no, no, no, I did not mean to do that.",00:15:14
+amnclar,102,tutor,"Okay, no worries. [unclear] 10, 15, 20, 25, 30, 35, 40. 8 times 8, 9 times, 9 times. [unclear] This one has to be 8, I think. No, 8.",00:15:18
+amnclar,103,student,Mm-hmm.,00:15:43
+amnclar,104,tutor,"Wait, if I look at my times tables. [unclear]",00:15:46
+amnclar,105,student,What is 240 divided by— I don't know. 2 is 2. You know that 3 times 8 is 24. What is 240 divided by 8?,00:15:56
+amnclar,106,background,"Kieran, this was something similar to what I have explained. I explained to you over here.",00:16:09
+amnclar,107,student,Okay.,00:16:16
+amnclar,108,tutor,"Mm-hmm. They have also given that if we know that 3 times 8 is 24, then 240 divided by 8. [unclear] How much is it?",00:16:19
+amnclar,109,student,12. [unclear],00:16:41
+amnclar,110,tutor,"If you want, you can do.",00:16:43
+amnclar,111,student,Can I get a piece of paper?,00:16:49
+amnclar,112,tutor,"Yes, please. Yes, Kieran, do you want to get one, or do you want me to show you a blank slide?",00:16:52
+amnclar,113,tutor,"Yes? Are you calling me, Kieran?",00:17:34
+amnclar,114,student,No. I'm sending you.,00:17:37
+amnclar,115,tutor,Okay. [unclear],00:17:46
+amnclar,116,student,"Mm-hmm. What happened, Kieran?",00:17:50
+amnclar,117,tutor,My pen isn't working.,00:17:53
+amnclar,118,student,"The pen isn't working? Do you have an extra one, Kieran? [unclear]",00:17:56
+amnclar,119,student,[UNCLEAR] [unclear],00:17:56
+amnclar,120,student,[unclear] I'm back.,00:17:56
+amnclar,121,tutor,"Okay, all right, okay. Do you have a pen and a paper now?",00:18:28
+amnclar,122,student,Yep.,00:18:33
+amnclar,123,tutor,"Okay, cool. You can continue. [unclear] [unclear]",00:18:34
+amnclar,124,student,Is there remains on this one?,00:18:56
+amnclar,125,tutor,"What do you think, Kieran? How much was it when you—",00:19:03
+amnclar,126,student,No.,00:19:07
+amnclar,127,tutor,"How much did you get when you divide 240? Okay. All right. So may I know how did you find out? How do you find that out, Kieran?",00:19:10
+amnclar,128,student,"So I basically did 8 divided by 2. You can't do it, so since you can't skip it, make 4 into 24. 8 times 4 is 32, then there's no remainder, and then the last is 0, so 0. [unclear]",00:19:20
+amnclar,129,tutor,"Exactly. All right, amazing explanations out there, Kieran.",00:19:41
+amnclar,130,tutor,"So Kieran, you are using a paper to do the question, isn't it? But isn't it very clear in the question itself? Okay, 3 times 8 is 24. It is already given. Okay, so now what they have done is earlier it was given like 3 times 8. So now what they have given you is 24 [unclear] divided by— okay, let me put it in that way— by 8 is how much? That's what they are asking you. So 240 divided by 8, or in simple— in other way, 24 divided by 8. How much is 24 divided by 8?",00:19:47
+amnclar,131,student,30.,00:20:34
+amnclar,132,tutor,"24, not 240. [unclear]",00:20:36
+amnclar,133,tutor,"Kieran? Okay, tell me, do you know your multiples? Up until which times table are you— do you know?",00:20:45
+amnclar,134,student,"8, 16, 24.",00:20:56
+amnclar,135,tutor,Uh-huh. So 24 divided by 8 is how much?,00:21:00
+amnclar,136,student,You already told me. [unclear],00:21:05
+amnclar,137,tutor,"30. Emotional damage is 30. No, it's 3.",00:21:06
+amnclar,138,student,"It's 3. Exactly, it's 3. Okay, so 24 divided by 3— 8 is 3. The same way, 240 divided by 8 is not 3 because it is multiplied by 10, so therefore it is going to be 30. Kieran, it's that simple. They have already given it in the question itself.",00:21:14
+amnclar,139,tutor,try your hardest. Next week's assessment week. Show me what you've got.,00:21:14
+amnclar,140,student,Kieran?,00:21:14
+amnclar,141,tutor,Next week's assessment week.,00:21:14
+amnclar,142,student,Yeah.,00:21:52
+amnclar,143,tutor,Time to show me what you've got in math. [unclear],00:21:52
+amnclar,144,student,"Okay, now let's move on to the next question, Kieran. Now this is 6 times 30. So do you know your 6 times table? [unclear] Yes. Okay, so let me give it to you in other words, okay? 6 times 3 times 10. Tell me, how much is 6 times 3? Kieran?",00:21:55
+amnclar,145,student,"Uh, uh, uh, uh, what's the code again?",00:22:22
+amnclar,146,tutor,"Oh my days! Oh, I forgot. 9.",00:22:24
+amnclar,147,tutor,"6 times 3, not 6 add 3. 6 times multiplication, Kieran.",00:22:30
+amnclar,148,student,"Ooh, 16.",00:22:38
+amnclar,149,tutor,"Is it 16 once again? Tell me the 6 times table. 6, 6, 12. [unclear] What's the next number again? Oh, 18. Oh my God. 18. So then 18 multiplied by 10, how much is it?",00:22:43
+amnclar,150,student,180.,00:23:05
+amnclar,151,tutor,"Exactly, Kieran, that's it. Was it clear, Kieran? So you don't need to do any long multiplication or short multiplication or short division. Nothing is required. Just your multiplication tables. So, so tell me, do you very well know your 2 times table, 3 times table? Which one aren't you very clear of?",00:23:08
+amnclar,152,student,"Uh, the one I'm not very clear of is 9, 12, 7, and 8. That's all.",00:23:34
+amnclar,153,tutor,"So you're not, uh, so you do not know your 7 times, 8 times, 9 times, and your 12 times table? Is it so?",00:23:43
+amnclar,154,tutor,"Yeah. [Speaker] Okay, all of the others you're aware? [Speaker] Mm-hmm. [Speaker] Watch this, Miss. Miss, I don't even need you to explain the next question. I already got it. So [unclear] divided by 480. That's 81. That's changing to 0 and 120. All right, excellent working out there. Okay, good working out. Okay, so now we just have the question A to explain. So shall we explain the question A and quickly move on to the next slide? So shall we do this?",00:23:50
+amnclar,155,student,Yeah. [unclear],00:24:33
+amnclar,156,tutor,"So complete the fact triangle. So what have you done here, Kieran? I should have done 45 instead of 5, right?",00:24:35
+amnclar,157,tutor,Why do you think?,00:24:48
+amnclar,158,student,Yeah.,00:24:51
+amnclar,159,background,Something times something.,00:24:51
+amnclar,160,tutor,"45, 5, 45. Yes, I should have. [unclear] If I'm wrong. [unclear] Okay. 45 times 5, how much would that be?",00:24:53
+amnclar,161,student,"Uh, 5 times 5 is 25. What's 25 times 40? Uh, [unclear] 400 and— 425.",00:25:12
+amnclar,162,background,425.,00:25:32
+amnclar,163,tutor,"425. Once again, can you check on it? [unclear]",00:25:36
+amnclar,164,student,I need help. I can't do this one.,00:25:49
+amnclar,165,tutor,You can't do this one?,00:25:55
+amnclar,166,student,Mm-hmm.,00:25:57
+amnclar,167,tutor,Why? What happened? [unclear],00:25:58
+amnclar,168,student,"Okay, okay, it's trying to trick me or something now. If it's not 5 or 45, I don't know what the answer is then.",00:26:02
+amnclar,169,tutor,"Okay, all right, okay, all right. Listen to me carefully, Kieran. Something multiplied by 5 would be 45. Or let me say, okay, we do not know the answer, okay? 10 multiplied by 5 is going to be 45. 10 times 5, tell me how much is 10 times 5?",00:26:10
+amnclar,170,student,50.,00:26:39
+amnclar,171,tutor,50. So is it 50 over here?,00:26:41
+amnclar,172,student,No.,00:26:44
+amnclar,173,tutor,"Oh. Ah, okay. So what did you do there, Kieran?",00:26:44
+amnclar,174,student,"So, so I basically got [unclear] incorrect. I did 10 times 5. [unclear]",00:26:52
+amnclar,175,tutor,"Exactly. So you just removed that so that it will be okay, right? So you just did it, isn't it? Because you got that 10 times 5 was 50. Okay, it's not 10 anymore, it's going to be 9, isn't it, Kieran? Yes. Okay. All right. Okay. So the same way, when you divide 45 by 9, it would be 5. 45 divided by 5 also would be 9. So this is a triangle. So if you multiply, you will end up at 45. If you divide, you will end up at any of the one of the given answers. Okay, so now the question B.",00:27:02
+amnclar,176,student,"[unclear] Okay, 9 times 5 is 45. Yes, exactly. So then what about this one? 45 divided by 5. [unclear]",00:27:48
+amnclar,177,student,9 equals 9.,00:28:00
+amnclar,178,tutor,Uh-huh. Why did you say it is going to be 9 again? [unclear],00:28:05
+amnclar,179,tutor,"Ah, okay, exactly. Kieran, I can see that you have understood, isn't it?",00:28:15
+amnclar,180,student,[unclear],00:28:21
+amnclar,181,tutor,"All right, okay. So shall we change it over here?",00:28:24
+amnclar,182,student,[unclear],00:28:29
+amnclar,183,tutor,"All right, okay. Fantastic work in completing the questions independently. Okay. Alright, so now Kieran, I have a question for you. Okay, I want you to listen to it very carefully. Okay? Are you ready for it?",00:28:31
+amnclar,184,student,Yes.,00:28:51
+amnclar,185,tutor,"Okay, think. Okay? It's— I'm gonna tell you. 3 times 4, how much is it?",00:28:52
+amnclar,186,student,"Uh, 12.",00:29:04
+amnclar,187,tutor,"12. All right, good work. Okay, so then 12 divided by 3 is how much?",00:29:06
+amnclar,188,student,"Hmm, 3 divided by 12, 12 divided by 3.",00:29:17
+amnclar,189,tutor,"Exactly, yes. 12 divided by— [unclear] [unclear]",00:29:26
+amnclar,190,tutor,You don't need to work it out in a paper. You just need to remember the times table.,00:29:38
+amnclar,191,student,4. Is it 4?,00:29:43
+amnclar,192,tutor,Uh-huh. Okay. How did you find 4?,00:29:46
+amnclar,193,student,"I thought you tried to trick me there, so I'm not sure. I'm going to do it like this.",00:29:55
+amnclar,194,tutor,"Exactly, that is it, Kieran. Correct, you're correct there. [unclear]",00:30:02
+amnclar,195,student,Because 12 times 3 is 40. So if 3 times 4 is— 3 times 4 is 12. You got to do this. 12 and divided by 3— I can't do that— divided by 3 is gonna be— [unclear] It's gonna be 4.,00:30:08
+amnclar,196,tutor,"Excellent understanding. Yes, exactly. Excellent work, Kieran. I'm really impressed now. Okay, so now the same way, I'm gonna ask you another question. How much is 5 times",00:30:36
+amnclar,197,tutor,"15. [Speaker] 15. Okay. So the same way, 15 divided by 3, how much is it? [unclear]",00:30:51
+amnclar,198,student,"15. [Speaker] Excellent. Amazing understanding, Kieran. Okay, so now the same way I'm gonna tell you 2 times 4 is how much? I'm sorry, I didn't put the 2 times 4. How much is it?",00:31:10
+amnclar,199,student,[unclear],00:31:28
+amnclar,200,tutor,"8. Okay, so now the next question I'm gonna give you is 20 times 4. How much is it?",00:31:30
+amnclar,201,student,[unclear],00:31:47
+amnclar,202,tutor,"It's 20, not 2. 20. Then what do you think? Excellent! Yes, exactly. So did you understand, Kieran? You just need to remember your multipliers.",00:31:47
+amnclar,203,tutor,"Okay, so if you know the multiplication, it's just that you change the numbers. That's it. That is using the fact families. So can you see 3 times 4 is 12? So when I want to change it, 12 divided by 3 is going to be 4, or 12 divided by 4 is going to be 3. Okay, so it's just a matter of knowing the multiples and changing them out. Was it clear, Kieran?",00:32:09
+amnclar,204,student,Yes.,00:32:41
+amnclar,205,tutor,"Yes, all right, that's great. So now that we have completed it, we are going to the last question. [unclear] Exactly, I mean last question in this lesson. We have like almost like 11 minutes left.",00:32:42
+amnclar,206,background,Oh.,00:33:01
+amnclar,207,tutor,Okay. True or false? Now just think. [unclear],00:33:02
+amnclar,208,tutor,Okay. [unclear],00:33:10
+amnclar,209,student,What do you think?,00:33:18
+amnclar,210,tutor,30 times 4 is equal to 40 times 3. Explain your thinking. Is it true or false? False.,00:33:22
+amnclar,211,tutor,"False. Okay. May I know why is it false, Kieran? Is there a reason?",00:33:34
+amnclar,212,student,"No such person would have done this. Who would think? Who would do that? Like, who would [unclear] times 4 and then 40. It's not the question. It's not right. You have to do 10 times 4 to make it. So I think he's false. I think that's false.",00:33:42
+amnclar,213,tutor,"Okay, alright, so you think it's false. Okay. So then shall we just multiply it and see?",00:34:08
+amnclar,214,student,"Yeah, multiply it.",00:34:16
+amnclar,215,tutor,30 multiplied by 4. How much would that be?,00:34:19
+amnclar,216,student,[unclear] times 4.,00:34:23
+amnclar,217,tutor,"Oh, okay. In simple terms, 3 times 4 is how much?",00:34:27
+amnclar,218,student,12.,00:34:34
+amnclar,219,tutor,"12. Okay, so now what they have given is 30 times 4. How much is it?",00:34:35
+amnclar,220,student,3.,00:34:48
+amnclar,221,tutor,"3 has changed into 30 now. Then? Excellent job. Okay, so the same way, the next one. 4 times 3 is 12. [unclear] Now it's 40 times 3. What do you think? [unclear]",00:34:49
+amnclar,222,tutor,Same. I think it's the same answer.,00:35:18
+amnclar,223,student,"Uh-huh. You think it's the same answer. So therefore, is it true or false, Kieran?",00:35:22
+amnclar,224,student,False.,00:35:30
+amnclar,225,tutor,"Uh-huh. So you already found out. So they are telling 30 times 4 is 120, and again 40 times 3 is also 120. Is it the same? Is both the numbers— when you calculate both of them, was it the same?",00:35:32
+amnclar,226,student,Yeah.,00:35:51
+amnclar,227,tutor,Yes. So then is it correct or incorrect? Is it true or false?,00:35:53
+amnclar,228,student,False.,00:35:58
+amnclar,229,tutor,Why do you say it's false? Is it— [unclear],00:36:01
+amnclar,230,student,It's true.,00:36:04
+amnclar,231,tutor,"Uh-huh. Okay, why is it true?",00:36:06
+amnclar,232,student,"Because they both, both, they both have the same answer.",00:36:10
+amnclar,233,tutor,"Exactly. So they are telling us true. Exactly, it's true because when we— okay, so they are using the fact family. So they are multiplying here 30 by 4 and here 40 by 3. So they are telling that If you— I mean, if you calculate, both of them would be the same. So when we did that, did we agree? So were both the same? [unclear] Exactly. Alright, Kieran. So now let me know, did you learn anything new in this lesson? Tell me.",00:36:14
+amnclar,234,student,"Yes, I have.",00:36:53
+amnclar,235,tutor,Aha. May I know what did you learn newly today?,00:36:56
+amnclar,236,student,"So if I know 3 times 4 equals 12, then I could do 30 times 4, or I could do 40 times 4, 40 times 3.",00:36:59
+amnclar,237,tutor,"Uh-huh. Okay, that's a great thing, Kieran. I'm really proud of it that you were able to understand this lesson. Okay, all right. So if you have done something really good, okay, what do you think you have done really well in this lesson about [unclear] families?",00:37:28
+amnclar,238,student,understand division and times.,00:37:28
+amnclar,239,tutor,"understanding multiplication and division. Okay, so Kieran, now that we have completed this lesson, we are moving on to the next one. Okay, all right, okay. So counting in multiples is our new lesson. So do you know what are multiples, Kieran? [unclear] What is multiple?",00:37:28
+amnclar,240,student,It's like times.,00:38:29
+amnclar,241,tutor,"Exactly. Once again, awesome job. Okay, yes. So multiples, in other words, it is the times table. Okay, so now we have to move on with the goal question. Okay, so let me ask you a question. How much is 2 times 5?",00:38:34
+amnclar,242,student,"2 times 5, 10.",00:38:56
+amnclar,243,tutor,"Yeah, 10. Okay, all right, so that is what we are going to do. So this lesson is all about multiplication, that is our times table. Okay, so now we have the goal question. Write the next multiple in this sequence. Okay, so you need to write the next multiple. So it goes as 9, 18, 27, 36, and then what's the next one?",00:38:58
+amnclar,244,student,"Uh, that's in the 40s.",00:39:31
+amnclar,245,tutor,Uh-huh.,00:39:35
+amnclar,246,tutor,42.,00:39:36
+amnclar,247,student,How much?,00:39:37
+amnclar,248,tutor,Uh-huh. How did you find 42?,00:39:39
+amnclar,249,student,"Uh, I think there is one— I thought— I think it's 42. I think it's going up by 9s or 8s.",00:39:42
+amnclar,250,tutor,"Uh-huh. Okay, so see, it starts from 9, which is 1 times 9, so it goes in its 9 times table. So this is 9 times table. 9, 18, 27, 36, and what would be the next one?",00:39:51
+amnclar,251,student,43.,00:40:12
+amnclar,252,tutor,"Uh-huh. No, not 43.",00:40:14
+amnclar,253,student,42.,00:40:21
+amnclar,254,tutor,"42? No. Okay, add... Add 9 to 36. Count from 36. 36, 37, 38, 39, 40, 41, 42, 43, 44, 45.",00:40:25
+amnclar,255,student,Uh-huh. So how much is 9 times 5?,00:40:53
+amnclar,256,student,"Oh, oh, oh my God. 45.",00:40:57
+amnclar,257,tutor,"Exactly, it's going to be 45. So shall we write it?",00:41:01
+amnclar,258,student,Yep. [unclear],00:41:12
+amnclar,259,tutor,"Okay, all right. So Kieran, how do we find it is the 9 times table, Kieran? So if you want to find which times table, you first need to look into the first number. So since it is a 9, it goes in its 9 times table. So what if the number starts from 7? Then in which times table is it going? [unclear]",00:41:16
+amnclar,260,tutor,"7 times table. Exactly. So that's what you need to know. Okay, so I have a task for you. UAVDM. So are you going to do that for me for the next week?",00:41:43
+amnclar,261,student,Okay.,00:41:55
+amnclar,262,tutor,"Okay, so can you learn your 9 times table and come the next week?",00:41:56
+amnclar,263,student,Please.,00:42:00
+amnclar,264,tutor,Okay.,00:42:02
+amnclar,265,student,Uh-huh.,00:42:03
+amnclar,266,tutor,"I want you— I want you to tell me the 9 times table very fluently. So next time if I ask you how much is 9 times 7, you should quickly tell me what is it. Are you ready for that?",00:42:04
+amnclar,267,tutor,"Okay, okay, all right, okay. So yes, Kieran, now it's the time for us to do the reflection. Okay, so how was your session today, uh, Kieran?",00:42:18
+amnclar,268,student,Very good.,00:42:33
+amnclar,269,tutor,"Very good, okay, all right. So may I know the reason for it to be very good?",00:42:35
+amnclar,270,background,Uh......and the questions were easy.,00:42:40
+amnclar,271,tutor,"The questions were easy. Okay, all right, interesting. What else? [unclear]",00:42:46
+amnclar,272,student,I knew my divisions.,00:42:57
+amnclar,273,tutor,"You knew your divisions, exactly, yes. I could see that very well. I knew my times table from my times table. [unclear] It's like 30 divided by 7.",00:43:01
+amnclar,274,tutor,"Yes, you got it. So yes, you know. Yes, you knew most of primary reading. Okay, so I'm hoping to see a lot better the next week. So tell me, how much would you rate your own self out of 5 today?",00:43:19
+amnclar,275,student,10.,00:43:34
+amnclar,276,tutor,"Aha, out of 5. So it has to be only between 5, 1 to 5. You'll give 5. Okay, alright, nice to hear. So alright, Kieran, it's the time for us to wrap up. So do try out the questions. I'll see you the next week. Bye.",00:43:36
+amnclar,277,student,Bye-bye.,00:43:55
+amnclar,278,tutor,Bye-bye. Have a nice day.,00:43:57

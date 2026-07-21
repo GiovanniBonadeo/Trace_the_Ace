@@ -1,0 +1,308 @@
+session_id,utterance_id,role,content,timestamp
+nmprbzf,0,tutor,Hello?,00:00:00
+nmprbzf,1,background,[unclear],00:00:00
+nmprbzf,2,student,Hello.,00:00:00
+nmprbzf,3,tutor,"Hi, Rowena. Can you hear me clearly?",00:00:02
+nmprbzf,4,student,Yeah.,00:00:05
+nmprbzf,5,tutor,That's great. So how are you today?,00:00:06
+nmprbzf,6,student,Good.,00:00:09
+nmprbzf,7,tutor,"That's nice to hear from you, Rowena. So let's start our session. Can you remember we did something about Pythagoras' theorem in our last session?",00:00:11
+nmprbzf,8,student,Yeah.,00:00:20
+nmprbzf,9,tutor,"Yes, so we completed 2 questions under that. So it's been quite a while. So do you remember we used Pythagoras' theorem to find the missing side? [unclear] And also the adjacent side. Yeah?",00:00:22
+nmprbzf,10,student,Yeah.,00:00:39
+nmprbzf,11,tutor,"Okay, so we have to start the 3rd question today. So let's try this. I don't know how to do this.",00:00:41
+nmprbzf,12,tutor,"Mm-hmm. Okay. So looking at the triangle, what idea do you get?",00:00:51
+nmprbzf,13,student,"Um, I don't know.",00:00:59
+nmprbzf,14,tutor,"Mm-hmm. Okay. So you can see an equilateral triangle, and we have to find the height h, right?",00:01:01
+nmprbzf,15,student,Yeah.,00:01:10
+nmprbzf,16,tutor,"Yes. So in these types of triangles, we don't have the right angle triangle, yeah?",00:01:11
+nmprbzf,17,student,Yeah.,00:01:18
+nmprbzf,18,tutor,"So in this type of triangle, we have to draw a perpendicular height and we have to form a right angle triangle within this.",00:01:19
+nmprbzf,19,student,Okay.,00:01:27
+nmprbzf,20,tutor,Right? So that is the first step we do. So we start from the vertex here and you draw a perpendicular line. So what do you think about line L?,00:01:28
+nmprbzf,21,student,[unclear] [unclear],00:01:40
+nmprbzf,22,tutor,Pardon?,00:01:44
+nmprbzf,23,student,Can you repeat that?,00:01:48
+nmprbzf,24,tutor,"Cut it— you've cut it in half, so there's two right angles.",00:01:49
+nmprbzf,25,background,Exactly.,00:01:53
+nmprbzf,26,tutor,"Exactly. Also, this— the AC, the side AC would be bisected by this perpendicular line. Yeah?",00:01:55
+nmprbzf,27,student,Yeah.,00:02:02
+nmprbzf,28,tutor,"Okay, so now that we have this arrangement, this construction here, This, this height is the h. Okay, and when you think about the lengths of other sides, we have h here which we have to find, and some measurement is given as the data. So what's the length AB?",00:02:04
+nmprbzf,29,student,6.,00:02:28
+nmprbzf,30,tutor,"Okay, and what is this length from A to here?",00:02:29
+nmprbzf,31,student,"Oh, sorry. 3. So using this, do you think we can find the value of h?",00:02:33
+nmprbzf,32,student,Yeah.,00:02:42
+nmprbzf,33,tutor,Can you try that?,00:02:44
+nmprbzf,34,student,[unclear] times it.,00:02:44
+nmprbzf,35,tutor,"What do you mean, Rowena?",00:02:51
+nmprbzf,36,student,You times 6 by 3.,00:02:53
+nmprbzf,37,background,"So actually, when we are calculating the area of the triangle, we use the formula length base into perpendicular height divided by 2. So in only in that case you multiply.",00:02:59
+nmprbzf,38,student,"Okay, 6 times 3 and then divide by 2.",00:03:12
+nmprbzf,39,tutor,"So that will be the area, but we have to find this height using the Pythagoras theorem.",00:03:17
+nmprbzf,40,student,Oh. [unclear] I don't know how to do it.,00:03:24
+nmprbzf,41,tutor,"Okay, so let me help you there. Rowena, do you remember what the Pythagoras Theorem is?",00:03:33
+nmprbzf,42,student,[unclear],00:03:38
+nmprbzf,43,tutor,"Okay, so in the right angle triangle, we have the adjacent sides of the right angle, and the opposite side is known as the hypotenuse, right?",00:03:40
+nmprbzf,44,student,Yeah.,00:03:54
+nmprbzf,45,background,Yeah.,00:03:54
+nmprbzf,46,tutor,So we have a relationship where a² b² c². Right?,00:03:55
+nmprbzf,47,student,Yes.,00:04:01
+nmprbzf,48,tutor,"Generally, c is the hypotenuse.",00:04:01
+nmprbzf,49,student,Yeah.,00:04:05
+nmprbzf,50,tutor,"So if two sides are given to you, how do you think we can find the third side using this formula?",00:04:07
+nmprbzf,51,student,3 squared add 8 squared.,00:04:13
+nmprbzf,52,tutor,Mm-hmm. Is equal to x squared.,00:04:16
+nmprbzf,53,background,Is that what you do on the other one?,00:04:19
+nmprbzf,54,tutor,"What, Rowena?",00:04:24
+nmprbzf,55,background,"On the other one, is that what I had to—",00:04:25
+nmprbzf,56,tutor,"Yes, so you are going to use same thing here. So in this case, you're finding the adjacent side, not the hypotenuse. So before you start with, you can just label which is the adjacent and which is the hypotenuse.",00:04:29
+nmprbzf,57,student,[unclear],00:04:51
+nmprbzf,58,tutor,No.,00:04:51
+nmprbzf,59,student,"Oh, hold on.",00:04:52
+nmprbzf,60,tutor,"What I mean is this, yeah. Let me explain you this way. So the formula is a² b² c². So what is a, b, and c on this formula? 6² and",00:04:53
+nmprbzf,61,student,"3². Okay, that",00:05:09
+nmprbzf,62,tutor,"is the place where most of the students go wrong. The c² is the hypotenuse. Okay, c is the hypotenuse always. Oh, so",00:05:12
+nmprbzf,63,student,is 6. [unclear],00:05:21
+nmprbzf,64,student,"Yes, C is 6. So you can say A squared. For this A, you can take the height H. H squared plus 3 squared is equal to 6 squared.",00:05:23
+nmprbzf,65,tutor,"Let me type that if you want there. So, h squared plus 3 squared is equal to 6 squared. So, from this equation, Zara, how do you think we can find the height h? [unclear]",00:05:49
+nmprbzf,66,student,Yeah.,00:06:15
+nmprbzf,67,tutor,Is it 6 squared divided by 3 squared?,00:06:15
+nmprbzf,68,student,Is it 6 squared divided by 3 squared or 6 squared take away 3 squared?,00:06:22
+nmprbzf,69,tutor,Take away.,00:06:27
+nmprbzf,70,student,"Yeah, it's [UNCLEAR].",00:06:29
+nmprbzf,71,tutor,So can you do that and tell me the height h?,00:06:34
+nmprbzf,72,student,Yeah.,00:06:37
+nmprbzf,73,tutor,[unclear],00:06:46
+nmprbzf,74,student,But it means make it public. [unclear],00:06:46
+nmprbzf,75,tutor,"Okay, so how did you get 9 here, Zara?",00:07:16
+nmprbzf,76,student,6 squared take away 3 squared.,00:07:19
+nmprbzf,77,tutor,"Okay, can you explain me how you worked it out further from this point? What is 6 squared?",00:07:22
+nmprbzf,78,student,"6 times 6, 36.",00:07:29
+nmprbzf,79,student,Mm-hmm.,00:07:31
+nmprbzf,80,tutor,And 3/3 is 9.,00:07:34
+nmprbzf,81,student,Okay. So what's 36 take away 9?,00:07:37
+nmprbzf,82,tutor,Pardon? [unclear],00:07:45
+nmprbzf,83,student,What is 36 take away 9?,00:07:45
+nmprbzf,84,tutor,27.,00:07:49
+nmprbzf,85,student,Mm-hmm.,00:07:50
+nmprbzf,86,tutor,"Okay, that is correct. So this 27 is equal to h squared, right?",00:07:55
+nmprbzf,87,student,Yeah.,00:08:01
+nmprbzf,88,tutor,"So from 27, which is equal to h squared, how can you find the value of h only?",00:08:03
+nmprbzf,89,student,Square root 27.,00:08:09
+nmprbzf,90,tutor,Mm-hmm. So is that your answer? The square root of 27 is 9?,00:08:10
+nmprbzf,91,student,No.,00:08:17
+nmprbzf,92,tutor,"Oh yeah, so this 9 won't be anywhere here, so you have to find the square root of 27. What is it?",00:08:18
+nmprbzf,93,student,"My screen's gone funny. Hold on. [unclear] Oh, I fixed it. Sorry, my screen went blue.",00:08:27
+nmprbzf,94,tutor,"Can't you see anything on the screen, Rowena?",00:08:46
+nmprbzf,95,student,"Yeah, I've fixed it now. Okay, all good.",00:08:49
+nmprbzf,96,student,I am— I don't have a calculator.,00:08:54
+nmprbzf,97,tutor,"Oh, okay. So the value is 5.2.",00:08:58
+nmprbzf,98,student,Okay.,00:09:02
+nmprbzf,99,tutor,"h is equal to 5.2 centimeters. So Rowena, since we learned it new, can you tell me the steps? There were 3 main steps involved in solving this calculation, so can you tell me those 3 steps, how we did it? 8 squared plus 3 squared equals 6 squared. 6 squared take away 3 squared equals 9. And then square root 27.",00:09:03
+nmprbzf,100,tutor,"It wasn't 9, it was 27. Then use [UNCLEAR], okay? And also, if a triangle is given to you like this and if there's no right angle triangle in that, you have to form it from a vertex. You have to draw a perpendicular. You have to form a right angle triangle. Then we use the Pythagoras theorem. Okay?",00:09:27
+nmprbzf,101,student,Yeah.,00:09:48
+nmprbzf,102,tutor,So that's an important point there. So let's try a similar problem. There we go.,00:09:48
+nmprbzf,103,student,[unclear] Would x have been the b?,00:10:01
+nmprbzf,104,background,"What do you mean, Rowena? So when you do a squared plus b squared equals, would it be like x squared, then which one, I don't get which one's, wait, a and b and c, right?",00:10:09
+nmprbzf,105,tutor,"OK, OK, hold on. I'll explain that to you there, Rowena. So imagine we have a, right angle triangle. Okay? So in this, which do you think is the longest side? Which is the longest one? Can you show me using your pointer?",00:10:30
+nmprbzf,106,student,"Sorry, I didn't hear you. What did you say? [unclear]",00:10:48
+nmprbzf,107,tutor,Which is the hypotenuse side of this triangle? [Speaker:Zara]... [unclear],00:10:51
+nmprbzf,108,tutor,So this is the longest side. Okay? It's always this side which is longer. So we can Find the longest one. It will be directly opposite to the right angle.,00:10:59
+nmprbzf,109,student,"Oh, yes.",00:11:09
+nmprbzf,110,tutor,"The longest side on a right angle triangle, and it is called hypotenuse.",00:11:11
+nmprbzf,111,student,[unclear],00:11:16
+nmprbzf,112,tutor,Okay?,00:11:17
+nmprbzf,113,student,Yeah.,00:11:18
+nmprbzf,114,tutor,"The longest side is the hypotenuse. So using this only, we are going to name the 5 sides.",00:11:18
+nmprbzf,115,tutor,Yeah. [unclear],00:11:43
+nmprbzf,116,tutor,Yeah.,00:11:46
+nmprbzf,117,student,"Okay. So here on the other two sides, Rowena, it can— this can be A, this can be B.",00:11:47
+nmprbzf,118,tutor,Okay.,00:11:53
+nmprbzf,119,tutor,"I'm not very good at this drawing. I can just write it. Text. [unclear] So would it be 6 6. It's not letting me write. How do I put the little 2? Oh, it's here.",00:11:55
+nmprbzf,120,tutor,"Oh, you can take that on the symbols tool, Rowena.",00:12:37
+nmprbzf,121,student,"Yeah, it won't let me type. It won't let me put any words. I'll try again. [unclear]",00:12:40
+nmprbzf,122,tutor,"Okay, so you have to use the symbols tool only to type also.",00:12:46
+nmprbzf,123,tutor,"You can't [unclear] text tool. Oh, is it? Hold on.",00:12:50
+nmprbzf,124,student,Text.,00:12:54
+nmprbzf,125,tutor,"No, no, don't go to the text. Under the symbols tool, when you click on—",00:12:57
+nmprbzf,126,student,It won't let me put numbers.,00:13:04
+nmprbzf,127,tutor,"Okay, can you try that once more for me please? There will be a cursor.",00:13:06
+nmprbzf,128,student,"Yeah, it's because when I'm on text and I'm trying to press numbers, it's coming up with like the things above it. [unclear]",00:13:09
+nmprbzf,129,tutor,"Okay, can you refresh the page once and try again, Rowena?",00:13:21
+nmprbzf,130,student,Pardon?,00:13:25
+nmprbzf,131,tutor,Can you refresh your page once and try again?,00:13:26
+nmprbzf,132,student,I think it's the keyboard. I'll just draw it.,00:13:29
+nmprbzf,133,tutor,Okay.,00:13:39
+nmprbzf,134,student,So would it be like that?,00:13:42
+nmprbzf,135,tutor,"Oh, okay. Hold on, Rowena. There's a small mistake. So here you took 8 squared. So 8 is the whole base, but—",00:13:45
+nmprbzf,136,student,"Oh yeah, 4.",00:13:54
+nmprbzf,137,tutor,It will be 4 because we consider only this part of the triangle to be right angle triangle. There we go. That's right now.,00:13:56
+nmprbzf,138,student,So then do I— [unclear],00:14:04
+nmprbzf,139,tutor,6 squared plus 4 squared. Do I just do that? 6 squared is 36. 4 squared is [UNCLEAR]. [unclear],00:14:07
+nmprbzf,140,student,42 squared. And then you just square root it.,00:14:36
+nmprbzf,141,tutor,42?,00:14:41
+nmprbzf,142,student,"Yeah, squared, and then you square root it.",00:14:41
+nmprbzf,143,tutor,"Mm-hmm, okay. So if you add these, 6 squared is 36, and 4 squared is 16.",00:14:46
+nmprbzf,144,student,Yes.,00:14:55
+nmprbzf,145,tutor,"So are there— oh, can I check the addition again, Rowena?",00:14:56
+nmprbzf,146,student,50.,00:15:03
+nmprbzf,147,tutor,"It's very close, but not [UNCLEAR].",00:15:06
+nmprbzf,148,student,52.,00:15:07
+nmprbzf,149,tutor,"Yeah, that's right. It's 52. So square root of 52 is 7.21. Okay, can you type that here? Yeah, and what about the units?",00:15:10
+nmprbzf,150,tutor,"Exactly. So good job there in trying that out, Rowena. Okay. So we have completed this lesson of Pythagoras' Theorem. So let's see this one.",00:15:30
+nmprbzf,151,student,[unclear] They haven't squared it.,00:15:46
+nmprbzf,152,tutor,"Yes, that's a good point that you have noticed that. If they have scared, then what would be the actual value of x?",00:15:54
+nmprbzf,153,student,[unclear] Would it be 5?,00:16:01
+nmprbzf,154,tutor,"Mm-hmm. Okay, that's correct, Rowena. How did you work this out to be 5?",00:16:13
+nmprbzf,155,student,3 squared plus 4 squared and then square root of 25.,00:16:20
+nmprbzf,156,tutor,"Yes, that's a really nice explanation. Awesome. So let's find the mistake in the second one.",00:16:27
+nmprbzf,157,student,They've put 8 squared where the 208 should be. [unclear],00:16:38
+nmprbzf,158,student,So they've put it in the wrong order.,00:16:46
+nmprbzf,159,tutor,"Yes. So when they are writing the formula a² b² c², 8² y² should have been equal to 12², right? Yeah. So it's",00:16:50
+nmprbzf,160,student,not,00:17:01
+nmprbzf,161,tutor,"8², it's 12² [unclear] 8². Yeah. Yeah. OK. Good job",00:17:03
+nmprbzf,162,student,there,00:17:09
+nmprbzf,163,background,in,00:17:09
+nmprbzf,164,tutor,"finding that out, Rowena. So we have completed this lesson. We can move on to a new one.",00:17:09
+nmprbzf,165,tutor,"Before we move on, can you tell me what important points we have discussed under Pythagoras' theorem?",00:17:14
+nmprbzf,166,student,"If it's a full triangle, you split it in half to get a right angle.",00:17:20
+nmprbzf,167,tutor,"Exactly. So especially in equilateral or isosceles triangle, we can do that. Okay?",00:17:27
+nmprbzf,168,student,Yeah.,00:17:36
+nmprbzf,169,tutor,"And also we used Pythagoras' theorem to find— there can be 3 types of questions asked. One, you will have to find the hypotenuse where you use the equation directly, a² b² c². And then they can ask the adjacent, one of the adjacent side. There you have to make a small alteration to the formula. Okay. Yeah. Yes.",00:17:37
+nmprbzf,170,student,So,00:18:01
+nmprbzf,171,tutor,"those are the main points under this one. Is it all good to move on to a new one? Yeah. Okay,",00:18:01
+nmprbzf,172,student,there,00:18:07
+nmprbzf,173,tutor,we go. What does it say? [unclear],00:18:07
+nmprbzf,174,tutor,Okay. So do you know anything about scatter graphs?,00:18:19
+nmprbzf,175,student,Yeah.,00:18:26
+nmprbzf,176,tutor,"Okay. Awesome, Rowena. So let's check your understanding on that.",00:18:27
+nmprbzf,177,student,"Oh, should I do this?",00:18:33
+nmprbzf,178,student,[unclear],00:18:53
+nmprbzf,179,tutor,"Okay, so can you explain me how you decided that this is positive correlation?",00:18:53
+nmprbzf,180,student,"Because it's going through the— it's starting at like the— I can't remember what it's called, that bit. It's going upwards from there.",00:19:00
+nmprbzf,181,tutor,Mm-hmm.,00:19:08
+nmprbzf,182,student,I can't remember what it's called.,00:19:12
+nmprbzf,183,tutor,"This point, its origin.",00:19:15
+nmprbzf,184,student,"Yeah, the origin, because it goes— it goes through the origin.",00:19:17
+nmprbzf,185,tutor,"Mm-hmm, okay.",00:19:21
+nmprbzf,186,tutor,"Good explanation there, Rowena. So I'm really happy that you did this on your own. So since you have an understanding of that, let's try our first question. There we go.",00:19:26
+nmprbzf,187,student,Okay. [unclear] [unclear],00:19:34
+nmprbzf,188,tutor,[unclear] [unclear],00:19:50
+nmprbzf,189,tutor,[unclear] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Tutor]... [unclear],00:20:15
+nmprbzf,190,student,[unclear],00:21:10
+nmprbzf,191,tutor,"Yes, awesome, Rowena. So, you have correctly marked them. So, this is a 2-mark question. So, for correcting all the coordinates, for plotting all the coordinates in the correct places, you get the whole mark. So, you have gained that. Good job. So, what type of correlation is this?",00:21:10
+nmprbzf,192,background,Partial correlation.,00:21:31
+nmprbzf,193,tutor,"Yes, it is. So let's go to the second one. [unclear]",00:21:33
+nmprbzf,194,tutor,But I just put because people want to cool down.,00:22:24
+nmprbzf,195,student,"Yeah, no, I [UNCLEAR]. That reason is correct. So when they ask you to describe the relationship, you have to say whether it's positive, negative, or no correlation.",00:22:29
+nmprbzf,196,tutor,Oh.,00:22:39
+nmprbzf,197,student,"And when you're explaining why, this can be your reason.",00:22:40
+nmprbzf,198,tutor,"Oh, I just put it in the wrong one. I was going to put positive in the second one.",00:22:43
+nmprbzf,199,student,"Oh, okay.",00:22:47
+nmprbzf,200,tutor,"Yes, and the explanation is correct there. So you get 2 marks here as well. So mainly, Rowena, when we look at this one, when the temperature increases, the number of ice cream sold increases. Yeah, that's the main reason why it is a positive correlation. So awesome effort in doing that on your own there, Rowena. That's a good working out. So So let's try our third question. There we go.",00:22:55
+nmprbzf,201,student,Is there a ruler anywhere or anything?,00:23:35
+nmprbzf,202,tutor,You mean a line?,00:23:41
+nmprbzf,203,student,"Yeah, a line. Sorry, that's what I meant. [unclear]",00:23:42
+nmprbzf,204,tutor,"No worries, Rowena. It's under the shapes too.",00:23:45
+nmprbzf,205,student,"Okay, thank you. [unclear]",00:23:48
+nmprbzf,206,student,"Okay, awesome. So, you have drawn the best fit curve there. That's correct.",00:24:36
+nmprbzf,207,tutor,"So you get one mark here, and this one is also correct, Zara. So it's really nice to see that you are very confident on this topic since you solved almost everything on your own. So let's try a challenge, okay? [unclear]",00:24:42
+nmprbzf,208,tutor,"Okay. So here, Rowena, when you're drawing the best fit curve, don't you feel like this should be more slanted towards this way, like it should go from here to there? [unclear] [unclear]",00:25:39
+nmprbzf,209,tutor,Yes.,00:26:01
+nmprbzf,210,student,"Okay, I'll try again. Boom, 55.",00:26:02
+nmprbzf,211,tutor,It's still the same answer.,00:26:11
+nmprbzf,212,student,"Yeah, yeah, it's the same. Right.",00:26:12
+nmprbzf,213,tutor,So?,00:26:14
+nmprbzf,214,student,"Okay, that's right, Rowena. So we have completed this lesson as well. So let's See what's wrong here.",00:26:19
+nmprbzf,215,student,It's not [UNCLEAR]. It's negative.,00:26:31
+nmprbzf,216,tutor,That's right. So why do you say this is a negative correlation?,00:26:36
+nmprbzf,217,student,Because it's going opposite the origin.,00:26:39
+nmprbzf,218,tutor,"Yeah. So when x increases, y decreases. Okay, that's why it's a negative correlation. And what's wrong in the next one? It's all about cars and then it's all about flights.",00:26:43
+nmprbzf,219,tutor,"Sorry, Rowena, can you repeat that?",00:26:58
+nmprbzf,220,student,It's all about cars up here but then it's all about flights. [unclear],00:27:03
+nmprbzf,221,background,"Yes, so I think it should be be a mistake here, right? So we will see only this one, right?",00:27:16
+nmprbzf,222,tutor,"Yeah. [unclear] It would be 2,000.",00:27:23
+nmprbzf,223,student,Exactly. So what type of data instead? Gone off the dot.,00:27:40
+nmprbzf,224,tutor,"So instead of— yeah, they have [unclear] a point on the graph, on the plots, on the coordinates instead of reading on the line.",00:27:51
+nmprbzf,225,student,Yeah.,00:28:01
+nmprbzf,226,tutor,"Okay, good job there done, Rowena. So I can see you were very confident in solving these types of problems. So that's a really good focus throughout. Okay, since you're okay with it, let's move on to a new lesson. Okay, what is it this time?",00:28:02
+nmprbzf,227,student,Working with probabilities and tables.,00:28:23
+nmprbzf,228,tutor,Mm-hmm. So I hope you have [unclear] probabilities already. Yeah?,00:28:25
+nmprbzf,229,student,Yeah.,00:28:33
+nmprbzf,230,tutor,"Okay, so let's try this warm-up question. [unclear] 3, 4, 5, 6, 7, 8. It'd be 0.2. It has to add up to 1.",00:28:34
+nmprbzf,231,tutor,"Yes, that's a good understanding and that's the correct answer. So let's try the first question there.",00:28:49
+nmprbzf,232,student,What's the [unclear] contains 3 times [unclear] [unclear],00:28:56
+nmprbzf,233,student,"3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68,",00:29:03
+nmprbzf,234,tutor,"Yes, that's right. Rowena, so how did you get the last answer?",00:29:30
+nmprbzf,235,student,I added the orange juice and apple juice together.,00:29:35
+nmprbzf,236,tutor,"Yes, good explanation. So here's your second question. [Speaker:Background]... [unclear]",00:29:39
+nmprbzf,237,student,What does that word mean?,00:29:49
+nmprbzf,238,tutor,Which one?,00:29:52
+nmprbzf,239,student,Dollar and a lot. [unclear],00:29:53
+nmprbzf,240,tutor,Biased.,00:29:55
+nmprbzf,241,student,"Biased, yeah.",00:29:56
+nmprbzf,242,tutor,"Okay, so actually, Rowena, if a coin is biased, it would give more heads or it would give more tails.",00:29:59
+nmprbzf,243,student,Okay.,00:30:07
+nmprbzf,244,tutor,"So if it is a fair coin, it should give you head and tail half-half, right? The probability is half of getting a head and getting a tail.",00:30:07
+nmprbzf,245,student,Yes.,00:30:17
+nmprbzf,246,tutor,"If you are tossing a coin and if you get more heads, right? Say if you're tossing it 10 times and 8 times if you get head means the coin is biased.",00:30:18
+nmprbzf,247,student,So would it be because they've got more— the numbers are higher on heads?,00:30:28
+nmprbzf,248,tutor,Yes. What would you write for that?,00:30:35
+nmprbzf,249,student,How would I write it? [unclear],00:30:39
+nmprbzf,250,tutor,"Right, and let me show you how we can write that out. So here we have 2 terms There, Rowena, we have an experimental probability and a theoretical probability. Okay, so what do you think a theoretical probability is?",00:30:40
+nmprbzf,251,student,"Um, when one of them has more than the other?",00:30:57
+nmprbzf,252,tutor,"No, no, theoretical probability is, uh, like for head and tail, it's half. Okay, it's the theory. According to the theory, we should get half a head and half a tail. The experimental probability is what we get from the values from the experiment. Okay.",00:31:02
+nmprbzf,253,student,Yeah.,00:31:20
+nmprbzf,254,tutor,"So there are two terms. These are the two main terms we'll be talking about. So when you compare the experimental probability and the theoretical probability, it is far more than that, right? So it's not half of— you can see in all the experiments.",00:31:20
+nmprbzf,255,student,Yeah.,00:31:35
+nmprbzf,256,tutor,That is why you can say The coin is biased. Okay?,00:31:36
+nmprbzf,257,student,Yeah.,00:31:40
+nmprbzf,258,tutor,"So you can just note it like, experimental probability is greatly different from the theoretical one, therefore the coin is biased.",00:31:43
+nmprbzf,259,student,Okay.,00:31:52
+nmprbzf,260,tutor,Can you type it out?,00:31:53
+nmprbzf,261,student,"How do you say, start it? [unclear] You can say the experimental probability. [unclear]",00:32:00
+nmprbzf,262,tutor,What word would you use? [unclear],00:32:16
+nmprbzf,263,tutor,"Zara, you can hear me, right?",00:32:58
+nmprbzf,264,student,"Yeah, I can now. I couldn't just back.",00:33:00
+nmprbzf,265,tutor,"Okay, you can hear me now, right?",00:33:01
+nmprbzf,266,student,Yeah.,00:33:06
+nmprbzf,267,tutor,"Yes, awesome.",00:33:08
+nmprbzf,268,student,I can't even put full stop. I don't know what's wrong.,00:33:09
+nmprbzf,269,tutor,"Yeah, I think there's a problem with your keyboard.",00:33:15
+nmprbzf,270,student,"Oh, I don't mean to press a lot. Is that what I write?",00:33:17
+nmprbzf,271,tutor,"Experimental probability is different to theoretical. Yeah, is greatly different. Just include the word greatly.",00:33:27
+nmprbzf,272,student,"Oh my God, it's being so funny. Oh my gosh. [unclear] Sorry, is this keyboard?",00:33:34
+nmprbzf,273,tutor,"Oh, is that you couldn't edit it there, Rowena?",00:33:47
+nmprbzf,274,student,"No, it wouldn't let me edit it.",00:33:50
+nmprbzf,275,tutor,"Oh, no worries, but you got the idea, right? How we compare two probabilities?",00:33:52
+nmprbzf,276,background,Yeah.,00:34:00
+nmprbzf,277,student,I didn't know that.,00:34:01
+nmprbzf,278,tutor,"Ah, yes, it has been edited. So shall we try the second question now?",00:34:03
+nmprbzf,279,background,[unclear],00:34:08
+nmprbzf,280,student,"Would it be— would it be the second one, Alaric?",00:34:12
+nmprbzf,281,tutor,Why do you say so?,00:34:18
+nmprbzf,282,student,"Because 80 and 20 is only 40 apart, and that's the closest distance between them all.",00:34:20
+nmprbzf,283,tutor,"Yeah, but the question is, Rowena, they want to find whose results will be— will give the most accurate estimate. So if there's a question like this— yeah, go ahead. You have any idea?",00:34:29
+nmprbzf,284,student,No.,00:34:41
+nmprbzf,285,tutor,"Yeah, so if you are finding which is most accurate, the most accurate one will be with the more trials.",00:34:42
+nmprbzf,286,student,"Oh, so will it be the first one?",00:34:49
+nmprbzf,287,tutor,"Yes, it will be the [UNCLEAR].",00:34:51
+nmprbzf,288,student,Okay. All right then. [unclear],00:34:52
+nmprbzf,289,tutor,"Yes, awesome. So Rowena, we are in the last minute of our session today, so we can continue to do this in our next session, okay?",00:35:17
+nmprbzf,290,student,Okay.,00:35:26
+nmprbzf,291,tutor,"Yeah, so what important points do you think we have discussed? In today's session?",00:35:27
+nmprbzf,292,student,[unclear] triangles and [unclear] and experimental probability and theoretical probability.,00:35:34
+nmprbzf,293,tutor,Exactly. And we talked something about Pythagoras' theorem also. Where do we use Pythagoras' theorem?,00:35:42
+nmprbzf,294,student,With the triangles.,00:35:50
+nmprbzf,295,tutor,"Yeah, for the right-angled triangle, we use that special theorem to find the missing sides.",00:35:52
+nmprbzf,296,tutor,Yeah?,00:35:57
+nmprbzf,297,student,Yeah.,00:35:58
+nmprbzf,298,tutor,"If you can't find a right angle triangle in an isosceles or equilateral triangle, what is the construction we do?",00:35:59
+nmprbzf,299,student,A line through the middle.,00:36:08
+nmprbzf,300,tutor,Exactly. So we call it a perpendicular line to the base from a vertex. Okay?,00:36:10
+nmprbzf,301,student,Yeah.,00:36:16
+nmprbzf,302,tutor,"So throughout today's session, Rowena, you tried everything on your own and you explained your workings. That's a really good thing.",00:36:17
+nmprbzf,303,tutor,"So after I end the session, you will get a quiz on the lessons we completed. Please do that and then you can leave, okay?",00:36:24
+nmprbzf,304,student,"Okay, bye.",00:36:29
+nmprbzf,305,tutor,"Have a great week ahead, Rowena. Take care, bye.",00:36:31
+nmprbzf,306,student,Bye. [unclear],00:36:33

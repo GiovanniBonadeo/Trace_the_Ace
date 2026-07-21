@@ -1,0 +1,290 @@
+session_id,utterance_id,role,content,timestamp
+ilaxael,0,background,[unclear],00:00:00
+ilaxael,1,student,Hello.,00:00:00
+ilaxael,2,tutor,"Hello? Hello? Hello? Hello? Hello? Hello? Hi, Thomas, are you there?",00:00:03
+ilaxael,3,tutor,Hello. [unclear],00:00:35
+ilaxael,4,student,Hello.,00:00:48
+ilaxael,5,tutor,Hello? Hello? Hello? [unclear],00:00:55
+ilaxael,6,student,"Thomas, hi.",00:01:17
+ilaxael,7,tutor,"Thomas, can you hear me? Thomas, hello, can you hear me? Hello? [unclear]",00:01:26
+ilaxael,8,student,Hello?,00:01:49
+ilaxael,9,tutor,"Hi, can you hear me? Hello?",00:01:50
+ilaxael,10,student,Hello?,00:01:56
+ilaxael,11,tutor,"Yes, Thomas, can you hear me?",00:01:58
+ilaxael,12,student,Yes.,00:02:00
+ilaxael,13,tutor,All right.,00:02:02
+ilaxael,14,student,There was a problem with my headset. [unclear],00:02:06
+ilaxael,15,tutor,"Okay, is everything all right now?",00:02:09
+ilaxael,16,student,"Yeah. All right, uh, how are you doing today, Thomas?",00:02:11
+ilaxael,17,student,Good.,00:02:16
+ilaxael,18,tutor,So what did you do at your school today?,00:02:18
+ilaxael,19,student,Learning. I did English and math. [unclear],00:02:22
+ilaxael,20,tutor,That is good to hear. So I hope you have enjoyed your day. Yeah?,00:02:28
+ilaxael,21,student,Yeah.,00:02:35
+ilaxael,22,tutor,"All right, so do you remember we were learning about Using mental strategies to multiply.",00:02:36
+ilaxael,23,background,Yeah.,00:02:43
+ilaxael,24,tutor,And we have completed some of the slides.,00:02:45
+ilaxael,25,background,"Yes, we have. [unclear]",00:02:48
+ilaxael,26,tutor,"And today we need to start from this method here, the second one.",00:02:52
+ilaxael,27,background,Yeah.,00:02:59
+ilaxael,28,tutor,"All right, we have [unclear]",00:03:00
+ilaxael,29,tutor,"Very good job, Thomas. So can you tell me what we did in this method?",00:03:20
+ilaxael,30,student,I did partitioning.,00:03:29
+ilaxael,31,tutor,Mm-hmm.,00:03:34
+ilaxael,32,student,So it's basically like separating them because it's separating the 6.,00:03:35
+ilaxael,33,tutor,Which number are we [UNCLEAR]?,00:03:43
+ilaxael,34,student,The 25.,00:03:43
+ilaxael,35,tutor,"Yes, yes. All right, so shall we move on to the next method?",00:03:46
+ilaxael,36,student,"Yeah. It's 25 times 3. 25 times 3. 15. 15. So of the 6, 15, 16, 17, 18, 19, 20, 21.",00:03:52
+ilaxael,37,tutor,How did you got that?,00:04:13
+ilaxael,38,student,"Wait, if 15, you got 5 times 3. [unclear] 15, and then you got 20 times 3. Oh, so that's 60, that's 75.",00:04:16
+ilaxael,39,tutor,"Yes, there you go. Now what are we going to do?",00:04:38
+ilaxael,40,student,"75 times 2. So 5 times 2 is 10, and 2 times 7 is 14.",00:04:41
+ilaxael,41,tutor,"Mm-hmm. [Speaker] So 7, so 10, 14, 7 and 14, no, 10 and 14, what? I don't get this bit.",00:04:54
+ilaxael,42,tutor,"So first we need to times 2 and 5, yeah? [Speaker] That's 10.",00:05:11
+ilaxael,43,tutor,"That's 10, you would get 0 and you would take over the carry, 1. And then 2 times 7 is 14, and 14 add 1 would be 15. Like you did this one.",00:05:15
+ilaxael,44,student,"[unclear] 2 times 5 is 10. And 2 times 7 is 14. So is it 57, uh, 25 or 24, should I say? [unclear]",00:05:36
+ilaxael,45,tutor,"Okay, let's just go back again. What are we doing here?",00:06:04
+ilaxael,46,student,25 times 3.,00:06:10
+ilaxael,47,tutor,And how did you get 75? Can you tell me?,00:06:13
+ilaxael,48,student,"75, I did 3 times 5 and then 3 times 2. But you told me that it was wrong, so I did a different method. That's called knowing your facts and adjusting. But then I don't get the bottom bit.",00:06:16
+ilaxael,49,tutor,So what do we have here? 75. Times by 2. What we can do here is we can partition this number 75 into 70 and 5. [unclear],00:06:37
+ilaxael,50,tutor,Yes?,00:06:55
+ilaxael,51,student,"Yeah, so 70 times 2, just 170. 70 times 2 would be? [Speaker] 70 times 2, so 140.",00:06:57
+ilaxael,52,tutor,Yes. [Speaker] 150.,00:07:20
+ilaxael,53,tutor,"Yes, there you go. [unclear]",00:07:25
+ilaxael,54,tutor,"All right, so what would be our final answer?",00:07:37
+ilaxael,55,background,150.,00:07:39
+ilaxael,56,tutor,So can you explain it to me? What are we doing in this method here?,00:07:44
+ilaxael,57,background,What? Dublin fact and adjusting?,00:07:48
+ilaxael,58,tutor,"Yes, Dublin fact, Dublin. In the Dublin method, what are we doing?",00:07:51
+ilaxael,59,background,"Doing 25 times 3, what, 75?",00:08:00
+ilaxael,60,tutor,Mm-hmm.,00:08:03
+ilaxael,61,student,"And then, and you're doing 75 times 2 is 150.",00:08:04
+ilaxael,62,tutor,So why are we timesing it by 2?,00:08:08
+ilaxael,63,student,"You're timesing it by 2 because if you've got the same answer, you're just bringing it down. If you times it by 2, it's 150. But you've got the same answer on the partitioning.",00:08:12
+ilaxael,64,tutor,What was our original calculation?,00:08:23
+ilaxael,65,student,"25 times 6. 25 times 6. So what we are doing here is instead of doing 25 times 6, we are breaking this number as 3 and 2.",00:08:26
+ilaxael,66,tutor,"Yes, there you go.",00:08:42
+ilaxael,67,student,Yay!,00:08:43
+ilaxael,68,tutor,"Good working out and nice explanation, Thomas. Okay, so what about the next method?",00:08:44
+ilaxael,69,student,The 11 factorization. So I did 25 times 4 out of 100. I brought the 100 down.,00:08:52
+ilaxael,70,tutor,So 100 add 25 times 2 is 50. [unclear],00:08:58
+ilaxael,71,student,So what are we doing in this one?,00:09:10
+ilaxael,72,tutor,"We're doing 25 times 4, that's 100. So you do, and then you bring the 100 down. So when you do 100 add 2 times 25, but 2 times 25 is 50.",00:09:12
+ilaxael,73,tutor,I just added them together and it's 150.,00:09:28
+ilaxael,74,student,Why are we adding them together?,00:09:31
+ilaxael,75,tutor,"Because you've got 100 adds. 2 times 50, 25.",00:09:32
+ilaxael,76,student,So why are we first multiplying with 4?,00:09:41
+ilaxael,77,tutor,"You first multiply by 4 and then you [unclear] doing by 2. Well, that's technically doing like that same because you're just doing it into 4 and 2.",00:09:49
+ilaxael,78,tutor,"So what we are doing, let me give you an explanation. What we are doing here is instead of timesing 25 by 6, we are breaking that 6 as 4 plus 2. Okay, so first we are timesing 25 by 4, and then we— then we are timesing 25 by 2, and then we are adding them together. [unclear]",00:10:02
+ilaxael,79,tutor,"All right, so you did fantastic work in this slide, and also you gave an explanation for all your workings. So I'll give you a reward point.",00:10:34
+ilaxael,80,tutor,Yay! Yay! So do you have any questions?,00:10:46
+ilaxael,81,student,No.,00:10:52
+ilaxael,82,tutor,Let's just move on to the next slide then. So in this one we have lots of practice questions. So what are we going to do here?,00:10:54
+ilaxael,83,student,You're gonna partition.,00:11:02
+ilaxael,84,tutor,What does the question say?,00:11:04
+ilaxael,85,student,Use your perfect mental method to solve the [UNCLEAR].,00:11:06
+ilaxael,86,tutor,Use your preferred mental method. So what are the methods we know?,00:11:10
+ilaxael,87,student,We know partitioning.,00:11:18
+ilaxael,88,tutor,Okay.,00:11:20
+ilaxael,89,student,Adjusting.,00:11:24
+ilaxael,90,tutor,And?,00:11:27
+ilaxael,91,student,And? I don't know. [unclear],00:11:28
+ilaxael,92,tutor,Doubling.,00:11:34
+ilaxael,93,tutor,And doubling.,00:11:36
+ilaxael,94,student,And doubling. So which method are you going to use in the first one?,00:11:37
+ilaxael,95,tutor,Partitioning.,00:11:42
+ilaxael,96,student,"Okay, let's just see.",00:11:44
+ilaxael,97,tutor,"I'm going to partition 15 and 32. So [unclear] 5 times 2 and then 1 times 3. Well, I could do methods like column method.",00:11:46
+ilaxael,98,tutor,We are not going to do column method. We are going to use these,00:12:06
+ilaxael,99,background,partitioning or doubling or known facts and adjusting. You can use any one of them. So which method would you be using in the first one?,00:12:12
+ilaxael,100,student,"[unclear] Partitioning. Partitioning, how do we use that?",00:12:28
+ilaxael,101,student,"I'm going to do 5 times 2 equals 10, and I'm going to do 1 times 3.",00:12:33
+ilaxael,102,tutor,"That is not partitioning. You tell me, what did we do in this one? What did we add here?",00:12:48
+ilaxael,103,student,25 times 6.,00:13:02
+ilaxael,104,tutor,And how are we partitioning that? See here.,00:13:04
+ilaxael,105,student,20 times 6 and 5 times 6.,00:13:08
+ilaxael,106,tutor,Yes. So what will you do here?,00:13:12
+ilaxael,107,student,[unclear] Partition 32.,00:13:14
+ilaxael,108,tutor,"Yes, you can partition 32. So what will be the two numbers you are going to partition 32? Tell me.",00:13:22
+ilaxael,109,student,30 and 2.,00:13:31
+ilaxael,110,tutor,"30 and 2. There you go. Okay, so your calculation would be 30 times [UNCLEAR].",00:13:33
+ilaxael,111,tutor,15 and? [unclear],00:13:53
+ilaxael,112,tutor,"Okay, could you please check on this one? [unclear]",00:14:13
+ilaxael,113,tutor,35.,00:14:28
+ilaxael,114,student,"How will it be 35? [Speaker] Because you've got 5 times 0, which is 0, and then you've got 3 times 1 is 3, 30.",00:14:30
+ilaxael,115,tutor,Do we multiply like that? [unclear],00:14:52
+ilaxael,116,tutor,"All right, so what do you think would be the answer? How many hundreds of parts are exchanged by each color? How many parts of each color has been divided into?",00:15:18
+ilaxael,117,tutor,"Okay, how will we multiply this? Thomas, what are you thinking? [unclear] So let me give you a hint. Instead of doing 30 times 15, can we not do 3 times 15. [unclear]",00:15:42
+ilaxael,118,tutor,"Yeah, instead of doing 30 times 15, if we do 3 times 15. [unclear] 15 times 3. So 5 times 3 is 15, 3 times 1 is 3.",00:16:11
+ilaxael,119,tutor,"Again, I want you to check it. [unclear] [unclear]",00:16:47
+ilaxael,120,tutor,So what will you do?,00:16:59
+ilaxael,121,student,3 times 5 and then 1 times 3.,00:17:02
+ilaxael,122,tutor,"3 times 5 would be 15. Okay, so let's just use the method here and we'll see. How we can multiply this? Now you tell me. [unclear]",00:17:06
+ilaxael,123,tutor,15.,00:17:26
+ilaxael,124,student,3 times. How do we do column method here?,00:17:29
+ilaxael,125,tutor,5 times 3 and then 3 times 1.,00:17:32
+ilaxael,126,student,5 times 3 is 15. So do we write 15?,00:17:36
+ilaxael,127,tutor,"No, you put the 1 underneath.",00:17:41
+ilaxael,128,student,Yes. And 3 times 1 is?,00:17:44
+ilaxael,129,tutor,"3, 4.",00:17:46
+ilaxael,130,background,And then 4. So what is 3 times 15? 45. Now you look here. What's the difference? What do we need to do here? 450. Why are we adding one zero here?,00:17:48
+ilaxael,131,background,Because it was there but we know in the ones.,00:18:14
+ilaxael,132,tutor,"Yes, also we can say that this 3 is, this 30 is 10 times bigger than 3. So that's why we are making it 10 times bigger. Okay, what else?",00:18:18
+ilaxael,133,background,[unclear] [unclear],00:18:29
+ilaxael,134,tutor,What is your next step?,00:18:46
+ilaxael,135,tutor,Which method are we using in this one?,00:19:04
+ilaxael,136,background,Partitioning.,00:19:07
+ilaxael,137,tutor,Partitioning.,00:19:09
+ilaxael,138,background,"Alright, so is my voice a bit slow?",00:19:14
+ilaxael,139,tutor,Is your keyboard not working properly? I want to check this multiplication. How did you got this? [unclear],00:19:20
+ilaxael,140,tutor,So how did you got this? [unclear],00:19:41
+ilaxael,141,tutor,Is this your final answer?,00:20:20
+ilaxael,142,background,All right.,00:20:21
+ilaxael,143,tutor,"So if you don't mind, can you explain it to me? How did you got this?",00:20:24
+ilaxael,144,student,"Well, it's 30 times 15, and then 2 times 15, and then I got 30. So I decided on 450, and then I got 4 [UNCLEAR].",00:20:27
+ilaxael,145,tutor,"Yes, so that is the correct way to do it, Thomas. Good working out. So let's just move on to the second one. What do we have here? [unclear]",00:20:27
+ilaxael,146,tutor,Okay. What are we— which method are we going to use in this one?,00:20:52
+ilaxael,147,student,Partitioning.,00:20:59
+ilaxael,148,tutor,"All right. So tell me, how would you use it? [unclear]",00:21:02
+ilaxael,149,tutor,"Okay, how did you get 220, Thomas?",00:21:31
+ilaxael,150,student,Just give me a minute. [unclear],00:21:37
+ilaxael,151,tutor,I'm back.,00:21:44
+ilaxael,152,background,What happened?,00:21:45
+ilaxael,153,tutor,My friend was just asking me about— that she can't hear her tutor.,00:21:48
+ilaxael,154,background,"All right, all right. How did we get 220?",00:21:53
+ilaxael,155,tutor,"I did 20 times 12, but there's a zero, so I did 2 times 2 is 4.",00:21:56
+ilaxael,156,background,2 times 2 is 4.,00:22:02
+ilaxael,157,tutor,"Thomas, how are we getting 400? How did we do this one? Do you remember? 30 times 15. [unclear]",00:22:22
+ilaxael,158,tutor,Hello?,00:22:42
+ilaxael,159,student,Mr. Lear.,00:22:43
+ilaxael,160,tutor,I'm saying how we did 30 times 15. Do you remember that?,00:22:44
+ilaxael,161,student,Yeah.,00:22:49
+ilaxael,162,tutor,What did we do there?,00:22:51
+ilaxael,163,student,30 times partition again.,00:22:53
+ilaxael,164,tutor,"Instead of doing 30 times 15 directly, what did we do? [unclear]",00:22:57
+ilaxael,165,tutor,"So what we can do here, instead of doing 20 times 12, what we can do?",00:23:10
+ilaxael,166,student,20 times 1 and then something like this.,00:23:15
+ilaxael,167,tutor,"Here, instead of doing 30 times 15, we did 3 times 15 and then we added the 0.",00:23:21
+ilaxael,168,tutor,"So what's happening, Thomas? Why are you erasing everything? [unclear] I'm saying, why are you erasing everything? [unclear]",00:23:28
+ilaxael,169,tutor,"Is everything all right, Thomas?",00:23:58
+ilaxael,170,student,Yeah.,00:24:03
+ilaxael,171,tutor,Are you comfortable?,00:24:05
+ilaxael,172,student,Yeah.,00:24:07
+ilaxael,173,tutor,I don't know what's happening. You're not focusing today. How was your day? [unclear],00:24:09
+ilaxael,174,tutor,"Okay, so let's just come back to our session and finish these questions quickly, then we'll move on to the next lesson, Thomas. And as in our previous sessions, you— I mean, you're doing fantastic for giving, giving explanation for everything. Okay, so I want you to focus on that like that.",00:24:20
+ilaxael,175,tutor,"So in our previous session, what was the thing you're saying? [Speaker] I don't know.",00:24:48
+ilaxael,176,tutor,A thing about you that you are alpha or something you're saying. Remember? [Speaker] No.,00:24:55
+ilaxael,177,tutor,"All right, so let's just focus here. So tell me, how are we going to do this calculation?",00:25:06
+ilaxael,178,background,20 times 10 and then times it by—,00:25:12
+ilaxael,179,background,"Okay, okay, yes, that would be the very efficient method. So 20 times 10 would be?",00:25:18
+ilaxael,180,student,20.,00:25:30
+ilaxael,181,background,20 times 10 would be 20.,00:25:31
+ilaxael,182,background,It's got 2 times 1. Take the [UNCLEAR].,00:25:34
+ilaxael,183,tutor,Take me there. [unclear] 1 times 2. 2. [Speaker] So I'm taking the zeros off and then doing 2 times 1.,00:25:42
+ilaxael,184,tutor,"Okay, yes. So you're taking 2 zeros off, so you need to put 2 zeros here. [unclear]",00:26:16
+ilaxael,185,tutor,What else? [unclear],00:26:32
+ilaxael,186,tutor,Yeah. [unclear],00:27:03
+ilaxael,187,student,"So when I started to try that, it was the same exact thing. But when I looked deeper into it, I found out that it wasn't a fiber, it was actually a chain. Because if you tap them and pull it there on each one of them, you can see that it ends. [unclear]",00:27:05
+ilaxael,188,tutor,Is it 180?,00:27:24
+ilaxael,189,tutor,"180, it is, yes. How did you got that?",00:27:52
+ilaxael,190,background,Guessing.,00:27:55
+ilaxael,191,tutor,"Not— it is not 180. So if you— if you are guessing, let's just not guess it and try to do it like this, how you did this one. [unclear]",00:27:57
+ilaxael,192,tutor,"Yeah, but enough to say method.",00:28:23
+ilaxael,193,background,Sorry?,00:28:28
+ilaxael,194,tutor,What do we have? 9 times 12. So what can we do? Here. [unclear],00:28:30
+ilaxael,195,tutor,Okay. Yes. Okay. Then—,00:28:47
+ilaxael,196,student,Hello. 2 times 9.,00:29:03
+ilaxael,197,tutor,"Yes, yes, Thomas.",00:29:11
+ilaxael,198,student,That equals 18.,00:29:13
+ilaxael,199,tutor,"18, it is. Excellent work. Now what?",00:29:17
+ilaxael,200,student,108.,00:29:23
+ilaxael,201,tutor,108 it is. You can write it here. Now what do we need to do?,00:29:27
+ilaxael,202,student,Add 240 and 8 to it.,00:29:39
+ilaxael,203,tutor,"Yes, yes, excellent focus, Thomas. What would you get? Fantastic work, Thomas. That's the right answer. Now moving on to the third one. [unclear]",00:29:42
+ilaxael,204,tutor,"Third one, Thomas.",00:30:14
+ilaxael,205,tutor,"Yeah, I am.",00:30:27
+ilaxael,206,student,What about this one?,00:30:31
+ilaxael,207,tutor,I'm doing it. [unclear],00:30:34
+ilaxael,208,tutor,"That was really quick, Thomas. Excellent work. So this is Is this the right answer? I will give you a reward point. [unclear] What about the next one? Can we use any other method in this one?",00:31:06
+ilaxael,209,student,"Since basically the signal has been dead in the previous 4 years, but it is just the young tree, so we will just have to put a 0 for the young tree, then a 1 for the [unclear]",00:31:33
+ilaxael,210,tutor,"Alright, that is the right answer.",00:31:58
+ilaxael,211,tutor,"I was saying, can we use any other method in this one?",00:32:12
+ilaxael,212,student,I'll just stick to the same method.,00:32:14
+ilaxael,213,tutor,Sorry?,00:32:17
+ilaxael,214,student,I'll just stick to the same method. That's all I'll do.,00:32:18
+ilaxael,215,tutor,"Okay, can we not use doubling in this one?",00:32:25
+ilaxael,216,student,No.,00:32:28
+ilaxael,217,tutor,"In all these questions, we can use either partitioning or doubling or adjusting. You can use all the 3 methods. So if you don't mind, can you try to solve this one using the doubling? Last one. [unclear]",00:32:32
+ilaxael,218,tutor,What was the doubling method?,00:32:57
+ilaxael,219,background,Halfing. Halving and then doubling it. So how would you use— [unclear],00:33:01
+ilaxael,220,student,So you're technically doing 58 times 3.,00:33:12
+ilaxael,221,tutor,Okay.,00:33:22
+ilaxael,222,student,So aren't we [unclear],00:33:26
+ilaxael,223,tutor,Give me a minute.,00:33:37
+ilaxael,224,student,"Yeah, take your time, Thomas. [unclear]",00:33:40
+ilaxael,225,tutor,"Okay, what is 8 times 3?",00:34:32
+ilaxael,226,student,24.,00:34:35
+ilaxael,227,tutor,"24, yes. [unclear]",00:34:38
+ilaxael,228,tutor,So let's very quickly move on to the quiz test so that you can give a try to the part. Okay. [unclear],00:34:52
+ilaxael,229,tutor,"So, we have to convert what we see here into a decimal fraction. So, what do you think that we have to do? We have to change this fraction number into a decimal number. So, we have to convert what we see here into a decimal fraction. So, what do you think we can convert this into a decimal fraction? [unclear]",00:35:12
+ilaxael,230,tutor,"I really appreciate what you're doing here, Thomas. Very good job. [unclear]",00:35:50
+ilaxael,231,tutor,"So excellent work, Thomas. That is the right answer. Why did you decide to add them together?",00:36:09
+ilaxael,232,student,"Because it's [unclear] times 2, so it will be 100 times 4, 100 times 4.",00:36:18
+ilaxael,233,tutor,"Great explanation. I really appreciate that, Thomas. Very good job. So I think we are good to go to the next question. This is going to be a final question in this lesson, then we'll finish it.",00:36:24
+ilaxael,234,tutor,Yeah.,00:36:42
+ilaxael,235,background,I agree. [unclear],00:36:45
+ilaxael,236,tutor,What do we have here?,00:36:55
+ilaxael,237,student,You do 37 times 8. She says I can solve the calcu— by calculating 37 times 4 and then multiplying my answer by 4. Do you agree? Explain your answer.,00:36:57
+ilaxael,238,tutor,Do you agree?,00:37:14
+ilaxael,239,student,"I don't know. No, because you can't multiply it by 4. [Speaker] You know the multiple by 2s.",00:37:16
+ilaxael,240,tutor,[unclear] 37 by 4. Is that correct? This one? [Speaker] No.,00:37:25
+ilaxael,241,tutor,Which statement is not correct?,00:37:43
+ilaxael,242,tutor,The second one? And why is it not correct?,00:37:49
+ilaxael,243,background,Because you can't just multiply it by 4.,00:37:57
+ilaxael,244,tutor,So what can we do? How would you solve this calculation then? Can you write your calculation? Just your calculation. [unclear],00:38:02
+ilaxael,245,tutor,"Like, how would you do it?",00:38:15
+ilaxael,246,student,You do— I'm gonna do [UNCLEAR].,00:38:17
+ilaxael,247,tutor,Okay.,00:38:17
+ilaxael,248,student,37 times 6.,00:38:21
+ilaxael,249,tutor,Times? Why 6?,00:38:27
+ilaxael,250,student,"So then I want to do 30 times 6. Why are we timesing it by 6, Thomas?",00:38:34
+ilaxael,251,student,We have 37 times 8. [unclear] [Speaker] I don't know that.,00:38:43
+ilaxael,252,tutor,"Which method is she using here? [unclear] [Speaker] But she is not partitioning 37, is she?",00:39:16
+ilaxael,253,student,No.,00:39:32
+ilaxael,254,tutor,So partitioning is not used here. Which other method can be used here?,00:39:32
+ilaxael,255,student,Doubling.,00:39:38
+ilaxael,256,tutor,"Doubling, okay. How do we use doubling method? [unclear] First we half it and then we double it. So if you half 8, what would you get?",00:39:40
+ilaxael,257,tutor,4. What would be a calculation there?,00:39:58
+ilaxael,258,student,37 times 4.,00:40:00
+ilaxael,259,tutor,"Okay, can you write that? And then what would you do? [unclear] [unclear]",00:40:03
+ilaxael,260,tutor,"All right, that's amazing. So now you can read the [unclear] that is 0.75, it is reading a number that is 0.1. [unclear]",00:40:29
+ilaxael,261,tutor,"Okay, what next? [unclear]",00:41:04
+ilaxael,262,tutor,"Right. So there you go. So what was the mistakes he was doing, Thomas?",00:41:27
+ilaxael,263,student,He was timesing it wrong. He was timesing it by 4.,00:41:31
+ilaxael,264,tutor,"He was 4. Instead of doubling it, he was?",00:41:37
+ilaxael,265,tutor,"Timesing it by 4. All right. So let us just say she is doing this calculation. So what would be the original calculation for this? If Tara is— let us just say if Tara is using this method, what would we say completing? What calculation?",00:41:42
+ilaxael,266,student,37 times 4. And times it by 2.,00:42:04
+ilaxael,267,tutor,"Yeah, that would be the correct way to do it. I'm saying, what calculation is she doing here?",00:42:12
+ilaxael,268,student,"I don't know. [unclear] Times 4, then multiply her answer by 4.",00:42:22
+ilaxael,269,tutor,And that would be 4 times?,00:42:29
+ilaxael,270,student,4.,00:42:31
+ilaxael,271,tutor,"Oh, and that means 30 tables",00:42:33
+ilaxael,272,tutor,37 times?,00:42:34
+ilaxael,273,student,4.,00:42:34
+ilaxael,274,tutor,"16. So actually what we had 37 times 8, but she is doing 30— 37 times 16 here. So that would be— that would not be the correct way to do it, Thomas. All right, so with this we have completed our lesson, and as you can see, we are at the very end of our session. So let's just conclude our today's session here. Okay, and we'll start with a new lesson in our next session. So how was this lesson, Thomas?",00:42:34
+ilaxael,275,student,Good.,00:43:13
+ilaxael,276,tutor,What were the things you learned new in this lesson?,00:43:14
+ilaxael,277,student,Nothing.,00:43:17
+ilaxael,278,tutor,What were the methods we learned about?,00:43:20
+ilaxael,279,student,Partitioning.,00:43:24
+ilaxael,280,tutor,Mm-hmm. [Speaker] Then adjusting and doubling.,00:43:26
+ilaxael,281,tutor,"So in partitioning, what do we do? [Speaker] Partitioning, you did— you did— you just half— so you just take— [unclear]",00:43:32
+ilaxael,282,tutor,Which number do we partition? [Speaker] 25.,00:43:47
+ilaxael,283,tutor,"25, the larger one. We can say we partition the larger number. And in doubling, what do we do?",00:43:50
+ilaxael,284,student,You halve it and then times it by 2.,00:44:02
+ilaxael,285,tutor,"Yes, we halve the smaller number and then times it by 2. I mean double it. And what do we do in adjusting?",00:44:05
+ilaxael,286,background,"Adjusting, you do 25 times 4. [unclear]",00:44:15
+ilaxael,287,tutor,"Okay. So before you go, Thomas, you will have some questions as a quiz to do. Please do fill up the feedback form. Alright, Thomas, we'll meet you in next session next week at the same time. Till then, have a great weekend and take care. Bye.",00:44:24
+ilaxael,288,student,Thanks.,00:44:40

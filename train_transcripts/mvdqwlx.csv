@@ -1,0 +1,250 @@
+session_id,utterance_id,role,content,timestamp
+mvdqwlx,0,tutor,Hello?,00:00:00
+mvdqwlx,1,student,Hello.,00:00:01
+mvdqwlx,2,tutor,Hi.,00:00:03
+mvdqwlx,3,student,"Hello. [unclear] Yeah, hi, how are you?",00:00:03
+mvdqwlx,4,tutor,Good.,00:00:06
+mvdqwlx,5,student,"Yeah, how's your day been going so far?",00:00:07
+mvdqwlx,6,tutor,My day's been good.,00:00:10
+mvdqwlx,7,student,Yeah? Anything interesting happen today?,00:00:12
+mvdqwlx,8,tutor,"No, nothing interesting has happened today.",00:00:16
+mvdqwlx,9,tutor,"Okay, and how was your weekend?",00:00:20
+mvdqwlx,10,student,My weekend was good.,00:00:22
+mvdqwlx,11,tutor,"It was good, alright, that's nice. So shall we get started with today's lesson?",00:00:24
+mvdqwlx,12,student,Yes.,00:00:30
+mvdqwlx,13,tutor,"Yeah, so today we're going to be doing— we're going to be learning about long multiplication. Have you learned this in school?",00:00:32
+mvdqwlx,14,student,"Yes, we did this last year.",00:00:38
+mvdqwlx,15,tutor,"You did this last year, and how did you find this lesson?",00:00:41
+mvdqwlx,16,student,Easy.,00:00:44
+mvdqwlx,17,tutor,So you think you're quite good at it?,00:00:46
+mvdqwlx,18,student,Yes.,00:00:49
+mvdqwlx,19,tutor,"Okay, that's good, that's good. I like that confidence. So let's start with the learning goal question. Do you think you can attempt this first?",00:00:50
+mvdqwlx,20,background,"Yeah, I can read it.",00:00:58
+mvdqwlx,21,tutor,Yeah. [unclear],00:01:03
+mvdqwlx,22,background,"Yeah, I can hear you now. Done.",00:01:06
+mvdqwlx,23,tutor,"Okay. Okay, so can you talk me through how you work this out?",00:01:39
+mvdqwlx,24,student,"So I worked this out by— because when doing long multiplication, you have to multiply by the ones first. So 7 times 5 is 35, so I'll put 5 there with a remainder of 3. 2 times 5 is 10, add 3 is 13, and since there's no, like, other numbers, you put it there. Then you drop down a zero because you're multiplying by the tens. So 7 times 1 is 7, and 2 times 1 is 2, and add them together, and I got 405.",00:01:42
+mvdqwlx,25,tutor,"405, okay. So yeah, you gave a very nice explanation on how you work this out, and yeah, very nicely done. So let's move directly to the You Do slide. So yeah, we have some calculations over here for you. You can work these out, and if you need any help, you can let me know and I'll guide you. [unclear]",00:02:17
+mvdqwlx,26,student,Okay. [unclear],00:02:36
+mvdqwlx,27,tutor,"So, it mostly needs no bit mask.",00:02:37
+mvdqwlx,28,tutor,Two different shapes like that. [unclear],00:03:03
+mvdqwlx,29,student,"If there's, for example, there's only like one question left, you work out this first and then you do whatever you have to do here. But since there's squared numbers, which is either [unclear] squared is, which will give you 9. So then you take a little [unclear] here, and then it should be 3 here, and there's 2 centimeters here. And if you know that that's 6 and this is 2,",00:03:11
+mvdqwlx,30,tutor,"6 minus 2 is 4. So this should be 4. So the f4, that's 2, 3, 4, 6. So if you add all of them together, it's 4, 6, [unclear] 10, 14, 16. 16, and then 19 again. [unclear]",00:03:59
+mvdqwlx,31,tutor,Tutor is freezing.,00:04:33
+mvdqwlx,32,student,"I think what I did wrong is last year, this bit here, and I know it was my line, I was taking it away from 24, which I got from here, and I think that's when he got mixed up and [UNCLEAR]. [unclear]",00:04:35
+mvdqwlx,33,tutor,"Yeah. [Speaker:Kieran]...8. [Speaker:Tutor] Okay, there is a calculation error in part D, so can you just take a look? Can I just go through your calculation? [unclear]",00:05:03
+mvdqwlx,34,tutor,So answer question 10. Since there's no [unclear] you don't have to stop.,00:05:18
+mvdqwlx,35,student,"Oh, okay.",00:05:20
+mvdqwlx,36,tutor,"So then you could— then you say that's 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20. Then you find out that B is first, which is division. So you do division first, which is 5 divided by 2, which is 2. And then, actually, no, sorry, sorry. [unclear]",00:05:20
+mvdqwlx,37,tutor,"So, [unclear]",00:05:47
+mvdqwlx,38,tutor,"Oh, that's all right. I can do it.",00:06:17
+mvdqwlx,39,student,Okay.,00:06:28
+mvdqwlx,40,tutor,So 6 times 5 is 30 with 3 left over. 3 times 5 is 15. 18. [unclear],00:06:29
+mvdqwlx,41,tutor,0. [unclear],00:06:51
+mvdqwlx,42,tutor,"Okay, I'm done.",00:07:05
+mvdqwlx,43,tutor,So can you talk me through how you worked this out?,00:07:32
+mvdqwlx,44,student,"So for part A, I worked it out by doing 6 times 5, which was 30, and you would have a remainder of 3. And then I did 3 times 15, which is 15, add the 3 is 18, which is 180. Then I dropped down the 0 because I'm now multiplying by the tens column. So I did 6 multiplied by 1, which is 6, and 3 multiplied by 1, which gave me 360. Then I added the 2 together, which gave me 540. [unclear]",00:07:37
+mvdqwlx,45,tutor,"For part B, I did...",00:08:06
+mvdqwlx,46,student,"Yes, go ahead.",00:08:08
+mvdqwlx,47,tutor,Never mind.,00:08:09
+mvdqwlx,48,student,"No, it's alright.",00:08:10
+mvdqwlx,49,tutor,"I did 4 multiplied by 2, which is 8, and then 6 multiplied by 2, which is 12, which gave me 128. Then I dropped down the 0. I did 4 times 3 is 12, with 1 remainder. 6 times 3 is 18, add the 1 remainder is 1920. Then I added the 2 together, which gave me 2048.",00:08:12
+mvdqwlx,50,tutor,"2,048. So you've done some wonderful work over here. You've shown very clear working. I think you just missed out over here because you forgot to take note of the 3 that was exchanged, yeah?",00:08:33
+mvdqwlx,51,student,Yeah.,00:08:46
+mvdqwlx,52,tutor,"I think that's where you missed out, but other than that, you've done really neat work over here. You've done amazing work, and you've given very good explanations as well. So I see that you have a good understanding of why you do the things you do, especially when you mentioned [unclear] dropping to 0 because we're multiplying by the tens. So I see that you have a good understanding over here, so let's move on directly to the next slide.",00:08:47
+mvdqwlx,53,tutor,"Okay. You can get started, Kieran.",00:09:12
+mvdqwlx,54,student,"Okay, so explain the error. [unclear]",00:09:16
+mvdqwlx,55,tutor,"The error is when they were multiplying by the tens, they forgot to dropped the zero, which gave them the incorrect answer.",00:09:22
+mvdqwlx,56,tutor,"Okay, so what should they have done instead then?",00:09:34
+mvdqwlx,57,student,They should have dropped the zero. They shouldn't have put the 9 there. It should have been 990 because the zero would be there.,00:09:39
+mvdqwlx,58,tutor,And why would it be that way?,00:09:48
+mvdqwlx,59,student,"Because when multiplying by the tens, you drop down the zero because you are multiplying by the tens.",00:09:52
+mvdqwlx,60,tutor,"Yes, that's right. So like you mentioned, you're multiplying by the tens, so you are multiplying by 30 and not 3, and I think that's the error that's been made here, Kieran?",00:10:01
+mvdqwlx,61,student,Yeah.,00:10:11
+mvdqwlx,62,tutor,"Yeah, okay. So that was a very good explanation over there. Thank you for sharing that. You've done some amazing work on this lesson, and I see that you have a very good understanding of how this lesson works. So have you got any questions?",00:10:11
+mvdqwlx,63,background,[unclear],00:10:23
+mvdqwlx,64,student,No.,00:10:24
+mvdqwlx,65,tutor,"Okay, so do you think you could have used any other strategies to work out the questions that were given to you today?",00:10:27
+mvdqwlx,66,student,"I don't know, maybe I could have done for like— actually, yeah, I don't know.",00:10:38
+mvdqwlx,67,tutor,So you are pretty confident in the method that you're using?,00:10:48
+mvdqwlx,68,student,Yeah.,00:10:51
+mvdqwlx,69,tutor,"Yeah, okay. So, yeah, so you've done some amazing work. Have you got anything you want to clarify before I move on to the next topic?",00:10:53
+mvdqwlx,70,student,"No, I do not have anything I want to clarify.",00:11:02
+mvdqwlx,71,tutor,"Okay, awesome. So then let's go to the next topic. So next topic, we are going to be looking at some division. So we're doing division, short division with exchange. What do you think about this lesson? How do you find it?",00:11:06
+mvdqwlx,72,background,Easy.,00:11:19
+mvdqwlx,73,tutor,"Okay, awesome. That's good. So let's start with the learning goal question. Can you try this out, please?",00:11:20
+mvdqwlx,74,student,Yes. [unclear],00:11:27
+mvdqwlx,75,tutor,Done.,00:11:50
+mvdqwlx,76,student,OK. And how— why have you worked it out this way?,00:11:52
+mvdqwlx,77,tutor,"So I worked it out because all you have to do for [unclear] is work out how many times 6 goes into 1, and that is 0. So you exchange the 1 to 2 to make it 12. And 12 goes into 6 twice, so then you would put a 2 there.",00:11:56
+mvdqwlx,78,student,"And 6 goes into 8 once but with 2 left over, so you would exchange the 2. And 6 goes into 24 4 times.",00:12:16
+mvdqwlx,79,tutor,"OK. So just to clarify, so you mentioned that you have exchanged. So here you've exchanged 1 to the 2 and the 2 to the 4 here. Why have we done that?",00:12:26
+mvdqwlx,80,student,"We have done that because it doesn't make the whole number. For example, when we were looking at 8, we could only—",00:12:39
+mvdqwlx,81,tutor,"The only multiple that would fit into 8, you could say, would be 6, but you would have 2 left over.",00:12:45
+mvdqwlx,82,student,"Mm-hmm, yes, that's right. So we would have 2 tens left over, and we are exchanging the 2 tens for 20 ones. So which would make 20— we would have 24 in the ones column. So yeah, some nice work over here, some good explanations as well.",00:12:52
+mvdqwlx,83,tutor,"Let's move on directly to the YouTube slides. So again, we have some similar questions over here for you. You can give this a try, please. [unclear] [unclear]",00:13:11
+mvdqwlx,84,student,So that would be [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear],00:13:52
+mvdqwlx,85,tutor,Done.,00:14:29
+mvdqwlx,86,student,"Oh yeah, I forgot to write it here.",00:14:30
+mvdqwlx,87,tutor,"Okay, so before you continue, can you take a look at Part B? I can't find the error.",00:14:43
+mvdqwlx,88,tutor,"Okay, so let's start from the beginning. Can you talk me through how you work this out? Part B.",00:15:24
+mvdqwlx,89,student,"So I did 4. Since 3 couldn't go into 4, I put a 0 because it can't go into it. Then— oh yeah, okay, yeah, I understand.",00:15:30
+mvdqwlx,90,tutor,"Okay, you see it now.",00:15:46
+mvdqwlx,91,tutor,Yeah.,00:15:48
+mvdqwlx,92,student,"Okay, so you can correct your [unclear] now.",00:15:50
+mvdqwlx,93,tutor,"So this should be a 3, not a 2. That's 8, and it goes in 1, remainder of 2. Okay, yeah, 816.",00:15:53
+mvdqwlx,94,background,Mm-hmm. [unclear],00:16:12
+mvdqwlx,95,tutor,"Okay, so I think aside from that little error over there, you've done some amazing work. So what do you think you have learnt on this slide?",00:16:19
+mvdqwlx,96,student,"On this slide, I have learnt to double-check my remainders when doing short division.",00:16:29
+mvdqwlx,97,tutor,"Because it's easy when we're working through these questions really speedily, it's easy to make mistakes that we usually wouldn't make. So I think we have learned the importance of just double-checking our work. Kieran, just going through one more time. [unclear]",00:16:35
+mvdqwlx,98,tutor,Yeah.,00:16:51
+mvdqwlx,99,background,"So yeah, how did you find the questions on this slide?",00:16:52
+mvdqwlx,100,student,I found the questions on this slide easy.,00:16:57
+mvdqwlx,101,background,"Quite easy. So I think you are quite confident with this lesson, huh?",00:17:00
+mvdqwlx,102,student,Yeah.,00:17:03
+mvdqwlx,103,background,"Okay, that's good. That's awesome.",00:17:06
+mvdqwlx,104,tutor,"So let's start. Okay, so let's go to the word problem that we got here. Can you work this out, please?",00:17:07
+mvdqwlx,105,student,"Go further. Mr. Jones has saved £7,284. He shares it equally between her 3 grandchildren. How much did they receive each? So this [UNCLEAR], so this reasoning is basically saying £7,280 4 divided by 3. So we would then have to work out the calculation, which would be... [unclear] [Speaker:Tutor]...meaning they would receive £2,428 each.",00:17:14
+mvdqwlx,106,student,"Oh yeah, I forgot after 2, 4, 2, 8. [unclear]",00:18:01
+mvdqwlx,107,tutor,"Okay, so you have done, you have answered this question really well. You have a good understanding of what the question is asking you. But it's not a big issue over here. But when you have word problem questions like this, always do remember to include the units. So whether it's the pound sign or whether it's kilometers or weight, whatever it is, do make sure that you include that as well, okay?",00:18:15
+mvdqwlx,108,tutor,Okay.,00:18:42
+mvdqwlx,109,student,"Okay. And I think it's [unclear] that— oh, Rosalind, you added comma over here as well. Do remember to add that as well, okay?",00:18:43
+mvdqwlx,110,tutor,Okay.,00:18:53
+mvdqwlx,111,background,"Okay. Besides that, it's not really— it's a non-issue, but it's better that we do get these into practice. So, yeah, so that it does not affect you in areas, in questions where it may have an impact. So other than that, what did you think about this lesson?",00:18:54
+mvdqwlx,112,student,I thought this lesson was easy.,00:19:13
+mvdqwlx,113,tutor,"How do you feel? How well do you think you did in this lesson? [unclear] Pretty good, I think.",00:19:16
+mvdqwlx,114,tutor,"Pretty good, yeah. And do you think you have a good understanding of how this lesson works?",00:19:24
+mvdqwlx,115,student,Yeah.,00:19:30
+mvdqwlx,116,tutor,"Okay. If that's the case, then have you got any questions for me here?",00:19:31
+mvdqwlx,117,student,No.,00:19:40
+mvdqwlx,118,tutor,"Okay, if that's okay, let's move on to the next lesson. So next lesson, we are looking at multi-step problems. We've got word problems with both addition and subtraction. Have you done questions like these before?",00:19:40
+mvdqwlx,119,student,"Um, yeah.",00:19:57
+mvdqwlx,120,tutor,"Yeah, and what did you think about them?",00:19:59
+mvdqwlx,121,student,They were easy.,00:20:01
+mvdqwlx,122,tutor,"They were easy, okay, that's good. So you seem to be floating through really confidently today. I really do admire that. So awesome, awesome job today. So let's keep that going. Let's start with the learning goal question. Can you attempt this, please?",00:20:03
+mvdqwlx,123,tutor,"Yeah, so it's 1432 minus 6 is 4. [unclear] 737. You would first do that.",00:20:19
+mvdqwlx,124,student,Mm-hmm.,00:20:35
+mvdqwlx,125,tutor,Which would be 9... [unclear],00:20:38
+mvdqwlx,126,student,"Then after you have that, you would do 2,169 subtract 686 because it says they sell 686 books.",00:20:52
+mvdqwlx,127,tutor,"So 9 subtract 6 is 3. 6 subtract 8 you can't do, so you have to exchange. 16 subtract 8 is 8. You can't do 0 subtract 6, so you would exchange again. [unclear] 10 subtract 6 is 4 and 1. So they would have 1,438 books at the end of the day. 483 at the end of the day.",00:21:13
+mvdqwlx,128,tutor,"At the end of the day. Okay, so awesome work over here, and I think that was a very good explanation as well. So let's not waste too much time. Let's go directly to the [unclear] side. Okay, so we have similar questions over here for you. Please do write them out and then we can discuss at the end.",00:21:49
+mvdqwlx,129,tutor,Okay. [unclear] [unclear],00:22:07
+mvdqwlx,130,tutor,Kieran?,00:22:55
+mvdqwlx,131,student,Yeah? [unclear],00:23:09
+mvdqwlx,132,tutor,"4521 Maplewood Drive, Brisbane. So 1745, subtract subtract [unclear]",00:23:24
+mvdqwlx,133,tutor,"So, area is... [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]",00:24:13
+mvdqwlx,134,tutor,Done. So just talk me through how you worked this out.,00:25:25
+mvdqwlx,135,student,"So for part A, I did first, I did 4 496 add 137 because it said 137 more cupcakes were delivered, which gave me 633. And then it says 338 cupcakes were sold. So then I did 633 subtract 338, which gave me 295. [unclear]",00:25:28
+mvdqwlx,136,student,"And for part B, it says 1,745 plants and 889 were sold. So I did 1,745 subtract 889, which gave me 856. Then it says 558 plants were then delivered. So then I did 856 add 558, which gave me 1,414.",00:25:55
+mvdqwlx,137,student,"1,414. [unclear]",00:26:20
+mvdqwlx,138,tutor,"So once again, some awesome work over here, and you've done some very nice work. Very well done. Very well thought out, clear work as well. So very well, very impressed with how well you're working today. So in the first question, you did the addition first and then the subtraction, and the second question you did the other way around, the subtraction first and then the addition. Do you think it matters which calculation you do first and then which you do second?",00:26:25
+mvdqwlx,139,tutor,"No, it does not matter.",00:26:53
+mvdqwlx,140,student,Why do you think so?,00:26:56
+mvdqwlx,141,tutor,I think so because... [unclear],00:26:58
+mvdqwlx,142,student,"So, like, are you asking me to do another one?",00:27:02
+mvdqwlx,143,tutor,Because it gives you the same answer.,00:27:06
+mvdqwlx,144,background,"Yes, that's right. Either way, it gives you the same answer. So, yeah, it does not matter which calculation you do first, because either way, you're going to end up with the same answer. The same answer. Okay, so let's move on to the Go Further slide then. So can you [UNCLEAR]? [Speaker:Kieran] Sida and Tara have £546 between them. Tara has £244 more than Sida. How much money does Sida have? Use the bar model to help you solve the calculation. So You would do 546 add 244, which would— so you could do this one in your head, but like partitioning 6 at 4— actually, I think it would be better to do it as a formal method.",00:27:11
+mvdqwlx,145,tutor,Mm-hmm.,00:28:02
+mvdqwlx,146,student,So you would do 546 add 244.,00:28:04
+mvdqwlx,147,tutor,"Okay, so why are we doing add over here?",00:28:09
+mvdqwlx,148,student,"Because in the question it says Cedar, um, oh, Cedar has 200, right? So Cedar and Terra have 546 tons. Oh, it's 546.",00:28:13
+mvdqwlx,149,tutor,"So, that 244 would be 203. So, Cedar would have [unclear] pounds because since Terra has 244 pounds more, £302 and £244 would give you £546.",00:28:37
+mvdqwlx,150,tutor,So how much do you think Sita has?,00:29:10
+mvdqwlx,151,student,£302.,00:29:16
+mvdqwlx,152,tutor,Okay. Take a look at the bar model.,00:29:19
+mvdqwlx,153,background,"So it's saying Sita and Tara both have £546. And Tara has 244 pounds more than Cedar, meaning to find Cedar's amount, we would have to subtract 244.",00:29:25
+mvdqwlx,154,tutor,"Okay, so 546 pounds between the two of them, yeah?",00:29:46
+mvdqwlx,155,student,Yes.,00:29:52
+mvdqwlx,156,tutor,So that would mean it's both these bars in total.,00:29:53
+mvdqwlx,157,student,Yeah.,00:29:59
+mvdqwlx,158,tutor,"Okay, so if you take 244 pounds away, which part of the bar is left over?",00:29:59
+mvdqwlx,159,student,They would both have equal amounts if you take them away. [unclear],00:30:07
+mvdqwlx,160,tutor,"Okay, so can you show me on the bar which portion is 302 pounds? £302 would be all of this. Then the rest of the money would be Tara's, so all of this.",00:30:17
+mvdqwlx,161,tutor,"So if I'm understanding you correctly, you think the whole orange portion is £244? [unclear]",00:30:39
+mvdqwlx,162,student,No.,00:30:46
+mvdqwlx,163,student,"I said, I said, um, Tara has 244 more than [UNCLEAR]. [Speaker:Tutor] Okay, so, okay, all of this is 546. You get that, right?",00:30:50
+mvdqwlx,164,student,"Yes, yes.",00:31:09
+mvdqwlx,165,tutor,"Yeah, and just this is 244.",00:31:11
+mvdqwlx,166,tutor,Yeah.,00:31:19
+mvdqwlx,167,student,"Okay, so just take a look at this diagram, take a look at your calculation, and see are you done with your calculation or do you think you need to do more? I'm going to give you some time to think about this and then we can think, we can have a small discussion if you're still stuck. [unclear] [unclear] [Speaker:Tutor]... [unclear]",00:31:20
+mvdqwlx,168,tutor,So...,00:32:10
+mvdqwlx,169,student,I don't know.,00:32:12
+mvdqwlx,170,tutor,"Okay, that's alright. So let's just have a small discussion, okay? So like I mentioned, both these buses, the blue and the orange, is 546.",00:32:15
+mvdqwlx,171,student,"Yeah, I know.",00:32:30
+mvdqwlx,172,tutor,And you have taken away 245. 44. So you've just taken this small portion in this red color rectangle away. So do you think 302 is just how much Sida has? [unclear],00:32:32
+mvdqwlx,173,tutor,"When you look at the diagram, what do you think? If you take from both these bars, you take away what's in this red rectangle, do you think that's only what's [unclear]",00:32:48
+mvdqwlx,174,tutor,No.,00:33:08
+mvdqwlx,175,student,What do you think?,00:33:08
+mvdqwlx,176,tutor,Terror.,00:33:11
+mvdqwlx,177,student,Is it just terror?,00:33:14
+mvdqwlx,178,tutor,"Yeah, because it's in her orange one.",00:33:19
+mvdqwlx,179,tutor,"Okay, let me try this again. Okay, so we discussed that 546 is both of these bars. Yeah?",00:33:26
+mvdqwlx,180,student,Yeah.,00:33:36
+mvdqwlx,181,tutor,Both of these bars is 546.,00:33:37
+mvdqwlx,182,background,So just half 546.,00:33:40
+mvdqwlx,183,tutor,"Okay, so if you have 500 and— okay, if you have 546, do you think you would arrive at how much Sita has? [unclear]",00:33:44
+mvdqwlx,184,tutor,"Okay, so let me try this. Okay, so this is to see how much extra Terra has, how much more Terra has than Cedar.",00:34:07
+mvdqwlx,185,student,"Yeah. Okay, so you have worked this part correctly. Okay, I'm going to let you know your first step is correct. You have to take away 244. So from these 2 bars, once you take away 244, what are you left with? [unclear]",00:34:18
+mvdqwlx,186,tutor,"302. Okay, and what do you think 302 is?",00:34:34
+mvdqwlx,187,student,Tara's amount without 244 pounds.,00:34:39
+mvdqwlx,188,tutor,Is it only Tara's amount? [unclear],00:34:43
+mvdqwlx,189,tutor,"What do you think, Kieran? Is it only Tara's amount?",00:34:49
+mvdqwlx,190,student,I don't know.,00:34:58
+mvdqwlx,191,tutor,"Okay, so if you take away 244, isn't this portion 302?",00:35:00
+mvdqwlx,192,student,Yeah. [unclear],00:35:06
+mvdqwlx,193,tutor,Unclear?,00:35:15
+mvdqwlx,194,student,Yes.,00:35:16
+mvdqwlx,195,tutor,So 546 is this blue bar and the orange bar. Yeah? That is okay?,00:35:17
+mvdqwlx,196,background,Yes.,00:35:25
+mvdqwlx,197,tutor,"Yeah. So if we take away just this portion, the excess, how much more Tara has, all that's left is what's in this blue— the black color box, isn't it? [unclear]",00:35:26
+mvdqwlx,198,tutor,So what do you think is the amount that is in the black box? If this is 244.,00:35:40
+mvdqwlx,199,student,302.,00:35:48
+mvdqwlx,200,tutor,302. Then how would you work out how much Cedar has?,00:35:50
+mvdqwlx,201,student,Divide it by 2.,00:35:55
+mvdqwlx,202,tutor,Divide it by 2. And why are we dividing by 2?,00:35:57
+mvdqwlx,203,student,"Because we're working out how many Cedar has, so it's 150.",00:36:00
+mvdqwlx,204,tutor,"151. But do you understand why we do the things, why we are doing that step, why we are taking the second step to divide by 2?",00:36:06
+mvdqwlx,205,student,Yeah.,00:36:14
+mvdqwlx,206,tutor,Is that clear enough?,00:36:16
+mvdqwlx,207,student,Yes.,00:36:19
+mvdqwlx,208,tutor,"Okay, so you can just complete the calculation on the screen. [unclear] [unclear]",00:36:20
+mvdqwlx,209,tutor,"And can you just talk me through, just give me how you understand this question works, your understanding of the outcome of this question.",00:36:46
+mvdqwlx,210,student,"I understand this question because altogether it's 550. 46, then you subtract 24 to find the equal amount. Then since you want to find out how many Sida has, you would have to divide it by 2 because there's 2 people, and then 302 divided by 2 is 151.",00:36:56
+mvdqwlx,211,tutor,"Okay, and how did you find this question? [unclear] It was a bit tricky, wasn't it? Okay, so why are we taking away the 244 over here?",00:37:11
+mvdqwlx,212,student,Because we want to find how many [unclear] has.,00:37:32
+mvdqwlx,213,tutor,"How many [unclear] has, yeah. So if we take away this 244, like you said, we want to find out how much [unclear] has. And by taking away 244, we find out how much is 2 lots of [unclear] amount. Which is why we do the next step to divide by 2, yeah?",00:37:35
+mvdqwlx,214,student,Yeah.,00:37:56
+mvdqwlx,215,tutor,"Okay, so what did you learn in this lesson, Kieran?",00:37:56
+mvdqwlx,216,student,"In this lesson, I have learned... [unclear] [unclear]",00:38:01
+mvdqwlx,217,student,"To double-check the questions. Yeah, that's it.",00:38:19
+mvdqwlx,218,tutor,"Okay, that's all right. And do you think what you have learned in this lesson, you might use these in real life? maybe. You",00:38:32
+mvdqwlx,219,tutor,think you may have situations where you may need to do multiple calculations in your head? Yeah.,00:38:46
+mvdqwlx,220,student,"Yeah,",00:38:54
+mvdqwlx,221,tutor,"it's possible, isn't it? So yeah, you started out really confidently and you did amazingly well. I think it's just this question was a tad bit tricky. I think that's where you got just a little bit [UNCLEAR]. Either way, you did some amazing work and you kept on trying. I really do appreciate the effort that you put in. So awesome work over here. Have you got any questions on this lesson?",00:38:55
+mvdqwlx,222,student,No.,00:39:21
+mvdqwlx,223,tutor,"OK. In that case, I'm just going to— I don't think we'll have a lot of time to work on the next topic, but let's just get started. Have you learned area and perimeter in school before?",00:39:23
+mvdqwlx,224,background,Yeah.,00:39:35
+mvdqwlx,225,tutor,Yeah. And how well did you do in school? It was easier.,00:39:37
+mvdqwlx,226,tutor,"It was easier. Okay, that's good. Okay, so let's start with the learning goal question. Can we get started with that? [unclear] [unclear]",00:39:41
+mvdqwlx,227,tutor,"Okay, so can I know how you work this out?",00:40:09
+mvdqwlx,228,student,"So when working out area, you have to do length times width, which was why I— oh no. So yeah, you have to do length times width, which would get 24. And for perimeter, you just have to add all of the amounts together. So, and to find out the missing amount, since I know that this whole part is 6 and this is 2, since this is the amount we want to find, you could basically imagine drawing a line there and doing 6 subtract 2. [unclear] which is 4 centimeters, meaning that that side was 4 centimeters, then when you add all of the amounts together, you would get 19 centimeters.",00:40:17
+mvdqwlx,229,student,"Uh, okay, so what about this side then, this short side? [unclear]",00:41:09
+mvdqwlx,230,tutor,"So that's 1, so 20 centimeters.",00:41:19
+mvdqwlx,231,tutor,"And how did you get the pyramid— the area, I'm sorry?",00:41:25
+mvdqwlx,232,student,By doing the length times width.,00:41:29
+mvdqwlx,233,tutor,"Okay, and which numbers did you multiply?",00:41:32
+mvdqwlx,234,student,4 times 6.,00:41:35
+mvdqwlx,235,tutor,"Do you think that works? Since that is— if you were to do 4 times 6, wouldn't that be for the area for this rectangle instead? [unclear]",00:41:36
+mvdqwlx,236,tutor,4 times 4.,00:41:57
+mvdqwlx,237,student,Okay. [unclear],00:42:09
+mvdqwlx,238,tutor,"Okay, how did you get 16?",00:42:23
+mvdqwlx,239,student,Because I did 4 times 4.,00:42:27
+mvdqwlx,240,tutor,"Okay. Okay, so actually the correct answer for this would be 22, okay?",00:42:31
+mvdqwlx,241,tutor,"So you would split your diagram this way, your shape this way, so that you have rectangles or squares, you know, [unclear] four-sided shapes, rectangles and squares basically. And it would make calculating the areas easier now. So you have a small rectangle over here and you have this square over here. And like you said, since you know this is 2, this bit would be would be 4. So the area of this square would be 16, and the additional area over here would be 3 times 2, 6. 16 and 6, your area would actually be 22. Okay?",00:42:40
+mvdqwlx,242,student,Okay.,00:43:19
+mvdqwlx,243,tutor,"Okay, okay, but it's all right. I think maybe just a little bit more practice and we can just, uh, and [unclear] things out better. How about this, [UNCLEAR]? Can you try this as well? [unclear] [Speaker:Kieran]... [UNCLEAR] [unclear] [Speaker:Kieran]... [unclear] [unclear]",00:43:20
+mvdqwlx,244,tutor,So area would be— [unclear],00:43:59
+mvdqwlx,245,tutor,"Okay, Kieran, I'll tell you what. So we're reaching the [unclear] time, so I'm going to pause right here, okay?",00:44:38
+mvdqwlx,246,student,Yeah.,00:44:54
+mvdqwlx,247,tutor,"So yeah, you have started out correctly. You have done some amazing work over here, but let's see how this continues in our next session. So once I end the session right now, stay behind for a moment to answer your post-session questions, and please do provide your feedback as well. That would be really helpful. So yeah, enjoy the rest of your day. Have a nice week, and I think your break is coming up, so you will not be having sessions next week as well. So yeah, bye-bye.",00:44:55
+mvdqwlx,248,tutor,Bye. [unclear],00:45:20

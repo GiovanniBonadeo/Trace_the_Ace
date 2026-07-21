@@ -1,0 +1,325 @@
+session_id,utterance_id,role,content,timestamp
+mpzdlkl,0,tutor,Hello.,00:00:00
+mpzdlkl,1,background,[unclear],00:00:00
+mpzdlkl,2,student,Hello.,00:00:00
+mpzdlkl,3,tutor,Hello.,00:00:01
+mpzdlkl,4,background,Hello.,00:00:02
+mpzdlkl,5,tutor,Hello.,00:00:04
+mpzdlkl,6,background,Hello.,00:00:05
+mpzdlkl,7,tutor,"Hi, Elara.",00:00:07
+mpzdlkl,8,background,Hello.,00:00:10
+mpzdlkl,9,tutor,Hello. Hi.,00:00:11
+mpzdlkl,10,background,Hello. How are you? How are you?,00:00:13
+mpzdlkl,11,student,I'm good. How are you?,00:00:17
+mpzdlkl,12,tutor,"I'm doing great, Elara. Thank you for asking that. Can you hear me clearly?",00:00:18
+mpzdlkl,13,student,Yes.,00:00:24
+mpzdlkl,14,tutor,"Okay, that's great. So how was your day at school today? What did you do at school?",00:00:25
+mpzdlkl,15,student,It was really fun. We just had a break and we're dissecting the sheep's heart later.,00:00:31
+mpzdlkl,16,tutor,"Uh-huh. Okay. How was your weekend, Elara? It was fun. I did cheerleading today and I went to— I went to my friend's birthday party on Sunday. How about you? Oh, mine was great as well. Thank you for asking that. So are we good at the lesson for the day? Yes. Yes. And here we go. So, well, what did we learn about in our previous session? [unclear] So like, look at the top number, I mean the numerator, to see if it's closer to the denominator.",00:00:37
+mpzdlkl,17,tutor,"Okay, so what did we learn about?",00:01:14
+mpzdlkl,18,student,Finding equivalent fractions.,00:01:17
+mpzdlkl,19,tutor,"Yes, and with a few questions in this, isn't it?",00:01:20
+mpzdlkl,20,student,Yeah.,00:01:24
+mpzdlkl,21,tutor,"Okay, are we good to try this question here, Elara? Shall we try to read this and give it a try?",00:01:25
+mpzdlkl,22,student,Yeah. Write a few fractions that describe the amount of each [unclear] quantity that is shaded or highlighted. [unclear],00:01:31
+mpzdlkl,23,tutor,Mm-hmm. [unclear],00:01:39
+mpzdlkl,24,tutor,Okay. What is the other fraction you can write there?,00:02:18
+mpzdlkl,25,student,3/4.,00:02:23
+mpzdlkl,26,tutor,"Uh-huh. Okay. Elara, can you explain me how we got these fractions here?",00:02:24
+mpzdlkl,27,student,"I got 16 from the length and width. I multiplied 4 times 4, which is 16, and then I saw that there was only one block not shaded, so I did 4 times 3, which is 12. And then I simplified it because there's 3 shaded and 4 like rows and blocks in it.",00:02:31
+mpzdlkl,28,tutor,"Okay, yes, Elara, exactly. You got the correct answer there. Now we have the second one here. What do you observe from that?",00:03:01
+mpzdlkl,29,student,"Um, I see that there's 12 in the— like, there's 12 full circles and only 2 of them are shaded.",00:03:11
+mpzdlkl,30,student,"So it would be 2/12, and then you would simplify it by 2, so you would get 1/6 because there's 6 pairs and only one of them circled.",00:03:22
+mpzdlkl,31,tutor,"Okay, Elara. Okay, yes, that's correct there. And we have the third question here. What is that?",00:03:48
+mpzdlkl,32,student,"The C1 or number 2? Oh, the C1. Okay. There's 1, 2, 3, 4, 5, 6, 7, 8.",00:03:59
+mpzdlkl,33,student,8 at the bottom and 2 of them shaded.,00:04:15
+mpzdlkl,34,tutor,"Okay. Why is it 8 at the bottom, Elara?",00:04:22
+mpzdlkl,35,student,"Because there's 8, like, spaces.",00:04:29
+mpzdlkl,36,tutor,Uh-huh.,00:04:33
+mpzdlkl,37,student,And then you would simplify it to [UNCLEAR].,00:04:35
+mpzdlkl,38,student,"One quarter because there's one of them shaded and there's— there's four— there's only two parts and only one of them is shaded. There's one, two, three, four, and one, two, three, four, and I need two of them. [unclear]",00:04:41
+mpzdlkl,39,tutor,"Okay, can you show me the 4? How can we separate this?",00:05:08
+mpzdlkl,40,student,"So 1, 2, 3, 4, and that's the middle line. So 1, 2, 3, 4, and then from 4, there's only half of it is shaded.",00:05:14
+mpzdlkl,41,tutor,"Uh-huh. And it's only one of like a quarter, one of the four, and there's only like one group.",00:05:30
+mpzdlkl,42,tutor,"Yes, exactly, Elara. So in total, how many groups are there here? [unclear] I also shaded this too, but there's 2 groups in total.",00:05:46
+mpzdlkl,43,tutor,"Okay, 2 shaded. Okay, and how many are there unshaded ones? [unclear]",00:06:02
+mpzdlkl,44,student,6.,00:06:11
+mpzdlkl,45,tutor,"Okay, exactly, Elara. And we have the second question here. Shall we give that a try as well?",00:06:14
+mpzdlkl,46,student,"Um, yeah.",00:06:22
+mpzdlkl,47,student,I think it's 24.,00:06:29
+mpzdlkl,48,tutor,Why do you think it's 24 there?,00:06:39
+mpzdlkl,49,student,"Because 12 divided by 4 is 3, and 4 times 3 is— 12 divided by 4 is 3, and then 4 times 3 is 12, so I did the same to the denominator.",00:06:42
+mpzdlkl,50,tutor,Why do you divide this by 4 here?,00:06:55
+mpzdlkl,51,student,"Because— well, I saw that both numbers could multiply by 3, so I saw that if I divide 12 by 3, then I would get 4, or if I divide 12 by 4, I would get 3. So I did 8 multiply",00:07:01
+mpzdlkl,52,tutor,"Okay, Elara, yes. We are left with one more question in this slide. [unclear]",00:07:23
+mpzdlkl,53,tutor,You go to 24 once again.,00:07:39
+mpzdlkl,54,student,"Yeah, because after that base, that 5 times 8 is 40, and then 3 times 8 is 24. So I divided 40 by 5, which is 8, and then I got 3 times 8.",00:07:43
+mpzdlkl,55,tutor,"Uh-huh. Okay, Elara. So what did we learn from these questions?",00:08:03
+mpzdlkl,56,student,"I learned like How to like, from number 2, I saw it how to find the denominator from, or numerator from the greater side. So when it's simplified, the one, the number before the simplified version. So I [unclear] the one that was being simplified.",00:08:09
+mpzdlkl,57,tutor,"Okay, so what are the strategies you used here to get the answers correct? Because you've been like getting all the answers correct. Here and you explain me the way you got the answers. What is the strategy you used here to get these answers, Elara?",00:08:37
+mpzdlkl,58,student,"I see what— no, I see what both numbers could divide by and [unclear] could divide by the same thing or multiply by the same thing. And then I multiply them and then I get the answer.",00:08:51
+mpzdlkl,59,tutor,"OK, Elara. So you said me that 5 times 8 gives you a 40. How did we get this 24 here?",00:09:08
+mpzdlkl,60,student,"I, um, because 5 times 8 equals 40. If you do, you do the same to the top as you do to the bottom. So I did 3 times 8, which is 24, because 5 times 8 is 40.",00:09:16
+mpzdlkl,61,tutor,"OK, Elara, well, that [unclear] awesome working out and a great explanation given by you. And your explanation was so clear, Elara. Keep it up. Are we good to try our last question of this lesson?",00:09:35
+mpzdlkl,62,student,Yes.,00:09:52
+mpzdlkl,63,tutor,"Yes? Yes? Okay, well, we have an interesting question here. What is the question about?",00:09:53
+mpzdlkl,64,student,Here are some fraction cards. All the fractions are equivalent. Find the missing digits.,00:09:59
+mpzdlkl,65,tutor,Yes. So what is the idea you get from this?,00:10:08
+mpzdlkl,66,student,"Uh, that it gets smaller and smaller and smaller.",00:10:13
+mpzdlkl,67,tutor,Okay. So how do you think you can do this question and get the answers?,00:10:18
+mpzdlkl,68,student,"Um, I think it, uh, from",00:10:24
+mpzdlkl,69,student,"15. Divide and multiply. 3 times 5 is 15, but then 4 times 5 is 20.",00:10:38
+mpzdlkl,70,tutor,"Okay, so you would... [unclear]",00:10:49
+mpzdlkl,71,student,"Divide 20 by 5, which is 4. And then you divide 15 by 5 too, because they can both divide by 5. 2 would [unclear] both, which you get 3. And then 3/4 simplified is... [Speaker:Elara]... [unclear]",00:10:58
+mpzdlkl,72,student,"12, 11.",00:11:38
+mpzdlkl,73,tutor,I think it's 10 because it shows,00:11:47
+mpzdlkl,74,student,"Something plus something equals 12, and I've already got 3. I think it's— no, 9. Yeah, 9. But I think that's because you times 3 by [UNCLEAR]. [Speaker] Yeah, you times 3 by 3, which is 9, and then 4 times 3 is 12.",00:11:56
+mpzdlkl,75,tutor,OK. [Speaker] And then you would get 9.,00:12:24
+mpzdlkl,76,tutor,"Mm-hmm. [Speaker] So 15/20 simplified is 3/4, and 3/4 simplified, or— [unclear]",00:12:29
+mpzdlkl,77,student,"No. [unclear] 3 courses equals 9, 12, 9 courses.",00:12:46
+mpzdlkl,78,tutor,"Mm-hmm. Okay, well, Elara, I truly appreciate you for giving this question a try, okay? But this is not the correct answer here. Shall we try to do it?",00:12:53
+mpzdlkl,79,student,Yeah.,00:13:10
+mpzdlkl,80,tutor,"Okay, Elara, if we know the numerator for the first fraction, okay, how can you work out the numerator for the second one? They have said that these fractions are [UNCLEAR]. Yes, so this is going to be equivalent for this.",00:13:11
+mpzdlkl,81,tutor,"If so, how can you find the numerator?",00:13:34
+mpzdlkl,82,student,"4 times something equals 20, or 20 divided by 4. You could do 4 times [unclear] equals 20. 20 divided by 4, which is 5.",00:13:40
+mpzdlkl,83,tutor,Okay.,00:14:07
+mpzdlkl,84,student,"So the first one would be 5 instead because you divide it by 4 and you get 5, or you times it by 5— you times it by 5 to get 20.",00:14:10
+mpzdlkl,85,student,"Okay, so how can you find the numerator here?",00:14:29
+mpzdlkl,86,student,"Uh, we can— [unclear]",00:14:33
+mpzdlkl,87,student,4 times what gave us a 20?,00:14:45
+mpzdlkl,88,student,5.,00:14:48
+mpzdlkl,89,student,"Okay, so 5 times what will give us a 15?",00:14:49
+mpzdlkl,90,student,"Oh, 3.",00:14:55
+mpzdlkl,91,tutor,"Okay, what is the numerator we get there?",00:14:57
+mpzdlkl,92,student,3.,00:15:02
+mpzdlkl,93,tutor,"Okay, Elara, shall we type the answer there?",00:15:03
+mpzdlkl,94,student,"Oh, yeah.",00:15:07
+mpzdlkl,95,tutor,"Okay, you can type it here as well.",00:15:16
+mpzdlkl,96,student,"Oh, yeah. Okay, well, you have found the numerator. Now how can you find the numerator of the second one, the green color one?",00:15:20
+mpzdlkl,97,student,"Uh, I can divide 15 by 5 because you go 3. And 15 divided by 5 is 3, but 15 divided by 3 is 5. So it could be 5, but then that would be a whole.",00:15:33
+mpzdlkl,98,tutor,Can this be equivalent for this one? [unclear],00:16:05
+mpzdlkl,99,student,"Oh, no.",00:16:11
+mpzdlkl,100,tutor,"No. What do we observe here, Elara?",00:16:13
+mpzdlkl,101,student,That the pink one plus— so the pink one plus the [unclear] kind of one equals 12.,00:16:19
+mpzdlkl,102,tutor,Okay.,00:16:31
+mpzdlkl,103,student,So it's 3 times 9.,00:16:35
+mpzdlkl,104,tutor,"Uh-huh, yes.",00:16:38
+mpzdlkl,105,student,So you'd get none from that.,00:16:44
+mpzdlkl,106,tutor,"Mm-hmm, okay. Yes, Elara, so we are left with the purple one here. Now you know the numerator here and you know that all the fractions are equivalent. Okay, how can you find the denominator?",00:16:48
+mpzdlkl,107,student,You can maybe divide it by 12. [unclear],00:17:07
+mpzdlkl,108,tutor,What is the fraction we have here?,00:17:17
+mpzdlkl,109,student,3/4.,00:17:19
+mpzdlkl,110,tutor,"Okay, if this is equivalent for this, how can you find the denominator?",00:17:21
+mpzdlkl,111,student,"Timesing it by 3. Okay, timesing what by 3?",00:17:28
+mpzdlkl,112,student,"Timesing— multiplying 4 by 3 because you get 3 times 3 is 9. So if you do 4 times 3, you get 12. [unclear]",00:17:34
+mpzdlkl,113,tutor,"Yes. Okay, Elara, well, you got the answers correct here. And Elara, what is the very first thing we did here?",00:17:53
+mpzdlkl,114,student,"Um, we saw that they're all equivalent and we found the first one or the last one, the— [unclear]",00:18:02
+mpzdlkl,115,tutor,"Okay, the first one. How did we find the first one there?",00:18:16
+mpzdlkl,116,student,We saw that 4/5 by 5 is,00:18:21
+mpzdlkl,117,student,"So 20 divided by— they can— both numbers can divide by 5. So we divided 15 by 5, which is 3, and then we divided 20 by 5, which is 4. And then we got 3/4.",00:18:27
+mpzdlkl,118,tutor,"Okay, Elara, so you found the pink colour in that way. How did we find the green colour one here? [unclear]",00:18:48
+mpzdlkl,119,student,Okay. [Speaker] That the 5 the 2 kind of one equals 12. Mm-hmm.,00:18:57
+mpzdlkl,120,student,So [Speaker] then 3 9 12. Okay. And then,00:19:09
+mpzdlkl,121,student,we [Speaker] got 3 9 12.,00:19:19
+mpzdlkl,122,student,"And we got 12 by— well, because 3 times 3 is 9, we did 4 times 3, which is 12, so we got 9, 12.",00:19:19
+mpzdlkl,123,tutor,Okay. So why did we times 4 by 3?,00:19:32
+mpzdlkl,124,student,"Because 3 times 3 is 9, and if you do the same to the bottom,",00:19:39
+mpzdlkl,125,student,"Actually, due to the top. Same to the top as to the bottom. Or both.",00:19:47
+mpzdlkl,126,tutor,"Okay, Elara. Yes. So what is the answer we get when we simplify this further? [unclear]",00:19:51
+mpzdlkl,127,tutor,Yes.,00:20:13
+mpzdlkl,128,student,3/6.,00:20:15
+mpzdlkl,129,tutor,Uh-huh. How is it 3/6?,00:20:18
+mpzdlkl,130,student,"Because there's 3— 3 is a 9, and 2, 6, and 12.",00:20:21
+mpzdlkl,131,tutor,"Mm-hmm. So if you are dividing this by 3, by what number do you think? The denominator should be divided here.",00:20:34
+mpzdlkl,132,student,3.,00:20:42
+mpzdlkl,133,tutor,"3, okay. So when you divide both the numbers by 3, what is the answer you get here?",00:20:43
+mpzdlkl,134,student,3/4.,00:20:48
+mpzdlkl,135,tutor,"3/4, okay. So what is the answer we get when we simplify this further?",00:20:49
+mpzdlkl,136,student,[unclear],00:20:54
+mpzdlkl,137,tutor,"3/4, okay, Elara. So what was challenging for you in this question?",00:20:56
+mpzdlkl,138,student,I got stuck on the middle one.,00:21:03
+mpzdlkl,139,tutor,"Uh-huh. Okay, how were you able to do it correctly afterwards?",00:21:05
+mpzdlkl,140,student,"We did the first one, which was— we saw that— [unclear]",00:21:13
+mpzdlkl,141,tutor,"We saw that 4 was multiplied by 5 to make 20. And then so we did 15 divided by 5, or 3 times 5, which is 15. And then we saw that 3 times 3 is 9. So if you times it by 3, you would do 4 times 3, which is 12. So 9/12 or 3/4.",00:21:24
+mpzdlkl,142,tutor,"OK, Elara. Well, that was an [UNCLEAR]. Awesome explanation given. I gave you a smiley for getting them all correct and for finding your mistake and correcting your mistake and for getting the correct answer finally. Okay, you did a great job as you do always. Uh, well, we have completed this lesson. Elara, are you good to start a new lesson?",00:21:55
+mpzdlkl,143,student,"Uh, yes.",00:22:18
+mpzdlkl,144,tutor,"Yes. Okay, here we go. Oh, yes. So today we are going to learn about comparing and ordering fractions, and we have the learning goal question here. What is the question about? [unclear] Write the fractions in order from smallest to largest.",00:22:20
+mpzdlkl,145,tutor,Okay. I think the first one's gonna be smallest.,00:22:47
+mpzdlkl,146,tutor,Uh-huh.,00:22:59
+mpzdlkl,147,student,Smallest would be 2/10.,00:23:01
+mpzdlkl,148,tutor,Okay.,00:23:07
+mpzdlkl,149,student,And then 3/5. No.,00:23:10
+mpzdlkl,150,student,"Yeah, 3/5.",00:23:17
+mpzdlkl,151,tutor,Mm-hmm.,00:23:18
+mpzdlkl,152,student,And then 1/2.,00:23:22
+mpzdlkl,153,tutor,"OK, Elara. So can you explain me how you got these answers here?",00:23:24
+mpzdlkl,154,student,"I got them because I saw that 2 is 8 away from 10, and then that means it's the smallest because it's not the closest to the whole number.",00:23:29
+mpzdlkl,155,student,"And then 3 is 2 away from 5, but still not really the closest to the whole number. And then 1 is 1 away from 2, so it's the closest.",00:23:45
+mpzdlkl,156,tutor,"Okay, so when you compare these, which one do you think is the greatest fraction out of these?",00:23:59
+mpzdlkl,157,student,"Uh, 1/2.",00:24:08
+mpzdlkl,158,tutor,"1/2. Okay, why is it 1/2?",00:24:10
+mpzdlkl,159,student,Because the numerator is the closest to the denominator.,00:24:13
+mpzdlkl,160,tutor,"Mm-hmm. Okay, well, one-half is not the closest one. The closest one is 3/5. Okay, let's check how we get 3/5 there. When we have two diagrams here, And when this is divided into half, when this is divided into 5 parts, and this— out of this, how many parts are colored? 3 of them are shaded, isn't it?",00:24:18
+mpzdlkl,161,student,Yeah.,00:25:00
+mpzdlkl,162,tutor,And only half of this is shaded. Which one do you think is the greatest one out of this?,00:25:01
+mpzdlkl,163,student,3/5.,00:25:10
+mpzdlkl,164,tutor,"3/5. Okay, so can half be greater than 3/5?",00:25:11
+mpzdlkl,165,student,No.,00:25:16
+mpzdlkl,166,tutor,"No, 3/5 is closer than half, is closer to the whole. Because we are left with half more, isn't it, Elara?",00:25:17
+mpzdlkl,167,student,Yeah. What is half of 3/5? What is the half of this fraction?,00:25:28
+mpzdlkl,168,student,Uh... half of 3/5 is... [unclear],00:25:38
+mpzdlkl,169,tutor,"Well, half of 5 is going to be somewhere here. When we divide this exactly into half, This is half, isn't it? [unclear] Half. We have got half here, but this is more than half, the shaded part, isn't it, Elara?",00:25:49
+mpzdlkl,170,student,Yes.,00:26:08
+mpzdlkl,171,tutor,"So 3/5 is more than half. Yes. And also, uh, shall we try to do the second question as well? You can change this, you can answer this, and you can",00:26:10
+mpzdlkl,172,tutor,Try the second one. [unclear],00:26:23
+mpzdlkl,173,tutor,"Okay, what's the second question we have here?",00:26:52
+mpzdlkl,174,student,"Find the common multiple of 4, 5, and 10.",00:26:56
+mpzdlkl,175,tutor,Okay. [unclear] I think it could be— 2.,00:27:01
+mpzdlkl,176,tutor,"How is it 2? [unclear] What is meant by a common multiple, Elara?",00:27:18
+mpzdlkl,177,student,"Um, something that they can all be times by.",00:27:27
+mpzdlkl,178,tutor,"Well, a common multiple is the multiple that which is there in the 4 times table, 5 times table, and 10 times table. As well. Let's try to look at this, okay? Can you read this?",00:27:34
+mpzdlkl,179,student,"To compare and order fractions, we need to be able to find common multiples.",00:27:48
+mpzdlkl,180,tutor,"Well, we answered this question using the reasoning method, isn't it, Elara?",00:27:55
+mpzdlkl,181,student,Yeah.,00:28:01
+mpzdlkl,182,tutor,"In this lesson, we are going to learn to find— I mean, to order and compare fractions by making the denominators same, by finding the common multiples. Okay?",00:28:02
+mpzdlkl,183,student,Okay.,00:28:15
+mpzdlkl,184,tutor,"Okay, let's find the common multiples. Can you read this?",00:28:16
+mpzdlkl,185,student,A common multiple is a multiple that is common to two or more numbers.,00:28:20
+mpzdlkl,186,tutor,"Okay, shall we type— uh, write the multiples of 3 here?",00:28:27
+mpzdlkl,187,student,Yeah. [unclear],00:28:32
+mpzdlkl,188,tutor,"Yes, let's work out the 4 multiples of 4 as well and 6 as well, okay?",00:29:17
+mpzdlkl,189,student,Okay.,00:29:22
+mpzdlkl,190,tutor,2.,00:29:37
+mpzdlkl,191,student,5.,00:29:37
+mpzdlkl,192,tutor,So 5 is the greatest twice. [unclear],00:29:38
+mpzdlkl,193,student,2.,00:29:42
+mpzdlkl,194,tutor,So that's the greatest twice. [unclear],00:29:42
+mpzdlkl,195,student,[unclear] [unclear],00:29:51
+mpzdlkl,196,student,[unclear] [unclear],00:30:09
+mpzdlkl,197,student,"Okay, there we go. So we have the second question here. Elara, shall we try to find the common multiples of 3, 4, and 5? What are the multiples that which are common for 3, 4, and 5?",00:30:34
+mpzdlkl,198,tutor,"It's 6, I think. 3, 4, and 6.",00:30:48
+mpzdlkl,199,student,6? Uh-huh. Do you have 6 in the multiples of 4 here? [unclear],00:30:51
+mpzdlkl,200,tutor,No.,00:31:01
+mpzdlkl,201,student,No. What is the number we have in common for all 3 of these? [Speaker] 24.,00:31:02
+mpzdlkl,202,tutor,"24, okay. Do we have any others? [Speaker]... [UNCLEAR] [Speaker] No. Like, uh, shall we check number 9? Do we have number 9 in other multiples?",00:31:14
+mpzdlkl,203,student,[unclear],00:31:40
+mpzdlkl,204,tutor,Do we have number 12?,00:31:41
+mpzdlkl,205,student,No.,00:31:44
+mpzdlkl,206,tutor,"Uh-huh, though we have number 12, we have number 12 with the multiples of 3, the multiples of 4, and the multiples of 6. So what are the 2 common multiples of these 3 numbers?",00:31:46
+mpzdlkl,207,student,24. 24 and 12.,00:31:58
+mpzdlkl,208,tutor,24 and 12. And what is the third question we have here?,00:32:01
+mpzdlkl,209,student,"Um, lowest common multiple.",00:32:06
+mpzdlkl,210,tutor,"Yes, out of 24 and 12, what is the lowest common multiple?",00:32:09
+mpzdlkl,211,background,12.,00:32:14
+mpzdlkl,212,tutor,"Okay, Elara, so you did the working out in finding the multiples of these numbers and found the common multiples here. And, um, well, what do you think you learned new in this?",00:32:15
+mpzdlkl,213,student,"I saw, like, I learned how to find the multiples and to find the common ones.",00:32:31
+mpzdlkl,214,tutor,"Yes, to find the common lowest. Exactly. Okay, Elara, so what do you think is the common multiple of 4, 5, and 10? [unclear] [unclear]",00:32:39
+mpzdlkl,215,tutor,"You can work out the 4 times table here. [Speaker:Elara]...for the test. [Speaker:Tutor] Okay, so that it's easy for you.",00:33:04
+mpzdlkl,216,student,I think it's 20.,00:33:14
+mpzdlkl,217,tutor,"It's 20, yes, exactly, it's 20 there. Okay, so shall we type the answer here?",00:33:16
+mpzdlkl,218,student,Yeah.,00:33:22
+mpzdlkl,219,tutor,"Yes, Elara. How do you know that it's 20 there?",00:33:23
+mpzdlkl,220,student,"Um, because 4 times 5 is 20, 5 times 4 is 20, and 10 times 2 is 20.",00:33:27
+mpzdlkl,221,tutor,"Exactly, Elara. Okay, so we got these correct as well. And now let's see how we are going to use this common multiple and how we are going to order and compare fractions. Okay?",00:33:34
+mpzdlkl,222,student,Okay.,00:33:50
+mpzdlkl,223,tutor,"Okay, yes. Can you read this?",00:33:51
+mpzdlkl,224,student,"When comparing fractions or ordering a set of fractions, it is easier to compare them if the denominators are the same.",00:33:53
+mpzdlkl,225,tutor,"Okay, what do we understand from that?",00:34:01
+mpzdlkl,226,student,That the [unclear] it's easier if you compare them when the denominator,00:34:06
+mpzdlkl,227,student,When the denominators are the same.,00:34:10
+mpzdlkl,228,tutor,"Exactly. Okay, so what are the fractions we have here?",00:34:12
+mpzdlkl,229,student,Let's compare 1/5 and 4/15.,00:34:17
+mpzdlkl,230,tutor,"4/15. Okay, so what is the common multiple for 5 and 15?",00:34:21
+mpzdlkl,231,student,15.,00:34:27
+mpzdlkl,232,tutor,"15. Okay, how can you make this 5 a 15?",00:34:28
+mpzdlkl,233,student,"By timesing it by 3. Okay, if you times the denominator by 3, what do you think we should do to the numerator?",00:34:34
+mpzdlkl,234,student,"Uh, times it by 3.",00:34:42
+mpzdlkl,235,tutor,"Okay, yes. Can you read this, Elara?",00:34:44
+mpzdlkl,236,student,"15 is a multiple of 5, so we can use 15 as the common denominator.",00:34:47
+mpzdlkl,237,tutor,"Yes, and we have 1/5 here and a 15 here. What do you think should the numerator be?",00:34:53
+mpzdlkl,238,student,Uh...,00:35:01
+mpzdlkl,239,student,"Sorry, because you multiply 5 times 3 is 15. And then you do the same to the top, so 1 times 3 is 3.",00:35:03
+mpzdlkl,240,tutor,Yes. Shall we write the number by which we times 1 and 5?,00:35:13
+mpzdlkl,241,student,Yeah.,00:35:19
+mpzdlkl,242,tutor,Okay. [unclear] Yes. And what is given here?,00:35:21
+mpzdlkl,243,student,1/5 is the same as,00:35:27
+mpzdlkl,244,student,Is it the same as 3/15?,00:35:30
+mpzdlkl,245,student,Yes.,00:35:33
+mpzdlkl,246,student,"1 out of 5 is colored and 3 out of 15 is shaded, isn't it?",00:35:34
+mpzdlkl,247,student,Yes.,00:35:40
+mpzdlkl,248,student,"Okay, and now we have converted this and got the answer as 3/15. Is it easy to compare this now? [unclear]",00:35:41
+mpzdlkl,249,student,Yes.,00:35:51
+mpzdlkl,250,tutor,"Okay, so what do you think we should do here?",00:35:54
+mpzdlkl,251,student,Put 3/15 there.,00:36:00
+mpzdlkl,252,tutor,Okay.,00:36:03
+mpzdlkl,253,student,"I think it's 4/15 because— [unclear] Actually, no.",00:36:06
+mpzdlkl,254,tutor,"Mm-hmm. Okay, and what is the third question we have here?",00:36:21
+mpzdlkl,255,student,"Uh, 1/5.",00:36:29
+mpzdlkl,256,tutor,Uh-huh. How did you get 315 is greater than 415?,00:36:32
+mpzdlkl,257,student,"Because, um, 1/5 is— oh, 3/5 is equivalent to 1/5, and 3 is",00:36:37
+mpzdlkl,258,student,[unclear] [Speaker:TUTOR]...close to a whole. [Speaker:Elara] Uh-huh. Which is the greater number? Is 3 the greater number or is 4 the greater number?,00:36:48
+mpzdlkl,259,background,4.,00:37:00
+mpzdlkl,260,student,"4 is the greater number. So which one do you think is the greatest fraction? We have the same denominators here, isn't it, Elara? So we can compare the numerator and find the greater one. Which is the greater numerator here out of these? [unclear] So what is the sign you put there? [unclear] Okay, Elara. And what is the answer we get for this? Is it going to be the same answer here? [unclear]",00:37:02
+mpzdlkl,261,student,"I think it's— Okay. You can type the answer here. Equals, actually. How is it equal?",00:37:38
+mpzdlkl,262,student,"Yeah, I think it's still the same though.",00:38:01
+mpzdlkl,263,tutor,Okay. Yes.,00:38:03
+mpzdlkl,264,tutor,"OK, Elara, how do you know that it is same here?",00:38:07
+mpzdlkl,265,student,"Because 3/5 is 1/5, 1/5, and 4/5 is greater than 1/5.",00:38:12
+mpzdlkl,266,tutor,"OK, because?",00:38:23
+mpzdlkl,267,student,"Because when you put it, you make it 3/15, [unclear] [Speaker:Tutor]...a 3 by 1. [Speaker:Background] OK, Elara, so what did we learn from this question?",00:38:26
+mpzdlkl,268,student,We learnt what to multiply the numerator and denominator by to find the numerator or denominator.,00:38:40
+mpzdlkl,269,tutor,OK.,00:38:54
+mpzdlkl,270,student,Which one's greater?,00:38:56
+mpzdlkl,271,tutor,"Okay, Elara. So we converted this and we compared, and then finally we compared it with the original form itself, because 3/15 is the converted form, isn't it?",00:38:58
+mpzdlkl,272,student,Yeah.,00:39:11
+mpzdlkl,273,tutor,"So we made it into the original form, which is 1/5, and got the answer as 4/15 here. Okay, well, I have the following question here. I'll do this question and you can do when it's your turn. Are we good to give it a try?",00:39:12
+mpzdlkl,274,student,Yeah.,00:39:28
+mpzdlkl,275,tutor,"Okay, so we can order a set of fractions using the same method. The first thing I have to do is to find the common denominator here. The denominators I have here is 3, 15, and 5. The common denominator is 15 here because it is a multiple of 3 and it is a multiple of 5 as well, isn't it, Elara?",00:39:30
+mpzdlkl,276,student,Yeah.,00:39:53
+mpzdlkl,277,tutor,"So 15 is the multiple of 3 and 5. So it is the common denominator here. Now I have to write the fraction so that they have the same denominator. Well, we have 15 here, but we have 3 and a 5 here. Shall we convert these denominators as 15? Yeah. In order to make this as 15, I have to multiply 3 by 5. Am I correct there?",00:39:54
+mpzdlkl,278,student,"Uh, yes.",00:40:20
+mpzdlkl,279,tutor,"So if 3 times, uh, 5— 3 times 5 gives me a 15, I have to multiply the numerator by the same number, and I get a 5 here. 5 times 1 is 5. Am I correct there, Elara?",00:40:22
+mpzdlkl,280,student,5 times 5?,00:40:37
+mpzdlkl,281,tutor,"Oh no, it's 1 times 5. It's 5. [unclear]",00:40:41
+mpzdlkl,282,student,"Oh, 1 times 5, yeah. Because I'm multiplying 3 by 5 and multiplying 1 by 5. Okay.",00:40:44
+mpzdlkl,283,student,Yeah.,00:40:51
+mpzdlkl,284,tutor,And I have a 5 here. How can I make this as 15?,00:40:52
+mpzdlkl,285,student,"Um, you can make 5 into 15 because 3 times [UNCLEAR]. [Speaker:TUTOR] By multiplying by 3. Exactly, Elara. So that's going to be a 15 here, and 3 times 2 is going to be 6. Have I got the correct answer?",00:40:59
+mpzdlkl,286,student,Yes.,00:41:15
+mpzdlkl,287,tutor,"Okay, well, I have now converted these fractions. Now we have the same denominator here, isn't it, Elara?",00:41:17
+mpzdlkl,288,student,"Yeah, [unclear] 15, 6/15, and 4/15.",00:41:26
+mpzdlkl,289,tutor,"So I'm going to order the fractions from smallest to largest, okay?",00:41:29
+mpzdlkl,290,student,Okay.,00:41:34
+mpzdlkl,291,tutor,"Since we have the same denominators, We can look at the numerators to order them. The smallest denominator out of 4, 5, 6 is 4, isn't it? Yeah. So 4/15 comes here, and the second one is going to be 5/15, which is 1/3. Okay?",00:41:35
+mpzdlkl,292,student,That's right.,00:41:59
+mpzdlkl,293,tutor,"So I'm going to type 1/3 here, and finally the other one is going to be 6/15, which is 2/5. Have I got the correct answer here?",00:42:00
+mpzdlkl,294,student,"Uh, yes.",00:42:10
+mpzdlkl,295,tutor,Yep. So how do you think you can do your question?,00:42:12
+mpzdlkl,296,student,"Uh, I think the common denominator is 12 because 3 times 4 is 12 and 4 times 3 is 12.",00:42:16
+mpzdlkl,297,tutor,Yes. Okay.,00:42:25
+mpzdlkl,298,background,"Uh, 2/3.",00:42:29
+mpzdlkl,299,tutor,equal— [unclear],00:42:31
+mpzdlkl,300,student,Mm-hmm.,00:42:47
+mpzdlkl,301,tutor,"Okay. Yes, Elara. So what are we supposed to do here?",00:43:05
+mpzdlkl,302,student,"I think the last one, I think the last one's going to be [UNCLEAR].",00:43:15
+mpzdlkl,303,student,"I think it's gonna be 7— oh, wrong hole. [unclear] 12.",00:43:28
+mpzdlkl,304,tutor,Okay.,00:43:36
+mpzdlkl,305,student,And then the next one's gonna be— I think the next one's,00:43:38
+mpzdlkl,306,tutor,I think the middle one's going to be— maybe— what is the next smallest fraction we have out of these?,00:43:48
+mpzdlkl,307,student,8/12.,00:44:04
+mpzdlkl,308,tutor,"8/12. And how are we supposed to write it here? Yes, Elara. Okay. [unclear] Quarters.",00:44:06
+mpzdlkl,309,tutor,"OK, Elara. So you got it correct here. How did you work out— work this question out?",00:44:17
+mpzdlkl,310,student,"I saw— well, I saw that on the— up here, so that's 3 times 4 equals 12. So then I did 3 times 4, so I got 12. And then I did 2 times 4, which is 8. And then I did 4 times 3, which is 12 again. And then I did 3 times— [unclear]",00:44:25
+mpzdlkl,311,tutor,Okay.,00:44:54
+mpzdlkl,312,student,"—3, which is 9.",00:44:54
+mpzdlkl,313,tutor,"Okay. So what is one new thing you learned from this lesson, Elara?",00:44:58
+mpzdlkl,314,student,I learned like to find from the simplified version to the non-simplified version fractions and to order the fractions from smallest to largest.,00:45:04
+mpzdlkl,315,tutor,"Okay, Elara. Well, I really appreciate your effort you took here to answer this question and to understand the concept here. Finally, you got them correct and explain me the correct method you got the answers. Keep it up, Elara. And it's time to [UNCLEAR]. Okay, we can try a few more questions our next session. Are we going to do that?",00:45:16
+mpzdlkl,316,student,Yes.,00:45:40
+mpzdlkl,317,tutor,Do the feedback and end the session. Was the session useful for you?,00:45:41
+mpzdlkl,318,student,Yes.,00:45:45
+mpzdlkl,319,tutor,"Did you enjoy the session today, Elara?",00:45:46
+mpzdlkl,320,student,Yes.,00:45:48
+mpzdlkl,321,tutor,"Okay, complete the quiz after the session. We'll meet in our next session. Bye-bye, take care.",00:45:49
+mpzdlkl,322,student,"Bye, thank you.",00:45:54
+mpzdlkl,323,tutor,Welcome. Bye-bye.,00:45:56

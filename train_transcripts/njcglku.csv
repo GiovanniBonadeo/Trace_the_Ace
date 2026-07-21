@@ -1,0 +1,404 @@
+session_id,utterance_id,role,content,timestamp
+njcglku,0,tutor,Hello.,00:00:00
+njcglku,1,background,[unclear],00:00:00
+njcglku,2,student,Hello.,00:00:00
+njcglku,3,tutor,Hi.,00:00:02
+njcglku,4,student,"Hi, [UNCLEAR]. How are you doing?",00:00:02
+njcglku,5,tutor,I'm good. How about you?,00:00:02
+njcglku,6,student,"I'm doing great. Thanks a lot for asking. So we're meeting after a couple of weeks, yeah?",00:00:05
+njcglku,7,student,Yeah.,00:00:10
+njcglku,8,tutor,So how has your day been so far? Is everything all good?,00:00:12
+njcglku,9,student,"Yeah, it's all good. How about you?",00:00:15
+njcglku,10,tutor,"It's been great. Thanks a lot for asking once again. So I think good to get started, Haider.",00:00:17
+njcglku,11,student,"Yes, Miss.",00:00:22
+njcglku,12,tutor,"All right. So as it's been quite a while since we met, okay, so we'll be continuing the lesson that we just started last time, which is using the product rule for counting. Before we move on, can you tell me what you can remember about this, Haider?",00:00:23
+njcglku,13,student,"I think we have to times 30 by 15. [unclear] Wait, no, hang on.",00:00:41
+njcglku,14,tutor,"Okay, okay.",00:00:53
+njcglku,15,student,"We times 6 by 15. Oh, I forgot.",00:00:54
+njcglku,16,tutor,"Oh, problem at school. So just, so you were referring to this particular question. So whom do you think is correct, Paul or Bavia?",00:01:00
+njcglku,17,tutor,"I think Paul is correct. Oh yeah, because you do 6 times 5, which is 30, because you can't play yourself as a team. [unclear]",00:01:08
+njcglku,18,background,"Okay, that's a really nice thought you have given, but actually it's going to be Bhavya who is correct, but it's not at all a problem because that's what we're going to be learning today. Okay, so we'll come back to this problem once we learn the concept related to it. I'm sorry.",00:01:20
+njcglku,19,tutor,So this is where we stopped last time. So this is a very similar question to the question that popped up in the beginning. So shall we try answering part A in it? So you can follow this order. Go ahead.,00:01:35
+njcglku,20,student,"Okay, so— [unclear]",00:01:49
+njcglku,21,tutor,I forgot what you do.,00:01:50
+njcglku,22,student,There's the one difference.,00:01:54
+njcglku,23,tutor,"OK, no problem. So can we read the question first, Haida?",00:02:01
+njcglku,24,student,"A headteacher needs to select a head boy, head girl, deputy head boy, and deputy head girl. They can choose from 12 boys and 15 girls for the positions. How many different combinations are possible?",00:02:04
+njcglku,25,tutor,"OK, so how do you think you should work out this problem?",00:02:14
+njcglku,26,student,"So there's— I think you times boys by girls. [unclear] to find the different combinations, we have to do that. But at the same time, do you notice they want to choose a head boy and a deputy head boy from the boys? Two choices. Yeah? So when it comes to two items from one set, shall we read this part on how we are going to work out that [UNCLEAR]?",00:02:19
+njcglku,27,student,Yeah.,00:02:19
+njcglku,28,student,I think 12 times 11. 12 times 11. Why do you think it's 12 times 11?,00:02:49
+njcglku,29,student,Because you do n minus 1 to find like [UNCLEAR].,00:02:57
+njcglku,30,tutor,Exactly.,00:02:57
+njcglku,31,student,Yeah.,00:03:05
+njcglku,32,tutor,"So do you think, how do you think, so let's forget about the formula. So how do you think practically it would be 12 times 11 to find the number of boys, combinations between boys? Because I think you can't pick the same boy twice, so it has to be like someone else.",00:03:06
+njcglku,33,tutor,"Fantastic. That was a beautiful explanation built up. So once we choose a head boy, we'll only have 11 boys to choose the deputy head boy. Yeah?",00:03:25
+njcglku,34,student,"Yeah, yeah.",00:03:33
+njcglku,35,tutor,Very well done. So we have that question broken down into 3 sections over here. So shall we try answering section by section and finding the final answer?,00:03:34
+njcglku,36,student,Yeah.,00:03:45
+njcglku,37,tutor,"Okay, go ahead.",00:03:46
+njcglku,38,student,"[unclear] Okay, so how many sets we choosing from? Is it 2?",00:03:46
+njcglku,39,tutor,"2, fantastic. How about the second one? 12 and 15, okay. So now first let's find the number of combinations for boys, shall we?",00:03:55
+njcglku,40,student,Yeah. Or do you do 132 times whatever 12 times— 14 times 15 is?,00:04:08
+njcglku,41,tutor,"Mm-hmm. Okay, so you can use a calculator for the multiplication.",00:04:17
+njcglku,42,student,"Okay, so 210 times 132.",00:04:26
+njcglku,43,tutor,Okay.,00:04:33
+njcglku,44,tutor,Is that it?,00:04:37
+njcglku,45,background,"Okay, can we type the answer here as well because that's where the answer bar is? So 920. So here what do we have to have in this gap? [unclear] Fantastic. [unclear]",00:04:50
+njcglku,46,tutor,"That's crystal clear, Haider.",00:05:04
+njcglku,47,student,Sorry?,00:05:07
+njcglku,48,tutor,Yeah.,00:05:08
+njcglku,49,student,Was that crystal clear?,00:05:09
+njcglku,50,tutor,Yeah.,00:05:10
+njcglku,51,student,"Okay, so that's exactly how we figure out the number of combinations where we have to choose 2 items from each set. Okay? And the order actually matters in a case like this. Okay? So that, of course, you explained to me how it would impact because if you choose one headboard, you cannot choose",00:05:11
+njcglku,52,tutor,"another, I mean you can't choose the same boy again. Yeah?",00:05:11
+njcglku,53,student,Yeah.,00:05:11
+njcglku,54,tutor,"Superb. So for this particular question, let me tell you how the marks are awarded. So for this question, you'll be getting one mark for the final answer, but you'll be getting— you'll not be getting the other one mark. Why do you think you lost that mark?",00:05:33
+njcglku,55,student,I think because I didn't do like the show the working out.,00:05:53
+njcglku,56,tutor,Exactly. So what do you need to show therefore to get that mark?,00:05:56
+njcglku,57,student,[unclear] I need to show the 12 times 11 and 15 times 14 and then the answers between those ones.,00:06:00
+njcglku,58,tutor,"Yeah, 12 times 11. Let me put what you said. 15 times 14. So is this how you put it or do you have to add something else?",00:06:10
+njcglku,59,student,And then 132 times 210.,00:06:20
+njcglku,60,tutor,"Well done. So which is a times symbol in between these two. Yeah, because you're finding the total number of combinations. Yes, fantastic. So if you had written that particular part, you'll be getting another mark there. Okay?",00:06:24
+njcglku,61,student,Yeah.,00:06:37
+njcglku,62,tutor,Clear?,00:06:38
+njcglku,63,student,[unclear] Yep.,00:06:38
+njcglku,64,tutor,"All right. Now let's try practicing it with another question, which is very similar to that. Can you read it and give it a try? You have two parts for that question. Go ahead.",00:06:40
+njcglku,65,tutor,Okay. [unclear],00:06:50
+njcglku,66,student,is it 16 times 15?,00:06:50
+njcglku,67,tutor,Mm-hmm. 16 times 15. Okay.,00:06:50
+njcglku,68,student,And that is?,00:07:10
+njcglku,69,background,The power of 2.,00:07:11
+njcglku,70,tutor,Fabulous. So why is it 16 times 15 and not 16 times 16?,00:07:15
+njcglku,71,student,Because you can't verse yourself.,00:07:19
+njcglku,72,tutor,"Fabulous. So fantastic work. So I hope the concept is quite clear to you now. So if you had done this in your exam, you'll be getting one mark for that and the other mark for that. Okay? So the main reason why I'm showing you the way— I mean, the exam-oriented approach is because you need to know where you have to focus on to get marks.",00:07:22
+njcglku,73,student,Yes.,00:07:43
+njcglku,74,tutor,"That's the ultimate motive to get a good grade, isn't it?",00:07:43
+njcglku,75,tutor,Yep.,00:07:47
+njcglku,76,background,Fabulous. So are we good to move on to the next slide?,00:07:47
+njcglku,77,tutor,Yeah.,00:07:51
+njcglku,78,background,All right. We have very similar questions once again to that. So will it be possible to read these questions and give it a try?,00:07:52
+njcglku,79,tutor,Okay.,00:07:59
+njcglku,80,background,"Let's start with Part A. Once you're done with Part A, do let me know, okay?",00:08:00
+njcglku,81,tutor,Yeah.,00:08:04
+njcglku,82,background,Okay. [unclear] [unclear],00:08:05
+njcglku,83,student,[unclear] [unclear],00:08:12
+njcglku,84,student,[unclear] Finished. [unclear],00:08:22
+njcglku,85,tutor,"Okay, you're done with both the parts. Could you tell me how you did those two?",00:08:42
+njcglku,86,student,"The first one? So, because you need to pick two people, you have to— I minus two, so I got 21.",00:08:47
+njcglku,87,tutor,"Okay. And then that's— I just times 10, I got 483. [unclear]",00:08:59
+njcglku,88,tutor,"All right, that was a good, really nice try there. So let's try reading the question once again and check whether we have done that right. So similar to what we did before, so this is very similar to the head boy and head girl problem, isn't it?",00:09:07
+njcglku,89,student,Yeah.,00:09:24
+njcglku,90,tutor,"Okay, so head— yeah.",00:09:26
+njcglku,91,tutor,"So could you brief me on how we did that work? I mean, when choosing a head boy, what did we do?",00:09:30
+njcglku,92,student,"We times the boys' combinations and the girls' combinations, and we times the result of those ones. We multiply the results of those ones.",00:09:37
+njcglku,93,tutor,"Exactly. So if we were talking about— if we were only talking about the head boy and deputy head boy selection among the boys, how would that happen? Can you explain to me that? Just forget about the girls in this case. How would you do that?",00:09:45
+njcglku,94,student,I think just 12 times 11.,00:09:59
+njcglku,95,tutor,"12 times 11. So in this situation, how did that become a 21? [unclear]",00:10:03
+njcglku,96,student,I think it should be 22.,00:10:11
+njcglku,97,tutor,"22. Okay, why do you think it should be 22?",00:10:13
+njcglku,98,student,Because you can't pick one person 2 times.,00:10:16
+njcglku,99,tutor,"Yes, and is it clear why it's not 21?",00:10:21
+njcglku,100,student,Yeah.,00:10:24
+njcglku,101,tutor,"Alright, so after choosing 23— I mean, after choosing a head boy, a head team captain, there are 22 boys from which you need to choose, so that's why it becomes a 22, okay?",00:10:25
+njcglku,102,student,Yeah.,00:10:36
+njcglku,103,tutor,"Great, shall we try adjusting the answer? Go ahead.",00:10:36
+njcglku,104,student,"Yeah, I did it. [unclear] Is that the correct answer? [unclear]",00:10:41
+njcglku,105,tutor,Still don't see the answer. Can you type it in for me?,00:10:50
+njcglku,106,student,Okay.,00:10:55
+njcglku,107,tutor,"Okay, thank you. Okay, 506. And yes, that's going to be 23 times 22. Was it crystal clear, Haider?",00:10:56
+njcglku,108,student,Yeah.,00:11:08
+njcglku,109,tutor,"Okay, one mark for the answer, one mark for the calculation which you wrote. Previously, which is 23 times 22. Okay, all right. Could you explain to me how you did the second one?",00:11:08
+njcglku,110,student,"You can't mess yourself once and you need to do it again, so I just did 20 times 19.",00:11:20
+njcglku,111,tutor,"20 times 19. Okay, so because they will be playing each other, two teams, twice in a set. Okay, yeah, very, very well done. So you'll be getting one mark for the answer, just like before. And the other mark for the working out. Clear?",00:11:30
+njcglku,112,student,Yeah.,00:11:46
+njcglku,113,tutor,"Superb. So that is about selecting more than one item per set. Okay, so we're going to jump on to the next concept, which is using the product rule for counting when the order actually doesn't matter. Okay?",00:11:48
+njcglku,114,student,"Okay, yeah.",00:12:00
+njcglku,115,tutor,"Here, previously the order mattered because you chose a captain, then a deputy captain. Yeah?",00:12:01
+njcglku,116,student,Yeah.,00:12:08
+njcglku,117,tutor,The scenario is a bit different. So shall we try reading it and giving it a,00:12:08
+njcglku,118,tutor,Go.,00:12:12
+njcglku,119,student,Okay.,00:12:37
+njcglku,120,tutor,Go ahead. [unclear] [unclear],00:12:37
+njcglku,121,student,I think this is it.,00:13:03
+njcglku,122,student,[unclear],00:13:09
+njcglku,123,tutor,"Okay, so can you explain to me how you did that?",00:13:09
+njcglku,124,student,"Because there's two flavors, so I think you just times it by 2.",00:13:13
+njcglku,125,tutor,"Okay, very well done. That was a really good start, I would say. So if you had done this in your exam, you'll be getting 1 mark for this particular thing. But you have lost 2 other marks, so we'll see why we lost that by moving on to some bit more support. Okay? So here's the same question, and here is some support. Can you read this part and explain to me what's happening there?",00:13:22
+njcglku,126,student,[unclear],00:13:44
+njcglku,127,tutor,What did you say?,00:13:46
+njcglku,128,student,"Okay, can you read that part which I'm pointing and explain to me what's happening?",00:13:48
+njcglku,129,tutor,"Okay, so you times it, and you times— it's 20 times 19, and then you divide by 2.",00:13:53
+njcglku,130,tutor,Why do you think we use that formula and not the formula that we did before?,00:14:01
+njcglku,131,student,"Because if there's more combination— wait, I think if there's more things that you need to choose, then it's like the smaller amount of combinations.",00:14:07
+njcglku,132,tutor,"Mm-hmm, small amount of combinations. Okay, that's a nice explanation you gave over there. So in this scenario, does the order of the items actually matter either? Order of choosing the items.",00:14:15
+njcglku,133,student,"Yeah. So 28 times 27 and then [unclear] which equals— yeah, 378.",00:14:30
+njcglku,134,tutor,"378. Okay, so great job with the answer. Why am I referring to like this question? You said the order actually doesn't matter. Okay, so let's say you had chocolate.",00:14:48
+njcglku,135,tutor,Yeah.,00:15:01
+njcglku,136,student,[unclear] and strawberry as two flavors.,00:15:02
+njcglku,137,tutor,Yeah.,00:15:06
+njcglku,138,student,Okay. So one person is choosing chocolate and strawberry.,00:15:07
+njcglku,139,tutor,Yeah.,00:15:13
+njcglku,140,student,And another person is choosing strawberry and chocolate. So is that different?,00:15:13
+njcglku,141,tutor,Yes.,00:15:18
+njcglku,142,tutor,"Wait, sorry?",00:15:19
+njcglku,143,student,One person is choosing chocolate and strawberry as their first combination.,00:15:21
+njcglku,144,tutor,Yeah.,00:15:26
+njcglku,145,student,"Okay, so first they're choosing chocolate and second they're choosing strawberry.",00:15:26
+njcglku,146,tutor,"Oh yeah, it is the same.",00:15:31
+njcglku,147,student,"Yes, exactly, it's the same. So in this situation, the order doesn't actually matter. Yeah?",00:15:33
+njcglku,148,tutor,Yeah.,00:15:39
+njcglku,149,student,"That's why we divided by 2, because the order doesn't have an effect on the final answer. So whatever the combinations of two different flavors is what they're asking. Okay?",00:15:39
+njcglku,150,student,Yeah.,00:15:51
+njcglku,151,tutor,Did that make sense or did I confuse you even more?,00:15:52
+njcglku,152,student,"No, Missa, it makes sense.",00:15:55
+njcglku,153,tutor,It makes sense. Are you really sure?,00:15:57
+njcglku,154,student,Yeah.,00:16:00
+njcglku,155,tutor,"Okay, so in this previous matter, when head boy was chosen, you had no choice. Only from the rest you have to choose the deputy head boy. Yeah? Is that clear?",00:16:01
+njcglku,156,student,Yeah.,00:16:14
+njcglku,157,tutor,"But here the scenario is different because even though the order is different, the same combination. I mean, even though you chose it in different orders, it's gonna be the same combination. Clear?",00:16:15
+njcglku,158,student,Yeah.,00:16:26
+njcglku,159,tutor,"That's why you divide it by 2. So can we try answering these tiny, tiny questions as well? [unclear] No.",00:16:26
+njcglku,160,tutor,"Wait, is... Huh? 378.",00:16:46
+njcglku,161,student,"Okay, can we read the question once again?",00:16:51
+njcglku,162,tutor,"Oh no, sorry, 28. [unclear] So, 28. [unclear]",00:16:54
+njcglku,163,tutor,Hello? [unclear],00:17:18
+njcglku,164,student,"You're true, true.",00:17:23
+njcglku,165,tutor,No.,00:17:25
+njcglku,166,student,"Oh, I can hear you now.",00:17:26
+njcglku,167,tutor,"All right, great. Let's get back to work. [unclear]",00:17:28
+njcglku,168,tutor,"378. Very well done. So let's see how you would get marks. So just like previously, okay, you'll be getting 1 mark for 28 times for this part, okay? And the dividing part, you'll be getting your other mark. And for the final answer, you'll be getting your final mark.",00:17:47
+njcglku,169,student,Yeah.,00:18:04
+njcglku,170,tutor,Was everything clear?,00:18:05
+njcglku,171,student,Yep.,00:18:07
+njcglku,172,tutor,"Okay, so, and also one more thing, Callum, it's perfectly fine to make mistakes, and it's perfectly fine to ask questions from me whenever you're confused, because ultimately it'll kind of impact your result if you have [UNCLEAR].",00:18:08
+njcglku,173,student,Yeah.,00:18:08
+njcglku,174,tutor,Feel free to ask any questions from me. All right?,00:18:21
+njcglku,175,tutor,Okay. [Speaker] Great. So let's jump onto another question which is quite similar to that. So we'll try reading it and giving it a go.,00:18:25
+njcglku,176,tutor,Okay. [unclear],00:18:33
+njcglku,177,student,[unclear] 29.,00:18:53
+njcglku,178,tutor,Okay.,00:18:54
+njcglku,179,student,Is that the answer?,00:18:55
+njcglku,180,tutor,29. Could you tell me why you think it's 29?,00:18:57
+njcglku,181,student,"Because if they're playing once, then you only play one, but you can't verse yourself, so then it's just minus 1 and then 29.",00:19:00
+njcglku,182,tutor,"Okay. So they're just playing once, totally agreed. Okay, but there are 30 players altogether, isn't it?",00:19:09
+njcglku,183,tutor,Yeah.,00:19:17
+njcglku,184,background,"So they're kind of asking for the combinations here of the total number of games played among each other once, just once. So how do you think you would answer this question related to what we just learned?",00:19:17
+njcglku,185,student,30 times 29 and divided by 2.,00:19:34
+njcglku,186,background,"Okay, why do you think you apply that formula to this question?",00:19:37
+njcglku,187,student,Uh...,00:19:41
+njcglku,188,student,I don't know. [unclear],00:19:43
+njcglku,189,tutor,"Okay, no problem. So let's say in this particular question, do you think the order of playing between each player actually matters?",00:19:47
+njcglku,190,student,No.,00:19:56
+njcglku,191,tutor,Why do you say so?,00:19:57
+njcglku,192,student,"Because I don't know, I just don't think there's a specific order you have to play.",00:19:59
+njcglku,193,tutor,"The order actually doesn't matter because in previously there were two— they were playing twice. So actually the order matters there. Okay, but here they're just playing once, so the order doesn't matter, as just like you said. Okay, so when the order does not matter, what formula would we apply?",00:20:04
+njcglku,194,tutor,"Yeah, the order doesn't matter, so then I think— okay, if the order doesn't matter, then— [unclear]",00:20:29
+njcglku,195,tutor,"So the 30 players, okay. So just imagine it like let's say there are 5 players here. Okay, let's make it a bit more simple. Okay, there are 5 players here, okay, and each player must play the other ones, okay. Between the players they need to play, let's say 6 players.",00:20:38
+njcglku,196,tutor,Yes.,00:21:02
+njcglku,197,background,There are 6 players and between the players they have to play one.,00:21:03
+njcglku,198,tutor,Yeah.,00:21:08
+njcglku,199,background,"So which is... [unclear] Let's call them A, B, C, D. So let's make it even more smaller. Let's make it 4 players. Okay, 4 players, it makes it easier. Okay, so 4 players, let's say it's A, B, C, and D. Okay?",00:21:09
+njcglku,200,tutor,Yeah.,00:21:27
+njcglku,201,background,"So A has to play with B, A has to play with C, A has to play with D. Okay? So actually A has to play with 3 different teams. It doesn't have to play with itself. Yeah? Do you get it? Was that clear, Haider?",00:21:27
+njcglku,202,student,"[unclear] Yes, Miss.",00:21:44
+njcglku,203,tutor,"Okay, very clear? Am I making it clear, Haider? Yeah?",00:21:48
+njcglku,204,student,"I don't know, like, what you do though, because if there's like, would you times like, do you times 8 by 3? I don't know, it's kind of confusing.",00:21:56
+njcglku,205,tutor,"No problem. So here actually, as the order doesn't matter, they're just playing once, okay? So there are 12 different combinations that are going to come, isn't it? AB, A with AC, and A with [UNCLEAR]. D, okay, and then B with A, B with C, and B with D, right? And C with A, C with D, C with C. Okay, I'm sorry, not C with C, it's C with B. Yeah, sorry. Okay, so here the order actually doesn't matter, playing with A and B.",00:22:10
+njcglku,206,tutor,So A and AB is the same?,00:22:43
+njcglku,207,background,[unclear],00:22:44
+njcglku,208,tutor,"Exactly, even though it's the same, they're just playing each other once.",00:22:46
+njcglku,209,tutor,Okay.,00:22:50
+njcglku,210,background,Yeah.,00:22:50
+njcglku,211,tutor,"So because of that, the order doesn't actually matter. So what we need to do is, just like you said, these are the same.",00:22:50
+njcglku,212,background,Yeah.,00:22:58
+njcglku,213,tutor,This is the same. And these two are the same. And what else is same?,00:22:58
+njcglku,214,background,"Wait, AB is the same as BA, AC is the same as CA. Why is— oh. [unclear]",00:23:07
+njcglku,215,tutor,I think that's it.,00:23:17
+njcglku,216,student,[UNCLEAR],00:23:17
+njcglku,217,tutor,"And then 4 are remaining. So similar to that, so that is 4 different combinations are remaining there. Yeah? So which is like 12 divided by 2. I mean, I guess we have missed something else. CA and AC is different. Okay? So in that case, that will be 4 times 3, which is 12, and then when it's divided by 2, it's going to get into a 6. Okay, so that's how the formula works for this particular question as well, right?",00:23:21
+njcglku,218,tutor,"Yeah. [Speaker] Did that make sense, Haider?",00:23:50
+njcglku,219,tutor,"Yes, Miss. [Speaker] Okay, so can you apply that formula to this particular question and give the final answer?",00:23:53
+njcglku,220,tutor,"Okay. [Speaker] Wait, nothing, Miss. [unclear] [Speaker] Hey, Haider, is there any problem? No, Miss, I'm just— I don't know. I don't know. Is it 15? Is the answer 15?",00:23:59
+njcglku,221,tutor,"Okay, how did you get the 15 there?",00:24:25
+njcglku,222,student,"I got 15 because, like, when they play, like, some of them is like the same, and I think half of them is the same because if they play each other, then it'll just be like",00:24:27
+njcglku,223,tutor,"So for the 4 one, I think you crossed out half of them.",00:24:38
+njcglku,224,student,"Okay, so if it's quite confusing, this question is very similar to the very first question that we saw. Can you remember this?",00:24:44
+njcglku,225,tutor,Yeah.,00:24:52
+njcglku,226,student,"Okay, so here let's just quickly graze through this question. So there are 6 football teams, okay? So we'll call them A, B,",00:24:53
+njcglku,227,tutor,Just to make it clear.,00:25:04
+njcglku,228,student,Yeah.,00:25:05
+njcglku,229,tutor,"A, D, E, and F. Okay. So when we're making combinations for this, okay, so if each team plays it twice, okay, let's say, I mean, sorry, if each team plays with each other once, so then you'll get it as AB, AC, and so on. [unclear] So if we imagine that everyone plays with themselves as well, so if we imagine by that. So if there are 6 over here, except for playing with themselves, so we will be working out 6 times 5 here. [unclear] To find the total number of combinations.",00:25:05
+njcglku,230,student,Yeah.,00:25:45
+njcglku,231,tutor,"Okay, that's exactly what you suggested as well.",00:25:46
+njcglku,232,student,"Yeah, yeah.",00:25:50
+njcglku,233,tutor,"In that case, the games would be, let me quickly type, I hope you don't mind it, A, B, A with B, A with C, A with D, A with E, A with F. Okay, that is one. All right.",00:25:51
+njcglku,234,tutor,"Yeah. [unclear] [Speaker] The other one would be B with C, B with D, B with E, B with F, and that's it. Okay?",00:26:05
+njcglku,235,student,"Yep. [Speaker] Was that clear? Because B with A is the same as A with B. All right? So because of that, I'm stopping from here. All right? Then the next one, C with D,",00:26:18
+njcglku,236,student,Yeah.,00:26:30
+njcglku,237,tutor,And C with E.,00:26:31
+njcglku,238,student,"So in the exam, in the exam, do I just write out all the possible combinations?",00:26:32
+njcglku,239,tutor,Exactly. So I'll just teach you the way on how we can find the possible combinations without listing them down. Okay? These are the possible combinations. So do you think there are any other combinations other than this?,00:26:37
+njcglku,240,student,"Uh, no.",00:26:48
+njcglku,241,tutor,Can you check it really well and tell me?,00:26:51
+njcglku,242,student,Maybe.,00:26:54
+njcglku,243,background,"Yes. A, C, A, T, A, E, A, F.",00:26:54
+njcglku,244,tutor,Okay.,00:26:57
+njcglku,245,background,"B, C, B, D, B, E, B, F. And C, D, C, E, C, F. [unclear]",00:26:59
+njcglku,246,tutor,Are we missing something?,00:27:15
+njcglku,247,background,I don't think so.,00:27:16
+njcglku,248,tutor,"Okay, so how many different combinations are there?",00:27:19
+njcglku,249,tutor,"There's 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.",00:27:26
+njcglku,250,student,"15. Okay, so the games would be 15 because AB is the same as BA, so the order actually doesn't matter, just like we said before. So otherwise they would have played with each other twice if we do it the other way around. Alright, so there are 15 combinations altogether. So how How can we get 15 if there were 6 football teams? If we apply the formula.",00:27:36
+njcglku,251,student,[unclear] 30 times 1 divided by 2.,00:28:03
+njcglku,252,tutor,30 times 1 divided by 2?,00:28:08
+njcglku,253,student,I think so.,00:28:10
+njcglku,254,tutor,"Okay, so can we read the question once again, Haider?",00:28:12
+njcglku,255,student,6 teams play football in a league. Each team must play the other team once.,00:28:15
+njcglku,256,tutor,"Exactly. 6 football teams altogether. Okay, so they will not be playing with each other, therefore how many combinations can we make?",00:28:19
+njcglku,257,student,15.,00:28:27
+njcglku,258,background,[unclear],00:28:27
+njcglku,259,tutor,"Yeah, before 15, how can we find, I mean how many combinations can we make if they are playing with, like except them playing with themselves? That's my question.",00:28:30
+njcglku,260,student,I think it's 30 anyway.,00:28:42
+njcglku,261,tutor,"30, very well done, it's 30, okay. Yeah, so it's 30, but practically they can only be playing 15 combinations when we listed them out. So how can we make that 30 or 15? Is it weak? Because, uh, so you know, uh, [unclear]",00:28:45
+njcglku,262,student,I don't know.,00:29:02
+njcglku,263,background,"So we sub 1. Okay, so in this case we have to apply this particular formula where the order order of the items doesn't actually matter. Okay, just like how this worked.",00:29:05
+njcglku,264,tutor,Yeah.,00:29:18
+njcglku,265,student,"Chocolate and strawberry question. Okay, therefore, so could you try this question once again by applying that formula, Haider?",00:29:18
+njcglku,266,background,"Okay, yeah, yeah, yeah, I'll try that again. [unclear]",00:29:24
+njcglku,267,tutor,"Okay, was that crystal clear?",00:29:46
+njcglku,268,student,"Yes, Miss.",00:30:02
+njcglku,269,tutor,Any confusions around it?,00:30:04
+njcglku,270,student,"No, Miss.",00:30:05
+njcglku,271,tutor,"No. So that's exactly how we figure it out. Figure out the— I mean, you use the product rule, then the order actually doesn't matter. So you'll be getting one mark there for this division, you'll be getting another mark, and the final mark for the answer. Was everything clear? [unclear] Is it clear, Haida?",00:30:06
+njcglku,272,student,"Yes, Miss.",00:30:28
+njcglku,273,tutor,"Okay, is there anything—",00:30:29
+njcglku,274,student,"No, I think it's only because this is like— I think like my hardest like subject in maths. I struggle on this one the most out of all the questions.",00:30:30
+njcglku,275,tutor,"Okay, no problem. So if by any chance if you happen to have any questions, you can list them out now or else you can also bring them next time when you join. Okay, just stop me and tell if you don't understand anything.",00:30:38
+njcglku,276,student,I think slowly I'm learning it with like this.,00:30:48
+njcglku,277,tutor,"All right, great. That's amazing to hear. So there are 2 questions worked out already. So can you check whether they have done it correctly? [unclear]",00:30:52
+njcglku,278,student,I think this one. 6 times 9 equals 54.,00:31:06
+njcglku,279,tutor,54. Very well done. That's exactly how we work out the problem. How about the second one?,00:31:13
+njcglku,280,student,"And then the second one, I think 8 pieces. [unclear]",00:31:18
+njcglku,281,background,"And then 4, 16 times 2, 32.",00:31:24
+njcglku,282,student,Ah.,00:31:26
+njcglku,283,background,So then we put the original sequence over it.,00:31:28
+njcglku,284,student,"Because you can pick the same— wait, no, I don't— [unclear] I don't know what the mistake is with this one.",00:31:33
+njcglku,285,tutor,"Okay, so you think it's correct technically, is it?",00:31:49
+njcglku,286,student,Yeah.,00:31:52
+njcglku,287,tutor,"Okay, so when you choose two different toppings, then it's possible to get a price reduction. That's what they say, there's a special price.",00:31:54
+njcglku,288,tutor,Yeah. So they're asking how many combinations of two different toppings are possible.,00:32:03
+njcglku,289,student,"Oh, 56 divided by 2.",00:32:08
+njcglku,290,tutor,"56 divided by 2. So this works similar to this particular question, the chocolate and strawberry question.",00:32:10
+njcglku,291,student,Yeah.,00:32:16
+njcglku,292,tutor,Choosing chocolate and strawberry and strawberry and chocolate is going to be the same thing. All right?,00:32:17
+njcglku,293,student,Yep.,00:32:22
+njcglku,294,tutor,"Very clear, or was it a vague answer there, Haider?",00:32:23
+njcglku,295,background,"No, this one was very clear, Miss.",00:32:26
+njcglku,296,tutor,"Okay, great. So 56 divided by 2, what would the answer be?",00:32:29
+njcglku,297,student,[unclear],00:32:37
+njcglku,298,tutor,"28, superb. So that's very well done. So hope the whole concept is clear. But if by any chance, if you happen to have any questions, make sure you bring it up next time or whenever it pops up, okay?",00:32:37
+njcglku,299,student,"Okay, yeah.",00:32:49
+njcglku,300,tutor,"Thanks a lot for the fantastic effort here. We're going to jump on to the next lesson. So if everything was clear, that's going to be expanding triple brackets. How is your idea, I mean, on this lesson?",00:32:51
+njcglku,301,student,"I can do it, but it just takes a long time.",00:33:03
+njcglku,302,tutor,"Okay, no problem, but somehow you're quite confident with it, is it?",00:33:08
+njcglku,303,student,"Yeah, I guess so, yeah.",00:33:11
+njcglku,304,tutor,"Yeah, then we have a little work to do there then. So how would you rate your confidence out of a 10 for this lesson?",00:33:12
+njcglku,305,student,Out of 10?,00:33:19
+njcglku,306,tutor,Yeah.,00:33:20
+njcglku,307,student,Probably like a 7 or an 8.,00:33:21
+njcglku,308,tutor,A 7 or an 8. Let's go for the smaller grade and see whether it improves once we're done. OK? So can you check what's wrong with this answer?,00:33:23
+njcglku,309,student,Yeah. OK. One second. [unclear],00:33:33
+njcglku,310,tutor,"Hello? Haida, are you there? [unclear]",00:34:03
+njcglku,311,tutor,"Hello? [unclear] Are you there? Hello? Hello. [unclear] Hi there, are you there?",00:34:33
+njcglku,312,student,"Yes, Miss, my battery died on the computer, so I didn't know.",00:35:20
+njcglku,313,tutor,"Okay, is it all sorted now?",00:35:25
+njcglku,314,student,"Yes, we're fine. I was doing the question, I'm almost done.",00:35:27
+njcglku,315,tutor,"Alright, I think you don't have to solve the question here, so you just got to find what the mistake is in this. So what do you think is the mistake? You don't have to correct it.",00:35:31
+njcglku,316,student,"The mistake is, shouldn't it turn like something like ax squared— no, ax cubed plus bx squared plus something— that's me, like 4 things in the equation.",00:35:41
+njcglku,317,tutor,"Okay, so what have they done to get this particular answer?",00:35:56
+njcglku,318,student,"Oh, they just cubed everything in the bracket.",00:36:00
+njcglku,319,tutor,"Very well done. So you figured out the actual mistake there. So that's exactly what we're going to do with all these questions. So let's move We'll move on to the very first exam, sir, question. Can you quickly give this a try? How do you think you would work this out?",00:36:03
+njcglku,320,tutor,Okay. [unclear],00:36:23
+njcglku,321,student,Hello? [unclear],00:36:31
+njcglku,322,tutor,Hi there.,00:36:32
+njcglku,323,tutor,"Yes, Miss?",00:36:36
+njcglku,324,student,I hope you're working on the question.,00:36:37
+njcglku,325,tutor,"Yes, Miss.",00:36:39
+njcglku,326,student,"Yeah, go on. [unclear]",00:36:40
+njcglku,327,tutor,"Come on. All right. 2, then 3, then 4. So, you know, the second bit is really 1, but you got to half it to find the second bit. [unclear]",00:37:02
+njcglku,328,tutor,"Oh, I see it's more difficult. You're gonna have to solve in decimals.",00:37:29
+njcglku,329,student,Minus 2x.,00:37:32
+njcglku,330,tutor,So you write the sequence. [unclear],00:37:34
+njcglku,331,student,"Oh, uh.",00:37:37
+njcglku,332,tutor,"5, 10, 15, 4, 6, 9, 13, and then the [UNCLEAR].",00:37:37
+njcglku,333,student,Minus 17x.,00:37:37
+njcglku,334,tutor,"Yes, I got that answer.",00:37:53
+njcglku,335,tutor,"Okay, that was a beautiful way of getting the answer. Could you explain to me how you did that?",00:37:56
+njcglku,336,student,"I expanded the first two brackets, and then I got x² 3x 2x 6. And then from this answer, I turned everything into the third bracket, and then I got 2x³ 2x² 5x 12x 30. And then I simplified it, and I got this answer. Okay, so I would say you have",00:38:02
+njcglku,337,tutor,"followed the right track over there, okay? But there's a tiny error with the final answer that is there.",00:38:21
+njcglku,338,tutor,"Okay, so basically we'll move on to the support slide. You just did the method right, okay? The multiplication was correct. So we'll quickly check where we went wrong. So just like you said, we have to first expand the two brackets and simplify. So shall we try expanding this part, and can you fill these up with the values?",00:38:27
+njcglku,339,student,Okay. [unclear] [unclear],00:38:46
+njcglku,340,tutor,And then—,00:38:55
+njcglku,341,student,Minus 3x plus 2x.,00:39:02
+njcglku,342,tutor,Is 8.,00:39:06
+njcglku,343,student,Minus 6. So once you put it into a sentence—,00:39:07
+njcglku,344,tutor,Subtract the values. That's 3.5. And then that's—,00:39:10
+njcglku,345,tutor,"Oh, now I made it really hard to see with [UNCLEAR].",00:39:19
+njcglku,346,student,"That's okay, let that be left.",00:39:19
+njcglku,347,tutor,"Okay, and then 4 and 0.5.",00:39:26
+njcglku,348,student,Minus 6.,00:39:32
+njcglku,349,tutor,3 and then 5.,00:39:33
+njcglku,350,student,Minus 6. So what are we going to put on the columns over here as the column headings?,00:39:34
+njcglku,351,tutor,"Okay, so the difference I can see it's 0.5, so would b be 0.5?",00:39:41
+njcglku,352,tutor,Mm-hmm. x squared.,00:39:47
+njcglku,353,student,And so 3. [unclear],00:39:52
+njcglku,354,tutor,0.5m squared plus 0.5m plus 3. That was my challenge. I ate that challenge.,00:39:54
+njcglku,355,student,[unclear],00:40:18
+njcglku,356,tutor,2x times minus x.,00:40:18
+njcglku,357,student,"Oh, same.",00:40:21
+njcglku,358,tutor,Oh.,00:40:22
+njcglku,359,student,Minus 2x squared. Very good.,00:40:24
+njcglku,360,tutor,"And, uh...",00:40:26
+njcglku,361,student,Minus 12x.,00:40:38
+njcglku,362,tutor,Mm-hmm.,00:40:39
+njcglku,363,tutor,"Oh, I know what I done wrong, but anyway. [unclear]",00:40:42
+njcglku,364,student,"Okay, 5x².",00:40:54
+njcglku,365,tutor,What's ID?,00:40:55
+njcglku,366,student,-5x 30. So,00:40:59
+njcglku,367,tutor,"can you just simply tell me the final answer, and you don't need to type?",00:41:04
+njcglku,368,student,"Uh, 2x³.",00:41:08
+njcglku,369,tutor,Okay.,00:41:11
+njcglku,370,student,Plus 3x².,00:41:13
+njcglku,371,tutor,"3x², mm-hmm.",00:41:15
+njcglku,372,student,"Um, is it minus— minus 17x?",00:41:18
+njcglku,373,tutor,Very good.,00:41:24
+njcglku,374,student,Minus 30.,00:41:25
+njcglku,375,tutor,"Minus 30. So that's what I said. The method you followed was perfectly right, but there was a tiny, teeny, tiny error with this part. Okay.",00:41:27
+njcglku,376,student,Yeah.,00:41:34
+njcglku,377,tutor,"So if you had still, even if you wrote this answer, if you had 3 out of the 4 terms correct, you'll be getting 1 mark there. All right. And if you got 4 out of the 6 terms, expand it over here, 4 out of the 6 terms, if you expand it over here correct, you'll be getting another 1 mark there. And for the final answer, you'll be getting the last 1 mark. That's how the marks are broken down. Okay.",00:41:35
+njcglku,378,student,"Okay, yeah.",00:42:01
+njcglku,379,tutor,"So was it quite clear when using a multiplication grid like this, Haidar?",00:42:02
+njcglku,380,student,Yeah.,00:42:07
+njcglku,381,tutor,"It's quite convenient, isn't it?",00:42:08
+njcglku,382,student,Yep.,00:42:10
+njcglku,383,tutor,So that's it with this slide. So we don't have much time to move on to the next slide. So let's quickly wind up by doing a quick recap on what we did. So could you quickly recap everything that we did today?,00:42:11
+njcglku,384,student,"Okay, so we've done the product rule where we've done the match with the 30 matches and then— [unclear] The formula was n times n minus 1 divided by 2 to find the answer for teams that only played once or done one thing.",00:42:22
+njcglku,385,tutor,Mm-hmm.,00:42:39
+njcglku,386,student,And then we done the triple brackets after using the multiplication grid to find the answer.,00:42:41
+njcglku,387,tutor,"Yes, very well done. So previously, in the previous lesson, so when each team played twice with each other, each other, then how would we do that?",00:42:53
+njcglku,388,student,When a team played twice with each other?,00:43:02
+njcglku,389,tutor,Yeah.,00:43:05
+njcglku,390,student,N times N minus 1.,00:43:06
+njcglku,391,tutor,"Exactly. So if it's 30 matches, it's going to be 30 times 29. So when it is going to be 4 ones, you just divide it by 2 and check the answer. If it's twice, it's 30 times 29, so you divide it by 2 to get 4 ones. Okay, was that clear? Great. So we learned a new technique here by expanding the double brackets using Agreed. So do you think this method is exactly— actually helpful?",00:43:09
+njcglku,392,student,Yeah.,00:43:36
+njcglku,393,tutor,Mm-hmm. Could you tell me how it helped you?,00:43:38
+njcglku,394,student,Sorry?,00:43:42
+njcglku,395,tutor,Could you tell me how it helped you?,00:43:43
+njcglku,396,student,"How it helped me? Because it made me clearly see like the x squared— the— no, the x— yeah, the x squared, because I made a mistake on the x squared when I didn't do this way. So then I can clearly like add and subtract.",00:43:46
+njcglku,397,tutor,"Exactly. So this particular method is simply there to help you with mathematical errors. So you actually know the concept, but the error was made with a mathematical error there. Yeah?",00:43:58
+njcglku,398,student,Yeah.,00:44:07
+njcglku,399,tutor,Great. So amazing work. So we have a lot more to complete in this lesson. That's going to be really interesting as well. Make sure you join next time. All right?,00:44:08
+njcglku,400,student,"Okay, Miss.",00:44:16
+njcglku,401,tutor,Have a great day. See you soon. Bye-bye.,00:44:16
+njcglku,402,student,Bye. [unclear],00:44:19

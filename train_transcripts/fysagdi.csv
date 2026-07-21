@@ -1,0 +1,392 @@
+session_id,utterance_id,role,content,timestamp
+fysagdi,0,tutor,Hello?,00:00:00
+fysagdi,1,background,[unclear],00:00:00
+fysagdi,2,student,Hello?,00:00:01
+fysagdi,3,tutor,"Hi, Saju.",00:00:02
+fysagdi,4,background,"Hi, Kaelen.",00:00:03
+fysagdi,5,tutor,Hello.,00:00:05
+fysagdi,6,student,"Hi, Kaelen. Can you hear me clearly?",00:00:06
+fysagdi,7,tutor,"Okay, so welcome to Third Space, Kaelen. How are you?",00:00:10
+fysagdi,8,student,Good.,00:00:13
+fysagdi,9,tutor,Good? That's great. And how was your day?,00:00:14
+fysagdi,10,student,Good.,00:00:18
+fysagdi,11,tutor,"Good. Okay, tell me something interesting you did today.",00:00:19
+fysagdi,12,student,"No, not... [unclear]",00:00:22
+fysagdi,13,tutor,Huh?,00:00:25
+fysagdi,14,student,Not really.,00:00:26
+fysagdi,15,tutor,"Okay, any plans for the evening?",00:00:27
+fysagdi,16,student,"Yeah, might go on my bike.",00:00:30
+fysagdi,17,tutor,"Okay, great. Okay, so we are meeting for the very first time, so let me introduce myself first. I am Callister, and I will be your tutor from [UNCLEAR]. Okay?",00:00:33
+fysagdi,18,student,Okay.,00:00:33
+fysagdi,19,tutor,"Okay, so we will be working together on your SAT revision program, and it will help you to get ready for your exam. We will be doing a lot of SAT-sized questions which will give you confidence and fluency to give this paper. Kaelen, there is a lot of background noise. Is everything okay in your class? There is a lot of background noise. Yeah, okay. I hope you can hear me very clearly.",00:00:48
+fysagdi,20,student,Yeah.,00:01:22
+fysagdi,21,tutor,Okay. So we will be having sessions each week and these lessons are specially created to give you a lot of practice. [unclear],00:01:22
+fysagdi,22,tutor,"And here, in this, we will discuss some SAT style question. Before that, there will be a fluency part as well, which will prepare you for your arithmetic papers. Quick questions will be there to give you confidence and speed. Okay, there will be a— then we got some bunch of reasoning questions. [unclear] Lots of different type of questions will be there. If you are stuck somewhere, then we will go through this.",00:01:33
+fysagdi,23,tutor,Okay.,00:02:00
+fysagdi,24,student,Okay.,00:02:01
+fysagdi,25,tutor,"Then we'll move to some more another type of questions. Let us try another one to do some practice. Okay, so these are the things, and at last we will have a reading for challenge. There is a challenging [unclear] for you that you need to solve. And on the right-hand side, we have certain strategies like these. Which will help you to solve the questions like using rounding and adjusting. So these are certain hints which will be given to you for the questions. So when you are stuck with the question, you can take help of it. Okay?",00:02:03
+fysagdi,26,tutor,"Okay, wonderful. So Kaelen, let's start the session.",00:02:40
+fysagdi,27,student,Okay.,00:02:43
+fysagdi,28,tutor,"Okay, wonderful. So the topic of today's session is?",00:02:45
+fysagdi,29,background,"Adding a [UNCLEAR]. Addition and subtraction. We'll discuss the dab lifting fluency with addition and subtraction. So let's start with the first set, 5 questions. Okay, okay, just focus on the hints as well. This is a hint given. [unclear]",00:02:49
+fysagdi,30,tutor,"First one, what do you notice about the numbers you are adding? [unclear]",00:03:14
+fysagdi,31,tutor,How are you adding them?,00:03:22
+fysagdi,32,student,"Um, in my mind, 997 will be 17, then 999, 18, then 4.",00:03:24
+fysagdi,33,tutor,How are you adding them?,00:03:33
+fysagdi,34,student,"Um, in my mind, 997 will be 17, then 999, 18. 3 1, that'll be 4. So",00:03:39
+fysagdi,35,tutor,"you are doing the column-wise addition, right? Yeah.",00:03:50
+fysagdi,36,student,Instead,00:03:53
+fysagdi,37,tutor,"of column-wise addition, can you use this hint using rounding and adjusting? Can you use that hint to solve it? Is it possible? Yeah.",00:03:54
+fysagdi,38,background,"Okay,",00:04:07
+fysagdi,39,tutor,how you can add them without doing that column-wise addition?,00:04:07
+fysagdi,40,tutor,Any idea? [unclear],00:04:20
+fysagdi,41,student,Yeah.,00:04:26
+fysagdi,42,tutor,You didn't help?,00:04:29
+fysagdi,43,student,Yeah.,00:04:31
+fysagdi,44,tutor,You didn't help? Okay. Let's try this book. So this is our number that we need to add. So when numbers— can you read this?,00:04:32
+fysagdi,45,tutor,Mm-hmm.,00:04:45
+fysagdi,46,background,Just read it.,00:04:46
+fysagdi,47,tutor,"When numbers are close to multiple of 10, we can do rounding to adjust and adjust. [unclear]",00:04:47
+fysagdi,48,background,"That means when the numbers are close to multiple of 10, add it. See, be very careful. Carefully, just look at it. Do you know that addition is commutative? Do you know what does that commutative means?",00:04:56
+fysagdi,49,student,No.,00:05:19
+fysagdi,50,tutor,"Commutative means we can add the numbers in any order, but the result will remain same. If I add 199 with 398, I'll get the same answer if I add 398 with 199. Do you agree? [unclear]",00:05:20
+fysagdi,51,student,Yeah.,00:05:35
+fysagdi,52,tutor,So let's put the larger number first.,00:05:36
+fysagdi,53,tutor,"And then the second one. Okay, now instead of adding these two numbers column-wise, what I'm going to do here is that I will round up this 398. So to round up this 398, I can do— what? Okay, I'll do this round up of 199. So I'll make this number as 200. So 199 is the same as 200 minus 1. Do you agree? [unclear]",00:05:39
+fysagdi,54,student,"So 200 adds to that, that'll be 500 and something.",00:06:10
+fysagdi,55,tutor,"Yeah, yeah. So 199, how we can write 199 here? As 200 take away 1. Can we write that?",00:06:16
+fysagdi,56,student,Yep.,00:06:25
+fysagdi,57,tutor,"So can you write that? Use the tools, use the text tool to write your number.",00:06:25
+fysagdi,58,student,500 down there.,00:06:30
+fysagdi,59,tutor,"Text tool. Use the text tool, please. This is not clear to me. Use the text tool. Text. T-E-X-T. Text. Yeah, use that tool to write your answer. Okay. Okay, let me just— [unclear]",00:06:34
+fysagdi,60,tutor,What you are writing?,00:07:01
+fysagdi,61,student,500.,00:07:03
+fysagdi,62,tutor,Why 500?,00:07:04
+fysagdi,63,tutor,"Instead of 199, what can I write? Kaelen, just focus. Can we write 200 take away 1?",00:07:08
+fysagdi,64,student,Yeah.,00:07:18
+fysagdi,65,tutor,"And here, 1. Okay, so now how you will solve this?",00:07:23
+fysagdi,66,background,200 add the [unclear] 98.,00:07:28
+fysagdi,67,student,That is?,00:07:33
+fysagdi,68,tutor,That'll be 598 then.,00:07:34
+fysagdi,69,student,Very good. Then you'll take away 1 from it. So what you'll get?,00:07:37
+fysagdi,70,tutor,I'll get 400— 497.,00:07:43
+fysagdi,71,student,"598 take away 1, is it 497? [unclear]",00:07:51
+fysagdi,72,tutor,"Yes, very good. That is 597.",00:07:58
+fysagdi,73,tutor,"So I hope you understood that method. Okay, so will you try this one independently? How you will add it?",00:08:02
+fysagdi,74,student,"[unclear] 75, that will be 3,000. Then 2,000.",00:08:13
+fysagdi,75,tutor,"So we can write this as 2,000 take away?",00:08:21
+fysagdi,76,student,"2,000 take away 25.",00:08:25
+fysagdi,77,tutor,"Very good, that is take away 25. So here you can write this this as 2,000 plus 725, take away?",00:08:28
+fysagdi,78,student,Take away 25?,00:08:38
+fysagdi,79,tutor,Yes. How will you solve this now?,00:08:43
+fysagdi,80,background,"Okay, the headphones are not working.",00:08:46
+fysagdi,81,tutor,"We'll add these two numbers first, then we'll take away.",00:08:50
+fysagdi,82,student,25 is— [unclear],00:08:54
+fysagdi,83,student,"2,700.",00:09:01
+fysagdi,84,tutor,"2,700. Yes, that is the right answer. I hope you got something new today. You studied something new. Yeah, and you understood the concept. Is there any doubt here? You can ask me. Is there any doubt here?",00:09:02
+fysagdi,85,background,No.,00:09:20
+fysagdi,86,tutor,"No? Okay, so let's proceed.",00:09:21
+fysagdi,87,tutor,"Okay, let's do some more questions, and I want you to try this independently, okay?",00:09:25
+fysagdi,88,student,Okay.,00:09:30
+fysagdi,89,tutor,"Yeah, here it is. Okay, so how you will use the rounding and adjusting in these [UNCLEAR]? You can write the solution here. In symbols you will get that plus sign.",00:09:31
+fysagdi,90,tutor,Okay.,00:09:54
+fysagdi,91,background,Or in the text tool you will get that plus sign.,00:09:58
+fysagdi,92,tutor,"No, no, Kaelen, you are doing the column-wise addition. That is not what you need to do. Okay, I just told you about the rounding and adjusting method that you can use.",00:10:03
+fysagdi,93,background,"So, if the teacher is with you.",00:10:12
+fysagdi,94,student,Where's the plus sign?,00:10:17
+fysagdi,95,tutor,"In text tool, you will find the plus sign.",00:10:20
+fysagdi,96,background,"Yeah, on symbol. [unclear]",00:10:22
+fysagdi,97,tutor,You will find that plus sign. [unclear],00:10:26
+fysagdi,98,tutor,"Okay, so is it comfortable with you? Like, you can hear from the laptop?",00:10:45
+fysagdi,99,background,How you'll use the rounding and adjusting here? [unclear],00:10:50
+fysagdi,100,tutor,Can we just round this number 599 to something?,00:10:56
+fysagdi,101,background,600.,00:11:06
+fysagdi,102,tutor,Very good. 600 what?,00:11:08
+fysagdi,103,background,600 and...,00:11:10
+fysagdi,104,student,591.,00:11:12
+fysagdi,105,tutor,99.,00:11:15
+fysagdi,106,student,We need to write 599 in the form of 600-something. How will you write that? [unclear],00:11:17
+fysagdi,107,tutor,600.,00:11:24
+fysagdi,108,student,600.,00:11:26
+fysagdi,109,tutor,600.,00:11:28
+fysagdi,110,student,Take away 1.,00:11:29
+fysagdi,111,tutor,Very good. Then? Plus?,00:11:32
+fysagdi,112,student,Plus 50. 551.,00:11:38
+fysagdi,113,tutor,"Okay, so what you'll get? [unclear]",00:11:42
+fysagdi,114,tutor,"First, you can add big numbers. Yeah.",00:11:51
+fysagdi,115,student,900.,00:11:54
+fysagdi,116,tutor,Sorry. [unclear],00:11:56
+fysagdi,117,tutor,"600 plus 551, or you can just take away 1 and 1 as these cancel out. So 600, add 550, how much?",00:11:57
+fysagdi,118,tutor,"Okay. And after doing this together, we can do one another question.",00:12:09
+fysagdi,119,student,"600 add— that'll be 4,151. 1,151.",00:12:13
+fysagdi,120,tutor,"1,151, and we need to take away 1 from it, so?",00:12:20
+fysagdi,121,student,"So 1,050.",00:12:26
+fysagdi,122,tutor,"1,150. Yes, this is our answer. Yes, great. So this is of 1 mark. I hope you understood how we adjusted and round that number. Now I'm requesting you just try to focus on this now. How you will solve the second calculation? [unclear]",00:12:28
+fysagdi,123,student,"Just write it. [Speaker] 7,000 and 13,200.",00:12:50
+fysagdi,124,tutor,So how can you write that? What's coming up in your mind? Just write it. [unclear],00:13:05
+fysagdi,125,student,and bring your arrow in.,00:13:05
+fysagdi,126,tutor,"But this will be 10,000 and this is this number. We need to round this. This will give you— okay, okay. This is 10,000.",00:13:05
+fysagdi,127,tutor,So how will you write this number here?,00:13:36
+fysagdi,128,student,"Okay, so would you like to catch me? [unclear]",00:13:38
+fysagdi,129,tutor,Which would be— which would equal to 13200.,00:13:43
+fysagdi,130,tutor,"Excellent, that is a good job. Very well done. I hope, Kaelen, you understood the concept now. Yes?",00:14:00
+fysagdi,131,student,Yep.,00:14:09
+fysagdi,132,tutor,"As you did it completely on your own. Very good. Well done. So we are done with one set style question. Before moving to another one, can you summarize what we had discussed in this set style question? [unclear]",00:14:09
+fysagdi,133,tutor,"Yeah, I want you to summarize orally, yeah, what we had discussed in this set of 5 questions. [unclear]",00:14:33
+fysagdi,134,student,This one?,00:14:42
+fysagdi,135,tutor,"This one. In that whole question, like in this, this, what we had actually discussed, like what thing we need to keep in mind to solve such problems, that you need to explain it to me.",00:14:45
+fysagdi,136,tutor,"Yeah, okay.",00:14:59
+fysagdi,137,student,"Can you explain, please?",00:15:00
+fysagdi,138,tutor,"Yeah, in this one, 600 take away 1, that'll be 559 and 99. Then add 551, that would be— that would— 1 onto the other one, the 9, that'll be 10. Then [unclear]",00:15:04
+fysagdi,139,student,"It's going up, then you got 150 remaining, so that'll be 1,050— 150.",00:15:27
+fysagdi,140,tutor,"Okay, actually I was asking you in the theory of what we are discussing, you can say like that, in these questions we had discussed about rounding and adjusting. So instead of adding these numbers directly like column-wise addition, we use the rounding and adjusting method.",00:15:36
+fysagdi,141,tutor,"Yeah, you need to explain it to us like that. Okay, then—",00:15:56
+fysagdi,142,student,599.,00:15:59
+fysagdi,143,tutor,"Not this particular question, right? You can explain any question of your choice.",00:16:01
+fysagdi,144,student,"Okay, 599 round to 600, and I— so 551, then take away 1, that's your answer.",00:16:06
+fysagdi,145,tutor,Might we take away 1 from it?,00:16:18
+fysagdi,146,student,"So we can, uh, because if take away 1, that will be 599.",00:16:21
+fysagdi,147,tutor,"Very good. That's why. Okay. Yes. Kaelen, let's do some more, uh, some side question. Okay, let's discuss the difference. Okay, here we will do some difference. Okay, so can you read that? And what is the hint given here?",00:16:25
+fysagdi,148,student,Use a counting on to find the difference.,00:16:47
+fysagdi,149,tutor,"See, no difference. Taking difference, we can use that counting on. Yeah. What do you notice about these two numbers in the calculator?",00:16:51
+fysagdi,150,student,"That one's near 1,000 but it's not exactly. And 6 add 3, that'll be 9. So the answer would be 1,999.",00:17:03
+fysagdi,151,tutor,But what is the symbol here?,00:17:18
+fysagdi,152,student,"Take away, or [UNCLEAR].",00:17:21
+fysagdi,153,tutor,"Yeah, so? If you notice about these two numbers, what is— what you are observing?",00:17:21
+fysagdi,154,student,"3 take away 6, that'll be 3 on the end.",00:17:29
+fysagdi,155,tutor,You need not do that column-wise difference again. Just focus on this hand. [unclear] So what you can observe here now?,00:17:34
+fysagdi,156,student,"1,003.",00:17:50
+fysagdi,157,tutor,So they are quite close to one another. What do you think?,00:17:55
+fysagdi,158,student,They are close. So I reckon we should round 996 to 1000. [unclear] I am confusing myself.,00:18:00
+fysagdi,159,tutor,"Don't get confused, Kaelen. I am here to help you out. Would you like my help? Let's do it together. Do you want it?",00:18:11
+fysagdi,160,student,Yeah.,00:18:19
+fysagdi,161,tutor,"Okay, so if you look at these two numbers, we can think of subtraction as finding the difference, right? But...numbers are close to one another, it can be— you need to read it, okay? I'm reading it.",00:18:19
+fysagdi,162,student,"Okay. When numbers are close to one another, it can be quicker to count on to find the difference than taking away.",00:18:33
+fysagdi,163,tutor,"Yeah, so what do you understand here by these two lines?",00:18:45
+fysagdi,164,student,"Adding up, adding up, then taking away is quicker.",00:18:48
+fysagdi,165,tutor,"It means that when two numbers are quite close to one another, we can use that countdown. We can just count the difference between them instead of taking that proper column-wise difference. Now just look, okay, just focus. These are the numbers. If we count on from the smaller number, like if I start counting from 996 towards this number, so 996, what number do I need to add it to get this number? So 996 997, 998, 999, then we have 1000. So 4 to get 1000 and 3 to get 1003. What you'll get? [unclear]",00:18:54
+fysagdi,166,tutor,Yes. So how many do you need to add to reach 1003? That is?,00:19:37
+fysagdi,167,student,7.,00:19:42
+fysagdi,168,tutor,So how can we get the answer by counting? Just say.,00:19:43
+fysagdi,169,background,So the answer would be 7.,00:19:47
+fysagdi,170,tutor,Yeah. Now just look at the second one question. Look at that. [unclear],00:19:50
+fysagdi,171,tutor,"Keep rewriting that answer, that 7. Yeah, and you can use that point tool to show the pointer like mine. Point tool to show the numbers like mine.",00:19:56
+fysagdi,172,student,Point? Yeah.,00:20:11
+fysagdi,173,tutor,"Yeah, this one. Okay, now how you solve this?",00:20:11
+fysagdi,174,student,212 take away 108.,00:20:18
+fysagdi,175,tutor,Are they close? What do you think?,00:20:22
+fysagdi,176,student,No. [unclear] 14. There's a difference. So we got that 14.,00:20:26
+fysagdi,177,tutor,"Okay, great. And how you got that 14?",00:20:38
+fysagdi,178,student,"From 14, so we can add 12 as that. That'll be [unclear]",00:20:41
+fysagdi,179,student,210. [Speaker] Then add on— add on— would it be 24?,00:20:53
+fysagdi,180,tutor,"Your earlier answer is absolutely correct. Just focus, please. See, this is 198. [Speaker] Yeah.",00:21:04
+fysagdi,181,tutor,"This is 212. So if you start counting from 198 to 212, if I add 2 to it,",00:21:12
+fysagdi,182,tutor,It will be 200?,00:21:20
+fysagdi,183,background,14.,00:21:21
+fysagdi,184,tutor,14.,00:21:23
+fysagdi,185,background,[unclear],00:21:24
+fysagdi,186,tutor,"Yes, so the answer is 14.",00:21:24
+fysagdi,187,background,14.,00:21:29
+fysagdi,188,tutor,"Yeah, have you understood the concept?",00:21:30
+fysagdi,189,background,Yeah.,00:21:32
+fysagdi,190,tutor,Any other doubt?,00:21:33
+fysagdi,191,background,No.,00:21:36
+fysagdi,192,tutor,So would you like to try similar type of question on your own?,00:21:36
+fysagdi,193,background,14.,00:21:39
+fysagdi,194,tutor,"Yeah, 14 is correct. Yeah, that is correct. Okay, let's do some more question.",00:21:40
+fysagdi,195,background,Yeah.,00:21:47
+fysagdi,196,tutor,"I want you to try that independently, okay? [unclear]",00:21:48
+fysagdi,197,student,13 onto that one. 13 on that. So that would be 13.,00:21:57
+fysagdi,198,tutor,"Once again, please.",00:22:08
+fysagdi,199,student,"Check once again, please.",00:22:11
+fysagdi,200,tutor,Okay.,00:22:14
+fysagdi,201,student,"3 like that. No, 2. It would be 12.",00:22:15
+fysagdi,202,tutor,That will be?,00:22:21
+fysagdi,203,background,12.,00:22:23
+fysagdi,204,tutor,12. Okay. And in the second one?,00:22:24
+fysagdi,205,background,It would be— [unclear],00:22:30
+fysagdi,206,tutor,"Faseen, could you explain how you got that 13?",00:22:36
+fysagdi,207,background,"Because 5— That will be 10, then this number will become 18, then this number will come 2008. [unclear]",00:22:47
+fysagdi,208,tutor,"Your answer is correct, but I want explanation.",00:23:06
+fysagdi,209,student,"Okay, 5 add 5, that will be 10, and add 8, that'll be 18. So that's how I got it.",00:23:13
+fysagdi,210,tutor,"This is 1,995. If you add 5 to it, how much it will become?",00:23:26
+fysagdi,211,student,"2,000.",00:23:31
+fysagdi,212,tutor,"So what else we need to add to get 2,000? [unclear]",00:23:33
+fysagdi,213,student,That is 8.,00:23:39
+fysagdi,214,tutor,"So earlier we added 5, then we added 8. So total addition is of?",00:23:42
+fysagdi,215,student,13.,00:23:46
+fysagdi,216,tutor,"13. So that is the total difference. You can write your answer here, please. [unclear] Yeah? I hope you understood the concept of this set style question.",00:23:47
+fysagdi,217,student,Yeah.,00:24:06
+fysagdi,218,tutor,"Yes? So again, I am requesting you, can you summarize me what we had discussed in this complete set style question?",00:24:06
+fysagdi,219,tutor,Yeah.,00:24:16
+fysagdi,220,student,"So 5 and 5, that'll be 2,000 on that one. And 2,000, but add 3, then add another 5, add 3, that'll be our answer for him. [unclear]",00:24:17
+fysagdi,221,tutor,"Okay, okay. Yeah, and you can also say it like that. Instead of taking proper difference between the two numbers, like column-wise difference, we are using the counting on method, right? And in which case we use the counting on method? When the numbers are quite close to one another. Just look at here, the difference is quite close, right? So we are using counting on method. Okay, that we are discussing in this whole set style question. [unclear]",00:24:37
+fysagdi,222,student,Yeah.,00:25:06
+fysagdi,223,tutor,"Okay, yeah, great, Kaelen. So let's move to another set style. Are you ready?",00:25:08
+fysagdi,224,student,Yeah.,00:25:15
+fysagdi,225,tutor,"Okay, now here, did you see that hint?",00:25:17
+fysagdi,226,student,"Yeah, use the inverse.",00:25:21
+fysagdi,227,tutor,Do you know what that inverse is? How do you use that inverse to solve these?,00:25:25
+fysagdi,228,student,"If we take, wait, 4 and 5, [unclear] 405 take away 10, that will get us 395. So we've got that in the middle.",00:25:33
+fysagdi,229,tutor,"Wow, yes, and that is what the inverse is. You're absolutely correct. Great. Can you write your answer, please?",00:25:48
+fysagdi,230,student,Yep. [unclear],00:25:56
+fysagdi,231,tutor,"Hmm, yeah, very good. You got one mark for this. What about the second one?",00:26:05
+fysagdi,232,student,"600 and, uh, that is 262, take away 30, 329. That'll get us our answer.",00:26:12
+fysagdi,233,tutor,Why take away? [unclear],00:26:26
+fysagdi,234,tutor,That'll be 400 and up.,00:26:28
+fysagdi,235,background,"Just focus, Kaelen, and tell me in clear way, please. What you're doing here? What you're gonna do here?",00:26:36
+fysagdi,236,student,400.,00:26:45
+fysagdi,237,background,"That's so good, please.",00:26:46
+fysagdi,238,tutor,Are you going to add them or subtract them? Just tell me for that.,00:26:47
+fysagdi,239,background,"Subtract. You're going to subtract, and can you explain how— why you are getting it subtracted?",00:26:52
+fysagdi,240,student,"So then subtract that one, then we got 328. So if we add them first, then that'll be our answer for that, so we can get the answer.",00:27:00
+fysagdi,241,tutor,"Okay, means to get this answer, what we need to do?",00:27:14
+fysagdi,242,student,The answer is 590.,00:27:19
+fysagdi,243,tutor,"590, and how you got that?",00:27:22
+fysagdi,244,student,"Because 8 added to 2, that'll be 10. Then 6 added to 2, that'll be 8. Then add 10 from earlier, that'll be— then there'll be 90. Then 300 and 200 would be 500.",00:27:24
+fysagdi,245,tutor,"That is 590. So in the inverse, we need here to add these two numbers to get the answer. Yeah, great, good job, Kaelen. Very well done. Are you happy with your performance?",00:27:39
+fysagdi,246,tutor,"Yes? Okay, so here, can you summarize me about the inverse concept?",00:27:57
+fysagdi,247,student,Inverse is like how you take away the number from the answer.,00:28:05
+fysagdi,248,tutor,"Okay, [UNCLEAR]. Okay, anything else? Anything else you want to say?",00:28:13
+fysagdi,249,tutor,"Inverse case, you can explain it to me like that, that if we need any answer, the something written with it will take to that another side. If it is plus, if it is in positive sign, to the other side it will get negative. So that's why I'm taking away 10 from [UNCLEAR]. Okay, so here I need this answer, but here this number is in takeaway position, so I'll take this number to to the right side, so it will change from negative to positive. That is addition. So that's why we are adding these two numbers. That is the inverse concept. Sign get inverse when shifting to another side. Okay. [unclear]",00:28:22
+fysagdi,250,tutor,"Yeah, great. Okay, so we are done with all the 3 sets sign question of this lesson. Now there is a challenging question for you, and I want you to try this on your own.",00:29:04
+fysagdi,251,tutor,Are you ready?,00:29:15
+fysagdi,252,student,Yep.,00:29:17
+fysagdi,253,tutor,"Okay, wonderful. Here it is. Can you read the number first, please?",00:29:18
+fysagdi,254,student,"Yeah. [unclear] 8 million and 41,020.",00:29:23
+fysagdi,255,tutor,Okay. So now we are getting the input. Could you use the inverse to solve this?,00:29:32
+fysagdi,256,student,"41,000.",00:29:39
+fysagdi,257,student,"That'll be our answer because we can see that doesn't have 41,000.",00:29:42
+fysagdi,258,tutor,"Hmm, that's really big. It has 20. Does it have 20?",00:29:48
+fysagdi,259,student,"That one has 20, so plus 20 onto that.",00:29:54
+fysagdi,260,tutor,"Okay, yes, very well done. You have observed the things very carefully and very good. Yes, 41,000 is the right answer.",00:29:59
+fysagdi,261,tutor,"You did it very quickly. Good job, Kaelen. Okay, so as a— here, if I ask you to show the math, can you do that?",00:30:11
+fysagdi,262,student,"[unclear] 20 out of 41,000 would be 41,000 [unclear]",00:30:28
+fysagdi,263,tutor,"Okay, okay, great, great. Okay, so Kaelen, now we are done with this lesson. We move to another lesson. So can you quickly summarize the whole set style, this complete lesson, that what we had discussed in the whole lesson?",00:30:36
+fysagdi,264,student,Yeah.,00:30:58
+fysagdi,265,tutor,"First, we discussed about what?",00:31:00
+fysagdi,266,student,The inverse is...,00:31:03
+fysagdi,267,tutor,"No, the first one we had discussed about.",00:31:04
+fysagdi,268,student,"This one is like rounding upwards to the same number, then adding them together.",00:31:08
+fysagdi,269,tutor,"Adjusting, yeah. Yeah, and in the next one where we were taking difference, we were using what?",00:31:17
+fysagdi,270,student,Counting on to [unclear],00:31:25
+fysagdi,271,student,[unclear],00:31:32
+fysagdi,272,tutor,Counting on is used in which case?,00:31:32
+fysagdi,273,student,On this one.,00:31:37
+fysagdi,274,tutor,In which case? The number should be what? What kind of number should—,00:31:38
+fysagdi,275,student,Then 4 adds— [unclear],00:31:42
+fysagdi,276,tutor,"Yes, and when the numbers are quite close, we use the counting on math.",00:31:46
+fysagdi,277,tutor,"Yeah, and at last we had discussed about?",00:31:56
+fysagdi,278,student,The inverse. The inverse is 10 [unclear] 405.,00:32:03
+fysagdi,279,tutor,"Okay, then you got your answer?",00:32:09
+fysagdi,280,student,Yes.,00:32:15
+fysagdi,281,tutor,"Yes, okay, great. So let's move to another lesson, Kaelen. Are you ready as we are done with it? Yeah?",00:32:15
+fysagdi,282,tutor,"Okay, wonderful. So let's proceed to another one. [unclear]",00:32:26
+fysagdi,283,background,"Okay, here we are, another lesson. Let's think what we're going to start.",00:32:30
+fysagdi,284,student,It's quite easy.,00:32:43
+fysagdi,285,background,"Yeah, the same similar kind, but here it's reasoning with addition and subtraction.",00:32:46
+fysagdi,286,tutor,"Yeah, okay, and I'm hoping that you will be able to solve all the questions very quickly. Okay, here it is. Let's start with the fluency slides. So in the first question, if I ask you what columns are going to change when you add these two numbers?",00:32:52
+fysagdi,287,student,[unclear],00:33:08
+fysagdi,288,tutor,So what columns changed?,00:33:21
+fysagdi,289,student,The tens and ones.,00:33:24
+fysagdi,290,tutor,"Tens and ones column got changed. Okay, wonderful. Okay, what about the second question? How could you use the inverse to help you solve this?",00:33:26
+fysagdi,291,background,So if you [unclear] 10 to the power of 106. [unclear],00:33:38
+fysagdi,292,tutor,"Okay, yes, great, good job. What about the last one?",00:33:51
+fysagdi,293,student,"The last one, 7 take away 4, that'll be 3.",00:33:57
+fysagdi,294,tutor,"If I ask you, don't do that column-wise difference. Just now we had discussed in the previous lesson, what we had discussed?",00:34:03
+fysagdi,295,tutor,Just look at the numbers. Are they close?,00:34:10
+fysagdi,296,student,"Yeah, so 3 at— I'll be 700 at 4, that'll be 7 for our answer.",00:34:16
+fysagdi,297,background,The answer is?,00:34:25
+fysagdi,298,student,7.,00:34:27
+fysagdi,299,background,"The answer is 7. Very good. Write it. Great, very well done with the fluency part. Now we'll start with the spelling part. [unclear]",00:34:28
+fysagdi,300,tutor,"Okay, let's do this first. Can you read the question carefully from the top?",00:34:39
+fysagdi,301,student,The picture shows the volume of each drinking container. What is the difference in the volume between the largest and the smallest drink?,00:34:46
+fysagdi,302,tutor,"Okay, so can you mark that smallest volume and largest volume from all these?",00:35:01
+fysagdi,303,student,That one.,00:35:07
+fysagdi,304,tutor,"Yes, that is what?",00:35:08
+fysagdi,305,student,236 ml.,00:35:11
+fysagdi,306,tutor,Is it the smallest?,00:35:16
+fysagdi,307,student,That one's the smallest.,00:35:18
+fysagdi,308,tutor,Can you mark it? Use the tools to mark it.,00:35:20
+fysagdi,309,student,Tools.,00:35:25
+fysagdi,310,tutor,Use draw tool.,00:35:25
+fysagdi,311,student,Draw tool.,00:35:30
+fysagdi,312,tutor,"Draw tool. Yeah, this is the smallest in volume. Which is the largest in volume? The largest is [UNCLEAR].",00:35:32
+fysagdi,313,tutor,"Okay, okay. Now what is asked in the question? Now you can use the text tool. Now what is asked in the question?",00:35:32
+fysagdi,314,student,Text tool. What is the difference between the smallest and the largest?,00:35:53
+fysagdi,315,tutor,Hmm. So?,00:36:00
+fysagdi,316,tutor,Can you write the calculation that is needed over here? [unclear] Can you write it? [unclear],00:36:03
+fysagdi,317,student,"Okay, great. So if you are having any number, okay, so what you need to do, whatever the number is in the outer equal to sign, you need to take it out.",00:36:14
+fysagdi,318,tutor,"Okay, can you explain how you write that? [unclear] What is asked in the question? What is asked in the question, Kaelen?",00:36:28
+fysagdi,319,student,What is the difference between largest and smallest?,00:36:44
+fysagdi,320,background,What you are doing?,00:36:50
+fysagdi,321,student,They have... Do we need to add them? [unclear],00:36:51
+fysagdi,322,tutor,Then—,00:36:58
+fysagdi,323,student,I don't know.,00:36:59
+fysagdi,324,tutor,"Okay, let's do it together then. You don't have to worry. Yeah? Do you want help?",00:37:01
+fysagdi,325,student,Yeah.,00:37:09
+fysagdi,326,tutor,"Okay, it's okay. So you observe that this is the smallest and you observe that this is the largest involved.",00:37:11
+fysagdi,327,student,Yeah.,00:37:19
+fysagdi,328,tutor,"Now, what is asked? What is the difference? What is difference? So the largest is 854, the smallest volume is 236 milliliters. The difference is— we can find the difference by subtracting the smallest amount from the largest one. So can you solve it over here?",00:37:20
+fysagdi,329,student,Yep. What would be— [unclear] [unclear],00:37:48
+fysagdi,330,tutor,"Okay, counting. [unclear]",00:38:00
+fysagdi,331,student,And one last one is? [unclear],00:38:09
+fysagdi,332,tutor,"So, 6 4, that'll be 10. So",00:38:21
+fysagdi,333,student,we learn to do strategy. That'll,00:38:29
+fysagdi,334,tutor,be 10. We,00:38:32
+fysagdi,335,background,"need to add them. Uh,",00:38:33
+fysagdi,336,tutor,"no, so correct. Then",00:38:35
+fysagdi,337,background,how will you count it? Can't,00:38:37
+fysagdi,338,tutor,"do that, so just take away 1 on the 5.",00:38:40
+fysagdi,339,student,"So then that'll be 4, and that'll be 14. 14 take away 6, that'll be 8. And 4 take away 4, that'll be—",00:38:44
+fysagdi,340,tutor,Just write that 8 so that you won't get confused.,00:38:55
+fysagdi,341,student,8. That— I'll break the 4. So there's nothing left.,00:38:58
+fysagdi,342,student,"4 take away 3, that'll be 1. Then that'll be 6. So 618 milliliters.",00:39:09
+fysagdi,343,tutor,"618 milliliters. So you can write your answer here. [unclear] So earlier, what you were doing wrong You were adding them, but the question is asking for difference. So you need to take the difference. Okay? Just a little bit more focus, Kaelen. Okay? Let's try to do the similar kind of one more set style question. You can just try it on your own, please. Okay? Can you read that, please?",00:39:23
+fysagdi,344,student,The table shows the top 5 computer games players and their score.,00:39:54
+fysagdi,345,tutor,"Troy, 4,974. [unclear] 4,569. [unclear] Hale, 5,153. [unclear] 5,468. George, 3,250. 51. What's the difference between Leila and Tiffin's scores?",00:40:01
+fysagdi,346,tutor,So what calculation do you need to do?,00:40:34
+fysagdi,347,student,Take away.,00:40:37
+fysagdi,348,tutor,Which two numbers you'll take the difference?,00:40:40
+fysagdi,349,student,They are... [unclear] They are 414 away. From each other. So now we need the answer. [unclear],00:40:46
+fysagdi,350,tutor,Can you write the calculation please first?,00:41:00
+fysagdi,351,student,"Uh, yeah. [unclear]",00:41:05
+fysagdi,352,tutor,Write your number you have taken. Take away.,00:41:07
+fysagdi,353,tutor,That is Troy's scores.,00:41:21
+fysagdi,354,student,Yeah.,00:41:23
+fysagdi,355,tutor,But what is asked in the question?,00:41:24
+fysagdi,356,student,"What's the difference between Leila and Tiffany's score? So I'm just— 4,560. [unclear]",00:41:27
+fysagdi,357,tutor,What is Leila's score?,00:41:36
+fysagdi,358,student,"Leila's is 4,560.",00:41:38
+fysagdi,359,tutor,What is Tiffany's score? [unclear],00:41:44
+fysagdi,360,tutor,"Oh, awful sentence.",00:41:46
+fysagdi,361,student,"5, 17, 4, 6, 8, take away... [unclear]",00:41:58
+fysagdi,362,student,Answer would be 1... 18.,00:42:18
+fysagdi,363,tutor,You can use the column by [unclear] properly. How you got that 18? Just check your answer.,00:42:27
+fysagdi,364,student,Because it's 18... 100 and 18. [unclear],00:42:33
+fysagdi,365,tutor,"Okay, so keep on changing your answer, then how you'll get the marks? Just focus and check your answer. Do the proper column-wise difference. [unclear]",00:42:52
+fysagdi,366,student,"1,000.",00:43:02
+fysagdi,367,tutor,Write the proper column-wise difference.,00:43:04
+fysagdi,368,tutor,"Can you write the numbers in the column-wise form and try to solve that? Okay, I'm writing it for you. [unclear] [unclear]",00:43:09
+fysagdi,369,tutor,That would be 8. That would be 12. [unclear],00:43:35
+fysagdi,370,student,By 12? [unclear],00:43:48
+fysagdi,371,tutor,"12, yeah. [unclear]",00:43:53
+fysagdi,372,student,How you got 12?,00:43:55
+fysagdi,373,tutor,Because 6 6 is 12. Are,00:43:59
+fysagdi,374,student,"we adding them? Are we adding them? No,",00:44:02
+fysagdi,375,tutor,"takeaway. Focus, Kaelen. [unclear]",00:44:05
+fysagdi,376,student,"It's not, then we take away 5. So then we got 14 take away 5, that'll be 9. [unclear]",00:44:26
+fysagdi,377,tutor,So the answer is?,00:44:43
+fysagdi,378,student,908.,00:44:47
+fysagdi,379,tutor,"Yes, the final answer is?",00:44:49
+fysagdi,380,tutor,So I hope you understood the concept now.,00:44:52
+fysagdi,381,student,Yeah.,00:44:55
+fysagdi,382,tutor,"Yes? Okay, great. Good job, Kaelen. So we are done of today's session as the time is over. So in this lesson, what we had discussed till now?",00:44:56
+fysagdi,383,background,[UNCLEAR].. By observing the numbers. We had solved a problem by finding the difference.,00:44:56
+fysagdi,384,student,Yeah.,00:45:25
+fysagdi,385,tutor,"Yeah. And you need to observe the things very carefully, what numbers difference is asked.",00:45:26
+fysagdi,386,background,Okay.,00:45:32
+fysagdi,387,tutor,"Okay. And please focus with while taking the differences. I hope you had a great time, Kaelen, with me today.",00:45:33
+fysagdi,388,student,Yeah.,00:45:41
+fysagdi,389,tutor,"Yeah. Okay. So let's meet in the next class. Till then, bye-bye. Take care and all the very best.",00:45:41
+fysagdi,390,tutor,"Bye, Kaelen. [unclear]",00:45:48

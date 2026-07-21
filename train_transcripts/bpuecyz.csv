@@ -1,0 +1,260 @@
+session_id,utterance_id,role,content,timestamp
+bpuecyz,0,tutor,Hello? [unclear],00:00:00
+bpuecyz,1,tutor,Hello?,00:00:04
+bpuecyz,2,tutor,Hello?,00:00:08
+bpuecyz,3,tutor,"Hello, Tobias. Hello. Hello, Tobias, can you hear me? Hello, Tobias, can you hear me? [unclear]",00:00:15
+bpuecyz,4,tutor,"I can't hear you, Tobias. [unclear] [unclear]",00:00:48
+bpuecyz,5,tutor,Hello?,00:01:27
+bpuecyz,6,student,Hello?,00:01:30
+bpuecyz,7,tutor,"Tobias, I can hear you now.",00:01:30
+bpuecyz,8,tutor,"Okay, hello.",00:01:32
+bpuecyz,9,background,"Hello, how are you today?",00:01:35
+bpuecyz,10,tutor,Good.,00:01:37
+bpuecyz,11,background,"How was the school today, Tobias?",00:01:38
+bpuecyz,12,tutor,Good.,00:01:43
+bpuecyz,13,background,All right. So how was the weekend?,00:01:46
+bpuecyz,14,tutor,Good.,00:01:51
+bpuecyz,15,background,"All right. Okay, Tobias, today we are with the second session with Tutor Provider. And we have this lesson, and we should start with the Let's Learn slide. Shall we read the green colour part, Tobias?",00:01:54
+bpuecyz,16,student,"When rounding numbers, we can use a number line to help us work out which number is it closest to.",00:02:13
+bpuecyz,17,tutor,"Alright, what do you understand from that?",00:02:21
+bpuecyz,18,student,[unclear] So if the number is,00:02:23
+bpuecyz,19,student,"56,800. It's closer to 57,000.",00:02:31
+bpuecyz,20,tutor,"Awesome. Great, great explanation. Yes, so we are going to round numbers, right? Here we have a number. Have you read that number, Tobias?",00:02:36
+bpuecyz,21,student,"56,163.",00:02:48
+bpuecyz,22,tutor,"Amazing. Now we are going to round this number. To the nearest thousand and to the nearest ten thousand. Okay? So here we have two number lines to help, right? So what can you see in the first number line?",00:02:51
+bpuecyz,23,student,[unclear],00:03:13
+bpuecyz,24,tutor,"Yes, exactly. So this number line has a gap of 100,000, the halfway point is 56,500. So can you spot this number on the first number line?",00:03:16
+bpuecyz,25,student,"Well, it could go... [unclear]",00:03:31
+bpuecyz,26,tutor,Right there?,00:03:41
+bpuecyz,27,tutor,"Awesome. Great, great estimation there, Tobias. So if this number is over here, if you round it to the nearest thousand, what would be our answer, Tobias?",00:03:49
+bpuecyz,28,student,[unclear],00:04:00
+bpuecyz,29,tutor,"Yeah. If you round it to the nearest thousand, what would be the answer?",00:04:01
+bpuecyz,30,student,"Oh, 56,000.",00:04:08
+bpuecyz,31,tutor,"Why is it 56,000?",00:04:14
+bpuecyz,32,student,"Because it's below 56,500.",00:04:16
+bpuecyz,33,tutor,"Yes, exactly. So what is the column we are looking at when we are rounding a number to the nearest thousand?",00:04:20
+bpuecyz,34,student,"The— well, in this one we would be looking at the thousandth column. [unclear]",00:04:29
+bpuecyz,35,tutor,"Yeah, we should look at the digits in the hundredths place.",00:04:44
+bpuecyz,36,student,Okay.,00:04:51
+bpuecyz,37,background,"Oh yeah, you have to look at the hundredths.",00:04:53
+bpuecyz,38,tutor,So what is the digit in the hundredths column?,00:04:57
+bpuecyz,39,background,A hundred.,00:05:00
+bpuecyz,40,tutor,"What is the digit in the hundredths column, Tobias?",00:05:01
+bpuecyz,41,student,One?,00:05:04
+bpuecyz,42,background,One.,00:05:05
+bpuecyz,43,tutor,"1. So 1 is less than 5, isn't it? So we should round it down. So the answer should be 56,000. Okay. Yeah. So next we are going to round it to the nearest 10,000. So this number line starts from 50,000 and ends with 60,000. And where can you spot this number on the second number line, Tobias?",00:05:08
+bpuecyz,44,student,Would you have to use the thousandth [UNCLEAR]? In this one or—,00:05:32
+bpuecyz,45,tutor,Yes. What do you think? Where can it be? [unclear],00:05:39
+bpuecyz,46,student,"On the— wait, pardon, what was that?",00:05:48
+bpuecyz,47,tutor,Can you spot this number on the second number line?,00:05:52
+bpuecyz,48,student,"Yeah, so—",00:05:57
+bpuecyz,49,tutor,There or there. [unclear],00:06:02
+bpuecyz,50,student,I'm good.,00:06:06
+bpuecyz,51,tutor,Awesome. How did you find that place?,00:06:08
+bpuecyz,52,student,"Because I knew it was 1,000, like 1,000 more than 55,000, and then 100 was about there, so.",00:06:10
+bpuecyz,53,tutor,"Awesome. Fantastic. Fantastic estimation there, Tobias. Now, if that number is here, If you round it to the nearest thousand, 10,000, what should be your answer?",00:06:22
+bpuecyz,54,student,"60,000.",00:06:35
+bpuecyz,55,tutor,"60,000. May I know the reason, Tobias?",00:06:38
+bpuecyz,56,student,"Because it's above 55,000.",00:06:42
+bpuecyz,57,tutor,"Yes, it's more than the halfway. Great, great explanation there. And if we are rounding this number to the nearest 10,000, which column are we looking at, Tobias?",00:06:46
+bpuecyz,58,student,"Um, the thousandths column.",00:06:59
+bpuecyz,59,tutor,"Thousandths column, great job. So here we have 6, so are we rounding up or down?",00:07:02
+bpuecyz,60,background,Thousandths.,00:07:10
+bpuecyz,61,student,We'll be rounding up.,00:07:12
+bpuecyz,62,tutor,"Amazing, amazing. All right, great working out there, Tobias. Shall we complete question B and C?",00:07:15
+bpuecyz,63,student,Okay.,00:07:23
+bpuecyz,64,student,"So the answer to the first one is 56,000. And then the [unclear] is 60,000.",00:07:28
+bpuecyz,65,tutor,"Awesome. Great, great working out. Right, we have done our 'Let's Learn' slide. Now we can move to the 'Follow Me and Your Turn' slide. So hope you can remember.",00:07:45
+bpuecyz,66,tutor,"So we have two parts in this slide. I have— I am doing the follow me part, and then you have to take me through the [UNCLEAR]. All right? I'll start first. Let's round 976,532 to the nearest hundred thousand. This time we are rounding this number to the nearest hundred thousand.",00:07:56
+bpuecyz,67,student,Okay.,00:08:17
+bpuecyz,68,tutor,"Estimate the position of 976,532 on the number line.",00:08:18
+bpuecyz,69,tutor,"So I have given the number line and I should find the previous multiple of 100,000 and the next multiple of 100,000 for this particular number. So can you help me to find out the previous multiple of 100,000 and the next multiple of 100,000 for this number?",00:08:23
+bpuecyz,70,student,"Um, 900,000 and 1 million?",00:08:44
+bpuecyz,71,tutor,"Fantastic, fantastic working out. Yes, so it's 900,000 and 1 million. [unclear] Now we found out the previous and next multiple of 100,000. Now we can check whether this number is closer to 900,000 or 1 million. For that, I can use a number line and spot the number. Here, where could this number be on the number line? [unclear] Can you estimate a position?",00:08:50
+bpuecyz,72,student,About there.,00:09:29
+bpuecyz,73,tutor,"There, wonderful. If it's over here, it's closer to 1 million, right? So the answer should be 1 million. The other way we can do is we can look at the digits So if we are rounding to the nearest hundred thousand, what is the column we are looking at, Tobias?",00:09:31
+bpuecyz,74,student,"The 10,000.",00:09:52
+bpuecyz,75,tutor,"Amazing. Fantastic. Fantastic recalling there, Tobias. Yes, we are looking at the 10,000s column. So here we have the digit 7. [unclear] So we are rounding up definitely, and we should go with the next multiple of 100,000, which is 1 million. I'll read this part over here as well. To round to the nearest 100,000, we need to look at the digit in the ten thousands column. [unclear] In the ten thousands place is 7, so this number is closer to 1 million.",00:09:57
+bpuecyz,76,student,Okay.,00:10:36
+bpuecyz,77,tutor,"All right, I have done my part.",00:10:38
+bpuecyz,78,tutor,"Now it's your turn, Tobias.",00:10:41
+bpuecyz,79,student,"Yep. [unclear] Round 272,256 in nearest 100,000. Estimate the position of 272,256 on the number line. So I think— oh, I have to write this one quickly.",00:10:43
+bpuecyz,80,tutor,"So this one would be 3,000s and this one here would be 300,000s. And then so you would put [unclear]",00:11:08
+bpuecyz,81,tutor,"That number, the number that we're rounding about here, we'll put that about there. [unclear] [unclear]",00:11:35
+bpuecyz,82,tutor,Hello?,00:12:08
+bpuecyz,83,student,"Yes, I'm listening to you, Tobias.",00:12:10
+bpuecyz,84,tutor,"Yeah, so you put that number there.",00:12:14
+bpuecyz,85,student,Mm-hmm. I did it right.,00:12:17
+bpuecyz,86,tutor,"And then the number shown in the place value chart, the digit in the 10,000 place would be 7. So you'll write it down.",00:12:21
+bpuecyz,87,student,"It would be 7, and then it is closer to [UNCLEAR]...",00:12:29
+bpuecyz,88,tutor,"Fantastic working out there, Tobias. Nicely done, and you did a great explanation. The most wonderful thing you did was you follow this step by step. Inner process, right, Tobias? You started with guessing the previous and the next multiple of 100,000, and then you spotted the number, and then you found out that this number is close to the 300,000. And also you did it with the digit in the ten thousands place as well. Great job, I really appreciate that effort. All right, now we can move to the question.",00:12:36
+bpuecyz,89,student,Yeah.,00:13:25
+bpuecyz,90,tutor,Here we have a question.,00:13:25
+bpuecyz,91,tutor,"We have some papers to take out. Shall we do that, Tobias?",00:13:28
+bpuecyz,92,student,"Okay. Round these numbers to the nearest thousand, ten thousand, and one hundred thousand.",00:13:38
+bpuecyz,93,tutor,Yes. [unclear],00:13:47
+bpuecyz,94,student,"So, A would be to the nearest thousand would be",00:13:47
+bpuecyz,95,tutor,"7, 8, 2, comma, 000.",00:13:58
+bpuecyz,96,student,"And then to the nearest 10,000, it would be 7, 8,",00:14:09
+bpuecyz,97,tutor,[unclear],00:14:26
+bpuecyz,98,student,"And then for the nearest 100,000, it would be 800. And then for this nearest 1,000, you would have [unclear]",00:14:26
+bpuecyz,99,student,Um...,00:14:58
+bpuecyz,100,tutor,"Yes, Tobias, so far you have done a great job. [unclear]",00:15:27
+bpuecyz,101,student,So is it the— I have [unclear],00:15:34
+bpuecyz,102,student,"3,000 because to get the 1,000 you have to do the one which would make it bigger. Wait, no, it would be— yeah, it would be that maybe, probably.",00:15:50
+bpuecyz,103,tutor,"Amazing, great job! That's correct, Tobias.",00:16:02
+bpuecyz,104,student,And then for this one it would be—,00:16:06
+bpuecyz,105,student,"the same. And for this one, it would obviously have to be the same.",00:16:06
+bpuecyz,106,tutor,"Fantastic! That was all correct, and I really appreciate that effort, Tobias, because you tried your best, and now you're really confident in rounding numbers.",00:16:22
+bpuecyz,107,tutor,"OK. So what is the method you used to find out the answers, Tobias?",00:16:36
+bpuecyz,108,student,"Well, the first one I knew because it— well, for the nearest thousand on both of them. So the first one, because they're nines, it would go to a nine and then it would add up to 3,000.",00:16:43
+bpuecyz,109,tutor,"Yes, great, great explanation. Now we can try out the last question from this lesson. Shall we give it a go, Tobias?",00:17:06
+bpuecyz,110,student,"Sorry. So [unclear] is thinking of a number. When rounded to the nearest 10,000, it is 300,000.",00:17:18
+bpuecyz,111,student,And 50.,00:17:31
+bpuecyz,112,tutor,"And round it to the nearest 100,000, it is 400,000. Give your number. Can you give a number he could be thinking of? [unclear]",00:17:32
+bpuecyz,113,student,"So, and then, so the answer I think is",00:17:47
+bpuecyz,114,tutor,"So you can have maybe [unclear] for 3, 5, 1.",00:17:58
+bpuecyz,115,tutor,"Maybe? That could be an answer? Yes, it could be an answer. Wonderful working out there, Tobias. What was your thinking here?",00:18:29
+bpuecyz,116,student,"Well, I knew because the nearest 10,000 it would be 350, so I knew it had to be like a number below 5, so I did 1, and then I knew [unclear]",00:18:40
+bpuecyz,117,student,"To the nearest 100,000 because it's in the 5 and the 10,000, it would go up more.",00:18:53
+bpuecyz,118,tutor,"Amazing, great explanation there, Tobias. So if I ask you, can you think of a range of answers? Like there are so many answers for this. [unclear]",00:19:02
+bpuecyz,119,tutor,"Yes, this is correct. But I need like a range, for example.",00:19:19
+bpuecyz,120,student,"So that could be 5, 3, 5, 3, [UNCLEAR].",00:19:24
+bpuecyz,121,tutor,Or then say you could have—,00:19:33
+bpuecyz,122,background,"If I ask you like this, Tobias, what is the smallest number you can be thinking for this answer?",00:19:35
+bpuecyz,123,tutor,And the smallest?,00:19:47
+bpuecyz,124,student,What's the answer?,00:19:47
+bpuecyz,125,tutor,"Oh, maybe that could be the smallest number you could make. Wait, no, you could maybe have 3... [unclear] 3, 4, 9 maybe?",00:19:51
+bpuecyz,126,tutor,[unclear],00:20:18
+bpuecyz,127,student,"Yes. We can't take this, Tobias, because to the nearest 100,000 it won't be 400,000.",00:20:18
+bpuecyz,128,tutor,So the smallest answer you could probably make is this one here?,00:20:26
+bpuecyz,129,student,"Yes, we can take that, but to be more practical, we can start with 350,001.",00:20:33
+bpuecyz,130,tutor,Yeah.,00:20:47
+bpuecyz,131,student,"So we can take on from 350,001 to— what is the maximum we can take?",00:20:47
+bpuecyz,132,tutor,350—,00:20:56
+bpuecyz,133,student,No.,00:20:59
+bpuecyz,134,tutor,"No, 350— [unclear]",00:21:00
+bpuecyz,135,student,"Yes. Maximum you can take is 354,499.",00:21:07
+bpuecyz,136,student,Yeah.,00:21:19
+bpuecyz,137,tutor,Okay?,00:21:19
+bpuecyz,138,student,Yeah.,00:21:20
+bpuecyz,139,tutor,"That is the maximum you can take. So you can take any answer in between these two numbers, and we can take that as a correct answer. All right. Great working out there, Tobias. So we have completed our first lesson today. What do you think about this lesson?",00:21:21
+bpuecyz,140,student,It was quite good.,00:21:43
+bpuecyz,141,tutor,"So you like rounding, isn't it?",00:21:46
+bpuecyz,142,student,Yeah.,00:21:50
+bpuecyz,143,tutor,"Yes, okay. All right, so among the things you learned today, can you specify some important things you learned?",00:21:51
+bpuecyz,144,student,[unclear] [unclear],00:22:02
+bpuecyz,145,student,"For this question, you could have a range of numbers. And for some questions, you could only maybe have like one number.",00:22:14
+bpuecyz,146,tutor,"Yes, awesome. All right, great recalling there, Tobias. Now we can move to our next lesson. Right, shall we read the topic, Tobias?",00:22:27
+bpuecyz,147,student,about like writing stuff and like it was telling you what numbers you had to [UNCLEAR].,00:22:27
+bpuecyz,148,tutor,"So today you learn about comparing numbers with up to 2 decimal places. Awesome, shall we try the learning goal question?",00:22:47
+bpuecyz,149,student,Okay.,00:22:57
+bpuecyz,150,tutor,The table shows how far Children jumped in a long jump. Write the name of the child who jumped the furthest. So I... I don't know. Would it be... [unclear],00:22:59
+bpuecyz,151,tutor,"Katie. Katie. How did you find the answer, Tobias?",00:23:20
+bpuecyz,152,student,"Well, because I know if it's 2.9, you don't need the 0 after it, so it'd probably be 2.90. And if it was 2.9, it would be 2.09, like the free one. So I knew if he/she was the furthest.",00:23:25
+bpuecyz,153,tutor,"Great, great explanation. Alright, since you're confident with this, we can move to the questions directly, Tobias. So here we go, we have our questions. Shall we try from question A?",00:23:42
+bpuecyz,154,tutor,Write the decimal numbers shown and comparing using [unclear] or [UNCLEAR].,00:23:58
+bpuecyz,155,student,So the decimal number here would be 4. I think it would be 1.,00:24:08
+bpuecyz,156,tutor,"Oh, no, wait.",00:24:23
+bpuecyz,157,student,1.35. [unclear] [unclear],00:24:26
+bpuecyz,158,tutor,"So I know that if it's above 5, you round it up, and if it's beneath 5, you round it down. [unclear]",00:25:05
+bpuecyz,159,tutor,"Round these numbers to the nearest 1,000, 10,000, and 100,000. [unclear]",00:25:30
+bpuecyz,160,tutor,Here's 1... um... 7? 8? A 1 here— [unclear] Yeah! [unclear],00:25:42
+bpuecyz,161,tutor,"Awesome, great working out, Tobias. How did you find the answer?",00:26:23
+bpuecyz,162,student,"Well, so I knew this was a whole one, so I put the whole in both of them. And then I knew this one had 2, so it had to be 20 because they each represent 10, and that was 5, so it had to be 5. And then that one has a whole one, and then just the 5. [unclear]",00:26:26
+bpuecyz,163,student,"Yeah, so that's great. And then I knew 1.25 was bigger because the other one has a zero, so yeah.",00:26:40
+bpuecyz,164,tutor,"Yes, fantastic, fantastic, spot-on explanation there, Tobias. Right, shall I have a try at question B?",00:26:50
+bpuecyz,165,student,Okay.,00:26:58
+bpuecyz,166,background,"And there was zero, so I knew that you were rounding down, not up. [unclear] That was too fast. Right, so how did you find the answer?",00:26:59
+bpuecyz,167,student,"Well, like in the first learning question we did for this one, because I knew you don't have to have a zero after it if it doesn't mean anything, so I knew it would be 2.6 instead of 2.6.",00:27:14
+bpuecyz,168,tutor,"Yeah, awesome. All right, great, great working out. The last one, shall we give it a go?",00:27:29
+bpuecyz,169,student,"Oh, okay. So I think just [unclear] one, maybe? No? That'll make it bigger?",00:27:36
+bpuecyz,170,tutor,"Yes. Great, fantastic working out there, Tobias. Right, we have done all the 3 questions successfully. Now we can move to the last question from this lesson.",00:27:44
+bpuecyz,171,tutor,Okay. The table shows how far some children jumped in a long jump competition. Who jumped the furthest and won the competition?,00:28:00
+bpuecyz,172,student,So who jumped furthest would be [unclear] [unclear],00:28:12
+bpuecyz,173,tutor,"Awesome, great working out there, Tobias. So how did you find the answer?",00:28:39
+bpuecyz,174,student,"Well, like the first question, I know because zero there and it was 3. But if they were all 2, [unclear] would have won, but he only got 2 and he got 3.",00:28:44
+bpuecyz,175,tutor,"Awesome, great explanation again. Right, so no need to discuss further because we are— you're already confident with this concept, Tobias. And I know you already know the concept and maybe",00:28:57
+bpuecyz,176,tutor,"With the questions, you have recalled something. Is there anything you recall from this?",00:29:14
+bpuecyz,177,student,"Like, so if it's just like 3.4, not 3.04, the 3.4 means 3.40, so you don't need the zero, except does it do anything in decimals? But say if you're doing money, like, you would need it, otherwise it would be [UNCLEAR]. 3.4 pence, not 3.42 pence. So, yeah.",00:29:23
+bpuecyz,178,tutor,"Awesome, great recalling there, Tobias. And I really appreciate that effort and also the focus you had throughout. Now we are in our third lesson for the day.",00:29:51
+bpuecyz,179,student,"Yeah, okay.",00:30:04
+bpuecyz,180,tutor,"Right, this is our third session. Tobias, shall we read the topic?",00:30:11
+bpuecyz,181,student,Multiplying and dividing whole numbers and decimals by 10 and 100.,00:30:16
+bpuecyz,182,tutor,"OK, shall we try the learning goal question? [unclear]",00:30:21
+bpuecyz,183,student,So would it be... [unclear],00:30:32
+bpuecyz,184,tutor,"How did you find the answer, Tobias?",00:30:46
+bpuecyz,185,student,"Well, so first of all, I moved the 2 3 places, and then I just moved the rest of them 3 places. So it would be that.",00:30:48
+bpuecyz,186,tutor,I'll give her one chance to think again. And take the answer.,00:30:58
+bpuecyz,187,tutor,Would it be that instead maybe? How did you find the answer?,00:31:05
+bpuecyz,188,student,"Well, before I accidentally added another 0 on, so I knew I just had to take that 0 off.",00:31:11
+bpuecyz,189,tutor,"Yes, yes, you have identified your mistake. So why it's not correct to add a 0 there?",00:31:17
+bpuecyz,190,background,[unclear],00:31:26
+bpuecyz,191,student,Because otherwise it might be like 20.06 or,00:31:27
+bpuecyz,192,tutor,Yes. So your answer was like—,00:31:33
+bpuecyz,193,student,2.006.,00:31:35
+bpuecyz,194,tutor,"Yes. Your answer earlier was this, but we know that we can add zeros at the end.",00:31:37
+bpuecyz,195,background,Okay.,00:31:44
+bpuecyz,196,tutor,"But in between the digits, we can't add zeros when we are multiplying by 10 because they are moving in correct order, right? If we think that we are moving each digit 2 places to right, this order follows, right?",00:31:45
+bpuecyz,197,tutor,"will go, then 0 will go, then 6 will go.",00:31:45
+bpuecyz,198,student,Okay.,00:32:07
+bpuecyz,199,tutor,"Yeah, but in between we can't add anything. But for this instance, we have to add a 0 at the end because we have to hold the place.",00:32:07
+bpuecyz,200,student,Which is 9.,00:32:18
+bpuecyz,201,tutor,Right.,00:32:19
+bpuecyz,202,student,Okay.,00:32:20
+bpuecyz,203,tutor,"Okay, so since you are confident, we can move to the questions directly. [unclear] Right, shall we try question number 1?",00:32:20
+bpuecyz,204,tutor,"Okay, so...",00:32:30
+bpuecyz,205,student,Use the Gundam chart.,00:32:34
+bpuecyz,206,tutor,"I can't read the thing because your mouse thing's in the way of it, so... Oh, thank you. Use the Gundam chart to work out 0.95 times 10. I mean, times 100. [unclear]",00:32:38
+bpuecyz,207,tutor,"How would you use the Gatineau chart to do this, Tobias? What would you have to say using the Gatineau chart?",00:32:56
+bpuecyz,208,student,"Well, you could find maybe the 9.5... [unclear] Well, you know the 9.5, so they're in the orange. And then maybe you would just have to go up 3. So 1, 2, 3, so 900. And then 1, 2, 3, so it would be 950. So I'll write it, so 950. [unclear]",00:33:05
+bpuecyz,209,tutor,"Okay, that's a good answer. I really appreciate that, David Tobias. Shelby, be careful.",00:33:45
+bpuecyz,210,tutor,"And check again. [unclear] So we are in 0.95. 0.9 is over here. 0.05 is over here, which makes 0.95. And if we are timesing it by 100, how many drums do we need?",00:33:55
+bpuecyz,211,student,"Oh, 2. So it would be 95.",00:34:19
+bpuecyz,212,tutor,"Exactly. We need 2 dumps from each of these numbers, so we will get 90 from this and we will get 5 from this, which makes it 95. Okay, great, great explanation, and well done because you found out your mistake because you know the concept. All right?",00:34:24
+bpuecyz,213,student,"Yeah, I [UNCLEAR].",00:34:46
+bpuecyz,214,tutor,Shall we try question number 2?,00:34:48
+bpuecyz,215,student,"Use the following to complete the calculations below. So, should I like draw lines or write them down?",00:34:52
+bpuecyz,216,tutor,You can type it.,00:35:03
+bpuecyz,217,student,OK.,00:35:05
+bpuecyz,218,tutor,Right?,00:35:06
+bpuecyz,219,student,OK.,00:35:06
+bpuecyz,220,tutor,So here I think it would be—,00:35:18
+bpuecyz,221,student,"Like in between, like on my mark. [unclear] I can't find the times or divide thing on my keyboard, so I don't think I'll be able to—",00:35:29
+bpuecyz,222,tutor,"You can go with the symbols tool, Tobias. Press on the symbols tool, then you can have any of them. Then you can type.",00:35:51
+bpuecyz,223,student,Okay. [unclear] Divide by— yes.,00:36:00
+bpuecyz,224,student,[unclear],00:36:12
+bpuecyz,225,tutor,"100, I think it would be.",00:36:12
+bpuecyz,226,student,Yes.,00:36:17
+bpuecyz,227,tutor,"Yeah, okay, and then so—",00:36:18
+bpuecyz,228,background,"You can directly type with the symbols tool, Tobias. You don't need to change it to the text tool, okay?",00:36:21
+bpuecyz,229,tutor,Okay.,00:36:33
+bpuecyz,230,background,Just type out something after Multiplication?,00:36:34
+bpuecyz,231,tutor,Okay.,00:36:39
+bpuecyz,232,student,Would it— it would be then— 100? [unclear] And then this one would be times by—...times by 10.,00:36:41
+bpuecyz,233,tutor,"Great, great working out.",00:37:08
+bpuecyz,234,student,"And then this one would be— well, we only have one left, which is— [UNCLEAR]...divide by— oh, sorry, I didn't mean to do that. Divide by 10.",00:37:11
+bpuecyz,235,tutor,"Great, fantastic working out there, Tobias. Yes, it should be divided by 10. Okay, now we have 3 more to go.",00:37:31
+bpuecyz,236,student,"Okay, so question 3 would be... [unclear] What's the question for number 3? Is it the same as number 2?",00:37:43
+bpuecyz,237,student,You just have to find the answer.,00:37:59
+bpuecyz,238,tutor,"Oh, the answer. Okay, good.",00:38:02
+bpuecyz,239,student,Yeah.,00:38:04
+bpuecyz,240,tutor,Okay. So for this one you'd probably have like—,00:38:07
+bpuecyz,241,student,Yeah. [unclear],00:38:15
+bpuecyz,242,tutor,For a point— 2. [unclear],00:38:20
+bpuecyz,243,tutor,"And then for this one, maybe like—",00:38:29
+bpuecyz,244,student,Another Tobias.,00:38:32
+bpuecyz,245,tutor,"So for this one, I think it would be— 21.",00:38:35
+bpuecyz,246,tutor,And then this one would be [unclear] 6.12.,00:38:54
+bpuecyz,247,student,"Yeah, so it'll be 6. [unclear]",00:39:11
+bpuecyz,248,tutor,Hello?,00:39:35
+bpuecyz,249,student,Hello?,00:39:36
+bpuecyz,250,tutor,Can you hear me?,00:39:37
+bpuecyz,251,student,Yeah.,00:39:38
+bpuecyz,252,tutor,"Alright. Okay, Tobias, shall we quickly recall the things we learned from this?",00:39:38
+bpuecyz,253,student,To read the question properly. And that these chart things do help with like finding where you need to go.,00:39:44
+bpuecyz,254,tutor,"Yes, wonderful recalling. Right, Tobias, I really appreciate all the effort. You did amazing today like last week.",00:39:57
+bpuecyz,255,student,Thank you.,00:40:05
+bpuecyz,256,tutor,"And you had great, excellent focus.",00:40:06
+bpuecyz,257,tutor,So keep up the good work and see you next week and have a great week. Bye.,00:40:10
+bpuecyz,258,student,Bye. [unclear],00:40:15

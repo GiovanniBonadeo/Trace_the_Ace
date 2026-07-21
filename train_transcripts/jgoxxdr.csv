@@ -1,0 +1,270 @@
+session_id,utterance_id,role,content,timestamp
+jgoxxdr,0,tutor,"Hello, can you hear us?",00:00:00
+jgoxxdr,1,background,Hello.,00:00:03
+jgoxxdr,2,student,"Hello. [Speaker] Hi, Kieran, can you hear me?",00:00:04
+jgoxxdr,3,student,"Yes. [Speaker] Okay, how are you doing today?",00:00:07
+jgoxxdr,4,student,"Good, thanks. You? [Speaker] I'm doing good too, thank you. So since this is our first time together, let's introduce each other to us. Okay, so let me go ahead and introduce myself to you. So my name is [TUTOR_NAME]. I'll be your tutor for the day. Okay?",00:00:11
+jgoxxdr,5,student,"Okay. Hi, [TUTOR_NAME].",00:00:30
+jgoxxdr,6,background,"Hi, Kieran. Okay, so would you like to share something interesting about yourself with me?",00:00:32
+jgoxxdr,7,student,"Yeah, I am Kieran and I'm happy to be here and doing maths with you.",00:00:37
+jgoxxdr,8,background,"Nice, that's a nice comment. Thank you for passing out that. Okay, do you have any pets? Just to let you know, I'll understand you better. Do you have any pets?",00:00:44
+jgoxxdr,9,student,"Yes, I do.",00:00:56
+jgoxxdr,10,tutor,"Oh, what are they? Who are they actually?",00:00:57
+jgoxxdr,11,student,"Uh, I've got a dog named Bailey and a cat named Boston.",00:01:00
+jgoxxdr,12,tutor,"Oh, that's great. Do you know how old they are?",00:01:06
+jgoxxdr,13,student,Huh?,00:01:10
+jgoxxdr,14,tutor,Do you know how old they are?,00:01:11
+jgoxxdr,15,student,"Oh, [UNCLEAR]. No, okay, no worries, no worries. I also love puppies and dogs and cats as well, but mostly the dogs. If you can hear my background noise as well today, it's a little bit high. I'm sorry about that.",00:01:14
+jgoxxdr,16,student,Yeah.,00:01:31
+jgoxxdr,17,tutor,Is it like disturbing you?,00:01:32
+jgoxxdr,18,student,No.,00:01:35
+jgoxxdr,19,tutor,"Okay, I'm sorry about that. Back again, Kieran, let's— I'll try my best to minimize the high background noise. If that is unmanageable, just let me know, okay?",00:01:35
+jgoxxdr,20,student,It's fine. I don't mind.,00:01:46
+jgoxxdr,21,tutor,"Okay, okay. Thanks a lot for that. Okay, so we are going to continue the lesson that you have done in the last session that you have done with Tutor Provider as well, which is multiplying and dividing by 10 and 100. So from this lesson, what can you remember? The things that you did. What are the things that you can remember?",00:01:49
+jgoxxdr,22,student,"I'm going to look back at the sheet that I did to help me. So I can remember doing— well, I can remember that 50 times 10 is 500 and 200 times 10 is 2,000, and that's how I got my answer of 2,500-something times 10. 10 equals 2,500. I can remember that I need to get the answer for 250 for that.",00:02:10
+jgoxxdr,23,tutor,"Wow, that's a great example and a great memory you've got there, Kieran. So let me give you a first thumbs up for the day for explaining and remembering whatever the things that you have learned regarding this lesson. That is pretty awesome. Okay, with that amazing memory you've got there, we are going to do the continuation of this same lesson. Which is from the practice time questions. I believe you have completed the question number A and the B. You are left to start off with the question number C. Would you be able to do that for me?",00:02:44
+jgoxxdr,24,student,"Yeah, I'm able to do that.",00:03:18
+jgoxxdr,25,tutor,"Okay, great.",00:03:20
+jgoxxdr,26,student,[unclear] 10 divided by something equals 130. When? [unclear],00:03:21
+jgoxxdr,27,student,I'm gonna write it down.,00:03:36
+jgoxxdr,28,tutor,Okay.,00:03:43
+jgoxxdr,29,student,Then something...,00:03:47
+jgoxxdr,30,student,"Oh wait, I've messed up with this. I'm sorry, but, um, so 9 divided by something would be— well, if I get firstly a 1 and a 0, there'd be no chance of going to 1, so— [unclear]",00:04:27
+jgoxxdr,31,student,"So there'd be no, uh, tens that go into one, so you need to, to output the one with the zero, which would look like 10, and then that would be how we get 1. And then if we did like 3 and then a 0, there'd be none in 3, so you need to write a 0. And then you put to the 3 of the 0 to get 3 tens, and then you just put a 1, and then it'll be like a 0.",00:04:54
+jgoxxdr,32,tutor,"Okay, so what will be the answer? Would it be [unclear] 10301?",00:05:35
+jgoxxdr,33,tutor,"Okay, shall we write down the answer, will you?",00:05:49
+jgoxxdr,34,student,Yeah.,00:05:51
+jgoxxdr,35,tutor,Okay.,00:05:52
+jgoxxdr,36,student,I'm going in text.,00:05:53
+jgoxxdr,37,tutor,Okay.,00:05:54
+jgoxxdr,38,student,10301.,00:05:55
+jgoxxdr,39,student,1.,00:06:05
+jgoxxdr,40,tutor,"Okay, that's an amazing answer. Hmm, are you sure about the answer? Do you want to double-check?",00:06:06
+jgoxxdr,41,student,I'm not very sure.,00:06:14
+jgoxxdr,42,tutor,"Okay, shall I give you a small hint?",00:06:17
+jgoxxdr,43,student,Yeah.,00:06:19
+jgoxxdr,44,tutor,"Okay, so in these type of questions, we are missing one number, right?",00:06:20
+jgoxxdr,45,student,Yeah.,00:06:26
+jgoxxdr,46,tutor,"If you are missing one number, what— using what method we can figure out the answer?",00:06:27
+jgoxxdr,47,student,"Oh, in Any thought?",00:06:32
+jgoxxdr,48,student,Would we add the 130 and the 10 together?,00:06:33
+jgoxxdr,49,tutor,"Okay, so this is a division problem. So what is the method that we have to do?",00:06:39
+jgoxxdr,50,student,Do we have to do an add?,00:06:46
+jgoxxdr,51,tutor,"Hmm, are you sure?",00:06:49
+jgoxxdr,52,student,[unclear],00:06:56
+jgoxxdr,53,tutor,"Very good, exactly. Can you tell me why we are not going to add here?",00:06:57
+jgoxxdr,54,student,"Uh, because it would— wouldn't work.",00:07:02
+jgoxxdr,55,tutor,"Exactly. So, um, we are basically going to do the inverse operation. So since that is a division, the inverse of division would be, as you mentioned, the multiplication. So we are going to multiply to find out the missing number. So what would that be?",00:07:07
+jgoxxdr,56,student,"Uh, 130 times 10.",00:07:25
+jgoxxdr,57,student,"Would be 1,300.",00:07:29
+jgoxxdr,58,tutor,"Very good, there you go. Using that method, you got the answer. Wasn't that easy?",00:07:31
+jgoxxdr,59,student,Yeah.,00:07:40
+jgoxxdr,60,tutor,"Yep, exactly. Okay, so using the same knowledge that you did this question, would you be able to do the B for me back again? How can we figure out the missing number?",00:07:41
+jgoxxdr,61,student,"I think I remember this. Okay. Exceptional, Kieran. Would you like to explain how and what are the steps that we did to get the 150?",00:07:53
+jgoxxdr,62,student,"Well, I could remember from last week when I did something times— no, 10 times something. Is 2,500, and I could remember it was 250 because I needed to work out what times 10 equals 500. It was 50. And what times 10 equals 2,000? And I can remember it was 200, but I know it would be 100 to get my answer for 150.",00:08:13
+jgoxxdr,63,tutor,[unclear],00:08:44
+jgoxxdr,64,tutor,"Wonderful, back again. Superb job in understanding and remembering and also linking the previous thinking and previous learnings that you did to get the answer for this question. Wonderful job back again there, Kieran. Let me give you a great high five for the awesome effort that you have put on to get all the answers for our practice time questions. Well done. Okay, with the practices that you have gained using these questions, we are going to move to our application problem of the day. To apply the knowledge that we have already learned to get the answer for this one. Okay, let's read out the question and get the answer.",00:08:46
+jgoxxdr,65,student,Go far— farther.,00:09:29
+jgoxxdr,66,tutor,Hmm?,00:09:31
+jgoxxdr,67,student,Go fur—,00:09:34
+jgoxxdr,68,tutor,Further.,00:09:36
+jgoxxdr,69,student,Go further.,00:09:36
+jgoxxdr,70,tutor,Very good. Let's read out the question now.,00:09:38
+jgoxxdr,71,background,James walks to school is—,00:09:43
+jgoxxdr,72,student,190 metres. Eve's walk to school is 10 times as far. How does Eve walk to school? How far does [unclear] walk to school?,00:09:47
+jgoxxdr,73,background,So will I need to times 190? [unclear],00:10:08
+jgoxxdr,74,tutor,"What I need to times it by 10. Very good, that's an amazing job in understanding that.",00:10:14
+jgoxxdr,75,student,"900. Very good, that's a quick answer. Shall we write down the final answer over here?",00:10:20
+jgoxxdr,76,tutor,"Yeah. Well done. Would that be 1,500?",00:10:27
+jgoxxdr,77,student,Yeah.,00:10:36
+jgoxxdr,78,student,"No, sorry, 900.",00:10:38
+jgoxxdr,79,tutor,"Very good, exactly. Let's make it back again. Well done.",00:10:40
+jgoxxdr,80,student,Not [unclear] comma.,00:10:50
+jgoxxdr,81,tutor,"Mm-hmm. Well done. So you got the answer, but in our final answer, we are missing something very important. What is that?",00:10:52
+jgoxxdr,82,student,I've got a comma.,00:11:05
+jgoxxdr,83,tutor,"Hmm, yes, you've got a comma. One more small thing, but that is important too.",00:11:06
+jgoxxdr,84,student,Um...,00:11:15
+jgoxxdr,85,tutor,What do you think? It's asking about a distance.,00:11:16
+jgoxxdr,86,student,"Uh, would it be metres?",00:11:22
+jgoxxdr,87,tutor,"Exactly, yes, it is metres.",00:11:24
+jgoxxdr,88,student,I'm trying to draw it in.,00:11:26
+jgoxxdr,89,tutor,Okay.,00:11:30
+jgoxxdr,90,student,"Okay, that's not gonna work, so I'll just rewrite it.",00:11:31
+jgoxxdr,91,tutor,"Okay. 1,900, you can just put the M at last. Very good, wonderful. So let me give you a great tick back again for understanding the steps that you have to do in this question and directly getting the answer without any help from me. And for doing that exceptional job, you deserve a star from my end. Wonderful job, Kieran. Great.",00:11:37
+jgoxxdr,92,student,[unclear],00:12:03
+jgoxxdr,93,tutor,"Okay, no worries. So with this application problem, we have completed this lesson, which is multiplying and dividing by 10 and 100. So since you have learned this lesson last weekend, today as well, can you tell me if I ask you to apply the knowledge of multiplying and dividing in a day-to-day life example? Can you create one and give that example to me?",00:12:04
+jgoxxdr,94,student,"Uh, sure.",00:12:32
+jgoxxdr,95,tutor,"Okay, let's create one then. How are we going to use multiplying in day-to-day life?",00:12:34
+jgoxxdr,96,student,"Uh, so if we do 10 times [unclear] [unclear]",00:12:41
+jgoxxdr,97,tutor,"Wow, that is a great job in multiplying. Then how are we going to use division?",00:13:06
+jgoxxdr,98,student,"With division, if you did like, uh,",00:13:13
+jgoxxdr,99,student,2 divided by 600 and 24. Answer would be 300. [unclear] and 12.,00:13:20
+jgoxxdr,100,tutor,"Superb, back again, Kieran. Very well done in applying and implying the knowledge that you have learned about multiplying and dividing in day-to-day life examples. So for that amazing job in linking real-life examples you are going to get another big high five from my end. And also for completing this lesson without any help from me, such independent work that you have showed, for that I am going to give you a nice smiley face like this.",00:13:54
+jgoxxdr,101,student,Thank you.,00:14:26
+jgoxxdr,102,tutor,"No worries. Very good. So now since we completed this lesson, Kieran, we are going to move to our next lesson. Let's see what that is now. Oh, thank you for your smiley face for me.",00:14:28
+jgoxxdr,103,student,You're welcome. It's for being a great Maths Tutor.,00:14:39
+jgoxxdr,104,tutor,"Thank you. Okay, so now this is the new lesson that we are going to",00:14:43
+jgoxxdr,105,background,"Writing Tents as Decimals. Before getting started, can you tell me, Kieran, whether you have learned this lesson at school or not?",00:14:48
+jgoxxdr,106,student,I think I have in Year 5. I can't remember.,00:14:59
+jgoxxdr,107,student,"But I am learning about decimals, I think. Well, I'm doing decimals when I do my tests on Friday.",00:15:04
+jgoxxdr,108,tutor,"Nice, nice. That is great. Then can you tell me, what do you know about decimals?",00:15:13
+jgoxxdr,109,student,"So if you have a decimal holder, so say for instance, 2",00:15:19
+jgoxxdr,110,student,"36.16 plus 44.1. If it helps people, you could put a zero right next to the one because the decimal points would need to be lined up.",00:15:32
+jgoxxdr,111,tutor,"Well done. Yes, amazing.",00:15:56
+jgoxxdr,112,student,"And to sum it all up, the answer would be 46.26.",00:15:59
+jgoxxdr,113,tutor,"Very good. That's amazing in applying the knowledge of decimals into an example numbered problem and also also getting the answer. That is nice. Nice to see that you are explaining each and everything that you are doing. Amazing. Keep up the good work, Kieran.",00:16:19
+jgoxxdr,114,student,Yeah. [unclear],00:16:35
+jgoxxdr,115,tutor,"No worries. So with that, I'm going to move to the word tenths. Do you have any idea about the word tenths? What are tenths?",00:16:37
+jgoxxdr,116,student,Tenths are two-digit numbers starting from our tenths.,00:16:47
+jgoxxdr,117,student,"All the way up. Well, starting from 10, going all the way up to 99.",00:16:54
+jgoxxdr,118,tutor,"Mm-hmm, very good. That's a great understanding. But those are tens, isn't that?",00:17:03
+jgoxxdr,119,student,Yeah.,00:17:12
+jgoxxdr,120,tutor,"Yeah, this is tens with the THS.",00:17:13
+jgoxxdr,121,student,Yeah. So these tens are the tens what you mentioned right now. But tens are decimal numbers.,00:17:18
+jgoxxdr,122,student,Are they tenths of hundreds?,00:17:27
+jgoxxdr,123,tutor,"Very good, exactly. It can be any fraction which is like 2 tenths, 3 tenths, anything like that. A fraction. Okay? If we are going to write that as a decimal, It can be like 0.2.",00:17:30
+jgoxxdr,124,student,Yeah.,00:17:48
+jgoxxdr,125,tutor,Okay. The column which is right after the decimal point is called the tens column. Clear?,00:17:49
+jgoxxdr,126,student,Yeah.,00:17:58
+jgoxxdr,127,tutor,"Awesome. Okay. So with the small teaching that I did in this slide, would you be able to get the answer for this learning goal question?",00:17:59
+jgoxxdr,128,student,"Write the [unclear] part as a decimal. Oh, I didn't realize I had the pencil thing on. I thought I had text on.",00:18:08
+jgoxxdr,129,tutor,"Okay, no worries. You can use the text too. [unclear]",00:18:27
+jgoxxdr,130,tutor,Very good. Can you tell me how did you get 2.2?,00:18:37
+jgoxxdr,131,student,"Well, it told me to write the decimals as a— well, the blue shade shadow as a decimal. And so I'm not worrying about any of the whites because they'll just be zeros, and the main things is 2 and 2, but there needs to be a decimal point in between. To get 2.2.",00:18:41
+jgoxxdr,132,tutor,"Very good. That's a great trick that you have used over there. But before writing it as a decimal, as an extra step, what if I told you to— can you write the blue shaded part as a fraction? How are you going to do that?",00:19:08
+jgoxxdr,133,student,"Uh, well, if I— [unclear] [unclear]",00:19:26
+jgoxxdr,134,tutor,"Very good. So when we are writing it as a fraction, what should be our bottom number?",00:19:37
+jgoxxdr,135,student,"Oh, really quickly, I need to write",00:19:49
+jgoxxdr,136,tutor,"Very good, that's amazing. Well done, well done. Very good in understanding that 2 halves is equal to 1 whole. Wonderful. Let me give you smiley face for that amazing understanding that you have showed about that. Very good. So coming back to our point, Kieran,",00:20:04
+jgoxxdr,137,tutor,"When we have a bar column like this, diagram like this, and if that is asking us to find out the shaded part, first of all, what we can do is we can write that as a fraction. Okay, when we are writing that down as a fraction, the bottom number of our fraction, which is the denominator, should be the total number of squares. Squares. Okay, and the [unclear] top number should be the number of shaded squares. Shaded squares. Okay, so now if I ask you to write this fraction— write this diagram in as a fraction. How would you write it according to this?",00:20:22
+jgoxxdr,138,student,So would the white ones be the shaded this time?,00:21:23
+jgoxxdr,139,tutor,"It would still be the blue color ones, but the bottom number should be the total number of squares. How many total number of squares do we have?",00:21:29
+jgoxxdr,140,student,"Okay, so [unclear]",00:21:38
+jgoxxdr,141,tutor,"Two quarters. Very good. So if you are to calculate the total number of squares, Kieran, we have to count each and every square that we have in the diagram. So if we are counting 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10, how many total squares do we have?",00:21:47
+jgoxxdr,142,student,10.,00:22:09
+jgoxxdr,143,tutor,Very good.,00:22:10
+jgoxxdr,144,student,I was thinking of just the blue.,00:22:12
+jgoxxdr,145,tutor,"Oh, no worries. So out of 10 squares, how many have been shaded? It's the other way around. You got the answer, but it should be the other way around. Bottom number should be the 10, top number should be the 4.",00:22:16
+jgoxxdr,146,student,"Okay, sorry.",00:22:32
+jgoxxdr,147,tutor,"Well done, yes it is. Now you understood— oh, I also [UNCLEAR]. I'm sorry. Okay, so you got the answer as a fraction now. So when I was starting, I told you that 2/10 can be written as 0.2. Okay, so if I ask you to write 4/10 as a decimal, what would be your answer? [unclear]",00:22:36
+jgoxxdr,148,tutor,Very good. Amazing. Now write the blue shaded part as a decimal. Would that be 2.2 or 0.4?,00:23:12
+jgoxxdr,149,student,2.2.,00:23:22
+jgoxxdr,150,tutor,"Hmm, still 2.2. Actually, it would be 0.4, which you got after.",00:23:28
+jgoxxdr,151,student,Yeah.,00:23:35
+jgoxxdr,152,tutor,"You know why? It is equal to 4/10, which can also be written as 0.4.",00:23:36
+jgoxxdr,153,student,Yeah.,00:23:43
+jgoxxdr,154,tutor,"Okay, don't worry if you didn't understand, Kieran, because this is just a warm-up question. Okay?",00:23:43
+jgoxxdr,155,student,Okay.,00:23:49
+jgoxxdr,156,tutor,"Okay, cool. So since we tried out the learning goal question, now we are going to try out the prior learning question as well. Think about the question that we just did over here and try your best to get the answer for this.",00:23:50
+jgoxxdr,157,student,"[unclear] I'm super proud of you. Yes, you got the answer as a fraction. Wonderful. Now if I ask an extra thing, I want you to get the answer which is 3/10 as a decimal number. What would be the answer then?",00:24:03
+jgoxxdr,158,student,"[unclear] Sorry, my knuckle hit the keyboard.",00:24:36
+jgoxxdr,159,tutor,"No worries, no worries. I'm super proud of you, Kieran, because I can see a huge progress from this question to this question. Wonderful! I'm super proud of you and keep up the— for keeping up the good work and showing an amazing progress, you deserve your next sticker of great workout. Wonderful!",00:24:45
+jgoxxdr,160,tutor,"Now we are going to start off with this slide. Okay, first of all, can you read out this green color box?",00:25:07
+jgoxxdr,161,student,We can show tens using decimals.,00:25:17
+jgoxxdr,162,tutor,"Very good. So this is the same thing that we learnt in our warm-up slide, which is like 2 tens can be written as 0.2. It's the same thing that we did in the warm-ups. Okay, so if I am to explain— okay, without me explaining, can you explain me back again? What does it mean by a tenth using this diagram and the knowledge that you already have?",00:25:22
+jgoxxdr,163,student,Tenth of 100. And also decimal. [unclear],00:25:49
+jgoxxdr,164,tutor,"Very good. Yes, so I'm going to give you a small question. If I tell you now the question is— now the fraction is 8/10. Now, how can we get the answer as a decimal? [Speaker:Kieran]... [UNCLEAR]",00:25:54
+jgoxxdr,165,tutor,"Wonderful! Yes, it is. I'm super happy to see that you understood clearly about the concept. Now since you understood, I'm not going to teach you anything over here because you already understood it. Okay, now we are going to move ahead with this lesson, which we have the follow me part and your turn part. So in this slide, the follow me part will be done by me, and once I'm done, you can do your turn. Okay, so when I'm doing the follow me part, make sure to like concentrate more than, um, the usual stuff. And also, if you have any questions, make sure to ask me then and there. Okay?",00:26:24
+jgoxxdr,166,student,Okay.,00:27:06
+jgoxxdr,167,tutor,"Okay, now I'm going to start off. Let's look at how much of the shape is shaded and how much is not shaded and write as a fraction and the decimal. Okay?",00:27:07
+jgoxxdr,168,student,Okay.,00:27:19
+jgoxxdr,169,tutor,"Now I'm going to look at this diagram which I have. Yes, Kieran?",00:27:20
+jgoxxdr,170,student,There is 4 shaded,00:27:27
+jgoxxdr,171,tutor,Mm-hmm. Out of how much?,00:27:28
+jgoxxdr,172,student,10.,00:27:32
+jgoxxdr,173,tutor,"Very good. So I'm going to fill the blanks now. Moving to the A part, shaded blue, 4 out of 10. As a decimal, what would be the answer, Kieran? Very nice. I'm going to write the same in the given space, which is 0.4. Then the not shaded part, how many are not shaded?",00:27:33
+jgoxxdr,174,student,"In the— oh, so is it this same part again?",00:27:57
+jgoxxdr,175,tutor,"Yes, correct, correct. Yeah. Very good. As a decimal, what would be the answer? Amazing. [unclear] We figured out the shaded part and not shaded part together. So just the usual stuff. If we have the shaded part and the not shaded part, it should equal to 10 equal parts, correct?",00:28:01
+jgoxxdr,176,student,Yes.,00:28:34
+jgoxxdr,177,tutor,"Yes. So in the same way, now to get one whole, what we are going to do is we are going to add the shaded blue part and not shaded part as decimal— sorry, [UNCLEAR]. It should be 0.4 at 0.6, which would equal to 1 whole. Is that clear?",00:28:36
+jgoxxdr,178,student,Yes.,00:28:54
+jgoxxdr,179,tutor,Amazing! Now I'm done with my part. It's your turn to do the question and get all the answers. Shall we start?,00:28:55
+jgoxxdr,180,student,Yeah. [unclear] So is this basically like the same one as before?,00:29:04
+jgoxxdr,181,tutor,"We have to use this diagram, not this one this time. We are going to use this one.",00:29:12
+jgoxxdr,182,student,But is it like the same one as before?,00:29:17
+jgoxxdr,183,tutor,"Yes, yes, correct, correct. Yeah, so we have a few ABCs, shaded blue, not shaded blue, and how we can make the one whole. Okay.",00:29:19
+jgoxxdr,184,tutor,Nice. [unclear] Very good.,00:29:44
+jgoxxdr,185,tutor,"Exceptional! Very good, Kieran. Let me give you a huge tick and a star for showing an amazing effort and a great workout in this part as well. Now, up to this part, you did all the questions by first making it as a fraction and then converting it to a decimal, right? [Speaker:Kieran]... [UNCLEAR] Now we are going to miss this part. We are going to forget this fraction part. We are going to directly write this diagram as a decimal number.",00:30:11
+jgoxxdr,186,student,[unclear],00:30:43
+jgoxxdr,187,tutor,"Okay, so before getting started, I'm going to go to a blank page and give you a small question just to check your understanding. Okay? Okay, so I'm going to draw a diagram.",00:30:46
+jgoxxdr,188,background,"Like this. I'm going to divide it into 1, 2, 3. Okay, then I'm going to shade few things.",00:30:58
+jgoxxdr,189,tutor,"I'm going to shade this one, this one, this one, this one, and this one, and this one. Okay, I want you to write",00:31:27
+jgoxxdr,190,tutor,"Okay, let me write down the question so it will be easy. First",00:31:50
+jgoxxdr,191,background,shaded part as a decimal. [unclear] And not shaded part as a decimal.,00:31:57
+jgoxxdr,192,tutor,"Well done! There you go. I'm happy because you did both the ways amazingly. So let me give you a great [UNCLEAR]. Oh, you are doing addition as well. Let's do that too.",00:32:22
+jgoxxdr,193,tutor,"Very good. 0.4 and 0.6 equals 1. Very good. Well done in understanding all these concepts behind this lesson. And showing nice progress. Now it's time to practice some questions, Kieran. Take enough time, read out the question carefully, and get the answers.",00:32:41
+jgoxxdr,194,tutor,Write the shaded part as a decimal. [unclear],00:33:20
+jgoxxdr,195,tutor,Okay. Write your answer in letters. How much water was in the jug? One litre. So... [unclear],00:33:43
+jgoxxdr,196,tutor,Half. Very good. How are we going to write half as a decimal?,00:34:20
+jgoxxdr,197,student,Half as a decimal.,00:34:25
+jgoxxdr,198,background,Yes. [Speaker:BACKGROUND]...will it be 1.2? [Speaker:TEO] Hmm. Are you sure? Would that be 1.2?,00:34:27
+jgoxxdr,199,background,That's the question.,00:34:37
+jgoxxdr,200,background,"Actually, that won't be 1.2. That would be something— it wouldn't be. That would be something with 0 point something, just to give you a hint.",00:34:40
+jgoxxdr,201,student,"Yeah, but I think so half of it will be... [unclear]",00:34:59
+jgoxxdr,202,student,I don't know. Could I please have some help?,00:35:19
+jgoxxdr,203,tutor,"Yes, I would give you a small hint over here. So over here we are just going to forget about the latest part. Okay? And we are just going—",00:35:22
+jgoxxdr,204,student,Is it 0.5?,00:35:33
+jgoxxdr,205,tutor,"Yes, it is. Very good.",00:35:35
+jgoxxdr,206,student,That just hit me because I realized it was out of 10. [unclear] [unclear],00:35:38
+jgoxxdr,207,tutor,"Very good, Kieran. Very good understanding, and you self-learned that. That is amazing. So in this question, we have to add one more thing, which is the liters, because the answer should be given in liters, because it is asking, write your answer in liters. We have to write liters at the end. Very good, that's enough.",00:35:47
+jgoxxdr,208,student,[unclear],00:36:13
+jgoxxdr,209,tutor,"L would be enough. Okay, very good. Okay, I'm super happy because you understood this is half, and also you remember that half is equal to 0.5. Very good. Okay, nice. Now you got the answer for the first one, but for the B, did you read out the question properly?",00:36:13
+jgoxxdr,210,student,"Oh, white the part that is not— oh, sorry.",00:36:35
+jgoxxdr,211,tutor,"No worries. That is not shaded, but you got the answer for shaded part. That's nice. Great job. There you go. And let me back again, give you the next sticker.",00:36:41
+jgoxxdr,212,tutor,"For the wonderful working out. Ta-da! Okay, you are creating the one whole thing, okay?",00:37:02
+jgoxxdr,213,student,[unclear],00:37:09
+jgoxxdr,214,tutor,"Mm-hmm. Hmm, are you sure? Would that be 0.7 and 0.8? Would that make 10? 7 and 8, would that make 10?",00:37:15
+jgoxxdr,215,student,[unclear] Would it be 1.5?,00:37:36
+jgoxxdr,216,tutor,For this one?,00:37:42
+jgoxxdr,217,student,Yeah.,00:37:43
+jgoxxdr,218,tutor,"Very good. Yes, it is, Kieran. How did you get that one? That is something extra. How did you get that?",00:37:44
+jgoxxdr,219,student,"When I was writing it, it came out. Came up in text and I thought it wasn't that and that was just the computer guessing, but it was that.",00:37:52
+jgoxxdr,220,tutor,"That's— yes, that is 1.5. Do you know how and why it is 1.5?",00:38:02
+jgoxxdr,221,student,Is it— is it because 7 and 8 is 15?,00:38:10
+jgoxxdr,222,tutor,"Yes, it is.",00:38:20
+jgoxxdr,223,tutor,"Very good. You used the known knowledge to apply that in the decimal points as well. So let me give you another thumbs up for thinking out of the box and also applying extra knowledge to this lesson to extend your understanding. Wonderful, Kieran. Keep it up. Okay, always think out of the box and extend whenever you have the knowledge. Okay. Wonderful. Okay, moving to the last question of this lesson, that is application. Let's figure out the answer for this one. Look at the question properly and give the answer.",00:38:21
+jgoxxdr,224,student,How long is the [UNCLEAR]? [Speaker:Tutor] 1 meter. Sure?,00:39:01
+jgoxxdr,225,student,"No, I'm not sure because it doesn't start at the zero and it doesn't end on the one.",00:39:15
+jgoxxdr,226,tutor,"Very good, exactly.",00:39:21
+jgoxxdr,227,student,I counted them and in the middle it's 9 and it goes— is it 9 centimeters?,00:39:22
+jgoxxdr,228,tutor,"You came closer, but are we going to calculate the little lines or the gaps in between?",00:39:28
+jgoxxdr,229,student,The gaps in between.,00:39:37
+jgoxxdr,230,tutor,Exactly.,00:39:39
+jgoxxdr,231,student,"And there's 5 gaps in between, so will I need to count my 5s?",00:39:40
+jgoxxdr,232,tutor,"Hmm, you have to count in ones, not in 5s. But it's just, um, from the starting point of the ribbon up till the ending point of the ribbon, just count how many jumps you have to make.",00:39:45
+jgoxxdr,233,student,"1, 2...",00:40:03
+jgoxxdr,234,student,"1, 2, 3, 4, 5, 6, 7, 8, 9.",00:40:05
+jgoxxdr,235,tutor,"Are you sure? Would that be 9? You are going little bit more. Little bit, only little bit more. Shall I give you a small hint?",00:40:11
+jgoxxdr,236,student,Is it 11?,00:40:21
+jgoxxdr,237,tutor,It's less than 9.,00:40:23
+jgoxxdr,238,student,"Less than— oh, less. [unclear]",00:40:25
+jgoxxdr,239,tutor,Yes.,00:40:28
+jgoxxdr,240,student,It's 8.,00:40:33
+jgoxxdr,241,tutor,"Exactly, that is 8. But would that be 8 or something? It is 8, but since it is between 0 and 1—",00:40:35
+jgoxxdr,242,student,0.8.,00:40:45
+jgoxxdr,243,tutor,"Very good, yes it is. Let's write it down. 0.8. [unclear]",00:40:48
+jgoxxdr,244,student,"Oh, I'm on a [UNCLEAR]. I need to go to text. [Speaker:Tutor] Okay. Well done, Kieran. You did an amazing job in understanding that the ribbon is not starting from 0 and also not ending on 1, and you just remembered how to count it and you've got the answer. Very good. Let me give you another star for applying the practice time questions that you did in the application problem as well. Along with that, since I'm happy because you are extending the knowledge, let me give you a smiley face. Well done! Okay, with that we have completed this one. [Speaker:Kieran]... [UNCLEAR].. [Speaker:Tutor] Thank you, Kieran. That's great. Okay, now since we have completed this one as well and we don't have enough time to move to our next lesson, What we are going to do is we are going to reflect on the things that you have learned today. So can you tell me, can you just summarize the stuff that you can remember from the lessons that we did?",00:40:56
+jgoxxdr,245,student,[unclear] Am I remembering from last week?,00:42:03
+jgoxxdr,246,tutor,"No, only this week, only today.",00:42:10
+jgoxxdr,247,student,"Okay, only this week. So I learnt how to to plus decimal points together. And I learnt the [unclear] some, a bit more division.",00:42:12
+jgoxxdr,248,tutor,"Very good, yeah.",00:42:33
+jgoxxdr,249,student,Fraction and a bit of adding.,00:42:35
+jgoxxdr,250,tutor,"Very good. And you also extend your knowledge. That's great. Okay, coming back to our recent lesson that we did, which is writing tens as decimals. Um, can you give me an example where we are going to use decimals in day-to-day life?",00:42:39
+jgoxxdr,251,student,Day-to-day life?,00:42:58
+jgoxxdr,252,tutor,Yes.,00:43:04
+jgoxxdr,253,student,I— [unclear],00:43:04
+jgoxxdr,254,tutor,Where we can see decimals.,00:43:04
+jgoxxdr,255,student,"So if there's a bar of 10,",00:43:06
+jgoxxdr,256,student,"If we had 4 shaded in, it would be 0.4.",00:43:09
+jgoxxdr,257,tutor,"Very good, exactly. And also, when we are using money in daily life, we are going to use decimal numbers. Like, let's say if we have £5.25, we have to use decimal numbers. Yeah?",00:43:15
+jgoxxdr,258,student,Yeah.,00:43:29
+jgoxxdr,259,tutor,Very good. Exceptional.,00:43:30
+jgoxxdr,260,background,"And if, um, and also with—",00:43:32
+jgoxxdr,261,student,"We've been doing something in maths recently and we've had a sheet and it says how much is times— well, it says [unclear] above it and then we need to shade in the percent, then we write out of 100, then we write percent and then we write if it was",00:43:35
+jgoxxdr,262,student,[unclear] So 0 point something.,00:44:02
+jgoxxdr,263,tutor,Very good.,00:44:06
+jgoxxdr,264,student,"But one digit, it'd be 0.0 number.",00:44:06
+jgoxxdr,265,tutor,"Nice, that's extending back again, Kieran. Let me also give you a great, good working out for the amazing extension that you did. Okay, with the reflection that you did, I'm super confident that you know more than enough over here. But I want you to keep trying for each and every question that you are going to face. Okay?",00:44:12
+jgoxxdr,266,student,[unclear],00:44:40
+jgoxxdr,267,tutor,"It's just drawing. It's the experience, I would say. Okay, so with that, Kieran, we are going to end the session for today. But I've seen that you haven't done this before as well, but I'm just going to remind you, once we end the session You will get a set of questions that regarding the lessons that we completed today. Make sure to do those 4 questions. Once that is done, you will get a chance to like provide feedback about the lessons that we did. So make sure to do that as well. Okay. Okay. With that, Kieran, we are going to end the session. Until we meet next time, make sure to enjoy the week. Bye-bye, Kieran.",00:44:40
+jgoxxdr,268,student,Bye. [unclear] [Speaker:Kieran]...,00:45:27

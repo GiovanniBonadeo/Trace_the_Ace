@@ -1,0 +1,271 @@
+session_id,utterance_id,role,content,timestamp
+dgqailz,0,tutor,Hello?,00:00:00
+dgqailz,1,background,[unclear],00:00:00
+dgqailz,2,student,Hello.,00:00:00
+dgqailz,3,tutor,"Hi, Silas. How are you?",00:00:02
+dgqailz,4,student,Good.,00:00:06
+dgqailz,5,tutor,Okay.,00:00:07
+dgqailz,6,tutor,We are listening to you. So how was your day so far? [unclear],00:00:08
+dgqailz,7,tutor,Hello?,00:00:17
+dgqailz,8,student,Hello? [unclear],00:00:18
+dgqailz,9,tutor,"Am I audible to you, Mom?",00:00:21
+dgqailz,10,student,I can't hear you. [unclear],00:00:31
+dgqailz,11,tutor,"Hello, can you hear me now?",00:01:06
+dgqailz,12,student,Yeah.,00:01:08
+dgqailz,13,tutor,"Okay, great. How are you doing, Silas?",00:01:09
+dgqailz,14,student,I'm good.,00:01:11
+dgqailz,15,tutor,"All right, that's really awesome to hear. How's the day so far? [unclear]",00:01:11
+dgqailz,16,tutor,"Okay, so, can we start our lesson for today?",00:01:31
+dgqailz,17,student,Yeah.,00:01:36
+dgqailz,18,tutor,"Okay, so today our topic is dividing using partition with exchange. Okay.",00:01:38
+dgqailz,19,tutor,"Okay, so have you ever learned, or have you ever heard about this topic?",00:01:49
+dgqailz,20,student,Yes.,00:01:54
+dgqailz,21,tutor,this one?,00:01:54
+dgqailz,22,student,Yeah.,00:01:55
+dgqailz,23,tutor,"Okay. With exchange, have you learned it with exchange or not?",00:01:57
+dgqailz,24,student,Not with exchange. We have learned with exchange.,00:02:03
+dgqailz,25,tutor,"Learned with exchange. Okay, so let's give it a chance on this question, and let's see how you can recap your knowledge today, okay?",00:02:06
+dgqailz,26,student,Okay.,00:02:15
+dgqailz,27,tutor,"All right, go ahead, Silas.",00:02:15
+dgqailz,28,tutor,You can answer the learning goal.,00:02:18
+dgqailz,29,student,So 6 divided by 1 is 6. 6 divided by 2 is 3. 6 divided by 8— so we carry the 2. [unclear] [unclear],00:02:21
+dgqailz,30,tutor,28 divided by 6 equals 7. And then 6 divided by 4 equals 0. And then we're going to carry the 4.,00:02:53
+dgqailz,31,tutor,"So how much? [unclear] And then that just keeps going on. And then that's what— and then yeah, it just keeps going on. So 60— 637. So 637.",00:03:16
+dgqailz,32,student,All right. So,00:03:44
+dgqailz,33,tutor,Yeah. You have to divide— what's the number that you have to divide? [unclear],00:03:47
+dgqailz,34,student,"1,284.",00:03:52
+dgqailz,35,tutor,"Exactly. You have to divide 1,284 by which number?",00:03:55
+dgqailz,36,student,6.,00:04:00
+dgqailz,37,tutor,6. Okay. So can you show me how you divided that number?,00:04:01
+dgqailz,38,student,"Okay, so it is 6 divided by 1, which is 6.",00:04:07
+dgqailz,39,tutor,"Oh, right, right, right. I get it, Silas. So I get how you have answered that question there. Why do you say that 6 divided by 6? Do you see a 6 here? [unclear] Okay, what do you see there?",00:04:12
+dgqailz,40,student,A 1.,00:04:36
+dgqailz,41,tutor,So how many groups of 1 are there in 6?,00:04:37
+dgqailz,42,tutor,Is it speaker that they're typing in?,00:04:44
+dgqailz,43,student,Yeah.,00:04:47
+dgqailz,44,tutor,Or is it microphone?,00:04:48
+dgqailz,45,background,"Sorry, yeah.",00:04:50
+dgqailz,46,tutor,How many groups of 6 are there in one?,00:04:51
+dgqailz,47,background,6.,00:04:57
+dgqailz,48,tutor,"All right. I'm really looking forward to [unclear] them. So shall we see how you are going to answer this question? Let's keep this question, Silas. We'll go forward and let's learn how to divide numbers. But before that, can you answer this question? [unclear]",00:05:01
+dgqailz,49,student,"I don't get the question. What does it mean by 1,000 equals what?",00:05:23
+dgqailz,50,tutor,"Yeah, that means 1,000. In 1,000, how many hundreds are there?",00:05:29
+dgqailz,51,student,"No, there—",00:05:34
+dgqailz,52,tutor,"Okay, interesting. So when you have 100 hundreds, can you tell me how much is the total of 100 hundreds? [unclear]",00:05:47
+dgqailz,53,tutor,"Why do you say that you have hundreds, hundreds in thousands? [unclear]",00:06:09
+dgqailz,54,tutor,"Why do you think that it's thousand? Now you have a thousand, you have to see how many groups of hundreds are there in thousand. [unclear]",00:06:19
+dgqailz,55,tutor,"10, yes, exactly, there you go. Okay, so yes, that's a very good try there, Silas. So now let's go through the lesson and let's see how we divide numbers, 3-digit numbers and 4-digit numbers with a single-digit number.",00:06:37
+dgqailz,56,tutor,"Alright, you can read what's given in the green box here.",00:07:02
+dgqailz,57,student,So we use short division to divide when the divisor is a single digit number.,00:07:07
+dgqailz,58,tutor,"Alright, so what do you mean by that?",00:07:14
+dgqailz,59,student,"So when there's a— so when you're dividing a number, if",00:07:21
+dgqailz,60,student,"If you're dividing it by like a one-digit number, then you're going to use short division because it's only one digit. But if there's two digits, then you're going to use long division.",00:07:26
+dgqailz,61,tutor,"Yes, exactly. So like you explained, when you have two digits in the divisor— divisor means the second number, right? If the divisor is a single-digit number, you can go for the short division. But if it is not a single-digit number, you can— you have to go for the long division method, right? That was a good explanation there, Silas. All right, go ahead. You can see what's given in the part— question A.",00:07:39
+dgqailz,62,student,So question A is 600 [UNCLEAR]. [unclear],00:08:11
+dgqailz,63,tutor,How much? 5.26. That's good.,00:08:22
+dgqailz,64,tutor,So how much 5 into 18? That's 3 [UNCLEAR].,00:08:49
+dgqailz,65,student,3.,00:08:56
+dgqailz,66,tutor,37. And then we have the remainder of— or the remainder of 2. [unclear],00:08:58
+dgqailz,67,tutor,"All right, let's see.",00:09:18
+dgqailz,68,tutor,"Yeah, so you can— you could have used this place anyways. Let's see how you have done that. So you said divide. [unclear] Yeah, okay. Yes, exactly, that's the correct answer there, Silas. So that was a very good try. So we can lay out the short division like this, okay.",00:09:43
+dgqailz,69,tutor,Can you hear me?,00:10:13
+dgqailz,70,student,Yeah.,00:10:15
+dgqailz,71,tutor,"Okay, so you have done it very well. Your answer is correct, Silas. I'm very grateful. How do you explain that? All right, then you write down your answer here. [unclear] [unclear]",00:10:17
+dgqailz,72,tutor,Exactly. So I'm going to rub this part off. Okay?,00:10:50
+dgqailz,73,student,Okay.,00:10:53
+dgqailz,74,tutor,"So now, what can you say about the 1 here? Why they have put a 1 above here?",00:10:55
+dgqailz,75,student,Because that's the remaining digit. [unclear],00:11:03
+dgqailz,76,tutor,Okay. So from where did you get the remainder one?,00:11:14
+dgqailz,77,student,"Okay, try another one then.",00:11:20
+dgqailz,78,tutor,"Like, if there's like...",00:11:22
+dgqailz,79,student,Look into this one.,00:11:24
+dgqailz,80,tutor,"Like, example 37, we wrote like 5 times 7 is 35, there's 2 remaining, so that means that's why the",00:11:27
+dgqailz,81,tutor,That means the remainder is [UNCLEAR].,00:11:36
+dgqailz,82,student,"Okay, so when you have a remainder from the hundreds, how do you regroup it with the tens?",00:11:38
+dgqailz,83,tutor,Am I audible to you? [unclear],00:12:02
+dgqailz,84,student,Hello?,00:12:07
+dgqailz,85,tutor,Hello?,00:12:13
+dgqailz,86,student,"I was asking, you have one from the hundreds column here, right? You put 5, 6 out of 6, you put 5 into one of So 5, and the remainder 1 will go to the tens column. Am I correct?",00:12:13
+dgqailz,87,student,Yeah.,00:12:33
+dgqailz,88,tutor,"Okay, so how do you regroup that 1 with the tens?",00:12:35
+dgqailz,89,student,"So if there's like— if I have 5, there's 1, and so we've already used 5 and we need to use the other 1, so that means we're gonna carry that 1 over.",00:12:43
+dgqailz,90,tutor,"Yes, so when you get one from one or two from the hundreds column, one or more than one, you regroup it with the tens, right? So how much is 100? How many tens are there in 100?",00:13:01
+dgqailz,91,student,[unclear],00:13:16
+dgqailz,92,tutor,"Yeah, there are 10 tens in 100, right?",00:13:25
+dgqailz,93,student,Yeah.,00:13:31
+dgqailz,94,tutor,"Then this becomes 18 tens, right? Am I correct?",00:13:33
+dgqailz,95,background,"Yeah, you're correct.",00:13:38
+dgqailz,96,tutor,"Okay, so how many ones are there in a ten?",00:13:42
+dgqailz,97,background,So there is 10. [unclear],00:13:47
+dgqailz,98,tutor,"Yes, there are 10 ones. Okay. All right, good work, Silas. Well explained and good job. Okay, now you are going to show me how you divide 789 by 6. You know what, you two, I shouldn't have got you two sitting together. I know you're cousins, but you need to calm down and do your own work. [unclear]",00:14:01
+dgqailz,99,tutor,"All right, go ahead.",00:14:26
+dgqailz,100,student,789 divided by 6.,00:14:28
+dgqailz,101,tutor,"Yes, you have to divide 789 by 6. While dividing, you can go through the steps.",00:14:32
+dgqailz,102,student,So how many 6s go into 8 times 3? No remainder. 6.,00:14:40
+dgqailz,103,tutor,And the remainder is 6. [unclear] Remainder 3.,00:14:52
+dgqailz,104,tutor,"Okay, you say it's 131 remainder 3, is it?",00:15:15
+dgqailz,105,student,"Yeah, but yeah, 3.",00:15:21
+dgqailz,106,tutor,"Let's see. [unclear] Okay, so you have 7 where you have only 1 group of 6 there. Okay, so what is this 1 you have put to the tens column?",00:15:25
+dgqailz,107,tutor,A remainder.,00:15:41
+dgqailz,108,student,"The remainder from the hundreds, right?",00:15:44
+dgqailz,109,tutor,"Yeah. All right. So you have 18 tens. 18 tens, you can put 3 groups of 6.",00:15:53
+dgqailz,110,tutor,"That's correct. So when it comes to 9, you don't have any remainders from the 10. [unclear] Okay, yes, definitely your answer is correct, Silas. That's a very good work and a good explanation, right? So you answered that independently, so that is really, really impressive. All right. So moving forward, we have the follow-me [unclear] slide. Let me go through the follow-me slide first, and then you can answer the other part. Okay? Is that okay?",00:16:07
+dgqailz,111,student,Yeah.,00:16:48
+dgqailz,112,tutor,"Okay, let's go. Let's look at what happens when the digit in the thousands column is smaller than the divisor.",00:16:49
+dgqailz,113,tutor,Okay.,00:17:02
+dgqailz,114,student,"So our digital thousands column is smaller than the divisor, which is 2. We have to divide 2472 by 6. So starting with 2, we don't have anything in the— we can't put 2 into groups of 6, right? [unclear]",00:17:03
+dgqailz,115,tutor,"So if you put a 0 there, you have 2 remaining, isn't it?",00:17:25
+dgqailz,116,student,Yes.,00:17:36
+dgqailz,117,tutor,"So if we put— we exchange them with 2,500. We exchange the 2,000s for 2,500.",00:17:36
+dgqailz,118,tutor,"So, now we have 2,400 numbers. Now we are going to put 2,400 into groups of 6, where we have 6 groups of 6 in 24. Am I correct? Sorry, 4 groups of 6 in 24. Am I correct?",00:17:52
+dgqailz,119,student,Yes.,00:18:17
+dgqailz,120,tutor,"Alright. Then, um...",00:18:17
+dgqailz,121,tutor,"Now we have 24. We don't have any remainders. Then when it comes to 7, we can put only— we can have only one group of 6 in 7, and we will be having one remainder there, which is— which we can exchange as 10 ones and 1 zero.",00:18:24
+dgqailz,122,tutor,"So altogether we have 12 ones. 12 ones, when we put it into groups of 6, we can make 2 groups of 6 out of 12, right? [unclear] And finally, I don't have any remainders because it is divisible by 6.",00:18:49
+dgqailz,123,tutor,"So we can use— visualize— we can use the visualization to divide this number. You can see we have only 2 thousands. We can split it into 6 parts. So we give this straight away, 2 thousands. We convert it into hundreds.",00:19:16
+dgqailz,124,tutor,"So we have 20 hundreds, altogether we have 24 hundreds then.",00:19:40
+dgqailz,125,student,[unclear],00:19:45
+dgqailz,126,tutor,"Okay, and yeah, so if you visualize the number, you have 2 thousands, 4 hundreds, 7 tens, and 2 ones. When you divide 2472 by 6, you will get 412 with no remainder.",00:19:45
+dgqailz,127,tutor,"Okay. All right, Silas. Right, go ahead. You can answer the [unclear] part. Please explain how you do the short division here. Okay.",00:20:11
+dgqailz,128,student,"So how much 8 going to 1? That's 0. So we carry down 1. 8, how much 8 going to 16? That's 2.",00:20:24
+dgqailz,129,tutor,"Yeah. How much is 8 going to 9? That's 1, but not 11. [unclear] 1. How much is 8 going to 16 again? Which is 2. So 1,000. So that means the answer to this question is 212.",00:20:41
+dgqailz,130,student,212.,00:21:01
+dgqailz,131,tutor,"Okay, right. Definitely, that's the correct answer, Silas. I'm really impressed the way you worked out and the way you explained each and every step to me. That's really awesome. Well done. Okay, so that means you can answer these two questions all by yourself now, and you have to show me the workings in the given space here.",00:21:04
+dgqailz,132,tutor,All right.,00:21:33
+dgqailz,133,student,Okay. [unclear],00:21:42
+dgqailz,134,tutor,So how much 5 going to 6? That's 1. Carry the 1.,00:21:45
+dgqailz,135,tutor,So how much 5 goes into 16? That's 3. Carry the 1. How much 5 goes into 11? That's 2. Carry the 1. So how much 5— 15 goes into 30? That's 1. So then we got remainder.,00:21:55
+dgqailz,136,tutor,"Oh, the remainder of— [unclear]",00:22:23
+dgqailz,137,student,All right.,00:22:29
+dgqailz,138,tutor,of one.,00:22:29
+dgqailz,139,tutor,"As in 38,265. [unclear] 3,464. As in [UNCLEAR].",00:22:49
+dgqailz,140,student,"Yes, 100.",00:23:08
+dgqailz,141,tutor,"So how much fog 4 goes into 3, that's 0. So that's 0, carry the [UNCLEAR].",00:23:14
+dgqailz,142,tutor,Can you repeat that?,00:23:31
+dgqailz,143,student,So how much power is going to 14 group?,00:23:35
+dgqailz,144,background,"Yeah, Silas, after completing that, give your final answers on the blank. Okay, so 1,322. [unclear]",00:23:39
+dgqailz,145,tutor,"Yes, sir. So how much was going to party 2, which is 10? So we add 4.",00:23:55
+dgqailz,146,student,"All right, Ali.",00:24:04
+dgqailz,147,tutor,"And then, so how much 4 goes into 26? Which is 4. Carry the 2. How much 2 goes into 42? That's 10, so we have to carry the [UNCLEAR].",00:24:12
+dgqailz,148,tutor,"All right. Right, Silas. So I want you to explain me how you got",00:24:40
+dgqailz,149,tutor,"1322 and remaining 1. Only 1 remaining, right? [unclear] I'm going to type that again for you. [unclear]",00:25:10
+dgqailz,150,tutor,"It's the wrong question, right?",00:25:43
+dgqailz,151,student,"Oh yes, right.",00:25:44
+dgqailz,152,tutor,"Yeah, so you have to divide 6,613 by 5.",00:25:59
+dgqailz,153,student,So the answer will be—,00:26:04
+dgqailz,154,tutor,"How many groups of 5 will go into 6,613?",00:26:06
+dgqailz,155,student,[unclear],00:26:10
+dgqailz,156,tutor,One. And how many are remaining?,00:26:12
+dgqailz,157,student,One.,00:26:15
+dgqailz,158,background,"Yes, yes.",00:26:16
+dgqailz,159,tutor,"One, right?",00:26:18
+dgqailz,160,student,Yeah.,00:26:19
+dgqailz,161,tutor,"Okay, so how do you regroup the hundreds now?",00:26:20
+dgqailz,162,tutor,"So 6, how much 6 is going to 5? Which is 3. [unclear]",00:26:24
+dgqailz,163,tutor,So how much 11 is going to 5? Which is 2.,00:26:32
+dgqailz,164,student,"Just 2, yeah.",00:26:43
+dgqailz,165,tutor,Again 13.,00:26:45
+dgqailz,166,tutor,"Yeah, I can touch him. So basically, sort of, that's cool. [unclear]",00:26:50
+dgqailz,167,student,Are the two [UNCLEAR]? Remainder 1. So how do you get the remainder 1? [unclear],00:27:05
+dgqailz,168,tutor,Yes. [unclear],00:27:25
+dgqailz,169,student,3. [unclear],00:27:30
+dgqailz,170,tutor,"Yeah, so can you tell me how many groups of 5 are there in 13?",00:27:42
+dgqailz,171,student,So that's 2 big— it's not 3.,00:27:55
+dgqailz,172,tutor,"Okay, then remain the 3.",00:28:00
+dgqailz,173,tutor,And what's 2 times 5?,00:28:05
+dgqailz,174,student,10.,00:28:12
+dgqailz,175,tutor,"10, right. So out of 30, you can put only 10 into the group, 10 into 2 groups of 5. So then how many are remaining? [unclear]",00:28:13
+dgqailz,176,tutor,"Yes. Okay, so what made you think that it's only one? [unclear] All right, it's all right. So I'm really glad that you understood your mistake and corrected it. So well done. Okay, so with that,",00:28:33
+dgqailz,177,tutor,Let's move on to the next part and you can correct it there. [unclear] [unclear],00:28:59
+dgqailz,178,tutor,"Okay, Silas, can you please correct the answer here? [unclear]",00:29:25
+dgqailz,179,tutor,"All right, good.",00:29:51
+dgqailz,180,tutor,Let's move on to the next question now.,00:30:17
+dgqailz,181,student,"Yes, Ali.",00:30:20
+dgqailz,182,tutor,"I'm going to rub this part off and I want you to redo it again, okay?",00:30:20
+dgqailz,183,student,Okay.,00:30:25
+dgqailz,184,tutor,"So you have to divide 3,264 by 4, right?",00:30:28
+dgqailz,185,student,"Yeah, so how much goes in? How much goes in? 3,000, 0, [UNCLEAR].",00:30:37
+dgqailz,186,tutor,"How much flour is going to tea, which equals 0? [unclear]",00:30:45
+dgqailz,187,student,So now we're gonna carry that through. How much tea is going to 32? How much flour is going to 32? How much flour is going to 32?,00:30:54
+dgqailz,188,tutor,"Which equals 4, 8, 20, 18, 20, 24, 28, 32. So that is 8, I think. [unclear] And then how much 4 is going to 6? Which is 4, 8, 16, 20, 24, 28, 32. So that is 8, I think. And then how much 4 is going to 6? Which is 4, 8, 16, [unclear] So how much was going to 24.6?",00:31:10
+dgqailz,189,tutor,And there's no remainder.,00:31:53
+dgqailz,190,student,Right. So what about this one's here and this one's here?,00:31:55
+dgqailz,191,tutor,This one's wrong and this one's right.,00:32:00
+dgqailz,192,tutor,"Why did you make this mistake then? What made you think that 141 remaining 2 will be the correct answer? [unclear] It's because, Silas, so you messed up with the numbers, right? You wrote down the numbers just in a mess and you couldn't find out the numbers clearly. That's why your answer went wrong. Other than that, you did a great work there, right? Did you get what I said?",00:32:04
+dgqailz,193,student,Yeah.,00:32:52
+dgqailz,194,tutor,Okay.,00:32:54
+dgqailz,195,tutor,"So you did not do anything wrong there. You messed up the numbers, that's why your answer went wrong. So I want you to write down the correct answer there. [unclear]",00:32:55
+dgqailz,196,tutor,"Okay, so [UNCLEAR]. And that's why we always ask you to double-check your answers, right?",00:33:09
+dgqailz,197,student,Yeah.,00:33:22
+dgqailz,198,tutor,"Okay, good work anyways. I really appreciate your efforts and your hard work that you put here to give me a final answer. So that's really incredible, Silas. So you made a huge progress as well by the end of this slide. [unclear] Don't do the same mistakes again, always.",00:33:23
+dgqailz,199,tutor,"Go through the question twice and go through the workings twice to make sure you got the correct answer. Okay? All right, moving on to the last question for this lesson. [unclear] You can raise a question and let me know how to answer this one.",00:33:47
+dgqailz,200,student,"Ms. Jonah says 7,000 total [UNCLEAR]. Equally between the 3 grandchildren, how much do they receive each? [unclear]",00:34:08
+dgqailz,201,student,"So we're gonna do 7,484 divided by 3.",00:34:18
+dgqailz,202,tutor,Yes.,00:34:29
+dgqailz,203,student,So how much is—,00:34:30
+dgqailz,204,background,"First of all, one second, Silas, let me interrupt you. So first of all,",00:34:33
+dgqailz,205,tutor,"Why do you think that you have to divide 7,284 by 3?",00:34:39
+dgqailz,206,student,Because those are the only two numbers that you can divide by.,00:34:45
+dgqailz,207,tutor,What made you decide that this question talks about division? [unclear],00:34:50
+dgqailz,208,student,"So, power 3 going to 7, which is 2. We're going to carry the 1.",00:34:55
+dgqailz,209,tutor,How much cheese is going to 12? That is 4. [unclear] So how much cheese is going to 8? 2. [unclear] How much cheese is going to 14? That is 4. And that's the remainder. That's remainder.... [unclear],00:35:06
+dgqailz,210,student,"Yeah, I'm finished.",00:35:45
+dgqailz,211,tutor,"Okay, I see that you have remainder 1. Once again, I want you to write down the numbers clearly. So I'm not telling you're wrong, Silas. Your answer is very close. You have tried your best to give the closest answer. If you don't mind, shall I rub it off? So can you redo it again?",00:35:55
+dgqailz,212,student,So how much [unclear],00:36:20
+dgqailz,213,tutor,"Yeah, give me a second. I'll type down the number for you so it will be clear. [unclear] Okay, now you can go ahead and divide 7,284 by 3.",00:36:24
+dgqailz,214,student,"How much 3 is going to 7, which is 2 [UNCLEAR]. [unclear]",00:36:43
+dgqailz,215,tutor,"Yeah, remainder 1. So how much 3 is going to 21, which is 7. How much 3 is going to 4, which is— [unclear] [unclear]",00:36:57
+dgqailz,216,tutor,Okay.,00:37:14
+dgqailz,217,tutor,So how many 3s will go into 7?,00:37:41
+dgqailz,218,student,20. [unclear],00:37:48
+dgqailz,219,tutor,"2 groups, right? So you have 1 remaining. When you put 2— when you find 2 times 3, it will be 6. So 1 remaining, you regroup that 1 with the hundreds column, which is 1,200 now.",00:37:51
+dgqailz,220,tutor,"For 1200, how many 3s do you find in 12?",00:38:06
+dgqailz,221,student,4.,00:38:11
+dgqailz,222,tutor,"4, right?",00:38:13
+dgqailz,223,student,Yeah.,00:38:15
+dgqailz,224,tutor,So we find 400s there. And do we have any remainders that we need to carry to the tens column? [unclear],00:38:16
+dgqailz,225,tutor,No. Right. No. So then we have 8. How many groups of 3 will go into 8?,00:38:32
+dgqailz,226,student,Not 8. How much? That will be 2. [unclear],00:38:41
+dgqailz,227,tutor,So 2 times 6— 2 times 3 makes? 6. And how many are remaining right now? [unclear],00:38:48
+dgqailz,228,tutor,"Yes, remaining 2, right? There will be remaining 2 right here. So in 24, [unclear]",00:39:03
+dgqailz,229,tutor,Sorry.,00:39:33
+dgqailz,230,student,So can you write 1863?,00:39:34
+dgqailz,231,tutor,"Yes, definitely you have. In 24, you have 8. 25 times 3, right? [unclear]",00:39:43
+dgqailz,232,tutor,"Yeah. All right, so do you have any remainings afterwards?",00:39:52
+dgqailz,233,student,No.,00:39:58
+dgqailz,234,tutor,"No, right? Okay, so what's your final answer now?",00:40:00
+dgqailz,235,student,"2,428.",00:40:06
+dgqailz,236,tutor,"Yes, 2,428. With remainders or no remainders? [unclear]",00:40:13
+dgqailz,237,tutor,No remainders.,00:40:21
+dgqailz,238,student,No remainders.,00:40:24
+dgqailz,239,tutor,"Exactly, Silas. So what do you think about this answer and your first answer?",00:40:25
+dgqailz,240,student,"The first answer was wrong, but third one was right.",00:40:32
+dgqailz,241,tutor,"Yes. So first one, you did not go through this calculation very carefully, right? So that's why you made the mistake there. And the second— during the second question, you were very careful how much you carry out and [UNCLEAR]. Right?",00:40:49
+dgqailz,242,student,Yeah.,00:41:11
+dgqailz,243,tutor,"Okay. So, Silas, so by coming to the end of the session and the end of the lesson, how do you feel about yourself with dividing into short division and exchange? [unclear]",00:41:12
+dgqailz,244,tutor,How do you answer this question now?,00:41:36
+dgqailz,245,student,"Okay, that was 6.1. I really wanted to cut it off. How much is 6.62, which is 10? Now, so how much is [UNCLEAR]? [unclear]",00:41:39
+dgqailz,246,tutor,"All right, so I really appreciate your efforts once again. So can you",00:42:03
+dgqailz,247,tutor,Can you tell me how much— [unclear] How many ones can— one can go into groups of 6?,00:42:27
+dgqailz,248,student,Zero.,00:42:34
+dgqailz,249,tutor,"Zero, right. So you can regroup that one with the hundreds. So how many hundreds do you have now altogether?",00:42:36
+dgqailz,250,student,So you have zero.,00:42:48
+dgqailz,251,tutor,The one you got from the thousands?,00:42:52
+dgqailz,252,student,Yeah.,00:42:55
+dgqailz,253,tutor,How many hundreds do you have in total now? [unclear],00:42:56
+dgqailz,254,tutor,What do you mean by this?,00:43:21
+dgqailz,255,student,"So there's one 7, one 100, there's 4 tens, and there's 7 ones.",00:43:26
+dgqailz,256,tutor,"What do you mean by this, Silas? If I put a 1 here, what do you mean by that?",00:43:37
+dgqailz,257,tutor,"So then that becomes 10. Yeah, can you redo it again? Can you tell me how many groups of 6 will go into 1? [unclear] 0, right? So how many are remaining afterwards?",00:43:45
+dgqailz,258,student,10. [unclear],00:44:04
+dgqailz,259,tutor,So how much is 6? [unclear],00:44:13
+dgqailz,260,student,Have you finished?,00:44:15
+dgqailz,261,tutor,"So that's 2, and then there's no remainder. How much is 6 divided by 8, which is 1, and then the remainder is 2. So how much is 20 [unclear]",00:44:19
+dgqailz,262,tutor,"Definitely, that is very correct, Silas. So I don't know what made you think the previous answer as your final answer. What I can tell you is you do a really good job at dividing, but you have to be very careful. You have to double-check your answer. [unclear]",00:44:38
+dgqailz,263,tutor,I think you have done it pretty good.,00:45:04
+dgqailz,264,student,"Very, very pleased because God—",00:45:06
+dgqailz,265,tutor,Yeah.,00:45:08
+dgqailz,266,student,"and then come on, are you done?",00:45:08
+dgqailz,267,tutor,"I think that's it, Silas. I really appreciate your independence and your hard work and your explanations as well. You explain your steps very clearly. That's awesome and that's really impressive. So yeah, we can end the session for today. So let's meet next week with a new lesson, okay? [unclear]",00:45:09
+dgqailz,268,tutor,"All right, see you then. Bye-bye.",00:45:36
+dgqailz,269,student,Bye-bye.,00:45:48

@@ -1,0 +1,143 @@
+session_id,utterance_id,role,content,timestamp
+libkram,0,background,[unclear],00:00:00
+libkram,1,student,Can you hear me?,00:00:00
+libkram,2,tutor,Yeah.,00:00:05
+libkram,3,student,"Okay, great. So, welcome back to the session, Declan. How are you doing?",00:00:06
+libkram,4,tutor,Good. [unclear],00:00:11
+libkram,5,tutor,"So how are you today, Declan?",00:00:17
+libkram,6,student,Good.,00:00:19
+libkram,7,tutor,"Okay. That's really great to hear. So we were doing rounding numbers to the nearest 10,000 and 100,000. All right, so do you remember what we did last week, Declan?",00:00:21
+libkram,8,student,Yeah.,00:00:34
+libkram,9,tutor,"Okay, so today we have to start with the [unclear] slide. All right?",00:00:35
+libkram,10,student,Okay.,00:00:40
+libkram,11,tutor,"Okay, so let's read the question first, Declan.",00:00:42
+libkram,12,student,Okay. [unclear],00:00:59
+libkram,13,tutor,"Yeah, so Hoki is thinking of a number. When rounded to the nearest 10,000, it is 350,000. When rounded to the nearest 100,000, it's going to be 400,000. So the question is, can you give a number he could be thinking of? So you have to figure out what could be the number he is thinking of, right? So do you have an idea on how to do that, Declan?",00:01:05
+libkram,14,student,[unclear] [unclear],00:01:30
+libkram,15,tutor,"500,000? Okay, so can you like give me a reason on why is it going to be 500,000?",00:02:13
+libkram,16,student,"Because it was around 100,000 was rounded to 400,000, so",00:02:21
+libkram,17,student,It's been moved up one number.,00:02:29
+libkram,18,tutor,"Okay. Okay, so actually there are two hints, right? There are like two conditions over here. So the first one is when rounded to the nearest 10,000, it is going to be 350,000. So we have to check a number when rounded to the nearest 10,000, it will be rounded to 350,000.",00:02:35
+libkram,19,tutor,"Okay, so we know that when we round to the nearest 10,000, we first look at the 10,000s column and then the next column, right? So usually, for it to be rounded to 350,000, it either has to, you know, like be [unclear] lesser than 50,000. Okay, and like it should be lesser than 54,000, right? So what we are going to do is we are going to check what are going to be the number— we are going to check a range of numbers. So usually to round up to 350,000, we can have from numbers from like 300 and [unclear] 45,000 to, uh, like 354,000. Okay, so any number range, any number between this range, it will be rounded to 350,000. Okay, and then next we are going to consider what are going to be the number ranges, uh, when rounded to the nearest 100,000. It's going to be 400,000. [unclear]",00:02:58
+libkram,20,student,Okay.,00:04:19
+libkram,21,tutor,"So we know that when we are rounding to the 100 100,000, we look at the 100,000s column and then the 10,000s column, right? So in the 10,000s column, we need to have a particular number where it will be either rounded up to 400,000 or either rounded down to 400,000, right? So the number range can usually be, you know, something like [UNCLEAR].",00:04:20
+libkram,22,student,Yeah.,00:04:20
+libkram,23,tutor,"Let's say 300 and... So if it's like greater than 300 and [UNCLEAR], it will be rounded up to 400,000 when we round it to the nearest 100,000, right? So now we are going to find a particular number range where both of these would included. Okay, so in that number range, you should be able to round to the nearest 10,000 and get 350,000, and then you round to the nearest 100,000, it should be 400,000.",00:04:52
+libkram,24,student,[unclear],00:05:31
+libkram,25,tutor,"So actually, so over here from the two ranges we have, what we can say is we can have numbers that are greater than 350,000.",00:05:32
+libkram,26,tutor,"We can start with 350,001.",00:05:48
+libkram,27,student,"To, you know, like particularly a number up to 354,000. [unclear] It's like it's lesser than 355,000. So we can go up to 354,999. So any number between these",00:05:53
+libkram,28,student,"This range can be the number [unclear] could be thinking of, right? So if you give me any number that is in this particular range, it will apply to both the conditions and it will be the answer. So yeah, we can take something like 300 and let's say 52,000 or maybe 353,000. 350, 3,400. I was like, yeah, some, uh, any number like that, any number between this particular range. All right, Declan?",00:06:15
+libkram,29,student,Yeah.,00:06:55
+libkram,30,tutor,"Okay, so did you understand that part?",00:06:57
+libkram,31,student,Yeah. [unclear],00:07:00
+libkram,32,tutor,"Do you understand, uh, that part, Declan?",00:07:01
+libkram,33,student,Yeah.,00:07:07
+libkram,34,tutor,"Okay. Okay, um, so do you have any questions or any doubts about that?",00:07:09
+libkram,35,student,No.,00:07:16
+libkram,36,tutor,"No. Okay, so, uh, Declan, that's actually the end of this particular lesson. So before we move on to our next lesson, can you tell me, uh, what are the things we learned in this lesson and what are the particular question types we discussed in this lesson? Likewise, can you give me a small summary about it, about the lesson?",00:07:17
+libkram,37,student,Like how around— [unclear] I learned round numbers better and—,00:07:43
+libkram,38,student,[unclear] I just got better at rounding since that session.,00:08:09
+libkram,39,tutor,"I'm sorry, Declan?",00:08:14
+libkram,40,student,I got better at rounding.,00:08:17
+libkram,41,tutor,"Yes, so about rounding, that is correct. So we learned how to round up to the nearest 10,000, nearest 100,000. So the summary is whenever you have to round up to a particular number, let's say 10,000, you first look",00:08:20
+libkram,42,student,"the 10,000s column and the column next to it, right? So if in the column next to it, if it has a number which is 5 or greater than 5, we round up, and if it's less than 5, we round down. And also, it's really important to identify the particular ranges and the particular multiples they are going to be in between, right? So, uh,",00:08:36
+libkram,43,tutor,"Yeah, okay, so let's move on to our next lesson and see what's going to be the next lesson. Yes, uh, yeah, so comparing numbers with up to 2 decimal places. So here we will be comparing decimals. Yeah, not just a 1 decimal place, but numbers with 2 decimal places, right? Okay, so, um, I think that you might have done these kind of questions before. So first I want you to do the learning goal question so I can get a particular idea about what you already know. All right?",00:09:03
+libkram,44,tutor,Yes. [unclear],00:09:39
+libkram,45,tutor,"James, okay, can you tell me why?",00:10:13
+libkram,46,student,"Because it has 2.45 and if you have a look, it's a new phone, it says 2.3 there.",00:10:15
+libkram,47,student,"And then 2.45 is the biggest, or [UNCLEAR].",00:10:27
+libkram,48,tutor,"Yeah, okay, so when you compare the particular decimals, what you're going to do is you're first going to look at the ones column, okay? And since over here, like, all the numbers in the ones column are the same, right? It's 2, 2, 2, and 2. So the next thing we are going to do is we're going to move on to the next column. Okay, so over here we have 4, 5, 0, and 9. Okay, so we start from the highest column, which is [unclear] column, and then go to the lower ones. So from the next column, we can see there are like different numbers, and as you can see, we have 4, 5, 0, and 9. So out of 4, 5, 0, and 9, which one is the largest number? Declan?",00:10:27
+libkram,49,student,2.9.,00:11:20
+libkram,50,tutor,"Yes, that's correct. The 9 is going to be the largest one, so that would mean Katie would be the one that jumped the furthest and won the competition. Okay, so that's how you compare the particular decimals. Okay, you are going to particularly look at the place values and then compare it with each other.",00:11:23
+libkram,51,tutor,"Okay, so don't worry, we will be looking into this in our future slides. But before that, let's move on to the prior learning question. Okay, so I want you to do the prior learning question also. Shall we do the prior learning question?",00:11:49
+libkram,52,student,Yeah. [unclear],00:12:04
+libkram,53,tutor,Greater than. Can you tell me why did you put 0.62 as the greater one?,00:12:17
+libkram,54,student,"Because the 6 is bigger than the 3, so it's 6 point— so it's going to be 0.62.",00:12:24
+libkram,55,tutor,"Okay, so as I told you, you first have to check out the ones column, right? So when you check out the ones column, out of 0 and 1, which one is the greater?",00:12:33
+libkram,56,student,1.,00:12:33
+libkram,57,tutor,"Yes, so actually it would be the greater one. 1.31 is greater than 0.62, right? So, okay, so let's move on to our prior learning slide, Declan. So let's just read this particular part over here. [unclear] So [UNCLEAR]...be able to compare numbers with the same number of decimal places.",00:12:33
+libkram,58,tutor,"before comparing decimals with up to 2 decimal places, we need to be able to compare numbers with the same number of decimal places. Here, so we first have 1.43 and 0.46. So let's read, uh, out this part. We need to first compare the whole numbers, then the fractional parts of the number, right? Okay, so we first, as I said, we are going to compare the whole numbers, which means we are going to compare the ones column. Okay, which means the first column. Yeah, we are going to compare the 1 and the 0. So which one is greater and which one is lesser?",00:12:33
+libkram,59,student,One.,00:14:04
+libkram,60,student,"Yes, that's correct. So this would be the answer. 1.43 is actually greater than 0.46. So you start with the ones column, right? You start with the whole numbers, you start with the first column we have, and then we move on. If they are the same only, we will move on to our next columns. But if from the first column we can get an answer of which one is greater and which one is lesser, then we are going to, uh, consider the first column. Okay. All right. So do you have any questions about that, Declan?",00:14:06
+libkram,61,student,No.,00:14:42
+libkram,62,tutor,"All right. So in the same way, thinking in the same manner, let's do the second question. So in the second question, we have Part A and B. I first want you to do the Part A. Okay. [unclear]",00:14:42
+libkram,63,student,Do I look at the second number or the first?,00:15:08
+libkram,64,tutor,"Okay, so I want you to decide, okay? So maybe you can just write it down in the place value chart, then it will be easier for you to compare. So we have 1.14.",00:15:11
+libkram,65,tutor,and 1.72.,00:15:11
+libkram,66,student,Okay.,00:15:11
+libkram,67,tutor,"Right, so as I said, in every question you're first going to look at the ones column. And if they are the same— now in this case it's the same, right? We have 1 and 1. So then we move on to our next column and check which one is greater. So in this column we have 1 and 7. So now we will— we can compare because these are two different numbers, right? So which one will be greater and which one will be lesser? [unclear]",00:15:33
+libkram,68,tutor,"Yes, that's correct. 1.72 will be great. So likewise, in like all the cases, you have to check the ones column, the first column first, right? And then you move on to the next columns. So in the same way, let's do the Part B, shall we? [unclear]",00:16:08
+libkram,69,tutor,3.7 and 0.13. [unclear],00:16:46
+libkram,70,student,"Yeah, so 0.37 is greater. That's correct.",00:17:13
+libkram,71,tutor,"Okay, awesome effort over there, Declan. Very well done.",00:17:19
+libkram,72,tutor,"Right. So now we're going to move on to our [unclear] slide. Over here it says, when comparing decimals, it is important to understand the value of the digits and their relative size. Okay? So which means whenever you're comparing the particular decimals, you have to understand, okay, if this is in the ones column, it will have a greater value rather than if it's in the one-tenth column. Right? Likewise, you have to have an idea about what are going to be the values of the particular digits and which one is going to be bigger and which one is going to be smaller, because that's how we are going to decide which one is the greater one and which one is the lesser one.",00:17:22
+libkram,73,student,"So Part A, we have 1.2. Okay, so this is how we usually represent the particular fraction. We put We, uh, we color the entire whole and then we have 2 tenths, right?",00:18:12
+libkram,74,tutor,Okay.,00:18:30
+libkram,75,student,"So now this would be 1.2. So we have a small sentence to fill up, and we have 1.2 is blank whole and blank tenths. So we know that 1.2 has",00:18:31
+libkram,76,student,So I have [unclear],00:18:51
+libkram,77,tutor,"One whole and two tenths. Right? We have one entire whole and two tenths. Okay, 1.11, can you fill in that, Declan? Can you fill in the blanks in 1.11? So it says 1.11 is blank whole, blank tenth, and blank hundredth.",00:18:53
+libkram,78,tutor,"Okay, so over here it's going to be 1 whole, 1/10, and 1/100. 1/10 and 1/100. Why? Because if you write it in [unclear]",00:19:28
+libkram,79,tutor,"In the ones column, which means we have 1 whole, and then in the one-tenth column we have 1, which means 1 tenth, and then in the hundredths column we have 1 again, which means 1 hundredth. So you do not put 11 like this in— like this, okay? So when we have 1.11, it would mean that we have 1 tenth and 1 hundredth.",00:19:50
+libkram,80,tutor,Right.,00:20:15
+libkram,81,student,"Yes. Okay, so now we are going to compare the two. So we have 1.2. So in a case like this, where in like one decimal you have two numbers after the decimal, and over here we have only one, right? We have only two. But in this case, you can put a zero. As you might have already known, you can put a zero in the back of the number because it represents nothing, right? So you can put a 0 for your convenience. Now I want you to compare the two and tell me the answer. What is going to be the greater one and what is going to be the lesser one? [unclear]",00:20:16
+libkram,82,student,"So, uh, no, it's 1,000 divided",00:21:04
+libkram,83,student,"Yes, 1.2 is going to be the greater. Very well done. Okay, so now I can see that you have, you know, like understood how to compare the particular decimals. So let's move on to our [unclear] and your turn slide. So it says it can help to write the numbers beneath each other to compare.",00:21:11
+libkram,84,tutor,So that's what we did even in the previous slides.,00:21:36
+libkram,85,student,Yes.,00:21:40
+libkram,86,tutor,"So we have 0.7 and 0.63. So after the 7, we are going to put a 0 because that's really convenient for us, and then we write the 0.63. So first, write each number in the place value chart. We already did that. The first number has [unclear] tens. Okay, so now we know that in the ones column, we have 2 zeros, which means we will have to move on to our next column. Column, which is the tenths column. And when you're moving on to the tenths column, we have in the first number we have 7 tenths, and in the second number we have 6 tenths, right? So as we already know, usually if we have like— if when we have the greater number, which is the 7 tenths, the particular number would be the greater one. So 0.7 is going to be greater than 0.63.",00:21:41
+libkram,87,student,"[unclear] And that's going to be the answer. All right, Declan, so do you agree with me?",00:22:34
+libkram,88,student,Yes.,00:22:41
+libkram,89,tutor,Do you have any questions regarding that?,00:22:41
+libkram,90,student,Nope.,00:22:44
+libkram,91,tutor,"Okay, so let's do the Your Turn question then. [unclear] [unclear]",00:22:46
+libkram,92,tutor,"So, I knew that was the favorite one by you. [unclear]",00:23:19
+libkram,93,student,"So I have to times 50 by 100, then I have to do that divided by 10. 75 divided by 10 would be 7.5. So, because it was [unclear] divided by 10 as well.",00:23:29
+libkram,94,student,"Yes, 2.3 is going to be greater than 2.12. That's correct.",00:23:56
+libkram,95,tutor,"Very well done. Okay, so good working out over there, Declan. I'm very impressed. So now we're going to move on to our next slide, which is the usual slide. So in Part A, we have write the decimal number shown and compare using greater than, less than, or equal. All right, so We have two numbers represented. The first thing you have to do is you have to identify what are these two numbers, and then you can compare. [unclear]",00:24:01
+libkram,96,tutor,All right.,00:24:36
+libkram,97,student,1.25 and 1.5.,00:25:16
+libkram,98,tutor,"Okay, so over here I want to correct a small thing, Declan. Okay, so whenever, as you can see over here, we don't have any tenths, right? We don't have any tenths. But when we don't have any tenths, what we have to do is we have to put a zero over there. Okay, otherwise the entire, like, The entire answer is going to be changed, right? Because when we don't have any tenths, we put the 0, and it's going to be 1.05. And if you do not put the 0, it's just going to be 1.5, and it will give you a different answer, right?",00:25:20
+libkram,99,student,[unclear],00:25:58
+libkram,100,tutor,"So it's actually going to be 1.05. This particular number is correct, but over here we don't have any tenths. We will have to put the 0 in the tenths column.",00:25:58
+libkram,101,tutor,"Okay, so now I want you to compare the 1.25 and 1.05. This was for 1.5 and 1.25, right? [unclear] Yeah, okay. So over here the number shown is 1.05, so I want you to compare it again and tell me the answer. Will it be the same or will it be different?",00:26:10
+libkram,102,student,"It will be different because now that there is a zero in the middle, it would be 1.25.",00:26:39
+libkram,103,tutor,"Yes, that's correct, Declan. So since we have zero in the tens column, so now it will change the entire answer, right? So what's going to be the correct answer then?",00:26:48
+libkram,104,student,1.25.,00:26:59
+libkram,105,tutor,"Yeah, uh-huh. So which one— which side is going to be the greater one?",00:27:01
+libkram,106,student,Wouldn't it be 1.25?,00:27:06
+libkram,107,tutor,"Yes, it would be 1.25. Okay, so awesome effort over there, Declan. Very well done. Sorry, I couldn't see the symbol previously. Now I can see it. Okay, so awesome. So let's move on to the Part B, shall we? It says complete using the correct symbol, greater than, lesser than, or equal.",00:27:12
+libkram,108,student,Great.,00:27:37
+libkram,109,tutor,"Yes, 2.6 is going to be the greater number. Very good. So then we want to see over here, we have a different question. What digit could go in the empty space to make this correct? Okay, so 1.08.",00:27:41
+libkram,110,tutor,"And we have 1. blank 5, and you have to put a particular number so that over here the statement will be correct, so that this particular side is going to be greater. Okay. [unclear]",00:28:00
+libkram,111,student,"1.35, yes.",00:28:21
+libkram,112,tutor,"So we can put any number greater than 0 and lesser than 10, right? So yes, we can put 1.35. Okay, so good working out over there, Declan. Very well done. So now we are going to move on to go further slide. Okay, so over here we have the table shows how far some children jumped in a long jump competition. Right? And we have the particular names and the distance they jumped. So you have to decide who jumped the furthest and won the competition. Right? So how— like, okay, so you can just work it out and tell me the answer. So you have to give me the particular name of the particular child. [unclear]",00:28:26
+libkram,113,student,Oh! [unclear],00:29:17
+libkram,114,student,"Uh-huh. Yes, 3.4.",00:29:58
+libkram,115,tutor,"Yes. So 3.4 means it's max, right?",00:30:10
+libkram,116,tutor,"You have to write— yes, you have to write the particular— you have to write max, okay, because this is the distance [UNCLEAR]. And yes, that's going to be the greatest one, but still you have to write the particular name. All right, Declan?",00:30:14
+libkram,117,student,"So let's write down— yeah, so because it's asking who jumped the furthest and won the competition, right? So you have to write the particular name. It's true that 3.4 is the longest distance, so yeah.",00:30:14
+libkram,118,tutor,"That's correct. Next. All right, so again, awesome effort over there, Declan. Really well done. I'm very proud of you. So that's actually the end of this particular lesson. Okay, so before we move on to our next part, shall we do a small summary about this particular lesson?",00:30:45
+libkram,119,student,"Uh, yeah.",00:31:10
+libkram,120,tutor,"Yeah, so what did we learn in this lesson? What are the new things we learned?",00:31:11
+libkram,121,student,"Yeah, so I learned how— I like know how— like, so I know now if which one, like with decimals and stuff, what's bigger and smaller now. So, and yes, like how use the grids like these.",00:31:17
+libkram,122,student,Yeah.,00:31:40
+libkram,123,tutor,"Yes. Yes, we learned how to use the place value chart to compare the particular decimals. Yeah, that's correct. Okay, so since we still have some time left, I think we can start the next lesson. So it's going to be multiplying and dividing whole numbers and decimals by 10 and 100. Okay, so I want you to first do the learning goal question. It says complete the calculation. So 2.06 times 100. [unclear]",00:31:41
+libkram,124,tutor,Hello?,00:33:04
+libkram,125,student,Hello?,00:33:05
+libkram,126,tutor,Are you working that out?,00:33:05
+libkram,127,student,Yeah.,00:33:09
+libkram,128,tutor,"All right, take your time, Declan. [unclear] 20.6. So how did you find that out? Did you do the long multiplication?",00:33:11
+libkram,129,student,So I'll show you how I worked out on this.,00:33:24
+libkram,130,tutor,Okay. [unclear],00:33:31
+libkram,131,student,"And then I put a decimal point there, and then I had to move 2 places that way, so it [unclear] would be— the 2 would go there and then the [unclear] and then it was the 6 that goes there.",00:33:35
+libkram,132,tutor,"Okay, so actually I think you have the idea. So yes, we've Like, actually, when we multiply a particular decimal or any number, that would simply mean that the number is going to be bigger, right?",00:34:11
+libkram,133,student,[unclear],00:34:24
+libkram,134,tutor,"Yeah, so if you multiply a certain number by 100, that would mean that it's going to be 100 times bigger. Yeah, so in a decimal, when you multiply by 100, it would mean that it's going to become 100 times bigger, and that would mean that this decimal over here will move 2 places to the right, and it would be over here. So actually, the answer is going to be 206. So don't worry, we will be looking into this in our future slides.",00:34:26
+libkram,135,tutor,"Okay, so I want you to also do the prior learning question. Okay, so you have to write the number that is shown in the place value chart and divide the number by 10.",00:35:00
+libkram,136,tutor,Okay. [unclear],00:35:10
+libkram,137,student,"Yeah, 41.2.",00:35:13
+libkram,138,tutor,And when you divide the number by 10. [unclear] [unclear],00:35:40
+libkram,139,tutor,"Yes, that's correct. 4.12 is going to be the answer. So yeah, very well done over there, Declan. So actually, we will have to stop the lesson for the day because we are running out of time. All right, so let's start with that lesson next week. This is for you,",00:36:08
+libkram,140,tutor,"Great. [Speaker] Please do the quiz and reflect on the session. Declan, I hope to see you next week. Until then, take care. Bye-bye.",00:36:28
+libkram,141,student,Bye. [unclear],00:36:36

@@ -1,0 +1,392 @@
+session_id,utterance_id,role,content,timestamp
+iriumgt,0,tutor,Hello.,00:00:00
+iriumgt,1,background,[unclear],00:00:00
+iriumgt,2,background,Hello.,00:00:00
+iriumgt,3,tutor,Hello.,00:00:00
+iriumgt,4,background,Hello.,00:00:02
+iriumgt,5,tutor,Hello. Can you hear me?,00:00:04
+iriumgt,6,background,"Yeah, I can hear you.",00:00:06
+iriumgt,7,tutor,"Hello, Kieran. Did I pronounce your name right? Is that so?",00:00:07
+iriumgt,8,background,Yeah.,00:00:12
+iriumgt,9,tutor,"All right, great. So Kieran, I'm [TUTOR_NAME] here, so I will be your tutor for today's lesson. All right, so let me warm you Welcome you back to another session.",00:00:13
+iriumgt,10,student,Yes.,00:00:23
+iriumgt,11,tutor,I was told that you had your very first session in your previous week.,00:00:24
+iriumgt,12,student,Yes.,00:00:29
+iriumgt,13,tutor,"Right, so you are here to learn math. So let me once again warmly welcome you back. Right, so before we start off with the lesson, Kieran, can you tell me, how was your day at school today?",00:00:29
+iriumgt,14,student,Okay. [unclear],00:00:39
+iriumgt,15,tutor,"Right. Yes, Kieran?",00:00:40
+iriumgt,16,student,Good.,00:00:44
+iriumgt,17,background,How did Althea—,00:00:45
+iriumgt,18,tutor,"Right, that's great to hear. Right, so that is a good enthusiasm. So on that positive note, shall we start off with the lesson that we have for today?",00:00:46
+iriumgt,19,student,Yeah.,00:00:54
+iriumgt,20,tutor,"Yeah, let's do it. Right, so what we have today is a continuation from your previous week. So can you remember you started this lesson in your previous week? [unclear]",00:00:55
+iriumgt,21,student,Yes.,00:01:07
+iriumgt,22,tutor,"Right, very good. So what's the name of this lesson?",00:01:09
+iriumgt,23,student,"Uh, addition and subtraction. Yes, so this is what you started. So we are going to learn some more about addition and subtraction today, right? So let's straight away go on to the place where you stopped in your previous week, right? So this is where you need to start today, right? So can you try to answer this question, the very first question? Can you try to answer it?",00:01:13
+iriumgt,24,student,[unclear],00:01:37
+iriumgt,25,tutor,"Yes, very good. [unclear]",00:01:38
+iriumgt,26,student,1-0-3. [unclear],00:01:43
+iriumgt,27,background,[unclear],00:02:08
+iriumgt,28,background,[unclear],00:02:43
+iriumgt,29,student,"9 and 1. 9, take away 1, that equals 8.",00:02:43
+iriumgt,30,tutor,"Alright, so what's going to be your answer? What were you trying to do, can you tell me?",00:02:52
+iriumgt,31,student,"8, 0.",00:02:58
+iriumgt,32,tutor,"So you can't do that, so you take away the 9.",00:03:01
+iriumgt,33,student,"And then you put the 6. 0. 9 take away 1, that's 8.",00:03:05
+iriumgt,34,tutor,"Right, so is your final answer 8?",00:03:13
+iriumgt,35,student,"No, my first answer is 8.",00:03:16
+iriumgt,36,tutor,"Alright, alright. So can you write down your answer?",00:03:19
+iriumgt,37,student,Yes. [unclear] 8.,00:03:27
+iriumgt,38,tutor,"8....and 9 to 0, you can't do that. So you take away... Oh, you can't do that.",00:03:29
+iriumgt,39,tutor,Right. I have a small question for you. How did you get this 8? Can you tell me? I'm curious to know about that.,00:03:40
+iriumgt,40,student,"Uh, can you say that again?",00:03:47
+iriumgt,41,tutor,"Yeah, sure. So how did you get this 8? I would really like to hear how you got your answer. [Speaker:Background]...because I thought that 9, uh, take away 1 equals 8.",00:03:49
+iriumgt,42,tutor,"All right, all right. Okay, so that was very clear. So this was a good effort by you trying to find the answer for these questions, right? So this is what we are going to do, right? So shall we go through these questions, these questions together and see what the answer is going to be, right? Let's do it then.",00:04:01
+iriumgt,43,student,Yeah.,00:04:20
+iriumgt,44,tutor,"In the next part, we have the same two questions, but we have some additional parts where you have an explanation for the question, right? So please read me over here. [unclear] So number 3, which one should I start with?",00:04:21
+iriumgt,45,tutor,"Right, so what you should do is, can you read this sentence for me first of all?",00:04:39
+iriumgt,46,student,"We can think of subtracting as finding the difference. When numbers are close to one another, it can be quicker to count...on to find the difference, that to take away.",00:04:44
+iriumgt,47,tutor,"Right, so there are two important things in these two sentences. So the first important thing is, Kieran, if you have a subtraction, that means this also the difference between those two numbers. For an example, if you take these two numbers, the subtraction means the difference between these two numbers. [unclear]",00:05:03
+iriumgt,48,student,Okay.,00:05:27
+iriumgt,49,tutor,"So that is the first point. And the next point is, if the two numbers are close to each other, when in a subtraction, if the numbers are close to each other, one quick way to find the difference between two numbers is to count from smaller number [unclear]",00:05:28
+iriumgt,50,student,Should I do column addition?,00:05:54
+iriumgt,51,tutor,"Right, this is not about column addition. This is about subtraction. And rather than doing a column subtraction, you can also do a column subtraction, but rather than doing that, Kieran, there is an easy method.",00:05:59
+iriumgt,52,student,"Okay, how?",00:06:11
+iriumgt,53,tutor,"That's what I'm going to tell about. Yes, yeah, that's what I'm going to tell about. Right, so what you should do is You should count from the smaller number up until your bigger number if the numbers are close to each other, right? So let's take this first question first of all, right? That is this. What is this? Can you read this out for me?",00:06:12
+iriumgt,54,student,This is count on from— [unclear] count on from the smaller number. How many—,00:06:33
+iriumgt,55,tutor,"So out of these two numbers, can you tell me what is the smaller number?",00:06:41
+iriumgt,56,student,"Uh, 996.",00:06:46
+iriumgt,57,tutor,Yes. So can you count on from 996 up until 1003 and tell me the difference?,00:06:49
+iriumgt,58,student,"996, 997, 998, 999, 1000, 1001, 1002, 1003.",00:06:59
+iriumgt,59,student,7.,00:07:12
+iriumgt,60,tutor,"That is going to be 7, right? So can you see the difference between the two numbers is 7?",00:07:13
+iriumgt,61,student,Yeah.,00:07:19
+iriumgt,62,tutor,"Yes, that means if you add a 7 to 996, what would you get?",00:07:20
+iriumgt,63,student,"1,000 and— [unclear] 1,003.",00:07:26
+iriumgt,64,tutor,"1,003. So can you write your 7 over here?",00:07:30
+iriumgt,65,student,Okay.,00:07:34
+iriumgt,66,tutor,"Very good. Brilliant. [unclear] Point, text.",00:07:36
+iriumgt,67,tutor,"Yes, you have to do text. Very good, very good. Now you know the difference between these two numbers is also 7. So your answer for this subtraction is going to be 7. [Speaker:Kieran]...out of this room. [Speaker:Tutor] Right, so is it clear how to find your answer?",00:07:46
+iriumgt,68,student,"Yeah, it's 7.",00:08:02
+iriumgt,69,tutor,"It's going to be 7. Excellent. So this is going to be your correct answer. Very good. Now similarly, let's go on to the second question. Right, so what was the second question?",00:08:05
+iriumgt,70,student,"Uh, number 4.",00:08:16
+iriumgt,71,tutor,This is this. Okay.,00:08:18
+iriumgt,72,student,"Yes. [unclear] 212, uh, take away 198.",00:08:20
+iriumgt,73,tutor,And how much is that equal to? What is the difference? What would you do over here?,00:08:28
+iriumgt,74,student,So you add the— you add the— till you get 212.,00:08:35
+iriumgt,75,tutor,"Very good, very good. Then how much do you have to add in that case? [unclear] 199, 200, 201, 202, 203, 204, 205. 204, 205, 206, 207, 208, 209, 210, 211, 212. So that's 14.",00:08:43
+iriumgt,76,tutor,"Very good, it's going to be 14. Excellent working out.",00:09:12
+iriumgt,77,student,Do I write on the box?,00:09:15
+iriumgt,78,tutor,"Yes, can you write your answers on the box?",00:09:17
+iriumgt,79,student,Okay. And I want you to write the same here as well.,00:09:20
+iriumgt,80,student,Okay. [unclear],00:09:28
+iriumgt,81,tutor,"Very good. Now these are the correct answers. Now is it clear how to answer this type of a question if you get a subtraction, Kieran?",00:09:34
+iriumgt,82,student,Yeah.,00:09:42
+iriumgt,83,tutor,"Right. So then what we are going to do is we are going to go on to the next part, and here are another couple of questions where you have to do the subtraction again. So now here, can you find your answers by yourself? I'm sure you can do that.",00:09:43
+iriumgt,84,student,Yeah.,00:09:59
+iriumgt,85,tutor,"Yes, you can. Very good. [unclear]",00:10:00
+iriumgt,86,tutor,All right.,00:10:03
+iriumgt,87,student,"Okay, 7, 75 for the cheese. [unclear]",00:10:09
+iriumgt,88,tutor,"0, 1, 7,",00:10:16
+iriumgt,89,tutor,"Right, so...",00:10:19
+iriumgt,90,student,8 to 9.,00:10:21
+iriumgt,91,tutor,"Or else, can you check and see whether you can use the previous method what you used in this part of the lesson? The method that you used over here, can it be used in these two questions as well? Can it be?",00:10:23
+iriumgt,92,background,"Okay, so 9 take away... 9 take away 1 equals 8. Yes, so now what you need to keep in your mind is, Kieran, the way you do the column subtraction is not the correct way, Corbin. All right, there is a, there is a different method you need to follow when you are working out in the column method. So what we do is, let's learn about the column method in a separate lesson. But today, let's use the method what we learned today. What is that method which we learned today?",00:10:40
+iriumgt,93,student,[unclear] [unclear],00:11:13
+iriumgt,94,tutor,"Yes, Kieran, you can tell.",00:11:22
+iriumgt,95,student,So you take away 801 till you get 789.,00:11:24
+iriumgt,96,tutor,"Yes, so what you do is you take away 789 from 801 because 801 is your bigger number. So what you should do to find the difference is you should count on from your smaller number up until your bigger number comes. So what will be your answer then? What's the difference?",00:11:31
+iriumgt,97,student,"780— 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 12, 12.",00:11:52
+iriumgt,98,tutor,That's going to be 12. So your answer for the question is going to be?,00:12:17
+iriumgt,99,student,12.,00:12:21
+iriumgt,100,tutor,"12, very good. So can you write it down over here?",00:12:22
+iriumgt,101,background,Excuse me.,00:12:26
+iriumgt,102,tutor,"Yes, yes, Kieran.",00:12:28
+iriumgt,103,background,"So I might need help, okay? On these questions.",00:12:30
+iriumgt,104,tutor,"What is it, Kieran? Can you please repeat it again?",00:12:35
+iriumgt,105,student,"No, if I get a mistake, can you try like helping me?",00:12:37
+iriumgt,106,tutor,"Of course, I will of course help you, Kieran. Don't worry about that. I'll always be here to help you out. All right, and also likewise, if you have any questions you need to ask, don't hesitate to ask them, okay? Feel free to ask them, right? I'm more than happy to help you out, okay?",00:12:42
+iriumgt,107,student,Okay.,00:12:57
+iriumgt,108,tutor,"All right. [unclear] Yes, next question.",00:12:58
+iriumgt,109,student,"So, 1,995, wait, 1,995, 1,996, 1,999,...97, 1998, 1999, [UNCLEAR], 2000. [Speaker:Tutor] Very good. 2000. Excellent.",00:13:04
+iriumgt,110,student,"2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008. So 13. [unclear]",00:13:41
+iriumgt,111,tutor,That's going to be 13. That's correct.,00:13:57
+iriumgt,112,student,Am I working good?,00:14:01
+iriumgt,113,tutor,"Yes, you are doing really good in this lesson. Kieran, very good. So both of these answers are correct. Now in the exam, if you answer two questions like this, you'll be given one mark each. All right, Kieran?",00:14:04
+iriumgt,114,student,All right.,00:14:17
+iriumgt,115,tutor,"All right, okay. So now, did you see that this method is very easy for you to find out your answers? This— and this method is very quick as well compared to your column method, isn't it? Right? So now, before we go to the next question, can you tell me, now, in— whenever you get a subtraction, what is the method you follow to find out the answer?",00:14:18
+iriumgt,116,student,So you—,00:14:41
+iriumgt,117,tutor,What do you do first?,00:14:42
+iriumgt,118,student,You count the small number. Till you get to the number that you're—,00:14:43
+iriumgt,119,tutor,"Very good, very good. Brilliant explanation. That's the correct explanation for it. Right now then, what we're going to do is let's move on to the next part of the lesson, right? So this is going to be something interesting.",00:14:49
+iriumgt,120,student,Okay.,00:15:02
+iriumgt,121,tutor,"Right, so now here there is a small hint here. Can you see what is this?",00:15:03
+iriumgt,122,background,Use the inverse.,00:15:08
+iriumgt,123,tutor,"Inverse, yeah, that is a little bit of a hint given to you. So now, can you try to find answers for these two questions? You can take a couple of minutes or a few minutes and try to find your answers. All right?",00:15:10
+iriumgt,124,student,"So 405 add 10, is that right?",00:15:22
+iriumgt,125,tutor,Is that so? Can you read this sentence? What does it say? How does it go on? [unclear],00:15:27
+iriumgt,126,student,10 add something equals 405. Very good. So that is the correct statement. So you add— [unclear],00:15:33
+iriumgt,127,tutor,"So you add something till you get 405. Yes, but the easy— there is an easy method to find the answer in this case rather than counting. That is to use the inverse. Do you know what the inverse is? That's something to get— gives you hint. Yes, so that is the hint. So do you know what inverse is, first of all?",00:15:44
+iriumgt,128,student,No.,00:16:13
+iriumgt,129,tutor,"All right, all right, don't worry about it. Um, right, so then shall we do it in this way? Shall we go through this question together, or do you want a minute or so to think about this a little bit more? What do you say? I'll give you the choice.",00:16:15
+iriumgt,130,background,"Uh, I'll try doing it. If I get it wrong, do you help me?",00:16:27
+iriumgt,131,tutor,"Of course, I will definitely help you. Right, then give it a try.",00:16:31
+iriumgt,132,student,So is it 405? Is it take away or add?,00:16:36
+iriumgt,133,tutor,What do you think is the correct method?,00:16:42
+iriumgt,134,student,Column addition.,00:16:45
+iriumgt,135,tutor,"Right, okay. So there is some sort of an addition happening here, but in order for us to find our answer, we cannot use the addition actually. Okay, so this is what we'll do, right? So as I told you earlier, let's go through this question together and let's see how we need to answer these questions, right?",00:16:48
+iriumgt,136,student,"Okay, yeah.",00:17:06
+iriumgt,137,tutor,"All right, and then just like earlier, I'll give you another 2 questions to try by yourself. Okay?",00:17:07
+iriumgt,138,student,Yeah.,00:17:13
+iriumgt,139,tutor,"Right, so here we have those 2 questions. Now here, there's something written over here. What does that say?",00:17:14
+iriumgt,140,student,"Okay. [unclear] What does it say? Can you read that out for me, Kieran?",00:17:21
+iriumgt,141,student,"Yes, we can use the inverse to solve [unclear] calculations with missing numbers.",00:17:29
+iriumgt,142,tutor,"Very good. So let me first of all tell you what inverse is. Now, inverse is the opposite sign or the opposite operation of whatever the operation that is given in the question. For example, the inverse of of addition is subtraction. Is it clear?",00:17:41
+iriumgt,143,student,Yeah.,00:18:01
+iriumgt,144,tutor,"Right. And similarly, right, so similarly, the inverse of subtraction is going to be addition. It is the opposite way, right?",00:18:02
+iriumgt,145,background,Okay.,00:18:17
+iriumgt,146,tutor,"So if you have an operation to add, then what you should do as your inverse? You should [unclear]",00:18:17
+iriumgt,147,tutor,"Subtract. Subtract. And if you have a subtraction as your operation, what you do is you do the addition, which is the inverse of subtraction. Is it clear?",00:18:24
+iriumgt,148,student,Yeah.,00:18:38
+iriumgt,149,tutor,"Yeah, right. So that is the simple meaning behind the inverse, right? Now let's see how we find the answers in this question, right? So this is the question which we have.",00:18:39
+iriumgt,150,tutor,There's something written over here. What does that say? It says—,00:18:48
+iriumgt,151,student,Swap the order so the missing number comes first.,00:18:52
+iriumgt,152,tutor,"Yes, so we need to swap this order so that the missing number comes first, and that is the only number in one side of the equal sign. So what we should do is we should take this 10 to the other side of the equation or the equal sign.",00:18:58
+iriumgt,153,student,Okay.,00:19:18
+iriumgt,154,tutor,"Right, right. So this is what you need to do. If you take away 10 from left-hand side, then what is remaining in your left-hand side? [unclear]",00:19:19
+iriumgt,155,student,"So you, so you, you need to put the 405 first and then the 10 second.",00:19:30
+iriumgt,156,tutor,"Yes, that is what you need to do. But now what I'm asking is If you take this side and if you subtract 10 from that side, what is remaining? [unclear]",00:19:38
+iriumgt,157,student,"405, 404, 403, 402, 401, 400, 399, 398, 397, 396, 395.",00:19:49
+iriumgt,158,tutor,395.,00:20:07
+iriumgt,159,tutor,"Right, very good. So your answer for the question is going to be 395. But how did we get that? Yeah, how did we get that?",00:20:10
+iriumgt,160,student,"So how would you get that? You subtract, subtract, uh, 405. You subtract 405, uh, you subtract, you subtract, uh, 10, uh, to 405.",00:20:19
+iriumgt,161,tutor,"Yes, you subtract 10 from 405 so that you will get the answer for this. Yeah, for this question or for this box, right?",00:20:34
+iriumgt,162,student,Yes.,00:20:44
+iriumgt,163,tutor,So can you write down your answer over here?,00:20:45
+iriumgt,164,student,I forgot the answer.,00:20:48
+iriumgt,165,tutor,What was the answer? It was 395.,00:20:51
+iriumgt,166,tutor,Very good. So can you write 395 at the bottom?,00:21:06
+iriumgt,167,student,"Yeah, here. Okay. Here.",00:21:10
+iriumgt,168,tutor,"Yes, there. That's where you need to write it down. Good. Then what's the answer going to be for this box over here?",00:21:19
+iriumgt,169,background,395.,00:21:27
+iriumgt,170,tutor,"Yes. Can you write it down over there as well, Kieran? [Speaker:Background]...395. [Speaker:Kieran] Okay. Very good, excellent. Right, next we go on to the next question, right? So let's try to see what we have to do in that part. What do we have to do in the next question?",00:21:28
+iriumgt,171,student,So you have to— [unclear] 328 take away 262.,00:21:44
+iriumgt,172,tutor,"Right, what is it? 300 and— 328 take away 262.",00:21:55
+iriumgt,173,tutor,"Is it take away? Now, what is the operation that is here?",00:22:06
+iriumgt,174,student,Add.,00:22:10
+iriumgt,175,tutor,"Yes, if the inverse— the inverse of whatever the operation that is here has to happen in order for you to find your answer. Now, since it's subtraction here, you need to add this number 262 to 328 to find the missing number. Right, so now can you do the calculation and find out the answer?",00:22:11
+iriumgt,176,student,Yeah.,00:22:34
+iriumgt,177,tutor,"Good, very good.",00:22:36
+iriumgt,178,student,"I got another way, like a different way.",00:22:37
+iriumgt,179,tutor,What's that?,00:22:41
+iriumgt,180,student,"So 300 add 200, that equals 500.",00:22:44
+iriumgt,181,tutor,Okay.,00:22:49
+iriumgt,182,student,"And now you do 62 add 28. Here, what is that?",00:22:51
+iriumgt,183,student,"Okay, 62.",00:22:57
+iriumgt,184,tutor,"Add 28. 8, add 2. 8, 8, 9, 10. 8, 9, 10. So you write 10 here. [unclear] [unclear]",00:23:05
+iriumgt,185,student,"Zero goes here and the one goes like somewhere here, goes here. And then you do, and then you do 6 2, that equals 8. And then you add the one, that equals 9. Very",00:23:27
+iriumgt,186,tutor,good calculation. That is the correct way to do an addition using column method.,00:23:46
+iriumgt,187,student,"Yes, so that's 590.",00:23:52
+iriumgt,188,tutor,That's gonna be 590. So can you write down your answer over there?,00:23:55
+iriumgt,189,student,Is that correct answer?,00:23:59
+iriumgt,190,tutor,"Yes, that is the correct answer. Excellent, very good working out.",00:24:01
+iriumgt,191,student,[unclear],00:24:05
+iriumgt,192,tutor,"Very good. So now I would like to tell you something, okay? You know, I really like the part where you use the method to add this By doing 300 add 200 first, and then you broke and you took the next part of the number and added that separately. That was a very good thinking by your part, Kieran, right? So that was brilliant from your end. I'm really happy with that work. Very good. So keep this good work up, Kieran, okay?",00:24:07
+iriumgt,193,student,Okay.,00:24:38
+iriumgt,194,tutor,"All right, brilliant. Right now then we move on to the next part, right? Here are another 2 questions for you, and I'm sure you can find answers for these 2 questions by yourself.",00:24:39
+iriumgt,195,student,Alright.,00:24:51
+iriumgt,196,tutor,"Alright, give it a try.",00:24:51
+iriumgt,197,student,"So this one is a takeaway, is that right?",00:24:53
+iriumgt,198,tutor,"Yes, that is your inverse, isn't it?",00:24:57
+iriumgt,199,student,"So is 7 with 7, 8, 2...? 6, 0. So that's a takeaway. 2 take away 0, that equals 2.",00:25:00
+iriumgt,200,tutor,Good.,00:25:24
+iriumgt,201,student,"8 take away 6, that equals 2 as well.",00:25:25
+iriumgt,202,tutor,Excellent. [unclear],00:25:29
+iriumgt,203,student,"And 7 take away nothing, that equals 7.",00:25:35
+iriumgt,204,tutor,Brilliant working out. [unclear],00:25:40
+iriumgt,205,student,So the answer is 722.,00:25:41
+iriumgt,206,tutor,"That's correct. Very good working out. Excellent. That is the correct answer. So whenever you answer a question like this, you'll be given 1 mark in your exam. All right. Okay, now here, now I would like to show you something. Now in this subtraction, you use the column subtraction method. Okay, then you had to take away. Now here you use the correct method to do the subtraction, right? It's always the number on the top. Okay, so the bottom number should be taken away from your top number. Okay, not the other way around. Okay, always you take away the bottom number from your top number. Is that clear?",00:25:49
+iriumgt,207,student,Yeah.,00:26:27
+iriumgt,208,tutor,"Right, very good. That was something additional for you to keep in your mind. Now since you answered that question, what about the next question?",00:26:27
+iriumgt,209,student,"The second one, this one.",00:26:36
+iriumgt,210,tutor,"Yes, the second one.",00:26:38
+iriumgt,211,student,So this one is add. [unclear],00:26:41
+iriumgt,212,tutor,"Very good, you clearly identified the inverse. Then what do you do?",00:26:43
+iriumgt,213,student,So 175 add 95.,00:26:49
+iriumgt,214,tutor,Very good. [unclear],00:26:54
+iriumgt,215,student,"9, 5.",00:27:02
+iriumgt,216,tutor,"95, excellent.",00:27:04
+iriumgt,217,student,"So now you do 5 add 5, that equals 10. So you put the 0 there.",00:27:07
+iriumgt,218,tutor,All right.,00:27:18
+iriumgt,219,student,And then you put the 1 here.,00:27:19
+iriumgt,220,student,"Okay, I might take like a little bit, okay?",00:27:23
+iriumgt,221,tutor,"All right, that's not a problem at all.",00:27:28
+iriumgt,222,student,"Okay, so now, all right, that equals 10. Now, 9 and 7. 9, 10, 11, 12, 13, 14, 15, 16. Add the 1, 7. 17. [unclear]",00:27:30
+iriumgt,223,tutor,"Pretty good. So the 7 goes here and the 1 goes here. So that, uh, 7— so that's, uh, 1 add the 1 equals 2.",00:27:45
+iriumgt,224,tutor,"There you go, brilliant, brilliant. That's gonna be the answer for this question. So can you write it down over here?",00:28:09
+iriumgt,225,student,"270. Yes, it's going to be 270. Excellent! So this is the correct answer as well. And for this type of a question also, you'll be given one mark at your exam. All right, now is it clear how to use this inverse method?",00:28:15
+iriumgt,226,student,Yes.,00:28:31
+iriumgt,227,tutor,"Right, very good. So do you have any questions, anything that you need to ask?",00:28:32
+iriumgt,228,background,"So, you know, when I do it, but like alone, I'm Yeah, I might need like some help. [unclear]",00:28:37
+iriumgt,229,tutor,I will definitely help you. Don't worry about that. I'm always there. All right.,00:28:46
+iriumgt,230,student,All right.,00:28:51
+iriumgt,231,tutor,"All right. I'm always on alert whenever you need help. I'll definitely give you that help during the lesson. Okay? All right. Then we go on to the final question of the lesson, right? So this is going to be something interesting, isn't it?",00:28:52
+iriumgt,232,student,Yeah.,00:29:08
+iriumgt,233,tutor,"How would you try to answer this question in [UNCLEAR]? [Speaker:Kieran] So 8,000? 8 million is—",00:29:09
+iriumgt,234,tutor,"Very good, very good. It's going to be 8 million.",00:29:23
+iriumgt,235,student,8 million and 41.,00:29:27
+iriumgt,236,tutor,Mm-hmm.,00:29:31
+iriumgt,237,student,41 and then 24 to 1.,00:29:32
+iriumgt,238,student,420.,00:29:38
+iriumgt,239,tutor,"It should be 8,041,020. [unclear] 8 million and 41,000. Yeah, so can you remember, can you remember, can you remember your thousand groups? So your first comma comes on to your millions and your second comma comes on to your thousands. How do you sound it? 8 million. [unclear]",00:29:39
+iriumgt,240,student,"8 million and 41,020.",00:30:08
+iriumgt,241,tutor,"Very good. Right. Okay, so what do you have to do here to find your answer?",00:30:14
+iriumgt,242,student,Is this a takeaway now?,00:30:22
+iriumgt,243,tutor,What do you think?,00:30:24
+iriumgt,244,student,Take— takeaway.,00:30:26
+iriumgt,245,tutor,"Yes, this is going to be a takeaway, but there's something different over here. How many terms are here on this side? [unclear]",00:30:29
+iriumgt,246,tutor,"No, what you told was correct, Kieran. It is a takeaway. The use of this is a takeaway. But can you see there are 3 terms here? So what are the terms you need to take away? How would you do it? Can you show me how you do it?",00:30:38
+iriumgt,247,student,"You know, I take away 8,041,020. 20 equals 8 million. Add something. Yeah, add 20.",00:30:52
+iriumgt,248,tutor,"Yes, so that is the statement. So how would you find the answer here? You need to use a subtraction as your inverse. What would you do?",00:31:07
+iriumgt,249,student,"So you, you add the 8,000 and 8 million 41,020 till you get 20— I mean 8,000— I mean 8 million. 8 million. You need to add 8 million till you get 8,041,020.",00:31:16
+iriumgt,250,tutor,"All right, all right. So this is what you need to do. So just like earlier, Shall we try to break this number into different parts? Okay, so if you break this number into a place value, we know there is 8 million, okay? And then there is 40,000, and then there is 1,000, and then there is 20. [unclear] So can you write those separately? Can you first write the millions? What is the value of millions? Can you write it here? [unclear] So 8 million, how would you write 8 million? You need to add your zeros.",00:31:49
+iriumgt,251,student,"Oh, 8 million, 8 million, and then you add a comma?",00:32:33
+iriumgt,252,tutor,"Yes, and then 3 zeros, again a comma.",00:32:38
+iriumgt,253,student,Oh yeah. I did that by accident.,00:32:45
+iriumgt,254,tutor,Yes.,00:32:48
+iriumgt,255,student,And then you add a comma?,00:32:51
+iriumgt,256,tutor,"Yeah, the comma comes after 3 digits, Kieran, not after 4.",00:32:52
+iriumgt,257,student,Okay.,00:32:59
+iriumgt,258,tutor,After 3.,00:32:59
+iriumgt,259,student,Alright.,00:33:01
+iriumgt,260,tutor,You group thousands by 3. Okay?,00:33:02
+iriumgt,261,student,Alright.,00:33:05
+iriumgt,262,tutor,"Right, so can you do the correction?",00:33:06
+iriumgt,263,student,"So, 8,000. [unclear]",00:33:09
+iriumgt,264,tutor,"Not really, not really, Kieran. What you should do is you have added an extra 0 and you have added the comma in the wrong place, right? So can you erase this? I'll show you how to write that down.",00:33:15
+iriumgt,265,student,Can you say that again?,00:33:30
+iriumgt,266,tutor,"Yes, so can you erase this and I will show you how to write this down?",00:33:31
+iriumgt,267,background,"Alright, okay.",00:33:36
+iriumgt,268,tutor,Very good.,00:33:38
+iriumgt,269,student,Don't know it.,00:33:44
+iriumgt,270,tutor,"Right. Okay, don't worry about it. Okay, so shall we try to write 8 million years? So first of all, can you write 8 here? I want you to write it.",00:33:47
+iriumgt,271,student,All right. [unclear],00:33:57
+iriumgt,272,tutor,"8. And then can you add a comma there? And then 3 zeros. Can you add 3 zeros? 1, 2, and 3. And then again add a comma and then write 3 zeros again, right? That's your 8 million. Is it clear?",00:34:01
+iriumgt,273,student,Yes.,00:34:22
+iriumgt,274,tutor,"Okay, so this is the correct 8 million. Now can you write 40,000 there? [unclear]",00:34:23
+iriumgt,275,student,"40,000.",00:34:30
+iriumgt,276,tutor,Yes.,00:34:32
+iriumgt,277,tutor,41 or 40?,00:34:35
+iriumgt,278,background,"Just 40,000.",00:34:40
+iriumgt,279,student,"Uh, 40.",00:34:47
+iriumgt,280,tutor,"You add a comma and then 3 zeros. [unclear] And now can you write a thousand there? [Speaker:Kieran]...down. [Speaker:TUTOR] Yeah, right under it. A thousand. [Speaker:Kieran]..., 123. [Speaker:TUTOR] Very good. And now can you write a 20?",00:34:49
+iriumgt,281,student,20.,00:35:13
+iriumgt,282,tutor,"Yes, just the 20. All right. [unclear]",00:35:15
+iriumgt,283,tutor,"Right, so that's your 20. Very good. Now what we have done here is, Kieran, we have written this number in place values. Now this number is written like this in several parts. So now this number, from this number you need to take away 8 million first of all. Can you take away 8 million? Then what's remaining? Can you show me the parts that are remaining if you take away 8 million? [unclear]",00:35:33
+iriumgt,284,student,"So all of 40,000 and 1,000, take away a million.",00:36:02
+iriumgt,285,tutor,"Not exactly, Kieran. So what you should do is this number which is over here is shown here into several parts. We broke the number into several parts. According to the place value. Okay?",00:36:13
+iriumgt,286,student,Okay.,00:36:25
+iriumgt,287,tutor,"Right. Now what we do is we do the inverse. Now we are going to first of all take away 8 million from this. If you take away— if you take away 8 million from this number, then you can straight away cross off this, isn't it?",00:36:26
+iriumgt,288,student,Yeah.,00:36:42
+iriumgt,289,tutor,"Right. Next, if you take away another 20 from the same number, you can cross off this. Am I correct?",00:36:43
+iriumgt,290,student,Yeah.,00:36:50
+iriumgt,291,tutor,Good. Then what is remaining?,00:36:51
+iriumgt,292,student,"Uh, uh, 8,000— 8,000— uh, 40,000 and 1,000.",00:36:54
+iriumgt,293,tutor,"40,000 and 1,000 only. So when you add these two together, what would you get?",00:37:03
+iriumgt,294,student,"You would get, uh, 50,000.",00:37:10
+iriumgt,295,tutor,"Is it 50,000? 40,000 and—",00:37:13
+iriumgt,296,student,"No, no, you get 40,000. You get 40,000 and, uh, You get, uh, uh, 40,000?",00:37:15
+iriumgt,297,tutor,"41,000.",00:37:24
+iriumgt,298,student,"41,000.",00:37:27
+iriumgt,299,tutor,"Yes, so that's going to be the answer for this question. So can you write it down over here?",00:37:28
+iriumgt,300,student,All right.,00:37:33
+iriumgt,301,tutor,Very good.,00:37:35
+iriumgt,302,student,"41, 0, or 41, comma",00:37:37
+iriumgt,303,tutor,"Come on, very good, you didn't forget that. Excellent. Right, so that's how you need to find answers when you have a question like this. Is it clear now?",00:37:46
+iriumgt,304,student,Yeah.,00:37:55
+iriumgt,305,tutor,"Right, so what— so now we have come to the end of this particular lesson, right? So before we properly end this lesson, what we'll do is let's go through what we learned today and see what was there and what was not present. Okay, all right. So this is the lesson which we started today— not started, actually we continued today. And then first you answered this question which you did in your previous week, and this was about addition.",00:37:56
+iriumgt,306,student,Yeah.,00:38:22
+iriumgt,307,tutor,Right? And then we came on to today's part where we learnt about the subtraction.,00:38:23
+iriumgt,308,student,Yeah.,00:38:29
+iriumgt,309,tutor,"So whenever you have a— so this is the part where you learnt how to do the subtraction, and these two questions were answered by you, right? So can you tell me What was the method you used when you had a subtraction?",00:38:30
+iriumgt,310,student,Can you say it again?,00:38:45
+iriumgt,311,tutor,"Yes, what was the method you used when you had to find an answer for a subtraction?",00:38:47
+iriumgt,312,student,"So, you know, the smaller number, you add up till you get to the number. [unclear]",00:38:53
+iriumgt,313,tutor,"Very good, excellent explanation. That's the exact explanation which I wanted. Right, then we learnt about the inverse method, right? So in inverse, what happens? Can you tell me? [unclear] Can you say that again? Yes, what happens in inverse method? What happens when you have questions like this? How would you find your answer?",00:39:02
+iriumgt,314,student,"So instead of the add, you take away.",00:39:26
+iriumgt,315,tutor,Very good. And if you have a takeaway? What would you do?,00:39:31
+iriumgt,316,student,"Instead of the takeaway, you add.",00:39:35
+iriumgt,317,tutor,"You add it. Very good, very good. Right, then we move on to this final question. So can you remember what we did over here? [unclear]",00:39:37
+iriumgt,318,student,"So we basically, we, uh, we broke this number into several parts according to the place value. Okay, and then what we did was we did the inverse. So we— since here is all about addition, we took away 8 million from the number, and then again we took away 20 from the number, and the remaining was your answer.",00:39:49
+iriumgt,319,student,"Uh, 41,000, the remaining.",00:40:14
+iriumgt,320,tutor,"Yes, that was your answer, right? So, Kieran, now is it clear how to find answers for questions like this?",00:40:17
+iriumgt,321,student,"For this one, no, not that much.",00:40:24
+iriumgt,322,tutor,"Okay, not that much. Okay, so don't worry about it. Don't worry too much about it, Kieran. Just keep in your mind that we did a question like this, and this is the way we did it. Okay?",00:40:27
+iriumgt,323,student,Alright.,00:40:37
+iriumgt,324,tutor,"Right, so can you, can you remember the method? We first of all broke the number into several parts according to the place value, right? 8 million, 40,000, just a thousand, and a 20.",00:40:38
+iriumgt,325,student,And we crossed out the 20. [unclear],00:40:52
+iriumgt,326,student,"8 million. We crossed out 8 million. So, and then we have 40,000 left and 1,000. So you add them up, you add them up, that equals 41,000.",00:40:57
+iriumgt,327,tutor,"Very good, very good. So now, why did we cross these two numbers off? Was because we had an addition here, so we needed to do the inverse, so we had to take away. Okay, that is why we crossed off this 8 million and 20. Is it clear?",00:41:11
+iriumgt,328,student,Yeah.,00:41:27
+iriumgt,329,tutor,"Right, very good. Then, Kieran, since we have come to the end of this particular lesson, shall we start off with a new lesson since we have some more minutes remaining?",00:41:28
+iriumgt,330,student,Alright.,00:41:39
+iriumgt,331,tutor,"Right, let's start. [unclear] Right, so what's this lesson?...reasoning with addition and subtracting.",00:41:41
+iriumgt,332,tutor,"Yes, yes. Now what we are going to do is we are going to reason with addition and subtraction. This is also similar to your previous lesson, but this should be a little bit different than the previous. Okay?",00:41:56
+iriumgt,333,student,"All right, yeah.",00:42:08
+iriumgt,334,tutor,"All right, so if you go on to the very first part of the lesson, right? So This is the first few questions, right? So can you try to answer the first question?",00:42:10
+iriumgt,335,student,So... [unclear],00:42:18
+iriumgt,336,tutor,Mm-hmm.,00:42:22
+iriumgt,337,student,"60,000 and 345 add 52.",00:42:23
+iriumgt,338,tutor,"Is it 60,000 or is it 6,000?",00:42:27
+iriumgt,339,student,"I meant 6,000 add... I meant 6,345 add 52.",00:42:30
+iriumgt,340,tutor,Very good. Now how would you do the addition there?,00:42:37
+iriumgt,341,student,So 52 and 45.,00:42:40
+iriumgt,342,tutor,"Okay, what is that? [unclear]",00:42:44
+iriumgt,343,student,"So 5, 6, 7, 8, 9. 5, 6, 7, 8, 9. 5, 6, 7. [unclear] 97.",00:42:58
+iriumgt,344,tutor,Very good. So what is your final answer then?,00:43:22
+iriumgt,345,student,97.,00:43:26
+iriumgt,346,tutor,Is it just 97?,00:43:27
+iriumgt,347,student,"No, it's 6,000 and— wait, [UNCLEAR]. Yes, you gotta write it.",00:43:29
+iriumgt,348,student,"Uh, 60,000 and...",00:43:36
+iriumgt,349,tutor,"6,000.",00:43:40
+iriumgt,350,student,"6,097.",00:43:42
+iriumgt,351,tutor,"Is it just... is it 6,097? What about this 3 over here? Did you change that?",00:43:45
+iriumgt,352,student,Which one? The 3?,00:43:50
+iriumgt,353,tutor,"Okay, I'm sorry, I was right about this 3.",00:43:52
+iriumgt,354,student,"Oh, so... [unclear]",00:43:55
+iriumgt,355,tutor,"Did we do anything to that? No, right? That has to be there. Only the last 2 digits change, right? Now that's your correct answer.",00:43:57
+iriumgt,356,student,"6,397.",00:44:07
+iriumgt,357,tutor,"Very good, right. Can you try to answer the next question then?",00:44:08
+iriumgt,358,student,"So this one is a takeaway. So 206 take away 10. 206, 205, 204, 203, 202, 201, 200....199, 198, 197, 196.",00:44:12
+iriumgt,359,tutor,"Yes, that's going to be your answer. Very good. Excellent. What about the final question?",00:44:39
+iriumgt,360,student,"704 take away 697. [unclear] [unclear] So 7 take away 6, that equals 1. So our first one is 1.",00:44:45
+iriumgt,361,tutor,"Right, so that is not how you should do this question. Can you do it again?",00:45:06
+iriumgt,362,student,"I'm doing like in a different way, but I'm gonna get the answer.",00:45:10
+iriumgt,363,tutor,"All right, but if you are using the column method, Kieran, you can't use that method. The method that you just told me is not a correct method. Okay.",00:45:14
+iriumgt,364,student,70.,00:45:24
+iriumgt,365,tutor,"Right, so rather than doing the column method, Kieran, in this question what you should do is— can you remember what we learned earlier? If the numbers are close to each other, what do we do? We—",00:45:27
+iriumgt,366,student,We add— we take away them till you get to the number that you're trying to—,00:45:38
+iriumgt,367,tutor,"Yes, so can you do that method and find the answer? Because that is the fastest method which we can use. Rather than writing these numbers.",00:45:44
+iriumgt,368,student,Sorry for using this method.,00:45:52
+iriumgt,369,tutor,"No, all right. No, you don't have to apologize to me for that. That's totally fine. [unclear]",00:45:54
+iriumgt,370,student,How do you robot this? Can you robot the 704? I don't know.,00:45:59
+iriumgt,371,tutor,"What is it, Kieran? Can you please repeat it again?",00:46:06
+iriumgt,372,student,"No, sorry, I didn't.",00:46:09
+iriumgt,373,tutor,Okay.,00:46:11
+iriumgt,374,background,So...,00:46:12
+iriumgt,375,student,"So 704 take away 600— 704, 703, 702, 701.",00:46:16
+iriumgt,376,tutor,"So here, what we do, whenever you have a subtraction, you start from the small number and you count on until you come to the big number. Yes, so can you do it that way? [unclear]",00:46:26
+iriumgt,377,student,"Uh, 700, 791, 792, 793, 794.",00:46:42
+iriumgt,378,tutor,Is that 7?,00:46:52
+iriumgt,379,background,It's going to be 7.,00:46:53
+iriumgt,380,student,Yeah.,00:46:55
+iriumgt,381,background,Good. [unclear],00:46:58
+iriumgt,382,background,"Yes, it can be 7. Right, so very good. So with that, Kieran, then we will have to end up our session for today because we have actually run out of our time already. All right, so what we'll do is let's complete the rest of this lesson in our upcoming week. All right, all right. So, Kieran, thanks. Thank you so much for being a wonderful student today and performed really well. So keep this good work up always. All right.",00:47:02
+iriumgt,383,student,All right.,00:47:31
+iriumgt,384,tutor,"And before I leave, is there anything that you want to ask from me? Any question that you want to ask or anything that you want to tell in?",00:47:31
+iriumgt,385,tutor,Alright. Anything that you want to tell regarding the lesson or anything you need to ask?,00:47:39
+iriumgt,386,student,"No, it's okay. [unclear]",00:47:44
+iriumgt,387,tutor,"Alright, alrighty. Then hope you have a great day ahead and thank you for being a wonderful student again and keep this good work always up, alright?",00:47:45
+iriumgt,388,student,Alright.,00:47:53
+iriumgt,389,tutor,"Alright, alrighty. Have a great day ahead then. See you.",00:47:54
+iriumgt,390,student,Bye.,00:47:57

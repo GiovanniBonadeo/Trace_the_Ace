@@ -1,0 +1,406 @@
+session_id,utterance_id,role,content,timestamp
+anrbmac,0,tutor,Hello.,00:00:00
+anrbmac,1,background,[unclear],00:00:00
+anrbmac,2,student,Hello.,00:00:00
+anrbmac,3,background,Hello.,00:00:01
+anrbmac,4,tutor,Hello.,00:00:01
+anrbmac,5,student,Hello.,00:00:02
+anrbmac,6,tutor,Hello. Can you hear me?,00:00:04
+anrbmac,7,tutor,Hello.,00:00:08
+anrbmac,8,student,Can you hear me?,00:00:08
+anrbmac,9,tutor,"Yeah, I can hear you. Can you hear me?",00:00:10
+anrbmac,10,student,Yes.,00:00:14
+anrbmac,11,tutor,"Okay. Hello, how are you doing?",00:00:16
+anrbmac,12,student,"Yes, I'm good. How are you?",00:00:18
+anrbmac,13,tutor,I'm fine. So how was the school today?,00:00:21
+anrbmac,14,student,It was good.,00:00:27
+anrbmac,15,tutor,"Okay. Okay, so can you remember that we learned solving [UNCLEAR]? Problems related to fractions on that day.",00:00:29
+anrbmac,16,student,"Yes, Miss.",00:00:38
+anrbmac,17,tutor,Yes.,00:00:41
+anrbmac,18,student,Miss.,00:00:43
+anrbmac,19,tutor,Yes.,00:00:46
+anrbmac,20,student,"Yeah, do you need something?",00:00:49
+anrbmac,21,tutor,"No, no, no, it's fine. Yes, you may continue.",00:00:51
+anrbmac,22,student,"Okay, so now we stopped from this slide, so let's continue from here, right?",00:00:57
+anrbmac,23,tutor,So you had to follow me. [unclear],00:01:02
+anrbmac,24,student,Yes.,00:01:05
+anrbmac,25,tutor,"You had to follow me in this section, and then you will be getting your turn part to do it yourself, right?",00:01:07
+anrbmac,26,student,Yeah.,00:01:14
+anrbmac,27,tutor,So we can use bar models to help us solve fraction problems. So do you know what is a bar model?,00:01:15
+anrbmac,28,student,"Yes, a bar model is this. A bar model is a kind of this. Okay, so a book has 150 pages. So imagine that book has 150 pages and Mia has read one-fifth of the book. That means if we divide the whole book into 5 parts, she has read one part of that book, right?",00:01:24
+anrbmac,29,student,Yeah.,00:01:48
+anrbmac,30,tutor,How many pages are left for Mia to read? So there's 150 pages altogether. She has read one-fifth. And how many pages are left? Can you see left is golden?,00:01:50
+anrbmac,31,student,Yep.,00:02:02
+anrbmac,32,tutor,"Yes, why is that?",00:02:04
+anrbmac,33,student,"Oh, um, oh, um, I think it's because that she has— she read one-fifth of the book, so she read a little bit of the book, and then that's how much she is, um, that she has much— that's how much amount that she has already read, and then she has another amount that she has left.",00:02:06
+anrbmac,34,tutor,So that's what we need to figure out.,00:02:25
+anrbmac,35,background,"Yeah, so what students will do is they will find the amount that she has read.",00:02:27
+anrbmac,36,tutor,You're right.,00:02:33
+anrbmac,37,background,"To emphasize that it's not the amount that she read and— Yes, Rowan, you can take it and come if you want.",00:02:37
+anrbmac,38,student,"Yes, let me just color it. [unclear]",00:02:50
+anrbmac,39,tutor,"No, Rowan? You're finding for a pencil? You can work with them, bring it and come if you want.",00:02:54
+anrbmac,40,student,"Yeah, how many pages are left for me to read?",00:03:00
+anrbmac,41,tutor,"Yeah, okay, so draw a bar model to show the information given, right? So here they have drawn a bar model to show the information that they have given. So you can see there are 150 pages in this math book, and she has read one-fifth. So because it is one-fifth, we are going to divide into 5 parts.",00:03:05
+anrbmac,42,tutor,Yeah.,00:03:28
+anrbmac,43,student,Can you get why we are dividing it into 5 parts?,00:03:28
+anrbmac,44,tutor,"Because she has read one-fifth, so basically she read 5 of the book.",00:03:32
+anrbmac,45,student,"Yeah, that means she has divided the book into 5 parts and read one, right? So because she has divided the book into 5 parts, you can see the denominator is 5. 5, so we are going to divide it to 5. And, uh, and she has read one part. Can you see the part that she has read being, uh, is given in purple color, and the one she didn't read is given in, uh, like peach color, right?",00:03:38
+anrbmac,46,student,Yeah.,00:04:03
+anrbmac,47,tutor,"And the whole book is denoted by this bar model. [unclear] So find 1/5 of 150. So how are we going to do this is we have to find how much is it if we divide 150 into 5. If we divide 150 by 5, what is going to give us? [unclear]",00:04:04
+anrbmac,48,student,I think it's going to give us— so 150 divided by 5?,00:04:31
+anrbmac,49,tutor,Yeah.,00:04:36
+anrbmac,50,student,"Oh, um.",00:04:37
+anrbmac,51,student,30.,00:04:39
+anrbmac,52,tutor,"Yes, awesome, 30. So each of these gonna contain 30 pages, right?",00:04:41
+anrbmac,53,student,Yep.,00:04:46
+anrbmac,54,tutor,"30, oops, [unclear] 30, then again 30, again 30, and again 30. So each of these parts gonna contain 30 pages.",00:04:47
+anrbmac,55,student,"Yeah, and for us to check that it's 30, we could do 30 times 5, which is equal to 150, just to check your answer. Yeah, so we can take 30 times 50. Otherwise, 3 times 5 gives you 15, and if we need 30 times 5, it will give you 150.",00:05:00
+anrbmac,56,student,"Yeah, you just add a zero.",00:05:17
+anrbmac,57,tutor,"Yeah, yeah, awesome, awesome, Rowan. I'm really proud of you. So we need to find what is one-fifth of 150. So here they have asked us to fill 150 divided by 5. As you said, it's such a [UNCLEAR]. Yes, awesome. And now we have to find how many pages are left. So to find the number of pages that are left, yeah, she has read already 30, right? So if we subtract that 30 from the total number of pages, we are going to get the amount, right?",00:05:19
+anrbmac,58,student,So I think it might be 150 subtract 30.,00:05:53
+anrbmac,59,tutor,"Yeah, 30. So what is going to give us? [Speaker] Um, let me just work it out.",00:05:58
+anrbmac,60,tutor,"Okay, take your time and do it. [Speaker] I think it might be 120. [Speaker] Yes. [Speaker] Because if I know, if I know that 5, if I know that 3 2 is 5, and then 5 subtract 3 is 2, so then I know that 150 subtract that would be 120. Yes, [Speaker] so they're here, one place is going to change, right? Yeah, [Speaker] yeah.",00:06:05
+anrbmac,61,tutor,"Yeah, yeah, awesome. So thank you for helping me in this part. Now it's your turn to do the next part alone. Can you?",00:06:30
+anrbmac,62,student,Yep. So the next question?,00:06:37
+anrbmac,63,tutor,Yeah.,00:06:41
+anrbmac,64,student,Okay.,00:06:42
+anrbmac,65,tutor,Now it's your turn.,00:06:42
+anrbmac,66,student,Your turn. Use a similar method to solve this problem. Zach has 120 trading cards. He gives 1/3 away. How many cards does he have left? Complete the bar model to show the information given.,00:06:43
+anrbmac,67,student,So I guess—,00:06:57
+anrbmac,68,tutor,Yes.,00:06:57
+anrbmac,69,student,"So if we look at the— if we look at— yeah, so if we look at the A, complete the bar model to show information given. So first we're going to do find 1/3 of 120. So that's going to be 120 divided by 3.",00:06:58
+anrbmac,70,tutor,"Yes, awesome. [unclear]",00:07:19
+anrbmac,71,tutor,Okay.,00:07:23
+anrbmac,72,student,So I think it might be 40.,00:07:27
+anrbmac,73,tutor,"Yes, you are correct. [unclear]",00:07:30
+anrbmac,74,student,Thank you. And then we do— and then now we know that each part is equal to 40.,00:07:35
+anrbmac,75,tutor,Yes.,00:07:42
+anrbmac,76,student,And then the blue part is like a special part because that's how many cards,00:07:42
+anrbmac,77,student,"That's how many cards he gave away, and now—",00:07:50
+anrbmac,78,tutor,Yeah.,00:07:53
+anrbmac,79,student,"And then the pink ones are how much cards he has left. So then if we do— let's see— if we do 40 40, which is going to be 80, so over here we do subtract 40, which is going to be— [unclear]",00:07:53
+anrbmac,80,tutor,"So, and if you do this, this is going to be equal to 80.",00:08:24
+anrbmac,81,student,"Yes, Rowan, good work, you know. I'm really proud of you.",00:08:29
+anrbmac,82,tutor,"I'm so proud of myself, I done it.",00:08:33
+anrbmac,83,student,"Yeah, me too. So you did it so fast and you well explained it.",00:08:35
+anrbmac,84,tutor,"Oh, I forgot to do this part. 120.",00:08:40
+anrbmac,85,tutor,"Oh, even I have forgotten. Okay, so let me fill that too. It's gonna be 150, right?",00:08:45
+anrbmac,86,student,"Oh, okay.",00:08:52
+anrbmac,87,tutor,"Okay, we both did. Okay, that's fine, that's fine. Great work, Rowan. Okay, so now we have a little, little bit challenging question. I hope you will go this too.",00:08:53
+anrbmac,88,student,Whoa.,00:09:04
+anrbmac,89,tutor,From you. Yes.,00:09:04
+anrbmac,90,student,"You do it. A 20-kilometer race. So kilometers mean a thousand, right?",00:09:07
+anrbmac,91,tutor,Yes.,00:09:14
+anrbmac,92,student,"So it's going to be equal to 20,000?",00:09:15
+anrbmac,93,tutor,"Sorry, pardon?",00:09:20
+anrbmac,94,student,"So kilometers mean thousand, so is it going to be like 20,000, right?",00:09:22
+anrbmac,95,tutor,"No, Rowan. Kilometers means it's a measuring unit, right? So if we need it in meters, only we have to multiply it by 1,000.",00:09:29
+anrbmac,96,tutor,"Okay, so this [unclear]",00:09:38
+anrbmac,97,student,So here now it is 20 kilometers.,00:09:40
+anrbmac,98,tutor,"Okay, so what does kilometers mean?",00:09:43
+anrbmac,99,student,Kilometers means— you do know meters?,00:09:46
+anrbmac,100,tutor,Sorry?,00:09:50
+anrbmac,101,student,Do you know— have you heard about meters?,00:09:52
+anrbmac,102,tutor,"Yeah, but I'm not sure what it means.",00:09:54
+anrbmac,103,student,"Okay, so how are we measuring the distance?",00:09:57
+anrbmac,104,tutor,We're measuring the distance by 20 kilometers.,00:10:02
+anrbmac,105,tutor,"I mean, just in our day-to-day life, we measure— if we draw a line on our book, how are we going to measure it?",00:10:06
+anrbmac,106,student,With a ruler.,00:10:13
+anrbmac,107,tutor,Yes. So what is mentioned in the ruler?,00:10:15
+anrbmac,108,student,Centimeters.,00:10:17
+anrbmac,109,tutor,"Yes, centimeters. So let's assume that you are going to go from your home— school to home, and can you measure the distance in centimeters? Is it practical? That would be really hard.",00:10:19
+anrbmac,110,tutor,"Yeah, so that's why they will use something like meters. So centimeters is—",00:10:32
+anrbmac,111,student,"Oh, is it like 1 meter equals to 100 centimeters?",00:10:38
+anrbmac,112,tutor,"Yeah, yeah, yeah, that's it. So meters is equal [UNCLEAR]. So kilometers is a little bit more, much more than that.",00:10:41
+anrbmac,113,student,"1,000.",00:10:41
+anrbmac,114,tutor,"Yeah, 1,000 meters become equals to 1 kilometer.",00:10:45
+anrbmac,115,student,"So then 1 kilometer equals to 1,000, but then does 20 kilometers equal to 20,000? 20,000 meters.",00:10:54
+anrbmac,116,student,"Oh yeah, yeah, yeah.",00:11:04
+anrbmac,117,tutor,Did you get it?,00:11:05
+anrbmac,118,student,"And then into centimeters, it would be 200,000 centimeters.",00:11:06
+anrbmac,119,tutor,"Yeah, yeah, yes. Okay, so now I think it won't be a problem here. You can answer this in kilometers, no need to convert it into meters.",00:11:11
+anrbmac,120,student,"Okay. In a kilometer— in a 20-kilometer race, Jack completes a swim, a run, and a bike ride. The swim is 1/10 of the total distance. The run is a half of the total distance. What was his bike ride? So can I use this bar model to help?",00:11:23
+anrbmac,121,tutor,"Yeah, yeah, sure, you can use it. Yes, sure.",00:11:47
+anrbmac,122,student,"Okay, so first is going to be [unclear] 2, 3, 4, 5, 6, 7, 8, 9, 10. So then we are going to do, um, 10s. So 10 plus 2 is 12, but we can't do 12, so we're gonna do 1, 2, 3... [unclear]",00:11:50
+anrbmac,123,tutor,"Does the answer have to be like this, like something like that, like a fraction?",00:12:25
+anrbmac,124,student,"No, Mama, it should be like a whole number.",00:12:31
+anrbmac,125,tutor,Okay.,00:12:33
+anrbmac,126,student,"Okay, let me give you a small hint. So here in the previous slide, can you remember? Zach had 120 trading cards, so he gave one-third away. What we did was We found how many sets of, uh, how the— how we found what is the answer if we divide 120 by the denominator, which means 3. So we got that each part of this is 40.",00:12:37
+anrbmac,127,student,Yeah.,00:13:07
+anrbmac,128,tutor,"So then it will be easy for us to do the calculation. So likewise, here the kilometer is 20.",00:13:07
+anrbmac,129,tutor,Yeah.,00:13:17
+anrbmac,130,student,And there are 10 parts. So what are we going to do?,00:13:17
+anrbmac,131,tutor,"So we're going to do 10 subtract 2. [unclear] 10 subtract 2. 10— 1/10 subtract 1/2, and I think it's going to be 1/8, but since it can't be a fraction, it has to be this.",00:13:22
+anrbmac,132,tutor,"Yeah, so you can do like this, right? Um, okay, so the swim is 1/10 of the total distance. So here they have given the bar model divided into 10 parts, right? So can we see how much one part is equal to? The whole thing is 20 kilometers. [unclear]",00:13:43
+anrbmac,133,tutor,"The whole thing is 20 kilometers, right?",00:14:14
+anrbmac,134,student,"Wait, how? Oh, because 10 times 2 is 20.",00:14:18
+anrbmac,135,tutor,"Yeah, so what is— what each of these parts gonna get? 2 kilometers, right? So 2, 2, 2, 2 altogether gonna give you 20. 10 times 2 is 20.",00:14:22
+anrbmac,136,tutor,So you can fill this out by 2s. And then— and then—,00:14:36
+anrbmac,137,student,[unclear],00:14:47
+anrbmac,138,tutor,And then what you can do is you can see the swim is 1/10 of the total distance.,00:14:51
+anrbmac,139,student,Yeah.,00:14:58
+anrbmac,140,tutor,"That means it's like one part of these, right?",00:14:59
+anrbmac,141,student,Yeah.,00:15:05
+anrbmac,142,tutor,"Okay, so, and what about the runs?",00:15:06
+anrbmac,143,student,"Wait, but there's no 20 boxes on all of these, it's only 10.",00:15:14
+anrbmac,144,tutor,"Yeah, that's what. So here in the same, same case here, see? So there were 120 trading cards and the fraction was 1/3. So what— what— to see how much one part is equal, one part of this bar model, we have to divide it by the denominator, right?",00:15:19
+anrbmac,145,student,Yeah.,00:15:38
+anrbmac,146,tutor,So 120 divided by the denominator gave us 40.,00:15:38
+anrbmac,147,student,Yeah.,00:15:43
+anrbmac,148,tutor,"Here likewise, we have 20 kilometers to find one part, which is going to divide by 10. So we have to divide 20 by 10 and see how much one of is this part going to get?",00:15:44
+anrbmac,149,student,"Oh, okay.",00:15:57
+anrbmac,150,tutor,"So if you divide 20 by 10, what are you going to get?",00:15:59
+anrbmac,151,student,[unclear],00:16:04
+anrbmac,152,tutor,"Is 2. Yeah, so each of these parts is gonna get 2, right?",00:16:05
+anrbmac,153,student,Yep.,00:16:10
+anrbmac,154,tutor,"Yes, so, okay, let's— I'm going to color half.",00:16:11
+anrbmac,155,tutor,Yeah.,00:16:22
+anrbmac,156,student,"Okay, let me put 2s here. Each of this part gonna get 2, like this. Okay. [unclear]",00:16:23
+anrbmac,157,tutor,"Oh, you did an extra 2. [unclear]",00:16:46
+anrbmac,158,tutor,Did I? Yeah.,00:16:49
+anrbmac,159,student,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:16:52
+anrbmac,160,tutor,Okay.,00:16:56
+anrbmac,161,student,I just put 2s for all these boxes.,00:16:58
+anrbmac,162,tutor,Okay.,00:17:02
+anrbmac,163,student,"Okay, so what have you done here? First, we shaded the amount that is gone by swimming. And what about these circles, Rowan?",00:17:03
+anrbmac,164,tutor,That represents 2 as well.,00:17:14
+anrbmac,165,tutor,"Okay, um, okay, so without that, shall we represent the distance that is run through the circles?",00:17:18
+anrbmac,166,student,Yep.,00:17:29
+anrbmac,167,tutor,So how much distance they have run from the total distance?,00:17:30
+anrbmac,168,student,"Um, [unclear] was",00:17:38
+anrbmac,169,tutor,"It was 6. [unclear] Okay, so it's like this. So can I erase this part, Rowan?",00:17:46
+anrbmac,170,student,Yeah.,00:17:59
+anrbmac,171,tutor,"Okay, here I'm going to erase this. Okay, so this is how we are going to work on this. Okay, so the swim is 1/10 of the total distance.",00:18:00
+anrbmac,172,student,Yeah.,00:18:10
+anrbmac,173,tutor,So here the total distance is divided into 10 parts.,00:18:10
+anrbmac,174,tutor,Yep.,00:18:15
+anrbmac,175,student,So I shaded one part because the swim is one-tenth.,00:18:15
+anrbmac,176,tutor,Yep.,00:18:20
+anrbmac,177,student,"Did you get that? Okay, then the run is one-half. That means if the total distance is represented by 10 boxes, how much should be shaded to represent half?",00:18:21
+anrbmac,178,tutor,12. [unclear],00:18:35
+anrbmac,179,student,"If I repeat it again, if the total distance is represented by 10 boxes,",00:18:36
+anrbmac,180,tutor,What is half [UNCLEAR]?,00:18:43
+anrbmac,181,student,Half of 10.,00:18:43
+anrbmac,182,tutor,10.,00:18:46
+anrbmac,183,student,5.,00:18:47
+anrbmac,184,tutor,"Oh, 5. 5. Yeah, so here you can see the run is half of the total distance. So here the total distance is represented by 10 boxes, right?",00:18:48
+anrbmac,185,student,Yeah.,00:18:59
+anrbmac,186,tutor,"So half of that gonna be 5. So I'm going to shade 5 because the run is 5 boxes. Right? Okay, I'm 1, second box, third box, fourth box, fifth box, right?",00:19:00
+anrbmac,187,student,Yeah.,00:19:20
+anrbmac,188,tutor,"Okay, now here you can see the red one, the one I shaded in black color is the strip, 1/10, and the run means half. So half means if the total number of boxes are 10, here should be 5. So I shade it. The green ones are the run. And vice versa",00:19:20
+anrbmac,189,background,"What distance was his bike ride? So you can see he is just completed swimming. [unclear] He might go by swimming, then by running, then by riding the bicycle. Right?",00:19:41
+anrbmac,190,student,Yeah.,00:19:55
+anrbmac,191,tutor,So here we said amount by swimming. Here we said the amount that we went by running.,00:19:56
+anrbmac,192,tutor,And here the leftover amount is what?,00:20:03
+anrbmac,193,student,Yeah.,00:20:07
+anrbmac,194,tutor,What is the leftover amount? The one side you didn't shade.,00:20:09
+anrbmac,195,student,4.,00:20:15
+anrbmac,196,tutor,4 boxes. But what is the value of that?,00:20:19
+anrbmac,197,student,1/4.,00:20:23
+anrbmac,198,tutor,"No, Rowan. Here you can see each box. Value is 2.",00:20:27
+anrbmac,199,tutor,Yeah.,00:20:30
+anrbmac,200,student,"So what is the value of these 4 boxes? 2 plus 2, 4, 8.",00:20:30
+anrbmac,201,tutor,"Oh, okay, 10, 10. [unclear]",00:20:40
+anrbmac,202,student,"8, 8.",00:20:45
+anrbmac,203,tutor,"Yes, so what is the distance he, his bike ride? It's 8 kilometers. Did you get it now?",00:20:47
+anrbmac,204,student,Um...,00:20:56
+anrbmac,205,tutor,Or shall I explain it to you again?,00:20:58
+anrbmac,206,student,Explain it again.,00:21:01
+anrbmac,207,tutor,"Okay, so it is like this. Okay, so let's think that— now let's think it's you, right? And you have to go somewhere. You have to go one-tenth of the total distance by swimming.",00:21:03
+anrbmac,208,student,Yeah.,00:21:15
+anrbmac,209,tutor,"And then half of the distance by running. And the leftover amount by riding your bike. Right? So Jackie is doing this. So we have— they have given a bar model to us, and you can see the whole part is 20 kilometers, right? And if we divide this 20 kilometers into 10 boxes, each gonna contain 2. Did you get that part?",00:21:15
+anrbmac,210,student,"Uh, yes.",00:21:43
+anrbmac,211,tutor,"Yes, okay. [unclear]",00:21:46
+anrbmac,212,student,"So you have to look— so out of these two fraction numbers, you have to look for the lowest common denominator and then [Speaker] That's what you have to divide the parts by.",00:21:48
+anrbmac,213,tutor,"Yeah, yes, that's how you're gonna do it. Yes, so you have to take the denominator. Okay, so let's take the denominator of this. It's 10, so we have to divide it into 10 parts. Okay, so of that, the swim is 1/10, right? So the swim is 1/10, um... So the swim is [UNCLEAR], so I shaded it. So there are 10 parts and 1 is for swim. I have shaded it in black. And next they are saying the run needs half of the total distance.",00:21:58
+anrbmac,214,tutor,But why have you shaded 1 for the swim? The swim is more than the run.,00:21:58
+anrbmac,215,student,"The swim is more than the run. Okay, okay, let's think like this. So let's think, you have brought a cake to your house, right?",00:22:41
+anrbmac,216,student,Yeah.,00:22:50
+anrbmac,217,tutor,"Okay, so let's assume that 10 of your friends are coming.",00:22:50
+anrbmac,218,student,Yeah.,00:22:55
+anrbmac,219,tutor,"Okay, and you have another cake and 2 of you are going to eat that.",00:22:57
+anrbmac,220,student,Yeah.,00:23:04
+anrbmac,221,tutor,"Okay, so let's assume—",00:23:04
+anrbmac,222,student,So how many friends are coming?,00:23:07
+anrbmac,223,tutor,"For the first cake, there are 10 friends, right?",00:23:10
+anrbmac,224,student,"Okay, and then how many for the second cake?",00:23:13
+anrbmac,225,tutor,"2. You and another friend. Okay, so I'm going to represent this. And what you are allowed to eat, only one part from each of this, right? Okay, so here I'm going to divide the cake into 10 parts because there are 10 people to eat it.",00:23:16
+anrbmac,226,student,"[unclear] Okay, so, and here you are going to cut it to 2 because 2 of them are there. Okay, now can you tell me which one is larger? Is it the one that you cut to 10 pieces and eating one, or is it the one— sorry, [unclear] is it the one that you, um, Is it the one that you divide to 2 and each one part gives you a larger amount?",00:23:38
+anrbmac,227,student,Yep.,00:24:10
+anrbmac,228,tutor,Which is going to give you a large amount?,00:24:12
+anrbmac,229,student,The larger amount.,00:24:14
+anrbmac,230,tutor,Yes.,00:24:17
+anrbmac,231,student,"Wait, but didn't you know in this question that we're doing the 20-kilometer race? But then why doesn't— then why did you shade, um, why did you— you said that the first part you shaded in black was the was a swim race, but then over here you said this [unclear] swim race, but then 10 is larger than 2, so that's why I just don't get why did you shade only one.",00:24:19
+anrbmac,232,tutor,"Yeah, so that's what I'm gonna explain here, right? Now you can see, so the fraction that we took, 1/10, is like this, right? It's like this cake. Can you see? We have divided it into 10 parts and eat only one part. Did you get that?",00:24:44
+anrbmac,233,student,Yeah.,00:25:03
+anrbmac,234,tutor,"And what about the half? We have the whole cake and divided it into two and one part. So what gives you the larger amount? If it is for you and you want to eat the biggest piece, from which cake are you going to eat?",00:25:04
+anrbmac,235,student,Sorry?,00:25:17
+anrbmac,236,tutor,"If it is for you and you want to eat the biggest piece, From which cake are you going to eat? Is it from the one-tenth or half?",00:25:20
+anrbmac,237,student,Half.,00:25:27
+anrbmac,238,tutor,"Yes, so that's how it's working. In fractions, when the denominator gets larger, if the numerators are equal— you can see here it is 1 and here too it is 1— if the numerators are same, if the denominators are getting larger numbers, the fraction becomes smaller. For an example, here you can see Numerators are equal, denominators are getting larger, the fractions become smaller. Did you get that now?",00:25:29
+anrbmac,239,student,Yeah.,00:25:58
+anrbmac,240,tutor,So that's how the swim became 1 square and the run became 5 squares.,00:26:00
+anrbmac,241,student,Yep.,00:26:07
+anrbmac,242,tutor,"Okay, so here the swim is 1/10, 1/10. So if we divide the bar model into 10 parts, it's going to be 1. And the run is half, that half of the total distance. That means the total distance is 10 squares, and if, if we take half of that, it's going to be 5. So I shaded 5: 1, 2, 3, 4, 5.",00:26:08
+anrbmac,243,student,Yeah.,00:26:34
+anrbmac,244,tutor,"And then the rest is what? The rest is the bike ride. So to denote the rest is the ones that we didn't shade. So now you can count 2, 4, 6, 8. So the distance by bike is 8.",00:26:34
+anrbmac,245,student,Yep.,00:26:54
+anrbmac,246,tutor,Yes. So shall we put the answer?,00:26:56
+anrbmac,247,student,Yep.,00:27:00
+anrbmac,248,tutor,Shall we type it?,00:27:14
+anrbmac,249,student,Yep. [unclear],00:27:23
+anrbmac,250,tutor,"Okay, then let me type it for you. Okay, did you understand how one tenth became smaller and",00:27:24
+anrbmac,251,tutor,half became larger.,00:27:24
+anrbmac,252,student,Yep.,00:27:24
+anrbmac,253,tutor,"Okay, can you tell me why is that?",00:27:39
+anrbmac,254,student,"Yeah, because... because the [unclear] that you've drawn here, the cake that you've drawn here, it has more pieces but smaller pieces, and over here you drew the one half which is like big pieces, which is small, which is like a half, like small piece, but is a bigger amount.",00:27:45
+anrbmac,255,tutor,"Yeah, so that's what happening, right? If you can see one [UNCLEAR].",00:28:17
+anrbmac,256,student,"You have lots of pieces, but then you get smaller, smaller.",00:28:17
+anrbmac,257,tutor,"Yeah, yeah. So, you know, if you—",00:28:24
+anrbmac,258,student,"You just overheat. So over here you just draw one line, and then you get more and larger of the amount.",00:28:27
+anrbmac,259,tutor,"Yeah, here you can see 1/10 means the 1 whole thing we are going to divide into 10 parts and have 1. That's the meaning of this fraction. And what is this? We are going to divide the whole thing into 2 parts and have 1. So what will give you the large amount is— so here you can see these pieces are big where we divided it to half rather than the ones we divided to tenths, right?",00:28:34
+anrbmac,260,student,Yeah.,00:28:56
+anrbmac,261,tutor,"So that's how we are going to get that this one is the larger and one tenth is smaller. If the denominator— so if we talk about it in theoretical way, then these cakes and all— so if the denominator becomes larger, the fraction become smaller, right? Okay, so now the, the part B is there. Can you even try to do that?",00:28:56
+anrbmac,262,student,"Yeah. [unclear] Tina has saved 240 pounds. Wait, the second— the B?",00:29:20
+anrbmac,263,tutor,"Yeah, it's B.",00:29:30
+anrbmac,264,student,"Okay. Tina has saved 240 pounds. She spends one quarter of it on a computer game. How many does she have left? So then we are going to do, um, 240 divided by 4.",00:29:31
+anrbmac,265,tutor,"Yeah, that's awesome. I think it's going to be 60.",00:29:46
+anrbmac,266,tutor,Yes.,00:30:02
+anrbmac,267,student,Because I did this like that.,00:30:07
+anrbmac,268,background,Division.,00:30:14
+anrbmac,269,student,Yeah.,00:30:15
+anrbmac,270,background,The one you—,00:30:16
+anrbmac,271,student,"Yes, I would like to show you what I've done.",00:30:17
+anrbmac,272,tutor,"Yeah, sure, sure. I'd like to see that, how you've done.",00:30:22
+anrbmac,273,student,"Yeah, because dividing by 1 is going to be easy, so we're just going to do divide by 4. So then over here, how many 4s go into 2, which is going to be 0. So then you add the little— you add the little, um, You add the little, um, what's it called, the little 2, but then I can't do that. So how many 4s go into 24, which is going to be 6?",00:30:26
+anrbmac,274,tutor,Yes.,00:30:52
+anrbmac,275,student,"How many 4s is going to be 6? And then how many 4s go into 0, which is going to be 0?",00:30:54
+anrbmac,276,tutor,"Yeah, so you had a doubt about this last thing? And now you're all clear.",00:31:01
+anrbmac,277,student,"Bye-bye, 0.",00:31:06
+anrbmac,278,tutor,"Yeah, awesome, Rowan. So you had a doubt about this last week, right? And you asked me how to do that, and now you're all clear. Now you're doing it great, right? I'm really proud of you. Yes. Okay, so yeah, so each of this part of this bar model can gonna contain 60. So after that—",00:31:08
+anrbmac,279,student,"Yeah, okay, sir. Okay, so the answer is 60.",00:31:30
+anrbmac,280,student,Yep.,00:31:37
+anrbmac,281,tutor,I want to give you one chance. Can you again read the question and see what are they asking? [unclear],00:31:39
+anrbmac,282,student,"How much money does— how much money— she spends one quarter on a computer game, so how much money does she have left?",00:31:45
+anrbmac,283,tutor,Did you find something?,00:31:57
+anrbmac,284,student,No.,00:32:01
+anrbmac,285,tutor,"Yes, but you underlined that word.",00:32:01
+anrbmac,286,student,"Oh, left.",00:32:04
+anrbmac,287,tutor,"Left. So what are you going to do? So the amount that given by one, uh, one quarter is the one she spends, right? So now they're asking how much is left. [unclear]",00:32:06
+anrbmac,288,tutor,So I think you have to do— you have to do— now you have to do 60 divided by 1.,00:32:26
+anrbmac,289,student,But why should we divide it by 1?,00:32:38
+anrbmac,290,tutor,"Um, it's called— it should be divided by 1.",00:32:43
+anrbmac,291,background,"Okay, so you have shaded something. Why did you shade",00:32:50
+anrbmac,292,student,I shaded one quarter.,00:32:54
+anrbmac,293,tutor,"Yeah, so what does that one quarter mean?",00:32:57
+anrbmac,294,student,One quarter means how much she spent on the computer game.,00:33:01
+anrbmac,295,tutor,"Yes, and what is the question?",00:33:04
+anrbmac,296,student,How much money does she have left?,00:33:08
+anrbmac,297,tutor,"Yes, so here you have shaded the amount that she spent, which is gonna be 60, right? So each of this part is gonna be 60s. [unclear]",00:33:11
+anrbmac,298,student,Oh yeah! Oh my God!,00:33:25
+anrbmac,299,tutor,Did you get something now?,00:33:28
+anrbmac,300,student,Yes! So now the answer— I think I know what the answer is going to be.,00:33:29
+anrbmac,301,tutor,"Yes, yes, sure, take your time and type it.",00:33:35
+anrbmac,302,student,"It's going to be— so each one is equal to 240. Not each one, but like the whole thing is equal to 240.",00:33:38
+anrbmac,303,tutor,"Yeah, equal to 240.",00:33:46
+anrbmac,304,tutor,Yes.,00:33:48
+anrbmac,305,student,"So then I think the answer should be, um, let me just work it out. [unclear] I might get it wrong, but it's the answer.",00:33:49
+anrbmac,306,tutor,"That's fine, you can try.",00:34:17
+anrbmac,307,student,Yes?,00:34:20
+anrbmac,308,tutor,It's also 180.,00:34:21
+anrbmac,309,student,"Yes, awesome! So how did you find it's 180?",00:34:24
+anrbmac,310,tutor,"Because I did 240 subtract 60, which is 180.",00:34:28
+anrbmac,311,student,"Yes, yeah, so there's another method. Here you can see the shaded one is the amount you spend on the",00:34:33
+anrbmac,312,tutor,"And what about the left ones, the ones you didn't shade? That is the amount that she'll have left.",00:34:42
+anrbmac,313,student,"I had left, yes.",00:34:48
+anrbmac,314,tutor,"Yes, so 60 times 3, otherwise 60 plus 60 plus 60 will give you the same answer.",00:34:50
+anrbmac,315,background,"Because if you know what 6 times 3 is, it's 18, then 60 times 30 is 180.",00:34:57
+anrbmac,316,tutor,"Yes, good working out, Rowan. I'm really proud of you. Can you remember— good working out, I'm going to do your face part. Can you remember I asked you in this slide? Not in this slide. Where was that? [unclear] Okay, can you remember that I asked you why they have bolded this word 'left' in this question?",00:35:06
+anrbmac,317,tutor,"Sorry, what did you say?",00:35:39
+anrbmac,318,student,Can you remember I asked you why they have [unclear] this word left?,00:35:42
+anrbmac,319,tutor,"Yeah, that's why.",00:35:47
+anrbmac,320,student,"Yeah, so here, can I see? You did the same error here, right? So you know the answer and how to do it. But you didn't read this properly and you didn't get the idea, right? Otherwise you could have done it properly.",00:35:50
+anrbmac,321,student,Yep.,00:36:06
+anrbmac,322,tutor,Isn't it?,00:36:08
+anrbmac,323,student,Yeah.,00:36:09
+anrbmac,324,tutor,"Yeah, so what? We should read the questions properly and understand what they're asking. I know that you know how to do this, but because you didn't read this, how much does he— she has left, you made it wrong earlier, right? And if I ask you to read the questions again, you found what your mistake is. So make sure to read the question properly and answer. Okay, that's right. So here you go with a challenging question. I hope you can do this. If you need a bar model, I can provide you. [unclear]",00:36:10
+anrbmac,325,student,Okay.,00:36:49
+anrbmac,326,tutor,But give a try first.,00:36:51
+anrbmac,327,student,Okay. [unclear] [unclear],00:36:52
+anrbmac,328,tutor,"I think the answer— wait, does it have to be a whole number?",00:37:30
+anrbmac,329,student,"So here it's related to time, right?",00:37:40
+anrbmac,330,tutor,"Yes, it has to be a whole number.",00:37:44
+anrbmac,331,student,"[unclear] Yeah, it should be a whole number that with hours and minutes.",00:37:46
+anrbmac,332,tutor,Okay.,00:37:55
+anrbmac,333,student,So I think he spent 10 hours and 8 minutes.,00:37:59
+anrbmac,334,tutor,"Okay, so how did you get that number?",00:38:07
+anrbmac,335,student,"So first I did, um, wait, you know that clear screen? Could you bring that out for me? Because there's not any— [unclear]",00:38:12
+anrbmac,336,tutor,You mean that plain screen that you bring?,00:38:22
+anrbmac,337,student,"No, that clear screen. You need a blank sheet.",00:38:34
+anrbmac,338,tutor,Yeah. If that's okay.,00:38:38
+anrbmac,339,background,I can provide you.,00:38:41
+anrbmac,340,tutor,Okay.,00:38:42
+anrbmac,341,student,"Thank you. So first, first, yeah, first what you're going to do is, um, so you know that you, that the numbers you have is, is, um, numbers you have is [unclear]",00:38:42
+anrbmac,342,tutor,"Shall I give you the two fractions, or can you remember?",00:39:08
+anrbmac,343,student,"Yeah, I know what it is. So there is 1 and a half, and then it was like— and then because I got the answer by lusting it, and then I did and then the top number was 3/4.",00:39:14
+anrbmac,344,tutor,[unclear],00:39:31
+anrbmac,345,student,"Quarters. And then because they're not the same denominator and it's going to be hard, so then I did— and then I changed it to the same denominators. So then I did— this is times 2, which is going to be 8. Over, and then times 3. 3 times 2 is 6, so we're going to do 6. And then 2 times 4 is 8, and then 1 times 4 is 4. So then we're going to bring our numbers over here. So it's going to be 4, 8, [unclear]",00:39:37
+anrbmac,346,tutor,Mm-hmm.,00:40:19
+anrbmac,347,tutor,plus... [UNCLEAR],00:40:20
+anrbmac,348,student,plus...,00:40:20
+anrbmac,349,tutor,one minute.,00:40:20
+anrbmac,350,student,plus...,00:40:20
+anrbmac,351,tutor,six...,00:40:20
+anrbmac,352,student,eight... And that's how I got my answer of— [unclear],00:40:20
+anrbmac,353,tutor,That's how I got my answer of 10/8.,00:40:49
+anrbmac,354,student,"10/8, and then I got my 8 hours and 10 minutes because",00:41:01
+anrbmac,355,student,"Because as you know that, and then I got to do the 8 at the bottom, which is because you can't plus the denominator, so that's why I did 8. And then no one would spend their time, 10 hours on the bike, on the scooter, so that's why it's got 8 hours. That's how I got 8 hours and 10 minutes. And then over here I write 8. [unclear]",00:41:11
+anrbmac,356,tutor,"Okay, Rowan, that's fine. So good work. Working hard on this, solving the fractions, right? Okay, that's a good workout. I'm really proud of that part. And do you know how to convert an improper fraction into a mixed number?",00:41:59
+anrbmac,357,student,Yeah.,00:42:17
+anrbmac,358,tutor,"Okay, can you do and show me how to do that?",00:42:20
+anrbmac,359,student,"Yeah. We learnt about it in school, but then I forgot how to do it. [unclear]",00:42:26
+anrbmac,360,tutor,"Okay, okay, that's fine. Again, here we have got the fraction, the improper fraction.",00:42:35
+anrbmac,361,student,Yeah.,00:42:40
+anrbmac,362,tutor,"And you, to make it a mixed number, you have to check how many 8s are there inside this 10.",00:42:41
+anrbmac,363,student,There are 1.,00:42:48
+anrbmac,364,tutor,"Yes, so we have to put 1 here, and denominator won't change. It's almost 8. And how many are left here? If we take 1/8, there's 2 left, right, to become 10. So here we go with the improper fraction, right?",00:42:52
+anrbmac,365,tutor,Now we have to make it into a proper fraction.,00:43:09
+anrbmac,366,student,"So, okay, okay. So what the question asks is— uh, I'm very proud of you solving about that fraction, but what they're asking is Rowan plays on his scooter for half an hour. So what is half of an hour? How many minutes? [unclear]",00:43:11
+anrbmac,367,student,"For one, he plays for a half hour and plays for three-quarter hour.",00:43:37
+anrbmac,368,tutor,"Oh, hour, hour. Yeah. How?",00:43:46
+anrbmac,369,tutor,How many minutes are there for an hour?,00:43:50
+anrbmac,370,student,60.,00:43:53
+anrbmac,371,tutor,"Yeah, so what is half of 60? Half of an hour.",00:43:56
+anrbmac,372,student,Half of 60 is 30.,00:44:00
+anrbmac,373,tutor,"Yes, so here Hockey plays scooter for 30 minutes. [unclear] They have mentioned it's half of an hour. And plays football for 3/4 of an hour. So what is",00:44:05
+anrbmac,374,tutor,"3/4 of an hour. 3/4 of an hour is 3 hours? [unclear] I mean, if you divide this clock, uh, 60 minutes into 4 parts, and if we take 3, what is going to give us? 3/4. If you look at the clock, what's 3/4 gonna give us? How many minutes?",00:44:18
+anrbmac,375,student,"Um, 7 minutes.",00:44:42
+anrbmac,376,tutor,12 minutes.,00:44:47
+anrbmac,377,student,"Okay, so there's 4 corners in the clock like this, right?",00:44:50
+anrbmac,378,tutor,"Yep, there is. I think it's going to give us 12 minutes.",00:44:55
+anrbmac,379,student,"Okay, so here it is like—",00:45:00
+anrbmac,380,tutor,60 minutes.,00:45:02
+anrbmac,381,student,"[unclear] Okay, so this is like one quarter. It gives us 15 minutes, right? And the next quarter gives us 30 minutes. This is how. And the next 3/4 gonna give us 45 minutes.",00:45:03
+anrbmac,382,student,Yeah.,00:45:25
+anrbmac,383,tutor,So 3/4 hour is gonna be 45 minutes. So what is the question is— [unclear] [unclear],00:45:28
+anrbmac,384,tutor,"Sorry, I said where did you get the 45 from? You need to know from where did I get 45.",00:45:38
+anrbmac,385,student,Yeah.,00:45:47
+anrbmac,386,tutor,"Yeah, so there are 60 minutes in an hour, right?",00:45:48
+anrbmac,387,student,Yeah.,00:45:52
+anrbmac,388,tutor,"So we have to check how much is 3/4 is. So because the denominator is 4, I'm gonna divide this bar model into 4 parts. And how much is one going to be?",00:45:53
+anrbmac,389,student,One is going to be 15.,00:46:07
+anrbmac,390,tutor,"Yes, so one is going to be 15. [unclear] Okay, so from that part, how much is 3 going to be? How much 3 of these going to be?",00:46:11
+anrbmac,391,student,"3 of them are gonna be equal to, um, let me just figure it out. [unclear] I think it's going to be 60. 3 of them are.",00:46:30
+anrbmac,392,student,"Oh, 3 of them. It's going to be 45.",00:46:56
+anrbmac,393,tutor,"Yeah, so that's how we got this 45. We divided the bar model into 4 parts and we need to check 3 of them, right? So that's how we got to get 45. So what is the question? How many times did he spend playing total? So he played 30 minutes scooter and [UNCLEAR].",00:47:00
+anrbmac,394,student,"Oh, that means 30 minutes plus 45 minutes. Yes, so that's how we're gonna work on that. So what's the answer gonna give us?",00:47:00
+anrbmac,395,student,The answer is gonna be 75.,00:47:27
+anrbmac,396,tutor,"Awesome, 75 minutes. If we write in hours and minutes, it's gonna give us 1 hour and 15 minutes, right? I think we have come up with a time.",00:47:33
+anrbmac,397,tutor,"Let's do the lesson on next day, Rowan. You did a really great job today. I'm very proud of you.",00:47:49
+anrbmac,398,student,"Okay, I'm going to put this in the bin. It's finished.",00:47:54
+anrbmac,399,tutor,"You had a good— [unclear] You had an excellent progress today, Rowan.",00:47:58
+anrbmac,400,student,"So, pick this up.",00:48:03
+anrbmac,401,tutor,"Yes. Okay, thank you for contributing for today's session. Let's meet on next day, right?",00:48:08
+anrbmac,402,tutor,"Okay, bye. Have a good day.",00:48:14
+anrbmac,403,student,"Bye, have a nice day.",00:48:16
+anrbmac,404,tutor,"Okay, you too.",00:48:17

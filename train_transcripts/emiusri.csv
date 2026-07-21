@@ -1,0 +1,205 @@
+session_id,utterance_id,role,content,timestamp
+emiusri,0,tutor,Hi.,00:00:00
+emiusri,1,background,[unclear],00:00:00
+emiusri,2,student,Oh.,00:00:00
+emiusri,3,tutor,I have a question.,00:00:01
+emiusri,4,student,Yes.,00:00:04
+emiusri,5,tutor,I can't really hear you.,00:00:06
+emiusri,6,student,"Oh, okay. I think that there's a problem with your network.",00:00:09
+emiusri,7,tutor,"Would you be able to connect, check your connection? If you want to give it a refresh. [unclear]",00:00:13
+emiusri,8,student,Right. I think it's good now.,00:00:31
+emiusri,9,tutor,"Yeah, that's better. Yeah. So now you can hear me, yeah?",00:00:34
+emiusri,10,student,Yes.,00:00:38
+emiusri,11,tutor,"Alright, so how are you keeping, Callum?",00:00:39
+emiusri,12,student,"I'm alright, thanks. How are you?",00:00:42
+emiusri,13,tutor,"I'm doing great. Thank you so much for checking. It's been a while since we get into the session, isn't it?",00:00:44
+emiusri,14,student,Yeah.,00:00:50
+emiusri,15,tutor,"Yeah, alright. Okay, so let's get started with our lesson today. I hope you remember you started working on with this lesson with a different tutor, working with arithmetic sequences.",00:00:51
+emiusri,16,background,Yeah. So we'll be continuing that lesson. Try your best to answer the questions accurately.,00:01:02
+emiusri,17,student,Okay.,00:01:10
+emiusri,18,tutor,"So you actually have completed the first part of this question. I want you to work on the second part of this question. Can you do part B? [unclear] You can read the question from the beginning, yeah. [unclear]",00:01:12
+emiusri,19,student,Put it as a multiple of 50.,00:01:34
+emiusri,20,tutor,"I'm sorry? I don't know how you describe it, like square it but not square it, but add 50.",00:01:52
+emiusri,21,tutor,"Not really. So in this question, what are you expected to do?",00:02:04
+emiusri,22,student,Find the 50th term.,00:02:14
+emiusri,23,tutor,OK. How can you find that? [unclear],00:02:16
+emiusri,24,student,I don't know.,00:02:22
+emiusri,25,tutor,So what's the sequence that is given to you?,00:02:26
+emiusri,26,student,[unclear] times by n is 9n minus 8.,00:02:32
+emiusri,27,tutor,"Okay, so let's have a look how we should actually read and understand this sequence, and then let's work on it. Okay, so it's not p times n. So when it comes to a sequence, you need to understand this shows the term when the term number is n. So this n represents the position of the term, like the first term, second term, third term, 50th term, 100th term, or the nth term.",00:02:36
+emiusri,28,student,Yeah.,00:03:05
+emiusri,29,tutor,"Okay, so the general formula when the— when you're finding the position of a term, you use the position as n, and this is the sequence you need to follow. So you need to multiply the term number by 9 and subtract 8 from it. Is that clear to you?",00:03:05
+emiusri,30,student,Yeah. So would it be T and then 50 equals 9... [unclear] And then is it 50 in the bracket and then minus 8?,00:03:28
+emiusri,31,tutor,Correct. So what's the operation between 9 and n here?,00:03:46
+emiusri,32,student,Times by 50.,00:03:52
+emiusri,33,tutor,"Exactly. It is times by 50. So here you can consider it as times by 50. But here it's not times by n. t is not multiplied by n. Okay, it shows that nth term. Okay.",00:03:55
+emiusri,34,student,Yep.,00:04:11
+emiusri,35,tutor,"So let's start from the beginning. You were asked, I mean, in the first question, you need to generate the first 5 terms of the sequence. How would you do that?",00:04:12
+emiusri,36,student,"So T— wait, 9, and then wait for the 4th one. [unclear] So 9, 4, and wait, and then minus 8.",00:04:23
+emiusri,37,tutor,OK. So how would you find the first term?,00:04:41
+emiusri,38,student,9 minus 8.,00:04:49
+emiusri,39,tutor,And that is?,00:04:52
+emiusri,40,student,1.,00:04:54
+emiusri,41,tutor,1. So that 1 is your first term.,00:04:55
+emiusri,42,student,Yeah.,00:04:58
+emiusri,43,tutor,"OK. Similarly, find the second term.",00:04:59
+emiusri,44,student,10.,00:05:02
+emiusri,45,tutor,How did you get 10?,00:05:06
+emiusri,46,student,Or would it be 11? [unclear],00:05:08
+emiusri,47,tutor,"Oh, tell me, how did you get 10?",00:05:11
+emiusri,48,student,"9 times 2, which is 18, then take away 8.",00:05:15
+emiusri,49,tutor,"OK, and that's right. OK. And what's the third term?",00:05:19
+emiusri,50,student,21.,00:05:27
+emiusri,51,tutor,Can you work on it again?,00:05:28
+emiusri,52,student,[unclear] 27 take away 8 is 19.,00:05:29
+emiusri,53,tutor,19. Okay. And the fourth term?,00:05:46
+emiusri,54,student,"36 take away 8, which is 28.",00:05:51
+emiusri,55,tutor,Correct.,00:05:54
+emiusri,56,student,And then 45 take away 8 is 37.,00:05:56
+emiusri,57,tutor,"That's right. Okay, and that's how you would work out. So similarly, can you find the 50th term of the sequence? [unclear]",00:06:02
+emiusri,58,tutor,"Would it be 442? And that's absolutely right. Okay, so when you have the sequence, it's just a matter of substituting the term number and finding your term in the sequence. Okay, and there's another exam-style question. Just read through and answer it. And would you be able to show me the answer? Would you be able to write your answer here?",00:06:17
+emiusri,59,student,Yeah.,00:06:49
+emiusri,60,tutor,"Yeah, that's great. [unclear] [unclear]",00:06:50
+emiusri,61,tutor,Could I have some help with this?,00:07:08
+emiusri,62,student,Sure. How would you like me to help you?,00:07:13
+emiusri,63,tutor,"Well, I'm just kind of confused on what the n is.",00:07:21
+emiusri,64,background,Okay. Where do you see the n in the sequence?,00:07:25
+emiusri,65,tutor,n equals 1. [Speaker] 8 minus 2n?,00:07:31
+emiusri,66,tutor,Yeah. [Speaker] So would n just be like 8?,00:07:34
+emiusri,67,tutor,You need to find the first 5 terms of the sequence. So what would be the value of n for the first term? [Speaker] Um... [unclear],00:07:44
+emiusri,68,tutor,"[unclear] So n shows the position, okay? So the first term, for the first term, n would be equal to 1. That's it.",00:08:00
+emiusri,69,student,Oh yeah.,00:08:12
+emiusri,70,tutor,"And for the second term, what would be the value of n?",00:08:13
+emiusri,71,student,3.,00:08:17
+emiusri,72,tutor,Second term.,00:08:19
+emiusri,73,student,"Oh, hold on a second.",00:08:22
+emiusri,74,student,"Wait, I'm still confused because you know how it's 2n. Would I do— let's say it was 2, I would do equal 4.",00:08:24
+emiusri,75,tutor,"OK. Let's come back here. OK. In our previous example, we were asked to generate the first 5 terms of the sequence, right?",00:08:41
+emiusri,76,tutor,"Yeah, so remember, n-term in the formula— formula— so n-term is the formula that allows us to generate a sequence by substituting values in. Okay, so if it is the first term, you need to consider n as 1. Okay, for the second term, n is equal to 2. So you substitute, uh, the term number into the formula to find the answer.",00:08:50
+emiusri,77,tutor,"So again, you were asked to find the first 5 terms of the sequence. So let's write it. So what is Tn? T1 actually.",00:09:19
+emiusri,78,student,Equals 8 minus 2n.,00:09:30
+emiusri,79,tutor,8 minus 2 times— what is n here?,00:09:33
+emiusri,80,student,1.,00:09:39
+emiusri,81,tutor,1. What is T1? [unclear],00:09:40
+emiusri,82,tutor,Can you repeat that?,00:09:48
+emiusri,83,student,"Yeah, just solve this problem. What is T1?",00:09:51
+emiusri,84,tutor,6.,00:09:57
+emiusri,85,student,"6. That's all. Okay. Similarly, can you find the second term?",00:09:58
+emiusri,86,tutor,What is T2?,00:10:09
+emiusri,87,student,"Equals 8 minus 2 times 2, which is 4.",00:10:11
+emiusri,88,tutor,So that equals 4. Okay. And then 13?,00:10:22
+emiusri,89,student,2.,00:10:27
+emiusri,90,tutor,3. How did you get it?,00:10:31
+emiusri,91,student,"No, 2.",00:10:32
+emiusri,92,tutor,How did you get 2?,00:10:35
+emiusri,93,student,"2 times 3, 6, take away 8.",00:10:38
+emiusri,94,tutor,"Okay. And what's the 4th term? Continue, continue answering. Find all the 5 terms.",00:10:43
+emiusri,95,student,0.,00:10:52
+emiusri,96,tutor,Okay. And then... [unclear] [Speaker:Callum]...minus 2.,00:10:55
+emiusri,97,tutor,"Okay, and that's right. So how would you write this answer in the exam paper? You need to find the first 5 terms of the sequence. Could you show the first 5 terms?",00:11:04
+emiusri,98,background,"Um, n— wait, would it be like n equals?",00:11:20
+emiusri,99,tutor,"Not really. You can directly show the numbers straight away. Okay, that's 6, 4, 2, 0, and -2. Okay?",00:11:25
+emiusri,100,student,Yeah.,00:11:40
+emiusri,101,tutor,Right. Can you find the 100th term of the sequence? [unclear] [unclear],00:11:41
+emiusri,102,tutor,Would it be -190?,00:12:01
+emiusri,103,student,-190.,00:12:10
+emiusri,104,tutor,Oh.,00:12:13
+emiusri,105,tutor,Can you check the answer again? [unclear],00:12:17
+emiusri,106,student,"Wait, so we would actually T bracket 100 bracket equals 8 minus, and then 2 times 100, which is 100, which is 200. So then 200 take away 8, or 8 take away 200.",00:12:28
+emiusri,107,student,190 minus—,00:12:43
+emiusri,108,tutor,190?,00:12:45
+emiusri,109,student,I got minus 190.,00:12:49
+emiusri,110,tutor,"It's minus 192. Your workings are right. If you take away 8 from 200, it's 192. [unclear]",00:12:52
+emiusri,111,student,Yeah.,00:13:00
+emiusri,112,tutor,"Okay. Yeah, and that's the final answer. Okay.",00:13:02
+emiusri,113,student,Yep.,00:13:05
+emiusri,114,tutor,"Yeah, so that's how we can work with, um, sequences. And this is how you can find the sequence if you know the nth term. Okay.",00:13:06
+emiusri,115,tutor,Yeah.,00:13:18
+emiusri,116,student,Let's look at another example question. Read through and see if you can answer. [unclear],00:13:18
+emiusri,117,tutor,Yeah.,00:13:36
+emiusri,118,student,"[unclear] That's why. Okay. Is it, wait, is it -2m 10? [Speaker:Tutor]...minus 2n plus?",00:13:38
+emiusri,119,student,10.,00:14:03
+emiusri,120,tutor,Good.,00:14:04
+emiusri,121,background,[unclear],00:14:04
+emiusri,122,tutor,"OK. You're almost there, but can I know how you got this answer?",00:14:05
+emiusri,123,background,"Well, because the difference between them is take away 2, so then that's minus 2n. And then if you put like the 2 times table, you add 10 to get to each.",00:14:09
+emiusri,124,tutor,"OK. Let's just check the first step. If it is -2n 10, okay, what's the first term? 12.",00:14:25
+emiusri,125,student,Okay.,00:14:37
+emiusri,126,tutor,Can you substitute 1 here and see if you're getting 12? 9. [unclear],00:14:38
+emiusri,127,background,Okay.,00:14:50
+emiusri,128,tutor,"So your first term, I mean, This one is correct. It's just the constant that you add is wrong. Added is wrong. So how would you change it?",00:14:51
+emiusri,129,student,[unclear] Do I put -2 in the h?,00:15:02
+emiusri,130,tutor,"No, -2n is correct. Okay? So let's think like this. So for the first term, if you substitute n as 1. So -2 is already there. So -2 plus how much would give you 12? That's your first term.",00:15:10
+emiusri,131,student,Plus 12.,00:15:29
+emiusri,132,tutor,"Plus 14, not plus 12.",00:15:32
+emiusri,133,student,"Oh, yeah. [unclear]",00:15:33
+emiusri,134,tutor,"Okay. And this would be your formula, and that would work for all the terms. Substitute the value for the second term and find it. See if you're getting 10.",00:15:35
+emiusri,135,tutor,Would it be 16?,00:15:49
+emiusri,136,student,"Uh-huh. Can you find the second term of this formula, of this nth term? How would you find the second term?",00:15:55
+emiusri,137,tutor,"2n— well, minus 2n plus [UNCLEAR].",00:16:05
+emiusri,138,tutor,"12. Not really. You have to— okay, this is a general formula that you're trying to figure out, and that would work for all the terms. Okay, it's just only for the first term you used the known value and you figured out how much more should be added. Okay, and this should work for the second term as well. So T2— so this is Tn that you have figured out, right?",00:16:13
+emiusri,139,student,Yeah.,00:16:38
+emiusri,140,tutor,"Tn equals that, right?",00:16:40
+emiusri,141,student,Yeah.,00:16:46
+emiusri,142,tutor,"So what is T1 then? T1 you already know, that is 12.",00:16:46
+emiusri,143,student,Yeah.,00:16:55
+emiusri,144,tutor,Let's find T2.,00:16:55
+emiusri,145,student,Sorry.,00:16:57
+emiusri,146,tutor,So T2 would be -2 times— 2. [unclear],00:17:00
+emiusri,147,tutor,"2, second term. Yeah. Plus 40. And what would be the answer?",00:17:06
+emiusri,148,student,"Um, 10.",00:17:18
+emiusri,149,tutor,10. And do you see that you are getting the second term?,00:17:20
+emiusri,150,student,Yeah.,00:17:24
+emiusri,151,tutor,"Yeah. And let's try if your formula is working for the third term as well. Okay, if T3— how would you find this? [unclear]",00:17:24
+emiusri,152,student,Minus 2 times by 3.,00:17:35
+emiusri,153,tutor,"Okay, and then?",00:17:38
+emiusri,154,student,And then add 14.,00:17:40
+emiusri,155,tutor,"Okay, and what's the answer?",00:17:43
+emiusri,156,student,8.,00:17:45
+emiusri,157,tutor,8. And do you see that your n-term is working for all the terms?,00:17:47
+emiusri,158,student,Yeah.,00:17:52
+emiusri,159,tutor,"Okay, so let's have a look at this. So we can find the n-term of an arithmetic sequence one that goes up or down by the same amount each time. So if you see, you figured out that this sequence is going down by 2, right?",00:17:52
+emiusri,160,student,Yeah.,00:18:10
+emiusri,161,tutor,"So only for the arithmetic sequence you can use this method, okay? By comparing the sequence to the relevant times table. Let's have a look. Find the nth term of the sequence. So here in the sequence, it's 7, 10, 13, 16, and 19. So here it's going up in 3s. Do you see?",00:18:10
+emiusri,162,student,Yeah.,00:18:33
+emiusri,163,tutor,So here you are writing the 3 times table. That's 3n.,00:18:34
+emiusri,164,student,Yeah.,00:18:41
+emiusri,165,tutor,"Okay, so, and that is 3— 3n is actually 3, 6, 9, 12, and 15. So if you see the first 0 term,",00:18:41
+emiusri,166,tutor,It's the first term. Okay.,00:18:53
+emiusri,167,student,Yeah.,00:18:55
+emiusri,168,tutor,"The first term is actually 4 times more than 3. Yeah. So if you add 3— if you add 4 to 7— 4 to 3, you will get the first term. So that's what they have done here. Do you see?",00:18:57
+emiusri,169,background,Yeah.,00:19:13
+emiusri,170,tutor,"Even for the second term, if you add that 4, you will get the second term. And the third multiple of 3, if you add 4 to it, you will get the third term, and it continues. So that's why we get— that's how we get the nth term as 3n 4. We [unclear] compare the times table with the sequence and see by how much— how much more that needs to be added, and that should be constant. Yeah.",00:19:14
+emiusri,171,student,It,00:19:41
+emiusri,172,tutor,should be the same number that you are adding to the multiples of 3 or the differences to get the sequence.,00:19:41
+emiusri,173,tutor,"All right. Okay, see if you can use that technique to answer this problem. [unclear] [unclear]",00:19:49
+emiusri,174,tutor,How did you get -11?,00:20:24
+emiusri,175,student,Because that's the difference between -8 and -3.,00:20:26
+emiusri,176,tutor,"Oh wait, no.",00:20:30
+emiusri,177,student,"See, the sequence is actually going upward. Up or down?",00:20:37
+emiusri,178,student,[unclear] Down.,00:20:40
+emiusri,179,tutor,Check the numbers again. Is it going up or down? Which is larger? Is it -8 or -3?,00:20:49
+emiusri,180,background,Up.,00:20:57
+emiusri,181,tutor,"So the difference is 5n, not -5n. Okay.",00:20:59
+emiusri,182,tutor,"Okay, and then would I do 5 minus 8?",00:21:06
+emiusri,183,student,"You need to— okay, use your times table. Okay?",00:21:14
+emiusri,184,tutor,"So that's 5, 10, right? I'll put it underneath.",00:21:18
+emiusri,185,student,"Exactly. Yeah, you can write it underneath and see how much you need to add to your 5 times table to get the sequence back. [unclear]",00:21:22
+emiusri,186,student,[unclear] [unclear],00:21:34
+emiusri,187,student,[unclear] [unclear],00:21:43
+emiusri,188,student,Is it cross 1?,00:21:58
+emiusri,189,student,Then I do add 13.,00:22:05
+emiusri,190,student,Would you add 13 or take away 13?,00:22:09
+emiusri,191,student,Away.,00:22:11
+emiusri,192,student,"You need to take away, okay?",00:22:13
+emiusri,193,student,Yeah.,00:22:15
+emiusri,194,student,"Because if you see that comparative to your 5 times table, the sequence is less than that. So you need to take away that 13 for every multiples of 5. Okay. So keep this algorithm in mind, and this would be the method that you need to follow to find the arithmetic sequence. [unclear] Okay. Right. And let's get into one last question of this lesson. Can you work out this? [unclear]",00:22:15
+emiusri,195,student,"Yeah, I think she's wrong.",00:23:00
+emiusri,196,tutor,Why do you think she's wrong?,00:23:02
+emiusri,197,student,"Because I did 240 take away 12, and then that's not a multiple of 5.",00:23:18
+emiusri,198,tutor,"Absolutely right. That was an amazing thought to this question. Well done. All right, so overall, what do you think about this lesson? Do you find it difficult? [unclear]",00:23:28
+emiusri,199,student,I thought it was helpful.,00:23:39
+emiusri,200,tutor,"Okay, great. And do practice more questions like this. And throughout the session, you did put a lot of effort, and I can see that. Keep working on it. In the next class, please do join on time so we can work on more questions. Towards the end of the session, you will have two post-session questions. Please do answer them as well. Okay? And we'll wrap up the session for today. I'll meet you next week. Bye.",00:23:42
+emiusri,201,student,"Okay, bye. [unclear] [unclear]",00:24:06
+emiusri,202,student,[unclear] [unclear],00:24:21
+emiusri,203,student,[unclear],00:24:22

@@ -1,0 +1,238 @@
+session_id,utterance_id,role,content,timestamp
+buyoxlo,0,tutor,Hello.,00:00:00
+buyoxlo,1,background,[unclear],00:00:00
+buyoxlo,2,student,Hello.,00:00:00
+buyoxlo,3,tutor,"Hi, Linus. Can you hear me clearly?",00:00:01
+buyoxlo,4,student,Yeah.,00:00:04
+buyoxlo,5,tutor,That's great. [unclear],00:00:05
+buyoxlo,6,tutor,"Hello, Linus, can you hear me continuously?",00:00:13
+buyoxlo,7,student,Yep.,00:00:16
+buyoxlo,8,tutor,"Oh, great. How are you today?",00:00:17
+buyoxlo,9,student,"Good, thank you.",00:00:20
+buyoxlo,10,tutor,"Okay, welcome, Linus. So let's get into the session. Do you remember we did up to this slide in our last session?",00:00:21
+buyoxlo,11,student,Yes.,00:00:29
+buyoxlo,12,tutor,"We did up to this point, yeah?",00:00:29
+buyoxlo,13,student,Yeah.,00:00:33
+buyoxlo,14,tutor,"Okay, so we were talking about mean. So what do you recall about mean? What's mean?",00:00:34
+buyoxlo,15,student,"Um, like the average.",00:00:41
+buyoxlo,16,tutor,"Yeah, it's more like average. So let's go there. Okay, so I'll be doing the follow-me part. To calculate mean, it is the total of the numbers divided by how many numbers there are, like you did in the previous one. You did it on your own there, Linus, I can recall that.",00:00:46
+buyoxlo,17,tutor,"So what's the mean number of books read in the summer term? So here are some names and here are the number of books read, and we're going to find the total. Okay, so 5 4 9, 1 10, 12, 12 5 17, 17 7 24. So the total I have is 24, and the total number of students to",00:01:04
+buyoxlo,18,tutor,"There are 6. Okay. So I know the dividend is 24 and the divisor is 6. Therefore, 24 divided by 6 will be the mean. [unclear] Is that correct? [unclear]",00:01:29
+buyoxlo,19,tutor,"Can you try the your turn one now, Linus? Linus, are you sure about the total? [unclear] [unclear]",00:01:55
+buyoxlo,20,tutor,"Linus, can you check this again? You're very close.",00:02:37
+buyoxlo,21,student,"This one, it would be... [unclear]",00:02:39
+buyoxlo,22,tutor,"Yes, that's correct.",00:03:12
+buyoxlo,23,tutor,"Oh, hold on, Linus. So here you have the dividend. Dividend is the total. So it's 60 divided by 4, okay?",00:03:46
+buyoxlo,24,student,[unclear] And then—,00:03:59
+buyoxlo,25,tutor,Can you change the dividend also? [unclear] [unclear],00:04:04
+buyoxlo,26,tutor,"Okay. So what method do you have to divide a number by 4, Linus? How can we divide it easier? [unclear]",00:04:49
+buyoxlo,27,tutor,"Yeah, you can. Since this is a one-digit number, you can use the [unclear] division. If not, if you are working in our head, you can half this number first and then you half it again. Okay? Can you try it that way? [unclear]",00:05:03
+buyoxlo,28,tutor,"Awesome, Linus. So how did you get 15 there?",00:05:26
+buyoxlo,29,student,Because I just divided 4 by 60.,00:05:30
+buyoxlo,30,tutor,"Mm-hmm. Okay. So nicely done there, Linus. Since you're okay with it, let's try some more problems here. There are 2 questions. You can try that. [unclear]",00:05:33
+buyoxlo,31,tutor,"Yeah. [unclear] [Speaker:Linus]...5, 1, 1, 2, 4, 7... to get a salad and 4 hot dogs. Inside is 2 very special [UNCLEAR]. How much would you pay to eat together? [unclear]",00:05:51
+buyoxlo,32,tutor,"Okay, so I can see you have answered both the questions, Linus. So can you explain me how you got 35?",00:06:25
+buyoxlo,33,student,"Yeah, I— so my answer was",00:06:32
+buyoxlo,34,student,"So all of them added together was 35, and then all of them, like, from the people, that was 5, so I just divided 35 by 75.",00:06:38
+buyoxlo,35,tutor,"Um, what is it, Linus? Can you repeat that? Did you divide 35 by 75?",00:06:55
+buyoxlo,36,student,No. [unclear],00:07:02
+buyoxlo,37,tutor,"Oh, okay. I heard it like that. That's what I wanted to repeat that, Linus. So you got 35 as the total weight, right? And how do we find the mean weight from 35?",00:07:03
+buyoxlo,38,student,"Uh, I divided it by 5.",00:07:17
+buyoxlo,39,tutor,"Okay, awesome. And what is the answer you get?",00:07:20
+buyoxlo,40,student,"Uh, 7.",00:07:25
+buyoxlo,41,tutor,"So is 7 the answer for the first question, or is 7 the answer for the second question?",00:07:28
+buyoxlo,42,student,It says what's the mean average. [unclear] It's the second question.,00:07:36
+buyoxlo,43,tutor,"Mm-hmm. So for the second question, the answer you told, 35 divided by 5 is equal 7 kilograms. So this is correct for the second question. Okay, what about the first question? Is the answer for the first question 7 or You accidentally wrote this answer there. So first question is complete different question about the sizes of pizza and the children. [unclear] [Speaker:Linus]... [UNCLEAR] [unclear]",00:07:42
+buyoxlo,44,tutor,"Okay, can you explain to me how you got that, Linus?",00:08:26
+buyoxlo,45,student,I just got the mean average from— I got the number of slices taken and I divided the number of slices taken by 5 because there's 5 people and I got 3.,00:08:31
+buyoxlo,46,tutor,"Awesome, Linus. So that's a great explanation there. Since you're getting that, let's try",00:08:47
+buyoxlo,47,tutor,"We have the last question here. [unclear] What's your method in finding this, Linus?",00:08:51
+buyoxlo,48,student,[unclear] explain my method really.,00:09:19
+buyoxlo,49,tutor,"Okay, so the thing is you're very close to the answer, but the answer is wrong. So if you tell the method, I think we can spot where the mistake lies. So where did you start from? How did you get 12 here? Since they told you the mean The mean is already found to be 14 minutes, and there are 4 children. So only one student's time is not given. So where did you start from to work out?",00:09:27
+buyoxlo,50,student,[unclear] Let me think.,00:09:58
+buyoxlo,51,tutor,Okay.,00:10:02
+buyoxlo,52,student,11? No.,00:10:03
+buyoxlo,53,tutor,"Okay, so there's a method how we can work this, Linus. So in the previous one, You were given all the weights and you were asked to find the mean weight. Yeah? [unclear] But here we are doing the opposite. Already the mean is given, so what we can do is let's find the total time from the mean. How can you do that?",00:10:07
+buyoxlo,54,student,"Um, divide it by 4.",00:10:30
+buyoxlo,55,tutor,"Already the total is being divided by 4. Okay, so It's, say, [UNCLEAR]. [Speaker:Linus] Times it by 4?",00:10:34
+buyoxlo,56,tutor,"Exactly. Yes, so there is a total which has been divided by 4, and the answer is 14. Therefore, we do the inverse to find the total. Okay, you can times— you can multiply 14 by 4 to get the total. So what's the total we get from that?",00:10:41
+buyoxlo,57,student,[unclear] Is it 4 times 14?,00:11:06
+buyoxlo,58,tutor,Yeah.,00:11:09
+buyoxlo,59,student,416.,00:11:11
+buyoxlo,60,tutor,"How did you get that answer, Linus?",00:11:18
+buyoxlo,61,background,"It's 14 times 4. You will have 2 times 4 times 4, which is 16. That's right. And give 1 to regroup. Then 1 times 4 is 4. 4 plus 1, 5, right? I think I'm confusing you. Let me try to write it out here. So if you are doing this here—",00:11:20
+buyoxlo,62,student,[unclear],00:11:39
+buyoxlo,63,tutor,"Yeah, that's it. That's right. So we have the total time as 56. Now, from the total time given and the other 3 children's times are given, how can we find the time for Billy? We know all these added together.",00:11:39
+buyoxlo,64,student,I'm working it out. I'm sorry.,00:12:00
+buyoxlo,65,tutor,"Go ahead, Linus. Okay.",00:12:02
+buyoxlo,66,background,Thank you.,00:12:04
+buyoxlo,67,tutor,"Gideon, go ahead. [unclear]",00:12:05
+buyoxlo,68,tutor,"Oh, sorry. Oh yeah, actually, 14.",00:12:35
+buyoxlo,69,background,"That's right, Linus. So how did you get 14 there?",00:12:39
+buyoxlo,70,student,"I added all the times up together, which is 42, and then took away",00:12:44
+buyoxlo,71,student,I'm 56 from that.,00:12:50
+buyoxlo,72,tutor,"Exactly. Nice working out there, Linus. So since we learned it new, can you tell me the two main steps how we got this answer from the mean that's given?",00:12:52
+buyoxlo,73,student,"We times the [UNCLEAR]. We times 14 by 4, and then we added all the times together, and then",00:13:03
+buyoxlo,74,student,We subtracted 56 from it.,00:13:16
+buyoxlo,75,tutor,"Exactly, Linus. That's a good explanation there. So this is how we find— on the previous questions, you found the mean directly. And if the mean is given and one particular information is asked, you do the inverse. Yeah?",00:13:20
+buyoxlo,76,student,Yeah.,00:13:34
+buyoxlo,77,tutor,"All right, Linus. So let's move on to a new lesson. [unclear]",00:13:35
+buyoxlo,78,tutor,"Okay, what is the topic this time, Linus? [Speaker:Linus]...",00:13:47
+buyoxlo,79,student,I'm describing linear sequences.,00:14:08
+buyoxlo,80,tutor,Okay. So do you know what a sequence is? What do you mean by a sequence?,00:14:13
+buyoxlo,81,student,"Yeah, I know what a sequence is.",00:14:17
+buyoxlo,82,tutor,"Mm-hmm. What is it? What is a sequence? Okay, I can see that you're working this out. Go ahead. [unclear]",00:14:21
+buyoxlo,83,tutor,"Yes, Linus. So how did you find that this number should be 3?",00:14:37
+buyoxlo,84,student,"[unclear] Like basically it goes up in 4, so 4 plus 4 equals 8, so then it went to 1.8 and then 1.2 because obviously 12 and then 2.6, that will go to the nearest whole, and then it'll be 3.",00:14:41
+buyoxlo,85,tutor,"You could do this, but not going up in— [unclear] Oh yeah, okay. It's not going up in 4s, instead they're going up in 0.4s. Okay, yeah, going up in 4 times. Yeah, so good job in observing that, Linus. So a sequence is, uh, there you get some terms where they are related to each other with the rule. Yeah? [unclear] Okay, with that, let's move on to the next one. Can you read this for me?",00:15:06
+buyoxlo,86,student,The linear description is a number pattern which increases or decreases by the same amount each term.,00:15:36
+buyoxlo,87,tutor,"Okay, so it can either increase or decrease. So here we have a sequence. 7 is the first term in the sequence.",00:15:46
+buyoxlo,88,tutor,"So, and also each number in the number pattern is called a term. Yeah, you're doing it. Go ahead. [unclear]",00:15:56
+buyoxlo,89,tutor,"Awesome effort in doing that all by yourself, Linus. That's okay. So you have completed the first question. Let's go to the next one. [unclear] [unclear]",00:16:29
+buyoxlo,90,tutor,"Hello, Linus, you can hear me, right?",00:17:01
+buyoxlo,91,student,Yeah.,00:17:04
+buyoxlo,92,tutor,Yeah. [unclear],00:17:04
+buyoxlo,93,tutor,"So here, Linus, are you crossing it because it's wrong, or are you marking it because it's right? How are you doing that?",00:17:34
+buyoxlo,94,student,There's nothing there from what I see.,00:17:41
+buyoxlo,95,tutor,"Sorry, Linus, can you repeat that?",00:17:45
+buyoxlo,96,student,There's nothing there from what I saw.,00:17:48
+buyoxlo,97,tutor,"I saw a cross on this, so is it— do you think this is correct or this is wrong? What do you think?",00:17:54
+buyoxlo,98,background,Each number is more than 2.,00:18:02
+buyoxlo,99,tutor,"Okay, complete these 3 terms in sequence above. We all have done that. This is the following statement. [unclear] [unclear]",00:18:08
+buyoxlo,100,tutor,"Perfect. Linus, do you need any support here?",00:18:37
+buyoxlo,101,student,"Yes, because I'm not [unclear] what all of these mean because no one's told me.",00:19:04
+buyoxlo,102,tutor,"Oh, no worries, Linus. Let's go through. Since you can find the next terms in a sequence, you're all good on this. So here are just a few statements. You have to say whether they are correct or wrong. Okay? So let's see the first one. Each number is 2 more than a multiple of 5. So can you tell me some multiples of 5?",00:19:10
+buyoxlo,103,student,"5, 10, 15, 20, 25, 30, [unclear]",00:19:31
+buyoxlo,104,tutor,"Hold on, let me type it first. 15, 20, 25, and let's have 30 here. So you can see this sequence is from the 5, multiples of 5, we are going to see how this sequence is connected. Okay, so they say each number is 2 more than a multiple of 5. Is it true in the first term?",00:19:34
+buyoxlo,105,student,No.,00:20:01
+buyoxlo,106,tutor,Is it 2 more than 5?,00:20:02
+buyoxlo,107,student,"Yeah, true in this one.",00:20:03
+buyoxlo,108,tutor,Yeah.,00:20:06
+buyoxlo,109,student,It's true in this one. It's true in this one.,00:20:06
+buyoxlo,110,tutor,"So you can see going forward it's true for every term, right?",00:20:10
+buyoxlo,111,student,Is it— says each number is 2,00:20:16
+buyoxlo,112,tutor,It's 2 more than a multiple of 5.,00:20:22
+buyoxlo,113,student,But these are like less than here. These are less than.,00:20:25
+buyoxlo,114,tutor,"You can see 20. So actual sequence— in the sequence, the actual term is 2 more than the multiple of 5. Yeah, therefore it's true for all the terms in the sequence. So that is correct. Let's go to the next one.",00:20:31
+buyoxlo,115,tutor,"Yeah, why do you say that it's correct?",00:20:46
+buyoxlo,116,student,You have to add 5 every time.,00:20:49
+buyoxlo,117,tutor,"Yeah, the common difference is 5, therefore this statement is also correct. What about the third one?",00:20:52
+buyoxlo,118,student,"Each number has 2 [UNCLEAR]. Yeah, really, yeah. [Speaker:Tutor] Mm-hmm, so that's also correct.",00:20:59
+buyoxlo,119,tutor,Let's go to the next one. Okay. [unclear],00:21:11
+buyoxlo,120,tutor,"So why do you say this statement is wrong, Linus?",00:21:38
+buyoxlo,121,student,[unclear] Because you can extend it as far as you want.,00:21:41
+buyoxlo,122,tutor,"Okay, hold on. So you can extend the sequence as far as we want, but they say 1070 will appear in the sequence. So do you think 1070 will be a term on this sequence? [Speaker:Linus]...Yes. [Speaker:Tutor] How do you think so?",00:21:49
+buyoxlo,123,student,"Well, I don't see— no, it wouldn't.",00:22:09
+buyoxlo,124,tutor,Mm-hmm. Why did you decide it won't be there as a term in the sequence?,00:22:11
+buyoxlo,125,student,Because I haven't seen 10 so far in this whole sequence.,00:22:18
+buyoxlo,126,background,[unclear],00:22:22
+buyoxlo,127,tutor,"Okay, so Linus, actually, when we extend this from 32 The next term will be you add 5 and it will be 37, then it goes like 42, 47, 52, 57. Likewise, the ones digit is either 2 or 7 only. Can you see that? So this particular number has a 0 in the ones place, therefore this will not appear in the sequence. Okay?",00:22:26
+buyoxlo,128,student,[unclear] [unclear],00:22:53
+buyoxlo,129,tutor,"Is it okay there, Linus, or is it confusing?",00:22:58
+buyoxlo,130,student,It's fine.,00:23:01
+buyoxlo,131,tutor,"Okay, so what I meant is— yeah, you were about to say something? Yeah, Linus?",00:23:05
+buyoxlo,132,student,"Nothing, nothing, don't worry.",00:23:12
+buyoxlo,133,tutor,"Yeah, okay. So if we have 7, then we had 12, then we had 17, yeah?",00:23:14
+buyoxlo,134,tutor,22.,00:23:23
+buyoxlo,135,student,Yeah.,00:23:23
+buyoxlo,136,tutor,"We have 27, 32, 37, then we have 42, 47. What will be the next thing? [unclear]",00:23:24
+buyoxlo,137,student,"52, then 57, then 62, 67, then—",00:23:39
+buyoxlo,138,student,72 and 77.,00:23:47
+buyoxlo,139,tutor,"Yeah, likewise, it will go up to— if we extend this up to thousands and that range, even though we extend how much far we want, always the ones digit will be either 7 or 2. Can you see that?",00:23:50
+buyoxlo,140,student,"Yeah, I know, that's why I pushed it out.",00:24:05
+buyoxlo,141,tutor,"Ah, yes, Linus. So that's right, since the ones digit doesn't match With the sequence, we can say the statement is wrong. Good job there, Linus. Let's go to the next one. [unclear] [Speaker:Linus]...set... [unclear]",00:24:08
+buyoxlo,142,tutor,"Okay, so how did you know that this statement is correct?",00:24:47
+buyoxlo,143,student,"Because 2 is even and then 7 is odd, and then it keeps going like that for ages.",00:24:53
+buyoxlo,144,tutor,"Exactly, Linus, that's a really nice observation there. So Good working out. Awesome. Let's go to the next part. Okay, so let's look at working out what the previous 2 terms would be in a sequence. So now we are going to work out the previous terms where we have to use the inverse. Okay, so work out the term-to-term rule, meaning we have to find the common difference. So we can see from 6 to 9, it's 3. Since it's increasing in tens, it's 0.3.",00:25:00
+buyoxlo,145,tutor,Right.,00:25:33
+buyoxlo,146,student,Yep.,00:25:33
+buyoxlo,147,tutor,"So I can say it's increasing. That's why I put a plus sign there, and increasing by 0.3. So use the inverse to work out the previous term. Since it is plus 0.3, we have to take away 0.3 from the term that's given, which would give us 1.3. Is that correct, Linus?",00:25:34
+buyoxlo,148,student,"Yeah. Then to work the previous term for that, we have to write 1.3 there, take away 0.3, which is 1. Okay, so my previous terms would be 1 here and 1.3 here.",00:25:57
+buyoxlo,149,student,[unclear],00:26:15
+buyoxlo,150,tutor,"Okay, so you can try the your turn part. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]",00:26:18
+buyoxlo,151,tutor,She pays for them 6 times a month. [unclear] [unclear],00:26:50
+buyoxlo,152,tutor,"Okay, so I can see that you have worked out already to find the previous terms here, Linus.",00:27:33
+buyoxlo,153,tutor,Yeah. Can you explain to me how you work this out?,00:27:41
+buyoxlo,154,student,"So the numerator adds by one, I think, every [UNCLEAR]. [Speaker:Tutor] Sorry, Linus, can you repeat that? [unclear]",00:27:47
+buyoxlo,155,tutor,Hello?,00:28:17
+buyoxlo,156,student,Hello?,00:28:18
+buyoxlo,157,tutor,"Yeah, Linus, can you repeat that? What did you say there?",00:28:18
+buyoxlo,158,student,"It adds 1 every time, I think.",00:28:22
+buyoxlo,159,tutor,"Yes, okay. So are you sure that this is your final answer?",00:28:27
+buyoxlo,160,student,I don't really know.,00:28:33
+buyoxlo,161,tutor,"No worries, Linus. Let's figure it out. So here, first you have to work out the term-to-term rule, meaning you have to find the common difference, how the sequence is increasing or decreasing. Okay, how can we do that? So from 1 1¾ we have here, then we have 1¼. So what has happened actually to the sequence? Has it increased or has it decreased?",00:28:35
+buyoxlo,162,student,It's decreased. [unclear],00:29:07
+buyoxlo,163,tutor,By what amount?,00:29:10
+buyoxlo,164,student,By 1.,00:29:14
+buyoxlo,165,tutor,Is it decreasing by 1/4 or is it decreasing by 2/4?,00:29:17
+buyoxlo,166,tutor,"From 3/4 to 1/4, it has decreased by 2/4, right? Therefore, your value here is 2/4. [unclear] So this is the term-to-term rule we have. Okay, so if we are finding the previous term, the direct term here We should add with 1 and 3/4, you have to add 2/4. Okay? I can see that you're working it out now. Yeah? [unclear]",00:29:23
+buyoxlo,167,tutor,"Yes, so how did you get this answer this time, Linus?",00:30:08
+buyoxlo,168,tutor,"So I knew that, like, it goes down, it takes away the one whole eventually. So since this— wait, [unclear] point. So since here it takes away one and it goes to 3/4, so I was like, okay, so I'll take away 2, which is 1 [unclear] If I take away another one, it would be this. So then I knew that this would be taken away by 2 to be that.",00:30:22
+buyoxlo,169,tutor,"Mm-hmm. Nice explanation there, Linus. So you have observed it nicely. So your first mistake that you made was you didn't find the difference here. Yeah? You didn't work out the term-to-term rule. If you have figured it out here itself, it would have made you easy to find these answers. Yeah.",00:30:56
+buyoxlo,170,tutor,[unclear],00:31:17
+buyoxlo,171,background,"That was a good working out, Linus. So let's practice some more questions. There we go. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]",00:31:19
+buyoxlo,172,tutor,Yeah.,00:32:01
+buyoxlo,173,student,"I don't use them as much as when I have to use them, and when I have to use them, I don't use them.",00:32:03
+buyoxlo,174,tutor,"So, we both need to find a way—",00:32:21
+buyoxlo,175,student,"Wait, what happened? [Speaker:Tutor]...to get across the floor. So, we're going to do something. [Speaker:Linus] Yeah.",00:32:21
+buyoxlo,176,tutor,"We use the stairs when we have to use them, and when I have to use them, I don't use them.",00:32:22
+buyoxlo,177,student,"So, we both need to find a way—",00:32:25
+buyoxlo,178,tutor,"Wait, what happened? [Speaker:Linus]...to get across the floor. So, we're [unclear]",00:32:26
+buyoxlo,179,tutor,I can't see it. [unclear],00:32:28
+buyoxlo,180,student,"Okay, and then I have the 7th tag on the 7th prompt section, and that",00:32:35
+buyoxlo,181,background,"I believe 3 together, 2 is 7. So, 1, 17, 17. And then it doesn't— and then for me, it's easy to do so. I have the 6 plus 3, because 6 plus 10 is 17. That's 3 and then—",00:32:53
+buyoxlo,182,tutor,"Okay, so Linus, are you stuck on this?",00:33:16
+buyoxlo,183,tutor,[unclear],00:33:21
+buyoxlo,184,student,"Hey, sorry. [unclear]",00:33:21
+buyoxlo,185,tutor,"Okay, no worries. I'll type the remaining answers, Linus. You can type only the last one.",00:34:04
+buyoxlo,186,student,"So, yeah, I actually did that. I'm gonna show you.",00:34:14
+buyoxlo,187,tutor,Nice!,00:34:17
+buyoxlo,188,tutor,I got it. [unclear] [unclear],00:34:38
+buyoxlo,189,tutor,"Okay, so I think you have completed working this out, yeah?",00:35:21
+buyoxlo,190,student,"Yes, cool.",00:35:26
+buyoxlo,191,tutor,"Okay, that's an awesome effort there, Linus. So if I have to correct it, I can say Your first answer is completely correct. And your second answer is partially correct. This part is correct. There's something wrong in this part. So what's the common difference you found, the term-to-term rule? How does the sequence increase?",00:35:27
+buyoxlo,192,student,[unclear],00:35:51
+buyoxlo,193,tutor,"0.25. Is it increasing by 0.25? How do we find the term-to-term rule, Linus? From the second term, if you subtract the first term.",00:35:52
+buyoxlo,194,student,"It's going [unclear] 50, so—",00:36:08
+buyoxlo,195,tutor,"Yeah, that's nice. So it's going up in 0.5s. The answer is correct now. And here, what is the term-to-term rule that you found?",00:36:10
+buyoxlo,196,student,It's going up in one third.,00:36:36
+buyoxlo,197,tutor,"Are you sure about that? [unclear] OK. So if we— yeah, if you are finding the term-to-term rule from the next term, if we subtract the previous term, You get the temperature—",00:36:40
+buyoxlo,198,student,I know what's going— it's going from 1 and 3.,00:36:56
+buyoxlo,199,tutor,"1 and 1/3. Yeah, awesome, Linus. That's a good observation there. So it's going up in 1 and 1/3. Okay, and how would your last answer change now? [unclear]",00:37:01
+buyoxlo,200,tutor,"That's a good point that you have corrected your mistake on your own, Linus. That's a good focus. So what— yeah, I have a question for you. How can we find the term-to-term rule on a sequence? [unclear]",00:37:29
+buyoxlo,201,tutor,"Hello, Linus?",00:37:54
+buyoxlo,202,student,Thank you for having me.,00:37:59
+buyoxlo,203,tutor,"Hello? [Speaker:Linus]...What? [Speaker:Tutor] Linus, can you hear me clearly?",00:38:03
+buyoxlo,204,student,"Yeah, I can.",00:38:06
+buyoxlo,205,tutor,Yes. So I have a question for you. How can we find the term-to-term rule in a sequence? How do we find it?,00:38:09
+buyoxlo,206,student,"Uh, we look at the numbers and then—",00:38:20
+buyoxlo,207,tutor,Okay.,00:38:25
+buyoxlo,208,student,"We— so these, if it's, if it's going up, we like look at these and it's like, oh, we subtract, like, okay, so we look at this, we subtract, um, 13 by 9.",00:38:27
+buyoxlo,209,tutor,"Yeah, exactly. Since the value— since the sequence is a decreasing sequence, you can do that. If not, from the next term, if it's an increasing sequence, from the next term you can subtract the previous term to get the term-to-term rule. Yeah?",00:38:51
+buyoxlo,210,student,Yeah.,00:39:08
+buyoxlo,211,tutor,"Okay, awesome, Linus. Since you're okay with that, let's go to our last question of this lesson. [unclear]",00:39:10
+buyoxlo,212,student,10 times that by 4 is 400. [unclear] [Speaker:Tutor]...,00:39:23
+buyoxlo,213,tutor,Do you add those both together? [unclear] [unclear],00:39:54
+buyoxlo,214,tutor,"So what's your idea on this, Linus? How do you think you can work this out?",00:40:40
+buyoxlo,215,student,I don't know.,00:40:46
+buyoxlo,216,tutor,"Okay, no worries. So let's draw— yeah, let's draw a number line to help us visualize how this works. Okay, so here we have 13 and here we have 28, and in between you need 2 numbers, right? So those 2 numbers I'll write like this, and here you have 13 And then you have 28. So from 13 to 28, what's the difference? [unclear]",00:40:48
+buyoxlo,217,student,15.,00:41:22
+buyoxlo,218,tutor,"Yeah, it's 15. So we know, Linus, this whole part, this whole line in between 13 to 28, there's 15. Okay? And how many jumps are there from 13 to 28?",00:41:26
+buyoxlo,219,tutor,How many times? [unclear],00:41:41
+buyoxlo,220,tutor,How did you figure that out as 5?,00:41:48
+buyoxlo,221,student,Because I divided it by 3.,00:41:52
+buyoxlo,222,tutor,"By 3, Linus.",00:41:58
+buyoxlo,223,tutor,Yes. So that's a good observation there. And they have asked you another question. Would the number 93 be in the sequence? Explain how you know.,00:42:04
+buyoxlo,224,student,"Yes, because, um, um, because like this, these are the only multiples of 3, 8, and 3, 8. So then [Speaker:Linus]...93 would definitely be in the sequence. [Speaker:Tutor] Exactly, Linus. That's a great explanation once again, and you worked it out really nicely. So this is the correct answer. When you ask— when they ask you to explain how you know, you have to write the reason as well. Okay, so here, Linus, how did we find these two numbers in between?",00:42:16
+buyoxlo,225,student,"We— [unclear] We subtracted 13 to 28, which is 15, and we divided it by the amount of jumps that we had, which was— which was— sorry— 3.",00:42:53
+buyoxlo,226,tutor,5.,00:43:10
+buyoxlo,227,student,And the amount of jumps that we had.,00:43:11
+buyoxlo,228,tutor,"Ah, yes. We had 3 jumps.",00:43:15
+buyoxlo,229,student,"We divided 3 by 15, which is 5, so then we got the answer.",00:43:17
+buyoxlo,230,tutor,"Exactly, Linus. So sometimes you might get confused. Since there are two numbers, we have to divide the difference by two, but that's not the case. You have to see how many jumps are there up to the next number we have. Okay. Yeah, so Linus, we have completed this particular lesson, so we can start a new lesson in our next session. So what important points have we discussed through our session today? We completed two lessons, so what can you recall from them?",00:43:22
+buyoxlo,231,student,"We did the mean average, and we did sequences.",00:43:54
+buyoxlo,232,tutor,Mm-hmm. Okay. So what did you learn new on the sequences?,00:44:02
+buyoxlo,233,student,Um... [unclear],00:44:07
+buyoxlo,234,tutor,"So we saw how we can find the previous term and how we can find the next terms. Yeah. And also, if we are finding the term-to-term rule, from the next term we have to subtract the previous term. Yeah. Okay, so Linus, through all the session today, you gave really good explanations and you focused really well throughout. After I end the session, Linus, you will get a quiz under the two lessons we completed. Please do the quiz and then you can leave. [unclear] Okay?",00:44:13
+buyoxlo,235,student,[unclear],00:44:47
+buyoxlo,236,tutor,"Yeah. So have a great week ahead, Linus. Take care. Bye. Bye.",00:44:51

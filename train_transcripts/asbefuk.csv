@@ -1,0 +1,402 @@
+session_id,utterance_id,role,content,timestamp
+asbefuk,0,student,Hello.,00:00:00
+asbefuk,1,background,[unclear],00:00:00
+asbefuk,2,tutor,Hello.,00:00:04
+asbefuk,3,tutor,"Hi [STUDENT_NAME], how are you doing today?",00:00:05
+asbefuk,4,student,Good.,00:00:09
+asbefuk,5,tutor,"All right, I believe we are doing a session after the holiday, right?",00:00:12
+asbefuk,6,student,Yeah.,00:00:16
+asbefuk,7,tutor,How was your holiday?,00:00:18
+asbefuk,8,student,Good.,00:00:19
+asbefuk,9,tutor,What did you do during the holiday?,00:00:20
+asbefuk,10,student,I played football.,00:00:24
+asbefuk,11,tutor,"Oh, that's nice, that's nice. Did you start to read any new books?",00:00:27
+asbefuk,12,student,Yes.,00:00:35
+asbefuk,13,tutor,What is it?,00:00:37
+asbefuk,14,student,It's another Diary of a Wimpy Kid book.,00:00:39
+asbefuk,15,tutor,"Oh, Diary of the Wimpy Kid. Yes?",00:00:43
+asbefuk,16,student,Yeah.,00:00:46
+asbefuk,17,tutor,How many Diary of the Wimpy Kid books have you read?,00:00:47
+asbefuk,18,student,"Um, 4 of them so far. Now I'm on the 5th one.",00:00:52
+asbefuk,19,tutor,"Hmm, each one has how many pages?",00:00:57
+asbefuk,20,student,"I don't count them, to be honest. I just read.",00:01:01
+asbefuk,21,tutor,"Hmm, can you like do a rounding and tell me like around how many? [unclear]",00:01:05
+asbefuk,22,student,"There's around about 250 or something. Let's round it to like nearest 100, [STUDENT_NAME].",00:01:15
+asbefuk,23,student,Okay.,00:01:29
+asbefuk,24,tutor,What would that be like around how many pages if you round it to nearest 100?,00:01:30
+asbefuk,25,student,[unclear] 200.,00:01:35
+asbefuk,26,tutor,"200, all right. So 200. So all 4 books might contain around how many pages? [unclear]",00:01:42
+asbefuk,27,student,800.,00:01:57
+asbefuk,28,tutor,"800, right? Hmm, I also want to check around how long will it take to read these 800 pages, but we'll do that later if you have time, okay?",00:01:58
+asbefuk,29,student,Yes.,00:02:11
+asbefuk,30,tutor,"All right, shall we start our lesson today?",00:02:12
+asbefuk,31,student,Yes.,00:02:15
+asbefuk,32,tutor,"Alright, it's a new lesson, [STUDENT_NAME]. It is about square numbers. Alright?",00:02:17
+asbefuk,33,student,Mm-hmm. Yeah.,00:02:25
+asbefuk,34,tutor,Have you worked with square numbers before?,00:02:27
+asbefuk,35,student,Yes.,00:02:30
+asbefuk,36,tutor,"Alright, what is a square number, [STUDENT_NAME]?",00:02:32
+asbefuk,37,student,So it's like a number times by the same number to get your answer.,00:02:35
+asbefuk,38,tutor,Very nice. Very good explanation. So could you please try this very first question over here?,00:02:40
+asbefuk,39,student,Yes.,00:02:47
+asbefuk,40,tutor,"Very good. Excellent. So over here, which one is the square number? Is it the 8 or is it the 64?",00:02:55
+asbefuk,41,student,"Um, the 8. [unclear]",00:03:04
+asbefuk,42,tutor,"Actually, 64 is the square number, [STUDENT_NAME].",00:03:07
+asbefuk,43,tutor,"Okay, not the 8. 8 square number is 64. 8 square number is 64. All right?",00:03:11
+asbefuk,44,student,Mm-hmm.,00:03:25
+asbefuk,45,tutor,"So [STUDENT_NAME], I want to know, why do we call it square? [unclear] Why do we say square? What's so square about 64? What do you think? [STUDENT_NAME]?",00:03:27
+asbefuk,46,student,I don't know. [unclear],00:03:58
+asbefuk,47,tutor,"Hmm, we'll discuss about that also. Okay?",00:04:00
+asbefuk,48,student,Yeah.,00:04:03
+asbefuk,49,tutor,The reason behind why we call it square. All right?,00:04:04
+asbefuk,50,student,Mm-hmm.,00:04:08
+asbefuk,51,tutor,"Now the number 64 doesn't look square, right?",00:04:09
+asbefuk,52,student,Yeah.,00:04:13
+asbefuk,53,tutor,"It's almost a little bit round, and the 4 is like a triangle, but we still call it a square. We will learn the reason behind this word square also. Okay?",00:04:14
+asbefuk,54,student,Yes.,00:04:25
+asbefuk,55,tutor,All right.,00:04:27
+asbefuk,56,tutor,"Let's read part— read this green color part here, [STUDENT_NAME].",00:04:28
+asbefuk,57,student,Okay. A square number is the product of a number that is multiplied by itself. These are all the square numbers.,00:04:31
+asbefuk,58,tutor,"Hmm, so this is the same thing that you told me before. So they have given over here the very first square number. What is it? 1 times 1?",00:04:39
+asbefuk,59,background,[unclear],00:04:50
+asbefuk,60,student,"Um, 1.",00:04:52
+asbefuk,61,tutor,One. And the next one is? Could you please say it?,00:04:55
+asbefuk,62,student,"Four. Yes. So, one, four, nine, sixteen. [unclear] [unclear]",00:04:57
+asbefuk,63,tutor,"So which digit is in the 10,000s place?",00:05:20
+asbefuk,64,background,"Very good, 5.",00:05:25
+asbefuk,65,tutor,"Do you know what this is, [UNCLEAR]?",00:05:29
+asbefuk,66,background,"25. And how would you read this, [STUDENT_NAME]? This one?",00:05:29
+asbefuk,67,student,5 squared.,00:05:39
+asbefuk,68,background,5 squared. Very good. Now let's talk about this diagram about each of these square numbers.,00:05:42
+asbefuk,69,tutor,"Let's start with this 3. 3 times 3 is 9, right? Which is 3 squared.",00:05:50
+asbefuk,70,student,Yeah.,00:05:58
+asbefuk,71,tutor,"Like the square number. What do you see over here, [STUDENT_NAME]?",00:05:58
+asbefuk,72,student,"Um, 9 squares.",00:06:04
+asbefuk,73,tutor,"Hmm, that 9 squares, if you put it together, it will create a perfect big square. Do you see it has a perfect big square over here? [unclear] Right, [STUDENT_NAME]?",00:06:07
+asbefuk,74,student,Yes.,00:06:26
+asbefuk,75,tutor,Now what about the 4? Does it also have a perfect big square?,00:06:26
+asbefuk,76,student,Yes.,00:06:31
+asbefuk,77,tutor,"Hmm. And the 16, does it have a perfect big square?",00:06:33
+asbefuk,78,student,Yes.,00:06:40
+asbefuk,79,tutor,And how many tiny squares are there inside this?,00:06:42
+asbefuk,80,student,16.,00:06:47
+asbefuk,81,tutor,"16. On each side, how many squares are there?",00:06:48
+asbefuk,82,student,[unclear] 16.,00:06:53
+asbefuk,83,tutor,"Each side, on the left-hand side over here, how many squares are there?",00:06:59
+asbefuk,84,student,4.,00:07:03
+asbefuk,85,tutor,"4. I want you to pay a bit close attention there. And on the other side, how many squares are there?",00:07:05
+asbefuk,86,student,4.,00:07:13
+asbefuk,87,tutor,"4, right? So that is why 4 times 4 is 16. Okay, 4 times 4. Now let's go to the whiteboard a bit. All right, now [STUDENT_NAME], if I gave you 2 counters like this Can we put it in a square?",00:07:14
+asbefuk,88,student,[unclear] Yes.,00:07:37
+asbefuk,89,tutor,Can we arrange it in a way that it would make a perfect square?,00:07:43
+asbefuk,90,student,"Well, um...",00:07:50
+asbefuk,91,tutor,"This is not a square, right? What is this?",00:07:54
+asbefuk,92,student,"A rectangle? A rectangle, right? But if there is a 1 counter, can we draw a perfect square around it?",00:07:59
+asbefuk,93,student,[unclear] Yes.,00:08:09
+asbefuk,94,tutor,"Yes, right? Let me draw it for you. So we say 1 is a square number. All right?",00:08:12
+asbefuk,95,student,Yes.,00:08:20
+asbefuk,96,tutor,1 is a square number. I'll put 1.,00:08:22
+asbefuk,97,student,[unclear],00:08:28
+asbefuk,98,tutor,"[STUDENT_NAME], if I give you 3 counters, can you arrange it in a way that you would create a perfect square?",00:08:28
+asbefuk,99,student,No.,00:08:45
+asbefuk,100,tutor,"No, it's impossible, right? How about 4 counters?",00:08:46
+asbefuk,101,student,Yes.,00:08:53
+asbefuk,102,tutor,"Could you please use the pointer tool a bit? Tell me how to draw, I'll draw it for you. Where should I draw the first counter?",00:08:53
+asbefuk,103,student,Here.,00:09:04
+asbefuk,104,tutor,"All right, shall we start from this corner? Okay.",00:09:06
+asbefuk,105,student,"Yes, and then one right next to it.",00:09:11
+asbefuk,106,tutor,"Uh-huh, and the other one?",00:09:15
+asbefuk,107,student,One here.,00:09:17
+asbefuk,108,tutor,Very good.,00:09:19
+asbefuk,109,student,And one here.,00:09:20
+asbefuk,110,tutor,"Very nice. So we managed to make a perfect square over there. So 4 is a [unclear] number. Square number. Very good. Let me quickly mention that. If I give you 5 counters, [STUDENT_NAME], are you able to create a perfect square?",00:09:23
+asbefuk,111,student,No.,00:09:45
+asbefuk,112,tutor,"6, count us.",00:09:47
+asbefuk,113,student,No.,00:09:50
+asbefuk,114,tutor,7?,00:09:51
+asbefuk,115,student,"Um, no.",00:09:54
+asbefuk,116,tutor,8?,00:09:56
+asbefuk,117,student,No.,00:09:58
+asbefuk,118,tutor,9?,00:09:59
+asbefuk,119,student,Yes.,00:10:00
+asbefuk,120,tutor,Why do you say yes to 9?,00:10:02
+asbefuk,121,student,"Well, because [unclear] top, 3 in the middle, and 3 at the bottom makes a perfect square.",00:10:06
+asbefuk,122,tutor,"Very nice. That's a very good explanation. You made something like this, right? 3 over here.",00:10:14
+asbefuk,123,student,Yes.,00:10:22
+asbefuk,124,tutor,"And another 3 over here like this, right?",00:10:24
+asbefuk,125,student,Yes.,00:10:27
+asbefuk,126,tutor,"Now all we need to do is fill these and it will create a perfect square. So [STUDENT_NAME], now let's go to this, uh, Very first question we did, the number 64. Okay, 64, 8 times 8. Now why do you think, [STUDENT_NAME], we say 64 is a square number?",00:10:28
+asbefuk,127,student,[unclear],00:10:57
+asbefuk,128,background,You can make a square out of it.,00:11:03
+asbefuk,129,tutor,"Exactly, we can create a perfect square using 64 counters, right?",00:11:05
+asbefuk,130,student,Yes.,00:11:11
+asbefuk,131,tutor,"On each side, how many counters would be there?",00:11:12
+asbefuk,132,student,8.,00:11:17
+asbefuk,133,tutor,"Very nice job, [STUDENT_NAME]. That's a very good observation. Nice. So that's the true meaning of these square numbers. All right, shall we try to fill the answer for this also?",00:11:18
+asbefuk,134,student,"Mm-hmm. Okay, so 6 squared is 6 times 6 equals 36.",00:11:35
+asbefuk,135,tutor,"Nice job, [STUDENT_NAME]. Brilliant. Any questions so far? Anything to ask about what we did?",00:11:50
+asbefuk,136,student,"Nope. All right, now let's do this one. I will be doing the follow-me part. Pay a bit close attention. After that, you can do the your-turn part. Okay?",00:11:57
+asbefuk,137,student,Yes.,00:12:09
+asbefuk,138,tutor,"All right, so square numbers always have an odd number of factors. Hmm, what does odd mean? [unclear] [unclear]",00:12:11
+asbefuk,139,tutor,Can you give me an example of an odd number?,00:12:32
+asbefuk,140,student,17.,00:12:36
+asbefuk,141,tutor,Why 17 is an odd number?,00:12:38
+asbefuk,142,student,"Well, because you can't times anything to get 17. Well, you can only times it by 1. And you can't times it by anything else, so it would also be a prime number.",00:12:43
+asbefuk,143,tutor,"Prime number. So 9, is it an odd number?",00:12:59
+asbefuk,144,student,Yeah.,00:13:06
+asbefuk,145,tutor,3 times 3 is 9.,00:13:07
+asbefuk,146,student,"Oh yeah, yeah, yeah. [unclear]",00:13:09
+asbefuk,147,tutor,"Okay, is it still an odd number?",00:13:12
+asbefuk,148,student,"Well, um, no.",00:13:17
+asbefuk,149,tutor,"All right, we need to discuss a little bit about odd numbers before we move on, okay?",00:13:24
+asbefuk,150,student,Yeah.,00:13:28
+asbefuk,151,tutor,"We go to the whiteboard a bit, [STUDENT_NAME]. Now [STUDENT_NAME], there are two types of numbers.",00:13:29
+asbefuk,152,student,Even and odd.,00:13:36
+asbefuk,153,tutor,"Exactly. So even numbers odd numbers. So this is the true meaning, [STUDENT_NAME]. Even means you can put those numbers into 2 equal groups. 2 people can share it perfectly. [unclear]",00:13:38
+asbefuk,154,tutor,"All right, let's say you have 2 chocolate bars. Can two people share it?",00:14:03
+asbefuk,155,student,Yes.,00:14:12
+asbefuk,156,tutor,"Yes. If you have four chocolate bars, can two people share it equally without breaking it?",00:14:14
+asbefuk,157,student,"Yes, because they both will get two.",00:14:19
+asbefuk,158,tutor,Yes. What about six?,00:14:22
+asbefuk,159,student,"Yes, because they both get three.",00:14:27
+asbefuk,160,tutor,"Exactly. What is the next even number, [STUDENT_NAME]?",00:14:29
+asbefuk,161,student,"Eight. 8. So odd means, [STUDENT_NAME], you can't share the 2 chocolates between 2 people without breaking it.",00:14:33
+asbefuk,162,student,Yes.,00:14:47
+asbefuk,163,tutor,"The odd number is 1. After that, what is next?",00:14:47
+asbefuk,164,student,"1, 3, 5, 7.",00:14:53
+asbefuk,165,tutor,Very nice. 7 and 9 is also odd. It will go on and on. Okay?,00:14:57
+asbefuk,166,student,"Yeah, and one more even is 10.",00:15:03
+asbefuk,167,tutor,"Exactly, 10. But that is odd, then even. Prime is a different thing. Okay?",00:15:07
+asbefuk,168,student,Yes.,00:15:14
+asbefuk,169,tutor,Prime is something about how many factors a number has. All right?,00:15:16
+asbefuk,170,student,Mm-hmm.,00:15:23
+asbefuk,171,tutor,"So we'll talk about that later. All right? Now over here, 7 is a prime number.",00:15:24
+asbefuk,172,tutor,"Even 3 and 5. Okay, and 11.",00:15:31
+asbefuk,173,student,Yeah.,00:15:36
+asbefuk,174,tutor,9 is not a prime number because you can times 3 times 3 and get to 9.,00:15:37
+asbefuk,175,student,It would be— yes.,00:15:44
+asbefuk,176,tutor,"It's not a prime number, but it is a odd— still an odd number. Okay, [STUDENT_NAME]?",00:15:45
+asbefuk,177,student,Yeah.,00:15:51
+asbefuk,178,tutor,"All right. Now they are saying when it comes to square numbers, it will have only odd number of factors. What is a factor, [STUDENT_NAME]?",00:15:53
+asbefuk,179,student,[unclear] A factor is how many things go into that number. Can you like tell me some factors of 10?,00:16:09
+asbefuk,180,student,"Um, 1 and 10, 2 and 5.",00:16:24
+asbefuk,181,tutor,Yes.,00:16:31
+asbefuk,182,student,"And, uh, that's it. I think so.",00:16:32
+asbefuk,183,tutor,"Very good. Yes, we have 1 and 10 and 2 and 5. All right, so how many factors are there for 10?",00:16:35
+asbefuk,184,student,2.,00:16:49
+asbefuk,185,tutor,Are you sure? How many?,00:16:52
+asbefuk,186,student,"Oh no, 4.",00:16:53
+asbefuk,187,tutor,4. Is it an odd number or an even number?,00:16:55
+asbefuk,188,student,"Um, it is an even number.",00:16:58
+asbefuk,189,tutor,"So 10 has even number of factors. Okay, all right. Now over here in this fact above, they are saying the 36, which is a square number, will have odd number of factors. Let's check it. Okay, [STUDENT_NAME]? [unclear] So 4 times what is 36?",00:17:02
+asbefuk,190,student,9.,00:17:30
+asbefuk,191,tutor,"9. And over here they have only put 6, right?",00:17:33
+asbefuk,192,student,"Yes, 6 times 6 equals 36.",00:17:37
+asbefuk,193,tutor,Exactly. We are not going to repeat the 6 again. So how many factors are there altogether?,00:17:40
+asbefuk,194,student,9.,00:17:50
+asbefuk,195,tutor,"9 factors are there. All right, so 9 is an odd number or an even number?",00:17:50
+asbefuk,196,student,"Um, an odd number.",00:17:57
+asbefuk,197,tutor,Odd number. So I put 9 here. Is this an odd? Okay.,00:17:59
+asbefuk,198,student,Yes.,00:18:07
+asbefuk,199,tutor,"All right, now could you please try the same thing on the right-hand side?",00:18:08
+asbefuk,200,student,Yeah.,00:18:14
+asbefuk,201,tutor,"I'll read it. So complete the factor book for the number 64 to work out if 64 is a square number or not. [unclear] So 1 and 64, 2 and 32, and 4",00:18:15
+asbefuk,202,student,4 times 5. Doing my 4 times tables here. 4 times 12 is 48. [unclear] one second. 4 times by 15. [unclear] Is it 4 and 16?,00:18:39
+asbefuk,203,tutor,4 and 16. So let me check. All right?,00:19:21
+asbefuk,204,student,Yeah.,00:19:28
+asbefuk,205,tutor,"We are not sure, [STUDENT_NAME]. This is what we need to do. We need to check with the 16 times table. All right?",00:19:28
+asbefuk,206,student,Yeah.,00:19:36
+asbefuk,207,tutor,"Let's go over here. 16, add 16. What is it, [STUDENT_NAME]?",00:19:37
+asbefuk,208,student,32.,00:19:44
+asbefuk,209,tutor,32. So we know that. I'll put it here. If you add another 16?,00:19:46
+asbefuk,210,student,48.,00:19:56
+asbefuk,211,tutor,"48. If it is difficult to add a 16, [STUDENT_NAME], Add a 10 and then a 6.",00:19:57
+asbefuk,212,student,A 6.,00:20:03
+asbefuk,213,tutor,"Okay, so 48, add a 10 and a 6, what is it?",00:20:06
+asbefuk,214,student,64.,00:20:10
+asbefuk,215,tutor,"64. So 16 times 4 would be 64. That's correct, right?",00:20:12
+asbefuk,216,student,"Well, it has a [UNCLEAR].",00:20:21
+asbefuk,217,tutor,So is it a square number? [unclear],00:20:21
+asbefuk,218,student,"Yes, it is.",00:20:34
+asbefuk,219,tutor,"Yes, right, because it has how many factors?",00:20:36
+asbefuk,220,student,6.,00:20:43
+asbefuk,221,tutor,6 factors in it. Okay.,00:20:46
+asbefuk,222,student,"Yes. Have we missed a factor, [STUDENT_NAME]?",00:20:49
+asbefuk,223,student,"Well, um, have we missed— have we missed, um, 8? Because 8 times 8 is [UNCLEAR].",00:20:57
+asbefuk,224,tutor,"Exactly, we have missed it. It should have the stinger. All right?",00:20:57
+asbefuk,225,student,Yes.,00:21:14
+asbefuk,226,tutor,"Bugs have a stinger, right? Some bugs have a stinger, some bugs don't have. Right?",00:21:15
+asbefuk,227,student,Yes.,00:21:21
+asbefuk,228,tutor,"The bee has a stinger, right? So, so actually there are how many factors? Is it 6 or 7?",00:21:23
+asbefuk,229,student,7.,00:21:32
+asbefuk,230,tutor,"7. 7 is an odd number, right? Because it has odd number of factors, 64 is a square number. Okay.",00:21:33
+asbefuk,231,student,Yes.,00:21:46
+asbefuk,232,tutor,"Any questions over there, [STUDENT_NAME]? Anything to ask?",00:21:48
+asbefuk,233,student,No.,00:21:51
+asbefuk,234,tutor,"All right. So let's start with these questions, [STUDENT_NAME]. I believe you can do this. All right? I'll keep an eye on it. Let me know if you need any help.",00:21:55
+asbefuk,235,student,Just gonna think. There's 3 factors. That'd be a 9 there. [unclear],00:22:17
+asbefuk,236,tutor,Is 81 a square number?,00:22:28
+asbefuk,237,student,Yes.,00:22:32
+asbefuk,238,tutor,Yes.,00:22:37
+asbefuk,239,tutor,Why?,00:22:37
+asbefuk,240,student,Should I write the reason or should I just tell you?,00:22:40
+asbefuk,241,tutor,"Let's write it because in the exam we need to write it, right?",00:22:44
+asbefuk,242,student,Yeah.,00:22:47
+asbefuk,243,tutor,Writing will—,00:22:47
+asbefuk,244,background,Yes.,00:22:49
+asbefuk,245,student,Because 9 times— [unclear] times 9,00:22:53
+asbefuk,246,student,is 81. [UNCLEAR] Yeah.,00:22:53
+asbefuk,247,tutor,"Mm-hmm. Yes, because 9 times 9 is 81. That's a very good explanation. All right, you can use the factor box to help you.",00:23:17
+asbefuk,248,tutor,"I believe no need to do that part, right?",00:23:29
+asbefuk,249,student,Yes.,00:23:32
+asbefuk,250,tutor,"You can also say using a fact about 81 has odd number of factors, because of that 81 should be a square number. Okay?",00:23:33
+asbefuk,251,student,Yes.,00:23:46
+asbefuk,252,tutor,"All right, so let's try this one over here. Can you find 2 square numbers that total 45. [unclear]",00:23:47
+asbefuk,253,tutor,Yeah. [unclear],00:24:19
+asbefuk,254,student,"Is that like, um, a number with a 2 next to it, or is it just an odd number that makes 45?",00:24:26
+asbefuk,255,tutor,"Hmm, all right, what we need to do here is— [STUDENT_NAME], this— can you find 2 square numbers? Right, they want us to find how many square numbers?",00:24:36
+asbefuk,256,student,"2. 2. I'll highlight that part. 2 square numbers that total 45. That means if you put those 2 square numbers together, if you add it up, it should be equal to 45. [unclear] Is that clear what needs to be done, [STUDENT_NAME]?",00:24:47
+asbefuk,257,student,Yeah.,00:25:10
+asbefuk,258,tutor,"All right, so what's your plan? How are you planning to do this?",00:25:12
+asbefuk,259,student,"Um, well, find— so do square numbers and then figure out which ones go together to make 45.",00:25:16
+asbefuk,260,tutor,"Very good. Yes, so let's— so let's list down the square numbers then. All right.",00:25:32
+asbefuk,261,student,Yes.,00:25:38
+asbefuk,262,tutor,That will make things much more easy.,00:25:38
+asbefuk,263,student,"All right, so 1 times by 1 is 1. 4. 9. [unclear]",00:25:44
+asbefuk,264,tutor,"You can write on the screen, [STUDENT_NAME]. That would be better if you write.",00:25:53
+asbefuk,265,student,Okay. So 1.,00:25:59
+asbefuk,266,student,"4, 9, 16, 25, 36. [unclear]",00:26:07
+asbefuk,267,tutor,I'm gonna try 36 and 9.,00:26:32
+asbefuk,268,tutor,Nice choice.,00:26:39
+asbefuk,269,student,"Uh-huh. Yeah, I'm right.",00:26:40
+asbefuk,270,tutor,"Of course. Wow, that's brilliant work over there. Nice job, because you did that question all by yourself. Very good job, [STUDENT_NAME]. Okay?",00:26:44
+asbefuk,271,student,Yes.,00:26:59
+asbefuk,272,tutor,"All right, so [STUDENT_NAME], I'm going to move on to the next lesson. Before we do that, do you have any questions about square numbers?",00:27:00
+asbefuk,273,student,No.,00:27:09
+asbefuk,274,tutor,"Alright. And before we go to the next lesson, let's do a small reflection. Let's say [STUDENT_NAME]— [unclear] Let's do it here. Your friend is coming, alright? And over here, your friend is saying— [unclear]",00:27:11
+asbefuk,275,tutor,"[STUDENT_NAME], [STUDENT_NAME], I have an exam tomorrow about square numbers. All right?",00:27:33
+asbefuk,276,student,Yes.,00:27:39
+asbefuk,277,tutor,I'm so worried. I didn't study much about it. Can you help me? Your friend is asking. All right?,00:27:40
+asbefuk,278,student,Yes.,00:27:48
+asbefuk,279,tutor,So what are the— what are the advices that you would give to your friend?,00:27:49
+asbefuk,280,student,So square numbers are just the same number times by the same number. [unclear],00:27:55
+asbefuk,281,tutor,"Oh, alright. So your friend is asking why do you call it square?",00:28:02
+asbefuk,282,student,"Because, well, some— so if you had like one circle, you could draw a perfect square around it, but if you had 2, it'd be a rectangle, so...",00:28:07
+asbefuk,283,tutor,Uh-huh. So...,00:28:27
+asbefuk,284,student,So... [unclear],00:28:32
+asbefuk,285,tutor,"Yes, what is it? What's the next square number then, after 1?",00:28:38
+asbefuk,286,student,"4, because... 4 counters make a perfect square. Random, um, 9.",00:28:45
+asbefuk,287,tutor,"I get it now. That means we can put all the counters together to create a perfect square, right?",00:28:54
+asbefuk,288,student,"Yeah, but if they don't, then there's no square number.",00:29:01
+asbefuk,289,tutor,Very good. That's a very nice explanation. I believe you can be a great teacher one day.,00:29:05
+asbefuk,290,tutor,"Alright, so [STUDENT_NAME], let's move on to our next lesson. Please give me a moment. Alright, now we are going to do using mental strategies. To multiply. Okay?",00:29:12
+asbefuk,291,student,Yes. [unclear],00:29:43
+asbefuk,292,tutor,"Give me a second, [STUDENT_NAME]. I'm going to refresh the page. All right? We might lose the audio. [unclear]",00:29:46
+asbefuk,293,tutor,"All right, can you hear me now?",00:30:15
+asbefuk,294,student,Yes.,00:30:17
+asbefuk,295,tutor,"All right, so [STUDENT_NAME], what is mental strategies? What does that mean?",00:30:19
+asbefuk,296,student,"Well, I haven't really learned about that, so I don't know.",00:30:31
+asbefuk,297,tutor,"What do you think this means? Like, your answer doesn't have to be right or wrong, just tell me your opinion. [unclear]",00:30:35
+asbefuk,298,student,Does it mean like you can have like an approximate number?,00:30:43
+asbefuk,299,tutor,"All right, good try, good try.",00:30:52
+asbefuk,300,student,Or does it mean like using different strategies to try and work out a number? Or the answer?,00:30:55
+asbefuk,301,tutor,"Alright. Okay, okay, getting close. It's like this, [STUDENT_NAME]. The word mental means doing the calculation in our head only without using a book or a pen or a paper. Alright?",00:31:02
+asbefuk,302,student,"[unclear] Now let's say [STUDENT_NAME], you go to the store to buy something. All right, now while you are buying something in the counter, let's say there's someone over here who is selling the— selling— let's say you go to a bookstore. All right.",00:31:18
+asbefuk,303,student,[unclear],00:31:41
+asbefuk,304,tutor,"This is the person who is selling. He's staying behind the desk. And over here, you are there to buy the book. [unclear]",00:31:42
+asbefuk,305,tutor,All right.,00:31:53
+asbefuk,306,student,Yes.,00:31:55
+asbefuk,307,tutor,"Now you have some money with you, and this person is telling the amount to pay, but you are not sure of the amount. All right, so you are thinking, hmm, I'm going to do some calculation and check. Whether everything is correct. All right, you are thinking that.",00:31:57
+asbefuk,308,student,Yeah.,00:32:17
+asbefuk,309,tutor,"While you are thinking, there are so many people behind you waiting to buy books. All right, now in this moment, [STUDENT_NAME], if you take a pen and a paper and if you start to do column method and column multiplication, will these people be happy? People behind you.",00:32:18
+asbefuk,310,student,yes.,00:32:18
+asbefuk,311,tutor,"Are you sure? It's taking a long time for you to do this calculation using a pen and a paper, right? You need to write it down, then solve it, do the calculation, check the multiplication table, and do the exchanging, carry forward. You need to do the calculation, take a long time. All right, the answer to the first question. I'm sorry, you found the answer to the first question, is it?",00:32:18
+asbefuk,312,student,Yeah.,00:33:14
+asbefuk,313,tutor,"All right, yes, we'll go to that. Okay, so I was telling [STUDENT_NAME], mental means you can do the calculation in your mind only. All right, without using a book, [UNCLEAR]. Pen. That would be more quicker, so you can quickly buy the things and move on. All right, so like that, [STUDENT_NAME], I want you to do this question without writing things, in your head only. How to do that?",00:33:15
+asbefuk,314,student,[unclear],00:33:49
+asbefuk,315,student,"Well, 8 times 8 is 64, so 4, carry a 6. 8 times 1 is 8, and then you just add your 6. It's 144.",00:33:59
+asbefuk,316,tutor,"Hmm, yes, it would be 144. But [STUDENT_NAME], there are other ways. Now what you did is correct, nothing wrong. But [STUDENT_NAME], there are other ways to do these calculations mentally, that is far more easier than doing the column method. Okay, now over here you did 18 times 8 using the column method in your mind, right?",00:34:12
+asbefuk,317,student,Mm-hmm.,00:34:38
+asbefuk,318,tutor,"I'll tell you an example like this. Now the same calculation, you know how I would do this? What I would do, [STUDENT_NAME], I would do something like this. 18 is closer to 20, right?",00:34:40
+asbefuk,319,student,Yeah. [unclear],00:35:03
+asbefuk,320,tutor,"All right, it's closer to 20. So I'm not going to do 8 times 18, I'm going to do 8 times 20. 20, which is easy for my mind to do. Okay.",00:35:06
+asbefuk,321,student,Yes.,00:35:23
+asbefuk,322,tutor,What is 8 times 10?,00:35:24
+asbefuk,323,student,[unclear],00:35:26
+asbefuk,324,tutor,"That's easy to do, right? So 8 times 20 should be?",00:35:28
+asbefuk,325,student,160.,00:35:33
+asbefuk,326,tutor,"Yes, 160. I'm gonna do that in my mind, and after that I'm gonna do 2 times 8, what would that be?",00:35:35
+asbefuk,327,student,16.,00:35:49
+asbefuk,328,tutor,"16. Now [STUDENT_NAME], from this 20, if I take away the 2, you will get the 18, right? [unclear] So you can take away this 16 from 160. I'm going to take away a 10 first. If I take away 10, what is it?",00:35:51
+asbefuk,329,student,[unclear],00:36:12
+asbefuk,330,tutor,"From 160, if you take away a 10?",00:36:16
+asbefuk,331,student,"Um, 150.",00:36:21
+asbefuk,332,tutor,"150. From 150, if you take away a 6?",00:36:24
+asbefuk,333,student,Take away a 6 would be 144.,00:36:30
+asbefuk,334,tutor,"Exactly. Did you see we got the same answer? But in this method, we don't have to do exchanging or carry forward. All right, all right. Could you please try this question also, [STUDENT_NAME]?",00:36:35
+asbefuk,335,student,Yes. [unclear] Fantastic job over there. Now let's start over here. Could you please read the green color part? [unclear],00:36:51
+asbefuk,336,student,There are different methods that we can use to solve multiplication calculations mentally. 45 times 12.,00:37:14
+asbefuk,337,tutor,"Yes. So now we are going to do 45 times 12. Using the partitioning method. Okay, so, uh-huh. Yes, so [STUDENT_NAME], I want to know, why did we use 10 here?",00:37:23
+asbefuk,338,student,To— because it's easy to work out in your brain.,00:37:48
+asbefuk,339,tutor,Exactly.,00:37:52
+asbefuk,340,student,"All it is is 450 plus a 0 onto it. No, 45 and then add a 0 onto it.",00:37:54
+asbefuk,341,tutor,Exactly. So we need to break this 12 into 2 numbers that is easy to work with— 10 and 2. All right?,00:38:00
+asbefuk,342,student,Mm-hmm.,00:38:10
+asbefuk,343,tutor,All you need to do is 45 times 10 and 45 times 2. You can write those 2 down. What is 45 times 2? [unclear],00:38:11
+asbefuk,344,tutor,What do you think we need to do to find the final answer for 45 times 12?,00:38:20
+asbefuk,345,student,450 plus 90.,00:38:29
+asbefuk,346,tutor,"Very good. How to add a 90? What is the easiest way to add a 90, [STUDENT_NAME]?",00:38:35
+asbefuk,347,student,"Couldn't we add 50 and then add, um, the 40 on after?",00:38:45
+asbefuk,348,tutor,"Yeah, that would also work. And you can also do add 100 and take away 10. 450, add 100, what is it?",00:38:49
+asbefuk,349,student,550.,00:39:01
+asbefuk,350,tutor,Now take away 10.,00:39:03
+asbefuk,351,student,540.,00:39:05
+asbefuk,352,tutor,"There you go, brilliant work.",00:39:07
+asbefuk,353,tutor,"All right. Now [STUDENT_NAME], there is another way to do 45 times 12. Now this is the partitioning method, right?",00:39:13
+asbefuk,354,student,Yeah.,00:39:23
+asbefuk,355,tutor,"We broke the number into 10 and 2 using addition, and at the end we added the answers. You can also break the number 12 into 6 and 2.",00:39:23
+asbefuk,356,tutor,Do you see?,00:39:37
+asbefuk,357,student,Yes.,00:39:38
+asbefuk,358,tutor,"So you can first do 45 times 2, which is 90, and you can take the 90 and times it by 6 again. And what would that be?",00:39:40
+asbefuk,359,student,[unclear],00:39:54
+asbefuk,360,tutor,Yes. So 45 times 12 would be 400.,00:39:55
+asbefuk,361,tutor,"No, no, [STUDENT_NAME]. All right, 6 times 9. What is it? 6 times 9?",00:40:03
+asbefuk,362,student,45.,00:40:10
+asbefuk,363,tutor,Are you sure? Please recheck.,00:40:12
+asbefuk,364,student,"No, 54.",00:40:14
+asbefuk,365,tutor,"54, right? So please correct this part over here. I'll rub it out. Nice. So the answer would be— [unclear]",00:40:16
+asbefuk,366,tutor,"How come, [STUDENT_NAME]? Why 450? 540? I'll also explain this again in the whiteboard. All right, 45 times 12. What happened is this, [STUDENT_NAME]. We have 45 and we times it by 12. So what we did was 45 times it by— I broke the 12 into 2 and 6. Okay?",00:40:35
+asbefuk,367,student,Yes.,00:41:11
+asbefuk,368,tutor,"And I can also further break if I want. If this is also difficult for me, I can do 45 times 2 times what?",00:41:13
+asbefuk,369,student,0.5 times 2 times 6.,00:41:21
+asbefuk,370,tutor,Yes. Can we break the 6 also into 2 parts?,00:41:27
+asbefuk,371,student,3.,00:41:31
+asbefuk,372,tutor,3 times?,00:41:32
+asbefuk,373,student,3.,00:41:34
+asbefuk,374,tutor,Are you sure? 3 times what is 6?,00:41:35
+asbefuk,375,student,[unclear],00:41:37
+asbefuk,376,tutor,"True. If you break it like this, [STUDENT_NAME], we can all see it's much more easier. Than doing 45 times 12. Sometimes 12 times table is hard, right?",00:41:39
+asbefuk,377,student,Mm-hmm.,00:41:52
+asbefuk,378,tutor,But we can do the 2 times or 3 times or 2 times here. It's the same thing. All right?,00:41:54
+asbefuk,379,student,Yeah.,00:42:01
+asbefuk,380,tutor,"Any questions over here, [STUDENT_NAME]? Anything to ask?",00:42:02
+asbefuk,381,background,"I did have something in mind, but I forgot what I was going to say, so—",00:42:08
+asbefuk,382,student,No.,00:42:14
+asbefuk,383,tutor,"Alright, let me show you this slide. Do you remember it now, like what were you about to say?",00:42:14
+asbefuk,384,student,No.,00:42:21
+asbefuk,385,tutor,"Alright. [STUDENT_NAME], I'll do the follow me part over here. Alright, pay a bit close attention to the things that I'm doing. Alright, there are 3 different ways. [unclear] On second thought, [STUDENT_NAME], let's not do this now. All right, we don't have enough time to complete this. Okay, because there are 3 different ways to do 31 times 8, right? It will take a long time.",00:42:23
+asbefuk,386,student,Yeah.,00:42:51
+asbefuk,387,tutor,We'll discuss this next week. Okay?,00:42:52
+asbefuk,388,student,Yeah. [unclear],00:42:55
+asbefuk,389,tutor,"So we'll do a small reflection about the lesson before we end. So [STUDENT_NAME], if your friend come to you and tell you that he is struggling with mental calculations, what are the things that you would tell him?",00:42:57
+asbefuk,390,student,"That you should do— well, if you have to do it in your head, so if it's [unclear] like— if it's a big number like 20, or 30 or something, just times the 2 by— or, well, if it's a 30 and you were timesing it by 5, do 3 times 5 And then add a 0 on, that's one tip. But also you could do... [unclear]",00:43:15
+asbefuk,391,tutor,"30. Can we break it into different ways? Using addition, can we break it?",00:44:10
+asbefuk,392,student,You could divide it by 2 to get 15.,00:44:16
+asbefuk,393,tutor,"But 15 times table is a bit difficult, right [STUDENT_NAME]?",00:44:20
+asbefuk,394,student,Yeah.,00:44:24
+asbefuk,395,tutor,We need to be careful with— careful to choose easy numbers. How about if we break 30 into 20 and 10? Those numbers are very easy to work with.,00:44:25
+asbefuk,396,student,[unclear],00:44:35
+asbefuk,397,tutor,"20 and 10 is easy, right?",00:44:37
+asbefuk,398,student,Yes.,00:44:40
+asbefuk,399,tutor,"Yes, that would also work. All right. Okay, [STUDENT_NAME], I will be ending the session now. Please fill the feedback form and do the quizzes later on. All right. [unclear] So have a great week. Bye-bye.",00:44:40
+asbefuk,400,student,Bye.,00:44:57

@@ -1,0 +1,244 @@
+session_id,utterance_id,role,content,timestamp
+ebywymc,0,tutor,Hello.,00:00:00
+ebywymc,1,background,[unclear],00:00:00
+ebywymc,2,student,Hi.,00:00:01
+ebywymc,3,tutor,"Hi [STUDENT_NAME], how have you been?",00:00:02
+ebywymc,4,student,Good.,00:00:05
+ebywymc,5,tutor,"Okay, so let me load the session lesson for today. These are some lessons from the previous week that we did. [unclear]",00:00:06
+ebywymc,6,tutor,"So, do you have any questions?",00:00:22
+ebywymc,7,student,"No. This is the lesson that we were doing last week and rounding numbers to the nearest 100 and 1,000. So we have completed up to this slide and we have to start back again from here today. Before we start back again from where we stopped, what can you remember from last week, [STUDENT_NAME]?",00:00:36
+ebywymc,8,student,"But if you rounded off, it's above 5, and if you rounded down, it's below 5.",00:00:59
+ebywymc,9,tutor,Pardon? [unclear],00:01:06
+ebywymc,10,student,"When you're rounding off, it's above 5.",00:01:08
+ebywymc,11,student,[unclear],00:01:14
+ebywymc,12,tutor,"Okay, what about 5?",00:01:14
+ebywymc,13,student,[unclear],00:01:16
+ebywymc,14,tutor,Rounding down?,00:01:19
+ebywymc,15,student,Yeah.,00:01:23
+ebywymc,16,tutor,"Not really. We are rounding up for 5 or more. Less than 5, we round down. Okay? All right, so what is the column that you need to look at when you're rounding a number? [STUDENT_NAME]?",00:01:24
+ebywymc,17,student,The hundreds?,00:01:41
+ebywymc,18,tutor,"The hundreds, when you're rounding to what place?",00:01:45
+ebywymc,19,student,Hundreds? You're rounding to the nearest hundred?,00:01:50
+ebywymc,20,tutor,"Not really. We discussed about this last week as well, but I'll do a recap since you seem to have forgotten a few stuff. When you're rounding a number, you always look at the number, the place value to the right, the digit to the right. So for an example, if you round into the hundreds, you look at the tens, which is in the right side of the hundreds column. And if you're rounding to 1,000, you look at the hundreds column. Okay, so that's what we learned last week. [unclear]",00:01:55
+ebywymc,21,tutor,"You can, when you're rounding a number,",00:02:29
+ebywymc,22,tutor,"You have to think about the nearest multiple. So for an example, if you're rounding to the nearest hundred, that means you are considering between the previous multiple of the hundreds and the next multiple of 100. Between— the number will be in between. So you have to consider between the previous multiple and the next multiple of 100 and understand which one it is closest to. You can use a number line to understand this, and/or you can understand it by looking at the tens column, the column to the right. So if you're rounding to the nearest hundredths, if the tens have more than 5 counters or 5 [UNCLEAR], you round up. If you have less than 5 counters, you round down. Okay?",00:02:32
+ebywymc,23,student,Yeah.,00:03:20
+ebywymc,24,tutor,"Alright, so that is what we did last week. Now let's look at a question and look at this in much more detail. Thorough way. Okay?",00:03:22
+ebywymc,25,student,Yeah.,00:03:33
+ebywymc,26,tutor,"So let's round the number 1,251 to the nearest 1,000. So this time they are asking us to round the nearest 1,000. So Part",00:03:33
+ebywymc,27,background,"A number line can help us think which multiples of 1,000 the [unclear] number lies between. So they have already marked the line for us. So in your— you will have to mark it by yourself.",00:03:44
+ebywymc,28,tutor,"The line is here, so number is 1251. What are the two multiples of 1000 that 1251 lies between, [STUDENT_NAME]?",00:03:56
+ebywymc,29,student,[unclear] 1250 and...,00:04:08
+ebywymc,30,tutor,"Is 1250 a multiple of 1000? We are thinking about the multiples of 1,000, [STUDENT_NAME]. So 1,000— multiples of 1,000 goes as 1,000, 2,000, 3,000, likewise. Do you notice the numbers that's written in the number line? We don't have hundreds or tens or ones in the multiples of 1,000. They go by a thousand. Okay?",00:04:15
+ebywymc,31,student,[unclear],00:04:43
+ebywymc,32,tutor,"Alright, so since the number lies in here, you see that the 2,000— 2 multiples of 1,000 that lies next to the number on either sides of the number are 1,000 and 2,000. Okay? [unclear] That is if you are rounding to the nearest tens. Okay?",00:04:47
+ebywymc,33,tutor,"So make sure that you think about— think it in terms of multiples of 1,000. So now that we understood that, after marking it in the number line, we can write it down. The previous multiple is 1,000. After 1,000, you have 1,251, and then the next multiple of 1,000 is 2,000. Okay?",00:05:13
+ebywymc,34,student,"Yeah. So looking at the number line, what do you understand? Is it closer to 1,000 or 2,000? What do you think?",00:05:37
+ebywymc,35,student,[unclear],00:05:46
+ebywymc,36,tutor,"Yes, 1,000. Even if you are looking at regarding that 5 or more or less than 5 method, which column do we look at when we round into the nearest 1,000?",00:05:46
+ebywymc,37,background,Hundreds.,00:06:01
+ebywymc,38,tutor,"Yes, we look at the hundreds. [unclear] to the right. So 1000s are here, digit to the right is 2. So 2 is less than 5, that means we are rounding down. So rounding down means we are rounding down to the previous multiple of 1000, which is 1000. In this case, answer is 1000. Okay?",00:06:02
+ebywymc,39,student,Yeah.,00:06:26
+ebywymc,40,tutor,All right.,00:06:29
+ebywymc,41,tutor,"OK, now you can try your turn.",00:06:32
+ebywymc,42,student,"OK, round the number 6,580 to the nearest thousand. So the previous multiple of a thousand of 6,000 is 5,000. [unclear]",00:06:36
+ebywymc,43,tutor,"Can you try marking it on the number line first? Can you try marking the 6,580 like an estimate position for 6,580 on the number line? That's the first part, [STUDENT_NAME].",00:06:55
+ebywymc,44,student,So if this was [unclear] by the star.,00:07:16
+ebywymc,45,student,"I think this would go not to here, but [unclear] because I am just— Okay. Why did you",00:07:28
+ebywymc,46,tutor,decide on there?,00:07:36
+ebywymc,47,student,I think this one might pick out more of the not too thin.,00:07:39
+ebywymc,48,tutor,Is there a reason for your answer?,00:07:46
+ebywymc,49,tutor,"To draw it here. [unclear] So you have to see, see, they have divided the numbers. Even between 6,000 and 7,000, there are partitioning that you can see. Notice them and mark it properly. Yes, the answer will lie between 6,000 and 7,000, but you've marked in a place where 6,580 would not be.",00:07:48
+ebywymc,50,tutor,"It is close by, but try to make a better estimate. [unclear] [unclear]",00:08:15
+ebywymc,51,tutor,"Yeah, that is much better. [STUDENT_NAME], that is correct. Can you explain why this place is correct compared to the previous one that you marked?",00:08:44
+ebywymc,52,student,Because it's on the 500 line and it's in the middle.,00:08:59
+ebywymc,53,tutor,"Yes, exactly. So 6,500 is in the middle part between 6,000 and 7,000, so middle sounds right. Okay, can you explain how you understood that it is 6,000?",00:09:05
+ebywymc,54,student,"Wait, because if it's— wait, if it were ranging to the nearest thousands, we're looking at the hundred columns.",00:09:22
+ebywymc,55,student,"The hundred column is 5, and then if it's on the number 5, you round up.",00:09:32
+ebywymc,56,tutor,"Yes, that is correct. I'm noticing something missing from 6,000 and 7,000 here. Notice with this one which you have written correctly, what is missing from these two numbers? [unclear] Yes, always make sure to put the comma if you have more than",00:09:38
+ebywymc,57,tutor,"Yes, that is correct, [STUDENT_NAME]. So 5 or more, we round up. Less than 5, we round down. Okay, what about Part B? Which column helped you to decide?",00:10:03
+ebywymc,58,student,[unclear],00:10:14
+ebywymc,59,tutor,The column.,00:10:20
+ebywymc,60,tutor,"Oh, wait. [unclear]",00:10:25
+ebywymc,61,student,"Actually, after this point, after this E, I cannot see because the screen ends from here. You can write underneath.",00:10:28
+ebywymc,62,tutor,Right.,00:10:40
+ebywymc,63,student,"Okay, that is correct.",00:10:47
+ebywymc,64,tutor,"Alright, so this is how you find which number it is closest to. Let's try out some more questions, okay? You can use the place value chart for the second question, and there is a number line for the third one, and you have the counters in the first one. Give it a try from part 1. [unclear]",00:10:53
+ebywymc,65,student,"So for number 1, to round to the nearest hundred, we have to look at the nearest— to round to the nearest hundred, we have to look at the tenths.",00:11:20
+ebywymc,66,tutor,"Yes, exactly. So—",00:11:31
+ebywymc,67,student,So it's true.,00:11:36
+ebywymc,68,tutor,"No, that is not correct. What is the mistake that you made, [STUDENT_NAME]? [unclear] So you said that we are looking at the tents, which is correct. How many tents do you have?",00:11:42
+ebywymc,69,student,One.,00:12:06
+ebywymc,70,tutor,1. So then are we rounding down or up?,00:12:07
+ebywymc,71,student,Down.,00:12:11
+ebywymc,72,tutor,Down. Okay. So what are the multiples of 100 that we are considering? What are the multiples of 100 that 2715 lies between?,00:12:12
+ebywymc,73,background,"3, 6, [unclear]",00:12:28
+ebywymc,74,student,[unclear],00:12:28
+ebywymc,75,tutor,"You are just telling me the multiples of 3, isn't it?",00:12:34
+ebywymc,76,student,Yeah.,00:12:41
+ebywymc,77,tutor,"I am asking, since we are rounding to the nearest 100, we are considering multiples of 100, [STUDENT_NAME]. So what is the previous multiple of 100 for 2715?",00:12:41
+ebywymc,78,student,[unclear],00:13:01
+ebywymc,79,tutor,Yes. What is the next multiple of— what is the next multiple of 100?,00:13:01
+ebywymc,80,student,300.,00:13:09
+ebywymc,81,tutor,200?,00:13:11
+ebywymc,82,student,[unclear],00:13:11
+ebywymc,83,tutor,"Yes, 2,800. So these are the two multiples of 100 that you are considering in between, 2,700 and 2,800. So If you're rounding down, which multiple would it be? What would be the answer?",00:13:15
+ebywymc,84,student,[unclear],00:13:34
+ebywymc,85,tutor,"Yes, that is right. So if you're not sure, if it's hard to keep in mind and work it out, you can write down the multiples that we are considering between before identifying whether we are rounding up or down. Okay. [unclear]",00:13:36
+ebywymc,86,tutor,"Can you explain how this is 2,800?",00:13:52
+ebywymc,87,student,"Because if we're looking at the thousands, which is here, the 2, then we have to look at",00:14:11
+ebywymc,88,student,"The hundreds. So, and then the 107, that's bigger than 5, so we're rounding up.",00:14:19
+ebywymc,89,tutor,"We are rounding up. That is correct. But is 2,800 a multiple of 1,000, [STUDENT_NAME]?",00:14:27
+ebywymc,90,student,"[unclear] Would it be 2,720?",00:14:41
+ebywymc,91,tutor,"That is, if you're rounding to the nearest tens. So I will go back and make a recap for you. We are looking at the right digit, correct? However, when we are rounding, we are looking at the multiple. So let's say we are rounding to the nearest 1,000. We are thinking in terms of multiples of 1,000. [STUDENT_NAME], we do not— even though we look at the hundreds column to help us, We don't write it in hundreds. Do you notice any hundreds written here? [unclear]",00:14:48
+ebywymc,92,tutor,"We look at the hundreds column to help us understand whether we are rounding up or down. That is it. But when you are writing the nearest 1000, you are writing in terms of multiples of 1000. Same here. In the first place, you had to round it— round to the nearest 100. So we are rounding in terms of 100.",00:15:21
+ebywymc,93,tutor,"In the first place, you told the answer is 2710, which is incorrect because it has a 10. In multiples of 100, you don't have tens or ones. It goes as 100, 200, 300, likewise. Okay, same with the thousands. It goes as 1000, 2000, 3000, like that. If you say 2800 is the answer, that is incorrect. You look at the hundreds column and round it to the nearest hundred. You don't look at the hundreds column when you round into the nearest hundreds. You look at the tens. Do you notice the mistake? [unclear] Okay, if it's not clear, I can explain it to you again. First, before thinking of the number, first understand what are the nearest multiples of 1000 to this. What is the previous multiple of 1000?",00:15:44
+ebywymc,94,student,"2,600.",00:16:44
+ebywymc,95,tutor,"Is 2,600 a multiple of 1,000, [STUDENT_NAME]? [unclear] Can you write down the multiples, like the first 5 1,000— multiples of 1,000? Okay, I can't see after the 3. You can write it underneath. [unclear]",00:16:44
+ebywymc,96,tutor,"Okay, that's enough. So do you notice a 2,600 or 2,800 in these multiples?",00:17:09
+ebywymc,97,student,No.,00:17:17
+ebywymc,98,tutor,"No. So then you cannot write in terms of hundreds. If you write 2,800 or 2,600, those are multiples of hundreds, not thousands. Okay, so when you round into the nearest 1,000 All other places has to be 0. Hundreds, tens, and ones which are smaller than thousands has to be 0. It can have ten thousands and hundred thousands. It cannot have the smaller one. So it goes like this, [STUDENT_NAME]. So first, tell me, what is the previous multiple of 2715? [unclear]",00:17:17
+ebywymc,99,student,3000.,00:17:56
+ebywymc,100,student,[unclear] I'll just say 500.,00:17:59
+ebywymc,101,tutor,"Oh my gosh, [STUDENT_NAME], see, you wrote the multiples. Why do you think that it is 2,700 is the previous multiple of 1,000? If you tell me where it is unclear, I can explain it to you, okay? If there is a misunderstanding, I can help you understand it, [STUDENT_NAME].",00:18:02
+ebywymc,102,student,I'm just thinking.,00:18:28
+ebywymc,103,tutor,"Okay. If you ask me, I can help you, okay? [unclear]",00:18:30
+ebywymc,104,tutor,"Hello, are you there, [STUDENT_NAME]?",00:18:52
+ebywymc,105,student,[unclear],00:18:53
+ebywymc,106,tutor,"Okay, so rather than understanding whether we are rounding up or down, first think about the nearest multiples. That is what we did in this question, right? So if you follow this step-by-step manner, you will be able to get the answer. Okay, [STUDENT_NAME], so rather than guessing, it's better to understand the theory. Now let's say you are doing a question paper. I won't be there for you to ask, right, whether this is correct or this is not correct. So if you understand the theory, you can do it by yourself. Yeah? [unclear]",00:18:56
+ebywymc,107,student,Yeah.,00:19:35
+ebywymc,108,tutor,"Okay, so here notice first thing was to understand where it lies. So you don't necessarily have to have a number line to understand what are the multiples. So you understood what was the previous multiple, and then you understood what is the next multiple. That was the first step, [STUDENT_NAME]. Okay, and then only we understood we are rounding up or down. Okay, the problem is you are first deciding whether rounding up or down, and then you have to guess the multiple. Okay, you can work on it because you did this correctly, so I know that you are capable, [STUDENT_NAME]. Okay.",00:19:36
+ebywymc,109,student,[unclear] [unclear],00:20:15
+ebywymc,110,tutor,"All right, so cheer up and let's work it out, okay?",00:20:19
+ebywymc,111,student,Mm-hmm.,00:20:25
+ebywymc,112,tutor,"So first understand what is the previous multiple and then understand the next multiple. So, and then you know what are the two options that you're considering between. You have your answer sorted to two answers, so you just have to find which one is the correct option. Yeah, and then understand whether you're rounding down or up. That way we can understand which one is the correct one out of two options that you have. Okay?",00:20:26
+ebywymc,113,student,Yeah.,00:20:51
+ebywymc,114,tutor,"Okay, go ahead. Now we are talking about thousands. What is the previous thousand, uh, multiple of thousand for 2715?",00:20:53
+ebywymc,115,student,[unclear],00:21:03
+ebywymc,116,tutor,"A thousand. So let me use a number line. So let's say you have a thousand here, and the next one is— I'm going to write it up, okay? Two thousand. And then you have 3,000, and I'll write up to 4,000. Okay, where would your number lie between? Now this is 1,000, 2,000, 3,000, 4,000. So the number you had to work with was 2,715. Where is 2,715? Can you mark it?",00:21:08
+ebywymc,117,student,[unclear] [unclear],00:21:57
+ebywymc,118,tutor,Yes. So what is this multiple of 1000? What is this one?,00:22:11
+ebywymc,119,student,1500.,00:22:22
+ebywymc,120,tutor,"We are going in terms of thousands, [STUDENT_NAME]. You don't have hundreds in multiples of 1,000. [unclear] Okay, if this number line is not clear, use the same number line here. Where does 2,715 lies? Can you mark it in this one?",00:22:27
+ebywymc,121,tutor,"You can do it, [STUDENT_NAME]. Okay, you did it correctly in this one. Just the only difference in the next questions are the steps are not given. Okay, so if you remember these steps, you can work it out. Okay. [unclear] All right, so okay, so now what's the previous multiple of 1000?",00:22:50
+ebywymc,122,tutor,Which number?,00:23:19
+ebywymc,123,student,"You have marked 2715 here, right? Let me write it down for you. 715. So what is the previous multiple of 1000 for 2715? You marked it between which multiples of 1000? [unclear] Is it like... [unclear]",00:23:20
+ebywymc,124,tutor,Pardon?,00:23:52
+ebywymc,125,student,The previous [unclear] of 2017-15 is...,00:23:55
+ebywymc,126,tutor,Pardon? Yes? [unclear],00:24:03
+ebywymc,127,tutor,"Think about this question that you did. You have to mark 6580, and the previous multiple was 6000, because right after 6000 only you have 6580, and the next closest multiple of 1000 was 7000, right? It lies between 6000 and 7000. What about this one? [unclear]",00:24:13
+ebywymc,128,student,"The next is— the next multiple of this is 3,000.",00:24:38
+ebywymc,129,tutor,"Okay, what was the previous one?",00:24:47
+ebywymc,130,student,"2,000.",00:24:49
+ebywymc,131,tutor,"Yes, 2,000 and 3,000. Another way that you can get the previous multiple is you look at what you have in the current thousands column, you have number 2. So 2 thousands, that is the previous multiple. After that only you start having 2,715, not 1,000, because 1,000 is not the closest previous multiple of 1,000. You have 2,000. Okay?",00:24:51
+ebywymc,132,student,Yeah.,00:25:19
+ebywymc,133,tutor,"So think about— so you can write them down underneath. The nearest— the previous multiple was 2,000. Nearest next multiple was 3,000. So your answers are— not the sentence. [unclear]",00:25:20
+ebywymc,134,tutor,"Just write down the number so that you can sort it out. Yes, 2,000 and 3,000 are your options, right? So out of 2,000 and 3,000, this is where 2,715 lies. So which column do we have to look at to understand whether we are rounding up or down?",00:25:37
+ebywymc,135,student,The hundredths.,00:26:02
+ebywymc,136,tutor,"We look at the hundredths only to understand whether we are rounding up or down. We do not include hundredths in our answer because we are talking about multiples of 1,000, [STUDENT_NAME]. Okay?",00:26:03
+ebywymc,137,student,Yeah.,00:26:15
+ebywymc,138,tutor,So what do we have in the hundredths column? What is the digit? [unclear],00:26:16
+ebywymc,139,tutor,"7. So if it's 7, are we rounding down or rounding up?",00:26:21
+ebywymc,140,student,Up.,00:26:27
+ebywymc,141,tutor,"Up. Yes, so 3,000 is correct. However, something is missing from this answer. What is it? Yes, always remember to keep the comma if it's more than 3 digits. So well done, [STUDENT_NAME]. There you go. So try to work it out like that. First, understand what are the 2 options you have. The previous multiple and the next multiple, and then understand whether you're rounding up or down. That way you can sort out using these two options. Okay?",00:26:28
+ebywymc,142,student,Yeah.,00:26:56
+ebywymc,143,tutor,"So when you write it down like that, it becomes clear to you rather than keeping it in your head. Okay?",00:26:57
+ebywymc,144,student,Yeah.,00:27:04
+ebywymc,145,tutor,You can go to part 2 now.,00:27:05
+ebywymc,146,student,"Uh, I think I've got it.",00:27:09
+ebywymc,147,tutor,"Okay, that's great to hear. And if you want any more clarifications or if you have anything, you can ask me. [unclear]",00:27:12
+ebywymc,148,tutor,"Read the question, [STUDENT_NAME]. I feel like you haven't read the question here. [unclear]",00:27:35
+ebywymc,149,tutor,"So if you take 5,000, what is the previous multiple of 1,000?",00:27:53
+ebywymc,150,student,"5,000 and 6,000.",00:28:01
+ebywymc,151,tutor,"Exactly. How did the 4,000 come? So out of 5,000 and 6,000, are we rounding down or up?",00:28:03
+ebywymc,152,student,"Down, because we look at the hundreds.",00:28:14
+ebywymc,153,tutor,"Exactly, that is correct. Be careful, okay? [unclear] [unclear]",00:28:16
+ebywymc,154,tutor,What are the previous and the next multiples of hundreds?,00:28:43
+ebywymc,155,student,"Um, 100, 200, and 300. Of [unclear]",00:28:50
+ebywymc,156,tutor,"100. Right. Now you are rounding to the nearest 100, right? Number is 5,325. What is the previous multiple of 100 for this number? Uh,",00:29:02
+ebywymc,157,student,300 and 400.,00:29:21
+ebywymc,158,tutor,"Yes, 5300 and 5400. Okay, always remember, when you're taking the previous multiple, it's very easy. You don't have to think about much because you can look at the already existing digit in the column. You have 3 in the hundreds column, therefore the previous multiple is 5300. Okay, so how to understand that the answer is going to be 5300? [unclear]",00:29:25
+ebywymc,159,student,It's below 5.,00:30:05
+ebywymc,160,tutor,"Okay, what is below 5?",00:30:09
+ebywymc,161,student,"3. Which column do we look at when you're rounding to the nearest 100? [unclear] Okay, then why— so what do you have in the tens? What's the digit in the tens, [STUDENT_NAME]?",00:30:13
+ebywymc,162,student,3.,00:30:39
+ebywymc,163,tutor,2. So then are we rounding down or rounding up?,00:30:41
+ebywymc,164,student,Down.,00:30:45
+ebywymc,165,tutor,Mm-hmm. Then what will be the answer?,00:30:47
+ebywymc,166,student,"5,200.",00:30:51
+ebywymc,167,tutor,"5,200? How did you get the 5,200 part, [STUDENT_NAME]?",00:30:56
+ebywymc,168,student,"I said 5,300.",00:31:05
+ebywymc,169,tutor,"Yes, [UNCLEAR].",00:31:08
+ebywymc,170,student,Correct.,00:31:10
+ebywymc,171,tutor,"Keep in mind that you consider between the previous multiple and the next multiple. A common mistake is when you say the previous multiple, some people think that the previous multiple is",00:31:23
+ebywymc,172,tutor,"The one before the one that you have already. Like, how you considered 5200 instead of 5300 as the previous multiple? That is incorrect.",00:31:34
+ebywymc,173,tutor,"Because 5325 comes after 5300, therefore we consider the closest previous multiple of 100. So the closest previous multiple of 100 is 5300. Okay.",00:31:46
+ebywymc,174,tutor,Yeah.,00:32:01
+ebywymc,175,student,Hello.,00:32:03
+ebywymc,176,tutor,All right. So try to do number 3 by yourself.,00:32:04
+ebywymc,177,student,"All right. Which [unclear] rounded to 5,600 when rounded to the nearest hundred? [unclear]",00:32:15
+ebywymc,178,student,"Yeah, those numbers, because if you actually do it and you put this— [unclear]",00:32:45
+ebywymc,179,tutor,Yes? [unclear],00:32:59
+ebywymc,180,tutor,"So,",00:33:16
+ebywymc,181,student,"It can't be B. I mean, it could— it can't be A because I think that's 5,450, so that can't be it. It might not be B because it's closer to 5,500.",00:33:20
+ebywymc,182,tutor,Mm-hmm.,00:33:46
+ebywymc,183,student,"It might be C because it is close to 5,600.",00:33:46
+ebywymc,184,tutor,Mm-hmm.,00:33:54
+ebywymc,185,student,"So C, and it could be D because it's also closer, and it can't be E because that's closer to 5,700.",00:33:57
+ebywymc,186,tutor,"Yes, that is correct. C and D are the answers. Well done here, [STUDENT_NAME]. Awesome effort. So we went through a lot of gap plugging in this slide. What did you learn throughout this slide, [STUDENT_NAME]?",00:34:12
+ebywymc,187,student,"[unclear] [unclear] What's it called? Rounding up and down. And the important thing to know in rounding up or down is that rounding up is above 5 or 5, and rounding down is below 5.",00:34:30
+ebywymc,188,tutor,Mm-hmm. Okay.,00:35:00
+ebywymc,189,tutor,"All right, also keep in mind we first find the previous multiple of— if we rounding off to 1,000, previous multiple of 1,000 and the next multiple of 1,000. And we are going in terms of multiples of 1,000, therefore in multiples of 1,000 you wouldn't have hundreds, tens, or ones. Okay, keep that in mind as well. Okay.",00:35:05
+ebywymc,190,student,[unclear],00:35:28
+ebywymc,191,tutor,"Alright, now let's try this one. Give it a try.",00:35:30
+ebywymc,192,student,"A number is rounded to the nearest thousand. The answer is 5,000. What could the original number have been? [unclear]",00:35:37
+ebywymc,193,tutor,"So this is something similar to what you did in Part 3 here. However, they haven't given a number line or possibilities. You have to come up with the possible answers. [unclear] [unclear]",00:35:58
+ebywymc,194,tutor,Yes?,00:36:31
+ebywymc,195,student,"So it could be [unclear] 4,000.",00:36:47
+ebywymc,196,student,678.,00:37:19
+ebywymc,197,tutor,"How do we know that it is a possible answer, [STUDENT_NAME]?",00:37:20
+ebywymc,198,student,"Because all the numbers— I mean, it's above 5, because we're writing to the neighbor's face and we have to look at the hundreds. And the hundreds are above 5, so it could be that.",00:37:23
+ebywymc,199,tutor,"Yes, that is correct. That is a possible answer. What else?",00:37:38
+ebywymc,200,student,"And also it could be 4,789.",00:37:43
+ebywymc,201,tutor,Mm-hmm. Yes. Because?,00:37:50
+ebywymc,202,student,"Because if we're rounding to the nearest thousand again, we have to look at the hundreds, and the hundreds is bigger than 5, so it's round to 5,000.",00:37:53
+ebywymc,203,tutor,"Mm-hmm. Okay. Are these the only two possible answers, or are there many other possible answers for this question?",00:38:04
+ebywymc,204,student,Many of us.,00:38:11
+ebywymc,205,tutor,"Many others, yes. What is the smallest possible answer?",00:38:13
+ebywymc,206,student,For the [unclear] 510. Why do you think that it is 4510?,00:38:21
+ebywymc,207,student,It just sells at the smallest answer. [unclear],00:38:31
+ebywymc,208,tutor,"Yes, it is. So 4500— does 10 play any role there?",00:38:40
+ebywymc,209,student,No.,00:38:47
+ebywymc,210,tutor,No. So then you can have 4500 as the smallest number since that is smaller than 4510. Yeah?,00:38:48
+ebywymc,211,student,Yeah.,00:38:57
+ebywymc,212,tutor,"Okay, so 5,500 would be the smallest one. So are the numbers that will be rounded to the nearest thousand and answer becoming 5,000, are the possible answers for this only staying in the 4,000 range, or will there be answers that are 5,000s as well, [STUDENT_NAME]?",00:38:58
+ebywymc,213,student,"[unclear] It could be 5,000.",00:39:19
+ebywymc,214,student,It has to— all the numbers have to be below 5. [unclear],00:39:22
+ebywymc,215,tutor,What do you mean by all the numbers have to be below 5?,00:39:28
+ebywymc,216,student,"No, all the numbers don't have to be below. Since we're rounding to the nearest thousand, only this number, only the hundreds number has to be below 5.",00:39:31
+ebywymc,217,tutor,"Can you give me two examples which are in the range of 5,000s? Which will round to 5,000. [unclear]",00:39:43
+ebywymc,218,tutor,Mm-hmm. Okay.,00:39:57
+ebywymc,219,background,[unclear],00:39:57
+ebywymc,220,tutor,"Yes, that is correct. How do we know that this will work for this question's criteria, [STUDENT_NAME]? Because since we're rounding to the nearest thousand, it's below 5, and then we think if these numbers are below 5, you have to round down to the previous multiple.",00:40:06
+ebywymc,221,tutor,"Mm-hmm, yes. So in this case, what happened? Was it a round down or a round up?",00:40:27
+ebywymc,222,student,Round up.,00:40:34
+ebywymc,223,tutor,"Yes, this case 5,000 was the next multiple of 5,000, so therefore you rounded Up to 5,000? [unclear] Yes, above 5. 5 or more, you round up, [STUDENT_NAME]. And after, what you written after this 'o' part? Cannot see.",00:40:36
+ebywymc,224,student,[unclear],00:40:36
+ebywymc,225,tutor,"All right, you don't have to write that down, [STUDENT_NAME]. So what is the highest possible answer for this question? [unclear]",00:41:00
+ebywymc,226,tutor,"What about 99? Does it round to 6,000?",00:41:09
+ebywymc,227,student,"No, because it's the wrong place.",00:41:31
+ebywymc,228,tutor,"Mm-hmm. So the highest possible is not 5498 but 5499. So like you mentioned, the smallest one is 4500 and the highest one is 5499. So any number between those two, including those, will be possible answers for this. Okay? [unclear] All right.",00:41:33
+ebywymc,229,tutor,"So we have come to the end of this lesson. Can you tell me what are some important things about rounding that you learned throughout this lesson, [STUDENT_NAME]?",00:41:59
+ebywymc,230,student,"That you have to know the previous and next multiple. And the most important thing people might not know is that they might think if it's on the number 5, they might think it has to round down, but they're [UNCLEAR].",00:42:10
+ebywymc,231,tutor,You have to round up.,00:42:24
+ebywymc,232,student,"Pardon? Oh, if it's just 5, if it's 5.",00:42:26
+ebywymc,233,tutor,"Yeah, so people don't— if people don't know how to round, they might think if the number's on 5, they have to round down, and— but you have to round up.",00:42:31
+ebywymc,234,background,"5 or more, you round up.",00:42:31
+ebywymc,235,tutor,"So which column helps you to understand whether we are rounding up or down, [STUDENT_NAME]?",00:42:44
+ebywymc,236,student,"If it's above 5, you round up or 5. If it's below 5, you round down.",00:42:55
+ebywymc,237,tutor,"So to look at whether it's above 5 or 5 or less than 5, which column do we look at?",00:43:01
+ebywymc,238,student,"If you round into the thousands, you look at the hundreds. If you round into the hundreds, you look at the tens. And if you round into the tens, you look at the ones.",00:43:09
+ebywymc,239,tutor,"That is correct. We look at the digit to the right. So thank you for that explanation and well done here. You did well on this question, [STUDENT_NAME]. So we have run out of time as well. Great working out. So do you have anything that you want to ask before we end the session?",00:43:18
+ebywymc,240,student,[unclear],00:43:38
+ebywymc,241,tutor,"Okay, so I'll see you next week. Make sure you do your questions. Have a nice week, [STUDENT_NAME]. Bye.",00:43:40
+ebywymc,242,student,[unclear] Bye.,00:43:47

@@ -1,0 +1,439 @@
+session_id,utterance_id,role,content,timestamp
+dncyaqi,0,tutor,Hello.,00:00:00
+dncyaqi,1,background,[unclear],00:00:00
+dncyaqi,2,student,Hello.,00:00:00
+dncyaqi,3,tutor,Hi.,00:00:01
+dncyaqi,4,student,Hi.,00:00:02
+dncyaqi,5,tutor,How are you?,00:00:03
+dncyaqi,6,student,I'm good.,00:00:05
+dncyaqi,7,tutor,Okay.,00:00:06
+dncyaqi,8,student,Thank you.,00:00:07
+dncyaqi,9,tutor,You're welcome. And how was your day?,00:00:09
+dncyaqi,10,student,It was good.,00:00:11
+dncyaqi,11,tutor,Okay. So now can you tell me how to pronounce your name?,00:00:13
+dncyaqi,12,student,Posse.,00:00:18
+dncyaqi,13,tutor,Posse.,00:00:20
+dncyaqi,14,student,Yeah.,00:00:22
+dncyaqi,15,tutor,"Okay, so I can call it as Posse, no?",00:00:23
+dncyaqi,16,student,"Posse, yeah, just call me Posse.",00:00:26
+dncyaqi,17,tutor,"Posse. Okay, Posse. So Posse, can you remember what we learned in the last class?",00:00:28
+dncyaqi,18,student,[unclear],00:00:35
+dncyaqi,19,tutor,"Exactly. We learned how to convert percentage as fractions and decimals, Right?",00:00:37
+dncyaqi,20,tutor,"Yes. [Speaker] So, and we did up to this slide. Can you remember?",00:00:46
+dncyaqi,21,tutor,"Yes. [Speaker] Okay. So before we start our today's session, shall we soon recall what we learned in the last class? [Speaker] So writing percentages as fractions and decimals. Write 32% as a decimal, 0.32. [Speaker] Okay. So very good job.",00:00:52
+dncyaqi,22,tutor,"Okay, so how do you know it's 0.32?",00:01:12
+dncyaqi,23,student,Because I know 32% is the same as 0.32 in decimals.,00:01:16
+dncyaqi,24,tutor,"Okay, so can you tell me in fractions, 32%? How will you write it as fraction?",00:01:22
+dncyaqi,25,student,3200.,00:01:29
+dncyaqi,26,tutor,"Exactly. So percentage means it's out of 100, right?",00:01:30
+dncyaqi,27,student,Yeah.,00:01:36
+dncyaqi,28,tutor,"So if you take the percentage sign out, then you have to write it as fractions. That is, the denominator 100, right?",00:01:36
+dncyaqi,29,background,"Yeah, yeah.",00:01:44
+dncyaqi,30,tutor,"Okay, so very good job. I think you remember well, right?",00:01:46
+dncyaqi,31,background,Yeah.,00:01:51
+dncyaqi,32,tutor,"So now can you tell me, 82%, how will you write it as fraction?",00:01:52
+dncyaqi,33,background,So you write 82% as 82/100.,00:01:59
+dncyaqi,34,tutor,"Okay, and how will you write that as decimal?",00:02:03
+dncyaqi,35,background,"0.82. 0.82. Okay, so very good job, uh, uh, Percy. So now can you tell me which is bigger, 55% or 15 over [UNCLEAR]?",00:02:08
+dncyaqi,36,student,"Uh, I say 55% of 100, that's a half of 100, but I need to convert this denominator to 100.",00:02:08
+dncyaqi,37,tutor,"Okay, so can you try that and show it to me?",00:02:35
+dncyaqi,38,student,So it's 4 times 25.,00:02:39
+dncyaqi,39,tutor,"Okay, 4 times 25 is?",00:02:42
+dncyaqi,40,student,"Um, [unclear] it's 100.",00:02:46
+dncyaqi,41,tutor,"Exactly, it's 100. So if you are—",00:02:51
+dncyaqi,42,student,Then you do 4 times 15.,00:02:55
+dncyaqi,43,tutor,"Exactly, so what is the answer? 4 times 15. [unclear]",00:02:57
+dncyaqi,44,tutor,"No problem. You can take your own time and tell me, okay?",00:03:08
+dncyaqi,45,student,Okay.,00:03:13
+dncyaqi,46,tutor,Can you do that on the screen?,00:03:14
+dncyaqi,47,student,"50, 50.",00:03:22
+dncyaqi,48,tutor,Are you sure?,00:03:24
+dncyaqi,49,student,Yes.,00:03:26
+dncyaqi,50,tutor,Can you multiply and see?,00:03:27
+dncyaqi,51,tutor,"15 times 5? [Speaker] Yeah, I'll write it here.",00:03:29
+dncyaqi,52,tutor,Okay. You have to times it by what number? [Speaker] 4. [Speaker] 4. Okay. [unclear] [Speaker] So 4.,00:03:36
+dncyaqi,53,tutor,"Okay. [Speaker] So you do 4 times 5 is 20, so this should be a 0.",00:03:49
+dncyaqi,54,tutor,Okay.,00:03:56
+dncyaqi,55,student,Then the 2.,00:03:57
+dncyaqi,56,tutor,Okay.,00:04:00
+dncyaqi,57,student,The 2 will go here. Then 4 times 1 is 4. Then add the 2 is 60.,00:04:01
+dncyaqi,58,tutor,"Exactly. So 60 out of 100, right?",00:04:11
+dncyaqi,59,student,"Yes. So 15, 25 is bigger.",00:04:16
+dncyaqi,60,tutor,"Exactly. So 15, 25 is bigger, right? So very good job. See, so now can you tell me this D part, which one is better mark, 61% or 30 out of 50?",00:04:21
+dncyaqi,61,student,30 out of 50.,00:04:40
+dncyaqi,62,tutor,Are you sure?,00:04:43
+dncyaqi,63,student,Yeah.,00:04:44
+dncyaqi,64,tutor,"Okay, so how do you know that 30 out of 50 is better mark?",00:04:45
+dncyaqi,65,student,"Because if you do 30/50 as a fraction, And then convert— you convert the 50 to 100.",00:04:49
+dncyaqi,66,tutor,Okay.,00:04:59
+dncyaqi,67,student,"Which is times 5. No, I mean— wait. Yeah, 50 times 5.",00:05:00
+dncyaqi,68,tutor,"Okay, 50 times what number will make you 100? [unclear] How many 50s will give you 100?",00:05:09
+dncyaqi,69,student,"Oh, 50 times 2, my God.",00:05:22
+dncyaqi,70,tutor,Exactly. So 50 times 2. So what do you have to do for the top number? [unclear],00:05:25
+dncyaqi,71,student,"I mean 2 times 30— 20— wait, 2 times 30.",00:05:31
+dncyaqi,72,tutor,"Okay, so what is the answer?",00:05:37
+dncyaqi,73,student,"Oh no, 60. So 61% is bigger. Yeah.",00:05:40
+dncyaqi,74,tutor,"Exactly. So 61% is bigger, right? So I am very happy because I think you are very confident on this topic. So now I am going to give you a challenging question. Are you ready?",00:05:45
+dncyaqi,75,student,Yep.,00:05:59
+dncyaqi,76,tutor,"Okay, here we go. So can you try this question? I want you to try this question on your own, and if you need any help, you can ask from me, okay?",00:06:00
+dncyaqi,77,tutor,"Alright, Tara has read 48 pages of a book. The book has 400 pages. What portion of her book has she read? [unclear] What portion of her book has she read? She— so 48 than 400. So it'll be 48,400. So—",00:06:11
+dncyaqi,78,tutor,"You can show the steps, okay? [Speaker] So 48, then—",00:06:42
+dncyaqi,79,tutor,"Go and sit down and log on while they'll get you some [UNCLEAR]. [Speaker] 400. 48,400. Then what portion of her book has she read? [unclear] So give your answer as a percentage. So I have to do— I'm kind of shocked because do I— I think I have to convert the 400 to 100.",00:06:52
+dncyaqi,80,tutor,"Exactly. So if you want to give it as a percentage, then you have to make the denominator as 100, right?",00:07:21
+dncyaqi,81,student,Yeah.,00:07:29
+dncyaqi,82,tutor,So how will you do that?,00:07:30
+dncyaqi,83,background,So 400 divided— I have to divide 400 divided by— I'm stuck.,00:07:33
+dncyaqi,84,tutor,400 divided by what number will give you 100?,00:07:45
+dncyaqi,85,background,By 400. [unclear],00:07:51
+dncyaqi,86,tutor,"Okay, how many hundreds will make you 400? 40. How many hundreds? How many hundreds will make you 400? Yeah, um, I'm stuck. Okay, no problem. So you can— can you count in hundreds? Yeah. Yeah. [unclear] Okay, so how many hundreds will make you 400? 4.",00:07:56
+dncyaqi,87,tutor,So what do you have to do for this 400 to make it 100?,00:08:30
+dncyaqi,88,student,400 divided by 4.,00:08:34
+dncyaqi,89,tutor,"Exactly, 400 divided by 4. Okay, so can you try that? If you divide the denominator, what do you have to do to the numerator?",00:08:36
+dncyaqi,90,student,[unclear],00:08:47
+dncyaqi,91,tutor,Exactly. So can you try that now? I think you can do it now. That's 12.,00:08:48
+dncyaqi,92,tutor,"Exactly. So 12 out of 100, right?",00:08:55
+dncyaqi,93,student,"Yeah, so that's 12%.",00:08:59
+dncyaqi,94,tutor,Then can you write down the final answer for me? [unclear] [unclear],00:09:03
+dncyaqi,95,tutor,"Okay, so very good working out, uh, [UNCLEAR]. So, [UNCLEAR], now just think that I am the student and you are the Tutor, okay?",00:09:30
+dncyaqi,96,student,Yes.,00:09:30
+dncyaqi,97,tutor,Can you take me through the steps again and explain it to me how you found out the answer?,00:09:36
+dncyaqi,98,student,"Okay, so you see, she reads 28 pages of a book, and a book has 400 pages. So in order to take it as a percentage and a decimal, you need to convert this 400 to 100.",00:09:48
+dncyaqi,99,tutor,Okay. So how do you convert?,00:10:07
+dncyaqi,100,student,"So you have to divide the 400 by 4 to make 100. Then whatever you do to the denominator, you do to the numerator. So—",00:10:10
+dncyaqi,101,tutor,Okay.,00:10:20
+dncyaqi,102,background,"So then you divide. So you divide 48 by 4, and you should know 48 divided by 4 is 12. So there'll be 12. So it'll be 12%. [unclear] Then 0.12.",00:10:21
+dncyaqi,103,tutor,"Okay, so great explanation, Fuzzy. So Fuzzy, so you have done a fantastic job on this slide, Fuzzy. So you had little doubt, right? Because Okay, now are you clear how to do that?",00:10:38
+dncyaqi,104,background,Yeah.,00:10:54
+dncyaqi,105,tutor,"You were a little stuck of converting this 400 to 100, right?",00:10:55
+dncyaqi,106,background,Yeah.,00:11:00
+dncyaqi,107,tutor,"Okay, now you know how to do it?",00:11:01
+dncyaqi,108,background,Yes.,00:11:05
+dncyaqi,109,tutor,"Okay, so you have to see how many hundreds you have, right?",00:11:06
+dncyaqi,110,background,Yeah.,00:11:10
+dncyaqi,111,tutor,How many hundreds will make you 400?,00:11:10
+dncyaqi,112,background,Yeah.,00:11:14
+dncyaqi,113,tutor,"Okay, so now can you tell me, um, what is the proportion of a book as she read? She, she won, um, 12% on 0.2.",00:11:14
+dncyaqi,114,tutor,"Okay, so the proportion of her book, that means you have to give it in fraction, right? That is exactly 1200, right?",00:11:26
+dncyaqi,115,student,Yeah.,00:11:40
+dncyaqi,116,tutor,"Okay, okay. Uh, Percy, so Percy, now we have completed this lesson, okay? Yeah. So do you have any doubts on this lesson? No. Okay, now are you clear how to convert fraction into percentage and decimals? Yes. Okay, so before we move on to the next lesson, Percy, shall we soon summarize what we learned today? Yeah. Okay, so Percy, now can you tell me if you have a fraction with the, you know, now when you see this, you can see the denominator is 25, right?",00:11:40
+dncyaqi,117,student,Yeah.,00:12:18
+dncyaqi,118,tutor,"If you get a fraction like this and if you want to convert it to decimal number, what will you do?",00:12:19
+dncyaqi,119,student,"So this, you have to convert the 25 to 100.",00:12:26
+dncyaqi,120,tutor,"Exactly. [unclear] If you want to convert any fractions to a decimal number, what you have to do is you have to make the denominator 10 or 100 or 1000, right?",00:12:30
+dncyaqi,121,tutor,"Yeah. Okay, so here, what you did here— over here, here.",00:12:44
+dncyaqi,122,student,"Yeah, so, so you turned 25 by 4, which is 100. Then you turn the 4 times 15.",00:12:50
+dncyaqi,123,tutor,"Exactly. So if you are finding an equivalent fraction, that means whatever you are doing to the bottom number, you have to do it to the top number also, right? Yeah. Okay, so, um, now when you take this, okay, 30 out of 50, okay, what do we need to multiply 50 by to make 100? 2. 2, right? So you know 2 [unclear] will make you 100, right? Yeah. So if you multiply 50 by 2, what do you have to do for the 30? You have to do the same, so you have to do 2 times 30, which is 60.",00:13:00
+dncyaqi,124,tutor,"Exactly. So now you know the 60 out of 100, right? So how will you write that as decimals?",00:13:42
+dncyaqi,125,student,So 60 is 0.60.,00:13:53
+dncyaqi,126,tutor,0.60. [unclear],00:13:58
+dncyaqi,127,student,"Or you can just do 0.6. 0.6. Okay, so, uh, Posse, now can you tell me, when you take this number 82, okay, can you write a decimal number over here?",00:14:00
+dncyaqi,128,background,"Can you repeat that, please?",00:14:17
+dncyaqi,129,tutor,"Okay, can you write 82% as a decimal number over here? [unclear] Okay, so very good job, Posi. So Posi, now when I— if I ask you, how many tens are there in this number? [unclear] How many tens? Yeah, correct. Tell me. [unclear] 8, right? So you can see the first place after the decimal point is the tens, right?",00:14:19
+dncyaqi,130,background,Yeah.,00:14:57
+dncyaqi,131,tutor,"Okay, how many hundreds are there here? 8.",00:14:58
+dncyaqi,132,tutor,"In this number, how many hundredths are there?",00:15:04
+dncyaqi,133,student,Here.,00:15:07
+dncyaqi,134,tutor,"Yeah, when you take 0.82, how many hundredths are there?",00:15:08
+dncyaqi,135,student,8.,00:15:15
+dncyaqi,136,tutor,"This is the first number. First, uh, what do you— what is the place value column for this 8?",00:15:16
+dncyaqi,137,student,"Uh, cents.",00:15:26
+dncyaqi,138,tutor,"Cents, right? So what is the place value column for this? [unclear] Right. So you know when you take this number, you have 200 and 8 tenths, right?",00:15:27
+dncyaqi,139,background,Yeah.,00:15:42
+dncyaqi,140,tutor,"Or you can say it as 82 hundredths, right?",00:15:43
+dncyaqi,141,background,Yes.,00:15:47
+dncyaqi,142,tutor,"Okay, so are you clear on this?",00:15:48
+dncyaqi,143,background,Yep.,00:15:50
+dncyaqi,144,tutor,"Okay, so now can you tell me, when you take this diagram, okay, you can see",00:15:51
+dncyaqi,145,tutor,"So tell me, how many percentage is shaded in blue? [unclear]",00:15:58
+dncyaqi,146,tutor,"Exactly, 23 percentage. Because you know, when you see this square, it is divided into 100 equal parts, right?",00:16:07
+dncyaqi,147,student,Yes.,00:16:18
+dncyaqi,148,tutor,"100 equal parts, how many parts are shaded?",00:16:19
+dncyaqi,149,student,So that's 23.,00:16:24
+dncyaqi,150,tutor,23. So how can you write that as What is this percentage?,00:16:25
+dncyaqi,151,background,23%.,00:16:32
+dncyaqi,152,tutor,23%. So how many hundredths are shaded in that?,00:16:33
+dncyaqi,153,background,23 hundredths.,00:16:38
+dncyaqi,154,tutor,"23 hundredths, right? So can you write that as decimal? 23 hundredths, how will you write it as decimal? [unclear]",00:16:39
+dncyaqi,155,background,"Oh, my bad.",00:16:57
+dncyaqi,156,tutor,"Why? Okay, okay. So very good job on that question, Percy. So I think you are very confident with this topic. So shall we move on to the next lesson? [unclear]",00:17:00
+dncyaqi,157,student,Yeah.,00:17:14
+dncyaqi,158,tutor,"Okay, so the next lesson would be— okay, so in this lesson we are going to learn how to find percentages of an amount, okay?",00:17:16
+dncyaqi,159,tutor,Yeah.,00:17:30
+dncyaqi,160,tutor,"So to start with, can you try this question for me? The learning goal question.",00:17:31
+dncyaqi,161,student,Find 50% of 140. So first you have to divide it by 2.,00:17:38
+dncyaqi,162,tutor,"Exactly, you have to divide it by 2. Why do you have to divide it by 2?",00:17:48
+dncyaqi,163,student,Because 2 is [UNCLEAR].,00:17:55
+dncyaqi,164,background,And 50% is also half.,00:17:56
+dncyaqi,165,tutor,"Exactly. 50% means it's half, right? [unclear] Exactly. So to find out half of 140, what do you have to do?",00:17:59
+dncyaqi,166,background,You have to divide it by 2.,00:18:11
+dncyaqi,167,tutor,"Okay, so very good working out, Percy. Okay, Percy, so shall we move on to the next slide?",00:18:13
+dncyaqi,168,background,Yes.,00:18:21
+dncyaqi,169,tutor,"Okay, here we go, Percy. So I have some questions for you.",00:18:22
+dncyaqi,170,tutor,"So can you try this question for me, Alistair?",00:18:26
+dncyaqi,171,student,Yeah. 25% of a whole is the same as— it's a quarter. 25% is a quarter.,00:18:30
+dncyaqi,172,tutor,"Exactly. It's one quarter of a whole, right?",00:18:39
+dncyaqi,173,student,Yeah.,00:18:44
+dncyaqi,174,tutor,Okay.,00:18:45
+dncyaqi,175,student,Complete the table. So 50% of 240. [unclear],00:18:49
+dncyaqi,176,tutor,Okay.,00:18:57
+dncyaqi,177,student,"So divide that by 2. 1, 2, 1, 2, 1, 2, 0. 120.",00:19:01
+dncyaqi,178,tutor,"Exactly, 120. So can you complete the full table?",00:19:11
+dncyaqi,179,student,"Then you have to divide 25% by 4. So [Speaker] 4 divided by 240. 0, 24, 6. Uh, 60.",00:19:16
+dncyaqi,180,tutor,"Okay. [Speaker] Because that's how I do that again, because you know, you can just half it, then half it again. Then 10%. Uh, I know what 1% is. Can [unclear]",00:19:33
+dncyaqi,181,tutor,you hear me? I [Speaker] can hear you. Okay.,00:20:06
+dncyaqi,182,tutor,"So sorry about that. I had a connection issue. 2.40. Then for 10%, I divide it to be 24. [unclear]",00:20:17
+dncyaqi,183,tutor,"Okay. Very good working out on this first slide, Percy. So I'm very happy and very proud of you because you have done a fantastic job, Percy.",00:20:35
+dncyaqi,184,student,Yeah.,00:20:49
+dncyaqi,185,tutor,"So keep up your good work, okay?",00:20:49
+dncyaqi,186,tutor,"Yeah. Okay, so now can you explain your answers for C?",00:20:52
+dncyaqi,187,student,"So I knew because the 50%, it's just the same as 240 divided by 2. So I knew that's 120. Then 25%.",00:20:57
+dncyaqi,188,tutor,So why did you divide the 240 by 2?,00:21:07
+dncyaqi,189,student,Because I know that 50% is the same as like half.,00:21:12
+dncyaqi,190,tutor,"Exactly, it's half of 100, right?",00:21:16
+dncyaqi,191,student,Yeah.,00:21:19
+dncyaqi,192,tutor,"So you have to divide it by 2. Okay, so what about 25?",00:21:20
+dncyaqi,193,student,"So 25, so 25, I, I can also just have 120, which is 60, but I can also divide it by 4. 4 divided by 240.",00:21:25
+dncyaqi,194,tutor,"Exactly. So when you take 25 percentage, it's one quarter of 100, right?",00:21:38
+dncyaqi,195,student,Yeah.,00:21:44
+dncyaqi,196,tutor,"So if you want to find out one quarter of 240, You can divide it by 4, or what else you can do? [unclear] Exactly, you can half it and again you can half it again. Yeah. Okay, so very good explanation on that, uh, Percy. So what about the next one? I just divided it by 10. Exactly. So if you want to find 10% of 240, then you have to divide it by 10, right? What about 1%? I just— because I knew that you have— this would be divided by 1. So if you— it will be the same number, but you— when it's finding 1%, you're moving like smaller.",00:21:45
+dncyaqi,197,tutor,"Okay, so you have to divide it by 100, right?",00:22:35
+dncyaqi,198,student,Yeah.,00:22:39
+dncyaqi,199,tutor,To find out 1%?,00:22:39
+dncyaqi,200,student,Yeah.,00:22:42
+dncyaqi,201,tutor,"Okay, so if you divide 240 by 100, what would be the answer?",00:22:42
+dncyaqi,202,student,2.40.,00:22:48
+dncyaqi,203,tutor,"2.40. Okay, so very good job. But see, so let's see now, do you have any doubts on this?",00:22:50
+dncyaqi,204,student,"No, no. [unclear]",00:23:01
+dncyaqi,205,tutor,"Okay, so you know how to find the percentage of an amount, right?",00:23:03
+dncyaqi,206,student,Yeah.,00:23:08
+dncyaqi,207,tutor,"Okay, so now can you tell me if you want to find out The 75%, what will you do?",00:23:09
+dncyaqi,208,tutor,That's a third.,00:23:18
+dncyaqi,209,student,"75%, what do you do?",00:23:21
+dncyaqi,210,tutor,"So I divide it by 3, basically.",00:23:22
+dncyaqi,211,background,"Okay, so you have to divide it by 3, right?",00:23:27
+dncyaqi,212,tutor,"3, yeah.",00:23:31
+dncyaqi,213,background,Why is that?,00:23:32
+dncyaqi,214,tutor,"Because 75% is the same as a third, and a third is like 3.",00:23:33
+dncyaqi,215,background,"Okay. Okay, so that means when you take 25%, it's 60, right?",00:23:38
+dncyaqi,216,student,Yes.,00:23:45
+dncyaqi,217,tutor,"So what you can do is you can times it by 3, right?",00:23:45
+dncyaqi,218,student,Yeah.,00:23:51
+dncyaqi,219,tutor,"Because 25% is— so when you take 75%— that means it's 3/4 of 100, right?",00:23:52
+dncyaqi,220,student,Yeah.,00:24:02
+dncyaqi,221,tutor,"75 means 3/4 of 100, right?",00:24:03
+dncyaqi,222,tutor,Yeah.,00:24:06
+dncyaqi,223,student,So how will you find out the 3/4?,00:24:06
+dncyaqi,224,tutor,You divide 3 by 240.,00:24:10
+dncyaqi,225,student,Sorry?,00:24:13
+dncyaqi,226,tutor,"No, wait. 75, then— [unclear] 75 is 1/3.",00:24:15
+dncyaqi,227,student,Are you sure 75 is 1/3?,00:24:22
+dncyaqi,228,tutor,"No, wait, it's 3/4.",00:24:25
+dncyaqi,229,student,"It's 3/4, right? So if you want to find out 3/4, then you have to divide it by 4 and you have to times it by what number? By 3. By 3. First you can find out the one quarter. So 60. Yeah, so 60 times 3, right? Exactly. So now, did you understand? Yeah, I understand. So, okay, so you know 50 is a half, 25 is one quarter, and 75 is, um, let me think. [unclear]",00:24:27
+dncyaqi,230,tutor,Yeah.,00:25:05
+dncyaqi,231,student,"75% means it's 3/4 of 100, right?",00:25:06
+dncyaqi,232,tutor,"Yeah, so... [unclear]",00:25:12
+dncyaqi,233,student,It's 120.,00:25:18
+dncyaqi,234,tutor,Are you sure? 120?,00:25:21
+dncyaqi,235,student,"Wait, 60 times...",00:25:24
+dncyaqi,236,tutor,"60 times 3, right? Yeah. Okay, so 60 times 2, what would be the answer? 120. 3 times 6? [unclear] Yeah. 3. Wait, can I try it as a column method? Yeah. Short multiplication method, can you try? Yeah, 3 times 0 is 3. Okay, that 3 times 6 is 18 or 180. [unclear]",00:25:28
+dncyaqi,237,tutor,"Exactly, 180, right? So now, did you understand how to find 3/4 of an amount?",00:26:04
+dncyaqi,238,student,Yeah.,00:26:12
+dncyaqi,239,tutor,"Okay, okay. Uh, so, Percy, now can you take me through the steps again and explain it to me how you will find out",00:26:13
+dncyaqi,240,tutor,75%.,00:26:23
+dncyaqi,241,student,So how I found 25%?,00:26:25
+dncyaqi,242,tutor,75%. How will you find out?,00:26:27
+dncyaqi,243,student,"So first, you know, you know it's 3/4, so you divide it. You divide 240 by 4 first of all. Then after, after that, you, um, you divide. Then, well, then you times 3. No, yeah, you times 3 by the, um, the quarter. By the quarter.",00:26:31
+dncyaqi,244,tutor,"Exactly. So first you are going to find out one quarter, and then you have to times it by 3, right, to find out 3/4?",00:26:55
+dncyaqi,245,student,Yeah.,00:27:04
+dncyaqi,246,tutor,"Okay. So, uh, [UNCLEAR]. So I think you are very confident on this topic. Now I am going to give you a challenging question. Are you ready?",00:27:05
+dncyaqi,247,tutor,Yeah.,00:27:16
+dncyaqi,248,student,"Okay, so can I try this?",00:27:16
+dncyaqi,249,tutor,"Tutor says to find 10% of a number, I divide by 10. So to find 50% of a number, I divide by 50. Do you agree?",00:27:19
+dncyaqi,250,student,No.,00:27:28
+dncyaqi,251,tutor,"Okay, so you disagree. What is the reason?",00:27:30
+dncyaqi,252,student,"Because finding 50% is not dividing by 50, because—",00:27:34
+dncyaqi,253,tutor,"Okay. [Speaker] If you divide it by 50, it's just— it's not right because you know 50% is the same as 2. 50% is the same as half.",00:27:39
+dncyaqi,254,tutor,"Okay. [Speaker] So you have to think about it and say, you see, 50% is the same as— [unclear]",00:27:51
+dncyaqi,255,tutor,"Half, right? [Speaker] Half. So you actually divided it by half.",00:27:57
+dncyaqi,256,tutor,"Okay. So when you take this 10%, now can you write down the as a fraction, this 10%?",00:28:02
+dncyaqi,257,student,"Can you repeat that, please?",00:28:13
+dncyaqi,258,tutor,"Okay, so when you take this 10%, can you write it as a fraction over here? [unclear]",00:28:15
+dncyaqi,259,student,One-third.,00:28:26
+dncyaqi,260,tutor,"Exactly. 10 over 100, that is 1/10, right?",00:28:34
+dncyaqi,261,background,Yeah.,00:28:39
+dncyaqi,262,tutor,"So if you want to find out the 10% of an amount, so you can see the denominator is 10, so you have to divide it by 10, right?",00:28:40
+dncyaqi,263,background,Yeah.,00:28:49
+dncyaqi,264,tutor,"Okay, so when you, uh, can you write this 50% as fraction?",00:28:50
+dncyaqi,265,background,50% as fraction?,00:28:55
+dncyaqi,266,tutor,Yeah.,00:28:58
+dncyaqi,267,background,So you can do 50,00:28:59
+dncyaqi,268,tutor,"Okay, 50 hundreds. So can you simplify that?",00:29:01
+dncyaqi,269,student,"Yes, 2 tens.",00:29:07
+dncyaqi,270,tutor,"So if you simplify, what do you have to write?",00:29:10
+dncyaqi,271,student,You can do 5 tens.,00:29:15
+dncyaqi,272,tutor,"Okay, can you simplify it again? 5 tens?",00:29:17
+dncyaqi,273,student,"Uh, yeah, 2 tens. [unclear]",00:29:22
+dncyaqi,274,tutor,"2/4, I believe.",00:29:29
+dncyaqi,275,student,Are you sure?,00:29:31
+dncyaqi,276,tutor,Yeah.,00:29:33
+dncyaqi,277,student,"Okay, so how did you get 2/4? Can you explain it to me?",00:29:34
+dncyaqi,278,tutor,"Because I know 50% is half, then 1/3 is half, then 2/4 is half, also half.",00:29:38
+dncyaqi,279,student,"Now you know 5/10, right?",00:29:46
+dncyaqi,280,tutor,Yes.,00:29:49
+dncyaqi,281,student,"Okay, so 5/10, can you simplify? How many, uh, How many 5s are there in 10?",00:29:49
+dncyaqi,282,background,"Uh, 2.",00:29:56
+dncyaqi,283,tutor,2. So what is the numerator?,00:29:58
+dncyaqi,284,background,2.,00:30:01
+dncyaqi,285,tutor,How many 5s are there in 1?,00:30:03
+dncyaqi,286,background,1.,00:30:07
+dncyaqi,287,tutor,"1, right? So if you simplify 1500—",00:30:08
+dncyaqi,288,background,It's a half. [unclear],00:30:12
+dncyaqi,289,tutor,"1/2, right?",00:30:13
+dncyaqi,290,background,"Yeah, I did.",00:30:16
+dncyaqi,291,background,Yeah.,00:30:20
+dncyaqi,292,tutor,"Okay, no problem, Percy. So you can see, if you want to find out 50% of a number, then you have to divide it by what number?",00:30:21
+dncyaqi,293,background,You have to divide it by 2.,00:30:31
+dncyaqi,294,tutor,"Divide it by 2, right?",00:30:33
+dncyaqi,295,background,Yes.,00:30:35
+dncyaqi,296,tutor,"So very good explanation on that, Percy. So with this, you can tell that Tara is wrong, right?",00:30:35
+dncyaqi,297,background,Yeah.,00:30:43
+dncyaqi,298,tutor,"Okay, so can you— okay, so",00:30:44
+dncyaqi,299,tutor,Now can you take me through the steps again and explain it to me? Why do you think that it's wrong?,00:30:49
+dncyaqi,300,student,So I think that he's wrong because 50% is basically a half. It's not divided by 10 because you don't divide it by 50 because it's a half. You divide it by 2 because 2 is the same as 50 and it's a half.,00:30:57
+dncyaqi,301,tutor,"Exactly. So 50% means it's half of 100, right?",00:31:15
+dncyaqi,302,student,Yeah.,00:31:20
+dncyaqi,303,tutor,"So you have to divide it by half. Okay, okay, Percy. So Percy, now we have completed this lesson, okay?",00:31:21
+dncyaqi,304,student,Yeah.,00:31:30
+dncyaqi,305,tutor,"So before we move on to the next lesson, can you tell me, do you have any doubts?",00:31:31
+dncyaqi,306,student,No.,00:31:37
+dncyaqi,307,tutor,No. Are you clear? Are you very clear on this?,00:31:39
+dncyaqi,308,student,Yes.,00:31:42
+dncyaqi,309,tutor,"Okay. So before we move on to the next slide, shall we soon summarize what we learned today?",00:31:43
+dncyaqi,310,student,Yes.,00:31:50
+dncyaqi,311,tutor,"Okay. So what did you— what are the new things you learned today, Percy?",00:31:53
+dncyaqi,312,student,"So I learned the— I didn't really learn anything new, but—",00:31:59
+dncyaqi,313,student,"Like, like, like 75.",00:32:09
+dncyaqi,314,tutor,Exactly.,00:32:14
+dncyaqi,315,student,Yes.,00:32:16
+dncyaqi,316,tutor,"Today you learn how to find out the 75% in a [unclear] amount, right?",00:32:16
+dncyaqi,317,student,Yeah.,00:32:23
+dncyaqi,318,tutor,"So earlier you know how to find out 50%, 25%, 10%, and 1. Today you learn how to find out 75%, right?",00:32:25
+dncyaqi,319,tutor,Yeah.,00:32:34
+dncyaqi,320,background,Okay.,00:32:35
+dncyaqi,321,tutor,"So now can you tell me, 25% is same as what? Can you tell me in fraction?",00:32:36
+dncyaqi,322,background,1/4.,00:32:44
+dncyaqi,323,tutor,"1/4, right? So 50% is how will you write it as fraction?",00:32:47
+dncyaqi,324,background,1/2.,00:32:52
+dncyaqi,325,tutor,1/2. 75%?,00:32:54
+dncyaqi,326,background,"3/4. 3/4, right?",00:32:56
+dncyaqi,327,tutor,Yes.,00:33:06
+dncyaqi,328,student,"Okay, so now— [unclear]",00:33:07
+dncyaqi,329,tutor,Hello?,00:33:09
+dncyaqi,330,student,50% of an out—,00:33:13
+dncyaqi,331,tutor,"Hello, can you hear me, Posi?",00:33:16
+dncyaqi,332,student,"Yes, yeah, I can hear you.",00:33:18
+dncyaqi,333,tutor,"Okay, so if you want to find out 50% of 240, what do you have to do?",00:33:20
+dncyaqi,334,student,/2.,00:33:20
+dncyaqi,335,tutor,/2. Why do you have to divide it by 2?,00:33:20
+dncyaqi,336,student,Because 50% is a half.,00:33:20
+dncyaqi,337,tutor,"Exactly. So if you want to find out 25%, what do you have to do?",00:33:37
+dncyaqi,338,student,You divide it by 4.,00:33:42
+dncyaqi,339,tutor,"4, right? So why do you have to divide it by 4?",00:33:46
+dncyaqi,340,student,"Because if you divide it by 4, because 25% is the same as [unclear]",00:33:50
+dncyaqi,341,tutor,"Exactly, it's 1/4, right?",00:33:55
+dncyaqi,342,student,Yes.,00:34:00
+dncyaqi,343,tutor,"Okay, so what about 10%? How will you find out 10% of 240?",00:34:00
+dncyaqi,344,student,So I found out 10% of 240.,00:34:07
+dncyaqi,345,tutor,Okay.,00:34:13
+dncyaqi,346,student,"Miss, I just noticed my laptop, my Chromebook is about to die. 240 divided by 10, right? Yeah. Okay, so what about 1 percentage? What do you have to do? You have to divide it by 100. Okay, so very good job, [UNCLEAR]. So now can you tell me, how will you find out 75 percentage? So you have to do 3— you have to do 3, 4 times, uh, 4 divided by 240. Then, then you do 7, you do something, then you do 3 times the quarter.",00:34:15
+dncyaqi,347,tutor,"Exactly. So you have to divide it by 4 and then you have to times the answer by 3, right?",00:35:02
+dncyaqi,348,student,Yeah.,00:35:10
+dncyaqi,349,tutor,"Okay, okay. Uh, Pussy. So I think you're very confident. So shall we move on to the next lesson, Pussy?",00:35:11
+dncyaqi,350,background,Yeah.,00:35:20
+dncyaqi,351,tutor,"Okay, so we'll move on to the next lesson.",00:35:22
+dncyaqi,352,background,Yeah.,00:35:29
+dncyaqi,353,tutor,"Okay, here we go. So today here we are going to learn how to to find factors. Okay, so can you tell me, can you try this question for me? Write off the factors of 12. So, so, 2. [unclear]",00:35:34
+dncyaqi,354,tutor,"Okay, can you write down all the factors?",00:35:51
+dncyaqi,355,student,"2— no, 1, my bad. 1, 2, 3, 3, 4, 6. That's it.",00:35:54
+dncyaqi,356,tutor,"Okay, so very good working out, Alistair. So can you explain your answer?",00:36:13
+dncyaqi,357,student,"Because they have to be multiples of 12. So like 1 times 12 is 12, 2 times [unclear] is 6.",00:36:21
+dncyaqi,358,tutor,What number will give you 12?,00:36:29
+dncyaqi,359,background,"1 times 1 is 12. I mean, 1 times 12 is 12.",00:36:32
+dncyaqi,360,tutor,1 times 12 is 12. So is 12 a factor of 12?,00:36:36
+dncyaqi,361,background,"Yeah, 12, also 12.",00:36:42
+dncyaqi,362,tutor,Exactly. So 1 times 12 and 2 times?,00:36:44
+dncyaqi,363,background,2 times 6.,00:36:49
+dncyaqi,364,tutor,Okay. And 3 times?,00:36:51
+dncyaqi,365,background,4.,00:36:53
+dncyaqi,366,tutor,"Okay. So now can you tell me, what do you mean by a factor? I mean, like, like two numbers that multiply, like they multiply together to make the number.",00:36:54
+dncyaqi,367,tutor,"Exactly, the numbers that we multiply together to get another number, right?",00:37:08
+dncyaqi,368,student,Yeah.,00:37:15
+dncyaqi,369,tutor,"Okay, okay, [UNCLEAR]. So shall we move on to the next slide?",00:37:17
+dncyaqi,370,student,Yep.,00:37:17
+dncyaqi,371,tutor,"Okay, here we go. So I have four questions for you. So can you try all these questions on your own, and after that we'll discuss? [Speaker] All right. Which of these numbers is not a factor of 14? Um, 2, 5. So which of these? Not 5.",00:37:22
+dncyaqi,372,tutor,"Okay, so you can [UNCLEAR]. [Speaker] Yeah, 5.",00:37:45
+dncyaqi,373,tutor,"You can finish all the questions and then we'll discuss, okay?",00:37:52
+dncyaqi,374,student,"Okay. 5. Yeah, that's [UNCLEAR]. Which of these numbers is not a factor of 46? 25. Yeah, 25. 26 too.",00:37:56
+dncyaqi,375,tutor,you choose a factor. Write factors of 8.,00:37:56
+dncyaqi,376,student,"Okay. 2, 4, 1, 8.",00:37:56
+dncyaqi,377,tutor,Write factors of 28.,00:38:35
+dncyaqi,378,student,"2, 4, [unclear]",00:38:38
+dncyaqi,379,tutor,Yeah.,00:39:03
+dncyaqi,380,student,"Wait, I think— no, 9 times 3, 27.",00:39:04
+dncyaqi,381,tutor,"6? No, 4. No, we already have 4 though. [unclear]",00:39:14
+dncyaqi,382,tutor,You can?,00:39:27
+dncyaqi,383,student,Yeah.,00:39:36
+dncyaqi,384,tutor,"[unclear] You can ask from me, okay?",00:39:37
+dncyaqi,385,student,"Yeah. 8, no, 8, 2 is 28. Wait, there's 8 is 24. Listen, talk. No, you can't. Wait, 3. It's not 3. It's— I think I need help.",00:39:41
+dncyaqi,386,tutor,"Okay, no problem. So here you can— you have to write down the factors of 20. 28, right?",00:40:24
+dncyaqi,387,tutor,Yeah.,00:40:31
+dncyaqi,388,student,So earlier you told me 20 factors. What do you mean by factors?,00:40:31
+dncyaqi,389,tutor,Like 2 multiples that make 28.,00:40:36
+dncyaqi,390,student,"Exactly. 2 numbers that are multiplied together to get another number, right? So you know here when you take 28, you know it's definitely a multiple of 2, right?",00:40:40
+dncyaqi,391,tutor,Yeah.,00:40:54
+dncyaqi,392,student,"So how do you know that? Because I know it— because look, if you look at the [UNCLEAR], it's 8. 2 are always even. Exactly. If it is an even number, that means it's a multiple of 2, right? Yeah. So here you have times 1 times 28, right? Yeah. 1 times 28 will give you 28. So 1 and 28 are factors of",00:40:55
+dncyaqi,393,tutor,"28. Then next number you have written 4 times 7, right?",00:41:22
+dncyaqi,394,student,Yes.,00:41:27
+dncyaqi,395,tutor,So you know 4 times 7 is 28.,00:41:28
+dncyaqi,396,student,Yes.,00:41:32
+dncyaqi,397,tutor,Then what about 2 times what number will give you 28?,00:41:32
+dncyaqi,398,student,"Oh, um, 2 times? Okay, so very good job. So 2 times 14 will give you 28, right?",00:41:38
+dncyaqi,399,student,Yeah.,00:41:59
+dncyaqi,400,tutor,"So now, did you understand?",00:42:00
+dncyaqi,401,student,Yeah.,00:42:02
+dncyaqi,402,tutor,"Okay, so to make this calculation easy, I will show you how you can write this. Okay, so first, here you can see I am going to write 1. One is a factor of all the numbers, right?",00:42:03
+dncyaqi,403,background,"Yeah, that's true.",00:42:18
+dncyaqi,404,tutor,"One, and I am going to write 28 here. You know, 1 times 28 will give you 28. And then the next factor after 1, you know, 2.",00:42:19
+dncyaqi,405,background,Yes.,00:42:30
+dncyaqi,406,tutor,2 times what number will give you 28?,00:42:30
+dncyaqi,407,background,14.,00:42:33
+dncyaqi,408,tutor,"14. So I am going to write 2 times 14 will give you 28, right? So now can you tell me, 3— is 3 a factor of 28? [unclear] No, right? There is no— 3 is not a factor. So what about 4? 4 times 7. 4 times 7, right? Yeah. So now did you understand? If you write like this, then you can easily find out, right? Yep. So you have to write down the factor pairs. Can you see? Now you have written the answers in ascending order, right?",00:42:35
+dncyaqi,409,student,Yes.,00:43:13
+dncyaqi,410,tutor,"Okay, so did you understand now?",00:43:14
+dncyaqi,411,student,Yeah.,00:43:17
+dncyaqi,412,tutor,"Okay, so can you explain your first answer?",00:43:18
+dncyaqi,413,student,So my first answer is which of these numbers is not a factor of 14? I straight away knew it was 5 because a number that don't end in 0 or 5 is the [UNCLEAR].,00:43:22
+dncyaqi,414,tutor,"Exactly, exactly. If it is a multiple of 5, that means the number ends in 0 or 5, right?",00:43:22
+dncyaqi,415,student,Yeah.,00:43:44
+dncyaqi,416,tutor,"Okay, so very good job, uh, for C. So what about the B part?",00:43:45
+dncyaqi,417,student,"So B, I'll give it 25 because 25 times 1 is 25, and the next one will be more than 26, obviously.",00:43:51
+dncyaqi,418,tutor,"Exactly. So 25 will not be a multiple of 26, right?",00:44:00
+dncyaqi,419,student,Yeah.,00:44:05
+dncyaqi,420,tutor,"Okay, so what about the third one?",00:44:05
+dncyaqi,421,student,"This— so I just— I do factors of it. I do 2 times 4 is 8, and 1 times— uh, what— 1 times 8 is 8.",00:44:09
+dncyaqi,422,tutor,"Okay, so now hereafter, when you are writing factors, you can follow these steps, okay? Then you will not miss anything. Okay?",00:44:18
+dncyaqi,423,student,Yeah.,00:44:27
+dncyaqi,424,tutor,"Okay, Posi. So very good job on this slide, Posi. Posi, so the time is up for today. We'll stop for today and we'll continue this lesson next week, okay?",00:44:28
+dncyaqi,425,student,Yeah.,00:44:37
+dncyaqi,426,tutor,"So before we wrap up, can you tell me what did you learn in this lesson?",00:44:38
+dncyaqi,427,student,"I learned that if you put it in ascending order, it's way more easier.",00:44:44
+dncyaqi,428,tutor,"Exactly. And what do you mean by a factor? So two multiple, two numbers that multiply together to make the [UNCLEAR].",00:44:50
+dncyaqi,429,tutor,Right.,00:44:50
+dncyaqi,430,student,Yeah.,00:45:06
+dncyaqi,431,tutor,"Okay, okay, Osi. So we'll stop for today and we'll continue this lesson next week, okay?",00:45:07
+dncyaqi,432,student,Yeah.,00:45:14
+dncyaqi,433,tutor,"So Osi, after I end the session, please do the quiz, okay?",00:45:14
+dncyaqi,434,student,Yeah.,00:45:18
+dncyaqi,435,tutor,"Okay, bye-bye. Have a great week.",00:45:19
+dncyaqi,436,student,"Bye, have a great week.",00:45:22
+dncyaqi,437,tutor,Thank you.,00:45:24

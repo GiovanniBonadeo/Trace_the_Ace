@@ -1,0 +1,379 @@
+session_id,utterance_id,role,content,timestamp
+eidoins,0,tutor,Hello? Hello? [unclear],00:00:00
+eidoins,1,student,"Hello, can you hear me?",00:00:02
+eidoins,2,tutor,Yes.,00:00:07
+eidoins,3,student,"Hi, how are you?",00:00:07
+eidoins,4,tutor,"I'm fine, and you?",00:00:10
+eidoins,5,student,"I'm doing great, thank you for asking. How has your day been so far?",00:00:14
+eidoins,6,tutor,It has been good.,00:00:17
+eidoins,7,student,Okay. So how was your holiday? Did you have fun?,00:00:19
+eidoins,8,tutor,Yes.,00:00:23
+eidoins,9,student,Yes? What did you do?,00:00:24
+eidoins,10,tutor,I went to like places with my family and like just had some family time.,00:00:27
+eidoins,11,student,"Oh, that's interesting. Okay.",00:00:34
+eidoins,12,tutor,So are you ready for today's session?,00:00:36
+eidoins,13,student,Yep.,00:00:38
+eidoins,14,tutor,"Yeah, okay. So we started this lesson ordering numbers up to 1 million in our last session. So today we are going to conclude that, alright?",00:00:40
+eidoins,15,student,Okay.,00:00:49
+eidoins,16,tutor,"Good. Okay, so I did this question. Do you remember how I did it? Or do you want me to repeat?",00:00:50
+eidoins,17,student,"Can you repeat it, please?",00:00:55
+eidoins,18,tutor,Yes. So this population needs to be put in ascending order. Do you know what ascending order means?,00:00:58
+eidoins,19,student,Is it biggest to smallest? [unclear],00:01:05
+eidoins,20,tutor,Ascending order means it is from the smallest number to the largest number.,00:01:12
+eidoins,21,student,Yeah.,00:01:17
+eidoins,22,tutor,"Okay. Yeah. Now let's look at the first question. First check what order we need to put the towns in, smallest to largest or largest to smallest. What is it?",00:01:19
+eidoins,23,background,Smallest to largest.,00:01:31
+eidoins,24,tutor,That's correct.,00:01:33
+eidoins,25,tutor,Identify the smallest and the largest number. So can you please tell me which number do you think is the smallest one?,00:01:36
+eidoins,26,student,This one.,00:01:44
+eidoins,27,tutor,Well done. And why is it?,00:01:45
+eidoins,28,student,Because it has less digits than the other ones.,00:01:48
+eidoins,29,tutor,"Excellent. That's correct. So it's going to be 8,700. And which one is the largest one here? [unclear]",00:01:51
+eidoins,30,background,These are all the same. These two are different.,00:01:59
+eidoins,31,student,This one.,00:02:05
+eidoins,32,tutor,Well done. Why did you pick that one?,00:02:08
+eidoins,33,student,"Because these are the same and these two are different, so... and then you can look at these or you can just look at the last digits, then you can tell that 3 is greater than 2.",00:02:10
+eidoins,34,tutor,That's correct. Well done. So how do we read this number?,00:02:30
+eidoins,35,student,"Uh, 392,000, 101, 140.",00:02:35
+eidoins,36,tutor,"Excellent. So we can annotate the table from 1 to 5, with 1 being the smallest and 5 being the largest. So we know this one is the smallest, so I'm going to put 1 here. And we know this one is the largest, so I'm going to put a 5 here. Okay, so which one is the second smallest?",00:02:43
+eidoins,37,student,So this one.,00:03:01
+eidoins,38,tutor,Well done. And which one is the third one?,00:03:09
+eidoins,39,student,This.,00:03:14
+eidoins,40,tutor,"Well done. So this is going to be 3, this is going to be 4, and 5 is already marked. So do you— did you understand how I did this question?",00:03:14
+eidoins,41,student,Yes.,00:03:25
+eidoins,42,tutor,Now it's your turn. Please go ahead and try this. Let me know if you need any help.,00:03:26
+eidoins,43,background,So descending order is from largest smallest.,00:03:30
+eidoins,44,tutor,That's correct.,00:03:35
+eidoins,45,student,"So, uh, what this is— so this one is the largest, 6, then 9, then [UNCLEAR]. 998. Yeah.",00:03:41
+eidoins,46,tutor,Then,00:04:03
+eidoins,47,student,"the smallest is... 642652. Then [unclear] annotate the table from 1 to 5, with 1 being the largest and 5 being the smallest. Smallest. So this— so this is the largest, so 5, and the smallest is this one. So the second largest is— [unclear]",00:04:04
+eidoins,48,student,"The largest, so this one. [unclear]",00:04:46
+eidoins,49,tutor,"No. I mean, the second smallest is this. Oh, wait, no. So, first of all, this one. This is 2.",00:04:55
+eidoins,50,student,"You're going from the largest to the smallest. So, 1 is the largest, so 2 has to be the second largest.",00:05:09
+eidoins,51,tutor,Oh. [unclear],00:05:18
+eidoins,52,tutor,"So it's the opposite of this one. So you have to put number 1 to the largest, number 5 to the smallest.",00:05:23
+eidoins,53,student,"So, oh, so then it's—",00:05:34
+eidoins,54,tutor,"Yes. Yeah, so that has to be the 1.",00:05:39
+eidoins,55,student,"This one's supposed to be 1, then—",00:05:44
+eidoins,56,student,This has to be 5.,00:05:49
+eidoins,57,tutor,Yes.,00:05:54
+eidoins,58,student,"And then the second largest is this one. No, this is the second largest, so this one is 2. This one is 3. And this one is 4. Done. [unclear]",00:05:56
+eidoins,59,tutor,So did you understand this question or was it difficult?,00:06:22
+eidoins,60,student,"It was difficult at first, but then I managed to do it.",00:06:33
+eidoins,61,tutor,"Okay, that's great. So here are some more questions. Please try this. Let me know if you need any [UNCLEAR].",00:06:44
+eidoins,62,student,"Okay. Order these numbers by matching them to the correct place on the number line. So, okay, so, hmm. Around here. So here is A. That looks so weird.",00:06:44
+eidoins,63,tutor,How do you [UNCLEAR]?,00:07:26
+eidoins,64,student,So this is A. Then,00:07:26
+eidoins,65,tutor,"This is maybe around here somewhere. So, D, B, and then—",00:07:38
+eidoins,66,student,You have to count the digits and see how it is.,00:07:49
+eidoins,67,tutor,Oh. [unclear] So—,00:07:58
+eidoins,68,student,So it's around— [unclear],00:08:09
+eidoins,69,tutor,Okay.,00:08:18
+eidoins,70,student,"Then this one's B, and then C, and then C is— [unclear]",00:08:23
+eidoins,71,tutor,C.,00:08:40
+eidoins,72,student,[unclear],00:08:43
+eidoins,73,tutor,D is here. No. B is there. [unclear],00:08:45
+eidoins,74,tutor,Done.,00:09:10
+eidoins,75,student,Okay.,00:09:13
+eidoins,76,tutor,Okay.,00:09:16
+eidoins,77,student,Yeah. So now I'll ask you a question. Is your class teacher inside your classroom right now?,00:09:18
+eidoins,78,tutor,No. Is there an adult in the classroom?,00:09:25
+eidoins,79,tutor,Yes.,00:09:31
+eidoins,80,student,"Can I speak to them? Because the background noise is very high, so I can't hear you.",00:09:33
+eidoins,81,tutor,"Oh, okay. [unclear]",00:09:42
+eidoins,82,student,There are 2 foreign adults. There are 2 foreign adults.,00:09:46
+eidoins,83,tutor,Hello?,00:10:07
+eidoins,84,student,[unclear],00:10:08
+eidoins,85,tutor,"Hi there, I'm the adult.",00:10:08
+eidoins,86,student,"Oh, hi. So the noise is pretty high, so I can't hear my students.",00:10:11
+eidoins,87,tutor,"Okay, we'll try and get all the children to speak a bit quieter in the room, okay? All right, thank you so much.",00:10:17
+eidoins,88,tutor,Okay. [unclear],00:10:24
+eidoins,89,student,"Hello? Hello, Callum, are you there?",00:10:28
+eidoins,90,tutor,Yes.,00:10:33
+eidoins,91,student,"All right. So I'll ask you a question. Do you think 100,000 and 500,000 is close? Because D is 100,000 and this is 500,000. So do you think that would be that close?",00:10:33
+eidoins,92,tutor,"No, it's maybe around 5.",00:10:50
+eidoins,93,student,"Does that make sense? Now let's make it to a small enough. Yeah, let's say this is 50 and you have marked 10 over here. Is it correct?",00:10:56
+eidoins,94,tutor,No.,00:11:05
+eidoins,95,student,"No? So where would you mark it? Here. 1, 2, 3, 4, 5, 6. 1, 2, 3, 4, 5, 6. [unclear] I'm not sure.",00:11:07
+eidoins,96,tutor,"Okay, so this is 500,000 and this is 100,000, right?",00:11:37
+eidoins,97,tutor,So how do we read this number?,00:11:48
+eidoins,98,student,102. [unclear],00:11:52
+eidoins,99,tutor,"102,000.",00:11:56
+eidoins,100,student,"3,039.",00:12:01
+eidoins,101,tutor,"Yeah, 102,399. There you go. So now this is 500,000 and I'm asking where would you mark 100,000? Is it after 500,000 or before 500,000?",00:12:03
+eidoins,102,tutor,"Before 500,000.",00:12:24
+eidoins,103,student,"Well done. So is it really close to 500,000 or is it a little bit far away from 500,000?",00:12:28
+eidoins,104,tutor,A little bit far away. [unclear],00:12:37
+eidoins,105,tutor,"So can you please mark D somewhere over here, please? [unclear] Like here? [Speaker] Here.",00:12:41
+eidoins,106,tutor,"Okay. [Speaker] Yeah. [Speaker] So here, then, and then—",00:12:51
+eidoins,107,tutor,"That could be— [Speaker] D. D, and then I'll erase.",00:12:55
+eidoins,108,tutor,Where would you mark— [unclear] [Speaker] Hello.,00:13:03
+eidoins,109,student,"Um, it will be before 9500 and [UNCLEAR], so around here somewhere?",00:13:11
+eidoins,110,background,"Yeah, yeah.",00:13:11
+eidoins,111,student,Huh?,00:13:29
+eidoins,112,tutor,Hello?,00:13:39
+eidoins,113,student,Hello? Hello? Can you hear me?,00:13:39
+eidoins,114,tutor,"So, yes.",00:13:42
+eidoins,115,student,Hello? Okay.,00:13:43
+eidoins,116,tutor,Is it around here somewhere?,00:13:44
+eidoins,117,student,"Yes, it's around. Yeah.",00:13:45
+eidoins,118,tutor,Okay.,00:13:48
+eidoins,119,student,Yeah. You can mark the B over there.,00:13:48
+eidoins,120,tutor,"Then here, and then B.",00:13:52
+eidoins,121,student,"Yes. And C, it is not wrong. But it would be even more accurate if you mark it somewhere around here. Okay?",00:14:00
+eidoins,122,student,Okay.,00:14:08
+eidoins,123,tutor,You can put C there.,00:14:09
+eidoins,124,student,Huh?,00:14:16
+eidoins,125,tutor,You can write letter C under this one.,00:14:17
+eidoins,126,student,Okay. [unclear],00:14:20
+eidoins,127,tutor,All right. So did you understand this or was it difficult?,00:14:21
+eidoins,128,student,It was difficult.,00:14:33
+eidoins,129,tutor,"Okay, so are you clear now or are you still confused? If you're confused, let me know. I can teach you that again.",00:14:37
+eidoins,130,student,I'm still confused.,00:14:44
+eidoins,131,tutor,Okay. Thank you. Now which part is difficult for you? Is it like figuring out if it is after this or before this or which one is the [unclear] part is difficult?,00:14:47
+eidoins,132,tutor,Like the before and after. Hello? [unclear],00:15:02
+eidoins,133,tutor,Hello?,00:15:29
+eidoins,134,student,Hello?,00:15:30
+eidoins,135,tutor,Hello?,00:15:34
+eidoins,136,student,"Hello, can you hear me?",00:15:37
+eidoins,137,tutor,"Yes, yes.",00:15:39
+eidoins,138,student,"Hello, can you hear me? [unclear] What is my voice?",00:15:41
+eidoins,139,tutor,"There's just like, uh, it's a bit glitchy.",00:15:48
+eidoins,140,tutor,Hello?,00:16:22
+eidoins,141,student,Hello? [unclear],00:16:24
+eidoins,142,tutor,Can you hear me now?,00:16:26
+eidoins,143,student,Yeah.,00:16:28
+eidoins,144,tutor,"Alright, great. So I'll explain this to you again, okay? So as you can see in this number line, they have given us 0, 500,000, and 1 million, okay? And now what they have given us is they have given us 4 numbers where we have to put them in the right place, right? Are you okay with the question?",00:16:28
+eidoins,145,student,"Uh, yes.",00:16:48
+eidoins,146,tutor,"Yes. Okay. So if you look at this A part, you can see that is 560,456. So they have already given us 500,000. So do you think 560,000 would be a lot closer to 500,000?",00:16:50
+eidoins,147,student,Yes. [unclear],00:17:07
+eidoins,148,tutor,"Yes. So that's why we mark A over here. Do you want to understand A part? Yes. Yes, hello? [unclear] So as you can see, A, C, and D— is my voice cutting off?",00:17:11
+eidoins,149,student,"Yeah, it's like a big— it's just too glitchy here.",00:17:35
+eidoins,150,tutor,"Really? Okay, so can you please give me a second? I will refresh too.",00:17:40
+eidoins,151,tutor,And I enjoyed that. [unclear] [unclear],00:17:44
+eidoins,152,tutor,Hello? Hello?,00:18:29
+eidoins,153,student,"Hello, can you hear me now?",00:18:32
+eidoins,154,tutor,Yes.,00:18:35
+eidoins,155,student,"Okay, really sorry about that.",00:18:38
+eidoins,156,tutor,It's okay.,00:18:40
+eidoins,157,student,"So, now if you look at B, you can say this is the only number here that has 5 digits. Do you see that?",00:18:41
+eidoins,158,tutor,Yes. And all the others have how many digits?,00:18:50
+eidoins,159,student,6.,00:18:56
+eidoins,160,tutor,"Okay. So, now do you think this one would be the smallest number? Smallest digit here or the largest digit here?",00:18:59
+eidoins,161,student,The smallest digit.,00:19:07
+eidoins,162,tutor,"Yes, so that's why you can't mark it here because this 500,000 over here has 6 digits. So since this is the smallest one, we have to mark it before 500,000. Do you understand that?",00:19:10
+eidoins,163,student,Yes.,00:19:26
+eidoins,164,tutor,"Yes, and this is the only number here that is lot closer to 0. So that's why we mark B over here. Are you clear with B part?",00:19:27
+eidoins,165,student,Yes.,00:19:40
+eidoins,166,tutor,"Yes. Now let's move on to the third one. So this is 872,650. Now we know the halfway point, which is 500,000. So where would you mark 872,000? A lot closer to 500,000 or a lot closer to 1 million? Which one would be more accurate?",00:19:41
+eidoins,167,tutor,A lot closer to 1 million.,00:20:01
+eidoins,168,student,That's correct. So that's why we mark C over there. Are you okay with that?,00:20:03
+eidoins,169,tutor,Yes.,00:20:07
+eidoins,170,student,"Yes. And the last one, 102,399. So we already marked 90,000 here. So 100,000, do you think it is a lot closer to B? [unclear] What do you think?",00:20:09
+eidoins,171,student,"Can you repeat the question, please?",00:20:25
+eidoins,172,tutor,"Yes, I can. So this is 90,000 because you already marked B, which is 90,000. So do you think this 100,000 would be closer to that or no?",00:20:29
+eidoins,173,student,No.,00:20:42
+eidoins,174,background,No.,00:20:42
+eidoins,175,student,No.,00:20:42
+eidoins,176,background,No.,00:20:43
+eidoins,177,tutor,"Yeah, what do you think?",00:20:43
+eidoins,178,student,It'll be close.,00:20:45
+eidoins,179,background,You can tell me what you think.,00:20:48
+eidoins,180,student,"Yes, it's going to be [unclear] because 90,000 and the next one is going to be 102,000. So that's why we mark it over here. Are you clear?",00:20:50
+eidoins,181,tutor,Yes.,00:20:59
+eidoins,182,student,"Okay, I know these numbers are a lot bigger, so it could be a little confusing. Don't worry about it. When we are doing these type of questions, you will understand it. Okay?",00:21:01
+eidoins,183,tutor,Okay.,00:21:11
+eidoins,184,student,"Alright, so can you please try the second question now? [unclear]",00:21:11
+eidoins,185,tutor,"Okay. So, make 3 different 6-digit numbers using all the digit cards. Organize them in ascending order. So, ascending order is smallest to biggest?",00:21:18
+eidoins,186,student,"Well done, that's correct. Smallest to biggest.",00:21:34
+eidoins,187,tutor,"So,",00:21:39
+eidoins,188,tutor,Did you understand the question? [Speaker] Yes.,00:21:41
+eidoins,189,tutor,"Okay, perfect. [Speaker] 1, 2, 3, 4, 5. So I'll start. 9, 9, [UNCLEAR].",00:21:45
+eidoins,190,student,"I'll just make you understand the question one more time before you try it. So what you have to do is you have to use all these 6-digit cards and you have to create numbers. You can create any number you want, but the first number you're going to write has to be the smallest number. Smallest number and the last number that you're going to create should be the biggest number. [Speaker] Um, so maybe [UNCLEAR].",00:21:45
+eidoins,191,tutor,"Well done, that's correct. [Speaker] That, and then— [Speaker] Mm-hmm. [Speaker] And then like these, do I have to just choose—",00:21:45
+eidoins,192,student,"Yeah, you could just create any random number, but make sure you use all these 6 digits.",00:22:37
+eidoins,193,tutor,Okay.,00:22:42
+eidoins,194,student,"So 0, 6, 5, and then 7. And then I could use [UNCLEAR]. [unclear]",00:22:43
+eidoins,195,student,"Wait, so I could use 6 and then like maybe 7 here, right?",00:23:12
+eidoins,196,tutor,"Yeah, go ahead. Now this number has to be bigger than the first one.",00:23:18
+eidoins,197,student,"Okay, then this number has to be bigger than this one. No, so other number, other digits doesn't necessarily have to be bigger than the one. The first— now this number, you have to take it as a whole number. Now this number has to be bigger than this one, so you can just put the other digits as you want.",00:23:23
+eidoins,198,student,"Okay. So, 5. [unclear] [unclear]",00:23:49
+eidoins,199,tutor,"Oh, you're repeating 6 again.",00:24:07
+eidoins,200,student,Oh. [unclear],00:24:09
+eidoins,201,tutor,"Oh, that's okay. Shall I write it for you?",00:24:16
+eidoins,202,student,"Yes, please.",00:24:23
+eidoins,203,tutor,There you go.,00:24:25
+eidoins,204,background,Then 7. What have I not used? 0.,00:24:27
+eidoins,205,tutor,Yeah.,00:24:33
+eidoins,206,background,"And 9, I think.",00:24:34
+eidoins,207,tutor,Mm-hmm. Well done. So now the last digit number that you're going to create should be the biggest one here.,00:24:37
+eidoins,208,background,Okay. So it needs to be [UNCLEAR]. [unclear],00:24:43
+eidoins,209,tutor,7.,00:24:54
+eidoins,210,student,[unclear],00:24:55
+eidoins,211,tutor,9. 5. 1.,00:24:57
+eidoins,212,student,"Oh, you have repeated 7 again. [unclear] 0. There you go. All right. So did you understand this question?",00:25:18
+eidoins,213,background,Yes.,00:25:32
+eidoins,214,student,Do you have any questions?,00:25:32
+eidoins,215,background,No.,00:25:36
+eidoins,216,student,No. Okay. So here we are in the last,00:25:39
+eidoins,217,tutor,question of this lesson. Please read carefully and try to let me know if you need any help.,00:25:39
+eidoins,218,student,"A planet has 4 moons that orbit it and their [unclear] distances are shown below. Match each moon to its distance from the planet by writing the correct letter under each moon. So, uh,",00:25:39
+eidoins,219,background,I'm not sure what to do.,00:26:09
+eidoins,220,student,"Alright, I'll explain this question for you. So here's a planet and there are 4 moons that orbit around this planet, okay? So these are the distances and I'll just ask you a simple question. Now if a moon is a lot closer to planet, do you think the distance would be a small number or a big number?",00:26:12
+eidoins,221,background,[unclear] [Speaker]...Bigger?,00:26:32
+eidoins,222,tutor,"Okay, so let's say this is a planet, right? So there are [UNCLEAR]. So this one is rotating, this one is rotating, and all four are rotating around this planet. So if it is a lot closer to the planet, do you think the distance would be a lot, or do you think it would be less? [Speaker] Less. [Speaker] Less?",00:26:32
+eidoins,223,tutor,"Yes, if it is close, which means it is less, right? So what you have to do is you have to choose the smallest number here and put it in front of the first small. You can just write the letter. [Speaker] Okay, so... the smallest is... [unclear]",00:26:57
+eidoins,224,tutor,Excellent.,00:27:26
+eidoins,225,student,"And then the second smallest is A. [unclear] Yeah, A. And then the third smallest is T and D and E. [unclear]",00:27:28
+eidoins,226,tutor,You did an amazing job here. Well done. All right. So we are done with this first lesson. So do you have any questions or any doubts that you want to clear before we move on to the next one?,00:27:57
+eidoins,227,student,No.,00:28:13
+eidoins,228,tutor,No. Okay. So how was this lesson? Was it easy? Was it difficult? How was it?,00:28:15
+eidoins,229,student,It was a bit difficult.,00:28:21
+eidoins,230,tutor,"Okay, but did you understand it or is it still confusing?",00:28:24
+eidoins,231,student,I didn't understand yet.,00:28:29
+eidoins,232,tutor,"Alright, that's great. So shall we move on to the next lesson?",00:28:31
+eidoins,233,student,Yes.,00:28:35
+eidoins,234,tutor,"Okay. Alright, so now we are going to do knowing the value of each digit in numbers with up to 2 decimal places. Okay, can you please try this learning world question? [Speaker] Okay, so write the value of the degree of this number. So this is [unclear] 0.21?",00:28:36
+eidoins,235,tutor,"Okay, so why did you write this answer?",00:29:13
+eidoins,236,tutor,Can you please explain?,00:29:15
+eidoins,237,student,"Because there's two decimal, like there's two numbers here and then this one.",00:29:17
+eidoins,238,tutor,Yeah.,00:29:24
+eidoins,239,student,So I figured that it'll be 0.02.,00:29:25
+eidoins,240,tutor,All right. So can you please try this problem in question as well?,00:29:29
+eidoins,241,student,"Okay. So, [unclear] the greatest fraction. [unclear]",00:29:33
+eidoins,242,tutor,"If you don't know, that's fine. Take a guess.",00:29:44
+eidoins,243,student,Okay. I'll choose this one.,00:29:48
+eidoins,244,tutor,"All right. So we're done applying these two questions. So in the second one, did you just guess it or do you have an explanation?",00:29:53
+eidoins,245,student,I just guessed.,00:30:00
+eidoins,246,tutor,"All right. That's fine. So what we're going to do is we're going to learn the lesson, come back to these two questions, and see if your answers are correct. All right?",00:30:02
+eidoins,247,tutor,Okay.,00:30:09
+eidoins,248,student,Alright. So can you please read the sentence now?,00:30:10
+eidoins,249,background,We can show the size of tens and hundreds using diagram.,00:30:14
+eidoins,250,student,Yes. So have you ever heard the word tens or hundreds before?,00:30:19
+eidoins,251,background,Yeah.,00:30:24
+eidoins,252,student,"Yeah, okay. So here there are 3 diagrams over here. So this is 1 whole, okay? So this is 1 whole. This is going to be 1/10. So that means what has happened is they have divided this 1 whole into how many parts? Do you know?",00:30:25
+eidoins,253,background,[unclear],00:30:46
+eidoins,254,tutor,"Well done. So they have divided this 1 big whole into 10 parts and they have got this 1 tiny part, right? 1 tower. It's basically like a tower, yeah, right?",00:30:47
+eidoins,255,student,Yes.,00:30:58
+eidoins,256,tutor,"So this is what we call 1/10. So when they divide 1 whole into 10, we call it 1/10. Do you understand it?",00:30:59
+eidoins,257,student,Yes.,00:31:08
+eidoins,258,tutor,"Yes, so how do we write one-tenth? You put a zero, you put a decimal point, and then you write one. Okay? [unclear] And now this 100, so what has happened to 100? This has been divided by what number?",00:31:09
+eidoins,259,student,100?,00:31:26
+eidoins,260,tutor,Is it 100? From one-tenth to 100?,00:31:30
+eidoins,261,student,No.,00:31:34
+eidoins,262,student,10.,00:31:36
+eidoins,263,tutor,"10. There you go, brilliant. So again, what they have done is they have divided this into 10 to get this one tiny part. So this is what we call 100. So we put a 0 in the ones place, you put the decimal point, you put a 0 in the tens place, and in the hundreds place you put a 1. Do you understand how to write these numbers now?",00:31:37
+eidoins,264,student,Yes.,00:32:02
+eidoins,265,tutor,"Okay, now I'll just ask you a question. Let's say there are 3 parts like this. How would you write the number?",00:32:02
+eidoins,266,student,0.03.,00:32:10
+eidoins,267,tutor,"Well done, that's correct. So I hope you're clear with this, yeah?",00:32:13
+eidoins,268,student,Yes.,00:32:17
+eidoins,269,tutor,"Okay, so now let's try to do this first question. So this 3 over 10, so if 10 is the denominator, that means it is 1/10. If 100 is the denominator, that means it's 100. Okay? So just imagine there are 3 parts like this and there are 7 parts like this. Which one would be bigger? [unclear]",00:32:18
+eidoins,270,student,This one?,00:32:46
+eidoins,271,tutor,"That's correct. So there are 3 parts like this and there, even though there are 7 parts of this, it's still smaller compared to this one, right?",00:32:48
+eidoins,272,student,Yes.,00:32:57
+eidoins,273,tutor,So how would you put The signs. Do you know the crocodile mouth? [Speaker] I'm still like trying to learn them. So I'm not like really confident.,00:32:58
+eidoins,274,tutor,Confident with what? [Speaker]... [UNCLEAR],00:33:14
+eidoins,275,tutor,Are you talking about the signs? [Speaker] Yes.,00:33:16
+eidoins,276,tutor,Okay. So do you know how to use them? Do you know what this means? And do you know what this means?,00:33:24
+eidoins,277,student,Uh... not really.,00:33:30
+eidoins,278,tutor,"Okay, alright, no problem. I'll explain it to you. So this is what we call crocodile mouth, okay? So just remember, if the mouth is open, like this part is bigger compared to this part, right? So if the mouth is open, that means it is the big number. So the crocodile will eat only the big number. Just think like that, okay? So if it is a big number, You have to put this mouth open to that side. And now for example, let's say here it's 5 and here it's 15. Which number is bigger?",00:33:34
+eidoins,279,student,This one.,00:34:04
+eidoins,280,tutor,15. So the crocodile mouth will be open to this side. Do you understand it?,00:34:06
+eidoins,281,student,Yeah.,00:34:11
+eidoins,282,tutor,"Okay, can you do this one? Now let's say there's 8 over here and let's say there is— no, not [UNCLEAR]. There is 2 over here. How would you put the crocodile mouth? [unclear]",00:34:12
+eidoins,283,student,"There you go. Well done. That's correct. Let's do one more, okay? So we'll say there's 5 here and 5 here. Now what would you do?",00:34:27
+eidoins,284,background,Add an equal sign.,00:34:38
+eidoins,285,student,That's correct. So now do you know how to use it?,00:34:40
+eidoins,286,background,Yes.,00:34:43
+eidoins,287,student,"Always remember, if the number is bigger, the mouth will be open to that side, okay? Now can you please try to do this?",00:34:45
+eidoins,288,student,"So this will be the bigger side, so like that.",00:34:51
+eidoins,289,tutor,"That's correct. Well done. Alright, so now as you can see, this 100 and this 7 is bigger and 10 and 3 is smaller. But when you're thinking by imagining this diagram, you can see that this is bigger, right? Are you confused or are you clear with this part?",00:34:57
+eidoins,290,tutor,[unclear],00:35:22
+eidoins,291,student,I am Kira.,00:35:22
+eidoins,292,tutor,"Okay, so now shall we try the last question? How would you write this as a decimal number here? Is there any one holes over here?",00:35:24
+eidoins,293,student,"No, so 0.12344...",00:35:37
+eidoins,294,student,Yeah.,00:35:48
+eidoins,295,student,"4— 1, 2, 3, 4, 5, 6, 7. 0.47.",00:35:49
+eidoins,296,student,Well done. So can you please write that number here as well?,00:35:56
+eidoins,297,student,OK. [unclear],00:35:59
+eidoins,298,student,"All right. So what I'm going to do now is I'm going to take you back to this one, and I want you to think, do you think this answer is correct?",00:36:00
+eidoins,299,student,No.,00:36:16
+eidoins,300,tutor,No. So which one is the greatest fraction here?,00:36:16
+eidoins,301,student,This one. This one. This one. So [UNCLEAR].,00:36:21
+eidoins,302,tutor,"Oh, that's okay. All right. So can you please read this sentence now?",00:36:21
+eidoins,303,background,It is important to follow,00:36:38
+eidoins,304,background,"To understand the value of digits in a number, the position of the digit within a place value chart helps us understand how much it's worth.",00:36:39
+eidoins,305,student,"Okay, so here, can you tell me by looking at this, how many tens are here?",00:36:50
+eidoins,306,background,"Hmm, 2.",00:36:57
+eidoins,307,student,2. Is there any ones?,00:37:00
+eidoins,308,background,"Hmm, no.",00:37:02
+eidoins,309,student,"No, so what do we have to do? [Speaker] Add a zero. [Speaker] Add a zero and then two, then one, two, three, four, [UNCLEAR].",00:37:04
+eidoins,310,tutor,Well done. Please write it here as well. [Speaker] 0.24.,00:37:04
+eidoins,311,tutor,"Okay. All right. So have you seen something like this before, Callum?",00:37:29
+eidoins,312,student,[unclear] No.,00:37:36
+eidoins,313,tutor,Do you know what this is?,00:37:38
+eidoins,314,student,"Is it like a grid to indicate like tens, thousands, I mean, tenths, ones, and like hundreds?",00:37:41
+eidoins,315,tutor,"Yeah, it is like that. That's correct. So this is what we call a Guttineau chart, okay? So this Gutttinger chart can help us to mark these numbers. Now, do you know how to mark 0.24 in this Gutttinger chart over here?",00:37:54
+eidoins,316,background,"Uh, so, um, is it—",00:38:09
+eidoins,317,tutor,Do you want to try?,00:38:13
+eidoins,318,background,Yes. So like—,00:38:16
+eidoins,319,tutor,"Yes, go ahead.",00:38:17
+eidoins,320,background,Is it 0?,00:38:18
+eidoins,321,tutor,[unclear] That's correct.,00:38:20
+eidoins,322,student,[unclear],00:38:27
+eidoins,323,tutor,"Okay, so 0.2 is correct. And this 4 is in which place? Ones place, tenths place, or hundredths place?",00:38:27
+eidoins,324,student,Hundredths?,00:38:38
+eidoins,325,tutor,"Yes, you have to find a 4. You have to find a number where 4 is in the hundredths place.",00:38:39
+eidoins,326,student,"Okay, so this.",00:38:45
+eidoins,327,tutor,"So if you mark this 4, That would indicate it is one whole number, right? This is not one whole number. So that's why we mark it [UNCLEAR]. Do you understand it?",00:38:47
+eidoins,328,student,Yes.,00:38:47
+eidoins,329,tutor,"Yes. So when you add the 0.2 and 0.04, what do you think the answer is going to be?",00:39:00
+eidoins,330,student,0.24.,00:39:05
+eidoins,331,tutor,"That's correct. So that's how we mark these numbers in a graph in your chart, okay?",00:39:07
+eidoins,332,student,Okay.,00:39:12
+eidoins,333,tutor,"Alright, so do you have any questions or are you clear with this? I am clear.",00:39:13
+eidoins,334,tutor,"Alright, so now I'm going to do the fill-in-the-blank part. You have to do the [unclear] part. If you don't, if you have any questions, please ask me, okay?",00:39:18
+eidoins,335,student,Okay.,00:39:26
+eidoins,336,tutor,"Okay, let's look at the value of each digit for the number below. So, how do I read this number?",00:39:27
+eidoins,337,student,24.65.,00:39:34
+eidoins,338,tutor,"Okay, so when there is a decimal number, the numbers before, the digits before the decimal point, you just read it as a normal number. The ones that are after to the decimal point only, you do it separate. Now this one, you have to do it as 24.65. Do you understand it?",00:39:38
+eidoins,339,background,Yes.,00:39:57
+eidoins,340,tutor,"Okay, how would you read this then?",00:39:58
+eidoins,341,background,"Oh, 35.",00:40:02
+eidoins,342,tutor,Yeah.,00:40:04
+eidoins,343,background,35.72.,00:40:05
+eidoins,344,tutor,"There you go, well done. So the digit in the tens place is 2, so it has the value of 20. So as you can see, 2 is in the tens place, So the value is going to be?",00:40:07
+eidoins,345,student,"Uh, 2 tenths.",00:40:19
+eidoins,346,tutor,"Yeah, so 2 is in the tenths place. So the value is?",00:40:24
+eidoins,347,student,20.,00:40:30
+eidoins,348,tutor,"20, that's correct. So if 2— now we'll say there's 3 in the tenths place. So what is the value?",00:40:31
+eidoins,349,student,"Hmm, 30.",00:40:37
+eidoins,350,tutor,"30, there you go. So the digit in the tenths place is— now which digit is in the tenths place? What's this?",00:40:41
+eidoins,351,background,"Uh, 2?",00:40:51
+eidoins,352,tutor,"Tens. Not tens. As you can see, there is a difference. Do you see? This is tens and this is tenths.",00:40:53
+eidoins,353,background,"Oh, I see.",00:41:00
+eidoins,354,student,Yeah.,00:41:01
+eidoins,355,background,"Um, 6.",00:41:02
+eidoins,356,student,"6, there you go. So the value is going to be— do you know what the value is going to be? [unclear] [unclear]",00:41:04
+eidoins,357,tutor,"Yeah, that's correct. But when you are writing it as a number, you have to write the 0.6.",00:41:14
+eidoins,358,student,"Oh, okay.",00:41:22
+eidoins,359,tutor,"Yeah. And the digit in hundredths place, as you can see, the digit is 5. So the value is going to be 0.05.",00:41:24
+eidoins,360,student,Yes.,00:41:35
+eidoins,361,tutor,Yes. Did you understand this?,00:41:36
+eidoins,362,student,Yeah.,00:41:38
+eidoins,363,tutor,All right. Now it's your turn. Please go ahead and do this.,00:41:40
+eidoins,364,student,"Okay, so tenths. So the tenths is 8, and the value is 80. [unclear]",00:41:43
+eidoins,365,student,Yes.,00:41:54
+eidoins,366,background,Okay.,00:41:55
+eidoins,367,student,"Then it's the support tenths, which is 2, and then 0.2.",00:41:56
+eidoins,368,background,Yes.,00:42:06
+eidoins,369,student,And the [unclear],00:42:07
+eidoins,370,tutor,Well done. All right. So do you have any questions?,00:42:12
+eidoins,371,student,No.,00:42:23
+eidoins,372,tutor,"No? Okay. I think we have to end our session now because our time is up, okay? And you did a really good job today. Well done. Keep up your good work, all right?",00:42:25
+eidoins,373,student,Thank you.,00:42:34
+eidoins,374,tutor,"You're welcome. Please wait until the end of the session and there will be a few questions. Please make sure you do those, all right?",00:42:36
+eidoins,375,student,Okay.,00:42:41
+eidoins,376,tutor,"Okay, I hope you have a wonderful day. Bye.",00:42:42
+eidoins,377,student,Bye.,00:42:45

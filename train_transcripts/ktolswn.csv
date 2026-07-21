@@ -1,0 +1,190 @@
+session_id,utterance_id,role,content,timestamp
+ktolswn,0,tutor,Hello.,00:00:00
+ktolswn,1,background,[unclear],00:00:00
+ktolswn,2,student,Hello.,00:00:00
+ktolswn,3,tutor,"Hi, Elara. How are you today?",00:00:01
+ktolswn,4,student,"Good, thank you. How are you?",00:00:04
+ktolswn,5,tutor,"I'm doing great as well, thank you.",00:00:06
+ktolswn,6,tutor,"So, are you ready to start the session?",00:00:08
+ktolswn,7,student,Yeah.,00:00:12
+ktolswn,8,tutor,"Alright, so we are going to continue from where we stopped the last day, which is working with probabilities in Tableau. I hope you can remember.",00:00:13
+ktolswn,9,student,Yeah.,00:00:24
+ktolswn,10,tutor,"Okay, so just to refresh our memory, shall we try out this question? Alright. And what's the reason for your answer there?",00:00:25
+ktolswn,11,student,"Cos 0.3 plus 0.3 plus 0.1 plus 0.1 is 0.8, and then 1 take away 0.8 is 0.2.",00:00:37
+ktolswn,12,tutor,"Exactly. All right, so that was a wonderful explanation. All right, we can move on to the question that, uh, going to continue from, which is This one. Okay, so would you like to give this one a try?",00:00:48
+ktolswn,13,student,Yeah. [unclear] [unclear],00:01:11
+ktolswn,14,tutor,Is that the final answer for the first part?,00:01:43
+ktolswn,15,student,"What does relative frequency mean? Okay, so what does that actually mean? Relative frequency.",00:01:50
+ktolswn,16,student,How much it comes up.,00:02:01
+ktolswn,17,tutor,So what do you mean by relative? What does relative stand for? [unclear],00:02:05
+ktolswn,18,student,The thing that you need.,00:02:15
+ktolswn,19,tutor,Pardon? The thing that you need.,00:02:18
+ktolswn,20,student,"So relative is, uh, we use the term relative to compare something, right? So in this case, relative frequency. So relative frequency means you are getting the frequency, you are getting the number of trials compared to something. So here, what is the relative frequency for rolling a 6? What dice? 4. So we need to see how many times you will get a 6 when you roll the dice number 4 compared to all the times that the dice is rolled. Dice number 4 is rolled, actually. Does that make sense? [unclear]",00:02:23
+ktolswn,21,student,Yeah.,00:03:11
+ktolswn,22,tutor,"Exactly. Yes, all right. So nice understanding there, Elara. And what about the next one? [unclear] Okay, so can you give me the reasoning behind your answer there?",00:03:17
+ktolswn,23,student,"Because dice number 2 lands on 1, 2— oh wait, I think it's 4 and 3.",00:03:52
+ktolswn,24,tutor,Hmm?,00:04:05
+ktolswn,25,student,"Because, um, on dice 3, it lands on 6 the same time as 1 to 5.",00:04:07
+ktolswn,26,tutor,Okay.,00:04:14
+ktolswn,27,student,"And then on 4, it lands on, um, 6. It's like less times than 1 to 5. [unclear]",00:04:17
+ktolswn,28,tutor,"I don't know. Okay, so how can we say whether it's biased or not?",00:04:31
+ktolswn,29,student,If it has more of something.,00:04:44
+ktolswn,30,tutor,Mm-hmm.,00:04:47
+ktolswn,31,student,"Yes, so if it has more— if the frequency of rolling the die for 6 is higher compared to rolling the die for 1 to 5, then you can say that it's biased, right?",00:04:49
+ktolswn,32,student,Yeah.,00:05:06
+ktolswn,33,tutor,"So how can we say that the dice is rolled, uh, for a 6 more times to say that it's biased? How can we say that? [unclear] Because there's one number in the 6, but there's 5 in the 1 to 5.",00:05:07
+ktolswn,34,tutor,"Yeah. So when we are rolling an unbiased dice, what is the probability that you can get a 6?",00:05:31
+ktolswn,35,student,1 over 6.,00:05:44
+ktolswn,36,tutor,"Yes, it can be 1 over 6. So if it is much higher than that value or much lower than that value, you can say that the dice is biased, right?",00:05:46
+ktolswn,37,student,Yeah.,00:06:01
+ktolswn,38,tutor,"Yes. So out of these 4 dice, which ones are biased according to that argument? [unclear] 3 and 1. [unclear] Why do you say 3 and 1? [unclear] I'm not sure.",00:06:02
+ktolswn,39,tutor,"Okay, so yes, your answer here, the 3, is correct. So can you explain how you got this 3?",00:06:29
+ktolswn,40,student,"Because it's landed on 6 the same amount of times that it's landed 1, 2, 3, 4, or 5.",00:06:40
+ktolswn,41,tutor,"Exactly. So the probability, the probability value of getting a 6 is much higher than 1/6, right?",00:06:46
+ktolswn,42,student,Yeah.,00:06:56
+ktolswn,43,tutor,Yes. And what about dice 2? What can you say about that one? [unclear] [unclear],00:06:58
+ktolswn,44,student,"It lands on 630, and then the rest of the 5 numbers are 100.",00:07:15
+ktolswn,45,tutor,"Yeah, so if we write this as a relative frequency, what would it be? [unclear]",00:07:25
+ktolswn,46,tutor,Why 30 over 100?,00:07:47
+ktolswn,47,student,"Because it runs on a 6, 30 times.",00:07:53
+ktolswn,48,tutor,And the Tutor is an adult.,00:07:56
+ktolswn,49,student,Yeah.,00:08:01
+ktolswn,50,tutor,Okay. 3/13. So what can you say about this one? Is it close to 1/6 or much greater than 1/6 or much smaller than 1/6?,00:08:01
+ktolswn,51,student,[unclear] 1/6.,00:08:24
+ktolswn,52,tutor,"Okay, so can you say that the the dice number 2 is biased.",00:08:26
+ktolswn,53,student,Yeah. [unclear],00:08:32
+ktolswn,54,tutor,"Yes, okay. And just to check whether our answer is correct or not, shall we see the relative frequency of getting a 6 in dice 1 next up? See whether it's closer to 1/6. Okay, so what would be the value for this one? So would it be closer to 1/6? You can turn them both into decimals and see. That will be easier for you when comparing.",00:08:35
+ktolswn,55,student,[unclear],00:09:43
+ktolswn,56,tutor,"Um, can you use the one in your PC or the laptop?",00:09:49
+ktolswn,57,student,"Uh, yeah.",00:09:55
+ktolswn,58,tutor,Okay. [unclear],00:09:56
+ktolswn,59,tutor,"Yes, so you get 0.16 there. And for 1/6, what would be the decimal bit?",00:10:19
+ktolswn,60,student,0.8. [unclear],00:10:29
+ktolswn,61,student,I don't have like a fraction button on this.,00:10:40
+ktolswn,62,tutor,"So 1/6, you can do 1 divided by 6.",00:10:47
+ktolswn,63,student,"Uh, 6.",00:10:53
+ktolswn,64,tutor,So you will be getting an answer like 0.17. 1/16 is equal to 0.17. Okay.,00:10:54
+ktolswn,65,student,Yeah.,00:11:09
+ktolswn,66,tutor,"So that is much closer to 0.16, right? So you can say that it's not biased. [unclear] Understand that, Elara?",00:11:11
+ktolswn,67,student,Yeah.,00:11:21
+ktolswn,68,tutor,"Okay, so what could our answers be for the second part of the question? Okay. 2 and 3. [unclear]",00:11:23
+ktolswn,69,tutor,"It will be 2 and 3. Yes. All right. And the last question, shall we give that one a try as well?",00:11:32
+ktolswn,70,student,Yeah.,00:11:42
+ktolswn,71,tutor,"Okay. So can you tell me the reason behind your answer? Because it's landed on 6 half of the times and they've only rolled dice 3, 6 times. [unclear] They've only rolled the dice 6 times.",00:11:43
+ktolswn,72,tutor,Exactly.,00:12:18
+ktolswn,73,student,Yes.,00:12:19
+ktolswn,74,tutor,"Okay, so Good job finding out that and also giving a perfect reasonable explanation for that as well. All right, so once again, you will be getting 2 marks for the first one and 2 marks for the other one and 1 mark this one. Altogether, you'll be receiving 5 marks for this question.",00:12:20
+ktolswn,75,tutor,And before we move on to the next question. Can you tell me the things that we discussed in this question?,00:12:45
+ktolswn,76,student,"Um, that relative frequency is the amount over how much there is in total.",00:12:54
+ktolswn,77,tutor,And what else did we discuss?,00:13:05
+ktolswn,78,student,"Um, that highest is where",00:13:08
+ktolswn,79,student,It's like more than what it should be or less than what it should be.,00:13:16
+ktolswn,80,tutor,"Mm-hmm. Yes. All right. Okay, Elara, so now shall we move on to this question over here? [unclear] Okay, let's give it a try and let me know if you need any help.",00:13:24
+ktolswn,81,tutor,Okay. [unclear],00:13:41
+ktolswn,82,tutor,[unclear],00:14:32
+ktolswn,83,student,Aviden?,00:14:32
+ktolswn,84,student,Yeah.,00:15:01
+ktolswn,85,tutor,"Okay, so can you tell me the reason behind these answers?",00:15:01
+ktolswn,86,student,"Um, 0.25 plus 0.15 is 0.4, and then that took away from one of 60.",00:15:09
+ktolswn,87,tutor,Okay.,00:15:18
+ktolswn,88,student,And then— [unclear],00:15:20
+ktolswn,89,student,"Um, 4 is double 20, and then 40 plus 20 equals 60.",00:15:23
+ktolswn,90,tutor,"So this is 0.4, is it?",00:15:30
+ktolswn,91,student,Yeah.,00:15:33
+ktolswn,92,tutor,"Okay, and this is 0.2. Yeah?",00:15:35
+ktolswn,93,student,Yeah.,00:15:39
+ktolswn,94,tutor,"All right, okay, so good job with that question, Kaelen. So thank you so much for the explanation. You'll be getting 2 marks for that. And okay, I see a 6 there. Okay, so would you mind giving me the reason for that as well?",00:15:40
+ktolswn,95,student,"Um, because 1 take away 0.4 is 0.6.",00:16:08
+ktolswn,96,tutor,"Yes. Okay, so good job with that one as well, Elara. There we go. So we have come to the end of this lesson. Now, before we move on to the summary slide, can you tell me what you have understood in this question? [unclear]",00:16:18
+ktolswn,97,student,That the probability adds up to 1.,00:16:41
+ktolswn,98,tutor,"Yes, that's an important part when we are working with probabilities. All right, now we have 2 questions here. We are going to take a look at what we have learned so far, and can you spot the mistakes?",00:16:46
+ktolswn,99,tutor,Yes. All right. [unclear],00:17:09
+ktolswn,100,tutor,And so the answer would be 0.3. [unclear] And what about the next one? [unclear] But it doesn't tell me how much is in the other one.,00:17:36
+ktolswn,101,tutor,That is?,00:18:06
+ktolswn,102,student,It don't. It only gives me one number though.,00:18:08
+ktolswn,103,tutor,"Yeah, so have they given any clues for a relationship between lemon and mango? [unclear]",00:18:11
+ktolswn,104,tutor,Okay. [Speaker:Elara]... [unclear],00:18:40
+ktolswn,105,tutor,So what would be the final answer?,00:18:44
+ktolswn,106,tutor,Can you now explain your answer?,00:18:51
+ktolswn,107,student,"0.4 plus 0.4 plus 0.2 equals 1, and 0.4 to 1 to equal 0.4 is 0.6. [unclear]",00:18:57
+ktolswn,108,tutor,"Yes, that's great. Okay, so once again, good job with this question as well. And that's a wrap for this lesson, Elara. So before we move on to a new lesson, can you tell me the things that we have discussed so far?",00:19:13
+ktolswn,109,student,[unclear],00:19:39
+ktolswn,110,tutor,Yeah.,00:19:39
+ktolswn,111,student,The probability is out of 100. [unclear],00:19:40
+ktolswn,112,tutor,Okay. And what depth?,00:19:47
+ktolswn,113,student,That relative frequency is out of—,00:19:55
+ktolswn,114,tutor,Pardon?,00:19:59
+ktolswn,115,student,I already told you everything.,00:20:03
+ktolswn,116,tutor,"Yes, okay, alright, so you did a really good job with these questions. You worked out independently. So keep up that good work, Elara. And after I end the session, you will be getting 2 questions from this lesson, so make sure to take some time and answer them as well. Okay?",00:20:07
+ktolswn,117,student,Yeah.,00:20:26
+ktolswn,118,tutor,"All right. And since we have like 10 more minutes to go, shall we start a new one?",00:20:27
+ktolswn,119,student,Yeah.,00:20:34
+ktolswn,120,tutor,Okay. Our next lesson is using index laws. Are you familiar with this topic?,00:20:36
+ktolswn,121,student,"Uh, yeah, I think.",00:20:43
+ktolswn,122,tutor,"All right, so just to refresh our memory, shall we try out this question? [unclear] Okay, so you are saying that all these answers correct. Can you tell me why?",00:20:46
+ktolswn,123,student,Because there's a times in the middle of them.,00:21:08
+ktolswn,124,tutor,"Mm-hmm. So when we have a times in the middle, what do we do with the indices?",00:21:12
+ktolswn,125,student,Times. [unclear],00:21:20
+ktolswn,126,tutor,Is that so? Are we timesing the indices?,00:21:24
+ktolswn,127,student,"Wait, so would it be— 2a to the 10? [unclear]",00:21:30
+ktolswn,128,student,Wouldn't it be 2a to the 10?,00:21:35
+ktolswn,129,tutor,2a?,00:21:43
+ktolswn,130,student,"Yeah, because it's 2.",00:21:45
+ktolswn,131,tutor,"So we have a to the power 4 times a to the power 6. So when we simplify this, what do we get? Do we get a to the power 24 or a to the power 10?",00:21:47
+ktolswn,132,student,"Well, a to the power of 10 by 4, 2 goes before the x, 2 a's.",00:22:02
+ktolswn,133,tutor,"Mm-hmm. So over here, you will be getting it to the power 10, since if it is a multiplication, we are going to add the indices. And we will discuss this a little bit more in the coming questions, okay?",00:22:05
+ktolswn,134,student,Yeah.,00:22:26
+ktolswn,135,tutor,Great. So let's move on to this one. Shall we give this a try? [unclear] [unclear],00:22:27
+ktolswn,136,tutor,Why 1 to the power 3?,00:23:13
+ktolswn,137,student,Because 3 divided by 3 is 1.,00:23:16
+ktolswn,138,tutor,"One. Okay, um, can we do that like that? Can I just divide 3 by 3 and get 1 as our answer and simplify the indices separately? [unclear] All right, so what does this, uh, 3 to the power 8 stand for?",00:23:22
+ktolswn,139,student,3 times— like 3 times 3 by 8 times.,00:23:50
+ktolswn,140,tutor,"Yeah, so it's like 3 times 3 times 3 times, like that, 8 times, right?",00:23:57
+ktolswn,141,student,Yeah.,00:24:03
+ktolswn,142,tutor,"Yes, so if so, if we divide 3 to the power 8 by 3 to the power 5, can we get a 1 to the power 3?",00:24:05
+ktolswn,143,tutor,"No. So we'll be getting 3 to the power 3. Uh, it's like this, uh, if I show you, it's like this. So it's 3 times 3 times 3 times 3 times 3 times. So 1, 2, 3, 4, 5, 6, 7, 8. So this one 8 divided by 3 to the power 5.",00:24:18
+ktolswn,144,tutor,"So this is what this means, 3 to the power 8 divided by 3 to the power 5. So we don't have any 1s here, so we can't just divide 3 by 3 and get 1. 1 as our answer. Okay?",00:24:54
+ktolswn,145,student,Yeah.,00:25:09
+ktolswn,146,tutor,"All right, so shall we try out Part C as well? [unclear]",00:25:11
+ktolswn,147,tutor,"Okay. All right, so we have done an amazing job with all of these questions. Now, can you tell me the index laws that you have followed in order to get these answers? [unclear]",00:25:42
+ktolswn,148,student,"Wait, what's an index law?",00:25:58
+ktolswn,149,tutor,Pardon?,00:26:02
+ktolswn,150,student,What did you say?,00:26:04
+ktolswn,151,tutor,"So now you followed some rules here, right? You followed some rules to simplify these indices. Yeah, yeah, yeah. So those are called index laws. So for each and everything. So if you are multiplying indices or if you are dividing indices, you have some rules, you have some laws. So what were the index laws that you have followed to get these 3 answers?",00:26:07
+ktolswn,152,student,"Um, that you don't do what the like middle part, like times or divides to the index things. [unclear] And that's, you know, times the top 2 numbers.",00:26:40
+ktolswn,153,tutor,"Okay, so if there are 2 multiplications, what do we do with the indices?",00:27:00
+ktolswn,154,student,We add them.,00:27:10
+ktolswn,155,tutor,"Yes, we add them together. And if we have",00:27:13
+ktolswn,156,tutor,Divide. What do we do with the indices?,00:27:18
+ktolswn,157,student,Take them away.,00:27:21
+ktolswn,158,tutor,"And when you have the indices like this, what do we do?",00:27:24
+ktolswn,159,student,Times them.,00:27:29
+ktolswn,160,tutor,"Exactly, yes. So those are the 3 index laws that you have followed to get these answers. Okay?",00:27:31
+ktolswn,161,background,Yeah.,00:27:40
+ktolswn,162,tutor,Yes.,00:27:41
+ktolswn,163,tutor,"Okay, so great job with these questions as well, Elara. And since we have come to the end of the session and since we have only like 3 more minutes to go, I don't want to start a new question. So can you tell me the things that we have done so far? [unclear]",00:27:42
+ktolswn,164,tutor,"What, in this topic?",00:28:09
+ktolswn,165,student,"Uh, in this topic and throughout the session.",00:28:11
+ktolswn,166,background,"Uh, relative frequency is how much it is out of what, the overall number?",00:28:17
+ktolswn,167,tutor,"Mm-hmm, yeah.",00:28:26
+ktolswn,168,background,"And that probability is out of one, so, or like, 0.2, and then 0.8 adds to 1.",00:28:28
+ktolswn,169,tutor,"Yes, okay. And how do we choose whether a dice is biased on whether the sample is biased or not?",00:28:39
+ktolswn,170,student,"Um, it will appear like this, not a realistic amount of times.",00:28:52
+ktolswn,171,tutor,"Yes, exactly. So one answer will be repeated, one number will be repeated, right?",00:29:03
+ktolswn,172,student,Yeah.,00:29:11
+ktolswn,173,tutor,"Yes, okay. And what else did we discuss?",00:29:13
+ktolswn,174,student,"That in the indices, you do [UNCLEAR]. [Speaker:Tutor]...do what it has on the actual question.",00:29:20
+ktolswn,175,student,Pardon?,00:29:32
+ktolswn,176,tutor,"You don't do... you don't... like... [unclear] When the question's like a times a, you don't do it to the indices.",00:29:34
+ktolswn,177,background,So what were the index laws that we discussed today?,00:29:51
+ktolswn,178,student,"That when you divide, you take away. When you times, you add. And when you divide [unclear] times? No, not— when it's in brackets.",00:29:56
+ktolswn,179,tutor,"Yes, so when it's like the power of the power, right? Like this.",00:30:15
+ktolswn,180,tutor,Yeah.,00:30:21
+ktolswn,181,background,Then what do we do? We bring the indices.,00:30:21
+ktolswn,182,tutor,And then you times them.,00:30:24
+ktolswn,183,background,"Yes, exactly. All right, so that was some fantastic explanations on what we have done and nice summary. I'm really happy that you have focused throughout the session and you work independently. Yeah, so all right, and I want to— I want you to remember that after I end the session You will be getting 2 questions from the lesson Probability. So make sure to take some time and answer them well as well, because that will be tracking your progress in this course. Okay?",00:30:27
+ktolswn,184,student,Yeah.,00:31:04
+ktolswn,185,tutor,"All right then. So have a great week, and I'll see you next week. All right?",00:31:06
+ktolswn,186,student,Yeah.,00:31:12
+ktolswn,187,tutor,"Okay, bye-bye.",00:31:13
+ktolswn,188,student,Bye.,00:31:15

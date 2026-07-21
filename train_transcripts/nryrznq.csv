@@ -1,0 +1,261 @@
+session_id,utterance_id,role,content,timestamp
+nryrznq,0,tutor,Hello.,00:00:00
+nryrznq,1,background,[unclear],00:00:00
+nryrznq,2,student,Hi.,00:00:00
+nryrznq,3,tutor,"Hi, Soren. How are you doing today?",00:00:01
+nryrznq,4,student,Good.,00:00:03
+nryrznq,5,tutor,"Good, that's nice to hear. So, how has your week been so far? Good. [unclear] All right. So do you remember what you did in this lesson last time, Soren? No. No? Okay. So you were rounding numbers. What do you mean by rounding? What did you say? What do you mean by rounding? [unclear]",00:00:03
+nryrznq,6,tutor,Yes. What do you think rounding means?,00:00:46
+nryrznq,7,student,"Like, so say you have to round it to the nearest 10. If it was like— [unclear]",00:00:49
+nryrznq,8,student,"It's just like, say you had 55 and you had to",00:01:21
+nryrznq,9,background,"See which one it was closest to, you'd round it to 60.",00:01:25
+nryrznq,10,tutor,"Very good, that's right. Okay, then let's move on to this question. Can you read this for me, please?",00:01:30
+nryrznq,11,student,Tara is measuring the length of her bracelet. She's rounded it to the nearest centimetre. The rounded length is 10 centimetres. What could the exact length of her bracelet be? Give 2 possibilities.,00:01:37
+nryrznq,12,tutor,"Yes. What do you think they're asking you in this question, Soren?",00:01:52
+nryrznq,13,student,"To measure, like to round and measure how long her bracelet could be.",00:02:00
+nryrznq,14,tutor,Yes. So what's the rounded length?,00:02:06
+nryrznq,15,student,10 centimeters.,00:02:13
+nryrznq,16,tutor,10 centimeters. There you go.,00:02:15
+nryrznq,17,tutor,"So what do you think we should do in this question, Soren?",00:02:25
+nryrznq,18,student,[unclear] I don't know.,00:02:29
+nryrznq,19,tutor,"Okay, all right. So it says,",00:02:41
+nryrznq,20,background,"When she has rounded it to the nearest centimeter and the rounded length is 10 centimeters. So that means if she— if I draw something, a number line like this for you, okay? 10 centimeters. Let's say this is 11. So make it 10, let's make it 11.",00:02:44
+nryrznq,21,tutor,"Then we have 10 centimeters. Then we have 9 centimeters. So they're basically telling you that the value that she had, the length of the bracelet, is closer to 10 centimeters. Did you understand that? Yeah, she rounded it to the nearest 10 centimeters, and the rounded length is 10. So if the rounded length is 10, What could the values be for it to become 10? Like, what— by which values would you round up or down to, to make it a 10?",00:03:10
+nryrznq,22,student,So you would round 11 down to 10 and 9 up to 10.,00:03:49
+nryrznq,23,tutor,How could you round 9 up to 10? This is to the nearest centimeter. So it should be a decimal value here. Nearest centimeter. Now 9 is also a centimeter value. 11 is also a whole number value. All of these are whole number values. But they are saying that she rounded it to the nearest centimeter. So the value should be a decimal value. Did you understand that?,00:03:57
+nryrznq,24,student,Yeah.,00:04:23
+nryrznq,25,tutor,"Mm-hmm. So what would the decimal value be that is closer to 10, Soren? [unclear]",00:04:24
+nryrznq,26,student,9.9.,00:04:37
+nryrznq,27,tutor,"Very good, 9.9. Well done. That's right. Can you write that down for me, please? [unclear] Yes, what would be the unit?",00:04:38
+nryrznq,28,student,M. [unclear],00:04:53
+nryrznq,29,tutor,9.9.,00:05:04
+nryrznq,30,student,And then 10.,00:05:05
+nryrznq,31,tutor,"Centimeters. You have to write the unit because we are talking about length. The unit for 9.9 is about— 10 is the value that she rounded to. So one value is 9.9 centimeters. Can you add the centimeters over here for me, please, next to the 9.9? [unclear]",00:05:06
+nryrznq,32,student,Like this?,00:05:35
+nryrznq,33,tutor,"Because we are talking about length, we have to mention the length, the unit as well. If not, it would be wrong.",00:05:41
+nryrznq,34,tutor,There you go. What else could it be? They're asking two possibilities. So what else could it be? [unclear],00:05:54
+nryrznq,35,student,It could be 10 times—,00:06:01
+nryrznq,36,student,1 centimeter.,00:06:14
+nryrznq,37,tutor,"Very good. It could be 10.1 centimeters. Why do you think so? [unclear] Yes, that's correct. Why do you think so? [unclear]",00:06:17
+nryrznq,38,student,"Because it's— Round it to the nearest centimetre, and the rounded length is 10 centimetres. So it could be any one of these two options.",00:06:34
+nryrznq,39,tutor,"Very good. Now let's say I am your friend and my answers are 9.2 centimetres and let's say 10. [unclear] Let's say 4 centimetres. Do you think my answers would be correct, Soren?",00:06:53
+nryrznq,40,student,No.,00:06:53
+nryrznq,41,tutor,"No, why is that? Really good.",00:07:15
+nryrznq,42,student,"Because again it says rounded to the nearest centimetre and the nearest ones are 9.9 and 10.1, not these ones.",00:07:16
+nryrznq,43,tutor,Why can't it be 9.2?,00:07:28
+nryrznq,44,student,Because like 9.9 is the closest option in [unclear] in a decimal with the number 9 in it closest to 10. And then 2's like— [unclear],00:07:32
+nryrznq,45,tutor,Then how about 9.7? Would that be a possible answer?,00:07:51
+nryrznq,46,student,"It could be a possible answer, but if you wanted to find 2 of the nearest— if you wanted to find",00:07:57
+nryrznq,47,student,"two of the nearest ones that are in the nine decimals, and it would be 9.9 and 9.8.",00:07:57
+nryrznq,48,tutor,Very good. Then how about 10.4? Would 10.4 be a correct answer?,00:08:14
+nryrznq,49,student,"It could be if— [unclear] Well, let's say it could be if you're rounding to 10.5, but you're not rounding to 10.5, you're rounding to 10.1.",00:08:21
+nryrznq,50,student,"So that would be an incorrect answer because there's closer ones. Yeah, like 10.1, 10.2.",00:08:34
+nryrznq,51,tutor,"They're asking for possibilities, Soren. As long as the number rounds to 10, it's going to be correct. Did you understand that? So 10.1 is also correct. 10.4 is also going to be correct because it's still going to round down to 10. 4. How do I know that it's going to round down to 4, Soren? Sorry, how do I know that it's going to round down to 10? Sorry.",00:08:43
+nryrznq,52,student,Because it needs to be a smaller number than the one that you're actually rounding down from. So it would be possible to round 10.4 [unclear] down to 10.,00:09:10
+nryrznq,53,student,[unclear],00:09:28
+nryrznq,54,tutor,"There you go, yes. All right. Now, what did you understand from this question, Soren?",00:09:28
+nryrznq,55,student,"That no matter how big the decimal numbers are, as long as it rounds down or up to a number, then it's a correct answer.",00:09:37
+nryrznq,56,tutor,Well done. Okay. So... Is there anything that you didn't understand from this lesson?,00:09:49
+nryrznq,57,student,No.,00:09:56
+nryrznq,58,tutor,"That was nice to hear. Then let's move on to the new one. There you go. Understanding fractions rated at 1. What do you mean by a fraction, Soren? Can you give me an example for the fraction, please?",00:09:57
+nryrznq,59,student,So I'll give you a couple of examples. So 1 [unclear],00:10:14
+nryrznq,60,student,on 10 and... [unclear],00:10:14
+nryrznq,61,tutor,5.,00:10:14
+nryrznq,62,student,And then you could do 5/5. [unclear],00:10:47
+nryrznq,63,tutor,"Very good, that's correct.",00:11:02
+nryrznq,64,student,"Anyway, so you could do 5/5, 1/10, 4/3.",00:11:07
+nryrznq,65,tutor,"There you go. That was it. Then can you read this learning goal question for me, please?",00:11:14
+nryrznq,66,student,Write [unclear] what is a mix.,00:11:28
+nryrznq,67,background,"One, three-fifths. This is a mix. Are you familiar with mixed numbers?",00:11:35
+nryrznq,68,student,Just a little bit.,00:11:42
+nryrznq,69,tutor,"Just a little bit? Okay. So what do you know about mixed numbers, Soren?",00:11:43
+nryrznq,70,student,[unclear] Like they have one whole.,00:11:52
+nryrznq,71,tutor,Make it.,00:12:00
+nryrznq,72,student,So they have one whole in them And then they have like 6... and 6 tenths. That would be 1.,00:12:02
+nryrznq,73,tutor,There you go. Well done.,00:12:19
+nryrznq,74,student,"6 tenths. So 1 whole 6 tenths is a fraction. A mixed number fraction, which is an improper fraction.",00:12:22
+nryrznq,75,tutor,"Very good. So how would you convert a mixed number like this, 1 3/5, the one that they have given you, to an improper fraction? What do you mean by an improper fraction, Soren? [unclear]",00:12:33
+nryrznq,76,student,"Like, this is one here. This is an improper fraction.",00:12:56
+nryrznq,77,tutor,That is a mixed number. You have a whole number and a fraction. That's a mixed number. What's an improper fraction?,00:13:04
+nryrznq,78,student,"I know one, but I just can't remember.",00:13:12
+nryrznq,79,tutor,All right. No worries. So an improper fraction is like— you might have heard of top-heavy fractions. Fractions like this. No? Let me write it for you. Where the numerator is larger than the denominator.,00:13:22
+nryrznq,80,student,"Oh yeah, yeah, yeah.",00:13:38
+nryrznq,81,tutor,"Improper fractions. There you go. And how do you convert mixed numbers to improper fractions, Soren? [unclear] [unclear]",00:13:40
+nryrznq,82,tutor,"If you are not sure, you can let me know. I'll explain it to you.",00:14:02
+nryrznq,83,student,Not sure.,00:14:07
+nryrznq,84,tutor,"All right. So what we do is we multiply the denominator, okay? You would multiply the denominator with the numerator. The whole number. Okay, you would multiply the denominator with the whole number and add that to the numerator. [unclear]",00:14:08
+nryrznq,85,tutor,"May I use an example? Okay, let's use— I'll use the example that you showed me here. 1/6 tenths. Okay, this one, what's going to be the denominator, Soren? [unclear]",00:14:37
+nryrznq,86,student,10.,00:14:50
+nryrznq,87,tutor,"10, very good. I multiply it with the whole number. What's the whole number?",00:14:51
+nryrznq,88,student,1.,00:14:58
+nryrznq,89,tutor,Very good. So what is 10 times 1?,00:14:59
+nryrznq,90,student,10.,00:15:03
+nryrznq,91,tutor,"10, very good. I will add that to the numerator. What's the numerator?",00:15:04
+nryrznq,92,student,6.,00:15:10
+nryrznq,93,tutor,10 plus 6 is?,00:15:12
+nryrznq,94,student,16.,00:15:15
+nryrznq,95,tutor,"16. And then I would write the denominator as the original denominator, which is?",00:15:16
+nryrznq,96,student,Which is 10.,00:15:22
+nryrznq,97,tutor,Very good. Did you understand that?,00:15:24
+nryrznq,98,student,Yeah.,00:15:27
+nryrznq,99,tutor,"Okay, that's nice to hear. Then could you use the same method to convert 1 3/5 to an improper fraction, please? [unclear]",00:15:27
+nryrznq,100,student,"You would do 5 times 1, which equals 5. [unclear] And then you would do 5 at the numerator.",00:15:42
+nryrznq,101,student,It's just 5 and 5. [unclear] [unclear],00:16:08
+nryrznq,102,tutor,"Yes, that's going to be the numerator, Soren.",00:16:41
+nryrznq,103,student,"Yeah, then you would do 5 add 3 equals 8, and then",00:16:43
+nryrznq,104,student,"You would do 8 with the original numerator, which is 5. So it would be 8/5.",00:16:59
+nryrznq,105,tutor,"Very good work there. I'm giving you 2 stars for that. And I'll be giving you this sticker for that amazing explanation. Now, could you try this prior learning question for me as well, please?",00:17:15
+nryrznq,106,student,Do you want me to read it out?,00:17:30
+nryrznq,107,tutor,"No, that's fine.",00:17:33
+nryrznq,108,student,So there's 6 and 9. 6 and 9.,00:17:48
+nryrznq,109,student,"There's 6 in there. And then here's how I would remember that. Say you do 6 add 6 equals 12. And then you would do 12 add 6, which equals 18. So then",00:17:56
+nryrznq,110,student,"If you put [unclear] and then if you put the answer here, it would be the total of cakes that are in the trays is 18.",00:18:22
+nryrznq,111,tutor,"Is 18. Very good. Very good work using multiples here. So I'm giving you a star for that. And since you worked that out on your own, we can skip this slide and move on to this one. Can you read this for me, please? Fractions can be greater than 1 when the numerator is greater or equal to the denominator and is a multiple of the [unclear] of the denominator. It makes a whole number.",00:18:50
+nryrznq,112,tutor,"Yes, fraction. It says fractions can be greater than 1. We know that from here. Fractions can be greater than 1. And then they say when the numerator, okay, when the numerator is greater or equal to the denominator. Like for example, in this one, 5/5, okay. If we— in this case, the numerator is equal to the denominator. Can you see, Soren?",00:19:17
+nryrznq,113,tutor,"Yeah, then it will make a whole number. That's the first situation, okay? When the numerator is equal to the denominator, it will make a whole number. Or if the numerator is greater and is a multiple of the denominator, that means if I have 12, okay, divided by 12 over 6, let's say Here, is the numerator greater than the denominator?",00:19:46
+nryrznq,114,student,No. [unclear],00:20:16
+nryrznq,115,tutor,Numerator.,00:20:18
+nryrznq,116,student,"Oh wait, yeah, yeah, yeah.",00:20:19
+nryrznq,117,tutor,"Yes. And is it a multiple of the denominator? That means, can you find 12?",00:20:20
+nryrznq,118,student,Yeah.,00:20:26
+nryrznq,119,tutor,"Yes, very good. So if so, you can make a whole number, which means you basically divide 12 by 6. What is 12 divided by 6?",00:20:27
+nryrznq,120,student,"12 divided by 6 would equal 6, wouldn't it?",00:20:38
+nryrznq,121,tutor,How many groups of 6 are there in 12?,00:20:44
+nryrznq,122,student,"Oh, 2. 2.",00:20:47
+nryrznq,123,tutor,2. So that it would make a whole number. Did you understand that?,00:20:49
+nryrznq,124,student,Yeah.,00:20:54
+nryrznq,125,tutor,"So what are the 2 situations where a fraction can make a whole number, Soren?",00:20:55
+nryrznq,126,student,"So it's this one where the denominator is bigger than the numerator, and then you'll just do that division by the denominator, which would— so in this one it would be 12 divided by 6, which here we got 2. And then this is how we write it out, so 2 holes and... So 2 holes and 12 steps.",00:21:03
+nryrznq,127,tutor,"You don't have to write the 12, okay? Just 2 holes.",00:21:48
+nryrznq,128,student,"Yeah, so 2 holes and 12 steps.",00:21:51
+nryrznq,129,tutor,"Very good. All right, let's erase this and let's try these. Yes, there you go. Now can you fill in these for me, please? 10/5, 15/5, how would you write them as whole numbers?",00:21:54
+nryrznq,130,student,[unclear],00:22:13
+nryrznq,131,student,"10. So 10 divided by 5 equals 2. And then you would take your— and then you would take your answer, which is 2, [unclear]",00:22:20
+nryrznq,132,student,"Over here, take it on source 2, and then there's your holes. So 2 holes, and then— so 2 holes and 10/6 it will take. No, it was just 3 2/4, not 10/5, okay? Just 2/4.",00:22:50
+nryrznq,133,student,I guess 10/5 means—,00:23:22
+nryrznq,134,tutor,What do you mean by the denominator? [unclear],00:23:26
+nryrznq,135,student,So you divide the numerator by the denominator.,00:23:33
+nryrznq,136,tutor,"Yes. 10 divided by 5. This is still 2. Just 2. There is no 10/5, so the answer is just going to be 2. Did you understand that?",00:23:38
+nryrznq,137,student,Yep.,00:23:55
+nryrznq,138,tutor,"Yep. Okay, good to hear. So can you write that down for me, please?",00:23:56
+nryrznq,139,tutor,"What should I write down over here? So 10/5, they're asking you to write it as a whole number.",00:24:06
+nryrznq,140,student,10.,00:24:14
+nryrznq,141,tutor,There you go. Then 15/5. [unclear],00:24:14
+nryrznq,142,student,[unclear],00:24:14
+nryrznq,143,student,[unclear],00:24:14
+nryrznq,144,tutor,"Uh-huh. 15 divided by 5. How many groups of 5 are there in 15, Soren?",00:25:27
+nryrznq,145,student,3.,00:25:35
+nryrznq,146,tutor,3. So what would be the answer here?,00:25:36
+nryrznq,147,student,3.,00:25:39
+nryrznq,148,tutor,3. And how many groups of 5 are there in 20?,00:25:40
+nryrznq,149,student,"Oh, [UNCLEAR].",00:25:51
+nryrznq,150,tutor,"Well done. All right, did you understand this?",00:25:52
+nryrznq,151,student,Yeah.,00:25:57
+nryrznq,152,tutor,"Okay, then can you use the same method and figure out the answer for part B, please? [unclear]",00:25:58
+nryrznq,153,tutor,How would you figure out the answer for Part B?,00:26:47
+nryrznq,154,student,You would divide 6 by 3.,00:26:55
+nryrznq,155,tutor,"Yes, you would find how many groups of 2 are there in 6.",00:27:08
+nryrznq,156,student,Which is 3.,00:27:12
+nryrznq,157,tutor,"Very good, it will be 3. Oh, oh, that's easy. Very good. 5. [unclear] Awesome. Do you understand these, Soren?",00:27:14
+nryrznq,158,student,Yeah.,00:27:38
+nryrznq,159,tutor,"Let's say I'm your student and you're my teacher, and I don't understand Part C. How would you explain it to me?",00:27:39
+nryrznq,160,student,So what you would do is you would do how many 3s go into 12.,00:27:50
+nryrznq,161,student,Which is 4. And then that's your answer. It's really simple.,00:27:57
+nryrznq,162,tutor,"Yes, it's nice to hear. So I'm giving you this star. I'm giving you 2 stars actually. And this [unclear] for that amazing working out you did. And let's move on to the next slide. All right, now can you, um, read this for me please?",00:28:04
+nryrznq,163,tutor,Let's look at this bar model that shows an amount greater than 1.,00:28:26
+nryrznq,164,student,"Yes. Can you see there's 1 metre? And there's 1/5, 1/5, 1/5. There you go. So how many whole metres are here?",00:28:30
+nryrznq,165,background,[unclear] 1.,00:28:44
+nryrznq,166,student,1. There is 1 whole metre and What's the fraction that is shown here after the whole?,00:28:45
+nryrznq,167,student,"And the fraction, 1... [unclear]",00:28:56
+nryrznq,168,tutor,3 minus 2 is 6.,00:29:01
+nryrznq,169,student,"And 1... 1-something meters, 1.5 meters. [unclear] There is one. That's the whole. And then this one. This is the whole. Let's cut this off. If not, it will get confusing. Now, there is one-fifth, one-fifth, then one-fifth. So how many one-fifths are there, Soren?",00:29:05
+nryrznq,170,student,Three.,00:29:33
+nryrznq,171,tutor,Three. There are three one-fifths. So three-fifths of a meter. You understand that?,00:29:34
+nryrznq,172,tutor,So it will be 1 whole meter and 3/5. So how can I write this as a mixed number?,00:29:42
+nryrznq,173,student,"Um, 1 whole and 3—",00:29:54
+nryrznq,174,tutor,1 whole and 3/5. Very good. I can write it like,00:29:57
+nryrznq,175,background,"1 whole and 3/5. So if 1 whole and 3/5 are there, how many fifths How many fifths are there in total? And count how many fifths are there in total.",00:30:01
+nryrznq,176,student,8.,00:30:20
+nryrznq,177,tutor,"Very good. 8 fifths. Can you write that down for me, please? [unclear]",00:30:21
+nryrznq,178,tutor,Yes. 8 fifths.,00:30:27
+nryrznq,179,tutor,"That's fine. Let me just draw an arrowhead to show. There you go. Well done. Yes. Now, how can you write this as— there you go. How would you write this as an improper fraction? What would be the improper fraction here for 1 3/5?",00:30:35
+nryrznq,180,student,[unclear],00:30:53
+nryrznq,181,tutor,This is a mixed number.,00:30:53
+nryrznq,182,tutor,Then how would you convert it to an improper fraction? [unclear],00:31:00
+nryrznq,183,student,You would have—,00:31:22
+nryrznq,184,student,I don't know.,00:31:27
+nryrznq,185,tutor,Can you remember how we converted mixed numbers to improper fractions?,00:31:34
+nryrznq,186,student,"So... Oh yeah, yeah, yeah. So we did... [unclear] And times the denominator by the whole number. And the whole number's 1. And then you would— [unclear]",00:31:40
+nryrznq,187,student,Numerator. [unclear],00:32:08
+nryrznq,188,student,When?,00:32:30
+nryrznq,189,tutor,Multiply the denominator by the whole number and add it to the numerator. There you go. [unclear],00:32:44
+nryrznq,190,student,Am I doing this one or this one?,00:33:03
+nryrznq,191,tutor,"This one. One, three-fifths. This one. So what would you do? 5 is the denominator. You multiply it by the whole number. So what is 5 times 1? [unclear]",00:33:07
+nryrznq,192,student,5 times 1 equals 5.,00:33:20
+nryrznq,193,tutor,Very good.,00:33:26
+nryrznq,194,student,"And then you would add the numerator onto that, which is 3. So it would be [unclear]",00:33:27
+nryrznq,195,tutor,"No, it's just going to be 8/5, Soren. This one whole is equal to 5/5. Can you see? 5/5. Yeah, that's why we multiply it by the denominator. The 1 is multiplied by the denominator to get rid of the whole. So it will be 8 fifths only. Did you understand that?",00:33:37
+nryrznq,196,tutor,"No one. Okay, then can you use the same method to figure out the answer for the ""your turn"" question, please?",00:34:12
+nryrznq,197,student,[unclear],00:34:20
+nryrznq,198,tutor,"Yes, there are 2 whole meters. And— [unclear] Get rid of this, it's going to be confusing. What's the fraction that is remaining? [unclear]",00:34:34
+nryrznq,199,student,Can I go to the bathroom?,00:35:02
+nryrznq,200,tutor,"Yes, sure. Let me know when you're back.",00:35:14
+nryrznq,201,student,Okay. [unclear],00:35:16
+nryrznq,202,tutor,"So what becomes the denominator, which is 9? So, oh yeah, exactly. So, which one?",00:35:26
+nryrznq,203,student,You don't need the 1 that you see there yet. [unclear],00:35:36
+nryrznq,204,tutor,3 times 8. 3 is 9. 3 times 3 is equivalent to 9. [unclear],00:35:43
+nryrznq,205,tutor,She says that she has 3 fifths and no point.,00:35:59
+nryrznq,206,student,That's all. We have to find the common denominator.,00:36:10
+nryrznq,207,tutor,Yeah.,00:36:20
+nryrznq,208,student,Now we don't need the sun in— we don't need the sun in the painting anymore.,00:36:21
+nryrznq,209,tutor,The sky.,00:36:27
+nryrznq,210,student,So there we go. Now we'll have to— [unclear],00:36:28
+nryrznq,211,student,"One times 12 is 12, and then 4/8 is 7/8. [unclear]",00:36:43
+nryrznq,212,student,"So, these 3 ones, the last one and that, and this one, those 2 are in 3D. So this one's 3D, and [unclear] the last 4. And this one is 3D, but the last one I don't really know what they would be. [unclear]",00:37:11
+nryrznq,213,background,[unclear],00:37:38
+nryrznq,214,background,[unclear],00:38:01
+nryrznq,215,student,[unclear] [unclear],00:38:01
+nryrznq,216,student,[unclear],00:38:19
+nryrznq,217,tutor,"Hi. Okay, so yes, could you give that part A, the rest of it, a try for me, please? What's the fraction that is remaining?",00:38:31
+nryrznq,218,student,"[unclear] Am I doing both of these? Am I adding them? Oh, well.",00:38:40
+nryrznq,219,tutor,There you go. You just have to add those two together. Well done.,00:38:50
+nryrznq,220,student,"All right, so 6, 12, 3. These two, just these two. What is 1/3 plus 1/3? [unclear]",00:38:57
+nryrznq,221,tutor,"What is 1/3 plus 1/3? These two only, Soren?",00:39:21
+nryrznq,222,student,6/3?,00:39:33
+nryrznq,223,tutor,"No, what is it?",00:39:35
+nryrznq,224,student,Huh?,00:39:38
+nryrznq,225,tutor,2/3.,00:39:38
+nryrznq,226,tutor,"2/3, there you go. 3/4 left. [unclear]",00:39:39
+nryrznq,227,tutor,Now they're asking you to write it as a mixed number. So how would you write it as a mixed number?,00:39:53
+nryrznq,228,student,Mixed number. [unclear],00:40:09
+nryrznq,229,student,What did we do here?,00:40:26
+nryrznq,230,tutor,And we wrote it as a mixed number. [unclear],00:40:34
+nryrznq,231,student,You would... um... you would...,00:40:46
+nryrznq,232,tutor,"Yes. Now, in this question, there was 1 whole and 3/5. Then how did we write it as a mixed number? [unclear]",00:41:07
+nryrznq,233,student,You would do— what number am I thinking? What number am I? This 2 whole meters and 2/3. So how would you— there's a whole and a fraction. So how would you write it as a mixed number?,00:41:18
+nryrznq,234,student,So you would do a whole...the denominator add the whole number. Now the denominator times the whole number which is 6. And then add on the numerator which would be 6.,00:41:48
+nryrznq,235,tutor,"Almost. That is when you are converting that to an improper fraction. When you are writing it as a mixed number, what do you do? You just write the whole number. And the fraction together like this. That's it. Oh, yes, could you write that over here for me, please? [unclear]",00:42:10
+nryrznq,236,student,So...,00:42:41
+nryrznq,237,tutor,There we go.,00:42:44
+nryrznq,238,tutor,And the 2. We have to remember the 2 wholes as well.,00:42:47
+nryrznq,239,student,"So, 4 wholes and—",00:42:59
+nryrznq,240,tutor,"No, 2 wholes and 2/3. This is— they're telling you, let's say there are 2 pizzas like this, okay? And in the next pizza, 2/3 were eaten. Did you understand? [unclear] And this much of the pizzas are eaten. That's what they're saying. 2 pizzas and 2/3 of the third one. Does that make sense, Soren?",00:43:02
+nryrznq,241,student,Yeah.,00:43:30
+nryrznq,242,tutor,"Okay, then how many thirds are there in total? Can you count for me, please? How many thirds are there in total?",00:43:31
+nryrznq,243,student,"1, 2, 3, 4, 5, 6, 7, 8. No, no. [unclear] 1, 2, 3, 4, 5, 6, 7, 8.",00:43:38
+nryrznq,244,tutor,"8, very good. Can you write that for me, please? 8.",00:43:58
+nryrznq,245,student,"Yeah, so it's 8/3.",00:44:10
+nryrznq,246,tutor,"They've already given third, so we can just write 8. 8, that's fine. There you go. Then how about this one? Write this as an improper fraction. So how would you convert it to an improper fraction? [unclear] [unclear]",00:44:16
+nryrznq,247,tutor,"Okay. Would you like to continue with this next time, Soren?",00:44:46
+nryrznq,248,student,Okay.,00:44:51
+nryrznq,249,tutor,Next time.,00:44:55
+nryrznq,250,student,Okay.,00:44:57
+nryrznq,251,tutor,So what do you remember from what we did so far?,00:44:58
+nryrznq,252,student,[unclear] You would times the denominator and the whole number together and add the numerator.,00:45:11
+nryrznq,253,tutor,Very good. And what's an improper fraction?,00:45:24
+nryrznq,254,student,It's a fraction that's improper.,00:45:30
+nryrznq,255,tutor,Yes. An improper fraction is when the numerator is larger than the— [unclear],00:45:36
+nryrznq,256,background,I have to go now.,00:45:40
+nryrznq,257,tutor,Yes. Okay. I have to end the session now as well. So keep up your good work and have an amazing weekend ahead. Goodbye.,00:45:41
+nryrznq,258,background,Bye. [unclear],00:45:48
+nryrznq,259,tutor,[unclear],00:45:48

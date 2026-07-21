@@ -1,0 +1,375 @@
+session_id,utterance_id,role,content,timestamp
+dbjcfje,0,tutor,Yes.,00:00:00
+dbjcfje,1,background,[unclear],00:00:00
+dbjcfje,2,background,"Oh, I'm doing well. Very well, thanks.",00:00:00
+dbjcfje,3,student,Hello.,00:00:03
+dbjcfje,4,tutor,"Hello, Briony.",00:00:06
+dbjcfje,5,student,Hello.,00:00:08
+dbjcfje,6,background,"Hi, Briony. Welcome to your session. How are you doing today?",00:00:09
+dbjcfje,7,student,I'm good. How are you?,00:00:12
+dbjcfje,8,tutor,That's nice to hear. I'm doing good too. So how's your week been so far?,00:00:14
+dbjcfje,9,student,"Yeah, it's been really good.",00:00:19
+dbjcfje,10,tutor,"That's nice. All right. Okay, Briony. So are you ready to go ahead and work on some probability?",00:00:21
+dbjcfje,11,student,Yeah.,00:00:28
+dbjcfje,12,tutor,From last week?,00:00:28
+dbjcfje,13,student,Yeah.,00:00:30
+dbjcfje,14,tutor,Great. Okay. And I did check your questions from last week. You did a good job on the scatter graphs. Good job on that. Keep it up.,00:00:30
+dbjcfje,15,tutor,"Right, so we were working on question 2 about Amar, Mason, and Cece and how they each throw— they do like an experiment and they each throw a coin and they mark out how many of— how many heads and tails they each get. All right, so we stopped at question B, so let's discuss that more. What does question B tell us? [unclear]",00:00:40
+dbjcfje,16,student,Heads and why?,00:01:07
+dbjcfje,17,background,Didn't we say Amar?,00:01:14
+dbjcfje,18,student,Yes. Why?,00:01:16
+dbjcfje,19,background,"Because it has the most flips of heads. Well, you know, amount of times it landed on heads.",00:01:18
+dbjcfje,20,student,"Yeah, exactly. So basically, and Amar is the one who has flipped the coin so many times and got the head also most of the time. So in that, we see that we can prove from Amar that his amount of coin— his amount of heads will prove to us that we will generally be getting a higher amount of heads if we flip the coin. Okay?",00:01:28
+dbjcfje,21,student,Yeah.,00:01:54
+dbjcfje,22,tutor,"Right. Question C, what does it say? [unclear]",00:01:55
+dbjcfje,23,tutor,"Do you agree? So this is a 3-mark question that gives us the idea that there is a bit of working out to do on this type of a question. How are you going to work it out? Well, heads is— I'm not really sure how it'll work out, but I already— well, you already know that heads has got the most flips overall.",00:02:06
+dbjcfje,24,tutor,So how can you say that it's 4 times more likely? How can you say that?,00:02:40
+dbjcfje,25,student,"Oh, I don't know. Is it like 2 times 4 equals— is that— I don't know. I'm not really sure. Is it equivalent to [UNCLEAR]?",00:02:46
+dbjcfje,26,tutor,"Okay, so there is a way of working it out. It's a very simple way. So let me take you step by step on this part. So in order to do Mason's question and to be able to prove that you are more likely to get a heads than a tails 4 times more, here's how we're going to do it first. We're going to be using something called relative frequency. So to do that, first we're going to find out the total number of heads in this experiment and the total number of tails in this experiment and the total flips altogether. Can you fill these three in first?",00:02:46
+dbjcfje,27,student,[unclear] All the heads and all the tails?,00:03:37
+dbjcfje,28,tutor,Yes.,00:03:41
+dbjcfje,29,student,Okay. [unclear],00:03:42
+dbjcfje,30,student,"Oh, yeah, I'll text him. [unclear]",00:03:49
+dbjcfje,31,tutor,"Good, okay.",00:04:11
+dbjcfje,32,student,"flips, wouldn't that be all of them?",00:04:11
+dbjcfje,33,tutor,"Yes, exactly. Wait, what does P(h)?",00:04:11
+dbjcfje,34,tutor,"Okay, now that is where we say the probability of heads and the probability of tails. All right, so the way we're going to do that is we're going to be taking the heads over the flips, total flips. [unclear] 345 over 390. That comes to the probability of heads.",00:04:41
+dbjcfje,35,student,So divide it by— 392.,00:05:02
+dbjcfje,36,student,Yeah.,00:05:06
+dbjcfje,37,tutor,Yes.,00:05:06
+dbjcfje,38,student,"Okay. Oh, I came with 0.88. Do I— [unclear] Wait, let me do that another time.",00:05:07
+dbjcfje,39,background,"Yeah, yeah, that's right.",00:05:18
+dbjcfje,40,student,"Is that— oh, okay.",00:05:20
+dbjcfje,41,background,Yeah.,00:05:21
+dbjcfje,42,student,Yeah. Okay. And do the same thing for the tails also. [unclear],00:05:21
+dbjcfje,43,tutor,"Okay, round it to the nearest second decimal. 2. Very good. Okay, so now that you have these two over here, so you have the probability of the heads and you have the probability of the tails. Now you're going to have to use these these two answers over here to see if you're getting 4 times more likely. So how can we do that to see if we're getting it 4 times more likely?",00:05:41
+dbjcfje,44,student,"What if heads— oh wait, what is it? Yeah. [unclear]",00:06:11
+dbjcfje,45,tutor,"Yeah, exactly. You're going to divide the heads by the tails. The probability of the heads by the probability of the tails.",00:06:18
+dbjcfje,46,student,Should I just do it by the number I got?,00:06:26
+dbjcfje,47,tutor,Yeah. So 0.88 divided by 0.12.,00:06:30
+dbjcfje,48,student,Okay. 7.3.,00:06:34
+dbjcfje,49,tutor,Exactly. So how many times more likely are you to get a heads than a tail?,00:06:37
+dbjcfje,50,student,7.,00:06:45
+dbjcfje,51,tutor,"7 times more likely. Okay, so do you agree with Mason when he says 4 times more likely?",00:06:46
+dbjcfje,52,student,"Well, [unclear] because it's 7.",00:06:54
+dbjcfje,53,tutor,"Yes, exactly. All right, so there's where you have to conclude your explanation by saying Mason is incorrect because you are more likely to get heads than tails, but around 7 times more.",00:06:58
+dbjcfje,54,student,"Okay, yeah.",00:07:15
+dbjcfje,55,tutor,"All right, that's how you conclude your explanation over here.",00:07:16
+dbjcfje,56,tutor,Do you want me to write here?,00:07:19
+dbjcfje,57,student,"Yes, yeah, it'll be like a bit of a practice also, isn't it? [unclear] explanation like that.",00:07:21
+dbjcfje,58,tutor,Type it incorrect.,00:07:27
+dbjcfje,59,student,Yes. [unclear] [unclear],00:07:32
+dbjcfje,60,student,"Yeah, that's fine. All right, okay, so over here we learned something new on how to find relative frequency. Relative frequency is where you do the frequency of events occurring. So in this case, the total number of heads divided by the total number of the entire experiment. Okay, so the relative frequency or the probability of the heads was 0.88, the relative frequency or the probability of tails was 0.12. Okay?",00:07:54
+dbjcfje,61,student,Okay.,00:08:30
+dbjcfje,62,tutor,"Right, so we're going to be dealing with a similar question now. [unclear]",00:08:30
+dbjcfje,63,student,What is the [UNCLEAR]?,00:08:39
+dbjcfje,64,tutor,Oh.,00:08:39
+dbjcfje,65,student,Isn't that one?,00:08:48
+dbjcfje,66,background,"No, we have to do the relative frequency.",00:08:55
+dbjcfje,67,tutor,"Oh, what we just did.",00:08:58
+dbjcfje,68,background,"Yeah, the relative frequency for rolling a 6 for dice 4.",00:09:00
+dbjcfje,69,student,"So we do have to add up, um, all the dice from row 6 and then divide it by 30.",00:09:07
+dbjcfje,70,tutor,"You have to add up all the, uh, all the number, um, uh, not all the dice but both the numbers.",00:09:18
+dbjcfje,71,student,"Oh, the dice 4. Because we're dealing only with dice 4, isn't it?",00:09:27
+dbjcfje,72,student,"Yeah, so from roll 1 and 5 as well?",00:09:33
+dbjcfje,73,tutor,"Yes, yes.",00:09:36
+dbjcfje,74,student,"Yeah, oh, okay. So I got to add that up.",00:09:37
+dbjcfje,75,tutor,So that is the total amount and the roll of—,00:09:41
+dbjcfje,76,student,So 200.,00:09:44
+dbjcfje,77,tutor,"Yes, so 30 divided by 200, that will be your relative frequency.",00:09:47
+dbjcfje,78,student,0.15.,00:09:56
+dbjcfje,79,tutor,Very good.,00:09:58
+dbjcfje,80,student,"Ah, okay.",00:10:00
+dbjcfje,81,tutor,Got it now?,00:10:02
+dbjcfje,82,student,Yeah.,00:10:03
+dbjcfje,83,tutor,Great. [unclear],00:10:04
+dbjcfje,84,student,"Oh, wait, sorry, what does biased mean again? I keep on forgetting. Is it like—",00:10:08
+dbjcfje,85,tutor,Okay.,00:10:13
+dbjcfje,86,student,Yeah.,00:10:14
+dbjcfje,87,tutor,"So biased is like unfair, all right? It's not equal. You know, like the results are not like equal. So unbiased is like being equal. You know, you're being fair.",00:10:15
+dbjcfje,88,tutor,Yeah.,00:10:31
+dbjcfje,89,student,"Right, so for an example, we expect a coin to be unbiased where you would get pretty much equal amounts of head and tails when you go ahead and flip it. But in our previous experiment with Amar and them, we saw that the coin was pretty biased because it didn't give, give them proper equal or close to equal amounts of results. It gave them like a huge difference between heads and tails. In that way, the coin is biased. It's not fair. That's what it means. Okay.",00:10:31
+dbjcfje,90,tutor,"Okay,",00:11:06
+dbjcfje,91,student,"so biased means like not equal, not even close to being equal. So",00:11:07
+dbjcfje,92,background,wouldn't that be vice versa?,00:11:13
+dbjcfje,93,tutor,Why do you think?,00:11:16
+dbjcfje,94,student,"Oh wait, two of them, two of them.",00:11:17
+dbjcfje,95,tutor,Yeah.,00:11:19
+dbjcfje,96,student,"Oh wait, so... [unclear] [unclear]",00:11:20
+dbjcfje,97,student,Be dice 1 and dice 4.,00:11:51
+dbjcfje,98,tutor,Why dice 4?,00:11:55
+dbjcfje,99,student,"Because there's a big jump between them both, both the numbers.",00:12:00
+dbjcfje,100,tutor,Is there anything else that has a big jump?,00:12:08
+dbjcfje,101,student,Dice 2?,00:12:11
+dbjcfje,102,tutor,"Yes, dice 2.",00:12:13
+dbjcfje,103,student,"Wait, so it's not dice 1, it's dice 2 and— wait, so it's not dice 4?",00:12:14
+dbjcfje,104,tutor,No.,00:12:22
+dbjcfje,105,student,Why is it not dice 4?,00:12:23
+dbjcfje,106,tutor,"So we see that it rolls a 6 30 times, all right, and from numbers 1 to 5, it's been rolled 170 times. So if you were to divide it amongst 5 numbers, like 170 divided by 5, you'll get somewhere close to 30.",00:12:26
+dbjcfje,107,student,Okay.,00:12:45
+dbjcfje,108,tutor,"Alright? So it's like 34. So rolling a 6 30 times and then rolling each of these numbers 1 to 5 about 30 to 34 times, it's quite close. Alright? Other [UNCLEAR]?",00:12:47
+dbjcfje,109,background,"Nice one. Rolls a 6 about 16 times. And between 1 to 5 numbers, it rolled about 84 times, meaning that there's 5 numbers and it rolled about 16.8 times around there. So again, that's equal almost. All right, because we have to pay attention of how we see that this column is for numbers 1 to 5, and this is only for number 6.",00:12:47
+dbjcfje,110,student,[unclear],00:13:29
+dbjcfje,111,tutor,Okay.,00:13:30
+dbjcfje,112,student,"So you take this 84 and you divide it amongst 5 numbers to get an average amount of how many times each number might have got. So when you see number 1 to 5, you see 84, you divide it amongst the 5 numbers, you're getting it like 16.8 times for each number, which is very close to rolling a 6 as well.",00:13:31
+dbjcfje,113,student,Okay.,00:13:57
+dbjcfje,114,tutor,"Okay, got it?",00:13:58
+dbjcfje,115,student,Yes.,00:13:59
+dbjcfje,116,tutor,"All right, now this dice 2 over here, how many times in average do you think you would have got for each of the numbers 1 to 5?",00:14:00
+dbjcfje,117,student,"Wait, what? For dice 2?",00:14:11
+dbjcfje,118,tutor,Dice 2.,00:14:14
+dbjcfje,119,student,"Wait, wait, sorry, what did you say?",00:14:17
+dbjcfje,120,tutor,"So Now we need to see whether the dice is biased or unbiased, right? So now dice 1 is unbiased, okay? It's like almost equal. Why is that?",00:14:21
+dbjcfje,121,student,Because the numbers aren't like close in number. [unclear],00:14:39
+dbjcfje,122,tutor,"Okay, so Biased means not equal, right? They're not even close to each other, the value.",00:14:46
+dbjcfje,123,student,Yeah.,00:14:52
+dbjcfje,124,tutor,"Unbiased is where it's fair. You know, it's at least, it's even if it's not completely equal, it's very close to being equal. [unclear] So now how many numbers does a dice have, Briony?",00:14:54
+dbjcfje,125,student,6.,00:15:10
+dbjcfje,126,tutor,"6. 6 numbers, that's right.",00:15:12
+dbjcfje,127,student,"Yeah. So dice 1, how many times when they rolled it did they get a 6?",00:15:14
+dbjcfje,128,student,16.,00:15:21
+dbjcfje,129,tutor,"16 times, that's right. And whenever they roll the dice other time, how many times did they get the other numbers besides 6? 1 to 5? [unclear]",00:15:23
+dbjcfje,130,background,84.,00:15:35
+dbjcfje,131,tutor,"84, that's right. So now what we can do to see on average how many times each number got. So 1 to 5 means there are 5 numbers over there, and that makes it understand that if the entire amount was 84— oops, sorry. Oh, sorry, over there. [unclear]",00:15:36
+dbjcfje,132,student,That's okay.,00:16:02
+dbjcfje,133,tutor,Let me write it for you.,00:16:06
+dbjcfje,134,tutor,"0.15, and then you said not equal over there. So we have 84 times, and that 84 is going to be divided amongst the 5 numbers over",00:16:10
+dbjcfje,135,background,"1, 2, 3, 4, 5. So when you do 84 divided by 5, you get the answer for about 16.8.",00:16:23
+dbjcfje,136,student,"Ah, okay, yeah.",00:16:33
+dbjcfje,137,tutor,"Alright, meaning that each number between 1 to 5, like a 1 got about 16 times as an answer, 2 got about 16 times as an answer, 3 might have been about 17 times, it would have got that as the result. So it's very close to the amount that was rolled as a 6.",00:16:35
+dbjcfje,138,student,Okay.,00:16:55
+dbjcfje,139,tutor,"Alright, then Dice 2 over here, how many times did it get rolled as a— for a 6?",00:16:56
+dbjcfje,140,student,30.,00:17:04
+dbjcfje,141,tutor,30. But how many times did it get rolled on for the other numbers?,00:17:05
+dbjcfje,142,student,100.,00:17:09
+dbjcfje,143,tutor,"100. Then on average, how much do you think each number would have got? How many times?",00:17:09
+dbjcfje,144,student,20.,00:17:15
+dbjcfje,145,tutor,"20. So that's a big gap, right? From 30 to 20?",00:17:16
+dbjcfje,146,student,Yeah. [unclear],00:17:20
+dbjcfje,147,tutor,"Yeah, that's why dice 2 is biased. Okay, it's not.",00:17:21
+dbjcfje,148,student,"Ah, okay.",00:17:27
+dbjcfje,149,tutor,"All right, then dice 3 over here, how many times did it roll as a 6?",00:17:28
+dbjcfje,150,student,3.,00:17:36
+dbjcfje,151,tutor,"3. And then between the numbers 1 to 5, how many times did they get in total?",00:17:37
+dbjcfje,152,student,"3, so it's equal.",00:17:42
+dbjcfje,153,tutor,"No, so between 1 to 5, no, it's 3 here. So that means on average, how many times did each number come across?",00:17:44
+dbjcfje,154,tutor,3 divided by 5.,00:17:53
+dbjcfje,155,student,"Yeah, so 0.6. [unclear]",00:17:56
+dbjcfje,156,tutor,"Yeah, so that means like, you know, they have not even tested it properly. They haven't even tested properly with dice 3, because if you are doing, let's say, rolling a 6, you get 3 times. Rolling 1 to 5 also can't be 3 times. It has to be more.",00:17:59
+dbjcfje,157,background,Okay.,00:18:16
+dbjcfje,158,tutor,"Because there are 5 numbers here and you've got only a probability of 3. That's not really right, isn't it? [unclear] Okay, so over here we got like for 100 you got 20 times a number. For this 84 you got like 16 times for each of the numbers 1 to 5. But for 3 to have for numbers 1 to 5 like that, it's not equal. You see the point there?",00:18:17
+dbjcfje,159,student,Yeah.,00:18:43
+dbjcfje,160,tutor,"Alright, okay. Then how many times do you think on average the numbers 1 to 5, each number would have got? For this part? 170.",00:18:44
+dbjcfje,161,student,[unclear] 34.,00:18:52
+dbjcfje,162,tutor,"34. So you see, each number between 1 to 5 have got 34, and rolling a 6 is about 30 times. So that answer is close again over there.",00:18:59
+dbjcfje,163,background,Yeah.,00:19:10
+dbjcfje,164,tutor,"Not a big— all right. So what are the 2 dices that, that are biased? [unclear]",00:19:10
+dbjcfje,165,tutor,"Wait, dice 4 and 1, was it? Oh, I can't remember the difference.",00:19:19
+dbjcfje,166,student,"So, dice 1 was 16.",00:19:28
+dbjcfje,167,tutor,What is it when it's close? When it's close?,00:19:32
+dbjcfje,168,student,Yeah.,00:19:35
+dbjcfje,169,tutor,"Yeah, so that's close. And then dice 2 was also close.",00:19:36
+dbjcfje,170,student,"No, it was not.",00:19:43
+dbjcfje,171,tutor,No. So is dice 4 and dice 1?,00:19:45
+dbjcfje,172,student,"No, biased is not equal.",00:19:49
+dbjcfje,173,tutor,Okay.,00:19:52
+dbjcfje,174,student,Biased means not close by.,00:19:53
+dbjcfje,175,tutor,Okay.,00:19:56
+dbjcfje,176,student,Okay. So what were the ones that were not close by?,00:19:57
+dbjcfje,177,tutor,2.,00:20:03
+dbjcfje,178,student,2 and?,00:20:04
+dbjcfje,179,tutor,3.,00:20:05
+dbjcfje,180,student,3. 2 and 3.,00:20:06
+dbjcfje,181,tutor,That's right.,00:20:08
+dbjcfje,182,student,Okay.,00:20:09
+dbjcfje,183,tutor,"Okay, so I hope the biased and I know even when I was doing probability, I remember going ahead and having a tough fight between the words biased and unbiased, but once you— [unclear] Okay, so think of biased as not fair and unbiased as fair, okay?",00:20:10
+dbjcfje,184,student,"Okay, okay. Okay, think of it like this. Let's do",00:20:31
+dbjcfje,185,background,"biased, unbiased. Okay, so if you were to use the word fair with them, so for biased we're going to be putting the un on that, and for unbiased we're going to be removing the [UNCLEAR].",00:20:37
+dbjcfje,186,student,Okay.,00:20:37
+dbjcfje,187,tutor,"All right, so biased means unfair and Unbiased means fair. Okay?",00:20:58
+dbjcfje,188,student,Okay.,00:21:04
+dbjcfje,189,tutor,"All right. Now, last question.",00:21:05
+dbjcfje,190,student,"Oh, of these two? Wait, does it mean from the last question I just did?",00:21:11
+dbjcfje,191,background,Two and three.,00:21:17
+dbjcfje,192,student,"Yeah, that is the last two.",00:21:18
+dbjcfje,193,background,"Oh, two and three. Yeah, okay. One of them again. Which one and why? Oh, is it dice 3?",00:21:18
+dbjcfje,194,tutor,Very good. Why do you think so?,00:21:30
+dbjcfje,195,student,I was only thinking that because both the numbers are the same and that's not like really— I put it like— I don't know. [unclear],00:21:32
+dbjcfje,196,tutor,It's not being tested enough. That's why.,00:21:51
+dbjcfje,197,tutor,"Right, and it has very little values over there. So, that is why we think it needs to be tested again in order to get a proper amount of values. Because for 5 numbers to get a total of only 3 as the count is not enough. Because [unclear] numbers 1 to 5, that's 5 numbers over there, and for you to get only 3 as an answer is not enough. At least there should be about 10 to 20.",00:21:53
+dbjcfje,198,tutor,Yeah.,00:22:21
+dbjcfje,199,student,Okay.,00:22:21
+dbjcfje,200,tutor,"Right. Okay, so let's write that down and we'll move.",00:22:22
+dbjcfje,201,background,Oh yeah.,00:22:27
+dbjcfje,202,student,Okay. [unclear],00:22:28
+dbjcfje,203,tutor,What else? Do I need to write some more to that? What do you think?,00:22:49
+dbjcfje,204,student,"Yeah, that's fine. It's fine.",00:22:53
+dbjcfje,205,tutor,Okay.,00:22:55
+dbjcfje,206,student,"Okay, right. So instead of saying because it's not been tested enough, because over here already it says test one of them again, you can say dice 3 as it has been only tested 6 times in total. Oh wait, 6 times. Okay. [unclear]",00:22:56
+dbjcfje,207,student,Oh.,00:23:33
+dbjcfje,208,tutor,Righto. Okay.,00:23:33
+dbjcfje,209,tutor,Let's try this question now. It's an easy one. [unclear],00:23:39
+dbjcfje,210,student,Okay.,00:23:47
+dbjcfje,211,student,Doesn't it have to be out of 1?,00:24:03
+dbjcfje,212,tutor,Yes.,00:24:05
+dbjcfje,213,student,"Okay, so is it like out of 100 basically?",00:24:07
+dbjcfje,214,tutor,Yeah.,00:24:11
+dbjcfje,215,student,"Like zero— yeah, 100. Okay. [unclear]",00:24:12
+dbjcfje,216,tutor,Read this part properly.,00:24:21
+dbjcfje,217,student,"The probability of picking a pink, which we don't have, counter. Is double the prob— of picking a silver counter. But we don't have both of those, so how would we work out [UNCLEAR]?",00:24:24
+dbjcfje,218,tutor,You can do it.,00:24:24
+dbjcfje,219,student,"Uh, would we have to do, uh, divide these two or something?",00:24:45
+dbjcfje,220,background,No. So what do you have to do to find the remaining amount that's needed?,00:24:52
+dbjcfje,221,student,"Uh, oh, I don't know. Well, I know it's have 100, but I just don't know. Oh, is it— wait. See, I don't know. I don't know.",00:25:00
+dbjcfje,222,tutor,"You can do it, Briony. Come on. So all of these 4 numbers have to add up to a 1.",00:25:13
+dbjcfje,223,tutor,Okay.,00:25:19
+dbjcfje,224,student,Yeah. Is it like just going up in like tens?,00:25:19
+dbjcfje,225,tutor,"No, no, no, it's not. It's not like we're skip jumping, I think. [unclear] Okay, so 0.15, 0.25. Okay, so how many more zero points do we need to fill these two? Just the total of these two together, tell me how much it should be. So altogether, if you do white plus purple plus pink plus silver, it will equal to— [unclear] How do we— yes, yeah. Oh wait, no, 60, 60, 60. Yes, because— yeah, over here. Yeah. All right, so 60 is the total of the pink and the silver. So what did they say? What's the key point they told us in the paragraph?",00:25:24
+dbjcfje,226,student,"Uh, the pink counter is double the probability of silver.",00:26:18
+dbjcfje,227,tutor,"Yeah, exactly. So now you need 0.6 more, right? [unclear] So how can you find out? How can you go ahead and try to split the 0.6 where one number is the double of the other.",00:26:25
+dbjcfje,228,student,"What, like bring it back to like 0.2?",00:26:45
+dbjcfje,229,tutor,Yeah.,00:26:48
+dbjcfje,230,student,So one is zero— [unclear],00:26:50
+dbjcfje,231,tutor,"Minus 4. Wait, where did you get 0.6? 0.6 is because— [unclear]",00:26:55
+dbjcfje,232,tutor,60.,00:27:07
+dbjcfje,233,student,"Yeah, exactly, yes.",00:27:08
+dbjcfje,234,tutor,"Okay, so if pink is 60—",00:27:10
+dbjcfje,235,student,"No, both pink and silver are 60 together.",00:27:19
+dbjcfje,236,tutor,"Oh, pink and silver, okay. So it'll be—",00:27:24
+dbjcfje,237,student,Uh... [unclear] 4 and 2. So P could be 4 and 0.42.,00:27:33
+dbjcfje,238,tutor,Yeah.,00:27:44
+dbjcfje,239,student,And then silver would be 0.20.,00:27:45
+dbjcfje,240,tutor,Yeah.,00:27:49
+dbjcfje,241,student,"Ah, okay. I do not like probabilities.",00:27:51
+dbjcfje,242,tutor,"[unclear] But I think you've done a pretty good job over there. Right, so was that part clear now? 0.4 for pink and 0.2 for silver.",00:27:58
+dbjcfje,243,student,"Yeah, okay.",00:28:09
+dbjcfje,244,tutor,"Right, okay. Find the probability of selecting a counter that is not pink.",00:28:11
+dbjcfje,245,student,"Okay, so, um, Is it 0.60?",00:28:16
+dbjcfje,246,tutor,"Yes, exactly.",00:28:27
+dbjcfje,247,student,Yeah. Okay.,00:28:31
+dbjcfje,248,tutor,"Great. See, there you go. You did well. So let's try this question out now.",00:28:32
+dbjcfje,249,student,Okay. [unclear],00:28:43
+dbjcfje,250,student,"Okay, so I have the half 48. All right. [unclear] Okay.",00:28:55
+dbjcfje,251,student,"0.4— [unclear] No, 24.",00:29:20
+dbjcfje,252,tutor,"Okay, good. Yeah, nice start.",00:29:26
+dbjcfje,253,tutor,[unclear],00:29:49
+dbjcfje,254,student,"Well, and then we do, it's out of 100, so.",00:29:49
+dbjcfje,255,tutor,"Oh, but then— [unclear] Yeah, we just— oh, wait.",00:30:22
+dbjcfje,256,tutor,You've done great so far.,00:30:33
+dbjcfje,257,student,"No, yeah, we just got to make it equal 100, I think. [unclear] 16, yeah, so 0.69.",00:30:34
+dbjcfje,258,tutor,"Yeah, exactly. Good, 2 marks on that. And then Complete the table.",00:30:49
+dbjcfje,259,tutor,Yeah.,00:31:00
+dbjcfje,260,student,"Oh wait, no, they are, that, yeah. [unclear] Of not picking up on. [unclear]",00:31:00
+dbjcfje,261,tutor,Yeah.,00:31:25
+dbjcfje,262,student,Okay.,00:31:25
+dbjcfje,263,tutor,"Nice work there, Briony. Good job. All right. So how do you feel about yourself?",00:31:32
+dbjcfje,264,student,Good. That was a lot more easier.,00:31:38
+dbjcfje,265,tutor,Okay. All right. So let's try the challenge question. I have a feeling you're going to do really well on this too. [unclear],00:31:41
+dbjcfje,266,student,Oh.,00:32:03
+dbjcfje,267,tutor,straight away.,00:32:03
+dbjcfje,268,tutor,Wait. [unclear],00:32:16
+dbjcfje,269,student,"Like 20. Oh wait, it says it here. Would we do— wait, do we have to add up all the probabilities and then times it by 20?",00:32:40
+dbjcfje,270,tutor,Yeah.,00:32:54
+dbjcfje,271,student,"Yeah, okay. Okay. [unclear] Wait, would that be 1? Oh no, it wouldn't. Yeah.",00:32:55
+dbjcfje,272,tutor,"No, no, what you mean— what you have to do, so all of them together is equal—",00:33:10
+dbjcfje,273,student,Is 10.,00:33:16
+dbjcfje,274,tutor,"Yeah, it's 10, and it— the actual amount is 20.",00:33:17
+dbjcfje,275,student,Yeah.,00:33:23
+dbjcfje,276,tutor,"They want you to know, given that there are 20 sweets in the bags, then all of this is 20 sweets totally. How many are lime flavored? What is the actual amount of the lime flavor? Oh, one. Oh, they want to find out the real one of it. Oh, okay.",00:33:23
+dbjcfje,277,student,"Yeah, yeah.",00:33:41
+dbjcfje,278,tutor,"Okay. Do we do 20 divided by the whole, so 10?",00:33:43
+dbjcfje,279,student,No.,00:33:50
+dbjcfje,280,tutor,Oh. So— [unclear] I'm not sure.,00:33:51
+dbjcfje,281,student,Well... [unclear] Do we not need 20 then?,00:34:02
+dbjcfje,282,tutor,You do need the 20.,00:34:09
+dbjcfje,283,student,"So if this then equals 10... equals 10, yeah, not 1. And we just want this, then this would be 6, this would be 3, This would be 1. And then do we do— oh, no, that's wrong, I think.",00:34:11
+dbjcfje,284,student,"So keep the 6, the 3, and the 1. Keep that.",00:34:36
+dbjcfje,285,tutor,"Oh, okay. And then it's 20. Do we just double it? So it's like this [unclear] 12.",00:34:38
+dbjcfje,286,student,"Yes. And then that's 6, and that's 2.",00:34:50
+dbjcfje,287,tutor,"Yeah, exactly.",00:34:54
+dbjcfje,288,student,"Oh, okay.",00:34:56
+dbjcfje,289,tutor,So how many are lime-flavored?,00:34:57
+dbjcfje,290,student,2.,00:34:59
+dbjcfje,291,tutor,"2. Or you can also do 0.1 times the 20, and you will get the 2.",00:35:01
+dbjcfje,292,student,"Oh, okay. I thought we had to times all of it.",00:35:08
+dbjcfje,293,tutor,"Not all of it, no.",00:35:12
+dbjcfje,294,student,Okay. [unclear],00:35:14
+dbjcfje,295,tutor,"Okay, but that was a really good try over there. Really appreciate that over there, Briony. Good job. So how has it been so far, right from the start till the, um, challenge? So far?",00:35:16
+dbjcfje,296,student,"Yeah, yeah, it was okay. I just got a bit confused on like the bias. I think I need to learn like the math language, I think.",00:35:29
+dbjcfje,297,tutor,"Okay, all right. So bias, what do you think it means now?",00:35:37
+dbjcfje,298,background,"Hmm, it's not [UNCLEAR]. Equals it?",00:35:41
+dbjcfje,299,tutor,"Yeah, that's right.",00:35:46
+dbjcfje,300,background,And then unbiased is equal.,00:35:47
+dbjcfje,301,tutor,Yes.,00:35:50
+dbjcfje,302,background,"Yeah, okay.",00:35:50
+dbjcfje,303,tutor,"Okay, great. Right, so now we're going to go ahead and use our probability brain over here and correct two incorrect questions. Go for it, Briony. I know you know better than the people who have already done this question over here. [unclear]",00:35:51
+dbjcfje,304,student,There was a— I know. [unclear],00:36:21
+dbjcfje,305,student,"I'm thinking of doubling the peach, but that's literally what he did, so I don't think that's right.",00:36:57
+dbjcfje,306,student,But it says if not. [unclear],00:37:02
+dbjcfje,307,tutor,"So read the top part. A bag contains lemon, mango, and peach sweets. Carter is twice as likely to pick a mango sweet than a peach. What is the probability Carter does not pick a mango sweet? So all Carter did was get get the mango amount. He didn't get the whole question.",00:37:08
+dbjcfje,308,tutor,"Oh, so that is right.",00:37:33
+dbjcfje,309,student,"Yeah, this part is right, but—",00:37:34
+dbjcfje,310,tutor,"Ah, okay. Yeah. And then, so this would also be 0.4, I'm guessing. [unclear]",00:37:36
+dbjcfje,311,tutor,"So 0.6, would it be?",00:37:56
+dbjcfje,312,student,"Yeah, exactly.",00:38:01
+dbjcfje,313,tutor,"Yeah, okay.",00:38:02
+dbjcfje,314,student,That's right.,00:38:04
+dbjcfje,315,tutor,And then that would also be 0.4.,00:38:05
+dbjcfje,316,student,Yeah.,00:38:08
+dbjcfje,317,tutor,"Good. [unclear] Right, so that's the end of this lesson over here, Briony. Very well done. So how was probability for How was it for you?",00:38:13
+dbjcfje,318,student,"Yeah, it was okay. It got easier, I think, as I went.",00:38:24
+dbjcfje,319,tutor,"Great. And also, can you tell me how we find relative frequency?",00:38:30
+dbjcfje,320,student,Relative frequency? [unclear],00:38:35
+dbjcfje,321,tutor,"Yes, we did that.",00:38:38
+dbjcfje,322,student,Oh gosh.,00:38:43
+dbjcfje,323,tutor,"Let's see. Let me give you something like, okay, let's be doing a coin. And I get like 218 heads with about 49 tails. You get about 350 heads with about 80 tails. [unclear]",00:38:45
+dbjcfje,324,student,"This is what you've been doing? Oh my God, okay.",00:39:06
+dbjcfje,325,tutor,"Okay, can you tell me the relative frequency? Foreheads.",00:39:09
+dbjcfje,326,student,Okay. [unclear],00:39:18
+dbjcfje,327,background,"Yeah, yeah. And then— wait, is it just both the heads or is there like a certain So relative frequency for heads. So all the heads possible.",00:39:25
+dbjcfje,328,student,"Which is that. And then do you have to— [unclear] Oh, I don't know where to go next.",00:39:50
+dbjcfje,329,tutor,"Okay, so relative frequency. So let's say you're going to find a relative frequency of a particular event. So the event in this case, relative frequency—",00:40:04
+dbjcfje,330,tutor,Is that a percentage?,00:40:15
+dbjcfje,331,student,"Not percentage, but [UNCLEAR]. So relative frequency of an event. In this case, the event is heads.",00:40:18
+dbjcfje,332,tutor,Yeah.,00:40:18
+dbjcfje,333,student,So that is done by taking the total number of heads And you divide it—,00:40:26
+dbjcfje,334,student,By 2? [unclear],00:40:37
+dbjcfje,335,tutor,"No, by the total number of flips, as in every—",00:40:39
+dbjcfje,336,student,So is that not 2?,00:40:47
+dbjcfje,337,tutor,"Oh, wait, what? Wouldn't that just be 568 divided by 568 then?",00:40:48
+dbjcfje,338,student,"No, 568 divided by all these 4 values.",00:40:57
+dbjcfje,339,tutor,"Oh, all of them. Oh, okay. Yes, okay. So... [unclear]",00:41:01
+dbjcfje,340,tutor,"Yeah, yeah.",00:41:27
+dbjcfje,341,student,0.9? Keep it to 2 decimal places.,00:41:30
+dbjcfje,342,tutor,0.94.,00:41:39
+dbjcfje,343,student,"Yeah, you sure? 5? Okay, so the total number of heads, how much is it? [unclear]",00:41:42
+dbjcfje,344,tutor,0.95.,00:41:52
+dbjcfje,345,student,"No, how much is the [UNCLEAR]?",00:41:54
+dbjcfje,346,tutor,"Oh, I put— wait, I put the wrong number in my calculator, sorry.",00:41:54
+dbjcfje,347,background,"Okay, no worries.",00:42:02
+dbjcfje,348,tutor,I put 65 instead of 56.,00:42:03
+dbjcfje,349,background,Okay. So 568 needs to be divided by all those numbers.,00:42:08
+dbjcfje,350,student,"Which is 697, I think. Yeah, so 0.81.",00:42:18
+dbjcfje,351,tutor,"Yes, that's right. Yeah, that's the relative frequency of the heads. Or more like the probability of heads. Okay.",00:42:28
+dbjcfje,352,student,"Yeah, okay.",00:42:40
+dbjcfje,353,tutor,"All right, so was that clear now, Briony, on finding the relative frequency?",00:42:42
+dbjcfje,354,student,"Yes, it was.",00:42:47
+dbjcfje,355,tutor,"Okay, great. So let's see what our next lesson has in store for us. We're just going to brief up through it and we'll keep the good part of it for next week. So using index laws, what do you know about index laws, Briony?",00:42:48
+dbjcfje,356,student,[unclear] squares.,00:43:07
+dbjcfje,357,tutor,That's right.,00:43:10
+dbjcfje,358,student,"Yeah. So if the bases are the same, you can add the squares. [unclear]",00:43:11
+dbjcfje,359,tutor,"Yeah, that's right. So as long as you have multiplication, then what do you do with the indexes?",00:43:18
+dbjcfje,360,student,You times them?,00:43:28
+dbjcfje,361,tutor,"No, you add them. 4 6. Wait,",00:43:31
+dbjcfje,362,student,"wait, so if a a",00:43:36
+dbjcfje,363,tutor,Yeah.,00:43:38
+dbjcfje,364,student,"You would, wait. [unclear]",00:43:38
+dbjcfje,365,tutor,"No, no, what I mean is if you have a question like this, the bases are the same. The bases are a, okay?",00:43:41
+dbjcfje,366,student,"Oh yeah, you would times them, yeah.",00:43:49
+dbjcfje,367,tutor,"Yeah, and if you have multiplication, then you add the indexes. That means you add 4 and 6. If you have division, then what do you do with the 4 and 6?",00:43:51
+dbjcfje,368,tutor,"Oh, do you times them? No, you take them away.",00:44:04
+dbjcfje,369,student,"You take them away. Very good. [unclear] Exactly. So when it comes to index laws, we're only either dealing with multiplication of the bases or division of the bases. So if you have a multiplication, you go ahead and you add the indexes, the squares, as in. And if you have a division for the bases, you go ahead and take away the squares. All right?",00:44:09
+dbjcfje,370,student,Yeah. [unclear],00:44:33
+dbjcfje,371,tutor,"Okay. Right, Briony. So that's a wrap for today. So go ahead, try out your probability question. It's gonna be pretty straightforward, and I know you can do it because you worked very hard throughout. Okay? So give those two questions a shot. Don't leave them behind, and leave your feedback as well. All right?",00:44:34
+dbjcfje,372,student,Thank you. Bye.,00:44:54
+dbjcfje,373,tutor,Okay. See you next week. Bye.,00:44:55

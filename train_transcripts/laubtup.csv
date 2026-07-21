@@ -1,0 +1,320 @@
+session_id,utterance_id,role,content,timestamp
+laubtup,0,tutor,Hello?,00:00:00
+laubtup,1,background,[unclear],00:00:00
+laubtup,2,student,Hello.,00:00:01
+laubtup,3,tutor,Hi.,00:00:02
+laubtup,4,student,"Hi, Tobias. How are you?",00:00:03
+laubtup,5,tutor,I'm good. How are you?,00:00:05
+laubtup,6,student,"I'm fine, thank you. And how's the day going?",00:00:07
+laubtup,7,student,It's going good. How's yours?,00:00:11
+laubtup,8,tutor,"My day is also fine. It was full of classes and all. All right, let's start. So, uh, Tobias, we were doing this topic here, solving real-life problems with remainders. Do you recall?",00:00:14
+laubtup,9,student,"Uh, yes.",00:00:29
+laubtup,10,tutor,"Yeah, and we solved the questions here, and we have learned how we can find remainders and how to write them.",00:00:33
+laubtup,11,student,Yeah.,00:00:40
+laubtup,12,tutor,"Yeah? Okay, and we also completed a few questions here.",00:00:41
+laubtup,13,student,Yes.,00:00:47
+laubtup,14,tutor,So it's time that we'll start from the [unclear] slide and the first question here. Can you go through the question first and tell me how will you solve?,00:00:48
+laubtup,15,student,Which of these division calculations have a remainder of 2? [unclear],00:00:59
+laubtup,16,tutor,What do you think?,00:01:13
+laubtup,17,student,Hmm. So it's one of these. So one of them.,00:01:17
+laubtup,18,tutor,Which of these? It says it means there may be one or there may be two. More than one.,00:01:26
+laubtup,19,tutor,More than one. Let's go and look one by one. What do you think?,00:01:33
+laubtup,20,student,"Um, 17 divided by 7, probably no, I don't think so.",00:01:41
+laubtup,21,tutor,"So 17 divided by 7, what will be the remainder there?",00:01:52
+laubtup,22,student,Would the remainder be [UNCLEAR]? 17 divided by 7. [unclear] That be—,00:01:56
+laubtup,23,tutor,How many 7 goes into 17?,00:02:14
+laubtup,24,student,How many 7 goes into 17?,00:02:19
+laubtup,25,student,"Once. Oh no, 3 times. [unclear] Yeah. Oh, so that— is that it? The remainder? 2?",00:02:27
+laubtup,26,tutor,"Okay, first can you tell me, uh, how many 7 goes into 17? Look at your 7 times table and think how many 7s we can pull out of 17. 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, and 84.",00:02:41
+laubtup,27,tutor,So we have only 17. How many 7s you can make out of 17?,00:03:06
+laubtup,28,student,"Um, 14. [unclear]",00:03:14
+laubtup,29,tutor,"Yeah, but— pardon?",00:03:17
+laubtup,30,student,How many times did you get 14?,00:03:20
+laubtup,31,tutor,"Um, once.",00:03:23
+laubtup,32,student,Once?,00:03:26
+laubtup,33,tutor,Yes.,00:03:28
+laubtup,34,student,"Uh, I don't think it should be once.",00:03:30
+laubtup,35,tutor,"Uh, what if it's twice? [unclear] 7, 14. 7 times 2 equals 14.",00:03:32
+laubtup,36,tutor,Yes.,00:03:39
+laubtup,37,student,So what will be remainder there?,00:03:42
+laubtup,38,tutor,2. [unclear],00:03:50
+laubtup,39,student,"17 take away 14, is that 2?",00:03:52
+laubtup,40,tutor,"I know, 17 take away 14 is 16, 15, 14. [unclear]",00:03:58
+laubtup,41,tutor,2.,00:04:11
+laubtup,42,student,3.,00:04:15
+laubtup,43,tutor,So are we getting 2 remainder here?,00:04:18
+laubtup,44,student,3.,00:04:21
+laubtup,45,tutor,"No, we are getting 3. You can write 3 here so that we don't get confused later on. And let's check what's the remainder here. Think how many 5s go into 12, and then what's the remainder?",00:04:22
+laubtup,46,student,10.,00:04:51
+laubtup,47,tutor,"10, and the remainder is 2. The remainder is 2. [unclear] [unclear]",00:04:53
+laubtup,48,tutor,Let's write that here.,00:05:02
+laubtup,49,student,"Okay, 6, 12, 18, 24, 32. Is there no remainder?",00:05:11
+laubtup,50,tutor,There can be remainder. How many 6s goes into 32?,00:05:23
+laubtup,51,student,5.,00:05:33
+laubtup,52,tutor,5. 6 times 5 is?,00:05:34
+laubtup,53,student,6 times 5 is 32.,00:05:38
+laubtup,54,tutor,32. Can you write the multiples of 6 here?,00:05:41
+laubtup,55,student,"Um, okay.",00:05:47
+laubtup,56,tutor,"Okay, uh, don't worry. Let's check the multiples of 6 here. [unclear] 6, 12, 18, and then?",00:05:48
+laubtup,57,student,24.,00:06:06
+laubtup,58,tutor,"24, then?",00:06:07
+laubtup,59,student,32.,00:06:09
+laubtup,60,tutor,"32. Okay, let's count. 1, 2, 3, 4,",00:06:10
+laubtup,61,tutor,5 and 6.,00:06:18
+laubtup,62,student,6.,00:06:20
+laubtup,63,tutor,It's 30. 6 times 5 is?,00:06:22
+laubtup,64,student,30.,00:06:28
+laubtup,65,tutor,"30 and not 32. So over here, the remainder would be?",00:06:30
+laubtup,66,student,"The remainder would be... [unclear] See that? 2. 2. Yeah, 6 times 5 is 30, so we'll subtract them. 32 minus 30 equals 2. Yeah, great job, Tobias! You're doing very good in your divisions. Let's check for the next question. [unclear]",00:06:36
+laubtup,67,student,7 divided by 3.,00:07:07
+laubtup,68,tutor,Which is?,00:07:11
+laubtup,69,student,"You can't, so the closest you can get is 6.",00:07:11
+laubtup,70,tutor,Mm-hmm.,00:07:16
+laubtup,71,student,And then there's a remainder of 1.,00:07:18
+laubtup,72,tutor,Mm-hmm.,00:07:21
+laubtup,73,student,So would it be 1?,00:07:23
+laubtup,74,tutor,Mm-hmm.,00:07:25
+laubtup,75,student,"Okay, and then 11 divided by 4 is 8. That's the closest to it.",00:07:27
+laubtup,76,tutor,Mm-hmm.,00:07:35
+laubtup,77,student,And then the remainder is 3. 3 or 2? Count and check. Would it be 3 or 2?,00:07:36
+laubtup,78,student,"Um, 2. Would be 2.",00:07:46
+laubtup,79,tutor,"Mm-hmm. 8, 11 minus 8, is that 2?",00:07:53
+laubtup,80,student,"11 minus 8 is... [unclear] 8, 9, 9, 10, 11.",00:07:57
+laubtup,81,tutor,11.,00:08:12
+laubtup,82,student,That's— [unclear],00:08:13
+laubtup,83,tutor,So 3.,00:08:14
+laubtup,84,student,3.,00:08:16
+laubtup,85,background,Then 18 divided by 8. The closest one is 16. Then there's a remainder of—,00:08:20
+laubtup,86,student,Remainder of 2. [unclear],00:08:32
+laubtup,87,tutor,"Okay, so can you circle the ones that has the remainder 2?",00:08:34
+laubtup,88,student,Okay.,00:08:41
+laubtup,89,tutor,I meant the question like this.,00:09:02
+laubtup,90,student,"[UNCLEAR] Oh, I think I understand. I think I understand. You have to do...",00:09:02
+laubtup,91,tutor,"Okay, great job, Tobias. I must say that you have a very good hand in your times table. Well done.",00:09:22
+laubtup,92,student,or 25.,00:09:22
+laubtup,93,tutor,Thank you.,00:09:22
+laubtup,94,background,You're most welcome. Let's go and try the next question. [unclear],00:09:33
+laubtup,95,background,If I have 40 meters of bunting for the school fair. What length of the bunting will be left over if I cut it into lengths of 6 meters? So what do you do? 40 divided by 6.,00:09:41
+laubtup,96,tutor,Well done.,00:10:04
+laubtup,97,student,"So... so... [unclear] get is— well, 40 is in the 6 times table.",00:10:06
+laubtup,98,tutor,But we can always get the remainder and closest number.,00:10:25
+laubtup,99,student,"Yes, we could always— so the closest number is 32. 32, um, like you have to do—",00:10:28
+laubtup,100,tutor,"32, are you sure? Do we get 32 in 6 times table?",00:10:37
+laubtup,101,tutor,"Right, no, you got 30. So the remainder is 10.",00:10:40
+laubtup,102,student,Mm-hmm.,00:10:44
+laubtup,103,tutor,"Okay. Can you write the 6 times table here, Tobias?",00:10:46
+laubtup,104,student,Okay. Uh... 6. [unclear],00:10:50
+laubtup,105,tutor,12. 18. [unclear],00:11:00
+laubtup,106,tutor,Then that's the closest number to 40.,00:11:22
+laubtup,107,student,"Can you write a bit more multiples? 6, 12, 18, 24, 30, 36.",00:11:28
+laubtup,108,tutor,Mm-hmm. And the next one is? [unclear],00:11:41
+laubtup,109,student,"Since the number's 3 up here, I think it, like, it'll be like—",00:11:46
+laubtup,110,tutor,42. 42. So which is the closest number and smaller than 40 here?,00:11:58
+laubtup,111,student,36.,00:11:58
+laubtup,112,tutor,36. How many times are we getting 36?,00:11:58
+laubtup,113,student,3.,00:12:16
+laubtup,114,tutor,3 times? How many times 6 is 36? [unclear],00:12:18
+laubtup,115,tutor,5.,00:12:28
+laubtup,116,student,6 times.,00:12:31
+laubtup,117,tutor,Let's count.,00:12:31
+laubtup,118,student,"1, 2, 3, 4, 5, 6.",00:12:33
+laubtup,119,tutor,"6. So what do you think, what will be the leftover part?",00:12:42
+laubtup,120,student,Would it be... the leftover is... would it be 4 leftover?,00:12:51
+laubtup,121,tutor,"Yes, absolutely right. Can you write that and write your answer here? 4 what?",00:13:08
+laubtup,122,student,[unclear],00:13:17
+laubtup,123,tutor,For remainder.,00:13:21
+laubtup,124,background,"Remainder, but we are writing the length here, Tobias. So do you think we should put a unit here?",00:13:23
+laubtup,125,student,For the— when you put 4L for length.,00:13:32
+laubtup,126,tutor,"4— look, what are we working with? We are working with 6 meters. We are working with",00:13:36
+laubtup,127,tutor,Meters.,00:13:43
+laubtup,128,background,Meters.,00:13:43
+laubtup,129,tutor,Yeah. So that was our new learning. We'll always put the unit that's given in the question.,00:13:45
+laubtup,130,student,Is that 4 meters for [UNCLEAR]?,00:13:54
+laubtup,131,tutor,"Yeah, yeah. And I really like the way you solved it mentally. Great job, Tobias. Let's go for the third question.",00:13:54
+laubtup,132,student,There are 18 children to take to us. School football match. Each car can take 4 children. How many cars needed? So there's 18 kids and each have 4 cars. [unclear],00:14:05
+laubtup,133,tutor,Can you draw 18 kids here? Can you draw 18 squares?,00:14:27
+laubtup,134,student,Kids in squares? Okay. Small squares like this size.,00:14:34
+laubtup,135,student,Okay. [unclear],00:14:43
+laubtup,136,tutor,"2, 3, 4, 5, 6, 7, 8, 9,",00:15:02
+laubtup,137,student,[unclear],00:15:34
+laubtup,138,tutor,"Okay, well done. We have a few more here, so we don't have to draw more. 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 2 more, 17, 18.",00:15:34
+laubtup,139,tutor,"So now look at the question, Tobias. So each car can take 4 children.",00:15:54
+laubtup,140,student,Yes.,00:16:02
+laubtup,141,tutor,Yeah. How can you show that using these tiles?,00:16:03
+laubtup,142,student,"Um, so, so there's 18 children.",00:16:09
+laubtup,143,tutor,Mm-hmm.,00:16:14
+laubtup,144,student,"So you would have to do groups, basically. [unclear] You can use the shapes ellipse.",00:16:16
+laubtup,145,student,"Okay, so for the—",00:16:24
+laubtup,146,tutor,"Yeah, great.",00:16:31
+laubtup,147,student,[UNCLEAR],00:16:31
+laubtup,148,tutor,Yes.,00:16:38
+laubtup,149,student,"For the— for this, the 2, and there's another 2, and then this does— so then these are like these ones.",00:16:48
+laubtup,150,tutor,Mm-hmm.,00:17:11
+laubtup,151,student,"What if, yeah, what if we make a group of 4 here?",00:17:14
+laubtup,152,tutor,"Um, would that be—",00:17:18
+laubtup,153,student,Can we do that?,00:17:21
+laubtup,154,tutor,Pardon?,00:17:26
+laubtup,155,student,What if we just make a group of 4 here? The bottom 4s.,00:17:27
+laubtup,156,tutor,"Oh, okay.",00:17:31
+laubtup,157,student,"Okay, let's try to do that.",00:17:32
+laubtup,158,tutor,Great. Okay. Now look at the question. Each car can take 4. So how many cars are we going to need here?,00:17:40
+laubtup,159,student,"[unclear] Would you need— so you're going to have to have 5 cars, but you need to put 18 You need to put 4 children in one car, so... [unclear]",00:17:49
+laubtup,160,tutor,So what's your answer here?,00:18:16
+laubtup,161,student,I have to do 7 groups.,00:18:19
+laubtup,162,tutor,7. Why do we need 7 groups here?,00:18:23
+laubtup,163,student,"Because there's 4, 8, 12, 16. 16 is the highest you can get. So then you have to do— so, I don't know, the remainder is 2. [unclear]",00:18:29
+laubtup,164,tutor,"Yes, remainder is 2, but here the question is asking how many cars we will need. It's not asking about the remainders. [unclear]",00:18:51
+laubtup,165,tutor,"4 children will go in this car, first car.",00:19:03
+laubtup,166,student,Mm-hmm.,00:19:07
+laubtup,167,tutor,Second.,00:19:08
+laubtup,168,student,Yes.,00:19:10
+laubtup,169,tutor,And?,00:19:11
+laubtup,170,student,"Third, fourth. Oh no, 1, 2, 3, 4.",00:19:12
+laubtup,171,student,"This one doesn't have any grip. The one that's by itself, the smooth one.",00:19:22
+laubtup,172,tutor,"Okay, so how many cars do you think we will need here?",00:19:28
+laubtup,173,student,"Um, would you need— [unclear] I can't really figure it out.",00:19:32
+laubtup,174,tutor,"Okay, let's try this way, okay? Like we understood that, like, this is car 1, this is car 2, this is car 3, this is car 4. Okay, we— 4 children can take a car, or sorry, each car can take 4 children.",00:19:49
+laubtup,175,tutor,Yes.,00:20:14
+laubtup,176,student,Yeah? So we have how many cars?,00:20:16
+laubtup,177,tutor,4.,00:20:19
+laubtup,178,student,"4 cars. So are you gonna leave these 2 kids behind? [unclear] Okay, so over here, 16 children can accommodate in 4 cars, and then we have 2 more children left. Can we get another car for them also?",00:20:21
+laubtup,179,student,Yes.,00:20:51
+laubtup,180,tutor,"Yes. So total, how many cars are we going to need?",00:20:52
+laubtup,181,student,5.,00:20:55
+laubtup,182,tutor,"5. Let's write our answer. Well done, Tobias.",00:20:57
+laubtup,183,tutor,"Yes, let's write our answer, Tobias. [unclear]",00:21:16
+laubtup,184,student,Hello.,00:21:21
+laubtup,185,background,Hello.,00:21:26
+laubtup,186,tutor,"Yeah, let's continue. Let's write our answer.",00:21:27
+laubtup,187,student,I did.,00:21:31
+laubtup,188,tutor,"Oh, you did? I can't see here. Did you write here?",00:21:33
+laubtup,189,student,Yeah.,00:21:38
+laubtup,190,tutor,"Okay, maybe it will get— it will take some time to get updated. Let's go and try the fourth question. [unclear]",00:21:39
+laubtup,191,student,Can you see it now?,00:21:47
+laubtup,192,tutor,"No, I don't. But don't worry, if you have written, it will get updated. It takes some time.",00:21:51
+laubtup,193,tutor,Hello?,00:22:01
+laubtup,194,student,Yeah.,00:22:02
+laubtup,195,tutor,"Oh. So— [unclear] It takes 7 minutes to make a pom-pom. How many complete pom-poms can be made in 30 minutes? So it takes 7 minutes to finish, to make a pom-pom. So would it take you... so 7, 14, 21. [unclear]",00:22:05
+laubtup,196,tutor,So the highest you can get is 21.,00:22:45
+laubtup,197,student,Mm-hmm.,00:22:48
+laubtup,198,tutor,Okay.,00:22:50
+laubtup,199,student,So...,00:22:51
+laubtup,200,tutor,Okay.,00:22:52
+laubtup,201,student,[UNCLEAR],00:22:52
+laubtup,202,tutor,Can you tell me the 7 times table?,00:22:53
+laubtup,203,student,"7, 14, 21, 35, 42.",00:22:56
+laubtup,204,tutor,Okay. Is that...?,00:23:03
+laubtup,205,student,Pardon?,00:23:08
+laubtup,206,tutor,What comes after 21? What comes after 21?,00:23:08
+laubtup,207,student,"20... oh, 28.",00:23:11
+laubtup,208,tutor,"28. And then 35. So what do you think? How many, um, pom-poms can we make in 30 minutes?",00:23:14
+laubtup,209,student,"Um, could you make 28 pom-poms?",00:23:23
+laubtup,210,tutor,"Now, one takes 7 minutes.",00:23:29
+laubtup,211,student,"Yes. So if One takes 7 minutes. Would it take— it would take— [unclear] I can't figure it out, but—",00:23:32
+laubtup,212,tutor,"All right, all right, no worries. Let's understand in a different way. Okay, so let's— we are making pom-pom. So let's take we have made the first pom-pom in the first 7 minutes. Okay. [unclear] Okay. And then another pom-pom, 7 plus 7, 14 minutes.",00:24:05
+laubtup,213,student,"14. And then another 7— 14 plus 7, 21 minutes.",00:24:25
+laubtup,214,student,"21. 1. Okay, then another 4th one. 28 minutes are gone. Do we have more times to make another pom-pom till 35 minutes?",00:24:31
+laubtup,215,student,"Um, yes, one hour.",00:24:43
+laubtup,216,tutor,"No, 35. So we can't make the 5th pom-pom. How many pom-poms can we make? Can we make— [unclear]",00:24:47
+laubtup,217,tutor,This is— these are the pom-poms.,00:25:03
+laubtup,218,student,"Oh, 4.",00:25:05
+laubtup,219,tutor,"4 pom-poms. Yes. So what we can do here, we can again use our division method. How many 7 goes into 30?",00:25:06
+laubtup,220,student,"How many 7 goes into 30? [unclear] Um, 20? 28? How many 7s? How many 7s? 1, 2, 3, and 4.",00:25:17
+laubtup,221,tutor,4. So we can make 4 pom-poms. Can you write your answer? That's right. [unclear],00:25:36
+laubtup,222,student,4.,00:25:49
+laubtup,223,tutor,"Great job, Tobias. Okay, so Tobias, can you tell me how did we solve the third question? Can you explain that?",00:25:49
+laubtup,224,student,"So, you have to look at the question really, then like, basically you have to work it out. Like, so you have, say, like, you have 7 minutes to make a pom-pom. You have, how many minutes, how many pom-poms can you make in 30 minutes?",00:25:58
+laubtup,225,tutor,"No, I'm talking about this question, the third one.",00:26:20
+laubtup,226,student,"Oh, the 18 [UNCLEAR]. You have to do like 4, 18, like wherever dots, circles were, and then you have to make like circles of groups of 4 basically, and then however many are like there, you can just like count them up to see how much people can actually",00:26:23
+laubtup,227,tutor,"Okay, great. But why the— why our answer is not 4? Why did we take 5th car?",00:26:49
+laubtup,228,student,"Um, because, because there was only one group that didn't have 4 people, so you just have to bunch them, like bunch them up. [unclear]",00:27:01
+laubtup,229,tutor,"Okay, uh, yes, you are somewhere right. That was very good explanation, Tobias. But what we can also think Here that 18 children are going to school, right, for football match.",00:27:12
+laubtup,230,tutor,Yes.,00:27:27
+laubtup,231,student,"But, I mean, this thing doesn't matter here that they can't form a group of 4. They have to go to school, right? [unclear]",00:27:28
+laubtup,232,tutor,"Yes, they have to.",00:27:40
+laubtup,233,student,"Yeah, so we would need a car for them as well.",00:27:42
+laubtup,234,tutor,Yes.,00:27:47
+laubtup,235,background,"Yeah, so that's why we need 5 cars and not just 4.",00:27:48
+laubtup,236,tutor,"Okay. Yeah, that makes sense.",00:27:55
+laubtup,237,background,"Okay, great. So that was again our new learning. Let's go and try our last question of this topic. Can you read the question first, Tobias, and tell me what did you understand here?",00:27:58
+laubtup,238,student,"[unclear] is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When it is divided by 8, the remainder is 1. What number could she be thinking of?",00:28:09
+laubtup,239,tutor,What do you think?,00:28:26
+laubtup,240,student,"So, um... [unclear] [unclear] I kind of need help with this one because that's—",00:28:28
+laubtup,241,tutor,"Okay, so, uh, what we can do, let's write the multiples. Okay, she's— she was, uh, dividing by 5 and then she's dividing by 8, right?",00:28:46
+laubtup,242,student,Yes.,00:28:55
+laubtup,243,tutor,And then they're getting the remainder 2 and 1.,00:28:56
+laubtup,244,student,Yeah.,00:29:01
+laubtup,245,tutor,So can you— can we write the 5's multiple here and 8's multiple here?,00:29:02
+laubtup,246,student,"5, 10, 15. [unclear]",00:29:07
+laubtup,247,tutor,"5, 10.",00:29:19
+laubtup,248,student,"10. 15, 20, [UNCLEAR], 45, 30.",00:29:30
+laubtup,249,tutor,"30, that's it. Can we start writing 8 times table as well?",00:29:30
+laubtup,250,student,"Okay. So, 8, 16, 20, 24. [unclear] [unclear]",00:30:00
+laubtup,251,tutor,Yes.,00:30:31
+laubtup,252,student,Yeah.,00:30:32
+laubtup,253,tutor,"So Tobias, yeah, Tobias, can you tell me what does remainder means? What's remainder?",00:30:33
+laubtup,254,student,Is it like what's left over?,00:30:39
+laubtup,255,tutor,"Yes, leftover, or can we also say that it's extra in the number?",00:30:42
+laubtup,256,student,Pardon?,00:30:48
+laubtup,257,tutor,It's extra in the number. Can we also say that? [unclear],00:30:49
+laubtup,258,tutor,"Yes, so when we are— sorry, when Tara is dividing by 5, she's getting the remainder 2.",00:30:56
+laubtup,259,student,Yes.,00:31:04
+laubtup,260,tutor,"Yeah, so yes, what we can do here, we can add 2 to all the numbers. Like 5 2 is 7. [unclear]",00:31:05
+laubtup,261,tutor,Because she's getting remainder 2.,00:31:21
+laubtup,262,student,Yes.,00:31:26
+laubtup,263,tutor,"If you divide 7 by 5, you will get remainder 2. If you divide 12 plus— 10 plus 2, 12, you'll get a remainder 2, right?",00:31:26
+laubtup,264,student,Yes.,00:31:38
+laubtup,265,tutor,It means she's not dividing the numbers that are in the 5 times table. She's dividing a number that are more than 5 times table.,00:31:39
+laubtup,266,tutor,2 more then.,00:31:46
+laubtup,267,student,yeah.,00:31:46
+laubtup,268,tutor,"Yeah? Similarly, she's getting the remainder 1. It means she must have— she might have divided 9, because then only she can get remainder 1. What do you think?",00:31:46
+laubtup,269,student,"Um, [unclear] I think so, yeah.",00:32:05
+laubtup,270,tutor,"So can you tell me what will be the numbers that we get, we can get, if we add 1 to them?",00:32:12
+laubtup,271,student,"If we add 8, if we add 6, if we add 1 to 16, that's 17. 24 add 1, that's 25. 32 add 1, that's 33.",00:32:21
+laubtup,272,tutor,"Similarly, can you complete the 5s one? 15 add 2, 16. No. [unclear] 17. 20 add 2 is 22. 25 add 2 is 27. 30 add [unclear] is 32.",00:32:36
+laubtup,273,tutor,Okay. Can you see both the times tables and find anything that's common? [unclear],00:33:02
+laubtup,274,tutor,Can you find any common number between the 8 times table that we might have divided?,00:33:19
+laubtup,275,student,17.,00:33:24
+laubtup,276,tutor,Yes.,00:33:25
+laubtup,277,student,17.,00:33:26
+laubtup,278,tutor,"Can you circle those, please?",00:33:28
+laubtup,279,student,Okay. [unclear],00:33:32
+laubtup,280,tutor,And here also.,00:33:39
+laubtup,281,student,[UNCLEAR],00:33:39
+laubtup,282,tutor,"Yeah, okay, great job, Tobias. So now let's check our criteria. Let's check whether 17 satisfies our question or not. Okay?",00:33:59
+laubtup,283,student,Yes.,00:34:10
+laubtup,284,tutor,Tara is thinking a 2-digit number. Is 17 a 2-digit number?,00:34:11
+laubtup,285,background,"Uh, yes.",00:34:15
+laubtup,286,tutor,"When it is divided by 5, the remainder is 2. When we divide 17, are we going to get remainder 2?",00:34:18
+laubtup,287,background,"Yes. Okay, when she'll divide 17 by 8, will she get remainder 1? [unclear]",00:34:24
+laubtup,288,student,No.,00:34:32
+laubtup,289,tutor,No?,00:34:33
+laubtup,290,student,"No, yes, yes, yes.",00:34:35
+laubtup,291,tutor,So what do you think? What number she could be thinking of?,00:34:38
+laubtup,292,student,Could she be thinking of number 17?,00:34:42
+laubtup,293,tutor,"Yeah, let's write our answer here. [unclear]",00:34:46
+laubtup,294,tutor,"Great job, Tobias. Can you tell me how did we solve this question, Tobias, in your words? Can you walk me through?",00:34:56
+laubtup,295,student,"Just like adding and like times, times everything.",00:35:09
+laubtup,296,tutor,What all we did here?,00:35:14
+laubtup,297,tutor,Pardon?,00:35:18
+laubtup,298,background,What all we did here?,00:35:19
+laubtup,299,tutor,"Like, so we added on 2 to each number and in the [unclear] added 1.",00:35:22
+laubtup,300,background,"So what can we learn from this question, Tobias?",00:35:30
+laubtup,301,student,"Like,",00:35:34
+laubtup,302,student,"I learned like just like add basically, like times, don't like rush for it basically.",00:35:46
+laubtup,303,tutor,"Okay, so basically reminder can also be understood as?",00:35:58
+laubtup,304,student,"Yes, understood as every [unclear]",00:36:03
+laubtup,305,tutor,Something that's extra in the number.,00:36:10
+laubtup,306,student,Yes.,00:36:13
+laubtup,307,tutor,"Okay, great. So Tobias, can you tell me from this topic, solving real-life problems with remainders, what do you think— what is the one thing you have learned?",00:36:15
+laubtup,308,student,"Like grouping numbers and like [unclear] Basically, the division, I'm like, remainder. [unclear]",00:36:29
+laubtup,309,tutor,"Okay, so while solving the problems, the division problem that has remainder, what do you think what's very important?",00:36:41
+laubtup,310,student,Look at my question carefully before you like—,00:36:55
+laubtup,311,student,And don't be put off if you can't answer a question.,00:37:02
+laubtup,312,tutor,"Now my question is, like, what do you think is very important while working with remainders?",00:37:13
+laubtup,313,student,Very important while working with remainders.,00:37:22
+laubtup,314,student,"Um, like check to see if like you made those right.",00:37:28
+laubtup,315,tutor,"Yes, you're absolutely right here. [unclear] Okay, all right, you're absolutely right here. We should always check our answer after solving it. Now after this session, uh, Tobias, you're gonna be getting a feedback form. Please take your time to fill that. And now we'll meet in the next session. Yeah. And you will also get a quiz question, some quiz questions. Do try them. Yeah. Bye-bye.",00:37:36
+laubtup,316,tutor,Okay.,00:38:04
+laubtup,317,student,Bye. Take care.,00:38:06
+laubtup,318,tutor,Bye.,00:38:07

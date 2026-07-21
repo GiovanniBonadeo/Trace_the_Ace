@@ -1,0 +1,189 @@
+session_id,utterance_id,role,content,timestamp
+kcofklg,0,tutor,Hello?,00:00:00
+kcofklg,1,background,Hello?,00:00:00
+kcofklg,2,tutor,Hello?,00:00:02
+kcofklg,3,background,I can't hear you. [unclear],00:00:02
+kcofklg,4,tutor,"Great. So Thaddeus, how are you doing today?",00:00:06
+kcofklg,5,student,Good. I'm alright.,00:00:09
+kcofklg,6,tutor,"Alright? Okay, so how was school?",00:00:12
+kcofklg,7,student,It was alright.,00:00:16
+kcofklg,8,tutor,"Okay, so what did you do today?",00:00:18
+kcofklg,9,student,"So last period I had tech. Before that I had [UNCLEAR]. I had like Spanish, I had English, math, and",00:00:21
+kcofklg,10,student,"One of the subjects, I can't remember.",00:00:33
+kcofklg,11,tutor,"Okay, all right, okay. Seems like you had a busy day. So are you ready to get started with the session?",00:00:35
+kcofklg,12,student,Yep.,00:00:41
+kcofklg,13,tutor,"Yeah? Okay, so today we are going to learn about solving problems in pattern sequences. So have you worked with patterns before?",00:00:43
+kcofklg,14,student,I would not— [unclear] yellow before.,00:00:52
+kcofklg,15,tutor,"Okay, all right, so we'll learn about it. So let's try the learning goal question first.",00:00:55
+kcofklg,16,tutor,Okay. [unclear],00:01:15
+kcofklg,17,tutor,Yes. So what is the sequence then?,00:01:21
+kcofklg,18,student,"So the 4n means that every, like, term in the sequence goes up by 4, and the -3 means the first term of the sequence is not 4, but it's 4 3, so 1. 1,",00:01:26
+kcofklg,19,tutor,"yeah, correct. Then let's get some questions started with some questions since it seems like you're a bit confident with the lesson, so we'll start with questions.",00:01:41
+kcofklg,20,tutor,Let's start with the first question. [unclear] [unclear],00:01:52
+kcofklg,21,tutor,Yeah.,00:02:25
+kcofklg,22,background,"Okay, well done. Let's try this one.",00:02:27
+kcofklg,23,student,Weather. [unclear],00:02:35
+kcofklg,24,tutor,"Yes, 3n 1. Okay, fantastic. So let's discuss what you've done so far. So can you tell me what's the strategy you used to complete these two questions? So,",00:02:52
+kcofklg,25,student,"um, so for the blue triangles, you can see here we have 1, 2, 3, 4 blue triangles. 1, 2, 3, 4, 5, 6 blue triangles, and then 1, 2, 3, 4, 5, 6, 7, 8 blue triangles. And then when we put that into the sequence, we can see each time it goes up by 2, but it didn't start on 2, it starts on 4, which is 2 more than 2. So to get from 2 to 4, you need to plus 2. So it's 2n 2. Yes,",00:03:05
+kcofklg,26,tutor,"so you have to check first, check the common difference, that's what you call it, and then you have to think about your first term, which is plus 2.",00:03:33
+kcofklg,27,background,"Okay, yes. So in nth term, when you're finding nth term, it's basically a formula that allows you to generate a sequence by substitution, right? That's what [unclear] in this lesson. So when you have patterns, you have to find out the common difference, and then you have to find out the formula to represent that pattern. That's simply what you are doing in this lesson. So did you understand what I just said?",00:03:43
+kcofklg,28,tutor,Yeah.,00:04:11
+kcofklg,29,student,Yeah? Okay. Then let's try some of the questions. [unclear],00:04:11
+kcofklg,30,tutor,Okay. Yeah. [unclear] [unclear] [Speaker:Thaddeus]... [unclear] [unclear] [Speaker:Thaddeus]... [unclear] [unclear],00:04:36
+kcofklg,31,background,[unclear],00:05:26
+kcofklg,32,tutor,"Okay, yeah, so are you done with this one?",00:05:55
+kcofklg,33,student,Yeah.,00:06:00
+kcofklg,34,tutor,"Yeah, okay, great. So really nice effort over there. So we'll check these two. So I think what you did over here is you found the common difference, and then what did you do next for these two?",00:06:01
+kcofklg,35,student,And then I... [unclear],00:06:13
+kcofklg,36,student,"Oh, and then I just formed the equation. It goes up by— [unclear] pointer. It goes up by 2 each time, so obviously we add 2. But we know it's 2n, and then there's a common difference of positive 1, so we add a positive 1 at the end.",00:06:19
+kcofklg,37,tutor,"Okay, yes. So next we'll check this one. To find the total number of squares in the 20th pattern, can you tell me what you",00:06:39
+kcofklg,38,tutor,So what did you do over here?,00:06:48
+kcofklg,39,student,"So to find the 20th— or to find the total number of squares in the 20th pattern, instead of like forming an equation— instead of forming a sequence and just like continuing the sequence on and on, instead what we can do is we can form our own equation and we can substitute in 20. So what I did was I counted up all the squares. I got 5, 9, 11, 14, And you can see it goes up by 4 each time, so 4n, and then there's a common difference of positive 1, so 4n 1. And then we substitute 20n, we get 80 1, which is 81. Okay, yeah,",00:06:52
+kcofklg,40,tutor,"so over here actually, the strategy you tried to use, it's quite correct, but rather than trying to form a formula with these values, what you can do is Now you know the nth term or the formula for the blue squares, and then you have the one for the orange squares. That means when you add these two together, it has to give you the total formula or the nth term. That's what you're supposed to do over here. First you have to add these two up, and then— shall we do that step first?",00:07:29
+kcofklg,41,student,Okay. So I just add like two [unclear] plus one.,00:08:01
+kcofklg,42,tutor,"Yeah, two n plus one. And then you add this.",00:08:06
+kcofklg,43,student,Plus n plus 1.,00:08:09
+kcofklg,44,tutor,"N plus 1, yeah. And then you get a common formula, which is 3n plus 2. Yeah, so when you add these two up, that means you're getting the total sequence for each of these diagrams over here. And then what you can do next is you can substitute 20 to the place of n. 62. Yeah, so over here, in order to find the nth term of all the colors, or to find a common pattern, can you tell me what is the steps that we followed? [unclear]",00:08:10
+kcofklg,45,student,For which one? Sorry.,00:08:52
+kcofklg,46,tutor,"For this one. Rather than doing this, what do you think we have to do?",00:08:54
+kcofklg,47,student,"Instead of like just like recounting all the squares and making our own formula, we can use the previous question's formulas just and add them together so we can substitute in our value and then you can get on.",00:09:01
+kcofklg,48,tutor,"Yeah, so rather than making a pattern like you did earlier, it's better to like add these two up because anyhow you have got like this 3n 2. It includes all these diagrams, right? All these squares. So that's how you can get the formula. I hope you understood up to this point. Any questions?",00:09:15
+kcofklg,49,student,No.,00:09:37
+kcofklg,50,tutor,"No? Okay, then let's try another question. Here we go. [unclear]",00:09:38
+kcofklg,51,tutor,"Oh no, that's not good. [unclear] [unclear]",00:09:55
+kcofklg,52,student,Oh my God.,00:10:26
+kcofklg,53,tutor,"Oh my gosh. Damn. 5, 5. [unclear]",00:10:32
+kcofklg,54,tutor,"Okay, what do you think you have to do first?",00:10:57
+kcofklg,55,student,"Make all the denominators the same, isn't it? But like, but— [unclear]",00:11:02
+kcofklg,56,tutor,"Rather than trying to— so since we don't have to do any calculation like adding or subtracting or anything, you don't have to make the denominator common over here. Rather than that, shall I give you a little hint? Would you like to try?",00:11:18
+kcofklg,57,tutor,"Okay, why don't you try to form two separate equations for the two, like the patterns, the pattern on the numerator and the pattern on the denominator.",00:11:34
+kcofklg,58,student,"Oh, I see what you mean. [unclear] Oh, yes, 3, 5. Is that correct? No, no, no, wait, no, no, no, no, no. Plus 1 and I think plus 1. Is that correct?",00:11:46
+kcofklg,59,student,"Yes, yes, n plus 1 divided by 2, n plus 1. Yeah, so n plus 1 is the formula for which of these two patterns? The first one or the second one?",00:12:23
+kcofklg,60,student,This one. I don't know if that's the first one.,00:12:35
+kcofklg,61,tutor,"Yes, that is the correct— yeah, that is correct because you have written out the sequence for the numerators. And then if you follow the previous steps, I think you followed them, you have to find the common denominator— not, sorry, the common difference. And then you have to find the first term, which is +1. And then the same procedure goes for the denominator as well. Yeah. And then you divide these two together to get the nth power model. Yeah, yeah. Any questions?",00:12:37
+kcofklg,62,student,No.,00:13:08
+kcofklg,63,tutor,"Okay, so when you have a question like this, you don't have to make the— you don't have to get a common denominator because you don't have to do any calculations, right? You don't have to add, subtract, or anything like that. Just get the sequences for each and then you can get the answer. Okay, so that is the end of this lesson, Thaddeus. So I think you found this lesson quite easy, right?",00:13:09
+kcofklg,64,student,"Relatively, yeah.",00:13:33
+kcofklg,65,tutor,"Yeah, okay. Any questions so far or anything that you need to clarify?",00:13:35
+kcofklg,66,student,No.,00:13:40
+kcofklg,67,tutor,"No? Okay, so let's just like refresh our knowledge and think about what we did so far, and then we can move on to another lesson. So can you tell me a little summary about what this lesson is about?",00:13:42
+kcofklg,68,student,"So it's about like, so there's one part, so in the starter you have to look at like a model and you have to, or you have to look at a model and count like the number of like squares or triangles and put that into, form that into, into a sequence or into an equation.",00:13:55
+kcofklg,69,tutor,"Yeah, sequence, yes.",00:14:18
+kcofklg,70,student,And then later we did like substituting the [unclear] We formed equations and then substituted values in.,00:14:20
+kcofklg,71,tutor,"Yeah, so we had sequences and then we found the common difference and then we found out the nth term or the formula and then we substituted. Yes, exactly what we did. So we had a couple of questions which you did a really good job in. So if you don't have any questions, shall we move on to another lesson?",00:14:29
+kcofklg,72,student,"Hmm, okay, yeah.",00:14:50
+kcofklg,73,tutor,Yeah? Any questions? Anything you need to clarify?,00:14:53
+kcofklg,74,student,No.,00:14:57
+kcofklg,75,tutor,"No? Okay, then let's move on to another lesson. Right, now we are going to learn about understanding and applying the index laws for multiplication. So let's start with the learning goal question. [unclear]",00:14:58
+kcofklg,76,tutor,Yeah?,00:15:31
+kcofklg,77,student,"Oh, right.",00:15:32
+kcofklg,78,tutor,"Yes, that is correct. So how do we read a value like this?",00:15:35
+kcofklg,79,student,"Oh, um... I have m to the power of 4 here, and I have m to the power of 2 here. And if they're being times together, then that means you add the indices.",00:15:40
+kcofklg,80,tutor,"Yeah, yes, that's correct. So yeah, so in this one, we'll be learning about applying the index laws for multiplication. Okay, then let's start with some questions.",00:15:56
+kcofklg,81,tutor,"Okay, here we go. You have a set of questions over here. Let's start from the first one.",00:16:10
+kcofklg,82,student,"Wait, should I like turn it into like a different, what do you call it? Like, should I actually like do two, I don't know how to say it. Or should I, you know, like—",00:16:14
+kcofklg,83,tutor,"You can leave it in this form. Yeah, you don't have to like expand it and get the values.",00:16:23
+kcofklg,84,student,"Oh, okay, thanks. Wait, let me. [unclear]",00:16:28
+kcofklg,85,tutor,"Okay, let me ask a question. So in order to do this, can you tell me some, like, things that you have to have? Or, like, in order to add these two up, what kind of thing— like, how should your base be?",00:16:36
+kcofklg,86,student,"Okay, so you need to be— yeah, your base has to be the same number. If it's not the same number",00:16:54
+kcofklg,87,student,And you can't like add— you can't add the indices like that if it's not the same number.,00:16:59
+kcofklg,88,tutor,"Yes, exactly. So when you have a multiplication in the same base, you can add these two up. Yeah, you can continue. [unclear]",00:17:05
+kcofklg,89,tutor,Let me stop you there for a little bit. How did you get 20 over here?,00:17:30
+kcofklg,90,student,"Uh, 2 times 10.",00:17:35
+kcofklg,91,tutor,"Yeah, so when you have things like this, you have to consider the x as your base, and then you can multiply the coefficient. Yeah, correct. And then let's— you can move on. Okay.",00:17:38
+kcofklg,92,tutor,"Oh, okay.",00:17:57
+kcofklg,93,background,Yes. [unclear] Is this one?,00:18:10
+kcofklg,94,student,"Yes, one, but I still couldn't draw, I don't know. [unclear]",00:18:21
+kcofklg,95,tutor,There you go. [unclear],00:18:24
+kcofklg,96,tutor,"Okay, yes, excellent job of that. So let me give you a big praise card for that. So when you have multiple bases like this, it's important that you don't mix them up. So if you have similar bases, you can, just like you did, you can add the indices up. Yeah, so that's the end of these questions. We have some more questions to try. Any questions so far?",00:18:44
+kcofklg,97,student,No.,00:19:09
+kcofklg,98,tutor,"No? Okay. Right, you can try this question. [unclear]",00:19:10
+kcofklg,99,student,"Oh, I can't. [unclear]",00:19:24
+kcofklg,100,tutor,"Okay, yeah, they're correct. So rather than writing, like, can you try to write another example other than these combinations?",00:19:48
+kcofklg,101,student,Okay. [unclear],00:19:56
+kcofklg,102,tutor,"Yeah, it's fine to write it like the opposite sides. It doesn't matter. I mean, like, can you try to write something else, like something different?",00:20:01
+kcofklg,103,student,Okay.,00:20:13
+kcofklg,104,tutor,"Okay, so if you put zero, then what does— the power 0 mean? [unclear] Sorry?",00:20:21
+kcofklg,105,tutor,Hello?,00:20:36
+kcofklg,106,student,Hello?,00:20:37
+kcofklg,107,tutor,Can you hear me?,00:20:39
+kcofklg,108,student,Yep.,00:20:41
+kcofklg,109,tutor,"Okay, so is it 0 over here?",00:20:42
+kcofklg,110,student,Yep.,00:20:45
+kcofklg,111,tutor,"Yes, so then if you put the, uh, like a power 0, so if it's like H0, then what does that value convert into?",00:20:47
+kcofklg,112,student,1.,00:20:56
+kcofklg,113,tutor,"1, yeah. And then you have 5 over here, so that's fine. So this is also a correct combination. So all these are correct. Okay, excellent job over there. So any other— any questions so far?",00:20:57
+kcofklg,114,student,Nope.,00:21:09
+kcofklg,115,tutor,"No, it seems like these lessons are a little easy, right?",00:21:10
+kcofklg,116,student,Yes.,00:21:14
+kcofklg,117,tutor,"For you? Yeah, okay. We'll just go through them so that you can like do them over again to— yeah. So yes, that is the end of that lesson. Okay, we can move on to another lesson. We have time. So let's— can you tell me in your own words what you've learned so far? Like, in this lesson, what is it about?",00:21:14
+kcofklg,118,student,"Um, so it's about adding indices. So like, when two indices with the same base or being times together, you add their indices.",00:21:37
+kcofklg,119,tutor,"Yes, so that is the theory behind all this. So it's like, let me remind you, like refresh your knowledge. It's like, hold on, where is it? Oh yeah, if it's something like this, if you have the same base and m and n, it's a^(m+n).",00:21:52
+kcofklg,120,tutor,Okay.,00:22:16
+kcofklg,121,student,"Okay, yeah.",00:22:16
+kcofklg,122,tutor,"Right, so that is the end of that lesson. Let's move on to another lesson. Okay, now we are going to do about understanding and applying the index laws for division. It's quite the same lesson, but we are going to apply it for division. Let's try the learning goal question. [unclear]",00:22:18
+kcofklg,123,tutor,"4, yeah. So how did you get the 4?",00:22:49
+kcofklg,124,student,"The reverse of like times, how do you say, so when you're dividing two numbers with the same basis, Then you subtract the indices. [unclear]",00:22:52
+kcofklg,125,tutor,Pardon? Can you repeat that last part again? I couldn't hear you properly.,00:23:12
+kcofklg,126,student,"So when you divide your two numbers with the same base, then you minus the indices.",00:23:16
+kcofklg,127,tutor,"Yeah, yes, yes, I'm sorry, I couldn't hear you earlier. Yeah, exactly. Okay, then we can try some questions.",00:23:25
+kcofklg,128,tutor,"Okay, you can get started. [Speaker:Thaddeus]...35 times 1 equals 45. Then you do 45 times 5, which is 225. [unclear] [unclear]",00:23:33
+kcofklg,129,tutor,How did you get 15 over here?,00:23:58
+kcofklg,130,student,"Well, when you like, um, so when you minus, or when you",00:24:15
+kcofklg,131,student,"Minus is like a minus number, then it turns into a plus.",00:24:23
+kcofklg,132,tutor,"Plus, yeah. So you have to do 10 5 over there. Okay, let's try this one. [unclear]",00:24:28
+kcofklg,133,tutor,Okay.,00:24:54
+kcofklg,134,student,You ask them or not. Is that correct?,00:24:55
+kcofklg,135,student,"Yes, yes, that is correct. So do you have to write your base b over here?",00:25:16
+kcofklg,136,tutor,"No, because they're dividing by the same number, so they're dividing by the same value, so they cancel out.",00:25:21
+kcofklg,137,student,"Cancel out, yeah. So you don't have to write your base b over here. Yes, well done with everything. So yeah, any questions?",00:25:28
+kcofklg,138,background,Nope.,00:25:39
+kcofklg,139,tutor,"Now, okay, so something important that you have to keep in mind is actually a place that someone can make a mistake is when you have the coefficient and then when you have the, like, bases over here. Sometimes you might, like, mix up. Sometimes you might think that you have to divide the bases, f(n), this one over here, 11 and 1, because a person can make a mistake because over here you're dividing and over here you're subtracting, right? So you're doing two different operations in the same thing.",00:25:40
+kcofklg,140,tutor,"So there might be a mix-up, but you did a good job working everything out correctly. Let's try another question. [unclear] [unclear]",00:26:12
+kcofklg,141,student,Oh yeah. Is that correct?,00:26:38
+kcofklg,142,student,"Yeah, I'm done.",00:27:07
+kcofklg,143,tutor,"Yeah, okay, great. So let's check the first one. Can you tell me how you got positive 2 over here? How do you write this as an equation? Can you check the first one?",00:27:09
+kcofklg,144,student,"Oh, wait, it's divide of— [unclear] So I need to get rid of that minus because if 2 minuses make a plus, so that would just be",00:27:19
+kcofklg,145,tutor,That would just be h to the power of 16 instead.,00:27:30
+kcofklg,146,student,"Yeah. So over here we have to do 9, and then when you subtract 7, you'll get 2. And then what about the next one?",00:27:37
+kcofklg,147,tutor,"Oh, uh, hmm, I might have got this one wrong as well. Yeah, I did. That would be h to the power of -8 instead, but if I get rid of Oh no, let's change this to a 7.",00:27:45
+kcofklg,148,tutor,"Yeah, and then this one?",00:28:09
+kcofklg,149,student,"Oh yeah. Okay, that would be -6. Oh, I've got to change that now.",00:28:12
+kcofklg,150,tutor,O is -4.,00:28:35
+kcofklg,151,background,Yes.,00:28:41
+kcofklg,152,tutor,"So you can just try to write the equa— like in your mind or even on the paper, you can just try to write it down. So forget about the [unclear] and then you can just jot it down, then you'll be able to solve it easily.",00:28:42
+kcofklg,153,tutor,That's true.,00:28:56
+kcofklg,154,student,"Okay, actually it has to be 5 and then minus, and then -3 is in inside brackets, right? So if you do this, is this correct? Because you have this division is the subtraction, and you have another -3 separately.",00:29:13
+kcofklg,155,student,"Oh yeah, I see. I don't know, I just wrote the same thing as I wrote before. [unclear] Okay, I need to keep that down. Extra minus in mind.",00:29:34
+kcofklg,156,student,"It's important. It's better if you can like put this inside brackets, then you will definitely know that you have to like change your, uh, like the sign over here, right?",00:29:52
+kcofklg,157,tutor,"Yeah, that's true.",00:30:02
+kcofklg,158,student,So then would you get 5 over here?,00:30:05
+kcofklg,159,tutor,"Oh, a brain is [UNCLEAR]. No, it's fine. You can just try to like make this an x and try to see if you can work it out.",00:30:09
+kcofklg,160,student,"Oh, that's smart. That's smart. And if I times by -3, I get -6. Oh, oh, oh, it's -6. Is it? I don't know. [unclear]",00:30:19
+kcofklg,161,tutor,"No. All right, it's a bit. Yeah, yeah, it's fine, Thaddeus. Okay, calm down a little bit.",00:30:35
+kcofklg,162,tutor,"Don't rush. So we have x minus -3 equals +2. So if you do minus into minus, what do you get? [unclear] Minus into minus in an operation? Forget about the number.",00:30:40
+kcofklg,163,student,"Oh, it's a plus.",00:30:56
+kcofklg,164,tutor,"Yes, we have plus, and then we have x 3 2, and then you take this to this side. Then what do you get? Forget about this one. x equals— oh wait, let me type. Why am I writing— wait, hold on, I'll just write this. It will be like this, right? Positive 3. [unclear] [Speaker:Thaddeus]...minus 1.",00:30:58
+kcofklg,165,tutor,"Yes, minus 1. x is equal to minus 1. I'm sorry, I'll just type it. I don't know why I started to like write it, write everything. So x is equal to 2 minus 3 is equal to minus 1. Like this. Yeah?",00:31:26
+kcofklg,166,student,Is it?,00:31:49
+kcofklg,167,tutor,"Okay, shall I write everything again? Or I don't think it's clear. Is it clear?",00:31:49
+kcofklg,168,student,"No, like I can understand it. [unclear] You can or you cannot?",00:31:55
+kcofklg,169,student,I can.,00:32:00
+kcofklg,170,tutor,"Okay, right. So what basically, if you have a question like this, the easiest thing that you can do is you can put x for the unknown value and then try to write down your equation. Then you can take a little bit of time and solve it slowly, right?",00:32:02
+kcofklg,171,student,Yeah.,00:32:18
+kcofklg,172,tutor,"Okay, so what's going to be the answer over here? Yeah, [unclear]",00:32:19
+kcofklg,173,tutor,"okay. You don't have to rush. You can take some time, okay? Right, so that is the end of this bit. So do you have any questions so far? No.",00:32:28
+kcofklg,174,student,No?,00:32:41
+kcofklg,175,tutor,"Okay, right. So can you tell me a place that someone can make a mistake while working out question like this, or maybe a tip that you can give",00:32:41
+kcofklg,176,tutor,Another person who's learning this lesson.,00:32:48
+kcofklg,177,student,"So when you hear double negative like this, that basically is a plus.",00:32:51
+kcofklg,178,tutor,"Plus, yeah. Okay, so that is the end of this lesson. So you've done a really good job so far working through all the questions and giving me really good explanations. So we have come to the end of the lesson, Understanding and Applying the Index Laws for Division. So we've completed the Same lesson for multiplication. So can you tell me the difference between applying and understanding index laws for division and multiplication?",00:32:57
+kcofklg,179,student,"So for the [unclear] division, you minus the indices. But if you're timesing, then you add the indices.",00:33:28
+kcofklg,180,tutor,"Yeah, so in order for that to apply, you have to make sure that your bases are the same. Yeah, for both cases.",00:33:39
+kcofklg,181,student,Yeah.,00:33:47
+kcofklg,182,tutor,"Yeah, and then if you have a coefficient in the division, what do you do to your coefficients?",00:33:48
+kcofklg,183,student,The [UNCLEAR].,00:33:56
+kcofklg,184,tutor,"Sorry? So if you— in division, if you have a question like this, what do you do to your coefficients? Do you like subtract them or do you divide? These values, you subtract them. Well, you divide the numbers over here, the coefficients, and then the bases, the [UNCLEAR], the powers, you subtract. Okay.",00:33:58
+kcofklg,185,student,"Oh yeah, yeah, for the numbers, like, you want to divide those. Yeah.",00:34:26
+kcofklg,186,tutor,"Okay, yeah. So that is the end of this lesson, and it's time for us to end the session. So I felt like you had quite an easy time working out these questions. I think you were familiar with the lessons. However, I hope you learned something new, at least a little bit. So I'll be ending the session now. So you'll be getting some questions, so please try them. And then there'll be a feedback form. Please fill that out as well. Okay, we'll meet again in the next session. Until then, stay safe. Bye.",00:34:31
+kcofklg,187,student,Bye. [unclear],00:34:59

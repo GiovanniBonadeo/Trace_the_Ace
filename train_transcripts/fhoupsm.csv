@@ -1,0 +1,384 @@
+session_id,utterance_id,role,content,timestamp
+fhoupsm,0,background,[unclear],00:00:00
+fhoupsm,1,tutor,"Hi, [STUDENT_NAME].",00:00:00
+fhoupsm,2,student,Hi.,00:00:02
+fhoupsm,3,tutor,Welcome to the session. How are you doing today?,00:00:02
+fhoupsm,4,student,"I'm all right, thanks. How are you?",00:00:06
+fhoupsm,5,tutor,"I'm great. Thank you so much for checking. All right, are you ready to start the session today?",00:00:09
+fhoupsm,6,student,Yeah.,00:00:15
+fhoupsm,7,tutor,"So remember, we actually started this lesson in our last class, which has been a month almost. But don't worry, try this session, and if you can't recall, I'll help you out. [unclear] I hope you're working on the question. [unclear]",00:00:18
+fhoupsm,8,tutor,Can I have help? Because I don't really remember this one.,00:00:51
+fhoupsm,9,background,Just have a look at it.,00:01:04
+fhoupsm,10,tutor,Okay.,00:01:07
+fhoupsm,11,student,So you have been given a line that is parallel to the Cartesian plane. And what is the equation of the straight line? [unclear],00:01:08
+fhoupsm,12,tutor,"Wait, can you repeat that please?",00:01:18
+fhoupsm,13,student,What's the general equation of the straight line?,00:01:25
+fhoupsm,14,tutor,Is it just y?,00:01:30
+fhoupsm,15,student,"Yeah, y mx c. Okay. Do",00:01:33
+fhoupsm,16,tutor,you recall what m stands for?,00:01:36
+fhoupsm,17,student,Was it like how much it goes up? [unclear],00:01:41
+fhoupsm,18,tutor,"Okay, so m is the gradient, and that will tell you by how many times the y value increases or decreases as when you increase the x value.",00:01:50
+fhoupsm,19,background,Yep.,00:02:03
+fhoupsm,20,tutor,"So in other words, you can actually use this formula To find the gradient, which is change in y divided by change in x. You can select two points, find the difference in change, and that should be divided by the difference of x. Yeah, okay, right. And any idea what c stands for?",00:02:05
+fhoupsm,21,student,"Um, I'm not sure.",00:02:28
+fhoupsm,22,tutor,"Okay, that is the y-intercept.",00:02:34
+fhoupsm,23,tutor,That would tell you where the line equation— straight line cuts its y-axis.,00:02:38
+fhoupsm,24,student,Yeah.,00:02:46
+fhoupsm,25,tutor,"Okay, so that's y-intercept for you. Okay, so using graph, can we find c, the intercept of the graph? [unclear]",00:02:47
+fhoupsm,26,tutor,"Is it just like minus 1? No, 0 minus 1.",00:03:04
+fhoupsm,27,student,"It's not 0 minus 1. That would be the point, coordinate point, right? But, uh, [unclear] minus 1. Okay, yeah, so c is minus 1. You can directly switch that out. And then next you want to find the radius, so you can use this formula.",00:03:12
+fhoupsm,28,tutor,"So let's select two points. Here they have already selected two points, which is 3, 5 and 1, 1, right?",00:03:34
+fhoupsm,29,student,Yep.,00:03:45
+fhoupsm,30,tutor,"So change in y is 5 minus 1, which is 4, right?",00:03:45
+fhoupsm,31,student,Yep.,00:03:52
+fhoupsm,32,tutor,"And that to be divided by difference in x. So difference in x is 3 minus 1, which is 2.",00:03:53
+fhoupsm,33,student,2.,00:03:59
+fhoupsm,34,tutor,"2. Okay, so 4 divided by 2 is 2. The actual value would be 2. Okay, yeah, you can substitute these, um, values into the equation y mx c. So that would be y 2x, 2x minus [UNCLEAR]. And this would be the equation of the straight line. Anna, are you clear with that?",00:04:00
+fhoupsm,35,background,Yeah.,00:04:30
+fhoupsm,36,tutor,Okay. So this is how you can find the straight line equation. And there is another question for you to try. [unclear] [unclear],00:04:31
+fhoupsm,37,student,I think she is right.,00:05:11
+fhoupsm,38,tutor,Why do you think she is right?,00:05:13
+fhoupsm,39,student,Because it crosses at -2 and then,00:05:14
+fhoupsm,40,background,"Like the gradient. If you go down by 4, it would be like across 5.",00:05:19
+fhoupsm,41,tutor,"Mm-hmm. But can you just figure out 2 points and identify the m separately, the intercept— sorry, the gradient. Intercept is absolutely right. Okay? Can you show that gradient is 4/5?",00:05:24
+fhoupsm,42,student,"Yeah. [unclear] went down by 4, then across by 5.",00:05:47
+fhoupsm,43,tutor,"Okay. Okay, let me explain to you with the points, okay? I'm gonna select this point and the point over here. [unclear] What's the difference in x? What's the difference in y first?",00:05:54
+fhoupsm,44,student,4.,00:06:11
+fhoupsm,45,tutor,"Okay. Okay, let's go value by value, okay?",00:06:14
+fhoupsm,46,student,"Yep. In the numerator, you have the difference in y. So, first point, which is (0, -2), the y value is -2, right?",00:06:19
+fhoupsm,47,tutor,Okay.,00:06:32
+fhoupsm,48,student,"The other point, the y value is -6. So that is minus -6. Okay? That's the difference. [unclear] Minus -6. And let's find the difference in x now. So the first point x value is 0, my second value's x value is 5, right? [unclear] Solve this first. What is -2 -6? Um,",00:06:34
+fhoupsm,49,student,-4. It's,00:07:06
+fhoupsm,50,tutor,positive 4. Oh,00:07:08
+fhoupsm,51,student,yeah. And,00:07:09
+fhoupsm,52,tutor,0 5?,00:07:11
+fhoupsm,53,student,-5.,00:07:14
+fhoupsm,54,tutor,"-5. Okay, so it's a positive number divided by negative number, isn't it?",00:07:14
+fhoupsm,55,student,Yeah.,00:07:22
+fhoupsm,56,tutor,"So the gradient is not 4/5, it's -4/5.",00:07:23
+fhoupsm,57,student,Yeah.,00:07:29
+fhoupsm,58,tutor,"Therefore, this, uh, she, she is not correct. [unclear] So be careful with the direction as well, and",00:07:30
+fhoupsm,59,tutor,Always you can double-check your answer by using the formula for gradients.,00:07:41
+fhoupsm,60,tutor,Yeah. Okay. [unclear] [unclear],00:07:47
+fhoupsm,61,student,"I'm not really sure. Okay, let's visualize this. Okay, so you can draw a random line and you know the points, two points of those lines, right? Using these two points, what you can find? [unclear]",00:08:22
+fhoupsm,62,tutor,"Okay, what's the general equation of the straight line, [STUDENT_NAME]?",00:08:55
+fhoupsm,63,student,Y equals mx plus c.,00:09:06
+fhoupsm,64,tutor,"Y equals mx plus c. Okay, you know, let's write that down. Y equals mx plus c. Okay, and you know the two points of this particular graph, right?",00:09:11
+fhoupsm,65,student,Yeah.,00:09:28
+fhoupsm,66,tutor,"So if you know these two points, which of the elements you of the straight line graph, you can easily find using these two points.",00:09:29
+fhoupsm,67,tutor,"The gradient? Gradient, okay, yeah, go ahead and find that please.",00:09:40
+fhoupsm,68,student,But I don't really understand how to find the gradient.,00:09:49
+fhoupsm,69,tutor,"Okay, so you can use the formula, which is change in y over change in x.",00:09:58
+fhoupsm,70,tutor,"So m is equal to change in y, the same order, okay?",00:10:05
+fhoupsm,71,student,Yeah.,00:10:11
+fhoupsm,72,tutor,Can you find the change in y?,00:10:12
+fhoupsm,73,student,3.,00:10:14
+fhoupsm,74,tutor,How much did you get? [unclear] How did you get 2?,00:10:16
+fhoupsm,75,student,Taken away 3 from 5.,00:10:21
+fhoupsm,76,tutor,"Okay, there is an x-coordinate, isn't it?",00:10:27
+fhoupsm,77,student,Yeah.,00:10:30
+fhoupsm,78,tutor,"Okay, you need to find the change in y, and that should be divided by change in x. Okay? You keep [unclear] now. Okay, am I clear now?",00:10:32
+fhoupsm,79,student,Yeah.,00:10:47
+fhoupsm,80,tutor,"All right. So let's have a look at this example, okay? We can find y mx c given two points on the line.",00:10:48
+fhoupsm,81,tutor,"So here's an example. You have the point (1, 5) and (2, 8).",00:10:57
+fhoupsm,82,student,Yeah.,00:11:04
+fhoupsm,83,tutor,"First, you can find the gradient by using the formula change in y divided by change in x. So remember, change here— y values are 5 and 8, right?",00:11:04
+fhoupsm,84,student,Yeah.,00:11:17
+fhoupsm,85,tutor,"So they have first subtracted 8— taken away 8 from— sorry, 5 from 8, and they have not changed the order when they were calculating the difference in x as well. See, 1 was taken away from 2, right? 2 take away 1, 8 take away 5. And if you solve it, uh, the gradient would be 3. Okay, so that gives us y 3x c. To find the intercept, you can use one of the coordinates and substitute the values. Yeah. So [unclear]",00:11:17
+fhoupsm,86,student,"here,",00:11:53
+fhoupsm,87,tutor,"uh, We can substitute one of the points into the equation to find c. So they have substituted (1, 5) because that's also a point that goes through this line, isn't it?",00:11:54
+fhoupsm,88,tutor,Yes.,00:12:05
+fhoupsm,89,student,"That's why. So here the y value is 5. We already know the gradient is 3. x value is 1. When y on x is equal to 1, y is equal to 5.",00:12:06
+fhoupsm,90,tutor,Yes.,00:12:21
+fhoupsm,91,student,"So when you solve this equation, you can find the intercept, and that is 2. So that gives us the final answer, y 3x 2. Okay, similarly, if you know these two points, like you mentioned, you can find the gradient. Okay, let me find the gradient. Would m [unclear]",00:12:21
+fhoupsm,92,student,"be 2? Okay, how",00:12:44
+fhoupsm,93,tutor,did you get that? 12 over,00:12:46
+fhoupsm,94,student,5.,00:12:50
+fhoupsm,95,student,"And wait, 12 take away 10, and then 3 take away 5.",00:12:51
+fhoupsm,96,tutor,5 take away 3. Don't change the order.,00:12:56
+fhoupsm,97,student,Yeah.,00:12:58
+fhoupsm,98,tutor,"Because 3 take away 5 is -2, and you will end up having a different answer. Okay?",00:12:59
+fhoupsm,99,student,[unclear],00:13:04
+fhoupsm,100,tutor,"Right. So the gradient is 2. That's right. So now you partially know the equation, which is y equals 2x plus c. How can you find C? [unclear]",00:13:06
+fhoupsm,101,tutor,I'm not sure.,00:13:23
+fhoupsm,102,student,"Okay, remember what we did here? We selected one of the points and substituted those values into the equation.",00:13:31
+fhoupsm,103,tutor,Yeah.,00:13:38
+fhoupsm,104,student,Can you pick one of the coordinates?,00:13:39
+fhoupsm,105,tutor,3 and 10.,00:13:42
+fhoupsm,106,tutor,3 and 10. And can you substitute those values into this equation?,00:13:45
+fhoupsm,107,student,"So, will it be 3x and 10?",00:13:49
+fhoupsm,108,tutor,Not really. You're substituting. What is the value of y in this coordinate?,00:13:53
+fhoupsm,109,background,3.,00:14:02
+fhoupsm,110,tutor,"Y? Okay. Remember, in the—",00:14:04
+fhoupsm,111,background,10.,00:14:07
+fhoupsm,112,tutor,"No, it's 10. Okay. It always follows the order x and y. X is written first and then Y.",00:14:07
+fhoupsm,113,student,Yeah.,00:14:14
+fhoupsm,114,tutor,So that is 10 for you. 10 is equal to 2 times— and what's the value of X? [unclear] [unclear],00:14:15
+fhoupsm,115,tutor,"Let's see, one.",00:14:40
+fhoupsm,116,tutor,How do you get 1?,00:15:08
+fhoupsm,117,student,2 take away 3.,00:15:11
+fhoupsm,118,tutor,"Okay, what's the operation that is here? [unclear] What is the value of 2 and 3 over here? And what's the operation between 2 and 3? [unclear]",00:15:14
+fhoupsm,119,tutor,"Wait, I'm really confused right now. Okay, we're solving this problem, that's it, okay?",00:15:38
+fhoupsm,120,student,Yeah.,00:15:43
+fhoupsm,121,tutor,"Okay, what do you get after solving this equation over here? What's the value?",00:15:45
+fhoupsm,122,background,[unclear],00:15:50
+fhoupsm,123,tutor,"To add them together, you need to multiply, because it's mx, right? m times x, that's 6. Okay.",00:15:50
+fhoupsm,124,student,So c is 4.,00:16:04
+fhoupsm,125,tutor,"So c is 4. So now you can solve the equation. Sorry, you can write the complete equation. [unclear] And that would be y equals 2x plus",00:16:06
+fhoupsm,126,student,[unclear],00:16:31
+fhoupsm,127,tutor,All right. Can you summarize how you can find the line of equation if you know the two points that are on that line?,00:16:31
+fhoupsm,128,background,Take them away from each other.,00:16:44
+fhoupsm,129,tutor,Can you go through the steps one by one?,00:16:49
+fhoupsm,130,background,"So for this one, it would be 12 take away 10 and 5 take away 3.",00:16:53
+fhoupsm,131,tutor,"Okay, why would you do that?",00:17:02
+fhoupsm,132,student,To find the gradient.,00:17:04
+fhoupsm,133,tutor,"To find the gradient, okay. After finding the gradient, what would you do?",00:17:08
+fhoupsm,134,student,"Then substitute one of the points. So you times the bracket and the 2 together, and then",00:17:13
+fhoupsm,135,student,"You take it, the C, away from— you take your answer away from the big, like, 10.",00:17:26
+fhoupsm,136,tutor,"Okay, right. Good job in recalling that. And with that, we are done with this lesson. Okay, shall we move on to the next part? [unclear]",00:17:37
+fhoupsm,137,tutor,"So in this lesson, we will be applying the Pythagoras Theorem.",00:17:51
+fhoupsm,138,tutor,And can you read through these 10 sentences and tell me who do you agree with? [unclear],00:17:56
+fhoupsm,139,student,Is it John?,00:18:25
+fhoupsm,140,tutor,Joe.,00:18:27
+fhoupsm,141,student,Uh-huh.,00:18:29
+fhoupsm,142,tutor,"Actually, no. Lee is correct here.",00:18:30
+fhoupsm,143,student,Okay.,00:18:35
+fhoupsm,144,tutor,"Yeah. You need to find the squares of the adjacent sides, add them together, and then square root it to find the hypotenuse. Okay?",00:18:36
+fhoupsm,145,student,Yeah.,00:18:49
+fhoupsm,146,tutor,Right. Here's an example question for you. [unclear] [unclear],00:18:51
+fhoupsm,147,student,[unclear] [unclear],00:18:58
+fhoupsm,148,student,[unclear] [unclear],00:19:16
+fhoupsm,149,tutor,Yeah.,00:19:38
+fhoupsm,150,student,"Well, that's really awesome. [unclear] [unclear]",00:19:39
+fhoupsm,151,student,Can I have some help with this one?,00:19:53
+fhoupsm,152,tutor,Sure. So what's your idea overall? Do you have any idea?,00:20:12
+fhoupsm,153,student,I'm kind of confused. [unclear],00:20:19
+fhoupsm,154,tutor,"Not really. Okay, let's have a look at this and break it down. First of all, understand what is Pythagoras' theorem, okay? So Pythagoras' theorem states that for any right-angled triangle, the square of the two shorter sides a and b will add to make the square of the longest side.",00:20:26
+fhoupsm,155,student,Yeah.,00:20:46
+fhoupsm,156,tutor,"So in general, if the sides are named as a and b and the longest side is c, a squared plus b squared is equal to c squared.",00:20:46
+fhoupsm,157,background,Yeah. [unclear],00:20:58
+fhoupsm,158,tutor,"So we can use this fact to find the missing side here. So if you notice, ABC and CBD are two right-angle triangles.",00:20:59
+fhoupsm,159,tutor,"Yeah, find this side. Let's go backwards to identify what is [UNCLEAR]. So this is the side of a triangle CDE, right?",00:21:09
+fhoupsm,160,student,Yeah.,00:21:09
+fhoupsm,161,tutor,"Or BCD. So this side is available and we know the longest side, but we don't know",00:21:21
+fhoupsm,162,tutor,"CB, right? So obviously with two unknowns we can't find the value of x. So let's figure out what is CB first. Okay, so we can easily find that because CB is the longer side of the right angle triangle ABC, and we already know the values of AC and AB. [unclear] So, um, we can find CB Like this, AB squared is equivalent to AC squared, right?",00:21:35
+fhoupsm,163,student,Yeah.,00:22:09
+fhoupsm,164,tutor,AC squared plus AB squared. Is that part clear to you?,00:22:11
+fhoupsm,165,student,Yeah.,00:22:21
+fhoupsm,166,tutor,"Okay, so what is AB squared? [unclear]",00:22:22
+fhoupsm,167,student,9.,00:22:25
+fhoupsm,168,tutor,"9, okay. Plus and",00:22:26
+fhoupsm,169,tutor,AB squared is?,00:22:31
+fhoupsm,170,student,64.,00:22:33
+fhoupsm,171,tutor,64. So what is 9 6? 73.,00:22:34
+fhoupsm,172,student,73.,00:22:41
+fhoupsm,173,tutor,"And you need to find the square root of 73, okay? Because 73 is CB squared. To find CB, it would be square root of 73. Okay, is that clear to you?",00:22:42
+fhoupsm,174,tutor,Yep.,00:22:58
+fhoupsm,175,student,"Right. So let's move on to finding CD now. Okay, so CD is in contrast, it would be quite different. CD is [UNCLEAR].",00:22:58
+fhoupsm,176,tutor,Yeah.,00:22:58
+fhoupsm,177,student,"Okay, so you need to take away CD² from BD² to find CD². It's just a bit of a rearrangement. Okay, yeah. Are you clear how— why I'm subtracting here?",00:23:11
+fhoupsm,178,student,Yeah.,00:23:28
+fhoupsm,179,tutor,"Right. Okay, so CD squared is equivalent to BD squared minus 100. [UNCLEAR]. So what is BD squared?",00:23:29
+fhoupsm,180,tutor,100. And CD squared? [unclear],00:23:43
+fhoupsm,181,tutor,73.,00:23:53
+fhoupsm,182,student,"Yeah, 73.",00:23:58
+fhoupsm,183,tutor,"73. Okay, so what is CD squared overall?",00:24:00
+fhoupsm,184,background,27.,00:24:05
+fhoupsm,185,tutor,"27. Okay, so you can find CD by finding the square root of 27.",00:24:06
+fhoupsm,186,background,Yeah.,00:24:16
+fhoupsm,187,tutor,Can you use your calculator to find the square root? [unclear],00:24:17
+fhoupsm,188,tutor,Of 27.,00:24:23
+fhoupsm,189,student,3. And then square root of 3 again.,00:24:24
+fhoupsm,190,tutor,Not really. You need to find the square root of 27.,00:24:32
+fhoupsm,191,background,3.,00:24:37
+fhoupsm,192,tutor,It's 5.2.,00:24:37
+fhoupsm,193,background,"Oh, okay.",00:24:40
+fhoupsm,194,tutor,Do you know how to use How to find this answer using a calculator?,00:24:44
+fhoupsm,195,tutor,Yes.,00:24:49
+fhoupsm,196,student,Okay. Do you have the calculator with you now?,00:24:51
+fhoupsm,197,tutor,Yes.,00:24:54
+fhoupsm,198,student,"Okay. Can you input this and see, please? [unclear]",00:24:55
+fhoupsm,199,background,Yes.,00:25:01
+fhoupsm,200,background,Okay. So what do you want me to do with it?,00:25:02
+fhoupsm,201,tutor,Can you check in your calculator if square root of 27 is 5.2? Because I want you to practice that. Okay? Yeah. [unclear],00:25:12
+fhoupsm,202,student,"Yeah, I got 5.19, so yeah.",00:25:32
+fhoupsm,203,tutor,"Yeah, so it should be 5.2 centimeters, corrected to one decimal place, because you've been asked to find the answer to one decimal place.",00:25:37
+fhoupsm,204,student,Yeah.,00:25:46
+fhoupsm,205,tutor,"All right, okay, and that's how you answer the problem. Any questions? No? Okay, so, um, are you clear with Pythagoras' theorem?",00:25:47
+fhoupsm,206,background,"No, not really.",00:25:58
+fhoupsm,207,tutor,"Okay, what is confusing?",00:26:02
+fhoupsm,208,student,"Well, I know like what we did just now, but I don't know anything else about it.",00:26:04
+fhoupsm,209,tutor,"Okay, so here, remember this Pythagorean theorem? It's just about the application. Okay?",00:26:11
+fhoupsm,210,student,Yeah.,00:26:18
+fhoupsm,211,tutor,"So Pythagorean theorem says you have to square the sides, and if you add them together, that would give you the square of the hypotenuse. That's it.",00:26:18
+fhoupsm,212,tutor,Yeah.,00:26:30
+fhoupsm,213,student,Right. So let's move on to your turn question. Try to apply the Pythagoras theorem and see if you can figure out the answer. [unclear] [unclear],00:26:31
+fhoupsm,214,tutor,"1, 2... [unclear]",00:26:55
+fhoupsm,215,student,Okay.,00:27:24
+fhoupsm,216,tutor,[unclear] [unclear],00:27:31
+fhoupsm,217,tutor,[UNCLEAR] [unclear],00:27:31
+fhoupsm,218,tutor,"[unclear] X squared is really important. [unclear] [Speaker] I don't know how to like find y. Like I know how to do the ad and everything, but I don't know how to get that to y.",00:27:31
+fhoupsm,219,tutor,"Okay, to find y, what are the values you need to know? [Speaker] CA.",00:28:31
+fhoupsm,220,tutor,"CA? Okay, so that is not given here, but is there a way to find CA?",00:28:41
+fhoupsm,221,student,"Um... [unclear] Okay, consider triangle ACD.",00:28:47
+fhoupsm,222,tutor,Yeah.,00:29:02
+fhoupsm,223,student,"Okay. You know the value of AD and CD, so can you use that to find AC? [unclear]",00:29:04
+fhoupsm,224,tutor,"Okay, you already know in the triangle ACD, you already know the values of AD and CD. Can that be used to find AC? [unclear]",00:29:14
+fhoupsm,225,tutor,"Would I do base times, like, 8 times 10 divided by 2?",00:29:41
+fhoupsm,226,student,"No, you use the Pythagoras Theorem. Okay? So remember the Pythagoras Theorem. If your triangle is like this, a squared plus b squared is equal to c squared.",00:29:47
+fhoupsm,227,tutor,Yeah.,00:29:58
+fhoupsm,228,student,"Okay. So use that formula. Write a statement, okay? [unclear]",00:29:59
+fhoupsm,229,tutor,Okay. [unclear],00:30:08
+fhoupsm,230,student,So what can you say with that?,00:30:15
+fhoupsm,231,tutor,"Oh, wait, that's really bad. That's at 300.",00:30:17
+fhoupsm,232,student,"Okay, no problem. [unclear]",00:30:22
+fhoupsm,233,tutor,Okay.,00:30:28
+fhoupsm,234,student,And then do I add them together?,00:30:29
+fhoupsm,235,tutor,"Okay, those— look at the sides as well. So this is the longest side, which is obviously right angle, right?",00:30:35
+fhoupsm,236,student,Yeah.,00:30:43
+fhoupsm,237,tutor,So what's the Pythagorean theorem that you can form here? Pythagorean formula that you can write?,00:30:44
+fhoupsm,238,tutor,Can you tell me at least using the letters?,00:30:53
+fhoupsm,239,student,AD and CD equals AC.,00:30:58
+fhoupsm,240,tutor,"Okay, a slight change over there. You need to look at the shortest sides. AC squared plus CD squared is equal to AD squared.",00:31:02
+fhoupsm,241,background,Yeah.,00:31:12
+fhoupsm,242,tutor,"That's the longest side. So let's write that first. Okay? Here we go. E² plus CD² is equal— it's equal to AD², right?",00:31:12
+fhoupsm,243,student,Yep.,00:31:35
+fhoupsm,244,tutor,"Okay, let's substitute the known values. Do we know AC²?",00:31:36
+fhoupsm,245,background,No.,00:31:39
+fhoupsm,246,tutor,"Okay, so let's leave as it is. AC²",00:31:40
+fhoupsm,247,tutor,"Yeah, do we know CD squared?",00:31:48
+fhoupsm,248,student,"Yeah, it's 64.",00:31:52
+fhoupsm,249,tutor,"64, and that is equivalent to 100, right?",00:31:55
+fhoupsm,250,student,Yeah.,00:31:59
+fhoupsm,251,tutor,That's AD squared. Can you find AD squared now?,00:31:59
+fhoupsm,252,student,36.,00:32:03
+fhoupsm,253,tutor,"Okay, AC squared is equal to 36.",00:32:04
+fhoupsm,254,background,[unclear],00:32:10
+fhoupsm,255,student,So then it should be 6 centimeters.,00:32:11
+fhoupsm,256,tutor,"Exactly, so then AC is 6 centimeters. Well done. Okay, now you know the value of AC. Can you find Y? [unclear]",00:32:15
+fhoupsm,257,student,So would I do BC add CA equals BA.,00:32:27
+fhoupsm,258,tutor,Come again? AC?,00:32:46
+fhoupsm,259,student,And BC.,00:32:49
+fhoupsm,260,tutor,AC squared.,00:32:50
+fhoupsm,261,student,Yeah. So 36. [unclear] 144.,00:32:52
+fhoupsm,262,tutor,You can always write the formula. Okay? So that's—,00:33:02
+fhoupsm,263,student,"Yeah, I'm writing it on my paper. Okay, that's good. So AC squared is 36 plus 144 is equal to what?",00:33:06
+fhoupsm,264,student,[unclear],00:33:17
+fhoupsm,265,tutor,What would it equal to? What's the value it would give?,00:33:19
+fhoupsm,266,student,198.,00:33:25
+fhoupsm,267,tutor,"Okay, why are you doing that? What's the purpose of adding this? To find y, right?",00:33:26
+fhoupsm,268,student,"Yeah. And that's y² for you. Okay, so this would give you y² value. And what's the value of y²? [unclear]",00:33:34
+fhoupsm,269,tutor,"What do you mean? Okay, so the purpose of adding these squares is to find the longest side, which is y², isn't it?",00:33:45
+fhoupsm,270,student,Yeah.,00:33:59
+fhoupsm,271,tutor,"Okay, so 36 44",00:33:59
+fhoupsm,272,student,"It's actually, as you said, it would give you the value, but that value is equal to y². [unclear]",00:34:02
+fhoupsm,273,tutor,Yeah.,00:34:13
+fhoupsm,274,student,So would it be 9e? [unclear],00:34:14
+fhoupsm,275,tutor,Yeah. So can you find the square root of that value? [unclear],00:34:29
+fhoupsm,276,tutor,"What, of 180 or?",00:34:34
+fhoupsm,277,student,"180, yeah, square root of 180.",00:34:38
+fhoupsm,278,tutor,90.,00:34:41
+fhoupsm,279,student,Can you use your calculator to find it? It's not 90.,00:34:44
+fhoupsm,280,tutor,"Wait, so what did I just do? 180 divided by 2?",00:35:02
+fhoupsm,281,student,"No, you need to find the square root.",00:35:05
+fhoupsm,282,tutor,"Oh, okay. [unclear]",00:35:08
+fhoupsm,283,student,"Because that 180 is y squared, right?",00:35:16
+fhoupsm,284,tutor,Yeah.,00:35:19
+fhoupsm,285,student,So 13.4.,00:35:21
+fhoupsm,286,tutor,"Exactly. And to the— okay, that is one to the one decimal place, right?",00:35:25
+fhoupsm,287,student,Yeah.,00:35:30
+fhoupsm,288,tutor,"Okay, that's good. All right, and this is how you use the Pythagoras theorem to solve problems. And are you clear with that?",00:35:30
+fhoupsm,289,student,Yes.,00:35:37
+fhoupsm,290,tutor,Write statements like this so it would be easier for you. Okay?,00:35:39
+fhoupsm,291,student,Yep.,00:35:44
+fhoupsm,292,tutor,"Right, let's move on to the next part. This is another exam-style question. [unclear]",00:35:44
+fhoupsm,293,student,[UNCLEAR] [unclear],00:35:44
+fhoupsm,294,student,[unclear] [unclear],00:35:44
+fhoupsm,295,tutor,Would the area just be 36?,00:36:21
+fhoupsm,296,student,How do you know it's 36?,00:36:25
+fhoupsm,297,tutor,Because all of the like sides are the same and it equals 6.,00:36:28
+fhoupsm,298,student,Yeah.,00:36:33
+fhoupsm,299,tutor,"And then 6 times 6, 36.",00:36:33
+fhoupsm,300,background,What's the formula to find the area of a triangle?,00:36:36
+fhoupsm,301,tutor,"Oh, it's base times height divided by 2.",00:36:40
+fhoupsm,302,tutor,Okay. [unclear],00:36:46
+fhoupsm,303,student,18.,00:36:49
+fhoupsm,304,tutor,Yeah.,00:36:51
+fhoupsm,305,student,Not really. So do you know the base?,00:36:54
+fhoupsm,306,background,"Yeah, I understand that.",00:36:58
+fhoupsm,307,student,6.,00:37:02
+fhoupsm,308,tutor,"Okay, base is 6. And what's the height?",00:37:04
+fhoupsm,309,background,6.,00:37:07
+fhoupsm,310,tutor,"Not really. 6 is the side length, right?",00:37:09
+fhoupsm,311,student,Yeah.,00:37:14
+fhoupsm,312,tutor,And height is— height should be the perpendicular height. How can you find the height of this— perpendicular height of this triangle?,00:37:15
+fhoupsm,313,background,Yeah. [unclear],00:37:27
+fhoupsm,314,tutor,"All right. Okay, let's find it. Okay.",00:37:29
+fhoupsm,315,tutor,Pythagorean theorem can be used with the other types of triangles when the perpendicular height is used to form the right angle triangle within the triangle. This is often involves using the properties of isosceles triangles and equilateral triangles. And let's see how.,00:37:39
+fhoupsm,316,student,Oh my God.,00:37:57
+fhoupsm,317,tutor,So you can lay the,00:37:58
+fhoupsm,318,tutor,"Mark the perpendicular height. Let's mark the perpendicular height here. I'm going to use different colors so it's visible. So the perpendicular height would be perpendicular to the base of the shape. Base of the shape, consider it as AC, and the perpendicular height would be at the halfway point connecting B. Okay, that would [unclear] the right angle over here. [unclear]",00:38:01
+fhoupsm,319,student,Yeah.,00:38:32
+fhoupsm,320,tutor,"So do you see that [unclear] at this midpoint forms a right angle triangle, right?",00:38:34
+fhoupsm,321,student,Yeah.,00:38:42
+fhoupsm,322,tutor,"Using that, you can find the perpendicular height, which is h. Okay?",00:38:43
+fhoupsm,323,student,Okay.,00:38:51
+fhoupsm,324,tutor,"And let's say this is the midpoint M,",00:38:52
+fhoupsm,325,tutor,Can you tell me the value of AM? [unclear],00:38:55
+fhoupsm,326,student,3.,00:39:00
+fhoupsm,327,tutor,Exactly. What is AC?,00:39:02
+fhoupsm,328,student,6.,00:39:07
+fhoupsm,329,tutor,Okay. And AB?,00:39:07
+fhoupsm,330,student,6.,00:39:10
+fhoupsm,331,tutor,6. Can you use these values to find H?,00:39:11
+fhoupsm,332,student,18.,00:39:22
+fhoupsm,333,tutor,How do you know it's 18?,00:39:23
+fhoupsm,334,student,6 times 3.,00:39:25
+fhoupsm,335,tutor,"No, it's wrong. Use the Pythagoras theorem. See, these are sides of the— let me just point it out. AM and MB are sides of the right angle triangle, right? And AB is a hypotenuse, the longest side. Yeah, so use the Pythagoras theorem to find the value of H. [unclear]",00:39:28
+fhoupsm,336,tutor,"Well, let this be BD, so it goes along with the work that they have given here. [unclear]",00:40:01
+fhoupsm,337,student,"Can we write a formula with 6, 3, and H?",00:40:34
+fhoupsm,338,tutor,6 add— right. 6 add 3 equals H.,00:40:45
+fhoupsm,339,student,"No, it's just 6 squared.",00:40:52
+fhoupsm,340,tutor,"Oh, 6 squared.",00:40:55
+fhoupsm,341,student,6 squared.,00:40:57
+fhoupsm,342,tutor,And 3 squared.,00:40:59
+fhoupsm,343,student,"3 squared, okay, equals— [unclear] h². [unclear]",00:41:01
+fhoupsm,344,student,Which is 45.,00:41:11
+fhoupsm,345,tutor,"Okay, so that is h², right?",00:41:13
+fhoupsm,346,student,Yeah.,00:41:17
+fhoupsm,347,tutor,h² is equal to 45. So what is h?,00:41:18
+fhoupsm,348,student,6.7.,00:41:38
+fhoupsm,349,tutor,How did you get 6.7?,00:41:39
+fhoupsm,350,student,By squaring 45.,00:41:41
+fhoupsm,351,background,"Okay, square root for 45.",00:41:44
+fhoupsm,352,tutor,"One minute. So 6 squared is 36 plus 9, 45, correct? But can you find again, check in your calculator?",00:41:48
+fhoupsm,353,tutor,Square root of 45?,00:42:00
+fhoupsm,354,background,6.7.,00:42:03
+fhoupsm,355,tutor,It should be 5.2.,00:42:05
+fhoupsm,356,background,Oh.,00:42:08
+fhoupsm,357,tutor,Mine says 6.7.,00:42:09
+fhoupsm,358,student,Can you input it again? Let me also just check in my calculator again. [unclear] You need to enter the square root first.,00:42:12
+fhoupsm,359,tutor,Square root 45 is 6.7. Yeah. [unclear],00:42:31
+fhoupsm,360,student,That's right. I'm sorry about that. Yeah. So actually it's just 6.7. Okay. It's not—,00:42:43
+fhoupsm,361,tutor,6. [unclear],00:42:55
+fhoupsm,362,student,"Okay. Now, you know the edge. Can you find the area?",00:42:59
+fhoupsm,363,tutor,"Um, 6 times 3.",00:43:06
+fhoupsm,364,student,Or do I have to square it?,00:43:10
+fhoupsm,365,tutor,"Oh yeah, I'm sorry. There's a problem here with the formula that we have written. It's wrong. Okay? See, here we should have considered edge h² 3² is equal to 6² because 6 is the longest side, right? Yeah.",00:43:11
+fhoupsm,366,student,"Okay,",00:43:28
+fhoupsm,367,tutor,I made a mistake there. I'm sorry about that. So the equation would be h² 3² is equal to 6². Is that clear? Can you [unclear] find h² now?,00:43:28
+fhoupsm,368,student,"So, would it be 27, which is 5.2?",00:43:49
+fhoupsm,369,tutor,Correct. So h is equal to 5.2.,00:43:56
+fhoupsm,370,student,Yeah.,00:44:02
+fhoupsm,371,tutor,Now can you find the [UNCLEAR]?,00:44:04
+fhoupsm,372,student,Yeah.,00:44:04
+fhoupsm,373,tutor,So use the formula area equals base into height.,00:44:08
+fhoupsm,374,tutor,Height.,00:44:19
+fhoupsm,375,student,Divided by 2.,00:44:21
+fhoupsm,376,tutor,15.6.,00:44:28
+fhoupsm,377,background,15.6 centimeters squared.,00:44:30
+fhoupsm,378,tutor,Yeah.,00:44:35
+fhoupsm,379,background,"Right. And with that, let's wrap up the session for today. I hope the Pythagoras Theorem is clear for you. And let's do more problems next time.",00:44:36
+fhoupsm,380,tutor,All right.,00:44:50
+fhoupsm,381,student,All right. Thank you so much for joining. [unclear],00:44:52
+fhoupsm,382,tutor,Thank you. Bye.,00:44:54

@@ -1,0 +1,305 @@
+session_id,utterance_id,role,content,timestamp
+akussip,0,tutor,Hello?,00:00:00
+akussip,1,student,"Hi, can you hear me?",00:00:00
+akussip,2,tutor,Hi.,00:00:07
+akussip,3,student,"Hello, hi, can you hear me?",00:00:15
+akussip,4,tutor,"Hello, can you hear me, ma'am?",00:00:17
+akussip,5,student,"Yes, I can hear you.",00:00:19
+akussip,6,tutor,"Okay, how are you doing? Good.",00:00:21
+akussip,7,tutor,How is school today? [unclear] All right. Okay. Are you then ready for the lesson today?,00:00:26
+akussip,8,student,Yes.,00:00:34
+akussip,9,tutor,Okay. All right. So let's get into the lesson that we'll be studying today.,00:00:35
+akussip,10,background,Yeah.,00:00:40
+akussip,11,tutor,So—,00:00:43
+akussip,12,background,Yes.,00:00:45
+akussip,13,tutor,"You can see my slides, yeah?",00:00:48
+akussip,14,student,Round the numbers to the nearest tenth.,00:00:50
+akussip,15,tutor,"Yes, rounding numbers to the nearest tenth. Okay. So this is the lesson that we are going to study today. And if you could remember, [STUDENT_NAME], you have already started this lesson on your previous sessions. Okay. So could you tell me what did you— what do you remember about what you studied on the previous session?",00:00:56
+akussip,16,student,"Um, so don't you have to— [unclear]",00:01:19
+akussip,17,tutor,First?,00:01:36
+akussip,18,student,Yeah. I forgot.,00:01:36
+akussip,19,tutor,"Okay, so you were given some numbers and you were asked to round them to the nearest tenth.",00:01:40
+akussip,20,tutor,"Okay, and you worked out the questions really well. And today we have to do the question that is there in the [unclear] slide. Okay, so could you please work out this question to me? So this is where you start from today's session.",00:01:48
+akussip,21,student,Wasn't this the one that I got stuck at?,00:02:06
+akussip,22,tutor,"Yes, exactly.",00:02:10
+akussip,23,tutor,So would you like to give it a try again?,00:02:13
+akussip,24,student,I can try. So we got 240.5— [unclear] I just need to put 2 dots. Then you have to round to the nearest tenth. Tenth.,00:02:18
+akussip,25,tutor,Mm-hmm.,00:02:41
+akussip,26,student,"So since it's a 5, since it's a 5, 5 more, you have to make it go up here.",00:02:43
+akussip,27,tutor,Mm-hmm.,00:02:51
+akussip,28,student,"On us. So that means it would be a 6. So wait, would it be 25?",00:02:52
+akussip,29,tutor,"Sorry, I didn't get you.",00:03:09
+akussip,30,student,25.,00:03:10
+akussip,31,tutor,"Okay, yes, you can get 25, but do you have any tenths there to round it down to make it 24.50? [unclear] So what is the main criteria that you need to have if you want to round the number?",00:03:14
+akussip,32,student,[unclear] [unclear],00:03:28
+akussip,33,tutor,"Okay, so now let's say you have like 3.1— okay, 2. And what is the answer that you will get when you round it to the nearest tenth?",00:03:42
+akussip,34,student,"So you're not going to use 10, I'll reach 10.02.",00:04:01
+akussip,35,tutor,"If the answer you have is 3.12, what answer will you be getting?",00:04:06
+akussip,36,student,3.31. [unclear],00:04:15
+akussip,37,tutor,How would you round a number to the nearest 10? What is that you have to see when you are rounding?,00:04:21
+akussip,38,tutor,"Yes, you have to round the hundreds first.",00:04:27
+akussip,39,student,"Do you have to round the hundreds first, or do you have to look at the number that you have in the hundreds column?",00:04:32
+akussip,40,tutor,You have to look at the numbers you have in the hundreds column.,00:04:38
+akussip,41,background,And what do you have to do next?,00:04:43
+akussip,42,student,Then you have to—,00:04:47
+akussip,43,student,Round that— [unclear] round to 1.,00:04:50
+akussip,44,tutor,"Okay, so if the number in the hundreds column is a 5 or greater than a 5, okay? You round the number up, and if it is less than 5 you round it down. So what is the number that you have in the hundreds column here? [unclear] So I have a 2 in the hundredths column.",00:05:04
+akussip,45,tutor,Yes. So then what do you do if you have a 2 in the hundredths column?,00:05:32
+akussip,46,student,You round it down.,00:05:36
+akussip,47,tutor,You round it down. Okay. So then what answer will you get?,00:05:38
+akussip,48,student,You'd get—,00:05:42
+akussip,49,background,3.,00:05:46
+akussip,50,background,Sorry?,00:05:51
+akussip,51,background,3.,00:05:52
+akussip,52,background,So you won't have any 10s there?,00:05:55
+akussip,53,background,Because the 0 is a word. [unclear],00:05:58
+akussip,54,background,3.1.,00:06:02
+akussip,55,background,"Okay, 3.1. So similarly, what the question that they are telling me is that you have a number Okay, and when you round that number to the nearest tenth— [unclear] Okay, so when you round it to the nearest tenth, you get 24.50 as the answer.",00:06:05
+akussip,56,student,Yeah.,00:06:33
+akussip,57,tutor,"Okay, so now you have to find what could be the possible number",00:06:35
+akussip,58,student,"I mean, it still can be 25. I'm going to put that there so I don't get confused. [unclear]",00:06:42
+akussip,59,tutor,"What if you have this number here, 24.57? No, 24.53. What answer would you get when you round it down?",00:06:52
+akussip,60,tutor,"When you round it down, you'll have 24.4... [unclear]",00:07:06
+akussip,61,student,24.4?,00:07:17
+akussip,62,tutor,if you round it down. If you round it down.,00:07:17
+akussip,63,student,"Okay, so here, now tell me, What is the number that you have in the hundreds column?",00:07:29
+akussip,64,student,"In the hundreds column? Hundreds column. Yeah, you don't— [unclear] You have a hundreds column.",00:07:37
+akussip,65,background,Oh yeah. 3.,00:07:45
+akussip,66,tutor,"Okay, so when you have a 3 in the hundreds column, what would you do? What would you do?",00:07:52
+akussip,67,tutor,Round it.,00:07:58
+akussip,68,student,[unclear],00:07:58
+akussip,69,tutor,You'd have to round it to 24.50.,00:07:59
+akussip,70,student,"Oh, how far would you get? [unclear]",00:08:14
+akussip,71,tutor,"Yeah, so round it to 24.50. [unclear]",00:08:20
+akussip,72,student,You have to round it to 24.50.,00:08:23
+akussip,73,tutor,"Hello, can you hear me?",00:08:49
+akussip,74,student,"Yes, can you hear me?",00:08:51
+akussip,75,tutor,"Yes, I can hear you now. So guess what is the answer that you told? It was 24 point— [unclear] Yeah, that's 24.50, okay? So now this could be a price of the rice.",00:08:54
+akussip,76,student,Okay.,00:09:11
+akussip,77,tutor,"So similarly, can you tell me",00:09:13
+akussip,78,tutor,"Another price that could be off the record. [unclear] So we're saying we're rounding it down. Oh, not now. We're not rounding it down now.",00:09:17
+akussip,79,tutor,Yeah?,00:09:44
+akussip,80,student,Do you have to run the town now or you still run the [UNCLEAR]?,00:09:44
+akussip,81,tutor,"Just a minute. I can't hear you properly. Just give me a minute. I'll quickly refresh the page and come back, okay?",00:09:50
+akussip,82,student,Okay. [unclear],00:09:57
+akussip,83,tutor,Hello?,00:10:07
+akussip,84,tutor,"Hello? [Speaker] Yes. [Speaker] You can hear me now, right? [Speaker] Yes. [Speaker] Okay. Yeah. So what was the question you was asking me? [Speaker] You still round it down or do you have to round it off now? [Speaker] Which number? [Speaker] The 24.50. [Speaker] The 24.50? You have to understand the question first of all.",00:10:33
+akussip,85,tutor,"24.50 is the number that you get when you round it. For example, let's say this is the exact price, and when you round it, you get 24.50. And now they are asking you for another possible answer that you would get when you round it. You get 24.50 as the [UNCLEAR]. [unclear]",00:10:59
+akussip,86,tutor,Yeah?,00:11:32
+akussip,87,student,Yeah.,00:11:33
+akussip,88,tutor,"Okay, now what answer will you get?",00:11:33
+akussip,89,student,I can't hear you properly because of the thing or whatever.,00:11:37
+akussip,90,tutor,Can you hear me now?,00:11:45
+akussip,91,student,Yes.,00:11:47
+akussip,92,tutor,"Okay, alright. So when you round 24.50, What will you get? [unclear]",00:11:48
+akussip,93,student,So it's only 25 that I can think of.,00:11:55
+akussip,94,tutor,"Okay, so now let's say you have 25 points. Okay? Now what answer would you be able to ask me to do?",00:12:02
+akussip,95,student,"Hello, can you hear me?",00:12:15
+akussip,96,tutor,"Hello? Can you hear me? Hello? [unclear] Okay, all right. So now, okay, let's say you can think of only 25. Okay? Now tell me what's the value when you round it to the nearest 10.",00:12:19
+akussip,97,student,Round to the nearest 10?,00:12:38
+akussip,98,tutor,"Yeah. [Speaker] It would only be 25, so there's only one [UNCLEAR].",00:12:41
+akussip,99,tutor,"All right, so in 25, what is the hundredths you have in 25 hundredths?",00:12:51
+akussip,100,student,Hundredths you have in 25.,00:12:58
+akussip,101,tutor,You have zero hundredths.,00:13:01
+akussip,102,student,Yes.,00:13:03
+akussip,103,tutor,"Okay, so if you have zero hundredths, what would you do? [Speaker] So if you have 0 hundreds, you don't know, you won't do anything? [unclear] Because zero means nothing, so you can't exchange from it, you can't times it, so you don't do anything for your life.",00:13:04
+akussip,104,tutor,"Okay, alright. So you can't get 25.",00:13:24
+akussip,105,student,Yeah.,00:13:28
+akussip,106,tutor,"Okay. So this is one answer you can get. And similarly, you can go for an answer which is",00:13:29
+akussip,107,tutor,24.49. Now can you tell me what answer will you get when you round it to the nearest tenth?,00:13:43
+akussip,108,student,[unclear] That would be 24.50 to 24.49.,00:13:48
+akussip,109,tutor,"Yes. So the answer would be 24.50, yeah?",00:14:06
+akussip,110,student,Yeah.,00:14:10
+akussip,111,tutor,"Okay, this is what they expect from you. You need to just guess two answers so that when you round it, you get 24.50. Okay, so the values that you can get these two answers, you can start the values from 24.40. [unclear] 24.54. So if you have any numbers in between this range, you can round them to the nearest tenth. Understood?",00:14:11
+akussip,112,student,Yeah.,00:14:45
+akussip,113,tutor,Okay. Alright. So good job in trying to work out this question here.,00:14:46
+akussip,114,background,[unclear],00:14:51
+akussip,115,tutor,Yes. [unclear],00:14:52
+akussip,116,tutor,"Okay. So that comes to the end of this lesson, that is rounding numbers to the nearest tenth. Okay. So yes, can you tell me what did you study from this lesson? I know the last question was a bit tough. But still, could you just explain me what you know about the last question and what you know about the other questions?",00:15:03
+akussip,117,student,Yeah. So basically you have to round and take from the hundreds. You have to look at the hundreds column and do stuff with that and stuff with that. [unclear],00:15:30
+akussip,118,tutor,"Okay, all right.",00:15:46
+akussip,119,tutor,"So good job in recalling on what you learned in the lesson, and here you go with a praise for your effort in trying to answer that question there.",00:15:48
+akussip,120,student,Thank you.,00:15:57
+akussip,121,tutor,You're welcome. Now let's move into the next lesson that we'll be studying.,00:15:59
+akussip,122,background,[unclear],00:16:03
+akussip,123,tutor,Okay. So this lesson is about multiplying and dividing whole numbers and decimals by 10 and 100.,00:16:05
+akussip,124,tutor,Okay. So what you will be studying here is about how you multiply and divide whole numbers and also decimals. Okay. That is by 10 and 100. So this particular chapter is an easy chapter. This lesson is really easy if you know the concepts properly.,00:16:16
+akussip,125,tutor,Okay? So could you please work out this learning goal question?,00:16:44
+akussip,126,student,Yes ma'am. In learning goals... it sounds like 100-something quality— maybe 2-3-3 to that something called Adobe Docs or so.,00:16:51
+akussip,127,tutor,"Okay, yes. So our answer will be 206. So very good job in working out this question there, [STUDENT_NAME]. So this is our answer, which is 206. Alright, so now let's try some questions here. By the way, have you known— have you come across this table anywhere before? [unclear]",00:17:08
+akussip,128,student,What is it? [unclear],00:17:34
+akussip,129,student,"Oh, was it one of those things that you taught me about a long time ago?",00:17:35
+akussip,130,tutor,"Yes, I have taught you about this. Okay? So now I think you can work out the question 1 by using the [UNCLEAR].",00:17:49
+akussip,131,student,0.8.,00:17:56
+akussip,132,tutor,"Yes, repeat the question to me.",00:17:59
+akussip,133,student,Use the Gattegno chart to work out 0.95 times 100.,00:18:02
+akussip,134,background,I already know the answer though.,00:18:11
+akussip,135,tutor,"Ah, okay. Even though you know the answer, they are expecting you to answer it through the Gattegno chart. Okay? So what do you think is the answer? I need you to work out using the Gattegno chart. To get [UNCLEAR]?",00:18:15
+akussip,136,student,"Well, so we're going from— it's sort of hard to explain, but you know when you're trying to explain something but you just like can't think of a way to describe it? You just do it.",00:18:30
+akussip,137,tutor,"Mm-hmm, okay. So what answer will you get if you are using the Get Ignore Chart?",00:18:46
+akussip,138,student,"I mean, well, you won't need the zero in there.",00:18:52
+akussip,139,tutor,So you just need the 95. Is it a times?,00:18:55
+akussip,140,student,"Well, that's times, yeah.",00:19:04
+akussip,141,tutor,"Okay, alright. And then what answer did you get?",00:19:06
+akussip,142,student,"Oh, 95. [unclear] Plus.",00:19:10
+akussip,143,tutor,"Okay, alright. The answer is 95. So good job there in working out the question here. [STUDENT_NAME]. Now let's try out question 2.",00:19:16
+akussip,144,tutor,to get to 1...,00:19:16
+akussip,145,student,"Use the following to complete the calculation below. Use only one... [unclear] [Speaker] So divide, where's the divide symbol? Where is the divide symbol? There's no divide symbol in mine.",00:19:30
+akussip,146,tutor,You have the division symbol in the symbol section. You can see it on the bottom of the toolbar. Can you see the symbol section? [unclear],00:20:00
+akussip,147,student,"Oh, symbol.",00:20:13
+akussip,148,tutor,Yeah. [unclear],00:20:15
+akussip,149,student,"Okay, so then you can do sound. And then you can do [UNCLEAR].",00:20:21
+akussip,150,tutor,"Okay, so good job here in working out this question. Now, could you please try the correct— [unclear]",00:20:32
+akussip,151,student,"Hello, can you hear me?",00:20:50
+akussip,152,tutor,"Yes, I can hear you. Can you try the question B now?",00:20:54
+akussip,153,student,Okay.,00:20:58
+akussip,154,tutor,Okay.,00:21:00
+akussip,155,background,So you have to use the symbol here.,00:21:02
+akussip,156,student,Yeah. [unclear],00:21:06
+akussip,157,tutor,"Hello, can you hear me?",00:21:52
+akussip,158,student,Yes.,00:21:54
+akussip,159,tutor,"Okay, all right. So can you find the symbol section?",00:21:56
+akussip,160,tutor,"Yeah, okay.",00:21:59
+akussip,161,student,Yes.,00:22:02
+akussip,162,tutor,"Okay, all right. So could you please work on the Question B now?",00:22:03
+akussip,163,student,I have. I have done it. I'm going to reverse it.,00:22:10
+akussip,164,tutor,I actually see a zero here.,00:22:17
+akussip,165,student,That was an accident. I'm going to put the right 10.,00:22:21
+akussip,166,tutor,"Okay, all right.",00:22:24
+akussip,167,tutor,Sun weighs 27.5 kilograms. How much more does sun weigh than [UNCLEAR]?,00:22:27
+akussip,168,student,I need to rest. Let's not go left.,00:22:33
+akussip,169,tutor,"Okay, so here you have written divide by 10, okay? But now what happens to the number here? 51.5 becomes 5,150.",00:22:54
+akussip,170,student,"Oh, that goes... that goes... [unclear] That's a times, isn't it?",00:23:09
+akussip,171,tutor,That's the time. [unclear],00:23:18
+akussip,172,student,"So, if the time's up, would that be at times 10 and then B? [unclear]",00:23:27
+akussip,173,student,[unclear] [unclear],00:23:27
+akussip,174,student,[unclear] [unclear],00:23:27
+akussip,175,tutor,"Hello, can you hear me now?",00:24:20
+akussip,176,student,"Hello, can you hear me?",00:24:23
+akussip,177,tutor,"It's okay, I can hear you now.",00:24:25
+akussip,178,background,Okay.,00:24:27
+akussip,179,tutor,Okay.,00:24:30
+akussip,180,background,"Yes. Now here, what is the number that you have here?",00:24:31
+akussip,181,student,51.5.,00:24:38
+akussip,182,tutor,"Okay, and what number you get here?",00:24:40
+akussip,183,student,5.150.,00:24:45
+akussip,184,tutor,"Is this a point or is it 5,150?",00:24:51
+akussip,185,student,Oh. [unclear] [unclear],00:24:57
+akussip,186,tutor,"I have my glasses on, but that's a comma there, okay?",00:25:01
+akussip,187,student,Okay. Okay. Because I couldn't see.,00:25:19
+akussip,188,tutor,So... this would be so difficult. [unclear] So that would be... times 100.,00:25:29
+akussip,189,tutor,"Okay, yes, that is, you get it as by timesing it by 100. Now could you please work out the question C?",00:25:53
+akussip,190,student,[unclear],00:26:01
+akussip,191,tutor,"Okay, you are timesing it by 10.",00:26:07
+akussip,192,student,10.,00:26:07
+akussip,193,background,Yep.,00:26:12
+akussip,194,tutor,And then the question D.,00:26:13
+akussip,195,student,Okay.,00:26:21
+akussip,196,tutor,"Okay, yes, divided by 10. Alright, so good job here in working out these questions, [STUDENT_NAME]. So shall we work out the last part, the third question here? [unclear] [unclear]",00:26:24
+akussip,197,tutor,[unclear] [unclear],00:26:24
+akussip,198,tutor,[unclear],00:26:24
+akussip,199,tutor,"Yes? [unclear] All right. Could you please just check the first part here, question 8?",00:27:11
+akussip,200,student,"Oh, of the 10. Of the 10.",00:27:25
+akussip,201,tutor,"Yes, it is a 10. Okay. And when you divide it by 100, you get 91 as the answer. And 61.2, when you divide it by 10, you get 6.12 as the answer. Okay, so good job here in working out the question again, [STUDENT_NAME]. Now let's go to the final question of this lesson.",00:27:34
+akussip,202,tutor,"So yes, could you please work out this question here?",00:28:00
+akussip,203,student,"A zookeeper weighs an adult gorilla and its baby. The adult gorilla has a mass of 149.3 kg. The baby gorilla has a mass one-tenth of the size of the adult gorilla, how much does the baby gorilla weigh in kilograms?",00:28:05
+akussip,204,tutor,Mm-hmm.,00:28:34
+akussip,205,student,So we have to put... [unclear] I think I get it here. I think I get it. So we have to divide [unclear],00:28:36
+akussip,206,tutor,A 10?,00:28:54
+akussip,207,student,"A 10, yes, okay.",00:28:57
+akussip,208,tutor,"So, since when you divide you have to move by—",00:29:01
+akussip,209,student,"Since when you divide, the decimal point goes— does it go right or left? What do you think? When you divide it by 10, would it go to the right side or would it go to the left side?",00:29:11
+akussip,210,student,It would go to the right.,00:29:26
+akussip,211,tutor,"When you are dividing, would the number get smaller or would it get bigger?",00:29:34
+akussip,212,background,[unclear],00:29:38
+akussip,213,tutor,Would the number get smaller or would it get bigger when you are dividing? Take a—,00:29:45
+akussip,214,student,Smaller.,00:29:51
+akussip,215,tutor,Dividing?,00:29:53
+akussip,216,student,"No, smaller, smaller, smaller.",00:29:55
+akussip,217,tutor,"Yes, it would get smaller. By how many times now would it get smaller?",00:29:57
+akussip,218,student,By 10.,00:30:06
+akussip,219,tutor,"By 10. Okay. So if it— Getting smaller by 10, what answer would you get? [unclear] Okay, 14.93. And what is the unit of it?",00:30:08
+akussip,220,student,Pardon?,00:30:31
+akussip,221,tutor,"What is the unit? Is it grams, kilograms, or what? [unclear]",00:30:32
+akussip,222,tutor,What do you have here for the adult gorilla?,00:30:49
+akussip,223,student,"For the baby gorilla, it would be 14.93 kg.",00:30:54
+akussip,224,tutor,"Yes, kg. Yes, that's kg. Okay. So could you write down the kg also there?",00:31:00
+akussip,225,student,[unclear],00:31:10
+akussip,226,tutor,"Okay, I can't see it. All right. Anyway, very well done in working out this question, [STUDENT_NAME]. And here you go with the praise for the wonderful effort there in working out the question here. So that is the end of this lesson. Okay? So could you just take me through a recap of what you studied here in this lesson? In this lesson, we did things like— [unclear] I don't know how to describe it because it's one of those things that like— you can always have things where like you do it in your head. It's like not a thing you describe.",00:31:10
+akussip,227,tutor,"Okay, alright. Anyway, you worked out questions where you had to multiply and divide by— Uh, what do you call it, where you had to multiply and divide by 10 and 100? Yeah?",00:31:55
+akussip,228,student,Yeah.,00:32:09
+akussip,229,tutor,"Okay, and you really did a very good job by working out the questions mentally, uh, in your head. Well done there, [STUDENT_NAME]. Now let's move into the next lesson that we'll be studying today.",00:32:10
+akussip,230,student,[unclear] That was actually easier than the last one.,00:32:24
+akussip,231,tutor,"Exactly, it is easier. Now we are going to study about writing simple fractions as decimals. So here you will be converting the fractions into decimals. Okay? So have you done questions related to this before?",00:32:28
+akussip,232,student,"I think so, but because I think I did something like— well, because I think I know the answer to this would be 2.5. [unclear]",00:32:47
+akussip,233,tutor,"Okay. All right. Aha. Yes, it is. Okay, how could it be 2.5? Can you just tell me?",00:32:57
+akussip,234,student,"Because the 2 is on— wait, no, no. [unclear] I don't think I answered this.",00:33:07
+akussip,235,tutor,"Okay, all right. So what you have to do here is you have to divide the numerator by the denominator. You have to divide the 2 by the 5. So when you divide the 2 by the 5, you get 0.4 as the answer. Okay? [unclear]",00:33:20
+akussip,236,tutor,"Alright, so the answer for this question is 0.5. Now could you work out the prior learning question to me? [unclear]",00:33:45
+akussip,237,student,I don't get it.,00:33:56
+akussip,238,tutor,You have to write an equivalent fraction. What do you mean by an equivalent fraction?,00:34:14
+akussip,239,tutor,Hmm.,00:34:28
+akussip,240,tutor,"Get it? Okay. So what is an equivalent fraction? It is a fraction that is equal to the fraction that they have given here. So if you have 3/5 here, equivalent fraction is a fraction that is equal to 3/5.",00:34:29
+akussip,241,tutor,"Okay, now how— now they have already given you a denominator which is 2 times that of the, uh, initial fraction. So the answer 10 you get here is by multiplying the 5 by the 2. So if you do something to the denominator, you have to do the same thing to the numerator as well, which means you are multiplying the 2 by the 3 here. So 2 times 3 is 6. Okay, so our fraction will be 6/10. Understand?",00:34:47
+akussip,242,student,"Oh, I think I've actually done this. [unclear]",00:35:24
+akussip,243,tutor,"Okay. So you know the number by the bottom, you have to divide it by the 5. Then you have to times it. Since that would now be 2. So you have to times the 2 by the 3 and that would equal 6.",00:35:27
+akussip,244,tutor,"Mm-hmm. Yes, exactly. Okay.",00:35:43
+akussip,245,student,So is that understood?,00:35:47
+akussip,246,tutor,"Yes. All right. [unclear] Okay, all right. Now let's go to the prior learning slide. And could you please read out this text to me here?",00:35:49
+akussip,247,student,"Before writing the fractions as decimals, we need to [Speaker] Be able to find equivalent fractions when the denominator is 3 or 10 or 100.",00:36:02
+akussip,248,tutor,Mm-hmm. [Speaker] And then— [unclear],00:36:13
+akussip,249,tutor,"Okay, now here",00:36:30
+akussip,250,tutor,"Okay, when we are finding equivalent fraction, okay, so we need to be able to find the equivalent fraction where we have a denominator of 10 or 100. So if you have a look at this, uh, bar model here, can you tell me into how many parts have they divided it the whole bar model into 1/10. How many parts of 1/10 are here?",00:36:32
+akussip,251,student,"[unclear] Sorry, I was just coughing.",00:37:05
+akussip,252,tutor,"That's okay, that's okay.",00:37:09
+akussip,253,student,How many 1/10s there are?,00:37:12
+akussip,254,tutor,Yeah.,00:37:14
+akussip,255,student,10?,00:37:15
+akussip,256,tutor,"10, yes. And how many 1/5s are here?",00:37:19
+akussip,257,student,"Uh, 5.",00:37:24
+akussip,258,tutor,"5, yes. Now can you tell me, if you take 1/5, how many 1/10s are equal to a 1/5? [unclear]",00:37:29
+akussip,259,student,2. 2 1/10s is equal to a 1/5.,00:37:40
+akussip,260,tutor,"2 1/10s is equal to a 1/5. Okay, so if it is 2 1/10s, so 1/5 is equal to What would the answer be here?",00:37:45
+akussip,261,student,It would be... [unclear],00:37:57
+akussip,262,tutor,"It would be 2/10. Yes, all right. So very good job here in working out the question. Well done there, [STUDENT_NAME]. I hope you got what is meant by equivalent fraction now. Yeah?",00:38:02
+akussip,263,student,I knew it. [unclear],00:38:19
+akussip,264,tutor,"Okay, all right, good job. Now could you please read out this yellow-orange box to me, please?",00:38:21
+akussip,265,student,The decimal point separates the whole number part from the fractional part of a number.,00:38:29
+akussip,266,tutor,"Okay, so the decimal point, it actually separates the whole number from the fractional part. Okay, so let's see. In question C here, what is the number that you have? The fraction that you have?",00:38:35
+akussip,267,student,"The fraction that I have for number C. So what that would be? So one tenth. So yes, that's one tenth.",00:38:51
+akussip,268,tutor,"So if you were to convert it into a decimal, okay. So can you tell me how many tens are there in this one",00:39:02
+akussip,269,student,How many— I don't get what you're doing it into decimals though. That's the bit I don't get.,00:39:18
+akussip,270,tutor,"Okay, yeah. Now what I'm going to ask you is I want you to tell me how many one-tens are there in one ten. [unclear]",00:39:27
+akussip,271,student,"I mean, how many one-tens are there in one ten?",00:39:39
+akussip,272,background,"One? [unclear] Yes, it is one. Okay, now we know that there is one-tenth here. So if you have a look at this place value chart here, okay, how would you represent this place value chart as a one-tenth?",00:39:46
+akussip,273,student,"I mean, [unclear]",00:40:06
+akussip,274,tutor,So where will you have the 1 in the place value chart?,00:40:14
+akussip,275,student,Where you have the 1 in the place value chart.,00:40:19
+akussip,276,tutor,"If you want to show that, if you want to tell that there is 1/10, where will you have the 10? Where will you have the 1 in the place value chart?",00:40:22
+akussip,277,student,"Ah, it would be in the one, would be in the ones.",00:40:35
+akussip,278,tutor,You mean this one here?,00:40:41
+akussip,279,student,"Yeah, this thing here, like the one would be here and then everything else would be [UNCLEAR].",00:40:44
+akussip,280,tutor,"So, okay. So how would you read this fraction here? How would you read out this fraction?",00:40:55
+akussip,281,student,One ten.,00:41:06
+akussip,282,tutor,"One ten. Okay, so now you said that you have one one-tenth. Yeah, so you would put a 1 to the one-tenth here. Understood?",00:41:08
+akussip,283,student,Understood.,00:41:21
+akussip,284,tutor,"Okay, so where would you put the 1? Now you would put the 1 here in the one-tenth column, while the number in the ones column becomes a 0. [unclear]",00:41:22
+akussip,285,tutor,Okay. So your answer will be 0.1.,00:41:34
+akussip,286,student,So the 1 would be in the one-tenth is what you said?,00:41:41
+akussip,287,tutor,"Yes. The 1 will be in the one-tenth because you have one one-tenth only. Now, do you have any ones here?",00:41:49
+akussip,288,tutor,Do you have any ones?,00:42:00
+akussip,289,student,No. You don't have any ones?,00:42:03
+akussip,290,tutor,Yes. So you put a zero over the ones column.,00:42:06
+akussip,291,student,Okay.,00:42:10
+akussip,292,tutor,Okay. [unclear] Okay. Now this is the answer. This is the decimal that you get when you convert the fraction 1/10 to a decimal. This is the answer you get. [unclear],00:42:15
+akussip,293,tutor,"Okay, so this is the answer that you get when you convert the fraction into a decimal number. [Speaker] Okay.",00:42:41
+akussip,294,tutor,"Okay, so could you write the answer here? [Speaker] The answer... into the sea. The answer... [Speaker] Yeah, into the sea. Yes, I need you to write down the decimal number. [Speaker] I have. [unclear] [Speaker] What is the answer that you have written here? [Speaker] 0.1. But now, so I can do it again. I'm gonna do it again. 0.1.",00:42:51
+akussip,295,tutor,"Okay, all right. I see a 0.1 here. Okay, now that is the right answer. So the decimal that you get for the fraction 1/10 is 0.1. Now similarly, you have to work for the question D. So now tell me, how many one-tenths or, uh, how many hundredths you have in this fraction here? How many hundredths do you have in this fraction?",00:43:31
+akussip,296,student,"Yeah, in the hundreds, you would have one [UNCLEAR]. Where? Wait a minute. It would— wouldn't it be zero point—",00:44:05
+akussip,297,student,"Hello, can you hear me? Hello, can you hear me? [unclear]",00:44:15
+akussip,298,tutor,"Hello? Ah, yes, now I can hear you. Yeah, yeah, yeah, yeah. All right. So let me just stop you here, [STUDENT_NAME], because we are running out of time. So could you tell me what did you study in this lesson? What is that you remember about studying in this lesson?",00:44:22
+akussip,299,student,We were [unclear] converting the fractions into decimals.,00:44:44
+akussip,300,tutor,"Okay. Yes, we converted the fractions into decimals. Okay. And you really did a great job here by converting the fractions into decimal. And here you go with the praise for your work.",00:44:53
+akussip,301,tutor,Well done over there [STUDENT_NAME]. And now it is time for me to end the session. So have a nice day. Bye.,00:45:06
+akussip,302,background,Bye.,00:45:13
+akussip,303,student,Bye.,00:45:14

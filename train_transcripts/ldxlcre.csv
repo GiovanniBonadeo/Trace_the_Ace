@@ -1,0 +1,284 @@
+session_id,utterance_id,role,content,timestamp
+ldxlcre,0,tutor,Hello.,00:00:00
+ldxlcre,1,background,[unclear],00:00:00
+ldxlcre,2,student,Hello.,00:00:01
+ldxlcre,3,tutor,Hello.,00:00:03
+ldxlcre,4,student,How are you today?,00:00:05
+ldxlcre,5,tutor,"I'm good, thanks. You?",00:00:06
+ldxlcre,6,student,"Not bad, not bad at all. And so, by the way, my name is [TUTOR_NAME]. And I'll be your tutor today. All right?",00:00:09
+ldxlcre,7,student,Yeah.,00:00:17
+ldxlcre,8,tutor,"Okay, so let me introduce myself a little bit. So I like to play basketball and I love nature. How about you? What do you like?",00:00:19
+ldxlcre,9,student,I like football and running. [unclear],00:00:30
+ldxlcre,10,tutor,"Oh, that's nice.",00:00:33
+ldxlcre,11,student,Yeah.,00:00:37
+ldxlcre,12,tutor,"Yes. So do you play football for your school? Yeah, and I play outside of school, like, mostly every day. [unclear]",00:00:38
+ldxlcre,13,tutor,"Oh, all right, that's nice. Okay, Jasper, so let's start off with our lesson. Uh, what does it say here?",00:00:45
+ldxlcre,14,student,Hello. It says solving area and perimeter problems.,00:00:57
+ldxlcre,15,background,Yeah.,00:01:03
+ldxlcre,16,tutor,"Yes, so tell me about area and perimeter. [unclear]",00:01:03
+ldxlcre,17,tutor,"Area is the inside, perimeter is the outside.",00:01:11
+ldxlcre,18,student,"True, there we go. And how do we find each of these?",00:01:18
+ldxlcre,19,tutor,"Wait, did we do that?",00:01:24
+ldxlcre,20,background,You find each of them by—,00:01:27
+ldxlcre,21,tutor,Times them or add them?,00:01:30
+ldxlcre,22,tutor,"Ah, yes, yes, that's true. So which one are we adding?",00:01:34
+ldxlcre,23,background,You add perimeter and you times area.,00:01:38
+ldxlcre,24,tutor,"Yeah, there we go. And by the way, when it comes to area and perimeter, so we have to be careful. So sometimes we don't have sections, like for example, we might have to find these extra bits before we",00:01:45
+ldxlcre,25,tutor,Multiply.,00:02:03
+ldxlcre,26,student,"Yes, I remember that.",00:02:03
+ldxlcre,27,tutor,"Right? Okay, so let's try this question. So now what does it say on top?",00:02:05
+ldxlcre,28,background,[unclear] started to make a path using identically sized square slabs. Calculate the perimeter and area of the path so far.,00:02:16
+ldxlcre,29,student,"Yes. So, what do you think we could do here? [unclear]",00:02:27
+ldxlcre,30,student,You could add 80 by 80.,00:02:38
+ldxlcre,31,tutor,"Well, remember, Jasper, so if we multiply 80 by 80, it gives us a square, right? That is, that will be the area of a square. A square. Although, do we have a big square here? [unclear]",00:02:44
+ldxlcre,32,tutor,"But yeah, that's good, that's good. You were right. But let me draw something for you. You might— this might be helpful for you. Oopsie. Here we go. And now I'm going to section this off into a grid. Yeah, that's one row, two rows, three. Oopsies, hold on, it should be a little low. No. [unclear]",00:03:03
+ldxlcre,33,tutor,"Anyway, yeah, you get the idea. Yeah, so anyway, now let me draw the columns. Yeah, so this might be useful for you, Jasper. How can we use this grid to help us? [unclear] Sorry, can you see what's missing? Ah, yes, that's true. Or can you tell me how you could— how you would do that? [unclear]",00:03:44
+ldxlcre,34,tutor,"Okay, let me help you. Okay, so do you notice how we have squares here? Yeah, each of these are small squares, correct?",00:04:25
+ldxlcre,35,student,Yeah.,00:04:34
+ldxlcre,36,tutor,"Now, if this is 80 centimeters and we have 4 similar squares here, How much should one of these sections be?",00:04:35
+ldxlcre,37,student,[unclear],00:04:48
+ldxlcre,38,tutor,"Wait, how much is it? 28? 28?",00:04:52
+ldxlcre,39,student,That's correct.,00:04:55
+ldxlcre,40,tutor,"There's 16 squares. [Speaker:Background]...take tea and I'll be back. [Speaker:Tutor] Oh, well, 16 squares in all, that's good, that's good. And then, okay, you're finding the area, correct? [unclear]",00:04:57
+ldxlcre,41,tutor,"Okay, so 16 squares in all. Very good. And then how can we use that to find the area of the blue section?",00:05:13
+ldxlcre,42,student,You can minus them.,00:05:26
+ldxlcre,43,tutor,True. And how many boxes would we have then?,00:05:29
+ldxlcre,44,student,9.,00:05:33
+ldxlcre,45,tutor,"Yes, there we go. Let's see. 1, 2, 3, 4, 5, 6,",00:05:35
+ldxlcre,46,tutor,"Oh, you mean the ones which weren't colored in, right?",00:05:43
+ldxlcre,47,background,[unclear],00:05:46
+ldxlcre,48,tutor,No.,00:05:53
+ldxlcre,49,background,"You said that if you take 60, if you take away 7 from 60, you get 9.",00:05:53
+ldxlcre,50,background,"And then you get the 2, the 10 disappeared and then—",00:06:00
+ldxlcre,51,tutor,"Oh, okay. So Jasper, here's the thing. Now we have 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. 7, 8, 9 squares. Yeah, which weren't colored in, right? And we need these 6 squares. But I think you were right, you're, you're on to something. Very good, Jasper. Yeah, but that doesn't exactly give us the area in centimeters squared, does it?",00:06:03
+ldxlcre,52,student,No.,00:06:27
+ldxlcre,53,tutor,"Yeah, um, so how can we find the area? Now, okay, let me see. Let me write that for you. Blue squares. That was 7 squares, right? Right. Now, how can we find the area of the blue squares? What do you think? [unclear]",00:06:29
+ldxlcre,54,tutor,"Oh, in centimeters squared though, the area in—",00:07:02
+ldxlcre,55,student,7 times 80.,00:07:06
+ldxlcre,56,tutor,"Hmm, see, the problem is this 80 is the length of this entire thing, not one. Yeah, and it's a length, right? So you have 4 similar squares along the length of this, right? In that case, how much should one of these smaller lengths be? [unclear]",00:07:08
+ldxlcre,57,tutor,Close.,00:07:32
+ldxlcre,58,student,"Okay, so I've just done a quick working out.",00:07:39
+ldxlcre,59,tutor,"Even closer, you're even closer. Yes.",00:07:41
+ldxlcre,60,student,One.,00:07:43
+ldxlcre,61,tutor,You have 4 squares.,00:07:45
+ldxlcre,62,student,3.,00:07:46
+ldxlcre,63,tutor,"And if the entire thing was 80 centimeters,",00:07:48
+ldxlcre,64,tutor,"Yeah, okay. The entire thing was 80 centimeters and you were looking for one. Okay, imagine it like this, right? [unclear] Yeah, that's good, but not exactly, right? Okay, so don't worry about this picture, right? Just imagine you had, um, 80 sweets, right? You had 80 sweets And you had 4 friends to share with, right? 80 sweets, 4 friends to share with, right? So how many sweets should one person get?",00:07:54
+ldxlcre,65,background,"Okay, so at the bottom, yep, 23. [unclear] So you had 80 sweets.",00:08:30
+ldxlcre,66,tutor,And you had 4 friends. How many sweets should one person get?,00:08:38
+ldxlcre,67,tutor,"Can I get a piece of paper, please?",00:08:46
+ldxlcre,68,student,Yes. [unclear],00:08:50
+ldxlcre,69,tutor,"Oh, I see it, oh yeah, yeah.",00:09:12
+ldxlcre,70,student,"It's the [UNCLEAR]... [Speaker:Tutor]...by the 10 and the 30. [Speaker:Jasper]...of the number. [Speaker:Tutor]...multiplication and division facts. Is that it? [Speaker:Jasper] So, take away 2 from the 8... Okay, 6. Is it 6 centimetres? Okay, so... [unclear]",00:09:18
+ldxlcre,71,tutor,Thank you.,00:09:36
+ldxlcre,72,student,"30, 31, 34, 42. [unclear]",00:09:43
+ldxlcre,73,tutor,"And then the area is— so it is length times width. Win. [unclear] So, okay, so 4, 4, and then okay, I get 104. I times 7.",00:09:56
+ldxlcre,74,tutor,Yes.,00:10:25
+ldxlcre,75,student,I times 8 and 13.,00:10:25
+ldxlcre,76,tutor,"Hello, Jasper. All good? Hello, can you hear me?",00:10:45
+ldxlcre,77,student,Yes. [unclear],00:10:52
+ldxlcre,78,tutor,"Oh, all right. Yes. So we were trying to find How much the length of one of these squares were? We had 80 in all and we were dividing it into 4. So how much should one piece be? [unclear]",00:10:52
+ldxlcre,79,student,Just do my work now.,00:11:10
+ldxlcre,80,background,Hello?,00:11:19
+ldxlcre,81,tutor,20.,00:11:20
+ldxlcre,82,tutor,"Very good. Excellent, excellent. They're very nice. So good effort there, right? Each of these small sections here is 20, right? That will be the length of one, 20 centimeters. That means how much should the area of this small square be? [unclear]",00:11:22
+ldxlcre,83,tutor,"That's the length, Jasper. How do— can you remember how we find the area?",00:11:51
+ldxlcre,84,student,[unclear],00:11:56
+ldxlcre,85,tutor,"Area, Jasper. Yes. Yes, how do we find area? How do we find the area?",00:12:01
+ldxlcre,86,student,Your times?,00:12:13
+ldxlcre,87,tutor,What are we timesing?,00:12:15
+ldxlcre,88,background,The numbers.,00:12:18
+ldxlcre,89,tutor,"Yes, which numbers?",00:12:20
+ldxlcre,90,background,Uh-huh.,00:12:21
+ldxlcre,91,student,20.,00:12:23
+ldxlcre,92,tutor,Very good. So 20 times what?,00:12:25
+ldxlcre,93,background,"Yeah, I can hear you now.",00:12:27
+ldxlcre,94,student,20 times 80. [unclear],00:12:31
+ldxlcre,95,tutor,"How do we find, uh, Jasper, how do we find the area of a square? Each length is equal. This one is equal to this side here. [unclear]",00:12:35
+ldxlcre,96,tutor,"Okay, so yes, see, Jasper, we are looking for the area of one of these small squares, and each of these sides is both 20. Yeah, so when finding the area, we are— we are doing 20 times 20. Right?",00:12:50
+ldxlcre,97,student,Yeah.,00:13:09
+ldxlcre,98,tutor,"Okay, so can you work out what 20 times 20 is?",00:13:11
+ldxlcre,99,student,20 times 20 is [unclear] 400.,00:13:16
+ldxlcre,100,tutor,"Yes, yes, very good, very good, excellent. So that is 400 centimeters squared, right? But we have 7 of them. We have 7 of them. So what do we do now?",00:13:22
+ldxlcre,101,student,Times it by 7.,00:13:41
+ldxlcre,102,tutor,Very good. Can you times it by 7 and tell me what— how much it is?,00:13:43
+ldxlcre,103,background,[unclear],00:13:48
+ldxlcre,104,student,"2,800.",00:13:50
+ldxlcre,105,tutor,"Good job. All right, Jasper, well done. So can you type it in here? Type your answer in.",00:13:52
+ldxlcre,106,student,"And if I know 5 times 4, I know 20 divided by 5 is 4, and I know 4 divided by 5 is 8.",00:13:59
+ldxlcre,107,tutor,"Nice. All right, so there you are, Jasper. Um, do you have any questions on how we got that answer? [unclear] Okay. And by the way, I hope I'm not speaking too fast.",00:14:09
+ldxlcre,108,tutor,"Yeah, you're not.",00:14:27
+ldxlcre,109,background,"Okay, all right, just checking. Okay, Jasper, so now, uh, so we don't need these 80 centimeters anymore, right? And now we know the length of each of these smaller squares. How do we use that to find the perimeter? [unclear] [unclear]",00:14:28
+ldxlcre,110,tutor,"Jasper, the 80 is just the length of this. Okay, let me erase it.",00:15:04
+ldxlcre,111,student,Times 4.,00:15:12
+ldxlcre,112,tutor,Why do we multiply by 4? [unclear],00:15:15
+ldxlcre,113,student,It's like...,00:15:19
+ldxlcre,114,background,"Actually, no, you do 20. But I don't really get it because I haven't really been given any like things to tell me like what to times it by.",00:15:22
+ldxlcre,115,tutor,"All right, Jasper. So tell me what— now when they speak of the perimeter of this shape, what are we calculating? What are they talking about when they say perimeter here? What do you think? [unclear] The outside. Can you show me? Can you use your pointer to show me what you mean by outside? [unclear] All right, yes. See, Jasper, if we go carefully, right, you did well. You did very, very well. I'm going to give you a star for that, right? That's very good. Okay, now when we find perimeter, we have to find each of these lengths, right? So we have this way, this way, this way, and we zigzag our way up, right? And but we have to go down as well, this way, right?",00:15:33
+ldxlcre,116,student,[unclear],00:16:30
+ldxlcre,117,tutor,So what we are looking for is this jagged stretch outside.,00:16:32
+ldxlcre,118,tutor,"Is that clear? [Speaker:Background]...because one time 15 is [UNCLEAR]. [Speaker:Tutor] Yes, how do we find the jagged section outside?",00:16:39
+ldxlcre,119,background,3 times... this one's 20 by 7.,00:16:52
+ldxlcre,120,tutor,"Well, that was the... we times it by 7 because there were 7 blue squares, yeah? But on the other hand, Jasper, take a look. We can count the small— each individual or each small length outside. So we have 1, 2, 3, 4. Can you count? [unclear]",00:17:01
+ldxlcre,121,tutor,"Okay, let me draw it for you. So 1 here, 2,",00:17:26
+ldxlcre,122,tutor,"3, 4, 5, then 6, 7, 8, 9, 10, 11, 12. [unclear] [unclear]",00:17:34
+ldxlcre,123,tutor,"13, 14, 15, and 16, right? So what do you think we would do now? How do we find the total area?",00:18:01
+ldxlcre,124,student,16 times 20.,00:18:17
+ldxlcre,125,tutor,"There we go, 16 times 20. Can you work it out?",00:18:19
+ldxlcre,126,student,Yeah.,00:18:24
+ldxlcre,127,tutor,"Excuse me, do you know how long left on this thing?",00:18:27
+ldxlcre,128,student,Sorry?,00:18:31
+ldxlcre,129,tutor,Do you know how long left on this thing?,00:18:33
+ldxlcre,130,student,On Thursdays?,00:18:36
+ldxlcre,131,tutor,Yes.,00:18:38
+ldxlcre,132,student,"Yeah, you have around 20 minutes more. [unclear]",00:18:39
+ldxlcre,133,tutor,"All right, we'll try our best, Jasper. Okay, it's all right. Yeah, so can you find the area? Sorry, not the area, the perimeter.",00:18:45
+ldxlcre,134,tutor,Oops.,00:18:55
+ldxlcre,135,student,Yeah.,00:18:57
+ldxlcre,136,tutor,320.,00:19:01
+ldxlcre,137,background,320.,00:19:02
+ldxlcre,138,tutor,"Very nice, 320. And we have to remember the measurement as well, yeah?",00:19:04
+ldxlcre,139,background,"Oh, I have a question. How many people do you tutor a day?",00:19:08
+ldxlcre,140,tutor,"Well, for [unclear] The UK, that is England, and England, that will be around 3 pupils in the UK, and I then I do have other pupils from other countries as well.",00:19:16
+ldxlcre,141,tutor,Okay. [unclear],00:19:36
+ldxlcre,142,student,Yeah.,00:19:39
+ldxlcre,143,tutor,So do you enjoy EduTutorConnect?,00:19:41
+ldxlcre,144,background,No. Yeah.,00:19:44
+ldxlcre,145,tutor,"Yeah, how can we make our lessons better?",00:19:47
+ldxlcre,146,student,"It's not really that, it's just that I don't really think I need it. [unclear]",00:19:52
+ldxlcre,147,tutor,"All right, all right.",00:19:56
+ldxlcre,148,background,So now I'm just going through my time.,00:19:59
+ldxlcre,149,tutor,"Yeah, but you're doing well, Jasper. Yeah, there we are. So good work with the calculations.",00:20:03
+ldxlcre,150,student,Yeah.,00:20:09
+ldxlcre,151,tutor,"Right, so yeah, what have you practiced so far?",00:20:11
+ldxlcre,152,student,I know that 4 times... [unclear],00:20:14
+ldxlcre,153,tutor,"Yes, so if you were given a picture like this, yeah, I know this is something different, right? So if you were given a picture like this, how would you find the area and the perimeter?",00:20:20
+ldxlcre,154,student,"And then this side, so it's a [unclear] [unclear]",00:20:34
+ldxlcre,155,tutor,"True, true. So remember, Jasper, it's all about sectioning these pieces off, right? So for the area, you can imagine that bigger grid. If you like, you can draw it in as well with a pencil. All right, and it's all about finding these smaller lengths.",00:20:44
+ldxlcre,156,tutor,"Alright, Jasper?",00:21:05
+ldxlcre,157,student,Mm-hmm.,00:21:07
+ldxlcre,158,tutor,"Okay, so you did well. Good work with sharing your thoughts, right? So let's move on to our next lesson. [unclear]",00:21:08
+ldxlcre,159,tutor,"Right, so what does it say here, Jasper?",00:21:22
+ldxlcre,160,student,"Oh, sorry, I'm— [unclear]",00:21:26
+ldxlcre,161,tutor,So metric measures. Have you heard of these metric measures before?,00:21:35
+ldxlcre,162,student,[unclear],00:21:44
+ldxlcre,163,tutor,"Well, in short, they are just grams, kilograms, meters, kilometers. Okay?",00:21:45
+ldxlcre,164,background,Okay.,00:21:53
+ldxlcre,165,tutor,"So you may have heard about feet and pounds Pounds as in the pounds where you can— like how heavy something is, right? Miles.",00:21:55
+ldxlcre,166,student,Yeah.,00:22:06
+ldxlcre,167,tutor,"Yeah, so those are called imperial measures, measurements. Metric is— are these grams and kilograms or kilometers and meters. Okay, okay. All right, so how would you answer these two questions?",00:22:07
+ldxlcre,168,tutor,Give them a try.,00:22:26
+ldxlcre,169,student,"Jack has 2 parcels. 1 parcel weighs 250. That's quite simple. That's 1.92... [unclear] [Speaker] Yeah, okay, so 1, 2, 4, 8, 16, 32. [unclear]",00:22:29
+ldxlcre,170,tutor,"Oh, okay. [Speaker] Is this 5?",00:22:57
+ldxlcre,171,tutor,"Oh, wow, great job, great job, yes. So tell me how you got 1,450 grams. [Speaker] Because I just added them. [Speaker] Yeah. [Speaker] Because I know that.",00:23:01
+ldxlcre,172,tutor,"Ah, yes.",00:23:16
+ldxlcre,173,tutor,"But Jasper, you must remember this is— it's in grams, right?",00:23:18
+ldxlcre,174,student,Yeah.,00:23:24
+ldxlcre,175,tutor,"This should be a comma. Yeah, you see, if it's in grams and if you read it as 1,450, there should be a comma there, not a decimal, right? But if it's kilograms, yes, you can put the—",00:23:26
+ldxlcre,176,background,[unclear] on my keyboard.,00:23:39
+ldxlcre,177,tutor,"Oh, it's next to the full stop. Yeah, it's next to the letter M.",00:23:41
+ldxlcre,178,tutor,Oh yeah.,00:23:45
+ldxlcre,179,student,"And then you write down all the [unclear] everything, right? You try to find that one.",00:23:46
+ldxlcre,180,tutor,So can you put it in?,00:23:53
+ldxlcre,181,student,"You write down 3 times M, and then I say here, it's...",00:23:55
+ldxlcre,182,tutor,And you find out...,00:24:01
+ldxlcre,183,student,I put M?,00:24:03
+ldxlcre,184,tutor,"Yeah, the comma, Jasper, over here.",00:24:04
+ldxlcre,185,student,"Oh yeah, sorry. [unclear]",00:24:07
+ldxlcre,186,tutor,"There we are. Awesome. By the way, this shade of green, super interesting. Let me see if I have the same shade of green. Let's see. Let me draw a box as well.",00:24:19
+ldxlcre,187,tutor,"Oh, different, right? It's a little different, correct?",00:24:35
+ldxlcre,188,student,Mm-hmm.,00:24:38
+ldxlcre,189,tutor,"All right, anyway, let's move on. So good work here. Let's try these, okay? So as you do this, do explain your— the working, okay? Explain the way you do them.",00:24:41
+ldxlcre,190,background,"Ben's sunflower measures 72 centimeters in height. Mia's sunflower is 3 times as tall. How tall is Mia's sunflower? Give your answer in metres. Okay, I think we can do this very, very simply. [unclear]",00:24:55
+ldxlcre,191,tutor,Do you know when EduTutorConnect stops?,00:25:15
+ldxlcre,192,student,EduTutorConnect stops when your turn ends or for today.,00:25:24
+ldxlcre,193,student,[unclear],00:25:39
+ldxlcre,194,tutor,"Yeah, so here's the thing, Jasper. Let me check something, okay? Oh, I can't check it since you're not my permanent pupil, but you may have registered with EduTutorConnect for the term. So I think you can talk to your teacher about Thursdays. Okay?",00:25:39
+ldxlcre,195,student,"I have, and they said that they don't know, and it's like any— like— but are you my new tutor?",00:26:01
+ldxlcre,196,tutor,"I am not sure, Jasper. So here's the thing, right? Technically— [unclear] Yes, yes, let me check. So her name is— she's not in my team anyway. So yeah, [UNCLEAR], right? [Speaker:Jasper] Yeah, she used to be my tutor, I think.",00:26:12
+ldxlcre,197,tutor,"I think she may be on holiday today, Jasper.",00:26:44
+ldxlcre,198,student,So I know one's a factor.,00:26:47
+ldxlcre,199,tutor,"Okay, okay. All right, Jasper. So yes, you did well here, Jasper. So tell me why your answer was 2.16.",00:26:51
+ldxlcre,200,student,Because I times them.,00:27:00
+ldxlcre,201,tutor,"Yes, and how much did you get?",00:27:03
+ldxlcre,202,student,"I got 216, but there's a point in meters, so it's 2.16 meters.",00:27:09
+ldxlcre,203,tutor,"Yeah, 2.16. Yeah. And are we forgetting something here? [unclear]",00:27:15
+ldxlcre,204,tutor,There we go. Wonderful. Good job.,00:27:23
+ldxlcre,205,student,"Can I get a drink, please?",00:27:36
+ldxlcre,206,tutor,Yes. [unclear],00:27:39
+ldxlcre,207,tutor,And then 2 times 14.,00:27:42
+ldxlcre,208,student,Okay.,00:27:52
+ldxlcre,209,tutor,14 was coming in. Coming out. And I know I— Hello? [unclear],00:27:52
+ldxlcre,210,tutor,"Sorry, [Speaker:Jasper]... [UNCLEAR]",00:28:20
+ldxlcre,211,tutor,"your voice has gone all weird. I think I need to refresh my page. I think it's been like, it's just glitched out. I'm going to go get some water. [unclear] I'll be back in 2 seconds.",00:28:20
+ldxlcre,212,tutor,Done. Those are my factors of 8 and my [UNCLEAR]. So that's my number that is not a factor of 26. Those are my factors of 8 and those are my factors of 26. Your voice could sound the same. You sound really glitchy. You there? [unclear],00:28:38
+ldxlcre,213,tutor,"Yes, sounds a bit better.",00:29:20
+ldxlcre,214,student,"Oh, I— yeah, I forgot to cross off the one. I wasn't thinking. [Speaker:Tutor]...use a mental method to complete the calculation. I'm actually— so I could actually— I can do that.",00:29:22
+ldxlcre,215,tutor,"5 divided by 1, which gets to 1. So I need to take 19 [unclear] from the answer.",00:29:47
+ldxlcre,216,student,And it's 19.,00:29:59
+ldxlcre,217,tutor,"Yeah, one second, I'm just doing the top one. So would it be 19?",00:30:04
+ldxlcre,218,tutor,"Yeah, it's 25 then.",00:30:19
+ldxlcre,219,student,I just guessed that one. [unclear] [unclear],00:30:23
+ldxlcre,220,tutor,"Alright. Oh, hello Jasper! All good?",00:30:41
+ldxlcre,221,student,"Hi, um, yeah, I just went to get my drink.",00:31:07
+ldxlcre,222,tutor,"All right, so let's try the next question here. How would you do this? [unclear]",00:31:11
+ldxlcre,223,student,"So, um, 100 grams of cheese, it cooks a few times, it's £24.",00:31:17
+ldxlcre,224,tutor,"Okay, so Jasper, it's half a kilogram. [unclear]",00:31:36
+ldxlcre,225,student,Oh.,00:31:43
+ldxlcre,226,tutor,"Oh. You could have used what you typed earlier. Very good, excellent. How did you get that answer?",00:31:48
+ldxlcre,227,student,I times 240.5.,00:32:09
+ldxlcre,228,tutor,"Very good, but how could you have used your previous answer? You got 24 pounds earlier, right?",00:32:14
+ldxlcre,229,student,"Yeah, because that was a whole kilo.",00:32:21
+ldxlcre,230,tutor,Very good. So—,00:32:24
+ldxlcre,231,background,I have a question. Do you know how you said you like basketball? Have you heard of the Golden State Warriors?,00:32:25
+ldxlcre,232,tutor,"Yes, Steph Curry's old team, right?",00:32:31
+ldxlcre,233,student,"No, I think he still plays for them.",00:32:35
+ldxlcre,234,tutor,Sorry?,00:32:38
+ldxlcre,235,student,I think he still plays for them.,00:32:39
+ldxlcre,236,tutor,"Oh, okay, yes, I haven't kept up with the playoffs or the main... [unclear]",00:32:41
+ldxlcre,237,student,"Well, I used to like the Boston Celtics when Rajon Rondo was playing. I don't mind the Golden State Warriors. Who is that guy from Eastern Europe? The tall [UNCLEAR], right? The tall guy. [Speaker:Tutor] Yeah, I'm not sure. Do you play basketball?",00:32:50
+ldxlcre,238,student,"I used to, yes. I played for my high school and then I played for university.",00:33:15
+ldxlcre,239,tutor,Nice. Do you like watch basketball to this day?,00:33:23
+ldxlcre,240,student,"Ah, yes, sometimes when I do have some time. So there were days when I started my day off with a basketball match. [unclear] Yeah, I miss those old times when I had time to play. So do you like to play football a lot?",00:33:27
+ldxlcre,241,tutor,"Yeah, I'm really good at football. Football, I think.",00:33:47
+ldxlcre,242,tutor,Nice. Who's your favorite football player?,00:33:51
+ldxlcre,243,student,Phil Foden.,00:33:53
+ldxlcre,244,tutor,Sorry?,00:33:56
+ldxlcre,245,student,Phil Foden.,00:33:57
+ldxlcre,246,tutor,"Oh, okay. Do you know who he is?",00:33:59
+ldxlcre,247,student,I'll check him out. Does he play for— which team does he play for?,00:34:02
+ldxlcre,248,background,Manchester City in England.,00:34:10
+ldxlcre,249,tutor,"All right, right. They had a— [unclear]",00:34:12
+ldxlcre,250,tutor,Mm-hmm.,00:34:16
+ldxlcre,251,student,"I support Man City, but I'm not a glory hunter. I've been supporting them my whole life.",00:34:17
+ldxlcre,252,tutor,"Oh, all right, nice. So yeah, they had a match against Liverpool recently, correct?",00:34:24
+ldxlcre,253,student,Yeah. [unclear],00:34:31
+ldxlcre,254,tutor,"Oh, nice. Um, yeah, I did see some news items regarding this match saying that Liverpool was Doing well, blah, blah, blah. Yeah. [unclear] Anyway, so shall we quickly do this question as well?",00:34:33
+ldxlcre,255,tutor,Yeah.,00:34:52
+ldxlcre,256,student,Can I start with the top 2 and then the last one?,00:34:53
+ldxlcre,257,tutor,"Wait, how long we got left?",00:35:00
+ldxlcre,258,background,Around 4 minutes.,00:35:02
+ldxlcre,259,tutor,"Yeah, we have time for this.",00:35:04
+ldxlcre,260,student,This is going to be our last one.,00:35:06
+ldxlcre,261,tutor,"Okay, so the bottle contains 1.5 liters of lemonade. Jackpot is 720. Okay, I've got this. [unclear]",00:35:10
+ldxlcre,262,tutor,"Oh, that was super close. Yeah, super close here, Jasper. How did you get that answer? There we go. Very good, very good. And how did you get your answer? I did 1,500 minus 720.",00:35:43
+ldxlcre,263,tutor,"Very nice. Okay, I'm going to give you a huge star for that. Excellent job. All right, and a sticker as well. There we are.",00:36:10
+ldxlcre,264,student,Thank you.,00:36:20
+ldxlcre,265,tutor,"So, yeah, so Jasper, what did we discuss today? [unclear]",00:36:21
+ldxlcre,266,tutor,"Yeah, what did you practice today?",00:36:30
+ldxlcre,267,student,"We practiced doing like area, perimeter, tangent, and doing this, like trying to [UNCLEAR]. [Speaker:Tutor] Yes, so with area, are there any new stuff you learnt, maybe new strategies?",00:36:34
+ldxlcre,268,student,No.,00:36:53
+ldxlcre,269,tutor,"Okay, so by the way, Jasper, about area, sometimes, sometimes you [unclear] the answer will be kind of hidden. So all you need to do is try to break it up into squares as much as possible, squares or rectangles, okay? [Speaker:Jasper]... [UNCLEAR]",00:36:56
+ldxlcre,270,tutor,"Alright, so tell me about measurements. What did we do here?",00:37:15
+ldxlcre,271,student,"First, so then [unclear]",00:37:19
+ldxlcre,272,tutor,"Yeah, what did we do here? Tell me about centimeters and meters.",00:37:24
+ldxlcre,273,student,"We just took them away. And then these ones, we halved the kilo and then we got it there. And on the [Speaker:Background]...bottle one, we didn't touch, take away that. [Speaker:Tutor] True, true. And what do we measure with meters and centimeters?",00:37:36
+ldxlcre,274,background,[unclear],00:38:00
+ldxlcre,275,tutor,"Yeah, what do we measure? Do we measure how heavy something is? How long something is?",00:38:02
+ldxlcre,276,background,"We didn't, we do it all, what are you talking about on like?",00:38:10
+ldxlcre,277,tutor,"Oh, so usually with meters we measure how tall something is. Yeah, yeah. So your height, would you measure it in centimeters or meters? What is it? What is— [unclear] Very good. There we are. So usually height of a person is measured in meters. This is super tall, by the way. Um, yeah, more than 6 feet, almost 7, maybe even more. Yeah, yeah. And, um, grams and kilograms— what do we measure with grams and kilograms?",00:38:15
+ldxlcre,278,tutor,"You measure kg or kg. Yes, that is how heavy something is. And with milliliters and liters?",00:38:50
+ldxlcre,279,student,"Um, L and ML.",00:39:02
+ldxlcre,280,tutor,"Yes, that is for liquids, things like water, milk. All right.",00:39:07
+ldxlcre,281,student,"Yeah. Okay, Jasper, so, uh, good job learning today. Yeah, good discussion. [unclear] Bye, have fun.",00:39:13
+ldxlcre,282,student,Bye.,00:39:22

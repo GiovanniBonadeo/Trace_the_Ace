@@ -1,0 +1,366 @@
+session_id,utterance_id,role,content,timestamp
+agragaf,0,student,Hello?,00:00:00
+agragaf,1,tutor,Hello?,00:00:02
+agragaf,2,student,"Hello, [UNCLEAR].",00:00:03
+agragaf,3,tutor,"Hello. Sorry. Hi, Tobias. How are you?",00:00:03
+agragaf,4,student,Good.,00:00:07
+agragaf,5,tutor,How was your day? What did you do in school today?,00:00:08
+agragaf,6,student,"So we were doing English and— no, we did maths. And we did [unclear] fractions. They were a little hard. So then we worked on them and we got it. And then we did English and we were learning about Henry VIII.",00:00:12
+agragaf,7,tutor,"Okay. Okay. And in the fraction, were you able to understand everything afterwards?",00:00:39
+agragaf,8,student,Yeah.,00:00:45
+agragaf,9,tutor,"Alright, well done. Okay, so, okay, what about else? I mean, do you like to play anything? Do you like to play games or anything else?",00:00:47
+agragaf,10,student,Yeah.,00:00:57
+agragaf,11,tutor,What do you like to play? Do you like to play video games or something else?,00:00:59
+agragaf,12,student,"Sometimes I play video games, sometimes I play sports like cricket, football.",00:01:02
+agragaf,13,tutor,"Okay, you play cricket. So that means you must be watching cricket as well?",00:01:09
+agragaf,14,student,Yeah.,00:01:15
+agragaf,15,tutor,On TV?,00:01:15
+agragaf,16,student,Yeah.,00:01:17
+agragaf,17,tutor,"Okay, so who is your favorite team? Let me guess, is it Pakistan?",00:01:17
+agragaf,18,student,Yeah.,00:01:21
+agragaf,19,tutor,And who is your favorite player? Babar Azam?,00:01:22
+agragaf,20,student,Wasim Akram.,00:01:25
+agragaf,21,tutor,Wasim Akram is too old for you.,00:01:27
+agragaf,22,student,"No, Shoaib Akhtar.",00:01:31
+agragaf,23,tutor,"Shoaib Akhtar is also very old. I mean, he must have played before you were even born.",00:01:33
+agragaf,24,student,Horace Rolfe. He's a good player.,00:01:38
+agragaf,25,tutor,"Yes, he's from this— yeah, correct, Horace Rolfe. But he's a bowler. What about batsman?",00:01:41
+agragaf,26,student,Batsman is Bob Ross.,00:01:47
+agragaf,27,tutor,"Bob Ross, yes, he's a good player. Okay, all right, okay, uh, all right, let's start now. So last week we were doing this topic, solving real-life problems with remainders. Do you remember?",00:01:50
+agragaf,28,background,Yes.,00:02:04
+agragaf,29,student,Yes.,00:02:05
+agragaf,30,tutor,"Okay, I'll give you one real-life problem, okay? For example, if you have 5 chocolates, okay?",00:02:06
+agragaf,31,student,"Yeah, yes.",00:02:14
+agragaf,32,tutor,And I ask you to share between 2 friends.,00:02:15
+agragaf,33,student,Yeah.,00:02:18
+agragaf,34,tutor,You and your friend.,00:02:18
+agragaf,35,student,Yeah.,00:02:20
+agragaf,36,tutor,"Equally, it should be shared equally. So how many chocolates will you get?",00:02:20
+agragaf,37,student,So are you dividing?,00:02:25
+agragaf,38,tutor,"Yes, we are going to divide because we are sharing. Sharing means division. We want to share or we want to divide or we want to split. These all things means division.",00:02:27
+agragaf,39,student,So do you do 27 divided by 5?,00:02:36
+agragaf,40,tutor,"Okay, correct. Yeah.",00:02:43
+agragaf,41,student,"27 divided by 5 equals to— so 2, 5. 25, 10, 15, 20, 25. So 2—",00:02:46
+agragaf,42,tutor,2 what? 2 is the leftover?,00:03:05
+agragaf,43,student,2 remainder something.,00:03:08
+agragaf,44,tutor,Yes. So what is the answer?,00:03:12
+agragaf,45,student,2 remain—,00:03:15
+agragaf,46,tutor,Is it 2 remainder?,00:03:18
+agragaf,47,student,Is it remainder?,00:03:20
+agragaf,48,tutor,2 is what?,00:03:22
+agragaf,49,student,"It's 2 remainder— 2 remainder, so— [unclear] 2 remainder 3.",00:03:28
+agragaf,50,tutor,How do you get 2 remainder 3?,00:03:43
+agragaf,51,student,"Because, so are there 5— 10, and then 15, 20, 25. So there are only 2 left.",00:03:46
+agragaf,52,tutor,"Okay, so 5, 10, 15, 20, 25.",00:03:57
+agragaf,53,student,"Okay, yes.",00:04:00
+agragaf,54,tutor,"Yeah, now only 2 is left.",00:04:01
+agragaf,55,student,Yeah.,00:04:04
+agragaf,56,tutor,Correct. So what will be the answer? How would we write this? We— how many— what is the remainder? What is the remaining?,00:04:04
+agragaf,57,student,5.,00:04:11
+agragaf,58,tutor,"Is it remaining 5? Is remaining— see, because we have— [unclear] 5 remainder [UNCLEAR].",00:04:14
+agragaf,59,tutor,"Yes, very close. 5 remainder?",00:04:14
+agragaf,60,student,5 remainder 2?,00:04:27
+agragaf,61,tutor,"Yes, this is correct. 5 remainder 2 is the correct answer because we have distributed equally total 20 books, sorry, 25 books. See, 25 books were equally distributed on the table. But the remaining 2, remaining 2 were not distributed. So how many books are left over? So the 2, it will be the answer will be 2.",00:04:29
+agragaf,62,student,[unclear] 2.,00:04:52
+agragaf,63,tutor,"No, no, the answer will be just 2 because they're asking you how many books are left over. They're not asking you the total answer. It's a real life problem, so the answer will be just 2. Go ahead, write it down.",00:04:54
+agragaf,64,student,Okay.,00:05:06
+agragaf,65,tutor,Correct. You get it how to solve this one?,00:05:11
+agragaf,66,student,Yes.,00:05:14
+agragaf,67,tutor,"Okay, if I ask you similarly, let me ask something. [unclear] If I give you, let's say, 37 chocolates and I ask you to keep them or share among your 5 friends. So how many chocolates will be remaining?",00:05:14
+agragaf,68,student,"5, 10, 15, 20, 25, 30, 35. Is the 5 remainder 2?",00:05:46
+agragaf,69,tutor,"See, remainder is correct, but 5— is it 5?...5, 10, sorry, 5, 10, 15... [unclear] Yeah, yeah, yeah, go ahead.",00:05:59
+agragaf,70,student,"Okay, one minute.",00:06:15
+agragaf,71,tutor,"Yeah, sure, I'll stop.",00:06:17
+agragaf,72,student,"5, 10, 15, 20, 25... 30, 35. Okay, 1, 2, 3, 4, 5, 6, 7.",00:06:20
+agragaf,73,tutor,Yes.,00:06:37
+agragaf,74,student,So 7— [unclear],00:06:37
+agragaf,75,tutor,What is the answer?,00:06:38
+agragaf,76,student,7 remainder—,00:06:39
+agragaf,77,tutor,Uh-huh.,00:06:43
+agragaf,78,student,2.,00:06:43
+agragaf,79,tutor,"Yes, correct. So that means 2 chocolates will be remaining. If they ask you how many chocolates are remaining, you just gonna— don't say 7 remainder 2. Just say 2 chocolates will be the [UNCLEAR].",00:06:45
+agragaf,80,student,Yes.,00:06:45
+agragaf,81,tutor,Okay?,00:06:56
+agragaf,82,student,Yes.,00:06:57
+agragaf,83,tutor,"Okay, now you have got it. So what I'm gonna do is I'm gonna directly move on to this one. Okay?",00:06:58
+agragaf,84,student,Yes.,00:07:07
+agragaf,85,tutor,"Okay, so this is a you do slide, all right?",00:07:08
+agragaf,86,student,"Yes, yes.",00:07:10
+agragaf,87,tutor,"Now, in the first one, they're asking you which calculation out of these 6 which will have remainder 2.",00:07:11
+agragaf,88,tutor,Can you tell me?,00:07:20
+agragaf,89,student,"Okay, 17 divided by 7.",00:07:22
+agragaf,90,tutor,What will be the remainder for this?,00:07:27
+agragaf,91,student,"So I'm gonna do 7, 14, so 2.",00:07:30
+agragaf,92,tutor,Yes.,00:07:40
+agragaf,93,student,2 remainder 3.,00:07:43
+agragaf,94,tutor,"Yes, that means this is not correct. So this is— this does not have a remainder 2. So this is wrong. Let's move on to the next one.",00:07:46
+agragaf,95,student,"Okay, so 5— okay, 12— [unclear] What will be the answer? How much will be the remainder?",00:07:54
+agragaf,96,student,"5, 10, so 2.",00:08:21
+agragaf,97,tutor,Mm-hmm.,00:08:23
+agragaf,98,student,2 remainder 2.,00:08:26
+agragaf,99,tutor,"Yes, so that means this will have a remainder 2. What about next one?",00:08:28
+agragaf,100,student,[unclear] a new whiteboard pen because the ink is Running out.,00:08:33
+agragaf,101,tutor,"Okay, so you want to get it from your teacher?",00:08:41
+agragaf,102,student,"Yeah, the pen. Whiteboard.",00:08:44
+agragaf,103,tutor,"Sure, sure. Okay, go ahead quickly.",00:08:47
+agragaf,104,student,Only one minute.,00:08:49
+agragaf,105,tutor,"Sure, sure, take your time. [unclear]",00:08:51
+agragaf,106,tutor,Okay.,00:09:39
+agragaf,107,student,"Okay, so 32 divided by 6. Okay? 6, 6, 24, 30. So 1, 2, 3, 4, 5. 5 remainder 2.",00:09:44
+agragaf,108,tutor,Mm-hmm. Yes. So that means this is also having a remainder 2. What about next one? [unclear],00:10:14
+agragaf,109,tutor,One minute.,00:10:33
+agragaf,110,student,"Sure, sure.",00:10:35
+agragaf,111,tutor,"So, 7. [unclear]",00:10:45
+agragaf,112,student,"I'm one minute coming, my screen. There, all right.",00:10:52
+agragaf,113,student,Use my screen.,00:11:17
+agragaf,114,tutor,Is it okay now?,00:11:19
+agragaf,115,student,Yeah.,00:11:21
+agragaf,116,tutor,"Okay, no problem. Go ahead. 7 divided by 3.",00:11:22
+agragaf,117,student,"3, 3, 6. 2 remainder— 2 remainder 1.",00:11:25
+agragaf,118,tutor,So that means this is not correct. What about next one?,00:11:32
+agragaf,119,tutor,Okay.,00:11:40
+agragaf,120,student,Mm-hmm.,00:11:45
+agragaf,121,tutor,"So, 11, the [unclear] was 4. 4, 8.",00:11:49
+agragaf,122,student,"So 2 remainder— 2 remainder 1. [unclear] Is it 4? No, 2 remainder 3.",00:12:05
+agragaf,123,tutor,"Yes, 2 remainder 3. So that means this is also not correct because it is having a 3 remainder. We want 2. What about this one? Next one.",00:12:25
+agragaf,124,student,"Okay, 18 divided by [unclear] 2 remainder 2.",00:12:33
+agragaf,125,tutor,"Correct. So this is— so we have this 18 divided by 8 and 32 divided by 6 and 12 divided by 5. These are the correct answer. Okay, got it?",00:12:49
+agragaf,126,student,Yes.,00:13:02
+agragaf,127,tutor,"Okay, now let's try problem B. Go ahead, read the problem.",00:13:03
+agragaf,128,student,"So if I have 40 meters of [unclear] for the school fair, what length of [unclear] will be left over? I cut it into length of 6",00:13:09
+agragaf,129,tutor,Yes. Did you get the problem? What is it trying to say?,00:13:26
+agragaf,130,student,"Um, yes, it's trying to, um, trying to do 40 divided by 6.",00:13:31
+agragaf,131,tutor,"Yes, so it is saying if you take out 6 meters, different, different 6 meters, how many 6 meters can you take it out? And after taking out all the 6 meters, how many will be left? They are asking you how much is left over. That means it is asking you the remainder. [unclear]",00:13:44
+agragaf,132,student,"1, 2, 3, 6. 6 remainder—",00:14:11
+agragaf,133,student,6 remainder 4.,00:14:21
+agragaf,134,tutor,"Correct, but what are we supposed to write in here? Are we supposed to write 6 remainder 4?",00:14:23
+agragaf,135,student,No.,00:14:29
+agragaf,136,tutor,What do we write?,00:14:30
+agragaf,137,student,Do we write 6?,00:14:33
+agragaf,138,tutor,"Ah, no. See, they are asking you what's the leftover. Leftover means What is remaining? Remaining means the remainder.",00:14:37
+agragaf,139,student,Yeah.,00:14:48
+agragaf,140,tutor,So what do we write in here? [unclear],00:14:49
+agragaf,141,tutor,"6 remainder 4, correct?",00:15:01
+agragaf,142,student,Yes.,00:15:05
+agragaf,143,tutor,So what do we write in this blank? What are we supposed to write?,00:15:06
+agragaf,144,student,4.,00:15:12
+agragaf,145,tutor,"Correct, 4. So what, just 4 or something else?",00:15:12
+agragaf,146,student,Only 4?,00:15:17
+agragaf,147,tutor,"No, see, we need to write meters as well because it is asking— it is the length. We should write 4 meters. Okay, yes, small m.",00:15:20
+agragaf,148,student,"Oh, sorry. [unclear] It's okay, I understand. It's okay, no problem. Yeah, it's okay, no problem. 4 meters. [unclear]",00:15:30
+agragaf,149,tutor,"Yes, meters, small. See, the meter symbol is, for example, 4 and small meter. This is m.",00:15:49
+agragaf,150,student,Yes.,00:15:56
+agragaf,151,tutor,"Okay, m for meter. Okay, now if I ask you, how many pieces did you get? Out of this 40 meters?",00:15:56
+agragaf,152,student,"Hmm, how many pieces you got?",00:16:04
+agragaf,153,tutor,"See, we wanted each piece— [unclear] No, each piece should be 6 meters long.",00:16:10
+agragaf,154,student,Yes.,00:16:15
+agragaf,155,tutor,"We have total 40 meters and each piece should be 6 meters. So 6, then another 6, then another 6, then another 6, like that. How many pieces did you get?",00:16:16
+agragaf,156,student,Okay. [unclear],00:16:26
+agragaf,157,student,"Is it 1, 2, 3... 6!",00:16:35
+agragaf,158,tutor,"Correct! So see, that is the answer here. We got 6 meters and the remaining is 4. See, this is the meaning of the problem. Its answer is like that. So if, for example, in this problem they were asking you what is the leftover, so you wrote 4 meters. Now if I ask you how many pieces of 6 meters did you get? So you'll write 6.",00:16:39
+agragaf,159,student,Yes.,00:17:02
+agragaf,160,tutor,Okay?,00:17:02
+agragaf,161,student,Yes.,00:17:03
+agragaf,162,tutor,"Good job. So this is what you can find from the division. Alright, now can you try problem C here?",00:17:04
+agragaf,163,student,Okay. [unclear],00:17:13
+agragaf,164,tutor,"No, ah, ah, first read the problem. Doesn't matter. See, in the exam—",00:17:16
+agragaf,165,student,"Yeah, there are 18 children to take to a school football match. Each car can take 4 children. How many cars are needed?",00:17:20
+agragaf,166,tutor,"Yes, how many cars do you need to take 4 children? Total 18 children are there.",00:17:32
+agragaf,167,student,Is it 4 [unclear] 4 [unclear] 2.,00:17:43
+agragaf,168,student,"4, 8, 12, 16.",00:17:52
+agragaf,169,tutor,"What do you mean by 4 remainder 2? That means 4 cars will have 4 children in each of them, correct?",00:17:55
+agragaf,170,student,Yeah.,00:18:03
+agragaf,171,tutor,"And the remaining 2, where will you put them? Are you going to leave them there, or are you going to get them in another car?",00:18:05
+agragaf,172,student,Get them in another car.,00:18:13
+agragaf,173,tutor,So that means how many cars do you How many cars do you need? [unclear],00:18:15
+agragaf,174,student,You need 4 cars.,00:18:28
+agragaf,175,tutor,"Oh, okay, let me draw. For 4 cars, let me draw 4 cars. 1, 2, 3, 4. In each of them, we'll put 4 children. So 4 children will go in this one, then 4 in this, then 4 in this.",00:18:31
+agragaf,176,student,Is it 5?,00:18:45
+agragaf,177,tutor,"Yes, now you got it. Because we cannot leave any children behind, so the last car will have how many children? Tell me.",00:18:47
+agragaf,178,student,Last car will have only 4.,00:18:58
+agragaf,179,tutor,"Why 4? How many children are remaining after putting them in 4 cars? 4, 8, 12. 12, 16.",00:19:07
+agragaf,180,student,2.,00:19:15
+agragaf,181,tutor,"Yes, the last 2, the remainder 2 that you were talking about. The remainder 2 will sit in the 5th car. Can you see that?",00:19:17
+agragaf,182,student,Yes.,00:19:25
+agragaf,183,tutor,"Yes, so that's why I was asking you to read the problem. It is— they're not asking you to write the remainder. They're asking you— it's because it is a real-life problem, so they're asking you how many cars do you need to take 18 children. If in each car 4 children can sit, the first car will take 4, next car will take 4, 4, 4. The remainder 2 will be sitting in the last car. Okay?",00:19:27
+agragaf,184,student,Yes.,00:19:54
+agragaf,185,tutor,"Okay, now last problem. Can you go ahead and try the last problem?",00:19:56
+agragaf,186,student,It takes 7 minutes to make a pom-pom. How many complete pom-poms can be made in 30 minutes? So you do 30 divided by 7.,00:20:00
+agragaf,187,tutor,Correct. So how many pom-poms can you make in 30 minutes? [unclear],00:20:15
+agragaf,188,student,"7, 14. 7, 14, 21. 1, 2, 3, 4. So 4.",00:20:33
+agragaf,189,tutor,"remainder 2. Okay, so 4 remainder 2. So the answer is 4 remainder 2 and some... [UNCLEAR]",00:20:33
+agragaf,190,tutor,"remainder 2. Okay, so 4 remainder 2. So the answer is 4 remainder 2 and some... [unclear]",00:20:33
+agragaf,191,tutor,Is it your final answer?,00:21:26
+agragaf,192,student,"Yeah, 4 remainder 2.",00:21:28
+agragaf,193,tutor,"What do you mean by 4 remainder 2? See, they are asking you how many complete pom-poms can be made in 30 minutes. So it's nothing like if I say how many chocolates—",00:21:31
+agragaf,194,student,5 remainder 2.,00:21:43
+agragaf,195,tutor,5 remainder— why 5 remainder 2?,00:21:46
+agragaf,196,student,"Because if you add 20 [unclear] to equal 30, so then it will make 5 because you adding it.",00:21:48
+agragaf,197,tutor,"Okay, okay, I understood. You're taking the first scenario. In this, there was something else. It was related to cars. We cannot leave 2 children behind, so that's why we were taking another car. But in here, they are asking you how many pom-poms can you make in in 30 minutes. For example, let's take for example, the first pom-pom you took 7 minutes, correct? It is mentioned 7 minutes to make one pom-pom.",00:21:59
+agragaf,198,student,Yeah.,00:22:22
+agragaf,199,tutor,"Okay, let's— then the next pom-pom will take another 7 minutes, so we are done with 14 minutes in total, correct?",00:22:22
+agragaf,200,student,Yes.,00:22:28
+agragaf,201,tutor,"Next pom-pom will take another 7 minutes, so how much are we done with?",00:22:30
+agragaf,202,student,"So 7 minutes, 7 minutes, 7 minutes. How many? [unclear]",00:22:36
+agragaf,203,student,21.,00:22:44
+agragaf,204,tutor,"Correct. So we are done with 21 minutes. Now we still have few minutes left, so we're gonna try for one more, one more pom-pom. So how many minutes are done now?",00:22:47
+agragaf,205,student,28.,00:22:57
+agragaf,206,tutor,"Correct, 28 minutes. We have done with 4 pom-poms. We are left with 2 minutes. Can we make one pom-pom?",00:23:00
+agragaf,207,student,No.,00:23:08
+agragaf,208,tutor,"Correct, we cannot make another pom-pom because—",00:23:10
+agragaf,209,student,"Because if you add 28, add 2 equals 30. So if you add 28, add 5, add 7, it makes 35.",00:23:13
+agragaf,210,tutor,"Yes, see, we have only 30 minutes. We have already utilized 28 minutes. We are remaining 2 minutes. In 2 minutes, we cannot make another pom-pom because To make one pom-pom, we need at least 7 minutes, correct?",00:23:22
+agragaf,211,student,Yes.,00:23:36
+agragaf,212,tutor,"So total, how many pom-poms were we able to make?",00:23:37
+agragaf,213,student,4.,00:23:40
+agragaf,214,tutor,"Correct, and that will be your answer. Got it?",00:23:42
+agragaf,215,student,Yes.,00:23:46
+agragaf,216,tutor,"Yeah, the remaining 2 minutes, we cannot do anything. It will go to waste. So 4 pom-poms in 30 minutes.",00:23:48
+agragaf,217,tutor,"Go ahead, write down the answer.",00:23:58
+agragaf,218,student,4.,00:23:59
+agragaf,219,tutor,Just 4. Got it?,00:24:04
+agragaf,220,student,Yes.,00:24:09
+agragaf,221,tutor,"Okay, I'll give you one more similar problem. Let me see. Black slide. Erase all. If I say there are similar problem exactly what you did just now. We'll do that one. So if I say there are 42 children— sorry, [unclear] children— and we want to take them to some picnic, and we want to take them through cars. So in each car, they can sit only 4 children in each car.",00:24:11
+agragaf,222,student,Yes.,00:24:43
+agragaf,223,tutor,"So how many cars do you need? 4, 8, 12, 16, 20, 24, 28, 32, 36, 40. [unclear] One minute.",00:24:45
+agragaf,224,tutor,Sure.,00:25:05
+agragaf,225,student,"4, 8, 12, 16, 20, 24, 28, 32, 36, 40. Okay. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",00:25:06
+agragaf,226,student,[unclear],00:25:39
+agragaf,227,tutor,"Okay, so how many cars do you need?",00:25:41
+agragaf,228,student,10.,00:25:42
+agragaf,229,tutor,10 cars?,00:25:44
+agragaf,230,student,Yeah.,00:25:46
+agragaf,231,tutor,"Okay, in 10 cars, how many children have you fit total?",00:25:48
+agragaf,232,student,"So, um, 4 will sit in each car.",00:25:52
+agragaf,233,tutor,"Yeah, 4 will sit in each car, and you're saying 10 cars, so that means 4 times 10, we have— we are done with 40 children, correct?",00:25:57
+agragaf,234,student,Yes. What about the remaining 2 children? [unclear] Come again?,00:26:04
+agragaf,235,student,"[unclear] 11, 5 cars.",00:26:09
+agragaf,236,tutor,"Correct. No, no, the previous one was correct. 11 cars.",00:26:16
+agragaf,237,student,11. I was gonna say 11.,00:26:18
+agragaf,238,tutor,"Yeah, okay. Yeah, see, yes, you are very correct. So we're gonna start here. So first car will sit 4 children, then another 4, like that. Total 10 cars will take 40 children.",00:26:22
+agragaf,239,student,Yes.,00:26:36
+agragaf,240,tutor,"Okay, so how many cars? 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. So these 10 cars will take 40 children. But after sending 40 children, you're still left with 2 children. So what we're gonna do is we cannot leave them, so I'm gonna take another car. In the end car, only 2 children will be sitting.",00:26:36
+agragaf,241,student,"Yeah. The last two children are very lucky. They'll just have all the space for themselves. So four children in each car. Okay, got it?",00:26:58
+agragaf,242,student,Yes.,00:27:10
+agragaf,243,tutor,"Okay, so I'm not gonna write everything. All right, so this is done. Now let's try some pom-pom problems that you did, pom-pom one. So for example, you have, let's say, 37 minutes, correct?",00:27:12
+agragaf,244,student,"Yes. And each pom-pom takes, let's say, 3 minutes. 3 minutes for each pom-pom.",00:27:25
+agragaf,245,student,6.,00:27:38
+agragaf,246,tutor,Correct?,00:27:38
+agragaf,247,student,No. Yes.,00:27:39
+agragaf,248,tutor,So how many pom-poms can you make?,00:27:41
+agragaf,249,student,"15, 18, 21, 24. [unclear]",00:27:44
+agragaf,250,student,"27, 30, 33, 36.",00:27:51
+agragaf,251,tutor,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.",00:27:59
+agragaf,252,student,"11, 12.",00:28:17
+agragaf,253,tutor,12 pom-poms?,00:28:20
+agragaf,254,student,Yes.,00:28:21
+agragaf,255,tutor,"Correct, 12 pom-poms. Well done. Okay, so just to revise, I'll tell you why. Okay, so in the first 3 minutes, we'll get 1 pom-pom. Then the next 3 minutes, that is the 6th— or let me write it down like this. Okay, so first 3 minutes, you'll get 1 pom-pom. Then the next 3 minutes, that is 6 minutes, you'll get another one, 2. The next 3 minutes, that is 9 minutes, you'll get 3. Next 3 minutes, you'll get 12, then 15, then 18, then 21, then 24, then 27, then 30, then 33, and then 36.",00:28:23
+agragaf,256,student,[unclear],00:29:08
+agragaf,257,tutor,"Okay. At the end of 36 minutes, we are done with 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12. So we have made 12 pom-poms in 36 minutes. [unclear]",00:29:08
+agragaf,258,student,Yes.,00:29:24
+agragaf,259,tutor,"But we are still left with 1 minute, but we cannot do anything in 1 minute because each pom-pom needs 3 minutes. So 1 minute is too less, so we're gonna leave that 1 minute. So the answer will be 12 pom-poms. Got it?",00:29:25
+agragaf,260,student,Yes.,00:29:39
+agragaf,261,tutor,"Alright, well done. I'm really proud of you. Good job. Okay, we're done with this one. Let's move to the last slide. Alright, so this is the last slide. Can you go ahead and read the problem and try to solve it?",00:29:40
+agragaf,262,background,"Tara is thinking of a 2-digit number. When it is divided by 5, the remainder is 2. When the— when it is divided by— divided by 8, remainder is 1.",00:29:54
+agragaf,263,tutor,What number was she thinking of?,00:30:12
+agragaf,264,student,"So you do 2 times 2 equals 4, and then you add 1 equals 5. So it's 4",00:30:17
+agragaf,265,tutor,"Okay, so first thing first. All right, go ahead, try, try, try.",00:30:29
+agragaf,266,student,"When [unclear] divided by 5, the remainder is 2.",00:30:38
+agragaf,267,tutor,"Try. If you get stuck, you can ask me. I'll help you out. But you will try, okay?",00:31:00
+agragaf,268,student,"[UNCLEAR] when it is divided by remainder is 2. When it is divided by 8, the remainder is 1.",00:31:00
+agragaf,269,student,So I— [unclear],00:31:19
+agragaf,270,tutor,"Okay, let me ask you something. If I divide a number by 5—",00:31:25
+agragaf,271,student,Yes.,00:31:31
+agragaf,272,tutor,"For example, give me a number. When you divide it by 5, you should get a remainder 2. Can you think of any number?",00:31:31
+agragaf,273,student,"2— Any number, when you divide by 5, you should get a remainder 2.",00:31:41
+agragaf,274,student,[unclear],00:31:49
+agragaf,275,tutor,"Okay, so what do you mean by remainder 2? That means when I'm dividing a number by 5, I'm getting 2 extra. Whenever I divide by 5, I get 2 extra. So what do you— can you think of a number? [unclear]",00:31:58
+agragaf,276,tutor,"Okay, I'll ask you something. If, for example, if I take 10.",00:32:18
+agragaf,277,student,Yes.,00:32:30
+agragaf,278,tutor,"If I ask you to divide by 5, will you get a remainder?",00:32:31
+agragaf,279,student,Yes. Will you get a remainder? How much will you get?,00:32:35
+agragaf,280,student,10 divided by 5 equals 2.,00:32:38
+agragaf,281,tutor,But are you getting a remainder?,00:32:42
+agragaf,282,student,"No, you're not getting a remainder.",00:32:44
+agragaf,283,tutor,"Correct. So now, if I— in this number, if I ask you to modify it in such a way that you get a 2 remainder, what will you do? [unclear] Okay, instead of 10, Because I wanted 2 remainder, I'll increase it by 2. I'll make it a 12. Now try this 12. Will you get a remainder 2?",00:32:46
+agragaf,284,student,12 divided by 6. No.,00:33:14
+agragaf,285,tutor,"No, not 6. I'm asking 5. 12 divided by 5. Will you get a remainder 2?",00:33:18
+agragaf,286,student,"12 divided by 5. 5, 10. No, because 12 divided by 5",00:33:22
+agragaf,287,student,Is it 11 divided by 5?,00:33:31
+agragaf,288,tutor,"I'm asking— see, I'm asking first, tell me 12 divided by 5 is how much? You tell me.",00:33:34
+agragaf,289,student,"12 divided by 5 equals 5, 10. Okay, 5, 10. So is it 2 remainder 2.",00:33:41
+agragaf,290,tutor,"Yes, 2 remainder 2. See, now we got a remainder 2.",00:34:01
+agragaf,291,student,Yes.,00:34:05
+agragaf,292,tutor,"How did you get a remainder 2? No, first tell me how.",00:34:06
+agragaf,293,student,"Because, um, 2— so I did 5. The question was 12 divided by 5, and then I did 5, 10. So I added a equal to 2. And then I remaindered it and there was only 2 left, so it's 2 remainder 2.",00:34:11
+agragaf,294,tutor,"Correct. So see, first I asked you what is 10 divided by 5? You said it is 2 remainder 0. There was no remainder. But I wanted a remainder 2. So what should I do with this 10 to get a remainder 2? So what I did was I increased this 10 by 2. So it became a 12. Now when you checked it, you got 2 remainder 2.",00:34:29
+agragaf,295,student,Yes.,00:34:53
+agragaf,296,tutor,"Yes. Now similarly, in this problem, they're asking you, Tara is thinking of a 2-digit number. When you divide by 5, you get a 2.",00:34:54
+agragaf,297,student,Yes.,00:35:08
+agragaf,298,tutor,"So what do we do? What should we do is we should increase. For example, let me write it down for you. For example, because we are dividing by 5, so let's write down 5 times table. So 5, 10, 15— sorry, 15, 20, 25, 30, 35, 40, 45, and 50.",00:35:10
+agragaf,299,student,[unclear] do the next one.,00:35:35
+agragaf,300,tutor,"Yeah, but let's first try to understand this. Then you can do all by yourself, okay?",00:35:39
+agragaf,301,student,When it is divided by [UNCLEAR]...,00:35:45
+agragaf,302,tutor,"No, no, no, no. We are not done with this step. We are still at this step. So please concentrate. We are still at here, okay?",00:35:45
+agragaf,303,student,Yes.,00:35:56
+agragaf,304,tutor,"See, now I have written the 5 times table. But the problem is, if you check for this for first time, you will not get a remainder. It will be 0. For this also you will get a 0. For this also you'll get a 0, correct?",00:35:56
+agragaf,305,student,Yes.,00:36:10
+agragaf,306,tutor,"But the condition was that we should get a remainder 2. So how can you get a remainder 2? So what I'm gonna do is I'm gonna increase all the numbers by 2. So 5 will become a 7, 10 will become a 12, 15 will become a 17, like that. Got it?",00:36:12
+agragaf,307,student,Yes.,00:36:30
+agragaf,308,tutor,So 5 will become a 7.,00:36:31
+agragaf,309,tutor,"Right, so 10 will become a 12, 15 will become a 17, 20— let me write down here— 20 will become a— sorry, 22.",00:36:34
+agragaf,310,student,Yes.,00:36:46
+agragaf,311,tutor,"25 will become a 27, 30 will become a 32.",00:36:47
+agragaf,312,student,Yes.,00:36:52
+agragaf,313,tutor,"Now, if you check these numbers, you'll get a remainder when you divide by 5. 2 remainder 2. Check 7 divided by 5, how much remainder you're getting?",00:36:53
+agragaf,314,student,7 divided by 5... [unclear] 2 remainder 2.,00:37:03
+agragaf,315,tutor,1 remainder 2. How come 2 remainder 2?,00:37:11
+agragaf,316,student,"5, 10.",00:37:15
+agragaf,317,tutor,Why 10? You're at 7.,00:37:17
+agragaf,318,student,"Oh yeah, 1, 1, 1.",00:37:18
+agragaf,319,tutor,"Yes, 1 remainder 2. See, all the numbers now, if you divide any number, you'll get a 2 remainder.",00:37:20
+agragaf,320,tutor,Correct?,00:37:26
+agragaf,321,student,Yes.,00:37:27
+agragaf,322,tutor,"Okay, now the condition was that it should be a 2-digit number. So that means 7, we cannot consider 7 because it is a single-digit number.",00:37:29
+agragaf,323,student,"Yes, yes.",00:37:38
+agragaf,324,tutor,"Alright, so similarly you can fill all the afterwards. Now we have got for this one. Now we move on to this one, this statement.",00:37:40
+agragaf,325,student,"When it is divided by 8, the remainder is 1. So is it 9?",00:37:50
+agragaf,326,student,"Divide by 9, divide by 8.",00:37:56
+agragaf,327,tutor,"Yes, okay, 9, and like, just like that, can you write the sequence?",00:38:01
+agragaf,328,student,"What? Oh, 9, 18.",00:38:06
+agragaf,329,tutor,"Hmm, okay, not 18. Okay, see, because they're asking you 8 and the remainder should be 1. Wait, wait. Tobias, wait, because they're asking you to do 8 and the remainder should be 1. Let me write down first 8 times table. So if I write down 8 times table, for example, 8, 16, sorry, 16, the next is what? 24, next is what?",00:38:12
+agragaf,330,student,"30, 32.",00:38:40
+agragaf,331,tutor,"8 times table, 32, next is what?",00:38:43
+agragaf,332,student,"30, 40.",00:38:46
+agragaf,333,tutor,"Okay, we'll stop here now. Okay, so now that we have got this one, 8 times table. So if I divide these numbers by 8, will you get a remainder? Any remainder?",00:38:48
+agragaf,334,student,"Uh, no.",00:38:59
+agragaf,335,tutor,"Okay, so the remainder will be 0, but in the problem they have asked the remainder should be 1. So what should we do?",00:39:02
+agragaf,336,background,Yes.,00:39:11
+agragaf,337,tutor,"Just like in this case, the remainder should be 2, so we increase it by 2. So what should we do? Increase it by 1. 8 will become a 9, 16 will become a 17, 24 will become a 25, 32 will become a 33, 40 will become a 41. So let me write it down to you. So 9, 17, 25, 33, and 41. Got it?",00:39:11
+agragaf,338,student,Yes.,00:39:39
+agragaf,339,tutor,"Now, Because it is a 2-digit number, so we cannot consider this 9. Okay?",00:39:39
+agragaf,340,student,Yes.,00:39:48
+agragaf,341,tutor,"All right, now we found 2 sequences. See, 2 rows. One is this one and one is this one. Now, whichever number is coming in both the rows will be your answer. So which number is coming in this and in this?",00:39:50
+agragaf,342,student,One number is 17 coming.,00:40:08
+agragaf,343,tutor,"Correct. So 17 is one of your answers. So if you write 17 is your answer. What about next one? Is there any other number? [unclear] It's not in here because it will go very far. If you have to write all the numbers, then only you can get it.",00:40:13
+agragaf,344,student,Is it 25?,00:40:31
+agragaf,345,tutor,"No, not 25, because 25 is not in here. Can you see 25 in here?",00:40:34
+agragaf,346,student,"No, in here. This should be [UNCLEAR].",00:40:38
+agragaf,347,tutor,"No, it should be in both the rows. In this row and in this row.",00:40:38
+agragaf,348,student,"In this row, okay.",00:40:46
+agragaf,349,tutor,Okay? So 17 is your answer.,00:40:47
+agragaf,350,student,Okay.,00:40:51
+agragaf,351,tutor,"Now if you check for 17, if you want you can check. For example, if you divide 17 by 5, how much will you get?",00:40:51
+agragaf,352,student,"Divide 17 by 5. 5, 10, 5, 10, 17. [unclear]",00:40:59
+agragaf,353,tutor,"So that means this is correct. You are getting 3 remainder 2. Now 17 divided by 8, is it correct? Check 17 divided by 8. How much are you getting? 17 divided by 8, 16, 2 remainder 1.",00:41:13
+agragaf,354,tutor,"See, you got 1 remainder, correct? So these 2 statements are correct. So your answer is 17, correct?",00:41:32
+agragaf,355,student,"Yes, yes.",00:41:38
+agragaf,356,tutor,"Okay, well done. All right, so with this we are done with this lesson and our time is also up. I hope you enjoyed today's lesson. Okay, just quick reminder. [unclear]",00:41:40
+agragaf,357,student,Yes.,00:41:50
+agragaf,358,tutor,"After this class, you'll get assessment problems and feedback. Don't forget to give them, okay?",00:41:51
+agragaf,359,student,Yes.,00:41:55
+agragaf,360,tutor,All right. I hope you enjoyed today's lesson. Have a good day. Bye-bye. [unclear],00:41:57
+agragaf,361,tutor,Hello?,00:42:03
+agragaf,362,student,Yes.,00:42:04
+agragaf,363,tutor,Bye-bye.,00:42:05
+agragaf,364,student,Bye-bye.,00:42:06

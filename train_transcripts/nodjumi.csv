@@ -1,0 +1,286 @@
+session_id,utterance_id,role,content,timestamp
+nodjumi,0,tutor,Hello?,00:00:00
+nodjumi,1,background,[unclear],00:00:00
+nodjumi,2,student,Hello.,00:00:00
+nodjumi,3,tutor,"Hi, how are you?",00:00:03
+nodjumi,4,student,I'm good.,00:00:05
+nodjumi,5,tutor,"Okay, how has your day been so far, [STUDENT_NAME]?",00:00:06
+nodjumi,6,student,Really good.,00:00:10
+nodjumi,7,tutor,"Okay, that's great to hear. Can you see the slide?",00:00:11
+nodjumi,8,student,Yeah. [unclear],00:00:15
+nodjumi,9,tutor,"All right. Today we will be doing this lesson, ordering numbers with up to 2 decimal places. All right? Can you try the warm-up questions for me, please?",00:00:16
+nodjumi,10,student,Yeah. [unclear],00:00:26
+nodjumi,11,tutor,So do I have to like type in or just like say it?,00:00:41
+nodjumi,12,student,"What you can do is maybe you could use a crocodile symbol, maybe, to say which one's the greatest.",00:00:46
+nodjumi,13,tutor,Okay.,00:00:53
+nodjumi,14,student,Yeah.,00:01:01
+nodjumi,15,tutor,"All right, good. Can you know how did you figure that out?",00:01:02
+nodjumi,16,student,"So for the other, like the green one, it is like 0.06. It's in the like the, like 10s. So like there's a decimal, I think it could be less. But the blue one is like 0.0— [unclear]",00:01:10
+nodjumi,17,student,6? I'm not like looking at the—,00:01:30
+nodjumi,18,tutor,The tenths has more value compared to the hundredths?,00:01:38
+nodjumi,19,student,Yeah.,00:01:45
+nodjumi,20,background,Yeah.,00:01:46
+nodjumi,21,tutor,"All right, all right. Okay, we'll move on to this slide. Let's learn. Does this chart look familiar to you?",00:01:47
+nodjumi,22,tutor,Yeah. What is this chart called?,00:01:55
+nodjumi,23,student,Place value chart.,00:01:59
+nodjumi,24,tutor,Very good. It's called a place value chart. Okay. Can you read what's in the green box?,00:02:02
+nodjumi,25,student,"Yeah. When ordering a set of decimal numbers, we can compare each digit in turn, starting with the highest value....digit first.",00:02:11
+nodjumi,26,tutor,"Okay. When ordering a set of decimal numbers, we can compare each digit starting from the highest value. What does it mean by highest value digit first?",00:02:28
+nodjumi,27,student,"I think the, like, the number of it?",00:02:37
+nodjumi,28,tutor,Not exactly. We start from the largest column.,00:02:43
+nodjumi,29,tutor,"So in this place value chart, we have— what are the 3 columns that are given?",00:02:48
+nodjumi,30,student,"1, 0.1, and 0.01.",00:02:57
+nodjumi,31,tutor,Mm-hmm. What do we call those 2 columns?,00:03:02
+nodjumi,32,student,Tenth and hundredths.,00:03:07
+nodjumi,33,tutor,Yeah? Okay.,00:03:09
+nodjumi,34,student,Yeah.,00:03:11
+nodjumi,35,tutor,"Out of the 3 columns, which one's the largest?",00:03:11
+nodjumi,36,student,The ones.,00:03:15
+nodjumi,37,tutor,Ones. Very good. It's the ones. Okay. So can you read this? What value is shown by each of these numbers? We've got to go ahead and write this here. So can you write for each of them?,00:03:17
+nodjumi,38,student,Yeah. [unclear] [unclear],00:03:29
+nodjumi,39,tutor,"Okay. Next, what are they asking you to do? [unclear]",00:04:27
+nodjumi,40,student,They're saying that we need to like order them from like biggest to smallest.,00:04:34
+nodjumi,41,tutor,"Mm-hmm. Okay. So we've got to do from largest to the smallest, right?",00:04:43
+nodjumi,42,student,Yeah.,00:04:49
+nodjumi,43,tutor,Okay. So can you write from the largest to smallest? Arrange these numbers.,00:04:49
+nodjumi,44,student,Yep. [unclear],00:04:54
+nodjumi,45,tutor,Yep.,00:06:02
+nodjumi,46,tutor,Can you change it to 3.42?,00:06:27
+nodjumi,47,student,"Yeah, I did it. [unclear]",00:06:30
+nodjumi,48,tutor,"What's wrong, [STUDENT_NAME]?",00:07:02
+nodjumi,49,student,"Oh, I did the—",00:07:05
+nodjumi,50,tutor,You change it?,00:07:07
+nodjumi,51,student,Yeah.,00:07:09
+nodjumi,52,tutor,"You change this to 3.42? No, right? [unclear] [unclear]",00:07:10
+nodjumi,53,tutor,"Okay, good. Now let's move on to this slide. Can you see the following slide?",00:07:34
+nodjumi,54,student,Yeah.,00:07:40
+nodjumi,55,tutor,Okay. So they say let's put these numbers in ascending order. Do you know what does ascending mean?,00:07:42
+nodjumi,56,student,Yeah.,00:07:49
+nodjumi,57,tutor,Okay. What does ascending order mean?,00:07:50
+nodjumi,58,student,"Oh, it's like biggest to smallest.",00:07:54
+nodjumi,59,tutor,"Ascending is actually from small to biggest. [unclear] Descending is only meaning biggest to smallest. All right? Smallest to biggest. All right. We have the numbers here, and can you see we have used the help of the place value chart in order for us to figure out which ones are the smallest ones? And which one is the biggest? Yeah?",00:07:58
+nodjumi,60,student,Yeah.,00:08:28
+nodjumi,61,tutor,OK. So we have the place value chart. They have written each of them here. And they have asked you to compare each digit in the tenths column. Why the tenths column? Do we need to see the ones column in this case?,00:08:29
+nodjumi,62,background,No.,00:08:45
+nodjumi,63,tutor,No. It's all zero. Yeah?,00:08:46
+nodjumi,64,student,Yes.,00:08:49
+nodjumi,65,tutor,"In this case, nothing.",00:08:49
+nodjumi,66,tutor,"Oh, okay. So then we go to the tens column. We are searching for the smallest digit. Well, we have 1 and 1 here. So 2 ones. In that case, how are you going to figure it out? [unclear]",00:08:51
+nodjumi,67,tutor,So we go to the next column.,00:09:04
+nodjumi,68,tutor,Alright. Which is the hundredths. So here we have 2 and here we have 3. So we go with 0.12. Alright?,00:09:18
+nodjumi,69,student,Yeah.,00:09:27
+nodjumi,70,tutor,0.12. And the next would be 0.13. Alright?,00:09:28
+nodjumi,71,student,Yeah.,00:09:37
+nodjumi,72,tutor,"Then what's after 1 would be 2. This is 3, so it's easy for us to figure out that this is the next smallest and then this is the largest. So we have here 0.23, and the last one would give you 0.3. Is that clear?",00:09:38
+nodjumi,73,student,Yeah.,00:09:55
+nodjumi,74,tutor,"Okay. Now can you try your one? In your case, are they— in which order are they asking you in?",00:09:56
+nodjumi,75,student,Biggest to smallest.,00:10:05
+nodjumi,76,tutor,"Very good. In yours, it's the reverse, okay? So using the place value chart, first putting the values into the place value chart. I want you to arrange them. All right?",00:10:07
+nodjumi,77,student,Yeah. [unclear] [unclear],00:10:39
+nodjumi,78,tutor,[unclear] [unclear],00:11:10
+nodjumi,79,tutor,[unclear] [unclear],00:11:26
+nodjumi,80,tutor,105.,00:11:59
+nodjumi,81,student,[unclear] [unclear],00:12:19
+nodjumi,82,tutor,Okay. Can you check with the last one? So 0.6 is the biggest. What's after 6?,00:12:35
+nodjumi,83,student,0.46?,00:12:47
+nodjumi,84,tutor,"Is 4— don't look at the next, these digits. This is not the digits that you need to look into. You need to consider the digits that are here. What's less than 6? 4 or 5? [unclear] 5. So it's 0.5. Alright. And then after 5, what is it?",00:12:50
+nodjumi,85,student,4.,00:13:10
+nodjumi,86,tutor,4. And then it's?,00:13:12
+nodjumi,87,student,0.,00:13:14
+nodjumi,88,tutor,Exactly. Can you change this answer?,00:13:16
+nodjumi,89,student,Yeah. [unclear],00:13:19
+nodjumi,90,tutor,Well done. Is that clear?,00:13:50
+nodjumi,91,student,Yeah.,00:13:54
+nodjumi,92,tutor,"You're not confused, right, as to what we did here? Can you explain why what we did before was incorrect and then we did this?",00:13:55
+nodjumi,93,student,So I look at like the tens and hundreds.,00:14:04
+nodjumi,94,tutor,Mm-hmm. Okay. When do you look into the hundreds column?,00:14:07
+nodjumi,95,tutor,"In this case, the question which I did, I did look into the hundreds column, right? Why did I look into hundreds column for these two numbers? We had 1 and 1 here. It was difficult to look at the tens column and decide which one's greater. Alright. So what we had to do in that case was We had to look into the next column, next smallest column. Alright. Which is 2 here and 3. Then I figured out which one's the smallest. Okay?",00:14:21
+nodjumi,96,student,Yep.,00:14:55
+nodjumi,97,tutor,Okay. Can you try this slide?,00:14:56
+nodjumi,98,student,Yeah. [unclear],00:15:00
+nodjumi,99,tutor,So part A is asking in one order and part B in the other order. What does ascending mean?,00:15:00
+nodjumi,100,student,from smallest to biggest.,00:15:00
+nodjumi,101,tutor,"Okay, descending is the opposite, all right.",00:15:00
+nodjumi,102,student,Yeah. [unclear],00:15:14
+nodjumi,103,tutor,"Can you recheck your answer again? Do not— just because it's 2 digits doesn't mean it's the smallest, okay? All of these has 1, all these 3. So we look into the next one. This is 4. 5, this is 9, and this is 2. Which one's the smallest?",00:16:14
+nodjumi,104,student,[unclear],00:16:36
+nodjumi,105,tutor,It's 2. 1.25. Alright?,00:16:40
+nodjumi,106,student,Yeah.,00:16:46
+nodjumi,107,tutor,And then what's next? 5 or 9? [unclear],00:16:57
+nodjumi,108,student,1.75?,00:17:06
+nodjumi,109,tutor,"1.57, yes.",00:17:10
+nodjumi,110,tutor,Okay. Let's move on to the next one. [unclear] [unclear],00:17:24
+nodjumi,111,tutor,Yeah.,00:17:54
+nodjumi,112,student,Then you go there. [unclear],00:17:57
+nodjumi,113,tutor,Yeah. [unclear],00:18:02
+nodjumi,114,student,Yeah. [unclear],00:18:03
+nodjumi,115,tutor,Mm-hmm. [unclear],00:18:04
+nodjumi,116,student,Mm-hmm. [unclear],00:18:07
+nodjumi,117,tutor,Mm-hmm. [unclear],00:18:08
+nodjumi,118,student,Mm-hmm. [unclear],00:18:10
+nodjumi,119,tutor,Mm-hmm. [unclear],00:18:10
+nodjumi,120,student,Mm-hmm. [unclear],00:18:10
+nodjumi,121,tutor,Mm-hmm. [unclear],00:18:10
+nodjumi,122,student,Mm-hmm. [unclear],00:18:11
+nodjumi,123,tutor,Mm-hmm. [unclear],00:18:11
+nodjumi,124,student,Mm-hmm. [unclear],00:18:11
+nodjumi,125,tutor,Mm-hmm. [unclear],00:18:11
+nodjumi,126,student,Mm-hmm. [unclear],00:18:11
+nodjumi,127,tutor,Mm-hmm. [unclear],00:18:12
+nodjumi,128,student,Mm-hmm. [unclear],00:18:12
+nodjumi,129,tutor,Mm-hmm. [unclear],00:18:12
+nodjumi,130,student,Mm-hmm. [unclear],00:18:12
+nodjumi,131,tutor,Mm-hmm. [unclear],00:18:12
+nodjumi,132,student,Mm-hmm. [unclear],00:18:13
+nodjumi,133,tutor,Mm-hmm. [unclear],00:18:13
+nodjumi,134,student,Mm-hmm. [unclear],00:18:13
+nodjumi,135,tutor,Mm-hmm. [unclear],00:18:13
+nodjumi,136,student,Mm-hmm. [unclear],00:18:13
+nodjumi,137,tutor,Mm-hmm. [unclear],00:18:13
+nodjumi,138,student,Mm-hmm. [unclear],00:18:14
+nodjumi,139,tutor,"You're sure, right, in which order you have to do this? [unclear]",00:18:19
+nodjumi,140,student,"Yeah, but it's okay. Continue doing it and we can change it. [unclear]",00:18:27
+nodjumi,141,tutor,Yeah.,00:18:49
+nodjumi,142,tutor,"Are you sure it's 2.08 and 2.1? These two are wrong. Can you check your answers again? [unclear] We know that 2 is— you can hear me, right?",00:19:05
+nodjumi,143,student,Yeah.,00:19:19
+nodjumi,144,tutor,"We know that 2 is greater than 1, but when you go to the next column, here we have 0 and here we have 1.",00:19:21
+nodjumi,145,tutor,Is 1 or 0 the greatest?,00:19:31
+nodjumi,146,student,[unclear],00:19:33
+nodjumi,147,tutor,So it's 2.1 first and then 2.08. All right?,00:19:35
+nodjumi,148,student,Yeah.,00:19:42
+nodjumi,149,tutor,"And we've got to add kilograms, don't forget.",00:19:45
+nodjumi,150,student,Oh.,00:19:49
+nodjumi,151,tutor,And then we come to that [unclear] 1.6.,00:20:02
+nodjumi,152,tutor,Did you say 6 is smaller than 2? [unclear],00:20:25
+nodjumi,153,tutor,"1.25 is smaller. Okay, good. You remember to write the kilograms. Can you change those to pounds? [unclear]",00:20:28
+nodjumi,154,tutor,All right. Good. Can you try this slide? Can you read this question out loud first?,00:20:53
+nodjumi,155,student,Yeah.,00:21:14
+nodjumi,156,tutor,"Max and his friends stood in height order. He wrote down all their heights to [unclear] decimal place in order, but forgot to write down his own height.",00:21:17
+nodjumi,157,student,[UNCLEAR] possible I could,00:21:17
+nodjumi,158,tutor,Thanks. [unclear],00:21:42
+nodjumi,159,tutor,"[STUDENT_NAME], just give me a minute. [unclear]",00:22:24
+nodjumi,160,tutor,[UNCLEAR] [unclear],00:22:24
+nodjumi,161,tutor,[unclear] [unclear],00:22:24
+nodjumi,162,tutor,"Hello? Can you hear me, [STUDENT_NAME]?",00:24:33
+nodjumi,163,tutor,Yeah.,00:24:51
+nodjumi,164,student,Okay. Can we have a discussion now?,00:24:51
+nodjumi,165,tutor,Yes. [unclear],00:24:59
+nodjumi,166,student,Do I have to like read it again?,00:25:00
+nodjumi,167,tutor,"No, no need to read it again. I have it there. Can you tell me...",00:25:04
+nodjumi,168,tutor,What did you say?,00:25:18
+nodjumi,169,student,"What I said was, every possible height for men. [unclear]",00:25:21
+nodjumi,170,tutor,What did you understand from what you said?,00:25:32
+nodjumi,171,background,"So, it's saying that [unclear] 2 decimal places.",00:25:39
+nodjumi,172,tutor,I think you don't have to worry about that for now. What do you understand about Max's height? [unclear] Do you think Max's height is more or less than Bob's? [unclear],00:25:47
+nodjumi,173,tutor,"Okay, so what you need to understand in this question, [STUDENT_NAME], is that all these heights are actually in an order. So starting from Peter, you can see it's 1.2, and Alex's is 1.34. Peter is 1.2. So is it going from smallest to largest in this way?",00:26:11
+nodjumi,174,student,[unclear],00:26:38
+nodjumi,175,tutor,"Yes, smallest to largest. Did you say biggest to largest? Smallest to largest, yeah?",00:26:42
+nodjumi,176,student,Yeah.,00:26:54
+nodjumi,177,tutor,Okay. I confused. I stuck.,00:26:55
+nodjumi,178,student,No.,00:26:58
+nodjumi,179,tutor,Is everything all right?,00:27:00
+nodjumi,180,student,Yeah.,00:27:02
+nodjumi,181,tutor,Shall we take a minute break?,00:27:03
+nodjumi,182,student,Um...,00:27:05
+nodjumi,183,tutor,"Okay, okay. Let's take it easy. Okay? So can you tell me something about yourself? What do you like to do during your free time? [unclear]",00:27:07
+nodjumi,184,student,"Um, like, in, like, home or, like, in school?",00:27:17
+nodjumi,185,tutor,Anything. What do you do for leisure?,00:27:22
+nodjumi,186,student,"Well, for my free time, I do like drawing or I like to play with my sister or my friends.",00:27:31
+nodjumi,187,tutor,"All right, so you like to draw. Do you play sports?",00:27:40
+nodjumi,188,student,Oh yeah.,00:27:45
+nodjumi,189,tutor,What's your favorite sport?,00:27:47
+nodjumi,190,student,Racing.,00:27:49
+nodjumi,191,tutor,"Racing? Wow, that's lovely. Do you watch racing as well?",00:27:50
+nodjumi,192,student,"Um, a bit.",00:27:55
+nodjumi,193,tutor,Okay. Do you have a favourite team?,00:27:57
+nodjumi,194,student,Uh... [unclear],00:28:01
+nodjumi,195,tutor,"Okay, okay. Alright, so are you feeling better now?",00:28:06
+nodjumi,196,student,Yeah.,00:28:11
+nodjumi,197,tutor,You feel better? Shall we go back? We take it easy and we solve that question. Alright?,00:28:12
+nodjumi,198,student,Yes.,00:28:19
+nodjumi,199,tutor,"Okay, okay. So we have 5 people here, alright?",00:28:19
+nodjumi,200,student,Yeah.,00:28:24
+nodjumi,201,tutor,"And we have Peter with 1.2 meters, Bob with 1.26 meters. Max's is what we've got to find, alright?",00:28:24
+nodjumi,202,student,Yeah.,00:28:35
+nodjumi,203,tutor,Fran has 1.3 and Alex has 1.34. Is that clear so far?,00:28:35
+nodjumi,204,student,"Yeah. Okay. So the order that's in here is, it's in height order. So basically Peter is the shortest compared to Alex. Does that make sense?",00:28:43
+nodjumi,205,student,Yeah.,00:28:55
+nodjumi,206,tutor,So the tallest in class is Alex and the shortest is Peter. And you can see Max is somewhere in between. Yeah?,00:28:56
+nodjumi,207,background,Yeah.,00:29:06
+nodjumi,208,tutor,"Alright. So since Max is in between, between whose height would he be in between? Based on the order that's here, between whose? [unclear]",00:29:07
+nodjumi,209,tutor,What did you say?,00:29:26
+nodjumi,210,student,space?,00:29:26
+nodjumi,211,tutor,For the name or like the number?,00:29:35
+nodjumi,212,student,You can say the name. It's fine.,00:29:38
+nodjumi,213,tutor,Ben?,00:29:42
+nodjumi,214,student,"I'm sorry, but why do I hear the word Ben? [unclear]",00:29:44
+nodjumi,215,tutor,Give me a second.,00:29:54
+nodjumi,216,student,Okay.,00:29:55
+nodjumi,217,tutor,Give me a second. Say that again.,00:29:56
+nodjumi,218,tutor,Huh? [Speaker] What did you say? In between which two?,00:30:03
+nodjumi,219,tutor,"[unclear] [Speaker] In between... No, [STUDENT_NAME], I'm really sorry, but I actually didn't hear. Is it fine if you can tell the name clearly or write, or maybe with your pointer, can you show me those two names? [Speaker] Yeah.",00:30:06
+nodjumi,220,tutor,"Okay, so that's what you have told me. Okay, friend. And who else? In between. Between would mean between two people. So, Bob. Very good. Bob and friend. So that would be 1.26 and 1.3. How many possible values are in between? [unclear]",00:30:27
+nodjumi,221,tutor,If I were to draw a number line.,00:30:53
+nodjumi,222,student,Yes.,00:30:55
+nodjumi,223,tutor,I drew it from 1.2 to 1.3.,00:30:55
+nodjumi,224,student,Yeah.,00:31:02
+nodjumi,225,tutor,"In between we have 1.21, 1.22, 1.23, yes?",00:31:02
+nodjumi,226,student,Yeah.,00:31:07
+nodjumi,227,tutor,Our object is somewhere around 1.26. What are the possible values between these two? [unclear] [Speaker] It's like close to 1.3.,00:31:07
+nodjumi,228,tutor,"Yeah, 1.26 and 1.3. You don't take 1.26 and 1.3, all right? What are the values in between? What's after 1.26? [unclear]",00:31:21
+nodjumi,229,tutor,"Yes, 1.2. 1.27. After that?",00:31:44
+nodjumi,230,student,[unclear] 1.28.,00:31:52
+nodjumi,231,tutor,1.28. And then?,00:31:57
+nodjumi,232,student,1.29.,00:32:00
+nodjumi,233,tutor,Very good. And what's after 1.29?,00:32:03
+nodjumi,234,student,1.0.,00:32:06
+nodjumi,235,tutor,1.0?,00:32:09
+nodjumi,236,student,[unclear],00:32:15
+nodjumi,237,tutor,"Okay. You meant ""oh"" as in you realize you came to this number, 1.3. Okay. Okay. So 1.27, 1.28, and 1.29. So what do you think the values go here? From which value to which value? What's the starting value?",00:32:15
+nodjumi,238,student,1.27?,00:32:33
+nodjumi,239,tutor,Very good. Just write it here. And then to— [unclear],00:32:36
+nodjumi,240,tutor,"1.2. What's the largest value, possible largest value?",00:32:48
+nodjumi,241,student,1.29.,00:32:55
+nodjumi,242,tutor,1.29. Very good. Is that clear now?,00:32:58
+nodjumi,243,student,Yeah.,00:33:02
+nodjumi,244,tutor,"Alright. Okay. Did you understand, [STUDENT_NAME]?",00:33:04
+nodjumi,245,student,Mm-hmm.,00:33:08
+nodjumi,246,tutor,"Okay. Can you explain it to me now? But actually you did a wonderful job in focusing really well and the questions that I asked you, you answered them. Well done. Shows how you have been attentive throughout. Yes? So great job done from your part. And here's a sticker for you. And can you just explain in simple terms what you did? [unclear]",00:33:10
+nodjumi,247,student,Like what we did?,00:33:33
+nodjumi,248,tutor,Yes.,00:33:39
+nodjumi,249,student,"So, we did like small [unclear] like ascending or descending. And we did like... Doing like, we always, yeah, we also did like number line to get the answer for the max height. And we did like, um, we got like height and cages.",00:33:42
+nodjumi,250,tutor,Mm-hmm.,00:34:13
+nodjumi,251,student,"Um, yeah.",00:34:16
+nodjumi,252,tutor,"Alright, okay. Okay, we'll move on to the next one. We are done with this part, okay? So how was today's session so far?",00:34:19
+nodjumi,253,student,Pretty good.,00:34:28
+nodjumi,254,tutor,Pretty good?,00:34:30
+nodjumi,255,student,Yeah.,00:34:31
+nodjumi,256,tutor,"Okay. Okay, we'll move on to the next lesson then, okay? [unclear]",00:34:33
+nodjumi,257,tutor,"Okay, just give me a minute. I'm not sure if you've done this lesson before.",00:34:46
+nodjumi,258,student,Okay.,00:34:51
+nodjumi,259,tutor,"You've basically done almost all the lessons, you know. Well done. Yeah, I think you've done that. Sorry? [unclear] We finished like all the lessons.",00:34:56
+nodjumi,260,tutor,"Almost all the lessons. So we have actually very less, to be honest. [unclear] Well done. Okay. Comparing numbers up to— how do you read this number?",00:35:12
+nodjumi,261,student,A 1 million.,00:35:26
+nodjumi,262,tutor,Very good. It's a 1 million. Okay. Warm-up question. So we have someone attending.,00:35:27
+nodjumi,263,background,[unclear],00:35:32
+nodjumi,264,tutor,Okay. So she's comparing two numbers. And chooses to put this between them. So we have a number here and a number here. What's this number?,00:35:33
+nodjumi,265,student,"[unclear] 375,210.",00:35:45
+nodjumi,266,tutor,"375,210. Alright?",00:35:51
+nodjumi,267,student,Yeah.,00:36:00
+nodjumi,268,tutor,Say that again.,00:36:01
+nodjumi,269,tutor,"You read this together. Do not look into this, okay? You just read this. Pretend that this isn't there. How would you read that number if that wasn't there? [unclear]",00:36:05
+nodjumi,270,tutor,"375,200.",00:36:15
+nodjumi,271,student,"It's for comma. Sorry, the comma is for thousand, and then we have 210. All right? Yeah. And then this. Read it. Ignore this part. Go ahead.",00:36:22
+nodjumi,272,student,"Um, 376,000... [unclear]",00:36:33
+nodjumi,273,tutor,Very good.,00:36:40
+nodjumi,274,student,358.,00:36:42
+nodjumi,275,tutor,358. Well done. There we go. Awesome effort. Okay. Can you tell me what Sophie has put is correct? What she has done is correct. [unclear],00:36:44
+nodjumi,276,tutor,So I think stuff is not correct.,00:37:00
+nodjumi,277,student,"Okay, why do you think so?",00:37:08
+nodjumi,278,tutor,"Oh yeah, because if you look like— no, if you look at",00:37:13
+nodjumi,279,student,"The 5, 5 over here, this 5, this is 6.",00:37:20
+nodjumi,280,tutor,Very good.,00:37:25
+nodjumi,281,student,"This is, um, it's biggest. [unclear] 2 and 3.",00:37:27
+nodjumi,282,tutor,"We don't need to go to that number. All right, we start from this column, 3, 3, so it's 6. So we go to the next one. This is 7, this is 7. So you go to the next column. This is 5, this is 6.",00:37:33
+nodjumi,283,tutor,"So, the speaker is [UNCLEAR]. So Sophie is incorrect. Alright, we're done for today. We have to end the session now. I want you to fill the feedback form and also I want you to try the questions at the end of the session. It's very fast, okay? Okay, see you next time, next week then. Bye, have a wonderful week.",00:37:46
+nodjumi,284,tutor,You too. [unclear],00:38:11

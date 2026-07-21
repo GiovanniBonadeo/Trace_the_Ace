@@ -1,0 +1,239 @@
+session_id,utterance_id,role,content,timestamp
+cjudvol,0,tutor,Hello?,00:00:00
+cjudvol,1,background,[unclear],00:00:00
+cjudvol,2,student,Hello?,00:00:00
+cjudvol,3,tutor,Hello?,00:00:01
+cjudvol,4,student,Yeah.,00:00:02
+cjudvol,5,tutor,Hello?,00:00:04
+cjudvol,6,student,"Yeah, hi, Kaelan. Can you hear me?",00:00:06
+cjudvol,7,tutor,"Yeah, I can hear you.",00:00:08
+cjudvol,8,tutor,"Okay, a very warm welcome back to sessions. How have you been?",00:00:10
+cjudvol,9,student,"I've been good, thank you. How have you been?",00:00:16
+cjudvol,10,tutor,"I've been very well, thank you. Yeah, so today we will be continuing solving problems in pattern sequences. Do you remember what we looked previously?",00:00:18
+cjudvol,11,student,"I remember how to do it, but like, I don't really remember all of it because it was a long time ago.",00:00:33
+cjudvol,12,tutor,"Okay, that's absolutely fine. We'll start from the beginning. So, yeah, can you try reading what's written here?",00:00:40
+cjudvol,13,student,[unclear] The nth term is a formula that allows us to generate a sequence by substitution. An ascending arithmetic sequence will always involve an addition between terms. This is called the common difference.,00:00:48
+cjudvol,14,student,We can find the nth term of the sequence by finding the common difference and comparing the sequence to a times table of the difference.,00:01:05
+cjudvol,15,tutor,"Okay, so do you get what the common difference is and how we find it?",00:01:17
+cjudvol,16,student,Yeah.,00:01:21
+cjudvol,17,tutor,"Okay, so can you continue reading this and try working out part A? [unclear]",00:01:23
+cjudvol,18,student,"Look at this sequence. Complete the next 3 terms. So this is— it goes up 3 times each. So this is— oh, which— is this— is the term in the blue? Is this the question?",00:01:30
+cjudvol,19,tutor,"This is the question. Is this the time that— isn't this— oh, I understand now.",00:01:51
+cjudvol,20,tutor,"Yeah, everyone the first 5 times.",00:02:01
+cjudvol,21,student,"Yeah, so it's a DfE-approved tutoring program that was set up during COVID and previously schools were getting funding for it, but a lot of the times have funded it this year. [unclear]",00:02:06
+cjudvol,22,background,What about Part B? [unclear],00:02:15
+cjudvol,23,tutor,"Okay, fabulous job putting in effort and completing the questions independently.",00:02:32
+cjudvol,24,tutor,"You're welcome. And yeah, moving on. Okay, now we're going to work with pattern sequences. Okay. [unclear] Okay. And how will you be finding the common difference here?",00:02:49
+cjudvol,25,student,"Yes, they do. This is [UNCLEAR]. Oh, plus T.",00:03:15
+cjudvol,26,tutor,Yeah.,00:03:25
+cjudvol,27,student,"I didn't do the inverse. So is— wait, what do I do? I don't understand these boxes. What do I write in these boxes?",00:03:25
+cjudvol,28,background,Do you mean here?,00:03:38
+cjudvol,29,student,Yeah.,00:03:39
+cjudvol,30,tutor,"Okay. As you can see, you're given 4 terms here.",00:03:41
+cjudvol,31,student,Yes.,00:03:47
+cjudvol,32,tutor,"Okay. So you initially had 3, 5, 7, and 9. Now you're going to—",00:03:48
+cjudvol,33,background,Repeat that please. I didn't quite hear you.,00:03:56
+cjudvol,34,tutor,Yes. You're doing 2n now. So you're going to substitute a value to n. So how do you think that would work?,00:03:59
+cjudvol,35,student,"Wait, so I just do like 2—",00:04:13
+cjudvol,36,tutor,"You have 2n. Kaelan, you have 2n here, but the sequence is 3, 5, 7, and 9.",00:04:17
+cjudvol,37,student,Yeah.,00:04:29
+cjudvol,38,tutor,"Yeah, so what would be your [UNCLEAR]? Value that comes here. Is that still confusing?",00:04:30
+cjudvol,39,student,"I understand how to do. I just don't understand what to write in these, like, I don't understand what to write here.",00:04:42
+cjudvol,40,tutor,"Okay, so here you have the general sum to n, right?",00:04:49
+cjudvol,41,student,Yes.,00:04:54
+cjudvol,42,tutor,So you're going to find the formula [unclear] happens to be for these numbers here.,00:04:55
+cjudvol,43,student,Have you got any final—,00:05:05
+cjudvol,44,tutor,Do you think 2 times— I'll give you an example. 2 times n equals to 3. So what do you think is the value of that n here? [unclear],00:05:07
+cjudvol,45,tutor,"So here you have a 2 times n, right? That's 2n. Is that part clear to you?",00:05:26
+cjudvol,46,student,Yeah.,00:05:36
+cjudvol,47,tutor,"Okay, and then do you see an empty space here?",00:05:37
+cjudvol,48,student,Yes.,00:05:41
+cjudvol,49,tutor,"Okay, that means you're adding or subtracting an amount to this to get the answer 3.",00:05:42
+cjudvol,50,student,"Oh, I understand now. So it's going to be plus 1.",00:05:51
+cjudvol,51,tutor,"Yes, that would be a plus 1.",00:05:56
+cjudvol,52,student,"And you know here, do you write like— wait, let me get the [UNCLEAR]. Here do you just write the normal 2 times tables?",00:05:58
+cjudvol,53,tutor,"Yes, here you just write 2n, which means you're going to substitute it. So that would be the 2 times",00:06:06
+cjudvol,54,background,"2, 4, 6, and 8.",00:06:19
+cjudvol,55,student,So it's going to be 2n 1. That,00:06:26
+cjudvol,56,tutor,"would be 2n 1. Okay. And yeah, shall we try Part B? Yeah.",00:06:35
+cjudvol,57,student,So I'll find the 10th term. So n 10. So is it going to be 2 10 20 and 1? Then write 2 10 1. [unclear],00:06:48
+cjudvol,58,tutor,"Yes, fantastic effort put into completing the question here. So what is your key takeaway from what you have completed so far, Kaelan?",00:07:17
+cjudvol,59,student,"I like, you have to find like, if it's like this, like it's like 4 and then it's like 7, so the difference is 3, and because that's 3 times table, so if you had to add 1 to like 3 plus 1 is 4, and that's like the first term in the sequence.",00:07:28
+cjudvol,60,tutor,"Yes. Okay. Yeah. And yeah, thank you for summarising that. And yeah, I'll be talking you through the working of the question here. Okay, here is a pattern sequence made from blue and green squares. Find the nth term of blue squares.",00:07:46
+cjudvol,61,tutor,"So we look at the first one. We have 2. Write it here. And then we have 6. And then we have 10. Okay, so now we have counted the blue squares in each pattern. And then we're going to look at common difference. [unclear]",00:08:07
+cjudvol,62,tutor,"So 2 to 6, the common difference is going to be a 4. From 6 to 10, the common difference is again going to be a 4. So your nth term is 4n. But here, if you see, our first term is the 2.",00:08:41
+cjudvol,63,student,So the take away is—,00:09:02
+cjudvol,64,tutor,"Yeah, so 4n is a 4, but to come to a 2, you're going to be taking away a 2 this time. So 4, 8, 12. So that would be 4n 2. Okay, I hope that's clear to you.",00:09:05
+cjudvol,65,student,Yeah.,00:09:28
+cjudvol,66,tutor,"Okay, now we're going to repeat the same with the green squares. So we have 2, we have 3, and we have 4. So the difference here is a 1. So that would be 1n. So 1n would be a 1, 2, and a 3. So now we're going to say There's an addition 1 here. It adds that 1n 1. So we have to add an extra 1 to it. So 1n 1 is going to give us the sequence. Oh, no,",00:09:29
+cjudvol,67,tutor,no. 1 times,00:10:09
+cjudvol,68,student,"1 would be 1. 1 plus 1 is 2. 1 times 2 is a 2. 2 plus 1, 3. So it goes on like that. We write the sequence here, 1n plus 1.",00:10:12
+cjudvol,69,tutor,"[unclear] going forward. Thank you, take care.",00:10:25
+cjudvol,70,student,We can also rewrite this as n plus 1.,00:10:30
+cjudvol,71,background,So I think your first is plus 11.,00:10:35
+cjudvol,72,student,"No, minus because, yeah.",00:10:37
+cjudvol,73,background,"Is this clear to you, Kaelan?",00:10:42
+cjudvol,74,student,Yes.,00:10:44
+cjudvol,75,tutor,"Okay. If you do have any questions, please feel free to ask.",00:10:46
+cjudvol,76,student,Yeah.,00:10:53
+cjudvol,77,tutor,Yeah. Can you give the question here a try? [unclear],00:10:54
+cjudvol,78,student,"Yeah. Oh, sorry, [UNCLEAR]. [unclear]",00:11:06
+cjudvol,79,student,Yeah. [unclear],00:11:13
+cjudvol,80,tutor,And how would you find the in-term of the purple triangles?,00:11:41
+cjudvol,81,student,[unclear] 5 times 4 is [UNCLEAR]. 19 times 4 is [UNCLEAR].,00:11:53
+cjudvol,82,tutor,"Yes, okay. Can you tell me how you worked out the answer?",00:12:10
+cjudvol,83,student,On both sides is—,00:12:15
+cjudvol,84,tutor,Pardon? Can you tell me how you worked out your answer in term here?,00:12:16
+cjudvol,85,student,"So I counted, for example, the purple triangle. So the first one has 4, the second had 7, and The third one had 10. Then I found the difference between all those numbers in those 3, so I did 3n, and because 4 minus 3 is 1, so it's 3n plus 1.",00:12:23
+cjudvol,86,tutor,"Yes. Yes, okay. Very well done putting in effort and completing the questions independently.",00:12:41
+cjudvol,87,student,Thank you.,00:12:48
+cjudvol,88,tutor,"You're welcome. Yeah, let's practice a few questions here.",00:12:49
+cjudvol,89,background,I divided it by 2 just so I didn't end up—,00:12:54
+cjudvol,90,tutor,So I didn't end up—,00:12:56
+cjudvol,91,tutor,"Yeah, you can play. Go ahead. [unclear]",00:12:58
+cjudvol,92,student,[unclear],00:13:23
+cjudvol,93,tutor,Yeah. [unclear],00:13:23
+cjudvol,94,student,And how can we rewrite this?,00:14:01
+cjudvol,95,tutor,"Oh yeah, just n 1. Yes,",00:14:04
+cjudvol,96,student,n 1.,00:14:08
+cjudvol,97,student,So— I'm not— I don't really remember how to do the last one.,00:14:24
+cjudvol,98,tutor,"Okay, that's totally fine. So here you need to find the total number of squares in the 20th pattern. [unclear] Okay, so you know the n Kaelan?",00:14:27
+cjudvol,99,student,"Oh, oh, oh yes, I know what to do now.",00:14:42
+cjudvol,100,tutor,Okay.,00:14:45
+cjudvol,101,student,So... [unclear],00:14:47
+cjudvol,102,tutor,"Wait, for which one should we do for? Oh, to count all the box together?",00:14:50
+cjudvol,103,student,"Oh, the...",00:14:57
+cjudvol,104,tutor,"You're going to do it for the total, Kaelan. So then what do you think? You have both orange and blue squares.",00:14:58
+cjudvol,105,student,for all the terms?,00:14:58
+cjudvol,106,tutor,"No, we are finding it for the total.",00:15:08
+cjudvol,107,student,"Oh, okay.",00:15:12
+cjudvol,108,tutor,So what would be your nth term? [unclear],00:15:13
+cjudvol,109,student,[unclear],00:15:33
+cjudvol,110,student,[unclear] [unclear],00:15:46
+cjudvol,111,tutor,"You also could have used a shortcut, which was to add these two together.",00:16:03
+cjudvol,112,student,Oh.,00:16:10
+cjudvol,113,tutor,"Okay, yeah, carry on. [unclear]",00:16:13
+cjudvol,114,tutor,"Okay, very well done, Kaelan. Yeah, can you tell me your key takeaway from what you completed here?",00:16:38
+cjudvol,115,student,"Like, if you have to find, like, the blue and orange girls, you can just",00:16:45
+cjudvol,116,student,"Like, like, plus the [unclear] together, the two [unclear] together, instead of doing all of them.",00:16:51
+cjudvol,117,tutor,"Yes, yes, exactly. Okay, good job reflecting on that. And yet one final question to complete the lesson. [unclear]",00:17:00
+cjudvol,118,tutor,You're going to find the fraction shaded.,00:17:23
+cjudvol,119,student,"So wait, take that. [unclear]",00:17:27
+cjudvol,120,tutor,"Okay, and what would you have to do next?",00:17:49
+cjudvol,121,student,Find the difference between each one.,00:17:57
+cjudvol,122,student,Find the difference?,00:18:07
+cjudvol,123,tutor,"Yes, you can find the difference. Are you going to find the difference between each fraction? [unclear] OK, what you could do is first find the difference between the numerators.",00:18:10
+cjudvol,124,student,The difference between the numerators only?,00:18:26
+cjudvol,125,tutor,"Yes, the numerators only. [unclear]",00:18:31
+cjudvol,126,tutor,So is it one line?,00:18:35
+cjudvol,127,student,Yeah. [unclear],00:18:49
+cjudvol,128,student,Because I found the difference between the numerators and the denominators.,00:18:59
+cjudvol,129,tutor,OK. All right. Did you just do the subtraction between the numerators and the denominators? [unclear],00:19:05
+cjudvol,130,student,Yeah.,00:19:14
+cjudvol,131,tutor,"OK. All right. Very well tried, Kaelan, but that is not how this works.",00:19:18
+cjudvol,132,tutor,"First, you're going to find the difference between the numerators. So you have a 2, 3, 4, and 5. See, I'm sure you already know the nth term for the numerators, don't you? [unclear]",00:19:25
+cjudvol,133,student,Yeah.,00:19:39
+cjudvol,134,tutor,"Yeah, what's the nth term here?",00:19:41
+cjudvol,135,student,1.,00:19:47
+cjudvol,136,tutor,Yes. N plus [UNCLEAR].,00:19:49
+cjudvol,137,tutor,"When you have a 2, 3, and a 4, your nth term becomes n plus 1. You're aware of it, right?",00:19:54
+cjudvol,138,student,"So I didn't have a Your numerators are a 2, a 3, 4, and a 5. Is that part clear to you?",00:20:11
+cjudvol,139,student,Yeah.,00:20:28
+cjudvol,140,tutor,"Okay, we're going to find the nth term. You look at the difference, that's a 1. So your nth term would be n 1. Is that part clear to you? [unclear]",00:20:29
+cjudvol,141,student,Yes.,00:20:46
+cjudvol,142,tutor,"Okay, now we're going to find the nth term of your denominator. So have a look at all the denominators. You have a 3, a 5, a 7, and a 9. So the difference here is a 2. That would be 2n. So 2n, and then you see 2n would be 2, that's a plus 1. Is that clear to you?",00:20:47
+cjudvol,143,student,[unclear],00:21:21
+cjudvol,144,tutor,So the denominator's nth term is 2n plus 1.,00:21:21
+cjudvol,145,tutor,So the nth term for a fraction is n plus 1 over 2n plus 1. [unclear],00:21:35
+cjudvol,146,student,"Oh yeah, it makes sense now.",00:21:45
+cjudvol,147,tutor,"If it is still confusing, if you do need any help, you can let me know. Just go through this once and have a look.",00:21:50
+cjudvol,148,background,Yeah. [unclear],00:21:59
+cjudvol,149,student,"Yeah, I understand now.",00:22:00
+cjudvol,150,tutor,"Okay, so can you give me a quick summary on how we worked it out here?",00:22:06
+cjudvol,151,student,"So you have to find out the difference between the numerator and denominator separately, and then obviously the numerator goes on top, so you have to find nth term, and then you have to find nth term between denominator and just make it into a fraction.",00:22:10
+cjudvol,152,tutor,"Okay, so what is a mistake that you need to avoid here?",00:22:23
+cjudvol,153,student,"Like what I did, I did a half. Because I just put it on top of each other.",00:22:28
+cjudvol,154,tutor,"Yes, where you did it as a whole. Yes, exactly. Okay, very well done reflecting on what you have completed here. Okay, with that we come to the end of solving problems in pattern sequences, and we will be moving on to the next lesson. [unclear]",00:22:33
+cjudvol,155,tutor,"Okay, can you go ahead and read the topic, Kaelan?",00:22:56
+cjudvol,156,student,Understanding and applying the index rule for multiplication.,00:23:02
+cjudvol,157,tutor,"Okay, are you familiar with the index laws?",00:23:08
+cjudvol,158,student,Yes.,00:23:12
+cjudvol,159,tutor,"Okay, yeah, why don't you give this question here a try? How would you simplify this? [unclear] Yes. So what happened to the powers here?",00:23:16
+cjudvol,160,student,"I did them together. You add them together. Okay, awesome. And yes, we'll practice a few questions now. [unclear]",00:23:43
+cjudvol,161,tutor,You can start. You can play.,00:23:56
+cjudvol,162,student,"Oh, yeah, yeah, I remember now. [unclear]",00:24:01
+cjudvol,163,background,[unclear],00:24:01
+cjudvol,164,student,"But you know, because it's an A, do you still add one or just leave it as it is?",00:24:10
+cjudvol,165,tutor,You mean this?,00:24:17
+cjudvol,166,student,"Yeah, do you like [UNCLEAR]? Add one.",00:24:18
+cjudvol,167,tutor,"Equals to the power of 1, yes.",00:24:24
+cjudvol,168,student,"Okay, thank you.",00:24:27
+cjudvol,169,tutor,"All right, no worries. [unclear]",00:24:29
+cjudvol,170,tutor,[unclear],00:24:29
+cjudvol,171,student,[unclear] [unclear],00:24:29
+cjudvol,172,tutor,[unclear],00:24:29
+cjudvol,173,student,[unclear],00:24:29
+cjudvol,174,tutor,"Kaelan, check on this. Here you have a minus 2. Here you have a plus 1. So minus 2 plus 1?",00:25:09
+cjudvol,175,student,I'm sorry.,00:25:18
+cjudvol,176,tutor,"Minus 1, yes. [unclear] [unclear]",00:25:20
+cjudvol,177,tutor,"Okay, so Kaelan, while working out the questions, what is one important thing that you noticed?",00:25:52
+cjudvol,178,student,"But if it's just like a or like x, it's like the power of 1, so you just add 1.",00:26:00
+cjudvol,179,tutor,"Yes, okay, good. Yeah, that's a good thing to observe and well done there. Okay, yeah, final question. [unclear]",00:26:09
+cjudvol,180,student,Find 4 different possibility value pairs of a and b.,00:26:29
+cjudvol,181,tutor,Okay. [unclear] Yep. [unclear],00:26:35
+cjudvol,182,student,"Yeah. So the 6 times a by the other minus 1, if you fix it, because someone found out from the original system, you just minus it and got minus 2.",00:27:02
+cjudvol,183,tutor,So you have to put minus 5. [unclear],00:27:15
+cjudvol,184,tutor,"Okay, you were amazing with completing the questions independently here. Very well done.",00:27:30
+cjudvol,185,student,Thank you.,00:27:48
+cjudvol,186,tutor,"You're welcome. And yes, with that we have completed this lesson also. So we're going to move on to the next. Yes, so here you're going to do the index laws for division. Can you give the learning goal question a try?",00:27:50
+cjudvol,187,student,Okay. [unclear] [unclear],00:28:10
+cjudvol,188,tutor,So what do we do when it is division?,00:28:22
+cjudvol,189,student,Subtract.,00:28:25
+cjudvol,190,tutor,"We subtract, yes. Okay, let's practice a few questions here. [unclear]",00:28:27
+cjudvol,191,student,"This is 10 minus 5. You can always write the power separately and see what happens. So here you have a minus and a minus, so that turns into a plus.",00:29:08
+cjudvol,192,student,Okay.,00:29:33
+cjudvol,193,tutor,So then this becomes the 15. [unclear],00:29:34
+cjudvol,194,student,"Oh yeah, 15 negative [UNCLEAR].",00:29:42
+cjudvol,195,tutor,Yes. Okay. [unclear],00:29:45
+cjudvol,196,student,Yeah.,00:29:57
+cjudvol,197,tutor,"There you go. I want you to double-check on this, Kaelan. [unclear]",00:30:05
+cjudvol,198,student,"Oh, would it just be that? Because it cancels out.",00:30:26
+cjudvol,199,tutor,"Sorry, you were not clear, Kaelan.",00:30:48
+cjudvol,200,student,"I said, would it just be 2a to the power of 7 because b—",00:30:50
+cjudvol,201,tutor,Yes.,00:30:55
+cjudvol,202,student,is 3.,00:30:55
+cjudvol,203,tutor,Yes. Why would we not have a b?,00:30:56
+cjudvol,204,student,"Because if it's dividing, then it's cancelled out.",00:31:02
+cjudvol,205,tutor,"Yes, 3 minus 3, that would make a b 0, which means there's no b.",00:31:05
+cjudvol,206,student,Yeah.,00:31:12
+cjudvol,207,tutor,"Yeah, that equals to 0. All right.",00:31:13
+cjudvol,208,tutor,working out the questions here. So what's your key takeaway from what you have completed so far?,00:31:13
+cjudvol,209,student,"Just like about the cancel out thing. [unclear] Like adding this, the adding the like the [UNCLEAR].",00:31:23
+cjudvol,210,tutor,"The powers, yeah.",00:31:37
+cjudvol,211,student,"Yeah, yeah.",00:31:38
+cjudvol,212,tutor,"All right, awesome.",00:31:40
+cjudvol,213,tutor,"Okay, and moving on, can you give this a try?",00:31:41
+cjudvol,214,student,Okay. [unclear],00:31:45
+cjudvol,215,tutor,Perfect.,00:31:55
+cjudvol,216,student,Yeah. [unclear],00:31:59
+cjudvol,217,student,I'm not sure how to do B.,00:32:22
+cjudvol,218,tutor,Just think that you are substituting a 5 here. So a minus 5 has to give you 2. [unclear],00:32:30
+cjudvol,219,tutor,"So what you could do is you can do the inverse, which is a equals 5 plus 2. [unclear] Is that clear?",00:32:44
+cjudvol,220,student,"Oh, yeah, it's clear. [unclear] [unclear]",00:33:01
+cjudvol,221,student,"Oh, no, like that.",00:33:32
+cjudvol,222,tutor,"Great, [UNCLEAR].",00:33:57
+cjudvol,223,student,"Yeah, this still remains a minus 4 because the sign before the number is a minus. Yes. [unclear]",00:33:58
+cjudvol,224,student,"There's only 1, then second is 5, then third is 9, and then there's a common difference of plus 4. So you know that n is 4, and then minus 3.",00:34:21
+cjudvol,225,tutor,"OK. So here, a minus—",00:34:35
+cjudvol,226,student,Minus y.,00:34:38
+cjudvol,227,tutor,"Minus y. 3 is a +2, so this becomes positive. So, 8— [unclear]",00:34:41
+cjudvol,228,tutor,Can you retry this again? [unclear],00:34:46
+cjudvol,229,tutor,"No, Kaelan, it has to be a minus one. [unclear]",00:35:21
+cjudvol,230,student,"Sorry, I'm not sure.",00:35:30
+cjudvol,231,student,"All right, give me a second. So you have A minus— this is an A. One second. Okay, let me refresh my page once. I'm having problems with my cursor. [unclear] [unclear]",00:35:34
+cjudvol,232,tutor,"Okay, all right. So, yeah, a minus b is going to be a 2. You know the value for b, which is a -3. [unclear]",00:36:05
+cjudvol,233,tutor,"To be 2. [unclear] Minus. Plus 2. Sorry. Okay, so a here. [unclear] To be a 5.",00:36:24
+cjudvol,234,tutor,"So when you write the 5 here, and you have a minus 3. Okay, Kaelan, I'm really sorry about this. There seems to be something wrong with the answer given. Can I— [unclear] Can I look into this and get back to you since we have already come towards the end of today's session?",00:36:53
+cjudvol,235,student,"Yeah, that's fine.",00:37:22
+cjudvol,236,tutor,"Okay. Yes, so we have come towards the end of today's session, Kaelan. You did really well with working out the questions. Thank you for joining today's session. I hope you had a great time. I'll see you next week. Bye.",00:37:25
+cjudvol,237,student,Bye.,00:37:40

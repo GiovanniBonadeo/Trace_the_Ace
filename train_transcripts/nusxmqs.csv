@@ -1,0 +1,160 @@
+session_id,utterance_id,role,content,timestamp
+nusxmqs,0,tutor,Hello?,00:00:00
+nusxmqs,1,background,[unclear],00:00:00
+nusxmqs,2,student,Hello?,00:00:00
+nusxmqs,3,tutor,"Calliope, can you hear me?",00:00:01
+nusxmqs,4,student,"Yeah, I can hear you.",00:00:02
+nusxmqs,5,tutor,"Okay, so hi, how are you?",00:00:04
+nusxmqs,6,student,"I'm good, how are you?",00:00:06
+nusxmqs,7,tutor,"I'm doing good, Calliope. So, are you ready for the lesson?",00:00:08
+nusxmqs,8,student,Yeah.,00:00:12
+nusxmqs,9,tutor,"Okay. So, all right, Calliope, so we'll be starting A new lesson today because the lessons has been rearranged accordingly.",00:00:13
+nusxmqs,10,tutor,"So now we'll be starting. So we'll be continuing that lesson we left in our previous week after this, okay?",00:00:23
+nusxmqs,11,student,Okay.,00:00:30
+nusxmqs,12,tutor,"All right, so we're gonna learn about working with upper and lower bounds. So have you done this at school before?",00:00:32
+nusxmqs,13,student,Yeah.,00:00:40
+nusxmqs,14,tutor,"Okay then, so shall we go ahead with the warm-up question?",00:00:42
+nusxmqs,15,student,Yeah. [unclear],00:00:46
+nusxmqs,16,student,Let us give you the answer.,00:00:53
+nusxmqs,17,tutor,Yes.,00:00:55
+nusxmqs,18,student,"Yeah, so I think that the wardrobe will fit in the room.",00:00:56
+nusxmqs,19,tutor,You mean yes or no?,00:01:03
+nusxmqs,20,student,"Yeah, yeah, yeah, it will. Yes.",00:01:05
+nusxmqs,21,tutor,"Okay, and why do you think so?",00:01:07
+nusxmqs,22,student,"Because, well, the height of the wardrobe is 247, and then The height of the room is 250, measured to the nearest 10 centimeters, which means that it could be from— like, it could be anywhere from 245 centimeters to 250. So that—",00:01:10
+nusxmqs,23,tutor,"Yes, so you got the point. So it can be anywhere from 245 to 255, right? [unclear] So let's say if the room's height was 245 or 246, will you be able to fit the wardrobe?",00:01:32
+nusxmqs,24,student,No.,00:01:52
+nusxmqs,25,tutor,"No, right? So because the room is— the room— height of the room is measured to the nearest centimeter, so we don't know that the exact value of the room. So it can be either starting from 245 to 254, right?",00:01:53
+nusxmqs,26,student,Yeah.,00:02:11
+nusxmqs,27,tutor,Because any of these numbers rounded to the nearest 10 would give you 250. Is that clear?,00:02:11
+nusxmqs,28,student,"Yeah, yeah.",00:02:18
+nusxmqs,29,tutor,"So this way, let's say if the wardrobe was 245 centimeters or 246 centimeters, the wardrobe will not be able to fit, right?",00:02:19
+nusxmqs,30,student,Yeah.,00:02:29
+nusxmqs,31,tutor,So is that clear?,00:02:30
+nusxmqs,32,student,Yeah.,00:02:32
+nusxmqs,33,tutor,"Okay, so that's why we say it won't be able to fit, because we don't know the exact height of the room, okay?",00:02:33
+nusxmqs,34,student,Yeah.,00:02:40
+nusxmqs,35,tutor,"So in this case, it will not fit because the room can also have the height 245 or 246 as well. Clear, right?",00:02:40
+nusxmqs,36,student,Yeah.,00:02:50
+nusxmqs,37,tutor,Are you sure?,00:02:50
+nusxmqs,38,student,"Yeah, yeah, I understand.",00:02:53
+nusxmqs,39,tutor,Okay. So shall we go ahead with the first exam cell question?,00:02:54
+nusxmqs,40,student,Yeah.,00:02:59
+nusxmqs,41,tutor,"Okay, you can try this. [unclear]",00:03:01
+nusxmqs,42,student,"Very good. So can you explain me your step, or like how you got",00:03:54
+nusxmqs,43,student,"Okay, so for the first one, you said that it's measured to the nearest centimetre. [unclear] That would be 1 centimetre, so then I halved it, and then I took it away from 174, and I added it to 174, which got me 173.5, not 174. 4.5.",00:04:01
+nusxmqs,44,tutor,"Exactly, very good. That's correct, that's how you do it. Well done.",00:04:27
+nusxmqs,45,student,"Yeah, and then that was with like the whole number, but then for the second one it was like the same method, it was just, um, A different number. This was to one decimal place.",00:04:32
+nusxmqs,46,tutor,"Exactly, that's right. Very good, [UNCLEAR]. So that's how you do it. So for getting both the numbers correctly, the lower bound and the upper bound, you'll be getting 2 marks. Okay.",00:04:42
+nusxmqs,47,tutor,One mark. And the same goes to the second question as well. So good job.,00:04:53
+nusxmqs,48,student,Thank you.,00:05:00
+nusxmqs,49,tutor,You're welcome. So we can move to the next exam-style question. [unclear] [unclear],00:05:02
+nusxmqs,50,student,And then A. [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear],00:05:25
+nusxmqs,51,student,[unclear] [unclear],00:06:36
+nusxmqs,52,student,[unclear],00:07:01
+nusxmqs,53,student,I'm done.,00:07:33
+nusxmqs,54,tutor,"Okay, so that was an awesome working out. So would you mind explaining me this question? [unclear]",00:07:42
+nusxmqs,55,student,"To find the upper bound of the perimeter, you have to do the upper bound plus the upper bound. So I did the upper bound of the length and the upper bound of the width, and I added it all together.",00:07:54
+nusxmqs,56,tutor,"Yes, very good. That's right. So well done on nicely working out both the questions and also giving me the explanations. So this is also A 3-mark question. So according to that, so for finding the lower bound of both you'll be getting one mark. And then for this answer, you'll be getting like— to multiply this, you'd be getting another mark. And for the final answer, you'll be getting one more mark. Okay?",00:08:09
+nusxmqs,57,student,Okay.,00:08:37
+nusxmqs,58,tutor,"So very good. And for the next one, yeah, for finding and then adding and then getting the final answer, three marks. So well done, [UNCLEAR]. That was an excellent focus. And yeah, now you can try",00:08:37
+nusxmqs,59,student,This one.,00:08:54
+nusxmqs,60,background,Okay. [unclear],00:08:56
+nusxmqs,61,student,[unclear],00:09:44
+nusxmqs,62,student,[unclear] [unclear],00:09:47
+nusxmqs,63,student,[unclear] [unclear],00:11:10
+nusxmqs,64,student,[unclear] [unclear],00:11:13
+nusxmqs,65,tutor,"Done? Okay, very good. So can you explain me on how you worked it out?",00:11:57
+nusxmqs,66,student,"Okay, so for the first one, I found out the upper and lower bounds for x and then the upper and lower bounds for y, and then because it's A subtraction, I did the— like, I did the largest value take away the smallest value.",00:12:03
+nusxmqs,67,tutor,Very good.,00:12:19
+nusxmqs,68,student,"To get 1.7. And then for the other one, I used the same— I used the same upper bounds and lower bounds, so I didn't write them out again. And then I just did the smaller bound— the smaller number divided by the biggest number to get the smallest value, so to get the lower bound.",00:12:20
+nusxmqs,69,tutor,"Exactly, that's how you do it. Very good. So this is also A 3-mark question. So this also goes as one mark for finding out the upper [unclear] bounds, and then for the subtraction, and then for the final answer. Okay?",00:12:43
+nusxmqs,70,student,Okay.,00:13:00
+nusxmqs,71,tutor,"And for this question also, it goes the same way for finding 1.75 and 0.25, and for the division, and for the final answer.",00:13:01
+nusxmqs,72,student,Okay.,00:13:09
+nusxmqs,73,tutor,"Okay, very good. So good job. And yeah, now you can just try the challenge question here.",00:13:10
+nusxmqs,74,tutor,"All right, shall we try this?",00:13:19
+nusxmqs,75,student,Yeah.,00:13:21
+nusxmqs,76,student,"Yeah, the method I just said, I can't understand one word. [unclear] [unclear]",00:13:45
+nusxmqs,77,student,[unclear] [unclear],00:15:55
+nusxmqs,78,student,[unclear],00:15:58
+nusxmqs,79,student,"Okay, wow, that's A nice working out of self. Well done.",00:17:04
+nusxmqs,80,tutor,"So how do you know you have to subtract it from this? So like, how do you know you have to do this work?",00:17:08
+nusxmqs,81,student,"Oh, um, so basically I did the Pythagoras' theorem.",00:17:16
+nusxmqs,82,tutor,Very good. Exactly. So well done.,00:17:20
+nusxmqs,83,student,"Yeah, so then I just rearranged it to get a² because normally it is a² b² c². Now I rearranged it and then put the numbers in.",00:17:25
+nusxmqs,84,tutor,"Yes, exactly. So very good. So for 8.35 and 6.65, you'll be getting one mark. And for this one, you'll be getting another mark. And the final answer— and you have to round it up. So good job. And yeah, you'll be getting 3 marks for this question. Okay, so that's A really awesome working out.",00:17:35
+nusxmqs,85,student,Thank you.,00:17:57
+nusxmqs,86,tutor,You're welcome.,00:17:59
+nusxmqs,87,tutor,"Okay, so we've got the final [unclear] question left, so we can just try this. Okay. [Speaker:A]...the volume and [unclear] yes, where the volume is. And then we choose 8 over 135, we'll be using frequency to find out the next scale factor, which is 2.5. And to find out the area of the ellipse, you have to square it and then multiply it by 2.5. Then it's actually A little [unclear]",00:18:03
+nusxmqs,88,tutor,Done.,00:19:43
+nusxmqs,89,tutor,"Okay, so wow, that's correct. Well done. So you're feeling confident with this [UNCLEAR], right?",00:20:09
+nusxmqs,90,student,Yeah.,00:20:17
+nusxmqs,91,tutor,"Okay, so you did an awesome work done there. Okay, so we have completed this lesson as well, and yeah, you did really great. So we can now move to the new one.",00:20:18
+nusxmqs,92,student,Okay.,00:20:30
+nusxmqs,93,tutor,"Okay, so this is the lesson we left it Uh, like midway in the previous lesson, right? Yeah. Yeah. So shall we continue this? Yeah. Okay. All right. So we did up to— let me check. Yeah, we have to start from the third question. Yeah, we did the first one. Yeah. And we did this one. And we have to start from this one. Yeah. Yeah.",00:20:34
+nusxmqs,94,student,"Ah yeah, we started and we didn't have enough time, right?",00:21:03
+nusxmqs,95,student,Yeah.,00:21:07
+nusxmqs,96,student,"Yeah, yeah.",00:21:08
+nusxmqs,97,student,You can do it after. [unclear],00:21:09
+nusxmqs,98,student,Yeah. [unclear],00:22:05
+nusxmqs,99,student,"Other than that, [unclear]",00:22:45
+nusxmqs,100,student,What? [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear],00:23:14
+nusxmqs,101,student,[unclear] [unclear],00:24:54
+nusxmqs,102,student,[unclear] [unclear],00:25:08
+nusxmqs,103,student,Thanks. [unclear],00:25:46
+nusxmqs,104,student,[unclear] [unclear],00:26:12
+nusxmqs,105,student,[unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear],00:26:22
+nusxmqs,106,student,[unclear] [unclear],00:27:02
+nusxmqs,107,student,[unclear] [unclear],00:27:14
+nusxmqs,108,student,Yeah.,00:27:29
+nusxmqs,109,student,[unclear],00:27:54
+nusxmqs,110,student,[unclear] [unclear] [Speaker:A]... [unclear] [unclear] [LysanderA]... [unclear] [unclear],00:28:03
+nusxmqs,111,student,I'm the one that's [UNCLEAR]. [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [LysanderA]... [unclear] [unclear],00:29:38
+nusxmqs,112,student,Yes?,00:32:15
+nusxmqs,113,background,Yeah.,00:32:25
+nusxmqs,114,student,Okay. Thank you very much. That's great! [unclear],00:32:25
+nusxmqs,115,student,Okay. [unclear],00:33:04
+nusxmqs,116,student,[unclear] [unclear],00:33:29
+nusxmqs,117,student,[unclear] [unclear],00:33:50
+nusxmqs,118,student,I'm done.,00:34:51
+nusxmqs,119,tutor,"Okay, that was A fantastic working out of self. So well done. It's taking time, right?",00:34:54
+nusxmqs,120,student,Yeah.,00:35:02
+nusxmqs,121,tutor,And so many steps.,00:35:03
+nusxmqs,122,student,Yeah.,00:35:05
+nusxmqs,123,tutor,"I understand. But you did it really, really great. And yeah, you have covered all the necessary steps. So that's really appreciable. So well done, okay?",00:35:05
+nusxmqs,124,student,"Okay, thank you.",00:35:16
+nusxmqs,125,tutor,"You're welcome, [UNCLEAR]. So that was A really excellent focus. And yeah, we have completed the third question. So we've got the challenge question left. So shall we try this?",00:35:18
+nusxmqs,126,student,Yeah.,00:35:32
+nusxmqs,127,tutor,"Okay. And if you can, try this without using the calculator, okay?",00:35:34
+nusxmqs,128,student,[unclear] I didn't use the calculator in the question.,00:35:47
+nusxmqs,129,tutor,You didn't use?,00:35:53
+nusxmqs,130,student,No.,00:35:54
+nusxmqs,131,tutor,"Oh, then it's really great.",00:35:55
+nusxmqs,132,student,I was working it out on paper.,00:35:56
+nusxmqs,133,tutor,"Yeah, that's better, so well done.",00:35:59
+nusxmqs,134,student,"Because I don't think for this question they don't let you have A calculator, or it is on the non-calculated paper.",00:36:01
+nusxmqs,135,tutor,"Yes, that's why. So I was just reminding you just in case because I've seen some students use them, so I just wanted to make sure.",00:36:10
+nusxmqs,136,student,Okay.,00:36:18
+nusxmqs,137,tutor,"And that's really great that you don't use. Okay, you can just carry on. [unclear] [unclear]",00:36:18
+nusxmqs,138,student,[unclear] [unclear],00:38:18
+nusxmqs,139,student,[unclear] [unclear],00:38:29
+nusxmqs,140,student,[unclear] [unclear],00:39:08
+nusxmqs,141,student,[unclear] [unclear],00:39:33
+nusxmqs,142,student,[unclear] [unclear],00:39:34
+nusxmqs,143,student,[unclear] [unclear] [Speaker:A]... [unclear] [LysanderA]... [unclear],00:39:42
+nusxmqs,144,student,"Yeah, I was just looking at the [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear] [Speaker:A]... [unclear] [unclear]",00:41:03
+nusxmqs,145,student,[unclear] [unclear],00:43:00
+nusxmqs,146,student,[unclear] [unclear],00:43:19
+nusxmqs,147,student,[unclear] [unclear],00:43:30
+nusxmqs,148,student,[unclear] [unclear],00:43:42
+nusxmqs,149,student,[unclear] [unclear],00:43:58
+nusxmqs,150,student,[unclear] [unclear],00:44:19
+nusxmqs,151,tutor,"Calliope, I think there's A small arithmetic error going on. And yeah, we don't have enough time to do it again and see. So we have to end the session now. So you did really great work, just that I think you missed somewhere with the arithmetic part. So is that okay if I end the session?",00:44:29
+nusxmqs,152,tutor,"Yeah, you can end it. We can go over this next time.",00:44:53
+nusxmqs,153,student,"Yeah, okay, [UNCLEAR]. So till we meet in the next lesson, [UNCLEAR], have A good day and bye-bye. And make sure you answer the questions and give A reflection, okay?",00:44:57
+nusxmqs,154,tutor,Okay.,00:45:06
+nusxmqs,155,student,"So I really appreciate your efforts in today's session, okay?",00:45:07
+nusxmqs,156,tutor,"Yeah, okay.",00:45:11
+nusxmqs,157,student,"You're welcome. All right then, bye.",00:45:12
+nusxmqs,158,tutor,Bye.,00:45:15

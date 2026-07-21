@@ -1,0 +1,216 @@
+session_id,utterance_id,role,content,timestamp
+byguaxo,0,tutor,Hello?,00:00:00
+byguaxo,1,background,[unclear],00:00:00
+byguaxo,2,background,Hello.,00:00:00
+byguaxo,3,tutor,Hello.,00:00:02
+byguaxo,4,background,Hello.,00:00:04
+byguaxo,5,tutor,Hello.,00:00:05
+byguaxo,6,background,Hello.,00:00:06
+byguaxo,7,tutor,Hello.,00:00:07
+byguaxo,8,background,Hello.,00:00:07
+byguaxo,9,tutor,Hello.,00:00:08
+byguaxo,10,background,Hello.,00:00:09
+byguaxo,11,tutor,"Hi, Lachlan, can you hear me?",00:00:11
+byguaxo,12,background,Yeah.,00:00:13
+byguaxo,13,tutor,"Hi, how are you feeling today?",00:00:14
+byguaxo,14,background,"I'm feeling good, how about you?",00:00:16
+byguaxo,15,tutor,"I'm doing very well, thank you so much for asking. How was your half-term holiday? What did you do?",00:00:18
+byguaxo,16,student,"Nothing really much, but I had fun.",00:00:24
+byguaxo,17,tutor,I beg your pardon?,00:00:30
+byguaxo,18,student,"I said nothing really much, but I had fun.",00:00:32
+byguaxo,19,tutor,"Ah, you had fun. You got lots of rest and sleep though?",00:00:36
+byguaxo,20,student,Yep.,00:00:40
+byguaxo,21,tutor,"I'm so glad to hear that. That's the best part, right?",00:00:41
+byguaxo,22,student,Yeah.,00:00:44
+byguaxo,23,tutor,"Yeah, you have fun. How has school been so far? Lachlan, since you're having a good— anything interesting that happened at school?",00:00:45
+byguaxo,24,student,"Well, we were teaching ourselves. [unclear]",00:00:55
+byguaxo,25,tutor,Okay.,00:00:58
+byguaxo,26,student,"We took a test, so I speak first.",00:00:59
+byguaxo,27,tutor,"Oh, I see. Fun. Yes, anyway, Lachlan, do you feel like you're energised and ready to start today's lesson?",00:01:06
+byguaxo,28,student,Yep.,00:01:17
+byguaxo,29,tutor,"Brilliant. All right, so Lachlan, this is actually where we stopped at our last class. I'm not too sure if you can remember how to do it, but do you think you can take a couple of minutes and try it out for me, please?",00:01:18
+byguaxo,30,student,Okay.,00:01:28
+byguaxo,31,tutor,Thank you.,00:01:29
+byguaxo,32,student,"So it says, the rectangle shows the definition of [unclear] like calculating the area of the [UNCLEAR]. Of these towers. So it says 2.02 meters and here 4.1 meters. So they are the same measurement. So I think this might be 4.1 meters because these two are the same. [unclear]",00:01:32
+byguaxo,33,tutor,Okay. [unclear],00:02:04
+byguaxo,34,tutor,"So now we have the whole thing. We are going to program our item. So for that, meters as 1.1, which gives us 8.2, and then 8.2, we could add 2.02, which gives us 10.82, and then 10.82, add 2.02 to it, gives us [unclear] [unclear]",00:02:24
+byguaxo,35,tutor,Are you okay?,00:03:20
+byguaxo,36,student,Yeah.,00:03:22
+byguaxo,37,tutor,"All right, so let's have a look. So actually, Lachlan, there's a bit of a tiny little error here. So you added everything up, I'm guessing, right?",00:03:24
+byguaxo,38,tutor,"Yes, but keep in mind they haven't asked you for the perimeter. Perimeter is where we add up everything. They've asked you for the area, right? So what is— yes, exactly right, length into your width. [unclear] [unclear]",00:03:36
+byguaxo,39,tutor,So she has 8... [unclear],00:04:06
+byguaxo,40,tutor,"Okay, is this your answer?",00:04:29
+byguaxo,41,student,Yeah. [unclear],00:04:51
+byguaxo,42,tutor,"Okay, so just checking, Lachlan, we are multiplying it, right? So the rule of it is we multiply all the numbers by all the numbers. So now here, 2 times 0 is 0. 2 times 1 would be 2, dot. 2 times 4 would be 8, and then we put it— remember how we do multiplication?",00:05:05
+byguaxo,43,tutor,[unclear],00:05:27
+byguaxo,44,student,Okay. [unclear],00:05:27
+byguaxo,45,tutor,And then 3 decimal places.,00:05:58
+byguaxo,46,student,And 2 times 4 equals 8. [unclear],00:06:12
+byguaxo,47,tutor,"And that's going to be 0, 0, 0, and then 20, 22, 23, 24. And again, just done what exactly I just said. And then what you had to essentially back out of the chatbot [unclear]",00:06:26
+byguaxo,48,tutor,[UNCLEAR] [unclear],00:06:26
+byguaxo,49,tutor,[unclear] times,00:06:26
+byguaxo,50,tutor,Yes. [unclear],00:07:45
+byguaxo,51,student,"Okay, shall we have a look now? [unclear]",00:07:45
+byguaxo,52,tutor,"Are we okay? Should we have a look now, Lachlan?",00:08:01
+byguaxo,53,student,Yes.,00:08:09
+byguaxo,54,tutor,"Great. Have a look. Okay. So it says you've got 16.4. Now keep in mind,",00:08:09
+byguaxo,55,tutor,"So you've forgotten to put the zero here, I'm guessing, right? Remember, we start with zeros. Okay, so you know what? We're going to learn something a little bit easier, right? Remember how we learned this, Lachlan, how we made them into whole numbers? So 0.3 became 10— became 3, so we multiplied it by 10. 0.4 became 45, we multiplied by 100. Do you remember this we learned? Yes. Do you think you can attempt this? 2.02 and 4.1. What would they become? [unclear]",00:08:26
+byguaxo,56,tutor,"So 4.1, to make it a whole number, or basically rather to make it 41, what do we multiply it by?",00:09:01
+byguaxo,57,student,7.,00:09:13
+byguaxo,58,tutor,Very good. And how about 2.02?,00:09:14
+byguaxo,59,student,[unclear],00:09:20
+byguaxo,60,tutor,"Exactly right. So now let's— and we get what would our answer be? 202, right?",00:09:20
+byguaxo,61,student,Yes.,00:09:28
+byguaxo,62,tutor,Yes. So now let's multiply 202 by 41. [unclear],00:09:29
+byguaxo,63,tutor,"All right, don't worry. [unclear]",00:09:44
+byguaxo,64,tutor,[UNCLEAR] [unclear],00:09:44
+byguaxo,65,tutor,[unclear] [unclear],00:09:44
+byguaxo,66,tutor,"A2, A2. Great. So now keep in mind, this is because we have multiplied by by 100 and the 10. What do you think our next step should be with this?",00:11:04
+byguaxo,67,student,Divide it by 10 and then divide it by—,00:11:13
+byguaxo,68,tutor,"100. Very good, Lachlan. That's absolutely right. [unclear]",00:11:17
+byguaxo,69,tutor,Yeah. 8.8— [unclear],00:11:35
+byguaxo,70,tutor,Meters.,00:11:41
+byguaxo,71,background,"8.8— very good. It should actually be meters. Squared, right? Because it's the area.",00:11:56
+byguaxo,72,student,Yep.,00:12:02
+byguaxo,73,tutor,"Yep. Fantastic. Yes, that's okay, don't worry, I understand. Fantastic work, Lachlan. So now just keep in mind, whenever you get like decimals and you have to multiply them, it tends to get a little confusing. So because of that, you can always just like multiply it and make it a whole number. And then after you get your answer, like how you got 8,000 [UNCLEAR], just divide it by the numbers that you multiplied it by. All right, brilliant job. Okay, so we have a lot more time, so I'm going to jump into another chapter. But before I proceed, Lachlan, do you have any questions or doubts to get clarified before we move on?",00:12:03
+byguaxo,74,student,"No, I'm all right.",00:12:39
+byguaxo,75,tutor,"All right, great. Okay, so I'm gonna jump into another one. [unclear] Okay, I think the lesson has loaded now. The next lesson now that we'll be learning is finding percentages of amounts without using a calculator. Calculator. All right, Lachlan, I have 2 warm-up questions. Would you like to give it a go for me? [unclear]",00:12:40
+byguaxo,76,tutor,Wow.,00:13:18
+byguaxo,77,student,So... [unclear],00:13:19
+byguaxo,78,tutor,[unclear] [unclear],00:13:24
+byguaxo,79,tutor,[unclear] [unclear],00:13:44
+byguaxo,80,tutor,Oh.,00:13:52
+byguaxo,81,student,[unclear],00:13:52
+byguaxo,82,tutor,"Oh, okay.",00:14:08
+byguaxo,83,background,[unclear],00:14:14
+byguaxo,84,tutor,"All right, are we good? [unclear] Okay, let's have a look now. So we have, look at these ones, 75%, great job, 2%, great job. And it says fine, 11% of 15, nicely done, 5.5.",00:14:53
+byguaxo,85,tutor,"Great. All right, gonna jump into another one now. Okay, so we're gonna jump into a follow-me-your-turn since the previous questions were very easy. So the first question here says find 30% of 60. Right, so first, let's find 10% by dividing by 10. So 60 divided by 10 would be 6. Find 30% by then multiplying 10% by 3. So 3 times 6 would be 18. Do we get this part, uh, Lachlan?",00:15:16
+byguaxo,86,student,Yep.,00:15:47
+byguaxo,87,tutor,"Yep. All right, now find 15% of 30. So first find 10% divided by 30. 30 divided by 10 is 3. Oh, we have 15%. So now find 15% by dividing 10% by— um, okay, so 3 divided by 2 would give me 1.5. So that means 3, since we want 15%, plus 1.5 would be 4.5. What do you think?",00:15:48
+byguaxo,88,student,"Yes, that's right.",00:16:22
+byguaxo,89,tutor,"Yeah, great. Okay, thank you for helping me, Lachlan. Would you be able to try out yours now for me, please?",00:16:23
+byguaxo,90,background,"Okay, so [unclear] 40% of 80. So if you choose this depth 10, and so that will give us— so half 8, so that will give us 40. And then 40, 10, and I think it was just— [unclear]",00:16:31
+byguaxo,91,tutor,"Oh, actually [unclear]",00:16:58
+byguaxo,92,tutor,And so— [unclear],00:17:02
+byguaxo,93,tutor,That explains it.,00:17:44
+byguaxo,94,student,That explains it.,00:17:51
+byguaxo,95,tutor,That explains it.,00:17:52
+byguaxo,96,student,That explains it. [unclear],00:17:53
+byguaxo,97,tutor,Very good. [unclear],00:17:56
+byguaxo,98,tutor,"Okay, we'll have a look at this. So first of all, is this 32 on top, Lachlan?",00:18:35
+byguaxo,99,student,Yes.,00:18:44
+byguaxo,100,tutor,"Yes, that's 32. That's a great job. So first you found out 10%. 50 divided by 10 was 5. Great. Great job. So now what we did is we needed to take 5 and divide it by 2, right? And you get— remember? Because we are finding 15%. So to find 0.5%, we take that answer you got and divide it by 2. So 5 divided by 2 would give us how much? 2.5, right? [unclear]",00:18:44
+byguaxo,101,tutor,"Yes. Okay, so now we found out what 10% is, which is 5. And then we found out the 0.5, which is 2.5. So all we have to do is just add these two up. What do you think you get? [unclear]",00:19:12
+byguaxo,102,tutor,"Absolutely right. So just keep in mind, to get your extra 5%, you take up this answer you've got over here and you divide it by 2 and add them all up. All right?",00:19:29
+byguaxo,103,student,Yes.,00:19:39
+byguaxo,104,tutor,"Brilliant stuff. All right, so I have another question here for you. Different ways of doing it. Would you be able to kindly do it for me, please?",00:19:40
+byguaxo,105,background,"Sure. So, [unclear] [unclear]",00:19:47
+byguaxo,106,tutor,18. [unclear],00:19:50
+byguaxo,107,tutor,"So, 36. [unclear]",00:20:07
+byguaxo,108,tutor,Yeah. [unclear] for [unclear],00:20:13
+byguaxo,109,tutor,[UNCLEAR] [unclear],00:20:13
+byguaxo,110,tutor,[unclear] [unclear],00:20:13
+byguaxo,111,student,"Oh, I see. [unclear] [unclear]",00:21:13
+byguaxo,112,tutor,[UNCLEAR] [unclear],00:21:13
+byguaxo,113,tutor,[unclear] [unclear],00:21:13
+byguaxo,114,tutor,[unclear] [unclear],00:22:28
+byguaxo,115,tutor,[unclear] [unclear],00:22:54
+byguaxo,116,tutor,[UNCLEAR] [unclear],00:22:54
+byguaxo,117,tutor,[unclear] [unclear],00:22:54
+byguaxo,118,tutor,[unclear] [unclear],00:23:21
+byguaxo,119,tutor,[unclear] [unclear],00:23:33
+byguaxo,120,tutor,It doesn't work. [unclear],00:23:47
+byguaxo,121,tutor,"and how do you do that? You have to provide it from the [UNCLEAR] or something, and you have to have these changes. [unclear] [unclear]",00:23:47
+byguaxo,122,tutor,"Okay. Are you done? There's no hurry, okay?",00:24:44
+byguaxo,123,student,That's okay.,00:24:47
+byguaxo,124,tutor,"All right. Okay. So let's have a look. So 20% of 90. Great job. This is 18. Okay. So we're looking at— look at this one. Deepan, 11% of 20 is 1. 2.2, nicely done. 35% of 120. Okay, so we're having a bit of an issue over here. Do you want to just redo that again and see?",00:24:49
+byguaxo,125,student,[unclear],00:25:18
+byguaxo,126,tutor,Okay. [unclear],00:25:19
+byguaxo,127,student,"because this book, I even [UNCLEAR] [unclear]",00:25:19
+byguaxo,128,student,"because this book, I even [unclear] [unclear]",00:25:19
+byguaxo,129,tutor,[UNCLEAR] [unclear],00:25:19
+byguaxo,130,tutor,[unclear] [unclear],00:25:19
+byguaxo,131,background,[unclear],00:26:26
+byguaxo,132,tutor,Yes.,00:26:51
+byguaxo,133,student,"Oh, no. [unclear] [unclear]",00:27:18
+byguaxo,134,tutor,[unclear] [unclear],00:27:19
+byguaxo,135,tutor,[unclear] [unclear],00:27:40
+byguaxo,136,tutor,Is this correct?,00:28:14
+byguaxo,137,student,"No, it's not. Okay. So we'll have a look at this. Let's see. So you got 10% is 12. Great job. So because we needed 35%, For 30%, you added up all the 12 and it came to 30— sorry, 36, right? Now keep in mind, we need an extra 5%. So remember I told you we take the 10%. So for 10%, we got 12. So wouldn't it make sense to get 5% of this 10% just to take the 12 and divide it by 2? [unclear]",00:28:24
+byguaxo,138,student,5 divided by 2.,00:29:01
+byguaxo,139,tutor,"Yes, exactly. And then we get answer of 4. Yes, 42. So keep in mind, whenever you need to find 5% of something, just take the value of 10%. In this case, the 10% value was 12, and we just take it, divide it by 2, and we add it up. All right, great. So of course 2 is right. Uh, just checking in to see your C part is also wrong. Do you want to give that a go?",00:29:08
+byguaxo,140,tutor,"Should I just erase all this? You can do it neatly. All right, here we go. [unclear] [unclear]",00:29:33
+byguaxo,141,tutor,Is it 10.1?,00:30:05
+byguaxo,142,student,"It is not 10.1, but you're very, very close, right? So 10. You get 10%, 7. So then 7, you take 7 here to get 5%, divided by 2, which you get is, uh, 10. Yes, which is how you get 10. But you have a remainder of 1, right? [unclear] Yes, it'll be 1 over 2 then, right? So won't it just be 10.5 then?",00:30:23
+byguaxo,143,student,Okay.,00:30:51
+byguaxo,144,tutor,Because it's half remaining.,00:30:52
+byguaxo,145,tutor,"Yeah? [unclear] Okay, great. Okay, so let me erase that as well. Yes, your answer will be 10.5. Great. So we're having a mistake with the e part as well, Lachlan. I'm just going to help you a tad bit. So what we can do first is find how much 10% is, right? So 10% would be how much, Lachlan?",00:30:55
+byguaxo,146,student,14.,00:31:17
+byguaxo,147,tutor,"14, exactly. What if we find 1% of 14 now? It will be 14 divided by 10, right?",00:31:19
+byguaxo,148,student,Yes. [unclear],00:31:30
+byguaxo,149,tutor,"Okay, no, sorry. Let's do this again, right? So we have 10% is equal to 14. 14, right? So if we get 14, to find out 1% of 14, it will be 0.14. Great. So now we take 0.14 and we multiply it by how much do you think we should multiply? Do you know what 1% is?",00:31:47
+byguaxo,150,tutor,[unclear],00:32:14
+byguaxo,151,student,"So as you said, [unclear]",00:32:14
+byguaxo,152,tutor,"1.14, we divide it, remember? Okay, hold on, hold on, let me just erase all this out. All right, now we said this 10% is 14. How much would— [unclear] No, it's not 1.4, Lachlan, it would actually be 22.",00:32:22
+byguaxo,153,tutor,"No, no, no. This is not— Lachlan, we don't divide it by 100, right? Because 10% is 14. 10% is 14. So won't it just— you're not listening to me, Lachlan. [unclear] So keep in mind, 10% is 14, right? So for us to get 1%, wouldn't it just be 14 divided by 10? [unclear]",00:32:46
+byguaxo,154,tutor,"Yes, because we're getting— no, you know what 10%— we only know what— need to know what 1% is. So we take 14 and divide it by 10, and we would get an answer of 1.4. Okay?",00:33:13
+byguaxo,155,student,Yes.,00:33:32
+byguaxo,156,tutor,So that 1% is 1.4. So now how do we get 8%? [unclear],00:33:33
+byguaxo,157,student,We would find 5% again.,00:33:43
+byguaxo,158,tutor,"We don't need 5%. Now we found out how much 1% is, right? We know 1% is 1.4. How do we get to 8%? Wouldn't it just be 1.4 multiplied by 8?",00:33:56
+byguaxo,159,tutor,"Because we know what 1%— it's like I had to tell you the price for one chocolate and then you want to get 8 chocolates. So then you just take the price for one chocolate and you multiply it by 8, right? To get the total.",00:34:08
+byguaxo,160,student,That's it.,00:34:20
+byguaxo,161,tutor,"Yeah, so we take this 1.4 and we multiply it by 8 because we want 8%. And what is [UNCLEAR]?",00:34:22
+byguaxo,162,tutor,What do you think the answer might be? [unclear],00:34:33
+byguaxo,163,tutor,"Okay, so you have given me an answer of 112. Actually, it is not 112, it is 11.2, because keep in mind we are multiplying 1.4, right, by 8. So you can't forget the decimal here, right? Make sure you don't forget the decimal, and then you get your answer of 11.2. All right, Lachlan?",00:35:01
+byguaxo,164,student,[unclear],00:35:22
+byguaxo,165,tutor,"All right, great. Okay, Lachlan, just checking in to see— we did a couple of questions, and a couple of questions took a little bit Do you have any questions? Do you want to get it again? Do you want me to explain it somewhere you felt it was a little difficult? Anything of the sort? Is there any part of this question where you found it a bit challenging and you would like to do it again? Or do you feel like you're okay to proceed?",00:35:22
+byguaxo,166,student,Yes.,00:35:53
+byguaxo,167,tutor,Yes. [unclear],00:35:53
+byguaxo,168,tutor,"Okay, fine. Okay, so the next question we have here is a little bit tricky, Lachlan, so I would advise you to underline keywords. This just helps you to focus on the important things and to narrow down the important things and just get rid of unnecessary information. And take your time, try out a couple of scenarios, and then let me know when you're done, okay?",00:35:55
+byguaxo,169,student,[unclear],00:36:17
+byguaxo,170,tutor,Alright.,00:36:18
+byguaxo,171,tutor,Correct.,00:36:22
+byguaxo,172,student,"So, it says, ""Tara gets paid £1,800 per month. She gets a 3% increase in her monthly earnings. How much money will Tara earn per month after the increase?"" So, since she has to find 3%, of 1,800. So 1%, 1%, 1%, which all adds up to 3. So 1% is the [UNCLEAR]. So divided by 1,000, so the gift of electricity, this thing is 3%.",00:36:22
+byguaxo,173,tutor,3%. [unclear],00:36:22
+byguaxo,174,student,[UNCLEAR],00:37:45
+byguaxo,175,student,[UNCLEAR],00:37:45
+byguaxo,176,student,[UNCLEAR],00:37:45
+byguaxo,177,student,[UNCLEAR],00:37:45
+byguaxo,178,student,[unclear],00:37:45
+byguaxo,179,tutor,Lachlan?,00:38:04
+byguaxo,180,student,[unclear],00:38:04
+byguaxo,181,tutor,[UNCLEAR] [unclear],00:38:04
+byguaxo,182,tutor,[unclear] [unclear],00:38:04
+byguaxo,183,tutor,"So, I'm going to ask you to do a little bit of a background check. [unclear]",00:39:21
+byguaxo,184,tutor,Is your answer 54?,00:39:56
+byguaxo,185,student,Yes.,00:39:59
+byguaxo,186,tutor,"All right. So first, what we'll do is you found— did you find 1% of 18, right?",00:40:00
+byguaxo,187,student,Yes.,00:40:08
+byguaxo,188,tutor,"Okay. But keep in mind now, It's £1,800 per month. So if we find £1,800, you got 18. Yes, that's right, £18. What do we multiply? [unclear] To give 3%.",00:40:09
+byguaxo,189,tutor,"To get 3%, wouldn't it just be— okay, 54. Yes, 54 is absolutely right.",00:40:29
+byguaxo,190,tutor,"Very good. Okay, so Lachlan, you are on the right track. It's just that you have missed one little step, right? So you found out that 3% is giving you 54. Great job. So I'm going to put that neatly right here. But keep in mind, if the question says how much money will she earn per month, so because we are already anyway getting this 1,800 per month, we just add it up as well to our additional 3%, which you found out was 54. We take this answer of yours and add it to the initial [unclear] and you put it together. Yes. And then what do you get?",00:40:38
+byguaxo,191,student,[unclear],00:41:18
+byguaxo,192,tutor,"Yes, that's absolutely right. So keep in mind, but good job, Lachlan. You are on the right track. You did a fantastic job. You got the important bits locked in really well. Just make sure that after you find your answer, you just have to add up because they ask how much she'll earn per month. After the increase. So because she anyway gets paid this amount, we just have to add it up to the increase. All right, all right, brilliant stuff on that, Lachlan. Uh, okay, so Lachlan, I just have, uh, another question for you, uh, because I feel it will help you. Okay, so we have two questions over here, Lachlan. Do you think you can give it a couple of minutes and try it out for me, please?",00:41:20
+byguaxo,193,student,Okay.,00:42:00
+byguaxo,194,background,Thank you so much. [unclear],00:42:00
+byguaxo,195,tutor,"So it says, find 11% of 20. So 11% can be calculated by adding 50% and 11%. So it says, find 10% by dividing by 10. So 10 divided by 13 gives us 2. And then it says, find 1% by dividing",00:42:04
+byguaxo,196,tutor,"So this will give us 0.2. Then it says 11, so 10% adds 4% because it's 11. So 2 adds 2.2. [unclear]",00:42:30
+byguaxo,197,student,That will give us 2.2.,00:43:03
+byguaxo,198,tutor,"Very good. That's absolutely right. So we understood how to do this, right? We first find 10%, and then we find 1%, right?",00:43:10
+byguaxo,199,student,Yes.,00:43:21
+byguaxo,200,tutor,"Yes. All right, great. And then we add the two up. Okay, how about the last one?",00:43:22
+byguaxo,201,student,"Okay, there's 5, 8% of 140. So 8% should be calculated by [unclear] by 8. So 5 by dividing by 100, so 1% of 140 gives us 12. [unclear]",00:43:26
+byguaxo,202,tutor,"Yeah, 1.4.",00:43:53
+byguaxo,203,student,"So you can just— and then it's saying 5 to 8% by multiplying 1% minus 8, so 1% times 0.8 gives us 8%. [unclear]",00:43:55
+byguaxo,204,tutor,"I'm just checking in to see here. Okay, go ahead. Keep going.",00:44:37
+byguaxo,205,tutor,"Because we're finding 1% of 8, right? Not 1% of 100. So wouldn't it just be 8 divided by— [unclear]",00:44:41
+byguaxo,206,tutor,"Yes, that's right, that's right, that's right. Right. So 1.8 multiplied by— 1.4 multiplied by 8, and that would give us an answer of—",00:44:49
+byguaxo,207,student,[unclear] [unclear],00:45:02
+byguaxo,208,tutor,That's fine.,00:45:07
+byguaxo,209,student,That's it.,00:45:14
+byguaxo,210,tutor,"All right, let me have a look.",00:45:25
+byguaxo,211,student,"11, so 112.",00:45:33
+byguaxo,212,tutor,"Okay, and again, Lachlan, you're missing the [UNCLEAR]. Ah, there we go. Absolutely right. Nice job. That's correct. That's how we do it. So now, Lachlan, do you feel like you kind of got the hang of how we can get like percent, like 10%, 1%, 15%, 18%? Do you think now you kind of got the hang of how we approach this type of questions. Yep, not too bad, right? I feel the more practice we do, it will get so much easier, right? Yes? [unclear] Yes. All right, okay. So Lachlan, we've come to the end of our lesson. Thank you so much once again for joining. I hope you enjoyed your lessons and learnt a lot of new things today. You are such a champ. Thank you for helping me and making my job so easy. Until then, Lachlan, please take care and have a fantastic day ahead of you, okay?",00:45:38
+byguaxo,213,tutor,"Hey, you too.",00:46:27
+byguaxo,214,student,Thank you. Bye-bye. [unclear],00:46:28

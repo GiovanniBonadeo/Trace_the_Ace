@@ -1,0 +1,353 @@
+session_id,utterance_id,role,content,timestamp
+mhknzpq,0,tutor,Hello.,00:00:00
+mhknzpq,1,background,[unclear],00:00:00
+mhknzpq,2,student,Hi.,00:00:00
+mhknzpq,3,tutor,Welcome to today's learning session. How are you doing today?,00:00:00
+mhknzpq,4,student,"I'm alright, thanks. How are you?",00:00:04
+mhknzpq,5,tutor,"I'm doing great. Thank you so much for checking in. Alright, are you ready for the session today?",00:00:05
+mhknzpq,6,student,Yeah.,00:00:10
+mhknzpq,7,tutor,"Okay, so we continue the lesson trigonometry using [UNCLEAR]. So do you remember that we were finding angle, the missing angle?",00:00:11
+mhknzpq,8,student,Yeah.,00:00:11
+mhknzpq,9,tutor,"Okay, so there is a question that you wanted to try. Can you recall the methods that we learned last week and try this question? [unclear]",00:00:19
+mhknzpq,10,student,Do I have to use thin for this one? [unclear],00:01:10
+mhknzpq,11,tutor,"So it's message C, 107. Password, should just be password 1. [unclear]",00:01:35
+mhknzpq,12,tutor,Can I have some help with this one?,00:02:03
+mhknzpq,13,student,Sure. What is your thought behind it?,00:02:17
+mhknzpq,14,tutor,"Well, I know, I think it's sin.",00:02:22
+mhknzpq,15,student,"Okay, why?",00:02:26
+mhknzpq,16,background,Because the H and the O.,00:02:27
+mhknzpq,17,student,Correct. So you name this. Sine ABC is equivalent to— what's the ratio? How do you write that?,00:02:31
+mhknzpq,18,background,"Um, he's not doing it.",00:02:41
+mhknzpq,19,student,5 over 9.,00:02:42
+mhknzpq,20,background,Thank you.,00:02:43
+mhknzpq,21,student,Correct. So sine ABC— [unclear] is equivalent to π/9.,00:02:44
+mhknzpq,22,student,Yeah.,00:02:53
+mhknzpq,23,tutor,So what should your next step be?,00:02:54
+mhknzpq,24,student,"Um, I don't know.",00:02:59
+mhknzpq,25,tutor,"You need to find the inverse of sine to find the value of ABC. Okay, so ABC would be equivalent to inverse of sine— hold on— inverse of sine That is 5/9. Okay, do you have your calculator in your hand?",00:03:01
+mhknzpq,26,student,No.,00:03:25
+mhknzpq,27,tutor,"Oh, okay. So if you enter this value in the calculator, you will be able to find the value of ABC in angle.",00:03:27
+mhknzpq,28,background,Right.,00:03:34
+mhknzpq,29,tutor,So do you know how to input this data in your calculator?,00:03:35
+mhknzpq,30,background,"Yeah, wait, should I get it?",00:03:40
+mhknzpq,31,tutor,"Yeah, so the value would be 33.75 degrees.",00:03:43
+mhknzpq,32,student,Yep.,00:03:48
+mhknzpq,33,tutor,You can easily get this value through your calculator.,00:03:49
+mhknzpq,34,background,Yeah.,00:03:53
+mhknzpq,35,tutor,"Okay, Gideon. Right, so that's all with this lesson, and there's a challenging question for you as well. No rush, take your time, read through, and just like how you explained to me the other workings, talk me through your [UNCLEAR].",00:03:54
+mhknzpq,36,tutor,process. [UNCLEAR],00:03:54
+mhknzpq,37,tutor,process. [unclear] [unclear],00:03:54
+mhknzpq,38,student,"I don't really know, to be honest.",00:04:39
+mhknzpq,39,tutor,"Okay, shall we break down this question?",00:04:44
+mhknzpq,40,student,Yeah.,00:04:46
+mhknzpq,41,tutor,"A man is working out the height of the tree. He is looking up at the tree at an angle of 63 degrees. So if you see, man is already 1.6 meters tall.",00:04:49
+mhknzpq,42,tutor,Yeah.,00:05:02
+mhknzpq,43,student,"And from this point, from this eye level, he's actually looking up at the tree with this angle of elevation, which is 63 degrees. Is that [unclear] to you?",00:05:03
+mhknzpq,44,tutor,Yeah.,00:05:18
+mhknzpq,45,student,His eye line is 1.6 meters above the ground level. The man is standing 20 meters from the tree base. So the distance between the man and the tree base is 20 meters.,00:05:19
+mhknzpq,46,tutor,Yep.,00:05:35
+mhknzpq,47,background,A sketch of the situation is shown here. What is the total height of the tree? Give your answer to 3 significant figures.,00:05:35
+mhknzpq,48,tutor,So what do you think we can use here to solve the problem?,00:05:42
+mhknzpq,49,student,Um...,00:05:50
+mhknzpq,50,tutor,So consider this as a triangle.,00:05:54
+mhknzpq,51,student,Yeah.,00:05:57
+mhknzpq,52,tutor,"You already know the base of the triangle, don't you?",00:05:58
+mhknzpq,53,student,Yes.,00:06:02
+mhknzpq,54,tutor,What is the base of the triangle?,00:06:02
+mhknzpq,55,student,20 meters.,00:06:04
+mhknzpq,56,tutor,"Yeah, but you don't know the height of it, but you know that one— you know the value of one angle.",00:06:05
+mhknzpq,57,student,Yeah.,00:06:12
+mhknzpq,58,tutor,"If you know that, will you be able to find the height of this tree from the eye level? [unclear]",00:06:12
+mhknzpq,59,student,"I don't really know, like, what to do to work it out.",00:06:31
+mhknzpq,60,tutor,"Okay, so in this triangle, you know the— okay, with reference to this angle, what is this side? How would you name it?",00:06:36
+mhknzpq,61,background,[unclear],00:06:44
+mhknzpq,62,tutor,"Opposite. Opposite, right? Okay. Do you know what is this side, this 20 meters?",00:06:46
+mhknzpq,63,student,Adjacent.,00:06:54
+mhknzpq,64,tutor,"Adjacent. So with opposite and adjacent, what ratio you can use? What trigonometry ratio is related to opposite and adjacent?",00:06:56
+mhknzpq,65,student,Tan.,00:07:05
+mhknzpq,66,tutor,Tan. So shall we write a tan ratio?,00:07:06
+mhknzpq,67,student,Yep.,00:07:11
+mhknzpq,68,tutor,"Okay, can you tell me the statement?",00:07:12
+mhknzpq,69,student,Tan bracket 63.,00:07:15
+mhknzpq,70,tutor,"Hmm, and then is it...? times 4/20. Okay.",00:07:17
+mhknzpq,71,tutor,63— first write the ratio. Tan 63 is equal to what? Is [unclear],00:07:24
+mhknzpq,72,student,it 20 divided by 1.6?,00:07:41
+mhknzpq,73,tutor,"Not really. So tan is opposite over adjacent, right? Do you know the [unclear] opposite here? Opposite height?",00:07:46
+mhknzpq,74,student,No.,00:07:55
+mhknzpq,75,tutor,No. So let's put it as O for now. What's the adjacent side length?,00:07:56
+mhknzpq,76,student,20.,00:08:01
+mhknzpq,77,tutor,20. So how can you find the opposite side?,00:08:02
+mhknzpq,78,student,Times.,00:08:06
+mhknzpq,79,tutor,"Yeah. So 20 10, 63 would give us the length of opposite side, right?",00:08:07
+mhknzpq,80,tutor,Yep.,00:08:21
+mhknzpq,81,student,So you said you don't have the calculator.,00:08:23
+mhknzpq,82,tutor,I've got it now.,00:08:24
+mhknzpq,83,student,"You got it now? Okay, can you find it?",00:08:26
+mhknzpq,84,tutor,"Um, 39.2.",00:08:28
+mhknzpq,85,student,"39.2. So always round it to 2, uh, significant [UNCLEAR], and also your answer They have asked you to round it to 3 centimeters. So can you [unclear] accordingly?",00:08:32
+mhknzpq,86,student,39 point— would it just be 3?,00:08:46
+mhknzpq,87,tutor,"It will be 3. Okay, so that is 39.3 meters. So what would be the total height of the tree?",00:08:52
+mhknzpq,88,student,1.6 add 39.3.,00:09:07
+mhknzpq,89,tutor,That's exactly right. And what's the answer? Hold on. [unclear],00:09:09
+mhknzpq,90,student,"40.9. 40.9 meters, and that's right. Okay, so whenever you get a question like this, visualize and always write the trigonometric ratio that is relevant. Okay?",00:09:16
+mhknzpq,91,student,Yep.,00:09:45
+mhknzpq,92,tutor,"Alright, Gideon, so we are done with that lesson. Let's move on to the new lesson for the day.",00:09:46
+mhknzpq,93,background,Alright.,00:09:51
+mhknzpq,94,student,Here we go. So working with probabilities in tables. Have you ever done this lesson before? [Speaker] I don't know.,00:09:54
+mhknzpq,95,tutor,Can you read through the statements and tell me who you agree with? Is it Hesham?,00:10:04
+mhknzpq,96,student,Why do you say so?,00:10:13
+mhknzpq,97,tutor,So they all add up to 1.,00:10:15
+mhknzpq,98,background,[unclear],00:10:16
+mhknzpq,99,tutor,"Oh, okay.",00:10:19
+mhknzpq,100,student,They're [UNCLEAR].,00:10:22
+mhknzpq,101,tutor,"Yeah, correct. That's right. I'm going to go over there and let's get started with the exam style question.",00:10:22
+mhknzpq,102,background,Oh.,00:10:34
+mhknzpq,103,student,Is it 3 over 9?,00:10:42
+mhknzpq,104,tutor,That's right. Do you mind writing your answer here?,00:10:47
+mhknzpq,105,student,Yeah. [unclear] [unclear],00:10:56
+mhknzpq,106,tutor,Cool. [unclear],00:11:17
+mhknzpq,107,tutor,"Oh, okay.",00:11:39
+mhknzpq,108,student,"Yeah, that makes sense.",00:11:42
+mhknzpq,109,tutor,"Okay, 4/9 and that's 7/9. That's right. Okay, very good work over there. And let's try another exam-style question. [unclear]",00:11:58
+mhknzpq,110,tutor,"So would it be like, what do you mean, like 15 over there? [unclear] [unclear]",00:12:15
+mhknzpq,111,tutor,Would it just be because there's a lot more heads?,00:12:40
+mhknzpq,112,student,That's right.,00:12:43
+mhknzpq,113,tutor,Okay.,00:12:45
+mhknzpq,114,background,Which is why it is strangely more. [unclear] How much it's supposed to be? What do you think?,00:12:45
+mhknzpq,115,tutor,Would it just be 100?,00:12:58
+mhknzpq,116,background,Sorry?,00:13:00
+mhknzpq,117,tutor,What do you mean?,00:13:02
+mhknzpq,118,student,"Okay, so how should the distribution be between heads and tails?",00:13:04
+mhknzpq,119,tutor,Pretty much even.,00:13:09
+mhknzpq,120,student,"Pretty much even, that's right. Absolutely right. So yes, you can tell from the results that the coin is biased because the probability should be pretty much even, like you said, or you can say that it should be half, right? Relatively, it should be half. [unclear]",00:13:10
+mhknzpq,121,tutor,Okay. So whose result will give the most accurate [unclear] for the probability that the coins will land on 1?,00:13:32
+mhknzpq,122,student,[UNCLEAR],00:13:32
+mhknzpq,123,tutor,Is it Mason? Why do you think so?,00:13:45
+mhknzpq,124,background,Because it's out of 100. And it's the most close to the other number.,00:13:55
+mhknzpq,125,tutor,"Mm-hmm, okay. [unclear] Here, when you are dealing with the most accurate estimation, you need to go ahead with a person who has done more trials.",00:14:01
+mhknzpq,126,student,Yeah.,00:14:19
+mhknzpq,127,tutor,Okay?,00:14:20
+mhknzpq,128,student,Yeah. By finding the probability that the coin will land on head. [unclear] Okay?,00:14:21
+mhknzpq,129,student,Yeah.,00:14:30
+mhknzpq,130,tutor,So how about the next question?,00:14:31
+mhknzpq,131,background,"Oh, okay. So pretty much what we just done, like the total of heads over the total of flips. Okay.",00:14:37
+mhknzpq,132,tutor,"I don't agree, but only for Mason. He's right.",00:14:55
+mhknzpq,133,student,"Only for Mason, he's right. Okay.",00:15:02
+mhknzpq,134,tutor,"That's right. So you can also compare individually, or you can add the total heads and the total tails and then compare as well.",00:15:05
+mhknzpq,135,student,Yeah.,00:15:14
+mhknzpq,136,tutor,"Okay, so actually it won't be just 4 times, it would be more than 4 times, especially when you see CCs and [UNCLEAR]. Yeah, yeah, so that was a wonderful observation from your end. Let's also look at a bit more about experimental probability, okay, of the event. And let's understand question 2 a little bit more. Okay, so if you see The more trials there are, the more accurate an experimental probability becomes. Okay, so that's why we went ahead with Amr's outcome of heads and tails. Okay?",00:15:14
+mhknzpq,137,student,Yep.,00:15:55
+mhknzpq,138,tutor,"All right, so is that part clear to you?",00:15:55
+mhknzpq,139,student,Yep.,00:15:58
+mhknzpq,140,tutor,"All right, okay, so let's move on to another exam style question. [unclear]",00:15:58
+mhknzpq,141,tutor,This one. [unclear] [unclear],00:16:06
+mhknzpq,142,student,"Oh, no, 200? Oh, okay. Yeah. [unclear]",00:16:32
+mhknzpq,143,student,"The second one, what does this dice mean to [UNCLEAR]?",00:17:07
+mhknzpq,144,tutor,or?,00:17:07
+mhknzpq,145,student,The next one.,00:17:07
+mhknzpq,146,student,"I'm kind of confused. [unclear] Okay, so what is the relationship between the probability of pink counter and silver counter?",00:17:26
+mhknzpq,147,tutor,Pink is double.,00:17:42
+mhknzpq,148,student,"Pink is double. So let's say that you are naming the probability as x. In terms of x, how can you define Pink and silver.",00:17:44
+mhknzpq,149,tutor,Pink equals x times 2.,00:17:54
+mhknzpq,150,student,x times 2.,00:17:59
+mhknzpq,151,tutor,"Okay, would you be considering silver as x then?",00:18:00
+mhknzpq,152,student,Yeah.,00:18:06
+mhknzpq,153,tutor,"Okay, yeah. So let's name it accordingly. So let's move on to the next page to understand this further. Okay, so you can— [unclear]",00:18:07
+mhknzpq,154,tutor,"Let's go through this one by one. Okay, so we can complete the probability table using the fact that probabilities always add up to 1, which you already know. Yeah, so find the probability of picking a white or a purple counter. [unclear]",00:18:22
+mhknzpq,155,student,"4. Yeah, 100.",00:18:39
+mhknzpq,156,tutor,"Exactly. It's not 4, it's 0.4.",00:18:42
+mhknzpq,157,student,Yeah.,00:18:46
+mhknzpq,158,tutor,Okay. So what is the probability of not picking a white or a purple counter?,00:18:46
+mhknzpq,159,student,0.6.,00:18:54
+mhknzpq,160,tutor,"0.6, there you go. So given the probability of picking silver counter is x, complete the table in terms of x. They're completed in terms of x? If x is silver, what is pink would be? [unclear]",00:18:55
+mhknzpq,161,background,2x.,00:19:12
+mhknzpq,162,tutor,"2x, that's right.",00:19:15
+mhknzpq,163,tutor,"Okay, so shall we write an equation to solve the value of x? So with the facts that you know, what is the statement that you can write? [unclear]",00:19:16
+mhknzpq,164,student,Would it be like 3x equals...? 60.,00:19:29
+mhknzpq,165,tutor,"That's right. 3x equals 0.6, not 60 again.",00:19:43
+mhknzpq,166,student,Yep.,00:19:48
+mhknzpq,167,tutor,So what's the value of x?,00:19:48
+mhknzpq,168,background,[unclear] 0.16.,00:19:52
+mhknzpq,169,background,0.2.,00:19:59
+mhknzpq,170,tutor,0.2. OK. Now let's complete the table.,00:20:01
+mhknzpq,171,background,So with actual values?,00:20:07
+mhknzpq,172,tutor,So pink would be 0.4.,00:20:09
+mhknzpq,173,tutor,Okay.,00:20:13
+mhknzpq,174,student,And so it would be 0.2.,00:20:14
+mhknzpq,175,tutor,"0.2, that's exactly it is. Okay. So think like this, and whenever you have a missing number, always replace it with x. Okay? And find the value. So now we know that pink value is 0.4 and silver is 0.2. Right? Let's go to the second question. Find the probability of selecting a counter that is not pink.",00:20:17
+mhknzpq,176,tutor,Would it be 0.6?,00:20:44
+mhknzpq,177,student,How did you get the answer?,00:20:48
+mhknzpq,178,background,0.6.,00:20:50
+mhknzpq,179,student,"Because pink's 0.4, and then if you take that away from the whole.",00:20:51
+mhknzpq,180,tutor,"Correct. And yes, that would be 0.6. Okay. All right. So just give it a bit of time, Gideon. Don't give up at once. Okay?",00:20:56
+mhknzpq,181,student,Yeah. Give a bit of thought and then try to do it. And here's another question. Try to do it on your own. [unclear],00:21:07
+mhknzpq,182,tutor,I'm not sure. [unclear],00:21:14
+mhknzpq,183,student,How do you know it's 0.64?,00:21:45
+mhknzpq,184,tutor,Half of the milk chocolate.,00:21:49
+mhknzpq,185,student,Okay. [unclear],00:21:50
+mhknzpq,186,student,"Okay, yes.",00:22:16
+mhknzpq,187,tutor,Good work.,00:22:18
+mhknzpq,188,student,Okay.,00:22:20
+mhknzpq,189,background,we found [UNCLEAR]. [unclear],00:22:20
+mhknzpq,190,tutor,Can you go on to the next slide?,00:22:28
+mhknzpq,191,student,"Yeah, pull the dice 3 again.",00:22:45
+mhknzpq,192,tutor,"Amazing work and well done in getting through this question independently. Gideon, next time you can use the text tool and use your keyboard to type. That would be much more easier.",00:22:50
+mhknzpq,193,student,Right.,00:23:02
+mhknzpq,194,tutor,Are you ready for a challenge?,00:23:04
+mhknzpq,195,student,Yep.,00:23:06
+mhknzpq,196,background,"Yeah, I'm not [UNCLEAR]. [unclear]",00:23:07
+mhknzpq,197,student,"Yeah, it's okay. I'm just getting a bit confused now, so.",00:23:36
+mhknzpq,198,tutor,"Would it be 2? [unclear] Well, 0.6, 0.3, 0.1 add up to 10, and if you double it, it would be 0.2 for lime.",00:23:47
+mhknzpq,199,student,"Okay. So it adds up to 1 actually. But yes, you can find 0.5 times 20, and that would be 2. Okay, that's how you get the quantitative value of the probability. Okay.",00:24:01
+mhknzpq,200,student,Yeah.,00:24:20
+mhknzpq,201,tutor,"Excellent work again, and I really like the fact that you give it a shot independently. So keep up the good work, and that was a good working out as well from [UNCLEAR]. Alright, so we are done with that lesson. Shall we move on to a new lesson?",00:24:20
+mhknzpq,202,student,Yep.,00:24:20
+mhknzpq,203,tutor,"Okay, here we go. So, forming and solving linear equations. How could we find the value of x here? You don't want to work out, but tell me your idea.",00:24:38
+mhknzpq,204,student,"Add everything together, and then it would be like [unclear] 8x 2. And then 8 divided by 2. Okay,",00:24:57
+mhknzpq,205,tutor,"it's like this. If you add everything together, what would that give you? 8x.",00:25:14
+mhknzpq,206,student,Not,00:25:21
+mhknzpq,207,tutor,"really. If you add everything together, to what value you will equate that? Do you have a fact that you can equate that?",00:25:22
+mhknzpq,208,student,I don't know.,00:25:31
+mhknzpq,209,tutor,"Okay, so if you add all the sides of a rectangle, what does that mean? What you're trying to figure out?",00:25:34
+mhknzpq,210,student,"Um, I don't know.",00:25:43
+mhknzpq,211,tutor,"Okay, it's the length around the rectangle, which is called perimeter. Here, do you know the perimeter, value of perimeter, to solve the problem? Is it just like base times height?",00:25:46
+mhknzpq,212,tutor,"Not really. Let's think through this way, okay? So if you can answer my question, you will be able to understand it. Okay, Gideon?",00:26:02
+mhknzpq,213,student,Yep.,00:26:10
+mhknzpq,214,tutor,"So tell me first, if you add all the sides of the rectangle, that would be the perimeter of the rectangle. Do you know the perimeter or the length around the rectangle? Is that given to you already?",00:26:10
+mhknzpq,215,student,No.,00:26:24
+mhknzpq,216,tutor,"No. So we can't use that to solve the problem, right?",00:26:25
+mhknzpq,217,student,Yeah.,00:26:29
+mhknzpq,218,tutor,"But there are some properties of rectangles we can make use to solve this problem. Like for example, here when you take a rectangle, the opposite sides are equal to each other, right? So here the width is defined as x, but if you take the length, one is defined as 4x 3 and other is 2x 5. But both of these values should be equal to each other because opposite sides of a rectangle are equal, right? Yeah.",00:26:30
+mhknzpq,219,student,[unclear],00:27:03
+mhknzpq,220,tutor,"So when you equate that and if you solve for x, you will be able to find the value of x. Okay? Yeah.",00:27:04
+mhknzpq,221,background,[unclear],00:27:11
+mhknzpq,222,tutor,"So this is how you can answer such problems. So I want you to think every aspect of a question and solve it. Okay? So first of all, let's practice by solving some algebraic equations. Can you solve this? [unclear]",00:27:12
+mhknzpq,223,tutor,Yeah.,00:27:30
+mhknzpq,224,student,Okay. [unclear],00:27:32
+mhknzpq,225,student,"Okay, so here's another question. Is there a [unclear] that's not supposed to be 3, 5, 6, 7, 8? [unclear]",00:28:03
+mhknzpq,226,tutor,I am going to stop you there. Okay? Let's have a look at this.,00:28:14
+mhknzpq,227,student,Yep.,00:28:29
+mhknzpq,228,tutor,"Alright. So here, you will need to come across equations involving brackets. So the best way to solve them is expanding the brackets first, and then you need to multiply each term inside the bracket by the terms inside— terms on the outside, which you have done it. Okay, expanding brackets is something that you are confident with. I can see that. So let me write the— write that for you.",00:28:30
+mhknzpq,229,student,Okay.,00:28:59
+mhknzpq,230,tutor,"Yeah, that is 3x 6 is equivalent to x 8. But do remember, when you are working out the next step, okay? Yeah.",00:29:00
+mhknzpq,231,student,You,00:29:16
+mhknzpq,232,tutor,"need to collect the like terms to one side. So remember, to the left-hand side, let's collect all the x terms. Okay, so 3x is already there in the left-hand side, but x is there in the right-hand side. When you switch sides, you have to switch the signs as well.",00:29:16
+mhknzpq,233,tutor,So it would be 2x.,00:29:37
+mhknzpq,234,student,"Exactly, that would be 2x.",00:29:39
+mhknzpq,235,tutor,Equals 14.,00:29:41
+mhknzpq,236,student,"Not 14. Again, on the right-hand side you have 8. From the left-hand side, you're bringing 6 to the right-hand side, so the sign would change again.",00:29:42
+mhknzpq,237,tutor,So that is [UNCLEAR].,00:29:53
+mhknzpq,238,student,Exactly. Okay. So that is 2x is equal to 2. So what would be the value of x?,00:29:53
+mhknzpq,239,student,1.,00:30:04
+mhknzpq,240,tutor,1. So do you understand the mistake that you made?,00:30:06
+mhknzpq,241,student,Yeah.,00:30:09
+mhknzpq,242,tutor,"Okay, so when you switch sides, switch their signs as well. [unclear] Can you work out this problem? [unclear]",00:30:10
+mhknzpq,243,tutor,Yeah. [unclear],00:30:22
+mhknzpq,244,student,How did you get 9x?,00:31:07
+mhknzpq,245,tutor,"I'm not sure. Wait, actually it would be 3x.",00:31:12
+mhknzpq,246,tutor,And why?,00:31:17
+mhknzpq,247,student,To get to take it away. [unclear],00:31:19
+mhknzpq,248,tutor,Is it 9?,00:31:26
+mhknzpq,249,student,How did you get 9?,00:31:43
+mhknzpq,250,tutor,18 take away 9.,00:31:45
+mhknzpq,251,student,18 take away 9. What happened to this 18?,00:31:49
+mhknzpq,252,tutor,"Oh, so should I— do I add them or take away?",00:31:53
+mhknzpq,253,background,"So there, first of all, collect the like terms together, okay? Shall we simplify the equation that is on the left-hand side and then consider changes in the x terms left-hand side, right-hand side later?",00:31:59
+mhknzpq,254,student,Yeah.,00:32:14
+mhknzpq,255,tutor,Okay.,00:32:15
+mhknzpq,256,student,"So 6x, add.",00:32:16
+mhknzpq,257,tutor,"No, you can add these two. You can solve 6x and 3x.",00:32:21
+mhknzpq,258,student,Yeah.,00:32:27
+mhknzpq,259,tutor,"Because they are x terms, right?",00:32:28
+mhknzpq,260,student,Yeah.,00:32:30
+mhknzpq,261,tutor,"Okay, you can do that first. And focus on the numbers now. 18 9. So [unclear] on the same side, you have to add 18 and 9. That is 27. That is equivalent to 18. 18.",00:32:31
+mhknzpq,262,student,Okay.,00:32:50
+mhknzpq,263,tutor,Now you can solve it. Yeah.,00:32:52
+mhknzpq,264,background,"Right,",00:32:55
+mhknzpq,265,student,so 3x. And,00:32:56
+mhknzpq,266,tutor,do a takeaway.,00:33:02
+mhknzpq,267,student,Yes. So this is 18 take away 27. So minus 9. Correct. [unclear],00:33:08
+mhknzpq,268,tutor,So what's the value of x?,00:33:17
+mhknzpq,269,student,Minus 3.,00:33:23
+mhknzpq,270,tutor,Correct. And that's how you solve the problem. Okay?,00:33:25
+mhknzpq,271,student,"Yeah. Solve it step by step, then it would be easier for you. Okay, so here are another 2 set of questions. Can you work out slowly and independently? Yeah. [unclear]",00:33:27
+mhknzpq,272,student,6. Equals 4. [unclear],00:33:46
+mhknzpq,273,student,Yeah.,00:34:15
+mhknzpq,274,tutor,5.6.,00:34:17
+mhknzpq,275,background,Yeah.,00:34:19
+mhknzpq,276,tutor,Yes. [unclear],00:34:19
+mhknzpq,277,student,How do you get minus 15?,00:34:38
+mhknzpq,278,tutor,"Minus 12, take away 3.",00:34:41
+mhknzpq,279,student,"Okay. Then you— okay, minus 12 is on there. Left-hand side. When you bring it to the right-hand side, what would that be?",00:34:44
+mhknzpq,280,tutor,Add.,00:34:53
+mhknzpq,281,student,Add.,00:34:54
+mhknzpq,282,tutor,So positive 15.,00:34:55
+mhknzpq,283,student,"Yeah, so keep that in mind, okay?",00:34:57
+mhknzpq,284,tutor,Yeah.,00:35:00
+mhknzpq,285,student,"If in doubt, you can actually write 3 12 and then later solve it for x. That's also fine, okay? Try the next part. [unclear]",00:35:01
+mhknzpq,286,tutor,"Okay, again check the sign. How did you get 11x?",00:35:37
+mhknzpq,287,student,How do you get 20?,00:35:42
+mhknzpq,288,tutor,"Oh wait, 19 I meant.",00:35:45
+mhknzpq,289,student,How do you get 19?,00:35:47
+mhknzpq,290,tutor,4 add 15.,00:35:49
+mhknzpq,291,student,Why add 15?,00:35:50
+mhknzpq,292,tutor,Do I take it away?,00:35:52
+mhknzpq,293,student,You tell me. Do you need to add or take away?,00:35:54
+mhknzpq,294,tutor,Take away.,00:35:58
+mhknzpq,295,student,Why?,00:35:59
+mhknzpq,296,tutor,Because on the left side.,00:36:00
+mhknzpq,297,student,"You're switching sides, yeah? Remember that.",00:36:04
+mhknzpq,298,tutor,What will be the answer?,00:36:07
+mhknzpq,299,student,11.,00:36:12
+mhknzpq,300,tutor,It's not just 11.,00:36:12
+mhknzpq,301,student,X.,00:36:16
+mhknzpq,302,tutor,"Okay, so I would say it would be a best practice if you can rewrite, rearrange and rewrite. Okay, so you have 4x. When you bring 15x to this side, that would become -15x, right? Let's try the other side.",00:36:16
+mhknzpq,303,tutor,"What are you going to do? So you have -50 already, and what would happen to +16? Take away.",00:36:33
+mhknzpq,304,student,Take away 16. Now can you solve it? [unclear] [unclear],00:36:45
+mhknzpq,305,student,Can you type this in?,00:37:08
+mhknzpq,306,tutor,Yeah.,00:37:15
+mhknzpq,307,student,And then x is -6.,00:37:18
+mhknzpq,308,tutor,Are you sure it's -6?,00:37:25
+mhknzpq,309,background,"No, 6.",00:37:27
+mhknzpq,310,tutor,How do you know? Why do you change your answer?,00:37:29
+mhknzpq,311,background,"Because it's too negative, so it should be positive.",00:37:33
+mhknzpq,312,tutor,"Negative divided by negative is positive. Okay, so don't forget these algebraic solving your problems, especially with negative and positive numbers. Okay, and if you want Feel free to write the intermediate steps as well so that you are not confused.",00:37:36
+mhknzpq,313,tutor,Okay.,00:37:55
+mhknzpq,314,student,Okay.,00:37:56
+mhknzpq,315,tutor,Yeah.,00:37:57
+mhknzpq,316,student,Right.,00:37:58
+mhknzpq,317,tutor,Here's another problem. Think and solve. [unclear] [unclear],00:37:59
+mhknzpq,318,student,"So for this one, would I do like sin cos tan?",00:38:17
+mhknzpq,319,tutor,"Not really. You don't necessarily have to use that. Think of other facts, if there are anything that is related to angles that are given here.",00:38:34
+mhknzpq,320,tutor,Especially with— regarding a triangle.,00:38:44
+mhknzpq,321,student,90-degree angle.,00:38:50
+mhknzpq,322,tutor,"90-degree angle is given. Okay. Other two angles are also given, but in terms of x.",00:38:53
+mhknzpq,323,student,Yeah.,00:38:59
+mhknzpq,324,tutor,Is there any fact that you know about three angles inside a circle— inside a triangle?,00:39:00
+mhknzpq,325,student,[unclear],00:39:05
+mhknzpq,326,tutor,"Yeah, you can use that fact.",00:39:07
+mhknzpq,327,tutor,"Right, so— [unclear]",00:39:09
+mhknzpq,328,student,You can use the next one.,00:39:12
+mhknzpq,329,tutor,"Yeah. So 6x 18. Oh, wait. 18?",00:39:19
+mhknzpq,330,background,"Oh,",00:39:32
+mhknzpq,331,tutor,yeah. Equals—,00:39:32
+mhknzpq,332,tutor,"Okay, there should be another angle as well. All 3 angles should be added. [unclear]",00:39:39
+mhknzpq,333,student,But couldn't I just do like 6x 18 equals—,00:39:49
+mhknzpq,334,tutor,[unclear],00:40:06
+mhknzpq,335,student,Oh yeah.,00:40:06
+mhknzpq,336,tutor,Is it done?,00:40:18
+mhknzpq,337,tutor,Huh? Is that all your workings?,00:40:33
+mhknzpq,338,student,I'm just trying to think.,00:40:35
+mhknzpq,339,tutor,Okay. You need to find x.,00:40:39
+mhknzpq,340,student,So would I take away 18 out of 19?,00:40:41
+mhknzpq,341,tutor,Yes.,00:40:46
+mhknzpq,342,student,90. Right. So 6x 72. Mm-hmm.,00:40:46
+mhknzpq,343,tutor,[unclear],00:41:07
+mhknzpq,344,tutor,"Yeah, that's right. Okay, so Gideon, tell me in this lesson today, what did you learn?",00:41:07
+mhknzpq,345,student,"Well, I learned about all the like [unclear] and about angles. And I can't remember what else we did.",00:41:16
+mhknzpq,346,student,"Also, we discussed about probability, right?",00:41:36
+mhknzpq,347,tutor,"Oh, yeah.",00:41:42
+mhknzpq,348,student,"Yeah. So, let's continue with this lesson next week, and there are more problems. Related to solving the value in different contexts. Okay. So I'll meet you next week with the same lesson.",00:41:43
+mhknzpq,349,tutor,Alright.,00:41:58
+mhknzpq,350,student,"Keep practicing. Okay. Bye, Gideon.",00:41:58
+mhknzpq,351,tutor,Okay. Bye.,00:42:00

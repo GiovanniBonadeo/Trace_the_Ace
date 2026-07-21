@@ -1,0 +1,394 @@
+session_id,utterance_id,role,content,timestamp
+meaztcd,0,tutor,"Hi Barnaby, can you hear me?",00:00:00
+meaztcd,1,student,"Hi, are you alright? [unclear]",00:00:01
+meaztcd,2,tutor,"Alright, okay, that's great. So Barnaby, how was your last weekend?",00:00:05
+meaztcd,3,student,"Good, thank you, how are you?",00:00:10
+meaztcd,4,tutor,I'm doing good as well. Did you enjoy your weekend?,00:00:12
+meaztcd,5,student,[unclear] Thank you.,00:00:16
+meaztcd,6,tutor,"Okay, right. So hope you're doing all good.",00:00:18
+meaztcd,7,student,Yeah.,00:00:22
+meaztcd,8,tutor,"Right, so let's get started with the lesson then, right? So we were working on finding square numbers last week.",00:00:24
+meaztcd,9,student,Yeah.,00:00:33
+meaztcd,10,tutor,"And we're gonna start from where we left. Okay, right.",00:00:34
+meaztcd,11,student,Yeah.,00:00:37
+meaztcd,12,tutor,"Let's quickly jump into this. Okay, but before we start, do you remember what's a square number, Barnaby?",00:00:37
+meaztcd,13,student,"I remember what to do, I just don't remember what's like— I just don't remember the [UNCLEAR].",00:00:47
+meaztcd,14,tutor,"Okay, that's alright. We'll give it a try, okay? We'll see. Can you work on the if and see how you can get the answer? Yeah.",00:00:47
+meaztcd,15,student,What is the value of 7 squared? Is it 42?,00:01:01
+meaztcd,16,background,"42, okay. Can you tell me how did you get to this answer? Anyway, that's an amazing effort from you. Great. So how did you get to the answer?",00:01:09
+meaztcd,17,student,"I times 7 by [UNCLEAR]. Oh no, I did 7 times 7.",00:01:20
+meaztcd,18,tutor,"Hmm, wonderful. I'm really glad that you remember what you need to do to get the answer, but I feel like your final answer is all like not there, but you're almost there. Can you double-check once again what is 7 times 7?",00:01:20
+meaztcd,19,student,"Oh, okay. [unclear]",00:01:37
+meaztcd,20,tutor,"Yeah, shall we just start with what is 7 times 5 and then you can go slowly?",00:01:42
+meaztcd,21,student,"Yeah, that's what I'm doing. That's 35. [unclear] Is it 48?",00:01:50
+meaztcd,22,tutor,"Oh, you're very close now.",00:02:03
+meaztcd,23,student,Am I? [unclear],00:02:06
+meaztcd,24,tutor,"Yeah, you're very close now.",00:02:06
+meaztcd,25,student,Is it 49?,00:02:12
+meaztcd,26,tutor,"49, there you go, yes. Beautiful work from you because I'm really glad that you remember what is a square number and how to find that. So shall we change the answer?",00:02:15
+meaztcd,27,student,"I'll have— Oh, you have? Okay, I'm sorry. I'm really sorry, I don't see that. That's fine, that's great work. So let's move to Part B then.",00:02:27
+meaztcd,28,student,Okay. [UNCLEAR]...is multiplied by itself gives 100. What does that mean?,00:02:46
+meaztcd,29,tutor,"Okay, it's asking what number multiplied by itself gives you 100.",00:02:46
+meaztcd,30,student,Is it 10?,00:02:59
+meaztcd,31,tutor,Mm-hmm. How come?,00:03:00
+meaztcd,32,student,Because 10 times 10 equals 100.,00:03:04
+meaztcd,33,tutor,There you go. Yes. So what do you think? Is 100 a square number?,00:03:07
+meaztcd,34,student,"Uh, yes.",00:03:11
+meaztcd,35,tutor,"Yes. Well done. Okay, so we'll work on part C now.",00:03:14
+meaztcd,36,student,Is 821 a square number?,00:03:19
+meaztcd,37,student,"Well, I'm going to work out— so 6 times 6 is 36. And 9 times 9— [unclear] It's 9 times 9, 81. It's not, is it? It's 9—",00:03:29
+meaztcd,38,tutor,Yes.,00:03:42
+meaztcd,39,student,9 times 9 is 81.,00:03:43
+meaztcd,40,tutor,Yes.,00:03:46
+meaztcd,41,student,"So it is a square number, yes.",00:03:47
+meaztcd,42,tutor,"Yes, but how can you explain your thinking?",00:03:50
+meaztcd,43,student,Okay.,00:03:54
+meaztcd,44,tutor,"Using the fact about, if you want, you can use that, or you can just say, okay, because [UNCLEAR]. [unclear]",00:03:55
+meaztcd,45,tutor,"Okay. Okay, multiplied.",00:04:20
+meaztcd,46,student,I don't know how to spell it.,00:04:23
+meaztcd,47,tutor,That's alright. So do you want my help? Let me just—,00:04:25
+meaztcd,48,student,"Yes, please.",00:04:28
+meaztcd,49,tutor,"Let me write it on top. Multiplied, okay? It's easy, right? Now, Just coming back to this factor pair, do you think you can find out what is the other factor? Now 1 times 81 makes 81. What is the other factor that you can—",00:04:30
+meaztcd,50,student,9.,00:04:52
+meaztcd,51,tutor,9. So can you tell me how many factors it has?,00:04:53
+meaztcd,52,student,Is it 4? [unclear],00:04:59
+meaztcd,53,tutor,"Okay, 3. Oh, what are the 3 factors, Barnaby?",00:05:01
+meaztcd,54,student,"Um, 1, 8, 2, 1, 9.",00:05:07
+meaztcd,55,tutor,"9, amazing. So do you remember by any chance what's an even and odd number now?",00:05:10
+meaztcd,56,student,Yeah.,00:05:17
+meaztcd,57,tutor,"Okay, what is an even number?",00:05:18
+meaztcd,58,student,"So an even number is a number, um, it's a number that you can multiply to make another— like, if it was like— basically, it's like, and you say you take the same number and multiply to make another number. And then an [unclear] number is like— it's not like you can't times anything to— it's like 6 times 4 or 2 times 8, but like 10 times 10, you can actually multiply to get 100.",00:05:21
+meaztcd,59,tutor,"Mm-hmm, okay. Right, so actually even number and odd number means, let's say 1, 2, 3, 4, 5, 6, 7, 8, 9, and let's say 10.",00:06:07
+meaztcd,60,tutor,"Something like this, right? And so any number that's divisible by 2 without a remainder is called even number. So what are the numbers? What could be those numbers? If you divide by 2, you shouldn't get any remainder.",00:06:24
+meaztcd,61,student,Is it 1? No. 2?,00:06:40
+meaztcd,62,tutor,2.,00:06:43
+meaztcd,63,student,4?,00:06:44
+meaztcd,64,tutor,4.,00:06:45
+meaztcd,65,student,6?,00:06:46
+meaztcd,66,tutor,6.,00:06:47
+meaztcd,67,student,8? 8 and 10.,00:06:49
+meaztcd,68,tutor,"10, right? These numbers are called even numbers because it's evenly divided, right? Without a remainder. But all the other numbers, when you divide by 2, you will have a remainder. So that's [unclear] odd.",00:06:52
+meaztcd,69,student,Is this line here meant to be onto the 10?,00:07:08
+meaztcd,70,tutor,"Oh yeah, just give me a second. Let me quickly double-check that. Oh yeah, you see it in a different way, isn't it? Let me quickly erase it.",00:07:13
+meaztcd,71,student,I don't know what's doing it.,00:07:21
+meaztcd,72,tutor,"Okay, I think that's the alignment issue. I'm really sorry about that. Thank you for letting me know. Let me quickly rewrite it so that it's clear for you, okay?",00:07:25
+meaztcd,73,student,Yeah.,00:07:34
+meaztcd,74,tutor,Right. Now let me show you. Let me underline now using a different color. So we'll see. Do you see exactly [unclear] correctly?,00:07:35
+meaztcd,75,student,Yeah.,00:07:47
+meaztcd,76,tutor,"Okay, okay.",00:07:47
+meaztcd,77,student,Yeah.,00:07:48
+meaztcd,78,tutor,"Okay, so these are called even numbers. Okay?",00:07:50
+meaztcd,79,student,Yeah.,00:07:53
+meaztcd,80,tutor,"So the numbers when you divide by 2 and you will get a remainder, right? So those are called odd numbers. So they're a little odd, right? So they're not giving you the exact answer, but you do get a remainder. So these are called odd numbers and 2, 4, 6, 8, 10, 8, So any number that ends with 2, 4, 6, 8, 0 are even numbers.",00:07:55
+meaztcd,81,student,Yeah.,00:08:15
+meaztcd,82,tutor,"And the other numbers are odd numbers. Now can you tell me, do we have more factors for 81? More than 3 factors? [unclear]",00:08:16
+meaztcd,83,student,"No, there isn't more than 3 factors.",00:08:28
+meaztcd,84,tutor,More? You say no? Okay.,00:08:31
+meaztcd,85,student,It is the equal amount of 3 factors.,00:08:34
+meaztcd,86,tutor,How about dividing this number by 3?,00:08:39
+meaztcd,87,student,8— 3— [unclear],00:08:45
+meaztcd,88,tutor,81 divided by 3.,00:08:47
+meaztcd,89,student,"Okay, so it will be 81 divided by 3. We should do that between— How many 8s go into 21?",00:08:49
+meaztcd,90,tutor,21.,00:09:07
+meaztcd,91,student,"Yeah, I'm doing this thing.",00:09:09
+meaztcd,92,tutor,7.,00:09:11
+meaztcd,93,student,"Okay, so it will be 27. [unclear]",00:09:12
+meaztcd,94,tutor,"Okay, do you have any confusions?",00:09:15
+meaztcd,95,student,"No, I did it in [unclear] in my head.",00:09:23
+meaztcd,96,tutor,"Okay, so there is another factor, isn't it? You can put that also. It's like 3 and 27. So we have more, right? So anyway, if you count the numbers, number of factors for 81 will be odd.",00:09:25
+meaztcd,97,student,Yeah.,00:09:41
+meaztcd,98,tutor,"Because it's 5, just for here, because you have 9 times 9. We don't take it twice. So that's an odd number. If the number of factors that you have in a factor, a particular factor, that is",00:09:41
+meaztcd,99,tutor,A square number. Okay.,00:09:56
+meaztcd,100,student,Yeah.,00:09:58
+meaztcd,101,tutor,"Right, I think you did very well on this slide. So good job there. Okay, so great working out. Let's quickly move on to— that's a big smiley. Right, let's move on to our Go For The question.",00:09:58
+meaztcd,102,student,"Okay. Can you find 2 square numbers that total to 45? So, [unclear]",00:10:12
+meaztcd,103,student,So let me just think. 7 times 7. [unclear] Is it 7 times 7?,00:10:23
+meaztcd,104,tutor,"7 times 7. Okay. Now, what do you understand from the question?",00:10:38
+meaztcd,105,student,So—,00:10:52
+meaztcd,106,tutor,What does it say? Can you try to underline the keywords here?,00:10:53
+meaztcd,107,student,Okay. [unclear],00:10:57
+meaztcd,108,tutor,"Okay, total. So what does total mean?",00:11:10
+meaztcd,109,student,[unclear],00:11:13
+meaztcd,110,tutor,It also means like it's all together.,00:11:13
+meaztcd,111,student,"Okay, then can you think of an operation that you need to use to find the total? What could it be?",00:11:18
+meaztcd,112,student,"Okay, so, so is it like adding or—",00:11:26
+meaztcd,113,tutor,"Adding, amazing, yes. So what do you think you have to add, or how many numbers you have to add here? 16 plus 16 equals 45, I think.",00:11:32
+meaztcd,114,tutor,"Hmm, okay, can you double-check that?",00:11:44
+meaztcd,115,student,"Okay, uh, yeah, maybe I'll, um, I might add 16 to 16 and see what it gets, and then probably know what it is, and then yeah. [unclear]",00:11:47
+meaztcd,116,student,So is it higher than 16? So it'll be 18 plus 18.,00:12:13
+meaztcd,117,tutor,"No, do you think 18 is a square number? Now do you see there are more than one keyword here? Can you spot them? Total? And square numbers.",00:12:22
+meaztcd,118,tutor,Yes. How many square numbers?,00:12:37
+meaztcd,119,student,Two.,00:12:40
+meaztcd,120,tutor,Two. You have to find two square numbers. So can you list down the square numbers first?,00:12:42
+meaztcd,121,student,"Okay. Is that 2, 4, 6? [unclear]",00:12:46
+meaztcd,122,tutor,"Is 2, 4, 6 square number? Do you remember what are square numbers?",00:12:51
+meaztcd,123,student,Is it like one,00:12:55
+meaztcd,124,student,3.,00:12:57
+meaztcd,125,tutor,"No, those are odd numbers and 2, 4, 6 are even numbers. The lesson is square numbers. Do you remember how you found out square number of 7 squared?",00:12:59
+meaztcd,126,student,"Oh, is it like 1 times 1, 2 times—",00:13:10
+meaztcd,127,tutor,There you go. Yes. [unclear],00:13:13
+meaztcd,128,student,"Right, just— I'll just do it. Can I? I'll just do it here. Yeah, so you know the total is 45, so you don't have to go beyond that. So just give it a try. Okay. Yeah, so one— do you know what times is on my thingy? Your time. Oh wait, one time. I'm just using X, so I don't know what it is. Oh, okay, okay, okay. Time thing. But yes, you can use that.",00:13:15
+meaztcd,129,student,"Something is going on. Okay, 1 times 1 equals [UNCLEAR].",00:13:52
+meaztcd,130,tutor,That's okay. You can just write only the answers. You don't have to write 1 times 1.,00:13:52
+meaztcd,131,tutor,"Oh, okay.",00:14:16
+meaztcd,132,student,Let's just only write the answer.,00:14:18
+meaztcd,133,tutor,Okay.,00:14:22
+meaztcd,134,student,I'll write it underneath it. 1 times 1 is 1. 2 times 2 is 4. 3 times 3 is 9. 4 times 4 is 16.,00:14:24
+meaztcd,135,student,5 times 5 is 25. 6 times 6 is 36. 7 times 7 is 49?,00:14:45
+meaztcd,136,tutor,Mm-hmm. Right. So do you think we need to know more than that?,00:15:01
+meaztcd,137,student,"No. No, right? Excellent. Now, um, shall we try adding two numbers to see which two numbers to see we get the total of 45? Shall we?",00:15:07
+meaztcd,138,student,"Oh, with these numbers here, like these one.",00:15:19
+meaztcd,139,tutor,"Yeah, so what are the two numbers? Now you have to find that.",00:15:22
+meaztcd,140,student,"Okay, I'll add some numbers of that. So 6, 25,",00:15:25
+meaztcd,141,student,Plus 16. [unclear] Equals 41.,00:15:34
+meaztcd,142,tutor,"Okay, shall we try",00:15:58
+meaztcd,143,tutor,Another 2 pairs then?,00:16:00
+meaztcd,144,student,Yeah. So let's put 36 plus 9. [unclear],00:16:02
+meaztcd,145,tutor,Okay. [unclear],00:16:25
+meaztcd,146,student,So that's not working.,00:16:37
+meaztcd,147,tutor,Do you want me to write 9?,00:16:40
+meaztcd,148,student,"Yes, please.",00:16:42
+meaztcd,149,tutor,"Okay, I'll let me write the 9.",00:16:44
+meaztcd,150,tutor,All good?,00:16:52
+meaztcd,151,student,Yeah. [unclear],00:16:52
+meaztcd,152,tutor,"Wait, no, I don't know.",00:16:55
+meaztcd,153,student,Yeah.,00:16:59
+meaztcd,154,tutor,That equals 34.,00:17:05
+meaztcd,155,student,"Are you sure about that? Because you're adding 36 plus 9, isn't it?",00:17:08
+meaztcd,156,tutor,"Oh yeah, that's it.",00:17:13
+meaztcd,157,tutor,Can you double check that?,00:17:18
+meaztcd,158,student,"Yeah, that equals 45.",00:17:19
+meaztcd,159,tutor,"That equals 45. Okay, that's great. Now what are the two numbers? Yes. Okay, wonderful work. Right now, let's try to quickly recall, okay? Now let's say if you are to get another question somewhat very similar to this,",00:17:21
+meaztcd,160,tutor,So can you tell me how you would work out then?,00:17:44
+meaztcd,161,student,"So what I would do, I would find it— I would find all the square numbers. [unclear] And then I would probably write them down like this. And then I would try and find what makes 45. And then I found that 36",00:17:47
+meaztcd,162,student,plus 9 equals 45.,00:17:47
+meaztcd,163,tutor,"Yes, so when you are always finding out a number, make sure that you list them down, right, the square numbers. So then that's easy. But wonderful, yes, that's an amazing smiley and excellent focus. Great job. Okay, so since we have completed the lesson, right, let's try to reflect on this entire lesson and move to a new lesson. Okay, can you tell me, Barnaby, what did you learn from this lesson? Today?",00:17:47
+meaztcd,164,student,"I learnt how to find square numbers and like how to like divide 8 and 2, like example this one, and at the start I thought it meant 8 times 2, but then I realised it meant 8 times 8.",00:18:39
+meaztcd,165,tutor,"So yes,",00:19:01
+meaztcd,166,student,Yeah.,00:19:04
+meaztcd,167,tutor,"Okay, that's amazing. And I'm so proud how you explained it to me, what you weren't able to do at the beginning and now you have learned it, right? So that's a new learning from you. Good job. Right, so let's move to the next lesson, okay? Just give me a second so that I'll take you to the next lesson. [unclear] Right, so this is what we're going to learn as our second lesson for today, right? So using mental strategies to multiply. Okay, I saw that you were really good at mental addition, mental multiplication, and mental division. Remember you did a [unclear] method in your mind?",00:19:05
+meaztcd,168,student,Yeah.,00:19:46
+meaztcd,169,tutor,"Yeah, so we'll learn more strategies to multiply, okay?",00:19:46
+meaztcd,170,student,Yeah.,00:19:51
+meaztcd,171,tutor,"Right, so first let's give it a try on the learning goal question. Now I want you to think of a mental method to do this, okay? So just think of a mental method and tell me what would be your answer for this.",00:19:52
+meaztcd,172,student,"So what I would do is put— I would do 8 times 8, and I think that's 64. So I'll put in my head, I'm doing like— I'll put a 4 there and put like a 6 there, and I'll put 1 times nothing. That'll be— that'll be 1. Then it'll be— so would it be 64?",00:20:04
+meaztcd,173,student,"Wait, no. I got confused. Can I draw it out or not?",00:20:32
+meaztcd,174,tutor,"Yeah. Okay, so you're finding it a little difficult to do it mentally, isn't it? That's fine. That's completely fine. Shall we work on the prior learning?",00:20:40
+meaztcd,175,student,Okay.,00:20:49
+meaztcd,176,tutor,And we'll see if you're getting an idea. Let's try this one.,00:20:50
+meaztcd,177,student,Okay.,00:20:54
+meaztcd,178,student,"So, using [unclear] to help you, can you complete the calculation? 15 times 3. So 30 times— 3 times 10 equals 30.",00:20:58
+meaztcd,179,tutor,Mm-hmm.,00:21:08
+meaztcd,180,student,And then 5 times 3 equals 15. And then—,00:21:10
+meaztcd,181,tutor,That's right.,00:21:17
+meaztcd,182,student,So 15 times 3 Is it 35?,00:21:20
+meaztcd,183,tutor,"Almost there. So you have to— okay, how did you get 35?",00:21:31
+meaztcd,184,student,"So, oh, is it 45?",00:21:38
+meaztcd,185,tutor,"45, yes. So how did you get to 45?",00:21:41
+meaztcd,186,student,I just added— [unclear],00:21:45
+meaztcd,187,student,I added these two together.,00:21:48
+meaztcd,188,tutor,"Well done. Yes, that's how you do. Now, did you see this? What they have done here, they have made it a little easier, right?",00:21:51
+meaztcd,189,student,Yep.,00:21:59
+meaztcd,190,tutor,"Now, 15 times 3, instead of you doing in your mind 3 times 5 is this, and then 3 times 1 is this, and all of that, do you see that they have used somewhat a very similar, like an easier way to break it down? Yeah, so that's how we are going to work on these questions as well. Okay, so don't worry, let's learn step by step. Okay, let's begin from here. So it says there are different methods that we can use to solve multiplication mentally, right? Different methods. So we are going to see two ways. Can you see the question? What is the question here?",00:22:00
+meaztcd,191,student,45 times 12.,00:22:34
+meaztcd,192,tutor,Very good. So that's the question. We have two ways to work it,00:22:37
+meaztcd,193,background,"partitioning and factors. Now I'm going to give you a task. I'm going to ask you to go go through this partitioning method, and I want you to figure it out how they are working it out, and you have to explain it to me how to get the answer easily, but it has to be a mental method, okay? Just give it a try, and then you can take me through how they're working it out.",00:22:40
+meaztcd,194,student,So what they're doing is [unclear] 45 times— so what— so sorry.,00:23:05
+meaztcd,195,tutor,"That's okay, you can take your time.",00:23:14
+meaztcd,196,student,"45 times 12, say, um, like, I can't remember which one I want. So doing 45 times 10, would that be 450?",00:23:17
+meaztcd,197,tutor,"Mm-hmm, okay, yeah, you can write it down.",00:23:29
+meaztcd,198,student,"And then 42 times 2,",00:23:36
+meaztcd,199,student,It'll be 90. So 450 plus 90 equals 520.,00:23:38
+meaztcd,200,tutor,"Okay, I think you're almost there. Can you double-check again? [unclear]",00:24:11
+meaztcd,201,student,Is it 430?,00:24:17
+meaztcd,202,tutor,Not really.,00:24:21
+meaztcd,203,student,"439. Oh, it's 440.",00:24:26
+meaztcd,204,tutor,440?,00:24:30
+meaztcd,205,student,540.,00:24:34
+meaztcd,206,tutor,"540, yes. Okay, now I see that you have got the answer. Now can you take me through what is partitioning and how have they used this method to do mental multiplication?",00:24:35
+meaztcd,207,student,Okay. [unclear] I don't really get,00:24:49
+meaztcd,208,student,[unclear] What partitioning means.,00:24:57
+meaztcd,209,tutor,"Oh, okay, you didn't understand. That's fine. Can you tell me what have they done here? Do you understand anything from this part?",00:25:00
+meaztcd,210,student,"10, they've added 45 plus 12 times 12. They've— no, I didn't get that.",00:25:10
+meaztcd,211,tutor,Okay. Can you tell me what is 10 plus 2 is?,00:25:18
+meaztcd,212,student,12.,00:25:21
+meaztcd,213,tutor,Uh-huh. What is this number then?,00:25:23
+meaztcd,214,student,12.,00:25:26
+meaztcd,215,tutor,What do you see there? What have they done?,00:25:28
+meaztcd,216,student,They've added 10. They've added 10 plus 2 equals 12.,00:25:31
+meaztcd,217,tutor,"12, right. So do you know what do we call this?",00:25:36
+meaztcd,218,student,Is it a part-whole model?,00:25:41
+meaztcd,219,tutor,"Exactly. So what have they done? So whole is 12. They have part— they [unclear] have parted to 2, that's 10 and 2. Are you clear so far there?",00:25:44
+meaztcd,220,student,Yeah.,00:25:54
+meaztcd,221,tutor,"Yes, and instead of doing directly 45 times 12, they are breaking it down into 10 and 2 and multiplying by 10 once and then with the 2 on the second try.",00:25:56
+meaztcd,222,student,They cut together.,00:26:10
+meaztcd,223,tutor,"Yeah, and then you are adding it together. Do you see that?",00:26:12
+meaztcd,224,student,Okay.,00:26:17
+meaztcd,225,tutor,"Okay. Now can you take me through what's happening here? No, no, this is factor. This is another method. This is another method. So can you take me through partitioning just to see if you have understood?",00:26:18
+meaztcd,226,student,"Okay. So what you do is— well, I just found out now, to be honest. [unclear] A pothole model. 12 is like the— the main number and they split it like in half, that 10, the one number and 2 the other. And they times the 10 by 45 once and then they times the 2 by 45 and they did 450 plus 90 equals 540.",00:26:28
+meaztcd,227,tutor,[UNCLEAR],00:26:28
+meaztcd,228,tutor,"Yes. Now, did you understand why have they partitioned it?",00:27:11
+meaztcd,229,student,Yeah.,00:27:16
+meaztcd,230,tutor,"Yeah, so they have partitioned it to make it easier. So you can do 45 times 10 easily, and you can do 45 times 2 easily instead of doing 45 times 12. Yeah?",00:27:17
+meaztcd,231,student,Yeah.,00:27:27
+meaztcd,232,tutor,"Okay, so this one, this is another method but using factors. Now, can you tell me, can you go through this and tell me what you understood from here? Like you did here, just go through and try to fill in the blanks, and then we'll see how to figure that out.",00:27:27
+meaztcd,233,student,45 times. [unclear] So 45. So 45. So... Is this 40?,00:27:43
+meaztcd,234,tutor,Which one?,00:28:20
+meaztcd,235,student,The first one.,00:28:22
+meaztcd,236,tutor,This one?,00:28:23
+meaztcd,237,student,Yeah.,00:28:24
+meaztcd,238,tutor,"What is the question, please?",00:28:26
+meaztcd,239,student,45 times 2.,00:28:27
+meaztcd,240,student,[unclear],00:28:32
+meaztcd,241,tutor,"Can I do a method, like a method thing?",00:28:32
+meaztcd,242,student,But you got the answer here. What is 45 times 2?,00:28:37
+meaztcd,243,tutor,"Oh yeah, 90.",00:28:41
+meaztcd,244,student,"90, there you go. Yes, that's right. What do you then do here?",00:28:44
+meaztcd,245,tutor,15 times 6. Is it—,00:28:51
+meaztcd,246,student,45 times 6.,00:28:56
+meaztcd,247,tutor,45 times 6. Is that what you're thinking?,00:29:02
+meaztcd,248,student,Yeah.,00:29:07
+meaztcd,249,tutor,"Mm-hmm. [unclear] Okay. Okay, this is not partitioning, okay? This works as factors now. Now here, instead of 12, you're multiplying it by 6. And then 2. So you did the 2 first, right? Then you have to do 90 times 6 here.",00:29:11
+meaztcd,250,student,"Yeah, shall I erase that? Let me erase this.",00:29:36
+meaztcd,251,tutor,"90 times 6 equals— I don't know. [unclear] Okay, can you try to mental multiplication? Like, what is 9 times 6? And then times it by 10. [unclear]",00:29:43
+meaztcd,252,tutor,What is 9 times 5?,00:30:02
+meaztcd,253,student,45.,00:30:09
+meaztcd,254,tutor,So would it be 50?,00:30:10
+meaztcd,255,student,"Uh, not 50. [unclear]",00:30:16
+meaztcd,256,student,I got 50 again.,00:30:24
+meaztcd,257,tutor,"Okay, 9 times 5, what is the answer?",00:30:28
+meaztcd,258,student,"9 times 5, 5 times— 45?",00:30:31
+meaztcd,259,tutor,"Yes, 45 plus 9?",00:30:39
+meaztcd,260,student,[unclear],00:30:47
+meaztcd,261,tutor,There you go. So what is 54 times 10?,00:30:47
+meaztcd,262,student,540.,00:30:55
+meaztcd,263,tutor,There you go. That's the answer here. Now what is 45 times 12?,00:30:58
+meaztcd,264,student,45 times 12. Is it 470?,00:31:11
+meaztcd,265,tutor,Why do you think it's 470? What did you get here?,00:31:18
+meaztcd,266,student,540.,00:31:23
+meaztcd,267,tutor,"540, yes.",00:31:25
+meaztcd,268,student,"Oh, so is that the answer?",00:31:28
+meaztcd,269,tutor,"Yeah, that's the answer. So what you did was a breakdown of 45 times 12. Right?",00:31:31
+meaztcd,270,student,Yeah.,00:31:37
+meaztcd,271,tutor,"Yeah, so your final answer is that. Okay.",00:31:39
+meaztcd,272,student,Yeah.,00:31:42
+meaztcd,273,tutor,"Now, okay, can you tell me, did you understand how the factors work? Or, um, well, shall we go through again?",00:31:42
+meaztcd,274,student,"Can you go through again, please?",00:31:50
+meaztcd,275,tutor,"Yes. Okay, now do you understand what are factors?",00:31:53
+meaztcd,276,student,"Um, is it like the things that make, like, something that joins",00:31:57
+meaztcd,277,student,Like something that makes the number.,00:32:03
+meaztcd,278,tutor,"Yes. Now for factor of 12, can you tell me what is the factor of 12 that this question they have used? [unclear] Exactly. So if you are using the factors method, remember this, okay? Factors method, you have to multiply the answers. Now you have 45 times 2, and then you have to times that answer by 6 again.",00:32:07
+meaztcd,279,student,Yeah.,00:32:30
+meaztcd,280,tutor,"Okay, now you did 45 times 2, which is 90, and the answer that you get, you multiply that by the next factor, which is 6. So 90 times 6, that's how you got 540. Okay, that's the factors method. Remember that. Now when you're partitioning, partitioning always means it's like a part-whole model, right? So you take the easier number and and you add it with the other number. So partition means you multiply, [unclear] by these two numbers separately, and at the end you have to add them. So remember that. So partitioning meaning you have to add, okay?",00:32:31
+meaztcd,281,student,Yeah.,00:33:10
+meaztcd,282,tutor,"But factors, you multiply the original number by these two numbers. You don't have to add add at any point. You don't have to add using— when you're using factors, you don't have to add at any point. Okay, it's just a multiplication. But when you're doing partitioning, you have to multiply by the parted numbers and you have to add it at the end. Are you clear with the two difference?",00:33:11
+meaztcd,283,student,Yeah.,00:33:38
+meaztcd,284,tutor,"Yeah, the partitioning you should add, for factors you should multiply.",00:33:40
+meaztcd,285,student,Yeah. Clear?,00:33:44
+meaztcd,286,student,Yeah.,00:33:47
+meaztcd,287,tutor,"Right. Now, could you— okay, let me just to make it more clear, like on the follow me, I'm going to take you through this entire 3 questions.",00:33:48
+meaztcd,288,student,Okay.,00:34:00
+meaztcd,289,tutor,Okay? And then you will work on these 3 questions exactly on how I am going to explain it to you.,00:34:00
+meaztcd,290,student,"I still don't really get it, to be honest. Okay, now watch me working out, okay? And then we'll see if you have a clear understanding or not.",00:34:07
+meaztcd,291,student,Okay.,00:34:19
+meaztcd,292,tutor,"I'm gonna take you through now. Right, let's start with the first one. So it says we can use different methods to solve this calculation. The question is 31 times 8. Okay?",00:34:19
+meaztcd,293,student,Yeah.,00:34:32
+meaztcd,294,tutor,"Clear? Right. Now instead of finding 31 times 8, I'm partitioning 31 as 30 plus 1. Did you understand the partitioning here?",00:34:33
+meaztcd,295,student,Yeah.,00:34:49
+meaztcd,296,tutor,"Then the first step is 30 times 8. So I'm going to do the first one. Let me show you with the colors. So I'm gonna take 30 times 8. So I know what is 3 times 8 is. So 3 times 8 is 24, and then times it by 10 to make it 30. So that's 240.",00:34:51
+meaztcd,297,student,[unclear],00:35:14
+meaztcd,298,tutor,"Right. So let me take another color and write the next one. So the remaining one here, I'm going to take here. 1 times 8. Still, I had to multiply by 8 because the question says it's 8. Okay, so what is 1 times 8? That's very easy. That is 8. Exactly. Now since this is partitioning, I told you we need to add the answers that you get. So that's 240 plus 8, that equals to— this is also very simple— that is 248. [unclear] How I got the answer?",00:35:16
+meaztcd,299,student,Yeah.,00:35:51
+meaztcd,300,tutor,Perfect. So now this is called doubling or using factors. So remember the factors method that we used earlier? [unclear],00:35:53
+meaztcd,301,tutor,"Right, that's what we're gonna do. So now this is 31 times 2. What— why are they doing times by 2? Because you know that 8 can be achieved by 2 times 2 times 2. So what is 2 times 2? 4. What is 4 times 2? 8. So instead of directly adding 31 by 8, What I'm going to do is I'm going to multiply every time by 2. [unclear]",00:36:00
+meaztcd,302,student,61.,00:36:30
+meaztcd,303,tutor,"62, isn't it?",00:36:35
+meaztcd,304,student,Oh yeah.,00:36:40
+meaztcd,305,tutor,"Yeah. Yes, 62. So then what I need to do for the second step is to take the 62, times it by 2 again. Right. Then that would be 124. Okay, and then I'll write that answer once again here. 124 times 2, that equals to 248.",00:36:40
+meaztcd,306,student,Yeah.,00:37:08
+meaztcd,307,tutor,"Is that clear? So see, you can double check. I got the same answer for both of these.",00:37:09
+meaztcd,308,student,Yeah. Can I [UNCLEAR]?,00:37:14
+meaztcd,309,student,Yeah.,00:37:17
+meaztcd,310,tutor,Yeah.,00:37:17
+meaztcd,311,student,"Can I do those like— oh, it don't matter.",00:37:18
+meaztcd,312,tutor,"The next part here, you want to do these two?",00:37:22
+meaztcd,313,student,Yeah.,00:37:24
+meaztcd,314,tutor,"Yeah. Okay, let's do these two and then later I'll take you through the last one. Then you can come back to this again.",00:37:26
+meaztcd,315,student,Okay.,00:37:32
+meaztcd,316,tutor,"Okay, let's do 25 times 6. You can do the partitioning and the doubling method.",00:37:32
+meaztcd,317,student,"So 25 times 6. 20 times 6. So 2, 6 times 2 is 12. So that would— would that be 120?",00:37:36
+meaztcd,318,tutor,"Mm-hmm, yes.",00:37:47
+meaztcd,319,student,And 5 times 6 is 30.,00:37:52
+meaztcd,320,tutor,Mm-hmm.,00:37:55
+meaztcd,321,student,"Oh, so 120 plus 30.",00:37:58
+meaztcd,322,tutor,Yeah.,00:38:07
+meaztcd,323,student,Oh.,00:38:09
+meaztcd,324,tutor,"Okay, that's alright.",00:38:10
+meaztcd,325,student,was 150?,00:38:10
+meaztcd,326,tutor,"Yes! Awesome effort, there you go. Now can you tell me what was the partitioning for 25?",00:38:10
+meaztcd,327,student,"Oh, so it was basically I did 6 times 2 equals 12, so 520.",00:38:25
+meaztcd,328,tutor,"Yeah, good job. Yes, I know that, but I'm asking, like you said, why it's 20 and 5 here? [unclear]",00:38:36
+meaztcd,329,student,Because it's basically another way for part-whole modeling. It's like—,00:38:49
+meaztcd,330,tutor,Yes.,00:38:56
+meaztcd,331,student,Yeah.,00:38:56
+meaztcd,332,tutor,"So instead of directly doing 25, they're doing 20 plus 5. Are you clear? That's why it is 20 times 6 and 5 times 6. Okay.",00:38:59
+meaztcd,333,student,Yeah.,00:39:10
+meaztcd,334,tutor,Perfect. Well done. So how about the doubling or the using factor? Now let's [unclear] the factors.,00:39:11
+meaztcd,335,student,Okay. Doubling or using factors. This is the same as using factors. 25 times 3 equals 3 times 2. So 25 times 3. So,00:39:15
+meaztcd,336,student,"So what I'll do is... So I'll do 5 times 3 equals 15, carry the 1. Is it 75?",00:39:29
+meaztcd,337,tutor,"Yes, wonderful, yes. [unclear]",00:39:52
+meaztcd,338,student,And then 75 times 2 equals 150.,00:39:57
+meaztcd,339,tutor,There you go. So proud that you remember how we worked out earlier. Hold on. There you go. Are you clear with these two methods now?,00:40:04
+meaztcd,340,student,Yeah.,00:40:14
+meaztcd,341,tutor,"Yeah? Awesome. Right. Now here we have only like one number, right? In that case, maybe it's better if you can use the factor method or even the partitioning method. Okay, I'll simply take you back to the last part so that it's more clear for you, right? Now what we are doing here is instead of doing 300— sorry, 31 times 8, we are doing 31 times 10, which is more easier, isn't it?",00:40:15
+meaztcd,342,student,"Yes, and that will be 310.",00:40:42
+meaztcd,343,background,"Yes. So then what I'm doing is— okay, then I'm— what I'm doing is I'm taking away 310. What is 2 times 31? [unclear] Yes, we need to do the bracket first. So what is 2 times 31? That is, uh, that'll be 62. 62. So I have to take the 62 from 310. Tell me why.",00:40:42
+meaztcd,344,student,"Because... oh, it's because basically it's a takeaway and it says 310 take away 2 times 31, but actually you have to do 310 take away 62.",00:41:14
+meaztcd,345,tutor,"Yes, but why are we taking away this 2 times 31? Can you carefully think and tell me why are we taking away?",00:41:30
+meaztcd,346,student,I don't really know.,00:41:39
+meaztcd,347,tutor,"OK, look at the question. What is the question?",00:41:42
+meaztcd,348,student,31 times 8.,00:41:45
+meaztcd,349,tutor,But what have we done in the first step?,00:41:49
+meaztcd,350,student,"31 times 10. [unclear] 10, 9, 8, that would be 2.",00:41:52
+meaztcd,351,tutor,Yes. So we multiplied 31 times 2 additionally to get 31 times 10. So that's why we are adjusting at the end. Is that clear so far?,00:42:01
+meaztcd,352,student,Yeah.,00:42:16
+meaztcd,353,tutor,"Yeah, so when you subtract—",00:42:16
+meaztcd,354,student,[unclear] 310 take away 2 equals 248.,00:42:19
+meaztcd,355,tutor,"Okay, this is the next method. This is like known facts and adjusting. So you know what is 31 times 10, so that's known fact. And then you're adjusting because you know that you have gone 2 extra, so you're taking that 2. Okay?",00:42:26
+meaztcd,356,student,Yeah.,00:42:41
+meaztcd,357,tutor,"Okay, can you try this one now?",00:42:41
+meaztcd,358,student,Okay.,00:42:43
+meaztcd,359,tutor,"Because now this is the question, this is what they're doing, and just see what they have doing addition here.",00:42:43
+meaztcd,360,student,"Okay, so 25 times 4. [unclear]",00:42:49
+meaztcd,361,student,"So 5, 5, 10, 15, 20. That'll be 2. Oh, wait, no, [UNCLEAR].",00:43:01
+meaztcd,362,tutor,"Barnaby, shall I ask you like this? Do you know what is 25 plus 25?",00:43:01
+meaztcd,363,student,"45? 45, 50.",00:43:12
+meaztcd,364,tutor,Yes. Then what is 50 times 2?,00:43:18
+meaztcd,365,student,100? 100. Then what is 25 times 4?,00:43:23
+meaztcd,366,student,100.,00:43:27
+meaztcd,367,tutor,100. [unclear],00:43:29
+meaztcd,368,student,"And then 100, but 25 times 2 equals 40.",00:43:36
+meaztcd,369,tutor,Can you double-check that?,00:43:50
+meaztcd,370,student,"Oh, is it 50?",00:43:53
+meaztcd,371,tutor,"Yes, it's 20 times 2 is 40.",00:43:56
+meaztcd,372,student,"Yeah, I just can't get rid of that 4, so I'm going to—",00:43:59
+meaztcd,373,tutor,"Yeah, I'll take that off.",00:44:03
+meaztcd,374,student,And that will be equal to 150.,00:44:06
+meaztcd,375,tutor,"Yes, was that clear for you now?",00:44:09
+meaztcd,376,student,Yeah.,00:44:12
+meaztcd,377,tutor,"Yes, okay, so I think before we move, okay, I want you to quickly explain all these 3 methods to me so that we can continue the rest in our next session, can you?",00:44:14
+meaztcd,378,student,Okay.,00:44:28
+meaztcd,379,tutor,"Let's reflect, okay?",00:44:28
+meaztcd,380,student,"Okay, so today I've learned how to like basically to solve calculations with really big numbers and how to like [UNCLEAR].",00:44:29
+meaztcd,381,tutor,Do it mentally.,00:44:29
+meaztcd,382,student,"Yeah. Do it like in my head and not using any like array, like column methods. And, um—",00:44:44
+meaztcd,383,tutor,So let's look at partitioning. Can you tell me what is partitioning now?,00:44:56
+meaztcd,384,student,"Partitioning, um, is, um, basically when you use like",00:45:01
+meaztcd,385,student,Split the num— like the column into a few parts and it makes—,00:45:11
+meaztcd,386,tutor,[unclear] Yes.,00:45:22
+meaztcd,387,student,"Yeah, and it makes like an equation that you can solve, like 20 times 6 and 5 times 6 and then 120",00:45:23
+meaztcd,388,student,"plus 30 equals 150. But then, yeah. And with doubling and using factors, it was basically timesing and like using like 75 times 2, and it's not",00:45:23
+meaztcd,389,student,"add. It's [UNCLEAR]. Well, they're all times, but some of them add instead, but they all make an answer.",00:45:23
+meaztcd,390,tutor,"Answer, yes. So adjusting, right? Wonderful. And I think you did really amazing in today's session. Just wanted to remind you how concentrating you were, so that's really amazing. So keep that focus, okay? So then, till I see you again, have a great day ahead. Bye.",00:45:23
+meaztcd,391,student,Bye.,00:46:28
+meaztcd,392,tutor,Bye. [unclear],00:46:29

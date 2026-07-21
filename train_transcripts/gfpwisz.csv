@@ -1,0 +1,394 @@
+session_id,utterance_id,role,content,timestamp
+gfpwisz,0,tutor,Hello?,00:00:00
+gfpwisz,1,background,[unclear],00:00:00
+gfpwisz,2,student,Hi.,00:00:01
+gfpwisz,3,tutor,"Hi, Calliope. How are you?",00:00:02
+gfpwisz,4,student,Good. How are you?,00:00:04
+gfpwisz,5,tutor,I'm good. Thank you for asking.,00:00:05
+gfpwisz,6,student,Thank you.,00:00:08
+gfpwisz,7,tutor,How's your day going so far?,00:00:09
+gfpwisz,8,student,Good.,00:00:11
+gfpwisz,9,tutor,Okay. My voice is clear? Your headset is working properly?,00:00:15
+gfpwisz,10,student,Yeah.,00:00:18
+gfpwisz,11,tutor,All right. Shall we continue then?,00:00:19
+gfpwisz,12,student,Yeah.,00:00:21
+gfpwisz,13,tutor,Okay. So you remember what topic we were doing last time?,00:00:22
+gfpwisz,14,student,Yeah.,00:00:26
+gfpwisz,15,tutor,"Okay. Today we are going to continue the same topic, estimating calculations. To refresh our learnings from the last session, we will retry this question again.",00:00:28
+gfpwisz,16,student,Okay. Who do you agree with here?,00:00:40
+gfpwisz,17,student,Beatrice.,00:00:44
+gfpwisz,18,tutor,"Beatrice, and why so?",00:00:45
+gfpwisz,19,student,"Because she rounds them up, because it's an estimate question. So she rounds up to the one significant figure.",00:00:47
+gfpwisz,20,tutor,"One significant figure, okay. Would you tell me what would be the one significant figure of 12.98?",00:00:57
+gfpwisz,21,student,13. So with the 8 makes [UNCLEAR].,00:01:03
+gfpwisz,22,tutor,"Okay, and Beatrice wrote it 13? Oh wait, no. It'd be 10.",00:01:03
+gfpwisz,23,tutor,And what would be the one significant figure for this?,00:01:18
+gfpwisz,24,student,4.,00:01:22
+gfpwisz,25,tutor,"4, all right. Okay, let me give you one number and you tell me what would be the one significant figure, okay?",00:01:24
+gfpwisz,26,background,Okay.,00:01:33
+gfpwisz,27,student,Would it be [UNCLEAR]?,00:01:34
+gfpwisz,28,background,"Yeah, okay. [unclear]",00:01:40
+gfpwisz,29,student,20 or 30.,00:01:42
+gfpwisz,30,background,30.,00:01:46
+gfpwisz,31,student,"30, okay. And why do you think it would be 30?",00:01:49
+gfpwisz,32,background,"Because 7 rounds up, so it would be 30.",00:01:54
+gfpwisz,33,student,"Exactly, yes. One significant figure, that means the first digit should be non-zero, all the rest of the digits would be? 0. So we round up to digit 2, and we can see that we have 7. That's rounded up, and we got a 30 as a one significant figure.",00:02:00
+gfpwisz,34,student,Yeah.,00:02:18
+gfpwisz,35,tutor,Okay?,00:02:18
+gfpwisz,36,student,Yeah.,00:02:18
+gfpwisz,37,tutor,"So then we know now why this is 10, not 13.",00:02:19
+gfpwisz,38,student,"Yeah, because the 2 rounds it down.",00:02:22
+gfpwisz,39,tutor,"Yes, 2 rounds it down, so it's a 10.",00:02:25
+gfpwisz,40,student,Yeah.,00:02:28
+gfpwisz,41,tutor,"13 would be the answer if I tell you to give me the closest or nearest integer. Then you can say it's 13, but one significant figure, that means first nonzero digit, rest would be zero, that would be 10. Is that right?",00:02:29
+gfpwisz,42,student,Yeah.,00:02:45
+gfpwisz,43,tutor,"Today we are going to start with— last time we try out this question, right?",00:02:45
+gfpwisz,44,student,Yeah.,00:02:51
+gfpwisz,45,tutor,And this one then?,00:02:52
+gfpwisz,46,student,Yeah.,00:02:53
+gfpwisz,47,tutor,Now we are going to try a different type of question. Here's this one. Read out the question properly and see what you can do with this question. [unclear],00:02:54
+gfpwisz,48,student,"Would it be 6p times 5? That's the final answer? Yeah. Okay. How you worked that out? I rounded the 6.3 P to the like one significant figure which would be 6, and then round 62.6 to the nearest figure which would round down. So it'd be 60. [unclear]",00:03:08
+gfpwisz,49,tutor,That's the final answer?,00:04:01
+gfpwisz,50,student,Yeah.,00:04:05
+gfpwisz,51,tutor,Okay. How you work that out?,00:04:07
+gfpwisz,52,student,"I rounded the 6.3p to the, like, one significant figure, which would be 6, and then round 62.6 to the nearest figure, which would round down, so it'd be 60.",00:04:10
+gfpwisz,53,tutor,And why you decide to monitor that?,00:04:26
+gfpwisz,54,student,Because he uses 62.6 units a week and each unit costs 6.3p.,00:04:28
+gfpwisz,55,tutor,"Okay, and what this cost represents?",00:04:39
+gfpwisz,56,student,£36.,00:04:42
+gfpwisz,57,tutor,£36?,00:04:44
+gfpwisz,58,student,Yeah.,00:04:46
+gfpwisz,59,tutor,What the question ask you?,00:04:47
+gfpwisz,60,background,to work out the estimate for the amount Rio pays for electricity.,00:04:47
+gfpwisz,61,tutor,Okay. So is this the amount he has to pay for the electricity?,00:04:55
+gfpwisz,62,student,Yeah.,00:05:02
+gfpwisz,63,tutor,"The question one more time, okay?",00:05:04
+gfpwisz,64,student,Okay.,00:05:06
+gfpwisz,65,tutor,Would you read it out loud?,00:05:07
+gfpwisz,66,student,"Oh, is it because it's for 52 weeks?",00:05:09
+gfpwisz,67,tutor,This is for 52 weeks?,00:05:13
+gfpwisz,68,student,"No, that's for one week, so you times it by 50.",00:05:15
+gfpwisz,69,tutor,by... [UNCLEAR],00:05:15
+gfpwisz,70,student,"]...by 52. Oh, 50. [unclear]",00:05:15
+gfpwisz,71,tutor,"Your working is correct, Calliope.",00:06:05
+gfpwisz,72,student,Yeah.,00:06:18
+gfpwisz,73,tutor,And very well done for that.,00:06:19
+gfpwisz,74,student,Yeah. Awesome efforts. Why you missed this 52 previously?,00:06:21
+gfpwisz,75,student,Because you needed to find out what one wheat cost to make 52.,00:06:27
+gfpwisz,76,tutor,"Okay, but I just wonder about that the answer is still not correct. If this is 6 peas times 60, you get how many peas?",00:06:34
+gfpwisz,77,student,"Oh, 300— [unclear] 306.",00:06:44
+gfpwisz,78,tutor,No.,00:06:49
+gfpwisz,79,student,"3,600. If you do 6 times 60, we are getting— [unclear] 3,600.",00:06:49
+gfpwisz,80,tutor,"Would you check that again? Is it 2,600?",00:07:13
+gfpwisz,81,tutor,Let me check. 6 times 60.,00:07:17
+gfpwisz,82,student,"Oh, 360.",00:07:22
+gfpwisz,83,tutor,"It's 360 in p, right?",00:07:24
+gfpwisz,84,student,Yeah.,00:07:28
+gfpwisz,85,tutor,"To convert it into pounds, what you would do?",00:07:29
+gfpwisz,86,student,You put a decimal after 36.,00:07:34
+gfpwisz,87,tutor,Why after 36?,00:07:39
+gfpwisz,88,student,Because 100 pennies make a pound.,00:07:41
+gfpwisz,89,tutor,So?,00:07:44
+gfpwisz,90,student,"Yes, 100 pennies make a pound.",00:07:45
+gfpwisz,91,tutor,So it would be £3.60?,00:07:49
+gfpwisz,92,student,"Exactly, £3.60.",00:07:53
+gfpwisz,93,tutor,Okay. [unclear],00:07:56
+gfpwisz,94,student,Why you miss that again? Why you miss that over here?,00:07:58
+gfpwisz,95,tutor,I don't know. Okay.,00:08:04
+gfpwisz,96,student,"Be careful when you are converting, okay?",00:08:07
+gfpwisz,97,background,Because 300 peas makes 3 pounds.,00:08:10
+gfpwisz,98,student,Yeah.,00:08:14
+gfpwisz,99,background,Okay.,00:08:14
+gfpwisz,100,student,And 60 peas makes 0.6 pounds.,00:08:14
+gfpwisz,101,background,Yeah. Would you correct your answer there?,00:08:18
+gfpwisz,102,student,Yeah. [unclear] Let it rest.,00:08:22
+gfpwisz,103,background,Okay. [unclear],00:08:28
+gfpwisz,104,background,That just stays the same.,00:08:30
+gfpwisz,105,tutor,"Yeah, exactly. Okay, very well done. Now what's the B part?",00:09:05
+gfpwisz,106,student,Is the solution an underestimate or an overestimate? Would it be an underestimate?,00:09:12
+gfpwisz,107,tutor,Yeah. Give me a reason.,00:09:21
+gfpwisz,108,student,Because I rounded down rather than up. [unclear],00:09:25
+gfpwisz,109,tutor,"Exactly, that's a very precise and good explanation because we rounded all the numbers down, so that means it's an underestimation. [unclear] Alright, so see Calliope, it's multiplying the numbers, but it's a 4-mark question.",00:09:33
+gfpwisz,110,student,Yeah.,00:09:53
+gfpwisz,111,tutor,"So it doesn't depend about how many operations we are using in the question. It also depends about how complicated the problem is. So it's a simple problem, but still we are getting 4 marks. Just we need to read the question properly and see what information is given.",00:09:54
+gfpwisz,112,tutor,Yeah. Do you think it was a difficult question?,00:10:11
+gfpwisz,113,student,"Once I worked it out, no, but at the start, yeah.",00:10:15
+gfpwisz,114,background,Sorry?,00:10:18
+gfpwisz,115,student,"At the start, maybe, but like once I figured it out properly, then no.",00:10:19
+gfpwisz,116,background,But you managed to work it out independently?,00:10:25
+gfpwisz,117,student,Yeah.,00:10:28
+gfpwisz,118,tutor,That means it's easy to understand if you read the question properly.,00:10:29
+gfpwisz,119,student,Yeah.,00:10:33
+gfpwisz,120,tutor,"Okay. If you multiply 60 and 60, you get a cost for?",00:10:33
+gfpwisz,121,student,£3.60.,00:10:40
+gfpwisz,122,tutor,"£3.60, and that's for one week?",00:10:41
+gfpwisz,123,student,Yeah.,00:10:46
+gfpwisz,124,tutor,And this cost is for?,00:10:47
+gfpwisz,125,student,52 weeks.,00:10:51
+gfpwisz,126,tutor,"52 weeks, exactly. Very well done. Now let's try— so we are done with the 3 questions that we can get in the exam from this topic. Now we'll do one challenging question.",00:10:52
+gfpwisz,127,student,Okay.,00:11:08
+gfpwisz,128,tutor,"Okay? Might be a little bit tricky than the previous one, but no, it won't be that hard. Just read it out properly and write. [unclear] [unclear]",00:11:09
+gfpwisz,129,tutor,"Could you explain your workings, please?",00:12:24
+gfpwisz,130,student,"Because it should be 21.8, not 218.",00:12:27
+gfpwisz,131,tutor,And how you figured that out?,00:12:34
+gfpwisz,132,student,Because 431.64 divided by 19.8 is 21.8.,00:12:39
+gfpwisz,133,tutor,Did you use the calculator for that?,00:12:48
+gfpwisz,134,student,Yeah.,00:12:50
+gfpwisz,135,background,Yeah.,00:12:51
+gfpwisz,136,tutor,Okay. But look at the question A. What did this tell you? [unclear] Use estimation. You need to show how this estimation can tell you is this correct or not.,00:12:51
+gfpwisz,137,background,Okay. So we do 400 divided by 20.,00:13:06
+gfpwisz,138,tutor,"Okay. And that would be— if we do that, then that would be 20. So that would be close.",00:13:13
+gfpwisz,139,tutor,Did you write that equation over here? 400 divided by 20 equals 20.,00:13:26
+gfpwisz,140,student,"Yeah. [unclear] Division symbol is in the symbols too. Okay. Now, how this equation helps you to find out whether the answer is correct or not?",00:13:32
+gfpwisz,141,student,Because it's not close to 219.,00:13:57
+gfpwisz,142,tutor,Exactly. Yes. So that's why you are getting 2 marks for this. A part.,00:14:01
+gfpwisz,143,tutor,Okay.,00:14:07
+gfpwisz,144,background,"First you have to show it with the estimation. You have to show how it is not close to the estimated answer, so that's why we can say it's incorrect.",00:14:07
+gfpwisz,145,tutor,Yeah.,00:14:17
+gfpwisz,146,background,Okay?,00:14:18
+gfpwisz,147,tutor,Okay.,00:14:18
+gfpwisz,148,background,"And for the B part, they said, ""Explain what mistake you think [unclear] had made during his calculation.""",00:14:19
+gfpwisz,149,tutor,And?,00:14:27
+gfpwisz,150,background,What mistake he did? I don't— I'm not too sure.,00:14:28
+gfpwisz,151,tutor,"Okay, you got the mistake but you don't know how to say that in the words.",00:14:34
+gfpwisz,152,student,Yes.,00:14:39
+gfpwisz,153,tutor,He misplaced the— he got mistake with the place values.,00:14:39
+gfpwisz,154,student,Okay.,00:14:43
+gfpwisz,155,tutor,Right?,00:14:44
+gfpwisz,156,student,Yeah.,00:14:45
+gfpwisz,157,tutor,"He got the numbers right, 2, 1, and 8. 2, 1, and 8, that was the digits.",00:14:46
+gfpwisz,158,student,Yeah.,00:14:51
+gfpwisz,159,tutor,But the place values is not correct. So that means he made a mistake with the place values.,00:14:52
+gfpwisz,160,student,Yeah. [unclear],00:14:56
+gfpwisz,161,tutor,Okay. And I'm going to say one line.,00:15:06
+gfpwisz,162,background,"All right, Calliope, for doing all these questions of this topic, what learnings you get from the topic?",00:15:15
+gfpwisz,163,student,How to estimate? Equations and like find out if people are correct or an estimation.,00:15:22
+gfpwisz,164,tutor,Okay. Do we still have any confusion with one significant figure?,00:15:30
+gfpwisz,165,student,"I don't think so, no.",00:15:35
+gfpwisz,166,tutor,Okay. And now do the last slide of the topic.,00:15:39
+gfpwisz,167,student,Yes. [unclear],00:15:43
+gfpwisz,168,tutor,Okay. Two questions are there. It's already done. You have to find out what's wrong in the answers.,00:15:46
+gfpwisz,169,student,They didn't round 0.09 off because it would have been 3.1 if they rounded it up properly.,00:15:56
+gfpwisz,170,tutor,"Okay, you can write your correct answer over here.",00:16:11
+gfpwisz,171,student,Okay.,00:16:15
+gfpwisz,172,tutor,Yeah.,00:16:17
+gfpwisz,173,tutor,Did they draw the line on the correct place?,00:16:18
+gfpwisz,174,student,Yeah. [unclear],00:16:21
+gfpwisz,175,background,Yeah.,00:16:26
+gfpwisz,176,student,"Oh wait, no, they didn't. It's meant to be— it's meant to be—",00:16:27
+gfpwisz,177,background,"So I have a here, round—",00:16:33
+gfpwisz,178,tutor,"Yeah, if it's a 2 significant figure, that means you can have 2 nonzero numbers.",00:16:36
+gfpwisz,179,student,Yeah.,00:16:41
+gfpwisz,180,background,And that numbers will be decided round up or down with the next number. By 9.,00:16:42
+gfpwisz,181,student,Yeah.,00:16:48
+gfpwisz,182,tutor,Right?,00:16:49
+gfpwisz,183,student,Yeah.,00:16:49
+gfpwisz,184,tutor,So what's wrong with this? [unclear],00:16:50
+gfpwisz,185,student,I'm not too sure.,00:17:03
+gfpwisz,186,tutor,"Okay, just read the question and try to solve it on your own. You will see if there is any mistake or not. How would you solve this? [unclear]",00:17:14
+gfpwisz,187,student,We should do 19 times 20.,00:17:23
+gfpwisz,188,tutor,Okay.,00:17:40
+gfpwisz,189,background,Oh no.,00:17:41
+gfpwisz,190,student,Why we are using 19 and 20 instead of these numbers?,00:17:42
+gfpwisz,191,tutor,Because it rounds them to one significant— two significant figures.,00:17:47
+gfpwisz,192,background,So one significant figure or two significant figure?,00:17:51
+gfpwisz,193,student,One.,00:17:57
+gfpwisz,194,tutor,"When we estimate, what do we do?",00:17:57
+gfpwisz,195,background,One significant figure.,00:18:00
+gfpwisz,196,tutor,One significant figure. So that means both numbers should be rounded to one significant figure.,00:18:01
+gfpwisz,197,tutor,Did they round it correctly?,00:18:06
+gfpwisz,198,student,Yeah.,00:18:08
+gfpwisz,199,tutor,OK. How would you round this number to one significant figure? Where would you draw the line?,00:18:09
+gfpwisz,200,background,I draw it— yeah. Here.,00:18:18
+gfpwisz,201,tutor,OK. And then?,00:18:28
+gfpwisz,202,background,"And then you'd look at the number next to the 9, which is 8. So that means you're going to round it up. So that would be 19. [unclear] Oh wait, would you round it to 20? What do you think, 19 or 20?",00:18:30
+gfpwisz,203,student,20.,00:18:46
+gfpwisz,204,tutor,Why not 19?,00:18:48
+gfpwisz,205,student,"Because it's not one significant figure, it's two.",00:18:50
+gfpwisz,206,tutor,"Yes, one significant figure means one non-zero digit.",00:18:54
+gfpwisz,207,student,Yeah.,00:18:59
+gfpwisz,208,tutor,"So first digit would be rounded according to the second digit, so it would be?",00:19:00
+gfpwisz,209,student,20.,00:19:05
+gfpwisz,210,tutor,20. Do you record the mistake?,00:19:06
+gfpwisz,211,student,Yeah.,00:19:09
+gfpwisz,212,tutor,So it would be 20 times 20. [unclear] So it would be £400. [unclear],00:19:11
+gfpwisz,213,tutor,"What about 23? If you round this to one significant figure, would that be 20?",00:19:38
+gfpwisz,214,student,"Yeah, because 3 is on the— like lower than 5, so you round it down.",00:19:43
+gfpwisz,215,tutor,"That's good. All right, very well done for trying out all these questions, Calliope.",00:19:49
+gfpwisz,216,student,Thank you.,00:19:56
+gfpwisz,217,tutor,So now we are going to do— start next topic.,00:19:57
+gfpwisz,218,student,Okay.,00:20:02
+gfpwisz,219,tutor,"Okay, how would you summarize your learning from this entire topic?",00:20:03
+gfpwisz,220,student,"Good, because I've learned how to estimate equations and how to round to significant figures.",00:20:07
+gfpwisz,221,tutor,Okay. What method you would use to find out significant figure? If you've got any question in the future. Draw a line to help me where to round it up or down.,00:20:14
+gfpwisz,222,tutor,"Okay, alright then, let's see what topic next we have. Okay. So now we have working with ratios. You have practiced ratio before?",00:20:29
+gfpwisz,223,student,Yeah.,00:20:44
+gfpwisz,224,tutor,"Okay, so how you see this topic? Is it difficult or is it an easy one?",00:20:45
+gfpwisz,225,student,"It depends on the question. Sometimes it's easy, sometimes I got a bit stuck.",00:20:52
+gfpwisz,226,tutor,"Yeah, pretty much. All the maths concept depends on the question you have. Sometimes you've got an easy question. [unclear] Sometimes the question is lengthy, makes the topic harder.",00:20:57
+gfpwisz,227,student,Yeah.,00:21:09
+gfpwisz,228,tutor,So we can say that there is nothing harder or easier in the maths. It all depends on how much more you have done practice questions.,00:21:10
+gfpwisz,229,student,Yeah.,00:21:17
+gfpwisz,230,tutor,"Right? Okay. So let's start the topic, working with ratio. It's a warm-up question. Give it a try. [unclear]",00:21:18
+gfpwisz,231,tutor,"Yeah, would Johan be correct?",00:21:29
+gfpwisz,232,tutor,Johan. OK. And how would you explain why Johan is correct?,00:21:51
+gfpwisz,233,background,"Because divide 20 by 5 is 4, and then 4 times 2 is 8, and then 4 times 3 is 12. So that's the answer that Johan gave.",00:21:56
+gfpwisz,234,tutor,"Yes, that's absolutely correct explanation. Johan is correct.",00:22:09
+gfpwisz,235,background,OK.,00:22:13
+gfpwisz,236,tutor,"So do you know what a ratio represents, Calliope?",00:22:14
+gfpwisz,237,student,The way how something's split.,00:22:17
+gfpwisz,238,background,"Yeah, a ratio shows the relative size of two or more values.",00:22:21
+gfpwisz,239,student,Yeah.,00:22:25
+gfpwisz,240,background,"How much each, uh, how much portions each one is getting.",00:22:26
+gfpwisz,241,student,Yeah.,00:22:31
+gfpwisz,242,background,"And in this topic, we will learn how to simplify ratio, how to scale up ratio, and how to share in ratio.",00:22:32
+gfpwisz,243,student,Okay.,00:22:40
+gfpwisz,244,background,"And then we will find out equality. When this difference is given, how can we we find the quantity. Okay, like here you find out the quantity, right?",00:22:41
+gfpwisz,245,student,Yeah.,00:22:51
+gfpwisz,246,tutor,"When the ratio is given, we'll find out the quantity when a difference is given.",00:22:52
+gfpwisz,247,student,Okay.,00:22:57
+gfpwisz,248,tutor,All right.,00:22:57
+gfpwisz,249,student,Yeah.,00:22:58
+gfpwisz,250,tutor,"So that's— this is the first example question, 2-mark question. You need to justify your answer.",00:22:59
+gfpwisz,251,student,Okay. [unclear] [unclear],00:23:08
+gfpwisz,252,tutor,Yeah.,00:23:22
+gfpwisz,253,background,"Okay, so Emmy is correct?",00:23:25
+gfpwisz,254,student,Yeah.,00:23:29
+gfpwisz,255,background,"Okay, well, how would you justify that?",00:23:30
+gfpwisz,256,student,"Because to simplify, you need to just keep on dividing by 2.",00:23:33
+gfpwisz,257,student,"Can you give any examples? [unclear] For like fractions and stuff, when you're simplifying fractions, you need to keep to mind—",00:23:40
+gfpwisz,258,tutor,Give any fraction and show me.,00:23:51
+gfpwisz,259,student,Okay.,00:23:56
+gfpwisz,260,tutor,"To write down fraction, you can use the symbol tool, or you can write in ratio as well.",00:23:58
+gfpwisz,261,student,Okay.,00:24:04
+gfpwisz,262,tutor,It'd be like— [unclear],00:24:08
+gfpwisz,263,student,To use the symbol tool after you do the—,00:24:30
+gfpwisz,264,tutor,"Fraction, write a number, then you press the down button to write down the denominator.",00:24:34
+gfpwisz,265,student,Okay. [unclear],00:24:49
+gfpwisz,266,tutor,Then you could do it.,00:24:50
+gfpwisz,267,student,"So it could— see, you divide both by 2. So it could be— [unclear]",00:25:00
+gfpwisz,268,student,Which was equal to 1.,00:25:14
+gfpwisz,269,tutor,"And to make it equal to 1, you divide with what?",00:25:21
+gfpwisz,270,student,2.,00:25:24
+gfpwisz,271,tutor,Can we divide 5 by 2?,00:25:27
+gfpwisz,272,background,Yes.,00:25:30
+gfpwisz,273,student,Yeah. But it would be a decimal.,00:25:30
+gfpwisz,274,tutor,It would be a decimal. Would you get a 1 if you divide 5 by 2?,00:25:35
+gfpwisz,275,background,No.,00:25:38
+gfpwisz,276,tutor,"No. So here, Calliope, Amy is not correct. I will show you how that works, okay?",00:25:40
+gfpwisz,277,background,Okay.,00:25:46
+gfpwisz,278,tutor,All right. Let's start reading from here.,00:25:47
+gfpwisz,279,background,Yeah. So I have to— [unclear] [unclear],00:25:50
+gfpwisz,280,tutor,You can read that out loud.,00:25:57
+gfpwisz,281,student,"Oh, okay. We can simplify a ratio by dividing the highest common factor of the values in the ratio. Sometimes you can divide by lower common factors, but it can take longer.",00:25:59
+gfpwisz,282,tutor,Do we know what the highest common factor is?,00:26:11
+gfpwisz,283,student,"Yeah, it's the highest number that they both have in common.",00:26:14
+gfpwisz,284,tutor,"Yes, exactly. Now we have a ratio here, 16 and 20. Okay, what is the highest common factor?",00:26:16
+gfpwisz,285,student,Would it be 5?,00:26:25
+gfpwisz,286,tutor,5. Does 16 have 5?,00:26:29
+gfpwisz,287,student,"Yeah. Oh wait, no, it'd be— would it be 2?",00:26:33
+gfpwisz,288,tutor,"Let's start with 2. If we divide it by 2, What we will get? If I divide it by 2, I am getting 8. [unclear] You try it.",00:26:39
+gfpwisz,289,student,Yeah.,00:26:51
+gfpwisz,290,tutor,"You will get the 8, and x, divide this by 2, what you get?",00:26:52
+gfpwisz,291,student,10.,00:26:57
+gfpwisz,292,tutor,"10. Exactly. Now repeat that process again, which is the common factor.",00:26:59
+gfpwisz,293,student,Would it be 2 again?,00:27:09
+gfpwisz,294,tutor,"2 again. Let's do that. If you divide by 2, what new number you get? [unclear] 4 and 5. What's the next common ratio?",00:27:12
+gfpwisz,295,student,Yeah.,00:27:26
+gfpwisz,296,background,1.,00:27:27
+gfpwisz,297,tutor,That means there is no other number we can divide these with. Right?,00:27:28
+gfpwisz,298,student,Yeah.,00:27:34
+gfpwisz,299,tutor,"So to simplify this, we keep on dividing by 2. Is that correct?",00:27:34
+gfpwisz,300,student,Yeah.,00:27:39
+gfpwisz,301,tutor,"When I say that, did I keep on dividing by 2 to simplify this fraction, this ratio?",00:27:40
+gfpwisz,302,student,Yeah.,00:27:45
+gfpwisz,303,tutor,So does that make this statement true?,00:27:46
+gfpwisz,304,student,"Um, yeah.",00:27:49
+gfpwisz,305,tutor,"That to simplify, we divide each value by 2 until we can't do it anymore. That's what we did here.",00:27:51
+gfpwisz,306,student,"Oh, yeah.",00:27:58
+gfpwisz,307,tutor,"Let's see, does that method work in this fraction as well? What's the common factor you can see?",00:27:59
+gfpwisz,308,student,4.,00:28:13
+gfpwisz,309,tutor,"4, okay.",00:28:14
+gfpwisz,310,student,"So you divide by 4, which would be— [unclear] That would be a decimal though.",00:28:17
+gfpwisz,311,tutor,We don't accept decimals in the fractions.,00:28:29
+gfpwisz,312,student,So it won't be 4.,00:28:31
+gfpwisz,313,tutor,"So to simplify, we are seeing Which number completely divided?",00:28:33
+gfpwisz,314,student,Would it be— okay. Would it be 2?,00:28:39
+gfpwisz,315,tutor,"Let's start with 2. Yeah, that's a good start.",00:28:43
+gfpwisz,316,student,It should be 9. [unclear] And then 2 would be 12.,00:28:46
+gfpwisz,317,tutor,Yes. Okay. Can you see any other common factor?,00:28:55
+gfpwisz,318,student,3.,00:29:03
+gfpwisz,319,tutor,"3, okay. Let's do that.",00:29:03
+gfpwisz,320,student,"So you divide by 3, which would give you 3 on this side. And then divide by 3 on this side will give you 4.",00:29:05
+gfpwisz,321,tutor,"4, yes. And next common factor? [unclear]",00:29:22
+gfpwisz,322,background,Would it be 1 again?,00:29:28
+gfpwisz,323,student,"It would be 1 again. That means we can't divide it any further. We can't simplify any further, right?",00:29:31
+gfpwisz,324,background,Yeah.,00:29:38
+gfpwisz,325,student,"So for this, does Amy's method work here as well?",00:29:38
+gfpwisz,326,background,No.,00:29:42
+gfpwisz,327,student,"No, we cannot keep dividing it by 2. And let's see for this one.",00:29:42
+gfpwisz,328,background,[unclear],00:29:48
+gfpwisz,329,tutor,"Which would be 4. Oh wait, no, 3. And then 2 by 3 would give you— I would give you 4. [unclear]",00:29:55
+gfpwisz,330,student,It should be 1 again.,00:30:15
+gfpwisz,331,tutor,"It's alright. The simplest form. I can't simplify it any further. Now look at these 3 explanations, these 3 ratios. Here we keep dividing by 2 and we get the simplest form, right?",00:30:19
+gfpwisz,332,student,Yeah.,00:30:33
+gfpwisz,333,tutor,"Here we started with 2, but then we— next number is 3, not 3.",00:30:34
+gfpwisz,334,student,Yeah.,00:30:39
+gfpwisz,335,tutor,"Here, no, 2 is never an option. We didn't even divide once by 2.",00:30:39
+gfpwisz,336,student,Yeah.,00:30:44
+gfpwisz,337,tutor,So what we can say about him is Statement?,00:30:45
+gfpwisz,338,student,"Yeah, it's untrue.",00:30:48
+gfpwisz,339,tutor,"It's not true, exactly.",00:30:50
+gfpwisz,340,background,Yes.,00:30:52
+gfpwisz,341,student,Yes.,00:30:53
+gfpwisz,342,tutor,"So instead of dividing by 2, what we can say? Which number we are dividing with?",00:30:54
+gfpwisz,343,background,The highest common factor.,00:31:00
+gfpwisz,344,tutor,"Yes, we're looking for the common factors. Like here, we can just divide by 6 and get the simplest form.",00:31:02
+gfpwisz,345,background,Yeah.,00:31:10
+gfpwisz,346,tutor,"Sometimes we work with the lowest common factor, like it's given here. You can work with the lowest factor as well. We start with the 2. Or you can directly find the highest common factor and divide with that.",00:31:10
+gfpwisz,347,student,Yeah.,00:31:20
+gfpwisz,348,tutor,"Okay, so it was a 2-mark question. So you can— you have first— you have to say whether she is correct or not, which she is not. Disagree with Emmy. And then we have to justify your answer, means you need to give one example which show that her method doesn't work. [unclear] Okay, for that, which example you will choose out of these 3?",00:31:21
+gfpwisz,349,student,Um... the first one.,00:31:44
+gfpwisz,350,tutor,"The first one? If you show the first one, that shows that his method doesn't work.",00:31:47
+gfpwisz,351,student,"Oh no, I'd show the third one.",00:31:53
+gfpwisz,352,tutor,"Yeah, we can choose either the second or the third, not the first, because first shows that her method works.",00:31:56
+gfpwisz,353,student,Yeah.,00:32:03
+gfpwisz,354,tutor,"We need to show that her method might work in some statements, but it can't be true for everything.",00:32:03
+gfpwisz,355,tutor,Okay.,00:32:08
+gfpwisz,356,student,"So, we need to give that example which shows it doesn't work.",00:32:09
+gfpwisz,357,tutor,Yeah.,00:32:12
+gfpwisz,358,student,Okay?,00:32:13
+gfpwisz,359,tutor,Okay.,00:32:14
+gfpwisz,360,student,All right. [unclear] [unclear],00:32:15
+gfpwisz,361,tutor,"Because in the third ratio, 2 wasn't any common factor.",00:32:40
+gfpwisz,362,student,Yes.,00:32:49
+gfpwisz,363,tutor,Now let's try another similar type of question. [unclear],00:32:50
+gfpwisz,364,tutor,To be 30 ratio?,00:33:03
+gfpwisz,365,student,You divide by 10.,00:33:19
+gfpwisz,366,tutor,"Calliope, is it 30 and 40?",00:33:22
+gfpwisz,367,background,"Oh, it's 45.",00:33:25
+gfpwisz,368,tutor,"45, yeah. [unclear]",00:33:26
+gfpwisz,369,tutor,Yeah.,00:33:30
+gfpwisz,370,student,Yeah.,00:33:38
+gfpwisz,371,tutor,So it would be... [unclear],00:33:46
+gfpwisz,372,tutor,"Sorry to interrupt, Calliope. Actually, I think we won't be able to complete it because we have less than a minute left.",00:33:59
+gfpwisz,373,student,Okay.,00:34:11
+gfpwisz,374,tutor,Okay? We can try this next time. Would that be okay?,00:34:11
+gfpwisz,375,student,"Okay. Yeah, that's fine.",00:34:14
+gfpwisz,376,tutor,"All right. So today, before wrapping— now we will wrap up. And see what is our understanding.",00:34:16
+gfpwisz,377,student,Okay.,00:34:22
+gfpwisz,378,tutor,"So, how we find a one significant figure? [unclear]",00:34:24
+gfpwisz,379,student,"Yeah, look at the number next to it and see. Yeah.",00:34:32
+gfpwisz,380,tutor,"Okay. Can two significant figure— in a one significant figure, can we have two non-zero digits?",00:34:36
+gfpwisz,381,tutor,"If I write 12.34 and I say its one significant figure is 12, is that correct?",00:34:48
+gfpwisz,382,student,No.,00:34:58
+gfpwisz,383,background,Yes.,00:34:58
+gfpwisz,384,student,What would be its one significant figure?,00:34:59
+gfpwisz,385,background,It would be 10.,00:35:01
+gfpwisz,386,student,It would be 10. Yes. And how to simplify a ratio?,00:35:02
+gfpwisz,387,background,You go by the highest common factor. So you see what they have in common and then divide them by that.,00:35:09
+gfpwisz,388,tutor,Exactly. Very well done. So we will end now and you will have some post-session questions. Don't forget to do that. Okay?,00:35:16
+gfpwisz,389,student,Okay.,00:35:23
+gfpwisz,390,tutor,See you next time. Bye-bye.,00:35:24
+gfpwisz,391,background,Bye.,00:35:25
+gfpwisz,392,student,Bye.,00:35:26

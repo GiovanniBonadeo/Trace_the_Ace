@@ -1,0 +1,343 @@
+session_id,utterance_id,role,content,timestamp
+acthyoy,0,tutor,Hello?,00:00:00
+acthyoy,1,background,[unclear],00:00:00
+acthyoy,2,student,Hello.,00:00:00
+acthyoy,3,tutor,Hi.,00:00:02
+acthyoy,4,student,I'm good. How are you?,00:00:03
+acthyoy,5,tutor,I'm good too. Thank you for asking. How was your day today?,00:00:06
+acthyoy,6,student,It was good. How was yours?,00:00:09
+acthyoy,7,tutor,"Mine was also good. Thank you for asking. Alright, so are you ready for the session?",00:00:13
+acthyoy,8,student,"Yeah, yeah.",00:00:19
+acthyoy,9,tutor,"Okay, so today we're going to learn about using cumulative frequency and box plots. How confident are you with this topic?",00:00:20
+acthyoy,10,student,Quite confident.,00:00:28
+acthyoy,11,tutor,"Okay, that's great. So would you mind doing this warm-up question?",00:00:30
+acthyoy,12,student,So the median is 25.,00:00:40
+acthyoy,13,tutor,"Okay, how did you figure that out?",00:00:43
+acthyoy,14,student,"Because they're all in order, and that's the middle value.",00:00:46
+acthyoy,15,tutor,"Okay, would you mind circling that?",00:00:49
+acthyoy,16,student,Mm-hmm. And the upper quartile is 54.,00:00:54
+acthyoy,17,tutor,How did you figure that out?,00:01:03
+acthyoy,18,student,Because the largest number.,00:01:06
+acthyoy,19,tutor,So the largest number is upper quartile?,00:01:09
+acthyoy,20,student,"Oh no, no, no. That's the largest value.",00:01:12
+acthyoy,21,tutor,So what is upper quartile?,00:01:24
+acthyoy,22,student,Will it be the one below that? So 49.,00:01:26
+acthyoy,23,tutor,You're just guessing? How did you figure that out as 49?,00:01:32
+acthyoy,24,student,"Because this is the largest value. So second largest value in the line, it must be the—",00:01:38
+acthyoy,25,tutor,"So upper quartile is second largest value, is it?",00:01:45
+acthyoy,26,student,"Yeah, I don't know.",00:01:51
+acthyoy,27,tutor,"Okay, and what about lower quartile?",00:01:53
+acthyoy,28,student,Is the lower quartile 15 then?,00:01:56
+acthyoy,29,tutor,"Hmm, you're almost right. Unfortunately, no. Median is correct, but lower quartile is 17 and upper quartile is 43. How do you think that is possible? [unclear] 14, 14, 17. [unclear]",00:02:00
+acthyoy,30,tutor,"No, it's the quarter and three-quarter.",00:02:26
+acthyoy,31,student,Okay.,00:02:32
+acthyoy,32,tutor,"Yes, so you use n plus 1 divided by 2 for median, and for lower quartile you use n plus 1 divided by 4, and for upper quartile you use 3n plus 1 divided by 4. Okay?",00:02:33
+acthyoy,33,student,Yeah.,00:02:48
+acthyoy,34,tutor,All right. So let's move on to the exam style question. Ready?,00:02:50
+acthyoy,35,student,Yeah.,00:02:54
+acthyoy,36,tutor,"Okay, here we go. Good luck.",00:02:55
+acthyoy,37,tutor,"Okay, would you mind telling me how you got this answer?",00:03:43
+acthyoy,38,student,"This is the frequency of each people. And here is 0 to 5, so that's 10 people.",00:03:47
+acthyoy,39,tutor,Would you mind using your point tool?,00:03:58
+acthyoy,40,student,"Oh, the point tool, yeah, yeah, sure. So here is 0 to 5, which is 10.",00:04:00
+acthyoy,41,tutor,Mm-hmm.,00:04:04
+acthyoy,42,student,"Here is 0 to 5, which is 10.",00:04:05
+acthyoy,43,tutor,Okay.,00:04:07
+acthyoy,44,student,"Here is 5 to 10, but here is 0 to 10. So you would add the 15 and the 10 because it's from 0.",00:04:07
+acthyoy,45,tutor,Mm-hmm.,00:04:13
+acthyoy,46,student,As well. So you get 25.,00:04:14
+acthyoy,47,tutor,"Oh, okay. Mm-hmm. Yes.",00:04:16
+acthyoy,48,student,"And then you carry on that for the rest of them, but just keep adding the second value, the next value, each time.",00:04:19
+acthyoy,49,tutor,"Yes, great explanation there. So you get 3 marks for this. And your explanation was correct. So let's move on to the next exam style question. Ready?",00:04:26
+acthyoy,50,student,"Oh yeah, yeah.",00:04:36
+acthyoy,51,tutor,"Okay, here we go. Good luck.",00:04:38
+acthyoy,52,tutor,I'm struggling.,00:05:11
+acthyoy,53,student,Sorry?,00:05:13
+acthyoy,54,tutor,I'm struggling on this one.,00:05:14
+acthyoy,55,background,"Okay. So let's move on to the— but before that, do you have any cases of how you [UNCLEAR]?",00:05:17
+acthyoy,56,tutor,or what you have got?,00:05:17
+acthyoy,57,student,"For the median, will it be half of this value? No, this value minus this one.",00:05:17
+acthyoy,58,tutor,Can you use your pointer tool?,00:05:35
+acthyoy,59,student,"For the median, will it be this point minus this point to find out the difference and halfway, and then just add it to one of the points to find the midpoint?",00:05:38
+acthyoy,60,tutor,"Okay, you're almost there. Why do you think that it's this point minus this point?",00:05:50
+acthyoy,61,student,"Because there's 6 points in total— 1, 2, 3, 4, 5, 6.",00:05:54
+acthyoy,62,tutor,Yes.,00:05:58
+acthyoy,63,student,"And you can't have half of 6 because it's obviously 3, and then you get a decimal number. You won't get an integer. So it'll be the difference divided by 2, and then you would add them— add it to one of the— or minus it from one of the values to get the midpoint.",00:05:58
+acthyoy,64,tutor,which is the median.,00:05:58
+acthyoy,65,student,[unclear],00:05:58
+acthyoy,66,tutor,"Okay, you're almost there. Which is half the value is correct. Okay, let's move on to the next slide and figure out what it is. So the cumulative frequency graph can be used to estimate 50% of the data lies below the median. Okay, so if we are going to find out the median, we are going to find the total frequency and multiply that by 50%. Okay, so what is the total frequency?",00:06:16
+acthyoy,67,student,The total frequency—,00:06:50
+acthyoy,68,tutor,"Yes, correct. So would you mind writing 200 here? Okay, so what is 50% of 200?",00:06:53
+acthyoy,69,student,"Uh, [UNCLEAR]. Yes. Now you're going to draw a horizontal line in the 100 and find out the time, because they're asking for median time. [unclear]",00:07:06
+acthyoy,70,tutor,"Yeah. Okay. [unclear] So, what do you think is the time?",00:07:23
+acthyoy,71,student,31 minutes.,00:07:40
+acthyoy,72,tutor,"Hmm, okay. Better to write it in ranges so you wouldn't miss the values. If it is a range, how would you write it?",00:07:43
+acthyoy,73,student,[unclear],00:07:53
+acthyoy,74,tutor,"Anyways, 31 is correct. Write it. Okay, great. So, do you understand how to find median?",00:07:53
+acthyoy,75,student,"Yeah, I now understand that.",00:08:02
+acthyoy,76,tutor,"Okay, would you mind telling me step by step?",00:08:04
+acthyoy,77,student,"So... [unclear] So you find 50% of the cumulative frequency, which is 200, the total frequency, 200, so you'd half that, because the median is always the half.",00:08:11
+acthyoy,78,tutor,Okay.,00:08:25
+acthyoy,79,student,"And then you would Draw a horizontal line from the fourth mark to the [unclear] line, and wherever the point is, you would draw a line down through the x-axis to find the value.",00:08:26
+acthyoy,80,tutor,"Yes, correct. Great explanation there. Okay, then let's move on to the next question. So before going to the next question, would you mind telling me any ideas you have? To find the interquartile range? What are your thoughts?",00:08:41
+acthyoy,81,student,"[unclear] 175, 150, and 50.",00:08:58
+acthyoy,82,tutor,"Yes, you're almost there.",00:09:09
+acthyoy,83,student,That's one quarter and that's three quarters.,00:09:11
+acthyoy,84,tutor,Yes. So what is interquartile then?,00:09:13
+acthyoy,85,student,Interquartile is the value for 150 take away,00:09:17
+acthyoy,86,student,50.,00:09:17
+acthyoy,87,tutor,"Yes, correct. Okay. That is right. So you're going to find the 25% and 75%. Of what? Write that as well. Yes, correct. [unclear]",00:09:17
+acthyoy,88,student,[unclear] [unclear],00:10:12
+acthyoy,89,student,[unclear] [unclear],00:10:35
+acthyoy,90,tutor,Done?,00:10:46
+acthyoy,91,student,Done.,00:10:48
+acthyoy,92,tutor,Okay. Would you mind explaining me?,00:10:50
+acthyoy,93,student,"So basically, so first you would find out 25% of the total frequency. And 75% of the total frequency, which is 50 and 150. And then it says here, draw horizontal line from them points to the curve and vertical lines down. So I did that from 150 here down to get 31.",00:10:57
+acthyoy,94,tutor,How did you get 31? [unclear],00:11:24
+acthyoy,95,tutor,Okay.,00:11:30
+acthyoy,96,student,"Already wrong, guys.",00:11:31
+acthyoy,97,tutor,Yes. That's why I asked you to explain.,00:11:33
+acthyoy,98,student,Okay. [unclear],00:11:42
+acthyoy,99,tutor,Mm-hmm. Okay.,00:11:50
+acthyoy,100,student,"And then, uh, 36. And then after that you would do 450, go down and it's 25. But then for the interquartile, then you do the upper quartile minus the lower quartile and you get 11.",00:11:55
+acthyoy,101,tutor,"Yes, correct. Good job. All right, uh, so are you clear with this? Do you have any doubts?",00:12:13
+acthyoy,102,student,No doubts.,00:12:20
+acthyoy,103,tutor,"Oh, okay. So the last question before we move on to the support side, do you have any thoughts on this, how to find this out?",00:12:21
+acthyoy,104,student,[unclear],00:12:30
+acthyoy,105,tutor,You want to try?,00:12:34
+acthyoy,106,student,"Yeah, yeah.",00:12:36
+acthyoy,107,tutor,"Okay, good luck.",00:12:37
+acthyoy,108,tutor,"It's not minus 4, minus 5. [unclear] Stop. How did you do this? Which one? This one. The last one. So I Drew line from 35 minutes up to the top. Okay. And then from the line where he met, [unclear]",00:13:13
+acthyoy,109,tutor,Stop.,00:14:38
+acthyoy,110,student,How did you do this?,00:14:39
+acthyoy,111,tutor,Which one? This one?,00:14:41
+acthyoy,112,student,The last one?,00:14:43
+acthyoy,113,tutor,So I drew a line from 35 minutes up to the top.,00:14:45
+acthyoy,114,student,Okay.,00:14:50
+acthyoy,115,tutor,And then from the line where you met—,00:14:51
+acthyoy,116,student,"Okay. I did 200 minus [unclear] over 200, and I got 25% because it's 50.",00:14:55
+acthyoy,117,tutor,"Uh, hold on. Uh, would you mind telling me again? 200 minus?",00:15:05
+acthyoy,118,student,150.,00:15:09
+acthyoy,119,tutor,Why would you get 150?,00:15:11
+acthyoy,120,student,"Because on the line, and, uh—",00:15:14
+acthyoy,121,tutor,Is it 150?,00:15:16
+acthyoy,122,tutor,145. [unclear],00:15:33
+acthyoy,123,student,But is it 145 though? You have to look closer. [unclear],00:15:34
+acthyoy,124,student,Yes. [unclear],00:15:50
+acthyoy,125,tutor,"What is the answer? I can't see this. I just can see only 56. Okay, yeah, correct. Okay, would you mind telling me how you found that?",00:16:26
+acthyoy,126,student,So then I drew the line to the— let me get the point to it. So then I drew the line.,00:16:44
+acthyoy,127,tutor,Okay.,00:16:51
+acthyoy,128,student,"Here. And there's 144, so then you 200 minus 144 to get the— just the distance because just for this part here above that point from the graph.",00:16:52
+acthyoy,129,tutor,Okay.,00:17:05
+acthyoy,130,student,And then after the— Did the difference over 200 years is a percentage?,00:17:06
+acthyoy,131,tutor,"Yes, correct. Great explanation there. Okay, so you understood this question, yeah?",00:17:13
+acthyoy,132,student,"Yeah, yeah.",00:17:19
+acthyoy,133,tutor,"Alright, then let's try a similar question.",00:17:20
+acthyoy,134,student,"Okay, yeah, that's fine.",00:17:23
+acthyoy,135,tutor,"Alright, here we go. Good luck. Are you alright?",00:17:26
+acthyoy,136,student,"Yeah, yeah, I'm fine.",00:17:33
+acthyoy,137,tutor,Okay. Done? [unclear],00:17:36
+acthyoy,138,tutor,Yes.,00:21:21
+acthyoy,139,student,Okay. Would you mind explaining me how you did this?,00:21:21
+acthyoy,140,tutor,So the medium work. [unclear],00:21:26
+acthyoy,141,tutor,Which is 180.,00:21:28
+acthyoy,142,student,Okay.,00:21:32
+acthyoy,143,tutor,"And then I drew the line across the [unclear] up to, and then go down. It should be 78 to 79, in between them.",00:21:35
+acthyoy,144,student,"Okay. All right, okay.",00:21:49
+acthyoy,145,tutor,More towards 79.,00:21:53
+acthyoy,146,tutor,"Yes, so when you get a number 79, better to have one more and one less. So the range would be?",00:21:56
+acthyoy,147,student,"78, 79. [unclear] 80.",00:22:02
+acthyoy,148,tutor,"Yes, correct. But this is also correct, don't worry. What about the next one?",00:22:06
+acthyoy,149,student,"And then inter-quarter range, you find out one quarter, which is 90. Because it's 360 divided by 4, which is 90.",00:22:11
+acthyoy,150,tutor,Okay.,00:22:18
+acthyoy,151,student,"And then to find out three quarters, you do 90 multiplied by 3.",00:22:19
+acthyoy,152,tutor,Mm-hmm.,00:22:23
+acthyoy,153,student,To get 217th.,00:22:23
+acthyoy,154,tutor,Okay.,00:22:25
+acthyoy,155,student,"And then you will draw all the lines, etc., down.",00:22:25
+acthyoy,156,tutor,Okay.,00:22:30
+acthyoy,157,student,"For the [UNCLEAR], for the lower quartile, I got 65 because it's midway between 60 and 70.",00:22:32
+acthyoy,158,tutor,Okay.,00:22:32
+acthyoy,159,student,"And then for the upper quartile, I got 92.",00:22:34
+acthyoy,160,tutor,Okay.,00:22:45
+acthyoy,161,student,"And, um, 92 minus 65, which is 27.",00:22:49
+acthyoy,162,tutor,"Yeah, okay. This is 27, correct. But if you are giving in a range, how would you give it?",00:22:54
+acthyoy,163,student,"Uh, 26 to 28.",00:23:01
+acthyoy,164,tutor,"Yes, correct. Make sure to give it in range next time, okay? Okay, last one.",00:23:04
+acthyoy,165,student,"And then for this one, I did [unclear] take away",00:23:11
+acthyoy,166,student,"Well, first it says 70 marks.",00:23:14
+acthyoy,167,tutor,Mm-hmm.,00:23:16
+acthyoy,168,student,So then I drew a line up from 70.,00:23:18
+acthyoy,169,tutor,Okay.,00:23:20
+acthyoy,170,student,"And then I checked where they met on the graph, which is here.",00:23:21
+acthyoy,171,tutor,Mm-hmm.,00:23:24
+acthyoy,172,student,Drew a diagonal line across 120.,00:23:25
+acthyoy,173,tutor,Mm-hmm.,00:23:28
+acthyoy,174,student,"And then I did 360 minus 120, which is 240.",00:23:29
+acthyoy,175,tutor,Mm-hmm.,00:23:33
+acthyoy,176,student,"And then I did 240 over 360, or the fraction, which is 2/3, which is 66.66%.",00:23:35
+acthyoy,177,tutor,"Yes, that's correct. But if you're giving this in a range, how would you give?",00:23:42
+acthyoy,178,student,[unclear],00:23:47
+acthyoy,179,tutor,"Yes, correct. Okay, that's great. You've done it all correct. So let's move on to the next question. Ready?",00:23:51
+acthyoy,180,student,Yes.,00:24:01
+acthyoy,181,tutor,"Okay, this is going to be interesting. Good luck. [unclear]",00:24:02
+acthyoy,182,student,Yeah. [unclear],00:24:58
+acthyoy,183,tutor,"Okay, would you mind explaining me how you got this?",00:25:35
+acthyoy,184,student,"First, I did the lower quota, which was 160.",00:25:42
+acthyoy,185,tutor,"Mm-hmm, okay. And then it said here— you said here that the interquartile range is 12 centimetres.",00:25:47
+acthyoy,186,tutor,Mm-hmm.,00:25:56
+acthyoy,187,student,"So I did 160 at 12 to get the higher quartile, because this is already the lower quartile.",00:25:57
+acthyoy,188,tutor,Is it higher quartile or lower quartile?,00:26:03
+acthyoy,189,student,Upper quartile.,00:26:06
+acthyoy,190,tutor,Yes.,00:26:08
+acthyoy,191,student,And then I got 172 as upper quartile.,00:26:08
+acthyoy,192,tutor,"Yes, correct.",00:26:11
+acthyoy,193,student,"And then the median was already there, so 164, plot that.",00:26:12
+acthyoy,194,tutor,Mm-hmm.,00:26:16
+acthyoy,195,student,"And then the least [unclear] was 157, so I plotted that. And then he said the range was 32, so I added 32 and I got 189, and I plotted that, and then I just connected the lines.",00:26:16
+acthyoy,196,tutor,"Yes, correct. Great job. So I don't think you need another question there. So since you've done this correctly, let's move on to a challenging question.",00:26:28
+acthyoy,197,student,Yes.,00:26:40
+acthyoy,198,tutor,"Okay, here we go. Good luck.",00:26:41
+acthyoy,199,tutor,Good.,00:27:34
+acthyoy,200,student,"Okay, explain me how you did this.",00:27:34
+acthyoy,201,tutor,"So, uh, take a look at the graphs.",00:27:38
+acthyoy,202,student,Mm-hmm.,00:27:41
+acthyoy,203,tutor,"And, uh, check for the biggest and the lowest weights, muscles. And [unclear] has more of a gap between it, but also the two boxes, that these two",00:27:43
+acthyoy,204,student,These two boxes here are bigger than Field A.,00:28:00
+acthyoy,205,tutor,So what do you think about the median? Which one has the larger median?,00:28:06
+acthyoy,206,student,Field B.,00:28:10
+acthyoy,207,tutor,"Yes, correct. And therefore it has larger onions. Yes, correct.",00:28:11
+acthyoy,208,background,More variety of [UNCLEAR].,00:28:18
+acthyoy,209,tutor,"Yes, so you get 2 marks for this. And yes, we are done for the day. So let's move go on and make you a tutor. Which one do you want to go first? This one or this one?",00:28:18
+acthyoy,210,student,"You tell me, and then I'll do it.",00:28:39
+acthyoy,211,tutor,"Okay, the first one. It is much more easier.",00:28:41
+acthyoy,212,student,"Okay, so here you do 0 to 10, which is 5.",00:28:44
+acthyoy,213,tutor,Mm-hmm.,00:28:51
+acthyoy,214,student,And here it's already wrong because it's meant to be the same.,00:28:51
+acthyoy,215,tutor,"Okay, and what do you think they have done?",00:28:56
+acthyoy,216,student,They did the whole framework on a [UNCLEAR].,00:29:01
+acthyoy,217,tutor,"Mm-hmm, okay. Yes, so they got it wrong.",00:29:01
+acthyoy,218,student,Yeah.,00:29:11
+acthyoy,219,tutor,"So would you mind cutting the values and writing the correct values there? Oops, you can't correct like that. You're a tutor now. Just one cut is enough. Okay. Okay. Yes, correct. All right. What about the next one? [unclear]",00:29:11
+acthyoy,220,student,So first you check the lowest value.,00:29:49
+acthyoy,221,tutor,Mm-hmm.,00:29:52
+acthyoy,222,student,And it's not 11.,00:29:53
+acthyoy,223,tutor,Okay.,00:29:55
+acthyoy,224,student,So automatically it's wrong.,00:29:57
+acthyoy,225,tutor,"Okay, but as a tutor, what you should do?",00:29:59
+acthyoy,226,student,Draw the [unclear] on the page.,00:30:03
+acthyoy,227,tutor,Yes. [unclear],00:30:04
+acthyoy,228,tutor,You forgot to connect this.,00:30:58
+acthyoy,229,tutor,"Yes. Okay, so how do you think they have gone wrong?",00:31:03
+acthyoy,230,student,"I think because they saw the first value here, which was 7, and thought that that was the lowest value and put it there. But then they put them in size order, so 7, then 11, then 15, then 19.",00:31:08
+acthyoy,231,student,[unclear],00:31:32
+acthyoy,232,tutor,"Yes, that's correct. Good job in identifying the mistake of the student. Okay, so what did you learn from this lesson?",00:31:32
+acthyoy,233,student,How to find the median on graphs and stuff.,00:31:39
+acthyoy,234,tutor,Mm-hmm.,00:31:43
+acthyoy,235,student,On the interquartile range.,00:31:44
+acthyoy,236,tutor,"Okay, so if you get a question in this lesson, would you be able to do it confidently?",00:31:47
+acthyoy,237,student,"Yeah, confidently.",00:31:52
+acthyoy,238,tutor,"Okay, that's it. Then let's move on to the next lesson. Ready?",00:31:53
+acthyoy,239,student,Yeah.,00:31:59
+acthyoy,240,tutor,"Okay. Right, now we're going to learn about applying the CAPTCHA and reCAPTCHA method. Have you heard about it?",00:32:00
+acthyoy,241,student,I've heard about it and I don't know anything about it.,00:32:10
+acthyoy,242,tutor,"Okay, let's figure that out. Would you want to try a small question?",00:32:14
+acthyoy,243,tutor,Done?,00:32:46
+acthyoy,244,student,30 equals 25%.,00:32:47
+acthyoy,245,tutor,Okay.,00:32:54
+acthyoy,246,student,"100% equals 30 times 4. I mean, 100% equals 120.",00:32:56
+acthyoy,247,tutor,"Yes, that's correct. You said you have no clue, but you're doing it.",00:33:08
+acthyoy,248,student,"Yeah, I understood it.",00:33:13
+acthyoy,249,tutor,Okay.,00:33:16
+acthyoy,250,student,It's the name of the topic.,00:33:17
+acthyoy,251,tutor,"Yes, CAPTCHA, reCAPTCHA. What do you think it would be?",00:33:20
+acthyoy,252,student,Is it when you put— when you take something and then put it back in and then you take it again?,00:33:23
+acthyoy,253,tutor,"Yes, correct. Okay, let's move on to the exam style question, right? Ready?",00:33:31
+acthyoy,254,student,Yeah.,00:33:37
+acthyoy,255,tutor,"Okay, here we go. Good luck. [unclear]",00:33:38
+acthyoy,256,tutor,I don't know what to do to these last questions.,00:33:48
+acthyoy,257,student,"Okay, but did you read the question?",00:33:53
+acthyoy,258,tutor,"Yes, these are the questions I struggle with.",00:33:55
+acthyoy,259,student,"Okay, so you know— okay, what are your guesses though? What do you think we could do to to find this?",00:34:00
+acthyoy,260,student,"Would you do 24 over x equals, and then, and then would you do 4 over 15? [unclear] That's completely correct. Thank God I asked you.",00:34:09
+acthyoy,261,student,"Oh, okay. Then what you do is multiply them.",00:34:38
+acthyoy,262,tutor,Yes.,00:34:41
+acthyoy,263,student,"Cross, cross multiply.",00:34:42
+acthyoy,264,tutor,"Yes, and you find the value of x.",00:34:43
+acthyoy,265,student,"Yes. [unclear] So you cross multiply them. So for x equals 24 times 15, which is 360. [unclear] And then x equals 90.",00:34:47
+acthyoy,266,tutor,"Yes, correct. But would you mind telling me how you came up with this fraction?",00:35:23
+acthyoy,267,tutor,It's because he captured 24 first. Then x is because you don't know how many out of—,00:35:29
+acthyoy,268,student,Okay.,00:35:36
+acthyoy,269,tutor,"were the— have the tag now. And then the next week, because he captures 15, you put that the new— because you know how many he scored out of— and then—",00:35:36
+acthyoy,270,tutor,for [UNCLEAR] because that's when we have the tag on.,00:35:36
+acthyoy,271,student,"Yeah, so what do you think we did here?",00:35:54
+acthyoy,272,tutor,So these are the ones that captured and these are the ones that recaptured.,00:35:59
+acthyoy,273,student,"Yes. So we assume that this would be equal to this. Okay, that is the assumption we did. And we made a formula for that. And that's how you figured out how to do it. But since you said that you don't know, you're gonna try another question. Ready?",00:36:03
+acthyoy,274,student,Yes.,00:36:20
+acthyoy,275,tutor,"Okay, here we go. Good luck. What's that? [unclear]",00:36:22
+acthyoy,276,tutor,[unclear],00:36:45
+acthyoy,277,tutor,[unclear] [unclear],00:37:04
+acthyoy,278,tutor,"Yes. For writing this formula, you're getting one mark. And for finding the final answer, you're getting one mark. So altogether, you're getting two marks. I won't ask for explanation because—",00:37:25
+acthyoy,279,tutor,"It's obvious in your writing. Okay, so let's move on to the next question. Ready?",00:37:36
+acthyoy,280,student,"Yeah, yeah.",00:37:43
+acthyoy,281,tutor,"Okay, here we go. Good luck.",00:37:44
+acthyoy,282,student,Thank you.,00:37:47
+acthyoy,283,tutor,You're welcome. [unclear] [unclear],00:37:48
+acthyoy,284,tutor,Done?,00:39:11
+acthyoy,285,student,"Yeah, done.",00:39:11
+acthyoy,286,tutor,OK. Would you mind explaining to me how you did this?,00:39:12
+acthyoy,287,student,"So you use the same equation as before. But this time you've been given the number of sheep, that's the estimate. So you put that on the bottom and then you would equal— but then here it says 4 to 30 sheep that were caught or collected the second week. So you do the other fraction again.",00:39:16
+acthyoy,288,tutor,Mm-hmm.,00:39:33
+acthyoy,289,student,Because these values are only for x.,00:39:34
+acthyoy,290,tutor,Okay.,00:39:36
+acthyoy,291,student,"And then same again, cross multiply.",00:39:37
+acthyoy,292,tutor,Yes.,00:39:40
+acthyoy,293,student,30x 660. Mm-hmm.,00:39:41
+acthyoy,294,student,And then x 22 when you divide them. Yes.,00:39:44
+acthyoy,295,tutor,"So for this you get 1 mark, and for writing the correct answer you get 1 mark. So altogether you get? 2",00:39:48
+acthyoy,296,student,marks. Yes.,00:39:55
+acthyoy,297,tutor,"Okay, then let's move on to the next exam style question. Ready? Yeah.",00:39:57
+acthyoy,298,student,"Okay,",00:40:03
+acthyoy,299,tutor,here we go. Good luck. [unclear],00:40:03
+acthyoy,300,tutor,"Okay, would you mind explaining me what you did here?",00:41:36
+acthyoy,301,student,"So I did the same equation as before to find out how many estimated is, and I got the same answer, 100, as he did.",00:41:43
+acthyoy,302,tutor,Mm-hmm.,00:41:54
+acthyoy,303,student,And then we find out that some have been lost.,00:41:55
+acthyoy,304,tutor,Mm-hmm.,00:42:01
+acthyoy,305,student,"So then that would make it an overestimate because— I mean, an underestimate because some of the tags are lost. And we don't know how many fish. The more there could be, the— on tags and off tags.",00:42:03
+acthyoy,306,tutor,"Hmm, so you think it's underestimate now?",00:42:20
+acthyoy,307,student,"Yeah, underestimate.",00:42:26
+acthyoy,308,tutor,Why do you think it's underestimate now?,00:42:28
+acthyoy,309,student,Because some of the fish have lost their tags.,00:42:30
+acthyoy,310,tutor,Mm-hmm. So?,00:42:36
+acthyoy,311,student,"So you never know if they could be recaptured and then put the tag on. Okay, so according to the calculation he made, is it overestimate or underestimate is the question, okay?",00:42:38
+acthyoy,312,student,None.,00:42:54
+acthyoy,313,tutor,How do you think it's none?,00:42:56
+acthyoy,314,student,"Because when I calculated it, I got the same answer as he did, 100.",00:42:57
+acthyoy,315,tutor,"Yes, it was 100. But he doesn't know the real calculation. Yeah?",00:43:03
+acthyoy,316,tutor,[unclear],00:43:10
+acthyoy,317,student,Yes.,00:43:10
+acthyoy,318,tutor,"Okay, let's move on to the next slide. So when we are having something like this, if some of the marked items go missing, the fraction would be second sample marked over second sample total. Okay, the same calculation. But if you see this example, in this example they have put 4/15 and 5/15, and they have shown how much x would differ.",00:43:11
+acthyoy,319,tutor,Okay.,00:43:39
+acthyoy,320,student,Okay.,00:43:39
+acthyoy,321,tutor,So you're going to be expected the same way. You're going to show an example of saying this is overestimate or underestimate. Try and see with a different number and tell me whether it's overestimate or underestimate.,00:43:40
+acthyoy,322,student,"Sorry, can you please repeat that again?",00:43:56
+acthyoy,323,tutor,"Okay, in this, if you look at the values, They have added just one more to the population, second sample marked. Okay, and they get the x value lower when they added more.",00:43:59
+acthyoy,324,tutor,What do you mean by one more to the...,00:44:13
+acthyoy,325,student,"They have lost the tags, right?",00:44:17
+acthyoy,326,tutor,Yeah.,00:44:20
+acthyoy,327,student,"The fish has lost the tags. So first they have written 4, which is what he captured, and they have added one more to the fish. The sample, the second sample. It could be one of the three.",00:44:20
+acthyoy,328,student,Here he captured 40.,00:44:34
+acthyoy,329,tutor,Sorry?,00:44:37
+acthyoy,330,student,Here he captured 40. How would it be for—,00:44:38
+acthyoy,331,tutor,"No, no, this is an example of a different question.",00:44:42
+acthyoy,332,student,"Oh, alright, alright.",00:44:45
+acthyoy,333,tutor,You're supposed to do for this question.,00:44:48
+acthyoy,334,student,"So if it was this question, would it be 40 here? It's 12 of them were tagged, right?",00:44:50
+acthyoy,335,tutor,[unclear],00:44:58
+acthyoy,336,student,"So, we are going to increase.",00:44:58
+acthyoy,337,tutor,12 of the top.,00:44:59
+acthyoy,338,student,Yeah. We're going to increase the sample. But we're going to try this question next week.,00:45:00
+acthyoy,339,tutor,Okay.,00:45:06
+acthyoy,340,student,"Because we are running out of time. All right then, have a nice day. Bye.",00:45:07
+acthyoy,341,tutor,"You too, thank you.",00:45:11

@@ -1,0 +1,336 @@
+session_id,utterance_id,role,content,timestamp
+cfebpxa,0,tutor,"Hello, Silas. Can you hear me? [unclear]",00:00:00
+cfebpxa,1,student,Hello? [unclear],00:00:06
+cfebpxa,2,tutor,"Can you hear me, Silas?",00:00:14
+cfebpxa,3,tutor,"Hello? Can you hear me? Can you hear me, Silas?",00:00:27
+cfebpxa,4,student,I can't hear you. [unclear],00:00:39
+cfebpxa,5,tutor,"Okay, you can't hear me. Okay. Right, let me check. Hello?",00:00:52
+cfebpxa,6,tutor,"Can you hear me now? Okay, you can't hear me. [unclear] [unclear]",00:01:21
+cfebpxa,7,tutor,Okay.,00:01:52
+cfebpxa,8,tutor,Could you please check your headset? [unclear],00:02:07
+cfebpxa,9,tutor,Okay. All right. Great. [unclear],00:02:31
+cfebpxa,10,tutor,Can you please refresh your page? [unclear],00:02:56
+cfebpxa,11,tutor,"I can hear you now, Silas. Can you hear me? Hello? [unclear]",00:03:23
+cfebpxa,12,tutor,Great. Can you hear me now?,00:03:51
+cfebpxa,13,background,I can hear you now. [unclear],00:04:00
+cfebpxa,14,tutor,Okay.,00:04:05
+cfebpxa,15,tutor,"All right. Hello, can you hear me now? [unclear]",00:04:17
+cfebpxa,16,tutor,"Yeah, I can. Can you hear me?",00:04:36
+cfebpxa,17,tutor,"Oh, you can't hear me. Okay, okay. Okay, we'll see. But I can't hear you. [unclear]",00:04:44
+cfebpxa,18,tutor,"Okay, let's see. [unclear]",00:05:08
+cfebpxa,19,tutor,Could you please check your volume?,00:05:16
+cfebpxa,20,background,Turn up the volume.,00:05:20
+cfebpxa,21,tutor,Yeah.,00:05:24
+cfebpxa,22,background,I don't know because you just said something at the bottom where it says This one. And also you can do this. [unclear],00:05:24
+cfebpxa,23,tutor,Have you turned to the following chapter?,00:05:38
+cfebpxa,24,background,Yes.,00:05:47
+cfebpxa,25,tutor,Have you finished the page?,00:05:47
+cfebpxa,26,background,Yeah.,00:05:50
+cfebpxa,27,tutor,I'll get you another. [unclear],00:05:52
+cfebpxa,28,tutor,My Tutor is just getting me new headsets.,00:06:05
+cfebpxa,29,background,Okay. Alright. [unclear],00:06:08
+cfebpxa,30,tutor,"Yes, please.",00:06:29
+cfebpxa,31,student,"Okay, I'll just now— [unclear]",00:06:37
+cfebpxa,32,tutor,Hello?,00:06:46
+cfebpxa,33,tutor,Can you hear me now? [unclear],00:06:52
+cfebpxa,34,student,"No, I've just refreshed my page and I'm still talking. I think you're getting more of an echo.",00:06:57
+cfebpxa,35,tutor,"Okay, Silas. [unclear]",00:07:10
+cfebpxa,36,tutor,Do you want to text the one thing? [unclear],00:07:26
+cfebpxa,37,student,"No, I'll text all the days. [unclear]",00:07:33
+cfebpxa,38,tutor,Do you want to just text the lessons?,00:07:46
+cfebpxa,39,student,"Yeah, that would be great. Are you okay with it? Can we continue using the chat?",00:07:52
+cfebpxa,40,tutor,Continue. Using [UNCLEAR]. [Speaker:Tutor] Hello?,00:08:04
+cfebpxa,41,student,"Hello, can you hear me?",00:08:14
+cfebpxa,42,tutor,"Yes, I can.",00:08:16
+cfebpxa,43,student,"Okay, great. Okay, how are you doing today, Silas? I'm sorry we took like 5 minutes to figure out the thing, yeah?",00:08:17
+cfebpxa,44,tutor,"Pardon, sorry?",00:08:26
+cfebpxa,45,student,"Yeah, can you hear me now?",00:08:28
+cfebpxa,46,tutor,"Yes, I can hear you now.",00:08:31
+cfebpxa,47,tutor,"All right, that's great. So did you change your headset?",00:08:34
+cfebpxa,48,student,"No, I don't know because I think as I plugged it in, I think I accidentally knocked my headset plug out. So I think that's why I couldn't hear you.",00:08:38
+cfebpxa,49,tutor,"Yeah, yeah. Okay, so my name is [TUTOR_NAME]. I'll be your tutor for today's session.",00:08:52
+cfebpxa,50,tutor,Okay.,00:08:59
+cfebpxa,51,student,Okay. Yeah.,00:09:00
+cfebpxa,52,tutor,Great. Yes. So am I pronouncing your name correctly? Is it Silas?,00:09:01
+cfebpxa,53,student,"Yes, you are.",00:09:07
+cfebpxa,54,tutor,"Okay, great. So Silas, I think you started this lesson in your last session, yeah?",00:09:08
+cfebpxa,55,student,"Yes, I did.",00:09:15
+cfebpxa,56,tutor,Yeah. So you completed the first one and also the second slide.,00:09:17
+cfebpxa,57,student,Uh-huh.,00:09:22
+cfebpxa,58,tutor,And today we have to start with the third slide.,00:09:23
+cfebpxa,59,tutor,Okay.,00:09:26
+cfebpxa,60,background,Yeah.,00:09:27
+cfebpxa,61,tutor,"All right, great. And did you start this one, or is this the first time?",00:09:28
+cfebpxa,62,background,This is the first time.,00:09:35
+cfebpxa,63,tutor,"Okay, yes, all right. And to start off, could you please read this part for me?",00:09:38
+cfebpxa,64,background,"Yep, sure. When ordering numbers, we put them in ascending or descending order.",00:09:43
+cfebpxa,65,tutor,"Okay, any guesses on what ascending means and descending means?",00:09:51
+cfebpxa,66,student,Does ascending mean that you're going up? And then descending means that you're going down?,00:09:56
+cfebpxa,67,tutor,"That's correct. Here we go. Wonderful explanation, Silas. And now today we're gonna compare, like, all the numbers from smallest to largest or largest to smallest. Okay? [unclear] Yeah. Here we have 4 cards. And do you know what we have in the thousands place? In this number?",00:10:03
+cfebpxa,68,student,"Yes, 4.",00:10:28
+cfebpxa,69,tutor,"Okay, what's 4? Here we go. What we have in the tens place?",00:10:29
+cfebpxa,70,student,Zero. [unclear],00:10:35
+cfebpxa,71,tutor,"Yes, we have 5. Yes, we have 5 in the tens place. And which place has the highest value, ones or thousands? Thousands. Thousands. Here we go. And imagine you're gonna make the smallest number. No, let's start with the largest. So we're gonna make the largest number using these 4 cards. Which digit you are gonna put in the thousands place to make the largest number?",00:10:38
+cfebpxa,72,student,Would you put 5?,00:11:11
+cfebpxa,73,tutor,"Okay, so why would you select 5, 4, and 3?",00:11:18
+cfebpxa,74,student,"Because I think I'd select 5, 4, and 3 because if— because 5 is the greatest in these 4 numbers here.",00:11:25
+cfebpxa,75,tutor,Yeah.,00:11:36
+cfebpxa,76,student,And if the 4 here falls like— [unclear],00:11:37
+cfebpxa,77,student,"Okay, but it's not the largest out of these 4 numbers. 5 is like the largest, so I put 5, 4, and 3 here because that's like the largest number.",00:11:41
+cfebpxa,78,tutor,"That's correct. That's fantastic explanation, Silas. And could you please make the largest 4-digit number using these 4 cards?",00:11:54
+cfebpxa,79,student,"Yeah, sure. [unclear]",00:12:04
+cfebpxa,80,tutor,Okay. 5. [unclear],00:12:05
+cfebpxa,81,tutor,Is this the largest?,00:12:16
+cfebpxa,82,student,Yes.,00:12:19
+cfebpxa,83,tutor,"Okay, you can make a little bit more larger using these 4 digits. Change.",00:12:21
+cfebpxa,84,student,4?,00:12:26
+cfebpxa,85,tutor,"Uh-huh. 5 is okay, 4 is okay. Where would you put 0 and 5?",00:12:28
+cfebpxa,86,tutor,Alright.,00:12:35
+cfebpxa,87,student,"5, 4, 3, 0.",00:12:36
+cfebpxa,88,tutor,"Here we go. Then what would be the smallest number we can make using these 4 cards? Oh, that's really good, you put the comma as well. Great.",00:12:40
+cfebpxa,89,student,"[unclear] So smallest number. I know this may not be 1, but",00:12:49
+cfebpxa,90,student,"Would it be 5— no, 3, 0— no, 0, 3, 4, 5.",00:13:02
+cfebpxa,91,tutor,"Okay, that is a brilliant one, yeah.",00:13:13
+cfebpxa,92,student,"So 0, 3, 4, 5 and a comma.",00:13:17
+cfebpxa,93,tutor,"So what do you think, is it a must to put the 0 in front of 3?",00:13:23
+cfebpxa,94,tutor,"Not always, but if you— I don't know. Unless we could do 3,405.",00:13:29
+cfebpxa,95,student,"Yeah, that would be a good one, yeah. [unclear] [unclear]",00:13:42
+cfebpxa,96,tutor,And can you hear me?,00:13:54
+cfebpxa,97,student,"Yeah, I can. Sorry. I was just working out the last one.",00:14:17
+cfebpxa,98,tutor,Alright. Okay. And I was telling you I'm really happy you have a really good understanding about the value of the digits. Yeah? So keep up the good work.,00:14:22
+cfebpxa,99,student,Yeah.,00:14:33
+cfebpxa,100,tutor,Yeah. What about this one? Why you decide to pick this number?,00:14:34
+cfebpxa,101,student,"Because here's 4,530.",00:14:38
+cfebpxa,102,student,"But if I know 50 here is greater than 30, so I know that I— instead of putting 30 at the end, because that would just be copying this, I'll just put 5 here to make 50, so that I'll just make 5,350.",00:14:47
+cfebpxa,103,tutor,"Mm-hmm. Okay, so do you think this one is bigger than this one or smaller than this one?",00:15:05
+cfebpxa,104,student,"Oh, uh, it's smaller.",00:15:14
+cfebpxa,105,tutor,"Yeah, it seems smaller, yeah, but we have to make something bigger than this. Any guesses on making a big number compared to this?",00:15:16
+cfebpxa,106,student,"No, not that I can think of.",00:15:28
+cfebpxa,107,tutor,"Okay, I'll give you a small hint. You just have to change one number. Like you have to just flip two numbers in this number, then you will make something bigger than this and smaller than this. You have to change just two numbers.",00:15:32
+cfebpxa,108,student,[unclear],00:15:49
+cfebpxa,109,tutor,Mm-hmm.,00:15:49
+cfebpxa,110,student,Check with this.,00:15:55
+cfebpxa,111,tutor,Okay.,00:15:56
+cfebpxa,112,student,"Next to 3,450.",00:15:57
+cfebpxa,113,tutor,"Okay, that is a nice try, but let's compare the thousands. So 4,000 is bigger than 3,000, so I think this one is still bigger.",00:16:04
+cfebpxa,114,student,"Okay, so I've got a different one for the largest number over here. For the largest, would [unclear]",00:16:17
+cfebpxa,115,student,"Could I do like 50,040 or would that not work out?",00:16:29
+cfebpxa,116,tutor,"Mm-hmm. Okay, yeah, let's try that way. Let's try the largest one. Okay, I'm gonna erase this one as well.",00:16:39
+cfebpxa,117,student,[unclear] But I don't know if that's gonna— oh! I'd love a zero.,00:16:47
+cfebpxa,118,tutor,"Oh, we have to use all these 4 cards, Silas. And only once.",00:16:57
+cfebpxa,119,student,"Oh, whoa, no. So I don't mind 2. [unclear] Okay, let's do something like this. So let's think of the biggest number here after this, okay? And then after [unclear] this one, let's try to make the largest one. What do you think?",00:17:11
+cfebpxa,120,student,I think that,00:17:39
+cfebpxa,121,tutor,"Yeah, something a little bit larger than this one would come here.",00:17:48
+cfebpxa,122,student,[unclear],00:17:56
+cfebpxa,123,tutor,"Okay, let's put— so we can't use the 5 here, yeah? So 5 is something bigger. What would happen if we think of something in the 5,000s?",00:18:00
+cfebpxa,124,tutor,To here.,00:18:14
+cfebpxa,125,student,"So would that maybe be like, instead of doing 50, maybe I could do [UNCLEAR].",00:18:18
+cfebpxa,126,tutor,"Ah, [UNCLEAR]. [Speaker:Silas] Okay, got it something?",00:18:39
+cfebpxa,127,tutor,Yep.,00:18:44
+cfebpxa,128,student,Okay.,00:18:48
+cfebpxa,129,tutor,"4,000, 0 hundreds, but 53.",00:18:50
+cfebpxa,130,student,"Okay, I'm really happy with that. But I'm sorry, can you see this 5 hundreds is bigger than",00:18:57
+cfebpxa,131,tutor,100.,00:19:07
+cfebpxa,132,background,Yeah.,00:19:09
+cfebpxa,133,student,Yes.,00:19:09
+cfebpxa,134,tutor,Yeah.,00:19:10
+cfebpxa,135,background,"It would be 2000 and something, but I don't know what something could be.",00:19:11
+cfebpxa,136,tutor,"Yeah. So here, Silas, so if we take 4 into 1000, yeah, then we are— we left with 0, 5, and 3. They already used 5, which is the highest number, highest digit.",00:19:18
+cfebpxa,137,tutor,"Yeah. So, and then we have it 0 and 3. Once you put 0 or 3 in the hundreds, the number becomes smaller than this one, yeah?",00:19:35
+cfebpxa,138,student,"Uh, 4,350? [unclear]",00:19:48
+cfebpxa,139,tutor,"I got one for the largest too. So what I could do, 5,350 for that, and then for this I could type [unclear] I could probably type maybe like 4,000... [unclear] 4,350?",00:20:03
+cfebpxa,140,tutor,What do you think? I think it's still... Smaller than this one?,00:20:50
+cfebpxa,141,student,"Oh, oh yes, 5 in the— oh gosh, this is a tricky one.",00:20:56
+cfebpxa,142,tutor,"Yeah, this is tricky. So let's put 5 in the thousands place.",00:21:02
+cfebpxa,143,student,Yeah.,00:21:10
+cfebpxa,144,tutor,"Yeah, what would happen if you flip this 5 and 4?",00:21:12
+cfebpxa,145,student,"5,340.",00:21:17
+cfebpxa,146,tutor,"Yeah, yeah, let's go to try.",00:21:20
+cfebpxa,147,student,"But, and then, yes, again, if I do 5,340.",00:21:24
+cfebpxa,148,tutor,"Okay, then let's—",00:21:29
+cfebpxa,149,student,305s.,00:21:30
+cfebpxa,150,tutor,Yeah.,00:21:33
+cfebpxa,151,student,That's what I think.,00:21:34
+cfebpxa,152,tutor,"Mm-hmm. Okay, for this place, let's go with 5,340. Okay, and then let's think about larger than this one for this place.",00:21:37
+cfebpxa,153,student,"So 5,340?",00:21:57
+cfebpxa,154,tutor,"Yeah, I'm very sure that you can figure out something bigger than this for this place.",00:22:00
+cfebpxa,155,student,"Okay, so... [unclear] [Speaker] 5,400? No.",00:22:07
+cfebpxa,156,tutor,"Yeah, it is. [Speaker] 5,430?",00:22:23
+cfebpxa,157,tutor,"Here we go. Yeah, that's correct. [unclear] [Speaker] All right. And then for largest? I don't know what I could put.",00:22:27
+cfebpxa,158,tutor,"The number you told me. We can put in the largest, Silas.",00:22:42
+cfebpxa,159,student,"So maybe the largest could be [unclear] 43,000.",00:22:53
+cfebpxa,160,tutor,Mm-hmm.,00:23:06
+cfebpxa,161,student,053?,00:23:08
+cfebpxa,162,tutor,We can only have 4 digits. That's the thing. Yeah.,00:23:12
+cfebpxa,163,student,"43,000. [unclear] Oh, okay. I don't know what I could put.",00:23:16
+cfebpxa,164,tutor,"Okay, so we have 5 in the highest already, yeah?",00:23:37
+cfebpxa,165,student,Yeah.,00:23:42
+cfebpxa,166,tutor,So we can't make the thousands move higher.,00:23:43
+cfebpxa,167,student,Yeah.,00:23:46
+cfebpxa,168,tutor,"But we have 3 in the hundreds, yeah? Maybe we can make this hundreds something higher than 3.",00:23:46
+cfebpxa,169,student,Yeah.,00:23:57
+cfebpxa,170,tutor,So...,00:24:05
+cfebpxa,171,background,A big number in the [UNCLEAR]. [Speaker:Tutor] Yep.,00:24:07
+cfebpxa,172,background,"5,430.",00:24:11
+cfebpxa,173,tutor,"Yeah, let's go with the big star for that. Yes. It would be largest. It would be the largest. Yeah.",00:24:14
+cfebpxa,174,background,430.,00:24:21
+cfebpxa,175,tutor,"Here we go. It's really impressive, Silas, the way you keep trying. Okay, I'm really happy with that. Keep up the good work in future as well. Yeah?",00:24:24
+cfebpxa,176,student,Uh-huh.,00:24:34
+cfebpxa,177,tutor,"Okay, so I heard you are playing rugby.",00:24:35
+cfebpxa,178,student,"Yes, I am.",00:24:39
+cfebpxa,179,tutor,Are you playing for the school?,00:24:40
+cfebpxa,180,student,"Uh, no. I work for Newcastle.",00:24:42
+cfebpxa,181,tutor,"Oh, that's brilliant. Okay. How many years you're playing now? [unclear] How many years you're training as a rugby? Like, how many hours?",00:24:47
+cfebpxa,182,tutor,Yeah.,00:24:59
+cfebpxa,183,student,At least 5 hours.,00:25:01
+cfebpxa,184,tutor,"Oh, that is wonderful. Great.",00:25:03
+cfebpxa,185,student,"Yeah, the most tries that I've ever scored is about 50.",00:25:05
+cfebpxa,186,tutor,"Oh, really?",00:25:12
+cfebpxa,187,student,Yeah.,00:25:13
+cfebpxa,188,tutor,Great. So what's your favorite team? Harlequins.,00:25:14
+cfebpxa,189,tutor,"Mm, agreed.",00:25:19
+cfebpxa,190,student,I absolutely love the Harlequins. [unclear],00:25:21
+cfebpxa,191,tutor,Okay.,00:25:23
+cfebpxa,192,student,They are one of my topmost favorite team.,00:25:23
+cfebpxa,193,tutor,Uh-huh.,00:25:27
+cfebpxa,194,student,Because there's Marcus Smith and he's one of my most favorite players in the Harlequins team.,00:25:28
+cfebpxa,195,tutor,Okay.,00:25:36
+cfebpxa,196,student,And they are just so good.,00:25:37
+cfebpxa,197,tutor,"Yeah, so why you like rugby?",00:25:40
+cfebpxa,198,tutor,And what do you say for that?,00:25:42
+cfebpxa,199,student,"Because I always want to dream about being like a professional footballer, but then when I realised when I actually grew up, my mum always loved rugby and she was a rugby coach and she still is, so I've always wanted to be a rugby player, so now I am ending up to be a rugby player, so I am. And I'm in the under-11 now. So yeah. Hello? [unclear]",00:25:44
+cfebpxa,200,tutor,Okay. Did you hear me? [Speaker] Yeah.,00:26:31
+cfebpxa,201,tutor,Okay. [Speaker] So my mum was a rugby coach and...,00:26:35
+cfebpxa,202,tutor,"Oh, great. [Speaker] So my mum was a rugby coach and when she was... she's always wanted me to be a rugby player, like a professional, into like...",00:26:39
+cfebpxa,203,tutor,"Yeah, yeah. [Speaker]...like the [UNCLEAR] rugby and like the actual Six Nations.",00:26:55
+cfebpxa,204,tutor,Yeah.,00:27:00
+cfebpxa,205,background,"So I always wanted to be a rugby player so I can get fit because in the army— I've always wanted to be in the army too because both my granddads were in the army. So I've always wanted to be a rugby player too because, yeah, like I just said like 5 seconds ago, my granddads are in the army and in the army you can do rugby. So rugby's always— I've always wanted to be fit, so rugby always helps me to get fit. And you have to get fit in the army, and I've always just wanted to be in the army, so play rugby there. So yeah.",00:27:00
+cfebpxa,206,tutor,"Yeah, that's really good to hear. Really good to hear, Silas. It's wonderful. You know what you want to do, yeah? That's great.",00:27:39
+cfebpxa,207,student,Yeah.,00:27:47
+cfebpxa,208,tutor,"Yeah, you're a sports person then, more of a sports person.",00:27:48
+cfebpxa,209,student,Yeah.,00:27:51
+cfebpxa,210,tutor,"Yeah, definitely.",00:27:51
+cfebpxa,211,background,"Yeah, I can hear your sound as [UNCLEAR]. [Speaker:Silas] Yeah, and also when I go into Year 6, we're learning how to do rugby when we go in Year 6. So I'm gonna ask my PE teacher if I can demonstrate some tackling and stuff, because I'm absolutely in love with tackling.",00:27:53
+cfebpxa,212,tutor,"Yeah, yeah. So you are going to play like school teams when you are in year 6?",00:28:20
+cfebpxa,213,student,Yes.,00:28:27
+cfebpxa,214,tutor,"Oh, that's wonderful.",00:28:29
+cfebpxa,215,student,"Like we're doing it as a sport in year 6, so yeah, it's just really fun.",00:28:30
+cfebpxa,216,tutor,"Yeah, good luck. [unclear]",00:28:39
+cfebpxa,217,student,"If anybody in your family is like a footy fan, like football fan, don't tell them this, but rugby is better than football.",00:28:41
+cfebpxa,218,tutor,"You know, Silas, I'm more of a rugby fan than football. Yeah, it's very rare. Yeah, yeah, most of— yeah, most of them like football or cricket, but I'm a rugby person. Yeah. [unclear]",00:28:54
+cfebpxa,219,student,"Only like football, not rugby.",00:29:08
+cfebpxa,220,tutor,"Yeah, yeah.",00:29:10
+cfebpxa,221,student,"So most of the people in my class, but I have some people in my classroom that go to rugby with me, to the same one. So yeah, it's really nice to actually see some of my schoolmates go to the same rugby group as me and the same [unclear] group as me. So that's really nice, so I could play with them.",00:29:13
+cfebpxa,222,tutor,"Yeah, yeah, it's really nice to see me too, Silas, at rugby. Rugby fan.",00:29:36
+cfebpxa,223,tutor,"Yeah, yeah, I've honestly never seen a rugby fan talk to another rugby fan before.",00:29:42
+cfebpxa,224,student,"Yeah, yeah, yeah, that's true.",00:29:50
+cfebpxa,225,tutor,"And it's like, I honestly didn't know that you're a rugby player, so that's like [UNCLEAR]. [Speaker:Silas] Yeah, I'm not a rugby player, but I'm a rugby fan, yeah. [unclear]",00:29:53
+cfebpxa,226,tutor,"Oh, sorry, hold on.",00:30:07
+cfebpxa,227,background,What's your favourite rugby team?,00:30:10
+cfebpxa,228,tutor,I like New Zealand team.,00:30:15
+cfebpxa,229,background,"Okay, yeah, I do like them a little bit. It's just Harlequins, they've done the most tackles I've ever seen and they've done the most tries that I've ever seen. And the most tackles that I've ever done in a rugby tournament, gosh, is at least 100.",00:30:17
+cfebpxa,230,tutor,Yeah.,00:30:40
+cfebpxa,231,student,"So yeah, I've always just wanted to join the [unclear] and stuff. Yeah, it's just rugby is absolutely really fun. So yeah.",00:30:42
+cfebpxa,232,tutor,"Yes, yeah. Okay, Silas, okay, let's come back to the lesson. All right, so here we have some questions to do. Okay.",00:30:50
+cfebpxa,233,student,Yeah.,00:31:02
+cfebpxa,234,tutor,"This is the same thing. You have to order the numbers in the descending order, and you have to compare some numbers as well using the greater than and less than sign.",00:31:02
+cfebpxa,235,student,Yeah.,00:31:14
+cfebpxa,236,tutor,"And yeah, which one you like to start first? A, B, or C?",00:31:14
+cfebpxa,237,student,"Uh, A.",00:31:19
+cfebpxa,238,tutor,"Okay, let's go with A. So you have to make this 4 digits from descending.",00:31:23
+cfebpxa,239,tutor,Yeah.,00:31:29
+cfebpxa,240,background,Yeah.,00:31:30
+cfebpxa,241,tutor,Okay.,00:31:30
+cfebpxa,242,background,And we'll get— yeah.,00:31:30
+cfebpxa,243,student,So make 4-digit numbers using the digits below and arrange them in descending order.,00:31:33
+cfebpxa,244,tutor,"Right, okay. So what we're going to do is first of all, first off, we are going [Speaker] So do the smallest number. So what I'll do is 1,204, and then I'll do— and then for the next, I'll do 2,100. No, I'll just go. So 1,200. And 4. And then for the next one, I'm going to do— I'm going to do— I'm just going to do 2,000.",00:31:42
+cfebpxa,245,tutor,Yeah.,00:32:36
+cfebpxa,246,student,"So I'm going to do 2,000. [unclear]",00:32:39
+cfebpxa,247,tutor,"Yeah, that's nice. So I'm sorry to interrupt you, Silas, you're doing great. But see, this is descending. Yeah, descending means largest to smallest. Yeah, maybe we can just put these two numbers beside.",00:32:47
+cfebpxa,248,student,"Yeah, sure. [unclear] [unclear]",00:33:04
+cfebpxa,249,tutor,"Say 2, 1. I don't know how to look through this now. [Speaker:Silas]... 2, 1. Maybe I could maybe do like— can I use the number 1 again?",00:33:26
+cfebpxa,250,tutor,"You mean to make another number, a new number?",00:33:56
+cfebpxa,251,student,"Oh, okay.",00:34:00
+cfebpxa,252,tutor,"So let's put the largest number here, yeah?",00:34:02
+cfebpxa,253,student,"Yeah. [unclear] 4,231.",00:34:05
+cfebpxa,254,tutor,"Yeah, that's a good one.",00:34:15
+cfebpxa,255,student,"And then I could do— I don't know why I could put like— why I put 4,021. The one next to it, I don't know what I could put there.",00:34:17
+cfebpxa,256,tutor,"Hmm, okay, so here you made a tiny mistake, Silas, a tiny one. So here it should be the smallest one, yeah? So maybe, yeah, yeah, you have to change the places, yeah. Got it, yes, here we go. [unclear] [Speaker] And then here, I don't know what I could put here because could I maybe try 1, 2, something, 4?",00:34:34
+cfebpxa,257,tutor,"Okay. Okay, what is the biggest?",00:35:07
+cfebpxa,258,student,"2,000.",00:35:15
+cfebpxa,259,tutor,"Yeah, you got it. Yeah, you got it.",00:35:16
+cfebpxa,260,student,"3,000.",00:35:19
+cfebpxa,261,student,401.,00:35:24
+cfebpxa,262,tutor,"That's a goal. Yeah, you got it.",00:35:25
+cfebpxa,263,student,Yeah.,00:35:27
+cfebpxa,264,tutor,"Wonderful job, Silas. Keep up the good work. And what about this? You just have to decide which one is bigger and which one is smaller.",00:35:29
+cfebpxa,265,student,"Yeah, I want to try this. So I'm going to put it there.",00:35:38
+cfebpxa,266,tutor,This.,00:35:49
+cfebpxa,267,background,"Yes, that's great.",00:35:49
+cfebpxa,268,tutor,"Because that's the greatest. 4,562 is the greatest.",00:35:50
+cfebpxa,269,background,Yeah.,00:35:57
+cfebpxa,270,tutor,I'm going to put here— this.,00:35:57
+cfebpxa,271,background,"Yeah, that's correct. So why do you think that 4,521 is bigger than 4,512?",00:36:05
+cfebpxa,272,student,"I mean, because if you look, I know it's close to 4,000, but there's a but.",00:36:18
+cfebpxa,273,tutor,OK.,00:36:29
+cfebpxa,274,student,"Like 4,562, 4,521, 4,500, 4,500 and something.",00:36:30
+cfebpxa,275,tutor,"21, 62.",00:36:40
+cfebpxa,276,student,Yeah.,00:36:42
+cfebpxa,277,tutor,"60 is greater than 20 and 2 is greater than 1. So I know that's going to be 4,562. But for this one over here, 4,521, 4,512, 4,000, 4,000, 500, 500, 1, 2, 12, 21. 2 is greater than 1. [Speaker:Silas]...and 1 is less than 2, but it still doesn't matter because 20 is greater than 12, so that's going to be... [Speaker:Tutor] Exactly. [Speaker:Silas]...4,521 is greatest. [Speaker:Tutor] Yeah, that is a perfect explanation, Silas. Wonderful. And this is the last one.",00:36:42
+cfebpxa,278,student,"Well, if it's less... [unclear]",00:37:25
+cfebpxa,279,tutor,Yeah.,00:37:32
+cfebpxa,280,student,"1,000s.",00:37:34
+cfebpxa,281,tutor,Mm-hmm.,00:37:36
+cfebpxa,282,student,0 hundreds.,00:37:39
+cfebpxa,283,tutor,Mm-hmm.,00:37:40
+cfebpxa,284,student,Could it be 20?,00:37:42
+cfebpxa,285,tutor,"Yeah, yeah, it could be. This could be any number. Any number.",00:37:44
+cfebpxa,286,student,"Oh, okay, okay. [unclear]",00:37:48
+cfebpxa,287,tutor,Yeah.,00:37:51
+cfebpxa,288,student,"And then this would be the greater one, wouldn't it?",00:37:52
+cfebpxa,289,tutor,Yeah.,00:37:55
+cfebpxa,290,student,"Okay. So this one, that one would be the greater one. [Speaker] This will be the great one, so that would be 1,250. [unclear] 1,050.",00:37:56
+cfebpxa,291,tutor,Hello? [unclear],00:38:21
+cfebpxa,292,tutor,"Yeah, can you hear me?",00:38:41
+cfebpxa,293,student,"Yeah, I can now.",00:38:44
+cfebpxa,294,tutor,"Alright, so this is the last question of this lesson, Silas. What do you think about this one? After this, we can end the session.",00:38:46
+cfebpxa,295,tutor,"Okay, so... So, it's... Terrier has arranged 4-digit numbers in order. The largest number is 6420 and the smallest is 6,000... and the smallest is 6204.",00:38:54
+cfebpxa,296,tutor,Yeah.,00:39:19
+cfebpxa,297,student,The digit of each number add up to 12. What could the other two numbers be? So what does it mean by that?,00:39:20
+cfebpxa,298,tutor,"Okay, so it's like nothing big to do here, Silas. You have to think of four-digit number which adds up to— like if, for example, if you take this one, if you add 6, 4, 2, and 0. The total is 12. Yeah, and like that you have to figure out a 4-digit number. When you add the digits, the total should be 12, like here. [Speaker:Silas]... [UNCLEAR]",00:39:30
+cfebpxa,299,tutor,Yes.,00:40:00
+cfebpxa,300,student,Mm-hmm.,00:40:01
+cfebpxa,301,tutor,Yep. So I just have to make a number bigger than this and this.,00:40:02
+cfebpxa,302,tutor,"It could be big or small, it doesn't matter. You just have to figure out a number which adds up to 12.",00:40:19
+cfebpxa,303,student,"Well, for the largest, I would maybe do— it has to add up to 12.",00:40:26
+cfebpxa,304,tutor,"Yeah, yeah, like when you add— [unclear] add all digits together, the total should be a 12.",00:40:34
+cfebpxa,305,student,"Oh gosh, so, 3.",00:40:40
+cfebpxa,306,tutor,"Okay, yeah. [unclear]",00:40:57
+cfebpxa,307,tutor,"Let's use different digits, Silas. Yeah? This is great. 3 and 3 and 3 and 3, it's 12. But let's use—",00:41:06
+cfebpxa,308,student,"3, [UNCLEAR]. Could I still put 3,300? [Speaker:Tutor] Mm-hmm.",00:41:16
+cfebpxa,309,student,"Okay, 3,300.",00:41:19
+cfebpxa,310,tutor,"Okay, okay, yeah.",00:41:37
+cfebpxa,311,student,So...,00:41:40
+cfebpxa,312,tutor,"2 remaining, yeah. [Speaker:Silas]...2. [Speaker:Tutor] Yeah, that's good one. Let's make another one. [Speaker] So the next one could be 7,000.",00:41:44
+cfebpxa,313,tutor,Okay. [Speaker] 200. [unclear] [unclear],00:42:09
+cfebpxa,314,student,"7,200. 7,200 [unclear] and 2.",00:42:34
+cfebpxa,315,tutor,"Okay, yes, let's go with that. Okay, Silas, you did a wonderful job, okay? Right, you completed all the questions by yourself. That's wonderful. And great explanations as well. I really like your confidence.",00:42:41
+cfebpxa,316,tutor,Yeah.,00:42:57
+cfebpxa,317,background,We have one minute to go. Anything else you want to know in this lesson? [unclear] Okay. So what is meant by ascending?,00:42:57
+cfebpxa,318,student,Ascending means that you're doing greatest to latest.,00:43:07
+cfebpxa,319,tutor,"Ah, it can be smaller too.",00:43:12
+cfebpxa,320,student,Ascending means they do least to greatest.,00:43:16
+cfebpxa,321,tutor,Yeah.,00:43:21
+cfebpxa,322,student,Descending means that you do greatest to least.,00:43:21
+cfebpxa,323,tutor,"That's great. And then usually, you did a wonderful job. Really like how you keep trying in every page. Okay?",00:43:25
+cfebpxa,324,student,Okay. Yeah.,00:43:33
+cfebpxa,325,tutor,"Yes, and that's wonderful, your understanding about the place values. And yeah, it's really good to do a session with Silas, your regular tutor. We'll take up from next week, okay?",00:43:35
+cfebpxa,326,student,Can I just say something?,00:43:47
+cfebpxa,327,tutor,"Yeah, yeah, please, yes.",00:43:49
+cfebpxa,328,student,"Thank you so much. I really like it when I have like different tutors, and I've got to say thank you so much.",00:43:51
+cfebpxa,329,tutor,"Okay, you're welcome, and also good luck with your future. [unclear]",00:44:00
+cfebpxa,330,student,Thank you.,00:44:04
+cfebpxa,331,tutor,"Good luck with your writing career, okay?",00:44:04
+cfebpxa,332,student,Thank you.,00:44:07
+cfebpxa,333,tutor,"Alright, have a good day, Silas. Bye-bye.",00:44:08
+cfebpxa,334,student,You too. Bye-bye. [unclear],00:44:11

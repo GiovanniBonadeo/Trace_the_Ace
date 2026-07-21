@@ -1,0 +1,437 @@
+session_id,utterance_id,role,content,timestamp
+nlzxdus,0,tutor,Hello?,00:00:00
+nlzxdus,1,background,[unclear],00:00:00
+nlzxdus,2,student,Hello?,00:00:00
+nlzxdus,3,tutor,"Yes, Declan, can you hear me?",00:00:01
+nlzxdus,4,student,"Yes, I can hear you, yes.",00:00:02
+nlzxdus,5,tutor,Great.,00:00:04
+nlzxdus,6,tutor,"So yeah, Declan, how are you today?",00:00:06
+nlzxdus,7,student,"I'm good, thanks to you. How are you?",00:00:08
+nlzxdus,8,tutor,"Great, thank you for asking. And yes, so do you have anything special since we last met, Declan?",00:00:11
+nlzxdus,9,student,"Uh, no, not really, but my birthday's tomorrow.",00:00:19
+nlzxdus,10,tutor,"I'm sorry? [unclear] Pardon? I couldn't hear that, Declan.",00:00:24
+nlzxdus,11,student,"Oh, I said, um, not really, but my birthday's tomorrow.",00:00:30
+nlzxdus,12,tutor,"Oh, that's cool! Advance wishes!",00:00:33
+nlzxdus,13,tutor,Thank you. What about you?,00:00:36
+nlzxdus,14,student,"Not really. To me, like, yeah, not really, Tutor. I didn't have anything special around the week.",00:00:40
+nlzxdus,15,tutor,Okay.,00:00:47
+nlzxdus,16,background,"And yes, sir.",00:00:48
+nlzxdus,17,tutor,"So there we go. We'll start our new session for today, today, today. And topic for today is carving area and perimeter [UNCLEAR]. Can you give this session a try, please, Declan?",00:00:50
+nlzxdus,18,tutor,You don't want to actually solve it? You can like let me know the idea how do we solve this.,00:01:03
+nlzxdus,19,student,"Okay, so for this, would you work out the area of— what do you call this thing again? [unclear]",00:01:09
+nlzxdus,20,tutor,"trapezium, yeah.",00:01:09
+nlzxdus,21,background,Yeah.,00:01:09
+nlzxdus,22,tutor,"Which is this formula, and then I don't know what you do, because you just work out the area of this, this bit.",00:01:33
+nlzxdus,23,background,"Yes, so in this case they are asking you to find the area of the shaded portion, isn't it? The pink area.",00:01:48
+nlzxdus,24,tutor,Yeah.,00:01:53
+nlzxdus,25,background,So do you like have any idea how to just find this [UNCLEAR]?,00:01:54
+nlzxdus,26,tutor,"Because to figure out like this, side, would you do 18 minus 6, which would be 12? So this is 12 centimeters. [unclear]",00:01:54
+nlzxdus,27,tutor,"Alright, Declan, so it's alright. So yeah, there's a small mistake in what you did here. But let me ask you this, Declan, what is the like difference between area and perimeter?",00:02:12
+nlzxdus,28,student,"Oh, the area is you times the length by the width, and then the perimeter is you add all the sides together.",00:02:26
+nlzxdus,29,tutor,"Absolutely. Okay, so for perimeter, you give me a very profound thing. You add all sides together. For the area, is it always length times breadth?",00:02:31
+nlzxdus,30,tutor,Yes.,00:02:43
+nlzxdus,31,student,"All right. It's especially the rectangles or the square, we take length— the length times breadth. But for other shapes, like for example trapezium, this is how— this is the equation you use.",00:02:45
+nlzxdus,32,tutor,"Oh, yeah, yeah.",00:02:57
+nlzxdus,33,student,"So for circle, you have a different area. So we'll be learning how to do this. But just to give you an idea, like, how would you work this out? What you would do is, like, you will work out the perimeter— sorry, area of the trapezium first, and then you subtract the area of this square, and then you will be getting the area of this trapezium.",00:02:59
+nlzxdus,34,tutor,So you work out the area of the unshaded?,00:03:20
+nlzxdus,35,student,"Yes, you work out the area of the square which is unshaded, and then you, like, take it away from the area.",00:03:24
+nlzxdus,36,tutor,"Ah, okay. Yeah, got it.",00:03:31
+nlzxdus,37,student,And then you will be getting this. Yeah.,00:03:31
+nlzxdus,38,tutor,"So, not really, Declan. We'll be getting similar questions coming ahead, so we'll try that. And yeah, here we go. So this is your exam style question, the first exam style question to do. [unclear] Let me know if you want to share.",00:03:35
+nlzxdus,39,student,Okay.,00:03:52
+nlzxdus,40,tutor,Mm-hmm.,00:03:53
+nlzxdus,41,student,"Jenna is decorating her living room, and a diagram is shown below.",00:03:55
+nlzxdus,42,tutor,"Okay, and she wants to put new skirting board around the edge of the room. It costs £9.99 per 50 centimetres. How much would it cost together? So, okay, so would you work out the area of this?",00:04:00
+nlzxdus,43,student,"All right, what do you think it would be, the area?",00:04:22
+nlzxdus,44,student,"I'm not sure. Is it because like all of the sides? Actually, no. No, I'm not sure.",00:04:26
+nlzxdus,45,tutor,"Yeah, can you read this point once again, Declan?",00:04:34
+nlzxdus,46,background,"Yeah, she wants to put a new skirting board around the edge of the room.",00:04:37
+nlzxdus,47,tutor,"Alright, so what do you notice with the word edge of the room? What do you understand with the word edge of the room, Declan?",00:04:42
+nlzxdus,48,student,Like right at the side of the room.,00:04:47
+nlzxdus,49,background,"Absolutely, the sides of the room. So it's like the sides. Let me show you that. Okay, so this is like one side, another side, and this is the other side, and this goes like this and come back like this. If it is like all these sides together, would you call this the area?",00:04:50
+nlzxdus,50,tutor,"Oh no, you do the perimeter instead.",00:05:09
+nlzxdus,51,student,"Absolutely, absolutely. And if it is area, like, let me show— shade it too with a different color and show you that. Yeah. So area means like you spread the area which is spread out. So the whole space here, we would be calling it the area. And if you had to see under these borders, you call it the perimeter. Are you getting that stuff, Declan?",00:05:12
+nlzxdus,52,student,Yeah.,00:05:36
+nlzxdus,53,background,Yeah.,00:05:37
+nlzxdus,54,tutor,All right. So go on. Can you work this? Try working this out.,00:05:37
+nlzxdus,55,student,"Okay. So I'll do the perimeter instead, which is basically adding all the sides together.",00:05:40
+nlzxdus,56,tutor,So that would be...,00:05:48
+nlzxdus,57,student,absolutely.,00:05:48
+nlzxdus,58,tutor,"Okay, I'll do it on my calculator. So 3.5, add 1, add 1, add 4, and then to figure out this little bit, I'll do 4 minus 1, which is 3, so plus 3. And then to figure this bit out, I'll do 3.5 minus 1, which is 2.5. [unclear]",00:05:48
+nlzxdus,59,tutor,Yeah. Okay. All right. Watch out for something. You made a small mistake.,00:06:25
+nlzxdus,60,student,"Oh, meters.",00:06:33
+nlzxdus,61,tutor,Awesome. There you go.,00:06:34
+nlzxdus,62,student,"Yeah. Okay. And it costs $9.99 per 50 centimeters. So I'll convert my meters into centimeters, which would be times 100, so 1,500 centimeters.",00:06:36
+nlzxdus,63,tutor,Awesome.,00:06:57
+nlzxdus,64,student,Yep. And then I'll divide that by 50.,00:06:58
+nlzxdus,65,tutor,Yeah.,00:07:05
+nlzxdus,66,background,Yeah.,00:07:05
+nlzxdus,67,student,"Okay, which would give me— [unclear]",00:07:07
+nlzxdus,68,tutor,30?,00:07:12
+nlzxdus,69,student,That's right.,00:07:13
+nlzxdus,70,tutor,And then I'll do 30 times 9.99. [unclear] Which would give me 299.70p.,00:07:15
+nlzxdus,71,tutor,"Awesome, Declan. That's actually a good working out. So yes, your answer is right. So 299.70, and we'll just check the marking out for this, the marks for this, Declan. So this is a 4-mark question, and for your final answer, you would obviously be getting 1 mark. And also, for showing this multiplication, like you multiply 30 times 9.99, you'll be getting another mark.",00:07:35
+nlzxdus,72,tutor,"And also for finding 15 meters is the perimeter, you would be getting another 1 mark. And for finding the unknown values— I know you actually found it, but it's always best to show that in the diagram. For finding that, you would be getting 1 mark there, Declan. So only if you find that, you would be able to get the perimeter. So you did that correctly, so you would be getting 4 marks for this question. And it's a very good start. Keep up your good work, Declan. [unclear] Yes, and but before we go into the next question, Declan, can you like give me anything we have to remember out from this?",00:08:04
+nlzxdus,73,student,"Yes, if it's finding the edges.",00:08:43
+nlzxdus,74,tutor,Absolutely.,00:08:47
+nlzxdus,75,student,And it would be to find the perimeter of the shape.,00:08:47
+nlzxdus,76,tutor,Fantastic. And what do you understand with the word area? [unclear],00:08:51
+nlzxdus,77,tutor,I forgot what we said for it.,00:08:55
+nlzxdus,78,student,"So what do you understand with the word area? Like, what do you think if the area means?",00:09:01
+nlzxdus,79,tutor,"Oh, it's just like a specific part.",00:09:07
+nlzxdus,80,student,"The part, the whole place, or like—",00:09:11
+nlzxdus,81,tutor,"Yeah, like the whole place.",00:09:13
+nlzxdus,82,student,"Yeah, the whole place here, we call it the area. Anyway, yeah.",00:09:16
+nlzxdus,83,tutor,"That is for the beginning, and we have some other questions coming ahead. Here we go, Declan.",00:09:20
+nlzxdus,84,student,Okay.,00:09:26
+nlzxdus,85,background,[UNCLEAR],00:09:26
+nlzxdus,86,student,"Okay, so Ian has dug a flowerbed in his garden, and the diagram is shown below. He wants to cover it with flower seeds costing £1.99 per pack— per packet, sorry. Each packet covers 3 metres squared. How much will it cost to cover the entire flowerbed?",00:09:29
+nlzxdus,87,student,This one would— I do area of the triangle.,00:09:51
+nlzxdus,88,tutor,Okay.,00:09:56
+nlzxdus,89,student,"I mean, sorry, square. So not square, circle, sorry.",00:09:57
+nlzxdus,90,tutor,"All right, there you go.",00:10:06
+nlzxdus,91,student,"Yeah, good. Yeah, so— [unclear]",00:10:08
+nlzxdus,92,tutor,"Yeah, would you do just 2 times 2?",00:10:14
+nlzxdus,93,tutor,[unclear],00:10:22
+nlzxdus,94,student,"Okay, let me ask you this, Declan. Here we have to figure out the area, or is it the perimeter?",00:10:22
+nlzxdus,95,tutor,Is it the area? Because you're finding the whole—,00:10:29
+nlzxdus,96,student,The whole shape.,00:10:34
+nlzxdus,97,tutor,"Yes, the whole flower bed. Yes. So the area is right. What do you think is the area's equation of a circle?",00:10:35
+nlzxdus,98,student,"Oh, it's pi times— what is it? Radius squared, is it?",00:10:44
+nlzxdus,99,tutor,"Yes, that's right. So that would be on [UNCLEAR].",00:10:50
+nlzxdus,100,student,"Okay, so it would be pi times 2 squared. Okay, that'll give me 4 pi. Or can I give it in—",00:10:50
+nlzxdus,101,tutor,Yeah?,00:11:09
+nlzxdus,102,student,"Yes, I got 12. Are we doing it to one decimal place or two?",00:11:10
+nlzxdus,103,tutor,"Yes, Declan, you can write in decimal places.",00:11:16
+nlzxdus,104,student,That's the area of the circle?,00:11:20
+nlzxdus,105,tutor,Yeah.,00:11:25
+nlzxdus,106,student,Okay.,00:11:27
+nlzxdus,107,tutor,Yeah.,00:11:29
+nlzxdus,108,student,And then what am I doing?,00:11:31
+nlzxdus,109,tutor,Let's do cover it with a flower seed costing [unclear] per packet. Each packet costs 3 meters. And then how would I go about it after I do the area?,00:11:34
+nlzxdus,110,student,"Okay, so once I've done the area, now since we have to find this flower bed area, this part, what do you think is going to be the next step? So maybe just tell me the next step and I can guide you through that.",00:11:46
+nlzxdus,111,tutor,"Sorry, can you say that again, please?",00:12:02
+nlzxdus,112,student,"Yeah, let me repeat that. So you have found the area of the circle. That's a [UNCLEAR].",00:12:04
+nlzxdus,113,tutor,"Yeah, that's right.",00:12:04
+nlzxdus,114,student,And what do you think would be the next step?,00:12:11
+nlzxdus,115,background,I'm not sure.,00:12:14
+nlzxdus,116,background,"Then, did you see how much 3 meters squared covers?",00:12:16
+nlzxdus,117,student,"Okay, so which section do you think is the flowerbed here? Is it the pink area or is it this area?",00:12:22
+nlzxdus,118,student,It's this area.,00:12:30
+nlzxdus,119,tutor,"Okay, this part is the flower bed area. All right, I show you that?",00:12:32
+nlzxdus,120,student,Yeah. [unclear],00:12:41
+nlzxdus,121,tutor,"Okay, so this bit is the flower bed.",00:12:42
+nlzxdus,122,student,"All right, so that is right. The pink area is going to be the flower bed. And so this part over here is— now we have found the total circle area. Let me like— Draw you the circle there. So you have— [unclear] So this was like the whole circle. And this was like an extra part in your area, isn't it?",00:12:46
+nlzxdus,123,student,Yeah.,00:13:10
+nlzxdus,124,tutor,Yes. So what do you do for this extra part here?,00:13:11
+nlzxdus,125,student,"Oh, would you try to work out the area of this bit as well?",00:13:15
+nlzxdus,126,tutor,Absolutely. And then? And then would you add it to the total area or whatever area we found of this?,00:13:19
+nlzxdus,127,tutor,"Alright, why do you think we would add that to?",00:13:29
+nlzxdus,128,student,"Is it because we were trying to see how much it covers— oh, how much it costs to cover the whole flower bed?",00:13:31
+nlzxdus,129,tutor,"Alright, let me repeat that to you, Declan. So this, the pinkish area, is the flower bed, isn't it?",00:13:40
+nlzxdus,130,student,"Yes. And the area you have just found, is it for the whole circle or is it only this [unclear] area?",00:13:48
+nlzxdus,131,tutor,"Oh yeah, only this.",00:13:54
+nlzxdus,132,student,"All right. So the area 12.57 is for this— for this section only, the pinkish area only. Is it what you mean?",00:13:56
+nlzxdus,133,tutor,Yes.,00:14:07
+nlzxdus,134,student,"All right. So there you go. That's where you made a mistake. And let me show you that to you, Declan. So",00:14:08
+nlzxdus,135,tutor,"A circle here. So if you have got a circle, how would you find the area once again?",00:14:16
+nlzxdus,136,student,You do pi times radius squared.,00:14:22
+nlzxdus,137,tutor,"Yes, you do pi times the r squared. And let me write that on the side, right? Right here. So you have pi and then you have r and then— [unclear] So you have r and a square. Yeah. And if I would ask you to find half of this, how would you find that? Like,",00:14:25
+nlzxdus,138,tutor,Like half the circle?,00:14:48
+nlzxdus,139,background,"Absolutely, half the circle. So what would be the equation for that?",00:14:50
+nlzxdus,140,student,[unclear],00:14:53
+nlzxdus,141,background,I forgot that one.,00:14:58
+nlzxdus,142,tutor,"Okay, so it's like you take the same pi r², but you just half it too.",00:15:00
+nlzxdus,143,background,"Oh yeah, you just divide it, okay.",00:15:05
+nlzxdus,144,tutor,"You just divide it by 2. And then if I ask you a 3/4, this much, like an extra piece there? The flower, the shape of your flower bed. So how would you find this one, Declan?",00:15:06
+nlzxdus,145,student,[unclear],00:15:19
+nlzxdus,146,tutor,Okay.,00:15:20
+nlzxdus,147,student,And would you do—,00:15:21
+nlzxdus,148,tutor,Okay.,00:15:22
+nlzxdus,149,student,You could say you'd figure out half and then figure out the quarter.,00:15:23
+nlzxdus,150,tutor,Okay.,00:15:28
+nlzxdus,151,student,I'm not sure how you would figure out the quarter.,00:15:28
+nlzxdus,152,tutor,"All right. So to help you with this, okay, we're moving into the next slide, Declan. So this slide is there to help you. So this is the way they're going to help us. [unclear] And the same question is repeated here, and we'll see how do we work through this. And the first step here, can you let me— can you please go through this and let me know what you understand from this?",00:15:32
+nlzxdus,153,student,"Yeah, yeah. So the area of the shape is the amount of space inside it, and find the area of the flower bed, and then it gives the area.",00:15:56
+nlzxdus,154,tutor,"Okay, this is pi times r squared.",00:16:06
+nlzxdus,155,student,"Pi times r squared. And now pi times r squared is for the whole square, isn't it? Sorry, whole circle. [unclear] And if I have to find 3/4 of the circle, how would you like to find the area of that, Declan?",00:16:09
+nlzxdus,156,background,"Would you do, um...",00:16:25
+nlzxdus,157,tutor,3/4 of a circle. [unclear],00:16:33
+nlzxdus,158,student,"Wait, I feel like I know, but then—",00:16:39
+nlzxdus,159,tutor,"Okay, let me help you with this once again. So the same thing we should do here, I'll just erase this and show you. If it is half of a circle, how would you like to find it?",00:16:43
+nlzxdus,160,student,"Oh yeah, you divide it by 2 after I count the area.",00:16:52
+nlzxdus,161,tutor,"Absolutely. So it's like Let me write it there. So you have 1/2. Okay, so 1/2 into πr². Do you agree with this?",00:16:56
+nlzxdus,162,tutor,Yes.,00:17:06
+nlzxdus,163,student,"Okay, so if it is 1/2, you do 1/2 into πr². And if it is 3/4, how do you think you could do that?",00:17:07
+nlzxdus,164,background,[unclear],00:17:16
+nlzxdus,165,tutor,If it is the shape. [unclear],00:17:17
+nlzxdus,166,tutor,"I don't know, like—",00:17:25
+nlzxdus,167,background,"All right, so what is the area of the whole triangle— sorry, whole circle table around this total point? Around the center, what is the angle, do you think?",00:17:29
+nlzxdus,168,student,360.,00:17:40
+nlzxdus,169,background,"360. And what is the angle at this place only, the area of your section?",00:17:42
+nlzxdus,170,student,Would it be 260?,00:17:49
+nlzxdus,171,tutor,"Alright. How did you figure this out, Declan?",00:17:54
+nlzxdus,172,student,"Because if I like split this into 4, each section would be 90.",00:18:03
+nlzxdus,173,tutor,Yes.,00:18:09
+nlzxdus,174,student,"And I have 3 90s. Oh, so it's 270, sorry.",00:18:09
+nlzxdus,175,tutor,Fantastic. So there you go. So you have 270 out of 360.,00:18:12
+nlzxdus,176,tutor,"Yeah, like that, 360. And when you simplify this, what would be the fraction?",00:18:17
+nlzxdus,177,student,"The rest will come like around the circle, and then a cuboid is rectangles, so I'm just going to—",00:18:23
+nlzxdus,178,tutor,"Check in the terms of 90, I'll give you a clue.",00:18:34
+nlzxdus,179,student,"Okay, okay, let me do that. [unclear]",00:18:36
+nlzxdus,180,tutor,"So it would be 3 over 4. Fantastic, that would be 3 over 4. Book. So if it is 3/4, this is how we figure out. I'll tell that to you. 3/4 πr². That would be the equation we would be using there. Are you getting that, Declan?",00:18:38
+nlzxdus,181,student,"Oh, 3/4 πr².",00:18:56
+nlzxdus,182,tutor,"Okay, and let me ask you this as well. Okay, we'll check with the [UNCLEAR]. You can try this. If it is just 1/4, what do you think is the area? How could you find the area?",00:18:59
+nlzxdus,183,student,Would you do 1/4 πr²?,00:18:59
+nlzxdus,184,tutor,"Fantastic, there you go. You're on the right track now.",00:19:12
+nlzxdus,185,student,"Yeah, okay. So coming back to this, since we have to find the area of this part only, how do you think we could find that?",00:19:14
+nlzxdus,186,tutor,"You do— to find out the last quarter, you do 1/4 pi r squared.",00:19:25
+nlzxdus,187,student,"Absolutely. Can you— so it— all right, let me come to this section. The flower bed area, the pink [unclear] area. So if it is the pink section, would it be 1/4 actually?",00:19:31
+nlzxdus,188,background,"Oh no, it would be 3/4.",00:19:43
+nlzxdus,189,tutor,Fantastic. There you go. So yeah.,00:19:45
+nlzxdus,190,tutor,It's your turn to solve it. Can you find the area of the carpet now?,00:19:48
+nlzxdus,191,student,Yes. I don't know how to set it up here.,00:19:52
+nlzxdus,192,tutor,"Oh, for this part? [unclear]",00:19:56
+nlzxdus,193,student,"Yeah, I just want to figure out.",00:19:57
+nlzxdus,194,tutor,"Right, we made a mistake again. Would that be 1/4?",00:20:03
+nlzxdus,195,student,"Sorry, 3/4. 3/4 πr².",00:20:06
+nlzxdus,196,tutor,All right.,00:20:11
+nlzxdus,197,tutor,It should be—,00:20:14
+nlzxdus,198,student,A rhombus is more like—,00:20:17
+nlzxdus,199,tutor,A vector.,00:20:19
+nlzxdus,200,student,Mm-hmm.,00:20:21
+nlzxdus,201,tutor,"I think. Well, it has longer sides, maybe.",00:20:23
+nlzxdus,202,background,[unclear],00:20:27
+nlzxdus,203,tutor,"Let me know if you want any help, Declan.",00:20:27
+nlzxdus,204,student,"Mm-hmm. Okay, so I got— oh, I got rid of it. Sorry.",00:20:34
+nlzxdus,205,tutor,Um—,00:20:39
+nlzxdus,206,student,Does it have more like—,00:20:40
+nlzxdus,207,tutor,It's like a diamond.,00:20:44
+nlzxdus,208,student,I got it.,00:20:45
+nlzxdus,209,tutor,And then it has all 5 things in there.,00:20:47
+nlzxdus,210,background,"Yeah, I'm following.",00:20:51
+nlzxdus,211,tutor,"All right. There you go, fantastic. But since you are writing about the area, you have to write something at the end.",00:20:54
+nlzxdus,212,student,Yeah.,00:21:04
+nlzxdus,213,tutor,"Oh, yes. [unclear]",00:21:04
+nlzxdus,214,tutor,"Yes, absolutely. [unclear]",00:21:08
+nlzxdus,215,tutor,"Correct, awesome. And yes, let me give you a check for this. Your work is fine so far. And now for the second part, we'll go through this, but can you let me know, so since you have found the area of this part, let me get this cleared. And since you know the area of this part, how do you think you could work out the rest? With this detail, Declan?",00:21:13
+nlzxdus,216,student,"Okay, so each packet covers 3 meters squared. So would one equal 3 meters squared? [unclear]",00:21:38
+nlzxdus,217,tutor,"All right. Okay, let me ask you this. Now, what is the total area do we have here?",00:21:57
+nlzxdus,218,tutor,"Oh, we have the 3/4 here. That's the total we have here.",00:22:04
+nlzxdus,219,student,"So 3/4, so it means 9.42 meters squared, isn't it?",00:22:07
+nlzxdus,220,tutor,"Yeah, yeah.",00:22:12
+nlzxdus,221,student,"And out of this, like, we have 3 meters. We can, like, break this out to 3 meters because they have told you 3 meters squared is covered by each packet. So how many meters squared would be taken here? I mean, like, how many packets does this need? How many packets of seeds? All right, there you go. So that is what they're asking you to find out here, Declan. So work out how many packets of seeds are needed here.",00:22:13
+nlzxdus,222,student,So you have 4.,00:22:38
+nlzxdus,223,tutor,"Yeah, okay. Yes, and yeah, before that, Declan, can you let me know how did you get that 4 there? You're right.",00:22:41
+nlzxdus,224,background,"We already knew that 3 equals [UNCLEAR]. 9, and that means one more must— what do you call it? And we know that another— each one covers 3, and we have 3 covered here, so that's 9, which means the last one is another 3, which is 12.",00:22:54
+nlzxdus,225,tutor,"Absolutely, absolutely. So yeah, sure.",00:23:15
+nlzxdus,226,student,I feel a bit confident.,00:23:18
+nlzxdus,227,tutor,"Alright, we made a mistake, that's okay. So that's her base, alright? Okay, it's all right, but there's a small mistake here once again. Now we know the area of this part, isn't it?",00:23:21
+nlzxdus,228,tutor,Yeah.,00:23:32
+nlzxdus,229,student,Yes.,00:23:33
+nlzxdus,230,tutor,"Yes. And okay, what would be the area of the flower bed?",00:23:33
+nlzxdus,231,background,[unclear],00:23:37
+nlzxdus,232,tutor,"Um, 3/4.",00:23:40
+nlzxdus,233,background,"All right, 3/4. And what— yeah, the exact value would be 9.42.",00:23:42
+nlzxdus,234,student,9.42. Okay.,00:23:47
+nlzxdus,235,tutor,"Okay, what are the other details you know here, Declan?",00:23:49
+nlzxdus,236,student,Each packet covers 3 meters square.,00:23:52
+nlzxdus,237,tutor,3 meters square.,00:23:55
+nlzxdus,238,tutor,Great. So how many packets would be needed to cover the flowerbed area only here?,00:23:56
+nlzxdus,239,student,3.,00:24:02
+nlzxdus,240,tutor,"Yeah. Okay, how do you find that?",00:24:03
+nlzxdus,241,background,Yeah.,00:24:06
+nlzxdus,242,tutor,"Oh, so you just do 9.42 divided by 3.",00:24:07
+nlzxdus,243,background,"Awesome, that's right. [unclear] Yeah.",00:24:13
+nlzxdus,244,tutor,Okay.,00:24:28
+nlzxdus,245,student,"Oh, yeah, because it's mirrored.",00:24:29
+nlzxdus,246,tutor,"All right, 3.14. So you can like let us know in this place like how many quarter packets do we need?",00:24:36
+nlzxdus,247,tutor,So you need 4.,00:24:47
+nlzxdus,248,tutor,"Absolutely. How did you know that it would be 4, Declan?",00:24:51
+nlzxdus,249,student,"Because it's— well, I know we need 4 packets because we only figured out 3/4 and each packet covers 3 and this isn't above 3. So yeah, I know we needed 4.",00:24:55
+nlzxdus,250,tutor,"And yes, absolutely. And that's a really appreciative thing, like the presence of mind there was very good.",00:25:10
+nlzxdus,251,tutor,"And yes, your next part, Declan. So how would you work out the next part, the cost for the entire flat?",00:25:17
+nlzxdus,252,student,"OK, and then would you just do— [unclear] times 5 feet.",00:25:23
+nlzxdus,253,tutor,Absolutely.,00:25:31
+nlzxdus,254,student,Which should give me— [unclear],00:25:35
+nlzxdus,255,tutor,"Okay, fantastic, and finally we are at the answer. So yes, very good, [UNCLEAR], and I really appreciate your patience throughout this live session.",00:25:46
+nlzxdus,256,student,I appreciate your patience.,00:25:46
+nlzxdus,257,tutor,"Not really, your patience is low. So let's do the marks breakout for this session. So your final answer would obviously be getting one mark there. And also for finding that you take 4 packets, you would be getting another marks there. And for finding this area, you would be getting 2 marks. Like, the first thing is for finding [UNCLEAR], like for finding 12.57, you will be getting 1 mark. And then you are doing 3/4 of that and finding the final value, 9.42, you would be getting a mark. Are you getting that point, Declan?",00:25:59
+nlzxdus,258,student,"I am, but I'm a bit confused because I know we've— I worked out the area of this first.",00:25:59
+nlzxdus,259,tutor,Yeah.,00:26:46
+nlzxdus,260,student,"And then— [unclear] Yeah, I don't understand what we did here because I know we did the area again.",00:26:47
+nlzxdus,261,tutor,"Alright, let me tell you that once again, Declan. So let's come back to this phrase and let me get this cleared or rubbed out. So here we go. Okay, let me get this rubbed out as well. So now they told us like, 'Ian has dug a flowerbed in his garden,' and this This pink section is our flower bed. Is that clear?",00:26:56
+nlzxdus,262,tutor,Yes.,00:27:20
+nlzxdus,263,student,"Yes. And we never have a direct equation for this, like for 3/4 of a circle, we don't have a direct equation. We know the equation for a circle. What would be the equation for a circle to find the area of a circle?",00:27:21
+nlzxdus,264,background,It's π times r².,00:27:37
+nlzxdus,265,tutor,"π times r². Fantastic. So πr². And by πr², when you applied that, you got this [UNCLEAR].",00:27:40
+nlzxdus,266,tutor,"Answer, isn't it? [unclear]",00:27:48
+nlzxdus,267,student,Yeah.,00:27:50
+nlzxdus,268,tutor,"Yes. So let me write that on the side. Okay, so 12.57 meters squared. So this was only for the whole circle.",00:27:50
+nlzxdus,269,background,"Oh, okay. Yeah.",00:28:00
+nlzxdus,270,tutor,"Yeah. So this was for the whole circle, but we need— hold on, sorry. So, but we need not know the whole circle. We need only 3/4 of the circle because the flower bed area is only this section, right?",00:28:02
+nlzxdus,271,background,Yeah.,00:28:16
+nlzxdus,272,tutor,Yes.,00:28:17
+nlzxdus,273,student,"Oh, I mean [UNCLEAR].",00:28:17
+nlzxdus,274,tutor,"Yes, we don't actually want this part. So it's like your home garden and you have a circle garden. And in the circle garden, you just plant only in this 3/4 area. You don't want this part. You just— maybe this is your marbled area or tiled area. You don't plant anything there. So this part is like ignored from your garden. So you are just planting only in this section, isn't it?",00:28:17
+nlzxdus,275,tutor,"Yeah, like, yeah. So you're planting only in the 3/4 of a circle, isn't it? [unclear] So what is— yes. So if it is 3/4 of a circle, you know the area of the circle. The area of the circle was 12.57. The area of the whole circle was 12.57. Yeah.",00:28:44
+nlzxdus,276,student,Yes.,00:29:05
+nlzxdus,277,tutor,So your next part is like 3/4 of,00:29:05
+nlzxdus,278,tutor,"12.57, which was the area of— 12.57 meters squared, which was your area.",00:29:11
+nlzxdus,279,student,Is this making sense?,00:29:18
+nlzxdus,280,tutor,"That's making sense, yeah. And then we got 9—",00:29:19
+nlzxdus,281,student,"Yes, and then—",00:29:23
+nlzxdus,282,tutor,[unclear],00:29:23
+nlzxdus,283,student,"And yes, and then when you like multiply that, you would be getting the answer 9. And then you solve the rest.",00:29:23
+nlzxdus,284,tutor,"Okay, okay, I get this. All right, so we have a similar question like this, Declan. We'll check whether you can solve this. But the thing you have to remember without forgetting is the area of a circle. And what is the equation for the area once again?",00:29:31
+nlzxdus,285,tutor,It's π times r².,00:29:46
+nlzxdus,286,student,"r². And if I would ask you, like, if I have to find the area of half of this circle, how could you actually solve it?",00:29:48
+nlzxdus,287,background,"Um, you'd figure out the area and then half that answer.",00:29:57
+nlzxdus,288,tutor,"Absolutely. So it's like half of the circle. In this case, we found 3/4 of the circle. In the other case, we would be like finding half of the circle.",00:30:02
+nlzxdus,289,tutor,Okay.,00:30:09
+nlzxdus,290,student,"And yes, so we have a similar question, but this is not a circle this time. We have a different diagram. Go and check it out, it's okay. You can take pauses, explain it before.",00:30:10
+nlzxdus,291,background,"Okay. Oh wait, I kind of remember these. So Alex wants to carpet his dining room. A diagram is shown below.",00:30:21
+nlzxdus,292,tutor,Okay.,00:30:30
+nlzxdus,293,background,"The carpet can only be bought in rolls. Each roll would cover 4 meters squared and will cost £25.99, and he has budgeted £200 for the carpet. Does he have enough money? [unclear]",00:30:32
+nlzxdus,294,tutor,Okay.,00:30:45
+nlzxdus,295,student,Then it says a compound shape is a shape made of two or more smaller shapes. Break it into pieces and sum the areas together.,00:30:46
+nlzxdus,296,tutor,"Yeah, I kind of remember doing this.",00:30:55
+nlzxdus,297,background,"Awesome. So yeah, go for it.",00:30:57
+nlzxdus,298,tutor,"Okay, so then I'll split it here.",00:31:00
+nlzxdus,299,student,Yeah?,00:31:03
+nlzxdus,300,tutor,"Yeah, I'm gonna split it here. And then I'll name it—",00:31:05
+nlzxdus,301,student,The second—,00:31:10
+nlzxdus,302,tutor,This one will be A. This one can be B. [unclear],00:31:12
+nlzxdus,303,tutor,And then I'll work out the area of A.,00:31:19
+nlzxdus,304,student,Yeah.,00:31:22
+nlzxdus,305,tutor,Which will just be 3 times 7.,00:31:23
+nlzxdus,306,student,Which gives me 21 meters squared.,00:31:26
+nlzxdus,307,tutor,"Yeah, that's right. [unclear]",00:31:30
+nlzxdus,308,student,"Okay, yeah. And then I'll find the area of B.",00:31:35
+nlzxdus,309,tutor,"Okay, can you hear them?",00:31:40
+nlzxdus,310,student,"Which would be— oh, where's the letter? Okay. Okay. It should be 2 times 5 because I do 8 minus 2.",00:31:42
+nlzxdus,311,tutor,Fantastic.,00:31:58
+nlzxdus,312,student,to give me 10 metres squared.,00:31:58
+nlzxdus,313,tutor,Yep.,00:31:58
+nlzxdus,314,student,And now add those together and I'll get 31 metres squared.,00:32:02
+nlzxdus,315,tutor,Awesome.,00:32:10
+nlzxdus,316,student,"So that's the area of the whole shape altogether, 31.",00:32:12
+nlzxdus,317,tutor,"And he says carpet can only be put in rows. Each row will cover 4 metres and will cost [UNCLEAR]. Okay, and then I'll see how much it can cover. So I'll do 31 divided by 4.",00:32:19
+nlzxdus,318,student,In the middle.,00:32:19
+nlzxdus,319,tutor,Fantastic. Which gives me...,00:32:33
+nlzxdus,320,tutor,7.,00:32:46
+nlzxdus,321,background,Okay.,00:32:46
+nlzxdus,322,tutor,So he can get 7.,00:32:48
+nlzxdus,323,background,All right.,00:32:50
+nlzxdus,324,tutor,Would it be exactly 7?,00:32:52
+nlzxdus,325,background,Not exactly 7. It would be 7 point— [unclear] 7.75.,00:32:54
+nlzxdus,326,tutor,All right. So do you think the decimal matters here?,00:33:01
+nlzxdus,327,background,Sorry?,00:33:05
+nlzxdus,328,tutor,Do you think the decimal numbers which is coming after the decimal matters here?,00:33:06
+nlzxdus,329,tutor,"Uh, no, I don't think it does because it's not really the whole number.",00:33:10
+nlzxdus,330,student,"All right, okay, we'll check. I will check that. [unclear]",00:33:16
+nlzxdus,331,tutor,"Yes, yeah.",00:33:18
+nlzxdus,332,student,"Okay, so then it would be 8.",00:33:21
+nlzxdus,333,tutor,Yeah.,00:33:23
+nlzxdus,334,background,"Yeah, and then each roll will cover 4 meters squared. So then we know that he can buy 8 rolls.",00:33:28
+nlzxdus,335,tutor,Fantastic.,00:33:37
+nlzxdus,336,student,"And each roll costs £25.99, which I'll times it by.",00:33:38
+nlzxdus,337,tutor,Yeah.,00:33:45
+nlzxdus,338,student,"To give me £207.92. And his budget is £200, so it goes over his budget, so he does not have enough money.",00:33:47
+nlzxdus,339,tutor,"Fantastic, Declan. That was really profound idea.",00:34:08
+nlzxdus,340,student,Thank you. I like that.,00:34:11
+nlzxdus,341,tutor,"That's a really like— your thinking skills is going like great. So yeah, goes over budget, that's right. And we'll see the marks breakdown for this. This is a 4-mark question. For finding the area, 31-meter square, you will be getting 1 mark. And for finding that 7.75, you would be getting 1 mark there.",00:34:15
+nlzxdus,342,tutor,Yeah.,00:34:35
+nlzxdus,343,student,"And then for your multiplication, you are getting 1 mark. And finally, for mentioning that this is going over the budget, you are getting 1 mark, and you are scoring 4 marks for this question. And that is awesome once again. And but let me ask you this, Declan, like how did you decide you have to find the area here?",00:34:36
+nlzxdus,344,tutor,And not the perimeter.,00:34:57
+nlzxdus,345,student,Because I'm trying to find the area of the shape. Does that make sense?,00:35:02
+nlzxdus,346,tutor,Yeah. Have they ever mentioned here that you have to find the area of the shape?,00:35:10
+nlzxdus,347,student,"Because he wants to figure out how— I don't know how to explain it. Like what covers, how much it covers.",00:35:16
+nlzxdus,348,tutor,The area.,00:35:26
+nlzxdus,349,student,"How much it covers. So it's like, for example, like they are telling us you have to carpet this dining room. So when you're carpeting it, you would normally carpet the whole room and not only the edges, right? [unclear] So that's why we choose the area. But yes, very good try. And then your next question. This is similar to the question we did earlier, but before we go into the next question,",00:35:27
+nlzxdus,350,tutor,Can you tell me a few things to remember from this question?,00:35:51
+nlzxdus,351,student,"This one? Oh wait, so if it's— what do you call it? If it's like a decimal, do you always round up during these questions or round down?",00:35:55
+nlzxdus,352,tutor,"Alright, so that is something to be discussed. Thank you for reminding that way to me. It's 7.75. You got 7.75?",00:36:05
+nlzxdus,353,student,Yes.,00:36:14
+nlzxdus,354,tutor,"And you're buying this in rolls, isn't it?",00:36:14
+nlzxdus,355,tutor,"Mm-hmm. So you could have both 7 rows, 7 rolls of carpet, that could have been both. But the remaining part, so you have the remaining, sorry, carpet, the remaining 7/5, or in other words, 0.75, we would have left that place empty after carpeting all the other places, right?",00:36:18
+nlzxdus,356,student,Okay. Yeah.,00:36:44
+nlzxdus,357,tutor,"So this place would have been empty. We have to carpet the whole area, so we should have brought another one to cover this. There would be excess left over, but that's not our problem. We have to like find our— like, how many carpets do we need to cover the whole area, isn't it?",00:36:45
+nlzxdus,358,tutor,"Yeah. So if I did get the working out wrong but I got the answer right, would it matter?",00:37:03
+nlzxdus,359,student,"Yes, it doesn't matter, but the problem is when you get a 7.25.",00:37:10
+nlzxdus,360,tutor,"Like, if you get 7.25, would you like round— when you round this down, you would be getting a 7, isn't it?",00:37:15
+nlzxdus,361,student,"7, yeah.",00:37:21
+nlzxdus,362,tutor,And would that make a problem? What do you think?,00:37:22
+nlzxdus,363,student,"It would, because then it would go under.",00:37:25
+nlzxdus,364,tutor,"Yes, it would like round down according to our numbers, but we would have like left a place empty without the carpet, yeah?",00:37:28
+nlzxdus,365,student,"Mm-hmm, yeah.",00:37:37
+nlzxdus,366,tutor,"So, so that's why we will have to go for a number which is upwards. Even in the previous question, that was same like that. So it was 3.14, but we rounded it up because a packet has to be brought in a whole, isn't it? The packet of seeds, you have to buy the whole packet. So it would be like 4 seeds, like— so we— oh, sorry, 4 packets. So we have to buy an extra packet to fill this up as well.",00:37:38
+nlzxdus,367,tutor,"Yeah, okay.",00:38:05
+nlzxdus,368,student,"And yeah, this is your next question for your child. Can you get this in half, please?",00:38:06
+nlzxdus,369,tutor,"Okay, so— oh right, so you find the area of the trapezium, which is a plus b divided by 2, and then you times it by the height, don't you? Yeah.",00:38:12
+nlzxdus,370,student,"Alright, there you go, that's right.",00:38:26
+nlzxdus,371,tutor,"So I'll do a plus 18, which is 26, divided by 2, which is 13, times the height, which is 130. Awesome. [unclear]",00:38:28
+nlzxdus,372,tutor,"All right, yeah, that's right.",00:38:45
+nlzxdus,373,student,"Okay, and then, um, you find the area of the smaller— is that parallelogram?",00:38:53
+nlzxdus,374,tutor,"Yes, absolutely, parallelogram.",00:39:00
+nlzxdus,375,student,"Um, I forgot the formula for that one. Isn't there a formula?",00:39:03
+nlzxdus,376,tutor,"Okay, so the Formula would be base into height. Okay, you can watch out for this if you want.",00:39:06
+nlzxdus,377,tutor,"Oh, base times height. Okay, yeah.",00:39:11
+nlzxdus,378,student,"Okay, there you go. So then it'll just be 6 times 8.",00:39:14
+nlzxdus,379,tutor,Okay.,00:39:19
+nlzxdus,380,student,"Which is 48. And then that's the area of both of them. So then I'll add it together. Oh wait, yeah, I'll do it— no, no, I'll minus it, sorry.",00:39:20
+nlzxdus,381,tutor,"Okay, there you go.",00:39:33
+nlzxdus,382,student,"Yeah, because I'm trying to find the area of the shaded bit.",00:39:35
+nlzxdus,383,tutor,Yes.,00:39:40
+nlzxdus,384,student,Yeah.,00:39:41
+nlzxdus,385,tutor,"Which should give me 82. 82 centimeters squared. [unclear] Fantastic! And yes, that was a very cool trisaber. And for finding this area, you would be getting 1 mark. For finding the parallelogram there, you would be getting 1 mark. And finally, for your final answer, you will be getting 1 mark. And altogether, 3 marks there.",00:39:43
+nlzxdus,386,tutor,Yeah.,00:40:13
+nlzxdus,387,student,"And yes, let me ask you this, like, if they have given you this height, like the slanted height, would we be actually using that? For example, [unclear] what is the difference between like It's height and the [UNCLEAR].",00:40:15
+nlzxdus,388,tutor,"Oh, well, is it because it's not the full height, I would say?",00:40:15
+nlzxdus,389,student,Okay.,00:40:43
+nlzxdus,390,tutor,Because it's slanted?,00:40:44
+nlzxdus,391,student,"Yes, we actually call this the slanted height. And how would you actually call this part?",00:40:45
+nlzxdus,392,tutor,I don't know what you would call that. I'd call it the height.,00:40:51
+nlzxdus,393,tutor,"Yes, we actually call this a perpendicular height.",00:40:55
+nlzxdus,394,student,"Oh, okay.",00:40:57
+nlzxdus,395,tutor,"Yes, always for the trapezium or even the parallelogram, you would be using the perpendicular height. So we should not confuse with that stuff. Always the perpendicular height. Sometimes they would give you like this area, this line, and this line.",00:40:59
+nlzxdus,396,background,"Oh yeah, to throw you off.",00:41:12
+nlzxdus,397,tutor,"Yes, and you will have to find the perpendicular height. How would you like find the perpendicular height when they have given you these sections? [unclear]",00:41:14
+nlzxdus,398,tutor,Do you remember Pythagoras?,00:41:26
+nlzxdus,399,student,"Oh, a² b² c². Oh yeah, okay. So that's what you would do to find the side. So you",00:41:28
+nlzxdus,400,tutor,"will have to use Pythagoras and find the perpendicular height if you get a question like that. Okay, okay.",00:41:34
+nlzxdus,401,student,"Anyways, and",00:41:41
+nlzxdus,402,tutor,there goes the last part for this. They have done these questions and you're supposed,00:41:42
+nlzxdus,403,tutor,Can you please?,00:41:46
+nlzxdus,404,student,Yep. So Tom is hanging bunting. So he hasn't cut off the shape and [unclear] it together and added it together. He's just done the perimeter and added them all together.,00:41:48
+nlzxdus,405,tutor,"Yeah. So do you think his perimeter working out is correct? No. [unclear] All right, well, so should we find the perimeter here or the area? What do you think?",00:42:07
+nlzxdus,406,tutor,"No, he should have been finding the area.",00:42:18
+nlzxdus,407,student,"All right, but I decide that.",00:42:21
+nlzxdus,408,tutor,"Yeah, you can do it.",00:42:22
+nlzxdus,409,student,"And because he's trying to— because it's a compound shape as well, you're supposed to find the area of these shapes.",00:42:23
+nlzxdus,410,tutor,"All right, yeah, let me ask you this, Declan. This was also a compound shape. I'm sorry, this was also a compound shape.",00:42:33
+nlzxdus,411,tutor,Did we find the area?,00:42:40
+nlzxdus,412,student,"No, we found the perimeter, but he's trying to find the— what do you call it? The edge of this.",00:42:42
+nlzxdus,413,tutor,Yeah.,00:42:50
+nlzxdus,414,student,Yeah.,00:42:52
+nlzxdus,415,tutor,"Yes, even in this case, what are they like— [unclear]",00:42:53
+nlzxdus,416,student,Sorry?,00:42:55
+nlzxdus,417,tutor,"In this case, what are they trying to tell you here?",00:42:58
+nlzxdus,418,student,They're trying— he's trying to hang bunting along each wall. Wall of the living room.,00:43:01
+nlzxdus,419,tutor,"Ah, yeah. All right, so what do you think? So perimeter or the area?",00:43:08
+nlzxdus,420,student,So is it perimeter then?,00:43:13
+nlzxdus,421,tutor,"Absolutely, because when he is bouncing along each wall, so like he's going along the walls, like jumping along the walls. So when he's like going around the walls, it would be like the perimeter.",00:43:17
+nlzxdus,422,student,Yeah.,00:43:29
+nlzxdus,423,tutor,And so has he worked out the perimeter correctly?,00:43:30
+nlzxdus,424,tutor,"He has not, I don't think. [unclear]",00:43:35
+nlzxdus,425,student,"Oh, he has. He has.",00:43:43
+nlzxdus,426,tutor,So can we like try to keep this for the next class?,00:43:46
+nlzxdus,427,student,Yes.,00:43:51
+nlzxdus,428,tutor,"Yes. So yeah, that's it for today. And I really appreciate your patience once again.",00:43:52
+nlzxdus,429,student,Thank you.,00:43:59
+nlzxdus,430,tutor,"And again, happy birthday, advance happy birthday.",00:44:00
+nlzxdus,431,student,Thank you.,00:44:02
+nlzxdus,432,tutor,"Okay, have a wonderful day ahead.",00:44:07
+nlzxdus,433,student,Thank you.,00:44:10
+nlzxdus,434,tutor,Bye-bye. See you next week.,00:44:12
+nlzxdus,435,background,Bye. [unclear],00:44:14

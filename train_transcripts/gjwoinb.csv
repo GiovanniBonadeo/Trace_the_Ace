@@ -1,0 +1,404 @@
+session_id,utterance_id,role,content,timestamp
+gjwoinb,0,student,Hello.,00:00:00
+gjwoinb,1,background,[unclear],00:00:00
+gjwoinb,2,tutor,Hello.,00:00:00
+gjwoinb,3,student,Hello.,00:00:01
+gjwoinb,4,tutor,Hello.,00:00:01
+gjwoinb,5,student,Hello.,00:00:02
+gjwoinb,6,tutor,Hello.,00:00:03
+gjwoinb,7,student,Hello. Can you hear me?,00:00:04
+gjwoinb,8,tutor,Hello.,00:00:05
+gjwoinb,9,student,Yeah.,00:00:05
+gjwoinb,10,tutor,Great. Happy Monday.,00:00:06
+gjwoinb,11,tutor,Can you hear me?,00:00:10
+gjwoinb,12,student,Good.,00:00:10
+gjwoinb,13,tutor,"Yeah, I can hear you.",00:00:11
+gjwoinb,14,student,Good. [unclear] How was school?,00:00:12
+gjwoinb,15,tutor,It was good. Yeah.,00:00:13
+gjwoinb,16,student,Alright. What did you learn in maths today?,00:00:16
+gjwoinb,17,background,Please.,00:00:18
+gjwoinb,18,tutor,"Yeah, please.",00:00:19
+gjwoinb,19,background,Um...,00:00:20
+gjwoinb,20,tutor,Good.,00:00:22
+gjwoinb,21,background,I'm not sure. I don't think we did maths yet.,00:00:23
+gjwoinb,22,tutor,"Okay. Alright. Alright, [STUDENT_NAME]. Shall we get started?",00:00:27
+gjwoinb,23,student,Yeah.,00:00:31
+gjwoinb,24,tutor,"Okay. What's the lesson, Marine?",00:00:32
+gjwoinb,25,student,Ordering numbers up to 1 million.,00:00:36
+gjwoinb,26,tutor,"That's right, perfect. Ordering numbers up to 1 million. Okay, so let's get started with the prior learning slide. Can you read this please? What's in this green box?",00:00:40
+gjwoinb,27,background,"Yeah, before ordering a set of numbers, we need to understand the value of digits.",00:00:54
+gjwoinb,28,tutor,That's right. It's very important we understand the value of each digit. So what do they mean by the value of a digit? [unclear] What do they mean by value of digits?,00:01:01
+gjwoinb,29,student,"So I think we put some digits on different 1,000 groups.",00:01:15
+gjwoinb,30,tutor,Mm-hmm.,00:01:21
+gjwoinb,31,tutor,Yeah.,00:01:28
+gjwoinb,32,student,[unclear],00:01:29
+gjwoinb,33,tutor,"Yes, that's right. The value in each column differs. Value of digits means how much it is worth. Yeah? Okay, so this, what's this column, [STUDENT_NAME]?",00:01:29
+gjwoinb,34,student,Pardon? [unclear],00:01:43
+gjwoinb,35,tutor,"100,000.",00:01:44
+gjwoinb,36,student,"Very good, 100,000. And what about this column, the purple column, what's that? [unclear]",00:01:47
+gjwoinb,37,tutor,Thousands. Thousands of columns. Now I'll ask you a question. Which column has the highest value?,00:01:52
+gjwoinb,38,student,"Yes, yes, we can do it. Yeah.",00:01:59
+gjwoinb,39,tutor,Thousands. What makes you say that?,00:02:02
+gjwoinb,40,student,"Because everyone has like 1, 2, 3, or 4, but this one has 5.",00:02:06
+gjwoinb,41,tutor,"Okay, all right, I get that.",00:02:15
+gjwoinb,42,tutor,"Okay, great explanation, [STUDENT_NAME]. Even though there are 5,000s here, okay?",00:02:18
+gjwoinb,43,student,Yeah.,00:02:25
+gjwoinb,44,tutor,"100,000 has a higher value. Okay? So just like these two, look, this is the ones column and this is the tens column, [STUDENT_NAME]. So which column has the highest value? [unclear] Yes, exactly. Out of all these, 100,000s column has the highest value. And then comes ten thousands and thousands and so on like that. Okay?",00:02:26
+gjwoinb,45,student,Yeah.,00:02:53
+gjwoinb,46,tutor,"So as you go, as you move to the left, the value is getting higher. It's increasing. Okay? All right. Okay. Now let's see this place value chart. We see some counters and there's a number that's shown here. Can you guess the number and write it here?",00:02:54
+gjwoinb,47,student,[unclear],00:03:17
+gjwoinb,48,tutor,"What? The number that's shown here, can you work that out and write it here?",00:03:19
+gjwoinb,49,student,Okay. [unclear],00:03:27
+gjwoinb,50,background,Can I just find out?,00:03:28
+gjwoinb,51,student,Okay. Yeah.,00:03:39
+gjwoinb,52,tutor,"So, wait, you need to write a number. Let's see.",00:03:40
+gjwoinb,53,student,Like this? [unclear],00:03:47
+gjwoinb,54,tutor,I think it's—,00:03:50
+gjwoinb,55,student,"Like this, like this, and then like— oh, let's see, X maybe?",00:03:53
+gjwoinb,56,tutor,Okay.,00:04:00
+gjwoinb,57,student,Like yours?,00:04:01
+gjwoinb,58,tutor,"X, let's see. All right, how did it get 15,000, [STUDENT_NAME]? Good job.",00:04:02
+gjwoinb,59,student,"Because I added the first ones, so like, yeah.",00:04:09
+gjwoinb,60,tutor,Okay.,00:04:16
+gjwoinb,61,student,"I added the ones to like 1, 2, 3, 4, 5, 6.",00:04:18
+gjwoinb,62,tutor,Okay. [unclear],00:04:26
+gjwoinb,63,student,And 13.,00:04:27
+gjwoinb,64,tutor,"All right, yeah. Yeah, you added all the counters and you got 15,000. Okay, good work. All right. So just like we said before, we know each column has a different value. Yes?",00:04:31
+gjwoinb,65,student,Yeah.,00:04:44
+gjwoinb,66,tutor,"Now there's an easier, easy way to get the number that's on the chart. What we can do, how many counters are there on the 100,000 column?",00:04:44
+gjwoinb,67,student,"Uh, 100,000?",00:04:55
+gjwoinb,68,tutor,"One. That's right. So it's one counter. So we can simply put a 1 here for reference. To help us. Okay? And [unclear] different colour. Okay, so we can say one there. How many counters are there in the ten-thousands column?",00:04:57
+gjwoinb,69,student,Two.,00:05:17
+gjwoinb,70,tutor,"Two counters, that's right. So in total, how many ten-thousands are there?",00:05:18
+gjwoinb,71,background,"Um, ten.",00:05:24
+gjwoinb,72,tutor,"Ten-thousands, [STUDENT_NAME]. There are 2 10,000s.",00:05:27
+gjwoinb,73,student,Okay.,00:05:31
+gjwoinb,74,tutor,"Yes? Okay. So I'm going to put a 2 here, okay? How many thousands are there?",00:05:32
+gjwoinb,75,background,5.,00:05:39
+gjwoinb,76,tutor,"5 thousands, that's right. So we simply put a 5 here. Just like how I did here, can you put the numbers for the remaining 3 columns? Go ahead.",00:05:40
+gjwoinb,77,background,I think [UNCLEAR]. [unclear],00:05:51
+gjwoinb,78,tutor,Very good. How many hundreds are here?,00:05:59
+gjwoinb,79,student,"Um, 3.",00:06:03
+gjwoinb,80,tutor,"3 hundreds. Very good. What about tens, [STUDENT_NAME]? Do we have any tens?",00:06:06
+gjwoinb,81,student,No.,00:06:11
+gjwoinb,82,tutor,"No. In that case, what do we do? Exactly.",00:06:12
+gjwoinb,83,background,Zero.,00:06:15
+gjwoinb,84,tutor,"Zero. This will be the placeholder. Very good. Awesome. Great. Go ahead. You're doing a good job. We have one more column remaining. [unclear] Very good. Perfect, [STUDENT_NAME]. Great job in counting the counters and forgetting the amount. Now, do you see we have the number below?",00:06:16
+gjwoinb,85,student,"So there's, um, one, well, um,",00:06:39
+gjwoinb,86,student,No way.,00:06:46
+gjwoinb,87,tutor,"Okay. There's an easier way to read the number. We read the thousands group together. This one, this entire thing.",00:06:47
+gjwoinb,88,student,Okay.,00:06:56
+gjwoinb,89,tutor,"Okay? So what's— just read this one. [unclear] That's right. So this is how we read the number. 125,000. Okay? Because it's the thousands group. Yeah? So we say 125,304. Okay? Come on, read the number again. [unclear]",00:06:56
+gjwoinb,90,student,"125,304.",00:07:23
+gjwoinb,91,tutor,"Wow, excellent, [STUDENT_NAME]. Great job in reading the number correctly. Okay, so you can write the number here now, the number that we just worked out.",00:07:28
+gjwoinb,92,tutor,"set. Okay, write that. Yes.",00:07:28
+gjwoinb,93,student,"Well, that has to be my [UNCLEAR].",00:07:28
+gjwoinb,94,tutor,"Very good. We put the comma as it's the thousands separator. Very good. Therefore, the answer will be 125,304. Okay? All right. I'll give you a very similar number. Try to read it out for me, okay?",00:07:28
+gjwoinb,95,tutor,Okay.,00:08:05
+gjwoinb,96,student,"Oh, let's do this way. You write a number, a 6-digit number. Come on, write it here.",00:08:06
+gjwoinb,97,tutor,What?,00:08:13
+gjwoinb,98,student,Just type a 6-digit number.,00:08:14
+gjwoinb,99,tutor,6-digit number?,00:08:17
+gjwoinb,100,student,Type it over here.,00:08:20
+gjwoinb,101,tutor,[unclear] Okay.,00:08:22
+gjwoinb,102,student,You can put any digits as you wish.,00:08:25
+gjwoinb,103,tutor,"Okay, yes, that's one. Just type— [unclear] Come on. Very good. Okay, perfect. There you go. All right, now I want you to read the number that you just wrote.",00:08:31
+gjwoinb,104,student,[unclear],00:08:49
+gjwoinb,105,student,Okay.,00:08:58
+gjwoinb,106,background,809.,00:08:58
+gjwoinb,107,student,"Excellent. Wow, that was perfect. Great job in writing a 6-digit number and for reading that correctly out for me. Yay! Okay, that's really great. Okay, now let's move to Part B. Can you read the question please?",00:08:58
+gjwoinb,108,background,The value of the [unclear],00:09:19
+gjwoinb,109,background,Digit 2 is...,00:09:21
+gjwoinb,110,tutor,OK. Look at the place value chart. Where do you see number 2?,00:09:25
+gjwoinb,111,background,[unclear],00:09:32
+gjwoinb,112,tutor,There. That's right. The 2 is in which column?,00:09:33
+gjwoinb,113,background,biggest. [UNCLEAR],00:09:33
+gjwoinb,114,tutor,Ten thousands. OK.,00:09:43
+gjwoinb,115,background,"Yeah, ten thousands.",00:09:46
+gjwoinb,116,tutor,"Ten thousands. Perfect. Wow, good job, Bean. Spotting that. Now, 2 is in the ten thousands column. So what do you think the value of 2 is?",00:09:47
+gjwoinb,117,student,[unclear],00:10:01
+gjwoinb,118,tutor,"Very good. 20,000. The addition of these two. Yep. This is 10,000. This is another 10,000. So in total, The stool has a value of 20,000. Wow, great job! You can type 20,000 over here. [unclear]",00:10:03
+gjwoinb,119,tutor,"Very good, that's right. Stool has a value of 20,000. Excellent. Okay, now let's take a look at Part C.",00:10:30
+gjwoinb,120,student,"Right, the value of the digit 5 is...",00:10:40
+gjwoinb,121,tutor,Mm-hmm.,00:10:45
+gjwoinb,122,student,0.,00:10:46
+gjwoinb,123,tutor,"Oh wait, where's 5?",00:10:48
+gjwoinb,124,student,"Oh wait, here.",00:10:51
+gjwoinb,125,tutor,"Yeah, that's there. [unclear]",00:10:52
+gjwoinb,126,student,So there's 5 thousands.,00:10:58
+gjwoinb,127,tutor,"5 thousands, that's right. So therefore, the value of the digit 5 is...",00:11:02
+gjwoinb,128,student,"Is 5,000.",00:11:09
+gjwoinb,129,tutor,"5,000, absolutely.",00:11:13
+gjwoinb,130,student,So do I put it over here?,00:11:17
+gjwoinb,131,tutor,"Yes, over there. Go ahead. [unclear] Excellent. There you go. 5,000. And since 5 is in the thousands group, So let's put the comma there, okay?",00:11:19
+gjwoinb,132,student,Okay.,00:11:37
+gjwoinb,133,tutor,"After the 5, yes. Go ahead.",00:11:37
+gjwoinb,134,student,"[unclear] 345,000, then.",00:11:39
+gjwoinb,135,tutor,"Okay, all right, good job. Now let's take a look at Part D.",00:11:47
+gjwoinb,136,student,is less than 4.6.,00:11:47
+gjwoinb,137,tutor,The value of the digit 3 is?,00:11:47
+gjwoinb,138,student,Mm-hmm. 300.,00:12:01
+gjwoinb,139,tutor,"300. Fantastic job, [STUDENT_NAME]. Great job. [unclear] That will be 300. So you can type the answer right here.",00:12:03
+gjwoinb,140,student,OK. [unclear],00:12:18
+gjwoinb,141,tutor,OK. That's fine. All right. No problem. 300. Wow. OK.,00:12:19
+gjwoinb,142,tutor,"All right, so far you've done a great job. Keep up the good work, [STUDENT_NAME], it's excellent. Really nice to see you working so hard. All right, we have Part E as well. Let's take a look at that. [unclear]",00:12:26
+gjwoinb,143,student,Which digit has the greatest value?,00:12:39
+gjwoinb,144,tutor,Hmm. You can look at the place value chart and tell. [unclear],00:12:46
+gjwoinb,145,student,I feel like it's that.,00:12:53
+gjwoinb,146,tutor,That's right. Excellent. This digit has the greatest value. And how do we know that?,00:12:55
+gjwoinb,147,student,"Because it has 100,000.",00:13:02
+gjwoinb,148,tutor,"That's right. It's the highest value, 100,000, which is greater than any other number here, any other column. So that's right. You can write— so what's the digit in this column, [STUDENT_NAME]?",00:13:06
+gjwoinb,149,student,[unclear],00:13:22
+gjwoinb,150,tutor,"One. That's right. So we can simply say one because that's the digit we have here. They're not asking for the value, but they're asking for the digit. Good job in figuring that out and for noticing the difference between the different types of questions there. They're asking for the value as well as the digits. Wow! How was this slide? [unclear]",00:13:24
+gjwoinb,151,student,So it's kind of fun.,00:13:48
+gjwoinb,152,tutor,"It is fun because you worked so hard, you focused, you did a great job here. It's really nice to see you working so hard, and I'm going to give you a smiley.",00:13:53
+gjwoinb,153,student,The smiley.,00:14:02
+gjwoinb,154,tutor,"Okay, all right. So what did we learn in this slide, [STUDENT_NAME]?",00:14:04
+gjwoinb,155,student,About—,00:14:08
+gjwoinb,156,student,Value of digits.,00:14:10
+gjwoinb,157,tutor,"That's right, the value of digits. So the value of digit 2, what is the value of digit 2? [unclear] It's in the thousands. What's the column?",00:14:12
+gjwoinb,158,background,Group. [unclear],00:14:28
+gjwoinb,159,tutor,"Yes, that is 100,000. H stands for 100, okay? [unclear] 10,000s column. So what is the value of digit 2 here?",00:14:36
+gjwoinb,160,student,"Is— wait, what?",00:14:49
+gjwoinb,161,tutor,The value of the digit 2 is?,00:14:52
+gjwoinb,162,student,"Is 20,000.",00:14:57
+gjwoinb,163,tutor,"20,000, that's right. We can simply get the answer by adding these two, or by looking at the column it is in. 10,000, so that's a 2. 20,000 will be the end.",00:14:59
+gjwoinb,164,tutor,"Okay, and why did we decide to put zero here?",00:15:11
+gjwoinb,165,student,Because it has nothing on it.,00:15:14
+gjwoinb,166,tutor,"Yeah, exactly.",00:15:19
+gjwoinb,167,student,That's right.,00:15:20
+gjwoinb,168,tutor,And why do you think it's very important to put the zero there?,00:15:21
+gjwoinb,169,background,"Yeah, [UNCLEAR].",00:15:26
+gjwoinb,170,tutor,Yeah.,00:15:26
+gjwoinb,171,background,Thanks for—,00:15:27
+gjwoinb,172,student,"The thing about numbers is that we have to put the zero as of Placeholder. It holds the values in its place. All right. Overall, it's great on this slide. Any questions? [unclear] Okay. It's time to move on to Let's Learn slide. This is also a fun slide. Okay? Can you read this, please? The green box.",00:15:29
+gjwoinb,173,student,"With ordering numbers, it can be helpful to think about where they would lie on the scale. On a number line as well as the value of digits.",00:15:56
+gjwoinb,174,tutor,"That's right. So now we're gonna deal with the number line, and since you are very well known, very good with the values of the digits, I think that knowledge is going to help us here. Okay, so this is the number line starting from 0, and then you approach the 0 all the way up",00:16:09
+gjwoinb,175,student,"Oh, because you put—",00:16:33
+gjwoinb,176,tutor,1 million.,00:16:33
+gjwoinb,177,background,"Yeah, I know.",00:16:34
+gjwoinb,178,tutor,Because you put 1 million.,00:16:35
+gjwoinb,179,background,"1 million, that's right. Okay, so we have 3 different numbers here. A, B, and C. Now, we have to mark all of these on the number line. But before that, how can we work out the halfway point on the number line? Write in the middle. What do you think the value would be here?",00:16:36
+gjwoinb,180,tutor,"I was thinking about this. No, no, no, no, this. [unclear]",00:17:01
+gjwoinb,181,student,"Okay. Let's focus. Let's not think about the numbers here. Let's focus only on the number line and think about the number which could be right in the middle, halfway point.",00:17:10
+gjwoinb,182,tutor,I think it's 5.,00:17:26
+gjwoinb,183,student,"of 500,000.",00:17:26
+gjwoinb,184,tutor,Yep.,00:17:26
+gjwoinb,185,student,"Wow. That's right. That's 500,000, [STUDENT_NAME]. Amazing. How did you get the answer?",00:17:31
+gjwoinb,186,student,Because it was on the middle and every— in the middle has a 5. [unclear],00:17:41
+gjwoinb,187,background,"Yes, okay. It depends on the number line, okay? Like for example, we said there is a number line that is starting with 0 And it's ending with 100.",00:17:48
+gjwoinb,188,student,Yes.,00:17:59
+gjwoinb,189,tutor,Okay. The middle number or the halfway point would be?,00:17:59
+gjwoinb,190,student,Half 120 by the way.,00:18:03
+gjwoinb,191,background,[unclear],00:18:07
+gjwoinb,192,tutor,Yes. It's very simple. We simply divide 100 by 2. How much is half of 100?,00:18:09
+gjwoinb,193,background,150.,00:18:16
+gjwoinb,194,student,[unclear],00:18:18
+gjwoinb,195,background,50.,00:18:18
+gjwoinb,196,student,Hmm. What's the answer? Half of 100 is 50. [unclear],00:18:21
+gjwoinb,197,tutor,Yes?,00:18:34
+gjwoinb,198,student,"Yeah, 50.",00:18:35
+gjwoinb,199,tutor,"Just like that, half of 1 million is 500,000, and I'm so glad you got the answer by yourself. So let's type 500,000 here before we start to match these numbers. Let's type 500,000. [unclear]",00:18:37
+gjwoinb,200,tutor,"Very good. Yes. The reason why we figure out the halfway point first is that it helps us to mark the numbers. Yes, do you agree?",00:19:00
+gjwoinb,201,student,Yeah.,00:19:11
+gjwoinb,202,tutor,"Okay. All right. So now it's time to match them or mark them. Okay. So can you place each number where you think it roughly lies on the number line? All of this. Just an estimation, it doesn't have to be exactly there, just a rough estimation. Which number are you going to start with?",00:19:13
+gjwoinb,203,student,[UNCLEAR],00:19:13
+gjwoinb,204,tutor,"Okay, that's great. Where do you think C will be on the number line?",00:19:41
+gjwoinb,205,student,"I think 500,000 would be close to 540,000.",00:19:47
+gjwoinb,206,tutor,Yeah. So you can mark on the number line. Where do you think it will be?,00:19:55
+gjwoinb,207,student,[unclear] Over here.,00:20:04
+gjwoinb,208,tutor,"Okay. All right. Good job in marking that. Awesome. Okay, so this is 500,000 and this is 1 million. Okay?",00:20:07
+gjwoinb,209,student,Yeah.,00:20:18
+gjwoinb,210,tutor,"So from 500,000 we have 600,000, 700,000, 800,000, 900,000, and 1 million. Yes? [unclear] So if 500,000 is somewhere here and 600,000 is somewhere there, where do you think 540,000 will be? [unclear]",00:20:18
+gjwoinb,211,student,"Yeah, a 5-digit number. And that would be over here.",00:20:51
+gjwoinb,212,student,"Oh, wow, that's right. Somewhere very close to 500,000. [STUDENT_NAME], this is a perfect estimation, I must say. It could be just there. [unclear]",00:21:05
+gjwoinb,213,tutor,"Great. Excellent. So glad you got the right marking. Okay, so we marked Part C, I mean the number C. So let's think about A and B. Where do you think A will be on the number line? Can you [unclear] look at the number?",00:21:18
+gjwoinb,214,student,"I think it will be close to 1 million, so I'll probably think that's near over here.",00:21:37
+gjwoinb,215,tutor,"Yes, that's right. Very close to 1 million because it's 958,000. Wow, amazing. That's right.",00:21:46
+gjwoinb,216,tutor,"Great, I'm going to give you a star for that. You got that at once, perfect. Okay, one more, 62,502. [unclear]",00:21:58
+gjwoinb,217,student,I think it's near over here.,00:22:11
+gjwoinb,218,tutor,"That's right, it can be somewhere over here because it's just 62, not even 100,000.",00:22:16
+gjwoinb,219,tutor,"Very good. Okay, wow, you did a very good job in marking the numbers on the number line as well. Good work, [STUDENT_NAME]. Okay, all right. [unclear]",00:22:23
+gjwoinb,220,student,smallest to largest. Then it's...,00:22:23
+gjwoinb,221,tutor,"Okay, so we have a place value chart here. Okay? Now we are going to look at comparing the numbers in a place value chart.",00:22:23
+gjwoinb,222,tutor,Okay. So can you write each number in the place value squares?,00:22:54
+gjwoinb,223,student,I learned more about [UNCLEAR].,00:22:59
+gjwoinb,224,tutor,Any numbers?,00:22:59
+gjwoinb,225,student,The numbers we see above. These 3 numbers on these 3 rows.,00:23:04
+gjwoinb,226,background,then you're going to look at the number first and then you're going to write it.,00:23:04
+gjwoinb,227,tutor,Very good.,00:23:19
+gjwoinb,228,student,"I'm going like, yeah, millimeters. Wait, can I just [unclear] that?",00:23:20
+gjwoinb,229,tutor,Awesome.,00:23:30
+gjwoinb,230,student,"Yeah, okay.",00:23:32
+gjwoinb,231,tutor,"Yay, that's nice. We have 2 more to go.",00:23:37
+gjwoinb,232,student,"Hmm, okay.",00:23:42
+gjwoinb,233,student,Yes.,00:23:46
+gjwoinb,234,tutor,What is the value of [UNCLEAR]?,00:23:46
+gjwoinb,235,student,I have to get the whole part of it.,00:23:46
+gjwoinb,236,tutor,Yes.,00:23:54
+gjwoinb,237,student,I'm multiplying and dividing whole numbers.,00:23:54
+gjwoinb,238,tutor,So I have to break the number like that?,00:23:56
+gjwoinb,239,student,That's right.,00:23:58
+gjwoinb,240,tutor,"You always write the number like this. Amazing. Okay, number B. [unclear]",00:24:01
+gjwoinb,241,tutor,"Very good, yes. [unclear]",00:24:14
+gjwoinb,242,tutor,"Nice. Awesome, [STUDENT_NAME]. Good job in carefully writing all 3 numbers on the place value chart. Perfect. Okay, now I'll ask you a question. Which number is the smallest? And how do you know? [unclear]",00:24:29
+gjwoinb,243,student,"62,502.",00:24:50
+gjwoinb,244,tutor,"That's right, 62,502. Why do you— how do you know this is the smallest number?",00:24:56
+gjwoinb,245,student,Because it has no hundred thousands.,00:25:06
+gjwoinb,246,tutor,"Very good. That's the perfect answer. It has no hundred thousands, so comparing with the other two numbers, this is definitely the smallest. Okay. Which number is greatest out of all three?",00:25:09
+gjwoinb,247,background,"Then 900,000 and [UNCLEAR]. 958 and That's [UNCLEAR].",00:25:25
+gjwoinb,248,tutor,"right. Very good job in getting the greatest number as well. 958,000 is the greatest number here. And how do you know that, [STUDENT_NAME]? Yeah,",00:25:25
+gjwoinb,249,student,you can go now. Because,00:25:55
+gjwoinb,250,background,he said that he wants to buy...,00:25:55
+gjwoinb,251,student,it has,00:25:55
+gjwoinb,252,student,the greatest hundred thousandths.,00:25:55
+gjwoinb,253,tutor,"That's right, great explanation. That's a perfect point to mention there. The 9, which is in the hundred thousandths column, is the highest value out of all of this. Because of that, this is the greatest number and this is the smallest number. Okay, amazing. All right, how was this slide, [STUDENT_NAME]? Did you enjoy this?",00:25:55
+gjwoinb,254,student,Yeah.,00:26:26
+gjwoinb,255,tutor,"Yeah, thank you.",00:26:27
+gjwoinb,256,student,"Yes, I can see that. You did a great job here as well. I'm really satisfied. Keep up the good work. You're doing great. Okay, now it's going to be very interesting. This is called the follow me part, and this is the your turn. So I will do the follow me, that is this entire part highlighted. I will do follow me, and I'll show you how to answer [UNCLEAR]. And reason not [UNCLEAR]. Once I'm done with follow me, you can try your turn, which is very similar to this. Okay?",00:26:29
+gjwoinb,257,student,Okay.,00:26:29
+gjwoinb,258,tutor,"Alright, let me see. These populations need to be put in ascending order. Does that word sound familiar to you?",00:27:06
+gjwoinb,259,background,These populations need to be put in the ascending order.,00:27:17
+gjwoinb,260,tutor,"That's right. It says ascending order, and I'm going to go from smallest to largest. [unclear]",00:27:22
+gjwoinb,261,tutor,"Smallest to largest. Okay, so I'm going to order these populations. So we can see there are 1, 2, 3, 4, 5 different towns, and their populations are also different, 5 different amounts. Part A says, first check what order we need to put the towns in. We already know smallest to largest.",00:27:30
+gjwoinb,262,student,small.,00:27:30
+gjwoinb,263,tutor,"Smallest to largest or largest to smallest. I just answered that. It's smallest to largest. Okay, next. Identify the smallest and largest numbers. Okay, so I'm going to look at the numbers carefully and see which one's smallest here. I can at once spot the numbers. Can you spot it as well? [unclear]",00:27:30
+gjwoinb,264,student,"Yeah, like [UNCLEAR].",00:28:17
+gjwoinb,265,tutor,"There you go. City of London has the smallest population according to this record. It has only 8,700. I know this is the smallest because this number, unlike the other numbers, does not have 10,000 or 100,000. It's the smallest amount. So I'm going to put the number here.",00:28:17
+gjwoinb,266,tutor,"Okay. Smallest amount is 8,700. [unclear] Okay, now it's time to spot the largest number. Okay, so we can see there are two numbers. This is one of the largest, and this is also close to that. How am I going to compare? I'm going to look at the hundred thousands column. Irlington has only 2, but Barnet has 3 in the hundred thousands column. Therefore, this is the highest or the largest population. Okay, so let me write the amount. [unclear]",00:28:43
+gjwoinb,267,student,"301,940. Okay, so always remember when we are comparing two numbers, We start from the highest value.",00:29:24
+gjwoinb,268,student,I think it's right.,00:29:37
+gjwoinb,269,tutor,"Okay. Now we can annotate the table from 1 to 5, with 1 being the smallest and 5 being the largest. Okay. So I'm going to mark that on the table. And I'm going to choose my— [unclear] Okay. Draw tool. The smallest starts. So City of London is the smallest, so that will be 1.",00:29:39
+gjwoinb,270,tutor,"The second smallest is 99,959. I mean, 58. Third smallest, Richmond, which is this one. [unclear] And then comes Arlington, which is 239,000. The largest population is [unclear]",00:30:03
+gjwoinb,271,tutor,"With 300,000. That's it. Do you have any questions, [STUDENT_NAME]?",00:30:29
+gjwoinb,272,student,"Okay, thank you so much for listening to me. Now you can try your turn. Meanwhile, if you have any questions, you can always ask me. Go ahead.",00:30:37
+gjwoinb,273,tutor,"You can read the question first, starting from here. [unclear]",00:30:51
+gjwoinb,274,tutor,Listing the number of fans each football team has in descending order. Okay. So what's the order? Is it from smallest to largest or largest to smallest?,00:30:53
+gjwoinb,275,student,Smallest to largest.,00:31:09
+gjwoinb,276,tutor,"Okay. Ascending order is smallest to largest. Descending order is the opposite. So it must be 64,000 and 628,257. [unclear]",00:31:13
+gjwoinb,277,tutor,"Hold on, [STUDENT_NAME]. Ascending order means smallest to largest, okay?",00:31:33
+gjwoinb,278,student,I mean—,00:31:38
+gjwoinb,279,tutor,Descending order means the opposite of ascending order. So we have to order from,00:31:39
+gjwoinb,280,student,[unclear],00:31:50
+gjwoinb,281,tutor,"Yes, we are ordering from smallest to largest or largest to smallest?",00:31:50
+gjwoinb,282,student,Yes.,00:31:56
+gjwoinb,283,tutor,"We have to order from largest to smallest, okay?",00:31:58
+gjwoinb,284,student,That has a line.,00:32:01
+gjwoinb,285,tutor,"All right, okay, so identify the largest and smallest numbers. Which is the largest amount?",00:32:03
+gjwoinb,286,background,That one.,00:32:11
+gjwoinb,287,student,because I have that 8.,00:32:11
+gjwoinb,288,tutor,"is that one? That's right. Perfect. That's right. That's the largest number. Perfect. You can type the number here, which says largest.",00:32:11
+gjwoinb,289,student,4B... [unclear],00:32:11
+gjwoinb,290,tutor,"Oh, nice. Okay. Which is the smallest now?",00:32:19
+gjwoinb,291,tutor,Yes.,00:32:41
+gjwoinb,292,student,The number of fans. [unclear],00:32:42
+gjwoinb,293,tutor,"That's right. Amazing. Great job in writing the largest to the smallest amount. Perfect. Now, part B.",00:32:50
+gjwoinb,294,student,"And now, state the table from 1 to 5, without 1 being the largest and 5 being the smallest.",00:33:07
+gjwoinb,295,tutor,"Okay. So just like how I've numbered here, you can also number them, I mean, order them from largest to smallest.",00:33:16
+gjwoinb,296,student,Okay. [unclear],00:33:26
+gjwoinb,297,tutor,Yes. Go ahead and do it.,00:33:28
+gjwoinb,298,student,So I write [UNCLEAR]. Yes. [unclear],00:33:29
+gjwoinb,299,tutor,"You can select the draw tool, [STUDENT_NAME].",00:33:43
+gjwoinb,300,student,Okay. [unclear],00:33:47
+gjwoinb,301,tutor,You can write the number. [unclear],00:33:49
+gjwoinb,302,student,Okay.,00:33:57
+gjwoinb,303,background,Largest. You can put 1 next to the largest number.,00:33:58
+gjwoinb,304,student,[unclear],00:34:06
+gjwoinb,305,tutor,"Yes. Okay, all right.",00:34:06
+gjwoinb,306,student,We could show the size of tabs.,00:34:11
+gjwoinb,307,tutor,Very good. What comes after that?,00:34:16
+gjwoinb,308,student,[unclear],00:34:21
+gjwoinb,309,student,"Hmm, okay, that one.",00:34:29
+gjwoinb,310,tutor,"That one, that's right. What you can do, you can simply put 1 for this largest and 2 for the second one likewise, which is very easy. [unclear]",00:34:31
+gjwoinb,311,student,The third one is that one.,00:34:42
+gjwoinb,312,tutor,"That one, that's right. Great job. You can put a 3 here, [STUDENT_NAME]. You can use the draw tool and put a 3 there, or the text tool. That's fine. Yay, great. Okay, what's the next one, the 4th one?",00:34:50
+gjwoinb,313,student,That one?,00:35:09
+gjwoinb,314,tutor,"That one, that's right. [unclear] Yay, amazing, wow. And finally we have",00:35:09
+gjwoinb,315,student,"the smallest, which is?",00:35:09
+gjwoinb,316,tutor,Yep.,00:35:09
+gjwoinb,317,student,64.,00:35:25
+gjwoinb,318,tutor,Yes.,00:35:27
+gjwoinb,319,student,[unclear],00:35:27
+gjwoinb,320,tutor,"Okay. All right. That's nice. That's a good 5. Amazing. Wow. Good job in annotating the table from the largest, smallest, for getting the largest value and for getting the smallest value here. I'm going to give you a star because you did this all by yourself. Good working. Can you please read this number, [STUDENT_NAME]? [unclear]",00:35:35
+gjwoinb,321,student,"1,998.",00:36:06
+gjwoinb,322,tutor,Wow. Excellent. Good job in reading that number perfectly. And let's also try to read this number. [unclear],00:36:10
+gjwoinb,323,student,"64,652.",00:36:19
+gjwoinb,324,tutor,"Amazing. Wow. 64,652. That's right. Okay. Good job on this slide. Perfect. Take a look at this new slide, [STUDENT_NAME]. Remember we did part A?",00:36:24
+gjwoinb,325,student,Yeah.,00:36:40
+gjwoinb,326,tutor,"Yes, we already completed this question. So I will ask you which number out of all 4 will be closest to 1 million.",00:36:41
+gjwoinb,327,student,Closest to 1 million is C.,00:36:51
+gjwoinb,328,tutor,That's right. C will be closest to 1 million. And which one will be closest to 0?,00:36:56
+gjwoinb,329,background,That's 1.,00:37:02
+gjwoinb,330,student,"Oh, 9 is that one.",00:37:03
+gjwoinb,331,student,[UNCLEAR],00:37:03
+gjwoinb,332,tutor,"That one. Awesome. Excellent job. Okay, and we also did this question, if you remember correctly. Okay, all right. Let's take a look at the goal further. [STUDENT_NAME], do you remember we tried this question as well?",00:37:06
+gjwoinb,333,student,Yes.,00:37:25
+gjwoinb,334,tutor,"Okay, what do you think the distance would be for the closest moon to the planet?",00:37:26
+gjwoinb,335,student,This one?,00:37:35
+gjwoinb,336,tutor,Okay. Why do you think it's this one?,00:37:36
+gjwoinb,337,student,"Wait, let me check. [unclear] I think it's that one.",00:37:41
+gjwoinb,338,background,"Yeah, I forgot.",00:37:52
+gjwoinb,339,tutor,That's right. It's this one. And how do you— why do you think it's C?,00:37:54
+gjwoinb,340,student,because I think it's the closest to the planet.,00:37:54
+gjwoinb,341,tutor,And which out of all 4 kilometres is the smallest? [unclear],00:37:54
+gjwoinb,342,student,The smallest amount is 100 kilometres.,00:38:13
+gjwoinb,343,tutor,"That's right. That's right. C is the smallest, and we know If the distance is small, then the amount will also be small. It's the closest to the planet, so this will be C. Great job. And what do you think the distance— oh, the furthest.",00:38:20
+gjwoinb,344,student,Is that one?,00:38:41
+gjwoinb,345,tutor,Okay. Why do you think it's this one? [unclear],00:38:43
+gjwoinb,346,student,Let me check closely.,00:38:51
+gjwoinb,347,tutor,You can check the remaining 3 amounts and see which one's the answer.,00:38:52
+gjwoinb,348,student,"So you get 3 times 3, 10 times 3 is 30. And we like 100. [unclear]",00:38:58
+gjwoinb,349,background,"Yeah, I think it's that one.",00:39:13
+gjwoinb,350,tutor,"That's right, [STUDENT_NAME]. Excellent job. It's B. How do you know it's B?",00:39:16
+gjwoinb,351,student,Because it's the [unclear] away.,00:39:23
+gjwoinb,352,tutor,"That's right. Farthest away. Therefore, the distance will also be? Great. So which column did you look at to decide this is the greatest amount, [STUDENT_NAME]? Which column did you look at? [unclear]",00:39:27
+gjwoinb,353,tutor,"Or we compare this by looking at the column with the highest value, remember?",00:39:47
+gjwoinb,354,student,Yes.,00:39:58
+gjwoinb,355,tutor,"Yes, coming back to— where is that? Okay, here we can start by the hundred thousandths column, which is at 2 here, 2 here, and a 2 here. So can we compare just by looking at that? Because all the digits are 2.",00:39:59
+gjwoinb,356,student,This one?,00:40:14
+gjwoinb,357,tutor,"Yeah. We cannot compare because this is a 2, 100,000 is a 2, 100,000 is a 2. Then we start to look at the next column, which is the second largest. Okay, so that will be 8, 9, [unclear]",00:40:15
+gjwoinb,358,tutor,And what's this digit?,00:40:39
+gjwoinb,359,student,8.,00:40:43
+gjwoinb,360,tutor,"So out of all 3, which is greater?",00:40:45
+gjwoinb,361,student,That one's 7.,00:40:51
+gjwoinb,362,tutor,"Wait, this is an 8, this is a 9, this is a 7, [STUDENT_NAME]. Which one's greater?",00:40:53
+gjwoinb,363,student,"Oh, that one.",00:40:59
+gjwoinb,364,tutor,"That one. That's right. Therefore, the furthest will have B because that's the greatest distance. Okay, the largest amount. This is the largest and this is the smallest. Okay. All right, we are done with this lesson. [STUDENT_NAME], ordering numbers up to 1 million, how was it? [unclear]",00:41:01
+gjwoinb,365,tutor,Okay.,00:41:26
+gjwoinb,366,student,Did you enjoy this lesson?,00:41:27
+gjwoinb,367,tutor,Yes.,00:41:29
+gjwoinb,368,student,"Yes, you did a great job in this lesson. I'm so glad. You worked so hard. Okay. So—",00:41:29
+gjwoinb,369,tutor,Am I writing?,00:41:37
+gjwoinb,370,student,All right. So yes. The value of the digit 5 in this number is?,00:41:40
+gjwoinb,371,tutor,Is—,00:41:47
+gjwoinb,372,student,Digit 5.,00:41:50
+gjwoinb,373,background,Digit 5 is 500.,00:41:52
+gjwoinb,374,tutor,Let's check that again.,00:41:59
+gjwoinb,375,background,"5,000.",00:42:00
+gjwoinb,376,tutor,"Very good, 5,000. Excellent. And the value of the digit 4 is?",00:42:01
+gjwoinb,377,background,[unclear],00:42:07
+gjwoinb,378,student,Digit 4 is?,00:42:09
+gjwoinb,379,background,[unclear],00:42:11
+gjwoinb,380,student,4 ones.,00:42:12
+gjwoinb,381,tutor,"That's right, 4 ones. So we can simply say 4. Awesome. OK. Any questions in this lesson, [STUDENT_NAME]?",00:42:16
+gjwoinb,382,student,No. [unclear],00:42:26
+gjwoinb,383,tutor,"OK, then let's move on. OK, here we go. Can you read the topic, please?",00:42:27
+gjwoinb,384,student,"Knowing the value of each digit in numbers, level 2, 2000.",00:42:36
+gjwoinb,385,tutor,"That's right. This time we're going to have decimal numbers, 2 decimal numbers. Okay. Take a look at the learning goal question, [STUDENT_NAME]. I want you to give this question a try. Come on.",00:42:42
+gjwoinb,386,student,[unclear] the value of the digit 2 in this number. [unclear],00:42:54
+gjwoinb,387,tutor,Okay. What's your answer?,00:43:15
+gjwoinb,388,student,7.,00:43:19
+gjwoinb,389,tutor,Okay. All right. What's the column 2 is in?,00:43:21
+gjwoinb,390,student,0.24.,00:43:26
+gjwoinb,391,tutor,"The column, like the 5 is in the ones column. 3 is in the tens column. What about this 2, [STUDENT_NAME]? Which column is 2 in?",00:43:30
+gjwoinb,392,student,"Hmm, I think it's [UNCLEAR].",00:43:40
+gjwoinb,393,tutor,"Yes, yes, that's right. The tens column. OK, excellent. Wow, awesome. All right, take a look at the prior learning question, [STUDENT_NAME]. There are 2 fractions here. They want you to circle the greatest fraction out of the 2.",00:43:40
+gjwoinb,394,tutor,Mm-hmm. Which fraction do you think is the greatest? Meaning which one do you think is the highest number? Which one? [unclear] No. Can you read the fraction?,00:44:04
+gjwoinb,395,student,900.,00:44:22
+gjwoinb,396,tutor,"Uh-huh. Okay, all right. Good job in answering that as well, [STUDENT_NAME]. Awesome.",00:44:24
+gjwoinb,397,tutor,"Okay, I've just realised we've run out of time. So let me remind you before you go, make sure you stick around and ask the questions you get [unclear] and read the session, okay?",00:44:30
+gjwoinb,398,student,Mm-hmm.,00:44:43
+gjwoinb,399,tutor,"All right, you did a great job today. It was really nice to work with you, [STUDENT_NAME]. Keep up the good work. Have a good day. See you next week.",00:44:46
+gjwoinb,400,student,Bye.,00:44:56
+gjwoinb,401,tutor,Bye-bye.,00:44:58
+gjwoinb,402,background,[UNCLEAR],00:44:58
