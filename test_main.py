@@ -67,7 +67,7 @@ FALLBACK_PROBABILITY = 0.5
 # --- server config (same pattern as your working call) ---
 LOCAL_API_URL = os.getenv("LOCAL_API_URL", "http://10.70.13.33:11434")
 LOCAL_API_KEY = os.getenv("LOCAL_API_KEY", "sk-RZSBTkuZYOeXULKBTKupkA")
-MODEL_NAME = "qwen3.5-32k"
+MODEL_NAME = "qwen3.5-35b-a3b"
 TEMPERATURE = 0.0
 MAX_TOKENS = 3000
 ENABLE_THINKING = False
