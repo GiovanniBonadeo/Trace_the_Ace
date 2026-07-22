@@ -41,7 +41,7 @@ import pandas as pd
 PROMPTS_DIR = "prompts"  # directory containing one .txt file per template, e.g. prompts/D8.txt
 FEATURES_PATH = "train_features.csv"
 LABELS_PATH = "train_labels.csv"
-TRANSCRIPTS_DIR = "transcripts"  # directory containing one file per session_id
+TRANSCRIPTS_DIR = "train_transcripts"  # directory containing one file per session_id
 
 # Pick which template to run. Run with --list-prompts to see all names.
 PROMPT_NAME = "ABCD4"
