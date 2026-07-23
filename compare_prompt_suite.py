@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Compare learner-modelling prompts on a balanced labelled training sample.
 
