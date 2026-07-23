@@ -13,7 +13,7 @@ import json
 import requests
 
 LOCAL_API_URL = os.getenv("LOCAL_API_URL", "http://10.70.13.33:11434")
-LOCAL_API_KEY = os.getenv("LOCAL_API_KEY", "sk-RZSBTkuZYOeXULKBTKupkA")
+LOCAL_API_KEY = os.getenv("LOCAL_API_KEY", "my key")
 MODEL_NAME = "qwen3.5-35b-a3b"
 
 
@@ -29,7 +29,9 @@ def call(enable_thinking: bool, max_tokens: int = 500) -> dict:
         ],
         "temperature": 0.0,
         "max_tokens": max_tokens,
-        "chat_template_kwargs": {"enable_thinking": enable_thinking},
+        "extra_body": {
+            "think": False
+        },
     }
     headers = {"Content-Type": "application/json"}
     if LOCAL_API_KEY and LOCAL_API_KEY != "your-local-api-key":
