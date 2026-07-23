@@ -1,0 +1,2301 @@
+response_id,session_id,prompt_name,prompt_hash,probability,raw_content,error,elapsed_sec,attempts
+kdwihol,kmerrzd,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.35,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 1, ""label"": ""weak prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,27.88,1
+dauxfyr,gczysty,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,18.79,1
+hhntuet,gitfpzq,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,19.66,1
+gclnknm,kzqayug,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 3, ""label"": ""strong support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.07,1
+iahatcl,mbtiehl,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.07,1
+gtpzatd,hckfagf,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.4,1
+mmtdpna,bjlsops,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,21.35,1
+iilkmwq,lsmftoc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.44,1
+lpnvfzp,lffabab,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.85,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 3, ""label"": ""strong support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,18.9,1
+nmfsaln,hggezne,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,15.96,1
+hdmvkpo,kmwkdgg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,19.28,1
+cvtkndi,frofdvk,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.01,1
+cdqxbmm,ccbnbjk,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.45,1
+fgjewwq,ksggvxp,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.47,1
+gbpowpb,jhqynmx,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,19.74,1
+hbcmmrz,aprpukp,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.16,1
+atcpqts,mvdrgom,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 4, ""label"": ""exceptional improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.95,1
+gamtxfd,atvfdwy,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.48,1
+gslurxf,ejedyoy,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.81,1
+afylzjc,mrnbnbv,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.96,1
+emptmah,fownkzg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.68,1
+ffhopot,kapzcmc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.82,1
+djobcap,dbxeflv,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.54,1
+ivzucks,aezsuia,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,15.8,1
+btsgrvw,dajhwat,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.11,1
+gywxsvs,mpaavdj,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 1, ""label"": ""weak prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.81,1
+lgpggqo,dpkjqyh,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.24,1
+crmwiwp,gcbuvuo,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.87,1
+cypchuv,kaqltfw,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.66,1
+bvcfqxt,hvjqscv,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.35,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 1, ""label"": ""weak objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,17.32,1
+dyibtmn,fuhpcwb,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.0,1
+efzwljk,buluftd,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,16.13,1
+amzefau,bjmbkbk,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.64,1
+ccqctgc,aasgyqv,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.23,1
+dfyqxzq,euttpje,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.74,1
+gkefvhy,ikezgtf,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.6,1
+kvmznke,mljalxj,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.83,1
+mlvevgx,jgqsveu,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.78,1
+dompvyd,hvtmrcb,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.73,1
+krwqgst,fakxffb,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,14.1,1
+bvcgjmn,hecgnna,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.37,1
+aepfvaj,eqoknie,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.35,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 1, ""label"": ""weak final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,17.61,1
+mgtntwl,mjsnlfi,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,18.46,1
+feobuof,ghvcxqk,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,16.79,1
+makjkku,izxtnqe,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.74,1
+dwqgkhy,druvekb,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,20.36,1
+iwykwvx,hnyealg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,15.68,1
+fzoxnca,boayflb,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.51,1
+eodewmn,fdrxfif,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.15,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 0, ""label"": ""minimal objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 0, ""label"": ""minimal objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 1, ""label"": ""weak prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.15
+  }
+}",,18.79,1
+dxwweug,mnbcozv,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.19,1
+gzblekb,ccnesdy,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.05,1
+iehkgsd,nloaqpp,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.67,1
+hdfenmh,enzxozt,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,20.07,1
+gkkbntc,jkxshag,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.35,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 1, ""label"": ""weak prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 0, ""label"": ""minimal topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,18.21,1
+ndtoupf,cvezjol,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,,"{
+  ""dimensions"": {
+    ""ES"": {""score"": null, ""label"": ""not observable""},
+    ""IRV"": {""score"": null, ""label"": ""not observable""},
+    ""LGC"": {""score"": null, ""label"": ""not observable""},
+    ""NTP"": {""score"": null, ""label"": ""not observable""},
+    ""SLD"": {""score"": null, ""label"": ""not observable""},
+    ""TAC"": {""score"": null, ""label"": ""not observable""},
+    ""LOA"": {""score"": null, ""label"": ""not observable""},
+    ""IEO"": {""score"": null, ""label"": ""not observable""},
+    ""PIT"": {""score"": null, ""label"": ""not observable""},
+    ""SFS"": {""score"": null, ""label"": ""not observable""},
+    ""IFU"": {""score"": null, ""label"": ""not observable""},
+    ""FT"": {""score"": null, ""label"": ""not observable""},
+    ""EKS"": {""score"": null, ""label"": ""not observable""},
+    ""PR"": {""score"": null, ""label"": ""not observable""},
+    ""EPE"": {""score"": null, ""label"": ""not observable""},
+    ""LTD"": {""score"": null, ""label"": ""not observable""}
+  },
+  ""achievement"": {
+    ""probability"": null
+  }
+}",,13.44,1
+ipasimy,ermsqmw,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.88,1
+kjzixgw,eadzmts,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.96,1
+kuikycl,mmupsct,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 1, ""label"": ""weak prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,18.71,1
+mpnictg,irmbphf,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,20.64,1
+ixmwcrt,mynqirh,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.25,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 1, ""label"": ""weak final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 0, ""label"": ""minimal topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.25
+  }
+}",,17.58,1
+eorynsz,lwltbwi,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.8,1
+inwjppw,jectuft,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 1, ""label"": ""weak prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,17.8,1
+bqvialw,cmspimw,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.79,1
+mutbpma,agbrbao,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 0, ""label"": ""minimal entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.36,1
+kmdajap,dfkstid,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.94,1
+ghxygyd,hfyjylk,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.79,1
+hajobyw,cjiwhcy,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.31,1
+lxfpqtr,dvyqhjf,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,14.86,1
+gmwzqqo,fmaitvc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.22,1
+myhqduu,mnmwlha,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 1, ""label"": ""weak final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.3,1
+dmuvzxy,iazzphj,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 0, ""label"": ""minimal prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,15.97,1
+bqvjshq,nehqlih,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.29,1
+htpavyv,gbfhfdj,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.94,1
+fnocpuz,exgkjap,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.74,1
+cdxqmde,gvyprrc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.35,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,19.29,1
+ervrqmn,egamjeq,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.29,1
+jjvqkbp,mvbiikq,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.72,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,20.09,1
+craxqtb,fcejvel,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 3, ""label"": ""strong prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,17.82,1
+klvgffp,jellkmj,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,17.41,1
+fhmzzqd,hplatpg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.25,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 1, ""label"": ""weak feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 1, ""label"": ""weak prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 0, ""label"": ""minimal topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.25
+  }
+}",,16.29,1
+gbhcmro,gezwcct,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.11,1
+jhagdcr,jcygafu,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.98,1
+hyiqmhr,dknqkwc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.75,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.29,1
+hourplm,mcxhnbc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 1, ""label"": ""weak prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.39,1
+kjxxuij,cypnksx,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.36,1
+gydwvpg,lecbpmg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 1, ""label"": ""weak prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.84,1
+dhikiuk,mictpwi,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.82,1
+jlskiau,dodtqwx,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.4,1
+mpbkcip,nclzfnn,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.95,1
+aqkwylp,cxpxpkc,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.55,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.49,1
+mdbfquf,myyqlcw,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 0, ""label"": ""minimal support independence""},
+    ""TAC"": {""score"": 0, ""label"": ""minimal answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.14,1
+hgvkapp,jlazjjg,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.65,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.39,1
+nejbwfe,isxpuay,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.66,1
+hacaufu,hjogifm,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.81,1
+nmzlmuw,fktxwar,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.85,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 3, ""label"": ""strong entry knowledge""},
+    ""PR"": {""score"": 4, ""label"": ""exceptional prerequisite readiness""},
+    ""EPE"": {""score"": 2, ""label"": ""mixed prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,18.26,1
+kbfmjiz,glozcug,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 3, ""label"": ""strong objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.59,1
+emwcrkp,lymqjye,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 2, ""label"": ""mixed topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.88,1
+kcvvtrw,jfbvujd,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.78,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 3, ""label"": ""strong final accuracy""},
+    ""IRV"": {""score"": 3, ""label"": ""strong reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 2, ""label"": ""mixed transfer performance""},
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""PIT"": {""score"": 4, ""label"": ""exceptional improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""EKS"": {""score"": 1, ""label"": ""weak entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 4, ""label"": ""exceptional prior exposure""},
+    ""LTD"": {""score"": 3, ""label"": ""strong topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,17.99,1
+dtnpjmm,diyexko,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.25,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 1, ""label"": ""weak final accuracy""},
+    ""IRV"": {""score"": 1, ""label"": ""weak reasoning validity""},
+    ""LGC"": {""score"": 2, ""label"": ""mixed objective coverage""},
+    ""NTP"": {""score"": 0, ""label"": ""minimal transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.25
+  }
+}",,18.55,1
+bqctbub,gyatrag,ABCD4,bcd7625456cf06037f8ce5e935b179654d5cbd9334d70f26e0a9ae1e78695569,0.45,"{
+  ""dimensions"": {
+    ""ES"": {""score"": 2, ""label"": ""mixed final accuracy""},
+    ""IRV"": {""score"": 2, ""label"": ""mixed reasoning validity""},
+    ""LGC"": {""score"": 1, ""label"": ""weak objective coverage""},
+    ""NTP"": {""score"": 1, ""label"": ""weak transfer performance""},
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""PIT"": {""score"": 1, ""label"": ""weak improvement trajectory""},
+    ""SFS"": {""score"": 0, ""label"": ""minimal scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""EKS"": {""score"": 2, ""label"": ""mixed entry knowledge""},
+    ""PR"": {""score"": 2, ""label"": ""mixed prerequisite readiness""},
+    ""EPE"": {""score"": 3, ""label"": ""strong prior exposure""},
+    ""LTD"": {""score"": 1, ""label"": ""weak topic manageability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.61,1

@@ -1,0 +1,392 @@
+ABCD4 — Top Four Dimensions from Every Layer
+
+Evaluate the top four dimensions from each layer, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+ES: End-state independent correctness
+
+IRV: Independent reasoning validity
+
+LGC: Learner-generated objective coverage
+
+NTP: Novel transfer performance
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+PIT: Performance-improvement trajectory
+
+SFS: Scaffold-fading success
+
+IFU: Immediate feedback uptake
+
+FT: Feedback transfer
+
+EKS: Entry knowledge state
+
+PR: Prerequisite readiness
+
+EPE: Explicit prior exposure
+
+LTD: Learner-relative topic difficulty
+
+Use the four groups as complementary context. Direct learner performance should usually be most influential, while evidence conditions, learning process, and context refine the prediction. Higher scores always mean stronger or more favourable evidence; for SLD, TAC, and LTD, this means lower support dependence, lower contamination, and lower unresolved difficulty.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+ES: `final accuracy`
+
+IRV: `reasoning validity`
+
+LGC: `objective coverage`
+
+NTP: `transfer performance`
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+PIT: `improvement trajectory`
+
+SFS: `scaffold fading`
+
+IFU: `feedback uptake`
+
+FT: `feedback transfer`
+
+EKS: `entry knowledge`
+
+PR: `prerequisite readiness`
+
+EPE: `prior exposure`
+
+LTD: `topic manageability`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "ES": {"score": 0, "label": "minimal final accuracy"},
+    "IRV": {"score": 0, "label": "minimal reasoning validity"},
+    "LGC": {"score": 0, "label": "minimal objective coverage"},
+    "NTP": {"score": 0, "label": "minimal transfer performance"},
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "PIT": {"score": 0, "label": "minimal improvement trajectory"},
+    "SFS": {"score": 0, "label": "minimal scaffold fading"},
+    "IFU": {"score": 0, "label": "minimal feedback uptake"},
+    "FT": {"score": 0, "label": "minimal feedback transfer"},
+    "EKS": {"score": 0, "label": "minimal entry knowledge"},
+    "PR": {"score": 0, "label": "minimal prerequisite readiness"},
+    "EPE": {"score": 0, "label": "minimal prior exposure"},
+    "LTD": {"score": 0, "label": "minimal topic manageability"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Adding and subtracting 10s or 100s. 
+
+CONVERSATION:
+tutor: Hello?  [00:00:00]
+background: [unclear]  [00:00:00]
+student: Hello. Hi, Linus.  [00:00:01]
+tutor: Hi, sorry I wasn't here last lesson because I had chickenpox.  [00:00:04]
+student: Oh, are you feeling better now?  [00:00:09]
+student: Yeah, I am.  [00:00:13]
+tutor: Oh, I'm so glad to hear about it. That's great that you got one soon. So what else happened during this week?  [00:00:14]
+student: Um, so what happened on this [UNCLEAR]?  [00:00:24]
+tutor: I remember last time you mentioned that you are taking part in a competition, isn't it?  [00:00:24]
+student: Yeah, I didn't win in the competition with [UNCLEAR].  [00:00:38]
+tutor: Oh, okay, but that's totally fine. You can think of it as a good experience, isn't it?  [00:00:38]
+student: Maybe next time.  [00:00:56]
+tutor: Yeah, of course, definitely you can try harder and participate again, yeah?  [00:00:58]
+tutor: Yeah, so anyhow, it's good to have you back in this session. Today also we are going to do more questions together. You might remember we were working on adding and subtracting tens and hundreds last time. Yeah?  [00:01:06]
+student: [unclear]  [00:01:23]
+tutor: Oh, that's fine. We'll do— so there's only one question here. So we'll do it carefully, okay?  [00:01:24]
+student: Okay. In a library, there are 40 books on the trolley and 470 books on the shelf. How many books are all together?  [00:01:32]
+tutor: Okay, so what should we do to find it out?  [00:01:48]
+student: Um... [unclear]  [00:01:51]
+student: Okay, if I get the text into [UNCLEAR].  [00:01:58]
+tutor: Okay.  [00:01:58]
+student: So let's— I'll move it up here. Remus isn't here today.  [00:02:10]
+tutor: Mm-hmm.  [00:02:17]
+student: Okay.  [00:02:19]
+student: Then 47478.  [00:02:21]
+tutor: Okay.  [00:02:27]
+student: Select. Oops.  [00:02:28]
+tutor: That's fine. So there. Then we're going to put— if I can find it here. The plus. And— oh, there. [unclear]  [00:02:36]
+student: Move it up here. Then I'll go back to text.  [00:03:01]
+tutor: Okay. I'm just missing my sunbath.  [00:03:11]
+tutor: Oh, that's fine.  [00:03:41]
+student: Yeah, I don't really like sunbaths.  [00:03:43]
+tutor: Okay, um, so... [unclear] Okay, good. Then, hair.  [00:03:49]
+student: Then, by my coordinates, it's going to be— oh, this is actually hard. Let me do it on my paper.  [00:04:05]
+tutor: Okay, we'll do that.  [00:04:18]
+student: 40 plus 470 equals— [unclear]  [00:04:22]
+student: Okay, so it's— okay, so this one? [unclear] So 4, 4 plus  [00:04:34]
+student: 7 equals... [unclear]  [00:04:56]
+tutor: Mm-hmm.  [00:05:05]
+student: It's going to be 11, I think.  [00:05:07]
+tutor: It is.  [00:05:11]
+student: Oh, I think I got the answer.  [00:05:14]
+tutor: And what would it be?  [00:05:17]
+student: 510.  [00:05:20]
+tutor: 510. Very good. That was a good addition. Well done. Okay, so good working out, and that was very neat how you wrote your answer carefully. So what do we need to remember, Linus, when we add numbers?  [00:05:26]
+student: [unclear] that we need to, um, uh, uh, um, use paper to help.  [00:05:45]
+tutor: Yeah, and also we had to double-check and see whether we did the addition properly by aligning the digits, isn't it?  [00:06:00]
+student: Mm-hmm.  [00:06:08]
+tutor: Yeah, so it's also important. So we completed the continuing lesson, therefore we can start the new lesson together. So here we go.  [00:06:11]
+tutor: Alright, so what does it say? Let's read the topic.  [00:06:22]
+student: Uh... oh, using... using place value chart to multiply and divide by 10.  [00:06:25]
+tutor: Exactly. So what happens if we divide a number by 10? [unclear]  [00:06:39]
+tutor: Oh, that's quite hard.  [00:06:48]
+background: Alright, so we'll do it together. So why don't we write the number here, 340, inside the place value chart first?  [00:06:51]
+student: So, wait, huh? Pardon?  [00:07:02]
+background: We'll write this number, 340, inside the chart first.  [00:07:05]
+tutor: Inside the chart, not outside. In each given column, you have to put the [UNCLEAR].  [00:07:18]
+student: Oh, yeah, yeah, yeah. Just clear all. And I'm gonna call 3.  [00:07:18]
+tutor: Okay. 3.  [00:07:40]
+student: Um, 4.  [00:07:47]
+tutor: Mm-hmm. 0. Very good. So when we divide a number, is the number getting larger or smaller?  [00:07:48]
+student: Um, larger. Is it getting larger when you divide? [unclear] No, it gets smaller. Because let's say if I had 10 chocolates with me, if I divide it with you, then I have a less amount of chocolates, isn't it?  [00:08:00]
+student: Yeah.  [00:08:23]
+tutor: Yeah, so when you divide, the number gets smaller. So  [00:08:24]
+tutor: If we divide by 10, the number will get 10 times smaller. So that means every digit will move one place to the right side. So that means the 3 will become— the 3 hundredths will become 3 tenths. The 4 tenths will become 4 ones, and we get the answer 34.  [00:08:29]
+tutor: Did you understand it?  [00:08:57]
+student: That's how.  [00:08:58]
+tutor: Mm-hmm. When you divide a number, we move every digit one place to the right. If we use another example, if it is 120, if we divide this by 10, what would be the answer? [unclear]  [00:08:59]
+student: 12.  [00:09:23]
+tutor: Very good, it will be 12. Let's say if it is 250. If you divide by 10, what do we get as the answer?  [00:09:24]
+student: [unclear] 25.  [00:09:35]
+tutor: 25, there you go. So just remember, when you divide by 10, every digit will move one place down to the right. OK?  [00:09:38]
+student: Mm-hmm.  [00:09:49]
+tutor: All right. So let's write the answer here, 34.  [00:09:52]
+student: OK. [unclear] So 34. There.  [00:09:57]
+tutor: Very good. Now let's try the prior learning question also. You got this. So, how many groups of tens are there? [unclear]  [00:10:12]
+tutor: 3. So, 10 times 3 will give us— this should be a 3. It doesn't look like a 3. [unclear]  [00:10:35]
+student: Oh my gosh.  [00:10:56]
+tutor: You have to curve it a little bit. Like this. Oh, that's wonderful! Good progress. So 10 times 3 will give us how many counters?  [00:11:03]
+student: Um, it will give us [UNCLEAR].  [00:11:23]
+tutor: 30. Very good. So what do you think about these two questions?  [00:11:23]
+student: Um... um... was... but... [unclear]  [00:11:34]
+tutor: Was it good? Did you understood how we got both the answers?  [00:11:49]
+student: Um... sure.  [00:11:55]
+tutor: Mm-hmm. Okay. So I'm glad that it was good. So well done and good job in not giving up and doing your best on this slide, Linus. Okay?  [00:11:58]
+student: Okay.  [00:12:13]
+tutor: All right. So next we'll see what it is about. Oh, more arrays. So let's start reading from the [UNCLEAR].  [00:12:15]
+tutor: What does it say?  [00:12:26]
+student: Um, it says we can use arrays to help us understand what happens when we multiply and divide by 10.  [00:12:29]
+tutor: Okay, so count and tell me how many counters are there altogether.  [00:12:39]
+student: So there's 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. 6, 7, 8, 9, 10. So I'll put 10 up here.  [00:12:45]
+tutor: Mm-hmm.  [00:12:56]
+student: 10. Then here is 1, 2, 3, 4. So I'll put 4 here. That means 10 times 4.  [00:13:02]
+tutor: Very good. And that will be that.  [00:13:11]
+student: And that will be— this is [unclear] 40.  [00:13:13]
+tutor: It is! Brilliant counting! Now what does it say here?  [00:13:17]
+student: It says the ratio 4 groups of 10 and 10 groups of 4.  [00:13:25]
+tutor: Aha! So 4 groups of 10, as you said, 4 times 10 will give us how much?  [00:13:33]
+student: Um... [unclear] I am not sure.  [00:13:38]
+student: But... oh, 40.  [00:13:43]
+tutor: 40, exactly. So what did they mention here about having 10 groups of 4? Do you agree with that?  [00:13:46]
+student: Um, so that's gonna be 40. I think I know the answer. [unclear]  [00:13:56]
+tutor: And is it 40 we put here?  [00:14:03]
+student: Um, I think we put 40 there.  [00:14:07]
+tutor: But if we mention 10 groups of 4, would we put the 40 here or here?  [00:14:11]
+student: [unclear]  [00:14:16]
+tutor: Got it. Because if you put 40 here, that means we have 10 groups of 4— 40, isn't it?  [00:14:20]
+student: Yeah.  [00:14:27]
+tutor: Yeah, so 10 groups of 4 will give us 40. So here you have to put a 4. Got it?  [00:14:28]
+tutor: Okay, 10 groups of 4 will give us 40. Like, if you see, so this is a one group of 4, another group of 4, another. Like that, there are 10 groups of 4. Yeah?  [00:14:39]
+student: [unclear]  [00:14:54]
+tutor: So if we circle this way across, it will be having 4 groups of 10. If we go from top to bottom, that will be 10 groups of 4. Yeah? [unclear]  [00:14:56]
+student: I'm just carrying on.  [00:15:11]
+tutor: Okay.  [00:15:14]
+student: It also shows 40 divided into 10 or 4 equal groups.  [00:15:15]
+tutor: Mm-hmm. So therefore, if we divide 40 by 10, we get a 4. And? 40 divided by...  [00:15:22]
+student: Um, 10.  [00:15:31]
+tutor: 10 we have already written, so let's put 4 instead.  [00:15:35]
+student: 4... [unclear] 4 equals 10....equals 10. Very good. So what did you notice about these numbers? Is there any connection between them?  [00:15:41]
+student: Um, they're all in fours and tens.  [00:16:03]
+tutor: Exactly. Like, uh, the only way we read them are— and the way we group them is a bit different, isn't it?  [00:16:07]
+student: Yeah.  [00:16:15]
+tutor: Exactly. So next up, we have the question 2. Why don't you fill in the blanks? Give it a try. Okay, so... [unclear]  [00:16:17]
+student: Is it alright if I don't speak and I just do it?  [00:16:35]
+tutor: Of course, you can explain at the end.  [00:16:42]
+student: Okay.  [00:16:47]
+tutor: Okay, question 3 next. [unclear]  [00:17:18]
+student: Learning  [00:17:34]
+background: Lucky has 20 pencils. He shares The pencils are in 5 boxes. How many pencils are in each box? [unclear]  [00:17:37]
+tutor: So in your 5 times tables, if you know your 5 times tables, 5 times 20, so 5, 10, 15, 20. When you've got 5 boxes, so you could do it with 5, 10, 15, 20, and you can do 1, 2, 3, 4, that's 5, and that would be [unclear] 5 of them. So it could be, you know, 6,  [00:17:56]
+tutor: Okay. So can you tell me what did we learn in this slide? [unclear] What did we work here?  [00:18:36]
+student: I'm just going to pause because my friend is having a nosebleed.  [00:18:53]
+tutor: Oh, okay.  [00:19:01]
+student: Okay, so I'm just gonna quickly take off my headphones.  [00:19:03]
+tutor: All right.  [00:19:08]
+tutor: Sorry about that.  [00:19:29]
+student: Okay. All good now?  [00:19:38]
+tutor: Mm-hmm.  [00:19:41]
+student: Okay, great. So I was about to ask, what did we learn here on this slide? [unclear] to the circles, you can get the answers.  [00:19:42]
+student: Mm-hmm.  [00:19:59]
+tutor: I'm just counting all of them because if we do like 1— wait, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, then the 1 here, 1, 2, [UNCLEAR], 5, 6, you know that it's gonna end— it's 10 rows and 6, so we just put 10 [MUSIC]  [00:20:01]
+student: Times 6 equals... equals... equals... 60.  [00:20:21]
+tutor: Very good. So all of these are counters. We looked into how we can group different counters in order to multiply and divide numbers, isn't it? [unclear] Yeah, like how the number gets smaller or larger when we do that. So with this learning, we'll go to the next slide, Linus, and we'll start reading from here.  [00:20:46]
+student: When multiplying or dividing by 10, we make the number 10 times bigger or smaller.  [00:21:13]
+tutor: Mm-hmm. The green tower is one-tenth the size of the orange tower. But this doesn't look like green, isn't it? [unclear]  [00:21:20]
+background: Yeah, it looks like cyan.  [00:21:36]
+tutor: Yeah, so we can say that this small cube is one-tenth of the size of the orange tower, and the orange tower is 10 times the size of the green one, isn't it? [unclear] Yeah, so what we have below is a Gattegno chart. What do you notice about it?  [00:21:39]
+student: [unclear]  [00:22:04]
+tutor: I'm not sure. When you look at it, can you see? 1, 10, 100. When we go up, each number gets 10 times bigger. While when we go down, the number gets 10 times smaller. Isn't it?  [00:22:04]
+tutor: Yes, see? 100 becomes 10 when we divide by 10. 10 becomes 1 when we divide it by 10. 200, if we divide by 10, it will become a 20. And 20, if we divide by 10, it will become a 2.  [00:22:04]
+tutor: Yeah? So when we go below, when we go down, the number gets smaller. While we move up, when you multiply, the number gets larger. Is it clear for you?  [00:22:43]
+student: Yeah.  [00:22:57]
+tutor: Okay. Now why don't you try and complete the question A and B?  [00:22:58]
+student: Uh...  [00:23:05]
+tutor: Carefully read it. [unclear]  [00:23:06]
+tutor: Mm-hmm. What is 10 times the size of 6? [unclear]  [00:23:24]
+student: Say that again, please.  [00:23:37]
+tutor: I was mentioning the question. What is 10 times the size of 6? [unclear]  [00:23:40]
+student: So I'm not sure about this question.  [00:23:54]
+tutor: Okay. When I say 10 times the size of 6, are we multiplying or dividing? 10 times means? [unclear]  [00:24:00]
+tutor: 10 times 6.  [00:24:19]
+student: 6.  [00:24:23]
+tutor: Yeah. So 6, if we times it by 10, what do we get?  [00:24:27]
+student: 60.  [00:24:35]
+tutor: There you go. Now try the question B. [unclear]  [00:24:37]
+student: Mm-hmm. [unclear]  [00:24:42]
+tutor: What is 2?  [00:24:45]
+student: 200.  [00:24:49]
+tutor: 2.  [00:24:58]
+student: Mm-hmm.  [00:24:59]
+tutor: Good. Now, teach us. This is where my 2s are supposed to be. [unclear]  [00:25:01]
+tutor: Okay, so let's check the answer again. What is one-tenth the size of 200? So if it is 200, when we say one-tenth, are we going one place or two places down when we say one-tenth the size? [unclear]  [00:25:09]
+tutor: When we say one-tenth, we are only making it 10 times smaller. That means we are dividing by 10. So if we divide 200 by 10, would it be 2? What do you think?  [00:25:38]
+tutor: zero on. Exactly, very good. Now carefully explain to me what we did to get these two answers as you understood. [UNCLEAR]  [00:25:38]
+tutor: zero on. Exactly, very good. Now carefully explain to me what we did to get these two answers as you understood. [unclear]  [00:25:38]
+tutor: Mm-hmm.  [00:26:26]
+student: So, um, since it was okay but a bit hard, [unclear] what I learned from it was, so what I learned about it is that using this gadget [unclear] chart will tell me the ones that are going up by tens.  [00:26:27]
+tutor: Mm-hmm. And when we go down, it goes down in tens, isn't it?  [00:27:00]
+student: Hmm?  [00:27:13]
+tutor: Yeah. So when we say 10 times, we are multiplying by 10. So that's why when you say 10 times the size of 6, we did 10 times by 6, we move one place up, isn't it?  [00:27:14]
+student: Yeah.  [00:27:30]
+tutor: Then what about the B? What do you think of the B? [unclear] Okay. One-tenth the size of 200 means we are dividing. One-tenth means we are taking away, we are giving away.  [00:27:30]
+tutor: away. So that's why we divided by 10 and we got a 20. Yeah?  [00:27:30]
+student: [unclear]  [00:27:30]
+tutor: Okay. So, so far, how was it for you working on the questions?  [00:28:03]
+student: It was good.  [00:28:08]
+tutor: It was good. Okay. So next time, don't worry, we'll take it slower so you won't feel that pressure.  [00:28:11]
+tutor: Alright, now to follow my question, I'm going to show how it's been done. Watch my steps, then you have your own one to do. Okay?  [00:28:22]
+student: Yeah.  [00:28:32]
+tutor: Alright, so the diagram below shows 10 times 10, which equals 100. Yeah. And 100 divided by 10 is 10. So here, 10 times 10, I think they are talking about the flat here, the big square. Yeah. And this is what they show, the division. 10 divided into— [unclear] Sorry, 100 divided into 10 equal parts, so each part is a 10, isn't it?  [00:28:34]
+student: Yes, it does.  [00:29:10]
+tutor: Yeah. So now, We are using the place value chart to show how we divide a number by 10. We discussed a little bit about it earlier, isn't it?  [00:29:11]
+student: Yeah.  [00:29:24]
+tutor: Yeah. So when we divide a number by 10, we know we move one place down. So 50, if we divide by 10, the 5 tens will become 5 ones, isn't it? [unclear] But if we multiply 50 by 10, we move to the left. We make the 5 tens into 5 hundreds. So it will become 500.  [00:29:25]
+student: [unclear]  [00:29:52]
+tutor: So that's how we get the 2 answers. When we multiply by 10, we move one place to the left. When we divide by 10, we move one place to the right. That's it. Okay? [unclear]  [00:29:52]
+tutor: Alright, now it's your turn, Linus. We'll do the next one.  [00:30:11]
+student: Someone's a pigeon.  [00:30:18]
+tutor: Mm-hmm.  [00:30:20]
+student: Okay, so my turn then. [unclear]  [00:30:29]
+tutor: So, now, do— oh! Oops. Question 8.  [00:30:34]
+student: That's alright, I already know. 1, 2, 3?  [00:30:49]
+tutor: Mm-hmm, yeah.  [00:30:56]
+tutor: It is 300. [unclear] Okay. So can you tell me how you got the answers using the place value chart?  [00:30:57]
+student: Uh... I'm not. This is...  [00:31:18]
+tutor: Give it a try. It's okay. Try and explain. [unclear] [unclear]  [00:31:29]
+tutor: So first, if we put a third here, if we divide it by 10, the 3 tenths will become 3 ones. Yeah?  [00:32:00]
+student: Yeah.  [00:32:09]
+tutor: And if we multiply by 10, the 3 tenths will become 3 hundredths. So we add 2 placeholders. So that's it. So this is quite easy, just we have to remember how we move the digits. Okay?  [00:32:10]
+student: Yeah.  [00:32:25]
+tutor: All right, so with this new learning pattern, we are going to try a few more questions together. So start with the question A. You can use any method you want, the placeholder method. [unclear]  [00:32:27]
+student: I'm just gonna keep quiet while I'm doing it.  [00:32:42]
+tutor: Okay. [unclear] [unclear] to get 60 apples from the kitchen. Put them in bags of 10. How many bags does Harry need to get?  [00:32:45]
+student: 6.  [00:33:45]
+tutor: Very good. That is amazing how you did them independently. Good work again, Linus.  [00:33:52]
+tutor: Okay. So next time to go for the question. Here you go. [unclear]  [00:34:02]
+tutor: So Tara has parcel with the mass of 3 kg and Siddharth's parcel's mass is 10 times as much. What do you think?  [00:34:32]
+student: So what is the mass of [unclear] parcel?  [00:34:45]
+tutor: So 3 times 10 equals 300. I mean, 30.  [00:34:50]
+tutor: It will be 30. Very good. 30 kg. So if they have given you [unclear] kg. Okay, so we had to write it a little bit neater. Okay?  [00:35:17]
+student: Okay.  [00:35:37]
+tutor: All right. So next step, since we completed multiplying by and dividing by 10, how do you How do you feel about solving similar questions now? Do you feel confident?  [00:35:39]
+student: I'm not— well, I don't feel confident.  [00:35:52]
+tutor: Why is that? Do you need, like, want more practice working on it? Is it?  [00:35:58]
+student: I think I'm getting the hang of it.  [00:36:05]
+tutor: Okay, so don't worry, we just started learning about it. When you do similar questions, you'll be able to understand better. Okay. [unclear]  [00:36:11]
+tutor: All right. So next up, we'll see what we are going to learn together overall. But I have to say, I really like how dedicated you were to your working hours. Now we are going to do sharing and grouping. Let's start with the learning goal question.  [00:36:23]
+tutor: Okay. [unclear] has 20 pencils. He shares the pencils between 5 boxes. How many pencils are in each box?  [00:36:46]
+student: Mm-hmm. So what do you think? Sharing means what are we doing?  [00:37:04]
+student: Um, so sharing... so she has 20 pencils and 5 boxes, so that means they will all get, um, 5 pencils. [unclear]  [00:37:15]
+tutor: How would it be 5 if you share 20 pencils between 5 boxes?  [00:37:31]
+student: 5 in [unclear] 5 equals 10.  [00:37:39]
+tutor: Huh? 5 goes into 20 how many times? Think again. 5 goes into 20 how many times?  [00:37:53]
+student: I'm not [UNCLEAR].  [00:38:14]
+tutor: There you go. When you say [UNCLEAR], you're dividing. So here we divide the 20 by 5. Yeah?  [00:38:14]
+student: Yeah.  [00:38:14]
+tutor: Okay. So now try the next question also. Apply your learning.  [00:38:24]
+tutor: Um, sorry? [UNCLEAR]  [00:38:24]
+student: Mhm. Um, I mean, share 16 sweets between 4 bags.  [00:38:52]
+tutor: Mm-hmm. So how many sweets will be there in each? [unclear]  [00:39:01]
+student: Here it will be  [00:39:20]
+tutor: Is it 6, 16? If you group it into 4 bags, how many will be there in each? [unclear] Is it 6 or 8 if you divide 16 sweets into 4 bags?  [00:39:29]
+tutor: 4. So you have to focus more and carefully read the question. Okay. All right, so next up we are going to try the [unclear] question, but since we have around 1 minute, we are not going to do that. We'll do the rest of it next week. I know you've been feeling a bit tired today, isn't it? [unclear] So we did lots of questions today. So can you tell me what did we learn today in our lesson, Linus?  [00:39:52]
+student: We learned in our lesson that we have a lot of impressions.  [00:40:32]
+tutor: So we started with?  [00:40:45]
+student: We started with adding [unclear] adding and plus and division and minus the numbers and also there's a bar chart called I think it starts [UNCLEAR].  [00:40:49]
+student: get ignored chat.  [00:40:49]
+tutor: Yeah. So we divided and multiplied by 10, isn't it? And then we worked on sharing and grouping. So we will do the sharing and grouping lesson next day. So how was the lesson for you? Did you enjoy and learn new things?  [00:40:49]
+student: Enjoyed it and it was good.  [00:41:37]
+tutor: Wonderful. So enjoy the rest of the week ahead. Have a good time and I will see you next day. So don't forget to do the questions you get in the end. Carefully do them. I'll be checking and then you can fill the feedback form. So see you next time. Bye-bye. Bye. [unclear]  [00:41:40]
