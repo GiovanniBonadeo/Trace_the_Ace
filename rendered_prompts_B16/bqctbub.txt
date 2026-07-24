@@ -1,0 +1,379 @@
+B16 — Evidence Conditions and Reliability
+
+Evaluate the conditions and reliability of the evidence in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+ED: Evidence diversity
+
+ECL: Elicitation challenge level
+
+PIV: Post-feedback independent verification
+
+ER: Evidence recency
+
+QD: Question diagnosticity
+
+GCR: Guessing and cueing risk
+
+RCO: Learner-response completion opportunity
+
+PCI: Prompt clarity and interpretability
+
+SRR: Speaker-role reliability
+
+RO: Response observability
+
+IER: Imitation and example-overlap risk
+
+OCB: Objective-component opportunity balance
+
+Higher scores mean more favourable or informative evidence conditions. For SLD, TAC, GCR, and IER, higher scores mean lower support dependence, contamination, guessing risk, and imitation risk. Other lesson segments should not reduce LOA simply because they are present.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+ED: `evidence diversity`
+
+ECL: `challenge quality`
+
+PIV: `independent verification`
+
+ER: `evidence recency`
+
+QD: `question diagnosticity`
+
+GCR: `cue resistance`
+
+RCO: `response opportunity`
+
+PCI: `prompt clarity`
+
+SRR: `speaker reliability`
+
+RO: `response observability`
+
+IER: `example independence`
+
+OCB: `opportunity balance`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "ED": {"score": 0, "label": "minimal evidence diversity"},
+    "ECL": {"score": 0, "label": "minimal challenge quality"},
+    "PIV": {"score": 0, "label": "minimal independent verification"},
+    "ER": {"score": 0, "label": "minimal evidence recency"},
+    "QD": {"score": 0, "label": "minimal question diagnosticity"},
+    "GCR": {"score": 0, "label": "minimal cue resistance"},
+    "RCO": {"score": 0, "label": "minimal response opportunity"},
+    "PCI": {"score": 0, "label": "minimal prompt clarity"},
+    "SRR": {"score": 0, "label": "minimal speaker reliability"},
+    "RO": {"score": 0, "label": "minimal response observability"},
+    "IER": {"score": 0, "label": "minimal example independence"},
+    "OCB": {"score": 0, "label": "minimal opportunity balance"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Writing simple fractions as decimals.
+
+CONVERSATION:
+tutor: Hello?  [00:00:00]
+student: Tobias?  [00:00:02]
+tutor: Yes?  [00:00:03]
+student: Callahan is using this account because Lysander has been removed from using this from the Teacher.  [00:00:05]
+tutor: Tobias, can you hear me? [Speaker:Background]... [unclear]  [00:00:17]
+tutor: Hello? Tobias? [unclear] Can you hear me, Tobias? Tobias, can you hear me?  [00:00:20]
+student: Yeah.  [00:00:46]
+tutor: Ah, okay. I can hear you now.  [00:00:47]
+tutor: Okay, so how are you doing, Tobias?  [00:00:49]
+student: I'm doing good.  [00:00:52]
+tutor: You're doing good. Okay, yes. So, okay, so, uh, today, uh, this week is the last week of, uh, June. So what did you have at the school? [unclear]  [00:00:53]
+student: Kettle says that it's only one way to partition 0.62.  [00:01:17]
+tutor: What? Tobias?  [00:01:23]
+student: What did you say? [unclear]  [00:01:25]
+tutor: Tobias?  [00:01:28]
+student: Yes, 0.62.  [00:01:29]
+tutor: Okay, Tobias, so we can try, we can go with this question. Let's look at different fractions. So I have  [00:01:35]
+student: A hundred square divided into 5 different colours. So that means it has been divided into 5 equal parts. Each part shows one— each part shows one-fifth of the whole.  [00:01:46]
+tutor: Yes. [unclear]  [00:02:07]
+tutor: So in each, we can count. There are 20, and count it as a 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100. So 20 hundreds. [unclear]  [00:02:12]
+tutor: You can try your one up there. [unclear]  [00:02:38]
+student: After the 1/5...  [00:02:47]
+tutor: Is it 5 equal parts? How many parts have been it divided into? [unclear] How many colors do you find here? [unclear] Tobias, how many colors do you find? [unclear]  [00:03:04]
+student: 10. 10. So it is divided into 10 equal parts.  [00:03:25]
+tutor: So 1/10.  [00:03:36]
+student: Yes, correct, 1/10. So this is also 10 equal parts. [unclear] [unclear]  [00:03:38]
+tutor: So this one is 0.2.  [00:04:04]
+student: Oh, 0.2.  [00:04:09]
+tutor: This is 1,000, Tobias. Your answer was correct.  [00:04:10]
+student: Ah, okay. Then we added a zero. So what is the fraction of this? [unclear]  [00:04:17]
+student: Yeah, in decimal is 0.1.  [00:04:32]
+tutor: Okay. Now, you can try this up there. [unclear]  [00:04:34]
+tutor: Okay, why do you say that?  [00:04:57]
+student: Because one-tenth equals 0.1, and 0.75 is 7 tenths, and  [00:05:07]
+tutor: Yes, that's a good explanation. Okay. [unclear] Which one is bigger in this? I can't recognize your symbol.  [00:05:21]
+student: The larger circle.  [00:05:45]
+tutor: So yeah, 0.5. [unclear] Okay. [unclear]  [00:05:50]
+tutor: Okay, why has Tobias put this symbol?  [00:06:25]
+student: So I am positive that he is down. I don't have any explanation.  [00:06:35]
+tutor: Our brain is not braining.  [00:06:44]
+student: Brain is not braining.  [00:06:47]
+tutor: Yeah. Why is that? [unclear]  [00:06:49]
+student: Because I have to work at school.  [00:06:53]
+tutor: Yes, at school. Oh, do you have— have you enrolled in any program?  [00:06:58]
+tutor: Sorry?  [00:07:14]
+student: I didn't say anything.  [00:07:15]
+tutor: Sorry?  [00:07:18]
+student: Uh, it was, uh, thingy, him. Some guy came to the market and just started speaking. [unclear]  [00:07:20]
+tutor: Okay, he told Shaquille.  [00:07:29]
+student: Okay.  [00:07:31]
+tutor: Yeah, he said that.  [00:07:33]
+tutor: Was it because of my name?  [00:07:38]
+student: Yeah, he's trying to read your name.  [00:07:40]
+tutor: Sorry?  [00:07:44]
+student: He was trying to read your name.  [00:07:45]
+tutor: Oh, okay. My name is Thaddeus. [unclear]  [00:07:49]
+student: Okay, so 0.8, 4/5. So if you have 4/5, if you want to— we know that 0.8 is 8/10.  [00:07:55]
+tutor: Oh no, I changed my mind. Equal.  [00:08:05]
+student: Yes, they are equal.  [00:08:09]
+tutor: They are equal.  [00:08:14]
+student: Because I converted it. I converted the 4 times 2 equals 8, then I converted the 5 times 2 equals 10.  [00:08:16]
+tutor: Exactly. [unclear] Yippee! Okay, Tobias, you can try this one. One is a fraction, one is a decimal. [unclear]  [00:08:23]
+student: Yeah? [unclear]  [00:09:13]
+tutor: 0.05 kilogram. Okay. So if we convert— which one did you convert, Tobias? Did you convert this to a fraction or this to decimal?  [00:09:36]
+student: I converted that into 27.  [00:09:50]
+student: 27.5 kilograms.  [00:09:54]
+tutor: Okay, so if you convert that, what will be your answer in kilograms? [unclear]  [00:09:57]
+student: It should be 0.5.  [00:10:05]
+tutor: Ah, okay, 0.5. That means if you add that to 27, how much would it be? [unclear]  [00:10:10]
+student: 27.5.  [00:10:27]
+tutor: Yeah, 27.5 kilograms. Okay, they're asking how much more does Sam weigh. So Sam weighs 27.5 kilograms. [unclear] [Speaker:Tobias]...I forgot to compare it. [unclear]  [00:10:29]
+tutor: Okay. Yeah, so we have completed this lesson, change fraction to decimal. Are we confident with this? How do we convert to decimal?  [00:11:12]
+student: Stop speaking in the mic.  [00:11:24]
+tutor: Sorry, it was somebody else speaking in somebody's mic. [unclear]  [00:11:27]
+student: Okay.  [00:11:31]
+tutor: Is Tobias confident about [unclear] decimal?  [00:11:36]
+student: Convert.  [00:11:43]
+tutor: Convert to the units of meter.  [00:11:46]
+student: After converting.  [00:11:53]
+tutor: Yes.  [00:11:54]
+student: We have to set it.  [00:11:56]
+tutor: After dividing by 2, it is 0. [unclear]  [00:11:58]
+student: Okay, 50 centimeters. Okay, a quarter meter. So meter to centimeter, what do we have to do of this? [unclear]  [00:12:02]
+tutor: Meter to centimeter.  [00:12:43]
+student: I have to... [unclear]  [00:12:45]
+tutor: I don't know.  [00:12:54]
+student: Meter to centimeter, we have to—  [00:13:02]
+tutor: Partition.  [00:13:06]
+student: Multiply it by 100.  [00:13:08]
+tutor: Okay.  [00:13:11]
+student: Yeah. So, okay, can we try this one, please?  [00:13:13]
+tutor: All right. [unclear]  [00:13:18]
+tutor: Wait, does 10 centimeters equal 1 meter?  [00:13:32]
+student: 10 centimeters— no, 100 centimeters is equal to 1 meter.  [00:13:36]
+tutor: Yeah, then 1.45 meters.  [00:13:41]
+student: Perfect. Okay, so let's learn about this. Can Tobias read this? [unclear]  [00:13:46]
+student: Knowing some key unit conversions can help in real life when solving problems.  [00:13:56]
+tutor: Conversions can help in real life when solving problems. Okay, yeah, you can read each one.  [00:14:04]
+student: 1 kilogram equals 1,000 meters. 1 kilometer equals 1,000 meters. 1 liter equals 1,000 milliliters. [unclear]  [00:14:12]
+tutor: I'm gonna start answering the questions now.  [00:14:28]
+student: Okay.  [00:14:33]
+tutor: But this is really important.  [00:14:34]
+tutor: Yes. How about C and D? [unclear] Centimeter to milliliter— millimeter is 10. 1 centimeter is equal to 10 millimeters. How do you do it?  [00:15:09]
+student: So I know that 2,000 milliliters equals to 2 liters.  [00:15:39]
+tutor: I'm speaking about this one. [unclear]  [00:15:48]
+student: I thought you're talking about the liters and milliliters.  [00:15:50]
+tutor: No, that's correct. Okay, this one, 3.5 centimeters to millimeter.  [00:15:55]
+student: So 300, I mean [unclear]  [00:16:02]
+tutor: 300 centimeters is equal to 3 centimeters. Then there's 50. I can't make 50 into 1 centimeter, so I look at the tenths of the hundreds column, and it fits in the tenths column, so I put it in the tenths column. So there's 3 350 milliliters.  [00:16:07]
+student: 30 millimeters is equal to 3 centimeters. [unclear]  [00:16:34]
+tutor: That means 3.5 centimeters means how many millimeters?  [00:16:41]
+tutor: Yes.  [00:16:58]
+student: 35. [unclear]  [00:17:00]
+tutor: And this chart is really important, Tobias. So whenever we— whenever you want it, you can always ask me this chart. [unclear] So let's convert with fractions and decimal quantities. 2/5 kilometer. So in order to find 2/5, first let's find 1/5. So we know that 1 kilometer is equal to 1,000 meters. So 1/5 means we have to divide it by 5. So 1,000 divided by 5 is 200. Okay, so—  [00:17:05]
+student: Yes.  [00:17:43]
+tutor: So 200 times 2 is 400.  [00:17:44]
+tutor: Yes. So, uh, the answer is 400. [unclear]  [00:17:52]
+student: Yes, sir.  [00:17:58]
+tutor: So this is 200, 200, it goes on like that. So, uh, 0.25 liters, 200 milliliters. So we know that 1 liter is 1000 milliliters. So to find 0.25  [00:18:00]
+student: 0.25.  [00:18:17]
+tutor: 0.25 means Tobias is quarter. Okay, so when we look at here, one quarter means 0.25. So 1,000 divided by 4 is 250. So 0.25 into 8 is equal to 250 [UNCLEAR]. [unclear]  [00:18:19]
+tutor: I think that is correct.  [00:18:47]
+student: No.  [00:19:00]
+tutor: No, Tobias?  [00:19:01]
+student: I don't know.  [00:19:05]
+tutor: A half kilogram is 500 grams. How much is 3/4? So they have given you the steps. Let's see. A quarter kilogram means we have to divide 1,000 grams into 4, or divide by 4. How much is it? [unclear]  [00:19:08]
+tutor: What's my favorite subject in school?  [00:19:29]
+student: Speech. [Speaker:Tutor]... [unclear]  [00:19:35]
+tutor: So Tobias, can we go with the steps please?  [00:19:49]
+student: So basically...  [00:19:59]
+tutor: 1000 grams divided by 4.  [00:20:06]
+student: 1000 divided by 4 equals... [unclear] [unclear]  [00:20:11]
+tutor: 1,000 grams divided by 4 is how much?  [00:20:43]
+student: 2?  [00:20:55]
+tutor: 2?  [00:20:55]
+student: Yes.  [00:20:56]
+tutor: A thousand divided by— [unclear] divided by 4. So 10 divided by 4, how much is it, Tobias? How much? [unclear]  [00:21:03]
+tutor: Sorry?  [00:21:28]
+student: 2. Remainder 2.  [00:21:29]
+tutor: Okay, so how many 4 goes into, uh, how many 4 goes into 20?  [00:21:32]
+student: 5.  [00:21:42]
+tutor: Okay, how many 4 goes into 0?  [00:21:46]
+student: 0. [unclear]  [00:21:49]
+tutor: So 250. Yeah, so 250 is the answer. A quarter kilogram is 250 grams. Okay, so for to find 3/4 kilogram, we have to multiply it by 3.  [00:21:54]
+student: By 3.  [00:22:10]
+tutor: Okay, so we have to multiply this 250 grams into 3. How much is it? [unclear]  [00:22:13]
+student: Nothing.  [00:22:20]
+tutor: Okay. How much is 250 grams multiplied by 5? [unclear]  [00:22:34]
+student: Multiply by 5.  [00:22:51]
+tutor: Sorry, multiply by 3. [unclear]  [00:22:54]
+student: I'm gonna look out.  [00:23:14]
+tutor: Yeah, okay. [unclear]  [00:23:18]
+tutor: Sorry?  [00:24:18]
+student: I need to move this.  [00:24:18]
+tutor: You want a blank space? Okay, hold on. I give a paper if you want.  [00:24:23]
+tutor: Thank you. So your question is?  [00:24:29]
+student: 250 divide, I mean times 3. 5, 1, carry the 1, then 2 times 3 is 6, add 1. [unclear]  [00:24:36]
+tutor: 750.  [00:25:36]
+student: Perfect. 750.  [00:25:41]
+tutor: 250 multiplied by 2, 750 grams. You can write. [unclear]  [00:25:50]
+student: So it's 750.  [00:25:59]
+tutor: Yeah, 750.  [00:26:06]
+student: Minus?  [00:26:08]
+tutor: Yeah, so how much is a 3/4 kilogram? [unclear]  [00:26:10]
+tutor: Yes, miss. Yes, miss. [unclear]  [00:26:15]
+tutor: I'm back.  [00:26:43]
+student: Yeah.  [00:26:45]
+tutor: Yeah, Tobias, what was the question about?  [00:26:47]
+student: Why the number on background is the very same.  [00:26:53]
+tutor: Okay, so now we have to find 0.5 meters.  [00:26:58]
+student: The answer is 7.9 meters.  [00:27:03]
+student: Uh, you are saying it as pi. Okay, so 1 meter is 100 centimeters. So 0.5 means how many centimeters? [unclear]  [00:27:10]
+tutor: 1 meter is equal to 100 centimeters. I'll have it here.  [00:27:28]
+tutor: Yes.  [00:27:35]
+student: So, um, one meter— one meter is equal to 100 centimeters. Then how much is 0.5 meters? [unclear]  [00:27:36]
+tutor: Yes. [unclear] It's over there.  [00:28:03]
+student: Sorry.  [00:28:09]
+tutor: Looking.  [00:28:11]
+student: Okay.  [00:28:12]
+tutor: So it's 50-70.  [00:28:14]
+student: Okay.  [00:28:18]
+tutor: So, yes, Tobias, let's see how we solve this. Be careful. If you want this slide, let me know. We can  [00:28:21]
+tutor: I can share it with you. [unclear] Yeah, you can do it. [unclear]  [00:28:30]
+tutor: Okay. The original answer is here. Then there's 2 minus. Then we inverted 3.21. So 2.2. So maybe the answer is 0.22. [unclear]  [00:29:01]
+tutor: Okay, that's good. This you have reflected back. Okay, let's talk about E. So 1 liter is equal to 1,000 milliliters. 2 liters is equal to 2,000 milliliters.  [00:29:26]
+tutor: How much is 2.2 liters? [unclear]  [00:29:49]
+tutor: And yes, you have put the commands correctly. [unclear]  [00:30:16]
+student: Okay. Now, let's do a tricky question. You can try this. I'm kind of confused. How much do they weigh all together? 7.7. [unclear]  [00:30:23]
+student: Okay, what is 8.99 rounded to the nearest tenth?  [00:30:57]
+tutor: 9.4. [unclear]  [00:31:04]
+tutor: How did you do so fast?  [00:31:13]
+student: Because I had a converter in 450 grams to kilograms, which is 4.5 kilograms. And then I add it to 3.2 kilograms, which gives me 7.7 kilograms. And then I add one whole and three-quarters— three-quarter kilogram. And I, I use the— I put one kilogram of 750, which is 1.775, and then I add it to the rest, will give me 9.45 kg.  [00:31:32]
+tutor: Incredible, very nice. Okay, so, uh, they say there isn't a fuel main [UNCLEAR]. What's happening?  [00:32:16]
+tutor: Okay, you saw it. Go ahead. [unclear]  [00:32:30]
+tutor: Using known facts. You can try this one. [unclear]  [00:32:38]
+tutor: Huh? What do they mean? [unclear]  [00:33:09]
+tutor: Yes, kid! Yes, kid! Skip... That skip, that skip— we'll skip to this kid. [unclear]  [00:33:35]
+tutor: Hello?  [00:33:52]
+student: Hello?  [00:33:53]
+tutor: Y'all did not speak at all.  [00:33:53]
+student: Me too. [unclear]  [00:33:57]
+tutor: Tobias? [unclear]  [00:34:00]
+tutor: Tobias?  [00:34:23]
+student: Yeah.  [00:34:25]
+tutor: Okay, what do you mean by using known facts?  [00:34:28]
+student: It means like when you're adding, when you're  [00:34:31]
+student: Subtracting or adding things that are not in the same columns, but you use the same, like I use the hundreds column, like 0.3, 0.03, take away 0.07 equals 0.4, which made it 0.10, then [unclear] Then I put 0.10 take away 0.07 and 0.04, which gives me 0.06.  [00:34:40]
+tutor: Yeah, so like you targeted the hundreds column. 13 take away 7 will give you 6. That means 0.13 take away 0.07. Will give you 0.06. Okay, um, do you know about this, please? [unclear]  [00:35:20]
+student: Yes.  [00:35:37]
+tutor: Uh, this we find it in multiplication. Now they have given you an addition. Do you know how to find the answer here? Okay.  [00:35:38]
+student: So you have to add 7 and 12.  [00:35:51]
+tutor: 7 5 will give you 12.  [00:35:55]
+student: So I can't find the program. So 8 5 will give me 14. No,  [00:35:58]
+tutor: 8 5. You have to add all the, uh, ones in line. Do come. 8 5  [00:36:06]
+student: 13. I was confused. I [unclear] was thinking that 8 5 is going to be 1. [unclear]  [00:36:14]
+tutor: You can have 13 here, no problem.  [00:36:31]
+student: Okay.  [00:36:44]
+tutor: Okay, now we have given you the answer, 40. And here we have 8.  [00:36:45]
+tutor: Then how much do you think will be here? 8 plus something to give you 40. And how much is it?  [00:36:51]
+student: 8 plus 5? No. [unclear]  [00:37:01]
+tutor: 8 plus 5 is 13. So here they have given you the answer. Hold on up there. They have given you the answer. Which is 40. So 8 plus something will give you 40. What is it? [unclear]  [00:37:05]
+tutor: Yeah, 8 plus something will give you 40. As you all know, we have to add only the light, uh, the ones in light blue. 8 plus what will give you 14? [unclear]  [00:37:27]
+student: It's not 5 because 5 gives me like 13. It's not 7 because 7 will give me—  [00:37:57]
+tutor: 2.  [00:38:07]
+student: Yeah, 7!  [00:38:07]
+tutor: No, 8 plus 7 is 15. [unclear]  [00:38:10]
+student: What do you mean by that?  [00:38:13]
+tutor: None of these give me things. So then it's 8 and 6.  [00:38:23]
+student: Yes, so you can have 6 here into 13 after. [unclear]  [00:38:31]
+tutor: 8 6, then will give you 14. Then  [00:38:43]
+student: 7 6, how much is 7 6? Y4 is 4,000.  [00:38:52]
+tutor: [unclear]  [00:39:10]
+tutor: Now do you understand how do we do this?  [00:39:10]
+student: Yes. I'm a child/student.  [00:39:18]
+tutor: Okay, then thank you very much, Tobias. Then maybe next week. Bye.  [00:39:24]
+tutor: Bye-bye.  [00:39:33]
+student: Bye. [unclear]  [00:39:35]

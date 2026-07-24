@@ -1,0 +1,568 @@
+B16 — Evidence Conditions and Reliability
+
+Evaluate the conditions and reliability of the evidence in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+ED: Evidence diversity
+
+ECL: Elicitation challenge level
+
+PIV: Post-feedback independent verification
+
+ER: Evidence recency
+
+QD: Question diagnosticity
+
+GCR: Guessing and cueing risk
+
+RCO: Learner-response completion opportunity
+
+PCI: Prompt clarity and interpretability
+
+SRR: Speaker-role reliability
+
+RO: Response observability
+
+IER: Imitation and example-overlap risk
+
+OCB: Objective-component opportunity balance
+
+Higher scores mean more favourable or informative evidence conditions. For SLD, TAC, GCR, and IER, higher scores mean lower support dependence, contamination, guessing risk, and imitation risk. Other lesson segments should not reduce LOA simply because they are present.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+ED: `evidence diversity`
+
+ECL: `challenge quality`
+
+PIV: `independent verification`
+
+ER: `evidence recency`
+
+QD: `question diagnosticity`
+
+GCR: `cue resistance`
+
+RCO: `response opportunity`
+
+PCI: `prompt clarity`
+
+SRR: `speaker reliability`
+
+RO: `response observability`
+
+IER: `example independence`
+
+OCB: `opportunity balance`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "ED": {"score": 0, "label": "minimal evidence diversity"},
+    "ECL": {"score": 0, "label": "minimal challenge quality"},
+    "PIV": {"score": 0, "label": "minimal independent verification"},
+    "ER": {"score": 0, "label": "minimal evidence recency"},
+    "QD": {"score": 0, "label": "minimal question diagnosticity"},
+    "GCR": {"score": 0, "label": "minimal cue resistance"},
+    "RCO": {"score": 0, "label": "minimal response opportunity"},
+    "PCI": {"score": 0, "label": "minimal prompt clarity"},
+    "SRR": {"score": 0, "label": "minimal speaker reliability"},
+    "RO": {"score": 0, "label": "minimal response observability"},
+    "IER": {"score": 0, "label": "minimal example independence"},
+    "OCB": {"score": 0, "label": "minimal opportunity balance"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Converting between units of measure.
+
+CONVERSATION:
+tutor: Hello?  [00:00:00]
+background: [unclear]  [00:00:00]
+student: Hello, hi, can you hear me, Kieran?  [00:00:01]
+tutor: Yeah.  [00:00:03]
+student: Awesome. So how are you doing today?  [00:00:04]
+tutor: Good.  [00:00:08]
+student: Good. That's really nice to know. And how was your day so far? [unclear]  [00:00:09]
+tutor: Okay. All right, that's nice to know, Kieran. [unclear]  [00:00:15]
+tutor: Pardon?  [00:00:24]
+background: Were you saying something?  [00:00:25]
+student: No.  [00:00:27]
+tutor: All right. So, I mean, did you do anything interesting this week? Did you learn anything interesting this week at school?  [00:00:27]
+student: We did algebra. It was about algebra, algebra, the nth term.  [00:00:36]
+tutor: So how was algebra? Was it easy? Was it in the middle? [unclear]  [00:00:55]
+student: In the middle.  [00:01:02]
+tutor: Alright, no worries. So here in third space, Kieran, we're going to continue the lesson that we started off last time. Is that okay?  [00:01:05]
+student: I don't care.  [00:01:14]
+tutor: Sorry?  [00:01:15]
+student: I was looking at the [UNCLEAR].  [00:01:17]
+tutor: What were you saying? I keep something you say?  [00:01:21]
+student: No, I was looking at the [UNCLEAR].  [00:01:25]
+tutor: Alright, that wasn't for me. Alright, no worries. So yeah, I was saying that we're going to be continuing this lesson. Which we started off last time, and the lesson is called converting between units of measure. Okay?  [00:01:28]
+student: Yeah.  [00:01:43]
+tutor: So last time we spoke about this, so let's just do a revision-like thing. So what's 1 kilometer equal to me— I mean, in meters?  [00:01:45]
+student: 1,000 meters.  [00:01:55]
+tutor: Very good. So when we convert from kilometers to meters, what do we do?  [00:01:58]
+student: [unclear]  [00:02:02]
+tutor: Pardon?  [00:02:06]
+background: When we go from kilometers to meters, what do we do?  [00:02:06]
+student: [unclear] times by 1,000.  [00:02:09]
+tutor: Very good. But if I convert from meters to kilometers, what do I do?  [00:02:12]
+student: Divide by 1,000.  [00:02:17]
+tutor: Very good. Amazing understanding. And yes, we spoke about how 1 meter is 100 centimeters, 1 centimeter is 10 millimeters. So even we spoke about this. Do you remember?  [00:02:20]
+student: Yeah.  [00:02:33]
+tutor: So when we have 3/4 kilogram, for example, 3 over 4 kilograms. So what did we do first? [unclear]  [00:02:34]
+student: We convert it into a thousand, over a thousand.  [00:02:45]
+tutor: And then?  [00:02:49]
+student: Divide it.  [00:02:50]
+tutor: It by what?  [00:02:51]
+student: 4.  [00:02:53]
+tutor: Why 4? What's the reason we chose 4? [unclear]  [00:02:54]
+tutor: Look at your numbers. What's the fraction we are finding out? 3/4 kilogram. Yeah? So why 4? Why dividing by 4?  [00:03:02]
+student: Because it's the denominator.  [00:03:14]
+tutor: Very good. Amazing. So we got the answer 250. So what do you do with this answer? What did we do with this answer? [unclear]  [00:03:17]
+student: We divided it by 4.  [00:03:31]
+tutor: Did we divide it again or times it?  [00:03:37]
+student: Times it.  [00:03:40]
+tutor: Times it by what?  [00:03:41]
+student: 1,000.  [00:03:43]
+tutor: We times it by— 200 videos times by?  [00:03:46]
+student: 3.  [00:03:50]
+tutor: 3. Why 3? [unclear]  [00:03:52]
+tutor: Very good. So if we divide by the denominator, we times by the numerator. Does it make sense?  [00:03:55]
+student: Yeah.  [00:04:05]
+tutor: So that's what we did last time. We divided by the denominator and then times it by the numerator. So we even completed this. So today we would be working on the Go Further slide, okay?  [00:04:07]
+student: Yeah.  [00:04:22]
+tutor: Okay. So would you like to give it a try first on your own?  [00:04:23]
+student: Yeah. [unclear] needs to post 3 parcels. The mass of each parcel is shown below.  [00:04:27]
+tutor: Mm-hmm. What's the mass of each parcel? So Parcel A, what's the mass?  [00:04:39]
+student: It is 3.2 kilograms. Puzzle B is 4,500 grams and... [unclear]  [00:04:48]
+tutor: Sorry, hello?  [00:05:09]
+student: How much does each puzzle weigh altogether in kilo... kilogram? So, yeah, what do you think? [unclear]  [00:05:12]
+student: I think we first have to convert it into grams, then add everything together, and then we turn it back into kilograms.  [00:05:28]
+tutor: Very good understanding. Kieran, are you okay?  [00:05:43]
+student: Yes.  [00:05:48]
+tutor: Okay, so if, I mean, I can see that you're having a cold, so if you want to drink some water or if you need some tissue, you could always go and get them, okay?  [00:05:48]
+student: Okay.  [00:05:56]
+tutor: All right, so let's convert that. So I mean, the idea you have is really correct. So what would be 3.2 kilograms into grams would be?  [00:05:57]
+student: It will be 3... [unclear]  [00:06:06]
+tutor: Awesome, and do we need to convert this? No, it's really good to find where it is.  [00:06:12]
+tutor: And what about this? One, a pool, and three quarters.  [00:06:18]
+student: Oh, and three quarters. It's gonna be, uh, [UNCLEAR].  [00:06:29]
+tutor: So what is three quarters?  [00:06:33]
+student: Add decimals.  [00:06:41]
+tutor: How do you find 3/4? Very good. Is it 1.75? 1.75 kilograms, yeah? So if we turn it into grams, what would that be?  [00:06:43]
+student: It would be [unclear]  [00:06:58]
+tutor: Very good, amazing. I think you can erase this 1.75 and place 1,750 over there, and then you can add them together. Go ahead.  [00:07:03]
+student: Multiple is like a number that's in a times table. So for example, in the 2 and 3 times table, the lowest multiple is 6. [unclear] [unclear]  [00:07:21]
+tutor: 12... 2... 3... 5... um— 15! Wait no, it's confusing! [unclear]  [00:07:39]
+tutor: Okay, zero. Zero. Okay, can you check again? Is it zero again?  [00:08:11]
+student: No, it's five.  [00:08:24]
+tutor: Second digit of phone. Okay, now third digit of phone.  [00:08:30]
+student: It's 14.  [00:08:43]
+tutor: Very good.  [00:08:46]
+student: Add the 1. [unclear] It's 9.  [00:08:54]
+student: So 3 times 0 is 0.  [00:09:00]
+tutor: So 9,450. Is that our answer or do we need to do something else before that?  [00:09:03]
+student: No, we turn it into kilograms.  [00:09:11]
+tutor: Very good. So what would that be then? [unclear] Very good.  [00:09:18]
+tutor: Go ahead, you can write that down over there.  [00:09:27]
+student: [unclear]  [00:09:27]
+tutor: And what's the unit, Kieran?  [00:09:33]
+student: Kilogram.  [00:09:37]
+tutor: Very good, okay, awesome. So how do you feel about working things out on your own?  [00:09:39]
+student: [unclear]  [00:09:39]
+tutor: That's really nice to know because you came up with the idea that you have to convert convert it into grams and then add them and make them again back to kilograms. Yeah?  [00:09:52]
+student: Yes.  [00:10:03]
+tutor: So I think that's an awesome, awesome thinking you had over there. So why did you choose to add them, Kieran? Why not subtract them? Why did you choose to add them all together? What's the reason?  [00:10:03]
+student: Because... because if you added it,  [00:10:19]
+student: If you subtract it, it will give you a lesser number than if you add it.  [00:10:25]
+tutor: So how do you do it?  [00:10:31]
+student: And it said altogether.  [00:10:33]
+tutor: Very good. That's right. Very good. So that's the keyword that made me— I mean, made us add those numbers. Yeah, very good. Awesome. So we have completed that. So we have completed lesson as well. So now how do you feel about converting— sorry, converting between units of measure?  [00:10:35]
+student: Great.  [00:11:00]
+tutor: So, can you teach me this method? I mean, that was really brilliant of you on working how 1 whole and 3/4 into grams. What did you do first here? [unclear]  [00:11:01]
+student: We turned it into grams.  [00:11:15]
+tutor: So, you wrote 1 whole and 3/4 as 1.75, I remember that. What did you do there?  [00:11:20]
+student: I need more times tables.  [00:11:28]
+tutor: There, I just turned it into a— [unclear] from a fraction into a decimal, because I know 3/4 in decimal is 0.75.  [00:11:32]
+tutor: Amazing understanding. So you converted into decimals and then you converted into grams, yeah?  [00:11:51]
+tutor: Very good, very good thinking. Awesome. So I think we have done justice to this lesson and we can move on. So let me mark this as completed and then let's move on. Okay, so this lesson that we're going to learn today is called adding and subtracting decimals using known facts. Have you done this before, Astro?  [00:11:57]
+student: Yes. No, not really.  [00:12:28]
+tutor: Oh, sorry.  [00:12:30]
+student: Yeah, yeah, yeah.  [00:12:31]
+tutor: Okay, so let's try this one question, shall we? Is it okay?  [00:12:33]
+student: Yeah.  [00:12:38]
+tutor: Go ahead.  [00:12:39]
+student: Solve the calculation in the line using the known facts. 0.13 [unclear] 0.1.  [00:12:40]
+tutor: Okay.  [00:12:58]
+student: It's going to be 0. [unclear]  [00:12:59]
+tutor: So how do you come up with that?  [00:13:06]
+student: You just put it like a normal common subtraction. [unclear]  [00:13:11]
+tutor: So you mean you just did a normal column calculation, is it? Column subtraction?  [00:13:29]
+student: Yes.  [00:13:35]
+tutor: So is there any other way to do that? Is there a different method to do that instead of going through normal calculation?  [00:13:36]
+student: Not that I know.  [00:13:45]
+tutor: So shall we learn an interesting way, a fun way? Way of doing this. Is it okay? Without— I mean, doing this normal calculation with decimals. Okay, okay, so let's learn. Go ahead, let's do this. We can use our own number facts to help us calculate with decimals. So go ahead. 8. [unclear] Very good. Now tell me, what have they done to 8 to make it 0.8? [unclear]  [00:13:47]
+tutor: How did they move the 8? So it was 8, so now what have they done to 8?  [00:14:24]
+student: They divided it by 10.  [00:14:30]
+tutor: Very good, and they moved 8 to— 8 one place to the right, am I right?  [00:14:32]
+student: Pardon?  [00:14:38]
+tutor: I mean, from— 8 was in the ones column, so now they have moved it to the tens column, am I right?  [00:14:39]
+student: Yes.  [00:14:47]
+tutor: So they have added a zero over there. So, and have they done the same to 6?  [00:14:47]
+student: Yes.  [00:14:56]
+tutor: So we have to do the same to 14 as well. Does it make sense?  [00:14:56]
+student: Yes.  [00:15:00]
+tutor: So if we divide 14 by 10, what would be the answer then?  [00:15:01]
+student: 1.4.  [00:15:05]
+tutor: So that's the answer here. Does it make sense?  [00:15:06]
+student: Yes.  [00:15:09]
+tutor: Go ahead, you can write that down. [unclear] [unclear]  [00:15:10]
+tutor: Go ahead, let's try again. One point. I mean here, sorry, I was— you can move that over there.  [00:15:16]
+student: Two.  [00:15:31]
+tutor: Awesome. So now tell me, what have they done to 8 over here? Divided by what?  [00:15:33]
+student: [unclear]  [00:15:38]
+tutor: So what should we divide 14 by?  [00:15:39]
+student: [unclear]  [00:15:42]
+tutor: So what would that be? So isn't this an easy method without even thinking? Does it make sense?  [00:15:42]
+student: Yeah.  [00:15:54]
+tutor: Awesome. So let's try this. Go ahead.  [00:15:56]
+student: 8 times plus 6 times equals... Equals to [unclear] How many tenths? I mean, how many tenths? 8 tenths and 16 tenths?  [00:16:01]
+student: 8 tenths plus 6 tenths.  [00:16:19]
+tutor: Equal to how many tenths?  [00:16:23]
+student: Equals to...  [00:16:26]
+tutor: 8 and 6.  [00:16:27]
+student: 1.4 tenths.  [00:16:30]
+tutor: 1.4 is our answer. I totally agree with you. My question is, What is 8 6? 8  [00:16:33]
+student: 6? 14? So [unclear] that's  [00:16:41]
+tutor: right. So here we have 14/10, not 1.4/10. We have 8/10 and 6/10 add together. Go ahead, let's write it. How many tenths? 1.4/10. 8  [00:16:46]
+student: 6,  [00:17:02]
+tutor: what is 8 6? 14. So we're going to write 14 tenths, and let's see why 14 tenths is 1.4, shall we? Can I write 14 over there, and then let's talk about it? So 14 tenths, yeah? So how do you write 14 tenths? I mean, in which column do you write 14 tenths? So which is the tenths column? [unclear] This is for tenths column, yeah?  [00:17:03]
+student: No, that's not the tenths.  [00:17:31]
+tutor: The tens.  [00:17:33]
+student: Tens or tens.  [00:17:34]
+tutor: That's right. So we have 14 tens, am I right? So do you think we can write it like this, like 14 over here? Is that right?  [00:17:35]
+student: [unclear]  [00:17:44]
+tutor: I mean, since we have 14 tens, since we have 14 tens, I'm writing 14 in the tens column. Is that right, or do I need to move the one somewhere else?  [00:17:46]
+student: Move the one somewhere else.  [00:17:58]
+tutor: So how do we write that? How do you write 14 tens?  [00:18:00]
+student: We write 4 in the tens.  [00:18:07]
+tutor: Very good. Go ahead, you can write it.  [00:18:09]
+student: 14 tens.  [00:18:13]
+tutor: So we write the 4 in the tens. And what do we do to the 1? Since we have 14 tens, where do you write the 1? [unclear] In which column? Very good. So now do you understand why 14/10 is equal to 1.2? [unclear] Now do you understand that, Kieran?  [00:18:14]
+student: Yes.  [00:18:44]
+tutor: Very good. So we can't write 14 in the tens column, so we write the 2 and move the 1 to the— extend the 1 to the next column. Does it make sense?  [00:18:44]
+student: Yeah.  [00:18:52]
+tutor: I mean regroup, sorry. Awesome. So now let's move on to the next question.  [00:18:52]
+tutor: Okay. [unclear]  [00:19:01]
+student: Yeah.  [00:19:03]
+tutor: 8.  [00:19:09]
+student: Plus 6. 800 plus 600 is equal to—  [00:19:09]
+tutor: How many hundredths?  [00:19:15]
+student: 0.14 hundredths.  [00:19:20]
+tutor: 0.14 is the answer, but we are talking about hundredths, yeah? How many hundredths do I have? 8 hundredths and 6 hundredths. How many hundredths do I have together? 8 and 6? [unclear]  [00:19:24]
+student: No, because none of those numbers—  [00:19:39]
+tutor: What is 8 plus 6?  [00:19:42]
+student: 14.  [00:19:44]
+tutor: So here we are speaking about the hundredths. So we're going to write 14 hundredths, and then let's learn about how to write 14 hundredths, shall we?  [00:19:45]
+tutor: Go ahead. Let's write 14 hundredths. [unclear] So can we write 14 like this, or do we need to move the 1? Can we write 14 hundredths like this, or what do we do?  [00:19:55]
+student: We have to move the 1.  [00:20:13]
+tutor: Very good. So go ahead, you can write it correctly then. And what do we write in the ones column since we don't have anything? [unclear]  [00:20:15]
+tutor: That's right. Now do you understand why 1,400 is 0.14? Did you understand that?  [00:20:28]
+student: Yes.  [00:20:38]
+tutor: Awesome. So this is what we're going to do here. So after this point, do you have any question for me?  [00:20:39]
+student: No.  [00:20:46]
+tutor: All right then. So moving on. So as you already know, we have these two parts. Where the follow me part will be done by me, the Tutor, and in your turn part you will get a similar question where you can work things out on your own. Kieran, is it okay?  [00:20:47]
+student: Yes.  [00:21:02]
+tutor: Awesome. So let's look at the— sorry, let's look at using known subtraction facts to solve decimal calculations, okay?  [00:21:03]
+student: Yes.  [00:21:12]
+tutor: So I have 0.12 take away 0.08. So I have to think about numbers that is easier for me to do. So instead of 0.12, 2, I can go for 12. Does it make sense?  [00:21:13]
+student: Yes.  [00:21:27]
+tutor: And instead of 0.08, I can go for 8. So I can do 12 take away 8. So what is 12 take away 8?  [00:21:29]
+student: 12 take away 8 is— [unclear] 4?  [00:21:36]
+tutor: That's right. So I can do that calculation easily. So first, look at numbers and identify a number known fact. No number facts, sorry. 12 divided by 8 is 4. Then I have to think about what has happened to these numbers. So look to see by how much the calculation has been scaled. So 0.08 is how many times smaller than 8? So what have they done to 8 to make it 0.08? [unclear]  [00:21:44]
+student: Divided by 100.  [00:22:15]
+tutor: Very good. So 0.08 is 100 times smaller than 8. Did you understand that sentence?  [00:22:16]
+student: Yes.  [00:22:26]
+tutor: 0.08 is 100 times smaller than 8. We know this because the digit has moved 2 places to the right. Yeah, it has moved 2 places to the right to become 0.08. Does it make sense? [unclear]  [00:22:27]
+student: Yes.  [00:22:40]
+tutor: So we need to make the answer to the known fact 100 times smaller. So we need to make 4 also 100 times smaller. Does it make sense?  [00:22:41]
+student: Yes.  [00:22:51]
+tutor: That is divide by 100. So if I divide 4 by 100, that would be 0.04. So that's the answer. Does it make sense?  [00:22:52]
+student: Yes.  [00:23:01]
+tutor: So in other words, 8 was divided by 100, so I divide 4 also by 100, so my answer is 0.04.  [00:23:02]
+student: Yeah.  [00:23:09]
+tutor: Did you get this? Did you understand this?  [00:23:10]
+student: Yes.  [00:23:13]
+tutor: So would you like to try the [unclear] part? On your own then?  [00:23:14]
+student: Yeah. Solve the following using known facts. Write out the number facts.  [00:23:19]
+tutor: So instead of 0.18 and 0.09, what known fact would you go for? [unclear] And that would be?  [00:23:26]
+student: [unclear]  [00:23:43]
+tutor: Very good. So what has happened to 9 to make it to 0.09?  [00:23:43]
+student: Divided by 100.  [00:23:51]
+tutor: So go ahead, let's write it. 0.09 is? How many times?  [00:23:53]
+student: So I should write 100, divide by 100?  [00:23:59]
+tutor: How many times smaller? You can just write 100, yeah?  [00:24:03]
+student: Okay.  [00:24:07]
+tutor: Go ahead. 100 times smaller than what? [unclear] What's your number instead of 0.09 in your question? Instead of 0.09? 9. So did you understand this?  [00:24:07]
+student: Yes.  [00:24:24]
+tutor: Okay, so what should we do to your answer now?  [00:24:24]
+student: Subtract it.  [00:24:29]
+tutor: I mean, what should you do to your answer? Since 9 was divided by 100, what should we do to your answer?  [00:24:31]
+student: Now we should, um... [unclear] do a calculation.  [00:24:40]
+tutor: Mm-hmm. Alright. Okay. Okay. Alright, so let me ask you a question. What did you do to 9 to make it 0.09?  [00:24:47]
+student: But I didn't make it 0.09. I...  [00:25:03]
+student: I subtracted it.  [00:25:10]
+tutor: Did you make 0.9 by subtracting or dividing?  [00:25:14]
+student: Did I make 0.9 by subtracting?  [00:25:20]
+tutor: I mean, yeah, 9 was— [unclear] Look, give me a second. Sorry, sorry about that. So let me talk about my question, then you might get an idea. So my known fact is 8, yeah? But I have 0.08 here, right?  [00:25:23]
+student: Yes.  [00:25:39]
+tutor: So what we have done to 8 to make it 0.08? What have we done to 8? Divided by?  [00:25:40]
+student: We divided it by [unclear] to 0.08.  [00:25:46]
+tutor: Yeah, we divided 8 by what to make it 0.08?  [00:25:52]
+student: 100.  [00:25:55]
+tutor: Very good, we divided by 100. So we have to divide our answer also by 100. Does it make sense?  [00:25:56]
+student: Yes.  [00:26:04]
+tutor: So you have 18 take away 9 equal 9 as your [unclear] known fact, isn't it?  [00:26:05]
+student: Yes.  [00:26:11]
+tutor: Since you divided 9 by 100, you have to divide your answer also by 100. Does it make sense?  [00:26:12]
+student: Yes.  [00:26:19]
+tutor: So that's the reason you got this answer. Did you understand this?  [00:26:20]
+student: Yes.  [00:26:24]
+tutor: 9 divided by 100 is 0.09. Did you understand this?  [00:26:24]
+student: Yes.  [00:26:29]
+tutor: Okay, go ahead then. I mean, do you have any question?  [00:26:30]
+student: No.  [00:26:36]
+tutor: All right, and this design is nice, by the way. Awesome. So yeah, up to this point, how was the lesson? Was it easy? Was it a little bit confusing? How was it?  [00:26:36]
+student: Okay, I guess.  [00:26:51]
+tutor: All right, so let's do some more questions. Okay, go ahead, give it a try. [unclear] 0.7 and 0.4.  [00:26:52]
+tutor: What would that be?  [00:27:08]
+student: It's 1.1.  [00:27:10]
+tutor: Very good. Go ahead and let's write it. Next.  [00:27:12]
+student: It's 0.15 take away 0.08. [unclear]  [00:27:17]
+student: It's— the answer is 0.07.  [00:27:28]
+tutor: Very good. [unclear]  [00:27:38]
+student: If 36 64 is 100, what is 0. [unclear]  [00:27:40]
+tutor: Hello?  [00:28:03]
+student: Yeah? Hello, can you hear me? Yeah?  [00:28:04]
+tutor: Yeah, I saw it here.  [00:28:07]
+student: All right, all right. What will be the answer then? 0.36 0.65? It's  [00:28:10]
+tutor: gonna be 1. Yeah, very good. Next. Second question.  [00:28:15]
+student: I need 0.5 of brown flour and 0.7 kg of white flour for a recipe. What is total mass of the flour I need?  [00:28:26]
+tutor: So what do we do with those two numbers?  [00:28:42]
+student: Add it. Add them together. Very good. So that will give us?  [00:28:45]
+student: Add them together.  [00:28:52]
+tutor: So that will give us?  [00:28:54]
+student: That will give us 1.4— [unclear] 1.2.  [00:28:56]
+tutor: Very good. 1.2 what? 1.2 what's the unit?  [00:29:03]
+student: Kg.  [00:29:14]
+tutor: Very good, go ahead, you can write that down.  [00:29:16]
+student: Okay, I'm just trying to [UNCLEAR].  [00:29:18]
+tutor: Do you want me to erase it?  [00:29:22]
+student: I'll just do it.  [00:29:29]
+tutor: Okay.  [00:29:37]
+student: So, how do we think in 2 numbers?  [00:29:37]
+tutor: Yeah, both numbers are less than 10.  [00:29:40]
+tutor: Awesome. So I have a question. How do you use this to get this answer? [unclear]  [00:29:44]
+student: How did I use that to make this?  [00:29:53]
+tutor: Yeah, I mean, how did you use this number sentence at the top with your answer at the bottom?  [00:29:55]
+student: Yeah, so because I thought that it's 3.6 is a whole number, and when it adds 6.64, it's gonna make 100. And then if it's a decimal, it's gonna be 1.  [00:30:03]
+tutor: So what have they done to 36 to make it 0.36?  [00:30:23]
+student: 36 to make it 0.36?  [00:30:28]
+tutor: Yeah. What have they done to 36?  [00:30:31]
+student: They divided it by 100. Very good. So what should we do to the answer? We have to divide it by 100. So what is 100 divided by 100? [unclear] That's right. So does it make sense now?  [00:30:34]
+student: Yes.  [00:30:49]
+tutor: Always compare the numbers and decide what have they done to it, like have they divided by 10 or 100? So do the same to the answer as well. Does it make sense?  [00:30:50]
+student: Yes.  [00:31:00]
+tutor: Awesome. So we have completed this, and I think you did an amazing working out over here, and I think you deserve a star. To show that you did an amazing working out. Okay?  [00:31:01]
+student: Yes.  [00:31:12]
+tutor: Awesome. So how do you feel about this lesson so far?  [00:31:13]
+student: Good, really good.  [00:31:18]
+tutor: Awesome. So we are moving on to the final slide of this L.O., and if you complete this, we will be moving on to a different L.O., okay? Would you like to read it for us? [unclear]  [00:31:20]
+tutor: Would you like to give it a try, Kieran? Go ahead.  [00:31:34]
+student: Yes. So the total volume of the— what is the total volume in the liquid measuring decas and [UNCLEAR]? So this one is going to be—  [00:31:36]
+tutor: So what's the volume over here?  [00:31:50]
+student: 1, 2, 3, 4, 5. So that's 5. So 10. So 10 [unclear] equals— I think it's 100 each. Yeah, I think it's 100 each. [unclear]  [00:31:53]
+tutor: Is it 100 at the top? What is this?  [00:32:11]
+student: It's 100 milli-as.  [00:32:15]
+tutor: Okay, milliliters, okay.  [00:32:18]
+student: Yeah, so then this one is gonna be 400 milli-as.  [00:32:20]
+tutor: Very good. [unclear] And this one's going to be 900 milliliters. And how would you write 400 milliliters as liters?  [00:32:25]
+student: 100 milliliters as liters, it's going to be 0. 0.1. And 900 milliliters? [unclear] 0.1. Okay, so now we are coming back to our own question where we are adding decimals. So now what should we do? What's the question says?  [00:32:47]
+student: What is the total volume of the liquid in the measuring beaker?  [00:33:10]
+tutor: So what should we do with these two numbers?  [00:33:15]
+student: Add them together.  [00:33:17]
+tutor: Very good. So what would be the answer then?  [00:33:18]
+student: 1.3.  [00:33:22]
+tutor: Very good. 1.3 what?  [00:33:24]
+student: [unclear]  [00:33:24]
+tutor: Very good. Go ahead. So now did you understand this?  [00:33:28]
+student: Yes.  [00:33:35]
+tutor: And did you understand how this is connected to the lesson now?  [00:33:35]
+student: Yes.  [00:33:38]
+tutor: Yeah. So if we go for 400 milliliters, it wouldn't be connected to the lesson, right? Because we don't  [00:33:39]
+tutor: speak about the decimals. If you have 400 milliliters.  [00:33:39]
+student: Yes.  [00:33:49]
+tutor: So that's the reason we chose 0.4 liters. [unclear] Does it make sense?  [00:33:49]
+student: Yes.  [00:33:57]
+tutor: Are you okay? Do you want to drink some water?  [00:33:58]
+student: No, I'm fine.  [00:34:01]
+tutor: Alright, okay then. I'm really sorry that you had to go through a little cold and still work on things here, okay? I mean, I really appreciate you didn't give up and you didn't skip a session because you are having a cold. I'm so proud of you. Okay, you're doing great. So we have completed the lesson as well now. So how do you feel about this lesson?  [00:34:02]
+student: Good.  [00:34:27]
+tutor: So let's talk about this. So how do we use the known facts here to get the answer here? Can you teach me that? [unclear] What did we do first?  [00:34:29]
+student: We did first. So basically, so we do—  [00:34:46]
+tutor: What did we check first?  [00:34:56]
+student: We checked first what it will give you when it is positive numbers.  [00:34:58]
+tutor: What has happened to 36 here to become what?  [00:35:05]
+student: It was divided by 100, so we had to divide  [00:35:09]
+tutor: The answer?  [00:35:12]
+student: The answer by 100.  [00:35:13]
+tutor: Very good.  [00:35:15]
+student: And 100 divided by 100 is 1.  [00:35:16]
+tutor: Very good. So always check what has happened to the number. For example, like this in my question. So 12 take away 8 was 4. So I have to decide what has happened to the 8 to become 0.08. So that is divided by 100. So divide my answer also by 100. Does it make— Sorry, does it make sense?  [00:35:18]
+student: Yes.  [00:35:39]
+tutor: Awesome. So we have complete— sorry, am I saying something?  [00:35:40]
+student: No.  [00:35:47]
+tutor: All right, so we have completed this lesson as well, so I'll mark this as completed.  [00:35:48]
+student: I have a question.  [00:35:55]
+tutor: Yeah, what's the question? I'm sorry. Yeah, go ahead, tell me.  [00:35:56]
+student: Um, have we finished the lesson?  [00:36:01]
+tutor: Yeah, we have completed that lesson. And sorry, not this, sorry. So do you have any question on that lesson? You can ask me, I can, yeah?  [00:36:03]
+student: No, I just wanted to ask, have we finished?  [00:36:14]
+tutor: I mean, yeah, we have completed that lesson, so we are starting off a new lesson. Is it okay? We have another 6 minutes, so we can do a few slides around here, okay?  [00:36:17]
+student: Yes.  [00:36:25]
+tutor: Only 6 more minutes. Awesome. So now, instead of adding and subtracting, We're going to be doing multiplying and dividing decimals. Does it make sense?  [00:36:25]
+student: Yeah.  [00:36:38]
+tutor: So now go ahead, let's try this. Complete.  [00:36:39]
+student: The answer is 2.  [00:36:45]
+tutor: How did you get to that?  [00:36:47]
+student: Because it's supposed to be 2.0... [unclear]  [00:36:52]
+tutor: So how did you get to that?  [00:36:58]
+student: Because if 4 times 5 is 20, and then 0.5 times 5 is then [UNCLEAR].  [00:37:02]
+tutor: You're correct. How did you— I mean, how do you know 0.4 times 5 would be 2? [unclear]  [00:37:11]
+tutor: From 20, how do you come back to 2?  [00:37:28]
+student: From 20 to 2.  [00:37:31]
+tutor: What did you do to 20 to make it 2?  [00:37:33]
+student: Divided by 10.  [00:37:36]
+tutor: Very good. So how do you know how to divide by 10?  [00:37:37]
+student: How do I know how to divide it by 10? Because—  [00:37:40]
+tutor: How do you know how to divide by 10?  [00:37:45]
+student: Because you— [unclear]  [00:37:49]
+tutor: 4 times— time— 5 equal to— equal to? [unclear]  [00:37:51]
+tutor: So 0.4 times 5 was 2.0, yeah?  [00:38:18]
+student: Yeah.  [00:38:41]
+tutor: Okay.  [00:38:42]
+tutor: I think we have a little bit confusion inside this, right? So shall we move on and learn the concept? Is it okay?  [00:38:43]
+student: Yes. [unclear]  [00:38:56]
+tutor: So let's learn. Let's read this carefully.  [00:38:56]
+student: We can use our [unclear] multiple and division...practices of similar decimal calculations.  [00:39:06]
+tutor: Very good. So what is the first calculation we have?  [00:39:13]
+student: 3 times 5 is equal to 15.  [00:39:17]
+tutor: Okay, so what do they say? 3?  [00:39:21]
+student: 3 times 5 is equal to 15.  [00:39:25]
+tutor: Okay, what's the next calculation? [unclear]  [00:39:32]
+student: 3 times 0.05. Equals [unclear] 0.15. 3 times 500 is equal to 1,500.  [00:39:35]
+tutor: Do you understand that? 3 times 500 is equal to 1,500. Does it make sense?  [00:39:49]
+student: Yes.  [00:39:57]
+tutor: Awesome. So now tell me, what have they done to the 5 to make it 0.05? Let's figure that about this?  [00:39:58]
+student: 5. [unclear]  [00:40:05]
+tutor: What have they done? 5 divided by?  [00:40:06]
+student: They divided by 100.  [00:40:13]
+tutor: So what do we think we have to do to 15 now?  [00:40:16]
+student: What we have to do to 15?  [00:40:21]
+tutor: Yeah.  [00:40:24]
+student: We have to times it by 5. So what did you do to 5 to make it 0.05?  [00:40:25]
+student: No, we [unclear] we divided it by 100.  [00:40:34]
+tutor: So what do we do to the answer?  [00:40:41]
+student: Divide it by 100.  [00:40:44]
+tutor: Very good. So what is 15 divided by 100?  [00:40:46]
+student: It's 0.15.  [00:40:51]
+tutor: So now do you understand why it's 0.15?  [00:40:54]
+student: Yes. Yeah.  [00:40:56]
+student: Yeah.  [00:41:00]
+tutor: So they have divided— I mean, if they divide one of the multiplicand by 100, they have to divide the answer also by 100. Does it make sense?  [00:41:01]
+student: Yeah.  [00:41:10]
+tutor: Awesome. So A, so they have written 1500, that's 0.15. Okay, go ahead. Can you read this one? Right? [unclear] 1000. So 10 hundredths are equal to 1 tenth. [unclear] These 10 hundredths make 1 tenth. Does it make sense? That's the reason we have 1 in the tenth column. Did you understand that?  [00:41:11]
+student: Yeah.  [00:41:36]
+tutor: And there are 5 hundredths left over, so we have 5 hundredths. Does it make sense?  [00:41:37]
+student: Yes.  [00:41:44]
+tutor: Awesome. So up to this point, do you have any question for me?  [00:41:45]
+student: No.  [00:41:49]
+tutor: So will it be okay with you if we can continue the next part, that is question 2, on the next session? Will that be okay with you?  [00:41:51]
+student: Yes.  [00:42:00]
+tutor: Awesome. So let's do a small reflection and then [UNCLEAR]. Is it okay?  [00:42:02]
+student: Yes.  [00:42:08]
+tutor: Awesome. So today we started off with a different lesson. Actually, we started off with a lesson called converting between submersions. We completed that and moved on to adding and subtracting decimals using known facts. We completed that and finally moved to this. Yeah?  [00:42:09]
+student: Yes.  [00:42:27]
+tutor: So how was today's session, Kieran?  [00:42:28]
+student: Okay.  [00:42:30]
+tutor: Was it useful for you?  [00:42:32]
+student: Yes.  [00:42:34]
+tutor: Awesome, that's really nice to know that. Before you go, let me remind you a few things as always. As soon as I end the session, there are my be some questions for you to do. Please do them and please reflect on your session by filling the feedback. Can you do that for me?  [00:42:34]
+student: Yes.  [00:42:52]
+tutor: All right. So have a really nice day. Enjoy your week. See you next time. Bye-bye.  [00:42:53]
+student: Bye-bye.  [00:42:58]

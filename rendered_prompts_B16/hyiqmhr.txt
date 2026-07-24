@@ -1,0 +1,436 @@
+B16 — Evidence Conditions and Reliability
+
+Evaluate the conditions and reliability of the evidence in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+ED: Evidence diversity
+
+ECL: Elicitation challenge level
+
+PIV: Post-feedback independent verification
+
+ER: Evidence recency
+
+QD: Question diagnosticity
+
+GCR: Guessing and cueing risk
+
+RCO: Learner-response completion opportunity
+
+PCI: Prompt clarity and interpretability
+
+SRR: Speaker-role reliability
+
+RO: Response observability
+
+IER: Imitation and example-overlap risk
+
+OCB: Objective-component opportunity balance
+
+Higher scores mean more favourable or informative evidence conditions. For SLD, TAC, GCR, and IER, higher scores mean lower support dependence, contamination, guessing risk, and imitation risk. Other lesson segments should not reduce LOA simply because they are present.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+ED: `evidence diversity`
+
+ECL: `challenge quality`
+
+PIV: `independent verification`
+
+ER: `evidence recency`
+
+QD: `question diagnosticity`
+
+GCR: `cue resistance`
+
+RCO: `response opportunity`
+
+PCI: `prompt clarity`
+
+SRR: `speaker reliability`
+
+RO: `response observability`
+
+IER: `example independence`
+
+OCB: `opportunity balance`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "ED": {"score": 0, "label": "minimal evidence diversity"},
+    "ECL": {"score": 0, "label": "minimal challenge quality"},
+    "PIV": {"score": 0, "label": "minimal independent verification"},
+    "ER": {"score": 0, "label": "minimal evidence recency"},
+    "QD": {"score": 0, "label": "minimal question diagnosticity"},
+    "GCR": {"score": 0, "label": "minimal cue resistance"},
+    "RCO": {"score": 0, "label": "minimal response opportunity"},
+    "PCI": {"score": 0, "label": "minimal prompt clarity"},
+    "SRR": {"score": 0, "label": "minimal speaker reliability"},
+    "RO": {"score": 0, "label": "minimal response observability"},
+    "IER": {"score": 0, "label": "minimal example independence"},
+    "OCB": {"score": 0, "label": "minimal opportunity balance"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Solving real-life problems with remainders.
+
+CONVERSATION:
+background: [unclear]  [00:00:00]
+tutor: Hello?  [00:00:00]
+background: Hello, Rowan?  [00:00:06]
+tutor: I know Rowan will be here in a minute.  [00:00:08]
+tutor: Okay, it's just a Teacher. [unclear]  [00:00:10]
+student: Thank you, Tutor.  [00:00:12]
+tutor: Are you nearly done, you two? Let me have a look. Allow on-screen print. [unclear]  [00:00:13]
+tutor: What do you got today? [unclear]  [00:00:37]
+tutor: Right, this is your— pop you in.  [00:01:14]
+student: Yeah. [unclear]  [00:01:17]
+student: Hello.  [00:01:40]
+tutor: Hello, Rowan.  [00:01:40]
+tutor: Hello?  [00:01:56]
+student: Hello?  [00:01:57]
+tutor: Rowan, can you hear me?  [00:01:57]
+student: Yes, I can.  [00:02:00]
+tutor: Okay, Rowan, I think we have 4 more minutes before our session begins. Is it okay if we start in 4 minutes, Rowan?  [00:02:02]
+student: That's fine.  [00:02:10]
+tutor: Okay, thank you. [unclear]  [00:02:11]
+student: Yeah. [unclear]  [00:04:01]
+student: just a second, I'm going to go make some things for my new body.  [00:04:01]
+tutor: Oh.  [00:04:46]
+student: I have to make some things for my new body. [unclear]  [00:04:47]
+student: So it's basically where we are playing for nursery or reception person, and we have to, like, at lunchtime we have to, like, How do you get a [unclear] like that, like, start or something like that? Never mind. I got a person called Rowan. This is my first time doing it.  [00:05:02]
+tutor: Hello, Rowan. Can you hear me?  [00:05:32]
+student: Yes, I can.  [00:05:35]
+tutor: Awesome. How's it been for you, Rowan?  [00:05:36]
+student: It's been going good.  [00:05:38]
+tutor: Okay, did you have any fun at school today?  [00:05:42]
+student: Yes, we were learning about the sources of light.  [00:05:46]
+tutor: Awesome! Did you enjoy the lesson, Rowan?  [00:05:53]
+student: Yes, it was really fun.  [00:05:57]
+tutor: That's great to hear. Okay, did you learn anything else that you liked at school today, Rowan?  [00:06:00]
+student: We also did some arithmetic and some maths papers.  [00:06:06]
+tutor: And how did that go?  [00:06:13]
+student: That went well.  [00:06:16]
+tutor: Okay, that's great to hear. So did you learn anything new at school today, Rowan?  [00:06:18]
+student: I learned a bit more about like light travels in one straight line. And did you learn about how rainbows are formed? [unclear]  [00:06:27]
+student: No, not yet.  [00:06:44]
+tutor: Okay, no worries, Rowan. So with that, shall we start off with today's lesson?  [00:06:46]
+student: Okay.  [00:06:52]
+tutor: Okay, today we would be learning about something we stopped halfway through in previous lesson, which is solving real-life problems with remainders.  [00:06:53]
+tutor: So can you tell me what you remember from this lesson, Rowan?  [00:07:05]
+student: That [unclear] [unclear]  [00:07:08]
+student: I can't really remember.  [00:07:38]
+tutor: No worries, Rowan, no problem. Okay, so we were working with division problems with remainders. Okay?  [00:07:40]
+student: Okay.  [00:07:48]
+tutor: Okay, so we stopped in this slide over here, Rowan, the You Do slide. So can you— is it possible to start with Part A for me?  [00:07:49]
+student: Okay.  [00:08:00]
+tutor: Okay. So if you find the one which has a remainder of 2, what you can do is you can circle it. Okay?  [00:08:01]
+student: Okay.  [00:08:19]
+tutor: Okay.  [00:08:20]
+student: Nice. [unclear] [unclear]  [00:08:51]
+tutor: Brilliant. [unclear]  [00:09:23]
+tutor: Amazing job over here, Rowan. Brilliantly worked out. Okay. So to solve this question, did you use a specific method? Or did you just work everything out, Rowan?  [00:09:58]
+student: I just worked everything out in my head.  [00:10:12]
+tutor: Nice. And then you found which ones gives a remainder of 2, right?  [00:10:15]
+student: Yes.  [00:10:20]
+tutor: Great, great job, Rowan. Shall we now work out Part B?  [00:10:22]
+student: Okay.  [00:10:27]
+tutor: Okay. [unclear] [unclear]  [00:10:28]
+student: [unclear]  [00:10:33]
+tutor: Maybe 100. [unclear]  [00:10:33]
+student: Um... [unclear]  [00:11:00]
+tutor: Okay. Okay. So do you think— okay, so 6 remainder 4 is correct. But do you think the answer to the question is 6 remaining 4? [unclear]  [00:11:35]
+student: It would be... so they have clothes. So this, okay, so let's say this is the [unclear] and then you cut it. Okay, so you get 6 equal pieces, right? If I'm not wrong.  [00:11:57]
+student: Mm-hmm.  [00:12:27]
+tutor: Okay, so 1, 2, 3, 4, 5, and 6. And then you have a small part that's left over. Okay?  [00:12:29]
+student: Okay. So now what is the question, Rowan? What have they asked us in the question?  [00:12:41]
+student: If I have 40 metres of bunting for the school fair, what length of bunting will I have left over if I cut up into lengths of 6 metres? It would be 4. [unclear]  [00:12:50]
+tutor: Excellent job.  [00:13:06]
+tutor: Nicely done. Okay, let me erase this over here for you, and then now we can move on to our next question, Rowan.  [00:13:07]
+student: Okay.  [00:13:16]
+tutor: Okay. [unclear] Okay, before we move on, one small minute. Okay, so now because we are working with units over here in Part D, it needs to be 4 meters.  [00:13:17]
+tutor: Okay.  [00:13:37]
+student: Okay.  [00:13:37]
+tutor: Okay, Rowan, nice. [unclear] [unclear]  [00:13:37]
+student: So what I did was I did 6 times 4. 6 times 0 is 0. And then I did 6 times 4. So 4 sixes is 24. So I got that zero.  [00:14:06]
+tutor: Excellent job over here. Okay. And now let's move on to Part D. [unclear]  [00:14:24]
+student: [unclear] [unclear]  [00:14:30]
+student: [unclear] The answer will increase. Or D, [unclear]  [00:14:52]
+tutor: Excellent working out again, Rowan. Brilliant job in working out independently throughout this slide. Okay. So is it possible to explain to me on how you found answers to Part C and Part D?  [00:15:05]
+student: So what I did is  [00:15:19]
+student: I counted in 4s, so I did 4, 8, 12, 16, 20, but we can't go up to 20, so you have to go to 16, but that doesn't complete the answer, so we have to have 5 cars instead of 4 because what are we going to do to the other children? You can't just not take them, so you have to have 5 cars instead of 4 cars.  [00:15:22]
+tutor: Excellent explanation. Brilliant. Rowan. And what about Part D, Rowan?  [00:15:46]
+student: So if it takes 7 minutes to make a pom-pom each, and if I divided 7 times by 30, so I put the 0, then I put the 30, so I did 7, 14, 21, 28, but I can't— how— I have 4 remainder.  [00:15:53]
+student: 2. But that doesn't complete the question because it says how many are made, not how many are— how many is left, how many he needs. So I did 4.  [00:16:16]
+tutor: Excellent explanation again, Rowan. Brilliant job in reading the question twice and then understanding and then coming up with an answer. Okay?  [00:16:26]
+student: Okay.  [00:16:38]
+tutor: Awesome. Okay. So with that, shall we move on to our next slide, Rowan?  [00:16:39]
+student: Okay.  [00:16:45]
+tutor: Okay. So now we got the last slide for this lesson. We go for this slide. So I want you to take your time, read this question throughout, and then come up with an answer, Rowan.  [00:16:46]
+student: Okay.  [00:16:57]
+tutor: Okay. [unclear]  [00:16:59]
+tutor: Okay. So is it possible to explain to me how you got— [unclear] Sorry, are you still working on the question, Rowan?  [00:17:54]
+student: yes.  [00:17:54]
+tutor: Okay, take your time, Rowan. [unclear]  [00:18:02]
+student: I'm not sure what it could be because it has to be 2 answers. It can be 25,  [00:19:56]
+student: Or 27, because for the first one, if we divide 27 by 5, we'll get 5 remainder 2. But if we go over here and we use 25, we go 8, 16, 24,  [00:20:10]
+student: Mm-hmm.  [00:20:36]
+tutor: Remainder 1. So, and it works both ways. It has to be two answers.  [00:20:37]
+student: Okay, Rowan. So shall we find— okay, so awesome thinking over here with 25 and 27. But over here we only have one number as our answer. Okay?  [00:20:43]
+tutor: Okay.  [00:20:55]
+student: So what we would be doing over here is we would be listing out the multiples of 5. The multiples of 8 also, and then adding a 2 for the multiples of 5 and adding a 1 for the multiples of 8. Okay?  [00:20:56]
+student: Okay.  [00:21:11]
+tutor: Okay. And then we can find out— okay. So, okay. So let's— is it possible to list out the multiples of 5 over here and then add a 2 over here for me for each of those multiples? [unclear]  [00:21:12]
+student: [unclear]  [00:21:35]
+tutor: Nice. 15. 20. Brilliant. 25. Awesome. Okay, so we can stop with 25, Rowan. And now, is it— okay, let me just erase the 25 and the 27 over here. Okay. So is it possible to use another color and then list down the multiples of 8 for me over here?  [00:21:35]
+student: Okay.  [00:22:03]
+tutor: Okay.  [00:22:06]
+student: Mm-hmm. [unclear]  [00:22:08]
+tutor: Mm-hmm.  [00:22:14]
+student: Let's say [UNCLEAR].  [00:22:17]
+tutor: Awesome.  [00:22:17]
+student: If it was—  [00:22:18]
+tutor: Brilliant. Okay. So now we got 5 multiples of 5 and 5 multiples of 8. So, okay, so the next— so when it comes to the question 11, it says, What is the remainder when you divide it by 5? It's 2, right? To get a remainder of 2, you have to add 2 for each of these multiples, right, Rowan?  [00:22:20]
+student: Yeah.  [00:22:42]
+tutor: Nice. Okay, and then 22. Brilliant. 27. Awesome. Shall we add another 2 for the— sorry, shall we add 1 for the multiples of 8, Rowan? Because the remainder is 1. Okay.  [00:22:43]
+student: If we want to understand, it's easier to solve [UNCLEAR].  [00:22:57]
+tutor: Okay. Nice. So which— okay, so now looking at these 2 numbers, the ones that we added the— the ones we added 2 to, sorry, the ones we added 2 to, and the ones we add the 1 to. Which number is same in both those lists, Rowan? [unclear]  [00:23:03]
+student: 15 and 16.  [00:23:38]
+tutor: Awesome. So what is the number 15 and 16, Rowan?  [00:23:42]
+student: 17 and 17. Brilliant! So can you see we have found a number that's same for both of these?  [00:23:46]
+student: Yeah.  [00:23:56]
+tutor: So shall we double-check and see if 17 is our answer?  [00:23:56]
+student: Okay. [unclear] [unclear]  [00:24:02]
+student: in all of these circles.  [00:24:02]
+student: It can't be.  [00:24:40]
+tutor: Okay, why can't it be that answer, Rowan?  [00:24:41]
+student: Because 5 divided by 15 would get your answer to be 3.  [00:24:46]
+tutor: Okay. Okay, let's double-check. So, sorry, Rowan, so we're working with 17 over here, right?  [00:24:55]
+student: Yes. Okay, so 17 is our number. Okay, so we're going to check if 17 is correct.  [00:25:04]
+student: Oh, I know what I did. It— that the first one's right.  [00:25:14]
+tutor: Yes, you did.  [00:25:20]
+student: And the second one's right.  [00:25:20]
+tutor: Awesome. So, okay, so is 17 the correct answer, Rowan?  [00:25:24]
+student: Yes.  [00:25:30]
+tutor: Brilliant job. So now do you understand how we can find the answer when we get tricky questions like this?  [00:25:31]
+student: Yes.  [00:25:40]
+tutor: Brilliant. Okay. So, is it possible to just give me a small explanation on how we found it to be 17?  [00:25:41]
+student: So what we first did was listed the 5 times tables and the 8 times tables, and then we added 2 onto the 5 times tables and a 1 to the 8 times tables. [unclear] And then we saw which one had the same number, and 17 was the right number. So we did 5 divided by 17, and we got 3 remainder 2. And we got for 8 divided by 17, we got 2 remainder 1.  [00:25:50]
+tutor: [unclear] Brilliant. Do you want to go ahead and give yourself a star, Rowan, or a smiley face?  [00:26:28]
+student: Okay, I'll give myself a smiley face.  [00:26:38]
+tutor: Okay. [unclear] [unclear]  [00:26:46]
+student: Then we're gonna kill—  [00:27:18]
+tutor: Yeah.  [00:27:24]
+student: [unclear]  [00:27:24]
+tutor: Nice, well done. Okay, so with that, shall we now do a very small reflection and then move on to our next lesson, Rowan? [unclear]  [00:27:24]
+tutor: Okay. So from this lesson about solving real-life problems with remainders, if possible, tell me what do you think are the most common mistakes we might make?  [00:27:56]
+student: Some people might divide by the wrong number, or they might like Miss count, so they might get the— and so if you get one part of the question wrong, you'll get the whole answer wrong. [unclear] Yes, so we need to always double-check on our answer, right?  [00:28:09]
+student: Yes.  [00:28:36]
+tutor: Nice. Okay, so with that, shall we move on to our next lesson, Rowan?  [00:28:37]
+student: Okay.  [00:28:42]
+tutor: Okay.  [00:28:44]
+tutor: Okay, so now we would be learning about rounding decimals to the nearest whole number. Okay? So have you learnt about rounding numbers at school, Rowan?  [00:28:47]
+student: [unclear] Yes, we have.  [00:29:00]
+tutor: Okay. Do you know how rounding works?  [00:29:06]
+student: Yes. Okay, how does rounding work, Rowan?  [00:29:10]
+student: Rounding works as like, so to 0, 2, 4, that rounds down. So whatever, um, so if we have like 4.2, it would round to 4 because 2 rounds down.  [00:29:14]
+tutor: Excellent explanation, Rowan, with the rule of rounding. Okay, so that is the same rule that we would be following for decimals. Okay?  [00:29:36]
+student: Okay.  [00:29:45]
+tutor: Okay. Is it possible to try the learning goal question, Rowan?  [00:29:46]
+student: Okay. [unclear] Excellent job. So it would round up to 6, right? [unclear] Yes. Nice. Okay. So with that, let's move on to our Let's Learn slide. Okay. Can you read the first sentence for me, Rowan?  [00:29:51]
+student: When rounding a decimal number to the nearest whole number, we need to know what number it lies between. Okay, so first we got a number line over here and we have 12.3. What we are going to do is we are going to find the whole numbers that 12.3 lies in between. Okay?  [00:30:25]
+student: Okay.  [00:30:50]
+tutor: What's the whole number that goes before 12.3, Rowan? That goes over here.  [00:30:51]
+student: Um, the whole number would be 12.  [00:30:56]
+tutor: Excellent. Shall we write 12 over here and over here?  [00:31:00]
+tutor: Nice. [unclear] Nice. What's the one that goes after 12.3 at the end?  [00:31:04]
+student: 13.  [00:31:13]
+tutor: 13. Super. Shall we add a 13 over here too? Okay. So do you think 12.3 is closer towards 12 or 13?  [00:31:14]
+student: I think it's closest to 12.  [00:31:25]
+tutor: Brilliant. So you round it down to 12. Okay.  [00:31:28]
+tutor: Okay, so the next one— okay, so then we will work out part A. Can you work out part B for me?  [00:31:34]
+student: Okay. [unclear]  [00:31:42]
+tutor: Brilliant. Awesome job, Rowan. Okay. Nice. And now where does the arrow go? Brilliant job. So where does the arrow— where do you think the arrow would go in this number line, Rowan? [unclear]  [00:31:46]
+student: I think it's an arrow each time because—  [00:32:17]
+student: [unclear]  [00:32:25]
+tutor: Amazing job. Okay. With that, shall we move on to our next slide?  [00:32:25]
+student: Okay.  [00:32:33]
+tutor: Okay. So we got the following and your turn part over here. The following part tells us, when rounding numbers, it is helpful to think about the halfway point. The halfway point between 0 and 1 is 0.5. Okay?  [00:32:34]
+student: Okay.  [00:32:51]
+tutor: So the halfway point is what you get when you divide the number exactly into half. So 1 divided by half is half. 10 divided by half is 5, and so on. Okay?  [00:32:52]
+student: Okay.  [00:33:06]
+tutor: Okay. So if the tenth digit is more than 5 or exactly 5, we round it up to the closest. To the nearest whole number. If the tenth digit is less than 5, we would round it down to the nearest whole number. Okay, Rowan?  [00:33:07]
+student: Okay.  [00:33:25]
+tutor: So this would be the rule of rounding when it comes to rounding to the nearest tenth. Okay?  [00:33:26]
+student: Okay.  [00:33:33]
+tutor: Awesome. So now in Part A, we need to round 0.7 to the nearest whole number. Let me just mark where 0.7 would be. That would be somewhere— that would be here, exactly here. That's closer towards 1, so the nearest whole number is 1. 0.3 would come somewhere here. Yes, that's closer towards 0, so the nearest whole number is actually 0 over there. Okay.  [00:33:34]
+student: [unclear]  [00:34:04]
+tutor: Okay, did you understand what I did over here, Rowan?  [00:34:04]
+student: yes.  [00:34:04]
+tutor: Okay, brilliant. Can you try out the 'your turn' part, Rowan? Oh, brilliant. Nice. [unclear]  [00:34:10]
+student: The second one is already marked for me.  [00:34:22]
+tutor: Okay, brilliant job, Rowan. Amazing working out. Can you just explain to me on how you found part B to be 7?  [00:34:27]
+student: So anything that's 5 or over 5 up to 10, it rounds up and anything below 4, 4 or below, it rounds down.  [00:34:37]
+tutor: Brilliant explanation, Rowan. Awesome job over there. Okay. So with that, let's move on to our questions. We got a You Decide over here. Okay, can you work out Part A to D, and you can use the number line if you wish. Okay?  [00:34:59]
+student: Okay.  [00:35:20]
+tutor: Okay. Amazing. Nice.  [00:35:21]
+tutor: Super job, Rowan. Okay. Excellent working out over here. Nicely done, Rowan. And real quick workout. Awesome. Do you want to go ahead and give yourself another smiley face?  [00:35:34]
+student: Okay.  [00:35:50]
+tutor: Okay. [unclear]  [00:35:52]
+tutor: Nice done, Rowan. Okay. So with that, shall we move on to our final slide for this lesson?  [00:36:42]
+student: OK.  [00:36:50]
+tutor: OK. So we got the [unclear] for the side over here with one question to solve. Can you read the question out and give it a try, Rowan?  [00:36:50]
+student: OK. Tara is measuring the length of her bracelet. She has rounded it to the nearest centimetre. The rounding length is 10 centimetres. What could be the exact length of her bracelet? Give two possible possibilities.  [00:36:59]
+tutor: Oh, okay. It could be [UNCLEAR].  [00:37:19]
+student: Nice.  [00:37:28]
+tutor: Amazing job of getting that. Are we forgetting to add something about these answers?  [00:37:42]
+student: It will be [UNCLEAR].  [00:37:51]
+tutor: Nice. Brilliant job in adding the units, Rowan, and awesome working out too. Okay. So with that, shall we do another small reflection and then move on to our next lesson?  [00:37:57]
+student: Okay.  [00:38:11]
+tutor: Okay. Is it possible to tell me something new that you learned from rounding decimals to the nearest whole number, Rowan? Or was it something you already knew? [unclear]  [00:38:13]
+student: I already knew quite a bit of it because we were in year 5, we learned We learned rounding up to rounding numbers.  [00:38:26]
+tutor: Awesome. So you remember it from then, Rowan?  [00:38:41]
+student: Yes. [unclear]  [00:38:45]
+tutor: Yes.  [00:38:50]
+student: In the start of Year 5, we learned to do it.  [00:38:52]
+tutor: Oh, that's great to hear, Rowan, and awesome job in remembering it also. Okay. [unclear]  [00:38:55]
+tutor: Okay, so with that, shall we move on to our next lesson, Rowan?  [00:39:02]
+student: Okay.  [00:39:07]
+tutor: Okay. So we're done with two whole lessons and now we would be starting understanding fractions greater than 1. What do you think this lesson is about, Rowan?  [00:39:08]
+student: I think this is about fractions.  [00:39:23]
+tutor: Rowan, what is a fraction, Rowan?  [00:39:27]
+student: [unclear] Not really sure.  [00:39:36]
+tutor: Okay, no problem. So a fraction is— okay, have you seen, when it comes to maths, have you seen numbers like this?  [00:39:40]
+student: yes.  [00:39:40]
+tutor: Okay, so these are what you call as fractions. Okay?  [00:39:54]
+student: Okay.  [00:39:59]
+tutor: Okay, so it's like a part of a whole. So 2 parts out of 5 equal parts. Okay?  [00:40:01]
+student: Okay.  [00:40:08]
+tutor: Okay, so you have different types of fractions, Rowan. You also have something called a mixed fraction where you have a whole number in front and then a fraction. OK?  [00:40:10]
+student: OK.  [00:40:25]
+tutor: So this is read as 3 wholes and 4/5. OK?  [00:40:26]
+student: I know the other word for them. The other word is an improper fraction, and it's one where it's like 7/6.  [00:40:31]
+tutor: Excellent, yes. So the improper fraction is when the numerator— so the numerator is the number on top. Okay?  [00:40:40]
+student: Okay.  [00:40:52]
+tutor: So when the number on top is equal to or greater than the number in the bottom. So if it's something like 8/6, this is what you call an improper fraction. Okay?  [00:40:52]
+student: Okay.  [00:41:11]
+tutor: And if the number on top is smaller than So if we have something like a 2/4 over here, that's what you call as a proper fraction. Okay, Rowan?  [00:41:12]
+student: Okay.  [00:41:27]
+tutor: Okay. So the number on top is what you call as the numerator, and the number in the bottom is what you call as the denominator. Brilliant, brilliant remembering, Rowan. Okay. So with that, Is it possible to try the learning [unclear] over here for me?  [00:41:28]
+student: Okay.  [00:41:48]
+tutor: Okay.  [00:41:50]
+student: [unclear]  [00:41:51]
+tutor: Nice. Amazing job, Rowan. Brilliant. Okay. So with that, let's move on to our lesson 5. Here, can you read the first sentence for me? Fractions can be greater than 1. When the numerator is greater or equal to the denominator and it is a multiple or a denominator, it makes a whole number.  [00:41:58]
+tutor: Nice. What does the sentence explain, Rowan? [unclear]  [00:42:26]
+student: Pardon?  [00:42:31]
+tutor: What does the sentence try to explain to us?  [00:42:32]
+student: So if it is equivalent to like 5/5, that means it is a whole.  [00:42:36]
+tutor: Excellent, yes. It's also trying to tell us, Rowan, if the one on top is a multiple of the one in bottom, but one in the bottom. So let's say we have 8/2. So we— [unclear] Okay, so the answer, the answer can actually be 4 because 8 divided by 2 is 4. Okay. [unclear] Okay, so now what we are going to do is we're going to count on in fractions. We're starting with 0 and then 5/5. 10/5, 15/5, and 20/5. Okay.  [00:42:47]
+student: [unclear]  [00:43:33]
+tutor: Okay. 5/5 actually make 1 whole because 5 divided by 5, brilliant. Awesome job, Rowan. Brilliant. Okay. So now moving on to Part B. What is 6/2? [unclear]  [00:43:34]
+tutor: Excellent. Okay. Moving on to Part C now. Awesome job, okay. Brilliant working out, Rowan. Superb. Okay. So we worked out real quickly throughout this slide. Amazing job for you. And then now let's move on to the Follow Me and Your Turn slide over here. Okay, so it says, let's look at this bar model that shows an amount greater than 1. Okay?  [00:44:04]
+student: Okay.  [00:44:34]
+tutor: When it comes to working with fractions, number lines are also useful and bar models are also useful. Okay, Rowan?  [00:44:34]
+student: Okay.  [00:44:44]
+tutor: Okay, so now, uh, awesome. Okay, so there are blank wholes— sorry, there are blank whole meter and blank meters. So we have one whole meter over here, and, uh, okay, and 3/5 remaining. So 3/5 over there. We can write this as a mixed number, so that goes as  [00:44:45]
+tutor: One whole. One whole and 3/5. So there are— okay, so there are 8/5 in total. One whole and 3/5. So one whole has 5/5 already. 5 plus 3 is 8/5 in total. Okay?  [00:45:15]
+student: Okay.  [00:45:36]
+tutor: If I would write it as an improper fraction, 8 comes on top and 5 goes in the bottom. So did you understand how I did this, Rowan?  [00:45:37]
+student: Yeah.  [00:45:48]
+tutor: Awesome. Okay, it looks like you already started the next part. Go ahead, Rowan. Nice. 2 over there. Amazing. 2/3. [unclear]  [00:45:49]
+tutor: Nice. Amazing job. Okay. Let me just draw the line in between for you. Okay, Rowan. Okay.  [00:46:19]
+tutor: [unclear]  [00:46:43]
+student: Amazing job, okay. [unclear]  [00:46:43]
+tutor: Okay, so now, okay, so I think I forgot to add something previously. So this is supposed to be 8/5 meters, okay?  [00:47:09]
+student: Okay.  [00:47:22]
+tutor: Okay, is it possible to add the unit [unclear] for me, Rowan?  [00:47:22]
+tutor: Brilliant. So do you understand on how we can convert between fractions and then work it out?  [00:47:28]
+student: Yeah.  [00:47:35]
+tutor: Nice. If possible, just take me through your steps on how we worked out— how you worked out the [unclear] part, Rowan.  [00:47:36]
+student: So I looked at the diagram that was shown, and it's got 2 whole metres, and it's got 2 thirds, so I then put them together, 2 and 2/3. Then I saw how many thirds were remaining and there was 8/3 in total. And then the [unclear] fraction is 3/8.  [00:47:45]
+tutor: Excellent explanation, Rowan. Amazing job. Okay. So with that, let's move on to our You Do slide over here. Okay, can you work out the first part for me, Rowan?  [00:48:18]
+student: [unclear] So the one that is equivalent to 1 whole is— [unclear]  [00:48:29]
+tutor: Shall we double-check on that answer?  [00:49:04]
+student: Okay.  [00:49:08]
+tutor: Okay. Rowan, I am really sorry to interrupt, but I think we have run out of time. Shall we do a very small review? Section and then end our session for today. You can continue this in the next session.  [00:49:10]
+student: [unclear]  [00:49:10]
+tutor: Okay.  [00:49:24]
+student: [unclear]  [00:49:24]
+tutor: Okay. It's possible to tell me which part of the lesson did you enjoy the most, Rowan?  [00:49:27]
+student: I enjoyed the "you do, I do" slide.  [00:49:34]
+tutor: This one, was it this one?  [00:49:47]
+student: Yeah.  [00:49:50]
+tutor: Okay, that's nice to hear. And was there anything else that you learned from today's session, Rowan, with all the 3 lessons?  [00:49:51]
+student: I learned a bit more fractions because I've been getting a bit stuck on fractions at school.  [00:50:01]
+tutor: But no worries, Rowan, you did really well today. Okay.  [00:50:09]
+student: Okay, thank you.  [00:50:14]
+tutor: Okay, welcome Rowan. So brilliant job in working out really quickly and really amazing with all the 3 lessons, Rowan. Awesome. Keep up the great work and hope you have a great day ahead. Okay?  [00:50:15]
+student: Bye, you too.  [00:50:30]
+tutor: Bye, have a nice day.  [00:50:31]
+student: You too.  [00:50:33]
+background: [unclear]  [00:50:33]

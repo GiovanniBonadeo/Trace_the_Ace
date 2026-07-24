@@ -1,0 +1,265 @@
+B16 — Evidence Conditions and Reliability
+
+Evaluate the conditions and reliability of the evidence in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+ED: Evidence diversity
+
+ECL: Elicitation challenge level
+
+PIV: Post-feedback independent verification
+
+ER: Evidence recency
+
+QD: Question diagnosticity
+
+GCR: Guessing and cueing risk
+
+RCO: Learner-response completion opportunity
+
+PCI: Prompt clarity and interpretability
+
+SRR: Speaker-role reliability
+
+RO: Response observability
+
+IER: Imitation and example-overlap risk
+
+OCB: Objective-component opportunity balance
+
+Higher scores mean more favourable or informative evidence conditions. For SLD, TAC, GCR, and IER, higher scores mean lower support dependence, contamination, guessing risk, and imitation risk. Other lesson segments should not reduce LOA simply because they are present.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+ED: `evidence diversity`
+
+ECL: `challenge quality`
+
+PIV: `independent verification`
+
+ER: `evidence recency`
+
+QD: `question diagnosticity`
+
+GCR: `cue resistance`
+
+RCO: `response opportunity`
+
+PCI: `prompt clarity`
+
+SRR: `speaker reliability`
+
+RO: `response observability`
+
+IER: `example independence`
+
+OCB: `opportunity balance`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "ED": {"score": 0, "label": "minimal evidence diversity"},
+    "ECL": {"score": 0, "label": "minimal challenge quality"},
+    "PIV": {"score": 0, "label": "minimal independent verification"},
+    "ER": {"score": 0, "label": "minimal evidence recency"},
+    "QD": {"score": 0, "label": "minimal question diagnosticity"},
+    "GCR": {"score": 0, "label": "minimal cue resistance"},
+    "RCO": {"score": 0, "label": "minimal response opportunity"},
+    "PCI": {"score": 0, "label": "minimal prompt clarity"},
+    "SRR": {"score": 0, "label": "minimal speaker reliability"},
+    "RO": {"score": 0, "label": "minimal response observability"},
+    "IER": {"score": 0, "label": "minimal example independence"},
+    "OCB": {"score": 0, "label": "minimal opportunity balance"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Ordering numbers up to 1,000,000.
+
+CONVERSATION:
+background: [unclear]  [00:00:00]
+tutor: Hello? [Speaker:Harper]... [UNCLEAR]  [00:00:00]
+tutor: Kaelan? Hello? Hello? They can't hear me.  [00:00:07]
+tutor: Zoom, right? Hi. Hello. [unclear]  [00:00:23]
+student: Because if you have 5.25, then even though it seems smaller than 5.4, 5.4 is just 5.4, it's 5.4. [unclear]  [00:00:33]
+student: Okay. You can write the decimals as you— as a rough [unclear] if it helps. Complete the following. [unclear]  [00:01:05]
+tutor: I don't think she's there.  [00:01:20]
+student: Oh.  [00:01:27]
+tutor: Hello? Hello?  [00:01:28]
+student: Wait.  [00:01:34]
+tutor: That's how you spell my name? [unclear]  [00:01:35]
+tutor: I've got to refresh. [unclear]  [00:01:46]
+student: Hello?  [00:01:51]
+tutor: Have they spoke? Right, that's wrong, isn't it?  [00:01:57]
+student: Yeah.  [00:01:59]
+tutor: So should we try it the right way? See if that works. [unclear]  [00:02:00]
+tutor: Hello? [Speaker:Background]...password every week for you? [Speaker:Harper] Yeah. [Speaker:Background]...the wrong way. I struggle. [Speaker:Harper] So you spelled it that way?  [00:02:14]
+background: No, I spelled it that way.  [00:02:23]
+student: Your password?  [00:02:26]
+background: Yeah. [unclear]  [00:02:29]
+tutor: There we go.  [00:02:37]
+student: Thank you.  [00:02:43]
+tutor: Hello? [unclear]  [00:03:06]
+student: Can you hear me?  [00:03:11]
+tutor: She can hear you, but she's typing and she told me to refresh. [unclear]  [00:03:19]
+tutor: Hello? [unclear]  [00:03:40]
+student: Right? [unclear]  [00:03:41]
+tutor: I've plugged in my headphones again. [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear]  [00:03:42]
+student: Oh, I know. I remember like giving gifts to them. [unclear] [unclear]  [00:04:21]
+tutor: Good. [unclear]  [00:04:54]
+tutor: Hello, are you there?  [00:05:28]
+student: Sorry, Rhys. [unclear]  [00:05:31]
+student: Hello. [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear]  [00:05:35]
+tutor: What was this here? [unclear] [unclear]  [00:06:30]
+student: Hello. [unclear]  [00:06:58]
+tutor: Let's try fresh juice now, let's continue. Say hello.  [00:07:23]
+student: Hello.  [00:07:33]
+tutor: See, I'm coming now.  [00:07:33]
+student: Yeah.  [00:07:35]
+tutor: Right, I'll put the text box on. Text here that you can't hear me. [unclear]  [00:07:37]
+student: Oh, I see.  [00:07:48]
+tutor: Yeah, you have to get like a good try on that one. [unclear] [unclear]  [00:07:52]
+tutor: Can you hear me? [unclear]  [00:08:14]
+student: Hello? She's telling me to speak. She's telling me to speak because she doesn't hear me. [unclear] [unclear]  [00:08:49]
+tutor: Can you not hear that?  [00:09:14]
+student: She's Italian, I speak, and she types.  [00:09:18]
+tutor: Can you hear that?  [00:09:22]
+student: No.  [00:09:23]
+tutor: Can they hear you?  [00:09:23]
+student: Yes.  [00:09:25]
+tutor: Just say, "Can you speak for me, please?"  [00:09:30]
+student: Can you speak? [unclear]  [00:09:34]
+tutor: Hi, this is Harper's teacher. Can I just check you're not muted?  [00:09:48]
+tutor: Could you just try speaking out loud for me, please? Right, so you can hear me clearly, right? But you can't hear— we can't hear you is the issue. Right, hang on. Let me just check one thing. Right, so sound is working on our end from other sources, so it's just you we can't hear for some reason.  [00:09:56]
+tutor: You sure you're definitely not muted? [unclear] Do you want to quickly just refresh, see if that helps, if we both refresh? [unclear]  [00:10:31]
+tutor: Hello? [unclear]  [00:10:57]
+student: One, please. [unclear]  [00:11:04]
+tutor: Yes. [unclear]  [00:11:08]
+tutor: Hello? [Speaker:Harper]... [UNCLEAR]  [00:11:20]
+tutor: Okay, I'm not sure because— no, I can't hear you. I'm not sure why because all of the sound seems to be working fine on the laptop. It's just you that we're not getting sound for. [unclear] [unclear]  [00:11:45]
+tutor: Still can't hear you if you're speaking. No. Okay, if I say, if you carry on, if you type Harper and I'll let Harper know that obviously she she can speak to you in responses because you can hear us fine. If you just type what you want Harper to do and then, yeah, do that, type. They'll type for you, just basically, you can talk and she can put them on, unless you want it just around your neck, then just speak into there to talk to me, okay? [unclear]  [00:12:21]
+student: Hello. [unclear]  [00:12:58]
+student: Okay. [unclear]  [00:13:12]
+student: Okay. [unclear] [unclear]  [00:13:30]
+tutor: Everybody seems calm at the moment. [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear]  [00:14:05]
+tutor: No, no, no. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Tutor]...phone. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear]  [00:14:57]
+tutor: Yeah.  [00:18:24]
+student: So, thank you. [unclear]  [00:18:25]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:28]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:32]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:33]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:34]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:36]
+tutor: Yeah. [Speaker:Harper]...for the one line. [UNCLEAR]  [00:18:37]
+tutor: Yeah. [unclear]  [00:18:38]
+student: Yeah.  [00:18:45]
+tutor: Yeah.  [00:18:54]
+student: Yeah.  [00:18:58]
+tutor: Yeah. [unclear]  [00:19:03]
+student: [unclear] [unclear]  [00:19:06]
+student: [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]  [00:19:20]
+student: Hello. [unclear] [unclear] [unclear]  [00:20:30]
+student: [unclear] [unclear]  [00:21:26]
+student: [unclear] [unclear]  [00:21:44]
+tutor: Okay. [unclear]  [00:21:59]
+student: All right. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]  [00:22:52]
+tutor: Hello.  [00:24:16]
+student: Wow. [unclear]  [00:24:27]
+tutor: Hello.  [00:24:42]
+student: Hello. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]  [00:24:49]
+tutor: Yeah. [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]  [00:25:31]
+student: Yeah. [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear]  [00:27:52]
+student: Yeah, it makes sense. [unclear]  [00:28:37]
+tutor: Hello? [unclear]  [00:29:02]
+tutor: Okay. [unclear]  [00:29:29]
+student: We could show the size of tents and quantities in diagrams. [unclear]  [00:30:10]
+student: Good morning. [unclear]  [00:30:26]
+student: [unclear] [unclear]  [00:30:55]
+student: [unclear] [unclear]  [00:31:13]
+tutor: Okay.  [00:31:23]
+student: Because it's in [unclear] to Harper's [UNCLEAR].  [00:31:26]
+tutor: They took 10? [unclear] [unclear]  [00:32:18]
+tutor: Okay. [unclear]  [00:32:45]
+tutor: Oh. [unclear] [Speaker:Harper]... [UNCLEAR]  [00:33:18]
+tutor: So, how much more than 10? [unclear] [Speaker:Tutor]... [UNCLEAR] [Speaker:Harper]... [UNCLEAR] [Speaker:Background]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [Speaker:Harper]... [unclear] [Speaker:Background]... [unclear]  [00:33:38]
+tutor: Okay.  [00:34:24]
+student: Into the first one is where you have to move 2 places to the left, and [unclear] and B is where you have to move 3. Also, in A is where you have to move 1, [unclear]  [00:34:25]
+tutor: Are you there? [unclear]  [00:34:54]
+student: One tenth. [unclear]  [00:35:27]
+student: You guys got more squares? [unclear]  [00:35:54]
+student: [unclear] [unclear]  [00:36:13]
+student: [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear]  [00:36:38]
+tutor: One tenth? [unclear] [unclear]  [00:37:05]
+student: [unclear] [unclear]  [00:37:30]
+student: [unclear] [unclear]  [00:37:47]
+student: [unclear] [unclear]  [00:37:57]
+student: [unclear] [unclear]  [00:38:17]
+student: [unclear] [unclear]  [00:38:22]
+student: [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear] [Speaker:Harper]... [UNCLEAR] [unclear] [Speaker:Harper]... [unclear] [unclear]  [00:38:36]
+student: Yeah, I'll just get you to do the quiz.  [00:41:07]
+tutor: Okay.  [00:41:12]
+student: Thank you.  [00:41:13]
+tutor: Bye.  [00:41:14]

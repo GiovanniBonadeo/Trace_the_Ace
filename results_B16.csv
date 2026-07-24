@@ -1,0 +1,2397 @@
+response_id,session_id,prompt_name,prompt_hash,probability,raw_content,error,elapsed_sec,attempts
+kdwihol,kmerrzd,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.66,1
+dauxfyr,gczysty,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.78,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,18.11,1
+hhntuet,gitfpzq,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.4,1
+gclnknm,kzqayug,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.35,1
+iahatcl,mbtiehl,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.49,1
+gtpzatd,hckfagf,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.75,1
+mmtdpna,bjlsops,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,20.73,1
+iilkmwq,lsmftoc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 1, ""label"": ""weak opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.7,1
+lpnvfzp,lffabab,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.85,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 3, ""label"": ""strong support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 4, ""label"": ""exceptional evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 3, ""label"": ""strong independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,18.55,1
+nmfsaln,hggezne,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,15.74,1
+hdmvkpo,kmwkdgg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.75,1
+cvtkndi,frofdvk,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.61,1
+cdqxbmm,ccbnbjk,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 1, ""label"": ""weak evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,16.07,1
+fgjewwq,ksggvxp,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.74,1
+gbpowpb,jhqynmx,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.25,1
+hbcmmrz,aprpukp,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 1, ""label"": ""weak objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.8,1
+atcpqts,mvdrgom,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.39,1
+gamtxfd,atvfdwy,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.06,1
+gslurxf,ejedyoy,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.34,1
+afylzjc,mrnbnbv,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.4,1
+emptmah,fownkzg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 1, ""label"": ""weak objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 0, ""label"": ""minimal opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,17.28,1
+ffhopot,kapzcmc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.63,1
+djobcap,dbxeflv,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.44,1
+ivzucks,aezsuia,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.72,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,15.76,1
+btsgrvw,dajhwat,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 1, ""label"": ""weak opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,18.97,1
+gywxsvs,mpaavdj,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.82,1
+lgpggqo,dpkjqyh,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.01,1
+crmwiwp,gcbuvuo,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.68,1
+cypchuv,kaqltfw,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.52,1
+bvcfqxt,hvjqscv,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 0, ""label"": ""minimal objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 0, ""label"": ""minimal opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,17.3,1
+dyibtmn,fuhpcwb,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.78,1
+efzwljk,buluftd,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.72,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,15.9,1
+amzefau,bjmbkbk,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.15,1
+ccqctgc,aasgyqv,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 2, ""label"": ""mixed evidence recency""},
+    ""QD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 0, ""label"": ""minimal opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,18.87,1
+dfyqxzq,euttpje,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.58,1
+gkefvhy,ikezgtf,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.62,1
+kvmznke,mljalxj,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.83,1
+mlvevgx,jgqsveu,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.76,1
+dompvyd,hvtmrcb,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.42,1
+krwqgst,fakxffb,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,13.99,1
+bvcgjmn,hecgnna,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.33,1
+aepfvaj,eqoknie,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.19,1
+mgtntwl,mjsnlfi,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.2,1
+feobuof,ghvcxqk,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.39,1
+makjkku,izxtnqe,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.53,1
+dwqgkhy,druvekb,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,20.19,1
+iwykwvx,hnyealg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 1, ""label"": ""weak response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,15.53,1
+fzoxnca,boayflb,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.91,1
+eodewmn,fdrxfif,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 0, ""label"": ""minimal objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 0, ""label"": ""minimal opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": null
+  }
+}",,18.2,1
+dxwweug,mnbcozv,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.88,1
+gzblekb,ccnesdy,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 1, ""label"": ""weak opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.1,1
+iehkgsd,nloaqpp,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 4, ""label"": ""exceptional speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.51,1
+hdfenmh,enzxozt,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.48,1
+gkkbntc,jkxshag,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.67,1
+ndtoupf,cvezjol,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,,"{
+  ""dimensions"": {
+    ""SLD"": {
+      ""score"": 0,
+      ""label"": ""minimal support independence""
+    },
+    ""TAC"": {
+      ""score"": 0,
+      ""label"": ""minimal answer independence""
+    },
+    ""LOA"": {
+      ""score"": 0,
+      ""label"": ""minimal objective alignment""
+    },
+    ""IEO"": {
+      ""score"": 0,
+      ""label"": ""minimal evidence opportunities""
+    },
+    ""ED"": {
+      ""score"": 0,
+      ""label"": ""minimal evidence diversity""
+    },
+    ""ECL"": {
+      ""score"": 0,
+      ""label"": ""minimal challenge quality""
+    },
+    ""PIV"": {
+      ""score"": 0,
+      ""label"": ""minimal independent verification""
+    },
+    ""ER"": {
+      ""score"": 0,
+      ""label"": ""minimal evidence recency""
+    },
+    ""QD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""GCR"": {
+      ""score"": 0,
+      ""label"": ""minimal cue resistance""
+    },
+    ""RCO"": {
+      ""score"": 0,
+      ""label"": ""minimal response opportunity""
+    },
+    ""PCI"": {
+      ""score"": 0,
+      ""label"": ""minimal prompt clarity""
+    },
+    ""SRR"": {
+      ""score"": 0,
+      ""label"": ""minimal speaker reliability""
+    },
+    ""RO"": {
+      ""score"": 0,
+      ""label"": ""minimal response observability""
+    },
+    ""IER"": {
+      ""score"": 0,
+      ""label"": ""minimal example independence""
+    },
+    ""OCB"": {
+      ""score"": 0,
+      ""label"": ""minimal opportunity balance""
+    }
+  },
+  ""achievement"": {
+    ""probability"": null
+  }
+}",,18.78,1
+ipasimy,ermsqmw,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.24,1
+kjzixgw,eadzmts,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.61,1
+kuikycl,mmupsct,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.54,1
+mpnictg,irmbphf,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,20.14,1
+ixmwcrt,mynqirh,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.4,1
+eorynsz,lwltbwi,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 0, ""label"": ""minimal evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 0, ""label"": ""minimal example independence""},
+    ""OCB"": {""score"": 1, ""label"": ""weak opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.68,1
+inwjppw,jectuft,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.78,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 3, ""label"": ""strong challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 4, ""label"": ""exceptional speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.78
+  }
+}",,17.98,1
+bqvialw,cmspimw,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 0, ""label"": ""minimal speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.45,1
+mutbpma,agbrbao,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.03,1
+kmdajap,dfkstid,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 2, ""label"": ""mixed evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.66,1
+ghxygyd,hfyjylk,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 4, ""label"": ""exceptional speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.7,1
+hajobyw,cjiwhcy,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.94,1
+lxfpqtr,dvyqhjf,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {
+      ""score"": 2,
+      ""label"": ""mixed support independence""
+    },
+    ""TAC"": {
+      ""score"": 2,
+      ""label"": ""mixed answer independence""
+    },
+    ""LOA"": {
+      ""score"": 3,
+      ""label"": ""strong objective alignment""
+    },
+    ""IEO"": {
+      ""score"": 1,
+      ""label"": ""weak evidence opportunities""
+    },
+    ""ED"": {
+      ""score"": 2,
+      ""label"": ""mixed evidence diversity""
+    },
+    ""ECL"": {
+      ""score"": 2,
+      ""label"": ""mixed challenge quality""
+    },
+    ""PIV"": {
+      ""score"": 0,
+      ""label"": ""minimal independent verification""
+    },
+    ""ER"": {
+      ""score"": 3,
+      ""label"": ""strong evidence recency""
+    },
+    ""QD"": {
+      ""score"": 2,
+      ""label"": ""mixed question diagnosticity""
+    },
+    ""GCR"": {
+      ""score"": 1,
+      ""label"": ""weak cue resistance""
+    },
+    ""RCO"": {
+      ""score"": 2,
+      ""label"": ""mixed response opportunity""
+    },
+    ""PCI"": {
+      ""score"": 1,
+      ""label"": ""weak prompt clarity""
+    },
+    ""SRR"": {
+      ""score"": 1,
+      ""label"": ""weak speaker reliability""
+    },
+    ""RO"": {
+      ""score"": 2,
+      ""label"": ""mixed response observability""
+    },
+    ""IER"": {
+      ""score"": 3,
+      ""label"": ""strong example independence""
+    },
+    ""OCB"": {
+      ""score"": 1,
+      ""label"": ""weak opportunity balance""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.9,1
+gmwzqqo,fmaitvc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.05,1
+myhqduu,mnmwlha,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.96,1
+dmuvzxy,iazzphj,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,15.7,1
+bqvjshq,nehqlih,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.36,1
+htpavyv,gbfhfdj,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.78,1
+fnocpuz,exgkjap,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.66,1
+cdxqmde,gvyprrc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,19.03,1
+ervrqmn,egamjeq,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.72,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,19.08,1
+jjvqkbp,mvbiikq,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.56,1
+craxqtb,fcejvel,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.74,1
+klvgffp,jellkmj,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.85,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,17.6,1
+fhmzzqd,hplatpg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.4,1
+gbhcmro,gezwcct,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.06,1
+jhagdcr,jcygafu,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.65,1
+hyiqmhr,dknqkwc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 4, ""label"": ""exceptional speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.21,1
+hourplm,mcxhnbc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,16.54,1
+kjxxuij,cypnksx,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.72,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,18.27,1
+gydwvpg,lecbpmg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 0, ""label"": ""minimal speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.68,1
+dhikiuk,mictpwi,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 4, ""label"": ""exceptional speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.87,1
+jlskiau,dodtqwx,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.27,1
+mpbkcip,nclzfnn,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.7,1
+aqkwylp,cxpxpkc,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.52,1
+mdbfquf,myyqlcw,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.75,1
+hgvkapp,jlazjjg,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 3, ""label"": ""strong evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.45,1
+nejbwfe,isxpuay,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.55,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 3, ""label"": ""strong speaker reliability""},
+    ""RO"": {""score"": 4, ""label"": ""exceptional response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.67,1
+hacaufu,hjogifm,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 1, ""label"": ""weak evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 1, ""label"": ""weak response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.51,1
+nmzlmuw,fktxwar,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.75,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 2, ""label"": ""mixed support independence""},
+    ""TAC"": {""score"": 2, ""label"": ""mixed answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 1, ""label"": ""weak independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 2, ""label"": ""mixed cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 2, ""label"": ""mixed example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.9,1
+kbfmjiz,glozcug,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 1, ""label"": ""weak evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 3, ""label"": ""strong response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.47,1
+emwcrkp,lymqjye,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.65,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 3, ""label"": ""strong objective alignment""},
+    ""IEO"": {""score"": 2, ""label"": ""mixed evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 2, ""label"": ""mixed challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 2, ""label"": ""mixed opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.93,1
+kcvvtrw,jfbvujd,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.85,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 3, ""label"": ""strong support independence""},
+    ""TAC"": {""score"": 3, ""label"": ""strong answer independence""},
+    ""LOA"": {""score"": 4, ""label"": ""exceptional objective alignment""},
+    ""IEO"": {""score"": 3, ""label"": ""strong evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 3, ""label"": ""strong challenge quality""},
+    ""PIV"": {""score"": 3, ""label"": ""strong independent verification""},
+    ""ER"": {""score"": 4, ""label"": ""exceptional evidence recency""},
+    ""QD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""GCR"": {""score"": 3, ""label"": ""strong cue resistance""},
+    ""RCO"": {""score"": 4, ""label"": ""exceptional response opportunity""},
+    ""PCI"": {""score"": 3, ""label"": ""strong prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 3, ""label"": ""strong response observability""},
+    ""IER"": {""score"": 3, ""label"": ""strong example independence""},
+    ""OCB"": {""score"": 3, ""label"": ""strong opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,17.42,1
+dtnpjmm,diyexko,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.35,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 0, ""label"": ""minimal evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 2, ""label"": ""mixed evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 1, ""label"": ""weak response opportunity""},
+    ""PCI"": {""score"": 2, ""label"": ""mixed prompt clarity""},
+    ""SRR"": {""score"": 2, ""label"": ""mixed speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 0, ""label"": ""minimal opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,18.37,1
+bqctbub,gyatrag,B16,88db8918a5e987a01d3a340f879d3591896128d80c6cf4a1f0b83929ce1b7920,0.45,"{
+  ""dimensions"": {
+    ""SLD"": {""score"": 1, ""label"": ""weak support independence""},
+    ""TAC"": {""score"": 1, ""label"": ""weak answer independence""},
+    ""LOA"": {""score"": 2, ""label"": ""mixed objective alignment""},
+    ""IEO"": {""score"": 1, ""label"": ""weak evidence opportunities""},
+    ""ED"": {""score"": 2, ""label"": ""mixed evidence diversity""},
+    ""ECL"": {""score"": 1, ""label"": ""weak challenge quality""},
+    ""PIV"": {""score"": 0, ""label"": ""minimal independent verification""},
+    ""ER"": {""score"": 3, ""label"": ""strong evidence recency""},
+    ""QD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""GCR"": {""score"": 1, ""label"": ""weak cue resistance""},
+    ""RCO"": {""score"": 2, ""label"": ""mixed response opportunity""},
+    ""PCI"": {""score"": 1, ""label"": ""weak prompt clarity""},
+    ""SRR"": {""score"": 1, ""label"": ""weak speaker reliability""},
+    ""RO"": {""score"": 2, ""label"": ""mixed response observability""},
+    ""IER"": {""score"": 1, ""label"": ""weak example independence""},
+    ""OCB"": {""score"": 1, ""label"": ""weak opportunity balance""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.6,1

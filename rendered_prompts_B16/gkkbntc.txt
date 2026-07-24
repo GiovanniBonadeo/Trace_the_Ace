@@ -1,0 +1,377 @@
+B16 — Evidence Conditions and Reliability
+
+Evaluate the conditions and reliability of the evidence in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+SLD: Support level at demonstration
+
+TAC: Teacher-answer contamination
+
+LOA: Learning-objective alignment
+
+IEO: Independent evidence opportunities
+
+ED: Evidence diversity
+
+ECL: Elicitation challenge level
+
+PIV: Post-feedback independent verification
+
+ER: Evidence recency
+
+QD: Question diagnosticity
+
+GCR: Guessing and cueing risk
+
+RCO: Learner-response completion opportunity
+
+PCI: Prompt clarity and interpretability
+
+SRR: Speaker-role reliability
+
+RO: Response observability
+
+IER: Imitation and example-overlap risk
+
+OCB: Objective-component opportunity balance
+
+Higher scores mean more favourable or informative evidence conditions. For SLD, TAC, GCR, and IER, higher scores mean lower support dependence, contamination, guessing risk, and imitation risk. Other lesson segments should not reduce LOA simply because they are present.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+SLD: `support independence`
+
+TAC: `answer independence`
+
+LOA: `objective alignment`
+
+IEO: `evidence opportunities`
+
+ED: `evidence diversity`
+
+ECL: `challenge quality`
+
+PIV: `independent verification`
+
+ER: `evidence recency`
+
+QD: `question diagnosticity`
+
+GCR: `cue resistance`
+
+RCO: `response opportunity`
+
+PCI: `prompt clarity`
+
+SRR: `speaker reliability`
+
+RO: `response observability`
+
+IER: `example independence`
+
+OCB: `opportunity balance`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "SLD": {"score": 0, "label": "minimal support independence"},
+    "TAC": {"score": 0, "label": "minimal answer independence"},
+    "LOA": {"score": 0, "label": "minimal objective alignment"},
+    "IEO": {"score": 0, "label": "minimal evidence opportunities"},
+    "ED": {"score": 0, "label": "minimal evidence diversity"},
+    "ECL": {"score": 0, "label": "minimal challenge quality"},
+    "PIV": {"score": 0, "label": "minimal independent verification"},
+    "ER": {"score": 0, "label": "minimal evidence recency"},
+    "QD": {"score": 0, "label": "minimal question diagnosticity"},
+    "GCR": {"score": 0, "label": "minimal cue resistance"},
+    "RCO": {"score": 0, "label": "minimal response opportunity"},
+    "PCI": {"score": 0, "label": "minimal prompt clarity"},
+    "SRR": {"score": 0, "label": "minimal speaker reliability"},
+    "RO": {"score": 0, "label": "minimal response observability"},
+    "IER": {"score": 0, "label": "minimal example independence"},
+    "OCB": {"score": 0, "label": "minimal opportunity balance"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Developing Fluency with Addition and Subtraction
+
+CONVERSATION:
+tutor: Hello?  [00:00:00]
+background: [unclear]  [00:00:00]
+student: Hello.  [00:00:01]
+tutor: Hello. Hi, Callum.  [00:00:02]
+student: You're right.  [00:00:05]
+tutor: Hi. Can you hear me?  [00:00:06]
+student: Yeah.  [00:00:08]
+tutor: How are you today?  [00:00:09]
+student: Good, thank you.  [00:00:11]
+tutor: Okay, you're welcome. So how has the week been so far for you?  [00:00:13]
+student: Good, thank you. [unclear]  [00:00:19]
+tutor: All right, so I hope that you're having a good time, Callum. Okay, so are you ready to start with our lesson then?  [00:00:22]
+student: Yeah.  [00:00:32]
+tutor: Yeah, okay. So last week we started our SAT lessons, right? And we first started with developing fluency with addition and subtraction. You know, this is your first paper, right?  [00:00:33]
+tutor: So in this purpose, in this lesson, we are mainly focusing on the mental methods rather than the formal written method because we want to save time. We want to do the work very fast. That is why we want to find easy and effective methods. Okay, so now we tried this method, use rounding and adjusting. Can you recall what we learned? How we use rounding and adjusting?  [00:00:49]
+student: So, uh, we rounded it to its nearest 10.  [00:01:21]
+tutor: 400. Yes, great. Okay, then what did we— how did we adjust the numbers then after that? Now we know 199, uh, To the nearest 10 or the 100 is 200, right? Then how did we adjust this? After adding them, 200 and 398 is 598, which we know, right? But how did we adjust our answer? Since we made 199, 200, adding 1, what did we do from the answer? [unclear]  [00:01:32]
+student: We...  [00:02:11]
+tutor: we subtracted.  [00:02:11]
+student: Subtract 1.  [00:02:11]
+tutor: Exactly, because we added 1, we subtracted 1, right? Okay, that's great. So you can remember some things what you— what we learned last time. And today we are going to start with our next tactile questions. We have 2 questions here, and for each one you'll be getting 1 mark. This time, what is the strategy we need to use? [unclear] Can you read the strategy? Use counting on to find the difference. All right, so when we want to find the difference of two numbers, which calculation do we use? I said addition or subtraction?  [00:02:17]
+student: Subtraction.  [00:03:01]
+tutor: Subtraction, exactly. Subtraction also means Finding the difference between two numbers, right? Okay, so if you look at question number 3 here, what are the two numbers we have to subtract?  [00:03:02]
+student: Uh, 1,300 and—  [00:03:16]
+tutor: What is it?  [00:03:19]
+student: 1,300.  [00:03:20]
+tutor: Okay, where is it there?  [00:03:26]
+student: Uh-huh.  [00:03:27]
+tutor: 1,003.  [00:03:28]
+student: Uh-huh.  [00:03:30]
+tutor: Great. Subtract.  [00:03:31]
+student: 996.  [00:03:36]
+tutor: Right. So have you used counting on method to find the difference?  [00:03:37]
+background: [unclear]  [00:03:45]
+tutor: Aha, yes. Have you used counting on method before?  [00:03:46]
+background: Huh?  [00:03:52]
+tutor: Aha. Have you used counting on method before, Callum?  [00:03:53]
+tutor: Yes, can you hear me?  [00:04:00]
+student: No.  [00:04:02]
+tutor: No, it's fine. That's okay because that is why we are here, right? Because we can learn an easy way which we can use this method to find the difference of the given two numbers. Okay, so rather than subtracting, what can we do here? Now rather than writing these two numbers in the column method and subtract, what can we do here to find the answers? If you look at the two numbers here, what do you notice about the two numbers?  [00:04:03]
+tutor: 1,396. Now if I ask you to subtract 3 from 5, what would you do?  [00:04:37]
+student: We'll go all the way to 1 because we can't subtract from 3. So we can't subtract from 0, we can't subtract from 0. We'll have to take it from 1. [unclear]  [00:04:47]
+tutor: formal written method, right, Callum? In this question, we are mainly focusing on mental method. That means we don't need to write it, but we are teaching in our heads. So rather than using that formal method, when you look at these two numbers, what do you notice? Are they closer to each other?  [00:04:47]
+student: No.  [00:04:47]
+tutor: No. Is it 1,396? [unclear]  [00:05:25]
+student: They're not closer to each other.  [00:05:35]
+tutor: Are they closer to each other or not if you look at it then?  [00:05:39]
+student: No.  [00:05:47]
+tutor: That's fine. Okay. So let us use this support slide here so you can see what we can do here. Okay? So we can think of subtraction as finding the difference. Okay? So now what does it say? Can you read this part here? When numbers... [unclear] Yes? Can you read that? [unclear]  [00:05:47]
+student: When numbers are close to one another, it can be quicker to count as to the... It can be quicker to count as to...  [00:06:11]
+student: to find a difference than to take it away.  [00:06:11]
+tutor: Alright, so what it says is when two numbers are closer to one another, it will be much quicker and easier to count on to the other number rather than finding the difference using taking away method. That means normal written subtraction method. It's easy to count on from one number to the other number to find the difference between two numbers. That is only when the two numbers are closest to each other. Okay? So when we look at 1,396, we know they are closer to each other. Now can you count out from the smaller number to the bigger number and see how many we need to count to go to 1,000? Can you hear me now? [unclear]  [00:06:11]
+tutor: So 996, from there if you count, what is the next number we have? You can use your fingers and see.  [00:07:10]
+student: 997. 997.  [00:07:16]
+tutor: Then 998.  [00:07:22]
+student: 8, 999, 1,000, 1,200.  [00:07:25]
+tutor: Uh-huh. 1,001.  [00:07:35]
+student: 1,002, 1,003.  [00:07:38]
+tutor: All right. Now we have come to 1,003. So how many did you count to go to 1,003 from 996?  [00:07:42]
+student: [unclear]  [00:08:01]
+tutor: 7. Brilliant. Then can you write it here? Because 996 7 is equal to 1003. Or as we can see, from 996 to 1000, we have 4, right? From 1000 to 1003, we have 3. So 4 and 3 is 7, right? Okay, now can you try the next one? What are the two numbers you have in mind? 200 and... Callum? [unclear]  [00:08:01]
+student: Yeah.  [00:08:40]
+tutor: Yeah. Shall we read this? 212.  [00:08:42]
+student: 212 take away 198.  [00:08:50]
+tutor: All right, now when we look at the two numbers again, we can see closer to each other, right? Okay, so how much should we add to 198 to go to 212?  [00:08:54]
+tutor: 198 to 212. Okay, if I draw this number line, I think you can see this clearly. Okay, [unclear] number line this time because there are 8 numbers, but I'm going to show you. Okay, so from 198 to 200, how many more should we jump?  [00:09:18]
+student: 200.  [00:09:37]
+student: 200.  [00:09:43]
+tutor: Yes. To go to 200 from 198, how many more should we jump? How many jumps do we need?  [00:09:44]
+student: Twice.  [00:09:53]
+tutor: Twice. That means 2 jumps then. Then 200 to 212, how many jumps do we need? [unclear] 10, [unclear] 11, 12. 12.  [00:09:53]
+tutor: 12.  [00:10:28]
+student: It's very easy because you are at 200. 212 means 12 more than 200, right? Now, how many jumps did we jump altogether to get it into 212?  [00:10:28]
+tutor: Altogether, how many jumps did we jump? We jumped 2 times here, then 12 times here. So altogether, how many jumps? What is 12 2 is equal to? 14.  [00:10:42]
+student: 14.  [00:11:04]
+tutor: Then how many jumps We need from 198 to 212. What is the difference between 198 and 212? [unclear]  [00:11:05]
+tutor: Okay, can you write 14 here, Callum? Callum, it's very simple. Don't look at it in a like as a big process here. It's very, very simple one. It's like we are finding the difference between two numbers. Now if I say, what is the difference between 2 and 7? If I ask, what is the difference between these two numbers? That means we need to count from 2 to 7 and see.  [00:11:20]
+student: [unclear]  [00:12:00]
+tutor: They are 5 apart. Just like this, I ask you, What is the difference between 198 and 212? Because they are closer to each other, so we can count. We can use the fingers and count, or we can see from 198, the easiest number is 200. So we jump to 200 to 212, we jump 12. Altogether, 12 add 2 is 14. So the difference between these two numbers is 14, right? Okay, now can you take me through this guide and explain how we got this answer, 7 and 14? [unclear]  [00:12:01]
+tutor: So first things first is that— [unclear]  [00:12:40]
+student: So first things first is that we need to— if we take an away from 3, then we need to add it first to get the answer.  [00:12:49]
+student: And then we can write the answer here. Or you can use a number line.  [00:13:09]
+tutor: Exactly. And we can jump and see how many jumps we need altogether, right? Okay, so, and why did we decide to use counting on method here? We could have written it using the normal column method and subtract the two numbers. Why did we use this? Method here?  [00:13:17]
+tutor: Because it's much more convenient and easy, quick way, right? Because if we write this using the column method, now you know it will be taking a lot of time to subtract each and every digit, right? So we can use the counting on method because these two numbers are closer to each other.  [00:13:48]
+tutor: So we can start with the smaller number and go up to the bigger number. Alright, so we are going to the next slide and here you have two questions which is similar to the earlier ones. Here you have to use the counting on method to find the difference. So you will be getting one mark for each question. Now I want you to try these two questions by yourself. Shall we try the first one? If you want you can use the number line or else you can just copy it in your head and tell me.  [00:14:08]
+student: [unclear] [unclear]  [00:14:36]
+tutor: So you can do...  [00:14:42]
+tutor: And do we add the bigger number first? If you are using the addition, which is the inverse of this, then what should we do?  [00:15:06]
+student: 789 and something is equal to 801, right? [unclear]  [00:15:15]
+tutor: So how much you need to go into 801?  [00:15:29]
+tutor: From 789. [unclear] [unclear]  [00:15:34]
+tutor: How would you do this, Callum?  [00:16:15]
+student: You would do [unclear]  [00:16:25]
+tutor: You got to count and say, is it 2, 8, or 1?  [00:16:31]
+student: Mm-hmm. [unclear]  [00:16:38]
+tutor: So what do you think? How much? Okay, what is the— now go to 801. Let's see from 789.  [00:16:58]
+tutor: Would it be 2? If you add 2, what would the answer be? 789 add 2 is? [unclear]  [00:17:20]
+tutor: We need to go to 801. Can you use your fingers to count? [unclear]  [00:17:33]
+tutor: Boys, can you use this number line what I draw here so you can figure this out? The smaller number and going up to the bigger number. And in between, you can pause where you please. Just like what I did in the earlier slide, I stopped at 200 because it was easier for me from 198. Likewise, you also can stop where you like from 789. Which number would you go next from 789?  [00:18:01]
+student: [unclear]  [00:18:39]
+tutor: 799.  [00:18:39]
+background: 799.  [00:18:42]
+tutor: Alright, to go to 799, how many jumps you need?  [00:18:46]
+student: 1.  [00:18:54]
+tutor: Aha, is it 1? 799, 89 to 99. Or would it be 790? What is it?  [00:18:55]
+background: 790. [unclear]  [00:19:04]
+tutor: Yes, Callum. So which number would you go from 789? [unclear] Would you go 790 or 799?  [00:19:14]
+student: 799.  [00:19:32]
+tutor: 799. So how many jumps do you need from 789 to 799? [unclear]  [00:19:33]
+tutor: From 89 to 99, 789 to 799. How many jumps?  [00:19:44]
+tutor: Shall we make it 790 then, if it is hard for you? [unclear] 789 to 790. But how many jumps we need? Only 89 to 9—  [00:20:16]
+tutor: 789. What is the next number you have after 789?  [00:20:39]
+student: 779.  [00:20:45]
+tutor: Uh-huh. 79 is long before 789, not after. What comes after 789? Or what comes after 89? Yes?  [00:20:51]
+student: 99.  [00:20:51]
+tutor: Uh-huh. Is it 99? What comes after 789? When you count from 1, 2, 3, 4, 5, 6, 7, 8, 9, what is next after 9? It is?  [00:20:51]
+student: 10.  [00:21:17]
+tutor: 10. Likewise, when you have— if you count from 80— 80, 81, 82, 83, 84, 85, 86, 87, 88, 89— then?  [00:21:17]
+student: Oh, 90.  [00:21:27]
+tutor: 90. So that means we need one jump to go to 790, right? Then 790 to 800, how many we need?  [00:21:29]
+student: [unclear]  [00:21:40]
+tutor: One. How would it be one? 790 to 800. Or if 90 to next 100?  [00:21:41]
+background: 5.  [00:21:48]
+student: 2.  [00:21:51]
+tutor: 2. How would it be 10? 90 to next 100? Now you have 90. To go to 100, how many you need?  [00:21:53]
+student: 2.  [00:22:01]
+tutor: How about it be 10? Then it would be 792.  [00:22:02]
+student: No, Miss, I said [UNCLEAR].  [00:22:04]
+tutor: You are at 790? Yes?  [00:22:04]
+student: Miss, I said 2.  [00:22:11]
+tutor: Ah, 2. Okay, so if you add 2 to 790, Callum, what could the answer be? If you count 2 from 790,  [00:22:14]
+tutor: 791, 792. Then would it be correct? We need to go to 800. 90 to 100, if you count from tens, what comes after 790? If you add 10 more? [unclear] What happens if you add 10 more?  [00:22:25]
+tutor: 10 more to 790. [unclear] 790 add 10 is 800. Because you can see only the tens column is changing. We have 9 tens here. Now when you have 10 tens, we regroup it as 100. So 700 becomes 800. Is that clear for you?  [00:22:51]
+student: Yeah.  [00:23:26]
+tutor: Okay, so 800 to 801, that is our number, 801. 800 to 801, how many jumps we need? [unclear] 800 to 801. [unclear] [unclear]  [00:23:27]
+tutor: 801. You are at 800. If you want to go to 801, how many jumps you need to jump?  [00:23:55]
+student: One.  [00:24:02]
+tutor: One. Just one. Now all of you reach 801, right? From 789 to 801. So how many jumps did you jump altogether? To get to this number? [unclear]  [00:24:02]
+student: 12.  [00:24:19]
+tutor: 12, brilliant. So what would be the answer then? The answer is?  [00:24:24]
+student: 12.  [00:24:32]
+tutor: The answer is 12. Can you write your answer here?  [00:24:33]
+tutor: Okay, great. You can write it in the box. Okay, so there you go. You came up with that great answer. And I want you to try the next part by yourself. Just see. You can start with the smaller number and count up to the next number because we know 2008 is closer to 1995. [unclear]  [00:24:43]
+tutor: What is the difference between these two numbers if you count? How many jumps you need to add to go to 2000 from 1995? [unclear]  [00:25:12]
+tutor: 95 to 100, how many?  [00:25:29]
+tutor: 95.  [00:25:40]
+student: Yes, 95 to 100. [unclear]  [00:25:41]
+tutor: 5.  [00:25:51]
+student: 5, just like that. How much you need to go to 2,000 from 1,995?  [00:25:52]
+tutor: It is the same thing. [unclear] We need to go to 2008, but we are going to go to 2000 first. If you want to go to 2000 from 1995, how many jumps you need to jump?  [00:26:03]
+student: [unclear]  [00:26:39]
+tutor: 5 jumps. Brilliant. So then from 2000 to 2008, how many jumps?  [00:26:39]
+student: Uh...  [00:26:47]
+tutor: Now you are at 2000. Then 2000 to go to 2008. How many jumps you need?  [00:26:50]
+student: 5.  [00:26:58]
+tutor: Aha, 2000 to 2008.  [00:26:59]
+student: 8.  [00:27:08]
+tutor: 8, great. So altogether, how many jumps did you jump?  [00:27:12]
+student: 8.  [00:27:19]
+tutor: Aha, altogether.  [00:27:20]
+student: [unclear]  [00:27:25]
+tutor: 13 billion. Now can you write your answer down there? You came up with a fantastic answer. The answer is 13. Okay, now here you get a big tick and also mark for this question for trying it by yourself. Now can you take me through this question and explain to me how we use the counting on method to find the difference between two numbers? [unclear]  [00:27:25]
+tutor: Getting great, Callum. Keep going on. How did we use in this question? How did we learn that the difference between these two numbers was 13? [unclear]  [00:27:57]
+tutor: So we found out the distance between 1995 and then?  [00:28:18]
+student: So then we added it by 5.  [00:28:34]
+tutor: Uh-huh. Reach where? Which number did we reach by adding 5?  [00:28:41]
+student: 1,000... [unclear]  [00:28:48]
+tutor: Yes, 2,000. Great, because it's the closest easiest number. So by adding 5, we reached 2,000. Then from 2,000 to 2,008, what did we do? We added how many more?  [00:28:50]
+background: We added 8, and then we added 5 at 8, which is 13.  [00:29:05]
+tutor: Brilliant. Okay, that's a very nice explanation what you did here. So here we go with great explanation sticker for you. And can you take— also take me through this first question here? 801 take away 789. Which places did we stop and how many did we add? Can you explain to me?  [00:29:10]
+student: So— [unclear] At [unclear]  [00:29:28]
+tutor: first, which number did we reach from 789? 90.  [00:29:45]
+student: By  [00:29:53]
+tutor: adding? One.  [00:29:55]
+student: One.  [00:29:57]
+tutor: Then what did we do? Then  [00:29:57]
+student: we added 10.  [00:30:00]
+tutor: And then we reached to?  [00:30:02]
+student: 800. Then we added one again. Then that added to 80...  [00:30:06]
+tutor: 801.  [00:30:16]
+student: 801.  [00:30:17]
+tutor: Which was our final [unclear] destination, right?  [00:30:19]
+student: And then we done 10, add one, add one. And 10 add 1 add 1 is 12.  [00:30:24]
+tutor: Alright, that's a very nice way of explaining your answers to me, Callum. So if you get a question like this once again, will you be able to work it out by yourself? Can you work it out by yourself?  [00:30:30]
+student: No.  [00:30:45]
+tutor: No? Why is it?  [00:30:46]
+student: Because it's hard. [unclear]  [00:30:50]
+tutor: Is it hard? It's just finding the difference. That means to see how much more we need to go to go to that number. Either you can jump and go, or else you can use your fingers and count and go. Will it be difficult to do that? [unclear]  [00:30:52]
+tutor: It won't be very difficult, right? Okay, so I want you to try this method once again. So here we are going to the next, uh, SAT style question set. Okay, now this time this is question 5 and 6. This time we have to use the inverse. Okay, so they have asked us to use the inverse. Now can you first read the calculation for me?  [00:31:16]
+student: 10 at [unclear] equals 1,405. I mean 405.  [00:31:43]
+tutor: 405, right? So 10 add something is equal to 405. So they're asking us to use the inverse. So what is the calculation? We have addition, right? So what is the inverse of addition?  [00:31:51]
+student: [unclear]  [00:32:04]
+tutor: Subtraction. So how should we use subtraction to find the missing number here?  [00:32:05]
+background: How do you know what the answer is?  [00:32:12]
+tutor: Okay, what's the answer?  [00:32:15]
+student: 400... 405.  [00:32:18]
+tutor: Okay, so answer already is 405 for here, but what is the missing number? You have... you already have 10, and when you add something, you would get 405. So how would we use the inverse of the addition, which is subtraction?  [00:32:24]
+tutor: The answer. Have you used the inverse? [unclear] Okay, right. So let's go through this together quickly. Okay, so we can use the inverse to solve calculations with the missing numbers. Now we have 10 add something is 405, so we know  [00:32:41]
+tutor: Inverse of addition is subtraction, right? So we know something add 10 is 405. So as using the inverse or the opposite, what we can do is instead of adding this 10, we can take away because it is the opposite of doing the same. So we are adding 10, but instead of adding 10, we are using the inverse. So we are going to take away 10 from 405. So what happens if you take away 10 from 405?  [00:33:13]
+tutor: That is the answer you would come with. [unclear] 405 take away 10. What is 405 take away 5? 405 take away 5, just 5. [unclear]  [00:33:45]
+student: I know the answer.  [00:34:18]
+tutor: Yes, what is the answer?  [00:34:20]
+student: Uh, 495.  [00:34:23]
+tutor: Uh-huh. It's not 495, but you came up with a very, uh, close answer. This would be 390. Because can it be 495 when you subtract?  [00:34:26]
+tutor: Subtract means the number becomes smaller, right? It can't become bigger. Now we have 405. If you take away 10, can it become 495?  [00:34:41]
+student: No.  [00:34:53]
+tutor: No, right? So this answer is 395. Okay, let's try the next one. What does the question say? Something take away—  [00:34:55]
+background: 206. [unclear]  [00:35:07]
+student: 262.  [00:35:12]
+tutor: Okay, 262 is equal to 328. So how would we use the inverse of subtraction? Now here the calculation is subtraction, so what is the inverse of subtraction?  [00:35:13]
+student: Addition.  [00:35:25]
+tutor: How can you use addition? If you subtract 262, what is addition then? What is the opposite of doing that? [unclear]  [00:35:27]
+tutor: We need to— [unclear]  [00:35:38]
+student: So, I mean, add 262 to 328 because 328 is the answer. Find the missing number because we have a subtraction calculation. We know inverse of it is addition, so we can add them and see what is the number. 262 to 328. [unclear]  [00:35:41]
+tutor: 10.  [00:36:11]
+student: 10.  [00:36:17]
+tutor: 10. So we need to regroup. So 6 add 2 is?  [00:36:18]
+student: 8.  [00:36:22]
+tutor: 8. Add the 1 is?  [00:36:24]
+student: 9.  [00:36:26]
+tutor: 9. Then 3 add 2 is 5. So the answer is 530.  [00:36:27]
+tutor: 90. Okay, now can you do this slide here by yourself? Can you use the inverse and work this out? Something add 60 is equal to 782. [unclear]  [00:36:32]
+tutor: Callum, can you tell me the method what we can use? What is the inverse of addition? [unclear]  [00:37:05]
+student: I know.  [00:37:17]
+background: It's time to end our session, Callum.  [00:37:23]
+tutor: Before that, can you tell me? [unclear] What is the inverse of addition?  [00:37:26]
+student: Subtraction.  [00:37:34]
+tutor: Subtraction. So what happens when you subtract 60? Because it is add 60 here, so inverse, it subtracts 60. What happens if you subtract 60 from 782? You would end up with 722. All right, Callum. So we are not— we don't have enough time to complete this lesson today, and since it's the second week of this lesson, I'm going to mark this as completed. So you can do the quizzes at the end of the session. Okay, so can you just tell me two methods, few strategies, what we use today to work out addition and subtraction calculations mentally? [unclear]  [00:37:38]
+tutor: Callum, can you tell me something what we learned today?  [00:38:28]
+student: We learned doing [UNCLEAR].  [00:38:35]
+tutor: Okay.  [00:38:35]
+student: Alright, okay, sorry.  [00:38:40]
+tutor: Uh-huh. So it's time to end the session then, so I hope that you would read the questions and do it, then I'll see you again next time, okay? [unclear] Alright, have a good day, bye-bye.  [00:38:51]
+student: Bye.  [00:39:05]
+tutor: Bye.  [00:39:06]
