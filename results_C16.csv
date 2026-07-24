@@ -1,0 +1,3885 @@
+response_id,session_id,prompt_name,prompt_hash,probability,raw_content,error,elapsed_sec,attempts
+kdwihol,kmerrzd,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 2,
+      ""label"": ""mixed question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 2,
+      ""label"": ""mixed task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,32.07,1
+dauxfyr,gczysty,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 4,
+      ""label"": ""exceptional task persistence""
+    },
+    ""CE"": {
+      ""score"": 3,
+      ""label"": ""strong constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 3,
+      ""label"": ""strong retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 2,
+      ""label"": ""mixed teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 2,
+      ""label"": ""mixed learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 1,
+      ""label"": ""weak productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 4,
+      ""label"": ""exceptional engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,22.81,1
+hhntuet,gitfpzq,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.23,1
+gclnknm,kzqayug,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 3,
+      ""label"": ""strong scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 4,
+      ""label"": ""exceptional task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 3,
+      ""label"": ""strong retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 3,
+      ""label"": ""strong learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 3,
+      ""label"": ""strong productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 4,
+      ""label"": ""exceptional engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,22.4,1
+iahatcl,mbtiehl,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.72,1
+gtpzatd,hckfagf,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.94,1
+mmtdpna,bjlsops,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,21.23,1
+iilkmwq,lsmftoc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,23.56,1
+lpnvfzp,lffabab,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 4, ""label"": ""exceptional task persistence""},
+    ""CE"": {""score"": 4, ""label"": ""exceptional constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 3, ""label"": ""strong learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 4, ""label"": ""exceptional engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,18.57,1
+nmfsaln,hggezne,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,15.92,1
+hdmvkpo,kmwkdgg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 4, ""label"": ""exceptional feedback uptake""},
+    ""FT"": {""score"": 3, ""label"": ""strong feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 4, ""label"": ""exceptional task persistence""},
+    ""CE"": {""score"": 4, ""label"": ""exceptional constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 3, ""label"": ""strong learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 4, ""label"": ""exceptional engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,18.75,1
+cvtkndi,frofdvk,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.42,1
+cdqxbmm,ccbnbjk,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 1, ""label"": ""weak retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.4,1
+fgjewwq,ksggvxp,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 4, ""label"": ""exceptional constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.06,1
+gbpowpb,jhqynmx,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.35,1
+hbcmmrz,aprpukp,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 2, ""label"": ""mixed feedback quality""},
+    ""PCL"": {""score"": 1, ""label"": ""weak productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.76,1
+atcpqts,mvdrgom,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.48,1
+gamtxfd,atvfdwy,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,21.35,1
+gslurxf,ejedyoy,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.35,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 1, ""label"": ""weak error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 1, ""label"": ""weak retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 2, ""label"": ""mixed feedback quality""},
+    ""PCL"": {""score"": 1, ""label"": ""weak productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,19.37,1
+afylzjc,mrnbnbv,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,22.21,1
+emptmah,fownkzg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 2,
+      ""label"": ""mixed question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 2,
+      ""label"": ""mixed task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 1,
+      ""label"": ""weak retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,21.92,1
+ffhopot,kapzcmc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,22.2,1
+djobcap,dbxeflv,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,16.41,1
+ivzucks,aezsuia,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,15.76,1
+btsgrvw,dajhwat,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.35,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 2,
+      ""label"": ""mixed task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 1,
+      ""label"": ""weak retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 0,
+      ""label"": ""minimal learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 1,
+      ""label"": ""weak productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,23.53,1
+gywxsvs,mpaavdj,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 4,
+      ""label"": ""exceptional teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,21.64,1
+lgpggqo,dpkjqyh,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,18.04,1
+crmwiwp,gcbuvuo,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 1,
+      ""label"": ""weak task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,22.01,1
+cypchuv,kaqltfw,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.6,1
+bvcfqxt,hvjqscv,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,21.73,1
+dyibtmn,fuhpcwb,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.98,1
+efzwljk,buluftd,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 2, ""label"": ""mixed question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.01,1
+amzefau,bjmbkbk,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.46,1
+ccqctgc,aasgyqv,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,23.55,1
+dfyqxzq,euttpje,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.72,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 4,
+      ""label"": ""exceptional task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 3,
+      ""label"": ""strong retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 4,
+      ""label"": ""exceptional teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 2,
+      ""label"": ""mixed learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 3,
+      ""label"": ""strong productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,22.14,1
+gkefvhy,ikezgtf,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 2,
+      ""label"": ""mixed task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,21.98,1
+kvmznke,mljalxj,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 2,
+      ""label"": ""mixed question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,24.1,1
+mlvevgx,jgqsveu,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.72,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 4, ""label"": ""exceptional task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 4, ""label"": ""exceptional engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,17.48,1
+dompvyd,hvtmrcb,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.72,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 4, ""label"": ""exceptional task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 4, ""label"": ""exceptional engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,19.43,1
+krwqgst,fakxffb,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,13.88,1
+bvcgjmn,hecgnna,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.95,1
+aepfvaj,eqoknie,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.32,1
+mgtntwl,mjsnlfi,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 3, ""label"": ""strong learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.1,1
+feobuof,ghvcxqk,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,16.66,1
+makjkku,izxtnqe,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.4,1
+dwqgkhy,druvekb,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,20.03,1
+iwykwvx,hnyealg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 1, ""label"": ""weak teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 2, ""label"": ""mixed feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,15.52,1
+fzoxnca,boayflb,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.04,1
+eodewmn,fdrxfif,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.35,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 0,
+      ""label"": ""minimal metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 2,
+      ""label"": ""mixed task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 1,
+      ""label"": ""weak retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 0,
+      ""label"": ""minimal learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.35
+  }
+}",,23.02,1
+dxwweug,mnbcozv,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.99,1
+gzblekb,ccnesdy,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 3,
+      ""label"": ""strong metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,21.53,1
+iehkgsd,nloaqpp,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,19.31,1
+hdfenmh,enzxozt,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.55,1
+gkkbntc,jkxshag,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 1,
+      ""label"": ""weak retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 4,
+      ""label"": ""exceptional teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 0,
+      ""label"": ""minimal learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,22.12,1
+ndtoupf,cvezjol,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": null, ""label"": ""not observable""},
+    ""SFS"": {""score"": null, ""label"": ""not observable""},
+    ""IFU"": {""score"": null, ""label"": ""not observable""},
+    ""FT"": {""score"": null, ""label"": ""not observable""},
+    ""ERR"": {""score"": null, ""label"": ""not observable""},
+    ""LQD"": {""score"": null, ""label"": ""not observable""},
+    ""MM"": {""score"": null, ""label"": ""not observable""},
+    ""SRF"": {""score"": null, ""label"": ""not observable""},
+    ""PTD"": {""score"": null, ""label"": ""not observable""},
+    ""CE"": {""score"": null, ""label"": ""not observable""},
+    ""RRE"": {""score"": null, ""label"": ""not observable""},
+    ""TC"": {""score"": null, ""label"": ""not observable""},
+    ""TR"": {""score"": null, ""label"": ""not observable""},
+    ""FSE"": {""score"": null, ""label"": ""not observable""},
+    ""PCL"": {""score"": null, ""label"": ""not observable""},
+    ""ESR"": {""score"": null, ""label"": ""not observable""}
+  },
+  ""achievement"": {
+    ""probability"": null
+  }
+}",,13.38,1
+ipasimy,ermsqmw,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,21.6,1
+kjzixgw,eadzmts,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.72,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.72
+  }
+}",,16.41,1
+kuikycl,mmupsct,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.58,1
+mpnictg,irmbphf,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.96,1
+ixmwcrt,mynqirh,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 4,
+      ""label"": ""exceptional teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,21.78,1
+eorynsz,lwltbwi,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.7,1
+inwjppw,jectuft,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.08,1
+bqvialw,cmspimw,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.56,1
+mutbpma,agbrbao,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,17.25,1
+kmdajap,dfkstid,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,23.77,1
+ghxygyd,hfyjylk,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,19.44,1
+hajobyw,cjiwhcy,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.05,1
+lxfpqtr,dvyqhjf,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 1, ""label"": ""weak teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 1, ""label"": ""weak feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,14.32,1
+gmwzqqo,fmaitvc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 0,
+      ""label"": ""minimal metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,20.41,1
+myhqduu,mnmwlha,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,22.32,1
+dmuvzxy,iazzphj,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,15.76,1
+bqvjshq,nehqlih,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 3, ""label"": ""strong scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.37,1
+htpavyv,gbfhfdj,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.43,1
+fnocpuz,exgkjap,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.66,1
+cdxqmde,gvyprrc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 0, ""label"": ""minimal constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.98,1
+ervrqmn,egamjeq,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,23.46,1
+jjvqkbp,mvbiikq,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,23.92,1
+craxqtb,fcejvel,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.59,1
+klvgffp,jellkmj,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 4, ""label"": ""exceptional feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,17.5,1
+fhmzzqd,hplatpg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 1, ""label"": ""weak error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 0, ""label"": ""minimal metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.54,1
+gbhcmro,gezwcct,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 1, ""label"": ""weak error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,17.31,1
+jhagdcr,jcygafu,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.53,1
+hyiqmhr,dknqkwc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 3,
+      ""label"": ""strong constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 2,
+      ""label"": ""mixed learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 3,
+      ""label"": ""strong productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,22.43,1
+hourplm,mcxhnbc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 1,
+      ""label"": ""weak strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,20.8,1
+kjxxuij,cypnksx,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 2,
+      ""label"": ""mixed metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 2,
+      ""label"": ""mixed constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 3,
+      ""label"": ""strong retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 4,
+      ""label"": ""exceptional teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 2,
+      ""label"": ""mixed learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 3,
+      ""label"": ""strong productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,22.67,1
+gydwvpg,lecbpmg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.77,1
+dhikiuk,mictpwi,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,17.74,1
+jlskiau,dodtqwx,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 3, ""label"": ""strong error reduction""},
+    ""LQD"": {""score"": 3, ""label"": ""strong question diagnosticity""},
+    ""MM"": {""score"": 3, ""label"": ""strong metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.11,1
+mpbkcip,nclzfnn,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,19.26,1
+aqkwylp,cxpxpkc,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.65,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 3, ""label"": ""strong engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.65
+  }
+}",,18.35,1
+mdbfquf,myyqlcw,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 1,
+      ""label"": ""weak question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 0,
+      ""label"": ""minimal metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 1,
+      ""label"": ""weak task persistence""
+    },
+    ""CE"": {
+      ""score"": 0,
+      ""label"": ""minimal constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 1,
+      ""label"": ""weak engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,23.39,1
+hgvkapp,jlazjjg,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.19,1
+nejbwfe,isxpuay,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 1,
+      ""label"": ""weak scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 2,
+      ""label"": ""mixed feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 1,
+      ""label"": ""weak error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 2,
+      ""label"": ""mixed engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,22.16,1
+hacaufu,hjogifm,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 2,
+      ""label"": ""mixed improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 2,
+      ""label"": ""mixed scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 3,
+      ""label"": ""strong feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 1,
+      ""label"": ""weak feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 2,
+      ""label"": ""mixed error reduction""
+    },
+    ""LQD"": {
+      ""score"": 0,
+      ""label"": ""minimal question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 1,
+      ""label"": ""weak metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 2,
+      ""label"": ""mixed strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 3,
+      ""label"": ""strong task persistence""
+    },
+    ""CE"": {
+      ""score"": 1,
+      ""label"": ""weak constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 2,
+      ""label"": ""mixed retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 1,
+      ""label"": ""weak learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 2,
+      ""label"": ""mixed productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 3,
+      ""label"": ""strong engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,20.79,1
+nmzlmuw,fktxwar,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.75,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 3, ""label"": ""strong improvement trajectory""},
+    ""SFS"": {""score"": 2, ""label"": ""mixed scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 2, ""label"": ""mixed feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 2, ""label"": ""mixed metacognitive monitoring""},
+    ""SRF"": {""score"": 3, ""label"": ""strong strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 3, ""label"": ""strong constructive elaboration""},
+    ""RRE"": {""score"": 3, ""label"": ""strong retrieval effort""},
+    ""TC"": {""score"": 2, ""label"": ""mixed teacher contingency""},
+    ""TR"": {""score"": 2, ""label"": ""mixed learner responsibility""},
+    ""FSE"": {""score"": 2, ""label"": ""mixed feedback quality""},
+    ""PCL"": {""score"": 3, ""label"": ""strong productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.75
+  }
+}",,18.06,1
+kbfmjiz,glozcug,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 1, ""label"": ""weak error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,17.41,1
+emwcrkp,lymqjye,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.55,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 0, ""label"": ""minimal question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.55
+  }
+}",,16.54,1
+kcvvtrw,jfbvujd,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.85,"{
+  ""dimensions"": {
+    ""PIT"": {
+      ""score"": 3,
+      ""label"": ""strong improvement trajectory""
+    },
+    ""SFS"": {
+      ""score"": 3,
+      ""label"": ""strong scaffold fading""
+    },
+    ""IFU"": {
+      ""score"": 4,
+      ""label"": ""exceptional feedback uptake""
+    },
+    ""FT"": {
+      ""score"": 3,
+      ""label"": ""strong feedback transfer""
+    },
+    ""ERR"": {
+      ""score"": 3,
+      ""label"": ""strong error reduction""
+    },
+    ""LQD"": {
+      ""score"": 2,
+      ""label"": ""mixed question diagnosticity""
+    },
+    ""MM"": {
+      ""score"": 3,
+      ""label"": ""strong metacognitive monitoring""
+    },
+    ""SRF"": {
+      ""score"": 3,
+      ""label"": ""strong strategy revision""
+    },
+    ""PTD"": {
+      ""score"": 4,
+      ""label"": ""exceptional task persistence""
+    },
+    ""CE"": {
+      ""score"": 3,
+      ""label"": ""strong constructive elaboration""
+    },
+    ""RRE"": {
+      ""score"": 3,
+      ""label"": ""strong retrieval effort""
+    },
+    ""TC"": {
+      ""score"": 3,
+      ""label"": ""strong teacher contingency""
+    },
+    ""TR"": {
+      ""score"": 3,
+      ""label"": ""strong learner responsibility""
+    },
+    ""FSE"": {
+      ""score"": 3,
+      ""label"": ""strong feedback quality""
+    },
+    ""PCL"": {
+      ""score"": 3,
+      ""label"": ""strong productive challenge""
+    },
+    ""ESR"": {
+      ""score"": 4,
+      ""label"": ""exceptional engagement stability""
+    }
+  },
+  ""achievement"": {
+    ""probability"": 0.85
+  }
+}",,22.08,1
+dtnpjmm,diyexko,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 3, ""label"": ""strong feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 2, ""label"": ""mixed strategy revision""},
+    ""PTD"": {""score"": 3, ""label"": ""strong task persistence""},
+    ""CE"": {""score"": 1, ""label"": ""weak constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 4, ""label"": ""exceptional teacher contingency""},
+    ""TR"": {""score"": 0, ""label"": ""minimal learner responsibility""},
+    ""FSE"": {""score"": 3, ""label"": ""strong feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 2, ""label"": ""mixed engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,18.16,1
+bqctbub,gyatrag,C16,beb3e8de7e3e4d23dd7b06412eaf19ba2737d9ade5d5ce61431790238fd94118,0.45,"{
+  ""dimensions"": {
+    ""PIT"": {""score"": 2, ""label"": ""mixed improvement trajectory""},
+    ""SFS"": {""score"": 1, ""label"": ""weak scaffold fading""},
+    ""IFU"": {""score"": 2, ""label"": ""mixed feedback uptake""},
+    ""FT"": {""score"": 1, ""label"": ""weak feedback transfer""},
+    ""ERR"": {""score"": 2, ""label"": ""mixed error reduction""},
+    ""LQD"": {""score"": 1, ""label"": ""weak question diagnosticity""},
+    ""MM"": {""score"": 1, ""label"": ""weak metacognitive monitoring""},
+    ""SRF"": {""score"": 1, ""label"": ""weak strategy revision""},
+    ""PTD"": {""score"": 2, ""label"": ""mixed task persistence""},
+    ""CE"": {""score"": 2, ""label"": ""mixed constructive elaboration""},
+    ""RRE"": {""score"": 2, ""label"": ""mixed retrieval effort""},
+    ""TC"": {""score"": 3, ""label"": ""strong teacher contingency""},
+    ""TR"": {""score"": 1, ""label"": ""weak learner responsibility""},
+    ""FSE"": {""score"": 2, ""label"": ""mixed feedback quality""},
+    ""PCL"": {""score"": 2, ""label"": ""mixed productive challenge""},
+    ""ESR"": {""score"": 1, ""label"": ""weak engagement stability""}
+  },
+  ""achievement"": {
+    ""probability"": 0.45
+  }
+}",,16.64,1

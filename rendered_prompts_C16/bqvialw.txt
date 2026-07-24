@@ -1,0 +1,465 @@
+C16 — Learning-Process Indicators
+
+Evaluate the learning process visible in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+PIT: Performance-improvement trajectory
+
+SFS: Scaffold-fading success
+
+IFU: Immediate feedback uptake
+
+FT: Feedback transfer
+
+ERR: Error-recurrence reduction
+
+LQD: Learner-question diagnosticity
+
+MM: Metacognitive monitoring
+
+SRF: Strategy revision after failure
+
+PTD: Persistence through difficulty
+
+CE: Constructive elaboration
+
+RRE: Retrieval and reconstruction effort
+
+TC: Teacher contingency
+
+TR: Transfer of responsibility
+
+FSE: Feedback specificity and explanatory value
+
+PCL: Productive challenge level
+
+ESR: Engagement stability and recovery
+
+Higher scores mean a stronger learning process. Use the sequence of tutor and learner turns to distinguish repetition, supported success, feedback uptake, reduced support, and later transfer.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+PIT: `improvement trajectory`
+
+SFS: `scaffold fading`
+
+IFU: `feedback uptake`
+
+FT: `feedback transfer`
+
+ERR: `error reduction`
+
+LQD: `question diagnosticity`
+
+MM: `metacognitive monitoring`
+
+SRF: `strategy revision`
+
+PTD: `task persistence`
+
+CE: `constructive elaboration`
+
+RRE: `retrieval effort`
+
+TC: `teacher contingency`
+
+TR: `learner responsibility`
+
+FSE: `feedback quality`
+
+PCL: `productive challenge`
+
+ESR: `engagement stability`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "PIT": {"score": 0, "label": "minimal improvement trajectory"},
+    "SFS": {"score": 0, "label": "minimal scaffold fading"},
+    "IFU": {"score": 0, "label": "minimal feedback uptake"},
+    "FT": {"score": 0, "label": "minimal feedback transfer"},
+    "ERR": {"score": 0, "label": "minimal error reduction"},
+    "LQD": {"score": 0, "label": "minimal question diagnosticity"},
+    "MM": {"score": 0, "label": "minimal metacognitive monitoring"},
+    "SRF": {"score": 0, "label": "minimal strategy revision"},
+    "PTD": {"score": 0, "label": "minimal task persistence"},
+    "CE": {"score": 0, "label": "minimal constructive elaboration"},
+    "RRE": {"score": 0, "label": "minimal retrieval effort"},
+    "TC": {"score": 0, "label": "minimal teacher contingency"},
+    "TR": {"score": 0, "label": "minimal learner responsibility"},
+    "FSE": {"score": 0, "label": "minimal feedback quality"},
+    "PCL": {"score": 0, "label": "minimal productive challenge"},
+    "ESR": {"score": 0, "label": "minimal engagement stability"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Knowing the value of each digit in numbers with up to 2 decimal places.
+
+CONVERSATION:
+background: [unclear]  [00:00:00]
+tutor: Hello?  [00:00:00]
+student: Hello? [unclear] [unclear]  [00:00:03]
+tutor: [UNCLEAR] [unclear]  [00:00:03]
+tutor: [unclear] [unclear]  [00:00:03]
+student: [unclear] [unclear]  [00:00:40]
+student: [unclear]  [00:00:56]
+tutor: Hello.  [00:01:09]
+student: Hello.  [00:01:11]
+tutor: Hi, can you hear me? Hello, can you hear me? [unclear]  [00:01:14]
+student: [UNCLEAR]  [00:01:14]
+tutor: Fine.  [00:01:29]
+tutor: Can you hear me?  [00:01:57]
+student: Hello?  [00:02:00]
+tutor: Hello, yes, you can hear me?  [00:02:02]
+student: Hello? [unclear]  [00:02:04]
+tutor: Yes, can you hear me?  [00:02:07]
+student: Could you hear me?  [00:02:11]
+tutor: Hello?  [00:02:30]
+student: Hello, can you hear me now?  [00:02:30]
+tutor: Yes, I can hear you.  [00:02:32]
+student: All right, all right, you can hear me, right? [unclear] Just give me a minute.  [00:02:36]
+tutor: Yeah, I could hear you now.  [00:02:42]
+student: You can hear me now?  [00:02:44]
+tutor: Yeah.  [00:02:46]
+student: Okay.  [00:02:46]
+tutor: We'll start off with the lesson. Can you see the slide? [unclear] Okay. So today we go to—  [00:02:46]
+tutor: Today we will continue from where we stopped. All right, can you try the learning [UNCLEAR]? Let's see if you remember. [unclear]  [00:03:24]
+tutor: Hello?  [00:03:51]
+student: I can't hear you.  [00:03:53]
+tutor: Hello, can you try the Duolingo question, please? [unclear] [unclear]  [00:03:54]
+student: [unclear] [unclear]  [00:04:04]
+student: [unclear] [unclear]  [00:04:23]
+student: Yeah, it's in the 10th column. Very good. But they're asking for the value. They didn't ask for the name of the column, right? So if I ask you what is the value of 3, you're going to say it's 30. If I ask what's the value of 5, you're going to say it's just 5. What's the value of 8? 0.08. And what's the value of 2? 0.2. All right? [unclear]  [00:04:48]
+tutor: Okay. Now we move on to where we stopped. [unclear]  [00:05:16]
+tutor: Okay. Can we try this slide? Go on.  [00:05:33]
+student: Yeah.  [00:05:36]
+tutor: Good, very good, excellent, very good. Is that clear? Do you understand? Okay, now let's try this. [unclear] [unclear]  [00:06:45]
+tutor: You can match it, okay?  [00:07:32]
+student: Okay.  [00:07:44]
+tutor: I can't hear you. Can you please bring your microphone to your mouth, closer to your mouth, because I can't hear you at all. [unclear]  [00:07:44]
+tutor: Hello? Hello? Hello?  [00:07:59]
+student: Hello?  [00:08:10]
+tutor: Can you hear me?  [00:08:12]
+student: Yeah. Yes.  [00:08:14]
+tutor: Can you speak again?  [00:08:16]
+student: Yes.  [00:08:18]
+tutor: Okay. Are you using a headset?  [00:08:19]
+student: Yeah.  [00:08:23]
+tutor: Okay. Do you have a microphone in your headset?  [00:08:24]
+student: Yes.  [00:08:31]
+tutor: You know, like a little speaker which you can speak into?  [00:08:34]
+student: Yes.  [00:08:37]
+tutor: Okay. Is it closer to your mouth?  [00:08:38]
+student: It is, but it's kind of like whenever I [unclear] and then it becomes  [00:08:41]
+tutor: Is it fine if you can ask your teacher that— can you just say that it's not clear? You seem to be far away. Is it fine if you could bring your microphone closer to your mouth? [unclear] [unclear]  [00:08:49]
+tutor: She can't hear. She can hear you, but she can't hear you at all. [unclear]  [00:09:19]
+student: What? She can hear you a little bit. Is it fun if you can match them? [unclear]  [00:09:35]
+tutor: Okay, go on, please. [unclear]  [00:09:59]
+tutor: Good. Good. Okay, is it clear?  [00:10:04]
+student: Yes.  [00:10:35]
+tutor: Okay, you need to speak a little louder, okay? Because I really can't hear you, okay? Maybe there's something wrong with the headphones, yeah? [unclear] Okay, okay, so we're going to do comparing numbers with up to 2 decimal places using money, okay?  [00:10:36]
+tutor: Can you try the learning goal question? [unclear]  [00:10:54]
+tutor: Okay, can you tell me why is that bigger? [unclear]  [00:11:49]
+student: Sorry, one second. [unclear]  [00:12:12]
+tutor: Yes, it is that. Can you tell me why? Why did you think the previous answer was incorrect? [unclear]  [00:12:22]
+tutor: Okay. Because can you tell me why is this greater than this? [unclear]  [00:13:02]
+tutor: Hello?  [00:13:17]
+student: Yes, tell me.  [00:13:17]
+tutor: It's great to learn that because 5.03, that's a hell of a way to go. And it's like kind of near to the whole number.  [00:13:19]
+tutor: Mm-hmm.  [00:13:34]
+student: Okay, I really can't hear you. Is it fine if I can speak to a teacher?  [00:13:35]
+tutor: Okay. [unclear]  [00:13:41]
+student: [UNCLEAR]  [00:13:41]
+tutor: Yeah?  [00:14:34]
+student: She says she can't hear me back. I mean, she can't hear me back on that. She said... [unclear]  [00:14:35]
+tutor: Hello?  [00:15:05]
+student: Hello?  [00:15:05]
+tutor: Can I speak to the Teacher? Yeah, can I just speak to the Teacher?  [00:15:07]
+tutor: Can you speak now? [unclear]  [00:15:22]
+tutor: Can you hear me now?  [00:16:05]
+student: Yeah. [unclear]  [00:16:28]
+tutor: Okay, can I just ask you, do you use a headphone?  [00:16:31]
+student: Yes.  [00:16:34]
+tutor: Okay. Do you have an extra pair of headset?  [00:16:37]
+student: [unclear]  [00:16:44]
+tutor: Is it possible to get a new pair of headset? Because it's a little difficult to continue the lesson because I can't hear anything what you're saying.  [00:16:45]
+tutor: Because my volume is also 200. [unclear] [unclear]  [00:16:56]
+tutor: Okay.  [00:17:24]
+tutor: Hello, good afternoon.  [00:17:50]
+student: Speak again. [unclear]  [00:17:52]
+tutor: Can you speak again, please? [unclear]  [00:17:57]
+student: Okay, okay.  [00:18:02]
+tutor: Okay, can we try this question now, please?  [00:18:05]
+tutor: Hello, yes. Can we try this question?  [00:18:37]
+student: [unclear]  [00:18:40]
+tutor: Okay, go on. Is that correct? [unclear]  [00:18:40]
+tutor: Yes, it is. Good job.  [00:19:24]
+student: Okay. Is it correct now? [unclear]  [00:19:26]
+tutor: This one is good, but the last one, can you recheck your last one?  [00:19:45]
+student: Okay.  [00:19:49]
+tutor: Yes, that's correct. Is that clear?  [00:20:02]
+student: Yeah.  [00:20:04]
+tutor: Okay. Okay, we'll move on to the last one. Okay, can we try this now? [unclear] [unclear]  [00:20:06]
+student: I don't understand the question.  [00:20:31]
+tutor: Okay, so there's 6. So do you know 20 bees, right?  [00:20:35]
+student: Yeah, yeah.  [00:20:40]
+tutor: There are 6 of these.  [00:20:41]
+student: Oh, okay.  [00:20:43]
+tutor: And do you know 5 bees?  [00:20:44]
+student: Yeah.  [00:20:46]
+tutor: Yes, ma'am. There are 23 of these.  [00:20:47]
+student: Okay.  [00:20:49]
+tutor: And there are 6 of these. So you need to find 6 of these 20s and 23 of these 5s. How much are they? Together— [unclear] Not together. Just find this separately and this separately. Okay? And you're going to compare them. Alright?  [00:20:50]
+student: Uh-huh.  [00:21:09]
+tutor: Is it clear now?  [00:21:10]
+student: Yeah.  [00:21:12]
+tutor: Okay, great. [unclear] [unclear]  [00:21:13]
+student: For the second one, is it 115?  [00:22:25]
+student: Yes, the second one is 115. But the first one is not wrong. This is 6, right? 6 of those 20 [UNCLEAR].  [00:22:30]
+background: Oh, okay. [unclear]  [00:22:30]
+tutor: Not 126. Did you say 126?  [00:23:05]
+student: Huh?  [00:23:10]
+tutor: Did you say 126?  [00:23:11]
+student: Yeah.  [00:23:15]
+tutor: It's not 126.  [00:23:17]
+student: Oh, okay. [unclear]  [00:23:21]
+student: It's 120.  [00:23:34]
+tutor: Yes, it's 120. Okay. Now can you tell me how would you write 120p in pounds?  [00:23:38]
+student: In pounds.  [00:23:47]
+tutor: Mm-hmm. And 116K in pounds. [unclear]  [00:23:48]
+student: Is it like 120 pounds?  [00:24:08]
+student: No. So 100p is 1 pound.  [00:24:13]
+tutor: Yeah, so 200p...  [00:24:19]
+student: So if we have 130p, it's pound 1.30. Now what do you think is the answer for these two?  [00:24:21]
+background: Is it 1.20?  [00:24:31]
+student: Very good, it's going to be 1.20.  [00:24:34]
+tutor: Next.  [00:24:39]
+student: The next one is 1.15.  [00:24:39]
+tutor: 1.15. Can you write both of those answers here and here?  [00:24:45]
+student: Uh-huh.  [00:24:49]
+tutor: It's 2, not 3, remember? And make sure you write the pounds. And make sure you write the pounds as well.  [00:24:50]
+student: Uh-huh.  [00:24:58]
+tutor: All right?  [00:24:58]
+student: Yeah.  [00:24:59]
+tutor: Done. OK, is that clear?  [00:25:03]
+student: Yeah.  [00:25:34]
+tutor: OK, now what are they asking? Read this question.  [00:25:36]
+student: Write the two amounts in pounds and circle the greatest amount.  [00:25:40]
+tutor: Did you write them in pounds?  [00:25:48]
+student: Yeah.  [00:25:51]
+tutor: Yeah, then what's left to do in that case?  [00:25:53]
+student: Write the greatest amount.  [00:25:57]
+tutor: Mm-hmm. Right, circle the greatest amount. So what's the [UNCLEAR]? Which one are you going to circle in this case? Before you circle, can you tell me?  [00:26:00]
+student: 1,020p.  [00:26:00]
+tutor: Very good. Well done. Is that clear?  [00:26:16]
+student: Yes.  [00:26:19]
+tutor: Okay, well done. So we are almost done now.  [00:26:21]
+tutor: We will be moving on for the next lesson. All right?  [00:26:25]
+student: Okay. Yeah.  [00:26:29]
+tutor: Okay. Can you try the Leningrad question, please?  [00:26:39]
+student: Okay. Is it this? [unclear]  [00:26:43]
+tutor: Mm-hmm.  [00:27:13]
+tutor: Very good, yes it is. Well done. Okay, can we try this slide? Go on.  [00:27:15]
+student: Yeah, sure. [unclear] Should I write this? Oh wait, do you write over here for this question?  [00:27:21]
+tutor: Yes, yes, please.  [00:27:37]
+student: Okay. [unclear]  [00:27:39]
+student: It's deep by [UNCLEAR].  [00:27:56]
+student: Well, can I come back to this question?  [00:28:32]
+tutor: Okay, yeah, it's fine. [unclear]  [00:28:36]
+student: A kind step of 12 equals one point [UNCLEAR].  [00:29:10]
+student: I don't understand it. So... [unclear] [unclear]  [00:29:26]
+student: I don't understand this.  [00:29:53]
+tutor: You don't understand?  [00:29:59]
+student: Yeah.  [00:30:01]
+tutor: Yeah, definitely, definitely. Okay, first we will go to this one, okay? Have you seen this Guita Niyachar before?  [00:30:01]
+student: Yes.  [00:30:09]
+tutor: Yes, you have? All right, that's great. So do you know how does a Guita Niyachar work? Okay, [unclear]  [00:30:10]
+tutor: let's see. It's okay. Let's see. See the number 1? Yeah.  [00:30:20]
+student: When  [00:30:24]
+tutor: you go up, how many times bigger is it? When  [00:30:24]
+student: [UNCLEAR]  [00:30:24]
+tutor: you go up from 1, when you look up, it's 10 times bigger, right? Yeah.  [00:30:34]
+student: So  [00:30:38]
+tutor: when you go from 2 to 20, it's 10 times bigger. And every time you move up, It's 10 times bigger. But when you go down, it's 10 times smaller. What do you notice? The number here and then the number that is shaded here. What do you notice?  [00:30:38]
+student: Like 0.05 is in a different column and 0.9 is in a different column.  [00:30:58]
+tutor: Mm-hmm. Very good. So they're [UNCLEAR]. Based on their place values, they have written correct. And we need to times by 100. Do you think it's going to go up or it's going to go down?  [00:31:07]
+student: Down.  [00:31:18]
+tutor: It's going to go up because we're multiplying. The number gets bigger.  [00:31:19]
+student: Oh, yeah.  [00:31:25]
+tutor: Now we need to figure out, is it going to go 2 times or 1 time up? Is that clear?  [00:31:26]
+student: Yeah.  [00:31:35]
+tutor: So you move 1, 2. Why did I move 2 places? Do you know why?  [00:31:35]
+student: Um, no.  [00:31:42]
+tutor: No? Because it's 100. How many zeros does 100 have?  [00:31:45]
+student: Um, 2.  [00:31:51]
+tutor: 2. Very good. Is that clear?  [00:31:53]
+student: Yeah.  [00:31:56]
+tutor: Did you understand?  [00:31:56]
+student: Yeah.  [00:31:58]
+tutor: So what is the number I got here? 90. And if I move 2 places up, it's 5.  [00:31:58]
+student: 5.  [00:32:04]
+tutor: What does a 90 and a 5 make?  [00:32:05]
+student: 95.  [00:32:08]
+tutor: Very good, it's 95. Excellent. Is that clear? Did you understand?  [00:32:10]
+student: Yes.  [00:32:16]
+tutor: Okay. Okay, so we're almost done with that part. And can you write the number 95 here for me? Go on.  [00:32:18]
+student: One second, let me just erase it. I wrote it too big.  [00:32:37]
+tutor: Yeah, it's okay, take your time. [unclear]  [00:32:40]
+student: Yeah.  [00:33:11]
+tutor: Yeah? OK. Is that clear now? Did you understand?  [00:33:13]
+student: Yeah.  [00:33:17]
+tutor: OK. Now can you try question number 2? So they're saying 543, is it times by 100, or is it times by 10, Or is it divide by 100 or divide by 10? Which of these 4 goes here? And each of it goes to only one space. They can't be repeated. See, they say use each term only once. So what do you think you need to do here?  [00:33:18]
+student: Is it for the first— for A, I think it's divide by 10.  [00:33:45]
+tutor: Mm-hmm.  [00:33:51]
+tutor: For the first one, it's divide by 10. How do you know it's divide by 10? By how many places is it moving?  [00:33:53]
+student: It's moving 2 places.  [00:34:01]
+tutor: It's moving 2 places, okay.  [00:34:05]
+student: And I know it's—  [00:34:10]
+tutor: If it's 2 places, is it 10 or 100?  [00:34:10]
+student: 100? It's 100. Very good. [unclear]  [00:34:12]
+student: Yeah, go on. Yeah, you know, tell me, tell me. It's okay, tell me.  [00:34:24]
+background: So for divided by 10, is it one place?  [00:34:30]
+tutor: If it is divided by 10? Yes, that's correct. One place. And if it is 10, it's one place. Is that clear?  [00:34:37]
+student: Yeah.  [00:34:45]
+tutor: Okay, you got it now, right?  [00:34:49]
+student: Yeah.  [00:34:50]
+tutor: I hope you've understood.  [00:34:51]
+student: Yeah, I did.  [00:34:52]
+tutor: Okay, that's great. You did? Okay.  [00:34:54]
+student: I don't understand B. It says 5.1 [UNCLEAR]. I mean 5.1. 1.5, then it's something equals to 5,150.  [00:35:05]
+tutor: So before that, did this move 2 places or 1 place?  [00:35:19]
+student: Um, it moved 2 places.  [00:35:26]
+tutor: So is it— [unclear]  [00:35:29]
+student: Oh, it's 100.  [00:35:30]
+tutor: 100. Yes, it's 100. Don't forget, okay?  [00:35:32]
+student: Yeah, yeah.  [00:35:38]
+tutor: Okay, it's okay. Is it clear now?  [00:35:42]
+student: Yes. [unclear]  [00:35:53]
+tutor: Okay.  [00:35:54]
+student: So what is for the next one?  [00:36:06]
+tutor: Mm-hmm. What is for the next one? Where do you see 5 here? In which column is it?  [00:36:09]
+student: It's in the tens.  [00:36:18]
+tutor: Tens. But now which column is it in?  [00:36:20]
+student: It's in the thousands.  [00:36:26]
+tutor: It's in the thousands column.  [00:36:29]
+student: Yeah.  [00:36:33]
+tutor: By how many times has it gotten bigger? Has it gotten bigger or smaller? What do you think?  [00:36:34]
+student: [unclear]  [00:36:38]
+tutor: Mm-hmm. It has gotten bigger. So do we times or divide when it's bigger? What do you think?  [00:36:42]
+student: Divide? When you divide, does the number get bigger? No guessing. Think, think and say. No guessing, okay? You need to take it seriously. Go on. [unclear]  [00:36:55]
+student: So is it... [unclear]  [00:37:14]
+student: So is it...  [00:37:26]
+student: Times 10.  [00:37:50]
+tutor: Mm-hmm. We said it's 100, and why did you say again times by 10?  [00:37:53]
+student: Because it— the point— wait, what?  [00:38:00]
+tutor: Mm-hmm. You said it's times by 100. That's correct. And you told me the number is bigger, so it's times. There we go. Is that clear?  [00:38:05]
+student: Yeah.  [00:38:14]
+tutor: Okay. Now let's try C and D. So both of these hundreds are gone. So both of these are going to be tens. Which one is going to be times and which one is going to be divide? Think carefully and say.  [00:38:16]
+student: Okay. [unclear]  [00:38:29]
+student: For 0.12, is it [unclear] times?  [00:38:53]
+tutor: Mm-hmm. 0.12 times, yes, that's correct.  [00:39:08]
+student: And for 0.3, is it divided by 10?  [00:39:14]
+tutor: Mm-hmm. It's divided by 10. Can you write that, please?  [00:39:21]
+student: Yeah.  [00:39:27]
+tutor: Okay, go on. [unclear]  [00:39:27]
+student: Done. Should I do the next one?  [00:39:47]
+tutor: Yes.  [00:39:53]
+student: Okay. [unclear]  [00:39:56]
+student: Is this 14?  [00:40:19]
+tutor: 2?  [00:40:30]
+student: Mm-hmm. Is it 482 or is it [UNCLEAR]?  [00:40:31]
+tutor: Is it?  [00:40:31]
+student: I— oh wait, so it's times by 10, so it's 48.2.  [00:40:38]
+tutor: Mm-hmm.  [00:40:46]
+student: Yes.  [00:40:53]
+background: And for the next one, is it— [unclear]  [00:40:54]
+student: 0.91.  [00:41:01]
+background: Mm-hmm. Okay. How can it be the same answer? So this is— where did you put the decimal in this question? Can you tell me?  [00:41:03]
+student: Over here.  [00:41:16]
+tutor: Mm-hmm. Where? I didn't say. Oh, okay, that's correct. This one, how is the answer the same as it is? When you times it by 100, what do you get?  [00:41:17]
+student: 0.91?  [00:41:31]
+tutor: Mm-hmm. No. That is the equation is 0.91. If you times it by 100, does it say the same?  [00:41:36]
+student: Oh, oh, it's 0.9— [unclear]  [00:41:42]
+tutor: 91?  [00:41:42]
+student: [unclear]  [00:41:42]
+tutor: No. Can you do 0.91 on this? And let's see what comes. You know how to use the Get a New Chart now, right?  [00:41:50]
+student: Yeah, 0.91 is over here.  [00:41:59]
+tutor: Mm-hmm.  [00:42:03]
+student: And times by 100.  [00:42:04]
+tutor: Mm-hmm.  [00:42:06]
+student: So it's 90.  [00:42:16]
+tutor: Mm-hmm. It's going to be 90. Okay. Then what about the 0.01? What does it turn into?  [00:42:20]
+student: 0.01 [unclear] turn into 1.  [00:42:31]
+tutor: Mm-hmm.  [00:42:37]
+student: So is it 91?  [00:42:38]
+tutor: Mm-hmm. It's 91. That's correct.  [00:42:39]
+student: Okay.  [00:42:46]
+student: And for the next one, is it 6.12?  [00:43:07]
+tutor: Mm-hmm. Very good. It's 6.12. [unclear] Is that clear?  [00:43:14]
+student: Yeah.  [00:43:32]
+tutor: Okay. Can you write the answer? [unclear] [unclear]  [00:43:33]
+tutor: This 0.12?  [00:43:55]
+student: Mm-hmm.  [00:43:57]
+tutor: Okay. So we're almost done for today. How was today's session? Did you understand whatever we did?  [00:44:00]
+student: Yeah, I understood.  [00:44:08]
+tutor: You understood. Okay. It's all clear, right?  [00:44:10]
+student: Yeah, it's now all clear.  [00:44:13]
+tutor: All clear. Okay, that's great. Okay, so we will be meeting for the next session. That would be next week. Till then, have a wonderful week. Alright?  [00:44:16]
+student: Okay, thank you. You too. Bye.  [00:44:24]
+tutor: Okay, bye.  [00:44:27]
+background: Uh, hold on, Elara?  [00:44:31]
+student: Yeah?  [00:44:33]
+background: Just a question. Do you try out the questions at the end of the session?  [00:44:34]
+student: Um, yeah? [unclear] The two questions that you ask?  [00:44:39]
+background: No, normally do you try the questions at the end of the session?  [00:44:46]
+student: Yeah, I tried last week.  [00:44:49]
+tutor: Okay, you did try them, yeah?  [00:44:53]
+student: Yeah.  [00:44:57]
+tutor: Okay, okay, okay, okay, that's great, that's great. Okay, it would be better if you do try them because so that we know whether you've understood or not. All right? Is that clear?  [00:44:58]
+student: Yes.  [00:45:08]
+tutor: Okay, okay, then let me see you next week then. Bye.  [00:45:09]
+student: Bye.  [00:45:14]

@@ -1,0 +1,404 @@
+C16 — Learning-Process Indicators
+
+Evaluate the learning process visible in the conversation, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+PIT: Performance-improvement trajectory
+
+SFS: Scaffold-fading success
+
+IFU: Immediate feedback uptake
+
+FT: Feedback transfer
+
+ERR: Error-recurrence reduction
+
+LQD: Learner-question diagnosticity
+
+MM: Metacognitive monitoring
+
+SRF: Strategy revision after failure
+
+PTD: Persistence through difficulty
+
+CE: Constructive elaboration
+
+RRE: Retrieval and reconstruction effort
+
+TC: Teacher contingency
+
+TR: Transfer of responsibility
+
+FSE: Feedback specificity and explanatory value
+
+PCL: Productive challenge level
+
+ESR: Engagement stability and recovery
+
+Higher scores mean a stronger learning process. Use the sequence of tutor and learner turns to distinguish repetition, supported success, feedback uptake, reduced support, and later transfer.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+PIT: `improvement trajectory`
+
+SFS: `scaffold fading`
+
+IFU: `feedback uptake`
+
+FT: `feedback transfer`
+
+ERR: `error reduction`
+
+LQD: `question diagnosticity`
+
+MM: `metacognitive monitoring`
+
+SRF: `strategy revision`
+
+PTD: `task persistence`
+
+CE: `constructive elaboration`
+
+RRE: `retrieval effort`
+
+TC: `teacher contingency`
+
+TR: `learner responsibility`
+
+FSE: `feedback quality`
+
+PCL: `productive challenge`
+
+ESR: `engagement stability`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "PIT": {"score": 0, "label": "minimal improvement trajectory"},
+    "SFS": {"score": 0, "label": "minimal scaffold fading"},
+    "IFU": {"score": 0, "label": "minimal feedback uptake"},
+    "FT": {"score": 0, "label": "minimal feedback transfer"},
+    "ERR": {"score": 0, "label": "minimal error reduction"},
+    "LQD": {"score": 0, "label": "minimal question diagnosticity"},
+    "MM": {"score": 0, "label": "minimal metacognitive monitoring"},
+    "SRF": {"score": 0, "label": "minimal strategy revision"},
+    "PTD": {"score": 0, "label": "minimal task persistence"},
+    "CE": {"score": 0, "label": "minimal constructive elaboration"},
+    "RRE": {"score": 0, "label": "minimal retrieval effort"},
+    "TC": {"score": 0, "label": "minimal teacher contingency"},
+    "TR": {"score": 0, "label": "minimal learner responsibility"},
+    "FSE": {"score": 0, "label": "minimal feedback quality"},
+    "PCL": {"score": 0, "label": "minimal productive challenge"},
+    "ESR": {"score": 0, "label": "minimal engagement stability"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Looking at the 2x, 4x and 8x table. 
+
+CONVERSATION:
+tutor: Hello?  [00:00:00]
+background: [unclear]  [00:00:00]
+student: Hi.  [00:00:01]
+tutor: Hi, Desmond. How are you doing today?  [00:00:01]
+student: I'm good. How are you?  [00:00:03]
+tutor: I'm doing good, Esther. Thank you so much for asking. So how was your weekend?  [00:00:05]
+student: Good.  [00:00:10]
+tutor: Good. That's nice to hear. So do you remember what you did in this lesson last time, Desmond?  [00:00:11]
+student: So like we was looking at times tables and like [unclear] times tables square sheet.  [00:00:19]
+tutor: That's right. Okay, so let's start from where you stopped last time. Didn't you do the first question, Desmond?  [00:00:27]
+student: Pardon?  [00:00:36]
+tutor: Didn't you do the first question last time?  [00:00:36]
+student: Yeah.  [00:00:40]
+tutor: And then shall we start with the second question then?  [00:00:41]
+tutor: Okay.  [00:00:45]
+background: Thank you.  [00:00:46]
+tutor: Can you read that for me, please?  [00:00:47]
+background: Complete the Venn diagram using the numbers provided.  [00:00:49]
+tutor: No, Desmond, from part B. I think you [unclear] part B. Could you read part B for me, please?  [00:00:57]
+background: Okay. Circle 3 numbers that add to make a multiple of 5.  [00:01:03]
+tutor: Yes.  [00:01:13]
+student: Um, so, so do I need to like— so I'm gonna go for 32.  [00:01:14]
+tutor: Okay.  [00:01:23]
+student: Um, so I think if we go for  [00:01:26]
+student: Oh. [unclear] So we can go for 11, which should be okay. And then after we put 12, which would equal So, 23.  [00:01:42]
+tutor: Yes.  [00:02:04]
+student: And then after— wait, can I do a number again?  [00:02:09]
+tutor: Yes, yes.  [00:02:14]
+student: Okay, so— [unclear]  [00:02:16]
+tutor: You can repeat the same number here.  [00:02:17]
+student: Wait, I don't think it will work though.  [00:02:22]
+student: I don't think—  [00:02:27]
+tutor: 32, yes, 32 wouldn't work. That's fine, let's try to make 32, so we might end up with another value that isn't the 4 times table.  [00:02:29]
+student: What about 40?  [00:02:41]
+tutor: Okay, let's try 40.  [00:02:43]
+student: So if we go 90— [unclear] And 11, which would equal, uh, I think 30, right?  [00:02:46]
+tutor: Yes, 19 times 7 makes 30.  [00:03:07]
+student: Then it won't work because we're gonna need a 10.  [00:03:09]
+student: What about 44? That will work?  [00:03:20]
+tutor: Yes, 44.  [00:03:24]
+student: So 30 add 14?  [00:03:27]
+tutor: Mm-hmm, very good.  [00:03:29]
+student: Would equal 44.  [00:03:33]
+tutor: Yes.  [00:03:36]
+student: Let's get you to circle those numbers for me please. 19, 11, and 14.  [00:03:41]
+tutor: Thank you. So we done 90, 3, 11, and 14. [unclear] Now let's say I'm your friend and I choose the numbers 11 plus 14. [unclear] plus 13. Do you think I'll be correct, Jas?  [00:03:45]
+student: To make 44?  [00:04:20]
+tutor: No, to make a multiple of 4.  [00:04:23]
+student: So what we're going to do, we're going to do 10 add 10 add 10, which equals 30, and we're going to add  [00:04:28]
+student: 1, 2, and 3, which would equal 35.  [00:04:37]
+tutor: No, you're wrong. What is 1 2 3? 5. Oh  [00:04:42]
+student: no,  [00:04:50]
+tutor: 6. 6. Yes.  [00:04:50]
+student: All [unclear]  [00:04:55]
+tutor: right. So very good observation there, so I'm giving you this sticker. And moving on to part 3.  [00:04:55]
+tutor: Can you read that for me as well, please?  [00:05:03]
+student: If there are 7 squares, how many corners are there? [unclear]  [00:05:06]
+background: So, 7. First we need to find out what one corner is.  [00:05:14]
+student: So like, so a square would have, I think, 3 corners, right? This is a square. How many corners does a square have?  [00:05:22]
+student: Oh, 4. So we're gonna do 4 times 7.  [00:05:33]
+tutor: Really good.  [00:05:37]
+student: Um, um, uh, wait, let me calculate it. So if we do Time is... Wait, so... Wait, is it... [unclear] No, 32.  [00:05:39]
+tutor: Okay, can you explain why do you think it's 32, Desmond? 32 is 8, right? [unclear] Yeah, it's 8. So is it 24?  [00:06:16]
+tutor: Almost. They're asking 7 times 4.  [00:06:32]
+student: Um, wait, is it 24?  [00:06:40]
+tutor: Almost. I think you missed something while calculating. Can you calculate once more for me?  [00:06:46]
+student: Okay. [unclear] Oh, 28?  [00:06:53]
+tutor: There you go, 28. Well done.  [00:06:59]
+student: Okay, so it'll be 28.  [00:07:02]
+tutor: Yes, 28. Can you write that down for me, please?  [00:07:07]
+student: Yeah, okay.  [00:07:12]
+tutor: Thank you.  [00:07:13]
+tutor: There you go. Awesome. How about Part D, Desmond?  [00:07:18]
+student: If there are 7 octagons, how many corners are there? So like 7 octagons, is it like 6? [unclear] Octagon. Octa means 8. So how many corners do you think an octagon has?  [00:07:26]
+student: [unclear] 8, right?  [00:07:48]
+tutor: 8, very good. An octagon has 8 sides, corners.  [00:07:50]
+student: So 8 times 7. So 8 times 7. So because I don't know that, what I'm going to do, I'm going to do 10 times 7, which will equal 70, take away 28.  [00:07:54]
+tutor: Mm-hmm.  [00:08:19]
+student: Equals 52. [unclear]  [00:08:22]
+tutor: Almost. You're going to give that a try once more for me, please. So you did 10 times 7 equals 70. [unclear]  [00:08:29]
+tutor: Minus?  [00:08:45]
+student: 28.  [00:08:45]
+tutor: Why is it 28, Desmond?  [00:08:45]
+student: Because it's 8 to 10, we'd take 2, and if we do 2 times 7 equals 28.  [00:08:56]
+tutor: That is 2 times 7?  [00:09:05]
+student: 28, right?  [00:09:08]
+tutor: 4 times 7 is 28. Then what is 2 times 7?  [00:09:12]
+background: Um, 20— 22?  [00:09:18]
+tutor: Almost. If 4 times 7—  [00:09:23]
+student: Okay.  [00:09:25]
+tutor: Let me show you a little trick here.  [00:09:26]
+background: Wait, is it 25?  [00:09:28]
+tutor: Almost. Let me show you a little trick. So we know 4 times 7 is— what is 4 times 7, Desmond?  [00:09:30]
+student: 28.  [00:09:37]
+tutor: 28. Now you have to find for 2 times 7. What can you tell me about the 4 and the 2 here? What can you do to make—  [00:09:38]
+background: They're even.  [00:09:51]
+tutor: Yes, they're even. And to make the 4 a 2, what can you do? You can—  [00:09:53]
+student: 5?  [00:10:00]
+tutor: To make the 4 a 2. Yes?  [00:10:01]
+student: Do I divide 4 by 2? Yeah?  [00:10:05]
+tutor: Yes, you can half it. Very good. So you do the same thing for the answer. You can just half 28. What's half of 28?  [00:10:08]
+student: Um... [unclear]  [00:10:16]
+student: So, 14.  [00:10:23]
+tutor: 14, there you go. So what is 2 times 7?  [00:10:25]
+student: 14. [unclear]  [00:10:30]
+tutor: Now you have 14 here.  [00:10:34]
+student: So 14 take away 70 equals 66.  [00:10:37]
+tutor: Can you give that a try once more for me please?  [00:10:47]
+tutor: Okay, so 72. [unclear]  [00:10:51]
+student: No, I think it is 66 because If we do 70 minus 14, we would go for 70 minus 10? 60? [unclear] Oh, 54.  [00:11:04]
+tutor: 50?  [00:11:30]
+student: 56.  [00:11:31]
+tutor: 56, here you go.  [00:11:32]
+student: Oh, okay.  [00:11:34]
+tutor: Here, can you write it down for me, please? [unclear]  [00:11:38]
+tutor: Wait, so 56, right?  [00:11:44]
+student: Yes, it's 56.  [00:11:46]
+tutor: Now let's say I am your friend and I don't understand Part D. How would you explain it to me, Desmond?  [00:11:48]
+student: So I'll do the method which I've just done. So I'll tell you, I'll ask you, what is 10 times 7? And then you say 70. And then after I'll do, and I'll tell you, okay, And then what is 2 times 7? And you say 14. Then I said to take away both of them and then you get the answer. [unclear]  [00:11:55]
+tutor: Okay, very good explanation there. So I'm giving you this alphabet and this sticker. Very good work. And now let's move on to this question. Can you read this for me please? Tables can sit 8 or 4 people. 6 tables are for people needed. How many tables of A are needed to sit in the same amount of people? [unclear]  [00:12:20]
+tutor: Yes. What did you understand from this question, Desmond?  [00:12:52]
+student: Um, so that tables can only  [00:12:56]
+student: 4 or 8 people maximum, like minimum. But 8 are needed to sit in the same amount of, like, and 6 or 4 are needed.  [00:13:01]
+tutor: What does that mean? What does 6 tables of 4 are needed mean?  [00:13:22]
+student: So 6 tables of the, like, um, 6, like 6 of these tables.  [00:13:28]
+tutor: 6 tables. Well, how many people could sit in one table?  [00:13:40]
+student: Uh, 4.  [00:13:46]
+tutor: 4, very good. Then what are they asking you?  [00:13:47]
+student: Um, how many tables are [UNCLEAR]. Of 8 are needed to sit the same amount of people. But it's kind of confusing, the second sentence.  [00:13:51]
+tutor: Okay, let's forget about that part for now and let's think about this one. When this is 6 tables of 4 are needed, how many people would be there? How many people do you think would be there? [unclear]  [00:14:06]
+student: So 6 times 4, right?  [00:14:20]
+tutor: Very good. 6 times 4.  [00:14:23]
+student: [unclear] 24.  [00:14:24]
+tutor: Very good. So how many people are there?  [00:14:28]
+student: 24.  [00:14:31]
+tutor: Now they say how many tables of 8 are needed to sit— to seat these 24? So should we do 8 divided by 24?  [00:14:32]
+tutor: Yes, 24 divided by 8.  [00:14:47]
+student: So if we do— so 1, 2, 8. So like 8 people's— [unclear]  [00:14:52]
+student: So, it's 8 tables. 24, 1, 2, 3, 4, 5, 6, 7, 8. 1, 2, 5, and... [unclear] [unclear]  [00:15:17]
+student: I think it's going to be 3.  [00:15:41]
+tutor: Very good. It's going to be 3. Why do you think so?  [00:15:44]
+student: Pardon?  [00:15:50]
+tutor: Why do you think it's going to be 3, Desmond? Explain.  [00:15:52]
+student: Because I done 8 divided by 24, but after I realized my 3 times tables, Because I was thinking, what times tables have 24 times 8? And then I realised it was my 3 times tables, so then I said 3 for the answer.  [00:15:56]
+tutor: Very good. Awesome. I really like the way you caught that. Can you write down your answer over here for me, please? Thank you. Welcome. [unclear] [unclear]  [00:16:18]
+tutor: Should I write here?  [00:16:33]
+student: Yes, please.  [00:16:35]
+tutor: Okay. Thank you.  [00:16:36]
+student: Thank you. All right. So what do you remember from this lesson?  [00:16:48]
+student: So what I remember, you should— so when the division, always remember like what is— like for the last question, what we done, we had to do that 8 times 24. But I wasn't thinking of like some times tables. But then after I went through all my times tables, then I realized it was, um, 3. [unclear]  [00:16:55]
+student: Yeah.  [00:17:22]
+tutor: Good. All right, then this one. This one, I think. Yes, there you go. Octagon. How many corners are there in an octagon? Desmond?  [00:17:23]
+student: Oh, 8.  [00:17:34]
+tutor: 8. Very good. Then if I say pentagon, just so you are familiar with these words, how many corners do you think a pentagon has?  [00:17:37]
+tutor: 5? Very good, 5. Then hexagon?  [00:17:49]
+student: 6?  [00:17:55]
+tutor: Very good, 6. So these are the common words that they can give you, okay, for the shapes. So pentagon has 5, hexagon has 6. Then just to be safe, a heptagon?  [00:17:56]
+background: 8?  [00:18:10]
+tutor: Oh no, no, 7?  [00:18:11]
+tutor: 7. Very good. [unclear] 7 corners. Okay, then is there anything that you didn't understand from this lesson, Desmond?  [00:18:13]
+student: No.  [00:18:25]
+tutor: No, that's nice to hear. Then let's move on to the new lesson. There you go. Multiplying 3 numbers. Okay, could you give this learning goal question a try? Try it for me, please.  [00:18:26]
+student: So 8 times 3, we're done, is 24. So 24 times 2, we're going to go for 40 and 8, right? So 48.  [00:18:41]
+tutor: 48. Very good.  [00:18:54]
+student: And the other one, say [UNCLEAR].  [00:18:58]
+tutor: You don't have to do the other one, Desmond, since you worked this out on your own. You can skip this. And the slides and move on to this one. Which question do you want to try first?  [00:18:58]
+student: Maybe this B, B. [unclear]  [00:19:19]
+tutor: Okay, let's try B.  [00:19:22]
+student: So it says 7 times 4 times 2. I don't know my 4 times tables. So what I'm going to do, I'm going to do 2 times 4 equals 8. 8 times 7 equals 56, right?  [00:19:25]
+tutor: Mm-hmm.  [00:19:42]
+student: Yes, 56. Okay, so now A. For A, this is 2 times 8 times 5. So 2— no, 8 times 5 equals 40. So 40 times 2 equals 80.  [00:19:43]
+tutor: 80, there you go. Awesome.  [00:20:07]
+student: Um, and like, do we have to do C because we've done it? [unclear]  [00:20:12]
+tutor: That's fine, let's move on to Part D.  [00:20:20]
+tutor: Okay. [unclear]  [00:20:24]
+student: So 5 times 6 times 4. I don't know my 6 and 4 times tables. So I think we should go for 5 times 6 would equal 30.  [00:20:25]
+tutor: Mm-hmm, yeah, 5 times 6 is 30.  [00:20:43]
+student: 30 times 2— 4. So what I'm going to do, I'm going to do it times 2. 2, which would equal 60. So 60 times 2 would equal 120.  [00:20:47]
+tutor: 120. Excellent. There you go. Now let's say I am your student and you are my teacher. And I don't understand Part C. How would you explain it to me, Desmond?  [00:20:59]
+student: So first what I will do, [unclear] I would ask you, do you know your 8 times tables? And if you said no, I would go for, uh, 3 times 2, you would say 6. Then, because you do not— you don't know what 6 times 8 is, um, we'll break it down into 6 times 2 would equal 16.  [00:21:15]
+tutor: Uh-huh.  [00:21:42]
+student: 4 times 16, but we won't know that, so then break it down again. 2 times 16, 120, times 2, which equals 240. So it would be 240, right?  [00:21:43]
+tutor: Can you give that a try once more for me, please?  [00:22:07]
+student: Oh.  [00:22:09]
+student: Okay, so what we should actually do— you would know your 3 times tables, so let's go for 8 times 3, which is 24. [unclear] If you don't know that, then look at your 3 times tables. Then 24 times 2, you just like double it, so 40 and 80, so 48. 48. Very good. Or you can just break it down like this. If you are not familiar with, let's say, the 8 times table, how can you break down the 8, Desmond?  [00:22:12]
+student: You could do 2, 2, and 2, or 6 and 2.  [00:22:51]
+tutor: 6 and 2? We are multiplying here, so we can't add. What can we do? We have to [UNCLEAR].  [00:22:57]
+student: So we could do 2 and 2 and 2?  [00:23:04]
+tutor: Yes, we can do 2 and 2 and 2. Very good. 2 and 2. So what we can do next is we can multiply one of these 2s with the 3. So what is 2 times 3?  [00:23:08]
+student: 6.  [00:23:21]
+tutor: 6. So we use this 2. Then which— so we have 6. Then we can use up this one. So what is 6 times 2?  [00:23:22]
+student: 6. No, 12.  [00:23:32]
+tutor: 12. Then I can use up this 2, so it is 12 times 2.  [00:23:34]
+student: [unclear] 24.  [00:23:38]
+tutor: Very good, 24. Then what is 24 times 2?  [00:23:45]
+student: 24 times 2. 80. 48.  [00:23:48]
+tutor: 48. This is only if you don't know a times table, okay? Because this is the long method. And since you know the times table, you don't have to follow these. Okay. But a very good explanation, so I'm giving you this 2 stars. And the sticker, very good focus. And let's move on to this slide. Okay. Could you read this for me, please?  [00:23:54]
+student: [unclear] says the answer to 5 times 6 times 7 is different.  [00:24:17]
+student: to 6 times 5 times 7.  [00:24:17]
+tutor: Do you agree? Explain your answer.  [00:24:17]
+student: I don't agree because it's the same but just in different order. [unclear] If we'd done 6— no, 2 times 3, it would equal 6. If we'd done 3 times 2, it would equal 6.  [00:24:34]
+tutor: Well done, yes. I really like the way you explained it from the [unclear] stuff of that. And when you— [unclear] What do you remember from this lesson, Desmond?  [00:24:56]
+student: So it's actually not really hard when you multiple 3 numbers. It seems confusing, but first you do 2, then after you times it.  [00:25:08]
+tutor: There you go. Good. Is there anything that you didn't understand?  [00:25:19]
+student: No.  [00:25:24]
+tutor: Yeah, that's nice to hear. Then let's move on to the new lesson. There you go. Using known facts. So this is something that you actually did in the previous lessons. Okay. They've just used fancy words here. Could you give this learning goal question a try for me, please? Use known facts.  [00:25:25]
+student: To help you solve this calculation, 8 times 6 would be... [unclear]  [00:25:47]
+student: We're going to break it down because I don't exactly know it. So we're going to break it down. So 6 to 8... [unclear]  [00:25:57]
+student: Oh no, 3 actually. So 8 times 3 equals...  [00:26:07]
+student: Um, 24. So 24 times 3. Um, so would it— would be so about 557.  [00:26:13]
+tutor: Almost. So why did you multiply it by 3 again, Desmond? [unclear]  [00:26:35]
+student: Wait, so what should I do?  [00:26:42]
+tutor: Now, you broke— now since this is a 6 and you don't know the 6 times table, so we break it down into 2 values that would make a 6 by multiplying, not by adding.  [00:26:46]
+student: Wait, can I actually do that 8 instead of the 6?  [00:26:57]
+tutor: Okay, you can do that.  [00:27:02]
+student: So I'm going to break it down into  [00:27:03]
+student: 2. So first we're going to do 2 times 6, it's 16. [unclear] Oh, 12, sorry. [unclear] And then after, 12 times 2 equals 24. [unclear] 24 times 2 equals 48.  [00:27:06]
+tutor: There you go, 48. [unclear]  [00:27:29]
+tutor: Just a second, just a second. So can you see you used information that you knew to figure out the answer here?  [00:27:40]
+student: Yeah.  [00:27:49]
+tutor: Good. So that is what we would be doing in this lesson, using known facts to work out other multiplication facts. So you know 2 times 2 times 2 makes 8. So without finding out what 8 times 6 is straight away, we break it down into parts and then multiply. Yes. Can you try that, apply learning and [unclear] some of this?  [00:27:50]
+student: OK. Complete the counting stick. So, OK. So I think this—  [00:28:13]
+student: This one. So— oh, okay. So, um, it'll be 16.  [00:28:23]
+tutor: Very good, it'll be 16.  [00:28:31]
+student: Um, and I think the other— oh, and I think that's [unclear] would be 8, right? Which one? This or this?  [00:28:37]
+student: This one.  [00:28:55]
+tutor: This one. Which times table is it?  [00:28:56]
+student: 8. No, 4.  [00:29:00]
+tutor: This one. Ah, 4. So we have 4, 8. [unclear]  [00:29:02]
+student: 12.  [00:29:05]
+tutor: 12. Very good.  [00:29:06]
+student: So, and I think the other one  [00:29:08]
+tutor: Would be... [unclear]  [00:29:15]
+student: 4 times 6.  [00:29:15]
+student: 32.  [00:29:42]
+tutor: 32. Very good. Awesome. All right, now let's move on to this one. Okay, can you read this for me, please? [unclear]  [00:29:43]
+student: Before we use known fractions to work out other multiple fractions, let's look at how doubling and halving can help us to [unclear] multiplication fractions.  [00:30:06]
+tutor: That is good stuff. What do you mean by doubling, Desmond?  [00:30:32]
+student: So doubling is like, it's normally like another 2 times tables. So you go like, so all the times tables, when it's times 2, you'll be doubling it.  [00:30:36]
+tutor: Very good. Now what do you mean by halving?  [00:30:50]
+student: So when you [unclear] Let's say 6, you want to halve it, it'll be 3. Yes, good. All right, could you try the first question for me, please? [unclear]  [00:30:55]
+student: So I think, which I did this.  [00:31:12]
+tutor: Please, part B and D.  [00:31:20]
+tutor: Yes. We can take a look at this.  [00:31:25]
+student: [unclear] So 6, if 6 times 8 is 48, then 6 times 4 is— wait, would it be like here?  [00:31:26]
+tutor: Anything.  [00:31:46]
+student: Wait, should we half it?  [00:31:46]
+tutor: There you go, we have to half it. Well done.  [00:31:50]
+student: Okay. So it will be 24?  [00:31:53]
+tutor: There you go, yes.  [00:32:01]
+student: I think the other one is doubling, right?  [00:32:04]
+tutor: Very good, yes, you're going to be doubling the other one.  [00:32:07]
+student: So what we're going to do to double, we're going to do 3 times 2? Would equal 6.  [00:32:10]
+tutor: Yeah.  [00:32:23]
+student: And 6 times 2 would equal 16. Oh no. [unclear] So 6 doubling, so if we do 6 times 2 would equal  [00:32:23]
+student: 6, 2, no, 12.  [00:32:23]
+tutor: 12, yes.  [00:32:23]
+student: And after, then 3 times 6 equals...  [00:32:47]
+tutor: Just this one, Desmond. OK, can you try this one next week, part B?  [00:32:53]
+student: Oh, OK.  [00:32:58]
+tutor: OK, so very good work today, very good work with the previous 2 lessons and this one, especially identifying where you need to half. And double. Very good work there, but I have to end this session now. So keep up this amazing work, amazing explanations, and have a very, very, very good week ahead. Goodbye.  [00:33:00]
+student: Bye. [unclear]  [00:33:19]
