@@ -1,0 +1,369 @@
+A16 — Direct Mastery Evidence
+
+Evaluate direct evidence of the learner's capability for the target objective, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+ES: End-state independent correctness
+
+IRV: Independent reasoning validity
+
+LGC: Learner-generated objective coverage
+
+NTP: Novel transfer performance
+
+COC: Cross-opportunity consistency
+
+SMR: Stable misconception resolution
+
+SEQ: Self-explanation quality
+
+PC: Procedural completeness
+
+SSA: Strategy-selection accuracy
+
+SEC: Spontaneous error detection and correction
+
+WCR: Within-conversation retention
+
+RP: Representation precision
+
+JEU: Justification and evidence use
+
+BCU: Boundary-condition understanding
+
+GPA: Generative production ability
+
+CC: Confidence calibration
+
+Higher scores mean stronger learner capability. Give more weight to recent and increasingly independent performance, while still using supported responses and tutor interaction as context.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+ES: `final accuracy`
+
+IRV: `reasoning validity`
+
+LGC: `objective coverage`
+
+NTP: `transfer performance`
+
+COC: `performance consistency`
+
+SMR: `misconception resolution`
+
+SEQ: `explanation quality`
+
+PC: `procedural completeness`
+
+SSA: `strategy selection`
+
+SEC: `error correction`
+
+WCR: `knowledge retention`
+
+RP: `representation precision`
+
+JEU: `evidence use`
+
+BCU: `boundary understanding`
+
+GPA: `generative production`
+
+CC: `confidence calibration`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "ES": {"score": 0, "label": "minimal final accuracy"},
+    "IRV": {"score": 0, "label": "minimal reasoning validity"},
+    "LGC": {"score": 0, "label": "minimal objective coverage"},
+    "NTP": {"score": 0, "label": "minimal transfer performance"},
+    "COC": {"score": 0, "label": "minimal performance consistency"},
+    "SMR": {"score": 0, "label": "minimal misconception resolution"},
+    "SEQ": {"score": 0, "label": "minimal explanation quality"},
+    "PC": {"score": 0, "label": "minimal procedural completeness"},
+    "SSA": {"score": 0, "label": "minimal strategy selection"},
+    "SEC": {"score": 0, "label": "minimal error correction"},
+    "WCR": {"score": 0, "label": "minimal knowledge retention"},
+    "RP": {"score": 0, "label": "minimal representation precision"},
+    "JEU": {"score": 0, "label": "minimal evidence use"},
+    "BCU": {"score": 0, "label": "minimal boundary understanding"},
+    "GPA": {"score": 0, "label": "minimal generative production"},
+    "CC": {"score": 0, "label": "minimal confidence calibration"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Adding and subtracting fractions with different denominators.
+
+CONVERSATION:
+tutor: Hi.  [00:00:00]
+background: Can you hear me, Tobias?  [00:00:00]
+student: Yes.  [00:00:01]
+background: All right. How are you doing today?  [00:00:02]
+student: Okay.  [00:00:05]
+background: Mm-hmm. So how far has your day been at school? What have you done? Have you done any extra activities at school today?  [00:00:06]
+student: No.  [00:00:16]
+background: Mm-hmm. Was it just about studying?  [00:00:16]
+student: Yeah.  [00:00:20]
+background: Yeah. What are the subjects that you have learned today?  [00:00:21]
+student: Computing. Computing. So was the subject interesting?  [00:00:23]
+student: It was okay.  [00:00:29]
+tutor: Okay. Do you like to work with computers? Do you like that subject?  [00:00:31]
+student: Yeah.  [00:00:38]
+tutor: Yeah. All right. So today we'll be starting a new lesson, which is adding and subtracting fractions with [UNCLEAR]. [unclear]  [00:00:39]
+tutor: subtraction of different denominators.  [00:00:39]
+student: Denominators, correct. Do you know what a denominator is? Do you know what a denominator is, Tobias?  [00:00:39]
+student: Yes.  [00:01:10]
+tutor: What is a denominator? Which part of a fraction is called the denominator?  [00:01:12]
+student: The bottom of a fraction.  [00:01:18]
+tutor: That's correct. What do you call the top part of the fraction?  [00:01:20]
+student: Numerator.  [00:01:24]
+tutor: Numerator, there you go. So under the learning goal, we have one question which says complete the calculation. So can you please read me the calculation that's given, and can you tell me how can we solve that? [unclear] Yeah, what's the calculation given, Tobias?  [00:01:25]
+student: [unclear] plus 3/10.  [00:01:46]
+tutor: So we have 2/5 and 3/10. So we have different denominators over here which are 5 and 10, right? While having different denominators, do you think we can add it?  [00:01:53]
+student: Yeah.  [00:02:10]
+tutor: Mm-hmm. So how would you add if you have different denominators? Do you have to make some changes to one of the fractions and then add it? Or do you straightly add them all?  [00:02:10]
+student: Changes.  [00:02:23]
+tutor: Mm-hmm. So can you tell what kind of changes we have to make?  [00:02:24]
+student: Um... [unclear]  [00:02:29]
+student: I can't remember.  [00:02:34]
+tutor: You cannot remember. Okay. So can you tell me what are the denominators given in these fractions, Tobias? Can you bring your pointer tool to the slide, please? Okay, there you go. So what are the denominators we have?  [00:02:37]
+student: 2/5 and 3/10.  [00:03:02]
+tutor: And what are the denominators we have?  [00:03:07]
+student: 5 and 10.  [00:03:13]
+tutor: 5 and 10. So what is the relationship between 5 and 10, Tobias? What times 5 gives you 10?  [00:03:17]
+student: [unclear]  [00:03:24]
+tutor: So if we need a common denominator, what should we do to this number 5 or the fraction 2/5? That should be multiplied by...  [00:03:26]
+student: 2.  [00:03:38]
+tutor: 2. There you go. Now can you tell me the fraction that you get when you multiply the whole fraction 2/5 by 2? [unclear]  [00:03:40]
+student: Wait, so 2 times 5 is 10, and 2 times 2 is 4. 4 tenths.  [00:03:54]
+tutor: Okay, 4 tenths. So now you have a common denominator as 10, right?  [00:04:04]
+student: Yeah.  [00:04:11]
+tutor: Yeah. Now do you think we can add it all up?  [00:04:12]
+student: Yeah.  [00:04:14]
+tutor: So what's 4 tenths add 3 tenths?  [00:04:15]
+student: 7/10.  [00:04:24]
+tutor: Wonderful. So shall we write that as your answer for the first part of this lesson?  [00:04:25]
+student: Yeah.  [00:04:31]
+tutor: Mm-hmm. Go ahead, please. [unclear] [unclear]  [00:04:32]
+tutor: Okay, 7/10. Good job. So you have got this question correct. So let's go to the prior learning question under the prior learning. So that says give the equivalent fraction. Have you learned about equivalent fractions, Tobias? What do you understand by that term? What does it mean?  [00:04:52]
+student: You have to find the common denominator.  [00:05:26]
+tutor: So is that what is called an equivalent fraction? Is it?  [00:05:32]
+student: No. Equivalent [UNCLEAR]— an equivalent fraction is a fraction which is equal to the other fraction.  [00:05:39]
+tutor: That's correct. So it's kind of times of the initial fraction, right? So you have to find the relationship between the numbers given over here and do the same for the rest of them. That as well. So what's the numerator that would go over here? So we have 3/4 and something twelfths. [unclear]  [00:05:39]
+student: Yeah.  [00:06:10]
+tutor: So what would be the numerator for this space which is not given?  [00:06:12]
+student: One—  [00:06:25]
+tutor: How would you find it? I'm not sure.  [00:06:25]
+tutor: First of all, you have to check the relationship between 4 and 12, OK? What times 4 gives you 12?  [00:06:30]
+student: 3.  [00:06:38]
+tutor: There you go. So if you know that, whatever you do to a part of a fraction should be done to the rest of the fraction as well.  [00:06:39]
+background: It's 9.  [00:06:47]
+tutor: 9. Good. So I think now you can recall all what you have learnt. Seems so, right?  [00:06:48]
+student: Yeah.  [00:06:56]
+tutor: Am I audible, Tobias?  [00:06:57]
+student: Yeah.  [00:07:00]
+tutor: Okay. So that's 9. Good job. So shall we draw a smiley face and then next move on to the other slide?  [00:07:01]
+student: Yeah.  [00:07:10]
+tutor: Mm-hmm. Go ahead. So I'm going to draw you a small unicorn face since you have got both of these questions correct. And there we go. Have you watched any cartoons recently? [unclear] Not that much. Okay. So how has your week been so far, Tobias? Has it been good?  [00:07:11]
+student: It's been okay.  [00:07:43]
+tutor: It's been okay.  [00:07:45]
+tutor: So do you like being around friends?  [00:07:48]
+student: Yeah.  [00:07:52]
+tutor: Yeah, all right. Oh, that's a really nice face. And do you have a name for that face?  [00:07:54]
+student: Josh.  [00:08:01]
+tutor: Josh, okay. So hi, Josh. All right, so let's start the lesson with Josh, okay?  [00:08:02]
+tutor: Yeah, are we good to go to the next slide, Tobias?  [00:08:16]
+student: Yeah.  [00:08:19]
+tutor: Yeah, so we'll go to the [unclear] slide with Josh. So here we have solve the following calculations, and we have 4 calculations given. Can you please read me the first one?  [00:08:20]
+background: Solve the following calculations.  [00:08:35]
+student: [unclear]  [00:08:56]
+tutor: Yeah, 2/5 and 1/10. This is kind of similar to the question which we worked in the very first slide, yeah? So in this case, how would you work with these fractions? I know you have an idea now. Can you just Can you just tell me the first step that we have to do?  [00:08:56]
+student: Um, we have to— [unclear] We have to find the common denominator.  [00:09:15]
+tutor: Well done, there you go. So we have to find out a number that could be the common denominator, right? So what could be the common denominator? What number could be the common denominator? [unclear]  [00:09:25]
+tutor: Are you there, Tobias?  [00:09:49]
+student: Yeah.  [00:09:50]
+tutor: Yeah, what number could be the common denominator?  [00:09:51]
+student: 2.  [00:09:54]
+tutor: 2! The number 2 would be the common denominator.  [00:09:56]
+tutor: Yeah.  [00:10:02]
+student: Um, how did you get 2, Tobias?  [00:10:04]
+tutor: 5 times 2.  [00:10:08]
+background: Yeah, so that's times 2. The common denominator would be 10, which is 5 times 2 equals 10.  [00:10:11]
+student: Um, then it would be 5.  [00:10:18]
+background: No, the answer was correct. The way you said was correct, but the answer which is going to be 10 is called the common denominator. But you said the number which is going to be multiplied by, right? So you said it's going to be multiplied by 2 and you get 10. Am I correct?  [00:10:22]
+student: Yeah.  [00:10:42]
+tutor: Yeah, in that case, 2 is not the common denominator, Tobias. When you do 5 times 2, you end up getting 10. So 10 will be the common denominator for both of the fractions. 10 over here and 10 over here, right? Yeah, are you clear with that, Tobias? [unclear]  [00:10:43]
+tutor: Hello, are you there, Tobias?  [00:11:23]
+student: Yeah.  [00:11:25]
+tutor: Yes, I want you to talk and you can respond, and if you do not understand anything, you can let me know, alright?  [00:11:27]
+student: [unclear]  [00:11:36]
+tutor: Okay. So can you tell me what's 2/5, the whole fraction multiplied by 2 is? What's the new fraction that you'd get?  [00:11:36]
+student: I'm not sure.  [00:11:48]
+tutor: Okay, can you do it step by step over here so that you'll understand what's the answer going to be? You already told me that you are going to multiply the whole fraction by 2, right? [unclear]  [00:11:53]
+student: Yeah.  [00:12:07]
+tutor: Yeah, so what's 2 times 2?  [00:12:10]
+student: 2 times 2 is 4.  [00:12:13]
+tutor: Is 4, there you go. So 5 times 2, what's that gonna be?  [00:12:21]
+student: 10.  [00:12:29]
+tutor: 10. So now we have 4 tens over here and 1 tenths. When you add them all together, what's the fraction that you'd get? 4 tens and 1 tenths.  [00:12:30]
+student: 5/10.  [00:12:39]
+tutor: 5/10. So shall we write that in the given space for the first question?  [00:12:40]
+student: Yeah. [unclear] 5. Yep, I'm waiting for the 10. There you go. All right. So moving on to the question B. What's the calculation given, Tobias? Can you please read me the fractions out?  [00:12:47]
+student: [unclear] 2/9 plus 1/3.  [00:13:18]
+tutor: Okay. So 2/9 and 1/3. So we have 9 and 3 as the different denominators, right? So do you think we have to change the two lines fraction?  [00:13:28]
+student: So what we have to do is find the common denominator.  [00:13:40]
+tutor: By timesing it by?  [00:13:47]
+student: By 3.  [00:13:49]
+tutor: 3, brilliant! So when you times 3 by 3, you get 9 as a common denominator, right?  [00:13:51]
+student: Yeah.  [00:13:58]
+tutor: So you'll have to multiply the whole fraction one-third By this number which you have written. Good job, very well done. I'm going to give you a sticker for that. Great explanation, Tobias. So when you multiply 1/3 by 3, what's the new fraction that you would get? [unclear]  [00:13:58]
+tutor: What's 1 times 3? [unclear]  [00:14:19]
+tutor: You're asking what's 1 times 3?  [00:14:28]
+student: 1 times 3 equals 3, and 3 times 3 equals 9.  [00:14:31]
+tutor: Okay, so we would get 3 nines add 2 nines, right?  [00:14:37]
+student: Yeah.  [00:14:42]
+tutor: So what's 2 nines add 3 nines equal to?  [00:14:43]
+student: 2 nines plus 3 nines.  [00:14:47]
+student: Equals 5/9.  [00:14:54]
+tutor: Wonderful. So you have given me the correct answer. I'm waiting for you to write in the answer over here so that I can give you a nice little smiley face.  [00:14:58]
+student: Okay. [unclear] 5... 5... 9s. Yes, 5 9s. Um... Now... I'm gonna draw...  [00:15:10]
+tutor: Okay, good job. So do you want to draw something as well, Tobias?  [00:15:39]
+student: Yeah, I'm gonna draw... Josh a friend.  [00:15:43]
+tutor: Okay, so let's see what you're gonna draw.  [00:15:48]
+student: I'm gonna draw Josh a friend.  [00:15:53]
+tutor: Mm-hmm. And what's his name? What's Josh's friend's name? [unclear]  [00:15:56]
+tutor: Mike. Okay, Mike. And this is... This is Squishy.  [00:16:17]
+student: Yeah.  [00:16:23]
+tutor: So you can see... Mike, Josh, Mike, and Squishy.  [00:16:26]
+student: Yes, that's a good combination, aren't they?  [00:16:35]
+student: Yeah.  [00:16:38]
+tutor: Yeah, so we can remember all these characters, okay? George, Mike, and Squishy. So in every class, we can take them along with us in the lessons. Shall we do that in the next session as well, Tobias?  [00:16:39]
+student: Yeah.  [00:16:52]
+tutor: Yeah? But maybe we can use the same name but different characters. Maybe we can draw something else instead of the faces. So you can check with what you can draw. Yeah?  [00:16:53]
+student: Yeah.  [00:17:05]
+tutor: Okay, so remind me in the next class, we have to remember all these names and include them with us with learning, okay?  [00:17:06]
+student: Okay.  [00:17:17]
+tutor: Okay, so it's going to be Josh, Mike, and Squishy. So maybe you can add this in the comment section so that even I will not forget as well. Shall we do that?  [00:17:18]
+student: Yeah.  [00:17:27]
+tutor: Okay, that sounds really great. So shall we go to question C with Josh, Mike, and Squishy?  [00:17:28]
+background: Yeah.  [00:17:35]
+tutor: Yeah, so let Mike read question C. Do you think you can read the question in a little different voice?  [00:17:36]
+background: Yeah.  [00:17:44]
+tutor: Okay, let's try that.  [00:17:46]
+background: 7... [unclear]...minus 1/2 equals...  [00:17:49]
+tutor: Yes, 7/8 minus 1/2. So just like addition, even in subtraction we cannot work with different denominators. Yes, you are doing great. So by what number do we have to multiply?  [00:18:03]
+student: [unclear] We have to multiply 1/2. We have to multiply 1/2 by 4.  [00:18:16]
+tutor: 4. That's good. So when you multiply the whole fraction, which is 1/2 by 4, so what's 1 times 4?  [00:18:33]
+student: 1 times 4 is 4, and 2 times 4 is [UNCLEAR]. 8.  [00:18:41]
+tutor: Mm-hmm. So you would get 4/8, right? So 7/8 take away 4/8, what would be the answer, Tobias?  [00:18:48]
+student: Yeah, um, the answer would be [UNCLEAR]. The answer would be— wait, can you say it again?  [00:19:03]
+tutor: So we did half times 4, right? So in that case, we would get 4/8, which means 7/8 take away 4/8. 7/8 take away 4/8. [unclear] [unclear] [Speaker] I'm not sure.  [00:19:21]
+tutor: Okay, 7/8 take away 4/8, okay? So let's get a little bit help from Mike and Squishy. So let's say Mike has 7 popsicles. Okay? That's 5, 6, and 7. Is that clear, Tobias? So Mike has 7 popsicles, okay?  [00:19:46]
+student: Yeah.  [00:20:13]
+tutor: And he has to give 4 out of this to Squishy. How many has he left?  [00:20:14]
+student: [unclear] 3.  [00:20:21]
+tutor: 3, yeah. So what would be the fraction?  [00:20:25]
+tutor: 7/8 take away 4/8?  [00:20:28]
+student: [unclear]  [00:20:29]
+tutor: 3/8. There you go. So Mike and Squishy learning with us, it makes it very easy for us to understand the lesson as well, isn't it? So that's a good decision that we took. 3/8. There you go. So the last question of this slide is 2/3 take away 1/6. So can you tell me what times 3 would be equal to 6? [unclear]  [00:20:32]
+tutor: What times 3 equals 6, Tobias?  [00:21:08]
+student: 2.  [00:21:10]
+tutor: 2. So what's 2 times 2?  [00:21:12]
+background: 2 times 2 is... 4 and 3 and 3 times—  [00:21:19]
+tutor: So I'll write it over here. And 3 times—  [00:21:24]
+student: 3 times 4. 3 times 2. [unclear]  [00:21:28]
+tutor: Would be?  [00:21:33]
+student: 6.  [00:21:33]
+tutor: 6. So we have 4/6 and 1/6. When you take 4/6 away— when you take 1/6 away from 4/6, what would you get? Yeah? [unclear] Good job. All right. So I'm really happy with the work that you are doing over here, Tobias. So we'll move on to the last slide of today's session. Shall we?  [00:21:35]
+student: Yeah.  [00:22:07]
+tutor: Yeah? Okay. So we have Tara and Hoki. Shall we change these names? We'll change these names as— Mike and Josh.  [00:22:08]
+student: [unclear]  [00:22:15]
+tutor: Yes, that's great. So Mike and Josh have the same size chocolate bar. Tara has 3/4 left. Oh, that's going to be changing again. So Mike has— yeah, can you concentrate on the question a little bit, Tobias?  [00:22:19]
+student: has—  [00:22:19]
+tutor: Mike has 3/4 left.  [00:22:41]
+student: 3/4 left.  [00:22:47]
+tutor: Josh has?  [00:22:50]
+background: Josh has 5/12 left.  [00:22:52]
+tutor: 5/12 left.  [00:22:56]
+background: Yes.  [00:22:57]
+tutor: How much more does [UNCLEAR]?  [00:22:57]
+background: No, I'll change it.  [00:22:57]
+tutor: How much more does Mike— how much more does Josh might have then— [unclear]  [00:23:02]
+tutor: How much more than might does Josh have left, okay?  [00:23:11]
+student: Yeah.  [00:23:17]
+tutor: Yeah. First of all, you have to make these two fractions the equal denominator. So what times 4 gives you 12, Tobias?  [00:23:18]
+student: 3.  [00:23:27]
+tutor: 3. Good job. So what's 3 times 3?  [00:23:33]
+student: 3 times— [unclear] 3 times 3 equals 9.  [00:23:39]
+tutor: Okay. Can you write me the number 9 over here? Right below Mike's face here. Over here. Let me show you. Can you write the number 9 over here?  [00:23:45]
+student: Okay.  [00:23:57]
+tutor: Okay. Below that, what's 4 times 3?  [00:23:57]
+background: 4 times 3 is 12.  [00:24:03]
+tutor: Yeah, 12. So can you write 9/12 as a fraction under Mike's face? That's good. So what's the fraction of Josh? That's 5/12, right?  [00:24:10]
+background: Yeah.  [00:24:24]
+tutor: Yeah. Can you write that fraction under Josh's face? Over here.  [00:24:25]
+student: Oh, I know what we have to do.  [00:24:29]
+tutor: Yes. Now you have to find the— let me draw you a line for that. Okay, go ahead. 5/12. Now the question is, how much more than Mike does Josh have left? You simply have to find the difference in between these two fractions. So good job. Tobias. Well done, excellent work. Yes, I feel like you have made a great progress today. Is it because you were learning with Mike and Josh?  [00:24:32]
+student: Yeah.  [00:25:08]
+tutor: Yeah, but we forgot Squishy a little bit, didn't we?  [00:25:10]
+student: Yeah.  [00:25:13]
+tutor: Yeah, let's write that name over here as well. So maybe Until we have our classes together, we can have all these 3 people with us, okay? Mike, [UNCLEAR], and Josh, and Squishy, okay?  [00:25:14]
+tutor: Alright, so now let's take Squishy, Mike, and Josh throughout the lesson that we have completed today, okay? So can you tell, can you tell Squishy, because Squishy was not in this slide over here, right? What was the lesson that we started learning, Tobias?  [00:25:14]
+student: So Squishy, we were learning about adding and subtracting fractions with different denominators.  [00:25:53]
+tutor: Yes. So shall we ask if Squishy understood the lesson or not?  [00:26:04]
+background: Yeah.  [00:26:10]
+tutor: Yeah, you can ask if Squishy understood the lesson or not. Squishy, did you understand the lesson?  [00:26:11]
+tutor: Yeah, did you see the answer?  [00:26:20]
+student: Yes, very well.  [00:26:23]
+tutor: Yes, very well. Yes. So did Tobias understand the question?  [00:26:24]
+background: Yeah, I did.  [00:26:30]
+tutor: Yes, that's great. So now we are on the YouTube slide where we had all three of them together and we had so much fun on this lesson and this slide, right? Yeah, you did a wonderful job on all these, all these questions by answering them correctly. Then finally, you made me surprised with your answer. That's the correct answer. So that's it for today, Tobias. So make sure you fill up the feedback form before you go. I'll see you next week. Bye-bye. [unclear] Bye, Josh and Mike. [unclear]  [00:26:31]
+tutor: [UNCLEAR]  [00:26:31]
+student: [UNCLEAR] [unclear]  [00:26:31]
+tutor: [unclear]  [00:26:31]
+student: [unclear]  [00:26:31]

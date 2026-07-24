@@ -1,0 +1,322 @@
+A16 — Direct Mastery Evidence
+
+Evaluate direct evidence of the learner's capability for the target objective, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+ES: End-state independent correctness
+
+IRV: Independent reasoning validity
+
+LGC: Learner-generated objective coverage
+
+NTP: Novel transfer performance
+
+COC: Cross-opportunity consistency
+
+SMR: Stable misconception resolution
+
+SEQ: Self-explanation quality
+
+PC: Procedural completeness
+
+SSA: Strategy-selection accuracy
+
+SEC: Spontaneous error detection and correction
+
+WCR: Within-conversation retention
+
+RP: Representation precision
+
+JEU: Justification and evidence use
+
+BCU: Boundary-condition understanding
+
+GPA: Generative production ability
+
+CC: Confidence calibration
+
+Higher scores mean stronger learner capability. Give more weight to recent and increasingly independent performance, while still using supported responses and tutor interaction as context.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+ES: `final accuracy`
+
+IRV: `reasoning validity`
+
+LGC: `objective coverage`
+
+NTP: `transfer performance`
+
+COC: `performance consistency`
+
+SMR: `misconception resolution`
+
+SEQ: `explanation quality`
+
+PC: `procedural completeness`
+
+SSA: `strategy selection`
+
+SEC: `error correction`
+
+WCR: `knowledge retention`
+
+RP: `representation precision`
+
+JEU: `evidence use`
+
+BCU: `boundary understanding`
+
+GPA: `generative production`
+
+CC: `confidence calibration`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "ES": {"score": 0, "label": "minimal final accuracy"},
+    "IRV": {"score": 0, "label": "minimal reasoning validity"},
+    "LGC": {"score": 0, "label": "minimal objective coverage"},
+    "NTP": {"score": 0, "label": "minimal transfer performance"},
+    "COC": {"score": 0, "label": "minimal performance consistency"},
+    "SMR": {"score": 0, "label": "minimal misconception resolution"},
+    "SEQ": {"score": 0, "label": "minimal explanation quality"},
+    "PC": {"score": 0, "label": "minimal procedural completeness"},
+    "SSA": {"score": 0, "label": "minimal strategy selection"},
+    "SEC": {"score": 0, "label": "minimal error correction"},
+    "WCR": {"score": 0, "label": "minimal knowledge retention"},
+    "RP": {"score": 0, "label": "minimal representation precision"},
+    "JEU": {"score": 0, "label": "minimal evidence use"},
+    "BCU": {"score": 0, "label": "minimal boundary understanding"},
+    "GPA": {"score": 0, "label": "minimal generative production"},
+    "CC": {"score": 0, "label": "minimal confidence calibration"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Multiplying 2-digit numbers.
+
+CONVERSATION:
+background: [unclear]  [00:00:00]
+tutor: Hello, is anyone there? Hello?  [00:00:00]
+background: Hi, Bram.  [00:00:07]
+tutor: Hi.  [00:00:09]
+background: How are you?  [00:00:10]
+tutor: I'm good, but your voice is very loud. Is it? Maybe you can reduce your volume in the headset.  [00:00:13]
+student: Okay. [unclear] I am done.  [00:00:22]
+tutor: Okay. Done?  [00:00:30]
+student: Yeah.  [00:00:32]
+tutor: Right. So how's your day, Bram?  [00:00:33]
+student: It's been good.  [00:00:36]
+tutor: Good. What did you do today at school?  [00:00:39]
+student: [unclear] reading.  [00:00:49]
+tutor: Mm-hmm. What else?  [00:00:50]
+student: Only the morning.  [00:00:54]
+tutor: Oh, so that's all that you did. Okay, right. So shall we start off with the lesson, Bram?  [00:00:56]
+student: yes.  [00:00:56]
+tutor: Right. Can you remember last week you have done using multiplication and division facts up to 12 times 12? So you have completed the learning goal question and also you have done the You Do slide. Can you go through these 3 questions and see whether you can remember it, Bram?  [00:01:08]
+student: [unclear] [unclear]  [00:01:30]
+student: Yeah, I remember.  [00:01:40]
+tutor: Yeah, you remember? Excellent, right. So today you have— anyway, last week you have finished these 3 questions also. So today you have to go further slide. Can you read it and try to answer? This table, yeah, multiplication grid. [unclear]  [00:01:42]
+student: Sorry. [unclear]  [00:02:09]
+tutor: Now, do you know how this works, this grid?  [00:02:40]
+student: Yes. You have to write— you have to do all your transceivers.  [00:02:45]
+tutor: Yes, now, so all your timetables— in the sense, can you see this blue, uh, rows here and into this side? So here you have a 3, here you have a 5. 3, if you multiply it by 5, you'll be getting the answer 15, right? So you have put a 10 here. So 3, if you multiply it by 10, you will not be getting 24. So So you have to be careful what you are putting here. Okay? [unclear]  [00:02:51]
+student: I need help.  [00:03:38]
+tutor: Right, no problem. Right. So 3 times. Did you understand? 3 times 5 is 15, isn't it, Bram?  [00:03:39]
+student: Yeah.  [00:03:49]
+background: Yeah.  [00:03:50]
+tutor: Yes. Now when you come into this column, the 3 is still there and you need to multiply it by some number. So 3 times some number is going to be 24. Any idea what is that number in 3 times table? [unclear]  [00:03:50]
+student: That would be 6, I'm saying.  [00:04:17]
+tutor: Yeah, 3 times 6, is it 24?  [00:04:35]
+tutor: How much is 3 times 6, Bram?  [00:04:41]
+student: I mean 3 times— no, 3 times 8.  [00:04:47]
+tutor: Yes, 3 times 8 is 24, correct. So you can put 8 here. So we know that this column that This part is 8, right? Can you find this? [unclear] We can't find this because we don't know the answer, isn't it? Bram?  [00:04:52]
+student: Yes, I can hear you.  [00:05:26]
+tutor: So we don't know what to put here because we don't know what's the answer that they have got, right? Now then we go into to the second line, this line, right? Let's see. Something when you multiply by 5, we don't know what it is because they have not given the answer. Right here, now we know. We have got the answer 48. 48, when you multiply it by 8 and some other number, you will be getting 48. Any idea what is that number going to be? So that number we can put it here. What is that number? [unclear] 9? Is 9 8? Okay. 8 times 8, is it 48? Bram? [unclear] 6 times 8, correct. 6 times 8 is 48. And 6 times 5 also you have done this as?  [00:05:28]
+tutor: 30. Correct. Right, okay. So then the next one, we can't fill these up because still we don't know what it is. Then the next one, 5 times when you multiply it by something, you'll be getting 45. Any idea what it is going to be?  [00:06:34]
+student: [unclear] 5, when you multiply by some number, you need— you will be getting 45. Any idea what is that number? 5, when you multiply it by something, you'll be getting this 45. Any idea what is the number? [unclear]  [00:06:54]
+student: 9.  [00:07:22]
+tutor: 9, correct. 5 times 9 is 45. 45. And we can get the answer here also because 9 and 8, you can multiply it together and get this answer here. What's that answer?  [00:07:23]
+student: Um, so 9 times 8 is 81.  [00:07:41]
+tutor: Not really. Double-check again. How much would be 9 times 8?  [00:07:54]
+student: [unclear] 64?  [00:07:59]
+tutor: Not really.  [00:08:07]
+student: 72?  [00:08:10]
+tutor: Yes, 72. Correct. Right, so now here, now we know it's gonna be 18. So 9, if you multiply it by some number, this number here, you need to get 18. What's the number that you think that we need to put here?  [00:08:11]
+student: [unclear]  [00:08:30]
+tutor: 2, correct. Excellent. And you can fill up these 2 blanks also by looking at these 2 numbers. Can you fill it up, Bram? [unclear]  [00:08:30]
+tutor: Pardon?  [00:08:54]
+background: Sorry.  [00:08:54]
+tutor: Can you fill up?  [00:08:54]
+background: No problem.  [00:08:55]
+tutor: Can you fill up these two answers also in this column?  [00:08:56]
+background: Correct.  [00:09:04]
+tutor: Will it be 9? How did you get 9? You need to multiply this number and this number. [unclear]  [00:09:11]
+tutor: Which number?  [00:09:26]
+student: 2 and what?  [00:09:28]
+tutor: This number. Here, this is the line and this line. When you multiply these two numbers together, how much would you be getting?  [00:09:29]
+tutor: Correct, 12. Right. Now you can fill up these two blanks also. Can we see how you are going to do it?  [00:09:42]
+student: [unclear] You would do this, you would use the  [00:09:50]
+student: 7 times— 7 times 2.  [00:10:06]
+tutor: 7 times 2? Not really. 7 times 5. This and this, then you'll be getting this answer. 7 times 5, how much is it? [unclear]  [00:10:09]
+student: Um, is it 14? 7 times 5? Not really. Or 5 times 7? Correct. Right now, the next 2 numbers— this number and this number— then you'll be getting the answer for this column.  [00:10:25]
+student: So 7 times 8. [unclear] [unclear]  [00:10:52]
+tutor: Not really. You have to double-check again. It's something to do with 50s, but not 52 or 54. Correct. 7 times 8 is 56. So did you understand how to do if you get a question like this?  [00:11:11]
+student: Yes. [unclear]  [00:11:36]
+tutor: Yes. So, all right. So here, this number to this number, this number to this number. So that particular column, if you multiply, you'll be getting that particular column's answers, right? Any questions, Bram?  [00:11:38]
+student: [unclear]  [00:11:38]
+tutor: No questions? All clear? Yeah, right. Okay, now I'll be moving on to the other lesson since you don't have any questions, Bram. Let's see what we have. Okay, multiplying two-digit numbers. Right. Use jotting or format method to solve the following. Right. How are you going to?  [00:11:58]
+student: [unclear] goal.  [00:11:58]
+tutor: For learning goal, use jotting or format method to solve the following. [Speaker] 32. [unclear] Times 3. So 2 times 3 would be 6. And 3 times 2 would be 6. 3 would mean 9. [unclear]  [00:12:38]
+tutor: Correct. Yes, excellent. That's the correct answer. 96 is— you can write the answer. That's 96 here. Right, excellent. Well done. Okay. Okay, so since you answered this correctly, Bram, I'll be moving on to the You Do slide. Okay, you have 4 questions. Shall we try with the first one?  [00:13:13]
+student: Uh, yes please. [unclear]  [00:13:47]
+background: So, 23 times 2, 22. [unclear]  [00:13:51]
+student: 46.  [00:14:09]
+tutor: Correct.  [00:14:21]
+tutor: Next one?  [00:14:36]
+student: Yep, I'm just looking out. [unclear] [Speaker] It just goes like that? [unclear]  [00:14:40]
+student: If I do 4 times 3, which is—  [00:15:13]
+tutor: 12. [unclear] [unclear]  [00:15:24]
+tutor: Correct. Excellent. Now question C.  [00:16:01]
+student: I need help with question C.  [00:16:07]
+tutor: You need help? [unclear]  [00:16:12]
+tutor: How are you going to multiply 26 times 3? There is an exchange also happening here, isn't it? 26, when you multiply it—  [00:16:21]
+student: 18.  [00:16:40]
+tutor: Yeah, around 80, correct.  [00:16:42]
+background: 1,000 and [UNCLEAR].  [00:16:49]
+tutor: 78, correct. Next one.  [00:16:52]
+background: Same.  [00:17:00]
+tutor: Yeah, also there will be an exchange happening.  [00:17:01]
+tutor: It was the same with [UNCLEAR].  [00:17:08]
+student: The finale. [unclear]  [00:17:10]
+student: [unclear]  [00:17:10]
+student: [unclear]  [00:17:10]
+student: 28 divided by 10. [unclear]  [00:18:02]
+tutor: That's the answer, Bram, that you got. [unclear]  [00:18:28]
+background: Okay, so we have to do 7 times 10.  [00:18:34]
+tutor: Yes, 70, same answer, isn't it? Same answer as 78. Excellent, right. Well done in completing all these 4 questions really well. Any questions, Bram?  [00:18:41]
+student: [unclear]  [00:18:56]
+tutor: No questions. So you use the formal method for all these 4 questions, isn't it?  [00:18:56]
+student: Mm-hmm.  [00:19:04]
+tutor: Yeah, right. Okay, now let's see what we have in the You Do slide. Okay.  [00:19:05]
+tutor: Can you read it and try to answer it? [unclear]  [00:19:15]
+student: Okay. Yoki got 3 sets of colored pencils for his birthday. Each pack contains 27 colored pencils. How many colored pencils does he have in total?  [00:19:19]
+tutor: Yes, how are you going to solve this?  [00:19:54]
+student: You need [unclear] 3 times 27.  [00:19:57]
+tutor: Correct. [unclear]  [00:20:08]
+student: [unclear]  [00:20:08]
+tutor: Correct, 81. And can I know why you multiplied it by 3?  [00:20:44]
+student: Because he got 3 sets of colored pencils.  [00:20:49]
+tutor: Yes, correct. He got 3 sets of colored pencils. And since each pack contains 27, yes, excellent thinking there. Well done.  [00:20:55]
+tutor: So do you have any more questions, Bram?  [00:21:08]
+student: No.  [00:21:12]
+tutor: Related to this lesson? So was it all clear?  [00:21:13]
+student: Yes.  [00:21:18]
+tutor: Yeah, these are easy lessons, isn't it? [unclear] Yeah, it will refresh your memory, right? So I hope you have done all these lessons at school, right?  [00:21:19]
+tutor: Yeah, okay. So since you don't have any questions, Bram, I'll be moving on to the other lesson. Let's see. Okay. Solving Real-Life Problems with Bar Models. Have you seen bar models before?  [00:21:33]
+student: Mm-hmm.  [00:21:50]
+tutor: Yeah? Okay. Let's see how you solve the learning goal question. [unclear]  [00:21:51]
+tutor: Arnold buys 5 jars of sweets. There are 35 sweets in each jar. How many sweets does he buy altogether? 5 times 35. [unclear]  [00:21:58]
+tutor: And done.  [00:22:27]
+student: Yeah, 175. Yes, excellent.  [00:22:48]
+tutor: Right. Well done. So since you answered this correctly, I'll be moving on to the You Do slides. So let's see how we are going to do. There are 3 questions. Let's start with the first one. [unclear]  [00:22:52]
+student: There are 7 go-karts. How many wheels are there altogether?  [00:23:12]
+tutor: 7 times 4, 28. [unclear]  [00:23:17]
+tutor: Right, excellent. Question B? [Speaker] So, 9 grapes. Some ate 3 times as many grapes. 9 times 3. 9 times 3 is 27.  [00:23:33]
+tutor: Correct. [unclear]  [00:23:59]
+tutor: Molly has 96 sweets to put in party bags. She sells them equally. 96 times 12.  [00:24:13]
+student: So what do you have to do here? Did you read the question properly? Molly has 96 [unclear] sweets to put into party bags. She shares them equally between 12 party bags. Divide.  [00:24:31]
+tutor: Exactly, you need to divide because it says she shares them equally between 12 party bags, right? Okay. [unclear]  [00:24:53]
+tutor: That's correct. The answer, 12 times 8 is 96. So the answer is 8.  [00:25:15]
+tutor: It needs to be— here you need to put 96 actually, divide by 12. Always the bigger number you need to divide it by the smaller number. So the 96 [UNCLEAR]. So 96 is here and 12 you need to put here. Okay?  [00:25:29]
+student: Okay.  [00:25:52]
+tutor: Can we change the two numbers? [unclear]  [00:25:52]
+tutor: 96, Bram, not 98. Yeah, 96. [unclear]  [00:26:08]
+tutor: Still you have put 98.  [00:26:22]
+student: Yeah.  [00:26:42]
+tutor: Great. Excellent. So 96, when you divide it by 12, you'll be getting the answer as 8. Excellent, right? Is it all clear?  [00:26:45]
+student: Yes, I have no questions.  [00:26:58]
+tutor: Yes, so all what you need is you need to read it really well, because otherwise the multiplications and the divisions calculations, you might get it wrong sometimes. Yeah, so always read the questions. [unclear] Okay, right. So since you don't have any questions, uh, let's put the division sign. Since you don't have any questions, I'll be moving on to the Go Further slide here.  [00:27:00]
+student: Yeah.  [00:27:36]
+tutor: All right, shall we try out this?  [00:27:36]
+student: Is this our last [UNCLEAR]?  [00:27:39]
+tutor: We have about 6 minutes. Let's see if we can finish this before time. We can maybe perhaps go into another lesson and finish one or two slides from that also. It all depends how we do it.  [00:27:44]
+student: All right. Programs cost 50p. Selling programs raises 20. How many programs are sold? 50 times 20. I mean 50 plus 20. 70p. [unclear]  [00:28:03]
+tutor: Okay, did you read the question properly, Bram?  [00:28:23]
+student: 50 times 20.  [00:28:27]
+tutor: They say— [unclear] Okay, programmes cost 50 pence, and the selling programmes raises to £20. How many programmes are sold? You need to find how many programmes are sold. So one programme is 50 pence. When you sell the programmes, they have— Got money as £20. So how many programs are sold for £20? Because one program is 50 pence. Any idea how you are going to do it and what calculation is needed to solve this?  [00:28:31]
+student: [unclear]  [00:29:18]
+tutor: You need to do... [unclear]  [00:29:26]
+student: It's 40.  [00:29:31]
+tutor: Yes, and can I know what did you do to get 40?  [00:29:35]
+student: I used my brain.  [00:29:41]
+tutor: And?  [00:29:47]
+student: I used my brain.  [00:29:49]
+tutor: And I look that [unclear] doubled it for you. You doubled it. Actually, the calculation that you need to solve this is you need to divide this 20 pounds from 50 pence. That is 0.5.  [00:29:50]
+tutor: Yeah, so 0— 50 pence plus 50 pence, you'll be getting, uh, a £1. So like that, if you check how many, that you know that you will be getting 40. So how many programs are sold? You can put the answer as 40. Correct. [unclear] [unclear]  [00:30:20]
+tutor: Excellent. Right. Right. So we are done with this lesson also, Bram. What do you think about the lesson that we completed?  [00:30:48]
+student: It was easy.  [00:30:59]
+tutor: Easy, yeah. So both the lessons that we completed was easy for you, isn't it, Bram? But I hope that it refreshed your memory.  [00:31:00]
+tutor: Yeah?  [00:31:13]
+student: Yeah. [unclear]  [00:31:14]
+tutor: Yes. Okay. Right. Let's see. We have about 2 minutes remaining. I will just go through the learning goal question. And let's see what we have here. Finding fractions of a set of objects. Right. So you have a learning goal question.  [00:31:16]
+tutor: How's your fraction knowledge, Bram?  [00:31:43]
+student: Okay.  [00:31:48]
+tutor: Okay. All right. Okay. So let's see how we are going to do the learning goal question. [unclear] [unclear]  [00:31:49]
+student: Divide 9 apples into 3 equal groups.  [00:32:17]
+tutor: Okay, so here—  [00:32:21]
+tutor: All right, you can start the prior learning question also. [unclear] Yes, this is correct. Yes, the prior learning question is correct. Actually here, Bram, to find 1/4 of 12 pairs, any idea how we are going to do it? How to find one part of it, these 12 pairs?  [00:32:32]
+student: [unclear]  [00:33:09]
+tutor: Okay, but this you need to divide into 4 equal parts, right? So when you divide it into 4 equal parts, it's not gonna be 4 pairs. But we will not have time to discuss about this, Bram. So we'll start fresh from this lesson next week. So excellent work today. So what do you think about the lessons that we completed?  [00:33:11]
+student: It was easy.  [00:33:42]
+tutor: Easy, right? It was a good lesson, but I hope that it refreshed your memory of how to just read some questions carefully. And can you remember the multiplication [UNCLEAR]?  [00:33:44]
+tutor: that we did. Yeah? And if you get a question like this, now you know how to do it, right, Bram?  [00:33:44]
+student: right.  [00:33:44]
+tutor: Yes. Okay, excellent work today, Bram. So keep up your amazing work. And once I end the session, you'll be getting some questions. Try to do those as well. Okay? So have a nice day, Bram. I'll see you soon. Okay?  [00:34:08]
+tutor: Bye.  [00:34:25]
+student: Bye.  [00:34:27]
+tutor: Bye.  [00:34:28]

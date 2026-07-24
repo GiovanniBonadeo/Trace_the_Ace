@@ -1,0 +1,439 @@
+A16 — Direct Mastery Evidence
+
+Evaluate direct evidence of the learner's capability for the target objective, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+ES: End-state independent correctness
+
+IRV: Independent reasoning validity
+
+LGC: Learner-generated objective coverage
+
+NTP: Novel transfer performance
+
+COC: Cross-opportunity consistency
+
+SMR: Stable misconception resolution
+
+SEQ: Self-explanation quality
+
+PC: Procedural completeness
+
+SSA: Strategy-selection accuracy
+
+SEC: Spontaneous error detection and correction
+
+WCR: Within-conversation retention
+
+RP: Representation precision
+
+JEU: Justification and evidence use
+
+BCU: Boundary-condition understanding
+
+GPA: Generative production ability
+
+CC: Confidence calibration
+
+Higher scores mean stronger learner capability. Give more weight to recent and increasingly independent performance, while still using supported responses and tutor interaction as context.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+ES: `final accuracy`
+
+IRV: `reasoning validity`
+
+LGC: `objective coverage`
+
+NTP: `transfer performance`
+
+COC: `performance consistency`
+
+SMR: `misconception resolution`
+
+SEQ: `explanation quality`
+
+PC: `procedural completeness`
+
+SSA: `strategy selection`
+
+SEC: `error correction`
+
+WCR: `knowledge retention`
+
+RP: `representation precision`
+
+JEU: `evidence use`
+
+BCU: `boundary understanding`
+
+GPA: `generative production`
+
+CC: `confidence calibration`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "ES": {"score": 0, "label": "minimal final accuracy"},
+    "IRV": {"score": 0, "label": "minimal reasoning validity"},
+    "LGC": {"score": 0, "label": "minimal objective coverage"},
+    "NTP": {"score": 0, "label": "minimal transfer performance"},
+    "COC": {"score": 0, "label": "minimal performance consistency"},
+    "SMR": {"score": 0, "label": "minimal misconception resolution"},
+    "SEQ": {"score": 0, "label": "minimal explanation quality"},
+    "PC": {"score": 0, "label": "minimal procedural completeness"},
+    "SSA": {"score": 0, "label": "minimal strategy selection"},
+    "SEC": {"score": 0, "label": "minimal error correction"},
+    "WCR": {"score": 0, "label": "minimal knowledge retention"},
+    "RP": {"score": 0, "label": "minimal representation precision"},
+    "JEU": {"score": 0, "label": "minimal evidence use"},
+    "BCU": {"score": 0, "label": "minimal boundary understanding"},
+    "GPA": {"score": 0, "label": "minimal generative production"},
+    "CC": {"score": 0, "label": "minimal confidence calibration"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Rounding numbers to the nearest 10,000 and 100,000.
+
+CONVERSATION:
+background: [unclear]  [00:00:00]
+tutor: Hi.  [00:00:00]
+student: Hi.  [00:00:01]
+background: Hello.  [00:00:01]
+tutor: Hello.  [00:00:01]
+background: Can you hear me?  [00:00:03]
+tutor: Yes.  [00:00:05]
+background: Great.  [00:00:06]
+tutor: Hey, so how was your day today?  [00:00:06]
+background: Good.  [00:00:09]
+tutor: Enjoyed?  [00:00:10]
+background: Yeah.  [00:00:12]
+tutor: Happy? Okay, great. So are we good to start with the lesson? [unclear] Yeah. Yeah. So we are going to complete this rounding numbers to the nearest 10,000 and 100,000. Okay?  [00:00:12]
+student: Okay.  [00:00:29]
+tutor: Great. So today you do this. Can we quickly complete this?  [00:00:29]
+student: Yes. [Speaker:BACKGROUND]...  [00:00:36]
+student: Yeah.  [00:00:42]
+tutor: Can you read it out loud and say what it says? [unclear]  [00:00:42]
+student: Yeah. [UNCLEAR]...is thinking of a number. When rounded to the nearest 10,000, it is 350,000. When rounded to the nearest 100,000, it is 40,000. Can you think— can you give a number he could be thinking of? [unclear]  [00:00:45]
+tutor: So, where should we start first for this?  [00:01:18]
+student: When we run into a— wait. When we run into a nearest— 10,000, it is 350,000. [unclear]  [00:01:21]
+tutor: So what do we do here, Felicity? [unclear]  [00:01:43]
+tutor: Exactly, very good. So can you give me a number that could be rounded to 350?  [00:02:01]
+student: 340,000.  [00:02:12]
+tutor: Okay, so if you round it 340, To the nearest 10,000, how could it become 350,000? [unclear]  [00:02:20]
+tutor: So can we go down in rounding, like before the number they have given?  [00:02:33]
+background: But in the normal—  [00:02:41]
+tutor: No.  [00:02:46]
+background: In the one line.  [00:02:47]
+tutor: No, okay. Okay, it's okay. Let's go with your answer. Write whatever you think is correct and then we can check it out, okay? Great. [unclear]  [00:02:48]
+tutor: Yeah, can we use the text tool? And you do your workings here and in the final let me know once you're done, okay?  [00:03:09]
+tutor: So you have two conditions here. Make sure those two conditions are satisfied. [unclear]  [00:03:19]
+background: Yeah, thanks. [unclear]  [00:03:24]
+tutor: Yeah.  [00:03:32]
+background: Oh, that's fine.  [00:03:34]
+tutor: Yeah. At least they've still had a tutor. [unclear]  [00:03:34]
+background: Perfect. [unclear]  [00:03:38]
+tutor: When comparing numbers, go back to the Tutor's [unclear] and think about the amount of numbers.  [00:03:45]
+background: So what is that, 10,000, Felicity? [Speaker:Felicity]...  [00:03:56]
+tutor: Yeah, I don't know why, but maybe Callahan from Perth. [unclear]  [00:04:12]
+tutor: Felicity?  [00:04:20]
+student: Mm-hmm.  [00:04:22]
+tutor: Are we working on this? Is it difficult for you?  [00:04:25]
+student: A bit, yeah.  [00:04:31]
+tutor: All right, no worries. Okay, so see, they are saying nearest 10,000. If they are considering that, the number can be 350,000. Yeah.  [00:04:33]
+tutor: Yeah.  [00:04:45]
+background: And when they are rounding it to the nearest 100,000, it's 400. So let me take this as the base and [unclear] 355,000. If they are saying something is try to get between these ranges, okay?  [00:04:46]
+student: [unclear]  [00:05:11]
+tutor: Within this 350,000 to 400,000. So for on safety side, I took 355,000. Okay? Now let's see whether these two conditions are satisfied. So nearest 10,350. Yes. So if I'm looking into that, Do you think this one is a platform? [unclear]  [00:05:13]
+tutor: What do you think, Felicity? Is this correct? [Speaker:Felicity]... Yeah. [Speaker:Tutor] Okay, so why did you say yes for this? Can you explain? [unclear]  [00:05:38]
+tutor: Well... Oh no, no, no, no, no. No, it's not the right answer.  [00:06:10]
+background: Okay, so why it's wrong then?  [00:06:19]
+student: Because...  [00:06:22]
+student: When rounded to the nearest 10,000, it's 350,000. And you start with 10,000 and see, like, when you get to 350,000, but it won't go above 350,000 because you've got a lower number which you're dividing it by.  [00:06:25]
+tutor: Okay, good explanation. I like that. Yes, to some extent what you said was correct, but since it's a 5, Okay, so what happens? It will be rounded up and I will be getting some other answer saying 360,000. Yeah, but they have said here rounded to the nearest 10,000, it's 350. So can you complete the sentence? So how could I change my answer? [unclear] [unclear]  [00:06:42]
+tutor: Very simple.  [00:07:26]
+background: Wait, what was the question again?  [00:07:31]
+tutor: Yeah, so earlier I had 355,000, yeah? And you said that is the wrong answer. Why? Because I had a 5 here in the thousands column. Yes? So it would go up, which makes it as 360,000, isn't it? [unclear]  [00:07:35]
+tutor: Clue they have given here says when rounded to the nearest 10,000, it is 350. So this can't be the answer. So what could be the answer?  [00:07:58]
+student: [unclear]  [00:08:10]
+student: 300... [unclear]  [00:08:24]
+tutor: That's okay. Just say it. 300?  [00:08:30]
+student: 300...  [00:08:38]
+student: [unclear]  [00:08:44]
+tutor: Yeah, 350,000 could be an answer. Very good. Well done. This can be an answer. Or you can start— since they have given that number, you can just start with 350,001. Okay? And you can go till 354,999. But not 355,000. Got it?  [00:08:44]
+student: Mm-hmm.  [00:09:15]
+tutor: And let's see, now I'm going to take a number within this range since I have found out.  [00:09:17]
+student: Yeah.  [00:09:24]
+tutor: So let me write a random number, 350— sorry, 350— [unclear]  [00:09:25]
+tutor: Yeah. What I try to do here, Felicity, I can see a line. Felicity? Is it by mistake? [unclear] The line, the red line.  [00:09:36]
+student: Yeah.  [00:09:54]
+tutor: Okay, no worries. So now let's see. Oops, why this has been 500? Sorry about that. [Speaker] It's 353,000.  [00:09:55]
+tutor: Yeah. [Speaker] So if I take this answer, see, this is less than 5, so yes, when rounding down, it's 350. Then to the nearest hundred means I have to look this. Then it's above 5, 5 and above 5, we round up, so it's 400,000. Yes, and here we— the answer. We can say that Hoki would have taken up 353,000. Okay? Understood? You have any questions? [unclear]  [00:10:07]
+tutor: Great. Okay. So now we are going to move to a new chapter. Yay!  [00:10:49]
+tutor: So this one is called Comparing Numbers with Up to Two Decimal Places. Can we try this question here, Felicity? [unclear]  [00:11:00]
+student: Yeah.  [00:11:13]
+tutor: Yeah. Can you read it out loud?  [00:11:14]
+student: Yeah. The table shows how far some children jumped in a long jump. Write the name of the child who jumped the furthest. [unclear]  [00:11:19]
+tutor: So who ran further?  [00:11:41]
+student: James.  [00:11:44]
+tutor: Okay, why do you think it's James?  [00:11:46]
+student: Because everybody else has got [Speaker] I don't know. [unclear]  [00:11:49]
+tutor: Good, excellent focus. [Speaker] Yeah, it's not James. It's—  [00:11:59]
+tutor: Katie. Okay. So, what made you change from James to Katie?  [00:12:13]
+student: Because 2.9 is bigger than 2.45.  [00:12:19]
+tutor: Yes, it is. Very good. That's why I gave you an excellent focus binoculars. Great. Can you read this? [unclear]  [00:12:24]
+student: When comparing decimals, it is important to understand the value of the digits and their relative size.  [00:12:36]
+tutor: What is meant by here? [unclear] What they have said here?  [00:12:44]
+student: In this green box?  [00:12:56]
+tutor: When comparing decimals, it is important to understand the value of the digits and their relative size. [unclear]  [00:12:59]
+tutor: Yeah, what do you understand from what they are saying there? That was my question, Felicity.  [00:13:15]
+student: Okay.  [00:13:24]
+student: It's important to understand the value of the digits and their relative size.  [00:13:35]
+tutor: Yeah. So if you say it is 1.2, yeah, they are saying you have to understand the value of digits, which means it's 1 whole and 2— so if you take 10 box here, only 2 parts would be covered. So that's what they meant by relative size. So when you see a number, you should get this picture. Okay? Great. Yeah. Let's go. [unclear]  [00:13:41]
+tutor: Yeah. What is this number here, Felicity?  [00:14:12]
+student: One.  [00:14:20]
+tutor: One. Okay, great. Let's continue.  [00:14:21]
+background: Yeah, we've done this before, that's how I know. We've done it in my last degree.  [00:14:29]
+background: Yeah.  [00:14:36]
+background: Yeah, I'm in a master's group with a head teacher.  [00:14:37]
+tutor: Is it 1.1?  [00:14:56]
+student: Yeah, because there's a 1 here.  [00:14:59]
+tutor: Yes, but can you see here they have colored one portion, and in this block they have colored only one green color. So what is meant by that?  [00:15:03]
+student: That is not 10, so it's only—  [00:15:17]
+tutor: Yes. If that is not a tenth, what is it?  [00:15:19]
+student: A one?  [00:15:25]
+tutor: Yes, it's one. Which column does it belong to in its place value chart? [unclear]  [00:15:27]
+tutor: Good, it belongs to the hundreds. Well done. Okay. Now let's try the B side. Good girl. [unclear]  [00:15:37]
+tutor: So what is this sign called? [Speaker:Background]... [UNCLEAR]  [00:15:57]
+student: To me it just looks like a crocodile head.  [00:16:03]
+tutor: Yes, it's a crocodile mouth. So what represents when it's this side? How do you call that? [unclear] [Speaker:Background]...and so there's 10 different lines. [UNCLEAR]  [00:16:11]
+tutor: Background? Okay, so if it's pointing towards right like this, how do you call that? It has a name. Can you recall? [unclear]  [00:16:24]
+student: Smaller?  [00:16:47]
+tutor: Yeah, one is greater than and one is smaller than. Very good in recalling. So which is greater than and which is smaller than? Can you show me?  [00:16:50]
+student: Is this one greater and this one smaller?  [00:17:00]
+tutor: Mm-hmm. Okay, all right.  [00:17:05]
+tutor: So actually it's the opposite way, Felicity. It's like this. If you take 5 and here 3, okay, which one is bigger? 5 or 3? [unclear]  [00:17:09]
+student: Yeah.  [00:17:28]
+background: Fast.  [00:17:29]
+tutor: 5. So the crocodile mouths always want the big— portion, yeah? It wants to eat more. So always it opens the mouth to the bigger portion. Remember like that. Okay? Great. So now how do you call this then?  [00:17:31]
+student: This is [UNCLEAR]. [Speaker:TUTOR] This is [UNCLEAR]. What is this?  [00:17:49]
+student: [unclear]  [00:18:03]
+tutor: Yes, smaller than. So if I put this symbol, can you tell me where does this 5 come? Which side, right or left? Can you put the 5 in the relevant side? Great. Yes. Why did you put this 5 this side?  [00:18:03]
+student: This 5 is bigger. [unclear]  [00:18:33]
+tutor: Yes, the crocodile wants to eat more. Yeah? Good. So now it's easy for you to do this. Can we compare this? 1.2 and 1.11.  [00:18:35]
+student: 1.1.  [00:18:48]
+student: 1.1, 1 bigger. No, 1.2.  [00:18:55]
+tutor: Yeah, can you put the relevant digits here and we'll look on it.  [00:19:01]
+student: Basically, this is 10, this would be 1,000. This would be 7,500. So this is [UNCLEAR].  [00:19:05]
+tutor: Excellent. Very good. And the sign? [unclear] Good girl. Okay. So keep in mind how do we call this greater than and lesser than. Okay. In the end of the session, I'll ask again. Done?  [00:19:17]
+student: Yes, ma'am.  [00:19:35]
+tutor: Deal. Okay. So now let's move on to this. Follow me and your turn.  [00:19:36]
+tutor: So it can help to write the numbers beneath each other to compare. So I'm going to compare 0.7 and 0.63. So let me write that here. So this 0.7 can be written as 0.70. I'm just writing it as it is and [UNCLEAR].  [00:19:43]
+tutor: 0.63. [unclear] The first number has how many tenths? The first number has 7 tenths. And then the second number has? 6/10. Or 0.7— oops— 0.7 is greater than 0.63. Did you get this, or you have any question?  [00:20:17]
+student: No, I understand that.  [00:20:48]
+tutor: All right. Okay. Let's do this then. [unclear]  [00:20:51]
+student: [unclear]  [00:21:05]
+tutor: Good. So how about writing it in the base values chart?  [00:21:05]
+student: [unclear]  [00:21:10]
+tutor: Excellent. Great. Good. This chapter seems easy for you, isn't it, Felicity? [unclear]  [00:21:12]
+tutor: Yeah, I can't wait. [Speaker:Background]...because they were going on... [Speaker:Tutor] Okay. Now it's your turn to do this A, B, and C. And if you need any help, I'm here to help you, okay?  [00:21:34]
+background: Okay.  [00:21:47]
+tutor: Once it's done, let me know. [unclear]  [00:21:48]
+tutor: You can So we [unclear] [unclear]  [00:22:02]
+student: just— we don't really need the 5 there, so it would be 0.2.  [00:22:06]
+student: So this thing is basic teaming. [unclear]  [00:22:20]
+background: I never understand that, I do. It was this side. I said I did 1.19 and this. [unclear]  [00:22:26]
+tutor: Okay, done. Let's see this. Is it— what is this number here, 1.25 or 125?  [00:23:08]
+student: 1.25.  [00:23:17]
+tutor: Okay, great. And this— all right. So see here, we have only 5 colored here, yeah?  [00:23:19]
+student: Mm-hmm.  [00:23:28]
+tutor: So can we write 1.5 here?  [00:23:30]
+student: 1.05?  [00:23:36]
+tutor: Yes. So what made you change that?  [00:23:38]
+student: Um, because there was nothing in the 10, so I put 0 down.  [00:23:42]
+tutor: Exactly. Very good. So it's 1.25, yeah. And do you think any changes should be made here, or is it correct?  [00:23:47]
+student: [unclear]  [00:24:00]
+tutor: Because we have 2 here, yeah, and 0 here, which means the crocodile needs the bigger portion. Great. Complete using the correct symbol. Oh, this is perfect. What digit could go [unclear] space to make one this group? Hmm. Zero. Yeah. So this is correct, yeah?  [00:24:01]
+student: Yeah.  [00:24:31]
+tutor: 8.8, okay, is less than 5. Do you think it's correct? Is 18% high?  [00:24:32]
+student: Um, 1.05, 1.08. [unclear]  [00:24:43]
+tutor: No, right?  [00:24:49]
+student: No, I know how to make it right.  [00:24:54]
+tutor: Good girl, let's do that. [unclear]  [00:24:59]
+student: 1.85.  [00:25:16]
+tutor: Yes. So any number other than 0 you can put here to make this number the bigger one. Okay? Very good thinking. Now let's do this. Can you read and guide me through the steps you are doing and find the answer? [unclear]  [00:25:16]
+student: Yeah. [unclear] I found the answer. Max. It was Max.  [00:25:41]
+tutor: Wow, okay. That was really quick. So how did you find that?  [00:25:47]
+student: Because 3.4 is bigger than all the others. Wow, yeah, very good eyes. Okay, so can we write that in the box here and here?  [00:25:52]
+student: Mm-hmm.  [00:26:06]
+tutor: Excellent. Really impressive, Felicity. [unclear] Okay. Good girl, you have finished this lesson quickly. So can you tell me what are your new learnings on this?  [00:26:07]
+student: I learned what this [unclear]  [00:26:29]
+tutor: Sorry, I didn't get that.  [00:26:33]
+student: I learned what this means.  [00:26:37]
+tutor: This means, this in the sense?  [00:26:42]
+student: Give to like the two crocodiles.  [00:26:45]
+tutor: Ah, okay. The greater than and the smaller than, yeah?  [00:26:49]
+student: Mm-hmm.  [00:26:53]
+tutor: Good. Okay. So let's move on to the next lesson. Good job in recalling. Yeah. So this is called Multiplying and Dividing Whole Numbers and Decimals by 10 and 100. I know you are going to rock this. So can— Complete this, Felicity. [unclear]  [00:26:54]
+tutor: Hello. See, I told you. Good girl.  [00:27:18]
+student: It just brings up a Google search.  [00:27:33]
+tutor: Yeah, let's move on to this. Yeah, can we read this?  [00:27:35]
+student: While she was doing that, I did this. [unclear]  [00:27:41]
+tutor: I do not know what that is, but the Gatineau place value chart is useful when multiplying and dividing numbers by 10 or 100.  [00:27:45]
+student: OK. So are you familiar with this, or you don't know? From scratch.  [00:28:02]
+tutor: Oh yeah, I understand that now.  [00:28:09]
+background: You understood?  [00:28:11]
+tutor: You ever done it before?  [00:28:12]
+background: Okay, yes, I remember that. So can we complete this A, B, and C? [unclear] [unclear]  [00:28:15]
+tutor: Shall we do a small recap how this works?  [00:28:44]
+student: Oh yeah, can we do a quick recap?  [00:28:50]
+tutor: Yeah, I think it's good to refresh your brains, yeah? So see, we have 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. [unclear] And then 30, 100, 200, 300, 1,000, 2,000, 3,000. It goes on like that. So what is the pattern you can see from left to right here, Felicity?  [00:28:52]
+student: It's going up in ones.  [00:29:16]
+tutor: Ones. And this column?  [00:29:18]
+student: It's going up in tens.  [00:29:21]
+tutor: Yes. And the third column?  [00:29:23]
+student: It's going up in hundreds. Good. And the fourth?  [00:29:25]
+student: It's coming of 10,000.  [00:29:29]
+tutor: Yes. So if we take this example, if you're going from 9, it's becoming 90, which means? What is happening? [unclear] No, 9 is being transformed as 90.  [00:29:33]
+student: Oh, yeah, transformed. Times 10. Now assume 9,000 is being brought up to 900, then?  [00:29:56]
+student: [unclear]  [00:30:03]
+tutor: No, I'm asking the other way, like this. If you're coming down—  [00:30:07]
+student: Divided by 10.  [00:30:13]
+tutor: Divided by 10. So simple as that. This is how this chart works. So when you come from top to bottom, It's divided by 10. Okay? And if you are going from top to— sorry, if you are going from bottom to top, you are timesing it by 10. That is the simple rule. Okay?  [00:30:15]
+student: Okay.  [00:30:37]
+tutor: Okay. Now I think you can do this A, B, and C.  [00:30:39]
+student: So A, do I just— like— [unclear] [unclear]  [00:30:45]
+tutor: So there are two colored boxes, yeah? You have to just write them, that's all.  [00:30:55]
+student: Just write them down?  [00:31:01]
+tutor: Yes.  [00:31:03]
+student: Yes. Three.  [00:31:12]
+tutor: So is it 30.6 you have written here?  [00:31:15]
+student: Oh, no. [unclear] Do you see my answer? [unclear]  [00:31:22]
+tutor: Yes. [unclear]  [00:31:52]
+student: Okay. [unclear]  [00:31:54]
+tutor: Yes, so you have to combine them and write it here, Felicity. So if you add 3 plus 0.6, what is the answer? [unclear]  [00:32:07]
+student: The answer is 6.  [00:32:21]
+background: Can we write it down here?  [00:32:31]
+tutor: Wait, what did he say?  [00:32:43]
+background: Yeah, if you add 3 and 0.6, what is the value?  [00:32:45]
+tutor: 0.8.  [00:32:54]
+background: [unclear] No, I'm asking 3 and—  [00:32:56]
+tutor: 3.9.  [00:32:58]
+student: 0.9.  [00:33:01]
+tutor: Oh, no, this— okay, let's do like this. So give me a moment. [unclear] Okay, let me take this. 3 in the sense, how do we write that in this table is 3.0. Yeah, and you have 0. 6. Oops, sorry, the 0 has come here. 0.6. Yeah, so now if I add this, what is the value?  [00:33:03]
+student: 27.3 kilograms.  [00:33:39]
+tutor: If I'm adding this, what is the value here? [unclear] [unclear]  [00:33:42]
+tutor: 0 and 6, what is the value?  [00:33:58]
+student: The value of 0 and 6 is 6.  [00:34:07]
+tutor: Okay, good call. And the 3 and 0?  [00:34:11]
+student: 3.  [00:34:15]
+tutor: 3. So what is the total value?  [00:34:16]
+student: [unclear] 3.6.  [00:34:20]
+tutor: 3.6. Now, did you understand how do we add this?  [00:34:22]
+student: Yeah.  [00:34:27]
+tutor: Great. So what is the answer here?  [00:34:28]
+student: 3.6.  [00:34:32]
+tutor: 3.6. Can we rewrite that again?  [00:34:34]
+student: [unclear]  [00:34:36]
+tutor: Thank you, Felicity. [unclear]  [00:34:40]
+student: This is an example. You would need to— so do you see the 3 zeros? That means you'll need to put 3 of these numbers, the [UNCLEAR]. [Speaker:TUTOR] All right. Now let's do the B question. You know what to do. Can we do that?  [00:34:46]
+student: So that would be—  [00:35:15]
+student: 3 times 10 equals 30. [unclear]  [00:35:18]
+tutor: Yeah, can we plainly take 3 times here? What do you think? You have a number here, right? 3.6. So it's better to use those numbers here, Felicity.  [00:35:25]
+tutor: Okay. Great. Thank you. [unclear]  [00:35:44]
+student: Because—  [00:35:57]
+tutor: Good girl. [Speaker:Felicity]...people know about it. Wait, have you got a column to track? [unclear]  [00:35:58]
+tutor: And then what is the C part?  [00:36:13]
+student: I know it, I know it, I know it. Wait, level. So that's... [unclear]  [00:36:16]
+background: Wait, how much do you weigh in real life?  [00:36:24]
+student: 3.6 tons, I hope. [unclear]  [00:36:32]
+tutor: Yeah, what's the answer then? [unclear]  [00:36:41]
+tutor: Good girl, yes. Good working out, well done. And now we are going to do some divisions here. So what happens? We are coming down the chart here, isn't it?  [00:36:48]
+student: Yeah.  [00:37:11]
+tutor: Okay. So we do that. 125 divided by 10. [unclear]  [00:37:12]
+tutor: [unclear] Would it be?  [00:37:27]
+student: Yeah, it's quite [UNCLEAR]. [Speaker:Tutor] Oh, okay. Then would it be the age? What happens when you divide it by 10? [unclear]  [00:37:30]
+tutor: Good, good. Yes, 12.5.  [00:38:01]
+tutor: And then E part. [Speaker:Felicity]...teachers. This is— that was on the TV to show. They weren't that on the TV, they had teachers. [Speaker:Tutor] Here you're dividing it by what number here, Felicity? [Speaker:Felicity]...thousand teachers. So what we will need to do is look at that and then put it in each two. [UNCLEAR]  [00:38:18]
+tutor: Yeah, so here it's 10. Can it be the same? Here you're dividing it by 10 and you're getting 12.5. And can we get the same number when we are dividing it by 100? [unclear]  [00:38:42]
+student: Yeah, the whole number 500, which makes it 100 times smaller.  [00:38:53]
+tutor: All right. Okay. So Felicity, here, when you are dividing it by 10, number becomes 10 times smaller. Yeah? And when you're dividing it by 100, it becomes again 10 times smaller, which means what happens? Where do we move the digits?  [00:39:04]
+student: [unclear]  [00:39:24]
+tutor: Okay, one sec. Let's do like this. I'll take this one. There is the— yeah, okay. So we have— what is the number we have here?  [00:39:29]
+student: 125.  [00:39:44]
+tutor: 125. Okay, let me write it. 120— sorry, 125. Okay, so when we are dividing it by 10, what happens to this? [unclear] We are moving this point one time to the left. Yeah?  [00:39:45]
+student: Yes.  [00:40:11]
+tutor: Yes, so this point comes here. So one time. And then if you are dividing it by 100, this point moves another one step here. Because 10 times 10 is 100. Yeah?  [00:40:12]
+background: [unclear] 1.23. Yes, 10 times 10 is 100, so we have to move the digits 2 times. Got it?  [00:40:27]
+student: Yeah.  [00:40:42]
+tutor: Great. Okay, so then can we change the answer here? [unclear] [unclear]  [00:40:43]
+tutor: Yeah, so what was the answer you told me here, Felicity?  [00:41:08]
+student: Yeah, but it was the opposite.  [00:41:14]
+tutor: Background?  [00:41:18]
+student: Yeah.  [00:41:19]
+tutor: Okay. [unclear]  [00:41:20]
+tutor: Great. Okay. Brilliant. So, yeah, let me do this. So I'll be doing this, follow me, and you'll be doing this, your turn. Okay, so let's multiply 0.44 by 10 and 100. They have written here, to multiply by 10, move each digit one place to the left. Okay, so I'm going to move each digit one place to the left. So 4, I'm moving here, and the next 4, I'm moving here. And to multiply by— and I'm writing it here. [unclear] [unclear]  [00:41:33]
+tutor: Multiplying it by 100, I have to move 2 places to the left, which gives me 44 as the answer. Because why? I have moved 1 place here and this again 1 place here. And if I see it in the top, I am moving 2 places, 1, 2. And this row, 1, 2. Yeah? So which gives me— [unclear] You have any questions on this? Felicity?  [00:42:17]
+student: Yeah?  [00:42:58]
+tutor: Any questions on this so far what I have done?  [00:42:59]
+student: No.  [00:43:02]
+tutor: Great. Okay. So multiply by 100, move each digit. Digit 2 places to the left. So that's what we did. Alright. If you have any questions, you can ask me now.  [00:43:04]
+student: No, I don't have any questions.  [00:43:20]
+tutor: Great. Okay, Felicity. So can you tell me— we'll stop from here and continue this part from the next week. Okay? [unclear] Can you tell me what are your new learnings today? [unclear]  [00:43:23]
+tutor: We've got 2 more minutes. We've got 2 more minutes. What did you learn here, Felicity? [Speaker:Felicity]... [UNCLEAR]  [00:43:39]
+tutor: Yes, the getting a place value chart. So what happens in that chart?  [00:43:57]
+student: It turns in place value.  [00:44:03]
+student: Times it by 10, 100, and 1,000, then divide by 10 and 100.  [00:44:05]
+tutor: Yes, very good. Good job in recalling that. And how about this one? Just follow me, slide adjusted.  [00:44:11]
+student: [unclear] Zero decimals times by hundreds.  [00:44:22]
+tutor: Yeah, so when you times it by 10, what happens?  [00:44:33]
+background: Wait, if you [unclear]  [00:44:37]
+student: You times the whole as well as the 10.  [00:44:38]
+tutor: Yeah, it moves one place to the left. That's why I have moved it here, isn't it?  [00:44:42]
+background: [unclear]  [00:44:48]
+tutor: Great. Okay, good girl. So we'll meet next week, Felicity. Okay? Bye. See you.  [00:44:50]
+tutor: See you. [unclear]  [00:44:57]
