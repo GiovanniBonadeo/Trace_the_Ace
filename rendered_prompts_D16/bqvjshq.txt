@@ -1,0 +1,364 @@
+D16 — Learner, Topic, and System Context
+
+Evaluate conversation-derived context relevant to learner performance, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+EKS: Entry knowledge state
+
+PR: Prerequisite readiness
+
+EPE: Explicit prior exposure
+
+LTD: Learner-relative topic difficulty
+
+CAL: Conceptual abstraction load
+
+PBL: Procedural and branching load
+
+LCB: Language-comprehension burden
+
+ELC: Expressive-language constraint
+
+WMS: Working-memory and sequencing burden
+
+NCB: Notation and calculation burden
+
+TFF: Task-format familiarity
+
+DGC: Explicit developmental or grade context
+
+AL: Affective load
+
+MGO: Motivation and goal orientation
+
+RIE: Relevant instructional exposure
+
+ESD: Environmental, modality, and system disruption
+
+Higher scores mean context more favourable to the learner's next response. For difficulty, load, burden, constraint, affective load, and disruption, higher scores mean less unresolved interference. Use `null` for DGC unless age, grade, or educational level is explicitly stated.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+EKS: `entry knowledge`
+
+PR: `prerequisite readiness`
+
+EPE: `prior exposure`
+
+LTD: `topic manageability`
+
+CAL: `conceptual manageability`
+
+PBL: `procedural manageability`
+
+LCB: `language accessibility`
+
+ELC: `expressive adequacy`
+
+WMS: `memory manageability`
+
+NCB: `notation manageability`
+
+TFF: `format familiarity`
+
+DGC: `developmental fit`
+
+AL: `emotional readiness`
+
+MGO: `learning motivation`
+
+RIE: `instructional exposure`
+
+ESD: `environmental stability`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "EKS": {"score": 0, "label": "minimal entry knowledge"},
+    "PR": {"score": 0, "label": "minimal prerequisite readiness"},
+    "EPE": {"score": 0, "label": "minimal prior exposure"},
+    "LTD": {"score": 0, "label": "minimal topic manageability"},
+    "CAL": {"score": 0, "label": "minimal conceptual manageability"},
+    "PBL": {"score": 0, "label": "minimal procedural manageability"},
+    "LCB": {"score": 0, "label": "minimal language accessibility"},
+    "ELC": {"score": 0, "label": "minimal expressive adequacy"},
+    "WMS": {"score": 0, "label": "minimal memory manageability"},
+    "NCB": {"score": 0, "label": "minimal notation manageability"},
+    "TFF": {"score": 0, "label": "minimal format familiarity"},
+    "DGC": {"score": 0, "label": "minimal developmental fit"},
+    "AL": {"score": 0, "label": "minimal emotional readiness"},
+    "MGO": {"score": 0, "label": "minimal learning motivation"},
+    "RIE": {"score": 0, "label": "minimal instructional exposure"},
+    "ESD": {"score": 0, "label": "minimal environmental stability"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Trigonometry: Using SOHCAHTOA.
+
+CONVERSATION:
+tutor: Hello.  [00:00:00]
+background: [unclear]  [00:00:00]
+student: Hello.  [00:00:00]
+tutor: Hi Soren, how are you doing today?  [00:00:01]
+student: I'm alright, you?  [00:00:03]
+tutor: I'm doing great, and how did you do at school today, Soren?  [00:00:05]
+student: Uh, not well.  [00:00:11]
+tutor: Did you do a lot of maths today, or was it [unclear] subject?  [00:00:14]
+student: Everything but maths.  [00:00:19]
+tutor: Alright, okay, so with that, let's try to move on to the lesson that we have to start today. So today we'll be looking at trigonometry using SOHCAHTOA. So have you done this lesson at school before?  [00:00:20]
+student: Yeah, mostly.  [00:00:35]
+tutor: Okay, so what do you find interesting about this topic? Is there something interesting about it, or do you find it boring?  [00:00:39]
+tutor: Alright, do you have a calculator with you today, Soren?  [00:00:47]
+student: Yeah.  [00:00:51]
+tutor: Okay, so you might have to use a calculator to work the sine, cos, and tan. And yes, since you have already done this at school, can we have a look at this question here, please?  [00:00:52]
+student: Yeah.  [00:01:04]
+tutor: Okay, go ahead, please. [unclear] [unclear]  [00:01:05]
+student: I think [UNCLEAR]. [unclear]  [00:01:12]
+tutor: Wait, oh wait, no.  [00:01:50]
+student: Gideon's right?  [00:01:56]
+background: Yeah, so I do think Gideon's right.  [00:01:59]
+student: Because there's no other partners that can't be. [unclear]  [00:02:04]
+tutor: Yes, good job over there. And just to correct your markings over here, so why do you think this is the opposite here?  [00:02:14]
+student: Opposite of the hypotenuse?  [00:02:22]
+tutor: Oh no, wait. It's opposite of the angle.  [00:02:24]
+student: Never mind. That didn't happen. It's enough.  [00:02:26]
+tutor: Yes, so you're going to try and see the opposite and adjacent of this angle, so which means opposite is— [unclear] And adjacent is the x here. Yeah, yeah. All right, but we just have to go with 10. All right, it seems like you have a good idea about the concepts here, so let's try to work some exam-style questions here, and let's focus on the steps that we have to follow and how much marks we might get in a typical question like this. All right, can you give this question a try, please?  [00:02:34]
+student: Okay. [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear] [Speaker:Tutor]... [UNCLEAR] [unclear] [Speaker:Tutor]... [unclear] [unclear]  [00:03:07]
+student: I don't know if that's right, but... [unclear]  [00:04:57]
+tutor: I think it should be that.  [00:05:26]
+student: Yeah, now we are in great shape over there. So I'm glad that you remembered to put your units here. So why is it important to put centimeters there?  [00:05:28]
+background: Because you can— I don't know, but like, can you, like, mark off for not having the units on?  [00:05:38]
+tutor: Yes, good job over there. So you'll be getting a total of 3 marks for this, Soren. So we're 1 mark for identifying that we have to use sine, and 1 mark for multiplying your [UNCLEAR], and 1 mark for your final answer over there. So you'll be getting a total of 3 marks for this question. So is there any part of the question that you struggled with the most? [Speaker:Soren] It's like, I thought for a moment I forgot what to do with this, and then I figured it out. [unclear]  [00:05:45]
+tutor: So why did you decide to use sine here?  [00:06:19]
+student: Because it can't be cos or tan because there's no [unclear] because the adjacent isn't given.  [00:06:22]
+tutor: So why did we have to multiply here?  [00:06:32]
+student: Because it's sin 40 equals x over 6, I think, and then You went to times. I don't know why. Well, I think so.  [00:06:35]
+student: Yeah, so we're trying and rearranging the equation to find x. So I think you did sine 40 equals to x divided by 6. So to make x [unclear] the unknown, you multiply all the sides by 6, which means you get rid of the 6. That's why we try to multiply over there. Is that it, dear?  [00:06:47]
+background: Yeah.  [00:07:11]
+tutor: Okay, that's great. So, but then let's try to move on to a different question now. Are we all good? [unclear] Can you try this one out now? [unclear]  [00:07:12]
+student: Nice. [unclear]  [00:07:45]
+student: Oh, I got it.  [00:08:03]
+tutor: Is it that? Because... [unclear]  [00:08:25]
+student: Okay, so why did you come up with this one now?  [00:08:35]
+tutor: Because it was on top, so you divide it by that to get x, I think. I don't know.  [00:08:38]
+student: Okay, so how about we try this question out together?  [00:08:47]
+tutor: Yeah.  [00:08:50]
+student: Okay, so are you tired, Soren? Seems like you are dull and didn't seem to react. Is everything alright? I'm just really tired.  [00:08:52]
+tutor: All right, I'll open up. Yes, if you need a water break, please let me know so I can [unclear] in between. Yep. Okay, so let's move on to this slide to help you a little bit on this question. Okay, so since you have already done the first part, so we have labeled the sides and we have figured out we're going to try and use cos, which is also done. So now we're going to try and substitute the value. I think that is where you went wrong. Shall we try to substitute [unclear]  [00:09:00]
+student: Okay, so next would be to define the unknown. [unclear]  [00:09:54]
+student: So why did the— how do you rearrange this equation? So we have got 42, 15.  [00:10:05]
+tutor: It's about right.  [00:10:11]
+student: Okay, why did you think it's this way now?  [00:10:12]
+tutor: Because it wasn't the other way.  [00:10:16]
+student: So let's talk about rearranging the equation. So what do you do to make x the subject of this equation? 15 divided by cos— yeah, right.  [00:10:19]
+student: Yeah.  [00:10:37]
+tutor: Okay, so we have x here, so how do you bring it to the other side or make it the subject? What do you think you can do? [unclear]  [00:10:38]
+student: Yes, the first step, you can try and multiply both the sides by x. Yeah, to get rid of the division here. So I'm going to multiply that. So now I will have x times cos(42) equals 15. Now I have to make x subject, which means I have to get rid of this cos(42), which means I'm going to divide both sides by cos(42). Yes, this cos(42) would obviously get cancelled there, and now I would have 15 [unclear] Is that clear?  [00:10:55]
+student: Yeah.  [00:11:29]
+tutor: So did you understand how we can rearrange different equations? Because we might come across different ways to rearrange the equation. Are you clear with that?  [00:11:30]
+student: Mm-hmm.  [00:11:38]
+tutor: Okay, so you can go ahead with the calculation now. Yeah?  [00:11:39]
+tutor: Nice effort, [UNCLEAR]. I'm going to give a big tick for working it out yourself. There we go. All right, so what is one new thing that you learned from this question?  [00:11:59]
+student: Not new, but just remembering to rearrange the equations.  [00:12:16]
+tutor: Mm-hmm. Yes. So how did we learn to rearrange equations? So what was the method that we used here?  [00:12:19]
+background: Timesing it and dividing.  [00:12:27]
+tutor: Yes. So in the previous question, we just had to use one step to rearrange the equation. So we just either multiply or divide. But this time we did a couple of steps here. So can you explain that?...more or less? But I forget it. I can't explain it to someone. Like, you have to rearrange it.  [00:12:32]
+tutor: Okay, alright. So do you understand the concept then?  [00:12:57]
+student: Yeah.  [00:13:01]
+tutor: Alright, so since you did understand about how to rearrange equations, shall we try out a similar question now? Just so you can show what you understood?  [00:13:02]
+student: Yeah.  [00:13:11]
+tutor: Okay, great. So can you give this question a try? [unclear]  [00:13:12]
+tutor: [unclear]  [00:13:19]
+student: [unclear] [unclear]  [00:13:19]
+tutor: [unclear]  [00:13:33]
+student: [unclear] [unclear]  [00:13:37]
+tutor: Oh, okay, good.  [00:13:43]
+student: So, I'll just call you [UNCLEAR]. [Speaker:Tutor] Okay, good. [Speaker:Soren]... [UNCLEAR] [unclear]  [00:13:51]
+tutor: You'll be getting all the 3 marks for this question here, Soren. So one mark for trying to use tan, and one mark for coming up with this equation here after rearranging, and one mark for your final answer over here. Is that clear?  [00:14:16]
+student: Mm-hmm.  [00:14:34]
+tutor: All right.  [00:14:35]
+tutor: So just to check on this, so it's a 2.81. So we're going to try to round it to 2 decimal places, yeah?  [00:14:36]
+student: [unclear]  [00:14:43]
+tutor: Yeah, there we go. Good job on that. All right. So do you have any questions before we move further?  [00:14:44]
+student: No.  [00:14:54]
+tutor: Okay. Let's try to move on to a different question now. So yeah, there we go. [unclear]  [00:14:55]
+student: What's going on? [unclear] [Speaker:Soren]... [unclear]  [00:15:02]
+student: Wait, no. So before you move forward, I want to check if you have labeled them correctly. [unclear]  [00:16:03]
+student: Oh, right, no, I have. I have it the right way.  [00:16:31]
+tutor: Okay. [unclear]  [00:16:40]
+student: I got her and then it's like, wait, is this right?...minus 1. Is it that?  [00:16:48]
+student: Yes, so this time we're going to try and use the inverse. Yeah, so we're going to try and use the inverse because we can try and find the angle, not the sides. Yeah, it's good job in trying to figure out that you're going to try and find the inverse. So how do you find the inverse of tan? So what do you do next?  [00:17:17]
+background: Tan minus 1, then 15 over 7.  [00:17:35]
+tutor: Yes, go ahead. So, yes, so how did you get 15 over 7?  [00:17:48]
+student: Because without the [unclear] it's like normally it's like x over something. [unclear]  [00:17:53]
+tutor: That. 165, around there.  [00:18:14]
+student: Yes. Why do you think we have to write centimeters over there?  [00:18:18]
+tutor: Oh wait, no, it's degrees.  [00:18:24]
+student: Do I have that?  [00:18:29]
+tutor: Yeah, amazing effort over there. A big tick for working it out by yourself. So just to refresh your knowledge on the different inverses that we can use, I'm just going to quickly have a look at this slide here. We worked out tan here, which is tan inverse of opposite over hypotenuse. And also we can use the inverse for other [UNCLEAR]. Trigonometric functions as well. Yeah. Okay, so now let's talk about the marks that you will be getting for this question. So you'll be getting a total of 3 marks here. One mark for identifying that we're going to use tan here instead of cos or sin, and one mark for trying to use the inverse, and one mark for your final answer over there. Is that clear? [unclear]  [00:18:33]
+tutor: All right, so how is— how does this question differ from the previous  [00:19:23]
+student: You have to find the missing angle instead of finding the missing length.  [00:19:30]
+background: Yes, so how does finding the angle differ from finding the length?  [00:19:35]
+student: You have to do like the [unclear] minus 1 and inverse.  [00:19:40]
+background: Yes, you're going to try and find the inverse now, so we don't go through the usual method. You're going to try and use the inverse to figure that one out. Good job over there, and Excellent focus so far. Okay, so since you're familiar with the concept here, are you ready for a challenge question?  [00:19:46]
+student: Sure.  [00:20:05]
+tutor: Okay, so don't worry, you can, um, you know, uh, ask if you're stuck anywhere, and I'll be always there to help you out through this question. So first, I'll give you some time to read the question and explain me how you're going to work this one out. Yeah. [unclear]  [00:20:07]
+student: What? [unclear]  [00:20:32]
+tutor: So were you able to understand what you have to do in this question?  [00:20:55]
+student: A tiny bit.  [00:20:59]
+tutor: Okay, so can you explain what you understood so far?  [00:21:02]
+student: It's meant to be a triangle and like whatever it is, it's going to be [Speaker] Like, well, no, I don't. [unclear]  [00:21:06]
+tutor: Okay, so what is the man trying to find? [Speaker] The height of the tree.  [00:21:19]
+tutor: Yes, which means this would be the height of the tree. So do we know at least part of the height of the tree? What do you think? [Speaker] It's taller than 1.6 meters.  [00:21:26]
+tutor: So which means we know that the tree part of a tree is 1.6 meters and the rest is what we have to find. So do you have any idea what you can do to find the rest of the height of the tree?  [00:21:41]
+background: [unclear]  [00:21:53]
+student: So can we try to make a triangle from what from the image that we have here. Do you think you can make a triangle? Yeah, there we go. Pinch up over there, so now we have made a triangle there. Okay, so what are the values that you already know for this triangle?  [00:21:57]
+student: 20 meters and then 60 degrees.  [00:22:32]
+tutor: Yes, so what are we trying to find?  [00:22:35]
+student: The height of the tree.  [00:22:39]
+tutor: Okay, but in this triangle, what are we trying to find? Is it the hypotenuse that you're trying to find? Or is it this one that you're going to try and find? [unclear]  [00:22:42]
+student: Yes, we're going to try and find the opposite. So how would you find the opposite? Opposite of this one? What trigonometric function do you think you have to use?  [00:22:55]
+student: [unclear]  [00:23:08]
+tutor: Okay, so you can go ahead and try using tan to figure out what the missing opposite side is, yeah?  [00:23:10]
+background: Yeah.  [00:23:19]
+background: So it's like— I'm going to write this.  [00:23:22]
+student: Yeah, it is. [unclear]  [00:23:53]
+tutor: So shall we go with her to the school? [unclear]  [00:24:01]
+tutor: Then do you add the 1.6 to the total height?  [00:24:20]
+student: Yes. So why did you think you have to add 1.6?  [00:24:29]
+tutor: Because he's got 1.6 of his height and he's just looking at the bed that's slack.  [00:24:33]
+student: Yeah, good job in spotting that one out. Okay.  [00:24:38]
+tutor: Do you know what your little person's called, Elara? [unclear]  [00:24:46]
+student: Oh, 3 seconds. Okay, so what does significant figure mean? Is it equal to the decimal places that you have?  [00:25:00]
+background: No.  [00:25:11]
+student: No. [unclear]  [00:25:11]
+tutor: Okay, good job over there. A big tick for figuring that one out. You'll be getting a total of 4 marks here for this challenge question. So 1 mark for identifying that we have to use tan, 1 mark for trying to do a multiplication over here, 1 mark for adding your height to 1.6 meters, and 1 mark for your final length.  [00:25:12]
+tutor: So how did you find this question? Did it go well?  [00:25:38]
+student: When I realised what I was doing, yeah. But before that, no.  [00:25:42]
+tutor: Okay, alright. So was this question challenging or was it easy for you to work it out?  [00:25:49]
+student: Once I knew what I was doing, it was easy. Just before, figuring out what to do. [unclear] Good job in trying to reflect on what you did on this question here. So now let's try to help two students out. You're going to be the tutor this time and you're going to help these two students out. So we have students A and B, so you're going to take up the role of the tutor and help them out with their questions. Yeah, can you go ahead?  [00:25:58]
+student: One second. [unclear]  [00:26:24]
+student: Um, yeah. Um, isn't that kind of automatic? [unclear]  [00:26:34]
+tutor: Mm-hmm.  [00:26:45]
+student: Did it already do it? Okay.  [00:26:48]
+tutor: Simply— [unclear]  [00:26:53]
+student: Yeah, that would be nice. [Speaker:Tutor]...your time. [Speaker:Soren] So can you recheck once again? So I just forget about the students working. So if you're supposed to work this out, how would you work it out?  [00:27:10]
+student: So, so, wait, hold on. [unclear] [unclear] [Speaker:Soren]... [UNCLEAR] [unclear] [Speaker:Soren]... [unclear] I've not written it, but I have worked it out, I think, possibly. That, I want to replace that, possibly. This is what I got.  [00:27:29]
+tutor: Can you explain how you worked step by step? So what did you do first?  [00:28:31]
+student: Um, it says [unclear] Since it's opposite over, I've got to notice it's 10 over x. Away, away, never mind. Not 10 over x, it's 10 over [UNCLEAR]. [Speaker:Soren] Down the air, okay.  [00:28:36]
+tutor: And then... [unclear]  [00:29:01]
+tutor: Amazing work over there. So what is the mistake that you made and how did you try to correct it out?  [00:29:08]
+student: I did times instead of divide.  [00:29:17]
+tutor: Yes. Okay, and what do you think the mistake the student might have made?  [00:29:19]
+student: Um, put some more [unclear] times. [unclear]  [00:29:28]
+tutor: That's the only thing, like, still with the divide there, with the— I don't see a problem with the bottom bit, but still, it's like that now.  [00:29:35]
+student: Yes, they have made a mistake over here, and when they rearrange it—  [00:29:48]
+tutor: Swap it around.  [00:29:52]
+student: Yes. All right, great effort over there, and amazing Soren, amazing job in trying to spot that one out by yourself. So let's try to move on to Student B. And yes, where do you think they have gone wrong? [unclear]  [00:29:54]
+student: A little bit [UNCLEAR]. [Speaker:Tutor] That's adjacent. So it's—  [00:30:13]
+student: So then it's—  [00:30:23]
+tutor: Not tanh, cos.  [00:30:25]
+student: Mm-hmm.  [00:30:28]
+tutor: Cos minus 1 is then a over 12.  [00:30:31]
+student: Mm-hmm. [unclear] [unclear]  [00:30:43]
+tutor: Okay. Can you recheck SS33.71 again? [unclear]  [00:30:53]
+student: Oh wait, I did time, that's why. Yeah, great effort, Tutor. I'm glad that you tried to correct the students' working out by labelling them correctly, and then you also figured out that they have used the wrong function here. Instead of cos, they have used sin. OK, so are you clear with the cos, sin, and tan?  [00:31:19]
+student: Yeah.  [00:32:02]
+tutor: Yes, great to hear. And do you have any questions before we move on to the next one? About the next lesson that we have to do today?  [00:32:03]
+student: [unclear]  [00:32:10]
+tutor: All right, that's all good from you, so moving on to the next lesson. Okay, so now we'll be learning about working with probabilities in tables. So have you done this lesson before?  [00:32:10]
+student: Yeah, last week, I think.  [00:32:29]
+tutor: Okay, so what do you know about probabilities?  [00:32:31]
+tutor: So if someone asks you what's the probability of some things, what does it mean?  [00:32:34]
+student: Like a percentage fraction or decimal out of 100 or 1?  [00:32:39]
+background: Yes, we can do it. Yes, you can use one of those ways to represent, and also it tells you the chance of something is going to happen. How likely is something— some event will occur. So that is what probability is all about. Okay, so since you have an idea about what probability is and how we can represent probabilities, can you have a look at this question?  [00:32:46]
+student: Would it be [unclear] because I mean it's the only one that fits in because it's got to be— because they've all got to be out of one. Like, because it's out of one and then there's— [unclear]  [00:33:13]
+tutor: Yes, interesting, impressive strategy over there and awesome effort there. So I'm glad that you remembered that all of this should add up to 1. All right, so what if it was in percentages? Then what would you— how would you work it out?  [00:33:25]
+student: Times it by 100, I think. [unclear]  [00:33:53]
+tutor: Yes, we can see all of them add up to 100%. Let's say they have given you 10%, 30%, 30%, 10%. So you can add them up and take it away from 100 to work it if it was a percentage over there. Okay, so with that, let's try some interesting questions. So I'm going to move on to the first one here, [UNCLEAR], and I want you to try it out by yourself. [Speaker:Tutor] This answer is...  [00:33:59]
+student: Would it be then... [unclear]  [00:34:35]
+student: Yeah?  [00:34:53]
+student: Pretty fast, so how did you get the 9 down there?  [00:35:09]
+background: Because they're like all the cartons are together, so there's 9 of them.  [00:35:14]
+student: So that's 9 cartons of juice.  [00:35:20]
+background: Yes, so we have to add all of them together, so good job in spotting that one, as you'll be getting 3 marks for this question, so 1 mark for each of your correct answers in the part of this question here. And is it important to simplify your answer, Soren? What do you think? So we have—  [00:35:25]
+student: Oh yeah, [unclear] one-third.  [00:35:44]
+tutor: Yes. So it's okay to leave it like this, but it's always better to simplify wherever it's possible. Okay, so out of these 4 juices, which one do you do you think has greatest probability of being pink? [unclear]  [00:35:48]
+tutor: And good question here. So how would you try to work it out because it says not pineapple juice?  [00:36:09]
+student: So count everything pineapple juice. So there's 2 pineapple juice, 2, 9 minus 2 is 7.  [00:36:18]
+tutor: Impressive strategy over there once again. So with that, let's try  [00:36:27]
+tutor: So, we can move on to this question now. I hope these letters are not too small. I hope you can read them here. [unclear] [unclear]  [00:36:31]
+student: Oh, if it was unbiased, would it be the same?  [00:36:59]
+tutor: Mm-hmm, yes. So how do you know that? How did you figure that one out?  [00:37:09]
+student: Because there's a lot more heads than there are tails. If it was a normal coin, it would just go back and forth.  [00:37:14]
+tutor: Yes, good job spotting that one out. So let's try to move on to the second part. [unclear] [unclear] I don't know why, but I think it's that.  [00:37:26]
+tutor: So what is the question asking you here?  [00:38:03]
+student: [UNCLEAR]...accurate estimates of probability that the primal liver pads— it's Nathan or Mark. So Mark's not the most [unclear]  [00:38:05]
+tutor: Okay, it's not right to think it's a multiple because you have to give a reason as well. [unclear]  [00:38:33]
+student: So they have to decline more. Yeah, is that what you typed here? Because I cannot see.  [00:39:00]
+tutor: Well, it says the most.  [00:39:05]
+student: Okay, all right. And apart from that, what else do you see in a Mars [UNCLEAR]? [Speaker:Tutor] Um, I think we're right.  [00:39:06]
+student: Am I stuck?  [00:39:20]
+tutor: Yes.  [00:39:22]
+student: So why is it important that we have to select the experiment which has had most number of flips?  [00:39:23]
+background: Because it's more more accurate to how many there could be.  [00:39:32]
+tutor: Yes, the greater that you do, which means the accuracy would also increase. Yes, you can add that to your answer here. There we go with the big tick for that, and now we are moving on to— yes, you can go ahead and type that out.  [00:39:37]
+student: What did you say again? [unclear]  [00:39:57]
+tutor: Yes, the greater The number of times that you flip a coin or anything, the greater the number, the greater the accuracy. [unclear]  [00:40:01]
+student: Just go, because I can't spell accuracy.  [00:40:14]
+tutor: It is there. It is there. Just hit them, because I'll [UNCLEAR]. [Speaker:Soren] Okay.  [00:40:21]
+tutor: Good job in trying to add that to your answer as well. Okay, thanks for moving this out so I can see what you have written there. Okay, so you can try to move on to the last question on this slide. [unclear]  [00:40:30]
+student: 9, because 3 times 4 is 9.  [00:40:45]
+tutor: I know it's for his result. [unclear]  [00:40:58]
+student: Yes, that's how it works for his result. And you can try to show the calculation for the absolute value. [unclear] because you have to extend it out.  [00:41:14]
+tutor: Oh, yeah.  [00:41:24]
+student: Yeah.  [00:41:25]
+tutor: This reasoning wouldn't work this time. You have to try and show what happens with the other results. Okay, so that's great work over there, and we'll give a big star for trying to reason out throughout this question here and also throughout the last session today. Good job on that.  [00:41:26]
+tutor: Yep. So you'll be getting 6 marks in total for this question. Okay, with that, it's time to end the session today. And before you leave, don't forget to fill in the feedback form and also to reflect on your [UNCLEAR]. [Speaker:Soren] Yeah.  [00:41:47]
+tutor: Have a good day. Bye-bye.  [00:42:08]
+background: Bye. [unclear]  [00:42:10]
+student: I don't know what—  [00:42:14]

@@ -1,0 +1,421 @@
+D16 — Learner, Topic, and System Context
+
+Evaluate conversation-derived context relevant to learner performance, then predict the next assessment response.
+
+Use all information in the whole conversation. Tutor explanations, answers, hints, corrections, praise, confirmations, references to unseen work, and other lesson segments may all help estimate the learner's capability. Distinguish direct learner performance from contextual or supported evidence, but do not ignore either.
+
+Assess conservatively. Do not infer strong capability from exposure, tutor praise, agreement, or a single supported success. Use high dimension scores or probabilities near 1 only when there is repeated, target-relevant, consistent evidence. Lower the assessment when evidence is sparse, ambiguous, inconsistent, heavily supported, or limited to closely imitated examples. Prefer moderate probabilities over extreme probabilities unless the evidence clearly justifies an extreme prediction.
+
+Evaluate:
+
+EKS: Entry knowledge state
+
+PR: Prerequisite readiness
+
+EPE: Explicit prior exposure
+
+LTD: Learner-relative topic difficulty
+
+CAL: Conceptual abstraction load
+
+PBL: Procedural and branching load
+
+LCB: Language-comprehension burden
+
+ELC: Expressive-language constraint
+
+WMS: Working-memory and sequencing burden
+
+NCB: Notation and calculation burden
+
+TFF: Task-format familiarity
+
+DGC: Explicit developmental or grade context
+
+AL: Affective load
+
+MGO: Motivation and goal orientation
+
+RIE: Relevant instructional exposure
+
+ESD: Environmental, modality, and system disruption
+
+Higher scores mean context more favourable to the learner's next response. For difficulty, load, burden, constraint, affective load, and disruption, higher scores mean less unresolved interference. Use `null` for DGC unless age, grade, or educational level is explicitly stated.
+
+Score each observable dimension conservatively using only the integers 0, 1, 2, 3, or 4:
+
+0 = strong negative or highly unfavourable evidence
+
+1 = mostly weak or unfavourable evidence
+
+2 = mixed, partial, or uncertain evidence
+
+3 = mostly strong or favourable evidence
+
+4 = strong, repeated, and consistent evidence
+
+Use `null` only when the dimension is not observable. Missing evidence is not failure.
+
+For each dimension, the label is controlled and must be generated exactly from its score:
+
+score 0 -> `minimal` + the dimension label stem
+
+score 1 -> `weak` + the dimension label stem
+
+score 2 -> `mixed` + the dimension label stem
+
+score 3 -> `strong` + the dimension label stem
+
+score 4 -> `exceptional` + the dimension label stem
+
+score null -> `not observable`
+
+Use the following exact label stems:
+
+EKS: `entry knowledge`
+
+PR: `prerequisite readiness`
+
+EPE: `prior exposure`
+
+LTD: `topic manageability`
+
+CAL: `conceptual manageability`
+
+PBL: `procedural manageability`
+
+LCB: `language accessibility`
+
+ELC: `expressive adequacy`
+
+WMS: `memory manageability`
+
+NCB: `notation manageability`
+
+TFF: `format familiarity`
+
+DGC: `developmental fit`
+
+AL: `emotional readiness`
+
+MGO: `learning motivation`
+
+RIE: `instructional exposure`
+
+ESD: `environmental stability`
+
+Do not invent synonyms or alternative wording. The label must exactly match the score and stem.
+
+Predict the probability that the learner answers the next assessment question on the same objective correctly. Use the dimensions as structured context, but do not calculate the probability mechanically from them.
+
+Return JSON only:
+
+{
+  "dimensions": {
+    "EKS": {"score": 0, "label": "minimal entry knowledge"},
+    "PR": {"score": 0, "label": "minimal prerequisite readiness"},
+    "EPE": {"score": 0, "label": "minimal prior exposure"},
+    "LTD": {"score": 0, "label": "minimal topic manageability"},
+    "CAL": {"score": 0, "label": "minimal conceptual manageability"},
+    "PBL": {"score": 0, "label": "minimal procedural manageability"},
+    "LCB": {"score": 0, "label": "minimal language accessibility"},
+    "ELC": {"score": 0, "label": "minimal expressive adequacy"},
+    "WMS": {"score": 0, "label": "minimal memory manageability"},
+    "NCB": {"score": 0, "label": "minimal notation manageability"},
+    "TFF": {"score": 0, "label": "minimal format familiarity"},
+    "DGC": {"score": 0, "label": "minimal developmental fit"},
+    "AL": {"score": 0, "label": "minimal emotional readiness"},
+    "MGO": {"score": 0, "label": "minimal learning motivation"},
+    "RIE": {"score": 0, "label": "minimal instructional exposure"},
+    "ESD": {"score": 0, "label": "minimal environmental stability"}
+  },
+  "achievement": {
+    "probability": 0.0
+  }
+}
+
+Use `"probability": null` only when the conversation contains no usable information for estimating performance on the target objective. Sparse, indirect, or mixed evidence should produce an uncertain numerical probability.
+
+TARGET TOPIC / LEARNING OBJECTIVE:
+Comparing numbers with up to 2 decimal places using money.
+
+CONVERSATION:
+background: [unclear] [Speaker:Jasper]...number 9? [Speaker:TUTOR] Jasper. Jasper.  [00:00:00]
+student: Okay.  [00:00:02]
+tutor: Jasper, this is your captain speaking.  [00:00:05]
+student: Jasper, can you hear me?  [00:00:10]
+tutor: Yeah, I can now hear you.  [00:00:12]
+student: Hi. Hello, Jasper.  [00:00:13]
+tutor: How are you doing, Jasper?  [00:00:16]
+student: Hi, yeah. Yeah, I'm going good. I'm doing good.  [00:00:17]
+tutor: Hi there. Can you hear me? [unclear] That's really great, Jasper. So how was your day today?  [00:00:21]
+student: My day was good.  [00:00:30]
+tutor: Okay. Yes, so it's good, right? Okay, Jasper, so what is your plan for today at school? [unclear]  [00:00:31]
+student: To... for my piano. I don't really have a piano.  [00:00:43]
+tutor: Okay, okay, all right. So anyways, Jasper, let's get started with the lesson. So we have got numbers with up to 2 decimal places. Using money. So this is the lesson that we have got today. Well, have you learned this lesson before? [unclear]  [00:00:52]
+tutor: Sorry?  [00:01:18]
+student: Have you learned this lesson before?  [00:01:21]
+background: No, I don't think so. I'm not sure.  [00:01:26]
+tutor: Yeah, okay. So I think in the previous session you have learned few things about it. Let's see, what is that? So you have basically— we have to start the Let's Learn. Okay, so we have to start the Let's Learn. Where we have the Let's Learn slide? Okay, Jasper. So Jasper, can you hear me very clearly?  [00:01:30]
+student: Yeah.  [00:02:00]
+tutor: Okay, superb. So let's learn together. So let me read the statement that you have got inside your green colored box. Okay, so when comparing numbers with up to 2 decimal places, we can think about them as amount of money. So do you know about decimal numbers? [unclear] So there's 1 pound, there's 10p, and there's 1p. [unclear] Yeah, so like basically, have you like, have you known your decimal numbers before?  [00:02:01]
+student: Yeah.  [00:02:44]
+tutor: Yes, okay. So decimal numbers will always have a decimal point in their number. So you can find a decimal point in it, so you call them as decimal numbers. And also, if you take a place value chart, you're gonna get additional columns on your, uh, right. So you see here, you have— I've got your one column, okay? It's your one column. And then what is the column over here?  [00:02:45]
+student: Uh, it is the tens [unclear] column. The tens [UNCLEAR]. [Speaker:TUTOR] Yes, that's correct.  [00:03:12]
+tutor: Yes, that's correct. And Jasper, what is this column over here that I'm pointing right now?  [00:03:21]
+student: Um, the ones.  [00:03:29]
+tutor: Yeah, the one here.  [00:03:31]
+student: Yeah, yeah, isn't it?  [00:03:32]
+tutor: It is your ones column. The one that says O is your ones.  [00:03:35]
+student: Oh, okay. Oh, wait, this is the hundredths. I mean, hundredths.  [00:03:41]
+tutor: Absolutely, absolutely. So after your decimal point, you have your tens column. And following the tens column, you're gonna have your hundreds column. Okay, so that is the pay value chart. So, uh, so basically, if it's one, then you can just take it as a pound one. So basically, you can, uh, you can have all the values of pounds till 9. Till 9 pounds, you can have it in the ones column. And likewise, 10 paise. If you have a 10 paise, Then till 99 piece, you can have it on the 1/10 column, and, uh, 1 piece comes on the 100. So you can just have the 1s, 10s, and 100s in terms of pounds also. So they have given in the bottom corner— bottom. Have you understood this?  [00:03:46]
+student: Yeah.  [00:04:38]
+tutor: Good. Okay, so you have got 2 decimal numbers, 1.4 and 1.32. So 1.4, you have You have the 1.4 on your left-hand side and you have got your 1.32 in your right-hand side, okay? So let's check if they have got actually 1.4 in the place value chart. All right, Jasper?  [00:04:39]
+student: [unclear]  [00:05:01]
+tutor: So can you just explain me that they have got 1.4 here?  [00:05:02]
+background: 1.4.  [00:05:07]
+tutor: 1.4 is here. 1.4 was here.  [00:05:10]
+tutor: Okay, so how many tens do you have in 1.4?  [00:05:16]
+student: Uh, we have 4 tens.  [00:05:20]
+tutor: Exactly, very good job. You have got 4 tens. Do you have any hundreds?  [00:05:23]
+student: No.  [00:05:28]
+tutor: No hundreds. Let's go to the 1.32. In 1.32, can I know how many wholes you have?  [00:05:30]
+student: [unclear] There are 3 tens.  [00:05:36]
+tutor: There are 3 tens. And how many hundreds you have?  [00:05:42]
+student: 2.  [00:05:46]
+tutor: How many ones you have?  [00:05:47]
+student: 1.  [00:05:50]
+tutor: Exactly. Now we have to compare these 2 numbers. Do you have any sort of idea on how to compare these 2 numbers, Jasper? You tell me. [unclear]  [00:05:51]
+background: Sorry, wait. Can you say that again? Say that again.  [00:06:03]
+background: Yeah, sure. Basically, can you tell me how would you compare two decimal numbers, like, see which one is greater? How would you compare these two numbers? And if you know any method, you can tell me now, Jasper.  [00:06:08]
+student: Okay.  [00:06:25]
+background: Yeah.  [00:06:27]
+student: So 1.4 is bigger.  [00:06:27]
+background: How do you say that?  [00:06:32]
+student: Because there are more tens in the tens column.  [00:06:35]
+tutor: Okay, then in 1.32 also you have got 3 tens, right? Like basically, and also in 1.32 you have got 200s, but in 1.4 there is no hundreds.  [00:06:41]
+background: But there's more tens, so it should be greater.  [00:06:54]
+tutor: Exactly. So here the tens doesn't matter. You just had to look at your tens. Tens. Tens in 1.4 has 4 tens, which means which one is greater, Jasper?  [00:06:59]
+student: This one. [unclear]  [00:07:10]
+tutor: Exactly.  [00:07:12]
+student: The one on the [UNCLEAR]. [Speaker:TUTOR] That's right, Jasper. So you can just fill in the blank. So you have got 1 whole, 4 tens, and none here. Likewise, can you do for 1.32?  [00:07:12]
+student: 5 tens.  [00:07:25]
+background: 1, 2, 3, 4, 5 tens. Story, did I get one?  [00:07:27]
+student: Yeah. [Speaker] Can you do the same for 1.32 over here on your right-hand side?  [00:07:32]
+student: Yeah. [unclear] Do you know how I do it? Because I need to get the shapes. [Speaker] I'm there.  [00:07:40]
+tutor: Exactly. Okay, so Jasper, you can write the two numbers on either side, and let's have the correct symbol. So you can— okay, greater than, less than, greater than, or equal. 1.4. It's 1.4. [unclear]  [00:07:57]
+student: Oh yeah, I missed my point.  [00:08:18]
+tutor: That's okay, that's okay.  [00:08:21]
+tutor: Milo, erase it quickly.  [00:08:24]
+student: Okay. [unclear]  [00:08:27]
+tutor: And then I think they're both 8 really.  [00:08:29]
+background: One point.  [00:08:39]
+tutor: Where do I get the point?  [00:08:42]
+background: You can just find your point on your keyboard. Keyboard. Oh, oh yeah, oh yeah, oh yeah. [unclear]  [00:08:43]
+student: Wait, oh, okay. Wait. [unclear] I got one. Yeah. Can you do the same for 1.32 over here on your right? Yeah, One second there. You know how I do it? Need to get the shapes and there  [00:08:56]
+student: Sorry. [unclear]  [00:09:45]
+tutor: Okay. Now, symbols.  [00:09:45]
+student: If 0.2 and 0.4 equals 6, if I do 0.2 plus 0.4—  [00:09:48]
+background: Yeah, done.  [00:09:59]
+tutor: Okay. All right, great job, Jasper. So let me give a big tick for this. And did you understand on how to compare these two decimal numbers, Jasper?  [00:09:59]
+student: Yeah, I understand.  [00:10:09]
+tutor: All right, all right, that's really great. Now let's move on to the next slide. Okay, so next slide is about the Follow Me slide. So in this slide, I will explain you on how to do this question thoroughly, and you're gonna get a very similar question like the Follow Me. That's your turn. So in this Your Turn slide, you can try the independent work. Okay?  [00:10:12]
+student: Okay. [unclear]  [00:10:34]
+tutor: All right, so let me teach you the Follow Me slide. And also you can help me out then and there. Okay?  [00:10:36]
+student: Okay.  [00:10:44]
+tutor: All right, so follow me. Let's compare 3.5 and 3.05 using greater than, less than, or equal symbol. Okay, so we have to be very mindful of the numbers. These numbers just look like the same, but they don't— they are not the same. So you have 3.5 5 and 3.05. Though it looks the same, it is not the same. Okay, yeah, we're going to prove it. So first of all, let me write the 3.5 on my right side— sorry, on my left side— and 3.05 on my right side. Okay, first of all, uh, here I have my ones column, then one-tenth column, then one-hundredth column. Okay, always remember After your decimal point, you will have your one-tenth column, and next to that you're gonna have your one-hundredth column. Yeah, that is how the order goes. Did you understand, Jasper?  [00:10:46]
+student: Yeah.  [00:11:50]
+tutor: Okay, so first of all, if you look at your ones column, you can find 3 pounds. So you got 3 here. Okay. [unclear] 3 pounds. And then you can find here there are 1, 2, 3, 4, 5. So it is going to be 5 Yes, that's basically 50p. The value is 50p, so you just have to write only the digit here. Okay, so if you just count and say, um, 10, 20, 30, 40, 50, that's basically 50p. So you can only write the digit, that's basically 5. Are you clear on this, Jasper?  [00:11:51]
+student: Yeah.  [00:12:32]
+tutor: And there is not— and there is no  [00:12:33]
+tutor: 100. So I have to put a 0. So you can see here there are 3 pounds, 3 ones, and you have your 500s very clear. And the next time, the next one, let's take a different color, uh, to show— to do the, uh, right-hand side. Okay, so you will see over here again you have got 3 pounds. All right, so you got 3 pounds in the ones column. You have about 3 pounds. But then after your decimal point, until one tenth column, do you have any counters still?  [00:12:36]
+student: No.  [00:13:13]
+tutor: No. If you don't have any counters, what you have to do?  [00:13:14]
+student: You need to put 0.  [00:13:19]
+tutor: Yes, that's your place value holder that you have to use it. Okay, 0. And then in your one hundred column, you are going to have 1, 2, 3, 4, 5. So 5 is from here. Are you clear, [UNCLEAR], on how to write the counters from the place value chart? [Speaker:Jasper] Yeah.  [00:13:21]
+tutor: Okay, so we have done— I mean, we have written the number shown in the place value chart, and now we got to compare them. Okay, we are going to compare them. So I'll take a different color again. I'll get a red one. So always remember, Jasper, when you are comparing now, okay,  [00:13:42]
+tutor: When you compare numbers, you always start with your highest value column. Okay, you start with the highest value. [unclear] Okay, highest value column means— yeah, that is, that is, uh, highest value column means the column that has the highest amount. For an example, if you take your ones column, one tenth column, 100th column. So obviously, ones column has more value, isn't it? [unclear] Your ones column is gonna have more value, right, Jasper?  [00:13:59]
+student: Yeah.  [00:14:36]
+tutor: Okay.  [00:14:37]
+student: Yeah.  [00:14:38]
+tutor: Which means you have to— yeah, so which means you have to start comparing from your ones column.  [00:14:39]
+student: Yeah.  [00:14:45]
+tutor: Is that clear to you, Jasper?  [00:14:45]
+student: Yeah.  [00:14:48]
+background: [unclear]  [00:14:48]
+tutor: Okay, so here we'll make it very clear. So in 3.50, you have got 3 ones. [unclear]  [00:14:50]
+tutor: Yes.  [00:14:59]
+student: And if you take 3.05, you have got 3 pounds too. So it is looking the same. Okay?  [00:14:59]
+tutor: Yeah.  [00:15:07]
+student: When your ones column looks the same, no, you can't finalize by looking at the ones column that it is equal. So if the ones column are the same, you have to move and check your next column. That is, when the ones column has the same digit, you look at your tens column. You start looking at your tens column. Okay?  [00:15:08]
+student: Yeah.  [00:15:35]
+tutor: When you look at the tens column, the tens column has 5 over here, whereas the tens column has 0 over here. So now we— now that's enough. We can stop from that because we got a conclusion. That 5 tenths are greater than 0 tenths. Therefore, we can conclude that 3.50 is greater than 3.05, since 5 tenths are greater than 0 tenths. Are you clear, Jasper? [unclear]  [00:15:36]
+tutor: Yeah.  [00:16:09]
+background: But sometimes we might have some misconception. So what we do is, Jasper, When we check the ones column and when they are the same, we put an equal sign. But that's wrong. When the ones column are the same, you go to your tens column. When the tens column are also the same, then you have to go to your hundreds column. Likewise, till the end, you have to keep going and find. Did you understand?  [00:16:11]
+student: Yeah. [unclear]  [00:16:39]
+tutor: Okay, now we understand that. 3.5 is greater than 3.05. Are you clear, Jasper?  [00:16:39]
+student: Yeah.  [00:16:47]
+tutor: Okay, uh, I'll give you your turn, slide. Let's see how you are working on this.  [00:16:49]
+student: Okay. Oh yeah, my turn. Um, divide. Okay, let's compare 2.2 and 2.15 using The symbols greater than, less than, or equals. [unclear]  [00:16:58]
+student: Yeah. [unclear]  [00:17:17]
+background: 25.  [00:17:31]
+tutor: This says green, but it's [UNCLEAR].  [00:17:32]
+student: Wait, I'm being confused.  [00:17:34]
+tutor: 25.  [00:17:37]
+student: This is green, but this is where you do blue in the second one.  [00:17:38]
+tutor: Okay.  [00:17:43]
+student: Okay.  [00:17:46]
+tutor: Can you write a number that has 6 lines mixed in the pattern?  [00:17:46]
+student: No. [unclear]  [00:17:53]
+tutor: The last of our lines. [unclear]  [00:17:54]
+student: Yeah, I'm done. I finished.  [00:18:05]
+tutor: Great job, Jasper. I'm really happy that you have tried to— yes, great job.  [00:18:08]
+student: I'm talking to the AI.  [00:18:13]
+tutor: Yeah. Can you hear me?  [00:18:18]
+student: Yeah, I can.  [00:18:22]
+tutor: Yes, Jasper.  [00:18:29]
+student: Nice. [unclear]  [00:18:32]
+tutor: Sarah has a parcel with a mass of 3 kilograms.  [00:18:37]
+background: Well, Jasper's parcel is 10 times as much.  [00:18:43]
+tutor: That was wrong, wasn't it?  [00:18:51]
+tutor: Okay, so Jasper, can you explain your work to me?  [00:18:52]
+student: Wait, so you want me to explain?  [00:18:58]
+tutor: Yes. [unclear]  [00:19:03]
+student: Yes, that's correct.  [00:19:04]
+tutor: Okay, so this here—  [00:19:07]
+background: Yeah, yes, Jasper, I want you to explain here.  [00:19:10]
+tutor: Okay, so, um, I need to explain it to you? Is that what I need to do? Miss? [unclear]  [00:19:19]
+tutor: So, do I need to explain it to you?  [00:19:34]
+background: Yes, please, Jasper, you can explain how you have started this call. Question, and have you got 2.2 is the greatest?  [00:19:40]
+student: No.  [00:19:49]
+background: Okay, so I first checked the ones column to see which one was bigger. So then I checked and they were equal, they both had 2. And then I went on to the next column, which is the tens, so I checked which one had more. So then I saw that the one on the left had more. It had 2 and then the one on the right had 1. So I knew that this one was bigger since it had more on the tens column. So then I just compared it using the symbol.  [00:19:49]
+tutor: [unclear]  [00:20:30]
+student: Yeah. Done. I explained it.  [00:20:32]
+tutor: Yes, that's correct, Jasper. Yes, Jasper, thank you so much for providing me an amazing explanation over there. And you do deserve a great explanation praise card from here, Jasper. Yay! Very nice job. So Jasper, how do you feel these questions for you? Do you feel comfortable enough now?  [00:20:41]
+student: Yeah.  [00:21:15]
+tutor: Okay, Jasper, so I would love to give you a very big tick.  [00:21:15]
+student: I now feel comfortable. [unclear]  [00:21:19]
+tutor: Yes, Jasper, do you have any questions?  [00:21:29]
+student: No. [unclear]  [00:21:31]
+student: Shall we try this?  [00:21:36]
+tutor: Okay. Okay. Okay.  [00:21:39]
+student: So do I need to do this?  [00:21:56]
+student: Wait, do I need to do this?  [00:22:02]
+tutor: Yes, Jasper, you can see the [unclear] slides. So there are 4 questions for you. Can you try them, Jasper?  [00:22:05]
+student: Yeah.  [00:22:12]
+tutor: Okay. [unclear]  [00:22:15]
+tutor: How much is the money?  [00:22:28]
+student: 143.  [00:22:39]
+background: The number has 200. The number has 900. The number has 600.  [00:22:40]
+student: Sorry, this one? This one is 5 and then—  [00:22:44]
+background: The number has 200.  [00:22:48]
+student: I did it.  [00:22:51]
+tutor: That's really great. Like, you just finished that very quickly, Jasper. Seems like you're becoming really great in comparing these decimal numbers. Jasper, really feeling so impressed in your work. Very good. And shall we— can you just explain me these questions and how you have got your answer very fast? Jasper? [Speaker:Jasper]... [UNCLEAR] Yes.  [00:22:54]
+tutor: OK. Which question are you going to start explaining me first? Wait, quickly.  [00:23:19]
+student: Oh, I'll do— I'll explain question D.  [00:23:24]
+tutor: Oh, that's great, that's great. Yes, you can start explaining me.  [00:23:28]
+student: OK. So I first looked at the first number, so then I saw it was both 10. It's 10.21 and there's 10.42.  [00:23:32]
+student: But I picked 10.4 since, um, because it's bigger by the tens [UNCLEAR]. [Speaker:Background] Exactly.  [00:23:45]
+student: Because it's 10 before 2.  [00:23:56]
+background: Yes. So basically, Jasper, when reading the decimal number, do you have to read as 10.21 or 10.21?  [00:23:58]
+student: I need to read it as 10.21.  [00:24:09]
+tutor: Exactly. After your decimal point, we have to read the digits individually. Therefore, 10.21 is the correct way of reading the decimal numbers. Yes, a good one. I'll give a big tick for that, okay?  [00:24:13]
+student: Okay.  [00:24:24]
+tutor: Yes, well done. Now, which question are you gonna explain me next?  [00:24:25]
+background: Uh, I'll do the C.  [00:24:32]
+tutor: Okay, here we go.  [00:24:35]
+student: So they both have 0, so then I checked, and then there's a point after, and then there's 5.6. I think that's bigger since 5 is bigger than 3.  [00:24:37]
+background: Yeah.  [00:24:51]
+tutor: Exactly. That's good, that's good. Then again, we are going to compare the tenths column. Very good, very good, Jasper. Good job. And then now what— which one, which question you're going to explain me?  [00:24:53]
+student: Um, B.  [00:25:07]
+tutor: B, that is it.  [00:25:09]
+student: Yeah, so I checked the first [unclear] and then I know that they both have 6 and then there's a point and then I checked 3 and 7 and then I know that 7 is bigger than 3 so then I know that 6.75 is bigger.  [00:25:11]
+tutor: Exactly, wow. So really happy that you are working on these questions really well. So do you— did you notice that you're trying these questions independently without my help? Did you notice that?  [00:25:30]
+student: Yes.  [00:25:44]
+background: Yeah.  [00:25:45]
+tutor: Are you happy about that?  [00:25:46]
+student: Yeah.  [00:25:48]
+tutor: Okay, and I would love to give you another praise card for your effort. So you have been focusing really well in the session and you have been trying these questions on your own. Wow. That's really, really impressive, Jasper. By the way, we have got only one slide left to complete this lesson. Let's try that slide. [unclear]  [00:25:49]
+student: Oh no.  [00:26:10]
+student: So 2, you put it in, you add that 1, so that makes 3 pounds. And then you have 7p, and you add in 20p. [unclear]  [00:26:28]
+student: If you add an extra one in, all you need to do is [unclear]  [00:26:37]
+background: I think for question 1, I think for question 1, 23 5ps would be bigger.  [00:26:42]
+tutor: Okay, so yes, I think like it's like a word problem question, right? First of all, can you tell me what you have understood from this?  [00:26:55]
+student: So for the first bit, I know that 23 5p are bigger than 20— I know that 20p— [unclear] 20p.  [00:27:05]
+tutor: Okay.  [00:27:19]
+student: Yeah.  [00:27:20]
+tutor: What is the value of 6 20ps then?  [00:27:20]
+student: 110.  [00:27:23]
+tutor: Try again. 6 20ps.  [00:27:28]
+student: 100?  [00:27:29]
+tutor: 110. 6 20ps. A very modern 20p piece. [unclear]  [00:27:33]
+background: It's 110.  [00:27:46]
+tutor: See? So basically 20, 40.  [00:27:48]
+background: Yeah, yeah. 20, 40, then 20, 40, 60.  [00:27:52]
+tutor: 20, 40, 60, 80, 80, 100.  [00:27:58]
+background: 100.  [00:28:03]
+tutor: Yeah. And then 110. Oh, I mean, I mean 110.  [00:28:04]
+background: I mean 120.  [00:28:10]
+tutor: Very good. That's 120 pieces exactly. Okay. So we'll keep that aside. And then what is 23 5-piece then?  [00:28:12]
+background: Uh, I do not know.  [00:28:23]
+tutor: I just— you want to try? You want to try?  [00:28:27]
+background: Okay. Um, 20— [unclear]  [00:28:31]
+student: Yes.  [00:28:40]
+tutor: 46.  [00:28:41]
+student: So I'm gonna do 2. [unclear]  [00:28:43]
+tutor: Oh. [unclear]  [00:28:47]
+student: And then since that was 20, I'm gonna work out the total amount from 1 times 2. [unclear]  [00:28:52]
+tutor: Wait. [unclear]  [00:29:01]
+student: 203.  [00:29:02]
+student: Then another one would be... [unclear]  [00:29:04]
+student: Yeah, so 5 p's of 23 would be 126.  [00:29:12]
+tutor: OK, so can you tell me how, what is the method you followed to figure out it's 126? I just kept on adding.  [00:29:26]
+tutor: Instead of adding the same number repeatedly, do you have any easy way?  [00:29:36]
+student: Wait, I could have timesed it.  [00:29:43]
+tutor: Exactly. Wow, that's an amazing method. Timesing, like, is an easy and less time-consuming method. Why don't you try that on the screen itself?  [00:29:45]
+background: Okay.  [00:29:57]
+tutor: I can also do that.  [00:29:58]
+student: Yeah, okay, thank you. [unclear]  [00:30:05]
+tutor: Okay, so 20, 30, 23. Okay, you're gonna multiply, right? Then—  [00:30:08]
+student: Yeah, I need to put—  [00:30:27]
+tutor: Okay, 23. Are you gonna multiply 23 times 23?  [00:30:30]
+student: Yes.  [00:30:35]
+tutor: It says 23 5-piece over here, so 23 5-piece means what you have to do. [unclear] [unclear]  [00:30:37]
+tutor: Oh, do you have to multiply 23, 23 times? So if you do this way, it's like 23 is being multiplied 23 times. Do you think that would be correct, Jasper?  [00:30:53]
+student: Yes.  [00:31:11]
+tutor: 23 being multiplied by 23 times.  [00:31:11]
+background: Yeah.  [00:31:15]
+tutor: Is the meaning of multiplying 23 by 23 itself. So do you think that would be right?  [00:31:15]
+student: [unclear]  [00:31:21]
+tutor: No. No. So they have told you here 23 5p, which means you have to multiply 23 by how many times?  [00:31:22]
+student: 23.  [00:31:35]
+tutor: 23 again. Do you think again by 23 times? Over here they have told 23 5p. That means you have to multiply 23 by 5. [unclear]  [00:31:37]
+tutor: Are they not seeing that?  [00:31:50]
+student: Yeah.  [00:31:55]
+tutor: Okay, no problem. Now let's try, right?  [00:31:55]
+student: Yeah, I'm gonna retry that. Okay, so then I do  [00:32:03]
+student: 3.  [00:32:16]
+tutor: Great. [unclear]  [00:32:20]
+student: Okay, now I get it.  [00:32:22]
+tutor: Because on 2.2, it's smaller than 2.15.  [00:32:28]
+background: That's great, Jasper. If there is any questions, you can ask me, no worries.  [00:32:34]
+student: Oh, then one more, sorry.  [00:32:40]
+tutor: Because at this point— [unclear] [Speaker:Jasper]...5 equals 10. [Speaker:Tutor] Did I get it correct? [Speaker:Background]...is... [UNCLEAR]  [00:32:42]
+tutor: Yes, Jasper. Then I think 3 times... What is 3 times 5, Jasper? What is 3 times 5?  [00:33:11]
+student: 3 times 5 is 15.  [00:33:18]
+background: 3 times 5 is 15.  [00:33:19]
+tutor: Okay, so you keep your 5 over here. Yes, you keep your 5 over here. And where do you carry your 1?  [00:33:22]
+background: I just carried it in my... [Speaker:Tutor]...carry the 1, Jasper? [Speaker:Background] I carried the 1 in my head.  [00:33:31]
+tutor: Okay, so what is 5 times 2?  [00:33:40]
+student: 5 times 2 is 10.  [00:33:44]
+tutor: Divide by 2?  [00:33:45]
+student: Wait.  [00:33:49]
+tutor: And then?  [00:33:50]
+student: Wait, I think I made a mistake.  [00:33:51]
+tutor: That's okay, that's totally fine, Jasper. What is the mistake you realize now? [unclear]  [00:33:54]
+student: I accidentally added 5.  [00:34:02]
+tutor: Okay, so it's supposed to be?  [00:34:07]
+student: It's supposed to be 1.  [00:34:10]
+tutor: Yeah, that's correct. Yeah, that's true. Exactly. All right, so write the 2 amounts in pounds and circle the great— okay, so what's the greatest amount? Is it 120p or 115p?  [00:34:11]
+student: It's 620p.  [00:34:23]
+tutor: Exactly, you're right, Jasper. So thank you so much for doing a great job today, and I'm so impressed in your work and how much you were dedicated to learn. That's really, really great, Jasper. So see you again on the next week. Have a great, great weekend. Bye-bye, Jasper. Take care. [unclear] [unclear] [Speaker:Jasper]... [UNCLEAR] [unclear] [Speaker:Jasper]... [unclear]  [00:34:29]
