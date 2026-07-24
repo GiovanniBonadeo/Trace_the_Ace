@@ -43,7 +43,7 @@ LABELS_PATH = "train_labels.csv"
 TRANSCRIPTS_DIR = "train_transcripts"  # directory containing one file per session_id
  
 # Pick which template to run. Run with --list-prompts to see all names.
-PROMPT_NAME = "A16"
+PROMPT_NAME = "B16"
  
 N_SAMPLES = 100
 RANDOM_SEED = 20260721  # fixed seed so the same 100 sessions are picked every run
